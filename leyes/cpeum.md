@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2006-04-07
+last_reform_dof: 2006-09-14
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
-archived: https://web.archive.org/web/20060715071059/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1.doc
-source_sha256: 04eaf844177227b39f8ed372db1faef82bad3d7e76e1548415dbfc801d537839
-retrieved: 2006-07-15
+archived: https://web.archive.org/web/20061107033757/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1.doc
+source_sha256: 2fd64390561bb0b33bf6129be39896ecf11f1364a7afd83ba34340aaaaa64a96
+retrieved: 2006-11-07
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada 07-04-2006
+Última reforma publicada 14-09-2006
 
 El C. Primer Jefe del Ejército Constitucionalista, encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -1674,6 +1674,8 @@ e) El equivalente al treinta y tres por ciento de los integrantes de la Asamblea
 
 f) Los partidos políticos con registro ante el Instituto Federal Electoral, por conducto de sus dirigencias nacionales, en contra de leyes electorales federales o locales; y los partidos políticos con registro estatal, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por el órgano legislativo del Estado que les otorgó el registro.
 
+g) La Comisión Nacional de los Derechos Humanos, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos consagrados en esta Constitución. Asimismo los organismos de protección de los derechos humanos equivalentes en los estados de la República, en contra de leyes expedidas por las legislaturas locales y la Comisión de Derechos Humanos del Distrito Federal, en contra de leyes emitidas por la Asamblea Legislativa del Distrito Federal.
+
 La única vía para plantear la no conformidad de las leyes electorales a la Constitución es la prevista en este artículo.
 
 Las leyes electorales federal y locales deberán promulgarse y publicarse por lo menos noventa días antes de que inicie el proceso electoral en que vayan a aplicarse, y durante el mismo no podrá haber modificaciones legales fundamentales.
@@ -3203,3 +3205,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 16 de marzo de 2006.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcela González Salas P., Presidenta.- Sen. Saúl López Sollano, Secretario.- Dip. Patricia Garduño Morales, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cinco días del mes de abril del año dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+### DECRETO por el que se adiciona el inciso g) a la fracción II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 14 de septiembre de 2006*
+
+**ARTÍCULO ÚNICO.** Se adiciona el inciso g) a la fracción II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+..........
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 23 de agosto de 2006.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Diva Hadamira Gastelum Bajo, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de septiembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
