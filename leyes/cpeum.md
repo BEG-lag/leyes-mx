@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2006-09-14
+last_reform_dof: 2006-12-04
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
-archived: https://web.archive.org/web/20061107033757/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1.doc
-source_sha256: 2fd64390561bb0b33bf6129be39896ecf11f1364a7afd83ba34340aaaaa64a96
-retrieved: 2006-11-07
+archived: https://web.archive.org/web/20070106055055/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1.doc
+source_sha256: 1b43c1918e552fdfbbb2d76ddbfbfe4f3f9ae35dc95e487129fe36e86584e311
+retrieved: 2007-01-06
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada 14-09-2006
+Últimas reformas publicadas DOF 04-12-2006
 
 El C. Primer Jefe del Ejército Constitucionalista, encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -38,7 +38,7 @@ En los Estados Unidos Mexicanos todo individuo gozará de las garantías que oto
 
 Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional alcanzarán, por este solo hecho, su libertad y la protección de las leyes.
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ##### Artículo 2o.
 
@@ -1130,7 +1130,7 @@ XXIX-F. Para expedir leyes tendientes a la promoción de la inversión mexicana,
 
 XXIX-G. Para expedir leyes que establezcan la concurrencia del Gobierno Federal, de los gobiernos de los Estados y de los Municipios, en el ámbito de sus respectivas competencias, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico.
 
-XXIX-H. Para expedir leyes que instituyan tribunales de lo contencioso-administrativo, dotados de plena autonomía para dictar sus fallos, y que tengan a su cargo dirimir las controversias que se susciten entre la administración pública federal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones;
+XXIX-H. Para expedir leyes que instituyan tribunales de lo contencioso-administrativo, dotados de plena autonomía para dictar sus fallos, y que tengan a su cargo dirimir las controversias que se susciten entre la administración pública federal y los particulares, así como para imponer sanciones a los servidores públicos por responsabilidad administrativa que determine la ley, estableciendo las normas para su organización, su funcionamiento, los procedimientos y los recursos contra sus resoluciones;
 
 XXIX-I. Para expedir leyes que establezcan las bases sobre las cuales la Federación, los estados, el Distrito Federal y los municipios, coordinarán sus acciones en materia de protección civil, y
 
@@ -3221,3 +3221,37 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 23 de agosto de 2006.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Diva Hadamira Gastelum Bajo, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de septiembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 73, fracción XXIX-H de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2006*
+
+**ARTÍCULO ÚNICO.-** Se reforma el artículo 73, fracción XXIX-H de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**Artículo Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Artículo Segundo.-** En tanto no se modifique la legislación que regula la materia de responsabilidades administrativas de los servidores públicos federales, ésta continuará rigiéndose por las disposiciones legales vigentes al momento de su aplicación.
+
+México, D.F., a 21 de noviembre de 2006.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Lilia Gpe. Merodio Reza, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas.”
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+### DECRETO por el que se reforma el Artículo 1o., Párrafo Tercero de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2006*
+
+**ARTÍCULO ÚNICO.-** Se reforma el Artículo 1o., Párrafo Tercero de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+..........
+
+**ARTÍCULO TRANSITORIO**
+
+**ÚNICO.-** La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 21 de noviembre de 2006.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Ma. Mercedez Maciel Ortiz, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas.”
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
