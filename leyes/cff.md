@@ -3,12 +3,12 @@ title: Código Fiscal de la Federación
 abbreviation: CFF
 slug: cff
 published_dof: 1981-12-31
-last_reform_dof: 2006-07-18
+last_reform_dof: 2006-12-27
 articles: 354
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/8.doc
-archived: https://web.archive.org/web/20061107034659/http://www.diputados.gob.mx:80/LeyesBiblio/doc/8.doc
-source_sha256: aa27e81dfa9966752eada1c260c3c231385bd560569d88073543da11ac10beab
-retrieved: 2006-11-07
+archived: https://web.archive.org/web/20070117063625/http://www.diputados.gob.mx:80/LeyesBiblio/doc/8.doc
+source_sha256: 904dadccef858c06c552c8733c5ea1ff131d508c7edfcb33da65d3aa1e87eba5
+retrieved: 2007-01-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 31 de diciembr
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 18-07-2006
+Última reforma publicada DOF 27-12-2006
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -852,9 +852,9 @@ Los contribuyentes obligados al pago del impuesto sobre la renta en los término
 
 ##### Artículo 27.
 
-Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o que estén obligadas a expedir comprobantes por las actividades que realicen, deberán solicitar su inscripción en el registro federal de contribuyentes del Servicio de Administración Tributaria, proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos que se establecen en el Reglamento de este Código. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al registro federal de contribuyentes su domicilio fiscal; en el caso de cambio de domicilio fiscal, deberán presentar el aviso correspondiente, dentro del mes siguiente al día en que tenga lugar dicho cambio salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 50 de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquél en que se verifique alguno de los supuestos establecidos en el artículo 10 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
+Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o que estén obligadas a expedir comprobantes por las actividades que realicen, deberán solicitar su inscripción en el registro federal de contribuyentes del Servicio de Administración Tributaria y su certificado de firma electrónica avanzada, así como proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos que se establecen en el Reglamento de este Código. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al registro federal de contribuyentes su domicilio fiscal; en el caso de cambio de domicilio fiscal, deberán presentar el aviso correspondiente, dentro del mes siguiente al día en el que tenga lugar dicho cambio salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 50 de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquél en el que se verifique alguno de los supuestos establecidos en el artículo 10 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
 
-Asimismo, deberán solicitar su inscripción en el registro federal de contribuyentes y presentar los avisos que señale el Reglamento de este Código, los socios y accionistas de las personas morales a que se refiere el párrafo anterior, salvo los miembros de las personas morales con fines no lucrativos a que se refiere el Título III de la Ley del Impuesto sobre la Renta, así como las personas que hubiesen adquirido sus acciones a través de mercados reconocidos o de amplia bursatilidad y dichas acciones se consideren colocadas entre el gran público inversionista, siempre que, en este último supuesto, el socio o accionista no hubiere solicitado su registro en el libro de socios y accionistas.
+Asimismo, deberán solicitar su inscripción en el registro federal de contribuyentes y su certificado de firma electrónica avanzada, así como presentar los avisos que señale el Reglamento de este Código, los socios y accionistas de las personas morales a que se refiere el párrafo anterior, salvo los miembros de las personas morales con fines no lucrativos a que se refiere el Título III de la Ley del Impuesto sobre la Renta, así como las personas que hubiesen adquirido sus acciones a través de mercados reconocidos o de amplia bursatilidad y dichas acciones se consideren colocadas entre el gran público inversionista, siempre que, en este último supuesto, el socio o accionista no hubiere solicitado su registro en el libro de socios y accionistas.
 
 Las personas morales cuyos socios o accionistas deban inscribirse conforme al párrafo anterior, anotarán en el libro de socios y accionistas la clave del registro federal de contribuyentes de cada socio y accionista y, en cada acta de asamblea, la clave de los socios o accionistas que concurran a la misma. Para ello, la persona moral se cerciorará de que el registro proporcionado por el socio o accionista concuerde con el que aparece en la cédula respectiva.
 
@@ -1042,7 +1042,13 @@ La documentación a que se refiere el párrafo anterior de este artículo y la c
 
 Los documentos con firma electrónica avanzada o sello digital, deberán conservarse de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 
+En el caso de que la autoridad fiscal esté ejerciendo facultades de comprobación respecto de ejercicios fiscales en los que se disminuyan pérdidas fiscales de ejercicios anteriores, los contribuyentes deberán proporcionar la documentación que acredite el origen y procedencia de la pérdida fiscal, independientemente del ejercicio en el que se haya originado la misma. El particular no estará obligado a proporcionar la documentación antes solicitada cuando con anterioridad al ejercicio de las facultades de comprobación, la autoridad fiscal haya ejercido dichas facultades en el ejercicio en las que se generaron las pérdidas fiscales de las que se solicita su comprobación.
+
 Las personas que dictaminen sus estados financieros por contador público autorizado en los términos del artículo 52 de este Código, podrán microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice el Servicio de Administración Tributaria, mediante reglas de carácter general, la parte de su contabilidad que señale el reglamento, en cuyo caso, los microfilms, discos ópticos y cualquier otro medio que autorice dicho Servicio, mediante reglas de carácter general tendrán el mismo valor que los originales, siempre que cumplan con los requisitos que al respecto establezca el citado Reglamento; tratándose de personas morales, el presidente del consejo de administración o en su defecto la persona física que la dirija, serán directamente responsables de su cumplimiento. Asimismo, el propio Servicio de Administración Tributaria podrá autorizar mediante disposiciones de carácter general procedimientos que faciliten a los contribuyentes el cumplimiento de las obligaciones a que se refiere este artículo.
+
+El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá autorizar a los contribuyentes distintos a los mencionados en el párrafo anterior, el ejercicio de la opción a que se refiere dicho párrafo. Para ello el Servicio de Administración Tributaria determinará la parte de la contabilidad que se podrá grabar o microfilmar, así como los requisitos que se deberán cumplir para tal efecto.
+
+La información proporcionada por el contribuyente solo podrá ser utilizada por las autoridades fiscales en el supuesto de que la determinación de las perdidas fiscales no coincida con los hechos manifestados en las declaraciones presentadas para tales efectos
 
 Cuando al inicio de una visita domiciliaria los contribuyentes hubieran omitido asentar registros en su contabilidad dentro de los plazos establecidos en las disposiciones fiscales, dichos registros sólo podrán efectuarse después de que la omisión correspondiente haya sido asentada en acta parcial; esta obligación subsiste inclusive cuando las autoridades hubieran designado un depositario distinto del contribuyente, siempre que la contabilidad permanezca en alguno de sus establecimientos. El contribuyente deberá seguir llevando su contabilidad independientemente de lo dispuesto en este párrafo.
 
@@ -1242,6 +1248,12 @@ Para estos efectos, en el convenio se establecerá que las dependencias antes ci
 
 Igual obligación tendrán las entidades federativas cuando realicen dichas contrataciones con cargo total o parcial a fondos federales.
 
+Los particulares tendrán derecho al otorgamiento de subsidios o estímulos previstos en los ordenamientos aplicables, siempre que no se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Federal de Contribuyentes.
+
+Las entidades y dependencias que tengan a su cargo la aplicación de subsidios o estímulos deberán abstenerse de aplicarlos a las personas que se ubiquen en los supuestos previstos en las fracciones del presente articulo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Federal de Contribuyentes.
+
+Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y que se ubiquen en los supuestos de las fracciones I y II de este artículo, no se consideran comprendidos en dichos supuestos cuando celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo. Cuando se ubiquen en los supuestos de las fracciones III y IV, los particulares contarán con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquél en que la autoridad les notifique la irregularidad detectada.
+
 ##### Artículo 32-E.
 
 Las casas de bolsa deberán expedir los estados de cuenta a que se refiere el artículo 29-C de este Código, con los requisitos que al efecto emita el Servicio de Administración Tributaria mediante reglas de carácter general.
@@ -1318,17 +1330,23 @@ Lo previsto en este artículo no constituye instancia, ni interrumpe ni suspende
 
 ##### Artículo 34.
 
-Las autoridades fiscales sólo están obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente, siempre y cuando las mismas no sean materia de medios de defensa administrativos o jurisdiccionales, interpuestos por los propios interesados. De la resolución favorable de las consultas se derivan derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito por autoridad competente para ello.
+Las autoridades fiscales sólo estarán obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente.
 
-Las autoridades fiscales no resolverán las consultas efectuadas por los particulares cuando las mismas versen sobre la interpretación o aplicación directa de la Constitución. En estos casos, no procederá la negativa ficta a que se refiere el primer párrafo del artículo 37 de este Código.
+La autoridad quedará obligada a aplicar los criterios contenidos en la contestación a la consulta de que se trate, siempre que se cumpla con lo siguiente:
 
-La validez de las resoluciones que recaigan sobre las consultas aplicables a residentes en el extranjero podrán estar condicionadas al cumplimiento de requisitos de información que se soliciten por las autoridades fiscales en las citadas resoluciones.
+I. Que la consulta comprenda los antecedentes y circunstancias necesarias para que la autoridad se pueda pronunciar al respecto.
 
-Cuando durante el ejercicio de las facultades de comprobación de las autoridades fiscales, los interesados presenten consultas en los términos de este artículo, relacionadas con las disposiciones fiscales cuyo cumplimiento sea materia del ejercicio de dichas facultades, el plazo para resolver las consultas se suspenderá desde la fecha en que se presenten las mismas y hasta la fecha en que se notifique la resolución a que se refiere el artículo 50 de este Código o venza el plazo a que se refiere el mismo.
+II. Que los antecedentes y circunstancias que originen la consulta no se hubieren modificado posteriormente a su presentación ante la autoridad.
 
-En el caso de que se haya emitido la resolución a que se refiere el artículo 50 de este Código, se entenderá que mediante dicha resolución se resuelve la consulta, siempre que se refiera a la situación real y concreta que haya sido planteada en la consulta.
+III. Que la consulta se formule antes de que la autoridad ejerza sus facultades de comprobación respecto de las situaciones reales y concretas a que se refiere la consulta.
 
-El Servicio de Administración Tributaria publicará mensualmente un extracto de las principales resoluciones favorables a los contribuyentes a que se refiere este artículo, debiendo cumplir con lo dispuesto en el artículo 69 de este Código.
+La autoridad no quedará vinculada por la respuesta otorgada a las consultas realizadas por los contribuyentes cuando los términos de la consulta no coincidan con la realidad de los hechos o datos consultados o se modifique la legislación aplicable.
+
+Las respuestas recaídas a las consultas a que se refiere este artículo no serán obligatorias para los particulares, por lo cual éstos podrán impugnar, a través de los medios de defensa establecidos en las disposiciones aplicables, las resoluciones definitivas en las cuales la autoridad aplique los criterios contenidos en dichas respuestas.
+
+Las autoridades fiscales deberán contestar las consultas que formulen los particulares en un plazo de tres meses contados a partir de la fecha de presentación de la solicitud respectiva.
+
+El Servicio de Administración Tributaria publicará mensualmente un extracto de las principales resoluciones favorables a los contribuyentes a que se refiere este artículo, debiendo cumplir con lo dispuesto por el artículo 69 de este Código.
 
 ##### Artículo 34-A.
 
@@ -1474,6 +1492,10 @@ VIII.- Allegarse las pruebas necesarias para formular la denuncia, querella o de
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
+En el caso de que la autoridad fiscal esté ejerciendo las facultades de comprobación previstas en las fracciones II, III y IV de este artículo y en el ejercicio revisado se disminuyan pérdidas fiscales, se podrá requerir al contribuyente dentro del mismo acto de comprobación la documentación comprobatoria que acredite de manera fehaciente el origen y procedencia de la pérdida fiscal, independientemente del ejercicio en que se haya originado la misma, sin que dicho requerimiento se considere como un nuevo acto de comprobación.
+
+La revisión que de las pérdidas fiscales efectúen las autoridades fiscales sólo tendrá efectos para la determinación del resultado del ejercicio sujeto a revisión.
+
 ##### Artículo 42-A.
 
 Las autoridades fiscales podrán solicitar de los contribuyentes, responsables solidarios o terceros, datos, informes o documentos, para planear y programar actos de fiscalización, sin que se cumpla con lo dispuesto por las fracciones IV a IX del artículo 48 de este Código.
@@ -1576,7 +1598,11 @@ VI.- Si en el cierre del acta final de la visita no estuviere presente el visita
 
 VII.- Las actas parciales se entenderá que forman parte integrante del acta final de la visita aunque no se señale así expresamente.
 
-Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones o aprovechamientos.
+VIII. Cuando de la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables, que pudieran afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez, reponer el procedimiento, a partir de la violación formal cometida.
+
+Lo señalado en la fracción anterior, será sin perjuicio de la responsabilidad en que pueda incurrir el servidor público que motivó la violación.
+
+Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden. En el caso de que las facultades de comprobación se refieran a las mismas contribuciones, aprovechamientos y periodos, sólo se podrá efectuar la determinación del crédito fiscal correspondiente cuando se comprueben hechos diferentes a los ya revisados. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad o en los datos aportados por los particulares en las declaraciones complementarias que se presenten.
 
 ##### Artículo 46-A.
 
@@ -1597,6 +1623,10 @@ II. Fallecimiento del contribuyente, hasta en tanto se designe al representante 
 III. Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice.
 
 IV. Cuando el contribuyente no atienda el requerimiento de datos, informes o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses. En el caso de dos o más solicitudes de información, se sumarán los distintos periodos de suspensión y en ningún caso el periodo de suspensión podrá exceder de un año.
+
+V. Tratándose de la fracción VIII del artículo anterior, el plazo se suspenderá a partir de que la autoridad informe al contribuyente la reposición del procedimiento.
+
+Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento.
 
 Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, los contribuyentes interponen algún medio de defensa en el país o en el extranjero contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
 
@@ -1730,7 +1760,7 @@ II. Habiéndose requerido al contador público que haya formulado el dictamen la
 
 III. Las autoridades fiscales podrán, en cualquier tiempo, solicitar a los terceros relacionados con el contribuyente o responsables solidarios, la información y documentación para verificar si son ciertos los datos consignados en el dictamen y en los demás documentos, en cuyo caso, la solicitud respectiva se hará por escrito, notificando copia de la misma al contribuyente.
 
-Fracción IV (Se deroga)
+IV. (Se deroga)
 
 La visita domiciliaria o el requerimiento de información que se realice a un contribuyente que dictamine sus estados financieros en los términos de este Código, cuyo único propósito sea el obtener información relacionada con un tercero, no se considerará revisión de dictamen.
 
@@ -1738,9 +1768,11 @@ Ultimo párrafo (Se deroga)
 
 El plazo a que se refiere el segundo párrafo de la fracción I de este artículo es independiente del que se establece en el artículo 46-A de este Código.
 
-Las facultades de comprobación a que se refiere este artículo, se podrán ejercer sin perjuicio de lo dispuesto en el último párrafo del artículo 42 de este Código.
+Las facultades de comprobación a que se refiere este artículo, se podrán ejercer sin perjuicio de lo dispuesto en el antepenúltimo párrafo del artículo 42 de este Código.
 
 Para el ejercicio de las facultades de comprobación de las autoridades fiscales, no se deberá observar el orden establecido en este artículo, cuando en el dictamen exista abstención de opinión, opinión negativa o salvedades que tengan implicaciones fiscales, tampoco se seguirá el mencionado orden en el caso de que se determinen diferencias de impuestos a pagar y éstos no se enteren de conformidad con lo dispuesto en el penúltimo párrafo del artículo 32-A de este Código.
+
+Tratándose de la revisión de pagos provisionales o mensuales, sólo se aplicará el orden establecido en este artículo, respecto de aquellos comprendidos en los periodos por los cuales ya se hubiera presentado el dictamen.
 
 ##### Artículo 53.
 
@@ -2166,7 +2198,7 @@ VI. En el caso de que la multa se pague dentro de los 45 días siguientes a la f
 
 ##### Artículo 76.
 
-Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, excepto tratándose de contribuciones al comercio exterior, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades, se aplicará una multa del 75% al 100% de las contribuciones omitidas.
+Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, excepto tratándose de contribuciones al comercio exterior, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades, se aplicará una multa del 55% al 75% de las contribuciones omitidas.
 
 Cuando el infractor pague las contribuciones omitidas junto con sus accesorios después de que se inicie el ejercicio de las facultades de comprobación de las autoridades fiscales y hasta antes de que se le notifique el acta final de la visita domiciliaria o el oficio de observaciones a que se refiere la fracción VI del artículo 48 de este Código, según sea el caso, se aplicará la multa establecida en el artículo 17, primer párrafo de la Ley Federal de los Derechos del Contribuyente.
 
@@ -3314,7 +3346,7 @@ Las notificaciones de los actos administrativos se harán:
 
 I. Personalmente o por correo certificado o mensaje de datos con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
 
-En el caso de notificaciones por documento digital, podrán realizarse en la página de Internet del Servicio de Administración Tributaria o mediante correo electrónico, conforme las reglas de carácter general que para tales efectos establezca el Servicio de Administración Tributaria.
+En el caso de notificaciones por documento digital, podrán realizarse en la página de Internet del Servicio de Administración Tributaria o mediante correo electrónico, conforme las reglas de carácter general que para tales efectos establezca el Servicio de Administración Tributaria. La facultad mencionada podrá también ser ejercida por los organismos fiscales autónomos.
 
 El acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al abrir el documento digital que le hubiera sido enviado. Para los efectos de este párrafo, se entenderá como firma electrónica del particular notificado, la que se genere al utilizar la clave de seguridad que el Servicio de Administración Tributaria le proporcione.
 
@@ -3556,7 +3588,7 @@ Tratándose de créditos fiscales a cargo de cualquier entidad paraestatal de la
 
 I. Que exista dictamen de auditor externo en el que se manifieste que la entidad no sea titular de activo alguno con el que sea posible ejecutar el cobro total o parcial de los créditos, excluyendo aquellos que se encuentren afectos mediante garantía real al pago de obligaciones que se encuentren firmes y que sean preferentes a las fiscales federales en términos de lo dispuesto por este Código.
 
-II. El Servicio de Administración y Enajenación de Bienes deberá informar al Servicio de Administración Tributaria de la actualización de la hipótesis prevista en la fracción anterior.
+II. El Servicio de Administración y Enajenación de Bienes deberá informar a las autoridades fiscales de la actualización de la hipótesis prevista en la fracción anterior.
 
 Cumplido lo anterior los créditos fiscales quedarán cancelados de las cuentas públicas.
 
@@ -5745,3 +5777,29 @@ La regulación y la autorización otorgada de acuerdo a los párrafos anteriores
 México, D.F., a 27 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de julio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación; de las leyes de los Impuestos sobre la Renta, al Activo y Especial sobre Producción y Servicios; de la Ley Federal del Impuesto sobre Automóviles Nuevos y de la Ley Federal de Procedimiento Contencioso Administrativo.
+
+*Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2006*
+
+CÓDIGO FISCAL DE LA FEDERACIÓN
+
+**ARTÍCULO PRIMERO.** Se REFORMAN los artículos 27, primero y segundo párrafos; 34; 46, último párrafo; 52-A, actual penúltimo párrafo, y 76, primer párrafo; 134, fracción I, segundo párrafo y 146-C, fracción II y se ADICIONAN los artículos 30, con un quinto, séptimo y octavo párrafos, pasando el actual quinto párrafo a ser sexto párrafo, y los actuales sexto, séptimo y octavo párrafos a ser noveno, décimo y décimo primer párrafos; 32-D, con un quinto, sexto y séptimo párrafos; 42, con un tercero y cuarto párrafos; 46, con una fracción VIII; 46-A, con una fracción V, y 52-A, con un último párrafo, del Código Fiscal de la Federación, para quedar de la siguiente manera:
+
+..........
+
+Disposición Transitoria del Código Fiscal de la Federación
+
+**ARTÍCULO SEGUNDO.** En el supuesto de que los particulares soliciten y manifiesten su conformidad ante el Servicio de Administración Tributaria, éste último estará facultado para revocar las respuestas favorables recaídas a las consultas emitidas conforme al artículo 34 del Código Fiscal de la Federación vigente hasta antes de la entrada en vigor del presente decreto y que hayan sido notificadas antes de la citada fecha.
+
+La revocación realizada en términos de este artículo no tendrá efectos retroactivos.
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
+
+**Segundo.** Los contribuyentes que hayan causado el impuesto especial sobre producción y servicios de conformidad con lo dispuesto en el artículo 2o., fracción I, incisos G) y H) de la Ley del Impuesto Especial sobre Producción y Servicios, vigente antes de la entrada en vigor del presente Decreto, deberán cumplir con las obligaciones correspondientes a dicho impuesto en las formas y plazos establecidos en las disposiciones vigentes antes de la entrada en vigor de este Decreto.
+
+México, D.F., a 21 de diciembre de 2006.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Antonio Xavier Lopez Adame, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
