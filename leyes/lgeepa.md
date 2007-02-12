@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2006-05-23
+last_reform_dof: 2007-02-12
 articles: 260
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
-archived: https://web.archive.org/web/20070211231102/http://www.diputados.gob.mx:80/LeyesBiblio/doc/148.doc
-source_sha256: c820f8c5605d007443a5ff0e58b9b1f696f19e27eb30efa577e8bda4f8e36412
-retrieved: 2007-02-11
+archived: https://web.archive.org/web/20070219120702/http://www.diputados.gob.mx:80/LeyesBiblio/doc/148.doc
+source_sha256: a4ceaadc2381c01eb43cdf550da99cc19ef9dcbdc8b78ed2ae0b146052480fba
+retrieved: 2007-02-19
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,7 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 23-05-2006
+Última reforma publicada DOF 12-02-2007
+
+> Nota: Los artículos 19, fracción VI; 20 BIS 2, párrafo tercero; y 51 de esta Ley, adicionados y reformados por Decreto publicado en el Diario Oficial de la Federación el 12 de febrero de 2007, entrarán en vigor el 11 de agosto de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -546,11 +548,17 @@ II. La vocación de cada zona o región, en función de sus recursos naturales, 
 
 III. Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales;
 
-IV. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales; y
+IV. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales;
 
-V.- El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades.
+*Fracción reformada DOF 12-02-2007*
 
-*Fracción reformada DOF 13-12-1996*
+V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades, y
+
+*Fracción reformada DOF 13-12-1996, 12-02-2007*
+
+VI.- Las modalidades que de conformidad con la presente Ley, establezcan los decretos por los que se constituyan las áreas naturales protegidas, así como las demás disposiciones previstas en el programa de manejo respectivo, en su caso.
+
+*Fracción adicionada DOF 12-02-2007*
 
 ##### ARTÍCULO 19 BIS.
 
@@ -595,6 +603,10 @@ Las entidades federativas y los municipios podrán participar en las consultas y
 Los Gobiernos de los Estados y del Distrito Federal, en los términos de las leyes locales aplicables, podrán formular y expedir programas de ordenamiento ecológico regional, que abarquen la totalidad o una parte del territorio de una entidad federativa.
 
 Cuando una región ecológica se ubique en el territorio de dos o más entidades federativas, el Gobierno Federal, el de los Estados y Municipios respectivos, y en su caso el del Distrito Federal, en el ámbito de sus competencias, podrán formular un programa de ordenamiento ecológico regional. Para tal efecto, la Federación celebrará los acuerdos o convenios de coordinación procedentes con los gobiernos locales involucrados.
+
+Cuando un programa de ordenamiento ecológico regional incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa deberá ser elaborado y aprobado en forma conjunta por la Secretaría y los gobiernos de los Estados, el Distrito Federal y Municipios en que se ubique, según corresponda.
+
+*Párrafo adicionado DOF 12-02-2007*
 
 *Artículo adicionado DOF 13-12-1996*
 
@@ -1304,15 +1316,15 @@ En los parques nacionales sólo podrá permitirse la realización de actividades
 
 ##### ARTÍCULO 51.
 
-Para los fines señalados en el artículo anterior, así como para proteger y preservar los ecosistemas marinos y regular el aprovechamiento sustentable de la flora y fauna acuática, se establecerán parques nacionales en las zonas marinas mexicanas, que podrán incluir la zona federal marítimo terrestre contigua.
+Para los fines señalados en el presente Capítulo, así como para proteger y preservar los ecosistemas marinos y regular el aprovechamiento sustentable de la flora y fauna acuática, en las zonas marinas mexicanas, que podrán incluir la zona federal marítimo terrestre contigua, se podrán establecer áreas naturales protegidas de los tipos a que se refieren las fracciones I, III, IV, VII y VIII del artículo 46, atendiendo a las características particulares de cada caso.
 
-En estas áreas sólo se permitirán actividades relacionadas con la preservación de los ecosistemas acuáticos y sus elementos, las de investigación, repoblación, recreación y educación ecológica, así como los aprovechamientos de recursos naturales que procedan, de conformidad con lo que disponen esta Ley, la Ley de Pesca, la Ley Federal del Mar, las convenciones internacionales de las que México sea parte y los demás ordenamientos aplicables.
+En estas áreas se permitirán y, en su caso, se restringirán o prohibirán las actividades o aprovechamientos que procedan, de conformidad con lo que disponen esta Ley, la Ley de Pesca, la Ley Federal del Mar, las convenciones internacionales de las que México sea parte y las demás disposiciones jurídicas aplicables.
 
-Las autorizaciones, concesiones o permisos para el aprovechamiento de los recursos naturales en estas áreas, así como el tránsito de embarcaciones en la zona o la construcción o utilización de infraestructura dentro de la misma, quedarán sujetas a lo que dispongan las declaratorias correspondientes.
+Las autorizaciones, concesiones o permisos para el aprovechamiento de los recursos naturales en estas áreas, así como el tránsito de embarcaciones en la zona o la construcción o utilización de infraestructura dentro de la misma, quedarán sujetas a lo que dispongan los Programas de Manejo y las declaratorias correspondientes.
 
-Para el establecimiento, administración y vigilancia de los parques nacionales establecidos en las zonas marinas mexicanas, así como para la elaboración de su programa de manejo, se deberán coordinar, atendiendo a sus respectivas competencias, la Secretaría y la Secretaría de Marina.
+Para el establecimiento, administración y vigilancia de las áreas naturales protegidas establecidas en las zonas marinas mexicanas, así como para la elaboración de su programa de manejo, se deberán coordinar, atendiendo a sus respectivas competencias, la Secretaría y la Secretaría de Marina.
 
-*Artículo reformado DOF 13-12-1996*
+*Artículo reformado DOF 13-12-1996, 12-02-2007*
 
 ##### ARTÍCULO 52.
 
@@ -3573,3 +3585,27 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 19 de abril de 2006.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcela González Salas P., Presidenta.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Patricia Garduño Morales, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+### DECRETO por el que se adiciona una fracción VI al artículo 19; un párrafo tercero al artículo 20 BIS 2; y modifica el artículo 51 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 12 de febrero de 2007*
+
+**Artículo Primero.-** Se adiciona una fracción VI al artículo 19 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+..........
+
+**Artículo Segundo.-** Se adiciona un párrafo tercero al artículo 20 BIS 2, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+..........
+
+**Artículo Tercero.-** Se reforma el texto del artículo 51 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+..........
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor a los 180 días siguientes a su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 21 de diciembre de 2006.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. Jose Gildardo Guerrero Torres, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de febrero de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
