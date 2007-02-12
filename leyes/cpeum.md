@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2006-12-04
+last_reform_dof: 2007-02-12
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
-archived: https://web.archive.org/web/20070106055055/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1.doc
-source_sha256: 1b43c1918e552fdfbbb2d76ddbfbfe4f3f9ae35dc95e487129fe36e86584e311
-retrieved: 2007-01-06
+archived: https://web.archive.org/web/20070219120830/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1.doc
+source_sha256: 87e514fe3c738eb4783d60b36dbf8f83b2bde4a2a560721185cae7049bbd35b9
+retrieved: 2007-02-19
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 04-12-2006
+Última reforma publicada DOF 12-02-2007
 
 El C. Primer Jefe del Ejército Constitucionalista, encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -1188,7 +1188,9 @@ La Cámara de Diputados, al aprobar el Presupuesto de Egresos, no podrá dejar d
 
 Son facultades exclusivas del Senado:
 
-I. Analizar la política exterior desarrollada por el Ejecutivo Federal con base en los informes anuales que el Presidente de la República y el Secretario del Despacho correspondiente rindan al Congreso; además, aprobar los tratados internacionales y convenciones diplomáticas que celebre el Ejecutivo de la Unión.
+I. Analizar la política exterior desarrollada por el Ejecutivo Federal con base en los informes anuales que el Presidente de la República y el Secretario del Despacho correspondiente rindan al Congreso.
+
+Además, aprobar los tratados internacionales y convenciones diplomáticas que el Ejecutivo Federal suscriba, así como su decisión de terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos;
 
 II. Ratificar los nombramientos que el mismo funcionario haga del Procurador General de la República, Ministros, agentes diplomáticos, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga;
 
@@ -1364,7 +1366,7 @@ VIII. Declarar la guerra en nombre de los Estados Unidos Mexicanos, previa ley d
 
 IX. Designar, con ratificación del Senado, al Procurador General de la República;
 
-X. Dirigir la política exterior y celebrar tratados internacionales, sometiéndolos a la aprobación del Senado. En la conducción de tal política, el titular del Poder Ejecutivo observará los siguientes principios normativos: la autodeterminación de los pueblos; la no intervención; la solución pacífica de controversias; la proscripción de la amenaza o el uso de la fuerza en las relaciones internacionales; la igualdad jurídica de los Estados; la cooperación internacional para el desarrollo; y la lucha por la paz y la seguridad internacionales.
+X. Dirigir la política exterior y celebrar tratados internacionales, así como terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos, sometiéndolos a la aprobación del Senado. En la conducción de tal política, el titular del Poder Ejecutivo observará los siguientes principios normativos: la autodeterminación de los pueblos; la no intervención; la solución pacífica de controversias; la proscripción de la amenaza o el uso de la fuerza en las relaciones internacionales; la igualdad jurídica de los Estados; la cooperación internacional para el desarrollo; y la lucha por la paz y la seguridad internacionales;
 
 XI. Convocar al Congreso a sesiones extraordinarias, cuando lo acuerde la Comisión Permanente.
 
@@ -3255,3 +3257,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 21 de noviembre de 2006.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Ma. Mercedez Maciel Ortiz, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas.”
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 76 fracción I, y el artículo 89 fracción X, de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 12 de febrero de 2007*
+
+**Artículo Único.-** Se reforma el artículo 76 fracción I; y el artículo 89 fracción X de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+..........
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 17 de enero de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Dip. Miguel Angel Peña Sanchez, Secretario.- Sen. Ricardo Fidel Pacheco Rodriguez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de febrero de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
