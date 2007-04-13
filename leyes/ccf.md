@@ -3,12 +3,12 @@ title: Código Civil Federal
 abbreviation: CCF
 slug: ccf
 published_dof: 1928-05-26
-last_reform_dof: 2004-12-31
+last_reform_dof: 2007-04-13
 articles: 3101
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/2.doc
-archived: https://web.archive.org/web/20070309170906/http://www.diputados.gob.mx:80/LeyesBiblio/doc/2.doc
-source_sha256: a7164b1ce1b1d1ef8a3d7a8a30ea7a43e1ba008e34bacfb22da009a58b6e42c5
-retrieved: 2007-03-09
+archived: https://web.archive.org/web/20070609115916/http://www.diputados.gob.mx/LeyesBiblio/doc/2.doc
+source_sha256: a9c77638d730a908f02ef1b0eb8033b79dd9fca00d9645e799d1aaa17287ca70
+retrieved: 2007-06-09
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccf.htm
 ---
 
@@ -20,7 +20,7 @@ los días 26 de mayo, 14 de julio, 3 y 31 de agosto de 1928
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 31-12-2004
+Última reforma publicada DOF 13-04-2007
 
 El C. Presidente Constitucional de la República se ha servido dirigirme el decreto que sigue:
 
@@ -9552,11 +9552,27 @@ El monto de la indemnización lo determinará el juez tomando en cuenta los dere
 
 Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
 
+Estarán sujetos a la reparación del daño moral de acuerdo a lo establecido por este ordenamiento y, por lo tanto, las conductas descritas se considerarán como hechos ilícitos:
+
+I. El que comunique a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien;
+
+II. El que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso, o es inocente la persona a quien se imputa;
+
+III. El que presente denuncias o querellas calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido, y
+
+IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
+
+La reparación del daño moral con relación al párrafo e incisos anteriores deberá contener la obligación de la rectificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y la misma circulación o audiencia a que fue dirigida la información original, esto sin menoscabo de lo establecido en el párrafo quinto del presente artículo.
+
+La reproducción fiel de información no da lugar al daño moral, aun en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre y cuando se cite la fuente de donde se obtuvo.
+
 ###### Artículo 1916 Bis.
 
 No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o. de la Constitución General de la República.
 
 En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
+
+En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
 
 ###### Artículo 1917.
 
@@ -15628,25 +15644,19 @@ México, a 30 de agosto de 1928. - El Secretario de Estado y del Despacho de Gob
 
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
-### DECRETO por el que se modifican los artículos transitorios del Diverso por el que se reforman el Código Civil para el Distrito Federal en materia común y para toda la República en materia Federal, el Código de Procedimientos Civiles del Distrito Federal y la Ley Federal de Protección al Consumidor, publicado el 21 de julio de 1993.
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal; Código de Procedimientos Civiles para el Distrito Federal y Ley Federal de Protección al Consumidor.
 
 *Publicado en el Diario Oficial de la Federación el 21 de julio de 1993*
 
-**Artículo Primero.-** Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
+**ARTICULO PRIMERO.-** Se reforman los artículos 2398, segundo párrafo; 2406; 2412, fracción I; 2447; 2448; 2448-B; 2448-C; 2448-J; 2448-K; 2478; 2484; 2487; 2489, fracción I; y 2490; se adiciona el artículo 2489 con las fracciones IV y V; y se derogan los artículos 2407; 2448-D, segundo párrafo; 2448-I; 2448-L; 2449; 2450; 2451; 2452; 2453; 2485; 2486; 2488; 2491; 2494; y 3042, último párrafo del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, para quedar como sigue:
 
-**Artículo Segundo.-** Las disposiciones contenidas en el presente decreto, no serán aplicables a los contratos de arrendamiento celebrados con anterioridad a la entrada en vigor del mismo.
+..........
 
-**Artículo Tercero.-** Los juicios y procedimientos judiciales y administrativos actualmente en trámite, así como los que se inicien antes del 19 de abril de 1999 derivados de contratos de arrendamiento de inmuebles para habitación y sus prórrogas, que no se encuentren en los supuestos establecidos en el transitorio anterior, se regirán hasta su conclusión, por las disposiciones del Código de procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, vigentes con anterioridad al 19 de octubre de 1993.
+**TRANSITORIOS**
 
-México, D.F., a 14 de julio de 1993.- Dip. Juan Ramiro Robledo Ruiz, Presidente.- Sen Mauricio Valdés Rodríguez, Presidente.- Dip. Luis Moreno Bustamante. Secretario.- Sen Gustavo Salinas Iñiguez, Secretario.- Rúbricas.
+**PRIMERO.-** Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de octubre de 1998, salvo lo dispuesto por los transitorios siguientes.
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de julio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
-
-REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 23 DE SEPTIEMBRE DE 1993.
-
-**Artículo Primero.-** Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de octubre de 1998, salvo lo dispuesto por los transitorios siguientes.
-
-**Artículo Segundo.-** Las disposiciones del presente decreto se aplicarán a partir del 19 de octubre de 1993, únicamente cuando se trate de inmuebles que:
+**SEGUNDO.-** Las disposiciones del presente decreto se aplicarán a partir del 19 de octubre de 1993, únicamente cuando se trate de inmuebles que:
 
 I.- No se encuentren arrendados al 19 de octubre de 1993;
 
@@ -15654,49 +15664,177 @@ II.- Se encuentren arrendados al 19 de octubre de 1993, siempre que sean para us
 
 III.- Su construcción sea nueva, siempre que el aviso de terminación sea posterior al 19 de octubre de 1993.
 
-**Artículo Tercero.-** Los juicios y procedimientos judiciales y administrativos actualmente en trámite, así como los que se inicien antes del 19 de octubre de 1998 derivados de contratos de arrendamiento de inmuebles para habitación y sus prórrogas que no se encuentren en los supuestos establecidos en el transitorio anterior, se regirán hasta su conclusión, por las disposiciones del Código de Procedimientos civiles para el Distrito Federal y de la Ley Federal de Protección al consumidor vigentes con anterioridad al 19 de octubre de 1993.
+**TERCERO.-** Los juicios y procedimientos judiciales y administrativos actualmente en trámite, así como los que se inicien antes del 19 de octubre de 1998 derivados de contratos de arrendamiento de inmuebles para habitación y sus prórrogas que no se encuentren en los supuestos establecidos en el transitorio anterior, se regirán hasta su conclusión, por las disposiciones del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, vigentes con anterioridad al 19 de octubre de 1993.
 
-PUBLICACION EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 17 DE ABRIL DE 1999.
+México, D.F., a 14 de julio de 1993.- Dip. Juan Ramiro Robledo Ruiz, Presidente.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. Luis Moreno Bustamante, Secretario.- Sen. Gustavo Salinas Iñiguez, Secretario.- Rúbricas."
 
-LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de julio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
-(Al margen superior izquierdo un escudo que dice: Ciudad de México .- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
+### DECRETO por el que se modifican los artículos transitorios del Diverso por el que se reforman el Código Civil para el Distrito Federal en materia común y para toda la República en materia Federal, el Código de Procedimientos Civiles del Distrito Federal y la Ley Federal de Protección al Consumidor, publicado el 21 de julio de 1993.
 
-DECRETO SOBRE LA APLICACION EN EL DISTRITO FEDERAL DE DISPOSICIONES EN MATERIAL CIVIL COMUN PREVISTA EN LOS DECRETOS PUBLICADOS EN EL DIARIO OFICIAL DE LA FEDERACION LOS DIAS 21 DE JULIO DE 1993, 23 DE SEPTIEMBRE DE 1993 Y 19 DE OCTUBRE DE 1998 POR LO QUE SE REFORMAN ENTRE OTRO ORDENAMIENTOS, EL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL Y EL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
+*Publicado en el Diario Oficial de la Federación el 23 de septiembre 1993*
 
-CUAUHTÉMOC CÁRDENAS SOLÓRZANO, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed
+**Artículo Unico.-** Se reforman los artículos transitorios del Diverso por el que se reforman el Código Civil para el Distrito Federal en materia común y para toda la República en materia Federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993, para quedar como sigue:
 
-Que la Honorable Asamblea Legislativa, I Legislatura se ha servido dirigirme el siguiente
-
-DECRETO
-
-(Al margen superior izquierdo el escudo nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA)
-
-LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
-
-D E C R E T A
-
-DECRETO SOBRE LA APLICACION EN EL DISTRITO FEDERAL DE DISPOSICIONES EN MATERIA CIVIL COMÚN PREVISTA EN LOS DECRETOS PUBLICADOS EN EL DIARIO OFICIAL DE LA FEDERACIÓN LOS DIAS 21 DE JULIO DE 1993, 23 DE SEPTIEMBRE DE 1993 Y 19 DE OCTUBRE DE 1998 POR LO QUE SE REFORMAN ENTRE OTROS ORDENAMIENTOS, EL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIAL COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL Y EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
-
-**Artículo 1.-** En materia civil común en el Distrito Federal son aplicables las disposiciones del Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal y del Código de Procedimientos Civiles para el Distrito Federal prevista en los siguientes decretos:
-
-I.- Decreto por el que se forman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal; Código de procedimientos Civiles para el Distrito Federal y Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993.
-
-II.- Decreto por el que se modifican los artículos transitorios del diverso por el que se forma el Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado el 21 de julio de 1993, publicado en el Diario Oficial de la federación el 23 de septiembre de 1993.
-
-III.- Decreto por el que se reforman los artículos transitorios del diverso por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal; del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993, publicado en el Diario Oficial de la Federación el 19 de octubre de 1998.
-
-**Artículo 2.-** Las disposiciones del decreto mencionado en la fracción I del artículo anterior del presente decreto, se aplicarán desde el 30 de abril del año 2000, excepto en los casos previstos en el artículo transitorio segundo del artículo único del decreto a que se refiere la fracción ll del artículo anterior del presente decreto para los que se aplican desde el 19 de octubre de 1993 según lo dispone el artículo transitorio mencionado.
-
-Asimismo, a los juicios y procedimientos judiciales actualmente en trámite, así como los que se inicien antes del 30 de abril del año 2000, derivados de contratos de arrendamiento de inmuebles para habitación y sus prorrogas, que no se encuentren en los supuestos establecidos en el artículo único del decreto a que se refiere la fracción II del artículo anterior del presente decreto, se aplicarán hasta su conclusión, las disposiciones del Código de Procedimientos Civiles para el Distrito Federal vigentes con anterioridad al 19 de octubre de 1993.
+..........
 
 **TRANSITORIO**
 
-**Artículo Único.-** El presente decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Distrito Federal.
+**UNICO.-** El presente decreto entrará en vigor el 19 de octubre de 1993.
 
-Salón de sesiones de la Asamblea del Distrito Federal, a quince de abril de mil novecientos noventa y nueve.- POR LA MESE DIRECTIVA.- DIP. JOSE LUIS BENITEZ GIL, PRESIDENTE.- DIP. ESTEBAN DANIEL MARTINEZ ENRIQUEZ, SECRETARIO .- FIRMAS.
+México, D. F., a 11 de septiembre de 1993.- Dip. Rodolfo Echeverría Ruiz, Presidente.- Sen. Humberto A. Lugo Gil, Presidente.- Dip. Florencio Salazar Adame, Secretario.- Sen. Ramón Serrano Ahumada, Secretario.- Rúbricas".
 
-En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, Fracción II inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48,49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciséis días del mes de abril de mil novecientos noventa y nueve .- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- FIRMA.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de septiembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+### DECRETO que reforma, adiciona y deroga diversas disposiciones del Código Civil para el Distrito Federal, en materia común, y para toda la República en materia federal, del Código de Procedimientos Civiles para el Distrito Federal, de la Ley del Notariado para el Distrito Federal y de la Ley Orgánica del Departamento del Distrito Federal.
+
+*Publicado en el Diario Oficial de la Federación el 6 de enero de 1994*
+
+**ARTICULO PRIMERO.-** Se reforman los artículos 1500 fracción III, 1503, 1511 al 1514, 1517, 1518, 1519, 2555 fracción II y 2556; se adicionan una fracción IV al artículo 1500, un Capítulo III-Bis al Título Tercero del Libro Tercero y un artículo 1549-Bis y se derogan los artículos 174, 175 y 1515 del Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** Todas las referencias en la Ley del Notariado para el Distrito Federal, al Departamento del Distrito Federal se entenderán hechas a las autoridades del Distrito Federal; las relativas a libro autorizado y fojas, se tendrán hechas a folios, y cuando se haga alusión a notas marginales se entenderán notas complementarias.
+
+**TERCERO.-** Los notarios deberán empezar a formar el protocolo bajo el nuevo sistema de folios, a más tardar el día 1o. de mayo de 1994. Dentro de ese plazo, se podrán autorizar a los notarios los libros necesarios. Transcurrido dicho plazo, los notarios asentarán la razón de terminación de cada libro después de la última escritura pasada y cancelarán las hojas no utilizadas, si las hubiere.
+
+**CUARTO.-** La numeración de los instrumentos con la que cada notario iniciará el uso del protocolo a que se refieren las presentes reformas, será la que continúe al último instrumento asentado en los libros que dejarán de usarse.
+
+**QUINTO.-** Los folios del Protocolo Abierto Especial actualmente en uso, serán utilizados por los notarios hasta que se terminen.
+
+**SEXTO.-** En los casos en que con anterioridad a la entrada en vigor del presente Decreto, se hubieren otorgado escrituras de adquisición de los inmuebles a que se refiere el artículo 1549-Bis del Código Civil, los propietarios podrán instituir uno o más legatarios en los términos establecidos por dicho artículo.
+
+México, D.F., a 17 de diciembre de 1993.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Gonzalo Cedillo Valdez, Presidente.- Sen. Israel Soberanis Nogueda, Secretario.- Dip. Sergio González Santa Cruz, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+### DECRETO que reforma, adiciona y deroga diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, del Código Federal de Procedimientos Penales, del Código de Procedimientos Penales para el Distrito Federal, de la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Extradición Internacional, del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, de la Ley Federal de Responsabilidades de los Servidores Públicos, de la Ley Orgánica del Tribunal Fiscal de la Federación, de la Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal, de la Ley Federal para Prevenir y Sancionar la Tortura y de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y de la Ley Orgánica del Poder Judicial de la Federación.
+
+*Publicado en el Diario Oficial de la Federación el 10 de enero de 1994*
+
+**ARTICULO SEXTO.-** Del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal se reforman los artículos 1916 párrafos primero y segundo, 1927 y 1928 para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
+
+**SEGUNDO.-** Con relación a los procedimientos que se sigan por delitos contra la salud, iniciados con anterioridad a la vigencia del presente decreto, continuarán en los términos de las nuevas disposiciones contenidas en ese decreto, aun cuando éstas hayan cambiado de numeración.
+
+**TERCERO.-** A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
+
+**CUARTO.-** Se derogan todas las disposiciones que se opongan al presente decreto.
+
+México, D. F., a 21 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Antonio Melgar Aranda, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+### FE de erratas al Decreto que reforma, adiciona y deroga diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, del Código Federal de Procedimientos Penales, del Código de Procedimientos Penales para el Distrito Federal, de la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Extradición Internacional, del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, de la Ley Federal de Responsabilidades de los Servidores Públicos, de la Ley Orgánica del Tribunal Fiscal de la Federación, de la Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal, de la Ley Federal para Prevenir y Sancionar la Tortura y de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y de la Ley Orgánica del Poder Judicial de la Federación, publicado el 10 de enero de 1994.
+
+*Publicada en el Diario Oficial de la Federación el 1º de febrero de 1994*
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Procedimientos Civiles para el Distrito Federal; de la Ley Orgánica de Nacional Financiera; del Código de Comercio; de la Ley General de Títulos y Operaciones de Crédito; y del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
+
+*Publicado en el Diario Oficial de la Federación el 24 de mayo de 1996*
+
+**ARTÍCULO QUINTO.-** SE REFORMA el artículo 750, fracción XIII, y SE ADICIONA un tercero y cuarto párrafos al artículo 2926, del Código Civil para el Distrito Federal, en materia común, y para toda la República en materia federal, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**PRIMERO.-** Las reformas previstas en los artículos 1o. y 3o., del presente decreto, entrarán en vigor sesenta días después de su publicación en el Diario Oficial de la Federación y no serán aplicables a persona alguna que tenga contratados créditos con anterioridad a la entrada en vigor del presente decreto. Tampoco serán aplicables tratándose de la novación o reestructuración de créditos contraídos con anterioridad a la entrada en vigor de este decreto.
+
+**SEGUNDO.-** La reforma prevista en el artículo segundo entrará en vigor al mismo tiempo que la legislación respectiva del Tribunal Superior de Justicia del Distrito Federal que regule el funcionamiento del Fondo de Administración de Justicia para el Distrito Federal.
+
+**TERCERO.-** La reforma prevista en el artículo cuarto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y será aplicable a fideicomisos que se celebren con posterioridad a dicha entrada en vigor, y sin que estos fideicomisos puedan ser instrumentos para novar créditos contraídos con anterioridad a la entrada en vigor de este decreto.
+
+**CUARTO.-** Las reformas previstas en el artículo quinto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 29 de abril de 1996.- Sen. Miguel Alemán Velasco, Presidente.- Dip. Ma. Claudia Esqueda Llanes, Presidente.- Sen. Raúl Juárez Valencia, Secretario.- Dip. Jesús Carlos Hernández Martínez, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de mayo del año de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de Sociedades Mercantiles y del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal.
+
+*Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996*
+
+**ARTÍCULO SEXTO.-** Se reforma la fracción II del artículo 3,071 y se derogan los artículos 28 Bis, 2,737 y 2,738 del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
+
+**SEGUNDO.-** El segundo párrafo del artículo 10 A de la Ley de Inversión Extranjera entrará en vigor a los treinta días hábiles siguientes a aquél en que se publique este Decreto en el Diario Oficial de la Federación. En este plazo deberá publicarse la lista a que se refiere dicho precepto.
+
+México, D.F., a 10 de diciembre de 1996.- Sen. Laura Pavón Jaramillo, Presidenta.- Dip. Felipe Amadeo Flores Espinosa, Presidente.- Sen. Ángel Ventura Valle, Secretario.- Dip. Carlos Núñez Hurtado, Secretario."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+### DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal; del Código de Procedimientos Civiles para el Distrito Federal; del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, y del Código de Procedimientos Penales para el Distrito Federal.
+
+*Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1997*
+
+**ARTÍCULO PRIMERO.-** Se reforman los artículos 282, primer párrafo; 283; la denominación del Título Sexto del Libro Primero; 411; 414; 416 a 418; 422; 423; 444, primer párrafo, fracción I; 492 a 494, y 1316, primer párrafo, fracción VII; se adicionan las fracciones XIX y XX al artículo 267; una fracción VII al artículo 282; un Capítulo III al Título Sexto del Libro Primero; los artículos 323 bis y 323 ter; las fracciones V y VI al artículo 444; 444 bis, y la fracción XII al artículo 1316, y se deroga el artículo 415 del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**PRIMERO.-** Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+México, D.F., a 13 de diciembre de 1997.- Dip. Juan Cruz Martínez, Presidente.- Sen. Heladio Ramírez López, Presidente.- Dip. José Antonio Álvarez Hernández, Secretario.- Sen. Gilberto Gutiérrez Quiroz, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+### DECRETO por el que se reforma y adiciona al Código Civil para el Distrito Federal, en materia común y para toda la República en materia federal y al Código de Procedimientos Civiles para el Distrito Federal.
+
+*Publicado en el Diario Oficial de la Federación el 28 de mayo de 1998*
+
+**ARTÍCULO PRIMERO.-** SE REFORMAN los artículos 86; 87; 88; 133; 157; 295; 390, fracciones I a III; 391; 394; 395, segundo párrafo; 397, último párrafo; 402; 403; 404; 405; primer párrafo; 1612; 1613; y 1620, y SE ADICIONAN los artículos 293, con un segundo párrafo; 397, con la fracción V; 405, con la fracción III; 410 A; 410 B; 410 C; 410 D; 410 E, y 410 F; así como cuatro secciones al Capítulo V del Título Séptimo del Libro Primero, todos ellos del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** Las adopciones que se encuentren en trámite a la fecha de publicación de las presentes reformas se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente Decreto.
+
+No obstante, si en las adopciones que actualmente se tramitan hubiere la voluntad del adoptante de obtener la adopción plena, podrá seguirse el procedimiento establecido por el presente Decreto.
+
+Las adopciones realizadas con anterioridad a la entrada en vigor del presente Decreto podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
+
+México, D.F., a 28 de abril de 1998.- Sen. Dionisio Pérez Jácome, Presidente.- Dip. Aurora Bazán López, Presidente.- Sen. José Luis Medina Aguiar, Secretario.- Dip. Teresa Núñez Casas, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de mayo de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos transitorios del diverso por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal; del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993.
+
+*Publicado en el Diario Oficial de la Federación el 19 de octubre de 1998*
+
+**ARTICULO UNICO.-** Se reforman los artículos primero y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 julio de 1993 y modificado por diverso del 23 de septiembre de 1993, para quedar como sigue:
+
+..........
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 15 de octubre de 1998.- Sen. Juan Ramiro Robledo Ruiz, Presidente.- Dip. Joaquín Montaño Yamuni, Presidente.- Sen. Héctor Ximénez González, Secretario.- Dip. Adalberto Antonio Balderrama Fernández, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Embajada de los Estados Unidos Mexicanos en la Ciudad de Londres, Reino Unido de la Gran Bretaña e Irlanda del Norte, a los dieciséis días del mes de octubre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.
+
+Refrendado por el Secretario de Gobernación, Francisco Labastida Ochoa, en la Ciudad de México, Distrito Federal, a los quince días del mes de octubre de mil novecientos noventa y ocho.- Rúbrica.
 
 ### DECRETO por el que se reforman y adicionan diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, del Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor.
 
@@ -15718,7 +15856,7 @@ Para tal efecto, la Secretaría de Comercio y Fomento Industrial proporcionará 
 
 **Quinto.-** La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 31 de diciembre de 2004.
 
-> Reformado por Decreto publicado en el Diario Oficial de la Federación el 13 de junio de 2003.
+> Nota: Reformado por Decreto publicado en el Diario Oficial de la Federación el 13 de junio de 2003.
 
 **Sexto.-** La Secretaría, en coordinación con los gobiernos estatales, determinará los procedimientos de recepción de los registros de los actos mercantiles que hasta la fecha de entrada en vigor del presente Decreto efectuaban los oficios de hipotecas y los jueces de primera instancia del orden común, así como los mecanismos de integración a las bases de datos central y a las ubicadas en las entidades federativas. Dicha recepción deberá efectuarse en un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
 
@@ -15729,6 +15867,22 @@ Para tal efecto, la Secretaría de Comercio y Fomento Industrial proporcionará 
 México, D.F., a 29 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Marta Laura Carranza Aguayo, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+
+### DECRETO por el que se modifica el artículo quinto transitorio del decreto por el que se reforman y adicionan diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, del Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor, publicado el 29 de mayo de 2000.
+
+*Publicado en el Diario Oficial de la Federación el 13 de junio de 2003*
+
+**ARTICULO UNICO:** Se reforma el artículo Quinto transitorio del decreto que Reforma y Adiciona diversas Disposiciones del Código Civil para el Distrito Federal en materia Común y para toda la República en materia Federal, el Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 29 de Mayo de 2000 para quedar como sigue:
+
+..........
+
+**TRANSITORIO**
+
+**UNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 29 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
 ### LEY Federal de Responsabilidad Patrimonial del Estado.
 
@@ -15751,3 +15905,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 14 de diciembre de 2004.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+### DECRETO por el que se derogan diversas disposiciones del Código Penal Federal y se adicionan diversas disposiciones al Código Civil Federal.
+
+*Publicado en el Diario Oficial de la Federación el 13 de abril de 2007*
+
+**ARTÍCULO SEGUNDO.-** Se adicionan los párrafos, sexto con cuatro fracciones, séptimo y octavo al artículo 1916 y el párrafo tercero, al artículo 1916 Bis del Código Civil Federal, para quedar como sigue:
+
+..........
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 6 de marzo de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
