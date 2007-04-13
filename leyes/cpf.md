@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2006-06-30
-articles: 498
+last_reform_dof: 2007-04-13
+articles: 500
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-archived: https://web.archive.org/web/20060820144656/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9.doc
-source_sha256: a07722c4a92682980922c3cbd2c841ae14c0e90a75ebf4c4c6e3cefa39fb1193
-retrieved: 2006-08-20
+archived: https://web.archive.org/web/20070609121352/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
+source_sha256: 1fdd1f63d695afaaf03d22064ad899b28fac537d9828d31f9bb666c702134e25
+retrieved: 2007-06-09
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 30-06-2006
+Última reforma publicada DOF 13-04-2007
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -786,7 +786,7 @@ a) Uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el 
 
 b) Contra la salud, previsto en el artículo 194, salvo que se trate de individuos en los que concurran evidente atraso cultural, aislamiento social y extrema necesidad económica; y para la modalidad de transportación, si cumplen con los requisitos establecidos en los artículos 84 y 90, fracción I, inciso c), para lo cual deberán ser primodelincuentes, a pesar de no hallarse en los tres supuestos señalados en la excepción general de este inciso;
 
-c) Corrupción de menores o incapaces, previsto en el artículo 201;
+c) Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 BIS; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; Trata de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 205; Trata de personas, previsto en el artículo 207.
 
 d) Violación, previsto en los artículos 265, 266 y 266 bis;
 
@@ -1740,109 +1740,169 @@ Si la enfermedad padecida fuera incurable se impondrá la pena de seis meses a c
 
 Cuando se trate de cónyuges, concubinas, sólo podrá procederse por querella del ofendido.
 
-### TITULO OCTAVO · Delitos Contra la Moral Pública y las Buenas Costumbres
+### TITULO OCTAVO · DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD.
 
-#### CAPITULO I · Ultrajes a la moral pública
+#### CAPÍTULO I · Corrupción de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
 
 ##### Artículo 200.
 
-Se aplicará prisión de seis meses a cinco años o sanción de trescientos a quinientos días multa o ambas a juicio del juez:
+Al que comercie, distribuya, exponga, haga circular u oferte, a menores de dieciocho años de edad, libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter pornográfico, reales o simulados, sea de manera física, o a través de cualquier medio, se le impondrá de seis meses a cinco años de prisión y de trescientos a quinientos días multa.
 
-I.- Al que fabrique, reproduzca o publique libros, escritos, imágenes u objetos obscenos, y al que los exponga, distribuya o haga circular;
-
-II.- Al que publique por cualquier medio, ejecute o haga ejecutar por otro, exhibiciones obscenas, y
-
-III.- Al que de modo escandaloso invite a otro al comercio carnal.
-
-En caso de reincidencia, además de las sanciones previstas en este artículo, se ordenará la disolución de la sociedad o empresa.
-
-No se sancionarán las conductas que tengan un fin de investigación o divulgación científico, artístico o técnico.
-
-#### CAPITULO II · Corrupción de menores e incapaces. Pornografía infantil y prostitución sexual de menores
+No se entenderá como material pornográfico o nocivo, aquel que signifique o tenga como fin la divulgación científica, artística o técnica, o en su caso, la educación sexual, educación sobre la función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente.
 
 ##### Artículo 201.
 
-Comete el delito de corrupción de menores, el que induzca, procure, facilite u obligue a un menor de dieciocho años de edad o a quien no tenga capacidad para comprender el significado del hecho, a realizar actos de exhibicionismo corporal, lascivos o sexuales, prostitución, ebriedad, consumo de narcóticos, prácticas sexuales o a cometer hechos delictuosos. Al autor de este delito se le aplicarán de cinco a diez años de prisión y de quinientos a dos mil días multa.
+Comete el delito de corrupción, quien obligue, induzca, facilite o procure a una o varias personas menores de 18 años de edad o una o varias personas que no tienen capacidad para comprender el significado del hecho o una o varias personas que no tienen capacidad para resistirlo a realizar cualquiera de los siguientes actos:
 
-Al que obligue o induzca a la práctica de la mendicidad, se le impondrá de tres a ocho años de prisión y de cincuenta a doscientos días multa.
+a) Consumo habitual de bebidas alcohólicas;
 
-No se entenderá por corrupción de menores los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente.
+b) Consumo de sustancias tóxicas o al consumo de alguno de los narcóticos a que se refiere el párrafo primero del artículo 193 de este Código o a la fármaco dependencia;
 
-Cuando de la práctica reiterada de los actos de corrupción el menor o incapaz adquiera los hábitos del alcoholismo, farmacodependencia, se dedique a la prostitución o a formar parte de una asociación delictuosa, la pena será de siete a doce años de prisión y de trescientos a seiscientos días multa.
+c) Mendicidad con fines de explotación;
 
-Si además de los delitos previstos en este capítulo resultase cometido otro, se aplicarán las reglas de la acumulación.
+d) Comisión de algún delito;
 
-##### Artículo 201 bis.
+e) Formar parte de una asociación delictuosa; y
 
-Al que procure o facilite por cualquier medio el que uno o más menores de dieciocho años, con o sin su consentimiento, lo o los obligue o induzca a realizar actos de exhibicionismo corporal, lascivos o sexuales, con el objeto y fin de videograbarlos, fotografiarlos o exhibirlos mediante anuncios impresos o electrónicos, con o sin el fin de obtener un lucro, se le impondrán de cinco a diez años de prisión y de mil a dos mil días multa.
+f) Realizar actos de exhibicionismo corporal o sexuales simulados o no, con fin lascivo o sexual.
 
-Al que fije, grabe, imprima actos de exhibicionismo corporal, lascivos o sexuales en que participen uno o más menores de dieciocho años, se le impondrá la pena de diez a catorce años de prisión y de quinientos a tres mil días multa. La misma pena se impondrá a quien con fines de lucro o sin él, elabore, reproduzca, venda, arriende, exponga, publicite o transmita el material a que se refieren las acciones anteriores.
+A quién cometa este delito se le impondrá: en el caso del inciso a) o b) pena de prisión de cinco a diez años y multa de quinientos a mil días; en el caso del inciso c) pena de prisión de cuatro a nueve años y de cuatrocientos a novecientos días multa; en el caso del inciso d) se estará a lo dispuesto en el artículo 52, del Capítulo I, del Título Tercero, del presente Código; en el caso del inciso e) o f) pena de prisión de siete a doce años y multa de ochocientos a dos mil quinientos días.
 
-Se impondrá prisión de ocho a dieciséis años y de tres mil a diez mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, a quien por sí o a través de terceros, dirija, administre o supervise cualquier tipo de asociación delictuosa con el propósito de que se realicen las conductas previstas en los dos párrafos anteriores con menores de dieciocho años.
+Cuando se trate de mendicidad por situación de pobreza o abandono, deberá ser atendida por la asistencia social.
 
-Para los efectos de este artículo se entiende por pornografía infantil, la representación sexualmente explícita de imágenes de menores de dieciocho años.
+No se entenderá por corrupción, los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente; las fotografías, video grabaciones, audio grabaciones o las imágenes fijas o en movimiento, impresas, plasmadas o que sean contenidas o reproducidas en medios magnéticos, electrónicos o de otro tipo y que constituyan recuerdos familiares.
 
-##### Artículo 201 Bis 1.
+En caso de duda, el juez solicitará dictámenes de peritos para evaluar la conducta en cuestión.
 
-Si el delito de corrupción de menores o de quien no tenga capacidad para comprender el resultado del hecho o el de pornografía infantil es cometido por quien se valiese de una función pública que tuviese, se le impondrá hasta una tercera parte más de las penas a que se refieren los artículos 201 y 201 bis y destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñarlo, hasta por un tiempo igual al de la pena impuesta para ejercer otro.
+Cuando no sea posible determinar con precisión la edad de la persona o personas ofendidas, el juez solicitará los dictámenes periciales que correspondan.
 
-##### Artículo 201 Bis 2.
+##### Artículo 201 BIS.
 
-Si el delito es cometido con un menor de dieciséis años de edad, las penas aumentarán hasta una tercera parte más de las sanciones a que se refieren los artículos 201 y 201 bis. Si el delito se comete con menor de doce años de edad, las penas aumentarán hasta una mitad de las sanciones a que se refieren los artículos 201 y 201 bis de esta Ley.
+Queda prohibido emplear a personas menores de dieciocho años de edad o a personas que no tienen capacidad para comprender el significado del hecho, en cantinas, tabernas, bares, antros, centros de vicio o cualquier otro lugar en donde se afecte de forma negativa su sano desarrollo físico, mental o emocional.
 
-##### Artículo 201 Bis 3.
+La contravención a esta disposición se castigará con prisión de uno a tres años y de trescientos a setecientos días multa, en caso de reincidencia, se ordenará el cierre definitivo del establecimiento.
 
-Al que promueva, publicite, invite, facilite o gestione por cualquier medio a persona o personas a que viaje al interior o exterior del territorio nacional y que tenga como propósito, tener relaciones sexuales con menores de dieciocho años de edad, se le impondrá una pena de cinco a catorce años de prisión y de cien a dos mil días multa.
+Se les impondrá la misma pena a las madres, padres, tutores o curadores que acepten o promuevan que sus hijas o hijos menores de dieciocho años de edad o personas menores de dieciocho años de edad o personas que estén bajo su guarda, custodia o tutela, sean empleados en los referidos establecimientos.
 
-Las mismas penas se impondrán a quien realice las acciones a que se refiere el párrafo anterior, con el fin de que persona o personas obtengan relaciones sexuales con menores de dieciocho años.
+Para los efectos de este precepto se considerará como empleado en la cantina, taberna, bar o centro de vicio, a la persona menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole o por cualquier otro estipendio o emolumento, o gratuitamente, preste sus servicios en tal lugar.
+
+##### Artículo 201 bis 1.
+
+Se deroga
+
+##### Artículo 201 bis 2.
+
+Se deroga
+
+##### Artículo 201 bis 3.
+
+Se deroga
+
+#### CAPÍTULO II · Pornografía de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
 
 ##### Artículo 202.
 
-Queda prohibido emplear a menores de dieciocho años en cantinas, tabernas y centros de vicio. La contravención a esta disposición se castigará con prisión de tres días a un año, multa de veinticinco a quinientos pesos y, además, con cierre definitivo del establecimiento en caso de reincidencia. Incurrirán en la misma pena los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
+Comete el delito de pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien procure, obligue, facilite o induzca, por cualquier medio, a una o varias de estas personas a realizar actos sexuales o de exhibicionismo corporal con fines lascivos o sexuales, reales o simulados, con el objeto de video grabarlos, fotografiarlos, filmarlos, exhibirlos o describirlos a través de anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicaciones, sistemas de cómputo, electrónicos o sucedáneos. Al autor de este delito se le impondrá pena de siete a doce años de prisión y de ochocientos a dos mil días multa.
 
-Para los efectos de este precepto se considerará como empleado en la cantina, taberna y centro de vicio al menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
+A quien fije, imprima, video grabe, fotografíe, filme o describa actos de exhibicionismo corporal o lascivos o sexuales, reales o simulados, en que participen una o varias personas menores de dieciocho años de edad o una o varias personas que no tienen capacidad para comprender el significado del hecho o una o varias personas que no tienen capacidad para resistirlo, se le impondrá la pena de siete a doce años de prisión y de ochocientos a dos mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito.
+
+La misma pena se impondrá a quien reproduzca, almacene, distribuya, venda, compre, arriende, exponga, publicite, transmita, importe o exporte el material a que se refieren los párrafos anteriores.
+
+##### Artículo 202 BIS.
+
+Quien almacene, compre, arriende, el material a que se refieren los párrafos anteriores, sin fines de comercialización o distribución se le impondrán de uno a cinco años de prisión y de cien a quinientos días multa. Asimismo, estará sujeto a tratamiento psiquiátrico especializado.
+
+#### CAPÍTULO III · Turismo Sexual en contra de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
 
 ##### Artículo 203.
 
-Las sanciones que señalan los artículos anteriores se duplicarán cuando el delincuente tenga parentesco por consanguinidad, por afinidad o civil o habite en el mismo domicilio con la víctima, aunque no existiera parentesco alguno, así como por el tutor o curador; asimismo perderá la patria potestad respecto de todos sus descendientes, el derecho a alimentos que le correspondieran por su relación con la víctima y el derecho que pudiera tener respecto a los bienes de ésta.
+Comete el delito de turismo sexual quien promueva, publicite, invite, facilite o gestione por cualquier medio a que una o más personas viajen al interior o exterior del territorio nacional con la finalidad de que realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad, o con una o varias personas que no tienen capacidad para comprender el significado del hecho o con una o varias personas que no tienen capacidad para resistirlo.
 
-Cuando el delito sea cometido por un miembro o miembros de la delincuencia organizada se aplicará, la pena de diez a quince años de prisión y de mil a cinco mil días de multa.
+Al autor de este delito se le impondrá una pena de siete a doce años de prisión y de ochocientos a dos mil días multa.
+
+##### Artículo 203 BIS.
+
+A quien realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad, o con una o varias personas que no tienen capacidad para comprender el significado del hecho o con una o varias personas que no tienen capacidad para resistirlo, en virtud del turismo sexual, se le impondrá una pena de doce a dieciséis años de prisión y de dos mil a tres mil días multa, asimismo, estará sujeto al tratamiento psiquiátrico especializado.
+
+#### CAPÍTULO IV · Lenocinio de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
 
 ##### Artículo 204.
 
-Los delincuentes de que se trata en este capítulo quedarán inhabilitados para ser tutores y curadores.
+Comete el delito de lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo:
+
+I.- Toda persona que explote el cuerpo de las personas antes mencionadas, por medio del comercio carnal u obtenga de él un lucro cualquiera;
+
+II.- Al que induzca o solicite a cualquiera de las personas antes mencionadas, para que comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución, y
+
+III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbulos, casas de cita o lugares de concurrencia dedicados a explotar la prostitución de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, u obtenga cualquier beneficio con sus productos.
+
+Al responsable de este delito se le impondrá prisión de ocho a quince años y de mil a dos mil quinientos días de multa, así como clausura definitiva de los establecimientos descritos en la fracción III.
+
+#### CAPÍTULO V · Trata de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
 
 ##### Artículo 205.
 
-Al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del territorio nacional, se le impondrá prisión de cinco a doce años y de cien a mil días de multa.
+Comete el delito de trata de persona menor de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien promueva, facilite, consiga, traslade, entregue o reciba a una de estas personas para someterla a cualquier forma de explotación, ya sea explotación sexual, trabajos o servicios impuestos de manera coercitiva, o para que le sea extirpado cualquiera de sus órganos, tejidos o sus componentes, dentro o fuera del territorio nacional, a quien cometa este delito se le impondrá prisión de ocho a quince años y de mil a dos mil quinientos días de multa.
 
-Si se emplease violencia o el agente se valiese de la función pública que tuviere, la pena se aumentará hasta una mitad.
+205 BIS.- Las sanciones señaladas en los artículos 200, 201, 202, 203, 204 y 205 se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
 
-#### CAPITULO III · Trata de personas y lenocinio
+a) Los que ejerzan la patria potestad, guarda o custodia;
 
-##### Artículo 206.
+b) Ascendientes o descendientes sin límite de grado;
 
-El lenocinio se sancionará con prisión de dos a nueve años y de cincuenta a quinientos días multa.
+c) Familiares en línea colateral hasta cuarto grado;
 
-##### Artículo 207.
+d) Tutores o curadores;
+
+e) Aquél que ejerza sobre la víctima en virtud de una relación laboral, docente, doméstica, médica o cualquier otra que implique una subordinación de la víctima;
+
+f) Quien se valga de función pública para cometer el delito;
+
+g) Quien habite en el mismo domicilio de la víctima;
+
+h) Al ministro de un culto religioso;
+
+i) Cuando el autor emplee violencia física, psicológica o moral en contra de la víctima; y
+
+j) Quien esté ligado con la víctima por un lazo afectivo o de amistad, de gratitud, o algún otro que pueda influir en obtener la confianza de ésta.
+
+En los casos de los incisos a), b), c) y d) además de las sanciones señaladas, los autores del delito perderán la patria potestad, tutela o curatela, según sea el caso, respecto de todos sus descendientes, el derecho a alimentos que pudiera corresponderle por su relación con la víctima y el derecho que pudiera tener respecto de los bienes de ésta.
+
+En los casos de los incisos e), f) y h) además de las sanciones señaladas, se castigará con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta.
+
+En todos los casos el juez acordará las medidas pertinentes para que se le prohíba permanentemente al ofensor tener cualquier tipo de contacto o relación con la víctima.
+
+#### CAPITULO VI · Lenocinio y Trata de Personas.
+
+Artículo. 206.- El lenocinio se sancionará con prisión de dos a nueve años y de cincuenta a quinientos días multa.
+
+##### Artículo 206 BIS.
 
 Comete el delito de lenocinio:
 
-I.- Toda persona que habitual o accidentalmente explote el cuerpo de otra por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
+I.- Toda persona que explote el cuerpo de otra por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
 
-II.- Al que induzca o solicite a una persona para que con otra, comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución;
+II.- Al que induzca o solicite a una persona para que con otra, comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución, y
 
 III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbulos, casas de cita o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
 
+##### Artículo 207.
+
+Comete el delito de trata de personas quien promueva, facilite, consiga, traslade, entregue o reciba a una persona para someterla a cualquier forma de explotación, ya sea explotación sexual, trabajos o servicios impuestos de manera coercitiva, o para que le sean extirpados cualquiera de sus órganos, tejidos o sus componentes, dentro o fuera del territorio nacional.
+
+Al autor de este delito se le impondrá pena de cuatro a nueve años y de cuatrocientos a novecientos días multa.
+
+#### CAPÍTULO VII · Provocación de un Delito y Apología de éste o de algún Vicio y de la Omisión de impedir un Delito que atente contra el Libre Desarrollo de la Personalidad, la Dignidad Humana o la Integridad Física o Mental.
+
 ##### Artículo 208.
 
-Al que promueva, encubra, concierte o permita el comercio carnal de un menor de dieciocho años se le aplicará pena de ocho a doce años de prisión y de cien a mil días multa.
-
-#### CAPITULO IV · Provocación de un delito y apología de éste o de algún vicio
+Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, se le aplicarán de diez a ciento ochenta jornadas de trabajo en favor de la comunidad, si el delito no se ejecutare; en caso contrario se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
 ##### Artículo 209.
 
-Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, se le aplicarán de diez a ciento ochenta jornadas de trabajo en favor de la comunidad, si el delito no se ejecutare; en caso contrario se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
+El que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión de uno de los delitos contemplados en el Título VIII, Libro Segundo, de este Código, se le impondrá la pena de seis meses a dos años de prisión y de cincuenta a doscientos días multa.
+
+Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes para que impidan un delito de los contemplados en el párrafo anterior y de cuya próxima comisión tenga noticia.
 
 ### TITULO NOVENO · Revelación de secretos y acceso ilícito a sistemas y equipos de informática
 
@@ -3260,101 +3320,63 @@ Delitos Contra el Honor
 
 ##### Artículo 350.
 
-El delito de difamación se castigará con prisión hasta de dos años o multa de cincuenta a trescientos pesos, o ambas sanciones a juicio del juez.
-
-La difamación consiste: en comunicar dolosamente a una o más personas, la imputación que se hace a otra persona física, o persona moral en los casos previsto por la ley, de un hecho cierto o falso, determinado, o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien.
-
-Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 343 bis y 343 ter, en este último caso siempre y cuando habite en el mismo domicilio con la víctima, la pena se aumentará en un tercio.
+(Se deroga).
 
 ##### Artículo 351.
 
-Al acusado de difamación no se le admitirá prueba alguna para acreditar la verdad de su imputación, sino en dos casos:
-
-I.- Cuando aquélla se haya hecho a un depositario o agente de la autoridad, o a cualquiera otra persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones, y
-
-II.- Cuando el hecho imputado esté declarado cierto por sentencia irrevocable y el acusado obre por motivo de interés público o por interés privado, pero legítimo, y sin ánimo de dañar.
-
-En estos casos se librará de toda sanción el acusado, si probare su imputación.
+(Se deroga).
 
 ##### Artículo 352.
 
-No se aplicará sanción alguna como reo de difamación ni de injuria:
-
-I.- Al que manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial.
-
-II.- Al que manifestare su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que obró en cumplimiento de un deber o por interés público, o que con la debida reserva lo hizo por humanidad, por prestar un servicio a persona con quien tenga parentesco o amistad, o dando informes que se le hubieren pedido, si no lo hiciere a sabiendas calumniosamente, y
-
-III.- Al autor de un escrito presentado o de un discurso pronunciado en los tribunales, pues si hiciere uso de alguna expresión difamatoria o injuriosa, los jueces, según la gravedad del caso, le aplicarán alguna de las correcciones disciplinarias de las que permita la ley.
+(Se deroga).
 
 ##### Artículo 353.
 
-Lo prevenido en la fracción última del artículo anterior, no comprende el caso en que la imputación sea calumniosa, o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata. Si así fuere, se aplicarán las sanciones de la injuria, de la difamación o de la calumnia.
+(Se deroga).
 
 ##### Artículo 354.
 
-El injuriado o difamado a quien se impute un delito determinado que no se pueda perseguir de oficio, podrá quejarse de injuria, de difamación o de calumnia, según le conviniere.
-
-Cuando el delito sea de los que se persiguen de oficio, solamente podrá acusarse por calumnia.
-
-Cuando la queja fuere de calumnia, se permitirán al reo pruebas de su imputación, y si ésta quedare probada, se librará aquél de toda sanción, excepto en el caso del artículo 358.
+(Se deroga).
 
 ##### Artículo 355.
 
-No servirá de excusa de la difamación, ni de la calumnia: que el hecho imputado sea notorio, o que el reo no haya hecho más que reproducir lo ya publicado en la República o en otro país.
+(Se deroga).
 
 #### CAPITULO III · Calumnia
 
 ##### Artículo 356.
 
-Por el delito de calumnia se castigará con prisión de seis meses a dos años o multa de dos a trescientos pesos, o ambas sanciones a juicio del juez:
-
-I.- Al que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso, o es inocente la persona a quien se imputa;
-
-II.- Al que presente denuncias o querellas calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquel no se ha cometido; y
-
-III.- Al que, para hacer que un inocente aparezca como reo de un delito, ponga sobre la persona del calumniado, en su casa o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad.
-
-En los casos de las dos últimas fracciones, si el calumniado es condenado por sentencia irrevocable, se impondrá al calumniador la misma sanción que a aquél.
+(Se deroga).
 
 ##### Artículo 357.
 
-Aunque se acredite la inocencia del calumniado, o que son falsos los hechos en que se apoya la denuncia o querella, no se castigará como calumniador al que las hizo, si probare plenamente haber tenido causas bastantes para incurrir en error.
-
-Tampoco se aplicará sanción alguna al autor de una denuncia o querella, si los hechos que en ellas se imputan son ciertos, aunque no constituyan un delito, y él errónea o falsamente les haya atribuido ese carácter.
+(Se deroga).
 
 ##### Artículo 358.
 
-No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se librará de la sanción correspondiente, cuando exista una sentencia irrevocable que haya absuelto al calumniado del mismo delito que aquél le impute.
+(Se deroga).
 
 ##### Artículo 359.
 
-Cuando haya pendiente un juicio, en averiguación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
+(Se deroga).
 
 #### CAPITULO IV · Disposiciones comunes para los capítulos precedentes
 
 ##### Artículo 360.
 
-No se podrá proceder contra el autor de una injuria, difamación o calumnia, sino por queja de la persona ofendida, excepto en los casos siguientes:
-
-I.- Si el ofendido ha muerto y la injuria, la difamación o la calumnia fueren posteriores a su fallecimiento, sólo se podrá proceder en virtud de queja del cónyuge, de los ascendientes, de los descendientes o de los hermanos.
-
-Cuando la injuria, la difamación y la calumnia sean anteriores al fallecimiento del ofendido, no se atenderá la queja de las personas mencionadas, si aquél hubiere perdonado la ofensa a sabiendas de que se le había inferido, no hubiere presentado en vida su queja pudiendo hacerlo, ni prevenido que lo hicieran sus herederos, y
-
-II.- Cuando la ofensa sea contra la nación mexicana o contra una nación o gobierno extranjeros, o contra sus agentes diplomáticos en este país. En el primer caso, corresponderá hacer la acusación al Ministerio Público; pero será necesaria excitativa en los demás casos.
+(Se deroga).
 
 ##### Artículo 361.
 
-La injuria, la difamación y la calumnia contra el Congreso, contra una de las Cámaras, contra un tribunal o contra cualquier otro cuerpo colegiado o institución oficial, se castigará con sujeción a las reglas de este título, sin perjuicio de lo dispuesto en el artículo 190 de este Código.
+(Se deroga).
 
 ##### Artículo 362.
 
-Los escritos, estampas, pinturas o cualquiera otra cosa que hubiere servido de medio para la injuria, la difamación o la calumnia, se recogerán e inutilizarán, a menos que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión de derechos.
-
-En tal caso, se hará en el documento una anotación sumaria de la sentencia pronunciada contra el acusado.
+(Se deroga).
 
 ##### Artículo 363.
 
-Siempre que sea condenado el responsable de una injuria, de una difamación o de una calumnia, si lo solicita la persona ofendida, se publicará la sentencia en tres periódicos a costa de aquél. Cuando el delito se cometa por medio de un periódico, los dueños, gerentes o directores de éste, tengan o no responsabilidad penal, estarán obligados a publicar el fallo, imponiéndoseles multa de cien pesos por cada día que pase sin hacerlo, después de aquel en que se les notifique la sentencia. El importe de la multa no podrá exceder de diez mil pesos.
+(Se deroga).
 
 ### TITULO · VIGESIMO PRIMERO
 
@@ -4794,3 +4816,35 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 26 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Micaela Aguilar González, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Federal de Procedimientos Penales y de la Ley Federal contra la Delincuencia Organizada, en materia de explotación sexual infantil.
+
+*Publicado en el Diario Oficial de la Federación el 27 de marzo de 2007*
+
+**ARTÍCULO PRIMERO:** Se reforma el inciso c) del artículo 85; las denominaciones del Título Octavo y de sus correspondientes Capítulos Primero, Segundo, Tercero y Cuarto del Libro Segundo; los artículos 200; 201 bis; 202; 203; 204; 205; 206, 207, 208 y 209. Se adicionan los artículos 202 bis 203 bis, 204 bis, 205 bis y 206 bis; tres nuevos Capítulos Quinto, Sexto y Séptimo al Título Octavo, un Capítulo Tercero al Título Décimo Octavo ambos del Libro Segundo. Se derogan los artículos 201 BIS 1, 201 BIS 2 y 201 BIS 3, todos del Código Penal Federal, para quedar como sigue:
+
+.........
+
+**TRANSITORIOS**
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 20 de febrero de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de marzo de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se derogan diversas disposiciones del Código Penal Federal y se adicionan diversas disposiciones al Código Civil Federal.
+
+*Publicado en el Diario Oficial de la Federación el 13 de abril de 2007*
+
+**ARTÍCULO PRIMERO.-** Se derogan los artículos 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362 y 363 del Código Penal Federal, para quedar como sigue:
+
+..........
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 6 de marzo de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
