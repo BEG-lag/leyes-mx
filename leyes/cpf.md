@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2007-04-13
-articles: 500
+last_reform_dof: 2007-06-28
+articles: 505
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-archived: https://web.archive.org/web/20070609121352/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-source_sha256: 1fdd1f63d695afaaf03d22064ad899b28fac537d9828d31f9bb666c702134e25
-retrieved: 2007-06-09
+archived: https://web.archive.org/web/20071122205505/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
+source_sha256: 8b05d3c1a2aaf361239460233d42f372604bce318a9d0a907a13570d09391e00
+retrieved: 2007-11-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 13-04-2007
+Última reforma publicada DOF 28-06-2007
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -42,7 +42,7 @@ Este Código se aplicará en toda la República para los delitos del orden feder
 
 Se aplicará, asimismo:
 
-I.- Por los delitos que se inicien, preparen o cometan en el extranjero, cuando produzcan o se pretenda que tenga efectos en el territorio de la República, y
+I. Por los delitos que se inicien, preparen o cometan en el extranjero, cuando produzcan o se pretenda que tengan efectos en el territorio de la República; o bien, por los delitos que se inicien, preparen o cometan en el extranjero, siempre que un tratado vinculativo para México prevea la obligación de extraditar o juzgar, se actualicen los requisitos previstos en el artículo 4o. de este Código y no se extradite al probable responsable al Estado que lo haya requerido, y
 
 II.- Por los delitos cometidos en los consulados mexicanos o en contra de su personal, cuando no hubieren sido juzgados en el país en que se cometieron.
 
@@ -1222,9 +1222,17 @@ No se aplicará pena a los que depongan las armas antes de ser tomados prisioner
 
 ##### Artículo 139.
 
-Se impondrá pena de prisión de dos a cuarenta años y multa hasta de cincuenta mil pesos, sin perjuicio de las penas que correspondan por los delitos que resulten, al que utilizando explosivos, sustancias tóxicas, armas de fuego o por incendio, inundación, o por cualquier otro medio violento, realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor, terror en la población o en un grupo o sector de ella, para perturbar la paz pública, o tratar de menoscabar la autoridad del Estado, o presionar a la autoridad para que tome una determinación.
+Se impondrá pena de prisión de seis a cuarenta años y hasta mil doscientos días multa, sin perjuicio de las penas que correspondan por los delitos que resulten, al que utilizando sustancias tóxicas, armas químicas, biológicas o similares, material radioactivo o instrumentos que emitan radiaciones, explosivos o armas de fuego, o por incendio, inundación o por cualquier otro medio violento, realice actos en contra de las personas, las cosas o servicios públicos, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para atentar contra la seguridad nacional o presionar a la autoridad para que tome una determinación.
 
-Se aplicará pena de uno a nueve años de prisión y multa hasta de diez mil pesos, al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
+La misma sanción se impondrá al que directa o indirectamente financie, aporte o recaude fondos económicos o recursos de cualquier naturaleza, con conocimiento de que serán utilizados, en todo o en parte, en apoyo de personas u organizaciones que operen o cometan actos terroristas en el territorio nacional.
+
+##### Artículo 139 Bis.
+
+Se aplicará pena de uno a nueve años de prisión y de cien a trescientos días multa, a quien encubra a un terrorista, teniendo conocimiento de sus actividades o de su identidad.
+
+##### Artículo 139 Ter.
+
+Se aplicará pena de cinco a quince años de prisión y de doscientos a seiscientos días multa al que amenace con cometer el delito de terrorismo a que se refiere el párrafo primero del artículo 139.
 
 #### CAPITULO VII · Sabotaje
 
@@ -1246,7 +1254,7 @@ Se impondrá pena de uno a nueve años de prisión y multa hasta de diez mil pes
 
 Al que instigue, incite o invite a la ejecución de los delitos previstos en este Título se le aplicará la misma penalidad señalada para el delito de que se trate, a excepción de lo establecido en el segundo párrafo del artículo 130, en el segundo párrafo del artículo 131 y en la fracción I del artículo 135, que conservan su penalidad específica.
 
-Al que instigue, incite o invite a militares en ejercicio a la ejecución de los delitos a que se refiere este Título, se le aplicará pena de cinco a cuarenta años de prisión.
+Al que instigue, incite o invite a militares en ejercicio, a la ejecución de los delitos a que se refiere este Título, se le aplicará pena de cinco a cuarenta años de prisión, con excepción del delito de terrorismo, cuya pena será de ocho a cuarenta años de prisión y de quinientos a mil ciento cincuenta días multa.
 
 ##### Artículo 143.
 
@@ -1260,13 +1268,13 @@ Se consideran delitos de carácter político los de rebelión, sedición, motín
 
 ##### Artículo 145.
 
-Se aplicará pena de cinco a cuarenta años de prisión y multa de cinco mil a cincuenta mil pesos al funcionario o empleado de los Gobiernos Federal o Estatales, o de los Municipios, de organismos públicos descentralizados, de empresas de participación estatal o de servicios públicos, federales o locales, que incurran en alguno de los delitos previstos por este Título.
+Se aplicará pena de cinco a cuarenta años de prisión y de ciento veinte a mil ciento cincuenta días multa, al funcionario o empleado de los Gobiernos Federal o Estatales, o de los Municipios, de organismos públicos descentralizados, de empresas de participación estatal o de servicios públicos, federales o locales, que incurran en alguno de los delitos previstos por este Título, con excepción del delito de terrorismo, cuya pena será de nueve a cuarenta y cinco años de prisión y de quinientos a mil ciento cincuenta días multa.
 
 ##### Artículo 145-Bis.
 
 (Se deroga).
 
-### TITULO SEGUNDO · Delitos Contra el Derecho Internacional
+### TITULO SEGUNDO · DELITOS CONTRA EL DERECHO INTERNACIONAL
 
 #### CAPITULO I · Piratería
 
@@ -1299,6 +1307,26 @@ III.- La violación de la inmunidad de un parlamentario, o la que da un salvocon
 IV.- Todo ataque o violencia de cualquier género a los escudos, emblemas o pabellones de una potencia amiga.
 
 En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces podrán imponer hasta seis años de prisión.
+
+#### CAPITULO III · TERRORISMO INTERNACIONAL
+
+##### Artículo 148 Bis.
+
+Se impondrá pena de prisión de quince a cuarenta años y de cuatrocientos a mil doscientos días multa, sin perjuicio de las penas que correspondan por los delitos que resulten:
+
+I) A quien utilizando sustancias tóxicas, armas químicas, biológicas o similares, material radioactivo o instrumentos que emitan radiaciones, explosivos o armas de fuego, o por incendio, inundación o por cualquier otro medio violento, realice en territorio mexicano, actos en contra de bienes o personas de un Estado extranjero, o de cualquier organismo u organización internacionales, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para tratar de menoscabar la autoridad de ese estado extranjero, u obligar a éste o a un organismo u organización internacionales para que tomen una determinación.
+
+II) Al que directa o indirectamente financie, aporte o recaude fondos económicos o recursos de cualquier naturaleza, con conocimiento de que serán utilizados, en todo o en parte, para cometer actos terroristas internacionales, o en apoyo de personas u organizaciones terroristas que operen en el extranjero, y
+
+III) Al que acuerde o prepare en territorio mexicano un acto terrorista que se pretenda cometer o se haya cometido en el extranjero.
+
+##### Artículo 148 Ter.
+
+Se impondrá pena de cinco a diez años de prisión y de cien a trescientos días multa, a quien encubra a un terrorista, teniendo conocimiento de su identidad o de que realiza alguna de las actividades previstas en el presente capítulo.
+
+##### Artículo 148 Quáter.
+
+Se aplicará pena de seis a doce años de prisión y de doscientos a seiscientos días multa al que amenace con cometer el delito de terrorismo a que se refiere la fracción primera del artículo 148 Bis.
 
 ### TITULO TERCERO · Delitos Contra la Humanidad
 
@@ -1466,11 +1494,11 @@ V.- Al que inundare en todo o en parte, un camino público o echare sobre él la
 
 VI.- Al que dolosamente o con fines de lucro, interrumpa o interfiera las comunicaciones, alámbricas, inalámbricas o de fibra óptica, sean telegráficas, telefónicas o satelitales, por medio de las cuales se transfieran señales de audio, de video o de datos;
 
-VII.- Al que destruya en todo o en parte o paralice por otro medio de los especificados en las fracciones anteriores, una máquina empleada en un camino de hierro, o una embarcación o destruya o deteriore un puente, un dique, una calzada o camino o una vía;
+VII. Al que destruya en todo o en parte, o paralice por otro medio de los especificados en las fracciones anteriores, una máquina empleada en un camino de hierro, o una embarcación, o destruya o deteriore un puente, un dique, una calzada o camino, o una vía;
 
-VIII.- Al que con objeto de perjudicar o dificultar las comunicaciones, modifique o altere el mecanismo de un vehículo haciendo que pierda potencia, velocidad o seguridad.
+VIII. Al que con objeto de perjudicar o dificultar las comunicaciones, modifique o altere el mecanismo de un vehículo haciendo que pierda potencia, velocidad o seguridad, y
 
-IX.- (Se deroga).
+IX. Al que difunda o transmita información falsa que en cualquier forma perjudique o pueda perjudicar la seguridad de una aeronave, de un buque o de otro tipo de vehículo de servicio público federal.
 
 ##### Artículo 168.
 
@@ -4848,3 +4876,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 6 de marzo de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Sociedades de Inversión; de la Ley del Mercado de Valores; de la Ley Federal de Instituciones de Fianzas; de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; y de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+
+*Publicado en el Diario Oficial de la Federación el 28 de junio de 2007*
+
+**ARTICULO PRIMERO.** Se reforman los artículos 2o., fracción I, 139, el segundo párrafo del 142, 145 Y 167, fracciones VII, VIII y IX; y se adicionan los artículos 139 Bis y 139 Ter, un Capítulo III al Título Segundo del Libro Segundo denominándose "Terrorismo Internacional", que incluye los artículos 148 Bis, 148 Ter y 148 Quáter, todos del Código Penal Federal, para quedar como sigue:
+
+...........
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
+
+México, D.F., a 26 de abril de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
