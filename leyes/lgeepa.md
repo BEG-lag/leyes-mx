@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2007-02-12
+last_reform_dof: 2007-07-05
 articles: 260
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
-archived: https://web.archive.org/web/20070219120702/http://www.diputados.gob.mx:80/LeyesBiblio/doc/148.doc
-source_sha256: a4ceaadc2381c01eb43cdf550da99cc19ef9dcbdc8b78ed2ae0b146052480fba
-retrieved: 2007-02-19
+archived: https://web.archive.org/web/20071213052950/http://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
+source_sha256: 0f4f5712ebe884d1a2b9f8cdfd25aa4aca44bce2b0711cc080533ed7f83e21e5
+retrieved: 2007-12-13
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 12-02-2007
-
-> Nota: Los artículos 19, fracción VI; 20 BIS 2, párrafo tercero; y 51 de esta Ley, adicionados y reformados por Decreto publicado en el Diario Oficial de la Federación el 12 de febrero de 2007, entrarán en vigor el 11 de agosto de 2007.
+Última reforma publicada DOF 05-07-2007
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -714,7 +712,7 @@ Las prerrogativas derivadas de los instrumentos económicos de mercado serán tr
 
 *Artículo reformado DOF 13-12-1996*
 
-##### ARTÍCULO 22 BIS.
+##### ARTÍCULO 22 Bis.
 
 Se consideran prioritarias, para efectos del otorgamiento de los estímulos fiscales que se establezcan conforme a la Ley de Ingresos de la Federación, las actividades relacionadas con:
 
@@ -728,7 +726,13 @@ IV.- La ubicación y reubicación de instalaciones industriales, comerciales y d
 
 V.- El establecimiento, manejo y vigilancia de áreas naturales protegidas, y
 
-VI.- En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+VI.- Los procesos, productos y servicios que, conforme a la normatividad aplicable, hayan sido certificados ambientalmente, y
+
+*Fracción adicionada DOF 05-07-2007*
+
+VII.- En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+
+*Fracción reformada DOF 05-07-2007 (se recorre)*
 
 *Artículo adicionado DOF 13-12-1996*
 
@@ -1008,15 +1012,15 @@ Los productores, empresas u organizaciones empresariales podrán desarrollar pro
 
 La Secretaría en el ámbito federal, inducirá o concertará:
 
-I.- El desarrollo de procesos productivos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con cámaras de industria, comercio y otras actividades productivas, organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
+I.- El desarrollo de procesos productivos y generación de servicios adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con cámaras de industria, comercio y otras actividades productivas, organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
 
 II.- El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstas por éstas, las cuales serán establecidas de común acuerdo con particulares o con asociaciones u organizaciones que los representen. Para tal efecto, la Secretaría podrá promover el establecimiento de normas mexicanas conforme a lo previsto en la Ley Federal sobre Metrología y Normalización;
 
-III.- El establecimiento de sistemas de certificación de procesos o productos para inducir patrones de consumo que sean compatibles o que preserven, mejoren o restauren el medio ambiente, debiendo observar, en su caso, las disposiciones aplicables de la Ley Federal sobre Metrología y Normalización, y
+III.- El establecimiento de sistemas de certificación de procesos, productos y servicios para inducir patrones de consumo que sean compatibles o que preserven, mejoren, conserven o restauren el medio ambiente, debiendo observar, en su caso, las disposiciones aplicables de la Ley Federal sobre Metrología y Normalización, y
 
 IV.- Las demás acciones que induzcan a las empresas a alcanzar los objetivos de la política ambiental superiores a las previstas en la normatividad ambiental establecida.
 
-*Artículo reformado DOF 13-12-1996*
+*Artículo reformado DOF 13-12-1996, 05-07-2007*
 
 ##### ARTÍCULO 38 BIS.
 
@@ -1182,13 +1186,17 @@ VII.- Áreas de protección de flora y fauna;
 
 VIII.- Santuarios;
 
-IX.- Parques y Reservas Estatales, y
+IX.- Parques y Reservas Estatales, así como las demás categorías que establezcan las legislaciones locales, y
+
+*Fracción reformada DOF 05-07-2007*
 
 X.- Zonas de preservación ecológica de los centros de población.
 
 Para efectos de lo establecido en el presente Capítulo, son de competencia de la Federación las áreas naturales protegidas comprendidas en las fracciones I a VIII anteriormente señaladas.
 
-Los Gobiernos de los Estados y del Distrito Federal, en los términos que establezca la legislación local en la materia, podrán establecer parques y reservas estatales en áreas relevantes a nivel de las entidades federativas, que reúnan las características señaladas en los artículos 48 y 50 respectivamente de esta Ley. Dichos parques y reservas no podrán establecerse en zonas previamente declaradas como áreas naturales protegidas de competencia de la Federación, salvo que se trate de las señaladas en la fracción VI de este artículo.
+Los Gobiernos de los Estados y del Distrito Federal, en los términos que señale la legislación local en la materia, podrán establecer parques, reservas estatales y demás categorías de manejo que establezca la legislación local en la materia, ya sea que reúnan alguna de las características señaladas en las de carácter federal o propias de acuerdo a las particularidades de cada entidad federativa. Dichas áreas naturales protegidas no podrán establecerse en zonas previamente declaradas como áreas naturales protegidas competencia de la federación, salvo que se trate de las señaladas en la fracción VI de este artículo.
+
+*Párrafo reformado DOF 05-07-2007*
 
 Asimismo, corresponde a los municipios establecer las zonas de preservación ecológicas de los centros de población, conforme a lo previsto en la legislación local.
 
@@ -1296,15 +1304,17 @@ Por su parte, en las zonas de amortiguamiento de las reservas de la biosfera só
 
 En las zonas núcleo de las áreas naturales protegidas quedará expresamente prohibido:
 
-I.- Verter o descargar contaminantes en el suelo, subsuelo y cualquier clase de cauce, vaso o acuífero, así como desarrollar cualquier actividad contaminante;
+I. Verter o descargar contaminantes en el suelo, subsuelo y cualquier clase de cauce, vaso o acuífero, así como desarrollar cualquier actividad contaminante;
 
-II.- Interrumpir, rellenar, desecar o desviar los flujos hidráulicos;
+II. Interrumpir, rellenar, desecar o desviar los flujos hidráulicos;
 
-III.- Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestres, y
+III. Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestres y extracción de tierra de monte y su cubierta vegetal;
 
-IV.- Ejecutar acciones que contravengan lo dispuesto por esta Ley, la declaratoria respectiva y las demás disposiciones que de ellas se deriven.
+IV. Introducir ejemplares o poblaciones exóticos de la vida silvestre, así como organismos genéticamente modificados, y
 
-*Artículo reformado DOF 13-12-1996*
+V. Ejecutar acciones que contravengan lo dispuesto por esta Ley, la declaratoria respectiva y las demás disposiciones que de ellas se deriven.
+
+*Artículo reformado DOF 13-12-1996, 05-07-2007*
 
 ##### ARTÍCULO 50.
 
@@ -1346,13 +1356,13 @@ En las áreas de protección de recursos naturales sólo podrán realizarse acti
 
 ##### ARTÍCULO 54.
 
-Las áreas de protección de la flora y la fauna se constituirán de conformidad con las disposiciones de esta Ley, de las Leyes Federal de Caza, de Pesca y de las demás leyes aplicables, en los lugares que contienen los hábitat de cuyo equilibrio y preservación dependen la existencia, transformación y desarrollo de las especies de flora y fauna silvestres.
+Las áreas de protección de la flora y la fauna se constituirán de conformidad con las disposiciones de esta Ley, de la Ley General de Vida Silvestre, la Ley de Pesca y demás aplicables, en los lugares que contienen los hábitat de cuyo equilibrio y preservación dependen la existencia, transformación y desarrollo de las especies de flora y fauna silvestres.
 
 En dichas áreas podrá permitirse la realización de actividades relacionadas con la preservación, repoblación, propagación, aclimatación, refugio, investigación y aprovechamiento sustentable de las especies mencionadas, así como las relativas a educación y difusión en la materia.
 
 Asimismo, podrá autorizarse el aprovechamiento de los recursos naturales a las comunidades que ahí habiten en el momento de la expedición de la declaratoria respectiva, o que resulte posible según los estudios que se realicen, el que deberá sujetarse a las normas oficiales mexicanas y usos del suelo que al efecto se establezcan en la propia declaratoria.
 
-*Artículo reformado DOF 13-12-1996*
+*Artículo reformado DOF 13-12-1996, 05-07-2007*
 
 ##### ARTÍCULO 55.
 
@@ -1856,9 +1866,9 @@ X.- La creación y administración de áreas o zonas de protección pesquera.
 
 *Fracción reformada DOF 13-12-1996*
 
-XI.- Se deroga.
+XI.- Todas aquellas prácticas de diferentes sectores productivos que afecten la calidad del agua superficial y subterránea.
 
-*Fracción derogada DOF 13-12-1996*
+*Fracción derogada DOF 13-12-1996. Adicionada DOF 19-06-2007*
 
 XII.- Se deroga.
 
@@ -2280,9 +2290,9 @@ VII.- La clasificación de cuerpos receptores de descarga de aguas residuales, d
 
 La Secretaría expedirá las normas oficiales mexicanas que se requieran para prevenir y controlar la contaminación de las aguas nacionales, conforme a lo dispuesto en esta Ley, en la Ley de Aguas Nacionales, su Reglamento y las demás disposiciones que resulten aplicables.
 
-Tratándose de normas oficiales mexicanas que se requieran para prevenir y controlar la contaminación de las aguas en zonas y aguas marinas mexicanas, la Secretaría se coordinará con la Secretaría de Marina.
+Tratándose de Normas Oficiales Mexicanas que se requieran para prevenir la contaminación de agua, la Secretaría elaborará y expedirá una Norma Mexicana en torno a la biodegradabilidad sobre los detergentes. En cuanto al etiquetado de dichos productos, se observará el cumplimiento puntual de la norma o normas referentes a los productos y servicios; etiquetados y envasado para productos de aseo de uso doméstico. En lo conducente, la Secretaría se coordinará con la Secretaría de Marina.
 
-*Párrafo adicionado DOF 31-12-2001*
+*Párrafo adicionado DOF 31-12-2001. Reformado DOF 19-06-2007*
 
 *Artículo reformado DOF 13-12-1996*
 
@@ -3368,9 +3378,9 @@ Las autoridades y servidores públicos a los que se les solicite información o 
 
 ##### ARTÍCULO 202.
 
-La Procuraduría Federal de Protección al Ambiente en el ámbito de sus atribuciones, está facultada para iniciar las acciones que procedan, ante las autoridades judiciales competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
+La Procuraduría Federal de Protección al Ambiente en el ámbito de sus atribuciones, está facultada para iniciar las acciones que procedan, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
 
-*Artículo adicionado DOF 13-12-1996*
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 05-07-2007*
 
 ##### ARTÍCULO 203.
 
@@ -3609,3 +3619,41 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 21 de diciembre de 2006.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. Jose Gildardo Guerrero Torres, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de febrero de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se adiciona y se reforma la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 19 de junio de 2007*
+
+**ARTÍCULO ÚNICO.-** Se adiciona una fracción XI al artículo 89; y se reforma el segundo párrafo del artículo 119, ambos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** La Secretaría, dentro de los 6 meses siguientes a la entrada en vigor de este Decreto deberá expedir la Norma Oficial Mexicana que sea necesaria para dar cumplimiento a las disposiciones reformadas.
+
+México, D.F., a 26 de abril de 2007.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 5 de julio de 2007*
+
+**ARTÍCULO PRIMERO.-** Se reforma la fracción III y se adiciona una nueva fracción IV, recorriéndose la actual fracción IV al numeral V del artículo 49.
+
+**ARTÍCULO SEGUNDO.** Se reforman la fracción VI del artículo 22 Bis recorriéndose las subsiguientes; las fracciones I y III del articulo 38; la fracción IX del primer párrafo y el tercer párrafo del artículo 46; y el primer párrafo del articulo 54; y el artículo 202, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se derogan las disposiciones que se opongan al presente Decreto.
+
+México, D.F., a 26 de abril de 2007.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Antonio Xavier Lopez Adame, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de julio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
