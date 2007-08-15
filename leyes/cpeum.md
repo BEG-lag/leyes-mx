@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2007-02-12
+last_reform_dof: 2007-08-15
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
-archived: https://web.archive.org/web/20070219120830/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1.doc
-source_sha256: 87e514fe3c738eb4783d60b36dbf8f83b2bde4a2a560721185cae7049bbd35b9
-retrieved: 2007-02-19
+archived: https://web.archive.org/web/20070825204535/http://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
+source_sha256: ec9f34337b53d427af3d79441c185a627bf4d87b2f5ed0c615db39dd135dcf2e
+retrieved: 2007-08-25
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 12-02-2007
+Última reforma publicada DOF 15-08-2007
 
 El C. Primer Jefe del Ejército Constitucionalista, encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -173,6 +173,22 @@ La falta de cumplimiento de dicho contrato, por lo que respecta al trabajador, s
 ##### Artículo 6o.
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho a la información será garantizado por el Estado.
+
+Para el ejercicio del derecho de acceso a la información, la Federación, los Estados y el Distrito Federal, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
+
+I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo federal, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
+
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
+
+IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante órganos u organismos especializados e imparciales, y con autonomía operativa, de gestión y de decisión.
+
+V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
+
+VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+
+VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
 ##### Artículo 7o.
 
@@ -556,7 +572,7 @@ Se podrán otorgar subsidios a actividades prioritarias, cuando sean generales, 
 
 ##### Artículo 29.
 
-En los casos de invasión, perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, de acuerdo con los Titulares de las Secretarías de Estado, los Departamentos Administrativos y la Procuraduría General de la República y con aprobación del Congreso de la Unión, y, en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país o en lugar determinado las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación, pero si se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
+En los casos de invasión, perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, de acuerdo con los Titulares de las Secretarías de Estado y la Procuraduría General de la República y con la aprobación del Congreso de la Unión y, en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país o en lugar determinado las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación; pero si se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
 
 ### Capítulo II · De los Mexicanos
 
@@ -860,11 +876,13 @@ La vecindad no se pierde por ausencia en el desempeño de cargos públicos de el
 
 IV. No estar en servicio activo en el Ejército Federal ni tener mando en la policía o gendarmería rural en el distrito donde se haga la elección, cuando menos noventa días antes de ella.
 
-V. No ser Secretario o Subsecretario de Estado, ni Ministro de la Suprema Corte de Justicia de la Nación, a menos que se separe definitivamente de sus funciones noventa días antes de la elección, en el caso de los primeros y dos años, en el caso de los Ministros;
+V. No ser titular de alguno de los organismos a los que esta Constitución otorga autonomía, ni ser Secretario o Subsecretario de Estado, ni titular de alguno de los organismos descentralizados o desconcentrados de la administración pública federal, a menos que se separe definitivamente de sus funciones 90 días antes del día de la elección.
 
-Los Gobernadores de los Estados no podrán ser electos en las entidades de sus respectivas jurisdicciones durante el periodo de su encargo, aun cuando se separen definitivamente de sus puestos.
+No ser Ministro de la Suprema Corte de Justicia de la Nación, ni Magistrado, ni Secretario del Tribunal Electoral del Poder Judicial de la Federación, ni Consejero Presidente o Consejero Electoral en los consejos General, locales o distritales del Instituto Federal Electoral, ni Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección.
 
-Los Secretarios de Gobierno de los Estados, los Magistrados y Jueces Federales o del Estado, no podrán ser electos en las entidades de sus respectivas jurisdicciones, si no se separan definitivamente de sus cargos noventa días antes de la elección.
+Los Gobernadores de los Estados y el Jefe de Gobierno del Distrito Federal no podrán ser electos en las entidades de sus respectivas jurisdicciones durante el periodo de su encargo, aun cuando se separen definitivamente de sus puestos.
+
+Los Secretarios del Gobierno de los Estados y del Distrito Federal, los Magistrados y Jueces Federales o del Estado o del Distrito Federal, así como los Presidentes Municipales y titulares de algún órgano político-administrativo en el caso del Distrito Federal, no podrán ser electos en las entidades de sus respectivas jurisdicciones, si no se separan definitivamente de sus cargos noventa días antes del día de la elección;
 
 VI. No ser Ministro de algún culto religioso, y
 
@@ -1040,7 +1058,7 @@ VIII. Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos s
 
 IX. Para impedir que en el comercio de Estado a Estado se establezcan restricciones.
 
-X. Para legislar en toda la República sobre hidrocarburos, minería, industria cinematográfica, comercio, juegos con apuestas y sorteos, intermediación y servicios financieros, energía eléctrica y nuclear, y para expedir las leyes del trabajo reglamentarias del artículo 123;
+X. Para legislar en toda la República sobre hidrocarburos, minería, sustancias químicas, explosivos, pirotecnia, industria cinematográfica, comercio, juegos con apuestas y sorteos, intermediación y servicios financieros, energía eléctrica y nuclear y para expedir las leyes del trabajo reglamentarias del artículo 123;
 
 XI. Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -1056,7 +1074,7 @@ XVI. Para dictar leyes sobre nacionalidad, condición jurídica de los extranjer
 
 1a. El Consejo de Salubridad General dependerá directamente del Presidente de la República, sin intervención de ninguna Secretaría de Estado, y sus disposiciones generales serán obligatorias en el país.
 
-2a. En caso de epidemias de carácter grave o peligro de invasión de enfermedades exóticas en el País, el Departamento de Salubridad tendrá obligación de dictar inmediatamente las medidas preventivas indispensables, a reserva de ser después sancionadas por el Presidente de la República.
+2a. En caso de epidemias de carácter grave o peligro de invasión de enfermedades exóticas en el país, la Secretaría de Salud tendrá obligación de dictar inmediatamente las medidas preventivas indispensables, a reserva de ser después sancionadas por el Presidente de la República.
 
 3a. La autoridad sanitaria será ejecutiva y sus disposiciones serán obedecidas por las autoridades administrativas del País.
 
@@ -1141,6 +1159,8 @@ XXIX-K. Para expedir leyes en materia de turismo, estableciendo las bases genera
 XXIX-L. Para expedir leyes que establezcan la concurrencia del gobierno federal, de los gobiernos de las entidades federativas y de los municipios, en el ámbito de sus respectivas competencias, en materia de pesca y acuacultura, así como la participación de los sectores social y privado, y
 
 XXIX-M. Para expedir leyes en materia de seguridad nacional, estableciendo los requisitos y límites a las investigaciones correspondientes.
+
+XXIX-N. Para expedir leyes en materia de constitución, organización, funcionamiento y extinción de las sociedades cooperativas. Estas leyes establecerán las bases para la concurrencia en materia de fomento y desarrollo sustentable de la actividad cooperativa de la Federación, Estados y Municipios, así como del Distrito Federal, en el ámbito de sus respectivas competencias.
 
 XXX. Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
 
@@ -1306,7 +1326,7 @@ IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto.
 
 V. No estar en servicio activo, en caso de pertenecer al Ejército, seis meses antes del día de la elección.
 
-VI. No ser secretario o subsecretario de Estado, jefe o secretario general de Departamento Administrativo, Procurador General de la República, ni Gobernador de algún Estado, a menos de que se separe de su puesto seis meses antes del día de la elección; y
+VI. No ser Secretario o subsecretario de Estado, Procurador General de la República, gobernador de algún Estado ni Jefe de Gobierno del Distrito Federal, a menos de que se separe de su puesto seis meses antes del día de la elección; y
 
 VII. No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 83.
 
@@ -1390,9 +1410,9 @@ XX. Las demás que le confiere expresamente esta Constitución.
 
 ##### Artículo 90.
 
-La Administración Pública Federal será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso, que distribuirá los negocios del orden administrativo de la Federación que estarán a cargo de las Secretarías de Estado y Departamentos Administrativos y definirá las bases generales de creación de las entidades paraestatales y la intervención del Ejecutivo Federal en su operación.
+La Administración Pública Federal será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso, que distribuirá los negocios del orden administrativo de la Federación que estarán a cargo de las Secretarías de Estado y definirá las bases generales de creación de las entidades paraestatales y la intervención del Ejecutivo Federal en su operación.
 
-Las leyes determinarán las relaciones entre las entidades paraestatales y el Ejecutivo Federal, o entre éstas y las Secretarías de Estado y Departamentos Administrativos.
+La leyes determinarán las relaciones entre las entidades paraestatales y el Ejecutivo Federal, o entre éstas y las Secretarías de Estado.
 
 ##### Artículo 91.
 
@@ -1400,13 +1420,13 @@ Para ser Secretario del Despacho se requiere: ser ciudadano mexicano por nacimie
 
 ##### Artículo 92.
 
-Todos los Reglamentos, Decretos, Acuerdos y Ordenes del Presidente deberán estar firmados por el Secretario de Estado o Jefe de Departamento Administrativo a que el asunto corresponda, y sin este requisito no serán obedecidos.
+Todos los reglamentos, decretos, acuerdos y órdenes del Presidente deberán estar firmados por el Secretario de Estado a que el asunto corresponda, y sin este requisito no serán obedecidos.
 
 ##### Artículo 93.
 
-Los Secretarios del Despacho y los Jefes de los Departamentos Administrativos, luego que esté abierto el periodo de sesiones ordinarias, darán cuenta al Congreso, del estado que guarden sus respectivos ramos.
+Los Secretarios del Despacho, luego que esté abierto el periodo de sesiones ordinarias, darán cuenta al Congreso del estado que guarden sus respectivos ramos.
 
-Cualquiera de las Cámaras podrá citar a los secretarios de estado, al Procurador General de la República, a los jefes de los departamentos administrativos, así como a los directores y administradores de los organismos descentralizados federales o de las empresas de participación estatal mayoritaria, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
+Cualquiera de las Cámaras podrá citar a los Secretarios de Estado, al Procurador General de la República, así como a los directores y administradores de los organismos descentralizados federales o de las empresas de participación estatal mayoritaria, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
 
 Las Cámaras, a pedido de una cuarta parte de sus miembros, tratándose de los diputados, y de la mitad, si se trata de los Senadores, tienen la facultad de integrar comisiones para investigar el funcionamiento de dichos organismos descentralizados y empresas de participación estatal mayoritaria. Los resultados de las investigaciones se harán del conocimiento del Ejecutivo Federal.
 
@@ -1438,7 +1458,7 @@ Ninguna persona que haya sido Ministro podrá ser nombrada para un nuevo periodo
 
 ##### Artículo 95.
 
-Para ser electo Ministro de la Suprema Corte de Justicia de la Nación, se necesita:
+Para ser electo ministro de la Suprema Corte de Justicia de la Nación, se necesita:
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
@@ -1450,7 +1470,7 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 V. Haber residido en el país durante los dos años anteriores al día de la designación; y
 
-VI. No haber sido secretario de estado, jefe de departamento administrativo, Procurador General de la República o de Justicia del Distrito Federal, senador, diputado federal ni gobernador de algún Estado o Jefe del Distrito Federal, durante el año previo al día de su nombramiento.
+VI. No haber sido Secretario de Estado, Procurador General de la República o de Justicia del Distrito Federal, senador, diputado federal ni gobernador de algún Estado o Jefe del Distrito Federal, durante el año previo al día de su nombramiento.
 
 Los nombramientos de los Ministros deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
@@ -1812,7 +1832,7 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 ##### Artículo 110.
 
-Podrán ser sujetos de juicio político los senadores y diputados al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los Jefes de Departamento Administrativo, los Diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Procurador General de la República, el Procurador General de Justicia del Distrito Federal, los Magistrados de Circuito y Jueces de Distrito, los Magistrados y Jueces del Fuero Común del Distrito Federal, los Consejeros de la Judicatura del Distrito Federal, el consejero Presidente, los Consejeros Electorales, y el Secretario Ejecutivo del Instituto Federal Electoral, los Magistrados del Tribunal Electoral, los Directores Generales y sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
+Podrán ser sujetos de juicio político los senadores y diputados al Congreso de la Unión, los ministros de la Suprema Corte de Justicia de la Nación, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Procurador General de la República, el Procurador General de Justicia del Distrito Federal, los magistrados de Circuito y jueces de Distrito, los magistrados y jueces del Fuero Común del Distrito Federal, los Consejeros de la Judicatura del Distrito Federal, el consejero Presidente, los consejeros electorales, y el secretario ejecutivo del Instituto Federal Electoral, los magistrados del Tribunal Electoral, los directores generales y sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
 
 Los Gobernadores de los Estados, Diputados Locales, Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, sólo podrán ser sujetos de juicio político en los términos de este título por violaciones graves a esta Constitución y a las leyes federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales, pero en este caso la resolución será únicamente declarativa y se comunicará a las Legislaturas Locales para que, en ejercicio de sus atribuciones, procedan como corresponda.
 
@@ -1826,7 +1846,7 @@ Las declaraciones y resoluciones de las Cámaras de Diputados y Senadores son in
 
 ##### Artículo 111.
 
-Para proceder penalmente contra los Diputados y Senadores al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Magistrados de la Sala Superior del Tribunal Electoral, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los Jefes de Departamento Administrativo, los Diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Procurador General de la República y el Procurador General de Justicia del Distrito Federal, así como el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Federal Electoral, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los diputados y senadores al Congreso de la Unión, los ministros de la Suprema Corte de Justicia de la Nación, los magistrados de la Sala Superior del Tribunal Electoral, los consejeros de la Judicatura Federal, los Secretarios de Despacho, los diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Procurador General de la República y el Procurador General de Justicia del Distrito Federal, así como el consejero Presidente y los consejeros electorales del Consejo General del Instituto Federal Electoral, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 Si la resolución de la Cámara fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
@@ -3273,3 +3293,137 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 17 de enero de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Dip. Miguel Angel Peña Sanchez, Secretario.- Sen. Ricardo Fidel Pacheco Rodriguez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de febrero de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción VI, del artículo 82 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 19 de junio de 2007*
+
+**ARTÍCULO ÚNICO.-** Se reforma la fracción VI, del Artículo 82 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+..........
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 9 de mayo de 2007.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Carlos Ernesto Navarro López, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción V del artículo 55 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 19 de junio de 2007*
+
+**ARTÍCULO ÚNICO.-** Se reforma la fracción V del artículo 55 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+..........
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 9 de mayo de 2007.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Carlos Ernesto Navarro López, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción X del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 20 de julio de 2007*
+
+**ARTÍCULO ÚNICO.-** Se reforma la fracción X del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto. Lo anterior será sin perjuicio de las disposiciones normativas que para tal efecto expidan las entidades federativas como complemento para la prevención de accidentes, la seguridad pública y la protección civil, siempre y cuando se sujeten a lo que establezca la ley de la materia.
+
+México, D.F., a 9 de mayo de 2007.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Carlos Ernesto Navarro López, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de julio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se adiciona un segundo párrafo con siete fracciones al Artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 20 de julio de 2007*
+
+**Artículo Único.-** Se adiciona un segundo párrafo con siete fracciones al Artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** La Federación, los Estados y el Distrito Federal, en sus respectivos ámbitos de competencia, deberán expedir las leyes en materia de acceso a la información pública y transparencia, o en su caso, realizar las modificaciones necesarias, a más tardar un año después de la entrada en vigor de este Decreto.
+
+**Tercero.-** La Federación, los Estados y el Distrito Federal deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información y de los procedimientos de revisión a los que se refiere este Decreto, a más tardar en dos años a partir de la entrada en vigor del mismo. Las leyes locales establecerán lo necesario para que los municipios con población superior a setenta mil habitantes y las demarcaciones territoriales del Distrito Federal cuenten en el mismo plazo con los sistemas electrónicos respectivos.
+
+México, D.F., a 13 de junio de 2007.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Javier Orozco Gómez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de julio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 29, 73, 90, 92, 93, 95, 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 2 de agosto de 2007*
+
+**ARTÍCULO PRIMERO.-** Se reforma el artículo 29 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+...........
+
+**ARTÍCULO SEGUNDO.-** Se reforma la numeral 2 de la fracción XVI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+...........
+
+**ARTÍCULO TERCERO.-** Se reforman los dos párrafos del artículo 90 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+...........
+
+**ARTÍCULO CUARTO.-** Se reforma el artículo 92 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+...........
+
+**ARTÍCULO QUINTO.-** Se reforman los dos primeros párrafos del artículo 93 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+...........
+
+**ARTÍCULO SEXTO.-** Se reforma la fracción VI del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+...........
+
+**ARTÍCULO SÉPTIMO.-** Se reforma el primer párrafo del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+...........
+
+**ARTÍCULO OCTAVO.-** Se reforma el primer párrafo del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+...........
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** El Congreso de la Unión al inicio de la vigencia del presente Decreto hará las adecuaciones correspondientes a la legislación federal, conforme a lo estipulado en este Decreto. Los estados y el Distrito Federal deberán adecuar sus leyes conforme a las disposiciones del presente Decreto a más tardar seis meses después de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 9 de mayo de 2007.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Carlos Ernesto Navarro López, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de julio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se adiciona una fracción XXIX-N al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 15 de agosto de 2007*
+
+**ARTÍCULO ÚNICO.-** Se adiciona una fracción XXIX-N al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto.
+
+México, D.F., a 13 de junio de 2007.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Javier Orozco Gómez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de agosto de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
