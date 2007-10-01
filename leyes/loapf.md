@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2006-06-02
-articles: 60
+last_reform_dof: 2007-10-01
+articles: 61
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
-archived: https://web.archive.org/web/20060817060003/http://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
-source_sha256: 91d7d27ecb76a90a07c75c287fd8b41011883c2b9140d9232143a97c18e42b73
-retrieved: 2006-08-17
+archived: https://web.archive.org/web/20071122211426/http://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
+source_sha256: b454e01a9365699c3cd0d8a39344687295ef1251c89a3a2b5bd27939501fb79b
+retrieved: 2007-11-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 02-06-2006
+Última reforma publicada DOF 01-10-2007
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -135,6 +135,42 @@ Los acuerdos por los cuales se deleguen facultades o se adscriban unidades admin
 #### Artículo 17.
 
 Para la más eficaz atención y eficiente despacho de los asuntos de su competencia, las Secretarías de Estado y los Departamentos Administrativos podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
+
+#### Artículo 17 Bis.
+
+Las dependencias y entidades de la Administración Pública Federal, conforme a lo previsto en los reglamentos interiores o sus ordenamientos legales de creación, respectivamente, podrán contar con delegaciones en las entidades federativas o, en su caso, en regiones geográficas que abarquen más de una entidad federativa, siempre y cuando sea indispensable para prestar servicios o realizar trámites en cumplimiento de los programas a su cargo y cuenten con recursos aprobados para dichos fines en sus respectivos presupuestos y observen lo siguiente:
+
+I. Los titulares de las delegaciones serán designados por el Titular de la respectiva dependencia o entidad y tendrán las atribuciones que señalen sus reglamentos interiores o los ordenamientos legales de creación de las entidades paraestatales. Asimismo, deberán reunir por lo menos los siguientes requisitos:
+
+a) Ser ciudadano mexicano por nacimiento y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+b) Contar con estudios académicos en materias afines a las atribuciones que correspondan a la delegación respectiva;
+
+c) Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa, y
+
+d) No haber sido sentenciado por delitos patrimoniales o estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
+
+II. Los servidores públicos adscritos a las delegaciones se sujetarán a lo dispuesto en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal para efectos de su ingreso, desarrollo profesional, capacitación y certificación de capacidades; evaluación del desempeño; separación y a las demás disposiciones previstas en dicha Ley, y
+
+III. Las dependencias o entidades responsables de la ejecución de programas sujetos a reglas de operación que requieran de la participación de una o más delegaciones ubicadas en una o varias entidades federativas para entregar un beneficio social directamente a la población, deberán sujetarse a lo siguiente:
+
+a) Ejecutar el programa con estricto apego a las reglas de operación;
+
+b) Dar a conocer, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, la información siguiente:
+
+i) Las variaciones en su padrón activo, así como los resultados de su evaluación;
+
+ii) La relación de localidades en las que opera el programa;
+
+iii) El número de beneficiarios en cada una de ellas por entidad federativa, municipio y localidad;
+
+iv) El calendario de entrega de apoyos por entidad federativa, municipio y localidad, posterior a la entrega de los mismos;
+
+v) El ajuste semestral de los apoyos monetarios, de ser el caso;
+
+c) Incluir en toda la documentación y en la difusión del programa, la leyenda siguiente: “Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos a los establecidos en el programa”, y
+
+d) Realizar acciones de orientación y difusión con los beneficiarios para garantizar la transparencia y evitar cualquier manipulación política del programa.
 
 #### Artículo 18.
 
@@ -516,15 +552,15 @@ XIII.- Representar el interés de la Federación en controversias fiscales;
 
 XIV.- Proyectar y calcular los egresos del Gobierno Federal y de la administración pública paraestatal, haciéndolos compatibles con la disponibilidad de recursos y en atención a las necesidades y políticas del desarrollo nacional;
 
-XV.- Formular el programa del gasto público federal y el proyecto de Presupuesto de Egresos de la Federación y presentarlos, junto con el del Departamento del Distrito Federal, a la consideración del Presidente de la República;
+XV. Formular el programa del gasto público federal y el proyecto de Presupuesto de Egresos de la Federación y presentarlos a la consideración del Presidente de la República;
 
-XVI.- Evaluar y autorizar los programas de inversión pública de las dependencias y entidades de la administración pública federal;
+XVI. Normar, autorizar y evaluar los programas de inversión pública de la administración pública federal;
 
-XVII.- Llevar a cabo las tramitaciones y registros que requiera la vigilancia y evaluación del ejercicio del gasto público federal y de los presupuestos de egresos;
+XVII. Llevar a cabo las tramitaciones y registros que requiera el control y la evaluación del ejercicio del gasto público federal y de los programas y presupuestos de egresos, así como presidir las instancias de coordinación que establezca el Ejecutivo Federal para dar seguimiento al gasto público y sus resultados;
 
 XVIII.- Formular la Cuenta Anual de la Hacienda Pública Federal;
 
-XIX. Coordinar y desarrollar los servicios nacionales de estadística y de información geográfica, así como establecer las normas y procedimientos para su organización, funcionamiento y coordinación;
+XIX. Coordinar, conjuntamente con la Secretaría de la Función Pública, la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales, así como concertar con las dependencias y entidades de la administración pública federal y validar los indicadores estratégicos, en los términos de las disposiciones aplicables;
 
 XX.- Fijar los lineamientos que se deben seguir en la elaboración de la documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
 
@@ -914,7 +950,7 @@ XXVII.- Los demás que expresamente le fijen las leyes y reglamentos.
 
 A la Secretaría de la Función Pública corresponde el despacho de los siguientes asuntos:
 
-I. Organizar y coordinar el sistema de control y evaluación gubernamental. Inspeccionar el ejercicio del gasto público federal, y su congruencia con los presupuestos de egresos;
+I. Organizar y coordinar el sistema de control y evaluación gubernamental; inspeccionar el ejercicio del gasto público federal y su congruencia con los presupuestos de egresos; coordinar, conjuntamente con la Secretaría de Hacienda y Crédito Público, la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales, así como concertar con las dependencias y entidades de la administración pública federal y validar los indicadores de gestión, en los términos de las disposiciones aplicables;
 
 II. Expedir las normas que regulen los instrumentos y procedimientos de control de la Administración Pública Federal, para lo cual podrá requerir de las dependencias competentes, la expedición de normas complementarias para el ejercicio del control administrativo;
 
@@ -1829,3 +1865,23 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 25 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de las Leyes Federal de Presupuesto y Responsabilidad Hacendaria; Orgánica de la Administración Pública Federal; de Coordinación Fiscal; de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas.
+
+*Publicado en el Diario Oficial de la Federación el 1º de octubre de 2007*
+
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
+
+**ARTÍCULO TERCERO.-** Se REFORMAN los artículos 31, fracciones XV, XVI, XVII y XIX, y 37, fracción I, y se ADICIONA el artículo 17 Bis, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
+
+México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Patricia Villanueva Abrajan, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de septiembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
