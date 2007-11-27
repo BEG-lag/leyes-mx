@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2007-06-28
-articles: 505
+last_reform_dof: 2007-11-27
+articles: 506
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-archived: https://web.archive.org/web/20071122205505/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-source_sha256: 8b05d3c1a2aaf361239460233d42f372604bce318a9d0a907a13570d09391e00
-retrieved: 2007-11-22
+archived: https://web.archive.org/web/20071213050020/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
+source_sha256: 6e2de8ba5594cf0ea420946de963e14518517ab4b391f5433b5d7a324cd0e294
+retrieved: 2007-12-13
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 28-06-2007
+Última reforma publicada DOF 27-11-2007
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -786,7 +786,7 @@ a) Uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el 
 
 b) Contra la salud, previsto en el artículo 194, salvo que se trate de individuos en los que concurran evidente atraso cultural, aislamiento social y extrema necesidad económica; y para la modalidad de transportación, si cumplen con los requisitos establecidos en los artículos 84 y 90, fracción I, inciso c), para lo cual deberán ser primodelincuentes, a pesar de no hallarse en los tres supuestos señalados en la excepción general de este inciso;
 
-c) Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 BIS; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; Trata de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 205; Trata de personas, previsto en el artículo 207.
+c) Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 203 y 203 bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204;
 
 d) Violación, previsto en los artículos 265, 266 y 266 bis;
 
@@ -802,9 +802,11 @@ i) Robo, previsto en los artículos 371, último párrafo; 372; 381 fracciones V
 
 j) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 bis, o
 
-II. Los que incurran en segunda reincidencia de delito doloso, o sean considerados delincuentes habituales.
+II. Trata de personas previsto en los artículos 5 y 6 de la Ley para Prevenir y Sancionar la Trata de Personas.
 
-Tratándose de los delitos comprendidos en el Título Décimo de este Código, la libertad preparatoria sólo se concederá cuando se satisfaga la reparación del daño a que se refiere la fracción III del artículo 30 o se otorgue caución que la garantice.
+III. Los que incurran en segunda reincidencia de delito doloso o sean considerados delincuentes habituales.
+
+Tratándose de los delitos comprendidos en el Titulo Décimo de este Código, la libertad preparatoria solo se concederá cuando se satisfaga la reparación del daño a que se refiere la fracción III del artículo 30 o se otorgue caución que la garantice.
 
 ##### Artículo 86.
 
@@ -1870,9 +1872,11 @@ Al responsable de este delito se le impondrá prisión de ocho a quince años y 
 
 ##### Artículo 205.
 
-Comete el delito de trata de persona menor de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien promueva, facilite, consiga, traslade, entregue o reciba a una de estas personas para someterla a cualquier forma de explotación, ya sea explotación sexual, trabajos o servicios impuestos de manera coercitiva, o para que le sea extirpado cualquiera de sus órganos, tejidos o sus componentes, dentro o fuera del territorio nacional, a quien cometa este delito se le impondrá prisión de ocho a quince años y de mil a dos mil quinientos días de multa.
+Derogado.
 
-205 BIS.- Las sanciones señaladas en los artículos 200, 201, 202, 203, 204 y 205 se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
+##### Artículo 205 bis.
+
+Las sanciones señaladas en los artículos 200, 201, 202, 203 y 204 se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
 
 a) Los que ejerzan la patria potestad, guarda o custodia;
 
@@ -1916,9 +1920,7 @@ III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbu
 
 ##### Artículo 207.
 
-Comete el delito de trata de personas quien promueva, facilite, consiga, traslade, entregue o reciba a una persona para someterla a cualquier forma de explotación, ya sea explotación sexual, trabajos o servicios impuestos de manera coercitiva, o para que le sean extirpados cualquiera de sus órganos, tejidos o sus componentes, dentro o fuera del territorio nacional.
-
-Al autor de este delito se le impondrá pena de cuatro a nueve años y de cuatrocientos a novecientos días multa.
+Derogado.
 
 #### CAPÍTULO VII · Provocación de un Delito y Apología de éste o de algún Vicio y de la Omisión de impedir un Delito que atente contra el Libre Desarrollo de la Personalidad, la Dignidad Humana o la Integridad Física o Mental.
 
@@ -4894,3 +4896,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 26 de abril de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se expide la Ley para Prevenir y Sancionar la Trata de Personas, y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; el Código Federal de Procedimientos Penales y el Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 27 de noviembre de 2007*
+
+**ARTÍCULO CUARTO.** Se reforma el artículo 85, fracción I, inciso c), se adiciona una fracción II recorriéndose en consecuencia la actual fracción II para quedar como fracción III, se reforma el artículo 205 bis y se derogan los artículos 205 y 207 todos del Código Penal Federal.
+
+**TRANSITORIOS**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Ejecutivo expedirá el Reglamento de la Ley en un término de 120 días hábiles.
+
+México, D.F., a 2 de octubre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de noviembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
