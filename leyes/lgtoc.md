@@ -3,12 +3,12 @@ title: Ley General de Títulos y Operaciones de Crédito
 abbreviation: LGTOC
 slug: lgtoc
 published_dof: 1932-08-27
-last_reform_dof: 2006-07-18
-articles: 455
+last_reform_dof: 2008-02-01
+articles: 456
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc
-archived: https://web.archive.org/web/20060817060229/http://www.diputados.gob.mx/LeyesBiblio/doc/145.doc
-source_sha256: 5341a5a378ab617320e3e9466a5b65b4d83e94374daf2113121ccf2db1ee96b2
-retrieved: 2006-08-17
+archived: https://web.archive.org/web/20080313042910/http://www.diputados.gob.mx/LeyesBiblio/doc/145.doc
+source_sha256: ce821f09d900dcfbbac48ff54fa2922cfa4a2a9b8835b8e2f72032cd4e7f3495
+retrieved: 2008-03-13
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgtoc.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 27 de agosto de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 18-07-2006
+Última reforma publicada DOF 01-02-2008
 
 Al margen un sello que dice: Poder Ejecutivo Federal.-Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -234,7 +234,7 @@ El endoso puede hacerse en blanco, con la sola firma del endosante. En este caso
 
 El endoso al portador produce los efectos del endoso en blanco.
 
-Tratándose de acciones, bonos de fundador, obligaciones, certificados de depósito certificados de participación y cheques, el endoso siempre será a favor de persona determinada; el endoso en blanco o al portador no producirá efecto alguno. Lo previsto en este párrafo no será aplicable a los cheques expedidos por cantidades hasta de cinco millones de pesos.
+Tratándose de acciones, bonos de fundador, obligaciones, certificados de depósito, certificados de participación y cheques, el endoso siempre será a favor de persona determinada; el endoso en blanco o al portador no producirá efecto alguno. Lo previsto en este párrafo no será aplicable a los cheques expedidos por cantidades superiores a las establecidas por el Banco de México, a través de disposiciones de carácter general que publique en el Diario Oficial de la Federación.
 
 ##### Artículo 33.
 
@@ -1160,7 +1160,7 @@ El cheque será siempre pagadero a la vista. Cualquiera inserción en contrario 
 
 El cheque puede ser nominativo o al portador.
 
-El cheque expedido por cantidades superiores a cinco millones de pesos, siempre deberá ser nominativo. Dicha cantidad, así como la establecida por el artículo 32 de esta Ley, se actualizará el 1o. de enero de cada año en los términos del artículo 17-A del Código Fiscal de la Federación, por el período transcurrido desde el mes de diciembre del penúltimo año hasta el mes de diciembre del último año inmediato anterior a aquél en que se actualiza.
+El cheque expedido por cantidades superiores a las establecidas por el Banco de México, a través de disposiciones de carácter general que publique en el Diario Oficial de la Federación, siempre será nominativo.
 
 El cheque que no indique a favor de quién se expide, así como el emitido a favor de persona determinada y que, además, contenga la cláusula al portador, se reputará al portador.
 
@@ -2768,9 +2768,19 @@ IV.- Por haberse cumplido la condición resolutoria a que haya quedado sujeto;
 
 V. Por convenio escrito entre fideicomitente, fiduciario y fideicomisario;
 
-VI.- Por revocación hecha por el fideicomitente, cuando éste se haya reservado expresamente ese derecho al constituir el fideicomiso; y
+VI. Por revocación hecha por el fideicomitente, cuando éste se haya reservado expresamente ese derecho al constituir el fideicomiso;
 
-VII.- En el caso del párrafo final del artículo 386.
+VII. En el caso del párrafo final del artículo 386, y
+
+VIII. En el caso del artículo 392 Bis.
+
+##### Artículo 392 Bis.
+
+En el supuesto de que a la institución fiduciaria no se le haya cubierto la contraprestación debida, en los términos establecidos en el contrato respectivo, por un periodo igual o superior a tres años, la institución fiduciaria podrá dar por terminado, sin responsabilidad, el fideicomiso.
+
+En el supuesto a que se refiere el párrafo anterior, la institución fiduciaria deberá notificar al fideicomitente y al fideicomisario su decisión de dar por terminado el fideicomiso por falta de pago de las contraprestaciones debidas por su actuación como fiduciario y establecer un plazo de quince días hábiles para que los mismos puedan cubrir los adeudos, según corresponda. En el caso de que, transcurrido el citado plazo, no se hayan cubierto las contraprestaciones debidas, la institución fiduciaria transmitirá los bienes o derechos en su poder en virtud del fideicomiso, al fideicomitente o al fideicomisario, según corresponda. En el evento de que, después de esfuerzos razonables, la institución fiduciaria no pueda encontrar o no tenga noticias del fideicomitente o fideicomisario para efectos de lo anterior y siempre que haya transcurrido el plazo señalado sin haber recibido la contraprestación correspondiente, estará facultada para abonar los referidos bienes, cuando éstos se traten de recursos líquidos entre las opciones disponibles que maximicen la recuperación, a la cuenta global de la institución a que se refiere el artículo 61 de la Ley de Instituciones de Crédito, en cuyo caso los mencionados recursos se sujetarán a las disposiciones aplicables a la citada cuenta global. Tratándose de bienes que no sean recursos líquidos, la institución fiduciaria, sin responsabilidad alguna, estará facultada para enajenar los mismos y convertirlos en recursos líquidos, para su posterior abono en la cuenta global en los términos señalados. Contra los recursos líquidos que se obtengan, podrán deducirse los gastos relacionados con la recuperación.
+
+Para efectos de este artículo se entenderá que se realizaron esfuerzos razonables por parte de la institución fiduciaria cuando se observe el procedimiento de notificación previsto en el artículo 1070 del Código de Comercio.
 
 ##### Artículo 393.
 
@@ -3293,3 +3303,103 @@ La regulación y la autorización otorgada de acuerdo a los párrafos anteriores
 México, D.F., a 27 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de julio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito, la Ley General de Títulos y Operaciones de Crédito y la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos.
+
+*Publicado en el Diario Oficial de la Federación el 1º de febrero de 2008*
+
+**SEGUNDO.-** Se REFORMAN los artículos 32, tercer párrafo; 179, segundo párrafo, y 392, fracciones VI y VII, y se ADICIONAN una fracción VIII al artículo 392 y el artículo 392 Bis de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**ARTÍCULO PRIMERO.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el artículo Noveno Transitorio del presente Decreto.
+
+**ARTÍCULO SEGUNDO.-** En términos de los artículos 7 y 28 de la Ley de Instituciones de Crédito que se reforman por virtud del presente Decreto y del primer párrafo de su artículo Noveno Transitorio, corresponderá a la Comisión Nacional Bancaria y de Valores, en sustitución de la Secretaría de Hacienda y Crédito Público, ejercer la facultad de revocar aquellas autorizaciones para el establecimiento en el territorio nacional de oficinas de representación de entidades financieras del exterior o para la organización y operación de instituciones de banca múltiple que hayan sido otorgadas con anterioridad a la entrada en vigor de este mismo Decreto, en el evento en que dichas oficinas o instituciones incurran en las causales respectivas a que se refieren esos mismos artículos.
+
+**ARTÍCULO TERCERO.-** Las instituciones de crédito que hayan celebrado operaciones con las personas a que se refiere la fracción VI del artículo 73 de la Ley de Instituciones de Crédito, y que excedan los límites máximos a que se refiere dicho artículo, deberán informarlo a la vicepresidencia de la Comisión Nacional Bancaria y de Valores encargada de su supervisión, a más tardar dentro de los treinta días hábiles siguientes a la fecha de la entrada en vigor de este Decreto, sin que al efecto puedan incrementarlas en el monto o límite establecido en el artículo 73 Bis, salvo que deriven de la capitalización de intereses.
+
+**ARTÍCULO CUARTO.-** Las instituciones de banca múltiple deberán contar con el capital mínimo a que se refiere el artículo 19 de la Ley de Instituciones de Crédito que se reforma conforme a este Decreto, a más tardar el 31 de diciembre de 2007. Entre tanto, deberán contar con el capital mínimo dado a conocer por la Comisión Nacional Bancaria y de Valores en la última publicación en el Diario Oficial de la Federación, en términos de las disposiciones aplicables con anterioridad al presente Decreto.
+
+**ARTÍCULO QUINTO.-** Las instituciones de banca múltiple que mantengan montos de crédito dispuestos y cuenten con líneas de apertura de crédito irrevocables a favor de personas relacionadas, tendrán un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para dar cumplimiento a lo dispuesto en el séptimo párrafo del artículo 73 Bis de esta Ley. El importe de las líneas de crédito que dichas instituciones hubieren otorgado con anterioridad a la entrada en vigor del presente Decreto, que exceda del límite previsto en términos del séptimo párrafo del artículo 73 Bis contenido en el artículo primero de este Decreto, en ningún caso podrá incrementarse.
+
+**ARTÍCULO SEXTO.-** En tanto la Secretaría de Hacienda y Crédito Público, el Banco de México y la Comisión Nacional Bancaria y de Valores emitan las disposiciones de carácter general a que se refieren las reformas contenidas en el presente Decreto, seguirán aplicándose las expedidas con anterioridad a la vigencia de la misma, en las materias correspondientes, en lo que no se oponga al presente Decreto.
+
+Al expedirse las disposiciones a que se refiere este artículo, se señalarán expresamente aquéllas a las que sustituyan o que queden derogadas.
+
+**ARTÍCULO SÉPTIMO.-** Sin perjuicio de lo que dispone el "Decreto por el que se reforman, derogan y adicionan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley de Instituciones de Crédito, Ley General de Instituciones y Sociedades Mutualistas de Seguros, Ley Federal de Instituciones de Fianzas, Ley para Regular las Agrupaciones Financieras, Ley de Ahorro y Crédito Popular, Ley de Inversión Extranjera, Ley del Impuesto sobre la Renta, Ley del Impuesto al Valor Agregado y del Código Fiscal de la Federación", publicado en el Diario Oficial de la Federación el 18 de julio de 2006, las sociedades financieras de objeto limitado a que se refiere la fracción IV del artículo 103 de la Ley de Instituciones de Crédito estarán a lo siguiente:
+
+I. Las autorizaciones para organizarse y operar como sociedad financiera de objeto limitado que hubiere otorgado la Secretaría de Hacienda y Crédito Público estarán vigentes hasta la fecha de entrada en vigor señalada en el artículo quinto transitorio del Decreto a que se refiere el párrafo primero de este artículo transitorio, por lo que, en esa misma fecha, quedarán sin efecto las citadas autorizaciones por ministerio de Ley. Sin perjuicio de lo anterior, durante el periodo comprendido entre la fecha de entrada en vigor del presente Decreto y la señalada en el artículo quinto transitorio del Decreto antes referido, la Secretaría de Hacienda y Crédito Público, previa audiencia de la sociedad financiera de objeto de limitado de que se trate, podrá revocar la autorización que le haya otorgado en términos de la fracción IV del artículo 103 de la Ley de Instituciones de Crédito cuando dicha sociedad se encuentre en alguno de los supuestos siguientes:
+
+a) No inicie operaciones dentro del plazo de noventa días contado a partir del otorgamiento de la autorización;
+
+b) No cuente con un capital mínimo equivalente a aquél que, para dichas sociedades, dé a conocer la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general;
+
+c) Realice alguna de las operaciones o actividades prohibidas por las reglas a que hace referencia el tercer párrafo del artículo 103 de la Ley de Instituciones de Crédito;
+
+d) Su contabilidad y registros no se ajusten a las disposiciones aplicables;
+
+e) En la celebración de sus operaciones, no se ajusten a la Ley de Instituciones de Crédito y demás disposiciones aplicables;
+
+f) Incurra en una violación directa a la Ley, a las reglas o a la autorización emitidas por la Secretaría de Hacienda y Crédito Público al no cumplir adecuadamente con su objeto social o por no otorgar créditos para la actividad o sector señalados en la autorización que le hubiere sido otorgada, por un período mayor a un año;
+
+g) Se disuelva, entre en estado de liquidación o concurso mercantil, o
+
+h) Si los accionistas, en asamblea general extraordinaria, resuelven solicitarla.
+
+Cuando, en virtud de la inspección y vigilancia que efectúe la Comisión Nacional Bancaria y de Valores, se encuentre que las operaciones de alguna sociedad financiera de objeto limitado no se ajustan a las disposiciones aplicables expedidas por la Secretaría de Hacienda y Crédito Público, el Banco de México o la Comisión Nacional Bancaria y de Valores, esta última dictará las medidas necesarias para normalizarlas y señalará un plazo para tal efecto que no excederá de noventa días naturales a partir de la notificación de dichas medidas. Si, transcurrido dicho plazo, la sociedad financiera de objeto limitado no ha regularizado las operaciones en cuestión, la Secretaría de Hacienda y Crédito Público podrá revocar la autorización.
+
+La revocación por las causales señaladas en los incisos a) a f) de la presente fracción pondrá en estado de disolución y liquidación a las sociedades financieras de objeto limitado en términos de las disposiciones de la Ley General de Sociedades Mercantiles.
+
+II. Acorde con lo previsto en el artículo octavo transitorio del Decreto citado en el primer párrafo de este Artículo, las sociedades financieras de objeto limitado en las que se mantengan vínculos patrimoniales, quedarán sujetas, en tanto conserven el carácter de sociedades financieras de objeto limitado, a lo que para las instituciones de crédito disponen los artículos 4, fracciones I a VI, y 6 de la Ley de la Comisión Nacional Bancaria y de Valores, y 24 Bis, 49, 50, 51, 65, 66, 67, 68, 69, 70, 73, 73 Bis, 73 Bis 1, 76, 93, 99, 101, 102, 115 y 115 Bis de la Ley de Instituciones de Crédito, así como las disposiciones que, al amparo del artículo 103 del mismo ordenamiento legal, hubieren expedido o expidan la Secretaría de Hacienda y Crédito Público y el Banco de México.
+
+Se entenderá por vínculo patrimonial, para efectos de las sociedades financieras de objeto limitado, lo establecido en el artículo 87-C de la Ley General de Organizaciones y Actividades Auxiliares del Crédito para las sociedades financieras de objeto múltiple.
+
+III. Las sociedades financieras de objeto limitado deberán presentar la información y documentación que, en el ámbito de sus respectivas competencias, les soliciten la Secretaría de Hacienda y Crédito Público, el Banco de México y la Comisión Nacional Bancaria y de Valores, dentro de los plazos y a través de los medios que las mismas establezcan.
+
+**ARTÍCULO OCTAVO.-** A la entrada en vigor del presente Decreto, la Comisión Nacional Bancaria y de Valores, en los términos del artículo 45-I de la Ley de Instituciones de Crédito previstos en el artículo primero de este mismo Decreto, podrá autorizar a las Instituciones Financieras del Exterior, a las Sociedades Controladoras Filiales o a las Filiales a que dicho artículo se refiere, la adquisición de acciones representativas del capital social de una o más sociedades financieras de objeto limitado, siempre y cuando se cumplan los requisitos señalados en la fracción I de dicho artículo 45-I y se modifiquen los estatutos sociales de aquella sociedad cuyas acciones sean objeto de enajenación, en caso que ésta se pretenda convertir en Filial, a efecto de cumplir con lo dispuesto en el Capítulo III del Título Segundo de dicha Ley.
+
+La vigencia de lo dispuesto en el párrafo anterior concluirá cuando entren en vigor las disposiciones a que se refiere el artículo quinto transitorio del "Decreto por el que se reforman, derogan y adicionan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley de Instituciones de Crédito, Ley General de Instituciones y Sociedades Mutualistas de Seguros, Ley Federal de Instituciones de Fianzas, Ley para Regular las Agrupaciones Financieras, Ley de Ahorro y Crédito Popular, Ley de Inversión Extranjera, Ley del Impuesto sobre la Renta, Ley del Impuesto al Valor Agregado y del Código Fiscal de la Federación", publicado en el Diario Oficial de la Federación el 18 de julio de 2006.
+
+**ARTÍCULO NOVENO.-** Las facultades que, con anterioridad a la entrada en vigor del presente Decreto, correspondían a la Secretaría de Hacienda y Crédito Público y que, por virtud del mismo, se asignan a la Comisión Nacional Bancaria y de Valores quedarán conferidas a ésta, una vez cumplido el plazo de ciento veinte días naturales contados a partir de la fecha de publicación del presente Decreto.
+
+Durante el plazo a que se refiere el párrafo anterior, la Secretaría de Hacienda y Crédito Público continuará ejerciendo sus facultades de conformidad con las disposiciones en la materia vigentes hasta la entrada en vigor de este Decreto. Asimismo, respecto de aquellas solicitudes de autorización o aprobación que dicha Secretaría reciba dentro del plazo a que se refiere este artículo, corresponderá a ésta darles trámite y resolver lo conducente, para lo cual podrá, aún después de la conclusión de dicho plazo, continuar ejerciendo sus facultades conferidas con fundamento en las disposiciones en la materia vigentes hasta la entrada en vigor de este Decreto. En todo caso, a partir de la entrada en vigor del presente Decreto, las solicitudes que se presenten a la Secretaría de Hacienda y Crédito Público para su trámite y resolución y que se ubiquen en alguno de los supuestos previstos en este párrafo deberán ajustarse a las disposiciones en la materia como se reforman, adicionan y derogan conforme a este Decreto.
+
+**ARTÍCULO DÉCIMO.-** En tanto la Comisión Nacional Bancaria y de Valores emite las disposiciones de carácter general a que se refiere el artículo 46 Bis 1 de la Ley de Instituciones de Crédito que se adiciona mediante el presente Decreto, seguirán aplicándose las emitidas por dicha Comisión, de conformidad con el artículo 46 Bis vigente antes de la entrada en vigor de este Decreto, en lo que no se oponga al presente Decreto.
+
+**ARTÍCULO DÉCIMO PRIMERO.-** Las cesiones o descuentos de cartera que, de conformidad con las disposiciones aplicables, hayan celebrado las instituciones de crédito con anterioridad a la entrada en vigor del presente Decreto, incluyendo aquellas que, por virtud de la autorización genérica de la Comisión Nacional Bancaria y de Valores contenida en las reglas generales emitidas por ésta, hayan sido realizadas con cualquier persona física o moral, nacional o extranjera, distinta del Banco de México, de otras instituciones de crédito o de fideicomisos constituidos por el Gobierno Federal para el fomento económico, en que las primeras instituciones no hayan asumido responsabilidad o riesgo asociado a la cobranza de la cartera respectiva, continuarán siendo válidas y, en consecuencia, producirán todos los efectos que en derecho corresponda.
+
+Asimismo, quedarán incluidas en el supuesto a que se refiere el párrafo anterior aquellas cesiones o descuentos de cartera de instituciones de crédito en las que éstas hayan asumido la responsabilidad o el riesgo a que se refiere este artículo y que, en este caso, hayan sido autorizadas en lo particular por la propia Comisión de conformidad con las disposiciones emitidas al efecto.
+
+**ARTÍCULO DÉCIMO SEGUNDO.-** Lo previsto en el artículo 106 Bis de la Ley de Instituciones de Crédito se establece sin perjuicio de las consecuencias que hayan derivado de la violación de normas o disposiciones de carácter general emitidas o expedidas con anterioridad a la entrada en vigor del presente Decreto.
+
+**ARTÍCULO DÉCIMO TERCERO.-** Hasta en tanto el Banco de México expida las disposiciones de carácter general a que se refieren los artículos 32 y 179 de la Ley General de Títulos y Operaciones de Crédito, seguirá aplicándose lo dispuesto en dichos artículos conforme al texto vigente antes de la entrada en vigor de este Decreto.
+
+**ARTÍCULO DÉCIMO CUARTO.-** Se considerarán como parte del Sistema Bancario Mexicano, por lo que quedarán sujetos a la supervisión de la Comisión Nacional Bancaria y de Valores y les será aplicable la regulación señalada en el artículo 134 Bis 4 de la Ley de Instituciones de Crédito que se adiciona por virtud del presente Decreto, los fideicomisos públicos siguientes:
+
+I. Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura.
+
+II. Fondo de Garantía y Fomento para las Actividades Pesqueras.
+
+III. Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios.
+
+IV. Fondo Especial para Financiamientos Agropecuarios.
+
+V. Fondo de Operación y Financiamiento Bancario a la Vivienda.
+
+Sin perjuicio de lo anterior, hasta en tanto se realice la publicación prevista en el artículo 134 Bis 4 de la Ley de Instituciones de Crédito, se considerará como parte del Sistema Bancario Mexicano, al Fideicomiso Fondo Nacional de Habitaciones Populares y, en consecuencia, quedará sujeto a la supervisión y regulación de la propia Comisión a que se refiere dicha Ley.
+
+**ARTÍCULO DÉCIMO QUINTO.-** El artículo 112, fracción III de la Ley de Instituciones de Crédito vigente hasta la entrada en vigor del presente Decreto seguirá aplicándose por los hechos realizados durante su vigencia. Asimismo, dicho precepto seguirá aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por el mismo artículo.
+
+**ARTÍCULO DÉCIMO SEXTO.-** Las instituciones de banca múltiple contarán con un plazo de 120 días naturales a partir de la fecha de publicación del presente Decreto para modificar sus estatutos sociales y los títulos representativos de su capital social, conforme a lo previsto en el mismo. Tratándose de la modificación de los estatutos sociales, éstos deberán someterse a la aprobación de la Secretaría de Hacienda y Crédito Público.
+
+**ARTÍCULO DÉCIMO SÉPTIMO.-** Las instituciones de crédito que tengan vínculos de negocio establecidos con personas que a la entrada en vigor del presente Decreto, se encuentren realizando operaciones al amparo del artículo 92, tendrán un plazo que no podrá exceder de dos meses para adecuarse a lo señalado en dicho artículo y en las disposiciones de carácter general a que se refiere el artículo 46 Bis 1 de esta Ley, a partir del día siguiente al de la entrada en vigor de dichas disposiciones.
+
+**ARTÍCULO DÉCIMO OCTAVO.-** Las instituciones que a la entrada en vigor de este Decreto, se ubiquen en alguno de los supuestos previstos en las fracciones III y IV del artículo 45-P, deberán de ajustarse a lo dispuesto en el Capítulo IV de esta Ley, en un plazo que no podrá exceder de doce meses contados a partir de dicha fecha.
+
+**ARTÍCULO DÉCIMO NOVENO.-** Lo dispuesto en el último párrafo del artículo 45-R de esta Ley, no será aplicable a las designaciones futuras de director general o funcionarios o directivos que ocupen las dos jerarquías inmediatas inferiores a aquel, de instituciones de banca múltiple que se ubiquen en los supuestos previstos en el Capítulo IV del Título Segundo de la presente Ley, sólo respecto al director general o funcionarios o directivos que ocupen las dos jerarquías citadas, que al 31 de octubre de 2007 no cumplían con los requisitos establecidos en dicho último párrafo.
+
+México, D.F., a 11 de diciembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de enero de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
