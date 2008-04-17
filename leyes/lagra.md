@@ -3,12 +3,12 @@ title: Ley Agraria
 abbreviation: LAgra
 slug: lagra
 published_dof: 1992-02-26
-last_reform_dof: 1993-07-09
+last_reform_dof: 2008-04-17
 articles: 200
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc
-archived: https://web.archive.org/web/20061102053529/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13.doc
-source_sha256: 7d7382818bb7026a5d87a7c9fb031079211b44bd3d52b819597a73c3e5981c4c
-retrieved: 2006-11-02
+archived: https://web.archive.org/web/20110303155216/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13.doc
+source_sha256: eb5af33f20b6f27a421ea67d152721009ff9b89e3d0936230744919926ce8f61
+retrieved: 2011-03-03
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lagra.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 26 de febrero de 1
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-07-1993
+Última reforma publicada DOF 17-04-2008
 
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -578,9 +578,17 @@ El ejidatario puede aprovechar su parcela directamente o conceder a otros ejidat
 
 Los ejidatarios podrán enajenar sus derechos parcelarios a otros ejidatarios o avecindados del mismo núcleo de población.
 
-Para la validez de la enajenación a que se refiere este artículo bastará la conformidad por escrito de las partes ante dos testigos y la notificación que se haga al Registro Agrario Nacional, el que deberá expedir sin demora los nuevos certificados parcelarios. Por su parte el comisariado ejidal deberá realizar la inscripción correspondiente en el libro respectivo.
+Para la validez de la enajenación se requiere:
 
-El cónyuge y los hijos del enajenante, en ese orden, gozarán del derecho del tanto, el cual deberán ejercer dentro de un término de treinta días naturales contados a partir de la notificación, a cuyo vencimiento caducará tal derecho. Si no se hiciere la notificación, la venta podrá ser anulada.
+a) La manifestación de conformidad por escrito de las partes ante dos testigos, ratificada ante fedatario público;
+
+b) La notificación por escrito al cónyuge, concubina o concubinario y los hijos del enajenante, quienes, en ese orden, gozarán del derecho del tanto, el cual deberán ejercer dentro del término de treinta días naturales contados a partir de la notificación a cuyo vencimiento caducará tal derecho. Será aceptable para este efecto la renuncia expresada por escrito ante dos testigos e inscrita en el Registro Agrario Nacional, y
+
+c) Dar aviso por escrito al comisariado ejidal.
+
+Realizada la enajenación, el Registro Agrario Nacional, procederá a inscribirla y expedirá los nuevos certificados parcelarios, cancelando los anteriores. Por su parte, el comisariado ejidal deberá realizar la inscripción correspondiente en el libro respectivo.
+
+*Artículo reformado DOF 17-04-2008*
 
 ##### Artículo 81.
 
@@ -1533,3 +1541,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 30 de junio de 1993.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. César Jáuregui Robles, Presidente.- Sen. Gustavo Salinas Iñiguez, Secretario.- Dip. Diego Velázquez Duarte, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los siete días del mes de julio de 1993.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 80 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 17 de abril de 2008*
+
+**Artículo Único.-** Se reforma el artículo 80 de la Ley Agraria, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 6 de marzo de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Maria del Carmen Salvatori Bronca, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de abril de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
