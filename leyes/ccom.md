@@ -3,12 +3,12 @@ title: Código de Comercio
 abbreviation: CCom
 slug: ccom
 published_dof: 1889-10-07
-last_reform_dof: 2006-06-06
-articles: 1539
+last_reform_dof: 2008-04-17
+articles: 1551
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
-archived: https://web.archive.org/web/20080313050739/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
-source_sha256: 6c90422b41d39604760133793ba954450b89ab0bc0a1f5a17d8a8a0e78b44c8d
-retrieved: 2008-03-13
+archived: https://web.archive.org/web/20080911231431/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
+source_sha256: d985df7d5d2adf6c6ee107995cdfee1cc085974192daa8109f2b7d470d341d67
+retrieved: 2008-09-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccom.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código publicado en el Diario Oficial de la Federación el 7 de octubre d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 06-06-2006
+Última reforma publicada DOF 17-04-2008
 
 El Presidente de la República se ha servido dirigirme el decreto que sigue:
 
@@ -5374,7 +5374,7 @@ En las demás materias, a falta de acuerdo especial u omisión de las partes en 
 
 ##### Artículo 1054.
 
-En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y en su defecto se aplicará el Código Federal de Procedimientos Civiles.
+En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y en su defecto se aplicará supletoriamente el Código Federal de Procedimientos Civiles y en caso de que no regule la institución cuya suplencia se requiera, la ley de procedimientos local respectiva.
 
 ##### Artículo 1055.
 
@@ -5408,11 +5408,11 @@ Todo el que, conforme a la ley esté en el pleno ejercicio de sus derechos puede
 
 ##### Artículo 1057.
 
-El juez examinará de oficio la personalidad de las partes, pero los litigantes podrán impugnar la de su contraria cuando tengan razones para ello, en vía incidental que no suspenderá el procedimiento y la resolución que se dicte será apelable en el efecto devolutivo, sin perjuicio de lo dispuesto por el artículo 1126 de este Código.
+El juez examinará de oficio la personalidad de las partes, pero los litigantes podrán impugnar la de su contraria cuando tengan razones para ello, en vía incidental que no suspenderá el procedimiento y la resolución que se dicte será apelable en el efecto devolutivo, de tramitación inmediata, sin perjuicio de lo dispuesto por el artículo 1126 de este Código.
 
 ##### Artículo 1058.
 
-Por aquel que no estuviere presente en el lugar del juicio ni tenga representante legítimo, podrá comparecer un gestor judicial para promover en el interés del actor o del demandado, y siempre sujetándose a las disposiciones de los artículos 1896 a 1909 del Código Civil para el Distrito Federal, y gozará de los derechos y facultades de un mandatario judicial. Si la ratificación de la gestión se da antes de exhibir la fianza, la exhibición de ésta no será necesaria.
+Por aquel que no estuviere presente en el lugar del juicio ni tenga representante legítimo, podrá comparecer un gestor judicial para promover en el interés del actor o del demandado, y siempre sujetándose a las disposiciones de los artículos relativos del Código Civil Federal, y gozará de los derechos y facultades de un mandatario judicial. Si la ratificación de la gestión se da antes de exhibir la fianza, la exhibición de ésta no será necesaria.
 
 ##### Artículo 1059.
 
@@ -5458,7 +5458,7 @@ En el caso de que se demuestre haber solicitado al protocolo dependencia o archi
 
 ##### Artículo 1063.
 
-Los juicios mercantiles se substanciarán de acuerdo a los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Federal de Procedimientos Civiles.
+Los juicios mercantiles se substanciarán de acuerdo a los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Federal de Procedimientos Civiles y en último término por el Código de Procedimientos Civiles local.
 
 ##### Artículo 1064.
 
@@ -5510,7 +5510,7 @@ Cuando un litigante no cumpla con la primera parte de este artículo las notific
 
 Las partes podrán autorizar para oír notificaciones en su nombre, a una o varias personas con capacidad legal, quienes quedarán facultadas para interponer los recursos que procedan, ofrecer e intervenir en el desahogo de pruebas, alegar en las audiencias, pedir se dicte sentencia para evitar la consumación del término de caducidad por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero. Las personas autorizadas conforme a la primera parte de este párrafo, deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de abogado o licenciado en Derecho, debiendo proporcionar los datos correspondientes en el escrito en que se otorgue dicha autorización y mostrar la cédula profesional o carta de pasante para la práctica de la abogacía en las diligencias de prueba en que intervengan, en el entendido que el autorizado que no cumpla con lo anterior, perderá la facultad a que se refiere este artículo en perjuicio de la parte que lo hubiere designado, y únicamente tendrá las que se indican en el penúltimo párrafo de este artículo.
 
-Las personas autorizadas en los términos de este artículo, serán responsables de los daños y perjuicios que causen ante el que los autorice, de acuerdo a las disposiciones aplicables del Código Civil para el Distrito Federal, relativas al mandato y las demás conexas. Los autorizados podrán renunciar a dicha calidad, mediante escrito presentado al tribunal, haciendo saber las causas de la renuncia.
+Las personas autorizadas en los términos de este artículo, serán responsables de los daños y perjuicios que causen ante el que los autorice, de acuerdo a las disposiciones aplicables del Código Civil Federal, relativas al mandato y las demás conexas. Los autorizados podrán renunciar a dicha calidad, mediante escrito presentado al tribunal, haciendo saber las causas de la renuncia.
 
 Los tribunales llevarán un libro de registro de cédulas profesionales de abogados, en donde podrán registrarse los profesionistas autorizados.
 
@@ -5664,7 +5664,7 @@ Cuando la ley no señale término para la práctica de algún acto judicial, o p
 
 I. Ocho días, a juicio del juez, para que dentro de ellos se señalen fechas de audiencia para la recepción de pruebas, reconocimiento de firmas, confesión, posiciones, declaraciones, exhibición de documentos, juicio de peritos y práctica de otras diligencias, a no ser que por circunstancias especiales, creyere justo el juez ampliar el término;
 
-II. Nueve días para interponer el recurso de apelación contra sentencia definitiva y seis días cuando se trate de interlocutoria o auto, y para pedir aclaración;
+II. Nueve días para interponer el recurso de apelación contra sentencia definitiva, seis días cuando se trate de interlocutoria o auto de tramitación inmediata, y tres días para apelar preventivamente la sentencia interlocutoria o auto de tramitación conjunta con la definitiva, en los términos del artículo 1339 de este Código;
 
 III. Tres días para desahogar la vista que se les dé a las partes en toda clase de incidentes que no tengan tramitación especial;
 
@@ -6224,7 +6224,7 @@ Contra la resolución del juez que conceda la diligencia preparatoria no cabe re
 
 ##### Artículo 1154.
 
-La acción que puede ejercitarse conforme a las fracciones II y III del artículo 1151 procede contra cualquier persona que tenga en su poder las cosas que en ellas se mencionan. Mediante notificación personal se correrá traslado por el término de tres días a aquel contra quien se promueva, para que manifieste lo que a su derecho convenga, exponiendo en su caso las razones que tenga para oponerse a la exhibición o que le impidan realizarla. En dichos escritos deberán ofrecerse las pruebas, las que de admitirse se recibirán en la audiencia que debe celebrarse dentro del plazo de ocho días, y en donde se alegue y en la misma se resuelva sobre la exhibición solicitada. En caso de concederse la exhibición del bien mueble o de los documentos, el juez señalará día, hora y lugar para que se lleve a cabo la misma, con el apercibimiento que considere procedente. La resolución que niegue lo pedido será apelable en ambos efectos y la que lo conceda lo será en el devolutivo.
+La acción que puede ejercitarse conforme a las fracciones II y III del artículo 1151 procede contra cualquier persona que tenga en su poder las cosas que en ellas se mencionan. Mediante notificación personal se correrá traslado por el término de tres días a aquel contra quien se promueva, para que manifieste lo que a su derecho convenga, exponiendo en su caso las razones que tenga para oponerse a la exhibición o que le impidan realizarla. En dichos escritos deberán ofrecerse las pruebas, las que de admitirse se recibirán en la audiencia que debe celebrarse dentro del plazo de ocho días, y en donde se alegue y en la misma se resuelva sobre la exhibición solicitada. En caso de concederse la exhibición del bien mueble o de los documentos, el juez señalará día, hora y lugar para que se lleve a cabo la misma, con el apercibimiento que considere procedente. La resolución que niegue lo pedido será apelable en ambos efectos y la que lo conceda lo será en el devolutivo, de tramitación conjunta con la sentencia definitiva, que se llegue a dictar en el juicio que se promoviere, en base a dicho medio.
 
 ##### Artículo 1155.
 
@@ -6288,7 +6288,7 @@ El actor formulará su demanda en vía ejecutiva, ante el mismo juez que conoci�
 
 Cuando se despache auto de ejecución, se seguirá el juicio en la vía ejecutiva como marca la ley para los de su clase.
 
-La resolución que niegue el auto de ejecución será apelable en ambos efectos, y en caso contrario se admitirá en el efecto devolutivo.
+La resolución que niegue el auto de ejecución será apelable en ambos efectos, y en caso contrario se admitirá en el efecto devolutivo, de tramitación conjunta con la sentencia definitiva, que se llegue a dictar en el juicio que se promoviere, en base a dicho medio.
 
 ##### Artículo 1166.
 
@@ -6404,7 +6404,7 @@ En la audiencia a que se refiere el artículo anterior, se recibirán las prueba
 
 ##### Artículo 1191.
 
-Si atendido el interés del negocio hubiere lugar a la apelación, ésta se admitirá solo en el efecto devolutivo. Si la sentencia levanta la providencia precautoria, no se ejecutará sino previa fianza que dé la parte que obtuvo. La sentencia de segunda instancia causará ejecutoria. Cuando la providencia precautoria hubiere sido dictada en segunda instancia, la sentencia no admitirá recurso alguno.
+Si atendido el interés del negocio hubiere lugar a la apelación, ésta se admitirá sólo en el efecto devolutivo y será de tramitación inmediata. Si la sentencia levanta la providencia precautoria, no se ejecutará sino previa fianza que dé la parte que obtuvo. La sentencia de segunda instancia causará ejecutoria. Cuando la providencia precautoria hubiere sido dictada en segunda instancia, la sentencia no admitirá recurso alguno.
 
 ##### Artículo 1192.
 
@@ -6414,7 +6414,7 @@ Cuando la providencia precautoria se dicte por un juez que no sea el que deba co
 
 Las fianzas de que se trata en este capítulo, se otorgarán ante el tribunal que haya decretado la providencia precautoria respectiva.
 
-El fiador, o la compañía de fianzas que otorgue la garantía por cualquiera de las partes se entiende que renuncia a todos los beneficios legales, observándose en este caso, lo dispuesto en los artículos 2850 a 2855 del Código Civil para el Distrito Federal.
+El fiador, o la compañía de fianzas que otorgue la garantía por cualquiera de las partes se entiende que renuncia a todos los beneficios legales, observándose en este caso, lo dispuesto en los artículos relativos al Código Civil Federal.
 
 #### CAPITULO XII · Reglas Generales sobre la Prueba
 
@@ -6456,7 +6456,7 @@ No obstan a lo dispuesto en el artículo anterior las reglas que se establecen p
 
 ##### Artículo 1203.
 
-Al día siguiente en que termine el período del ofrecimiento de pruebas, el juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. En ningún caso se admitirán pruebas contra del derecho o la moral; que se hayan ofrecido extemporáneamente, sobre hechos no controvertidos o ajenos a la litis; sobre hechos imposibles o notoriamente inverosímiles, o bien que no reúnan los requisitos establecidos en el artículo 1198 de este Código. Contra el auto que admita alguna prueba que contravenga las prohibiciones señaladas anteriormente o que no reúna los requisitos del artículo 1198, procede la apelación en efecto devolutivo, cuando sea apelable la sentencia en lo principal. En el mismo efecto devolutivo será apelable la determinación en que se deseche cualquier prueba que ofrezcan las partes o terceros llamados a juicio, a los que siempre se les considerará como partes en el mismo.
+Al día siguiente en que termine el período del ofrecimiento de pruebas, el juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. En ningún caso se admitirán pruebas contra del derecho o la moral; que se hayan ofrecido extemporáneamente, sobre hechos no controvertidos o ajenos a la litis; sobre hechos imposibles o notoriamente inverosímiles, o bien que no reúnan los requisitos establecidos en el artículo 1198 de este Código. Contra el auto que admita alguna prueba que contravenga las prohibiciones señaladas anteriormente o que no reúna los requisitos del artículo 1198, procede la apelación en efecto devolutivo de tramitación conjunta con la sentencia definitiva, cuando sea apelable la sentencia en lo principal. En el mismo efecto devolutivo y de tramitación conjunta con dicha sentencia, será apelable la determinación en que se deseche cualquier prueba que ofrezcan las partes o terceros llamados a juicio, a los que siempre se les considerará como partes en el mismo.
 
 ##### Artículo 1204.
 
@@ -6542,11 +6542,17 @@ Las posiciones deben articularse en términos precisos; no han de ser insidiosas
 
 ##### Artículo 1223.
 
-No se procederá a citar a alguno para absolver posiciones, sino después de haber sido presentado el pliego que las contenga. Si éste se presentare cerrado, deberá guardarse así en el secreto del tribunal, asentándose la razón respectiva en la misma cubierta, que rubricará el juez y firmará el secretario.
+Si se presenta pliego de posiciones para el desahogo de la confesional, éste deberá presentarse cerrado, y guardarse así en el secreto del tribunal, asentándose la razón respectiva en la misma cubierta, que rubricará el juez y firmará el secretario. Si no se exhibe el pliego, deberá estarse a lo dispuesto en el siguiente artículo.
 
 ##### Artículo 1224.
 
-Si el citado comparece, el juez, en su presencia, abrirá el pliego, se impondrá de las posiciones, y antes de proceder al interrogatorio, calificará las preguntas conforme al art. 1222, sin más recurso que el de responsabilidad.
+Si el citado comparece, el juez, en su presencia, abrirá el pliego, se impondrá de las posiciones, y antes de proceder al interrogatorio, calificará las preguntas conforme al artículo 1222.
+
+La notificación personal al que deba absolver posiciones se practicará, por lo menos con dos días de anticipación al señalado para la audiencia, sin contar el día en que se verifique la diligencia de notificación, el día siguiente hábil en que surta efectos la misma ni el señalado para recibir la declaración.
+
+Si la oferente de la prueba decide no presentar pliego de posiciones, tendrá el derecho de articular posiciones verbales en la audiencia respectiva, pero en el caso de incomparecencia de la misma, se castigará con deserción de la confesional.
+
+Contra la calificación de posiciones, procede el recurso de apelación preventiva de tramitación conjunta con la sentencia definitiva.
 
 ##### Artículo 1225.
 
@@ -6580,7 +6586,7 @@ La declaración, una vez firmada, no puede variarse ni en la sustancia ni en la 
 
 El que deba absolver posiciones, será declarado confeso:
 
-I. Cuando sin justa causa no comparezca a absolver posiciones cuando fue citado para hacerlo, y apercibido de ser declarado confeso;
+I. Cuando sin justa causa el que deba absolver posiciones se abstenga de comparecer cuando fue citado para hacerlo, en cuyo caso la declaración se hará de oficio; siempre y cuando se encuentre exhibido con anterioridad al desahogo de la prueba el pliego de posiciones;
 
 II. Cuando se niegue a declarar;
 
@@ -6598,7 +6604,7 @@ Las partes pedirán en el mismo acto de la declaración que el tribunal exija al
 
 ##### Artículo 1235.
 
-Cuando la confesión no se haga al absolver las posiciones, sino al contestar la demanda o en cualquier otro acto del juicio, no siendo en la presencia judicial, el colitigante podrá pedir y deberá decretarse la ratificación. Hecha ésta la confesión queda perfecta.
+Cuando la confesión no se haga al absolver las posiciones, sino al contestar la demanda o en cualquier otro acto del juicio, no siendo en la presencia judicial, para que ésta quede perfeccionada, el colitigante deberá pedir la ratificación, y si existiere negativa injustificada para ratificar dicho escrito que contenga la confesión, o bien omisión de hacerlo, se acusará la correspondiente rebeldía, quedando perfecta la confesión.
 
 ##### Artículo 1236.
 
@@ -6648,25 +6654,7 @@ Los instrumentos auténticos expedidos por las autoridades federales, hacen fe e
 
 ##### Artículo 1247.
 
-Las partes sólo podrán objetar los documentos dentro de los tres días siguientes a la apertura del término de prueba, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contado desde el día siguiente a aquel en que surta efectos la notificación del auto que ordene su recepción. En ambos casos se hará en forma incidental.
-
-Podrá pedirse el cotejo de firmas y letras, siempre que se niegue o que se pongan en duda la autenticidad de un documento privado o de un documento público que carezca de matriz.
-
-La persona que pida el cotejo designará el documento o documentos indubitables con que deba hacerse, o pedirá al tribunal que cite al interesado para que en su presencia ponga la firma o letras que servirán para el cotejo.
-
-Se considerarán indubitables para el cotejo:
-
-I. Los documentos que las partes reconozcan como tales, de común acuerdo;
-
-II. Los documentos privados cuya letra o firma haya sido reconocida en juicio por aquel a quien se atribuya la dudosa;
-
-III. Los documentos cuya letra o firma haya sido judicialmente declarada propia de aquél a quien se atribuye la dudosa;
-
-IV. El escrito impugnado en la parte en que reconozca la letra como suya aquel a quien perjudique, y
-
-V. Las firmas puestas en actuaciones judiciales en presencia del secretario del tribunal por la parte cuya firma o letra se trata de comprobar.
-
-El juez podrá hacer por sí mismo la comprobación después de oír a los peritos revisores y apreciará el resultado de esta prueba conforme a las reglas de la sana crítica, sin tener que sujetarse al dictamen de aquéllos, y aún puede ordenar que se repita el cotejo por otros peritos.
+Las partes sólo podrán objetar los documentos en cuanto a su alcance y valor probatorio dentro de los tres días siguientes al auto admisorio de pruebas, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contado desde el día siguiente a aquel en que surta efectos la notificación del auto que ordene su admisión. No será necesario para la objeción a que se refiere el presente artículo la tramitación incidental de la misma.
 
 ##### Artículo 1248.
 
@@ -6680,21 +6668,43 @@ Tampoco requerirán de legalización, los documentos públicos extranjeros, cuan
 
 ##### Artículo 1250.
 
-En caso de impugnación de falsedad de un documento, se observará lo dispuesto por las siguientes reglas:
+En caso de que se niegue o se ponga en duda la autenticidad de un documento, objetándolo o impugnándolo de falso, podrá pedirse el cotejo de letras y/o firmas. Tratándose de los documentos exhibidos junto con la demanda, el demandado si pretende objetarlos o tacharlos de falsedad, deberá oponer la excepción correspondiente, y ofrecer en ese momento las pruebas que estime pertinentes, además de la prueba pericial, debiendo darse vista con dicha excepción a la parte actora, para que manifieste lo que a su derecho convenga respecto a la pertinencia de la prueba pericial, y reservándose su admisión para el auto admisorio de pruebas, sin que haya lugar a la impugnación en la vía incidental. En caso de que no se ofreciera la pericial, no será necesaria la vista a que se refiere el presente artículo sino que deberá estarse a lo dispuesto por los artículos 1379 y 1401 de este Código, según sea el caso.
 
-I. La impugnación de falsedad de un documento puede hacerse desde la contestación de la demanda y hasta diez días después de que haya terminado el período de ofrecimiento de pruebas;
+Tratándose de documentos exhibidos por la parte demandada junto con su contestación a la demanda, o bien de documentos exhibidos por cualquiera de las partes con posterioridad a los escritos que fijan la litis, la impugnación se hará en vía incidental.
 
-II. La parte que redarguye de falso un documento debe indicar específicamente los motivos y las pruebas;
+Las objeciones a que se refiere el párrafo anterior se podrán realizar desde el escrito donde se desahogue la vista de excepciones y defensas y hasta diez días antes de la celebración de la audiencia, tratándose de los presentados hasta entonces, y respecto de los que se exhiban con posterioridad, dentro de los tres días siguientes a aquel en que en su caso, sean admitidos por el tribunal.
 
-III. Cuando se impugne la autenticidad del documento privado o público sin matriz, deben señalarse los documentos indubitables para el cotejo y promover la prueba pericial correspondiente;
+Si con la impugnación a que se refieren los dos párrafos anteriores no se ofreciere la prueba pericial correspondiente o no se cumpliere con cualquiera de los requisitos necesarios para su admisión a trámite, se desechará de plano por el juzgador.
 
-IV. Sin los requisitos anteriores se tiene por no redargüido o impugnado el instrumento;
+##### Artículo 1250 bis.
 
-V. De la impugnación se correrá traslado al colitigante para que en el término de tres días manifieste lo que a su derecho convenga y ofrezca pruebas que se recibirán en audiencia incidental únicamente en lo relativo a la impugnación;
+En el caso de impugnación y objeción de falsedad de un documento, además de lo dispuesto en el artículo anterior, se observará lo dispuesto en las siguientes reglas:
 
-VI. Lo dispuesto en este artículo sólo da competencia al juez para conocer y decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna general que afecte al instrumento y sin perjuicio del procedimiento penal a que hubiera lugar, y
+I. La parte que objete la autenticidad de un documento o lo redarguya de falso, deberá indicar específicamente los motivos y las pruebas;
 
-VII. Si durante la secuela del procedimiento se tramitare diverso proceso penal sobre la falsedad del documento en cuestión, el tribunal, sin suspender el juicio y según las circunstancias, podrá determinar al dictar sentencia si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
+II. Cuando se impugne la autenticidad de un documento privado, o, público sin matriz, deberán señalarse los documentos indubitables para el cotejo, y promover la prueba pericial correspondiente;
+
+III. Sin los requisitos anteriores se tendrá por no objetado ni redargüido o impugnado el instrumento;
+
+IV. De la impugnación se correrá traslado al colitigante para que en el término de tres días manifieste lo que a su derecho convenga y ofrezca pruebas, que se recibirán en audiencia incidental únicamente en lo relativo a la objeción o impugnación;
+
+V. Lo dispuesto en este artículo sólo da competencia al juez para conocer y decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna general que afecte al instrumento y sin perjuicio del procedimiento penal a que hubiera lugar, y
+
+VI. Si durante la secuela del procedimiento se tramitare diverso proceso penal sobre la falsedad del documento en cuestión, el tribunal, sin suspender el juicio y según las circunstancias, podrá determinar al dictar la sentencia si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
+
+##### Artículo 1250 bis 1.
+
+Tanto para la objeción o impugnación de documentos sean privados, o públicos que carezcan de matriz, únicamente se considerarán indubitables para el cotejo:
+
+I. Los documentos que las partes reconozcan como tales, de común acuerdo, debiendo manifestar esa conformidad ante la presencia judicial;
+
+II. Los documentos privados cuya letra o firma haya sido reconocida en juicio a solicitud de parte, por aquél a quien se atribuya la dudosa;
+
+III. Los documentos cuya letra o firma haya sido judicialmente declarada propia de aquél a quien se atribuye la dudosa;
+
+IV. El escrito impugnado en la parte en que reconozca la letra como suya aquel a quien perjudique;
+
+V. Las firmas puestas en actuaciones judiciales en presencia del secretario del tribunal por la parte cuya firma o letra se trata de comprobar.
 
 ##### Artículo 1251.
 
@@ -6720,17 +6730,17 @@ I. Señalarán con toda precisión la ciencia, arte, técnica, oficio o industri
 
 II. Si falta cualquiera de los requisitos anteriores, el juez desechará de plano la prueba en cuestión;
 
-III. En caso de estar debidamente ofrecida, el juez la admitirá, quedando obligados los oferentes a que sus peritos, dentro del plazo de tres días, presenten escrito en el que acepten el cargo conferido y protesten su fiel y legal desempeño, debiendo anexar copia de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se les designa, manifestando, bajo protesta de decir verdad, que conocen los puntos cuestionados y pormenores relativos a la pericial, así como que tienen la capacidad suficiente para emitir dictamen sobre el particular, quedando obligados a rendir su dictamen dentro de los diez días siguientes a la fecha en que hayan presentado los escritos de aceptación y protesta del cargo de peritos;
+III. En caso de estar debidamente ofrecida, el juez la admitirá, quedando obligadas las partes a que sus peritos, dentro del plazo de tres días, presenten escrito en el que acepten el cargo conferido y protesten su fiel y legal desempeño, debiendo anexar el original o copia certificada de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se les designa; manifestando, bajo protesta de decir verdad, que conocen los puntos cuestionados y pormenores relativos a la pericial, así como que tienen la capacidad suficiente para emitir dictamen sobre el particular, quedando obligados a rendir su dictamen dentro de los diez días siguientes a la fecha en que hayan presentado los escritos de aceptación y protesta del cargo de peritos, salvo que existiera en autos causa bastante por la que tuviera que modificarse la fecha de inicio del plazo originalmente concedido. Sin la exhibición de dichos documentos justificativos de su calidad, no se tendrá por presentado al perito aceptando el cargo, con la correspondiente sanción para las partes, sin que sea necesaria la ratificación de dichos dictámenes ante la presencia judicial;
 
-IV. Cuando se trate de juicios ejecutivos, especiales o cualquier otro tipo de controversia de trámite específicamente singular, las partes quedan obligadas a cumplir dentro de los tres días siguientes al proveído en que se les tengan por designados tales peritos, conforme a lo ordenado en el párrafo anterior, quedando obligados los peritos, en estos casos, a rendir su dictamen dentro de los cinco días siguientes a la fecha en que hayan aceptado y protestado el cargo;
+IV. Cuando se trate de juicios ejecutivos, especiales o cualquier otro tipo de controversia de trámite específicamente singular, las partes quedan obligadas a cumplir dentro de los tres días siguientes al proveído en que se les tengan por designados tales peritos, conforme a lo ordenado en el párrafo anterior, quedando obligados los peritos, en estos casos, a rendir su dictamen dentro de los cinco días siguientes a la fecha en que hayan aceptado y protestado el cargo con la misma salvedad que la que se establece en la fracción anterior;
 
 V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten substancialmente contradictorios, se designará al perito tercero en discordia tomando en cuenta lo ordenado por el artículo 1255 de este código;
 
-VI. La falta de presentación del escrito del perito del oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentara el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente.
+VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.
 
-En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, se declarará desierta tal prueba;
+En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa de tres mil pesos. Dicho monto se actualizará en forma anualizada que deberá regir a partir del primero de enero de cada año de acuerdo con el Índice Nacional de Precios al Consumidor que determine el Banco de México, y que a falta de éste será aplicable el que lo sustituya;
 
-VII. Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado, así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, debiendo presentar los peritos el original de su cédula profesional, o de los documentos anexados a sus escritos de aceptación y protesta del cargo;
+VII. Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado, así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, debiendo presentar los peritos el original de su cédula profesional, o de los documentos anexados a sus escritos de aceptación y protesta del cargo, teniendo como sanción a la omisión de presentarlos, que el dictamen no se tenga por rendido;
 
 VIII. Las partes en cualquier momento podrán convenir en la designación de un sólo perito para que rinda su dictamen al cual se sujetarán, y
 
@@ -6738,15 +6748,13 @@ IX. También las partes en cualquier momento podrán manifestar su conformidad c
 
 ##### Artículo 1254.
 
-El juez, antes de admitir la prueba pericial, dará vista a la contraria por el término de tres días, para que manifieste sobre la pertinencia de tal prueba y para que proponga la ampliación de otros puntos y cuestiones además de los formulados por el oferente, para que los peritos dictaminen.
-
-En el supuesto de que alguna parte no designe el perito que le corresponda, o aquel que haya designado no comparezca en la forma señalada a aceptar el cargo o no presente su dictamen, el tribunal entenderá que dicha parte se conforma con el peritaje que rinda el perito de la contraria, como si hubiere sido nombrado de común acuerdo. Si ninguno de los peritos rinde su peritaje, la pericial que se hubiere propuesto se declarará desierta por imposibilidad para recibirla.
+El juez, antes de admitir la prueba pericial, dará vista a la contraria por el término de tres días, para que manifieste sobre la pertinencia de tal prueba y para que proponga la ampliación de otros puntos y cuestiones además de los formulados por el oferente, para que los peritos dictaminen, y para que designe perito de su parte, debiendo nombrarlo en la misma ciencia, arte, técnica, oficio o industria, en que la haya ofrecido el oferente, así como su cédula profesional, o en su caso los documentos que justifiquen su capacidad científica, artística, técnica, etc. requisito sin el cual no se le tendrá por designado, con la sanción correspondiente a que se refiere la fracción VI del artículo anterior.
 
 ##### Artículo 1255.
 
 Cuando los dictámenes rendidos resulten substancialmente contradictorios de tal modo que el juez considere que no es posible encontrar conclusiones que le aporten elementos de convicción, podrá designar un perito tercero en discordia. A este perito deberá notificársele para que dentro del plazo de tres días, presente escrito en el que acepte el cargo conferido y proteste su fiel y legal desempeño, debiendo anexar copia de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se le designa, manifestando, bajo protesta de decir verdad, que tiene la capacidad suficiente para emitir dictamen sobre el particular; así mismo señalará el monto de sus honorarios, en los términos de la legislación local correspondiente o, en su defecto, los que determine, mismos que deben ser autorizados por el juez, y serán cubiertos por ambas partes en igual proporción.
 
-El perito tercero en discordia deberá rendir su peritaje precisamente en la audiencia de pruebas, y su incumplimiento dará lugar a que el tribunal le imponga como sanción pecuniaria, en favor de las partes, el importe de una cantidad igual a la que cotizó por sus servicios al aceptar y protestar el cargo. En el mismo acto, el tribunal dictará proveído de ejecución en contra de dicho perito tercero en discordia, además de hacerlo saber al tribunal pleno, y a la asociación, colegio de profesionistas o institución que lo hubiera propuesto por así haberlo solicitado el juez, para los efectos correspondientes.
+El perito tercero en discordia deberá rendir su peritaje precisamente en la audiencia de pruebas o en la fecha en que según las circunstancias del caso señale el juez y su incumplimiento dará lugar a que el tribunal le imponga como sanción pecuniaria, en favor de las partes, el importe de una cantidad igual a la que cotizó por sus servicios al aceptar y protestar el cargo. En el mismo acto, el tribunal dictará proveído de ejecución en contra de dicho perito tercero en discordia, además de hacerlo saber al tribunal pleno, y a la asociación, colegio de profesionistas o institución que lo hubiera propuesto por así haberlo solicitado el juez, para los efectos correspondientes.
 
 En el supuesto del párrafo anterior, el juez designará otro perito tercero en discordia y, de ser necesario, suspenderá la audiencia para el desahogo de la prueba en cuestión.
 
@@ -6834,7 +6842,7 @@ Las partes tendrán obligación de presentar sus propios testigos para cuyo efec
 
 ##### Artículo 1263.
 
-Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El juez debe cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen. Contra la desestimación de preguntas sólo cabe la apelación en el efecto devolutivo.
+Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El juez debe cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen. Contra la desestimación de preguntas sólo cabe el recurso de apelación en el efecto devolutivo, de tramitación conjunta con la sentencia definitiva.
 
 ##### Artículo 1264.
 
@@ -7226,7 +7234,7 @@ De la resolución en que se decida si se concede o no la revocación o la reposi
 
 ##### Artículo 1336.
 
-Se llama apelación el recurso que se interpone para que el tribunal superior confirme, reforme o revoque las resoluciones del inferior que puedan ser impugnadas por la apelación.
+Se llama apelación el recurso que se interpone para que el tribunal superior confirme, reforme o revoque las resoluciones del inferior que puedan ser impugnadas por la apelación, en los términos que se precisan en los artículos siguientes.
 
 ##### Artículo 1337.
 
@@ -7236,25 +7244,33 @@ I. El litigante condenado en el fallo, si creyere haber recibido algún agravio;
 
 II. El vencedor que, aunque haya obtenido en el litigio, no ha conseguido la restitución de frutos, la indemnización de daños y perjuicios, o el pago de las costas, y,
 
-III. La parte que venció puede adherirse a la apelación interpuesta al notificársele la admisión de ésta, o dentro de los tres días siguientes a esa notificación. En este caso, la adhesión al recurso sigue la suerte de éste.
+III. La parte que venció puede adherirse a la apelación interpuesta al notificársele la admisión de ésta, o dentro de los tres días siguientes a esa notificación. En este caso la adhesión al recurso sigue la suerte de éste, y
+
+IV. El tercero con interés legítimo, siempre y cuando le perjudique la resolución.
 
 ##### Artículo 1338.
 
-La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o solo en el primero.
+La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sólo en el primero pudiendo ser éste, de tramitación inmediata o conjunta con la definitiva, según sea el caso.
 
 ##### Artículo 1339.
 
-En los juicios mercantiles, tanto ordinarios como ejecutivos, procederá la apelación en ambos efectos:
+Sólo son recurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo valor exceda de doscientos mil pesos por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados, a la fecha de interposición del recurso, debiendo actualizarse dicha cantidad en forma anual, de acuerdo al Índice Nacional de Precios al Consumidor que publique el Banco de México, el primero de enero de cada año, y a falta de éste será aplicable el que lo sustituya.
 
-I. Respecto de sentencias definitivas;
+Las sentencias que fueren recurribles, conforme al párrafo anterior, lo serán por la apelación que se admitirá en ambos efectos, salvo cuando la ley expresamente determine que lo sean sólo en el devolutivo.
 
-II. Respecto de sentencias interlocutorias o autos definitivos que pongan término al juicio, cualquiera que sea la naturaleza de éste.
+Sólo serán apelables los autos, interlocutorias o resoluciones que decidan un incidente o cuando lo disponga este código, y la sentencia definitiva pueda ser susceptible de apelación, de acuerdo a lo dispuesto en el primer párrafo de este artículo.
 
-En cualquier otra resolución que sea apelable, la alzada sólo se admitirá en el efecto devolutivo.
+El recurso de apelación contra autos, interlocutorias o resoluciones que se dicten en el trámite del procedimiento se admitirán en el efecto preventivo, sin que sea necesario en tal escrito la expresión de agravios; interpuesta la apelación preventiva, se mandará tenerla presente cuando se apele la sentencia definitiva y se reitere ante el superior lo pedido en su oportunidad.
+
+Para que proceda la apelación contra autos, interlocutorias o resoluciones en efecto devolutivo o en el suspensivo se requiere disposición especial de la ley.
+
+La apelación debe interponerse ante el tribunal que haya pronunciado el auto, interlocutoria o resolución, en el acto de la notificación o, a más tardar, dentro de los nueve días siguientes, si se tratare de sentencia definitiva o de seis, si fuere contra auto, interlocutoria o resolución dictada en el procedimiento si se trata de apelaciones de tramitación inmediata, y dentro de esos plazos se deben de exponer los motivos de agravio, y en el término de tres días aquellas preventivas de tramitación conjunta con la sentencia definitiva.
 
 ##### Artículo 1340.
 
-La apelación sólo procede en juicios mercantiles cuando su interés exceda de ciento ochenta y dos veces el salario mínimo general vigente, en la fecha de interposición en el lugar en que se ventile el procedimiento.
+La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los Juzgados de Paz o de Cuantía Menor o cuando el monto sea inferior a doscientos mil pesos por concepto de suerte principal, debiendo actualizarse dicha cantidad en forma anual, de acuerdo con el Índice Nacional de Precios al Consumidor que publique el Banco de México, el primero de enero de cada año, y a falta de éste será aplicable el que lo sustituya.
+
+El Consejo de la Judicatura Federal, los presidentes de los Tribunales Superiores de Justicia del Distrito Federal y de Estados tendrán la obligación de hacer saber a los juzgados y tribunales de su jurisdicción, el Índice Nacional de Precios al Consumidor a que se refiere el párrafo que antecede dentro de los primeros cinco días del año.
 
 ##### Artículo 1341.
 
@@ -7262,7 +7278,7 @@ Las sentencias interlocutorias son apelables, si lo fueren las definitivas confo
 
 ##### Artículo 1342.
 
-Las apelaciones se admitirán o denegarán de plano, y se sustanciarán con un solo escrito de cada parte y el informe en estrados, si las partes quisieren hacerlo.
+Las apelaciones se admitirán o denegarán de plano, y se sustanciarán con un solo escrito de cada parte, de acuerdo a lo dispuesto en el artículo 1344 de este Código.
 
 ##### Artículo 1343.
 
@@ -7272,29 +7288,79 @@ La sentencia de segunda instancia causará ejecutoria cuando la misma no pueda s
 
 ##### Artículo 1344.
 
-La apelación debe interponerse por escrito, dentro de nueve días improrrogables, si la sentencia fuere definitiva o dentro de seis si fuere auto o interlocutoria, y en el mismo escrito se expresarán por el recurrente los motivos de inconformidad o agravios que formule.
+En los casos no previstos en el artículo 1345, la parte que se sienta agraviada por una resolución judicial que sea apelable, dentro del tercer día de su notificación deberá por escrito hacer saber su inconformidad apelando preventivamente la misma sin expresar agravios, y en caso de que la sentencia definitiva le sea adversa, siempre y cuando apele de ella, al expresar agravios en su contra, deberá hacer valer también los agravios que considere le cause la resolución apelada preventivamente; de no presentarse el escrito de inconformidad a que se refiere este párrafo, se tendrá por precluido el derecho del afectado para hacerlo valer como agravio en la apelación que se interponga contra de la definitiva.
 
-El juez, en el auto que pronuncie al escrito de interposición del recurso, expresará si lo admite en un solo efecto o en ambos efectos, dando vista a la contraria para que en el término de tres días conteste lo que a su derecho convenga y ordenará se asiente constancia en autos de la interposición del recurso y de la remisión del cuaderno de apelación correspondiente a la Superioridad dentro de un plazo de tres días, si fueren autos originales y de cinco si se tratare de testimonio.
+El tribunal que conozca del recurso en contra de la definitiva solo tomará en consideración tales violaciones, para resolver sobre su procedencia o no, si se expresaron como agravio, siempre y cuando las mismas trasciendan al fondo del juicio, debiendo dictar una sola sentencia. En caso de que existan violaciones procesales que sean trascendentes al fondo del juicio, el tribunal dejará insubsistente la sentencia definitiva, regresando los autos originales al inferior, para que éste proceda a reponer el procedimiento reparándolas en los términos que ordena la resolución del superior.
 
-Será causa de responsabilidad la falta de envío oportuno al Superior de los autos o testimonio respectivo para la substanciación del recurso.
+En caso contrario, estudiará y resolverá la procedencia o no de los agravios expresados en contra de la definitiva.
 
 ##### Artículo 1345.
 
-Cuando la apelación proceda en un solo efecto no se suspenderá la ejecución de la resolución impugnada, pero en este caso el recurrente al interponerla deberá señalar las constancias para integrar el testimonio de apelación, que podrán ser adicionadas por la contraria y las que el juez estime necesarias, remitiéndose desde luego el testimonio que se forme al tribunal de alzada. De no señalarse las constancias por el recurrente, se tendrá por no interpuesta la apelación. Si el que no señale constancias es la parte apelada, se le tendrá por conforme con las que hubiere señalado el apelante.
+Además de los casos determinados expresamente en la ley, en la forma y términos que se establecen en este Capítulo, se tramitarán de inmediato las apelaciones que se interpongan:
 
-Respecto del señalamiento de constancias, las partes y el juez deben de cumplir con lo que se ordena en el párrafo final de este artículo.
+I. Contra el auto que niegue la admisión de la demanda, o de los medios preparatorios a juicio;
 
-Si se tratare de sentencia definitiva en que la apelación se admita en efecto devolutivo se remitirán las originales al Superior, pero se dejará en el juzgado para ejecutarla copia certificada de ella y de las demás constancias.
+II. Contra el auto que no admite a trámite la reconvención, en tratándose de juicios ordinarios;
 
-Si la apelación se admite en ambos efectos suspende desde luego la ejecución de la resolución, hasta que cause ejecutoria.
+III. Las resoluciones que por su naturaleza pongan fin al juicio;
 
-Al recibirse las constancias por el Superior, no se notificará personalmente a las partes para que comparezcan ante dicho tribunal, a menos que se haya dejado de actuar por más de seis meses.
+IV. La resolución que recaiga a las providencias precautorias, siempre y cuando de acuerdo al interés del negocio hubiere lugar a la apelación, cuya tramitación será en el efecto devolutivo.
 
-Llegados los autos o el testimonio, en su caso, al Superior, éste dentro de los tres días siguientes dictará providencia en la que decidirá sobre la admisión del recurso, la calificación del grado y la oportuna expresión de agravios y su contestación hechas por y ante el juez a quo, citando en su caso a las partes para oír sentencia, misma que se pronunciará dentro del plazo de quince días contados a partir de la citación para sentencia. Sólo cuando hubiere necesidad de que el Superior examine documentos voluminosos, podrá disfrutar de ocho días más para pronunciar resolución.
+##### Artículo 1345 bis.
 
-Declarada inadmisible la apelación, se devolverán los autos al inferior, revocada la calificación, se procederá en consecuencia.
+En los casos previstos en este Capítulo, la apelación debe interponerse ante el juez que pronunció la resolución impugnada en la forma y términos previstos en éste.
 
-El tribunal de apelación formará un solo expediente, iniciándose con la primera apelación que se integre con las constancias que se remitan por el inferior, y se continúe agregándose las subsecuentes que se remitan para el trámite de apelaciones posteriores.
+##### Artículo 1345 bis 1.
+
+El litigante al interponer la apelación de tramitación inmediata, expresará los agravios que considere le cause la resolución recurrida, salvo en aquellos que específicamente la ley establezca un trámite diverso.
+
+Las apelaciones de tramitación inmediata que se interpongan contra auto o interlocutoria, deberán hacerse valer en el término de seis días a las que se interpongan contra sentencia definitiva dentro del plazo de nueve días, contados a partir del día siguiente a aquel en que surtan efectos las notificaciones de tales resoluciones.
+
+##### Artículo 1345 bis 2.
+
+Interpuesta una apelación, si fuera procedente, el juez la admitirá sin substanciación alguna, siempre que tratándose de apelaciones de tramitación inmediata, en el escrito se hayan hecho valer los agravios respectivos, expresando en su auto si la admite en ambos efectos o en uno solo.
+
+El juez en el mismo auto admisorio ordenará se forme el testimonio de apelación respectivo con todas las constancias que obren en el expediente que se tramitare ante él, si se tratare de la primera apelación que se haga valer por las partes. Si se tratare de segunda o ulteriores apelaciones, solamente formará el testimonio de apelación con las constancias faltantes entre la última admitida y las subsecuentes, hasta la apelación de que se trate.
+
+De igual manera, al tener por interpuesto el recurso de apelación, dará vista con el mismo a la parte apelada, para que en el término de tres días conteste los agravios si se tratare de auto o sentencia interlocutoria, y de seis días si se tratare de sentencia definitiva.
+
+##### Artículo 1345 bis 3.
+
+Transcurridos los plazos señalados en el artículo anterior, sin necesidad de rebeldía y se hayan contestado o no los agravios, se remitirán al superior, los escritos originales del apelante y en su caso de la parte apelada y las demás constancias que se señalan anteriormente, o los autos originales cuando se trate de apelación en contra de sentencia definitiva, o que deba admitirse en ambos efectos. El testimonio de apelación que se forme por el juez, se remitirá a la superioridad que deba conocer del mismo, dentro del término de cinco días, contados a partir de la fecha en que precluyó el término de la parte apelada para contestar agravios, o en su caso del auto en que se tuvieron por contestados.
+
+El tribunal al recibir el testimonio formará un solo toca o cuaderno, en el que se vayan tramitando todas las apelaciones que se interpongan en el juicio de que se trate, el que deberá mantener en el local del tribunal hasta que concluya el negocio. Una vez terminado el asunto procederá a su destrucción, guardando solo copias con firma autógrafa de las resoluciones dictadas.
+
+##### Artículo 1345 bis 4.
+
+El tribunal, al recibir las constancias que remita el inferior, revisará si la apelación fue interpuesta en tiempo y bien admitida, y calificará si se confirma o no el grado en que se admitió por el inferior. De encontrarla ajustada a derecho, así lo hará saber y citará a las partes en el mismo auto para dictar sentencia, la que pronunciará y notificará dentro de los términos de este Código.
+
+En el caso de que se trate de sentencia definitiva, se dejará en el juzgado copia certificada de ella y de las demás constancias que el juez estime necesarias para ejecutarla, remitiéndose desde luego los autos originales al tribunal correspondiente.
+
+La apelación admitida en ambos efectos suspende desde luego la ejecución de la sentencia, hasta que ésta cause ejecutoria. Cuando se interponga contra auto o interlocutoria que por su contenido impida la continuación del procedimiento y la apelación se admita en ambos efectos, se suspenderá la tramitación del juicio.
+
+##### Artículo 1345 bis 5.
+
+Se admitirán en un solo efecto las apelaciones en los casos en que no se halle prevenido expresamente que se admitan en ambos efectos.
+
+##### Artículo 1345 bis 6.
+
+Una vez confirmada la admisión y calificación del grado en que haya sido admitido el recurso por el juez, el tribunal citará a las partes en el mismo auto para oír sentencia. Tratándose de apelaciones que no se tengan que resolver junto con las apelaciones intermedias que deban tramitarse y resolverse junto con ésta, o bien tratándose de apelaciones de intermedias y definitiva que se tramiten y resuelvan de manera conjunta, que no excedan en número de seis, el tribunal contará con un máximo de veinte días para elaborar el proyecto. Si el número de apelaciones que se tengan que resolver de manera conjunta exceden de seis, el plazo para dictar la sentencia se ampliará hasta por diez días más, así como en el caso de que tengan que examinarse expedientes y/o documentos voluminosos.
+
+##### Artículo 1345 bis 7.
+
+En el caso de que el apelante omitiera expresar agravios al interponer el recurso de apelación de tramitación inmediata ante el juez, sin necesidad de acusar rebeldía, declarará precluido su derecho, y quedará firme la resolución. Si no se interpusiera apelación en contra de la sentencia definitiva, se entenderán consentidas las resoluciones y autos que hubieran sido apelados durante el procedimiento, y que sean de tramitación conjunta con la definitiva.
+
+Para el caso de que el tribunal considere fundada la apelación promovida, deberá estudiar de oficio aquellas apelaciones que se hayan presentado durante el procedimiento por la parte que en la primera instancia no se encontraba obligada a apelar por haber obtenido sentencia favorable a sus intereses.
+
+##### Artículo 1345 bis 8.
+
+De los autos y de las sentencias interlocutorias de tramitación inmediata, de los que se derive una ejecución que pueda causar un daño irreparable o de difícil reparación y la apelación proceda en el efecto devolutivo, se admitirán en ambos efectos si el apelante lo solicita al interponer el recurso, y señala los motivos por los que se considera el daño irreparable o de difícil reparación.
+
+Con vista a lo solicitado el juez deberá resolver, y si la admite en ambos efectos señalará el monto de la garantía que exhibirá el apelante dentro del término de seis días para que surta efectos la suspensión.
+
+La garantía debe atender a la importancia del negocio y no podrá ser inferior a seis mil pesos; y será fijada al prudente arbitrio del juez, cantidad que se actualizará en forma anualizada que deberá regir a partir del primero de enero de cada año, de acuerdo con el Índice Nacional de Precios al Consumidor que determine el Banco de México, o aquel que lo sustituya. Si no se exhibe la garantía en el plazo señalado, la apelación sólo se admitirá en efecto devolutivo.
+
+En caso de que el juez señale una garantía que se estime por el apelante excesiva, o que se niegue la admisión del recurso, en ambos efectos, procede el recurso de revocación en los términos previsto en el Capítulo XXIV de este Código.
 
 #### CAPITULO XXVII · De la Ejecución de las Sentencias
 
@@ -7330,7 +7396,7 @@ No obstante el cumplimiento de las anteriores condiciones, el juez podrá negar 
 
 ##### Artículo 1348.
 
-Si la sentencia no contiene cantidad líquida la parte a cuyo favor se pronunció al promover la ejecución presentará su liquidación, de la cual se dará vista por tres días a la parte condenada y sea que la haya o no desahogado, el juez fallará dentro de igual plazo lo que en derecho corresponda. Esta resolución será apelable en el efecto devolutivo.
+Si la sentencia no contiene cantidad líquida la parte a cuyo favor se pronunció al promover la ejecución presentará su liquidación, de la cual se dará vista por tres días a la parte condenada y sea que la haya o no desahogado, el juez fallará dentro de igual plazo lo que en derecho corresponda. Esta resolución será apelable en el efecto devolutivo, de tramitación inmediata.
 
 #### CAPITULO XXVIII · De los Incidentes
 
@@ -7462,9 +7528,9 @@ Todas las contiendas entre partes que no tengan señalada tramitación especial 
 
 ##### Artículo 1378.
 
-En el escrito de demanda el actor deberá mencionar los documentos públicos y privados que tengan relación con dicha demanda, así como si los tiene o no a su disposición debiendo exhibir los que posea, y acreditar haber solicitado los que no tengan en los términos del artículo 1061. De igual manera, proporcionará los nombres y apellidos de los testigos que hayan presenciado los hechos contenidos en la demanda, y las copias simples prevenidas en el artículo 1061. Admitida la demanda se emplazará al demandado para que produzca su contestación dentro del término de nueve días.
+En el escrito de demanda el actor deberá mencionar los documentos públicos y privados que tengan relación con dicha demanda, así como si los tiene o no a su disposición debiendo exhibir los que posea, y acreditar haber solicitado los que no tengan en los términos del artículo 1061. De igual manera, proporcionará los nombres y apellidos de los testigos que hayan presenciado los hechos contenidos en la demanda, y las copias simples prevenidas en el artículo 1061. Admitida la demanda se emplazará al demandado para que produzca su contestación dentro del término de quince días.
 
-Con el escrito de contestación a la demanda se dará vista al actor, para que manifieste lo que a su derecho convenga dentro del término de tres días y para que mencione a los testigos que hayan presenciado los hechos, y los documentos relacionados con los hechos de la controversia.
+Con el escrito de contestación a la demanda se dará vista al actor, para que manifieste lo que a su derecho convenga dentro del término de tres días y para que mencione a los testigos que hayan presenciado los hechos, y los documentos relacionados con los hechos de la contestación de demanda.
 
 ##### Artículo 1379.
 
@@ -7604,7 +7670,7 @@ Cometerá el delito de desobediencia el ejecutado que transmita el uso del bien 
 
 ##### Artículo 1396.
 
-Hecho el embargo, acto continuo se notificará al deudor, o a la persona con quien se haya practicado la diligencia para que dentro del término de cinco días comparezca el deudor ante el juzgado a hacer paga llana de la cantidad demandada y las costas, o a oponer las excepciones que tuviere para ello.
+Hecho el embargo, acto continuo se notificará al deudor, o a la persona con quien se haya practicado la diligencia para que dentro del término de ocho días, el que se computará en términos del artículo 1075 de este Código, comparezca el deudor ante el juzgado a hacer paga llana de la cantidad demandada y las costas, o a oponer las excepciones que tuviere para ello.
 
 ##### Artículo 1397.
 
@@ -7678,6 +7744,20 @@ Concluido el término de prueba, se pasará al período de alegatos, el que ser�
 
 Presentados los alegatos o transcurrido el término para hacerlo, previa citación y dentro del término de ocho días, se pronunciará la sentencia.
 
+##### Artículo 1407 bis.
+
+Para la tramitación de apelaciones respecto del Juicio a que se refiere este Capítulo se estará a lo siguiente:
+
+I. Salvo lo previsto en la fracción III de este artículo, las resoluciones y autos que se dicten durante el procedimiento y que sean apelables, una vez interpuesta la apelación, el juez la admitirá si procede y reservará su tramitación para que se realice en su caso conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante. Si no se presentara apelación por la misma parte en contra de la definitiva, se entenderán consentidas las resoluciones y autos que hubieran sido apelados durante dicho procedimiento;
+
+II. Sólo en caso de que el tribunal considere fundada la apelación promovida por alguna de las partes, deberá estudiar de oficio, aquellas apelaciones que se hayan presentado durante el procedimiento por la parte que en la primera instancia no se encontraba obligada a apelar por no encuadrarse en los supuestos previstos en las fracciones I, II y IV del artículo 1337;
+
+III. Respecto de la sentencia definitiva, sentencias interlocutorias o autos definitivos que pongan término al juicio se admitirá la apelación en ambos efectos;
+
+IV. Las apelaciones que se interpongan con motivo de resoluciones dictadas con posterioridad a la sentencia definitiva, se substanciarán de conformidad con las reglas generales que prevé este Código, y
+
+V. En los casos a que se refieren las fracciones I y III de este artículo, una vez que el tribunal cite a las partes para oír sentencia, contará con un máximo de veinte días para elaborar el proyecto. En caso que se tengan que resolver más de seis apelaciones intermedias el plazo podrá prorrogarse hasta por diez días más, así como en el caso de que se tengan que examinar expedientes o documentos voluminosos.
+
 ##### Artículo 1408.
 
 Si en la sentencia se declara haber lugar a hacer trance y remate de los bienes embargados y pago al acreedor, en la misma sentencia se decidirá también sobre los derechos controvertidos.
@@ -7712,7 +7792,7 @@ Las partes, durante el juicio, podrán convenir en que los bienes embargados se 
 
 ##### Artículo 1414.
 
-Cualquier incidente o cuestión que se suscite en los juicios ejecutivos mercantiles, será resuelto por el juez con apoyo en las disposiciones respectivas de este título; y en su defecto, en lo relativo a los incidentes en los juicios ordinarios mercantiles; y a falta de uno u otro, a lo que disponga el Código Federal de Procedimientos Civiles, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
+Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercantiles será resuelto por el juez con apoyo en las disposiciones respectivas de este Título; y en su defecto, en lo relativo a los incidentes en los Juicios Ordinarios Mercantiles; y a falta de uno u otro, a lo que disponga el Código Federal de Procedimientos Civiles, o en su defecto la ley procesal de la Entidad Federativa correspondiente, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
 
 ### TITULO TERCERO BIS · De los Procedimientos de Ejecución de la Prenda sin Transmisión de Posesión y del Fideicomiso de Garantía
 
@@ -8701,3 +8781,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 27 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 17 de abril de 2008*
+
+**ARTÍCULO ÚNICO.-** Se reforman los Artículos 1054, 1057, 1058, 1063, 1069, 1079, 1154, 1165 último párrafo, 1191, 1193, 1203, 1223, 1224, 1232, fracción I, 1235, 1247, 1250, 1253, fracciones III, IV, VI y VII, 1254, 1255, 1263, 1336, 1337 fracción III, 1338, 1339, 1340, 1342, 1344, 1345, 1348, 1378, 1396, 1414, y se adicionan los artículos 1250 bis, 1250 bis 1, 1337 fracción IV, 1345 bis, 1345 bis 1, 1345 bis 2, 1345 bis 3, 1345 bis 4, 1345 bis 5, 1345 bis 6, 1345 bis 7, 1345 bis 8 y 1407 bis, todo del Código de Comercio, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor a los noventa días siguientes al de su publicación en el Diario Oficial de la Federación, en el entendido que los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de la presente reforma, se tramitarán con las reglas anteriores a la misma.
+
+México, D.F., a 11 de marzo de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de abril de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
