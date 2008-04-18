@@ -3,12 +3,12 @@ title: Ley de Aguas Nacionales
 abbreviation: LAN
 slug: lan
 published_dof: 1992-12-01
-last_reform_dof: 2004-04-29
+last_reform_dof: 2008-04-18
 articles: 190
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc
-archived: https://web.archive.org/web/20071122203427/http://www.diputados.gob.mx/LeyesBiblio/doc/16.doc
-source_sha256: 01e399489cc002c197af1e508add711bbde3cd89fb4097b4b80976d7052e4227
-retrieved: 2007-11-22
+archived: https://web.archive.org/web/20080611025823/http://www.diputados.gob.mx/LeyesBiblio/doc/16.doc
+source_sha256: 376508c49826019dd59fda8ebe0e1d6457d9c76c34a2943a1662984fa8bc38ae
+retrieved: 2008-06-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lan.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de diciembre d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 29-04-2004
+Última reforma publicada DOF 18-04-2008
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -3411,6 +3411,10 @@ En tanto se crean los Organismos de Cuenca, seguirán ejerciendo sus funciones l
 
 **DÉCIMO CUARTO.** "La Comisión" dispondrá de un plazo no mayor de doce meses para estructurar y poner en funcionamiento el Programa de Cuenta Nueva y Borrón, entendiendo como Cuenta Nueva, el estar al corriente de sus obligaciones del ejercicio vigente y de los últimos cuatro ejercicios en concordancia con el Código Fiscal de la Federación. En dicho Programa se establecerá su vigencia.
 
+Asimismo, la Comisión contará con un plazo de doce meses, a partir de la entrada en vigor del presente Decreto, para llevar a cabo una campaña de regularización administrativa de concesiones para la explotación, uso o aprovechamiento de aguas nacionales, cuya vigencia haya concluido. Los concesionarios que no gestionen la regularización de sus títulos en el plazo establecido, serán sancionados por la Comisión de conformidad a las disposiciones jurídicas aplicables. Este beneficio sólo será aplicado a aquellos poseedores que cuenten con antecedentes de trámites de concesiones y permisos en materia de explotación, uso o aprovechamiento de aguas nacionales, antes de los decretos presidenciales de 1995 y 1996 relativos a la materia, que demuestren fehacientemente la operación del aprovechamiento y se sujeten a los ordenamientos jurídicos aplicables y a la disponibilidad y sustentabilidad de la cuenca.
+
+*Párrafo adicionado DOF 18-04-2008*
+
 Para su debida observancia, cumplimiento y difusión, se publicará en el Diario Oficial de la Federación, así como en los principales diarios de circulación nacional.
 
 **DÉCIMO QUINTO.** En tanto se cumple con lo dispuesto en el Párrafo Tercero del Artículo 22 de esta Ley, se observará el siguiente orden de prelación de los usos del agua para la concesión y asignación de la explotación, uso o aprovechamiento de aguas nacionales, superficiales y del subsuelo, aplicable en situaciones normales:
@@ -3448,3 +3452,19 @@ Lo anterior se aplicará sin perjuicio de lo dispuesto en el Artículo 29 BIS 5 
 México, D.F., a 22 de diciembre de 2003.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Sara I. Castellanos Cortés, Secretario.- Dip. Ma. de Jesús Aguirre Maldonado, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de marzo de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+### DECRETO por el que se adiciona un Párrafo Segundo al Artículo Décimo Cuarto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Aguas Nacionales, publicado en el Diario Oficial de la Federación el 29 de abril de 2004.
+
+*Publicado en el Diario Oficial de la Federación el 18 de abril de 2008*
+
+**Artículo Único.-** Se adiciona un párrafo segundo al Artículo Décimo Cuarto Transitorio del Decreto por el que se Reforman, Adicionan y Derogan Diversas Disposiciones de la Ley de Aguas Nacionales, publicado en el Diario Oficial de la Federación, el 29 de abril de 2004, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 26 de marzo de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de abril de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
