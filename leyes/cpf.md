@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2007-11-27
+last_reform_dof: 2008-06-26
 articles: 506
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-archived: https://web.archive.org/web/20071213050020/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-source_sha256: 6e2de8ba5594cf0ea420946de963e14518517ab4b391f5433b5d7a324cd0e294
-retrieved: 2007-12-13
+archived: https://web.archive.org/web/20080911225026/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
+source_sha256: 64158cb110a5d7d3d84e6e3bff80882827847ac7713a9c5b1e473077b4ce1327
+retrieved: 2008-09-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 27-11-2007
+Última reforma publicada DOF 26-06-2008
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -798,9 +798,13 @@ g) Comercialización de objetos robados, previsto en el artículo 368 ter;
 
 h) Robo de vehículo, previsto en el artículo 376 bis;
 
-i) Robo, previsto en los artículos 371, último párrafo; 372; 381 fracciones VII, VIII, IX, X, XI y XV; y 381 bis, o
+i) Robo, previsto en los artículos 371, último párrafo; 372; 381, fracciones VII, VIII, IX, X, XI y XV; y 381 Bis;
 
-j) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 bis, o
+j) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis;
+
+k) Los previstos y sancionados en los artículos 112 Bis, 112 Ter, 112 Quáter y 112 Quintus de la Ley de Instituciones de Crédito, cuando quien lo cometa forme parte de una asociación, banda o pandilla en los términos del artículo 164, o 164 Bis, o
+
+l) Los previstos y sancionados en los artículos 432, 433, 434 y 435 de la Ley General de Títulos y Operaciones de Crédito, cuando quien lo cometa forme parte de una asociación, banda o pandilla en los términos del artículo 164 o 164 Bis.
 
 II. Trata de personas previsto en los artículos 5 y 6 de la Ley para Prevenir y Sancionar la Trata de Personas.
 
@@ -2456,19 +2460,7 @@ Al que introduzca en la República o pusiere en circulación en ella los documen
 
 ##### Artículo 240 Bis.
 
-Se impondrán de tres a nueve años de prisión y de ciento cincuenta a cuatrocientos cincuenta días multa al que, sin consentimiento de quien esté facultado para ello:
-
-I. Produzca, introduzca al país, enajene, aun gratuitamente, o altere, tarjetas o documentos utilizados para el pago de bienes y servicios, para disposición de efectivo, o esqueletos de cheque;
-
-II. Adquiera, con propósito de lucro indebido, cualquiera de los objetos a que se refiere la fracción anterior, o
-
-III. Posea o detente, sin causa legítima, cualquiera de los objetos a que se refiere la fracción I.
-
-Las mismas penas se impondrán a quien utilice indebidamente información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir los objetos a que se refiere la fracción I de este artículo.
-
-Las sanciones previstas se aplicarán con independencia de las que correspondan por cualquier otro delito cometido utilizando los objetos a que se refiere la fracción I de este artículo.
-
-Si el sujeto activo es empleado del ofendido, las penas se aumentarán en una mitad.
+Se deroga.
 
 #### CAPITULO III · Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
 
@@ -2574,7 +2566,7 @@ VII.- El que a sabiendas hiciere uso de un documento falso o de copia, transcrip
 
 ##### Artículo 247.
 
-Se impondrá de dos a seis años de prisión y multa de cien a trescientos días multa:
+Se impondrán de dos a seis años de prisión y de cien a trescientos días multa:
 
 I.- Al que interrogado por alguna autoridad pública distinta de la judicial en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad.
 
@@ -4912,3 +4904,39 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 2 de octubre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de noviembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se reforma el primer párrafo del artículo 247 del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 20 de junio de 2008*
+
+**Artículo Único.-** Se reforma el primer párrafo del artículo 247 del Código Penal Federal, para quedar como sigue:
+
+..........
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de junio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito, de la Ley General de Títulos y Operaciones de Crédito, del Código Federal de Procedimientos Penales y del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 26 de junio de 2008*
+
+**Artículo Cuarto.-** Se reforman los incisos i) y j) de la fracción I, del artículo 85; se adicionan los incisos k) y l) a la fracción I del artículo 85, y se deroga el artículo 240 Bis, del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Los delitos previstos en los artículos 112 Bis de la Ley de Instituciones de Crédito y 240 Bis del Código Penal Federal vigentes hasta la entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal Federal.
+
+**Tercero.** Para los supuestos, sujetos y efectos del artículo anterior, los delitos previstos en el artículo 240 Bis del Código Penal Federal, se seguirán calificando como graves en los términos del artículo 194 del Código Federal de Procedimientos Penales, para todos los efectos legales procedentes.
+
+México, D.F., a 22 de abril de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de junio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
