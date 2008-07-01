@@ -3,12 +3,12 @@ title: Código Fiscal de la Federación
 abbreviation: CFF
 slug: cff
 published_dof: 1981-12-31
-last_reform_dof: 2007-10-01
+last_reform_dof: 2008-07-01
 articles: 354
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/8.doc
-archived: https://web.archive.org/web/20071122200955/http://www.diputados.gob.mx/LeyesBiblio/doc/8.doc
-source_sha256: 736a05497bf8cfb77e1ffd57707461c1690df22ecdb9ce68ba10ef126e242aa3
-retrieved: 2007-11-22
+archived: https://web.archive.org/web/20080911234055/http://www.diputados.gob.mx/LeyesBiblio/doc/8.doc
+source_sha256: 85bd23fc7571531ee34589f37712216bedc4f13c86d4b9ab300bc28cf5d97453
+retrieved: 2008-09-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 31 de diciembr
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 01-10-2007
+Última reforma publicada DOF 01-07-2008
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -2089,6 +2089,8 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales federales, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias o en el supuesto previsto en el artículo 63 de este Código. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para Regular las Sociedades de Información Crediticia, así como la que se proporcione para efectos de la notificación por terceros a que se refiere el último párrafo del artículo 134 de este Código.
 
 La reserva a que se refiere el párrafo anterior no será aplicable tratándose de las investigaciones sobre conductas previstas en el artículo 400 Bis del Código Penal Federal, que realice la Secretaría de Hacienda y Crédito Público ni cuando, para los efectos del artículo 26 de la Ley del Impuesto Especial sobre Producción y Servicios, la autoridad requiera intercambiar información con la Comisión Federal para la Protección contra Riesgos Sanitarios de la Secretaría de Salud.
+
+Tampoco será aplicable dicha reserva a la Unidad de Fiscalización de los Recursos de los Partidos Políticos, órgano técnico del Consejo General del Instituto Federal Electoral, en los términos establecidos por los párrafos 3 y 4 del artículo 79 del Código Federal de Instituciones y Procedimientos Electorales, ni a las Salas del Tribunal Electoral del Poder Judicial de la Federación en los asuntos contenciosos directamente relacionados con la fiscalización de las finanzas de los partidos políticos. La información que deba suministrarse en los términos de este párrafo, sólo deberá utilizarse para los fines que dieron origen a la solicitud de información.
 
 Cuando las autoridades fiscales ejerzan las facultades a que se refiere el artículo 215 de la Ley del Impuesto sobre la Renta, la información relativa a la identidad de los terceros independientes en operaciones comparables y la información de los comparables utilizados para motivar la resolución, sólo podrá ser revelada a los tribunales ante los que, en su caso, se impugne el acto de autoridad, sin perjuicio de lo establecido en los artículos 46, fracción IV y 48, fracción VII de este Código.
 
@@ -5923,3 +5925,19 @@ III. El Servicio de Administración Tributaria, dentro de los noventa días sigu
 México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas.”
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de septiembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones al Código Fiscal de la Federación y a la Ley de Instituciones de Crédito.
+
+*Publicado en el Diario Oficial de la Federación el 1º de julio de 2008*
+
+**Artículo Primero.** Se adiciona un párrafo tercero, pasando los actuales tercer a sexto párrafos a ser cuarto a séptimo párrafos del artículo 69 del Código Fiscal de la Federación, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 20 de junio de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Jacinto Gomez Pasillas, Secretario.- Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de junio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
