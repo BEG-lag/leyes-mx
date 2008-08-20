@@ -3,12 +3,12 @@ title: Ley General de Títulos y Operaciones de Crédito
 abbreviation: LGTOC
 slug: lgtoc
 published_dof: 1932-08-27
-last_reform_dof: 2008-02-01
-articles: 456
+last_reform_dof: 2008-08-20
+articles: 460
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc
-archived: https://web.archive.org/web/20080313042910/http://www.diputados.gob.mx/LeyesBiblio/doc/145.doc
-source_sha256: ce821f09d900dcfbbac48ff54fa2922cfa4a2a9b8835b8e2f72032cd4e7f3495
-retrieved: 2008-03-13
+archived: https://web.archive.org/web/20110911083414/http://www.diputados.gob.mx:80/LeyesBiblio/doc/145.doc
+source_sha256: 33590e8741bf16b2c0dab12debd61388ec86a3f3bd88f5b94e79ba30e851655c
+retrieved: 2011-09-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgtoc.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 27 de agosto de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 01-02-2008
+Última reforma publicada DOF 20-08-2008
 
 Al margen un sello que dice: Poder Ejecutivo Federal.-Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -2814,9 +2814,11 @@ III. Instituciones de fianzas;
 
 IV. Casas de bolsa;
 
-V. Sociedades financieras de objeto múltiple a que se refiere el artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, y
+V. Sociedades financieras de objeto múltiple a que se refiere el artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito;
 
-VI. Almacenes generales de depósito.
+VI. Almacenes generales de depósito, y
+
+VII. Uniones de crédito.
 
 Las instituciones fiduciarias a que se refieren las fracciones II a IV y VI de este artículo, se sujetarán a lo que dispone el artículo 85 Bis de la Ley de Instituciones de Crédito.
 
@@ -3097,6 +3099,44 @@ En caso de que el factorante convenga con el factorado que podrá realizar visit
 ##### Artículo 431.
 
 El factorante podrá transmitir a un tercero los derechos de crédito objeto del correspondiente contrato de factoraje financiero que haya celebrado, para lo cual deberá sujetarse a las disposiciones aplicables a dicha transmisión.
+
+## Título Tercero · De los Delitos en Materia de Títulos y Operaciones de Crédito
+
+### Capítulo Único
+
+##### Artículo 432.
+
+Se sancionará con prisión de tres a nueve años y multa de treinta mil a trescientos mil días multa, al que sin causa legítima o sin consentimiento de quien esté facultado para ello, respecto de tarjetas de servicio, de crédito o en general, instrumentos utilizados en el sistema de pagos, para la adquisición de bienes y servicios, emitidos en el país o en el extranjero, por entidades comerciales no bancarias:
+
+I. Produzca, fabrique, reproduzca, introduzca al país, imprima, enajene, aun gratuitamente, comercie o altere, cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
+
+II. Adquiera, posea, detente, utilice o distribuya cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
+
+III. Obtenga, comercialice o use la información sobre clientes, cuentas u operaciones de las entidades emisoras de cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
+
+IV. Altere, copie o reproduzca la banda magnética o el medio de identificación electrónica, óptica o de cualquier otra tecnología, de cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
+
+V. Sustraiga, copie o reproduzca información contenida en alguno de los objetos a que se refiere el párrafo primero de este artículo, o
+
+VI. Posea, adquiera, utilice o comercialice equipos o medios electrónicos, ópticos o de cualquier otra tecnología para sustraer, copiar o reproducir información contenida en alguno de los objetos a que se refiere el párrafo primero de este artículo, con el propósito de obtener recursos económicos, información confidencial o reservada.
+
+Para los efectos de este capítulo, se entiende por tarjetas de servicio, las tarjetas emitidas por empresas comerciales no bancarias, a través de un contrato que regula el uso de las mismas, por medio de las cuales, los usuarios de las tarjetas, ya sean personas físicas o morales, pueden utilizarlas para la adquisición de bienes o servicios en establecimientos afiliados a la empresa comercial emisora.
+
+##### Artículo 433.
+
+Se sancionará con prisión de tres a nueve años y multa de treinta mil a trescientos mil días multa, al que posea, adquiera, utilice, comercialice o distribuya, cualquiera de los objetos a que se refiere el párrafo primero del artículo 432 de esta Ley, a sabiendas de que estén alterados o falsificados.
+
+##### Artículo 434.
+
+Se sancionará con prisión de tres a nueve años y multa de treinta mil a trescientos mil días multa, al que sin causa legítima o sin consentimiento de quien esté facultado para ello:
+
+I. Acceda a los equipos o medios electrónicos, ópticos o de cualquier otra tecnología de las entidades emisoras de cualquiera de los objetos a que se refiere el párrafo primero del artículo 432 de esta Ley, para obtener recursos económicos, información confidencial o reservada, o
+
+II. Altere o modifique el mecanismo de funcionamiento de los equipos o medios electrónicos, ópticos o de cualquier otra tecnología para la disposición de efectivo que son utilizados por los usuarios del sistema de pagos, para obtener recursos económicos, información confidencial o reservada.
+
+##### Artículo 435.
+
+La pena que corresponda podrá aumentarse hasta en una mitad más, si quien realice cualquiera de las conductas señaladas en los artículos 432, 433 y 434 de esta Ley, tiene el carácter de consejero, funcionario, empleado o prestador de servicios de cualquier entidad emisora de los objetos a que se refiere el párrafo primero del citado artículo 432, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos, o sea propietario o empleado de cualquier entidad mercantil que a cambio de bienes o servicios reciba como contraprestación el pago a través de cualquiera de los instrumentos mencionados en el artículo 432.
 
 ## TRANSITORIOS
 
@@ -3403,3 +3443,79 @@ Sin perjuicio de lo anterior, hasta en tanto se realice la publicación prevista
 México, D.F., a 11 de diciembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de enero de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito, de la Ley General de Títulos y Operaciones de Crédito, del Código Federal de Procedimientos Penales y del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 26 de junio de 2008*
+
+**Artículo Segundo.-** Se adiciona un Título Tercero a la Ley General de Títulos y Operaciones de Crédito, denominado "De los Delitos en Materia de Títulos y Operaciones de Crédito", compuesto por un Capítulo Único que incluye los artículos 432, 433, 434 y 435, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Los delitos previstos en los artículos 112 Bis de la Ley de Instituciones de Crédito y 240 Bis del Código Penal Federal vigentes hasta la entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal Federal.
+
+**Tercero.** Para los supuestos, sujetos y efectos del artículo anterior, los delitos previstos en el artículo 240 Bis del Código Penal Federal, se seguirán calificando como graves en los términos del artículo 194 del Código Federal de Procedimientos Penales, para todos los efectos legales procedentes.
+
+México, D.F., a 22 de abril de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de junio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+### DECRETO por el que se expide la Ley de Uniones de Crédito y se adiciona y reforma la Ley General de Títulos y Operaciones de Crédito.
+
+*Publicado en el Diario Oficial de la Federación el 20 de agosto de 2008*
+
+**ARTÍCULO SEGUNDO.-** Se reforman las fracciones V y VI, y adiciona una fracción VII al artículo 395 de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
+
+..........
+
+**TRANSITORIOS**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se deroga el Capítulo III del Título Segundo de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, publicada en el Diario Oficial de la Federación el 14 de enero de 1985, así como toda referencia en dicha Ley a uniones de crédito.
+
+Las uniones de crédito autorizadas para operar como tales con arreglo a las disposiciones que se derogan, se reputarán autorizadas para operar en los términos del presente Decreto.
+
+Las uniones de crédito autorizadas para operar como tales antes de la entrada en vigor del presente Decreto, únicamente podrán admitir nuevos socios que cumplan con la característica establecida en el primer párrafo del artículo 21 del artículo Primero del presente Decreto. Asimismo, no podrán renovar las operaciones que hayan pactado con los socios que no acrediten la referida característica.
+
+**Tercero.-** En tanto la Comisión Nacional Bancaria y de Valores, emite las disposiciones de carácter general a que se refiere esta Ley, seguirán aplicándose las expedidas con anterioridad a la vigencia de la misma, en las materias correspondientes, en lo que no se opongan al presente Decreto. Al expedirse las disposiciones a que se refiere este artículo, se señalarán expresamente aquéllas a las que sustituyan o queden derogadas.
+
+Sin perjuicio de lo anterior, a la fecha de entrada en vigor del presente Decreto se deroga el Acuerdo por el que se determinan los capitales mínimos con que deberán contar los almacenes generales de depósito, arrendadoras financieras, uniones de crédito, empresas de factoraje financiero y casas de cambio para el año 2008, publicado en el Diario Oficial de la Federación el 31 de marzo de 2008, en todo lo relativo a uniones de crédito.
+
+**Cuarto.-** Las uniones de crédito contarán con un plazo de dos años contados a partir de la entrada en vigor del presente Decreto para ajustarse a las disposiciones a que se refieren los artículos 61 y 62 de la Ley de Uniones de Crédito.
+
+**Quinto.-** Las autorizaciones otorgadas a las uniones de crédito y los demás actos administrativos realizados con fundamento en la Ley General de Organizaciones y Actividades Auxiliares del Crédito, que conforme a lo dispuesto en el presente Decreto corresponda llevar a cabo a la Comisión Nacional Bancaria y de Valores, continuarán en vigor, hasta que, en su caso, sean revocadas o sus términos modificados expresamente por dicha Comisión o bien, dejen de producir sus efectos.
+
+**Sexto.-** Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos previstos en el presente Decreto.
+
+**Séptimo.-** Las uniones de crédito contarán con un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto para presentar a la Comisión Nacional Bancaria y de Valores, para su aprobación, sus estatutos sociales a fin de que ajusten su operación a lo previsto en el referido Decreto.
+
+**Octavo.-** A la entrada en vigor del presente Decreto todas las uniones de crédito que hayan sido autorizadas para operar como tales en términos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, serán clasificadas con un nivel de operaciones I.
+
+Las uniones de crédito podrán solicitar a la Comisión Nacional Bancaria y de Valores, que les autorice el cambio de nivel de operaciones previo cumplimiento de los requisitos a que se refieren los artículos 39 y 43 del artículo Primero de este Decreto.
+
+**Noveno.-** Las uniones de crédito que a la entrada en vigor del presente Decreto no cumplan con el capital mínimo previsto en el artículo 18 del artículo Primero del presente Decreto para el nivel de operaciones I, contarán con un plazo de cinco años para integrar el capital mínimo referido.
+
+Transcurrido el plazo citado, las autorizaciones que haya otorgado la Comisión Nacional Bancaria y de Valores para la constitución y operación de uniones de crédito que no cuenten con un capital mínimo equivalente en moneda nacional al valor de 2,000,000 de unidades de inversión, quedarán sin efecto por ministerio de ley, por lo que las sociedades que tengan dicho carácter dejarán de ser uniones de crédito.
+
+Las sociedades señaladas en el párrafo anterior no estarán obligadas a disolverse y liquidarse por el hecho de que, conforme a lo dispuesto por el párrafo anterior, queden sin efecto las autorizaciones respectivas, aunque, para continuar operando, deberán:
+
+I. Reformar sus estatutos sociales a efecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son uniones de crédito y que se encuentran autorizadas por la Comisión Nacional Bancaria y de Valores para constituirse y funcionar con tal carácter.
+
+II. Presentar a la Comisión Nacional Bancaria y de Valores, a más tardar ciento ochenta días naturales el instrumento público en el que conste la reforma estatutaria referida en la fracción anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
+
+Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.
+
+La Comisión Nacional Bancaria y de Valores, publicará en el Diario Oficial de la Federación aquéllas autorizaciones que conforme a este artículo queden sin efecto.
+
+**Décimo.-** Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera.
+
+México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de agosto de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
