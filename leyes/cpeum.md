@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2008-08-29
+last_reform_dof: 2008-09-26
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
-archived: https://web.archive.org/web/20080911204421/http://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
-source_sha256: b0741eaab5a669f8f76593d326a8c6363ed7aa1a58a17a376db2d04a4dfe433c
-retrieved: 2008-09-11
+archived: https://web.archive.org/web/20081216095947/http://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
+source_sha256: 98f9abdf69571d020f22d74c9eec1e3192ae9af1c38fc54849595c110d718725
+retrieved: 2008-12-16
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 29-08-2008
+Última reforma publicada DOF 26-09-2008
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -2190,9 +2190,9 @@ Nunca podrán ser electos para el período inmediato:
 
 a) El gobernador sustituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación;
 
-b) El gobernador interino, el provisional o el ciudadano que, bajo cualquiera denominación, supla las faltas temporales del gobernador, siempre que desempeñe el cargo los dos últimos años del período.
+b) El gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del gobernador, siempre que desempeñe el cargo los dos últimos años del periodo.
 
-Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
+Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa.
 
 II. El número de representantes en las legislaturas de los Estados será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a 400 mil habitantes; de nueve, en aquellos cuya población exceda de este número y no llegue a 800 mil habitantes, y de 11 en los Estados cuya población sea superior a esta última cifra.
 
@@ -3789,3 +3789,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 13 de agosto de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. María Oralia Vega Ortiz, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de agosto de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+### DECRETO por el que se reforma el párrafo quinto de la fracción I del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 26 de septiembre de 2008*
+
+**ARTÍCULO ÚNICO.-** Se reforma el artículo 116, fracción I, párrafo quinto de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**Primero.-** El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Las Legislaturas de los Estados deberán realizar las adecuaciones que correspondan a sus Constituciones Locales, así como a su legislación secundaria en un plazo máximo de treinta días naturales contados a partir del inicio de la vigencia de este Decreto.
+
+México, D.F., a 13 de agosto de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. María Oralia Vega Ortiz, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de septiembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
