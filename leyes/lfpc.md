@@ -3,12 +3,12 @@ title: Ley Federal de Protección al Consumidor
 abbreviation: LFPC
 slug: lfpc
 published_dof: 1992-12-24
-last_reform_dof: 2007-12-21
-articles: 175
+last_reform_dof: 2009-01-29
+articles: 177
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/113.doc
-archived: https://web.archive.org/web/20080313045525/http://www.diputados.gob.mx/LeyesBiblio/doc/113.doc
-source_sha256: 64d3c49f9bfb2c51c4fb190417d7facf725037555293e112888bcd0d336fb24d
-retrieved: 2008-03-13
+archived: https://web.archive.org/web/20090306103635/http://www.diputados.gob.mx:80/LeyesBiblio/doc/113.doc
+source_sha256: 1058e6ee9cece4489456e8ef7df5167d41b72081248e8a2a100c52b93c62638b
+retrieved: 2009-03-06
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 06-06-2006
-
-Actualización de montos de operaciones y multas DOF 21-12-2007
+Última reforma publicada DOF 29-01-2009
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
@@ -378,13 +376,13 @@ I. Apercibimiento;
 
 *Fracción reformada DOF 04-02-2004*
 
-II. Multa de \$172.79 a \$17,279.00;
+II. Multa de \$183.56 a \$18,355.98;
 
-*Fracción reformada DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007*
+*Fracción reformada DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
 
-III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por \$6,911.60, y
+III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por \$7,342.39, y
 
-*Fracción adicionada DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007*
+*Fracción adicionada DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
 
 IV. El auxilio de la fuerza pública.
 
@@ -980,7 +978,11 @@ X. En su caso, las garantías para el cumplimiento del contrato, así como los g
 
 XI. El procedimiento para la cancelación del contrato de adhesión y las implicaciones que se deriven para el proveedor y el consumidor;
 
-XII. Fecha de inicio y término de ejecución de la actividad o servicio contratado, así como la de la entrega del bien objeto del contrato;
+XII. Fecha de inicio y término de ejecución de la actividad o servicio contratado, así como la de entrega del bien objeto del contrato; esto último, de conformidad con lo dispuesto por el artículo 74 de esta Ley.
+
+El proveedor únicamente quedará exento de la obligación de entregar en la fecha convenida, cuando acredite plenamente, que la entrega no se realizó en la misma por caso fortuito o fuerza mayor que afecte directamente, a él o al bien, pudiéndose pactar sin responsabilidad alguna, una nueva fecha de entrega;
+
+*Fracción reformada DOF 29-01-2009*
 
 XIII. En los casos de operaciones de compraventa de inmuebles, el proveedor deberá precisar en el contrato, las características técnicas y de materiales de la estructura, de las instalaciones y acabados.
 
@@ -991,6 +993,30 @@ XIV. En el caso de operaciones de compraventa, deberán señalarse los términos
 XV. Las demás que se exijan conforme a la presente ley para el caso de los contratos de adhesión.
 
 *Artículo adicionado DOF 04-02-2004*
+
+#### ARTÍCULO 73 QUÁTER.
+
+Todo bien inmueble cuya transacción esté regulada por esta Ley, deberá ofrecerse al consumidor con la garantía correspondiente, la cual no podrá ser inferior a un año contado a partir de la entrega real del bien. En el tiempo en que dure la garantía el proveedor tendrá la obligación de realizar, sin costo alguno para el consumidor, cualquier acto tendiente a la reparación de los defectos o fallas presentados por el bien objeto del contrato.
+
+El tiempo que duren las reparaciones efectuadas al inmueble al amparo de la garantía no es computable dentro del plazo de la misma; una vez que el inmueble haya sido reparado se iniciará la garantía respecto de las reparaciones realizadas, así como con relación a las piezas o bienes que hubieren sido repuestos y continuará respecto al resto del inmueble.
+
+*Artículo adicionado DOF 29-01-2009*
+
+#### ARTÍCULO 73 QUINTUS.
+
+En caso de que el consumidor haya hecho valer la garantía establecida en el artículo 73 QUÁTER, y no obstante, persistan los defectos o fallas imputables al proveedor, éste se verá obligado de nueva cuenta a realizar todas las reparaciones necesarias para corregirlas de inmediato, así como a otorgarle, en el caso de defectos o fallas leves, una bonificación del cinco por ciento sobre el valor de la reparación; en caso de defectos o fallas graves, el proveedor deberá realizar una bonificación del veinte por ciento de la cantidad señalada en el contrato como precio del bien.
+
+Para efectos de esta Ley, se entiende por defectos o fallas graves, aquellos que afecten la estructura o las instalaciones del inmueble y comprometan el uso pleno o la seguridad del inmueble, o bien, impidan que el consumidor lo use, goce y disfrute conforme a la naturaleza o destino del mismo. Se entenderá por defectos o fallas leves, todos aquellos que no sean graves.
+
+En caso de que los defectos o fallas graves sean determinados por el proveedor como de imposible reparación, éste podrá optar desde el momento en que se le exija el cumplimiento de la garantía, por sustituir el inmueble, en cuyo caso se estará a lo dispuesto por la fracción I siguiente, sin que haya lugar a la bonificación. En caso de que en cumplimiento de la garantía decida repararlas y no lo haga, quedará sujeto a la bonificación y a lo dispuesto en el párrafo siguiente.
+
+Para el supuesto de que, aún después del ejercicio de la garantía y bonificación antes señaladas, el proveedor no haya corregido los defectos o fallas graves, el consumidor podrá optar por cualquiera de las dos acciones que se señalan a continuación:
+
+I. Solicitar la sustitución del bien inmueble, en cuyo caso el proveedor asumirá todos los gastos relacionados con la misma, o
+
+II. Solicitar la rescisión del contrato, en cuyo caso el proveedor tendrá la obligación de reintegrarle el monto pagado, así como los intereses que correspondan, conforme lo previsto en el segundo párrafo del artículo 91 de esta ley.
+
+*Artículo adicionado DOF 29-01-2009*
 
 #### ARTÍCULO 74.
 
@@ -1200,9 +1226,9 @@ Los intereses se calcularán con base en el costo porcentual promedio de captaci
 
 #### ARTÍCULO 92.
 
-Los consumidores tendrán derecho, a su elección, a la reposición del producto o a la devolución de la cantidad pagada, contra la entrega del producto adquirido, y en todo caso, a una bonificación o compensación, en los siguientes casos:
+Los consumidores tendrán derecho, a su elección, a la reposición del producto o a la devolución de la cantidad pagada, contra la entrega del producto adquirido, y en todo caso, a una bonificación, en los siguientes casos:
 
-*Párrafo reformado DOF 04-02-2004*
+*Párrafo reformado DOF 04-02-2004, 29-01-2009*
 
 I. Cuando el contenido neto de un producto o la cantidad entregada sea menor a la indicada en el envase, recipiente, empaque o cuando se utilicen instrumentos de medición que no cumplan con las disposiciones aplicables, considerados los límites de tolerancia permitidos por la normatividad;
 
@@ -1222,9 +1248,9 @@ IV. En los demás casos previstos por esta ley.
 
 En los casos de aparatos, unidades y bienes que por sus características ameriten conocimientos técnicos, se estará al juicio de peritos o a la verificación en laboratorios debidamente acreditados.
 
-Si con motivo de la verificación la Procuraduría detecta el incumplimiento de alguno de los supuestos previstos por este precepto, podrá ordenar que se informe a los consumidores sobre las irregularidades detectadas para el efecto de que puedan exigir al proveedor la bonificación o compensación que corresponda, en los términos del artículo 98 BIS.
+Si con motivo de la verificación, la procuraduría detecta el incumplimiento de alguno de los supuestos previstos por este precepto, podrá ordenar que se informe a los consumidores sobre las irregularidades detectadas, de conformidad a lo establecido en el artículo 98 Bis, para el efecto de que puedan exigir al proveedor la bonificación que en su caso corresponda.
 
-*Párrafo adicionado DOF 04-02-2004*
+*Párrafo adicionado DOF 04-02-2004. Reformado DOF 29-01-2009*
 
 #### ARTÍCULO 92 BIS.
 
@@ -1234,13 +1260,13 @@ Los consumidores tendrán derecho a la bonificación o compensación cuando la p
 
 #### ARTÍCULO 92 TER.
 
-La bonificación o compensación a que se refieren los artículos 92 y 92 BIS no podrá ser menor al veinte por ciento del precio pagado. El pago de dicha bonificación o compensación se efectuará sin perjuicio de la indemnización que en su caso corresponda por daños y perjuicios.
+La bonificación a que se refieren los artículos 92 y 92 Bis no podrá ser menor al veinte por ciento del precio pagado. El pago de dicha bonificación se efectuará sin perjuicio de la indemnización que en su caso corresponda por daños y perjuicios.
 
-Para la determinación del pago de daños y perjuicios, la autoridad judicial considerará el pago de la bonificación o compensación que en su caso hubiese hecho el proveedor.
+Para la determinación del pago de daños y perjuicios la autoridad judicial considerará el pago de la bonificación que en su caso hubiese hecho el proveedor.
 
-La bonificación o compensación que corresponda tratándose del incumplimiento a que se refiere el artículo 92, fracción I, podrá hacerla efectiva el consumidor directamente al proveedor presentando su comprobante o recibo de pago del día en que se hubiere detectado la violación por la Procuraduría, y no podrá ser menor al veinte por ciento del precio pagado.
+La bonificación que corresponda tratándose del incumplimiento a que se refiere al artículo 92, fracción I, podrá hacerla efectiva el consumidor directamente al proveedor presentando su comprobante o recibo de pago del día en que se hubiere detectado la violación por la Procuraduría y no podrá ser menor al veinte por ciento del precio pagado.
 
-*Artículo adicionado DOF 04-02-2004*
+*Artículo adicionado DOF 04-02-2004. Reformado DOF 29-01-2009*
 
 #### ARTÍCULO 93.
 
@@ -1344,9 +1370,11 @@ IV. Llevar a cabo las demás acciones tendientes a verificar el cumplimiento de 
 
 #### ARTÍCULO 98 BIS.
 
-Cuando con motivo de una verificación la Procuraduría detecte violaciones a esta ley y demás disposiciones aplicables, podrá ordenar se informe a los consumidores individual o colectivamente, inclusive a través de medios de comunicación masiva, sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán, debiendo éstos acreditar el cumplimiento de dicha orden. En caso de no hacerlo, se aplicarán las sanciones que correspondan.
+Cuando con motivo de una verificación la Procuraduría detecte violaciones a esta Ley y demás disposiciones aplicables, podrá ordenar se informe a los consumidores individual o colectivamente, inclusive a través de medios de comunicación masiva, sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los bonificarán, debiendo éstos acreditar el cumplimiento de dicha orden. En caso de no hacerlo, se aplicarán las sanciones que correspondan.
 
-*Artículo adicionado DOF 04-02-2004*
+El informe a que se refiere el párrafo anterior, podrá ordenarse como uno de los puntos resolutivos del procedimiento contenido en el artículo 123 de la presente Ley.
+
+*Artículo adicionado DOF 04-02-2004. Reformado DOF 29-01-2009*
 
 #### ARTÍCULO 98 TER.
 
@@ -1376,9 +1404,9 @@ IV. Señalar el lugar o forma en que solicita se desahogue su reclamación.
 
 *Fracción adicionada DOF 04-02-2004*
 
-Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de \$345,580.08.
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de \$367,119.59.
 
-*Párrafo adicionado DOF 04-02-2004. Monto de operación actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007*
+*Párrafo adicionado DOF 04-02-2004. Monto de operación actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
@@ -1644,9 +1672,9 @@ La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cu
 
 *Párrafo reformado DOF 04-02-2004*
 
-Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de \$345,580.08.
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de \$367,119.59.
 
-*Párrafo adicionado DOF 04-02-2004. Monto de operación actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007*
+*Párrafo adicionado DOF 04-02-2004. Monto de operación actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
 
 #### ARTÍCULO 118.
 
@@ -1716,29 +1744,29 @@ Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuradur
 
 #### ARTÍCULO 126.
 
-Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de \$172.79 a \$552,928.13.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de \$183.56 a \$587,391.34.
 
-*Artículo reformado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007*
+*Artículo reformado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
 
 #### ARTÍCULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de \$345.58 a \$1’105,856.25.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de \$367.12 a \$1’174,782.68.
 
-*Artículo reformado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007*
+*Artículo reformado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
 
 #### ARTÍCULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de \$518.37 a \$2’027,403.14.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 73 QUÁTER, 73 QUINTUS, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de \$518.37 a \$2' 027, 403.14.
 
 *Artículo reformado DOF 29-05-2000, 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005. Reformado DOF 06-06-2006.*
 
-Multa actualizada DOF 19-12-2006, 21-12-2007
+Multa actualizada DOF 19-12-2006, 21-12-2007, 17-12-2008. Reformado DOF 29-01-2009
 
 #### ARTÍCULO 128 BIS.
 
-En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de \$103,674.02 a \$2’902,872.67.
+En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de \$110,135.88 a \$3’083,804.56.
 
-*Artículo adicionado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007*
+*Artículo adicionado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
 
 #### ARTÍCULO 128 TER.
 
@@ -1796,7 +1824,9 @@ II. Los datos comprobados que aporten las denuncias de los consumidores;
 
 III. La publicidad o información de los proveedores y la comprobación de las infracciones; o
 
-IV. Cualquier otro elemento o circunstancia que aporte elementos de convicción para aplicar la sanción.
+IV. Cualquier otro elemento o circunstancia que sirva como prueba para determinar el incumplimiento u omisión para aplicar la sanción.
+
+*Fracción reformada DOF 29-01-2009*
 
 Las resoluciones que emita la Procuraduría deberán estar debidamente fundadas y motivadas con arreglo a derecho, tomando en consideración los criterios establecidos en el presente ordenamiento.
 
@@ -1820,9 +1850,9 @@ Asimismo, la Procuraduría deberá considerar los hechos generales de la infracc
 
 En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia.
 
-Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de \$5’805,745.34.
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de \$6’167,609.11.
 
-*Párrafo adicionado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007*
+*Párrafo adicionado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
 
 #### ARTÍCULO 134.
 
@@ -2357,3 +2387,47 @@ México, D.F., a 12 de diciembre de 2006.- El Procurador Federal del Consumidor,
 **UNICO.-** El presente Acuerdo entrará en vigor el 1 de enero de 2008.
 
 México, D.F., a 11 de diciembre de 2007.- El Procurador Federal del Consumidor, Antonio Morales de la Peña.- Rúbrica.
+
+### ACUERDO por el que se actualizan los montos de las operaciones y multas previstas en la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2008*
+
+**PRIMERO.-** El monto señalado en el segundo párrafo del artículo 99 y en el segundo párrafo del artículo 117, en relación con el artículo 2, fracción I, de la Ley Federal de Protección al Consumidor, se actualiza para quedar en la cantidad de \$367,119.59.
+
+**SEGUNDO.-** El monto de la multa a que se refiere la fracción II del artículo 25 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$183.56 y un máximo de \$18,355.98.
+
+**TERCERO.-** El monto de la multa a que se refiere la fracción III del artículo 25 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en \$7,342.39.
+
+**CUARTO.-** El monto de la multa prevista en el artículo 126 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$183.56 y en un máximo de \$587,391.34.
+
+**QUINTO.-** El monto de la multa prevista en el artículo 127 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$367.12 y en un máximo de \$1’174,782.68.
+
+**SEXTO.-** El monto de la multa prevista en el artículo 128 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$550.68 y en un máximo de \$2’153,768.26.
+
+**SEPTIMO.-** El monto de la multa prevista en el artículo 128 bis de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$110,135.88 y en un máximo de \$3’083,804.56.
+
+**OCTAVO.-** La cantidad establecida en el artículo 133 se actualiza para quedar en \$6’167,609.11.
+
+**NOVENO.-** Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2009.
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Acuerdo entrará en vigor el 1 de enero de 2009.
+
+México, D.F., a 12 de diciembre de 2008.- El Procurador Federal del Consumidor, Antonio Morales de la Peña.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 29 de enero de 2009*
+
+**Artículo Único.** Se reforman los artículos 73 TER, fracción XII; 92, el primer y último párrafos; 92 TER; 98 BIS; 128 y 131; se adicionan los artículos 73 QUÁTER y 73 QUINTUS a la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.** El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 11 de diciembre de 2008.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Manuel Portilla Dieguez, Secretario.- Sen. Gabino Cué Monteagudo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de enero de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
