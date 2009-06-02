@@ -3,12 +3,12 @@ title: Ley General de Sociedades Mercantiles
 abbreviation: LGSM
 slug: lgsm
 published_dof: 1934-08-04
-last_reform_dof: 2006-07-28
+last_reform_dof: 2009-06-02
 articles: 266
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/144.doc
-archived: https://web.archive.org/web/20060812203634/http://www.diputados.gob.mx:80/LeyesBiblio/doc/144.doc
-source_sha256: 5b6815e1359c3b0ee463322031ee3e11d697b7e65d7c517abd62579935a9b69f
-retrieved: 2006-08-12
+archived: https://web.archive.org/web/20110911083408/http://www.diputados.gob.mx:80/LeyesBiblio/doc/144.doc
+source_sha256: 5eb920a7ce2431d0c3fc3fe1039ec36280940b3930a47876158c5671fef6faa6
+retrieved: 2011-09-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 4 de agosto de 193
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 28-07-2006
+Última reforma publicada DOF 02-06-2009
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -1130,7 +1130,7 @@ La falta de presentación oportuna del informe a que se refiere el enunciado gen
 
 #### Artículo 177.
 
-Quince días después de la fecha en que la asamblea general de accionistas haya aprobado el informe a que se refiere el enunciado general del artículo 172, deberán mandarse publicar los estados financieros incluidos en el mismo, juntamente con sus notas y el dictamen del comisario, en el periódico oficial de la entidad en donde tenga su domicilio la sociedad, o, si se trata de sociedades que tengan oficinas o dependencias en varias entidades, en el Diario Oficial de la Federación. Se depositará copia autorizada del mismo en el Registro Público de Comercio. Si se hubiere formulado en término alguna oposición contra la aprobación del balance por la Asamblea General de Accionistas, se hará la publicación y depósito con la anotación relativa al nombre de los opositores y el número de acciones que representen.
+Quince días después de la fecha en que la asamblea general de accionistas haya aprobado el informe a que se refiere el enunciado general del artículo 172, deberán mandarse publicar los estados financieros incluidos en el mismo, juntamente con sus notas y el dictamen del comisario, en el periódico oficial de la entidad en donde tenga su domicilio la sociedad, o, si se trata de sociedades que tengan oficinas o dependencias en varias entidades, en el Diario Oficial de la Federación.
 
 ### SECCION SEXTA · De las asambleas de accionistas
 
@@ -1250,7 +1250,7 @@ Las actas de las Asambleas Generales de Accionistas se asentarán en el libro re
 
 Cuando por cualquiera circunstancia no pudiere asentarse el acta de una asamblea en el libro respectivo, se protocolizará ante Notario.
 
-Las actas de las Asambleas Extraordinarias serán protocolizadas ante Notario e inscritas en el Registro Público de Comercio.
+Las actas de las asambleas extraordinarias serán protocolizadas ante fedatario público.
 
 #### Artículo 195.
 
@@ -1733,3 +1733,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 16 de marzo de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Saúl López Sollano, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticinco días del mes de julio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones del Código de Comercio y de la Ley General de Sociedades Mercantiles.
+
+*Publicado en el Diario Oficial de la Federación el 2 de junio de 2009*
+
+**Artículo Segundo.** Se reforman los artículos 177 y 194, último párrafo, de la Ley General de Sociedades Mercantiles, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 30 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
