@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2008-11-28
+last_reform_dof: 2009-06-17
 articles: 61
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
-archived: https://web.archive.org/web/20081216102127/http://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
-source_sha256: 83cc0e5a7cf593365a2866966fd87dcc20086a25b12af8d152992e1a3f97cde1
-retrieved: 2008-12-16
+archived: https://web.archive.org/web/20110303155244/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153.doc
+source_sha256: 60ac81037602d4fa0c87be32b01f81a5aac7ec6ac40d7b24002c33f7ee1c5477
+retrieved: 2011-03-03
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 28-11-2008
+Última reforma publicada DOF 17-06-2009
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -1266,9 +1266,9 @@ IV.- Registrar a los prestadores de servicios turísticos, en los términos señ
 
 V.- Promover y opinar el otorgamiento de facilidades y franquicias a los prestadores de servicios turísticos y participar con la Secretaría de Hacienda y Crédito Público, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales necesarios para el fomento a la actividad turística, y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
-VI.- Autorizar los precios y tarifas de los servicios turísticos, previamente registrados, en los términos que establezcan las leyes y reglamentos; y participar con la Secretaria de Hacienda y Crédito Público en el establecimiento de los precios y tarifas de los bienes y servicios turísticos a cargo de la Administración Pública Federal;
+VI. Participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de los precios y tarifas de los bienes y servicios turísticos a cargo de la Administración Pública Federal, tomando en cuenta las leyes, reglamentos y demás disposiciones que regulan las facultades de las dependencias y entidades;
 
-VII.- Vigilar con el apoyo de las autoridades estatales y municipales, la correcta aplicación de los precios y tarifas autorizados o registrados y la prestación de los servicios turísticos, conforme a las disposiciones legales aplicables, en los términos autorizados o en la forma en que se hayan contratado;
+VII. Se Deroga.
 
 VIII.- Estimular la formación de asociaciones, comités y patronatos de carácter público, privado o mixto, de naturaleza turística;
 
@@ -1943,3 +1943,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 28 de octubre de 2008.- Sen. Gustavo Madero Muñoz, Presidente.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Maria del Carmen Pinete Vargas, Secretaria.- Rúbricas.”
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de noviembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se expide la Ley General de Turismo y se reforma la fracción VI y se deroga la fracción VII, del artículo 42 de la Ley Orgánica de la Administración Pública Federal.
+
+*Publicado en el Diario Oficial de la Federación el 17 de junio de 2009*
+
+**ARTÍCULO SEGUNDO.-** Se reforma la fracción VI y se deroga la fracción VII, del artículo 42 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 23 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Margarita Arenas Guzmán, Secretaria.- Sen. Gabino Cué Monteagudo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
