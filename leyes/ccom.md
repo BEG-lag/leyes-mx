@@ -3,12 +3,12 @@ title: Código de Comercio
 abbreviation: CCom
 slug: ccom
 published_dof: 1889-10-07
-last_reform_dof: 2008-04-17
-articles: 1551
+last_reform_dof: 2009-08-27
+articles: 1560
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
-archived: https://web.archive.org/web/20080911231431/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
-source_sha256: d985df7d5d2adf6c6ee107995cdfee1cc085974192daa8109f2b7d470d341d67
-retrieved: 2008-09-11
+archived: https://web.archive.org/web/20101122030057/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3.doc
+source_sha256: 9f5048ba138d048072d88d40f1382aa0d035f746244c5736f513cf1b2d589650
+retrieved: 2010-11-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccom.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código publicado en el Diario Oficial de la Federación el 7 de octubre d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 17-04-2008
+Última reforma publicada DOF 27-08-2009
 
 El Presidente de la República se ha servido dirigirme el decreto que sigue:
 
@@ -32,17 +32,17 @@ CODIGO DE COMERCIO
 
 ### TITULO PRELIMINAR
 
-##### Artículo 1o.
+###### Artículo 1o.
 
 Los actos comerciales sólo se regirán por lo dispuesto en este Código y las demás leyes mercantiles aplicables.
 
-##### Artículo 2o.
+###### Artículo 2o.
 
 A falta de disposiciones de este ordenamiento y las demás leyes mercantiles, serán aplicables a los actos de comercio las del derecho común contenidas en el Código Civil aplicable en materia federal.
 
 ### TITULO PRIMERO · De los Comerciantes
 
-##### Artículo 3o.
+###### Artículo 3o.
 
 Se reputan en derecho comerciantes:
 
@@ -52,19 +52,19 @@ II.- Las sociedades constituidas con arreglo a las leyes mercantiles;
 
 III.- Las sociedades extranjeras o las agencias y sucursales de éstas, que dentro del territorio nacional ejerzan actos de comercio.
 
-##### Artículo 4o.
+###### Artículo 4o.
 
 Las personas que accidentalmente, con o sin establecimiento fijo, hagan alguna operación de comercio, aunque no son en derecho comerciantes, quedan sin embargo, sujetas por ella a las leyes mercantiles. Por tanto, los labradores y fabricantes, y en general todos los que tienen planteados almacén o tienda en alguna población para el expendio de los frutos de su finca, o de los productos ya elaborados de su industria, o trabajo, sin hacerles alteración al expenderlos, serán considerados comerciantes en cuanto concierne a sus almacenes o tiendas.
 
-##### Artículo 5o.
+###### Artículo 5o.
 
 Toda persona que, según las leyes comunes, es hábil para contratar y obligarse, y a quien las mismas leyes no prohíben expresamente la profesión del comercio, tiene capacidad legal para ejercerlo.
 
-##### Artículo 6o.
+###### Artículo 6o.
 
 (Se deroga).
 
-##### Artículo 6 bis.
+###### Artículo 6 bis.
 
 Los comerciantes deberán realizar su actividad de acuerdo a los usos honestos en materia industrial o comercial, por lo que se abstendrán de realizar actos de competencia desleal que:
 
@@ -78,29 +78,29 @@ IV.- Se encuentren previstos en otras leyes.
 
 Las acciones civiles producto de actos de competencia desleal, sólo podrán iniciarse cuando se haya obtenido un pronunciamiento firme en la vía administrativa, si ésta es aplicable.
 
-##### Artículo 7o.
+###### Artículo 7o.
 
 (Se deroga).
 
-##### Artículo 8o.
+###### Artículo 8o.
 
 (Se deroga).
 
-##### Artículo 9o.
+###### Artículo 9o.
 
 Tanto el hombre como la mujer casados comerciantes, pueden hipotecar sus bienes raíces para seguridad de sus obligaciones mercantiles y comparecer en juicio sin necesidad de licencia del otro cónyuge, cuando el matrimonio se rija por el régimen de separación de bienes.
 
 En el régimen Social Conyugal, ni el hombre ni la mujer comerciantes, podrán hipotecar ni gravar los bienes de la sociedad, ni los suyos propios cuyos frutos o productos correspondan a la sociedad, sin licencia del otro cónyuge.
 
-##### Artículo 10.
+###### Artículo 10.
 
 (Se deroga).
 
-##### Artículo 11.
+###### Artículo 11.
 
 (Se deroga).
 
-##### Artículo 12.
+###### Artículo 12.
 
 No pueden ejercer el comercio:
 
@@ -112,15 +112,15 @@ III.- Los que por sentencia ejecutoriada hayan sido condenados por delitos contr
 
 La limitación a que se refiere la fracción anterior, comenzará a surtir sus efectos a partir de que cause ejecutoria la Sentencia respectiva y durará hasta que se cumpla con la condena.
 
-##### Artículo 13.
+###### Artículo 13.
 
 Los extranjeros serán libres para ejercer el comercio, según lo que se hubiere convenido en los tratados con sus respectivas naciones, y lo que dispusieren las leyes que arreglen los derechos y obligaciones de los extranjeros.
 
-##### Artículo 14.
+###### Artículo 14.
 
 Los extranjeros comerciantes, en todos los actos de comercio en que intervengan, se sujetarán a este Código y demás leyes del país.
 
-##### Artículo 15.
+###### Artículo 15.
 
 Las Sociedades legalmente constituidas en el extranjero que se establezcan en la República, o tengan en ella alguna agencia ó sucursal, podrán ejercer el comercio, sujetándose a las prescripciones especiales de este Código en todo cuanto concierna a la creación de sus establecimientos dentro del territorio nacional, a sus operaciones mercantiles y a la jurisdicción de los tribunales de la Nación.
 
@@ -128,7 +128,7 @@ En lo que se refiera a su capacidad para contratar, se sujetarán a las disposic
 
 ### TITULO SEGUNDO · De las Obligaciones Comunes a todos los que Profesan el Comercio
 
-##### Artículo 16.
+###### Artículo 16.
 
 Todos los comerciantes, por el hecho de serlo, están obligados.
 
@@ -142,7 +142,7 @@ IV.- A la conservación de la correspondencia que tenga relación con el giro de
 
 #### CAPITULO I · Del Anuncio de la Calidad Mercantil
 
-##### Artículo 17.
+###### Artículo 17.
 
 Los comerciantes tienen el deber.
 
@@ -154,7 +154,7 @@ III.- (Se deroga).
 
 #### CAPITULO II · Del registro de comercio
 
-##### Artículo 18.
+###### Artículo 18.
 
 En el Registro Público de Comercio se inscriben los actos mercantiles, así como aquellos que se relacionan con los comerciantes y que conforme a la legislación lo requieran.
 
@@ -162,13 +162,11 @@ La operación del Registro Público de Comercio está a cargo de la Secretaría 
 
 La Secretaría emitirá los lineamientos necesarios para la adecuada operación del Registro Público de Comercio, que deberán publicarse en el Diario Oficial de la Federación.
 
-##### Artículo 19.
+###### Artículo 19.
 
-La inscripción ó matrícula en el Registro mercantil será potestativa para los individuos que se dediquen al comercio, y obligatoria para todas las sociedades mercantiles y para los buques. Los primeros quedarán matriculados de oficio al inscribir cualquier documento cuyo registro sea necesario.
+La inscripción o matrícula en el registro mercantil será potestativa para los individuos que se dediquen al comercio y obligatoria para todas las sociedades mercantiles por lo que se refiere a su constitución, transformación, fusión, escisión, disolución y liquidación y para los buques. Los primeros quedarán matriculados de oficio al inscribir cualquier documento cuyo registro sea necesario.
 
-> Nota: El artículo 19 anterior fue derogado, en lo que se oponga a la Ley de Navegación, por la fracción III del artículo Tercero transitorio de dicha Ley, publicada en el Diario Oficial de la Federación el 4 de enero de 1994.
-
-##### Artículo 20.
+###### Artículo 20.
 
 El Registro Público de Comercio operará con un programa informático y con una base de datos central interconectada con las bases de datos de sus oficinas ubicadas en las entidades federativas. Las bases de datos contarán con al menos un respaldo electrónico.
 
@@ -182,7 +180,7 @@ En caso de existir discrepancia o presunción de alteración de la información 
 
 La Secretaría establecerá los formatos, que serán de libre reproducción, así como los datos, requisitos y demás información necesaria para llevar a cabo las inscripciones, anotaciones y avisos a que se refiere el presente Capítulo. Lo anterior deberá publicarse en el Diario Oficial de la Federación.
 
-##### Artículo 20 bis.
+###### Artículo 20 bis.
 
 Los responsables de las oficinas del Registro Público de Comercio tendrán las atribuciones siguientes:
 
@@ -200,7 +198,7 @@ VI.- Proporcionar facilidades a la Secretaría para vigilar la adecuada operaci�
 
 VII.- Las demás que se señalen en el presente Capítulo y su reglamento.
 
-##### Artículo 21.
+###### Artículo 21.
 
 Existirá un folio electrónico por cada comerciante o sociedad, en el que se anotarán:
 
@@ -210,13 +208,13 @@ II.- La clase de comercio u operaciones á que se dedique;
 
 III.- La fecha en que deba comenzar o haya comenzado sus operaciones;
 
-IV.- El domicilio con especificación de las sucursales que hubiere establecido, sin perjuicio de inscribir las sucursales en el Registro del partido judicial en que estén domiciliadas;
+IV.- El domicilio con especificación de las sucursales que hubiere establecido;
 
-V.- Las escrituras de constitución de sociedad mercantil, cualesquiera que sean su objeto o denominación, así como las de modificación, rescisión, disolución o escisión de las mismas sociedades;
+V. Los instrumentos públicos en los que se haga constar la constitución de las sociedades mercantiles, así como los que contengan su transformación, fusión, escisión, disolución y liquidación;
 
 VI.- El acta de la primera junta general y documentos anexos á ella, en las sociedades anónimas que se constituyan por suscripción pública;
 
-VII.- Los poderes generales y nombramientos, y revocación de los mismos si la hubiere, conferidos a los gerentes, factores, dependientes y cualesquiera otros mandatarios;
+VII. Para efectos del comercio y consulta electrónicos, opcionalmente, los poderes y nombramientos de funcionarios, así como sus renuncias o revocaciones;
 
 VIII.- (Se deroga).
 
@@ -226,7 +224,7 @@ X.- Las capitulaciones matrimoniales y los documentos que acrediten alguna modif
 
 XI.- Los documentos justificativos de los haberes ó patrimonio que tenga el hijo ó el pupilo que estén bajo la patria potestad, ó bajo la tutela del padre ó tutor comerciantes;
 
-XII.- El aumento o disminución del capital efectivo en las sociedades anónimas y en comandita por acciones;
+XII. El cambio de denominación o razón social, domicilio, objeto social, duración y el aumento o disminución del capital mínimo fijo;
 
 XIII.- (Se deroga).
 
@@ -240,9 +238,11 @@ XVII.- (Se deroga).
 
 XVIII.- (Se deroga).
 
-XIX.- Las fianzas de los corredores.
+XIX.- Las autorizaciones de los corredores públicos para registrar información;
 
-##### Artículo 21 bis.
+XX.- Las garantías mobiliarias que hubiere otorgado, así como los actos jurídicos por los que constituya un privilegio especial o derecho de retención sobre bienes muebles a favor de terceros, en los términos de lo dispuesto por los artículos 32 bis 1 a 32 bis 9 del presente Capítulo.
+
+###### Artículo 21 bis.
 
 El procedimiento para la inscripción de actos mercantiles en el Registro Público de Comercio se sujetará a las bases siguientes:
 
@@ -258,25 +258,29 @@ c) Calificación, en la que se autorizará en definitiva la inscripción en la b
 
 d) Emisión de una boleta de inscripción que será entregada física o electrónicamente.
 
+III. La inscripción de actos que sean enviados por medios electrónicos de acuerdo al artículo 30 bis 1 de este Código, con el pago de derechos en línea, será inmediata, definitiva y no será susceptible de calificación por parte del responsable de oficina o registrador.
+
 El reglamento del presente Capítulo desarrollará el procedimiento registral de acuerdo con las bases anteriores.
 
-##### Artículo 21 bis 1.
+###### Artículo 21 bis 1.
 
-La prelación entre derechos sobre dos o más actos que se refieran a un mismo folio mercantil electrónico, se determinará por el número de control que otorgue el registro, cualquiera que sea la . fecha de su constitución o celebración.
+La prelación entre derechos sobre dos o más actos que se refieran a un mismo folio mercantil electrónico, se determinará por el número de control o en su caso por el sello digital de tiempo que otorgue el registro, cualquiera que sea la fecha de su constitución o celebración.
 
-##### Artículo 22.
+###### Artículo 22.
 
 Cuando, conforme a la ley, algún acto o contrato deba inscribirse en el Registro Público de la Propiedad o en registros especiales, su inscripción en dichos registros será bastante para que surtan los efectos correspondientes del derecho mercantil, siempre y cuando en el Registro Público de Comercio se tome razón de dicha inscripción y de las modificaciones a la misma.
 
-##### Artículo 23.
+El registro de las garantías mobiliarias deberá sujetarse a lo establecido en la Sección Única del presente Capítulo.
+
+###### Artículo 23.
 
 Las inscripciones deberán hacerse en la oficina del Registro Público de Comercio del domicilio del comerciante, pero si se trata de bienes raíces o derechos reales constituidos sobre ellos, la inscripción se hará, además, en la oficina correspondiente a la ubicación de los bienes, salvo disposición legal que establezca otro procedimiento.
 
-##### Artículo 24.
+###### Artículo 24.
 
 Las sociedades extranjeras deberán acreditar, para su inscripción en el Registro Público de Comercio, estar constituidas conforme a las leyes de su país de origen y autorizadas para ejercer el comercio por la Secretaría, sin perjuicio de lo establecido en los tratados o convenios internacionales.
 
-##### Artículo 25.
+###### Artículo 25.
 
 Los actos que conforme a este Código u otras leyes deban inscribirse en el Registro Público de Comercio deberán constar en:
 
@@ -288,25 +292,25 @@ III.- Documentos privados ratificados ante notario o corredor público, o autori
 
 IV.- Los demás documentos que de conformidad con otras leyes así lo prevean.
 
-##### Artículo 26.
+###### Artículo 26.
 
 Los documentos de procedencia extranjera que se refieran a actos inscribibles podrán constar previamente en instrumento público otorgado ante notario o corredor público, para su inscripción en el Registro Público de Comercio.
 
 Las sentencias dictadas en el extranjero sólo se registrarán cuando medie orden de autoridad judicial mexicana competente, y de conformidad con las disposiciones internacionales aplicables.
 
-##### Artículo 27.
+###### Artículo 27.
 
 La falta de registro de los actos cuya inscripción sea obligatoria, hará que éstos sólo produzcan efectos jurídicos entre los que lo celebren, y no podrán producir perjuicio a tercero, el cual sí podrá aprovecharse de ellos en lo que le fueren favorables.
 
-##### Artículo 28.
+###### Artículo 28.
 
 Si el comerciante omitiere hacer la anotación o inscripción de los documentos que expresa la fracción X del artículo 21, podrá pedirla el otro cónyuge o cualquiera que tenga derecho de alimentos respecto de aquél.
 
-##### Artículo 29.
+###### Artículo 29.
 
 Los documentos inscritos producirán su efecto legal desde la fecha de su inscripción, sin que puedan invalidarlos otros anteriores o posteriores no registrados.
 
-##### Artículo 30.
+###### Artículo 30.
 
 Los particulares podrán consultar las bases de datos y, en su caso, solicitar las certificaciones respectivas, previo pago de los derechos correspondientes.
 
@@ -314,25 +318,25 @@ Las certificaciones se expedirán previa solicitud por escrito que deberá conte
 
 Cuando la solicitud respectiva haga referencia a actos aún no inscritos, pero ingresados a la oficina del Registro Público de Comercio, las certificaciones se referirán a los asientos de presentación y trámite.
 
-##### Artículo 30 bis.
+La Secretaría podrá establecer, mediante lineamientos, mecanismos para el trámite y la expedición de certificaciones por medios electrónicos.
+
+###### Artículo 30 bis.
 
 La Secretaría podrá autorizar el acceso a la base de datos del Registro Público de Comercio a personas que así lo soliciten y cumplan con los requisitos para ello, en los términos de este Capítulo, el reglamento respectivo y los lineamientos que emita la Secretaría, sin que dicha autorización implique en ningún caso inscribir o modificar los asientos registrales.
 
-La Secretaría certificará los medios de identificación que utilicen las personas autorizadas para firmar electrónicamente la información relacionada con el Registro Público de Comercio, así como la de los demás usuarios del mismo, y ejercerá el control de estos medios a fin de salvaguardar la confidencialidad de la información que se remita por esta vía.
+La Secretaría expedirá los certificados digitales que utilicen las personas autorizadas para firmar electrónicamente la información relacionada con el Registro Público de Comercio y demás usuarios; asimismo, podrá reconocer para el mismo fin certificados digitales expedidos por otras autoridades certificadoras siempre y cuando, a su juicio, presenten el mismo grado de confiabilidad y cumplan con las medidas de seguridad que al efecto establezca la Secretaría.
 
-##### Artículo 30 bis 1.
+###### Artículo 30 bis 1.
 
-Cuando la autorización a que se refiere el artículo anterior se otorgue a notarios o corredores públicos, dicha autorización permitirá, además, el envío de información por medios electrónicos al Registro y la remisión que éste efectúe al fedatario público correspondiente del acuse que contenga el número de control a que se refiere el artículo 21 bis 1 de este Código.
+Cuando la autorización a que se refiere el artículo anterior se otorgue a notarios o corredores públicos, dicha autorización permitirá, además, el envío de información por medios digitales al Registro y la remisión que éste efectúe al fedatario público correspondiente del acuse que contenga el número de control o sello digital de tiempo a que se refiere el artículo 21 bis 1 de este Código.
 
-Los notarios y corredores públicos que soliciten dicha autorización deberán otorgar una fianza a favor de la Tesorería de la Federación y registrarla ante la Secretaría, para garantizar los daños que pudieran ocasionar a los particulares en la operación del programa informático, por un monto mínimo equivalente a 10 000 veces el salario mínimo diario vigente en el Distrito Federal.
+Los notarios y corredores públicos que soliciten dicha autorización deberán otorgar una fianza o garantía a favor de la Tesorería de la Federación y registrarla ante la Secretaría, para garantizar los daños que pudieran ocasionar a los particulares y a la Secretaría con motivo de la operación del programa informático y el uso de la información del registro, incluida la que corresponde a la Sección Única del presente Capítulo, por un monto mínimo equivalente a 10 000 veces el salario mínimo diario vigente en el Distrito Federal.
 
-En caso de que los notarios o corredores públicos estén obligados por la ley de la materia a garantizar el ejercicio de sus funciones, sólo otorgarán la fianza a que se refiere el párrafo anterior por un monto equivalente a la diferencia entre ésta y la otorgada.
+En caso de que los notarios o corredores públicos estén obligados por la ley de la materia a garantizar el ejercicio de sus funciones, sólo otorgarán la fianza o garantía a que se refiere el párrafo anterior por un monto equivalente a la diferencia entre ésta y la otorgada. Esta garantía podrá otorgarse de manera solidaria por parte de los colegios o agrupaciones de notarios o corredores públicos.
 
-Dicha autorización y su cancelación deberán publicarse en el Diario Oficial de la Federación.
+###### Artículo 31.
 
-##### Artículo 31.
-
-Los registradores no podrán denegar la inscripción de los documentos mercantiles que se les presenten, salvo cuando:
+Los registradores no podrán denegar o suspender la inscripción de los actos que conforme al reglamento o lineamientos se consideren de registro inmediato. En los demás casos, tampoco podrán denegar o suspender la inscripción de los documentos mercantiles que se les presenten, salvo cuando:
 
 I. El acto o contrato que en ellos se contenga no sea de los que deben inscribirse;
 
@@ -344,7 +348,7 @@ Si la autoridad administrativa o judicial ordena que se registre un instrumento 
 
 El registrador suspenderá la inscripción de los actos a inscribir, siempre que existan defectos u omisiones que sean subsanables. En todo caso se requerirá al interesado para que en el plazo que determine el reglamento de este Capítulo las subsane, en el entendido de que, de no hacerlo, se le denegará la inscripción.
 
-##### Artículo 32.
+###### Artículo 32.
 
 La rectificación de los asientos en la base de datos por causa de error material o de concepto, sólo procede cuando exista discrepancia entre el instrumento donde conste el acto y la inscripción.
 
@@ -352,7 +356,7 @@ Se entenderá que se comete error material cuando se escriban unas palabras por 
 
 Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos del instrumento, se altere o varíe su sentido porque el responsable de la inscripción se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquiera otra circunstancia similar.
 
-##### Artículo 32 bis.
+###### Artículo 32 bis.
 
 Cuando se trate de errores de concepto, los asientos practicados en los folios del Registro Público de Comercio sólo podrán rectificarse con el consentimiento de todos los interesados en el asiento.
 
@@ -362,9 +366,85 @@ El concepto rectificado surtirá efectos desde la fecha de su rectificación.
 
 El procedimiento para efectuar la rectificación en la base de datos lo determinará la Secretaría en los lineamientos que al efecto emitan.
 
+##### SECCIÓN ÚNICA · Del Registro Único de Garantías Mobiliarias
+
+###### Artículo 32 bis 1.
+
+Las garantías mobiliarias que se constituyan con apego a éste u otros ordenamientos jurídicos del orden mercantil, su modificación, transmisión o cancelación, así como cualquier acto jurídico que se realice con o respecto de ellas, serán susceptibles de inscripción en los términos de esta Sección.
+
+En las garantías mobiliarias quedan comprendidos, sin perjuicio de aquellos que por su naturaleza mantengan ese carácter, los actos jurídicos mercantiles por medio de los cuales se constituya, modifique, transmita o cancele un privilegio especial o derecho de retención sobre bienes muebles en favor de terceros.
+
+Se presumen mercantiles todas las garantías mobiliarias otorgadas en favor de un comerciante, las cuales únicamente estarán sujetas a inscripción en los términos de esta Sección.
+
+###### Artículo 32 bis 2.
+
+Se constituye el Registro Único de Garantías Mobiliarias, en adelante el Registro, como una sección del Registro Público de Comercio, en donde se inscribirán las garantías a que se refiere el artículo anterior, con lo que se dará publicidad de las mismas para los efectos que establezcan éste u otros ordenamientos jurídicos. Esta sección se sujetará a las bases especiales de operación a que se refieren los artículos siguientes.
+
+###### Artículo 32 bis 3.
+
+El Registro estará exclusivamente a cargo de la Secretaría; su operación se llevará por medios digitales, mediante el programa informático establecido por la Secretaría y en una base de datos nacional.
+
+###### Artículo 32 bis 4.
+
+La inscripción de las garantías mobiliarias, su modificación, transmisión o cancelación, así como la de cualquier acto vinculado con ellas, se realizará de manera inmediata a su recepción, previo pago de los derechos correspondientes, y en el folio de su otorgante.
+
+Salvo prueba en contrario, se presume que los otorgantes de garantías mobiliarias autorizan la inscripción de las mismas en el Registro.
+
+El procedimiento para la inscripción de garantías mobiliarias en el Registro se llevará de acuerdo a las bases siguientes:
+
+I.- Será automatizado;
+
+II.- Las inscripciones, anotaciones o cualquier acto vinculado con ellas deberá realizarse a través de medios digitales, utilizando para ello la forma precodificada establecida al efecto;
+
+III.- El Registro generará la boleta que corresponda, misma que se entregará de manera digital a su solicitante, y
+
+IV.- Serán inscribibles, en su caso y de acuerdo a lo establecido en el Reglamento, todos los documentos mercantiles a través de los cuales se constituya, modifique, transmita o cancele una garantía mobiliaria.
+
+Se encuentran facultados para llevar a cabo inscripciones o anotaciones en el Registro los fedatarios públicos, los jueces y las oficinas habilitadas de la Secretaría en las entidades federativas, así como las entidades financieras, los servidores públicos y otras personas que para tales fines autorice la Secretaría.
+
+Los acreedores, instancias de autoridad o personas facultadas que realicen inscripciones o anotaciones sobre garantías mobiliarias, serán responsables para todos los efectos legales de la existencia y veracidad de la información y documentación relativa a las inscripciones y anotaciones que lleven a cabo. Si una institución financiera o persona moral autorizada realiza la inscripción o anotación y es parte del contrato como acreedor prendario, fideicomisario o fiduciario, será responsable, independientemente del empleado o funcionario que realiza la inscripción.
+
+Será responsabilidad de quien realice una inscripción o anotación, llevar a cabo la rectificación de los errores materiales o de concepto que las mismas contengan. Se entiende que se comete un error de concepto, cuando al expresar en la inscripción o anotación alguno de los contenidos convencionales o formales de la garantía o acto objeto a registro, se altere o varíe su sentido en virtud de un juicio equivocado de quien la lleve a cabo. Todos los demás errores se considerarán materiales.
+
+Los acreedores, instancias de autoridad o personas facultadas para llevar a cabo inscripciones o anotaciones en el Registro, responden por los daños y perjuicios que se pudieren originar por tal motivo. El afectado podrá optar por reclamar los daños y perjuicios que se le ocasionen mediante su cálculo y acreditación o por sanción legal. La sanción legal se calculará y exigirá en un monto equivalente a 1,000 veces el salario mínimo diario general vigente en el Distrito Federal. Lo anterior, sin perjuicio de las sanciones penales o administrativas a que hubiere lugar.
+
+Salvo que la vigencia de la inscripción o anotación se establezca en la forma precodificada, ésta tendrá una vigencia de un año, misma que será susceptible de ser renovada.
+
+###### Artículo 32 bis 5.
+
+En los términos que establezca el Reglamento respectivo, de igual forma serán susceptibles de anotarse en el Registro, los avisos preventivos; las resoluciones judiciales o administrativas, así como cualquier acto que por su naturaleza constituya, modifique, transmita o cancele una garantía mobiliaria.
+
+###### Artículo 32 bis 6.
+
+Las garantías mobiliarias inscritas de conformidad con la presente Sección, surtirán efectos frente a terceros de conformidad con las leyes respectivas.
+
+###### Artículo 32 bis 7.
+
+Cualquier interesado estará facultado para solicitar a la Secretaría la expedición de certificaciones respecto de los actos inscritos en el Registro, previa presentación de la solicitud correspondiente y pago de los derechos respectivos.
+
+###### Artículo 32 bis 8.
+
+Las normas reglamentarias del Registro desarrollarán, entre otros:
+
+I. Los procedimientos y requisitos técnicos y operativos con motivo de inscripciones, anotaciones, certificaciones y consultas que se lleven a cabo;
+
+II. Las características de las formas precodificadas para la inscripción y anotación en el Registro;
+
+III. Los criterios de clasificación de las distintas garantías, así como de los bienes afectos a las mismas;
+
+IV. El procedimiento para la renovación de las inscripciones;
+
+V. Los procedimientos y requisitos para la rectificación, modificación o cancelación de la información del Registro, y
+
+VI. Cualquier otro dato, requisito, procedimiento o condición necesarios para la adecuada operación del Registro.
+
+###### Artículo 32 bis 9.
+
+No será aplicable a esta Sección, lo dispuesto por los artículos 18, segundo párrafo, con excepción de las facultades previstas para la Secretaría; 20; 20 bis; 21, salvo por lo señalado en su fracción XX; 21 bis; 23; 25; 26; 31; 32 y 32 bis.
+
 #### CAPITULO III · De la Contabilidad Mercantil
 
-##### Artículo 33.
+###### Artículo 33.
 
 El comerciante está obligado a llevar y mantener un sistema de contabilidad adecuado. Este sistema podrá llevarse mediante los instrumentos, recursos y sistemas de registro y procesamiento que mejor se acomoden a las características particulares del negocio, pero en todo caso deberá satisfacer los siguientes requisitos mínimos:
 
@@ -378,77 +458,77 @@ D) Permitirá conectar y seguir la huella entre las cifras de dichos estados, la
 
 E) Incluirá los sistemas de control y verificación internos necesarios para impedir la omisión del registro de operaciones, para asegurar la corrección del registro contable y para asegurar la corrección de las cifras resultantes.
 
-##### Artículo 34.
+###### Artículo 34.
 
 Cualquiera que sea el sistema de registro que se emplee, se deberán llevar debidamente encuadernados, empastados y foliados el libro mayor y, en el caso de las personas morales, el libro o los libros de actas. La encuadernación de estos libros podrá hacerse a posteriori, dentro de los tres meses siguientes al cierre del ejercicio; sin perjuicio de los requisitos especiales que establezcan las leyes y reglamentos fiscales para los registros y documentos que tengan relación con las obligaciones fiscales del comerciante.
 
-##### Artículo 35.
+###### Artículo 35.
 
 En el libro mayor se deberán anotar, como mínimo y por lo menos una vez al mes, los nombres o designaciones de las cuentas de la contabilidad, su saldo al final del período de registro inmediato anterior, el total de movimientos de cargo o crédito a cada cuenta en el período y su saldo final. Podrán llevarse mayores particulares por oficinas, segmentos de actividad o cualquier otra clasificación, pero en todos los casos deberá existir un mayor general en que se concentren todas las operaciones de la entidad.
 
-##### Artículo 36.
+###### Artículo 36.
 
 En el libro o los libros de actas se harán constar todos los acuerdos relativos a la marcha del negocio que tomen las asambleas o juntas de socios, y en su caso, los consejos de administración.
 
-##### Artículo 37.
+###### Artículo 37.
 
 Todos los registros a que se refiere este capítulo deberán llevarse en castellano, aunque el comerciante sea extranjero. En caso de no cumplirse este requisito el comerciante incurrirá en una multa no menos de 25,000. 00 pesos, que no excederá del cinco por ciento de su capital y las autoridades correspondientes podrán ordenar que se haga la traducción al castellano por medio de perito traductor debidamente reconocido, siendo por cuenta del comerciante todos los costos originados por dicha traducción.
 
-##### Artículo 38.
+###### Artículo 38.
 
 El comerciante deberá conservar, debidamente archivados, los comprobantes originales de sus operaciones, de tal manera que puedan relacionarse con dichas operaciones y con el registro que de ellas se haga, y deberá conservarlos por un plazo mínimo de diez años.
 
-##### Artículo 39.
+###### Artículo 39.
 
 (Se deroga).
 
-##### Artículo 40.
+###### Artículo 40.
 
 (Se deroga).
 
-##### Artículo 41.
+###### Artículo 41.
 
 En el libro de actas que llevará cada sociedad, cuando se trate de juntas generales, se expresará: la fecha respectiva, los asistentes a ellas, los números de acciones que cada uno represente, el número de votos de que pueden hacer uso, los acuerdos que se tomen, los que se consignarán a la letra; y cuando las votaciones no sean económicas, los votos emitidos, cuidando además de consignar todo lo que conduzca al perfecto conocimiento de lo acordado. Cuando el acta se refiera a junta del consejo de administración, solo se expresará: la fecha, nombre de los asistentes y relación de los acuerdos aprobados. Estas actas serán autorizadas con las firmas de las personas a quienes los estatutos confieran esta facultad.
 
-##### Artículo 42.
+###### Artículo 42.
 
 No se puede hacer pesquisa de oficio por tribunal ni autoridad alguna, para inquirir si los comerciantes llevan o no el sistema de contabilidad a que se refiere este capítulo.
 
-##### Artículo 43.
+###### Artículo 43.
 
 Tampoco podrá decretarse, a instancia de parte, la comunicación, entrega o reconocimiento general de los libros, registros, comprobantes, cartas, cuentas y documentos de los comerciantes, sino en los casos de sucesión universal, liquidación de compañía dirección o gestión comercial por cuenta de otro o de quiebra.
 
-##### Artículo 44.
+###### Artículo 44.
 
 Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros, registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
 
 El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
 
-##### Artículo 45.
+###### Artículo 45.
 
 Si los libros se hallaren fuera de la residencia del tribunal que decrete su exhibición, se verificará ésta en el lugar donde existan dichos libros, sin exigirse su traslación al del juicio.
 
-##### Artículo 46.
+###### Artículo 46.
 
 Todo comerciante está obligado a conservar los libros, registros y documentos de su negocio por un plazo mínimo de diez años. Los herederos de un comerciante tienen la misma obligación.
 
 #### CAPITULO IV · De la Correspondencia
 
-##### Artículo 47.
+###### Artículo 47.
 
 Los comerciantes están obligados a conservar debidamente archivadas las cartas, telegramas y otros documentos que reciban en relación con sus negocios o giro, así como copias de las que expidan.
 
-##### Artículo 48.
+###### Artículo 48.
 
 Tratándose de las copias de las cartas, telegramas y otros documentos que los comerciantes expidan, así como de los que reciban que no estén incluidos en el artículo siguiente, el archivo podrá integrarse con copias obtenidas por cualquier medio: mecánico, fotográfico o electrónico, que permita su reproducción posterior íntegra y su consulta o compulsa en caso necesario.
 
-##### Artículo 49.
+###### Artículo 49.
 
 Los comerciantes están obligados a conservar por un plazo mínimo de diez años los originales de aquellas cartas, telegramas, mensajes de datos o cualesquiera otros documentos en que se consignen contratos, convenios o compromisos que den nacimiento a derechos y obligaciones.
 
 Para efectos de la conservación o presentación de originales, en el caso de mensajes de datos, se requerirá que la información se haya mantenido íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y sea accesible para su ulterior consulta. La Secretaría de Comercio y Fomento Industrial emitirá la Norma Oficial Mexicana que establezca los requisitos que deberán observarse para la conservación de mensajes de datos.
 
-##### Artículo 50.
+###### Artículo 50.
 
 Los tribunales pueden decretar de oficio, o a instancia de parte legítima, que se presenten en juicio las cartas que tengan relación con el asunto del litigio, así como que se compulsen de las respectivas copias las que se hayan escrito por los litigantes, fijándose de antemano, con precisión, por la parte que las solicite, las que hayan de ser copiadas o reproducidas.
 
@@ -456,99 +536,99 @@ Los tribunales pueden decretar de oficio, o a instancia de parte legítima, que 
 
 (Se deroga).
 
-##### Artículo 51.
+###### Artículo 51.
 
 (Se deroga).
 
-##### Artículo 52.
+###### Artículo 52.
 
 (Se deroga).
 
-##### Artículo 53.
+###### Artículo 53.
 
 (Se deroga).
 
-##### Artículo 54.
+###### Artículo 54.
 
 (Se deroga).
 
-##### Artículo 55.
+###### Artículo 55.
 
 (Se deroga).
 
-##### Artículo 56.
+###### Artículo 56.
 
 (Se deroga).
 
-##### Artículo 57.
+###### Artículo 57.
 
 (Se deroga).
 
-##### Artículo 58.
+###### Artículo 58.
 
 (Se deroga).
 
-##### Artículo 59.
+###### Artículo 59.
 
 (Se deroga).
 
-##### Artículo 60.
+###### Artículo 60.
 
 (Se deroga).
 
-##### Artículo 61.
+###### Artículo 61.
 
 (Se deroga).
 
-##### Artículo 62.
+###### Artículo 62.
 
 (Se deroga).
 
-##### Artículo 63.
+###### Artículo 63.
 
 (Se deroga).
 
-##### Artículo 64.
+###### Artículo 64.
 
 (Se deroga).
 
-##### Artículo 65.
+###### Artículo 65.
 
 (Se deroga).
 
-##### Artículo 66.
+###### Artículo 66.
 
 (Se deroga).
 
-##### Artículo 67.
+###### Artículo 67.
 
 (Se deroga).
 
-##### Artículo 68.
+###### Artículo 68.
 
 (Se deroga).
 
-##### Artículo 69.
+###### Artículo 69.
 
 (Se deroga).
 
-##### Artículo 70.
+###### Artículo 70.
 
 (Se deroga).
 
-##### Artículo 71.
+###### Artículo 71.
 
 (Se deroga).
 
-##### Artículo 72.
+###### Artículo 72.
 
 (Se deroga).
 
-##### Artículo 73.
+###### Artículo 73.
 
 (Se deroga).
 
-##### Artículo 74.
+###### Artículo 74.
 
 (Se deroga).
 
@@ -558,7 +638,7 @@ Los tribunales pueden decretar de oficio, o a instancia de parte legítima, que 
 
 #### CAPITULO I · De los Actos de Comercio
 
-##### Artículo 75.
+###### Artículo 75.
 
 La ley reputa actos de comercio:
 
@@ -614,21 +694,21 @@ XXV.- Cualesquiera otros actos de naturaleza análoga a los expresados en este c
 
 En caso de duda, la naturaleza comercial del acto será fijada por arbitrio judicial.
 
-##### Artículo 76.
+###### Artículo 76.
 
 No son actos de comercio la compra de artículos o mercaderías que para su uso o consumo, o los de su familia, hagan los comerciantes: ni las reventas hechas por obreros, cuando ellas fueren consecuencia natural de la práctica de su oficio.
 
 #### CAPITULO II · De los Contratos Mercantiles en General
 
-##### Artículo 77.
+###### Artículo 77.
 
 Las convenciones ilícitas no producen obligación ni acción, aunque recaigan sobre operaciones de comercio.
 
-##### Artículo 78.
+###### Artículo 78.
 
 En las convenciones mercantiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que la validez del acto comercial dependa de la observancia de formalidades o requisitos determinados.
 
-##### Artículo 79.
+###### Artículo 79.
 
 Se exceptuarán de lo dispuesto en el artículo que precede:
 
@@ -638,27 +718,27 @@ II.- Los contratos celebrados en país extranjero en que la ley exige escrituras
 
 En uno y otro caso, los contratos que no llenen las circunstancias respectivamente requeridas, no producirán obligación ni acción en juicio.
 
-##### Artículo 80.
+###### Artículo 80.
 
 Los convenios y contratos mercantiles que se celebren por correspondencia, telégrafo, o mediante el uso de medios electrónicos, ópticos o de cualquier otra tecnología, quedarán perfeccionados desde que se reciba la aceptación de la propuesta o las condiciones con que ésta fuere modificada.
 
-##### Artículo 81.
+###### Artículo 81.
 
 Con las modificaciones y restricciones de este Código, serán aplicables a los actos mercantiles las disposiciones del derecho civil acerca de la capacidad de los contrayentes, y de las excepciones y causas que rescinden o invalidan los contratos.
 
-##### Artículo 82.
+###### Artículo 82.
 
 Los contratos en que intervengan corredores quedarán perfeccionados cuando los contratantes firmaren la correspondiente minuta, de la manera prescrita en el título respectivo.
 
-##### Artículo 83.
+###### Artículo 83.
 
 Las obligaciones que no tuvieren término prefijado por las partes ó por las disposiciones de este Código, serán exigibles a los diez días después de contraídas, si sólo produjeren acción ordinaria, y al día inmediato si llevaren aparejada ejecución.
 
-##### Artículo 84.
+###### Artículo 84.
 
 En los contratos mercantiles no se reconocerán términos de gracia ó cortesía, y en todos los cómputos de días, meses y años, se entenderán: el día de veinticuatro horas; los meses, según están designados en el calendario gregoriano; y el año, de trescientos sesenta y cinco días.
 
-##### Artículo 85.
+###### Artículo 85.
 
 Los efectos de la morosidad en el cumplimiento de las obligaciones mercantiles comenzarán:
 
@@ -666,15 +746,15 @@ I.- En los contratos que tuvieren día señalado para su cumplimiento por volunt
 
 II.- Y en los que lo tengan, desde el día en que el acreedor le reclamare al deudor, judicial o extrajudicialmente ante escribano o testigos.
 
-##### Artículo 86.
+###### Artículo 86.
 
 Las obligaciones mercantiles habrán de cumplirse en el lugar determinado en el contrato, o en caso contrario en aquel que, según la naturaleza del negocio o la intención de las partes, deba considerarse adecuado al efecto por consentimiento de aquellas o arbitrio judicial.
 
-##### Artículo 87.
+###### Artículo 87.
 
 Si en el contrato no se determinaren con toda precisión la especie y calidad de las mercancías que han de entregarse, no podrá exigirse al deudor otra cosa que la entrega de mercancías de especie y calidad medias.
 
-##### Artículo 88.
+###### Artículo 88.
 
 En el contrato mercantil en que se fijare pena de indemnización contra el que no lo cumpliere, la parte perjudicada podrá exigir el cumplimiento del contrato o la pena prescrita; pero utilizando una de estas dos acciones, quedará extinguida la otra.
 
@@ -682,7 +762,7 @@ En el contrato mercantil en que se fijare pena de indemnización contra el que n
 
 #### CAPITULO I · De los Mensajes de Datos
 
-##### Artículo 89.
+###### Artículo 89.
 
 Las disposiciones de este Título regirán en toda la República Mexicana en asuntos del orden comercial, sin perjuicio de lo dispuesto en los tratados internacionales de los que México sea parte.
 
@@ -720,11 +800,11 @@ Sistema de Información: Se entenderá todo sistema utilizado para generar, envi
 
 Titular del Certificado: Se entenderá a la persona a cuyo favor fue expedido el Certificado.
 
-##### Artículo 89 bis.
+###### Artículo 89 bis.
 
 No se negarán efectos jurídicos, validez o fuerza obligatoria a cualquier tipo de información por la sola razón de que esté contenida en un Mensaje de Datos.
 
-##### Artículo 90.
+###### Artículo 90.
 
 Se presumirá que un Mensaje de Datos proviene del Emisor si ha sido enviado:
 
@@ -734,7 +814,7 @@ II. Usando medios de identificación, tales como claves o contraseñas del Emiso
 
 III. Por un Sistema de Información programado por el Emisor o en su nombre para que opere automáticamente.
 
-##### Artículo 90 bis.
+###### Artículo 90 bis.
 
 Se presume que un Mensaje de Datos ha sido enviado por el Emisor y, por lo tanto, el Destinatario o la Parte que Confía, en su caso, podrá actuar en consecuencia, cuando:
 
@@ -750,7 +830,7 @@ II. A partir del momento en que el Destinatario o la Parte que Confía, tenga co
 
 Salvo prueba en contrario y sin perjuicio del uso de cualquier otro método de verificación de la identidad del Emisor, se presumirá que se actuó con la debida diligencia si el método que usó el Destinatario o la Parte que Confía cumple con los requisitos establecidos en este Código para la verificación de la fiabilidad de las Firmas Electrónicas.
 
-##### Artículo 91.
+###### Artículo 91.
 
 Salvo pacto en contrario entre el Emisor y el Destinatario, el momento de recepción de un Mensaje de Datos se determinará como sigue:
 
@@ -762,11 +842,11 @@ III. Si el Destinatario no ha designado un Sistema de Información, la recepció
 
 Lo dispuesto en este artículo será aplicable aun cuando el Sistema de Información esté ubicado en un lugar distinto de donde se tenga por recibido el Mensaje de Datos conforme al artículo 94.
 
-##### Artículo 91 bis.
+###### Artículo 91 bis.
 
 Salvo pacto en contrario entre el Emisor y el Destinatario, el Mensaje de Datos se tendrá por expedido cuando ingrese en un Sistema de Información que no esté bajo el control del Emisor o del Intermediario.
 
-##### Artículo 92.
+###### Artículo 92.
 
 En lo referente a acuse de recibo de Mensajes de Datos, se estará a lo siguiente:
 
@@ -788,7 +868,7 @@ El Emisor podrá dar aviso al Destinatario de que no ha recibido el acuse de rec
 
 IV. Cuando en el acuse de recibo se indique que el Mensaje de Datos recibido cumple con los requisitos técnicos convenidos o establecidos en ley, se presumirá que ello es así.
 
-##### Artículo 93.
+###### Artículo 93.
 
 Cuando la ley exija la forma escrita para los actos, convenios o contratos, este supuesto se tendrá por cumplido tratándose de Mensaje de Datos, siempre que la información en él contenida se mantenga íntegra y sea accesible para su ulterior consulta, sin importar el formato en el que se encuentre o represente.
 
@@ -796,7 +876,7 @@ Cuando adicionalmente la ley exija la firma de las partes, dicho requisito se te
 
 En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán, a través de Mensajes de Datos, expresar los términos exactos en que las partes han decidido obligarse, en cuyo caso el fedatario público deberá hacer constar en el propio instrumento los elementos a través de los cuales se atribuyen dichos mensajes a las partes y conservar bajo su resguardo una versión íntegra de los mismos para su ulterior consulta, otorgando dicho instrumento de conformidad con la legislación aplicable que lo rige.
 
-##### Artículo 93 bis.
+###### Artículo 93 bis.
 
 Sin perjuicio de lo dispuesto en el artículo 49 de este Código, cuando la ley requiera que la información sea presentada y conservada en su forma original, ese requisito quedará satisfecho respecto a un Mensaje de Datos:
 
@@ -806,7 +886,7 @@ II. De requerirse que la información sea presentada, si dicha información pued
 
 Para efectos de este artículo, se considerará que el contenido de un Mensaje de Datos es íntegro, si éste ha permanecido completo e inalterado independientemente de los cambios que hubiere podido sufrir el medio que lo contiene, resultado del proceso de comunicación, archivo o presentación. El grado de confiabilidad requerido será determinado conforme a los fines para los que se generó la información y de todas las circunstancias relevantes del caso.
 
-##### Artículo 94.
+###### Artículo 94.
 
 Salvo pacto en contrario entre el Emisor y el Destinatario, el Mensaje de Datos se tendrá por expedido en el lugar donde el Emisor tenga su establecimiento y por recibido en el lugar donde el Destinatario tenga el suyo. Para los fines del presente artículo:
 
@@ -814,7 +894,7 @@ I. Si el Emisor o el Destinatario tienen más de un establecimiento, su establec
 
 II. Si el Emisor o el Destinatario no tienen establecimiento, se tendrá en cuenta su lugar de residencia habitual.
 
-##### Artículo 95.
+###### Artículo 95.
 
 Conforme al artículo 90, siempre que se entienda que el Mensaje de Datos proviene del Emisor, o que el Destinatario tenga derecho a actuar con arreglo a este supuesto, dicho Destinatario tendrá derecho a considerar que el Mensaje de Datos recibido corresponde al que quería enviar el iniciador, y podrá proceder en consecuencia. El Destinatario no gozará de este derecho si sabía o hubiera sabido, de haber actuado con la debida diligencia, o de haber aplicado algún método previamente acordado, que la transmisión había dado lugar a un error en el Mensaje de Datos recibido.
 
@@ -822,11 +902,11 @@ Se presume que cada Mensaje de Datos recibido es un Mensaje de Datos diferente, 
 
 #### CAPITULO II · De las Firmas
 
-##### Artículo 96.
+###### Artículo 96.
 
 Las disposiciones del presente Código serán aplicadas de modo que no excluyan, restrinjan o priven de efecto jurídico cualquier método para crear una Firma Electrónica.
 
-##### Artículo 97.
+###### Artículo 97.
 
 Cuando la ley requiera o las partes acuerden la existencia de una Firma en relación con un Mensaje de Datos, se entenderá satisfecho dicho requerimiento si se utiliza una Firma Electrónica que resulte apropiada para los fines para los cuales se generó o comunicó ese Mensaje de Datos.
 
@@ -842,7 +922,7 @@ IV. Respecto a la integridad de la información de un Mensaje de Datos, es posib
 
 Lo dispuesto en el presente artículo se entenderá sin perjuicio de la posibilidad de que cualquier persona demuestre de cualquier otra manera la fiabilidad de una Firma Electrónica; o presente pruebas de que una Firma Electrónica no es fiable.
 
-##### Artículo 98.
+###### Artículo 98.
 
 Los Prestadores de Servicios de Certificación determinarán y harán del conocimiento de los usuarios si las Firmas Electrónicas Avanzadas o Fiables que les ofrecen cumplen o no los requerimientos dispuestos en las fracciones I a IV del artículo 97.
 
@@ -850,7 +930,7 @@ La determinación que se haga, con arreglo al párrafo anterior, deberá ser com
 
 Lo dispuesto en el presente artículo se entenderá sin perjuicio de la aplicación de las normas del derecho internacional privado.
 
-##### Artículo 99.
+###### Artículo 99.
 
 El Firmante deberá:
 
@@ -866,7 +946,7 @@ IV. Responder por las obligaciones derivadas del uso no autorizado de su firma, 
 
 #### CAPITULO III · De los Prestadores de Servicios de Certificación
 
-##### Artículo 100.
+###### Artículo 100.
 
 Podrán ser Prestadores de Servicios de Certificación, previa acreditación ante la Secretaría:
 
@@ -878,7 +958,7 @@ III. Las instituciones públicas, conforme a las leyes que les son aplicables.
 
 La facultad de expedir Certificados no conlleva fe pública por sí misma, así los notarios y corredores públicos podrán llevar a cabo certificaciones que impliquen o no la fe pública, en documentos en papel, archivos electrónicos, o en cualquier otro medio o sustancia en el que pueda incluirse información.
 
-##### Artículo 101.
+###### Artículo 101.
 
 Los Prestadores de Servicios de Certificación a los que se refiere la fracción II del artículo anterior, contendrán en su objeto social las actividades siguientes:
 
@@ -890,7 +970,7 @@ III. Llevar a cabo registros de los elementos de identificación de los Firmante
 
 IV. Cualquier otra actividad no incompatible con las anteriores.
 
-##### Artículo 102.
+###### Artículo 102.
 
 Los Prestadores de Servicios de Certificación que hayan obtenido la acreditación de la Secretaría deberán notificar a ésta la iniciación de la prestación de servicios de certificación dentro de los 45 días naturales siguientes al comienzo de dicha actividad.
 
@@ -912,11 +992,11 @@ VII. Registrar su Certificado ante la Secretaría.
 
 B) Si la Secretaría no ha resuelto respecto a la petición del solicitante, para ser acreditado conforme al artículo 100 anterior, dentro de los 45 días siguientes a la presentación de la solicitud, se tendrá por concedida la acreditación.
 
-##### Artículo 103.
+###### Artículo 103.
 
 Las responsabilidades de las Entidades Prestadoras de Servicios de Certificación deberán estipularse en el contrato con los firmantes.
 
-##### Artículo 104.
+###### Artículo 104.
 
 Los Prestadores de Servicios de Certificación deben cumplir las siguientes obligaciones:
 
@@ -954,15 +1034,15 @@ g) Si existe un medio para que el Firmante dé aviso al Prestador de Servicios d
 
 h) Si se ofrece un servicio de terminación de vigencia del Certificado.
 
-##### Artículo 105.
+###### Artículo 105.
 
 La Secretaría coordinará y actuará como autoridad Certificadora, y registradora, respecto de los Prestadores de Servicios de Certificación, previstos en este Capítulo.
 
-##### Artículo 106.
+###### Artículo 106.
 
 Para la prestación de servicios de certificación, las instituciones financieras y las empresas que les prestan servicios auxiliares o complementarios relacionados con transferencias de fondos o valores, se sujetarán a las leyes que las regulan, así como a las disposiciones y autorizaciones que emitan las autoridades financieras.
 
-##### Artículo 107.
+###### Artículo 107.
 
 Serán responsabilidad del Destinatario y de la Parte que Confía, en su caso, las consecuencias jurídicas que entrañe el hecho de que no hayan tomado medidas razonables para:
 
@@ -974,7 +1054,7 @@ a) Verificar, incluso en forma inmediata, la validez, suspensión o revocación 
 
 b) Tener en cuenta cualquier limitación de uso contenida en el Certificado.
 
-##### Artículo 108.
+###### Artículo 108.
 
 Los Certificados, para ser considerados válidos, deberán contener:
 
@@ -994,7 +1074,7 @@ VII. El alcance de las responsabilidades que asume el Prestador de Servicios de 
 
 VIII. La referencia de la tecnología empleada para la creación de la Firma Electrónica.
 
-##### Artículo 109.
+###### Artículo 109.
 
 Un Certificado dejará de surtir efectos para el futuro, en los siguientes casos:
 
@@ -1008,25 +1088,25 @@ IV. Por haberse comprobado que al momento de su expedición, el Certificado no c
 
 V. Resolución judicial o de autoridad competente que lo ordene.
 
-##### Artículo 110.
+###### Artículo 110.
 
 El Prestador de Servicios de Certificación que incumpla con las obligaciones que se le imponen en el presente Capítulo, previa garantía de audiencia, y mediante resolución debidamente fundada y motivada, tomando en cuenta la gravedad de la situación y reincidencia, podrá ser sancionado por la Secretaría con suspensión temporal o definitiva de sus funciones. Este procedimiento tendrá lugar conforme a la Ley Federal de Procedimiento Administrativo.
 
-##### Artículo 111.
+###### Artículo 111.
 
 Las sanciones que se señalan en este Capítulo se aplicarán sin perjuicio de la responsabilidad civil o penal y de las penas que correspondan a los delitos en que, en su caso, incurran los infractores.
 
-##### Artículo 112.
+###### Artículo 112.
 
 Las autoridades competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan conforme a esta Ley. Incluso, en los procedimientos instaurados se podrá solicitar a los órganos competentes la adopción de las medidas cautelares que se estimen necesarias para asegurar la eficacia de la resolución que definitivamente se dicte.
 
-##### Artículo 113.
+###### Artículo 113.
 
 En el caso de que un Prestador de Servicios de Certificación sea suspendido, inhabilitado o cancelado en su ejercicio, el registro y los Certificados que haya expedido pasarán, para su administración, a otro Prestador de Servicios de Certificación, que para tal efecto señale la Secretaría mediante reglas generales.
 
 #### CAPITULO IV · Reconocimiento de Certificados y Firmas Electrónicas Extranjeros
 
-##### Artículo 114.
+###### Artículo 114.
 
 Para determinar si un Certificado o una Firma Electrónica extranjeros producen efectos jurídicos, o en qué medida los producen, no se tomará en consideración cualquiera de los siguientes supuestos:
 
@@ -1042,159 +1122,159 @@ A efectos de determinar si un Certificado o una Firma Electrónica presentan un 
 
 Cuando, sin perjuicio de lo dispuesto en los párrafos anteriores, las partes acuerden entre sí la utilización de determinados tipos de Firmas Electrónicas y Certificados, se reconocerá que ese acuerdo es suficiente a efectos del reconocimiento transfronterizo, salvo que ese acuerdo no sea válido o eficaz conforme al derecho aplicable.
 
-##### Artículo 115.
+###### Artículo 115.
 
 (Se deroga).
 
-##### Artículo 116.
+###### Artículo 116.
 
 (Se deroga).
 
-##### Artículo 117.
+###### Artículo 117.
 
 (Se deroga).
 
-##### Artículo 118.
+###### Artículo 118.
 
 (Se deroga).
 
-##### Artículo 119.
+###### Artículo 119.
 
 (Se deroga).
 
-##### Artículo 120.
+###### Artículo 120.
 
 (Se deroga).
 
-##### Artículo 121.
+###### Artículo 121.
 
 (Se deroga).
 
-##### Artículo 122.
+###### Artículo 122.
 
 (Se deroga).
 
-##### Artículo 123.
+###### Artículo 123.
 
 (Se deroga).
 
-##### Artículo 124.
+###### Artículo 124.
 
 (Se deroga).
 
-##### Artículo 125.
+###### Artículo 125.
 
 (Se deroga).
 
-##### Artículo 126.
+###### Artículo 126.
 
 (Se deroga).
 
-##### Artículo 127.
+###### Artículo 127.
 
 (Se deroga).
 
-##### Artículo 128.
+###### Artículo 128.
 
 (Se deroga).
 
-##### Artículo 129.
+###### Artículo 129.
 
 (Se deroga).
 
-##### Artículo 130.
+###### Artículo 130.
 
 (Se deroga).
 
-##### Artículo 131.
+###### Artículo 131.
 
 (Se deroga).
 
-##### Artículo 132.
+###### Artículo 132.
 
 (Se deroga).
 
-##### Artículo 133.
+###### Artículo 133.
 
 (Se deroga).
 
-##### Artículo 134.
+###### Artículo 134.
 
 (Se deroga).
 
-##### Artículo 135.
+###### Artículo 135.
 
 (Se deroga).
 
-##### Artículo 136.
+###### Artículo 136.
 
 (Se deroga).
 
-##### Artículo 137.
+###### Artículo 137.
 
 (Se deroga).
 
-##### Artículo 138.
+###### Artículo 138.
 
 (Se deroga).
 
-##### Artículo 139.
+###### Artículo 139.
 
 (Se deroga).
 
-##### Artículo 140.
+###### Artículo 140.
 
 (Se deroga).
 
-##### Artículo 141.
+###### Artículo 141.
 
 (Se deroga).
 
-##### Artículo 142.
+###### Artículo 142.
 
 (Se deroga).
 
-##### Artículo 143.
+###### Artículo 143.
 
 (Se deroga).
 
-##### Artículo 144.
+###### Artículo 144.
 
 (Se deroga).
 
-##### Artículo 145.
+###### Artículo 145.
 
 (Se deroga).
 
-##### Artículo 146.
+###### Artículo 146.
 
 (Se deroga).
 
-##### Artículo 147.
+###### Artículo 147.
 
 (Se deroga).
 
-##### Artículo 148.
+###### Artículo 148.
 
 (Se deroga).
 
-##### Artículo 149.
+###### Artículo 149.
 
 (Se deroga).
 
-##### Artículo 150.
+###### Artículo 150.
 
 (Se deroga).
 
-##### Artículo 151.
+###### Artículo 151.
 
 (Se deroga).
 
-##### Artículo 152.
+###### Artículo 152.
 
 (Se deroga).
 
-##### Artículo 153.
+###### Artículo 153.
 
 (Se deroga).
 
@@ -1202,39 +1282,39 @@ Cuando, sin perjuicio de lo dispuesto en los párrafos anteriores, las partes ac
 
 (Se deroga).
 
-##### Artículo 154.
+###### Artículo 154.
 
 (Se deroga).
 
-##### Artículo 155.
+###### Artículo 155.
 
 (Se deroga).
 
-##### Artículo 156.
+###### Artículo 156.
 
 (Se deroga).
 
-##### Artículo 157.
+###### Artículo 157.
 
 (Se deroga).
 
-##### Artículo 158.
+###### Artículo 158.
 
 (Se deroga).
 
-##### Artículo 159.
+###### Artículo 159.
 
 (Se deroga).
 
-##### Artículo 160.
+###### Artículo 160.
 
 (Se deroga).
 
-##### Artículo 161.
+###### Artículo 161.
 
 (Se deroga).
 
-##### Artículo 162.
+###### Artículo 162.
 
 (Se deroga).
 
@@ -1242,255 +1322,255 @@ Cuando, sin perjuicio de lo dispuesto en los párrafos anteriores, las partes ac
 
 (Se deroga).
 
-##### Artículo 163.
+###### Artículo 163.
 
 (Se deroga).
 
-##### Artículo 164.
+###### Artículo 164.
 
 (Se deroga).
 
-##### Artículo 165.
+###### Artículo 165.
 
 (Se deroga).
 
-##### Artículo 166.
+###### Artículo 166.
 
 (Se deroga).
 
-##### Artículo 167.
+###### Artículo 167.
 
 (Se deroga).
 
-##### Artículo 168.
+###### Artículo 168.
 
 (Se deroga).
 
-##### Artículo 169.
+###### Artículo 169.
 
 (Se deroga).
 
-##### Artículo 170.
+###### Artículo 170.
 
 (Se deroga).
 
-##### Artículo 171.
+###### Artículo 171.
 
 (Se deroga).
 
-##### Artículo 172.
+###### Artículo 172.
 
 (Se deroga).
 
-##### Artículo 173.
+###### Artículo 173.
 
 (Se deroga).
 
-##### Artículo 174.
+###### Artículo 174.
 
 (Se deroga).
 
-##### Artículo 175.
+###### Artículo 175.
 
 (Se deroga).
 
-##### Artículo 176.
+###### Artículo 176.
 
 (Se deroga).
 
-##### Artículo 177.
+###### Artículo 177.
 
 (Se deroga).
 
-##### Artículo 178.
+###### Artículo 178.
 
 (Se deroga).
 
-##### Artículo 179.
+###### Artículo 179.
 
 (Se deroga).
 
-##### Artículo 180.
+###### Artículo 180.
 
 (Se deroga).
 
-##### Artículo 181.
+###### Artículo 181.
 
 (Se deroga).
 
-##### Artículo 182.
+###### Artículo 182.
 
 (Se deroga).
 
-##### Artículo 183.
+###### Artículo 183.
 
 (Se deroga).
 
-##### Artículo 184.
+###### Artículo 184.
 
 (Se deroga).
 
-##### Artículo 185.
+###### Artículo 185.
 
 (Se deroga).
 
-##### Artículo 186.
+###### Artículo 186.
 
 (Se deroga).
 
-##### Artículo 187.
+###### Artículo 187.
 
 (Se deroga).
 
-##### Artículo 188.
+###### Artículo 188.
 
 (Se deroga).
 
-##### Artículo 189.
+###### Artículo 189.
 
 (Se deroga).
 
-##### Artículo 190.
+###### Artículo 190.
 
 (Se deroga).
 
-##### Artículo 191.
+###### Artículo 191.
 
 (Se deroga).
 
-##### Artículo 192.
+###### Artículo 192.
 
 (Se deroga).
 
-##### Artículo 193.
+###### Artículo 193.
 
 (Se deroga).
 
-##### Artículo 194.
+###### Artículo 194.
 
 (Se deroga).
 
-##### Artículo 195.
+###### Artículo 195.
 
 (Se deroga).
 
-##### Artículo 196.
+###### Artículo 196.
 
 (Se deroga).
 
-##### Artículo 197.
+###### Artículo 197.
 
 (Se deroga).
 
-##### Artículo 198.
+###### Artículo 198.
 
 (Se deroga).
 
-##### Artículo 199.
+###### Artículo 199.
 
 (Se deroga).
 
-##### Artículo 200.
+###### Artículo 200.
 
 (Se deroga).
 
-##### Artículo 201.
+###### Artículo 201.
 
 (Se deroga).
 
-##### Artículo 202.
+###### Artículo 202.
 
 (Se deroga).
 
-##### Artículo 203.
+###### Artículo 203.
 
 (Se deroga).
 
-##### Artículo 204.
+###### Artículo 204.
 
 (Se deroga).
 
-##### Artículo 205.
+###### Artículo 205.
 
 (Se deroga).
 
-##### Artículo 206.
+###### Artículo 206.
 
 (Se deroga).
 
-##### Artículo 207.
+###### Artículo 207.
 
 (Se deroga).
 
-##### Artículo 208.
+###### Artículo 208.
 
 (Se deroga).
 
-##### Artículo 209.
+###### Artículo 209.
 
 (Se deroga).
 
-##### Artículo 210.
+###### Artículo 210.
 
 (Se deroga).
 
-##### Artículo 211.
+###### Artículo 211.
 
 (Se deroga).
 
-##### Artículo 212.
+###### Artículo 212.
 
 (Se deroga).
 
-##### Artículo 213.
+###### Artículo 213.
 
 (Se deroga).
 
-##### Artículo 214.
+###### Artículo 214.
 
 (Se deroga).
 
-##### Artículo 215.
+###### Artículo 215.
 
 (Se deroga).
 
-##### Artículo 216.
+###### Artículo 216.
 
 (Se deroga).
 
-##### Artículo 217.
+###### Artículo 217.
 
 (Se deroga).
 
-##### Artículo 218.
+###### Artículo 218.
 
 (Se deroga).
 
-##### Artículo 219.
+###### Artículo 219.
 
 (Se deroga).
 
-##### Artículo 220.
+###### Artículo 220.
 
 (Se deroga).
 
-##### Artículo 221.
+###### Artículo 221.
 
 (Se deroga).
 
-##### Artículo 222.
+###### Artículo 222.
 
 (Se deroga).
 
-##### Artículo 223.
+###### Artículo 223.
 
 (Se deroga).
 
-##### Artículo 224.
+###### Artículo 224.
 
 (Se deroga).
 
-##### Artículo 225.
+###### Artículo 225.
 
 (Se deroga).
 
@@ -1498,51 +1578,51 @@ Cuando, sin perjuicio de lo dispuesto en los párrafos anteriores, las partes ac
 
 (Se deroga).
 
-##### Artículo 226.
+###### Artículo 226.
 
 (Se deroga).
 
-##### Artículo 227.
+###### Artículo 227.
 
 (Se deroga).
 
-##### Artículo 228.
+###### Artículo 228.
 
 (Se deroga).
 
-##### Artículo 229.
+###### Artículo 229.
 
 (Se deroga).
 
-##### Artículo 230.
+###### Artículo 230.
 
 (Se deroga).
 
-##### Artículo 231.
+###### Artículo 231.
 
 (Se deroga).
 
-##### Artículo 232.
+###### Artículo 232.
 
 (Se deroga).
 
-##### Artículo 233.
+###### Artículo 233.
 
 (Se deroga).
 
-##### Artículo 234.
+###### Artículo 234.
 
 (Se deroga).
 
-##### Artículo 235.
+###### Artículo 235.
 
 (Se deroga).
 
-##### Artículo 236.
+###### Artículo 236.
 
 (Se deroga).
 
-##### Artículo 237.
+###### Artículo 237.
 
 (Se deroga).
 
@@ -1550,91 +1630,91 @@ Cuando, sin perjuicio de lo dispuesto en los párrafos anteriores, las partes ac
 
 (Se deroga).
 
-##### Artículo 238.
+###### Artículo 238.
 
 (Se deroga).
 
-##### Artículo 239.
+###### Artículo 239.
 
 (Se deroga).
 
-##### Artículo 240.
+###### Artículo 240.
 
 (Se deroga).
 
-##### Artículo 241.
+###### Artículo 241.
 
 (Se deroga).
 
-##### Artículo 242.
+###### Artículo 242.
 
 (Se deroga).
 
-##### Artículo 243.
+###### Artículo 243.
 
 (Se deroga).
 
-##### Artículo 244.
+###### Artículo 244.
 
 (Se deroga).
 
-##### Artículo 245.
+###### Artículo 245.
 
 (Se deroga).
 
-##### Artículo 246.
+###### Artículo 246.
 
 (Se deroga).
 
-##### Artículo 247.
+###### Artículo 247.
 
 (Se deroga).
 
-##### Artículo 248.
+###### Artículo 248.
 
 (Se deroga).
 
-##### Artículo 249.
+###### Artículo 249.
 
 (Se deroga).
 
-##### Artículo 250.
+###### Artículo 250.
 
 (Se deroga).
 
-##### Artículo 251.
+###### Artículo 251.
 
 (Se deroga).
 
-##### Artículo 252.
+###### Artículo 252.
 
 (Se deroga).
 
-##### Artículo 253.
+###### Artículo 253.
 
 (Se deroga).
 
-##### Artículo 254.
+###### Artículo 254.
 
 (Se deroga).
 
-##### Artículo 255.
+###### Artículo 255.
 
 (Se deroga).
 
-##### Artículo 256.
+###### Artículo 256.
 
 (Se deroga).
 
-##### Artículo 257.
+###### Artículo 257.
 
 (Se deroga).
 
-##### Artículo 258.
+###### Artículo 258.
 
 (Se deroga).
 
-##### Artículo 259.
+###### Artículo 259.
 
 (Se deroga).
 
@@ -1642,23 +1722,23 @@ Cuando, sin perjuicio de lo dispuesto en los párrafos anteriores, las partes ac
 
 (Se deroga).
 
-##### Artículo 260.
+###### Artículo 260.
 
 (Se deroga).
 
-##### Artículo 261.
+###### Artículo 261.
 
 (Se deroga).
 
-##### Artículo 262.
+###### Artículo 262.
 
 (Se deroga).
 
-##### Artículo 263.
+###### Artículo 263.
 
 (Se deroga).
 
-##### Artículo 264.
+###### Artículo 264.
 
 (Se deroga).
 
@@ -1666,15 +1746,15 @@ Cuando, sin perjuicio de lo dispuesto en los párrafos anteriores, las partes ac
 
 (Se deroga).
 
-##### Artículo 265.
+###### Artículo 265.
 
 (Se deroga).
 
-##### Artículo 266.
+###### Artículo 266.
 
 (Se deroga).
 
-##### Artículo 267.
+###### Artículo 267.
 
 (Se deroga).
 
@@ -1682,19 +1762,19 @@ Cuando, sin perjuicio de lo dispuesto en los párrafos anteriores, las partes ac
 
 (Se deroga).
 
-##### Artículo 268.
+###### Artículo 268.
 
 (Se deroga).
 
-##### Artículo 269.
+###### Artículo 269.
 
 (Se deroga).
 
-##### Artículo 270.
+###### Artículo 270.
 
 (Se deroga).
 
-##### Artículo 271.
+###### Artículo 271.
 
 (Se deroga).
 
@@ -1702,7 +1782,7 @@ Cuando, sin perjuicio de lo dispuesto en los párrafos anteriores, las partes ac
 
 (Se deroga).
 
-##### Artículo 272.
+###### Artículo 272.
 
 (Se deroga).
 
@@ -1710,31 +1790,31 @@ Cuando, sin perjuicio de lo dispuesto en los párrafos anteriores, las partes ac
 
 #### CAPITULO I · De los Comisionistas
 
-##### Artículo 273.
+###### Artículo 273.
 
 El mandato aplicado a actos concretos de comercio, se reputa comisión mercantil. Es comitente el que confiere comisión mercantil y comisionista el que la desempeña.
 
-##### Artículo 274.
+###### Artículo 274.
 
 El comisionista, para desempeñar su encargo, no necesitará poder constituido en escritura pública, siéndole suficiente recibirlo por escrito o de palabra; pero cuando haya sido verbal se ha de ratificar por escrito antes que el negocio concluya.
 
-##### Artículo 275.
+###### Artículo 275.
 
 Es libre el comisionista para aceptar o no el encargo que se le hace por el comitente; pero en caso de rehusarlo, lo avisará así inmediatamente, o por el correo más próximo al día en que recibió la comisión, si el comitente no residiere en el mismo lugar.
 
-##### Artículo 276.
+###### Artículo 276.
 
 El comisionista que practique alguna gestión en desempeño del encargo que le hizo el comitente, queda sujeto a continuarlo hasta su conclusión, entendiéndose que acepta tácitamente la comisión.
 
-##### Artículo 277.
+###### Artículo 277.
 
 Aunque el comisionista rehúse la comisión que se le confiera, no estará dispensado de practicar las diligencias que sean de indispensable necesidad para la conservación de los efectos que el comitente le haya remitido, hasta que éste provea de nuevo encargado, sin que por practicar tales diligencias se entienda tácitamente aceptada la comisión.
 
-##### Artículo 278.
+###### Artículo 278.
 
 Cuando sin causa legal dejare el comisionista de avisar que rehúsa la comisión, o de cumplir la expresa o tácitamente aceptada, será responsable al comitente de todos los daños que por ello le sobrevengan.
 
-##### Artículo 279.
+###### Artículo 279.
 
 El comisionista puede hacer vender los efectos que se le han consignado, por medio de dos corredores, o dos comerciantes a falta de éstos, que previamente certifiquen el monto, calidad y precio de ellos:
 
@@ -1744,217 +1824,217 @@ II.- Cuando habiéndole avisado el comisionista al comitente que rehúsa la comi
 
 El producto líquido de los efectos así vendidos, será depositado a disposición del comitente en una institución de crédito, si la hubiere, o en poder de la persona que en su defecto designe la autoridad judicial.
 
-##### Artículo 280.
+###### Artículo 280.
 
 El comisionista debe desempeñar por sí los encargos que recibe, y no puede delegarlos sin estar autorizado para ello.
 
 Bajo su responsabilidad podrá emplear, en el desempeño de su comisión, dependientes en operaciones subalternas, que, según costumbre, se confíen a éstos.
 
-##### Artículo 281.
+###### Artículo 281.
 
 En aquellas comisiones cuyo cumplimiento exige provisión de fondos, no está obligado el comisionista a ejecutarlas, mientras el comitente no se la haga en cantidad suficiente, y también podrá suspenderlas cuando se hayan consumido los que tenía recibidos.
 
-##### Artículo 282.
+###### Artículo 282.
 
 Cuando el comisionista se comprometa a anticipar fondos para el desempeño de la comisión, estará obligado a suplirlos, excepto en el caso de suspensión de pagos o quiebra del comitente.
 
-##### Artículo 283.
+###### Artículo 283.
 
 El comisionista, salvo siempre el contrato entre él y el comitente, podrá desempeñar la comisión tratando en su propio nombre o en el de su comitente.
 
-##### Artículo 284.
+###### Artículo 284.
 
 Cuando el comisionista contrate en nombre propio, tendrá acción y obligación directamente con las personas con quienes contrate, sin tener que declarar cuál sea la persona del comitente, salvo en el caso de seguros.
 
-##### Artículo 285.
+###### Artículo 285.
 
 Cuando el comisionista contratare expresamente en nombre del comitente, no contraerá obligación propia, rigiéndose en este caso sus derechos y obligaciones como simple mandatario mercantil, por las disposiciones del derecho común.
 
-##### Artículo 286.
+###### Artículo 286.
 
 El comisionista, en el desempeño de su encargo, se sujetará a las instrucciones recibidas del comitente, y en ningún caso podrá proceder contra disposiciones expresas del mismo.
 
-##### Artículo 287.
+###### Artículo 287.
 
 En lo no previsto y prescrito expresamente por el comitente, deberá el comisionista consultarle, siempre que lo permita la naturaleza del negocio. Si no fuere posible la consulta o estuviere el comisionista autorizado para obrar a su arbitrio, hará lo que la prudencia dicte, cuidando del negocio como propio.
 
-##### Artículo 288.
+###### Artículo 288.
 
 Si un accidente imprevisto hiciere a juicio del comisionista, perjudicial la ejecución de las instrucciones recibidas, podrá suspender el cumplimiento de la comisión, comunicándolo así al comitente por el medio más rápido posible.
 
-##### Artículo 289.
+###### Artículo 289.
 
 En las operaciones hechas por el comisionista, con violación o con exceso del encargo recibido, además de la indemnización a favor del comitente de daños y perjuicios, quedará á opción de éste ratificarlas o dejarlas a cargo del comisionista.
 
-##### Artículo 290.
+###### Artículo 290.
 
 El comisionista estará obligado a dar oportunamente noticia a su comitente, de todos los hechos o circunstancias que puedan determinarle a revocar o modificar el encargo. Asimismo debe dársela sin demora, de la ejecución de dicho encargo.
 
 Artículo 29l.- El comisionista deberá observar lo establecido en las leyes y reglamentos respecto a la negociación que se le hubiere confiado, y será responsable de los resultados de su contravención ú omisión. Si los contraviniere en virtud de órdenes expresas del comitente, las responsabilidades a que haya lugar pesarán sobre ambos.
 
-##### Artículo 292.
+###### Artículo 292.
 
 Serán de cuenta del comisionista el quebranto ó extravío del numerario que tenga en su poder por razón de la comisión; y de cargo del comitente, siempre que al devolver los fondos sobrantes el comisionista observase las instrucciones de aquel respecto a la devolución.
 
-##### Artículo 293.
+###### Artículo 293.
 
 El comisionista que habiendo recibido fondos para evacuar un encargo, les diere distinta inversión, sin perjuicio de la acción criminal a que hubiere lugar y de la indemnización de daños y perjuicios, abonará al comitente el capital y su interés legal desde el día en que lo recibió.
 
-##### Artículo 294.
+###### Artículo 294.
 
 Responderá el comisionista de los efectos y mercaderías que recibiere en los términos y con las condiciones y calidades con que se le avisare la remesa, a no ser que al encargarse de ellos hiciere constar por la certificación de dos corredores, ó dos comerciantes a falta de éstos, las averías ó deterioros que en dichos efectos hubiere.
 
-##### Artículo 295.
+###### Artículo 295.
 
 El comisionista que tuviere en su poder mercaderías o efectos por cuenta ajena, responderá de su conservación en el estado en que los recibió. Cesará esta responsabilidad cuando la destrucción o menoscabo sean debidos a casos fortuitos, fuerza mayor, transcurso de tiempo o vicio propio de la cosa.
 
 En los casos de pérdida parcial o total por el transcurso de tiempo o vicio de la cosa, el comisionista estará obligado a acreditar por medio de la certificación de dos corredores, o en su defecto de dos comerciantes, el menoscabo de las mercancías, poniéndolo, tan luego como lo advierta, en conocimiento del comitente.
 
-##### Artículo 296.
+###### Artículo 296.
 
 El comisionista que hubiere de remitir efectos a otro punto, deberá contratar el transporte, cumpliendo las obligaciones que se imponen al cargador.
 
-##### Artículo 297.
+###### Artículo 297.
 
 El comisionista encargado de expedición de efectos deberá asegurarlos, si tuviere orden para ello, y la provisión de fondos necesaria, o se hubiere obligado a anticiparlos.
 
-##### Artículo 298.
+###### Artículo 298.
 
 Estará obligado el comisionista a rendir, con relación á sus libros, después de ejecutada la comisión, una cuenta completa y justificada de su cumplimiento, y a entregar al comitente el saldo de lo recibido. En caso de morosidad, abonará intereses.
 
-##### Artículo 299.
+###### Artículo 299.
 
 Ningún comisionista comprará ni para sí ni para otro lo que se le hubiere mandado vender, ni venderá lo que se le haya mandado comprar, sin consentimiento expreso del comitente.
 
-##### Artículo 300.
+###### Artículo 300.
 
 Los comisionistas no podrán alterar las marcas de los efectos que hubieren comprado o vendido por cuenta ajena, ni tener efectos de una misma especie pertenecientes a distintos dueños, bajo una misma marca, sin distinguirlos por una contramarca que designe la propiedad respectiva de cada comitente.
 
-##### Artículo 301.
+###### Artículo 301.
 
 El comisionista no podrá, sin autorización del comitente, prestar ni vender al fiado o a plazos, pudiendo en estos casos el comitente exigirle el pago al contado, dejando a favor del comisionista cualquier interés o ventaja que resulte de dicho crédito a plazo.
 
-##### Artículo 302.
+###### Artículo 302.
 
 Si el comisionista, con la debida autorización, vendiere á plazo, deberá avisarlo así al comitente participándole los nombres de los compradores, y no haciéndolo, se entenderá, respecto al comitente, que las ventas fueron al contado.
 
-##### Artículo 303.
+###### Artículo 303.
 
 El accionista que no verificare oportunamente la cobranza de los créditos, o no usare de los medios legales para conseguir el pago, será responsable de los perjuicios que causaren su omisión o tardanza.
 
-##### Artículo 304.
+###### Artículo 304.
 
 Salvo pacto en contrario, todo comisionista tiene derecho a ser remunerado por su trabajo. En caso de no existir estipulación previa, el monto de la remuneración se regulará por el uso de la plaza donde se realice la comisión.
 
-##### Artículo 305.
+###### Artículo 305.
 
 El comitente está obligado a satisfacer al contado al comisionista, mediante cuenta justificada, el importe de todos sus gastos y desembolsos, con el interés comercial desde el día en que los hubiere hecho.
 
-##### Artículo 306.
+###### Artículo 306.
 
 Los efectos que estén real o virtualmente en poder del comisionista, se entenderán especial y preferentemente obligados al pago de los derechos de comisión, anticipaciones y gastos que el comisionista hubiere hecho por cuenta de ellos, y no podrá ser desposeído de los mismos sin ser antes pagado.
 
-##### Artículo 307.
+###### Artículo 307.
 
 Quedando siempre obligado a las resultas de las gestiones ya practicadas, el comitente podrá en cualquier tiempo revocar la comisión conferida al comisionista.
 
 La revocación intimada únicamente al comisionista, no puede ser opuesta a terceros contratantes que no la conociesen, salvo el derecho del comitente contra el comisionista.
 
-##### Artículo 308.
+###### Artículo 308.
 
 Por muerte o inhabilitación del comisionista se entenderá rescindido el contrato de comisión; pero por muerte o inhabilitación del comitente no se rescindirá, aunque pueden revocarlo sus representantes.
 
 #### CAPITULO II · De los Factores y Dependientes
 
-##### Artículo 309.
+###### Artículo 309.
 
 Se reputarán factores los que tengan la dirección de alguna empresa o establecimiento fabril o comercial, o estén autorizados para contratar respecto a todos los negocios concernientes a dichos establecimientos o empresas, por cuenta y en nombre de los propietarios de los mismos.
 
 Se reputarán dependientes los que desempeñen constantemente alguna o algunas gestiones propias del tráfico, en nombre y por cuenta del propietario de éste. Todo comerciante en el ejercicio de su tráfico, podrá constituir factores y dependientes.
 
-##### Artículo 310.
+###### Artículo 310.
 
 Los factores deberán tener la capacidad necesaria para obligarse, y poder o autorización por escrito de la persona por cuya cuenta hagan el tráfico.
 
-##### Artículo 311.
+###### Artículo 311.
 
 Los factores negociarán y contratarán a nombre de sus principales, expresándolo así en los documentos que con tal carácter suscriban, pudiendo también contratar en nombre propio.
 
-##### Artículo 312.
+###### Artículo 312.
 
 Solo autorizados por sus principales y en los términos en que expresamente lo fueren, podrán los factores traficar o interesarse en negociaciones del mismo género de las que hicieren en nombre de sus principales.
 
-##### Artículo 313.
+###### Artículo 313.
 
 En todos los contratos celebrados por los factores con tal carácter, quedarán obligados los principales y sus bienes. Si contrataren en su propio nombre, quedarán obligados directamente.
 
-##### Artículo 314.
+###### Artículo 314.
 
 Cuando el factor contrate en nombre propio, pero por cuenta del principal, la otra parte contratante podrá dirigir su acción contra el factor o principal.
 
-##### Artículo 315.
+###### Artículo 315.
 
 Siempre que los contratos celebrados por los factores recaigan sobre objetos comprendidos en el giro o tráfico de que están encargados, se entenderán hechos por cuenta del principal, aun cuando el factor no lo haya expresado así al celebrarlos, haya trasgredido sus facultades o cometido abuso de confianza.
 
-##### Artículo 316.
+###### Artículo 316.
 
 Asimismo obligarán al principal los contratos de su factor, aun siendo ajenos al giro de que esté encargado, siempre que haya obrado con orden de su principal, o éste los haya aprobado en términos expresos o por hechos positivos.
 
-##### Artículo 317.
+###### Artículo 317.
 
 Las multas en que puede incurrir el factor por contravención a las leyes en las gestiones propias de su factoría, se harán efectivas en bienes de su principal.
 
-##### Artículo 318.
+###### Artículo 318.
 
 Si el principal interesare al factor en alguna o algunas operaciones, con respecto a ellas y con relación al principal, el factor será reputado asociado.
 
 Ni el factor ni el dependiente tendrán este carácter, ni el de socios, si solo los interesare el principal en las utilidades del giro, reputándose sueldo dicho interés.
 
-##### Artículo 319.
+###### Artículo 319.
 
 Los poderes conferidos a un factor se estimarán en todo caso subsistentes mientras no le fueren expresamente revocados, o haya sido enajenado el establecimiento de que estaba encargado.
 
-##### Artículo 320.
+###### Artículo 320.
 
 Los actos y contratos ejecutados por el factor serán válidos respecto de su principal, mientras no llegue a noticia del factor la revocación del poder o la enajenación del establecimiento o empresa de que estaba encargado; y con relación a tercero, mientras no se haya cumplido, en cuanto a la revocación del poder, la inscripción y publicación de ella.
 
-##### Artículo 321.
+###### Artículo 321.
 
 Los actos de los dependientes obligarán a sus principales en todas las operaciones que éstos les tuvieren encomendadas.
 
-##### Artículo 322.
+###### Artículo 322.
 
 Los dependientes encargados de vender se reputarán autorizados para cobrar el importe de las ventas y extender los correspondientes recibos a nombre de los principales, siempre que las ventas sean en almacén público y al por menor; o siendo al por mayor, se hayan verificado al contado y el pago se haya hecho en el almacén.
 
-##### Artículo 323.
+###### Artículo 323.
 
 Los dependientes viajantes autorizados con cartas ú otros documentos para gestionar negocios, o hacer operaciones de tráfico, obligarán a su principal dentro de las atribuciones expresadas en los documentos que los autoricen.
 
-##### Artículo 324.
+###### Artículo 324.
 
 La recepción de mercancías que el dependiente hiciere por encargo de su principal, se tendrá como hecha por éste.
 
-##### Artículo 325.
+###### Artículo 325.
 
 Sólo con autorización de sus principales, podrán los factores y dependientes delegar en otros los encargos que recibieron de aquellos.
 
-##### Artículo 326.
+###### Artículo 326.
 
 Los principales indemnizarán a los factores y dependientes de los gastos que hicieren y pérdidas que sufrieren en el desempeño de su encargo, salvo lo expresamente pactado a este respecto.
 
-##### Artículo 327.
+###### Artículo 327.
 
 Los factores y dependientes serán responsables a sus principales de cualquier perjuicio que causen a sus intereses por malicia, negligencia o infracción de las órdenes o instrucciones que hubieren recibido.
 
-##### Artículo 328.
+###### Artículo 328.
 
 Si el contrato entre los principales y sus dependientes no tuviere tiempo señalado, cualquiera de las partes podrá darlo por fenecido, avisando con un mes de anticipación. Si se hubiere celebrado por tiempo fijo, ninguna de las partes contratantes, sin el consentimiento de la otra, podrá separarse antes del plazo convenido, bajo pena de indemnización de daños y perjuicios.
 
-##### Artículo 329.
+###### Artículo 329.
 
 Los principales llevarán cuenta comprobada a sus dependientes de su haber y debe.
 
-##### Artículo 330.
+###### Artículo 330.
 
 Los principales podrán despedir a sus dependientes antes del plazo convenido:
 
@@ -1964,7 +2044,7 @@ II.- Por hacer alguna operación de comercio sin autorización de su principal, 
 
 III.- Por faltar gravemente al respeto y consideración debidos a su principal o personas de su familia o dependencia.
 
-##### Artículo 331.
+###### Artículo 331.
 
 Los dependientes podrán despedirse de sus principales antes del plazo fijado:
 
@@ -1978,25 +2058,25 @@ Del Deposito Mercantil
 
 #### CAPITULO I · Del Depósito Mercantil en General
 
-##### Artículo 332.
+###### Artículo 332.
 
 Se estima mercantil el depósito si las cosas depositadas son objeto de comercio, o si se hace a consecuencia de una operación mercantil.
 
-##### Artículo 333.
+###### Artículo 333.
 
 Salvo pacto en contrario, el depositario tiene derecho á exigir retribución por el depósito, la cual se arreglará a los términos del contrato, y en su defecto, a los usos de la plaza en que se constituyó el depósito.
 
-##### Artículo 334.
+###### Artículo 334.
 
 El depósito queda constituido mediante la entrega al depositario de la cosa que constituye su objeto.
 
-##### Artículo 335.
+###### Artículo 335.
 
 El depositario está obligado a conservar la cosa, objeto del depósito, según la reciba, y a devolverla con los documentos, si los tuviere, cuando el depositario se la pida.
 
 En la conservación del depósito responderá el depositario de los menoscabos, daños y perjuicios que las cosas depositadas sufrieren por su malicia o negligencia.
 
-##### Artículo 336.
+###### Artículo 336.
 
 Cuando los depósitos sean de numerario, con especificación de las monedas que los constituyan, o cuando se entreguen cerrados y sellados, los aumentos o bajas que su valor experimente serán de cuenta del depositante.
 
@@ -2004,15 +2084,15 @@ Los riesgos de dichos depósitos corren a cargo del depositario, siendo de su cu
 
 Cuando los depósitos en numerario se constituyan sin especificación de moneda, o sin cerrar o sellar, el depositario responderá de su conservación y riesgos, en los términos establecidos por el artículo anterior.
 
-##### Artículo 337.
+###### Artículo 337.
 
 (Se deroga).
 
-##### Artículo 338.
+###### Artículo 338.
 
 Siempre que con asentimiento del depositante dispusiese el depositario de las cosas que fuesen objeto del depósito, ya para sí o sus negocios, ya para operaciones que aquel le encomendare, cesarán los derechos y obligaciones propias del depositante y depositario, surgiendo los del contrato que se celebrare.
 
-##### Artículo 339.
+###### Artículo 339.
 
 (Se deroga).
 
@@ -2020,75 +2100,75 @@ Siempre que con asentimiento del depositante dispusiese el depositario de las co
 
 (Se deroga).
 
-##### Artículo 340.
+###### Artículo 340.
 
 (Se deroga).
 
-##### Artículo 341.
+###### Artículo 341.
 
 (Se deroga).
 
-##### Artículo 342.
+###### Artículo 342.
 
 (Se deroga).
 
-##### Artículo 343.
+###### Artículo 343.
 
 (Se deroga).
 
-##### Artículo 344.
+###### Artículo 344.
 
 (Se deroga).
 
-##### Artículo 345.
+###### Artículo 345.
 
 (Se deroga).
 
-##### Artículo 346.
+###### Artículo 346.
 
 (Se deroga).
 
-##### Artículo 347.
+###### Artículo 347.
 
 (Se deroga).
 
-##### Artículo 348.
+###### Artículo 348.
 
 (Se deroga).
 
-##### Artículo 349.
+###### Artículo 349.
 
 (Se deroga).
 
-##### Artículo 350.
+###### Artículo 350.
 
 (Se deroga).
 
-##### Artículo 351.
+###### Artículo 351.
 
 (Se deroga).
 
-##### Artículo 352.
+###### Artículo 352.
 
 (Se deroga).
 
-##### Artículo 353.
+###### Artículo 353.
 
 (Se deroga).
 
-##### Artículo 354.
+###### Artículo 354.
 
 (Se deroga).
 
-##### Artículo 355.
+###### Artículo 355.
 
 (Se deroga).
 
-##### Artículo 356.
+###### Artículo 356.
 
 (Se deroga)
 
-##### Artículo 357.
+###### Artículo 357.
 
 (Se deroga)
 
@@ -2096,11 +2176,11 @@ Siempre que con asentimiento del depositante dispusiese el depositario de las co
 
 #### CAPITULO I · Del Préstamo Mercantil en General
 
-##### Artículo 358.
+###### Artículo 358.
 
 Se reputa mercantil el préstamo cuando se contrae en el concepto y con expresión de que las cosas prestadas se destinan a actos de comercio y no para necesidades ajenas de éste. Se presume mercantil el préstamo que se contrae entre comerciantes.
 
-##### Artículo 359.
+###### Artículo 359.
 
 Consistiendo el préstamo en dinero, pagará el deudor devolviendo una cantidad igual a la recibida conforme a la ley monetaria vigente en la República al tiempo de hacerse el pago, sin que esta prescripción sea renunciable. Si se pacta la especie de moneda, siendo extranjera, en que se ha de hacer el pago, la alteración que experimente en valor será en daño o beneficio del prestador.
 
@@ -2108,15 +2188,15 @@ En los préstamos de títulos o valores, pagará el deudor devolviendo otros tan
 
 Si los préstamos fueren en especie, deberá el deudor devolver, á no mediar pacto en distinto sentido, igual cantidad en la misma especie y calidad, o su equivalente en metálico si se hubiese extinguido la especie debida.
 
-##### Artículo 360.
+###### Artículo 360.
 
 En los préstamos por tiempo indeterminado, no podrá exigirse al deudor el pago, sino después de los treinta días siguientes a la interpelación que se haga, ya judicialmente, ya en lo extrajudicial, ante un notario o dos testigos.
 
-##### Artículo 361.
+###### Artículo 361.
 
 Toda prestación pactada a favor del acreedor que conste precisamente por escrito, se reputará interés.
 
-##### Artículo 362.
+###### Artículo 362.
 
 Los deudores que demoren el pago de sus deudas, deberán satisfacer, desde el día siguiente al del vencimiento, el interés pactado para este caso, o en su defecto el seis por ciento anual.
 
@@ -2124,11 +2204,11 @@ Si el préstamo consistiere en especies, para computar el rédito se graduará s
 
 Y si consistiere el préstamo en títulos o valores, el rédito por mora será el que los mismos títulos o valores devenguen, o en su defecto el 6 por 100 anual, determinándose el precio de los valores por el que tengan en la Bolsa, si fueren cotizables, o en caso contrario por el que tuvieren en la plaza el día siguiente al del vencimiento.
 
-##### Artículo 363.
+###### Artículo 363.
 
 Los intereses vencidos y no pagados, no devengarán intereses. Los contratantes podrán, sin embargo, capitalizarlos.
 
-##### Artículo 364.
+###### Artículo 364.
 
 El recibo del capital por el acreedor, sin reservarse expresamente el derecho a los intereses pactados o debidos, extinguirá la obligación del deudor respecto a los mismos.
 
@@ -2138,27 +2218,27 @@ Las entregas a cuenta, cuando no resulte expresa su aplicación, se imputarán e
 
 (Se deroga).
 
-##### Artículo 365.
+###### Artículo 365.
 
 (Se deroga).
 
-##### Artículo 366.
+###### Artículo 366.
 
 (Se deroga).
 
-##### Artículo 367.
+###### Artículo 367.
 
 (Se deroga).
 
-##### Artículo 368.
+###### Artículo 368.
 
 (Se deroga).
 
-##### Artículo 369.
+###### Artículo 369.
 
 (Se deroga).
 
-##### Artículo 370.
+###### Artículo 370.
 
 (Se deroga).
 
@@ -2166,55 +2246,55 @@ Las entregas a cuenta, cuando no resulte expresa su aplicación, se imputarán e
 
 #### CAPITULO I · De la Compraventa
 
-##### Artículo 371.
+###### Artículo 371.
 
 Serán mercantiles las compraventas a las que este Código les da tal carácter, y todas las que se hagan con el objeto directo y preferente de traficar.
 
-##### Artículo 372.
+###### Artículo 372.
 
 En las compraventas mercantiles se sujetarán los contratantes a todas las estipulaciones lícitas con que las hubieren pactado.
 
-##### Artículo 373.
+###### Artículo 373.
 
 Las compraventas que se hicieren sobre muestras o calidades de mercancías determinadas y conocidas en el comercio, se tendrán por perfeccionadas por el solo consentimiento de las partes.
 
 En caso de desavenencia entre los contratantes, dos comerciantes, nombrados uno por cada parte, y un tercero para el caso de discordia nombrado por éstos, resolverán sobre la conformidad o inconformidad de las mercancías con las muestras o calidades que sirvieron de base al contrato.
 
-##### Artículo 374.
+###### Artículo 374.
 
 Cuando el objeto de las compraventas sea mercancías que no hayan sido vistas por el comprador, ni puedan clasificarse por calidad determinadamente conocida en el comercio, el contrato no se tendrá por perfeccionado, mientras el comprador no las examine y acepte.
 
-##### Artículo 375.
+###### Artículo 375.
 
 Si se ha pactado la entrega de las mercancías en cantidad y plazos determinados, el comprador no estará obligado a recibirlos fuera de ellos; pero si aceptare entregas parciales, quedará consumada la venta en lo que a éstas se refiere.
 
-##### Artículo 376.
+###### Artículo 376.
 
 En las compraventas mercantiles, una vez perfeccionado el contrato, el contratante que cumpliere tendrá derecho a exigir del que no cumpliere, la rescisión o cumplimiento del contrato, y la indemnización, además, de los daños y perjuicios.
 
-##### Artículo 377.
+###### Artículo 377.
 
 Una vez perfeccionado el contrato de compraventa, las pérdidas, daños o menoscabos que sobrevinieren a las mercaderías vendidas, serán por cuenta del comprador, si ya le hubieren sido entregadas real, jurídica o virtualmente; o si no le hubieren sido entregadas de ninguna de estas maneras, serán por cuenta del vendedor.
 
 En los casos de negligencia, culpa o dolo, además de la acción criminal que competa contra sus autores, serán éstos responsables de las pérdidas, daños o menoscabos que por su causa sufrieren las mercancías.
 
-##### Artículo 378.
+###### Artículo 378.
 
 Desde el momento en que el comprador acepte que las mercancías vendidas quedan a su disposición, se tendrá por virtualmente recibido de ellas, y el vendedor quedará con los derechos y obligaciones de un simple depositario.
 
-##### Artículo 379.
+###### Artículo 379.
 
 Si no hubiere fijado plazo para su entrega, el vendedor deberá tener a disposición del comprador las mercancías vendidas, dentro de las veinticuatro horas siguientes al contrato.
 
-##### Artículo 380.
+###### Artículo 380.
 
 El comprador deberá pagar el precio de las mercancías que se le hayan vendido en los términos y plazos convenidos. A falta de convenio lo deberá pagar de contado. La demora en el pago del precio lo constituirá en la obligación de pagar réditos al tipo legal sobre la cantidad que adeude.
 
-##### Artículo 381.
+###### Artículo 381.
 
 Salvo pacto en contrario, las cantidades que con el carácter de arras se entreguen en las ventas mercantiles, se reputarán dadas a cuenta de precio.
 
-##### Artículo 382.
+###### Artículo 382.
 
 Los gastos de entrega en las ventas mercantiles, serán:
 
@@ -2222,53 +2302,53 @@ I.- A cargo del vendedor, todos los que se ocasionen hasta poner las mercancías
 
 II.- Los de su recibo y extracción fuera del lugar de la entrega, serán por cuenta del comprador.
 
-##### Artículo 383.
+###### Artículo 383.
 
 El comprador que dentro de los cinco días de recibir las mercancías no reclamare al vendedor, por escrito, las faltas de calidad o cantidad en ellas; o que dentro de treinta días contados desde que las recibió, no le reclamase por causa de vicios internos de las mismas, perderá toda acción y derecho a repetir por tales causas contra el vendedor.
 
-##### Artículo 384.
+###### Artículo 384.
 
 El vendedor, salvo pacto en contrario, quedará obligado en las ventas mercantiles a la evicción y saneamiento.
 
-##### Artículo 385.
+###### Artículo 385.
 
 Las ventas mercantiles no se rescindirán por causa de lesión; pero al perjudicado, además de la acción criminal que le competa, le asistirá la de daños y perjuicios contra el contratante que hubiese procedido con fraude o malicia en el contrato o en su cumplimiento.
 
-##### Artículo 386.
+###### Artículo 386.
 
 Mientras que las mercancías vendidas estén en poder del vendedor, aunque sea en calidad de depósito, éste tendrá preferencia sobre ellas con respecto a cualquier acreedor, para ser pagado de lo que se le adeude por cuenta del precio de las mismas.
 
-##### Artículo 387.
+###### Artículo 387.
 
 Los depósitos y ventas públicas a que hubiere lugar en la ejecución de las compraventas mercantiles, se harán por la autoridad judicial.
 
 #### CAPITULO II · De las Permutas Mercantiles
 
-##### Artículo 388.
+###### Artículo 388.
 
 Las disposiciones relativas al contrato de compraventa, son aplicables al de permuta mercantil, salva la naturaleza de éste.
 
 #### CAPITULO III · De las Cesiones de Créditos no Endosables
 
-##### Artículo 389.
+###### Artículo 389.
 
 Los créditos mercantiles que no sean al portador ni endosables, se transferirán por medio de cesión.
 
-##### Artículo 390.
+###### Artículo 390.
 
 La cesión producirá sus efectos legales con respecto al deudor, desde que le sea notificada ante dos testigos.
 
-##### Artículo 391.
+###### Artículo 391.
 
 Salvo pacto en contrario, el cedente de un crédito mercantil responderá tan solo de la legitimidad del crédito y de la personalidad con que hizo la cesión.
 
 #### CAPITULO IV · De la Consignación Mercantil
 
-##### Artículo 392.
+###### Artículo 392.
 
 La consignación mercantil es el contrato por virtud del cual, una persona denominada consignante transmite la disponibilidad y no la propiedad de uno o varios bienes muebles, a otra persona denominada consignatario, para que le pague un precio por ello en caso de venderlos en el término establecido, o se los restituya en caso de no hacerlo.
 
-##### Artículo 393.
+###### Artículo 393.
 
 El contrato consignatorio se regirá por lo siguiente:
 
@@ -2302,7 +2382,7 @@ VII. El consignatario podrá disponer válidamente del bien sólo con el fin pre
 
 El consignatorio debe poner de inmediato a disposición del consignante los bienes dados en consignación cuando ocurra alguno de los supuestos previstos en el artículo 394, a efecto de que éste los recoja dentro de los dos días hábiles siguientes a la notificación respectiva. Si el consignante no recoge la mercancía dentro del término señalado con anterioridad, salvo pacto en contrario, estará obligado a cubrir al consignatario el equivalente al dos por ciento mensual del valor de mercado del bien de que se trate por concepto de almacenaje por cada mes o fracción que tarde en recoger el mismo, en cuyo caso, los riesgos derivados de la pérdida o deterioro por caso fortuito o fuerza mayor se entenderán transmitidos al consignante.
 
-##### Artículo 394.
+###### Artículo 394.
 
 Son causas de terminación del contrato consignatorio:
 
@@ -2324,15 +2404,15 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 395.
+###### Artículo 395.
 
 (Se deroga).
 
-##### Artículo 396.
+###### Artículo 396.
 
 (Se deroga).
 
-##### Artículo 397.
+###### Artículo 397.
 
 (Se deroga).
 
@@ -2340,115 +2420,115 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 398.
+###### Artículo 398.
 
 (Se deroga).
 
-##### Artículo 399.
+###### Artículo 399.
 
 (Se deroga).
 
-##### Artículo 400.
+###### Artículo 400.
 
 (Se deroga).
 
-##### Artículo 401.
+###### Artículo 401.
 
 (Se deroga).
 
-##### Artículo 402.
+###### Artículo 402.
 
 (Se deroga).
 
-##### Artículo 403.
+###### Artículo 403.
 
 (Se deroga).
 
-##### Artículo 404.
+###### Artículo 404.
 
 (Se deroga).
 
-##### Artículo 405.
+###### Artículo 405.
 
 (Se deroga).
 
-##### Artículo 406.
+###### Artículo 406.
 
 (Se deroga).
 
-##### Artículo 407.
+###### Artículo 407.
 
 (Se deroga).
 
-##### Artículo 408.
+###### Artículo 408.
 
 (Se deroga).
 
-##### Artículo 409.
+###### Artículo 409.
 
 (Se deroga).
 
-##### Artículo 410.
+###### Artículo 410.
 
 (Se deroga).
 
-##### Artículo 411.
+###### Artículo 411.
 
 (Se deroga).
 
-##### Artículo 412.
+###### Artículo 412.
 
 (Se deroga).
 
-##### Artículo 413.
+###### Artículo 413.
 
 (Se deroga).
 
-##### Artículo 414.
+###### Artículo 414.
 
 (Se deroga).
 
-##### Artículo 415.
+###### Artículo 415.
 
 (Se deroga).
 
-##### Artículo 416.
+###### Artículo 416.
 
 (Se deroga).
 
-##### Artículo 417.
+###### Artículo 417.
 
 (Se deroga).
 
-##### Artículo 418.
+###### Artículo 418.
 
 (Se deroga).
 
-##### Artículo 419.
+###### Artículo 419.
 
 (Se deroga).
 
-##### Artículo 420.
+###### Artículo 420.
 
 (Se deroga).
 
-##### Artículo 421.
+###### Artículo 421.
 
 (Se deroga).
 
-##### Artículo 422.
+###### Artículo 422.
 
 (Se deroga).
 
-##### Artículo 423.
+###### Artículo 423.
 
 (Se deroga).
 
-##### Artículo 424.
+###### Artículo 424.
 
 (Se deroga).
 
-##### Artículo 425.
+###### Artículo 425.
 
 (Se deroga).
 
@@ -2456,67 +2536,67 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 426.
+###### Artículo 426.
 
 (Se deroga).
 
-##### Artículo 427.
+###### Artículo 427.
 
 (Se deroga).
 
-##### Artículo 428.
+###### Artículo 428.
 
 (Se deroga).
 
-##### Artículo 429.
+###### Artículo 429.
 
 (Se deroga).
 
-##### Artículo 430.
+###### Artículo 430.
 
 (Se deroga).
 
-##### Artículo 431.
+###### Artículo 431.
 
 (Se deroga).
 
-##### Artículo 432.
+###### Artículo 432.
 
 (Se deroga).
 
-##### Artículo 433.
+###### Artículo 433.
 
 (Se deroga).
 
-##### Artículo 434.
+###### Artículo 434.
 
 (Se deroga).
 
-##### Artículo 435.
+###### Artículo 435.
 
 (Se deroga).
 
-##### Artículo 436.
+###### Artículo 436.
 
 (Se deroga).
 
-##### Artículo 437.
+###### Artículo 437.
 
 (Se deroga).
 
-##### Artículo 438.
+###### Artículo 438.
 
 (Se deroga).
 
-##### Artículo 439.
+###### Artículo 439.
 
 (Se deroga).
 
-##### Artículo 440.
+###### Artículo 440.
 
 (Se deroga).
 
-##### Artículo 441.
+###### Artículo 441.
 
 (Se deroga).
 
@@ -2524,27 +2604,27 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 442.
+###### Artículo 442.
 
 (Se deroga).
 
-##### Artículo 443.
+###### Artículo 443.
 
 (Se deroga).
 
-##### Artículo 444.
+###### Artículo 444.
 
 (Se deroga).
 
-##### Artículo 445.
+###### Artículo 445.
 
 (Se deroga).
 
-##### Artículo 446.
+###### Artículo 446.
 
 (Se deroga).
 
-##### Artículo 447.
+###### Artículo 447.
 
 (Se deroga).
 
@@ -2552,7 +2632,7 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 448.
+###### Artículo 448.
 
 (Se deroga).
 
@@ -2562,83 +2642,83 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 449.
+###### Artículo 449.
 
 (Se deroga).
 
-##### Artículo 450.
+###### Artículo 450.
 
 (Se deroga).
 
-##### Artículo 451.
+###### Artículo 451.
 
 (Se deroga).
 
-##### Artículo 452.
+###### Artículo 452.
 
 (Se deroga).
 
-##### Artículo 453.
+###### Artículo 453.
 
 (Se deroga).
 
-##### Artículo 454.
+###### Artículo 454.
 
 (Se deroga).
 
-##### Artículo 455.
+###### Artículo 455.
 
 (Se deroga).
 
-##### Artículo 456.
+###### Artículo 456.
 
 (Se deroga).
 
-##### Artículo 457.
+###### Artículo 457.
 
 (Se deroga).
 
-##### Artículo 458.
+###### Artículo 458.
 
 (Se deroga).
 
-##### Artículo 459.
+###### Artículo 459.
 
 (Se deroga).
 
-##### Artículo 460.
+###### Artículo 460.
 
 (Se deroga).
 
-##### Artículo 461.
+###### Artículo 461.
 
 (Se deroga).
 
-##### Artículo 462.
+###### Artículo 462.
 
 (Se deroga).
 
-##### Artículo 463.
+###### Artículo 463.
 
 (Se deroga).
 
-##### Artículo 464.
+###### Artículo 464.
 
 (Se deroga).
 
-##### Artículo 465.
+###### Artículo 465.
 
 (Se deroga).
 
-##### Artículo 466.
+###### Artículo 466.
 
 (Se deroga).
 
-##### Artículo 467.
+###### Artículo 467.
 
 (Se deroga).
 
-##### Artículo 468.
+###### Artículo 468.
 
 (Se deroga).
 
@@ -2646,35 +2726,35 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 469.
+###### Artículo 469.
 
 (Se deroga).
 
-##### Artículo 470.
+###### Artículo 470.
 
 (Se deroga).
 
-##### Artículo 471.
+###### Artículo 471.
 
 (Se deroga).
 
-##### Artículo 472.
+###### Artículo 472.
 
 (Se deroga).
 
-##### Artículo 473.
+###### Artículo 473.
 
 (Se deroga).
 
-##### Artículo 474.
+###### Artículo 474.
 
 (Se deroga).
 
-##### Artículo 475.
+###### Artículo 475.
 
 (Se deroga).
 
-##### Artículo 476.
+###### Artículo 476.
 
 (Se deroga).
 
@@ -2682,31 +2762,31 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 477.
+###### Artículo 477.
 
 (Se deroga).
 
-##### Artículo 478.
+###### Artículo 478.
 
 (Se deroga).
 
-##### Artículo 479.
+###### Artículo 479.
 
 (Se deroga).
 
-##### Artículo 480.
+###### Artículo 480.
 
 (Se deroga).
 
-##### Artículo 481.
+###### Artículo 481.
 
 (Se deroga).
 
-##### Artículo 482.
+###### Artículo 482.
 
 (Se deroga).
 
-##### Artículo 483.
+###### Artículo 483.
 
 (Se deroga).
 
@@ -2714,51 +2794,51 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 484.
+###### Artículo 484.
 
 (Se deroga).
 
-##### Artículo 485.
+###### Artículo 485.
 
 (Se deroga).
 
-##### Artículo 486.
+###### Artículo 486.
 
 (Se deroga).
 
-##### Artículo 487.
+###### Artículo 487.
 
 (Se deroga).
 
-##### Artículo 488.
+###### Artículo 488.
 
 (Se deroga).
 
-##### Artículo 489.
+###### Artículo 489.
 
 (Se deroga).
 
-##### Artículo 490.
+###### Artículo 490.
 
 (Se deroga).
 
-##### Artículo 491.
+###### Artículo 491.
 
 (Se deroga).
 
-##### Artículo 492.
+###### Artículo 492.
 
 (Se deroga).
 
-##### Artículo 493.
+###### Artículo 493.
 
 (Se deroga).
 
-##### Artículo 494.
+###### Artículo 494.
 
 (Se deroga).
 
-##### Artículo 495.
+###### Artículo 495.
 
 (Se deroga).
 
@@ -2766,15 +2846,15 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 496.
+###### Artículo 496.
 
 (Se deroga).
 
-##### Artículo 497.
+###### Artículo 497.
 
 (Se deroga).
 
-##### Artículo 498.
+###### Artículo 498.
 
 (Se deroga).
 
@@ -2782,47 +2862,47 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 499.
+###### Artículo 499.
 
 (Se deroga).
 
-##### Artículo 500.
+###### Artículo 500.
 
 (Se deroga).
 
-##### Artículo 501.
+###### Artículo 501.
 
 (Se deroga).
 
-##### Artículo 502.
+###### Artículo 502.
 
 (Se deroga).
 
-##### Artículo 503.
+###### Artículo 503.
 
 (Se deroga).
 
-##### Artículo 504.
+###### Artículo 504.
 
 (Se deroga).
 
-##### Artículo 505.
+###### Artículo 505.
 
 (Se deroga).
 
-##### Artículo 506.
+###### Artículo 506.
 
 (Se deroga).
 
-##### Artículo 507.
+###### Artículo 507.
 
 (Se deroga).
 
-##### Artículo 508.
+###### Artículo 508.
 
 (Se deroga).
 
-##### Artículo 509.
+###### Artículo 509.
 
 (Se deroga).
 
@@ -2830,43 +2910,43 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 510.
+###### Artículo 510.
 
 (Se deroga).
 
-##### Artículo 511.
+###### Artículo 511.
 
 (Se deroga).
 
-##### Artículo 512.
+###### Artículo 512.
 
 (Se deroga).
 
-##### Artículo 513.
+###### Artículo 513.
 
 (Se deroga).
 
-##### Artículo 514.
+###### Artículo 514.
 
 (Se deroga).
 
-##### Artículo 515.
+###### Artículo 515.
 
 (Se deroga).
 
-##### Artículo 516.
+###### Artículo 516.
 
 (Se deroga).
 
-##### Artículo 517.
+###### Artículo 517.
 
 (Se deroga).
 
-##### Artículo 518.
+###### Artículo 518.
 
 (Se deroga).
 
-##### Artículo 519.
+###### Artículo 519.
 
 (Se deroga).
 
@@ -2874,73 +2954,73 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 520.
+###### Artículo 520.
 
 (Se deroga).
 
-##### Artículo 521.
+###### Artículo 521.
 
 (Se deroga).
 
-##### Artículo 522.
+###### Artículo 522.
 
 (Se deroga).
 
-##### Artículo 523.
+###### Artículo 523.
 
 (Se deroga).
 
-##### Artículo 524.
+###### Artículo 524.
 
 (Se deroga).
 
-##### Artículo 525.
+###### Artículo 525.
 
 (Se deroga).
 
-##### Artículo 526.
+###### Artículo 526.
 
 (Se deroga).
 
 #### CAPITULO IX · De las Acciones que Competen al Portador de una Letra de Cambio
 
-##### Artículo 527.
+###### Artículo 527.
 
 (Se deroga).
 
-##### Artículo 528.
+###### Artículo 528.
 
 (Se deroga).
 
-##### Artículo 529.
+###### Artículo 529.
 
 (Se deroga).
 
-##### Artículo 530.
+###### Artículo 530.
 
 (Se deroga).
 
-##### Artículo 531.
+###### Artículo 531.
 
 (Se deroga).
 
-##### Artículo 532.
+###### Artículo 532.
 
 (Se deroga).
 
-##### Artículo 533.
+###### Artículo 533.
 
 (Se deroga).
 
-##### Artículo 534.
+###### Artículo 534.
 
 (Se deroga).
 
-##### Artículo 535.
+###### Artículo 535.
 
 (Se deroga).
 
-##### Artículo 536.
+###### Artículo 536.
 
 (Se deroga).
 
@@ -2948,35 +3028,35 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 537.
+###### Artículo 537.
 
 (Se deroga).
 
-##### Artículo 538.
+###### Artículo 538.
 
 (Se deroga).
 
-##### Artículo 539.
+###### Artículo 539.
 
 (Se deroga).
 
-##### Artículo 540.
+###### Artículo 540.
 
 (Se deroga).
 
-##### Artículo 541.
+###### Artículo 541.
 
 (Se deroga).
 
-##### Artículo 542.
+###### Artículo 542.
 
 (Se deroga).
 
-##### Artículo 543.
+###### Artículo 543.
 
 (Se deroga).
 
-##### Artículo 544.
+###### Artículo 544.
 
 (Se deroga).
 
@@ -2986,31 +3066,31 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 545.
+###### Artículo 545.
 
 (Se deroga).
 
-##### Artículo 546.
+###### Artículo 546.
 
 (Se deroga).
 
-##### Artículo 547.
+###### Artículo 547.
 
 (Se deroga).
 
-##### Artículo 548.
+###### Artículo 548.
 
 (Se deroga).
 
-##### Artículo 549.
+###### Artículo 549.
 
 (Se deroga).
 
-##### Artículo 550.
+###### Artículo 550.
 
 (Se deroga).
 
-##### Artículo 551.
+###### Artículo 551.
 
 (Se deroga).
 
@@ -3018,51 +3098,51 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 552.
+###### Artículo 552.
 
 (Se deroga).
 
-##### Artículo 553.
+###### Artículo 553.
 
 (Se deroga).
 
-##### Artículo 554.
+###### Artículo 554.
 
 (Se deroga).
 
-##### Artículo 555.
+###### Artículo 555.
 
 (Se deroga).
 
-##### Artículo 556.
+###### Artículo 556.
 
 (Se deroga).
 
-##### Artículo 557.
+###### Artículo 557.
 
 (Se deroga).
 
-##### Artículo 558.
+###### Artículo 558.
 
 (Se deroga).
 
-##### Artículo 559.
+###### Artículo 559.
 
 (Se deroga).
 
-##### Artículo 560.
+###### Artículo 560.
 
 (Se deroga).
 
-##### Artículo 561.
+###### Artículo 561.
 
 (Se deroga).
 
-##### Artículo 562.
+###### Artículo 562.
 
 (Se deroga).
 
-##### Artículo 563.
+###### Artículo 563.
 
 (Se deroga).
 
@@ -3070,51 +3150,51 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 (Se deroga).
 
-##### Artículo 564.
+###### Artículo 564.
 
 (Se deroga).
 
-##### Artículo 565.
+###### Artículo 565.
 
 (Se deroga).
 
-##### Artículo 566.
+###### Artículo 566.
 
 (Se deroga).
 
-##### Artículo 567.
+###### Artículo 567.
 
 (Se deroga).
 
-##### Artículo 568.
+###### Artículo 568.
 
 (Se deroga).
 
-##### Artículo 569.
+###### Artículo 569.
 
 (Se deroga).
 
-##### Artículo 570.
+###### Artículo 570.
 
 (Se deroga).
 
-##### Artículo 571.
+###### Artículo 571.
 
 (Se deroga).
 
-##### Artículo 572.
+###### Artículo 572.
 
 (Se deroga).
 
-##### Artículo 573.
+###### Artículo 573.
 
 (Se deroga).
 
-##### Artículo 574.
+###### Artículo 574.
 
 (Se deroga).
 
-##### Artículo 575.
+###### Artículo 575.
 
 (Se deroga).
 
@@ -3124,7 +3204,7 @@ De los Transportes por Vías Terrestres o Fluviales
 
 #### CAPITULO I · Del Contrato Mercantil de Transporte Terrestre
 
-##### Artículo 576.
+###### Artículo 576.
 
 El contrato de transportes por vías terrestres o fluviales de todo género se reputará mercantil:
 
@@ -3132,25 +3212,25 @@ I.- Cuando tenga por objeto mercaderías o cualesquiera efectos del comercio;
 
 II.- Cuando siendo cualquiera su objeto, sea comerciante el porteador o se dedique habitualmente a verificar transportes para el público.
 
-##### Artículo 577.
+###### Artículo 577.
 
 El porteador, salvo pacto en contrario, puede estipular con otro la conducción de las mercancías. En ese caso conservará tal carácter respecto de la persona con quien haya contratado primero, y tomará el de cargador con relación a la segunda.
 
 El último porteador tendrá la obligación de entregar la carga al consignatario.
 
-##### Artículo 578.
+###### Artículo 578.
 
 El contrato de transporte es rescindible a voluntad del cargador, antes o después de comenzarse el viaje, pagando en el primer caso al porteador la mitad, y en el segundo la totalidad del porte, y siendo obligación suya recibir los efectos en el punto y en el día en que la rescisión se verifique. Si no cumpliere con esa obligación, o no cubriere el porte al contado, el contrato no quedará rescindido.
 
-##### Artículo 579.
+###### Artículo 579.
 
 El contrato de transporte se rescindirá de hecho antes de emprenderse el viaje, o durante su curso; si sobreviniere algún suceso de fuerza mayor que impida verificarlo o continuarlo, como declaración de guerra, prohibición de comercio, intercepción de caminos ú otros acontecimientos análogos.
 
-##### Artículo 580.
+###### Artículo 580.
 
 En los casos previstos en el artículo anterior, cada uno de los interesados perderá los gastos que hubiese hecho, si el viaje no se ha verificado; y si está en curso, el porteador tendrá derecho a que se le pague del porte la parte proporcional respectiva al camino recorrido y la obligación de presentar las mercancías para su depósito a la autoridad judicial del punto en que ya no le sea posible continuarlo, comprobando y recabando la constancia relativa de hallarse en el estado consignado en la carta de porte, de cuyo hecho dará conocimiento oportuno al cargador, a cuya disposición deben quedar.
 
-##### Artículo 581.
+###### Artículo 581.
 
 El portador de mercaderías o efectos deberá extender al cargador una carta de porte, de la que éste podrá pedir una copia. En dicha carta de porte se expresarán:
 
@@ -3172,11 +3252,11 @@ VIII.- El lugar y el plazo en que habrá de hacerse la entrega al consignatario;
 
 IX.- La indemnización que haya de abonar el porteador en caso de retardo, si sobre este punto mediare algún pacto.
 
-##### Artículo 582.
+###### Artículo 582.
 
 La carta de porte puede ser a favor del consignatario, a la orden de este o al portador, debiendo extenderse en libros talonarios. Los interesados podrán pedir copias de ellas, las que se expedirán expresando en las mismas su calidad de tales. El portador legítimo de la carta de porte se subrogará por este solo hecho en las obligaciones y derechos del cargador.
 
-##### Artículo 583.
+###### Artículo 583.
 
 Los títulos legales del contrato entre el cargador y el porteador serán las cartas de porte, por cuyo contenido se decidirán las cuestiones que ocurran sobre su ejecución y cumplimiento, sin admitir más excepciones que la falsedad y error material de su redacción.
 
@@ -3184,23 +3264,23 @@ Cumpliendo el contrato se devolverá al porteador la carta de porte que hubiere 
 
 En caso de que por extravío u otra causa no pueda el consignatario devolver en el acto de recibir los géneros, la carta de porte que él hubiere recibido suscrita por el porteador, deberá darle un recibo de los objetos entregados, produciendo este recibo los mismos efectos que la devolución de la carta de porte. Si ésta fuere a la orden o al portador, el recibo se extenderá con los requisitos que establece el título respectivo.
 
-##### Artículo 584.
+###### Artículo 584.
 
 Cuando se extraviaren las cartas de porte, las cuestiones que surjan se decidirán por las pruebas que rindan los interesados, incumbiendo siempre al cargador la relativa a la entrega de la carga.
 
-##### Artículo 585.
+###### Artículo 585.
 
 La omisión de alguna de las circunstancias requeridas en el art. 581 no invalidará la carta de porte, ni destruirá su fuerza probatoria, pudiendo rendir sobre las que faltan las pruebas relativas.
 
-##### Artículo 586.
+###### Artículo 586.
 
 Las cartas de porte o billetes en los casos de transporte de viajeros por ferrocarriles ú otras empresas sujetas a tarifas, podrán ser diferentes, unos para las personas y otros para los equipajes; pero todos contendrán la indicación del porteador, la fecha de la expedición, los puntos de salida y llegada, el precio, y en lo tocante a equipajes, el número y peso de los bultos, con las demás indicaciones que se crean necesarias para su fácil identificación.
 
-##### Artículo 587.
+###### Artículo 587.
 
 En los transportes que se verifiquen por ferrocarriles ú otras empresas sujetas a tarifas o plazos reglamentarios, bastará que las cartas de porte o declaraciones de expedición facilitadas por el cargador se refieran en cuanto al precio, plazos y condiciones especiales del transporte, a las tarifas y reglamentos cuya aplicación solicite; y si no determinare tarifas, deberá el porteador aplicar el precio de las que resulten más baratas, con las condiciones que a ellas sean inherentes, consignando siempre su expresión o referencia en la carta de porte que entregue al cargador.
 
-##### Artículo 588.
+###### Artículo 588.
 
 El cargador está obligado:
 
@@ -3216,7 +3296,7 @@ V.- A indemnizar al porteador de todos los daños y perjuicios que por falta de 
 
 VI.- A remitir con oportunidad la carta de porte al consignatario, de manera que pueda hacer uso de ella al tiempo de llegar la carga a su final destino.
 
-##### Artículo 589.
+###### Artículo 589.
 
 El cargador tiene derecho:
 
@@ -3224,7 +3304,7 @@ I.- A variar la consignación de las mercancías mientras estuvieren en camino, 
 
 II.- A variar, dentro de la ruta convenida, el lugar de la entrega de la carga, dando oportunamente al porteador la orden respectiva, pagando la totalidad del flete estipulado y canjeando la carta de porte primitiva por otra, debiendo indicar al porteador el nuevo consignatario, si lo hubiere.
 
-##### Artículo 590.
+###### Artículo 590.
 
 El porteador está obligado:
 
@@ -3248,7 +3328,7 @@ IX.- A pagar las pérdidas o averías que sean a su cargo, con arreglo al precio
 
 X.- Y, en general, a cubrir al cargador o consignatario los daños y perjuicios que resientan, ya por su culpa, ya porque no se dé cumplimiento al contrato relativo.
 
-##### Artículo 591.
+###### Artículo 591.
 
 El porteador tiene derecho:
 
@@ -3268,7 +3348,7 @@ VII.- A retener las mercancías transportadas, mientras no se le pague el porte;
 
 VIII.- A promover el depósito de las mercancías ante la autoridad judicial del lugar en que haya de hacerse la entrega, si en él no encontrare al consignatario, o a quien lo represente, o si hallándolo rehusare recibirlas, previo siempre el reconocimiento de su estado por peritos.
 
-##### Artículo 592.
+###### Artículo 592.
 
 La responsabilidad del porteador por pérdidas, desfalcos o averías, se extingue:
 
@@ -3276,15 +3356,15 @@ I.- Por el recibo de las mercancías sin reclamación;
 
 II.- Por el transcurso de seis meses en las expediciones verificadas dentro de la República, y el de un año en la que tengan lugar para el extranjero.
 
-##### Artículo 593.
+###### Artículo 593.
 
 El tiempo de la prescripción comenzará a correr, en los casos de pérdida, desde el día siguiente al fijado para término de viaje, y en los de avería, después de las veinticuatro horas de la entrega de las mercancías.
 
-##### Artículo 594.
+###### Artículo 594.
 
 Las responsabilidades a que se refiere el artículo anterior, son las civiles y no las penales, las que seguirán para su prescripción las reglas establecidas en el Código Penal.
 
-##### Artículo 595.
+###### Artículo 595.
 
 El consignatario está obligado:
 
@@ -3300,7 +3380,7 @@ V.- A ejercer, dentro de veinticuatro horas, desde la recepción de las mercanc�
 
 VI.- A cumplir con las órdenes del cargador, dándole cuenta, sin pérdida de tiempo, de cuanto ocurra relativo a las mercancías porteadas.
 
-##### Artículo 596.
+###### Artículo 596.
 
 El consignatario tiene derecho:
 
@@ -3312,19 +3392,19 @@ III.- A que los anticipos que haya hecho con motivo de la entrega de la carga, s
 
 IV.- A todo lo demás que está prevenido en las prescripciones de este título.
 
-##### Artículo 597.
+###### Artículo 597.
 
 En las empresas de transporte se observarán las condiciones que registren los reglamentos y anuncios que circulen al público, en lo que no se oponga a las reglas establecidas en este capítulo.
 
-##### Artículo 598.
+###### Artículo 598.
 
 Las mismas empresas no podrán rehusar recibir pasajeros o efectos en la administración principal y en las oficinas que con tal objeto tengan en el tránsito.
 
-##### Artículo 599.
+###### Artículo 599.
 
 Si un jefe de estación, un conductor de vehículo terrestre o un patrón de embarcación, recibe carga o pasajeros fuera de la administración principal o de las estaciones del tránsito, obliga por ese hecho a la empresa de transportes, salva la responsabilidad que ésta pueda exigir a su empleado.
 
-##### Artículo 600.
+###### Artículo 600.
 
 Los Empresarios de transportes están obligados:
 
@@ -3336,19 +3416,19 @@ III.- A emprender y concluir el viaje en los días y horas señalados en los anu
 
 IV.- A entregar la carga en los puntos convenidos, tan luego como llegue a su destino, al que presente el conocimiento respectivo, siempre que cumpla con las obligaciones que contenga, y á depositarla en sus almacenes mientras que no haya quien se presente a recibirla; así como a devolver a los pasajeros, en los momentos de terminar el viaje, los sacos de noche ó maletas que al tiempo de partir den a los conductores, si éstos tuvieren el deber de su vigilancia.
 
-##### Artículo 601.
+###### Artículo 601.
 
 El cargador está obligado a declarar el contenido de los bultos que comprenda la carga, si lo exigiere así el administrador de la empresa o los jefes de las oficinas del tránsito al tiempo de recibirla para su conducción; sin que en ningún otro caso pueda compelérsele a esa revelación, de lo que siempre estarán libres los pasajeros respecto de los sacos de noche y maletas que los billetes de asiento les permitan llevar.
 
-##### Artículo 602.
+###### Artículo 602.
 
 En caso de pérdida imputable a la empresa, el pasajero o cargador acreditará la entrega y valor de los efectos entregados a la administración de ella, a sus agentes acreditados o a sus factores.
 
-##### Artículo 603.
+###### Artículo 603.
 
 Si los efectos depositados en los almacenes de la empresa durasen en ellos el término que fijen sus reglamentos, y dentro de él nadie se presentare a reclamarlos, los pondrán a disposición de la autoridad judicial del lugar para que venda desde luego lo bastante a cubrir las responsabilidades que sobre ellos pesaren con motivo de su conducción, y con el resto se cumplan las obligaciones impuestas para esos casos por derecho.
 
-##### Artículo 604.
+###### Artículo 604.
 
 Si después del plazo a que alude el artículo anterior, el cargador o su representante se presentaren a exigir la devolución de las mercancías, quedará libre la empresa de toda responsabilidad y de toda ulterior contestación, poniendo de manifiesto el certificado mandado expedir por la autoridad judicial a cuya disposición se hayan puesto.
 
@@ -3358,47 +3438,47 @@ De la Prenda Mercantil
 
 (Se deroga).
 
-##### Artículo 605.
+###### Artículo 605.
 
 (Se deroga).
 
-##### Artículo 606.
+###### Artículo 606.
 
 (Se deroga).
 
-##### Artículo 607.
+###### Artículo 607.
 
 (Se deroga).
 
-##### Artículo 608.
+###### Artículo 608.
 
 (Se deroga).
 
-##### Artículo 609.
+###### Artículo 609.
 
 (Se deroga).
 
-##### Artículo 610.
+###### Artículo 610.
 
 (Se deroga).
 
-##### Artículo 611.
+###### Artículo 611.
 
 (Se deroga).
 
-##### Artículo 612.
+###### Artículo 612.
 
 (Se deroga).
 
-##### Artículo 613.
+###### Artículo 613.
 
 (Se deroga).
 
-##### Artículo 614.
+###### Artículo 614.
 
 (Se deroga).
 
-##### Artículo 615.
+###### Artículo 615.
 
 (Se deroga).
 
@@ -3410,15 +3490,15 @@ De los Efectos al Portador y de la Falsedad, Robo, Hurto o Extravío de los Mism
 
 (Se deroga).
 
-##### Artículo 616.
+###### Artículo 616.
 
 (Se deroga).
 
-##### Artículo 617.
+###### Artículo 617.
 
 (Se deroga).
 
-##### Artículo 618.
+###### Artículo 618.
 
 (Se deroga).
 
@@ -3426,67 +3506,67 @@ De los Efectos al Portador y de la Falsedad, Robo, Hurto o Extravío de los Mism
 
 (Se deroga).
 
-##### Artículo 619.
+###### Artículo 619.
 
 (Se deroga).
 
-##### Artículo 620.
+###### Artículo 620.
 
 (Se deroga).
 
-##### Artículo 621.
+###### Artículo 621.
 
 (Se deroga).
 
-##### Artículo 622.
+###### Artículo 622.
 
 (Se deroga).
 
-##### Artículo 623.
+###### Artículo 623.
 
 (Se deroga).
 
-##### Artículo 624.
+###### Artículo 624.
 
 (Se deroga).
 
-##### Artículo 625.
+###### Artículo 625.
 
 (Se deroga).
 
-##### Artículo 626.
+###### Artículo 626.
 
 (Se deroga).
 
-##### Artículo 627.
+###### Artículo 627.
 
 (Se deroga).
 
-##### Artículo 628.
+###### Artículo 628.
 
 (Se deroga).
 
-##### Artículo 629.
+###### Artículo 629.
 
 (Se deroga).
 
-##### Artículo 630.
+###### Artículo 630.
 
 (Se deroga).
 
-##### Artículo 631.
+###### Artículo 631.
 
 (Se deroga).
 
-##### Artículo 632.
+###### Artículo 632.
 
 (Se deroga).
 
-##### Artículo 633.
+###### Artículo 633.
 
 (Se deroga).
 
-##### Artículo 634.
+###### Artículo 634.
 
 (Se deroga).
 
@@ -3494,23 +3574,23 @@ De los Efectos al Portador y de la Falsedad, Robo, Hurto o Extravío de los Mism
 
 De la Moneda
 
-##### Artículo 635.
+###### Artículo 635.
 
 La base de la moneda mercantil es el peso mexicano, y sobre esta base se harán todas las operaciones de comercio y los cambios sobre el extranjero.
 
-##### Artículo 636.
+###### Artículo 636.
 
 Esta misma base servirá para los contratos hechos en el Extranjero y que deban cumplirse en la República Mexicana, así como los giros que se hagan de otros países.
 
-##### Artículo 637.
+###### Artículo 637.
 
 Las monedas extranjeras efectivas o convencionales, no tendrán en la República más valor que el de plaza.
 
-##### Artículo 638.
+###### Artículo 638.
 
 Nadie puede ser obligado a recibir moneda extranjera.
 
-##### Artículo 639.
+###### Artículo 639.
 
 El papel, billetes de banco y títulos de deuda extranjeros, no pueden ser objeto de actos mercantiles en la República, sino considerándolos como simples mercancías; pero podrán ser objeto de contratos puramente civiles.
 
@@ -3518,7 +3598,7 @@ El papel, billetes de banco y títulos de deuda extranjeros, no pueden ser objet
 
 De las Instituciones de Crédito
 
-##### Artículo 640.
+###### Artículo 640.
 
 Las instituciones de crédito se regirán por una ley especial, y mientras ésta se expide, ninguna de dichas instituciones podrá establecerse en la República sin previa autorización de la Secretaría de Hacienda y sin el contrato respectivo aprobado, en cada caso, por el Congreso de la Unión.
 
@@ -3528,103 +3608,103 @@ Las instituciones de crédito se regirán por una ley especial, y mientras ésta
 
 (Se deroga).
 
-##### Artículo 641.
+###### Artículo 641.
 
 (Se deroga).
 
-##### Artículo 642.
+###### Artículo 642.
 
 (Se deroga).
 
-##### Artículo 643.
+###### Artículo 643.
 
 (Se deroga).
 
-##### Artículo 644.
+###### Artículo 644.
 
 (Se deroga).
 
-##### Artículo 645.
+###### Artículo 645.
 
 (Se deroga).
 
-##### Artículo 646.
+###### Artículo 646.
 
 (Se deroga).
 
-##### Artículo 647.
+###### Artículo 647.
 
 (Se deroga).
 
-##### Artículo 648.
+###### Artículo 648.
 
 (Se deroga).
 
-##### Artículo 649.
+###### Artículo 649.
 
 (Se deroga).
 
-##### Artículo 650.
+###### Artículo 650.
 
 (Se deroga).
 
-##### Artículo 651.
+###### Artículo 651.
 
 (Se deroga).
 
-##### Artículo 652.
+###### Artículo 652.
 
 (Se deroga).
 
-##### Artículo 653.
+###### Artículo 653.
 
 (Se deroga).
 
-##### Artículo 654.
+###### Artículo 654.
 
 (Se deroga).
 
-##### Artículo 655.
+###### Artículo 655.
 
 (Se deroga).
 
-##### Artículo 656.
+###### Artículo 656.
 
 (Se deroga).
 
-##### Artículo 657.
+###### Artículo 657.
 
 (Se deroga).
 
-##### Artículo 658.
+###### Artículo 658.
 
 (Se deroga).
 
-##### Artículo 659.
+###### Artículo 659.
 
 (Se deroga).
 
-##### Artículo 660.
+###### Artículo 660.
 
 (Se deroga).
 
-##### Artículo 661.
+###### Artículo 661.
 
 (Se deroga).
 
-##### Artículo 662.
+###### Artículo 662.
 
 (Se deroga).
 
-##### Artículo 663.
+###### Artículo 663.
 
 (Se deroga).
 
-##### Artículo 664.
+###### Artículo 664.
 
 (Se deroga).
 
-##### Artículo 665.
+###### Artículo 665.
 
 (Se deroga).
 
@@ -3634,71 +3714,71 @@ Las instituciones de crédito se regirán por una ley especial, y mientras ésta
 
 (Se deroga).
 
-##### Artículo 666.
+###### Artículo 666.
 
 (Se deroga).
 
-##### Artículo 667.
+###### Artículo 667.
 
 (Se deroga).
 
-##### Artículo 668.
+###### Artículo 668.
 
 (Se deroga).
 
-##### Artículo 669.
+###### Artículo 669.
 
 (Se deroga).
 
-##### Artículo 670.
+###### Artículo 670.
 
 (Se deroga).
 
-##### Artículo 671.
+###### Artículo 671.
 
 (Se deroga).
 
-##### Artículo 672.
+###### Artículo 672.
 
 (Se deroga).
 
-##### Artículo 673.
+###### Artículo 673.
 
 (Se deroga).
 
-##### Artículo 674.
+###### Artículo 674.
 
 (Se deroga).
 
-##### Artículo 675.
+###### Artículo 675.
 
 (Se deroga).
 
-##### Artículo 676.
+###### Artículo 676.
 
 (Se deroga).
 
-##### Artículo 677.
+###### Artículo 677.
 
 (Se deroga).
 
-##### Artículo 678.
+###### Artículo 678.
 
 (Se deroga).
 
-##### Artículo 679.
+###### Artículo 679.
 
 (Se deroga).
 
-##### Artículo 680.
+###### Artículo 680.
 
 (Se deroga).
 
-##### Artículo 681.
+###### Artículo 681.
 
 (Se deroga).
 
-##### Artículo 682.
+###### Artículo 682.
 
 (Se deroga).
 
@@ -3706,71 +3786,71 @@ Las instituciones de crédito se regirán por una ley especial, y mientras ésta
 
 (Se deroga).
 
-##### Artículo 683.
+###### Artículo 683.
 
 (Se deroga).
 
-##### Artículo 684.
+###### Artículo 684.
 
 (Se deroga).
 
-##### Artículo 685.
+###### Artículo 685.
 
 (Se deroga).
 
-##### Artículo 686.
+###### Artículo 686.
 
 (Se deroga).
 
-##### Artículo 687.
+###### Artículo 687.
 
 (Se deroga).
 
-##### Artículo 688.
+###### Artículo 688.
 
 (Se deroga).
 
-##### Artículo 689.
+###### Artículo 689.
 
 (Se deroga).
 
-##### Artículo 690.
+###### Artículo 690.
 
 (Se deroga).
 
-##### Artículo 691.
+###### Artículo 691.
 
 (Se deroga).
 
-##### Artículo 692.
+###### Artículo 692.
 
 (Se deroga).
 
-##### Artículo 693.
+###### Artículo 693.
 
 (Se deroga).
 
-##### Artículo 694.
+###### Artículo 694.
 
 (Se deroga).
 
-##### Artículo 695.
+###### Artículo 695.
 
 (Se deroga).
 
-##### Artículo 696.
+###### Artículo 696.
 
 (Se deroga).
 
-##### Artículo 697.
+###### Artículo 697.
 
 (Se deroga).
 
-##### Artículo 698.
+###### Artículo 698.
 
 (Se deroga).
 
-##### Artículo 699.
+###### Artículo 699.
 
 (Se deroga).
 
@@ -3778,99 +3858,99 @@ Las instituciones de crédito se regirán por una ley especial, y mientras ésta
 
 (Se deroga).
 
-##### Artículo 700.
+###### Artículo 700.
 
 (Se deroga).
 
-##### Artículo 701.
+###### Artículo 701.
 
 (Se deroga).
 
-##### Artículo 702.
+###### Artículo 702.
 
 (Se deroga).
 
-##### Artículo 703.
+###### Artículo 703.
 
 (Se deroga).
 
-##### Artículo 704.
+###### Artículo 704.
 
 (Se deroga).
 
-##### Artículo 705.
+###### Artículo 705.
 
 (Se deroga).
 
-##### Artículo 706.
+###### Artículo 706.
 
 (Se deroga).
 
-##### Artículo 707.
+###### Artículo 707.
 
 (Se deroga).
 
-##### Artículo 708.
+###### Artículo 708.
 
 (Se deroga).
 
-##### Artículo 709.
+###### Artículo 709.
 
 (Se deroga).
 
-##### Artículo 710.
+###### Artículo 710.
 
 (Se deroga).
 
-##### Artículo 711.
+###### Artículo 711.
 
 (Se deroga).
 
-##### Artículo 712.
+###### Artículo 712.
 
 (Se deroga).
 
-##### Artículo 713.
+###### Artículo 713.
 
 (Se deroga).
 
-##### Artículo 714.
+###### Artículo 714.
 
 (Se deroga).
 
-##### Artículo 715.
+###### Artículo 715.
 
 (Se deroga).
 
-##### Artículo 716.
+###### Artículo 716.
 
 (Se deroga).
 
-##### Artículo 717.
+###### Artículo 717.
 
 (Se deroga).
 
-##### Artículo 718.
+###### Artículo 718.
 
 (Se deroga).
 
-##### Artículo 719.
+###### Artículo 719.
 
 (Se deroga).
 
-##### Artículo 720.
+###### Artículo 720.
 
 (Se deroga).
 
-##### Artículo 721.
+###### Artículo 721.
 
 (Se deroga).
 
-##### Artículo 722.
+###### Artículo 722.
 
 (Se deroga).
 
-##### Artículo 723.
+###### Artículo 723.
 
 (Se deroga).
 
@@ -3878,15 +3958,15 @@ Las instituciones de crédito se regirán por una ley especial, y mientras ésta
 
 (Se deroga).
 
-##### Artículo 724.
+###### Artículo 724.
 
 (Se deroga).
 
-##### Artículo 725.
+###### Artículo 725.
 
 (Se deroga).
 
-##### Artículo 726.
+###### Artículo 726.
 
 (Se deroga).
 
@@ -3898,71 +3978,71 @@ De las Formas y Efectos del Contrato de Fletamento
 
 (Se deroga).
 
-##### Artículo 727.
+###### Artículo 727.
 
 (Se deroga).
 
-##### Artículo 728.
+###### Artículo 728.
 
 (Se deroga).
 
-##### Artículo 729.
+###### Artículo 729.
 
 (Se deroga).
 
-##### Artículo 730.
+###### Artículo 730.
 
 (Se deroga).
 
-##### Artículo 731.
+###### Artículo 731.
 
 (Se deroga).
 
-##### Artículo 732.
+###### Artículo 732.
 
 (Se deroga).
 
-##### Artículo 733.
+###### Artículo 733.
 
 (Se deroga).
 
-##### Artículo 734.
+###### Artículo 734.
 
 (Se deroga).
 
-##### Artículo 735.
+###### Artículo 735.
 
 (Se deroga).
 
-##### Artículo 736.
+###### Artículo 736.
 
 (Se deroga).
 
-##### Artículo 737.
+###### Artículo 737.
 
 (Se deroga).
 
-##### Artículo 738.
+###### Artículo 738.
 
 (Se deroga).
 
-##### Artículo 739.
+###### Artículo 739.
 
 (Se deroga).
 
-##### Artículo 740.
+###### Artículo 740.
 
 (Se deroga).
 
-##### Artículo 741.
+###### Artículo 741.
 
 (Se deroga).
 
-##### Artículo 742.
+###### Artículo 742.
 
 (Se deroga).
 
-##### Artículo 743.
+###### Artículo 743.
 
 (Se deroga).
 
@@ -3970,43 +4050,43 @@ De las Formas y Efectos del Contrato de Fletamento
 
 (Se deroga).
 
-##### Artículo 744.
+###### Artículo 744.
 
 (Se deroga).
 
-##### Artículo 745.
+###### Artículo 745.
 
 (Se deroga).
 
-##### Artículo 746.
+###### Artículo 746.
 
 (Se deroga).
 
-##### Artículo 747.
+###### Artículo 747.
 
 (Se deroga).
 
-##### Artículo 748.
+###### Artículo 748.
 
 (Se deroga).
 
-##### Artículo 749.
+###### Artículo 749.
 
 (Se deroga).
 
-##### Artículo 750.
+###### Artículo 750.
 
 (Se deroga).
 
-##### Artículo 751.
+###### Artículo 751.
 
 (Se deroga).
 
-##### Artículo 752.
+###### Artículo 752.
 
 (Se deroga).
 
-##### Artículo 753.
+###### Artículo 753.
 
 (Se deroga).
 
@@ -4014,115 +4094,115 @@ De las Formas y Efectos del Contrato de Fletamento
 
 (Se deroga).
 
-##### Artículo 754.
+###### Artículo 754.
 
 (Se deroga).
 
-##### Artículo 755.
+###### Artículo 755.
 
 (Se deroga).
 
-##### Artículo 756.
+###### Artículo 756.
 
 (Se deroga).
 
-##### Artículo 757.
+###### Artículo 757.
 
 (Se deroga).
 
-##### Artículo 758.
+###### Artículo 758.
 
 (Se deroga).
 
-##### Artículo 759.
+###### Artículo 759.
 
 (Se deroga).
 
-##### Artículo 760.
+###### Artículo 760.
 
 (Se deroga).
 
-##### Artículo 761.
+###### Artículo 761.
 
 (Se deroga).
 
-##### Artículo 762.
+###### Artículo 762.
 
 (Se deroga).
 
 #### CAPITULO IV · De la Rescisión Total o Parcial del Contrato de Fletamento
 
-##### Artículo 763.
+###### Artículo 763.
 
 (Se deroga).
 
-##### Artículo 764.
+###### Artículo 764.
 
 (Se deroga).
 
-##### Artículo 765.
+###### Artículo 765.
 
 (Se deroga).
 
-##### Artículo 766.
+###### Artículo 766.
 
 (Se deroga).
 
-##### Artículo 767.
+###### Artículo 767.
 
 (Se deroga).
 
 #### CAPITULO V · De los Pasajeros en los Viajes por Mar
 
-##### Artículo 768.
+###### Artículo 768.
 
 (Se deroga).
 
-##### Artículo 769.
+###### Artículo 769.
 
 (Se deroga).
 
-##### Artículo 770.
+###### Artículo 770.
 
 (Se deroga).
 
-##### Artículo 771.
+###### Artículo 771.
 
 (Se deroga).
 
-##### Artículo 772.
+###### Artículo 772.
 
 (Se deroga).
 
-##### Artículo 773.
+###### Artículo 773.
 
 (Se deroga).
 
-##### Artículo 774.
+###### Artículo 774.
 
 (Se deroga).
 
-##### Artículo 775.
+###### Artículo 775.
 
 (Se deroga).
 
-##### Artículo 776.
+###### Artículo 776.
 
 (Se deroga).
 
-##### Artículo 777.
+###### Artículo 777.
 
 (Se deroga).
 
-##### Artículo 778.
+###### Artículo 778.
 
 (Se deroga).
 
-##### Artículo 779.
+###### Artículo 779.
 
 (Se deroga).
 
-##### Artículo 780.
+###### Artículo 780.
 
 (Se deroga).
 
@@ -4130,55 +4210,55 @@ De las Formas y Efectos del Contrato de Fletamento
 
 (Se deroga).
 
-##### Artículo 781.
+###### Artículo 781.
 
 (Se deroga).
 
-##### Artículo 782.
+###### Artículo 782.
 
 (Se deroga).
 
-##### Artículo 783.
+###### Artículo 783.
 
 (Se deroga).
 
-##### Artículo 784.
+###### Artículo 784.
 
 (Se deroga).
 
-##### Artículo 785.
+###### Artículo 785.
 
 (Se deroga).
 
-##### Artículo 786.
+###### Artículo 786.
 
 (Se deroga).
 
-##### Artículo 787.
+###### Artículo 787.
 
 (Se deroga).
 
-##### Artículo 788.
+###### Artículo 788.
 
 (Se deroga).
 
-##### Artículo 789.
+###### Artículo 789.
 
 (Se deroga).
 
-##### Artículo 790.
+###### Artículo 790.
 
 (Se deroga).
 
-##### Artículo 791.
+###### Artículo 791.
 
 (Se deroga).
 
-##### Artículo 792.
+###### Artículo 792.
 
 (Se deroga).
 
-##### Artículo 793.
+###### Artículo 793.
 
 (Se deroga).
 
@@ -4186,75 +4266,75 @@ De las Formas y Efectos del Contrato de Fletamento
 
 (Se deroga).
 
-##### Artículo 794.
+###### Artículo 794.
 
 (Se deroga).
 
-##### Artículo 795.
+###### Artículo 795.
 
 (Se deroga).
 
-##### Artículo 796.
+###### Artículo 796.
 
 (Se deroga).
 
-##### Artículo 797.
+###### Artículo 797.
 
 (Se deroga).
 
-##### Artículo 798.
+###### Artículo 798.
 
 (Se deroga).
 
-##### Artículo 799.
+###### Artículo 799.
 
 (Se deroga).
 
-##### Artículo 800.
+###### Artículo 800.
 
 (Se deroga).
 
-##### Artículo 801.
+###### Artículo 801.
 
 (Se deroga).
 
-##### Artículo 802.
+###### Artículo 802.
 
 (Se deroga).
 
-##### Artículo 803.
+###### Artículo 803.
 
 (Se deroga).
 
-##### Artículo 804.
+###### Artículo 804.
 
 (Se deroga).
 
-##### Artículo 805.
+###### Artículo 805.
 
 (Se deroga).
 
-##### Artículo 806.
+###### Artículo 806.
 
 (Se deroga).
 
-##### Artículo 807.
+###### Artículo 807.
 
 (Se deroga).
 
-##### Artículo 808.
+###### Artículo 808.
 
 (Se deroga).
 
-##### Artículo 809.
+###### Artículo 809.
 
 (Se deroga).
 
-##### Artículo 810.
+###### Artículo 810.
 
 (Se deroga).
 
-##### Artículo 811.
+###### Artículo 811.
 
 (Se deroga).
 
@@ -4262,27 +4342,27 @@ De las Formas y Efectos del Contrato de Fletamento
 
 (Se deroga).
 
-##### Artículo 812.
+###### Artículo 812.
 
 (Se deroga).
 
-##### Artículo 813.
+###### Artículo 813.
 
 (Se deroga).
 
-##### Artículo 814.
+###### Artículo 814.
 
 (Se deroga).
 
-##### Artículo 815.
+###### Artículo 815.
 
 (Se deroga).
 
-##### Artículo 816.
+###### Artículo 816.
 
 (Se deroga).
 
-##### Artículo 817.
+###### Artículo 817.
 
 (Se deroga).
 
@@ -4290,51 +4370,51 @@ De las Formas y Efectos del Contrato de Fletamento
 
 (Se deroga).
 
-##### Artículo 818.
+###### Artículo 818.
 
 (Se deroga).
 
-##### Artículo 819.
+###### Artículo 819.
 
 (Se deroga).
 
-##### Artículo 820.
+###### Artículo 820.
 
 (Se deroga).
 
-##### Artículo 821.
+###### Artículo 821.
 
 (Se deroga).
 
-##### Artículo 822.
+###### Artículo 822.
 
 (Se deroga).
 
-##### Artículo 823.
+###### Artículo 823.
 
 (Se deroga).
 
-##### Artículo 824.
+###### Artículo 824.
 
 (Se deroga).
 
-##### Artículo 825.
+###### Artículo 825.
 
 (Se deroga).
 
-##### Artículo 826.
+###### Artículo 826.
 
 (Se deroga).
 
-##### Artículo 827.
+###### Artículo 827.
 
 (Se deroga).
 
-##### Artículo 828.
+###### Artículo 828.
 
 (Se deroga).
 
-##### Artículo 829.
+###### Artículo 829.
 
 (Se deroga).
 
@@ -4342,107 +4422,107 @@ De las Formas y Efectos del Contrato de Fletamento
 
 (Se deroga).
 
-##### Artículo 830.
+###### Artículo 830.
 
 (Se deroga).
 
-##### Artículo 831.
+###### Artículo 831.
 
 (Se deroga).
 
-##### Artículo 832.
+###### Artículo 832.
 
 (Se deroga).
 
-##### Artículo 833.
+###### Artículo 833.
 
 (Se deroga).
 
-##### Artículo 834.
+###### Artículo 834.
 
 (Se deroga).
 
-##### Artículo 835.
+###### Artículo 835.
 
 (Se deroga).
 
-##### Artículo 836.
+###### Artículo 836.
 
 (Se deroga).
 
-##### Artículo 837.
+###### Artículo 837.
 
 (Se deroga).
 
-##### Artículo 838.
+###### Artículo 838.
 
 (Se deroga).
 
-##### Artículo 839.
+###### Artículo 839.
 
 (Se deroga).
 
-##### Artículo 840.
+###### Artículo 840.
 
 (Se deroga).
 
-##### Artículo 841.
+###### Artículo 841.
 
 (Se deroga).
 
-##### Artículo 842.
+###### Artículo 842.
 
 (Se deroga).
 
-##### Artículo 843.
+###### Artículo 843.
 
 (Se deroga).
 
-##### Artículo 844.
+###### Artículo 844.
 
 (Se deroga).
 
-##### Artículo 845.
+###### Artículo 845.
 
 (Se deroga).
 
-##### Artículo 846.
+###### Artículo 846.
 
 (Se deroga).
 
-##### Artículo 847.
+###### Artículo 847.
 
 (Se deroga).
 
-##### Artículo 848.
+###### Artículo 848.
 
 (Se deroga).
 
-##### Artículo 849.
+###### Artículo 849.
 
 (Se deroga).
 
-##### Artículo 850.
+###### Artículo 850.
 
 (Se deroga).
 
-##### Artículo 851.
+###### Artículo 851.
 
 (Se deroga).
 
-##### Artículo 852.
+###### Artículo 852.
 
 (Se deroga).
 
-##### Artículo 853.
+###### Artículo 853.
 
 (Se deroga).
 
-##### Artículo 854.
+###### Artículo 854.
 
 (Se deroga).
 
-##### Artículo 855.
+###### Artículo 855.
 
 (Se deroga).
 
@@ -4450,35 +4530,35 @@ De las Formas y Efectos del Contrato de Fletamento
 
 (Se deroga).
 
-##### Artículo 856.
+###### Artículo 856.
 
 (Se deroga).
 
-##### Artículo 857.
+###### Artículo 857.
 
 (Se deroga).
 
-##### Artículo 858.
+###### Artículo 858.
 
 (Se deroga).
 
-##### Artículo 859.
+###### Artículo 859.
 
 (Se deroga).
 
-##### Artículo 860.
+###### Artículo 860.
 
 (Se deroga).
 
-##### Artículo 861.
+###### Artículo 861.
 
 (Se deroga).
 
-##### Artículo 862.
+###### Artículo 862.
 
 (Se deroga).
 
-##### Artículo 863.
+###### Artículo 863.
 
 (Se deroga).
 
@@ -4486,71 +4566,71 @@ De las Formas y Efectos del Contrato de Fletamento
 
 (Se deroga).
 
-##### Artículo 864.
+###### Artículo 864.
 
 (Se deroga).
 
-##### Artículo 865.
+###### Artículo 865.
 
 (Se deroga).
 
-##### Artículo 866.
+###### Artículo 866.
 
 (Se deroga).
 
-##### Artículo 867.
+###### Artículo 867.
 
 (Se deroga).
 
-##### Artículo 868.
+###### Artículo 868.
 
 (Se deroga).
 
-##### Artículo 869.
+###### Artículo 869.
 
 (Se deroga).
 
-##### Artículo 870.
+###### Artículo 870.
 
 (Se deroga).
 
-##### Artículo 871.
+###### Artículo 871.
 
 (Se deroga).
 
-##### Artículo 872.
+###### Artículo 872.
 
 (Se deroga).
 
-##### Artículo 873.
+###### Artículo 873.
 
 (Se deroga).
 
-##### Artículo 874.
+###### Artículo 874.
 
 (Se deroga).
 
-##### Artículo 875.
+###### Artículo 875.
 
 (Se deroga).
 
-##### Artículo 876.
+###### Artículo 876.
 
 (Se deroga).
 
-##### Artículo 877.
+###### Artículo 877.
 
 (Se deroga).
 
-##### Artículo 878.
+###### Artículo 878.
 
 (Se deroga).
 
-##### Artículo 879.
+###### Artículo 879.
 
 (Se deroga).
 
-##### Artículo 880.
+###### Artículo 880.
 
 (Se deroga).
 
@@ -4564,55 +4644,55 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 881.
+###### Artículo 881.
 
 (Se deroga).
 
-##### Artículo 882.
+###### Artículo 882.
 
 (Se deroga).
 
-##### Artículo 883.
+###### Artículo 883.
 
 (Se deroga).
 
-##### Artículo 884.
+###### Artículo 884.
 
 (Se deroga).
 
-##### Artículo 885.
+###### Artículo 885.
 
 (Se deroga).
 
-##### Artículo 886.
+###### Artículo 886.
 
 (Se deroga).
 
-##### Artículo 887.
+###### Artículo 887.
 
 (Se deroga).
 
-##### Artículo 888.
+###### Artículo 888.
 
 (Se deroga).
 
-##### Artículo 889.
+###### Artículo 889.
 
 (Se deroga).
 
-##### Artículo 890.
+###### Artículo 890.
 
 (Se deroga).
 
-##### Artículo 891.
+###### Artículo 891.
 
 (Se deroga).
 
-##### Artículo 892.
+###### Artículo 892.
 
 (Se deroga).
 
-##### Artículo 893.
+###### Artículo 893.
 
 (Se deroga).
 
@@ -4620,31 +4700,31 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 894.
+###### Artículo 894.
 
 (Se deroga).
 
-##### Artículo 895.
+###### Artículo 895.
 
 (Se deroga).
 
-##### Artículo 896.
+###### Artículo 896.
 
 (Se deroga).
 
-##### Artículo 897.
+###### Artículo 897.
 
 (Se deroga).
 
-##### Artículo 898.
+###### Artículo 898.
 
 (Se deroga).
 
-##### Artículo 899.
+###### Artículo 899.
 
 (Se deroga).
 
-##### Artículo 900.
+###### Artículo 900.
 
 (Se deroga).
 
@@ -4652,59 +4732,59 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 901.
+###### Artículo 901.
 
 (Se deroga).
 
-##### Artículo 902.
+###### Artículo 902.
 
 (Se deroga).
 
-##### Artículo 903.
+###### Artículo 903.
 
 (Se deroga).
 
-##### Artículo 904.
+###### Artículo 904.
 
 (Se deroga).
 
-##### Artículo 905.
+###### Artículo 905.
 
 (Se deroga).
 
-##### Artículo 906.
+###### Artículo 906.
 
 (Se deroga).
 
-##### Artículo 907.
+###### Artículo 907.
 
 (Se deroga).
 
-##### Artículo 908.
+###### Artículo 908.
 
 (Se deroga).
 
-##### Artículo 909.
+###### Artículo 909.
 
 (Se deroga).
 
-##### Artículo 910.
+###### Artículo 910.
 
 (Se deroga).
 
-##### Artículo 911.
+###### Artículo 911.
 
 (Se deroga).
 
-##### Artículo 912.
+###### Artículo 912.
 
 (Se deroga).
 
-##### Artículo 913.
+###### Artículo 913.
 
 (Se deroga).
 
-##### Artículo 914.
+###### Artículo 914.
 
 (Se deroga).
 
@@ -4712,27 +4792,27 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 915.
+###### Artículo 915.
 
 (Se deroga).
 
-##### Artículo 916.
+###### Artículo 916.
 
 (Se deroga).
 
-##### Artículo 917.
+###### Artículo 917.
 
 (Se deroga).
 
-##### Artículo 918.
+###### Artículo 918.
 
 (Se deroga).
 
-##### Artículo 919.
+###### Artículo 919.
 
 (Se deroga).
 
-##### Artículo 920.
+###### Artículo 920.
 
 (Se deroga).
 
@@ -4742,23 +4822,23 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 921.
+###### Artículo 921.
 
 (Se deroga).
 
-##### Artículo 922.
+###### Artículo 922.
 
 (Se deroga).
 
-##### Artículo 923.
+###### Artículo 923.
 
 (Se deroga).
 
-##### Artículo 924.
+###### Artículo 924.
 
 (Se deroga).
 
-##### Artículo 925.
+###### Artículo 925.
 
 (Se deroga).
 
@@ -4766,75 +4846,75 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 926.
+###### Artículo 926.
 
 (Se deroga).
 
-##### Artículo 927.
+###### Artículo 927.
 
 (Se deroga).
 
-##### Artículo 928.
+###### Artículo 928.
 
 (Se deroga).
 
-##### Artículo 929.
+###### Artículo 929.
 
 (Se deroga).
 
-##### Artículo 930.
+###### Artículo 930.
 
 (Se deroga).
 
-##### Artículo 931.
+###### Artículo 931.
 
 (Se deroga).
 
-##### Artículo 932.
+###### Artículo 932.
 
 (Se deroga).
 
-##### Artículo 933.
+###### Artículo 933.
 
 (Se deroga).
 
-##### Artículo 934.
+###### Artículo 934.
 
 (Se deroga).
 
-##### Artículo 935.
+###### Artículo 935.
 
 (Se deroga).
 
-##### Artículo 936.
+###### Artículo 936.
 
 (Se deroga).
 
-##### Artículo 937.
+###### Artículo 937.
 
 (Se deroga).
 
-##### Artículo 938.
+###### Artículo 938.
 
 (Se deroga).
 
-##### Artículo 939.
+###### Artículo 939.
 
 (Se deroga).
 
-##### Artículo 940.
+###### Artículo 940.
 
 (Se deroga).
 
-##### Artículo 941.
+###### Artículo 941.
 
 (Se deroga).
 
-##### Artículo 942.
+###### Artículo 942.
 
 (Se deroga).
 
-##### Artículo 943.
+###### Artículo 943.
 
 (Se deroga).
 
@@ -4842,7 +4922,7 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 944.
+###### Artículo 944.
 
 (Se deroga).
 
@@ -4854,31 +4934,31 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 945.
+###### Artículo 945.
 
 (Se deroga).
 
-##### Artículo 946.
+###### Artículo 946.
 
 (Se deroga).
 
-##### Artículo 947.
+###### Artículo 947.
 
 (Se deroga).
 
-##### Artículo 948.
+###### Artículo 948.
 
 (Se deroga).
 
-##### Artículo 949.
+###### Artículo 949.
 
 (Se deroga).
 
-##### Artículo 950.
+###### Artículo 950.
 
 (Se deroga).
 
-##### Artículo 951.
+###### Artículo 951.
 
 (Se deroga).
 
@@ -4886,43 +4966,43 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 952.
+###### Artículo 952.
 
 (Se deroga).
 
-##### Artículo 953.
+###### Artículo 953.
 
 (Se deroga).
 
-##### Artículo 954.
+###### Artículo 954.
 
 (Se deroga).
 
-##### Artículo 955.
+###### Artículo 955.
 
 (Se deroga).
 
-##### Artículo 956.
+###### Artículo 956.
 
 (Se deroga).
 
-##### Artículo 957.
+###### Artículo 957.
 
 (Se deroga).
 
-##### Artículo 958.
+###### Artículo 958.
 
 (Se deroga).
 
-##### Artículo 959.
+###### Artículo 959.
 
 (Se deroga).
 
-##### Artículo 960.
+###### Artículo 960.
 
 (Se deroga).
 
-##### Artículo 961.
+###### Artículo 961.
 
 (Se deroga).
 
@@ -4930,91 +5010,91 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 962.
+###### Artículo 962.
 
 (Se deroga).
 
-##### Artículo 963.
+###### Artículo 963.
 
 (Se deroga).
 
-##### Artículo 964.
+###### Artículo 964.
 
 (Se deroga).
 
-##### Artículo 965.
+###### Artículo 965.
 
 (Se deroga).
 
-##### Artículo 966.
+###### Artículo 966.
 
 (Se deroga).
 
-##### Artículo 967.
+###### Artículo 967.
 
 (Se deroga).
 
-##### Artículo 968.
+###### Artículo 968.
 
 (Se deroga).
 
-##### Artículo 969.
+###### Artículo 969.
 
 (Se deroga).
 
-##### Artículo 970.
+###### Artículo 970.
 
 (Se deroga).
 
-##### Artículo 971.
+###### Artículo 971.
 
 (Se deroga).
 
-##### Artículo 972.
+###### Artículo 972.
 
 (Se deroga).
 
-##### Artículo 973.
+###### Artículo 973.
 
 (Se deroga).
 
-##### Artículo 974.
+###### Artículo 974.
 
 (Se deroga).
 
-##### Artículo 975.
+###### Artículo 975.
 
 (Se deroga).
 
-##### Artículo 976.
+###### Artículo 976.
 
 (Se deroga).
 
-##### Artículo 977.
+###### Artículo 977.
 
 (Se deroga).
 
-##### Artículo 978.
+###### Artículo 978.
 
 (Se deroga).
 
-##### Artículo 979.
+###### Artículo 979.
 
 (Se deroga).
 
-##### Artículo 980.
+###### Artículo 980.
 
 (Se deroga).
 
-##### Artículo 981.
+###### Artículo 981.
 
 (Se deroga).
 
-##### Artículo 982.
+###### Artículo 982.
 
 (Se deroga).
 
-##### Artículo 983.
+###### Artículo 983.
 
 (Se deroga).
 
@@ -5022,19 +5102,19 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 984.
+###### Artículo 984.
 
 (Se deroga).
 
-##### Artículo 985.
+###### Artículo 985.
 
 (Se deroga).
 
-##### Artículo 986.
+###### Artículo 986.
 
 (Se deroga).
 
-##### Artículo 987.
+###### Artículo 987.
 
 (Se deroga).
 
@@ -5042,43 +5122,43 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 988.
+###### Artículo 988.
 
 (Se deroga).
 
-##### Artículo 989.
+###### Artículo 989.
 
 (Se deroga).
 
-##### Artículo 990.
+###### Artículo 990.
 
 (Se deroga).
 
-##### Artículo 991.
+###### Artículo 991.
 
 (Se deroga).
 
-##### Artículo 992.
+###### Artículo 992.
 
 (Se deroga).
 
-##### Artículo 993.
+###### Artículo 993.
 
 (Se deroga).
 
-##### Artículo 994.
+###### Artículo 994.
 
 (Se deroga).
 
-##### Artículo 995.
+###### Artículo 995.
 
 (Se deroga).
 
-##### Artículo 996.
+###### Artículo 996.
 
 (Se deroga).
 
-##### Artículo 997.
+###### Artículo 997.
 
 (Se deroga).
 
@@ -5086,47 +5166,47 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 998.
+###### Artículo 998.
 
 (Se deroga).
 
-##### Artículo 999.
+###### Artículo 999.
 
 (Se deroga).
 
-##### Artículo 1000.
+###### Artículo 1000.
 
 (Se deroga).
 
-##### Artículo 1001.
+###### Artículo 1001.
 
 (Se deroga).
 
-##### Artículo 1002.
+###### Artículo 1002.
 
 (Se deroga).
 
-##### Artículo 1003.
+###### Artículo 1003.
 
 (Se deroga).
 
-##### Artículo 1004.
+###### Artículo 1004.
 
 (Se deroga).
 
-##### Artículo 1005.
+###### Artículo 1005.
 
 (Se deroga).
 
-##### Artículo 1006.
+###### Artículo 1006.
 
 (Se deroga).
 
-##### Artículo 1007.
+###### Artículo 1007.
 
 (Se deroga).
 
-##### Artículo 1008.
+###### Artículo 1008.
 
 (Se deroga).
 
@@ -5134,31 +5214,31 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 1009.
+###### Artículo 1009.
 
 (Se deroga).
 
-##### Artículo 1010.
+###### Artículo 1010.
 
 (Se deroga).
 
-##### Artículo 1011.
+###### Artículo 1011.
 
 (Se deroga).
 
-##### Artículo 1012.
+###### Artículo 1012.
 
 (Se deroga).
 
-##### Artículo 1013.
+###### Artículo 1013.
 
 (Se deroga).
 
-##### Artículo 1014.
+###### Artículo 1014.
 
 (Se deroga).
 
-##### Artículo 1015.
+###### Artículo 1015.
 
 (Se deroga).
 
@@ -5166,43 +5246,43 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 1016.
+###### Artículo 1016.
 
 (Se deroga).
 
-##### Artículo 1017.
+###### Artículo 1017.
 
 (Se deroga).
 
-##### Artículo 1018.
+###### Artículo 1018.
 
 (Se deroga).
 
-##### Artículo 1019.
+###### Artículo 1019.
 
 (Se deroga).
 
-##### Artículo 1020.
+###### Artículo 1020.
 
 (Se deroga).
 
-##### Artículo 1021.
+###### Artículo 1021.
 
 (Se deroga).
 
-##### Artículo 1022.
+###### Artículo 1022.
 
 (Se deroga).
 
-##### Artículo 1023.
+###### Artículo 1023.
 
 (Se deroga).
 
-##### Artículo 1024.
+###### Artículo 1024.
 
 (Se deroga).
 
-##### Artículo 1025.
+###### Artículo 1025.
 
 (Se deroga).
 
@@ -5210,79 +5290,79 @@ De los Riesgos, Daños y Accidentes del Comercio Marítimo
 
 (Se deroga).
 
-##### Artículo 1026.
+###### Artículo 1026.
 
 (Se deroga).
 
-##### Artículo 1027.
+###### Artículo 1027.
 
 (Se deroga).
 
-##### Artículo 1028.
+###### Artículo 1028.
 
 (Se deroga).
 
-##### Artículo 1029.
+###### Artículo 1029.
 
 (Se deroga).
 
-##### Artículo 1030.
+###### Artículo 1030.
 
 (Se deroga).
 
-##### Artículo 1031.
+###### Artículo 1031.
 
 (Se deroga).
 
-##### Artículo 1032.
+###### Artículo 1032.
 
 (Se deroga).
 
-##### Artículo 1033.
+###### Artículo 1033.
 
 (Se deroga).
 
-##### Artículo 1034.
+###### Artículo 1034.
 
 (Se deroga).
 
-##### Artículo 1035.
+###### Artículo 1035.
 
 (Se deroga).
 
-##### Artículo 1036.
+###### Artículo 1036.
 
 (Se deroga).
 
-##### Artículo 1037.
+###### Artículo 1037.
 
 (Se deroga).
 
 ### TITULO SEGUNDO · De las Prescripciones
 
-##### Artículo 1038.
+###### Artículo 1038.
 
 Las acciones que se deriven de actos comerciales se prescribirán con arreglo a las disposiciones de este Código.
 
-##### Artículo 1039.
+###### Artículo 1039.
 
 Los términos fijados para el ejercicio de acciones procedentes de actos mercantiles, serán fatales, sin que contra ellos se dé restitución.
 
-##### Artículo 1040.
+###### Artículo 1040.
 
 En la prescripción mercantil negativa, los plazos comenzarán a contarse desde el día en que la acción pudo ser legalmente ejercitada en juicio.
 
-##### Artículo 1041.
+###### Artículo 1041.
 
 La prescripción se interrumpirá por la demanda u otro cualquier género de interpelación judicial hecha al deudor, por el reconocimiento de las obligaciones, o por la renovación del documento en que se funde el derecho del acreedor.
 
 Se considerará la prescripción como no interrumpida por la interpelación judicial, si el actor desistiese de ella o fuese desestimada su demanda.
 
-##### Artículo 1042.
+###### Artículo 1042.
 
 Empezará a contarse el nuevo término de la prescripción en caso de reconocimiento de las obligaciones, desde el día que se haga; en el de renovación desde la fecha del nuevo título; y si en él se hubiere prorrogado el plazo del cumplimiento de la obligación, desde que éste hubiere vencido.
 
-##### Artículo 1043.
+###### Artículo 1043.
 
 En un año se prescribirán:
 
@@ -5302,11 +5382,11 @@ VII.- (Se deroga).
 
 VIII.- (Se deroga).
 
-##### Artículo 1044.
+###### Artículo 1044.
 
 (Se deroga).
 
-##### Artículo 1045.
+###### Artículo 1045.
 
 Se prescribirán en cinco años:
 
@@ -5314,17 +5394,17 @@ I.- Las acciones derivadas del contrato de Sociedad y de operaciones sociales po
 
 II.- Las acciones que puedan competir contra los liquidatarios de las mismas sociedades por razón de su encargo.
 
-##### Artículo 1046.
+###### Artículo 1046.
 
 La acción para reivindicar la propiedad de un navío prescribe en diez años, aun cuando el que lo posea carezca de título o de buena fe.
 
 El capitán de un navío no puede adquirir éste a virtud de la prescripción.
 
-##### Artículo 1047.
+###### Artículo 1047.
 
 En todos los casos en que el presente Código no establezca para la prescripción un plazo más corto, la prescripción ordinaria en materia comercial se completará por el transcurso de diez años.
 
-##### Artículo 1048.
+###### Artículo 1048.
 
 La prescripción en materia mercantil correrá contra los menores é incapacitados, quedando a salvo los derechos de éstos para repetir contra sus tutores o curadores.
 
@@ -5334,27 +5414,29 @@ La prescripción en materia mercantil correrá contra los menores é incapacitad
 
 #### CAPITULO I · Del Procedimiento Especial Mercantil
 
-##### Artículo 1049.
+###### Artículo 1049.
 
 Son juicios mercantiles los que tienen por objeto ventilar y decidir las controversias que, conforme a los artículos 4o., 75 y 76, se deriven de los actos comerciales.
 
-##### Artículo 1050.
+###### Artículo 1050.
 
 Cuando conforme a las disposiciones mercantiles, para una de las partes que intervienen en un acto, éste tenga naturaleza comercial y para la otra tenga naturaleza civil la controversia que del mismo se derive se regirá conforme a las leyes mercantiles.
 
-##### Artículo 1051.
+###### Artículo 1051.
 
 El procedimiento mercantil preferente a todos es el que libremente convengan las partes con las limitaciones que se señalan en este libro, pudiendo ser un procedimiento convencional ante Tribunales o un procedimiento arbitral.
+
+A tal efecto, el tribunal correspondiente hará del conocimiento de las partes la posibilidad de convenir sobre el procedimiento a seguir para solución de controversias, conforme a lo establecido en el párrafo anterior del presente artículo.
 
 La ilegalidad del pacto o su inobservancia cuando esté ajustado a ley, pueden ser reclamadas en forma incidental y sin suspensión del procedimiento, en cualquier tiempo anterior a que se dicte el laudo o sentencia.
 
 El procedimiento convencional ante tribunales se regirá por lo dispuesto en los artículos 1052 y 1053, y el procedimiento arbitral por las disposiciones del título cuarto de este libro.
 
-##### Artículo 1052.
+###### Artículo 1052.
 
 Los tribunales se sujetarán al procedimiento convencional que las partes hubieren pactado siempre que el mismo se hubiere formalizado en escritura pública, póliza ante corredor o ante el juez que conozca de la demanda en cualquier estado del juicio, y se respeten las formalidades esenciales del procedimiento.
 
-##### Artículo 1053.
+###### Artículo 1053.
 
 Para su validez, la escritura pública, póliza o convenio judicial a que se refiere el artículo anterior, deberá contener las previsiones sobre el desahogo de la demanda, la contestación, las pruebas y los alegatos, así como:
 
@@ -5372,11 +5454,11 @@ VI.- El convenio también deberá expresar los nombres de los otorgantes, su cap
 
 En las demás materias, a falta de acuerdo especial u omisión de las partes en la regulación procesal convenida, se observarán las disposiciones de este libro.
 
-##### Artículo 1054.
+###### Artículo 1054.
 
-En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y en su defecto se aplicará supletoriamente el Código Federal de Procedimientos Civiles y en caso de que no regule la institución cuya suplencia se requiera, la ley de procedimientos local respectiva.
+En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y, en su defecto, se aplicará supletoriamente el Código Federal de Procedimientos Civiles y en caso de que no regule suficientemente la institución cuya supletoriedad se requiera, la ley de procedimientos local respectiva.
 
-##### Artículo 1055.
+###### Artículo 1055.
 
 Los juicios mercantiles, son ordinarios, ejecutivos o los especiales que se encuentren regulados por cualquier ley de índole comercial, los cuales se sujetarán a las siguientes reglas:
 
@@ -5396,29 +5478,29 @@ VII. El secretario dará cuenta al titular del tribunal junto con los oficios, c
 
 VIII. Los tribunales podrán ordenar que se subsane toda omisión que notaren en la substanciación, para el efecto de regularizar el procedimiento correspondiente.
 
-##### Artículo 1055 Bis.
+###### Artículo 1055 Bis.
 
 Cuando el crédito tenga garantía real, el acreedor podrá ejercitar sus acciones en juicio ejecutivo mercantil, ordinario, especial, sumario hipotecario o el que corresponda, de acuerdo a esta Ley, a la legislación mercantil o a la legislación civil aplicable, conservando la garantía real y su preferencia en el pago, aun cuando los bienes gravados se señalen para la práctica de la ejecución.
 
 #### CAPITULO II · De la Capacidad y Personalidad
 
-##### Artículo 1056.
+###### Artículo 1056.
 
 Todo el que, conforme a la ley esté en el pleno ejercicio de sus derechos puede comparecer en juicio. Aquellos que no se hallen en el caso anterior, comparecerán a juicio por medio de sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho. Los ausentes e ignorados serán representados como se previene en el Código Civil Federal.
 
-##### Artículo 1057.
+###### Artículo 1057.
 
 El juez examinará de oficio la personalidad de las partes, pero los litigantes podrán impugnar la de su contraria cuando tengan razones para ello, en vía incidental que no suspenderá el procedimiento y la resolución que se dicte será apelable en el efecto devolutivo, de tramitación inmediata, sin perjuicio de lo dispuesto por el artículo 1126 de este Código.
 
-##### Artículo 1058.
+###### Artículo 1058.
 
 Por aquel que no estuviere presente en el lugar del juicio ni tenga representante legítimo, podrá comparecer un gestor judicial para promover en el interés del actor o del demandado, y siempre sujetándose a las disposiciones de los artículos relativos del Código Civil Federal, y gozará de los derechos y facultades de un mandatario judicial. Si la ratificación de la gestión se da antes de exhibir la fianza, la exhibición de ésta no será necesaria.
 
-##### Artículo 1059.
+###### Artículo 1059.
 
 El gestor judicial, antes de ser admitido, debe dar fianza que garantizará que el interesado pasará por lo que él haga, y de que pagará lo juzgado y sentenciado. La fianza será calificada por el tribunal bajo su responsabilidad y se otorgará por el gestor judicial, comprometiéndose con el dueño del negocio a pagar los daños, los perjuicios y gastos que se le irroguen a éste por su culpa o negligencia.
 
-##### Artículo 1060.
+###### Artículo 1060.
 
 Existirá litisconsorcio, sea activo o sea pasivo, siempre que dos o más personas ejerciten una misma acción u opongan la misma excepción, para lo cual deberán litigar unidas y bajo una misma representación.
 
@@ -5430,7 +5512,7 @@ Cuando exista litisconsorcio de cualquier clase, el mandatario nombrado, o en su
 
 El fin del representante común o la designación del mandatario por los que conforman un litisconsorcio es evitar solicitudes múltiples, contrarias o contradictorias, por lo que tales mandatarios y representantes serán inmediata y directamente responsables por negligencia en su actuación y responderán de los daños y perjuicios que causen a sus poderdantes y representados. El mandatario o el representante común podrán actuar por medio de apoderado o mandatario y autorizar personas para oír notificaciones en los términos del Artículo 1069 de este Código.
 
-##### Artículo 1061.
+###### Artículo 1061.
 
 Al primer escrito se acompañarán precisamente:
 
@@ -5450,29 +5532,29 @@ V. Copia simple o fotostática siempre que sean legibles a simple vista, tanto d
 
 Lo dispuesto en la fracción anterior, se observará también respecto de los escritos en que se oponga la excepción de compensación o se promueva reconvención o algún incidente.
 
-##### Artículo 1062.
+###### Artículo 1062.
 
 En el caso de que se demuestre haber solicitado al protocolo dependencia o archivo público la expedición del documento y no se expida, el juez ordenará al jefe o director responsable, que lo expida a costa del solicitante dentro del plazo de tres días y le informe al juez con apercibimiento en caso de no hacerlo de imposición de sanción pecuniaria hasta por los importes autorizados por la ley, que se aplicará en beneficio de la parte perjudicada.
 
 #### CAPITULO III · De las Formalidades Judiciales
 
-##### Artículo 1063.
+###### Artículo 1063.
 
 Los juicios mercantiles se substanciarán de acuerdo a los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Federal de Procedimientos Civiles y en último término por el Código de Procedimientos Civiles local.
 
-##### Artículo 1064.
+###### Artículo 1064.
 
 Las actuaciones judiciales han de practicarse en días y horas hábiles, bajo pena de nulidad. Son días hábiles todos los días del año, menos los domingos y aquéllos en que no laboren los tribunales competentes en materia mercantil que conozcan el procedimiento. Se entienden horas hábiles las que median desde las siete hasta las diecinueve horas.
 
-##### Artículo 1065.
+###### Artículo 1065.
 
 El juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
 
-##### Artículo 1066.
+###### Artículo 1066.
 
 El Secretario, o quien haga sus veces, hará constar el día y la hora en que se presente un escrito, dando cuenta con él a más tardar dentro de veinticuatro horas, bajo sanción de multa hasta por el equivalente a diez veces el salario mínimo general vigente en el lugar en que se ventila el procedimiento, sin perjuicio de las demás que merezca conforme a las leyes.
 
-##### Artículo 1067.
+###### Artículo 1067.
 
 Los autos podrán ser consultados por las partes o por las personas autorizadas para ello permaneciendo siempre dentro del local del tribunal. La frase dar o correr traslado significa que los autos quedan a disposición de los interesados y en su caso se entreguen copias. Las disposiciones de este artículo comprenden al Ministerio Público.
 
@@ -5484,7 +5566,7 @@ Para obtener copia o testimonio de cualquier documento que se encuentre en archi
 
 #### CAPITULO IV · De las Notificaciones
 
-##### Artículo 1068.
+###### Artículo 1068.
 
 Las notificaciones, citaciones y entrega de expedientes se verificarán lo más tarde el día siguiente al en que se dicten las resoluciones que las prevengan, cuando el juez en éstas no dispusiere otra cosa. En el caso de notificaciones personales, dicho término se contará a partir de la fecha en que se entregue el expediente al notificador, lo cual deberá hacerse, dentro de un plazo que no exceda de tres días. Se impondrá de plano a los infractores de este artículo una multa que no exceda del equivalente a diez días de salario mínimo general vigente en el lugar en que se desahogue el procedimiento.
 
@@ -5502,11 +5584,11 @@ V. Por correo certificado, y
 
 VI. Por telégrafo certificado.
 
-##### Artículo 1069.
+###### Artículo 1069.
 
 Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deben designar domicilio ubicado en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias. Igualmente deben designar el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promueven.
 
-Cuando un litigante no cumpla con la primera parte de este artículo las notificaciones se harán conforme a las Reglas para las notificaciones que no deban ser personales. Si no se designare domicilio de la contraparte, se le requerirá para que lo haga, y si lo ignoran se procederá en los términos del artículo siguiente.
+Cuando un litigante no cumpla con la primera parte de este artículo las notificaciones se harán conforme a las Reglas para las notificaciones que no deban ser personales, hasta en tanto sea señalado domicilio para los efectos referidos. Si no se designare domicilio de la contraparte, se le requerirá para que lo haga, y si lo ignoran se procederá en los términos del artículo siguiente.
 
 Las partes podrán autorizar para oír notificaciones en su nombre, a una o varias personas con capacidad legal, quienes quedarán facultadas para interponer los recursos que procedan, ofrecer e intervenir en el desahogo de pruebas, alegar en las audiencias, pedir se dicte sentencia para evitar la consumación del término de caducidad por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero. Las personas autorizadas conforme a la primera parte de este párrafo, deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de abogado o licenciado en Derecho, debiendo proporcionar los datos correspondientes en el escrito en que se otorgue dicha autorización y mostrar la cédula profesional o carta de pasante para la práctica de la abogacía en las diligencias de prueba en que intervengan, en el entendido que el autorizado que no cumpla con lo anterior, perderá la facultad a que se refiere este artículo en perjuicio de la parte que lo hubiere designado, y únicamente tendrá las que se indican en el penúltimo párrafo de este artículo.
 
@@ -5518,7 +5600,7 @@ Las partes podrán designar personas solamente autorizadas para oír notificacio
 
 El juez al acordar lo relativo a la autorización a que se refiere este artículo deberá expresar con toda claridad el alcance con el que se reconoce la autorización otorgada.
 
-##### Artículo 1070.
+###### Artículo 1070.
 
 Cuando se ignore el domicilio de la persona que debe ser notificada, la primera notificación se hará publicando la determinación respectiva tres veces consecutivas en un periódico de circulación amplia y de cobertura nacional y en un periódico local del Estado o del Distrito Federal en que el comerciante deba ser demandado.
 
@@ -5532,11 +5614,11 @@ En el caso de que en el documento base de la acción se haya pactado domicilio c
 
 Mientras un litigante no hiciere substitución del domicilio en donde se deban practicar las diligencias o notificaciones personales, seguirán haciéndose en el que para tal fin hubiere señalado. El notificador tendrá la obligación de realizarlas en el domicilio señalado, y en caso de no existir el mismo o de negativa a recibirlas, lo deberá hacer constar en autos para que surtan efectos así como las subsecuentes, por publicación en el boletín, gaceta o periódico judicial o en los estrados de los tribunales, además de que las diligencias en que dicha parte debiere tener intervención se practicarán en el local del juzgado sin su presencia.
 
-##### Artículo 1070 Bis.
+###### Artículo 1070 Bis.
 
 Las instituciones y autoridades estarán obligadas a proporcionar la información a que se refiere el artículo 1070 de este Código, en un plazo no mayor a treinta días hábiles y, en caso de no hacerlo, la autoridad judicial dictará las medidas de apremio correspondientes a la persona o funcionario responsables de contestar los informes, sin perjuicio de las responsabilidades en que incurran por su incumplimiento, derivadas de la legislación aplicable a los servidores públicos.
 
-##### Artículo 1071.
+###### Artículo 1071.
 
 Cuando haya de notificarse o citarse a una persona residente fuera del lugar del juicio, se hará la notificación o citación por medio de despacho o exhorto al juez de la población en que aquélla residiere, los que podrán tramitarse por conducto del interesado si éste lo pidiere.
 
@@ -5554,7 +5636,7 @@ En el caso de que la actuación requerida a otro órgano jurisdiccional, o a otr
 
 En los despachos, exhortos y suplicatorias no se requiere la legalización de la firma del tribunal que lo expida.
 
-##### Artículo 1072.
+###### Artículo 1072.
 
 Pueden los tribunales acordar que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere solicitado la práctica de la diligencia, quien tendrá la obligación de apresurar su diligenciación por el juez exhortado y devolverlos con lo que se practicare, si por su conducto se hiciere la devolución.
 
@@ -5580,13 +5662,13 @@ Si, a pesar del recuerdo, continuase la misma situación, el tribunal exhortante
 
 Si la parte a quien se le entregue un exhorto para los fines que se precisan en este artículo no hace la devolución dentro de los tres días siguientes al plazo que se le hubiere concedido para su diligenciación, sin justificar impedimento bastante, será sancionada en los términos que autorice la ley y se dejará de desahogar la diligencia. Igual sanción se le impondrá cuando la contraparte manifieste que sin haberse señalado plazo para la diligencia objeto del exhorto, la misma ya se llevó a cabo, y no se ha devuelto el exhorto diligenciado, por aquel que lo solicitó y recibió, salvo prueba en contrario.
 
-##### Artículo 1073.
+###### Artículo 1073.
 
 La práctica de diligencias en país extranjero para surtir efectos en juicios que se tramiten ante tribunales nacionales, podrán encomendarse a través de los miembros del Servicio Exterior Mexicano por los tribunales que conozcan del asunto, caso en el cual dichas diligencias deberán practicarse conforme a las disposiciones de este libro dentro de los límites que permita el derecho internacional.
 
 Los miembros del Servicio Exterior Mexicano podrán solicitar a las autoridades extranjeras competentes, en los casos en que así proceda, su cooperación en la práctica de las diligencias encomendadas.
 
-##### Artículo 1074.
+###### Artículo 1074.
 
 Los exhortos que se remitan al extranjero o que se reciban de él, salvo lo dispuesto por los tratados o convenciones de los que México sea parte, se sujetarán a las siguientes disposiciones:
 
@@ -5608,7 +5690,7 @@ VIII.- Los tribunales que remitan exhortos al extranjero o los reciban de él, l
 
 #### CAPITULO V · De los Términos Judiciales
 
-##### Artículo 1075.
+###### Artículo 1075.
 
 Todos los términos judiciales empezarán a correr desde el día siguiente a aquel en que hayan surtido efectos el emplazamiento o notificaciones y se contará en ellos el día de vencimiento.
 
@@ -5616,7 +5698,7 @@ Las notificaciones personales surten efectos al día siguiente del que se hayan 
 
 Cuando se trate de la primera notificación, y ésta deba de hacerse en otro lugar al de la residencia del tribunal, aumentará a los términos que señale la ley o el juzgador, un día más por cada doscientos kilómetros o por la fracción que exceda de cien, pudiendo el juez, según las dificultades de las comunicaciones, y aún los problemas climatológicos aumentar dichos plazos, razonando y fundando debidamente su determinación en ese sentido.
 
-##### Artículo 1076.
+###### Artículo 1076.
 
 En ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales, salvo los casos de excepción que se señalen por la ley.
 
@@ -5644,7 +5726,7 @@ VII. La resolución que decrete la caducidad será apelable en ambos efectos, en
 
 VIII. Las costas serán a cargo del actor, cuando se decrete la caducidad del juicio en primera instancia. En la segunda instancia serán a cargo del apelante, y en los incidentes las pagará el que lo haya interpuesto. Sin embargo, las costas serán compensables con las que corran a cargo del demandado cuando hubiera opuesto reconvención, compensación, nulidad y en general las excepciones o defensas que tiendan a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda.
 
-##### Artículo 1077.
+###### Artículo 1077.
 
 Todas las resoluciones sean decretos de trámite, autos provisionales, definitivos o preparatorios y sentencias interlocutorias deben ser claras, precisas y congruentes con las promociones de las partes, resolviendo sobre todo lo que éstas hayan pedido. Cuando el tribunal sea omiso en resolver todas las peticiones planteadas por el promovente de oficio o a simple instancia verbal del interesado, deberá dar nueva cuenta y resolver las cuestiones omitidas dentro del día siguiente. Las sentencias definitivas también deben ser claras, precisas y congruentes con las demandas y las contestaciones y con las demás pretensiones deducidas oportunamente en el pleito, condenando o absolviendo al demandado, y decidiendo todos los puntos litigiosos que hayan sido objeto del debate. Cuando estos hubieren sido varios, se hará el pronunciamiento correspondiente a cada uno de ellos.
 
@@ -5654,11 +5736,11 @@ Los decretos y los autos deben dictarse y mandarse notificar como proceda, dentr
 
 Los decretos, los autos y las sentencias serán necesariamente pronunciados y mandados notificar en los plazos de ley.
 
-##### Artículo 1078.
+###### Artículo 1078.
 
 Una vez concluidos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el juicio su curso y se tendrá por perdido el derecho que debió ejercitarse dentro del término correspondiente.
 
-##### Artículo 1079.
+###### Artículo 1079.
 
 Cuando la ley no señale término para la práctica de algún acto judicial, o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
 
@@ -5680,7 +5762,7 @@ VIII. (Se deroga).
 
 #### CAPITULO VI · (Se deroga su denominación).
 
-##### Artículo 1080.
+###### Artículo 1080.
 
 Las audiencias en todos los procedimientos se llevarán a cabo observando las siguientes reglas:
 
@@ -5700,21 +5782,21 @@ Los jueces y magistrados que hubiesen cedido a la intimidación o a la fuerza, t
 
 #### CAPITULO VII · De las Costas
 
-##### Artículo 1081.
+###### Artículo 1081.
 
 Por ningún acto judicial se cobrarán costas, ni aun cuando se actuare con testigos de asistencia o se practicaren diligencias fuera del lugar del juicio.
 
-##### Artículo 1082.
+###### Artículo 1082.
 
 Cada parte será inmediatamente responsable de las costas que originen las diligencias que promueva, en caso de condenación en costas, la parte condenada indemnizará a la otra de todas las que se hubieren causado, cuando hubiese opuesto excepciones o recursos frívolos o improcedentes con el propósito de retardar el procedimiento.
 
 La condenación no comprenderá la remuneración del procurador, ni la del patrono, sino cuando fuere abogado recibido; cuando un abogado fuere procurador, sólo comprenderá sus honorarios la condenación, cuando el mismo se haya encargado de la dirección del juicio sin recurrir al patrocinio de otro abogado.
 
-##### Artículo 1083.
+###### Artículo 1083.
 
 En los juicios mercantiles no se necesita que los litigantes se asistan de abogado; pero si lo ocupan y hay condenación en costas, solo se pagarán al abogado con título.
 
-##### Artículo 1084.
+###### Artículo 1084.
 
 La condenación en costas se hará cuando así lo prevenga la ley, o cuando a juicio del juez se haya procedido con temeridad o mala fe.
 
@@ -5730,45 +5812,45 @@ IV. El que fuere condenado por dos sentencias conformes de toda conformidad en s
 
 V. El que intente acciones o haga valer cualquier tipo de defensas o excepciones improcedentes o interponga recursos o incidentes de este tipo a quien no solamente se le condenará respecto de estas acciones, defensas, excepciones, recursos o incidentes improcedentes, sino de las excepciones procesales que sean inoperantes.
 
-##### Artículo 1085.
+###### Artículo 1085.
 
 Las costas serán reguladas por la parte a cuyo favor se hubieren declarado.
 
-##### Artículo 1086.
+###### Artículo 1086.
 
 Presentada la regulación de las costas al juez o tribunal ante el cual se hubieren causado, se dará vista de ella por tres días a la parte condenada, para que exprese su conformidad o inconformidad.
 
-##### Artículo 1087.
+###### Artículo 1087.
 
 Si nada expusiere dentro del término fijado la parte condenada, se decidirá el pago. Si en el término referido expresare no estar conforme, se dará vista de las razones que alegue a la parte que presentó la regulación, la que dentro de igual término contestará a las observaciones hechas.
 
-##### Artículo 1088.
+###### Artículo 1088.
 
 En vista de lo que las partes hubiesen expuesto conforme al artículo anterior, el juez o tribunal fallarán lo que estimen justo dentro de tercero día. De esta decisión se admitirán los recursos que procedieren, según la instancia en que se encontrare el juicio y según la cantidad que importase la total regulación.
 
-##### Artículo 1089.
+###### Artículo 1089.
 
 Si los honorarios de los peritos o de cualesquiera otros funcionarios no sujetos a arancel, fueren impugnados, se oirá a otros dos individuos de su profesión. No habiéndolos en la población de la residencia del tribunal o juez que conozca de los autos, podrá recurrirse a los de los inmediatos.
 
 #### CAPITULO VIII · De las Competencias y Excepciones Procesales
 
-##### Artículo 1090.
+###### Artículo 1090.
 
 Toda demanda debe interponerse ante juez competente.
 
-##### Artículo 1091.
+###### Artículo 1091.
 
 Cuando en el lugar donde se ha de seguir el juicio hubiere varios jueces competentes, conocerá del negocio el que elija el actor, salvo lo que dispongan en contrario las leyes orgánicas aplicables.
 
-##### Artículo 1092.
+###### Artículo 1092.
 
 Es juez competente aquel a quien los litigantes se hubieren sometido expresa o tácitamente.
 
-##### Artículo 1093.
+###### Artículo 1093.
 
 Hay sumisión expresa cuando los interesados renuncien clara y terminantemente al fuero que la ley les concede, y para el caso de controversia, señalan como tribunales competentes a los del domicilio de cualquiera de las partes, del lugar de cumplimiento de alguna de las obligaciones contraídas, o de la ubicación de la cosa.
 
-##### Artículo 1094.
+###### Artículo 1094.
 
 Se entienden sometidos tácitamente:
 
@@ -5784,49 +5866,49 @@ V. El tercer opositor y el que por cualquier motivo viniere al juicio en virtud 
 
 VI. El que sea llamado a juicio para que le pare perjuicio la sentencia, el que tendrá calidad de parte, pudiendo ofrecer pruebas, alegar e interponer toda clase de defensas y recursos, sin que oponga dentro de los plazos correspondientes, cuestión de competencia alguna.
 
-##### Artículo 1095.
+###### Artículo 1095.
 
 Ni por sumisión expresa ni por tácita, se puede prorrogar jurisdicción, sino a juez que la tenga del mismo género que la que se prorroga.
 
-##### Artículo 1096.
+###### Artículo 1096.
 
 Es juez competente para conocer de la reconvención, aquel que conoce de la demanda principal.
 
 Si el valor de la reconvención es inferior a la cuantía de la competencia del juez que conoce de la demanda principal, en todos los casos seguirá conociendo este, pero no a la inversa.
 
-##### Artículo 1097.
+###### Artículo 1097.
 
 El juez o tribunal, que de las actuaciones de la incompetencia promovida, deduzca que se interpuso sin razón y con el claro propósito de alargar o entorpecer el juicio, impondrá una multa a la parte promovente, que no exceda del equivalente de cien días de salario mínimo vigente en el lugar en que se desahogue el procedimiento.
 
-##### Artículo 1097 Bis.
+###### Artículo 1097 Bis.
 
 (Se deroga).
 
-##### Artículo 1098.
+###### Artículo 1098.
 
 (Se deroga).
 
-##### Artículo 1099.
+###### Artículo 1099.
 
 No se dará curso a cuestión de competencia ni será materia de improcedencia de la vía cuando se hagan valer por comerciantes acciones o procedimientos especiales, en vía civil, derivada de contratos y actos reglamentados en el derecho común, o garantías derivadas de ese tipo de convenciones entre las partes, en que se alegue la necesidad de tramitar el juicio de acuerdo a las disposiciones mercantiles, debiéndose estar en lo conducente a lo que dispone el artículo 1090.
 
-##### Artículo 1100.
+###### Artículo 1100.
 
 Ningún juez puede sostener competencia con su Superior inmediato, pero sí con otro juez o tribunal que, aunque sea Superior en su clase, no ejerza jurisdicción sobre él, al igual que con aquellos de fuero federal, cuando se esté en el caso de jurisdicción concurrente en los términos de la fracción I-A del artículo 104 de la Constitución.
 
-##### Artículo 1101.
+###### Artículo 1101.
 
 Todas las providencias que dicten los jueces para sostener su competencia, o los tribunales superiores al resolver dichas cuestiones, deberán ser precisamente fundadas en ley.
 
-##### Artículo 1102.
+###### Artículo 1102.
 
 Las contiendas sobre competencia sólo podrán entablarse a instancia de parte.
 
-##### Artículo 1103.
+###### Artículo 1103.
 
 Los litigantes pueden desistirse de la competencia antes o después de la remisión de los testimonios de constancias al Superior, y su desistimiento hará cesar la contienda.
 
-##### Artículo 1104.
+###### Artículo 1104.
 
 Salvo lo dispuesto en el artículo 1093, sea cual fuere la naturaleza del juicio, serán preferidos a cualquier otro juez:
 
@@ -5834,43 +5916,43 @@ I. El del lugar que el deudor haya designado para ser requerido judicialmente de
 
 II. El del lugar designado en el contrato para el cumplimiento de la obligación.
 
-##### Artículo 1105.
+###### Artículo 1105.
 
 Si no se ha hecho la designación que autoriza el artículo 1093, será competente el juez del domicilio del deudor, sea cual fuere la acción que se ejercite.
 
-##### Artículo 1106.
+###### Artículo 1106.
 
 Si el deudor tuviere varios domicilios, será preferido el que elija el acreedor.
 
-##### Artículo 1107.
+###### Artículo 1107.
 
 A falta de domicilio fijo, será competente el juez del lugar donde se celebró el contrato, cuando la acción sea personal, y el de la ubicación de la cosa, cuando la acción sea real.
 
-##### Artículo 1108.
+###### Artículo 1108.
 
 Si las cosas objeto de la acción real fueren varias y estuvieren ubicadas en distintos lugares, será juez competente el del lugar de la ubicación de cualquiera de ellas, adonde primero hubiere ocurrido el demandante. Lo mismo se observará cuando la cosa estuviere ubicada en territorio de diversas jurisdicciones.
 
-##### Artículo 1109.
+###### Artículo 1109.
 
 (Se deroga).
 
-##### Artículo 1110.
+###### Artículo 1110.
 
 En los casos de ausencia legalmente comprobados, es juez competente el del último domicilio del ausente, y si se ignora, el del lugar donde se halle la mayor parte de los bienes.
 
-##### Artículo 1111.
+###### Artículo 1111.
 
 En todos los casos de jurisdicción voluntaria es competente el juez del domicilio del que promueve.
 
-##### Artículo 1112.
+###### Artículo 1112.
 
 Para los actos prejudiciales, es competente el juez que lo fuere para el negocio principal; si se tratare de providencia precautoria lo será también, en caso de urgencia, el juez del lugar en donde se hallen el demandado o la cosa que debe ser asegurada.
 
-##### Artículo 1113.
+###### Artículo 1113.
 
 Para decretar la cancelación de un registro, cuando la acción que se entabla no tiene más objeto que éste, es competente el juez a cuya jurisdicción esté sujeto el oficio a donde aquel se asentó; pero si la cancelación se pidiere como incidental de otro juicio o acción, podrá ordenarla el juez que conoció del negocio principal.
 
-##### Artículo 1114.
+###### Artículo 1114.
 
 Las cuestiones de competencia podrán promoverse por inhibitoria o por declinatoria. Cualquiera de las dos que se elija por el que la haga valer, debe proponerse dentro del término concedido para contestar la demanda en el juicio en que se intente, cuyos plazos se iniciarán a partir del día siguiente de la fecha del emplazamiento.
 
@@ -5888,7 +5970,7 @@ IV. En caso de no promoverse cuestión de competencia alguna dentro de los térm
 
 V. Tampoco se promoverán de oficio; pero el juez que se estime incompetente puede inhibirse del conocimiento del negocio en los términos del primer párrafo del Artículo siguiente.
 
-##### Artículo 1115.
+###### Artículo 1115.
 
 Los tribunales quedan impedidos para declarar de oficio las cuestiones de competencia, y sólo deberán inhibirse del conocimiento de negocios cuando se trate de competencias por razón de territorio o materia, y siempre y cuando se inhiban en el primer proveído que se dicte respecto de la demanda principal, o ante la reconvención por lo que hace a la cuantía.
 
@@ -5898,7 +5980,7 @@ Una vez recibidos los autos por el Superior, los pondrá a la vista del peticion
 
 En el supuesto de no ofrecerse pruebas, y tan sólo se alegare, el tribunal dictará sentencia y la mandará publicar en el mismo plazo señalado en el párrafo anterior.
 
-##### Artículo 1116.
+###### Artículo 1116.
 
 El que promueva la inhibitoria deberá hacerlo dentro del término señalado para contestar la demanda que se contará a partir del día siguiente del emplazamiento. Si el juez al que se le haga la solicitud de inhibitoria la estima procedente, sostendrá su competencia, y mandará librar oficio requiriendo al Juez que estime incompetente, para que dentro del término de tres días, remita testimonio de las actuaciones respectivas al Superior, y el requirente remitirá sus autos originales al mismo Superior.
 
@@ -5916,7 +5998,7 @@ En caso de declararse procedente la inhibitoria, siempre tendrán validez las ac
 
 Si la inhibitoria se declara improcedente, el tribunal lo comunicará a ambos jueces para que el competente continúe y concluya el juicio.
 
-##### Artículo 1117.
+###### Artículo 1117.
 
 El que promueva la declinatoria deberá hacerlo dentro del término señalado para contestar la demanda que se contará a partir del día siguiente del emplazamiento.
 
@@ -5934,27 +6016,27 @@ En caso de declararse procedente la declinatoria, siempre tendrán validez las a
 
 Si la declinatoria se declara improcedente el tribunal lo comunicará al juez para que continúe y concluya el juicio.
 
-##### Artículo 1118.
+###### Artículo 1118.
 
 El litigante que hubiere optado por uno de los dos medios de promover una incompetencia, no podrá abandonarlo y recurrir al otro, ni tampoco emplearlos sucesivamente.
 
 En caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, una sanción pecuniaria equivalente hasta de sesenta días de salario mínimo general vigente de la zona respectiva, en beneficio del colitigante, siempre que se compruebe que el incidente respectivo fue promovido de mala fe.
 
-##### Artículo 1119.
+###### Artículo 1119.
 
 Salvo disposición expresa que señale a alguna otra excepción como procesal, las demás defensas y excepciones que se opongan serán consideradas como perentorias y se resolverán en la sentencia definitiva.
 
-##### Artículo 1120.
+###### Artículo 1120.
 
 La jurisdicción por razón del territorio y materia son las únicas que se pueden prorrogar, salvo que correspondan al fuero federal.
 
-##### Artículo 1121.
+###### Artículo 1121.
 
 La competencia por razón de materia, es prorrogable con el fin de no dividir la continencia de la causa en aquellos casos en que existan contratos coaligados o las prestaciones tengan íntima conexión entre sí, o por los nexos entre las personas que litiguen, sea por razón de parentesco, negocios, sociedad o similares, o deriven de la misma causa de pedir. En consecuencia ningún tribunal podrá abstenerse de conocer de asuntos alegando falta de competencia por materia cuando se presente alguno de los casos señalados, que podrán dar lugar a multiplicidad de litigios con posibles resoluciones contradictorias.
 
 También será prorrogable el caso en que, conociendo el tribunal superior de apelación contra auto o interlocutoria, las partes estén de acuerdo en que conozca de la cuestión principal. El juicio se seguirá tramitando conforme a las reglas de su clase, prosiguiéndose este ante el superior.
 
-##### Artículo 1122.
+###### Artículo 1122.
 
 Son excepciones procesales las siguientes:
 
@@ -5974,7 +6056,7 @@ VII. La improcedencia de la vía, y
 
 VIII. Las demás al que dieren ese carácter las leyes.
 
-##### Artículo 1123.
+###### Artículo 1123.
 
 La excepción de litispendencia procede cuando un juez conoce ya de un juicio en el que hay igualdad entre partes, acciones deducidas y cosas reclamadas.
 
@@ -5984,7 +6066,7 @@ Si se declara procedente, se remitirán los autos al juzgado que previno en el c
 
 El que oponga la litispendencia por existir un primer juicio ante juzgado que no se encuentre en la misma población, o que no pertenezca a la misma jurisdicción de apelación, sólo podrá acreditarla con las copias autorizadas o certificadas de la demanda y contestación formuladas en el juicio anterior, que deberá ofrecer y exhibir en la audiencia incidental de pruebas y alegatos y sentencia. En este caso, declarada procedente la litispendencia, se dará por concluido el segundo procedimiento.
 
-##### Artículo 1124.
+###### Artículo 1124.
 
 Existe conexidad de causas cuando haya:
 
@@ -5996,7 +6078,7 @@ III. Acciones que provengan de una misma causa, aunque sean diversas las persona
 
 IV. Identidad de acciones y de cosas, aunque las personas sean distintas.
 
-##### Artículo 1125.
+###### Artículo 1125.
 
 El que oponga la conexidad debe señalar precisamente el juzgado donde se tramita el juicio conexo, acompañando copia autorizada de las constancias que tenga en su poder o solicitando la inspección de los autos conexos. En este último supuesto, si ambos juzgados se encuentran en la misma población, la inspección deberá practicarse por el secretario, dentro del plazo de tres días, a quien de no hacerla en ese término se le impondrá una multa del equivalente al importe de un día de su salario.
 
@@ -6004,39 +6086,39 @@ Cuando la excepción de conexidad sea por relación con un juicio tramitado en j
 
 Cuando los juzgados que conozcan de los juicios pertenezcan a tribunales de alzada diferente, no procede la conexidad, ni tampoco cuando los pleitos están en diversas instancias o se trate de procesos que se ventilan en el extranjero.
 
-##### Artículo 1126.
+###### Artículo 1126.
 
 En la excepción de falta de personalidad del actor, o en la objeción que se haga a la personalidad del que represente al demandado, cuando se declare fundada una u otra, si fuere subsanable, el tribunal concederá un plazo no mayor de diez días para que se subsane. De no hacerse así, cuando se trate de la legitimación al proceso por el demandado, se continuará el juicio en rebeldía de éste. Si no se subsanara la del actor, el juez de inmediato sobreseerá el juicio y devolverá los documentos.
 
 La falta de capacidad del actor obliga al juez a dar por sobreseído el juicio.
 
-##### Artículo 1127.
+###### Artículo 1127.
 
 Todas las excepciones procesales que tenga el demandado debe hacerlas valer al contestar la demanda, y en ningún caso suspenderán el procedimiento. Si se declara procedente la litispendencia el efecto será sobreseer en segundo juicio. Salvo disposición en contrario si se declara procedente la conexidad, su efecto será la acumulación de autos para evitar se divida la continencia de la causa con el fin de que se resuelvan los juicios en una sola sentencia.
 
 Cuando se declare la improcedencia de la vía, su efecto será el de continuar el procedimiento para el trámite del juicio en la vía que se considere procedente declarando la validez de lo actuado, con la obligación del juez para regularizar el procedimiento de acuerdo a la vía que se declare procedente.
 
-##### Artículo 1128.
+###### Artículo 1128.
 
 En las excepciones de falta de cumplimiento del plazo, o de la condición a que esté sujeta la obligación, el orden y la excusión, si se allana la contraria, se declararán procedentes de plano. De no ser así, dichas excepciones se resolverán de modo incidental, dando vista a la contraria por el término de tres días, y si no se ofrecen pruebas deberá dictarse la resolución correspondiente por el tribunal y notificarse a las partes dentro del término de 8 días, sin que se pueda suspender el procedimiento, y su efecto será dejar a salvo el derecho para que se haga valer cuando cambien las circunstancias que afectan su ejercicio.
 
-##### Artículo 1129.
+###### Artículo 1129.
 
 Salvo la competencia del órgano jurisdiccional, las demás excepciones procesales y las objeciones aducidas respecto de los presupuestos procesales se resolverán de modo incidental, dando vista a la contraria por el término de tres días, y si no se ofrecen pruebas deberá dictarse la resolución correspondiente por el tribunal y notificarse a las partes dentro del término de 8 días sin que de modo alguno se pueda suspender el trámite del juicio.
 
-##### Artículo 1130.
+###### Artículo 1130.
 
 Si al oponer las excepciones procesales se ofrecen pruebas, éstas se harán en los escritos respectivos, fijados los puntos sobre los que versen y de ser admitidas se ordenará su preparación para que se reciban en una sola audiencia que se fijará dentro de los ocho días siguientes a que se haya desahogado la vista o transcurrido el término para hacerlo, audiencia que, no se podrá diferir bajo ningún supuesto recibiendo las pruebas, oyendo los alegatos y en el mismo acto se dictará la sentencia interlocutoria que corresponda sin que el tribunal pueda diferir tal resolución que dictará en la misma audiencia.
 
 En las excepciones procesales sólo se administran como prueba la documental y la pericial, salvo en la litispendencia y conexidad, respecto de las cuales se podrán ofrecer también, la prueba de inspección de los autos.
 
-##### Artículo 1131.
+###### Artículo 1131.
 
 La excepción de cosa juzgada, se resolverá en los términos del artículo 1129 de este código.
 
 #### CAPITULO IX · De los Impedimentos, Recusaciones y Excusas
 
-##### Artículo 1132.
+###### Artículo 1132.
 
 Todo magistrado, juez o secretario, se tendrá por forzosamente impedido para conocer en los casos siguientes:
 
@@ -6064,7 +6146,7 @@ XI. Siempre que por cualquier motivo haya externado su opinión antes del fallo;
 
 XII. Si fuere pariente por consanguinidad o afinidad del abogado o procurador de alguna de las partes, en los mismos grados que expresa la frac. II de este artículo.
 
-##### Artículo 1133.
+###### Artículo 1133.
 
 Los magistrados, jueces y secretarios tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguna de las causas expresadas en los artículos 1132 y 1138 de esta ley o cualquiera otra análoga, aún cuando las partes no los recusen. La excusa debe expresar concretamente la causa en que se funde.
 
@@ -6072,13 +6154,13 @@ Sin perjuicio de las providencias que conforme a este Código deben dictar, tien
 
 Cuando un magistrado o juez se excuse sin causa legítima, cualquiera de las partes puede acudir en queja ante el órgano competente quien encontrando injustificada la abstención, podrá imponer la sanción que corresponda.
 
-##### Artículo 1134.
+###### Artículo 1134.
 
 Toda recusación se impondrá ante el juez o tribunal que conozca del negocio, expresándose con toda claridad y precisión la causa en que se funde, quien remitirá de inmediato testimonio de las actuaciones respectivas a la autoridad competente para resolver sobre la recusación.
 
 La recusación debe decirse sin audiencia de la parte contraria, y se tramita en forma de incidente.
 
-##### Artículo 1135.
+###### Artículo 1135.
 
 De la recusación de un magistrado que integre un tribunal colegiado, conocerá el propio tribunal del que forma parte, aunque el magistrado tenga competencia unitaria en tribunales colegiados, para tal efecto se integrará de acuerdo con la ley. De un magistrado unitario, conocerá el presidente del tribunal al que pertenezca dicho recusado, sea fuero local o federal.
 
@@ -6086,15 +6168,15 @@ En el incidente de recusación son admisibles todos los medios de prueba estable
 
 Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
-##### Artículo 1136.
+###### Artículo 1136.
 
 En los concursos solo podrá hacer uso de la recusación el representante legítimo de los acreedores en los negocios que afecten al interés general: en los que afecten al interés particular de alguno de los acreedores, podrá el interesado hacer uso de la recusación, pero el juez no quedará inhibido más que en el punto de que se trate.
 
-##### Artículo 1137.
+###### Artículo 1137.
 
 Cuando en un negocio intervengan varias personas antes de haber nombrado representante común, conforme al art. 1060, sosteniendo una misma acción o derecho, o ligadas en la misma defensa, se tendrán por una sola para el efecto de la recusación. En este caso se admitirá la recusación cuando la proponga la mayoría de los interesados en cantidades: si entre ellos hubiere empate, decidirá la mayoría de personas, y si aun entre éstas lo hubiere, se desechará la recusación.
 
-##### Artículo 1138.
+###### Artículo 1138.
 
 Son justas causas de recusación todas las que constituyen impedimento, con arreglo al art. 1132, y además las siguientes;
 
@@ -6120,7 +6202,7 @@ X.- Admitir dádivas o servicios de alguna de las partes;
 
 XI.- Hacer promesas, amenazar o manifestar de otro modo su odio o afección por alguno de los litigantes.
 
-##### Artículo 1139.
+###### Artículo 1139.
 
 Las recusaciones pueden interponerse durante el juicio desde el escrito de la contestación a la demanda hasta la notificación del auto que abre el juicio a prueba, a menos de cambio en el personal del juzgado o tribunal. En este caso la recusación será admisible si se hace dentro de los tres días siguientes a la notificación del primer auto o decreto proveído por el nuevo personal.
 
@@ -6128,11 +6210,11 @@ Mientras se decide la recusación, no suspende la jurisdicción del tribunal o j
 
 Si la recusación se declara fundada, será nulo lo actuado a partir de la fecha en que se interpuso la recusación.
 
-##### Artículo 1140.
+###### Artículo 1140.
 
 Declarada procedente la recusación, termina la jurisdicción del magistrado o juez, o la intervención del secretario en el negocio de que se trate.
 
-##### Artículo 1141.
+###### Artículo 1141.
 
 No son recusables los jueces:
 
@@ -6146,23 +6228,23 @@ IV.- En las diligencias de mera ejecución, más sí lo serán en las de ejecuci
 
 V.- En los demás actos que no radiquen jurisdicción ni importen conocimiento de causa.
 
-##### Artículo 1142.
+###### Artículo 1142.
 
 En los tribunales colegiados la recusación relativa a magistrados que los integren, sólo importa la de los funcionarios expresamente recusados.
 
-##### Artículo 1143.
+###### Artículo 1143.
 
 En las diligencias precautorias, en los juicios ejecutivos y en los procedimientos de apremio, no se dará curso a ninguna recusación sino practicado el aseguramiento, hecho el embargo o desembargo en su caso, o expedida y fijada la cédula.
 
-##### Artículo 1144.
+###### Artículo 1144.
 
 Antes de contestada la demanda o de oponerse las excepciones procesales, en su caso, no cabe recusación.
 
-##### Artículo 1145.
+###### Artículo 1145.
 
 Si se declarase inadmisible o no probada la segunda causa de recusación que se haya interpuesto, no se volverá a admitir otra recusación con causa, aunque el recusante proteste que la causa es superveniente o que no había tenido conocimiento de ella.
 
-##### Artículo 1146.
+###### Artículo 1146.
 
 Los tribunales desecharán de plano toda recusación:
 
@@ -6170,11 +6252,11 @@ I. Cuando no se presente en tiempo, y
 
 II. Cuando no se funde en alguna de las causas a que se refieren los artículos 1132 y 1138 de esta ley, o en el caso del artículo anterior.
 
-##### Artículo 1147.
+###### Artículo 1147.
 
 Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una sanción pecuniaria a favor del colitigante, equivalente hasta de treinta días de salario mínimo general vigente en el Distrito Federal, si fueren un secretario o jueces de primera instancia y hasta de sesenta días de dicho salario, si fuere un magistrado.
 
-##### Artículo 1148.
+###### Artículo 1148.
 
 Si en la sentencia se declara que procede la recusación, se comunicará al juzgado correspondiente, para que éste, a su vez, remita los autos al juez que corresponda. En los de segundo grado, el magistrado recusado queda separado del conocimiento del negocio y cuando pertenezca a tribunal colegiado se complementará en la forma que determine la ley. En todos los casos el funcionario que declare procedente la recusación de que se trate, también determinará cual será el tribunal que debe seguir conociendo el asunto y el término en que deben remitírsele los autos.
 
@@ -6182,17 +6264,17 @@ Si se declara no ser bastante la causa, se comunicará la resolución al juzgado
 
 Las recusaciones de los secretarios del tribunal superior y de los juzgados de primera instancia y de paz, se substanciarán ante las salas o jueces con quienes actúen. Las resoluciones de los jueces de primera instancia serán apelables en el efecto devolutivo.
 
-##### Artículo 1149.
+###### Artículo 1149.
 
 Los magistrados, jueces y secretarios tienen el deber de excusarse por las mismas causas por las que pueden ser recusados, y deben de señalar expresamente la causa de su excusa.
 
-##### Artículo 1150.
+###### Artículo 1150.
 
 Cuando un juez o magistrado se excuse sin causa legítima o no exprese con precisión la misma, cualquiera de las partes puede acudir en queja ante el presidente del tribunal, quien podrá imponer una corrección disciplinaria.
 
 #### CAPITULO X · Medios Preparatorios del Juicio
 
-##### Artículo 1151.
+###### Artículo 1151.
 
 El juicio podrá prepararse:
 
@@ -6212,61 +6294,61 @@ VII. Pidiendo el examen de testigos u otras declaraciones que se requieran en un
 
 VIII. Pidiendo el juicio pericial o la inspección judicial cuando el estado de los bienes, salud de las personas, variaciones de las condiciones, estado del tiempo, o situaciones parecidas hagan temer al solicitante la pérdida de un derecho o la necesidad de preservarlo.
 
-##### Artículo 1152.
+###### Artículo 1152.
 
 Al pedirse la diligencia preparatoria debe expresarse el motivo porque se solicita y el litigio que se trata de seguir o que se teme.
 
-##### Artículo 1153.
+###### Artículo 1153.
 
 El juez puede disponer lo que crea conveniente, ya para cerciorarse de la personalidad del que solicita la diligencia preparatoria, ya de la urgencia de examinar a los testigos.
 
 Contra la resolución del juez que conceda la diligencia preparatoria no cabe recurso alguno. Contra la resolución que la deniegue habrá el de apelación en ambos efectos si fuere dictada por un juez de primera instancia, o el de revocación si fuere dictada por juez menor o de paz.
 
-##### Artículo 1154.
+###### Artículo 1154.
 
-La acción que puede ejercitarse conforme a las fracciones II y III del artículo 1151 procede contra cualquier persona que tenga en su poder las cosas que en ellas se mencionan. Mediante notificación personal se correrá traslado por el término de tres días a aquel contra quien se promueva, para que manifieste lo que a su derecho convenga, exponiendo en su caso las razones que tenga para oponerse a la exhibición o que le impidan realizarla. En dichos escritos deberán ofrecerse las pruebas, las que de admitirse se recibirán en la audiencia que debe celebrarse dentro del plazo de ocho días, y en donde se alegue y en la misma se resuelva sobre la exhibición solicitada. En caso de concederse la exhibición del bien mueble o de los documentos, el juez señalará día, hora y lugar para que se lleve a cabo la misma, con el apercibimiento que considere procedente. La resolución que niegue lo pedido será apelable en ambos efectos y la que lo conceda lo será en el devolutivo, de tramitación conjunta con la sentencia definitiva, que se llegue a dictar en el juicio que se promoviere, en base a dicho medio.
+La acción que puede ejercitarse, conforme a las fracciones II y III del artículo 1151, procede contra cualquier persona que tenga en su poder las cosas que en ellas se mencionan. Mediante notificación personal se correrá traslado por el término de tres días a aquel contra quien se promueva, para que manifieste lo que a su derecho convenga, exponiendo en su caso las razones que tenga para oponerse a la exhibición o que le impidan realizarla. En dichos escritos deberán ofrecerse las pruebas, las que de admitirse se recibirán en la audiencia que debe celebrarse dentro del plazo de ocho días, y en donde se alegue y se resuelva sobre la exhibición solicitada. En caso de concederse la exhibición del bien mueble o de los documentos, el juez señalará día, hora y lugar para que se lleve a cabo ésta, con el apercibimiento que considere procedente. La resolución que niegue lo pedido será apelable en ambos efectos y la que lo conceda lo será en el devolutivo, de tramitación inmediata.
 
-##### Artículo 1155.
+###### Artículo 1155.
 
 Cuando se pida la exhibición de un protocolo o de cualquier otro documento archivado en oficina pública, si el juez concede la diligencia preparatoria, mandará que se practique por el actuario, ejecutor o secretario, acompañado del peticionario, en el domicilio del notario, corredor o de la oficina respectiva, dejándoseles a estos, cédula de notificación en la que se transcriba la orden judicial, para que se realice la inspección, sin que en ningún caso salgan los originales. De ellos se expedirán copias certificadas por duplicado, a costa del solicitante, autorizadas por el notario, corredor o servidor público correspondiente, con la anotación de haberse extendido por mandamiento judicial, señalando la fecha del mismo, datos de identificación del procedimiento y fecha de expedición, de las cuales una se entregará al solicitante, mediante razón de recibo en autos, y la otra quedará agregada al expediente.
 
-##### Artículo 1156.
+###### Artículo 1156.
 
 Las diligencias preparatorias a que se refiere la fracción III del artículo 1151, de encontrarse ajustada la petición del promovente, así como acreditada su calidad de socio o condueño, se admitirán de plano, y se ordenará, mediante notificación personal a aquel contra quien se pide, que exhiba los documentos y cuentas de la sociedad o comunidad, en el día y hora que al efecto se señale, para que se reciban por el tribunal, con el apercibimiento que de no realizarlo se le aplicará alguna de las medidas de apremio que autoriza la ley.
 
-##### Artículo 1157.
+###### Artículo 1157.
 
 Las diligencias preparatorias de que se trata en las fracciones V a VIII del artículo 1151 se practicará con citación de la parte contraria, a quien se correrá traslado de la solicitud por el término de tres días, y se aplicarán las reglas establecidas para la práctica de las pruebas testimonial, pericial o la inspección judicial, según sean los casos.
 
-##### Artículo 1158.
+###### Artículo 1158.
 
 El juez podrá utilizar sin limitación de ninguna especie, toda clase de apercibimientos de los que permite la ley para hacer cumplir las determinaciones que dicte en toda clase de medios preparatorios a juicio.
 
-##### Artículo 1159.
+###### Artículo 1159.
 
 En todos los casos en que las partes interesadas no comparezcan a los procedimientos de que se trata en este capítulo, se procederá en su rebeldía, sin necesidad de nueva búsqueda.
 
-##### Artículo 1160.
+###### Artículo 1160.
 
 Es obligación del tribunal ordenar se expidan copias certificadas de todo lo actuado en los medios preparatorios a juicio de que se trate.
 
-##### Artículo 1161.
+###### Artículo 1161.
 
 Promovido el juicio las partes podrán exhibir las copias certificadas a que se refiere el artículo anterior, o solicitar que se agreguen las actuaciones originales de los medios preparatorios que se hubieren tramitado, para lo cual deberá hacerse la petición desde el escrito de demanda o contestación y de no hacerse así no se recibirán dichos originales, al igual que cuando se hubieren extraviado o destruido.
 
-##### Artículo 1162.
+###### Artículo 1162.
 
 Puede prepararse el juicio ejecutivo, pidiendo al deudor confesión judicial bajo protesta de decir verdad, para lo cual el juez señalará día y hora para la comparecencia. En este caso el deudor habrá de estar en el lugar del juicio cuando se le haga la citación, y ésta deberá ser personal, expresándose en la notificación el nombre y apellidos del promovente, objeto de la diligencia, la cantidad que se reclame y el origen del adeudo, además de correrle traslado con copia de la solicitud respectiva, cotejada y sellada.
 
-##### Artículo 1163.
+###### Artículo 1163.
 
 Si el deudor fuere hallado o no en su domicilio y debidamente cerciorado el notificador de ser ése, le entregará la cédula en la que se contenga la transcripción íntegra de la providencia que se hubiere dictado, al propio interesado, a su mandatario, al pariente más cercano que se encontrare en la casa, a sus empleados, a sus domésticos o a cualquier otra persona que viva en el domicilio del demandado, entregándole también copias del traslado de la solicitud debidamente selladas y cotejadas.
 
-##### Artículo 1164.
+###### Artículo 1164.
 
 Si no comparece a la citación, y si se le hubiere hecho con apercibimiento de ser declarado confeso, así como cumplidos los requisitos a que se refieren los artículos anteriores, y la exhibición del pliego de posiciones que calificadas de legales acrediten la procedencia de lo solicitado, se le tendrá por confeso en la certeza de la deuda, y se despachará auto de embargo en su contra, siguiéndose el juicio conforme marca la ley para los de su clase.
 
-##### Artículo 1165.
+###### Artículo 1165.
 
 El documento privado que contenga deuda líquida y sea de plazo cumplido, permitirá al acreedor, promover medios preparatorios a juicio, exhibiendo el documento al juez a quien se le hará saber el origen del adeudo, solicitándole que ordene el reconocimiento de la firma, monto del adeudo y causa del mismo.
 
@@ -6288,9 +6370,9 @@ El actor formulará su demanda en vía ejecutiva, ante el mismo juez que conoci�
 
 Cuando se despache auto de ejecución, se seguirá el juicio en la vía ejecutiva como marca la ley para los de su clase.
 
-La resolución que niegue el auto de ejecución será apelable en ambos efectos, y en caso contrario se admitirá en el efecto devolutivo, de tramitación conjunta con la sentencia definitiva, que se llegue a dictar en el juicio que se promoviere, en base a dicho medio.
+La resolución que niegue el auto de ejecución será apelable en ambos efectos y, en caso contrario, se admitirá en el efecto devolutivo de tramitación inmediata.
 
-##### Artículo 1166.
+###### Artículo 1166.
 
 Puede hacerse el reconocimiento ante notario o corredor, ya en el momento de su otorgamiento o con posterioridad, de aquellos documentos que se hubieren firmado sin la presencia de dichos fedatarios, siempre que lo haga la persona directa obligada, su representante legítimo o su mandatario con poder bastante.
 
@@ -6298,13 +6380,13 @@ El notario o corredor harán constar el reconocimiento al pie del documento mism
 
 Los documentos así reconocidos también darán lugar a la vía ejecutiva.
 
-##### Artículo 1167.
+###### Artículo 1167.
 
 Si es instrumento público o privado reconocido o contiene cantidad líquida, puede prepararse la acción ejecutiva siempre que la liquidación pueda hacerse en un término que no excederá de nueve días.
 
 #### CAPITULO XI · De las Providencias Precautorias
 
-##### Artículo 1168.
+###### Artículo 1168.
 
 Las providencias precautorias podrán dictarse:
 
@@ -6314,103 +6396,103 @@ II. Cuando se tema que se oculten o dilapiden los bienes en que debe ejercitarse
 
 III. Cuando la acción sea personal, siempre que el deudor no tuviere otros bienes que aquellos en que se ha de practicar la diligencia y se tema que los oculte o enajene.
 
-##### Artículo 1169.
+###### Artículo 1169.
 
 Las disposiciones del artículo anterior comprenden, no solo al deudor, sino también a los tutores, socios y administradores de bienes ajenos.
 
-##### Artículo 1170.
+###### Artículo 1170.
 
 Las providencias precautorias establecidas por este Código podrán decretarse, tanto como actos prejudiciales, como después de iniciado el juicio respectivo: en este segundo caso la providencia se sustanciará en incidente por cuerda separada, y conocerá de ella el juez o tribunal que al ser presentada la solicitud esté conociendo del negocio.
 
-##### Artículo 1171.
+###### Artículo 1171.
 
 No pueden dictarse otras providencias precautorias que las establecidas en este Código, y que exclusivamente consistirán en el arraigo de la persona en el caso de la frac. I del art. 1168, y en el secuestro de bienes en los casos de las fracs. II y III del mismo artículo,
 
-##### Artículo 1172.
+###### Artículo 1172.
 
 El que pida la providencia precautoria deberá acreditar el derecho que tiene para gestionar y la necesidad de la medida que solicita.
 
-##### Artículo 1173.
+###### Artículo 1173.
 
 La prueba puede consistir en documentos o en testigos idóneos, que serán por lo menos tres.
 
-##### Artículo 1174.
+###### Artículo 1174.
 
 Si el arraigo de una persona para que conteste en juicio se pide al tiempo de entablar la demanda, bastará la petición del actor y el otorgamiento de una fianza que responda de los daños y perjuicios que se causen al demandado, cuyo monto discrecionalmente fijará el Juez, para que se haga al demandado la correspondiente notificación.
 
-##### Artículo 1175.
+###### Artículo 1175.
 
 En el caso del artículo anterior, la providencia se reducirá a prevenir al demandado que no se ausente del lugar del juicio sin dejar representante legítimo, suficientemente instruido y expensado, para responder a las resultas del juicio.
 
-##### Artículo 1176.
+###### Artículo 1176.
 
 Si la petición de arraigo se presenta antes de entablar la demanda, además de la prueba que exige el art. 1172, el actor deberá dar una fianza a satisfacción del juez de responder de los daños y perjuicios que se sigan si no se entabla la demanda.
 
-##### Artículo 1177.
+###### Artículo 1177.
 
 El que quebrantare el arraigo será castigado con la pena que señala el Código Penal respectivo al delito de desobediencia a un mandato legítimo de la autoridad pública, sin perjuicio de ser compelido por los medios de apremio que correspondan a volver al lugar del juicio. En todo caso, se seguirá éste, según su naturaleza, conforme a las reglas comunes.
 
-##### Artículo 1178.
+###### Artículo 1178.
 
 Cuando se solicite el secuestro provisional, se expresará el valor de la demanda o el de la cosa que se reclama, designando ésta con toda precisión; y el juez, al decretarlo, fijará la cantidad por la cual haya de practicarse la diligencia.
 
-##### Artículo 1179.
+###### Artículo 1179.
 
 Cuando se pida un secuestro provisional sin fundarlo en título ejecutivo, el actor dará fianza de responder por los daños y perjuicios que se sigan, ya porque se revoque la providencia, ya porque, entablada la demanda, sea absuelto el reo.
 
-##### Artículo 1180.
+###### Artículo 1180.
 
 Si el demandado consigna el valor ú objeto reclamado, da fianza bastante a juicio del juez o prueba tener bienes raíces suficientes para responder del éxito de la demanda, no se llevará á cabo la providencia precautoria, o se levantará la que se hubiere dictado.
 
-##### Artículo 1181.
+###### Artículo 1181.
 
 Ni para recibir la información ni para dictar una providencia precautoria se citará a la persona contra quien ésta se pida.
 
-##### Artículo 1182.
+###### Artículo 1182.
 
 De toda providencia precautoria queda responsable el que la pide; por consiguiente, son de su cargo los daños y perjuicios que se causen.
 
-##### Artículo 1183.
+###### Artículo 1183.
 
 En la ejecución de las providencias precautorias no se admitirá excepción alguna, salvo las que se señalan en el artículo 1180.
 
-##### Artículo 1184.
+###### Artículo 1184.
 
 El aseguramiento de bienes decretado por providencia precautoria, se regirán por lo dispuesto para los juicios ejecutivos mercantiles, y en cuanto a la consignación a que se refiere el artículo 1180 de acuerdo a lo que disponga la ley procesal de la entidad federativa, a que pertenezca el juez que haya decretado la precautoria, y en su oscuridad o insuficiencia a lo que resuelva el juez.
 
-##### Artículo 1185.
+###### Artículo 1185.
 
 Ejecutada la providencia precautoria antes de ser entablada la demanda, el que la pidió deberá entablarla dentro de tres días, si el juicio hubiere de seguirse en el lugar en que aquélla se dictó. Si debiere seguirse en otro lugar, el juez aumentará a los tres días señalados, los que resulten de acuerdo al último párrafo del artículo 1075.
 
-##### Artículo 1186.
+###### Artículo 1186.
 
 Si el actor no cumple con lo dispuesto en el artículo que precede, la providencia precautoria se revocará de oficio, aunque no lo pida el demandado.
 
-##### Artículo 1187.
+###### Artículo 1187.
 
 La persona contra quien se haya dictado una providencia precautoria, puede reclamarla en cualquier tiempo, pero antes de la sentencia ejecutoria, para cuyo efecto se le notificará dicha providencia, caso de no haberse ejecutado con su persona o con su representante legítimo.
 
-##### Artículo 1188.
+###### Artículo 1188.
 
 Igualmente puede reclamar la providencia precautoria un tercero, cuando sus bienes hayan sido objeto del secuestro. Esta reclamación se sustanciará por cuaderno separado y conforme a los artículos siguientes.
 
-##### Artículo 1189.
+###### Artículo 1189.
 
 Reclamada la providencia en escrito de demanda en el que se ofrezcan las pruebas por el tercero, el juez correrá traslado al promovente de la precautoria, y en su caso al deudor para que la contesten dentro del término de cinco días, debiendo en su caso, ofrecer las pruebas que pretendan se les reciban. Transcurrido el plazo para la contestación, al día siguiente en que se venza el término, el juez admitirá las pruebas que se hayan ofrecido, y señalará fecha para su desahogo dentro de los quince días siguientes, mandando preparar las pruebas que así lo ameriten.
 
-##### Artículo 1190.
+###### Artículo 1190.
 
 En la audiencia a que se refiere el artículo anterior, se recibirán las pruebas y concluido su desahogo las partes alegarán verbalmente lo que a su derecho convenga, y el tribunal fallará en la misma audiencia.
 
-##### Artículo 1191.
+###### Artículo 1191.
 
 Si atendido el interés del negocio hubiere lugar a la apelación, ésta se admitirá sólo en el efecto devolutivo y será de tramitación inmediata. Si la sentencia levanta la providencia precautoria, no se ejecutará sino previa fianza que dé la parte que obtuvo. La sentencia de segunda instancia causará ejecutoria. Cuando la providencia precautoria hubiere sido dictada en segunda instancia, la sentencia no admitirá recurso alguno.
 
-##### Artículo 1192.
+###### Artículo 1192.
 
 Cuando la providencia precautoria se dicte por un juez que no sea el que deba conocer del negocio principal, una vez ejecutada y resuelta la reclamación, si se hubiere formulado, se remitirán al juez competente las actuaciones, que en todo caso se unirán al expediente para que en él obren los efectos que correspondan conforme a derecho.
 
-##### Artículo 1193.
+###### Artículo 1193.
 
 Las fianzas de que se trata en este capítulo, se otorgarán ante el tribunal que haya decretado la providencia precautoria respectiva.
 
@@ -6418,133 +6500,133 @@ El fiador, o la compañía de fianzas que otorgue la garantía por cualquiera de
 
 #### CAPITULO XII · Reglas Generales sobre la Prueba
 
-##### Artículo 1194.
+###### Artículo 1194.
 
 El que afirma está obligado a probar. En consecuencia, el actor debe probar su acción y el reo sus excepciones.
 
-##### Artículo 1195.
+###### Artículo 1195.
 
 El que niega no está obligado a probar, sino en el caso en que su negación envuelva afirmación expresa de un hecho.
 
-##### Artículo 1196.
+###### Artículo 1196.
 
 También está obligado a probar el que niega, cuando al hacerlo desconoce la presunción legal que tiene a su favor el colitigante.
 
-##### Artículo 1197.
+###### Artículo 1197.
 
 Solo los hechos están sujetos a prueba: el derecho lo estará únicamente cuando se funde en leyes extranjeras: el que las invoca debe probar la existencia de ellos y que son aplicables al caso.
 
-##### Artículo 1198.
+###### Artículo 1198.
 
 Las pruebas deben ofrecerse expresando claramente el hecho o hechos que se trata de demostrar con las mismas, así como las razones por los que el oferente considera que demostrarán sus afirmaciones; si a juicio del tribunal las pruebas ofrecidas no cumplen con las condiciones apuntadas, serán desechadas, observándose lo dispuesto en el artículo 1203 de este ordenamiento. En ningún caso se admitirán pruebas contrarias a la moral o al derecho.
 
-##### Artículo 1199.
+###### Artículo 1199.
 
 El juez recibirá el pleito a prueba en el caso de que los litigantes lo hayan solicitado, o de que él la estime necesaria.
 
-##### Artículo 1200.
+###### Artículo 1200.
 
 Cualquiera cuestión que se suscite con ocasión de lo dispuesto en los dos artículos anteriores, el juez la resolverá de plano.
 
-##### Artículo 1201.
+###### Artículo 1201.
 
 Las diligencias de prueba deberán practicarse dentro del término probatorio; el juez deberá fundar la resolución que permita su desahogo fuera de dicho término, las cuales deberán mandarse concluir en los juicios ordinarios dentro de un plazo de veinte días, y en los juicios especiales y ejecutivos dentro de diez días, bajo responsabilidad del juez, salvo casos de fuerza mayor.
 
-##### Artículo 1202.
+###### Artículo 1202.
 
 No obstan a lo dispuesto en el artículo anterior las reglas que se establecen para la recepción de pruebas en incidentes, o las documentales de las que la parte que las exhibe manifieste bajo protesta de decir verdad, que antes no supo de ellas, o habiéndolas solicitado y hasta requerido por el juez, no las pudo obtener, o las supervenientes.
 
-##### Artículo 1203.
+###### Artículo 1203.
 
 Al día siguiente en que termine el período del ofrecimiento de pruebas, el juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. En ningún caso se admitirán pruebas contra del derecho o la moral; que se hayan ofrecido extemporáneamente, sobre hechos no controvertidos o ajenos a la litis; sobre hechos imposibles o notoriamente inverosímiles, o bien que no reúnan los requisitos establecidos en el artículo 1198 de este Código. Contra el auto que admita alguna prueba que contravenga las prohibiciones señaladas anteriormente o que no reúna los requisitos del artículo 1198, procede la apelación en efecto devolutivo de tramitación conjunta con la sentencia definitiva, cuando sea apelable la sentencia en lo principal. En el mismo efecto devolutivo y de tramitación conjunta con dicha sentencia, será apelable la determinación en que se deseche cualquier prueba que ofrezcan las partes o terceros llamados a juicio, a los que siempre se les considerará como partes en el mismo.
 
-##### Artículo 1204.
+###### Artículo 1204.
 
 La citación se hará, lo más tarde, el día anterior á aquel en que deba recibirse la prueba.
 
-##### Artículo 1205.
+###### Artículo 1205.
 
 Son admisibles como medios de prueba todos aquellos elementos que puedan producir convicción en el ánimo del juzgador acerca de los hechos controvertidos o dudosos y en consecuencia serán tomadas como pruebas las declaraciones de las partes, terceros, peritos, documentos públicos o privados, inspección judicial, fotografías, facsímiles, cintas cinematográficas, de videos, de sonido, mensajes de datos, reconstrucciones de hechos y en general cualquier otra similar u objeto que sirva para averiguar la verdad.
 
-##### Artículo 1206.
+###### Artículo 1206.
 
 El término de prueba es ordinario o extraordinario. Es ordinario el que se concede para producir probanzas dentro de la entidad federativa en que el litigio se sigue. Es extraordinario el que se otorga para que se reciban pruebas fuera de la misma.
 
-##### Artículo 1207.
+###### Artículo 1207.
 
 El término ordinario que procede, conforme al artículo 1199, es susceptible de prórroga cuando se solicite dentro del término de ofrecimiento de pruebas y la contraria manifieste su conformidad, o se abstenga de oponerse a dicha prórroga dentro del término de tres días. Dicho término únicamente podrá prorrogarse en los juicios ordinarios hasta por veinte días y en los juicios ejecutivos o especiales hasta por diez días. El término extraordinario sólo se concederá cuando las pruebas se tengan que desahogar en distinta entidad federativa o fuera del país, y cuando se otorguen las garantías por cada prueba que se encuentre en dichos supuestos, bajo las condiciones que dispongan las leyes procesales locales aplicadas supletoriamente, quedando al arbitrio del juez señalar el plazo que crea prudente, atendida la distancia de lugar y la calidad de la prueba. Del término extraordinario no cabe prórroga.
 
-##### Artículo 1208.
+###### Artículo 1208.
 
 Ni el término ordinario ni el extraordinario, podrán suspenderse sino de común consentimiento de los interesados, o por causa muy grave, a juicio del juez y bajo su responsabilidad.
 
-##### Artículo 1209.
+###### Artículo 1209.
 
 Cuando se otorgue la suspensión, se expresará en el auto la causa que hubiere para hacerlo.
 
 La suspensión del procedimiento se levantará cuando se haya hecho por consentimiento de los interesados a petición de cualquiera de ellos, sin ulterior recurso, sin perjuicio de que dicha suspensión no impida que corra el término de la caducidad. Cuando se decrete por causa muy grave a juicio del juez, la suspensión se levantará cuando cese dicha causa, o éste requiera a las partes para que dentro del plazo de tres días, manifiesten y acrediten si tal gravedad subsiste. Transcurridos noventa días naturales de que se haya suspendido por causa grave, de oficio o cualquiera de las partes podrá solicitar al juez, para que se compruebe si subsiste la gravedad, y de haberse salvado ésta, se levantará la suspensión, previa constancia de haberse efectuado el requerimiento señalado anteriormente, con el fin de que se inicie cualquier término judicial, incluyendo el de la caducidad.
 
-##### Artículo 1210.
+###### Artículo 1210.
 
 Las diligencias de prueba practicadas en otros juzgados, en virtud del requerimiento del juez de los autos, durante la suspensión del término, surtirán sus efectos mientras el requerido no tenga aviso para suspenderlas.
 
 #### CAPITULO XIII · De la Confesión
 
-##### Artículo 1211.
+###### Artículo 1211.
 
 La confesión puede ser judicial o extrajudicial.
 
-##### Artículo 1212.
+###### Artículo 1212.
 
 Es judicial la confesión que se hace ante juez competente, ya al contestar la demanda, ya absolviendo posiciones.
 
-##### Artículo 1213.
+###### Artículo 1213.
 
 Se considera extrajudicial la confesión que se hace ante juez incompetente.
 
-##### Artículo 1214.
+###### Artículo 1214.
 
 Desde los escritos de demanda y contestación a la demanda y hasta diez días antes de la audiencia de pruebas, se podrá ofrecer la de confesión, quedando las partes obligadas a declarar, bajo protesta de decir verdad, cuando así lo exija el contrario.
 
 Es permitido articular posiciones al procurador que tenga poder especial para absolverlas, o general con cláusula para hacerlo.
 
-##### Artículo 1215.
+###### Artículo 1215.
 
 Las personas físicas que sean parte en juicio, sólo están obligadas a absolver posiciones personalmente, cuando así lo exija el que las articula, y desde el ofrecimiento de la prueba se señale la necesidad de que la absolución deba realizarse de modo tan personal, y existan hechos concretos en la demanda y contestación que justifiquen dicha exigencia, la que será calificada por el tribunal para así ordenar su recepción. En caso contrario la absolución se hará por el mandatario o representante legal con facultades suficientes para absolver posiciones.
 
-##### Artículo 1216.
+###### Artículo 1216.
 
 El mandatario o representante que comparezca a absolver posiciones por alguna de las partes, forzosamente será conocedor de todos los hechos controvertidos propios de su mandante o representado, y no podrá manifestar desconocer los hechos propios de aquel por quien absuelve, ni podrá manifestar que ignora la respuesta o contestar con evasivas, ni mucho menos negarse a contestar o se abstenga de responder de modo categórico en forma afirmativa o negativa, pues de hacerlo así se le declarará confeso de las posiciones que calificadas de legales se le formulen, toda vez que el tribunal bajo su responsabilidad debe considerar a dicho mandatario o representante legal, como si se tratara de la misma persona o parte por la cual absuelva las posiciones. Desde luego que el que comparezca a absolver posiciones después de contestar afirmativa o negativamente, podrá agregar lo que a su interés convenga.
 
-##### Artículo 1217.
+###### Artículo 1217.
 
 Tratándose de personas morales, la absolución de posiciones siempre se llevará a efecto por apoderado o representante, con facultades para absolver, sin que se pueda exigir que el desahogo de la confesional se lleve a cabo por apoderado o representante específico. En este caso, también será aplicable lo que se ordena en el artículo anterior.
 
-##### Artículo 1218.
+###### Artículo 1218.
 
 El cesionario se considera como apoderado del cedente para los efectos del artículo que precede.
 
-##### Artículo 1219.
+###### Artículo 1219.
 
 Si el que debe absolver las posiciones no estuviere en el lugar del juicio, el juez librará el correspondiente exhorto acompañando, cerrado y sellado, el pliego en que consten las posiciones, mismas que deben ser previamente calificadas. Del pliego, el oferente de la prueba, deberá, al ofrecer la confesión, acompañar copia que, autorizada conforme a la ley con la firma del juez y la del secretario, quedará en el seguro del juzgado, sin oportunidad de que pueda ser conocida por el contrario del oferente.
 
-##### Artículo 1220.
+###### Artículo 1220.
 
 El juez exhortado practicará todas las diligencias que correspondan conforme a este capítulo, pero no podrá declarar confeso a ninguno de los litigantes, salvo que el juez exhortante lo autorice para que haga esa declaración de confeso o en los casos que así lo permite la ley.
 
-##### Artículo 1221.
+###### Artículo 1221.
 
 El que articula las preguntas, ya sea la parte misma, ya su apoderado, tiene derecho de asistir al interrogatorio y de hacer en el acto las nuevas preguntas que le convengan.
 
-##### Artículo 1222.
+###### Artículo 1222.
 
 Las posiciones deben articularse en términos precisos; no han de ser insidiosas; no ha de contener cada una más que un solo hecho, y éste ha de ser propio del que declara.
 
-##### Artículo 1223.
+###### Artículo 1223.
 
 Si se presenta pliego de posiciones para el desahogo de la confesional, éste deberá presentarse cerrado, y guardarse así en el secreto del tribunal, asentándose la razón respectiva en la misma cubierta, que rubricará el juez y firmará el secretario. Si no se exhibe el pliego, deberá estarse a lo dispuesto en el siguiente artículo.
 
-##### Artículo 1224.
+###### Artículo 1224.
 
 Si el citado comparece, el juez, en su presencia, abrirá el pliego, se impondrá de las posiciones, y antes de proceder al interrogatorio, calificará las preguntas conforme al artículo 1222.
 
@@ -6554,35 +6636,35 @@ Si la oferente de la prueba decide no presentar pliego de posiciones, tendrá el
 
 Contra la calificación de posiciones, procede el recurso de apelación preventiva de tramitación conjunta con la sentencia definitiva.
 
-##### Artículo 1225.
+###### Artículo 1225.
 
 Hecha la protesta de decir verdad, el juez procederá al interrogatorio, asentando literalmente las respuestas, y concluida la diligencia, la parte absolvente firmará al margen el pliego de posiciones.
 
-##### Artículo 1226.
+###### Artículo 1226.
 
 En ningún caso se permitirá que la parte que ha de absolver un interrogatorio de posiciones esté asistida por su abogado, procurador, ni por otra persona; ni se le dará traslado ni copia de las posiciones, ni término para que se aconseje; pero si el absolvente fuere extranjero, podrá ser asistido por un intérprete, si lo pidiere, en cuyo caso el juez lo nombrará.
 
-##### Artículo 1227.
+###### Artículo 1227.
 
 Si fueren varios los que hayan de absolver posiciones y al tenor de un mismo interrogatorio, las diligencias se practicarán separadamente, y en un mismo día, evitando que los que absuelvan primero se comuniquen con los que han de absolver después.
 
-##### Artículo 1228.
+###### Artículo 1228.
 
 Las contestaciones deberán ser afirmativas o negativas, pudiendo agregar el que las dé, las explicaciones que estime convenientes, o las que el juez le pida.
 
-##### Artículo 1229.
+###### Artículo 1229.
 
 En el caso de que el declarante se negare a contestar, el juez le apercibirá en el acto de tenerle por confeso si persiste en su negativa.
 
-##### Artículo 1230.
+###### Artículo 1230.
 
 Si las respuestas del que declara fueren evasivas, el juez le apercibirá igualmente de tenerle por confeso sobre los hechos respecto de los cuales sus respuestas no fueren categóricas o terminantes.
 
-##### Artículo 1231.
+###### Artículo 1231.
 
 La declaración, una vez firmada, no puede variarse ni en la sustancia ni en la redacción.
 
-##### Artículo 1232.
+###### Artículo 1232.
 
 El que deba absolver posiciones, será declarado confeso:
 
@@ -6592,81 +6674,81 @@ II. Cuando se niegue a declarar;
 
 III. Cuando al hacerlo insista en no responder afirmativa o negativamente.
 
-##### Artículo 1233.
+###### Artículo 1233.
 
 En el primer caso del artículo anterior, el juez abrirá el pliego, o hará constar por escrito las posiciones, y las calificará antes de hacer la declaración.
 
-##### Artículo 1234.
+###### Artículo 1234.
 
 Absueltas las posiciones, el absolvente tiene derecho a su vez de formularlas en el acto al articulante si hubiere asistido. El tribunal puede, libremente, interrogar a las partes sobre los hechos y circunstancias que sean conducentes a la averiguación de la verdad.
 
 Las partes pedirán en el mismo acto de la declaración que el tribunal exija al absolvente que aclare algún punto dudoso sobre el cual no se haya contestado categóricamente, sea de las posiciones formuladas por las partes, o por el interrogatorio que de oficio se haya realizado, y en su caso que se declare confeso si se haya en alguno de los casos de las dos últimas fracciones del artículo 1232.
 
-##### Artículo 1235.
+###### Artículo 1235.
 
 Cuando la confesión no se haga al absolver las posiciones, sino al contestar la demanda o en cualquier otro acto del juicio, no siendo en la presencia judicial, para que ésta quede perfeccionada, el colitigante deberá pedir la ratificación, y si existiere negativa injustificada para ratificar dicho escrito que contenga la confesión, o bien omisión de hacerlo, se acusará la correspondiente rebeldía, quedando perfecta la confesión.
 
-##### Artículo 1236.
+###### Artículo 1236.
 
 Las autoridades, las corporaciones oficiales y los establecimientos que formen parte de la administración pública no absolverán posiciones en la forma que establecen los artículos anteriores, salvo lo dispuesto en el artículo 1217, pero la parte contraria podrá pedir que se les libre oficio, insertando las posiciones que quiera hacerles para que, por vía de informe, sean contestadas por la persona que designa, dentro del término que designe el tribunal, y que no excederá de ocho días con el apercibimiento de tenerla por confesa si no contestare dentro del término que se le haya fijado, o si no lo hiciere categóricamente afirmando o negando los hechos. La declaración de confeso podrá hacerse de oficio o a petición de parte.
 
 #### CAPITULO XIV · De los Instrumentos y Documentos
 
-##### Artículo 1237.
+###### Artículo 1237.
 
 Son instrumentos públicos los que están reputados como tales en las leyes comunes, y además las pólizas de contratos mercantiles celebrados con intervención de corredor y autorizados por éste, conforme a lo dispuesto en el presente Código.
 
-##### Artículo 1238.
+###### Artículo 1238.
 
 Documento privado es cualquiera otro no comprendido en lo que dispone el artículo anterior.
 
-##### Artículo 1239.
+###### Artículo 1239.
 
 Siempre que uno de los litigantes pidiere copia o testimonio de parte de un documento o pieza que obre en los archivos públicos o en los libros de los corredores, el contrario tendrá derecho de que a su costa se adicione con lo que crea conducente del mismo documento.
 
-##### Artículo 1240.
+###### Artículo 1240.
 
 Los documentos existentes en partido distinto del en que se siga el juicio, se compulsarán a virtud de exhorto que dirija el juez de los autos al del lugar en que aquellos se encuentren.
 
-##### Artículo 1241.
+###### Artículo 1241.
 
 Los documentos privados y la correspondencia procedentes de uno de los interesados, presentados en juicio por vía de prueba y no objetados por la parte contraria, se tendrán por admitidos y surtirán sus efectos como si hubieren sido reconocidos expresamente. Puede exigirse el reconocimiento expreso si el que los presenta así lo pidiere; con este objeto se manifestarán los originales a quien deba reconocerlos y se le dejará ver todo el documento, no sólo la firma.
 
-##### Artículo 1242.
+###### Artículo 1242.
 
 Los documentos privados se presentarán en originales, y cuando formen parte de un libro, expediente o legajo, se exhibirán para que se compulse la parte que señalen los interesados.
 
-##### Artículo 1243.
+###### Artículo 1243.
 
 Si el documento se encuentra en libros o papeles de casa de comercio o de algún establecimiento industrial, el que pida el documento o la constancia, deberá fijar con precisión cuál sea, y la copia testimoniada se tomará en el escritorio del establecimiento, sin que los directores de él estén obligados a llevar al tribunal los libros de cuenta, sino sólo a presentar las partidas o documentos designados.
 
-##### Artículo 1244.
+###### Artículo 1244.
 
 En el reconocimiento se observará lo dispuesto en los arts. 1217 a 1219, 1221 y 1287, fracs. I y II.
 
-##### Artículo 1245.
+###### Artículo 1245.
 
 Solo pueden reconocer un documento privado, el que lo firma, el que lo manda extender, o el legítimo representante de ellos con poder o cláusula especial.
 
-##### Artículo 1246.
+###### Artículo 1246.
 
 Los instrumentos auténticos expedidos por las autoridades federales, hacen fe en toda la República, sin necesidad de legalización.
 
-##### Artículo 1247.
+###### Artículo 1247.
 
 Las partes sólo podrán objetar los documentos en cuanto a su alcance y valor probatorio dentro de los tres días siguientes al auto admisorio de pruebas, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contado desde el día siguiente a aquel en que surta efectos la notificación del auto que ordene su admisión. No será necesario para la objeción a que se refiere el presente artículo la tramitación incidental de la misma.
 
-##### Artículo 1248.
+###### Artículo 1248.
 
 Para que haga fe en la República los documentos públicos extranjeros deberán presentarse legalizados por las autoridades consulares mexicanas competentes conforme a las leyes aplicables.
 
-##### Artículo 1249.
+###### Artículo 1249.
 
 Los documentos que fueren transmitidos internacionalmente, por conducto oficial, para surtir efectos legales, no requerirán de legalización.
 
 Tampoco requerirán de legalización, los documentos públicos extranjeros, cuando se tenga celebrado tratado o acuerdo interinstitucional con el país de que provengan, y se exima de dicha legalización.
 
-##### Artículo 1250.
+###### Artículo 1250.
 
 En caso de que se niegue o se ponga en duda la autenticidad de un documento, objetándolo o impugnándolo de falso, podrá pedirse el cotejo de letras y/o firmas. Tratándose de los documentos exhibidos junto con la demanda, el demandado si pretende objetarlos o tacharlos de falsedad, deberá oponer la excepción correspondiente, y ofrecer en ese momento las pruebas que estime pertinentes, además de la prueba pericial, debiendo darse vista con dicha excepción a la parte actora, para que manifieste lo que a su derecho convenga respecto a la pertinencia de la prueba pericial, y reservándose su admisión para el auto admisorio de pruebas, sin que haya lugar a la impugnación en la vía incidental. En caso de que no se ofreciera la pericial, no será necesaria la vista a que se refiere el presente artículo sino que deberá estarse a lo dispuesto por los artículos 1379 y 1401 de este Código, según sea el caso.
 
@@ -6676,7 +6758,7 @@ Las objeciones a que se refiere el párrafo anterior se podrán realizar desde e
 
 Si con la impugnación a que se refieren los dos párrafos anteriores no se ofreciere la prueba pericial correspondiente o no se cumpliere con cualquiera de los requisitos necesarios para su admisión a trámite, se desechará de plano por el juzgador.
 
-##### Artículo 1250 bis.
+###### Artículo 1250 bis.
 
 En el caso de impugnación y objeción de falsedad de un documento, además de lo dispuesto en el artículo anterior, se observará lo dispuesto en las siguientes reglas:
 
@@ -6692,7 +6774,7 @@ V. Lo dispuesto en este artículo sólo da competencia al juez para conocer y de
 
 VI. Si durante la secuela del procedimiento se tramitare diverso proceso penal sobre la falsedad del documento en cuestión, el tribunal, sin suspender el juicio y según las circunstancias, podrá determinar al dictar la sentencia si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
 
-##### Artículo 1250 bis 1.
+###### Artículo 1250 bis 1.
 
 Tanto para la objeción o impugnación de documentos sean privados, o públicos que carezcan de matriz, únicamente se considerarán indubitables para el cotejo:
 
@@ -6706,13 +6788,13 @@ IV. El escrito impugnado en la parte en que reconozca la letra como suya aquel a
 
 V. Las firmas puestas en actuaciones judiciales en presencia del secretario del tribunal por la parte cuya firma o letra se trata de comprobar.
 
-##### Artículo 1251.
+###### Artículo 1251.
 
 En el caso de que alguna de las partes sostenga la falsedad de un documento que pueda ser de influencia notoria en el pleito, se observarán las prescripciones relativas del Código de Procedimientos Penales respectivo.
 
 #### CAPITULO XV · De la Prueba Pericial
 
-##### Artículo 1252.
+###### Artículo 1252.
 
 Los peritos deben tener título en la ciencia, arte, técnica, oficio o industria a que pertenezca la cuestión sobre la que ha de oírse su parecer, si la ciencia, arte, técnica, oficio o industria requieren título para su ejercicio.
 
@@ -6722,9 +6804,9 @@ La prueba pericial sólo será admisible cuando se requieran conocimientos espec
 
 El título de habilitación de corredor público acredita para todos los efectos la calidad de perito valuador.
 
-##### Artículo 1253.
+###### Artículo 1253.
 
-Las partes propondrán la prueba pericial dentro del término de ofrecimiento de pruebas, en los siguientes términos:
+Las partes propondrán la prueba pericial dentro del término de ofrecimiento de pruebas en los siguientes términos:
 
 I. Señalarán con toda precisión la ciencia, arte, técnica, oficio o industria sobre la cual deba practicarse la prueba; los puntos sobre los que versará y las cuestiones que se deben resolver en la pericial, así como la cédula profesional, calidad técnica, artística o industrial del perito que se proponga, nombre, apellidos y domicilio de éste, con la correspondiente relación de tal prueba con los hechos controvertidos;
 
@@ -6738,19 +6820,19 @@ V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten su
 
 VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.
 
-En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa de tres mil pesos. Dicho monto se actualizará en forma anualizada que deberá regir a partir del primero de enero de cada año de acuerdo con el Índice Nacional de Precios al Consumidor que determine el Banco de México, y que a falta de éste será aplicable el que lo sustituya;
+En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de tres mil pesos. Dicho monto deberá actualizarse en forma anual, de acuerdo con el factor de actualización que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año que se calcula entre el Índice Nacional de Precios al Consumidor de noviembre del año inmediato anterior que determine el Banco de México y, a falta de éste será aplicable el que lo sustituya.
 
-VII. Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado, así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, debiendo presentar los peritos el original de su cédula profesional, o de los documentos anexados a sus escritos de aceptación y protesta del cargo, teniendo como sanción a la omisión de presentarlos, que el dictamen no se tenga por rendido;
+VII. Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado, así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, y de no presentarse, se tendrá por no rendido el dictamen;
 
 VIII. Las partes en cualquier momento podrán convenir en la designación de un sólo perito para que rinda su dictamen al cual se sujetarán, y
 
 IX. También las partes en cualquier momento podrán manifestar su conformidad con el dictamen del perito de la contraria y hacer observaciones al mismo, que serán consideradas en la valoración que realice el juez en su sentencia.
 
-##### Artículo 1254.
+###### Artículo 1254.
 
 El juez, antes de admitir la prueba pericial, dará vista a la contraria por el término de tres días, para que manifieste sobre la pertinencia de tal prueba y para que proponga la ampliación de otros puntos y cuestiones además de los formulados por el oferente, para que los peritos dictaminen, y para que designe perito de su parte, debiendo nombrarlo en la misma ciencia, arte, técnica, oficio o industria, en que la haya ofrecido el oferente, así como su cédula profesional, o en su caso los documentos que justifiquen su capacidad científica, artística, técnica, etc. requisito sin el cual no se le tendrá por designado, con la sanción correspondiente a que se refiere la fracción VI del artículo anterior.
 
-##### Artículo 1255.
+###### Artículo 1255.
 
 Cuando los dictámenes rendidos resulten substancialmente contradictorios de tal modo que el juez considere que no es posible encontrar conclusiones que le aporten elementos de convicción, podrá designar un perito tercero en discordia. A este perito deberá notificársele para que dentro del plazo de tres días, presente escrito en el que acepte el cargo conferido y proteste su fiel y legal desempeño, debiendo anexar copia de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se le designa, manifestando, bajo protesta de decir verdad, que tiene la capacidad suficiente para emitir dictamen sobre el particular; así mismo señalará el monto de sus honorarios, en los términos de la legislación local correspondiente o, en su defecto, los que determine, mismos que deben ser autorizados por el juez, y serán cubiertos por ambas partes en igual proporción.
 
@@ -6758,7 +6840,7 @@ El perito tercero en discordia deberá rendir su peritaje precisamente en la aud
 
 En el supuesto del párrafo anterior, el juez designará otro perito tercero en discordia y, de ser necesario, suspenderá la audiencia para el desahogo de la prueba en cuestión.
 
-##### Artículo 1256.
+###### Artículo 1256.
 
 El perito que nombre el juez puede ser recusado dentro de los cinco días siguientes a aquél en que haya surtido efectos la notificación de la aceptación y protesta del cargo por dicho perito a los litigantes. Son causas de recusación las siguientes:
 
@@ -6796,7 +6878,7 @@ No habrá recurso alguno contra las resoluciones que se dicten en el trámite o 
 
 En caso de ser desechada la recusación, se impondrá al recusante una sanción pecuniaria hasta por el equivalente a ciento veinte días de salario mínimo general vigente en el Distrito Federal, que se aplicará en favor del colitigante.
 
-##### Artículo 1257.
+###### Artículo 1257.
 
 Los jueces podrán designar peritos de entre aquéllos autorizados como auxiliares de la administración de justicia por la autoridad local respectiva, o a solicitar que el perito sea propuesto por colegios, asociaciones o barras de profesionales, artísticas, técnicas o científicas o de las instituciones de educación superior públicas o privadas, o las cámaras de industria, comercio, o confederaciones de cámaras a la que corresponda al objeto del peritaje.
 
@@ -6810,13 +6892,13 @@ Cuando el juez lo estime necesario, podrá designar a algún corredor público, 
 
 En todos los casos en que el tribunal designe a los peritos, los honorarios de éstos se cubrirán por mitad por ambas partes, y aquélla que no pague lo que le corresponde será apremiada por resolución que contenga ejecución y embargo en sus bienes. En el supuesto de que alguna de las partes no cumpla con su carga procesal de pago de honorarios al perito designado por el juez, dicha parte incumplida perderá todo derecho para impugnar el peritaje que se emita por dicho tercero.
 
-##### Artículo 1258.
+###### Artículo 1258.
 
 Las partes tendrán derecho a interrogar al o a los peritos que hayan rendido su dictamen, salvo en los casos de avalúos a que se refiere el artículo 1257, y a que el juez ordene su comparecencia en la audiencia que para tal fin se señale, en la que se interrogará por aquél que la haya solicitado o por todos los colitigantes que la hayan pedido.
 
 #### CAPITULO XVI · Del Reconocimiento o Inspección Judicial
 
-##### Artículo 1259.
+###### Artículo 1259.
 
 El reconocimiento o inspección judicial puede practicarse á petición de parte o de oficio, si el juez lo cree necesario.
 
@@ -6826,45 +6908,45 @@ Las partes, sus representantes o abogados pueden concurrir a la inspección y ha
 
 También podrán concurrir a ellas los testigos de identidad o peritos que fueren necesarios.
 
-##### Artículo 1260.
+###### Artículo 1260.
 
 Del reconocimiento se levantará una acta, que firmarán todos los que a él concurran, y en la que se asentarán con exactitud los puntos que lo hayan provocado, las observaciones de los interesados, las declaraciones de los peritos, si los hubiere, y todo lo que el juez creyere conveniente para esclarecer la verdad.
 
 #### CAPITULO XVII · De la Prueba Testimonial
 
-##### Artículo 1261.
+###### Artículo 1261.
 
 Todos los que tengan conocimiento de los hechos que las partes deben de probar, están obligados a declarar como testigos.
 
-##### Artículo 1262.
+###### Artículo 1262.
 
 Las partes tendrán obligación de presentar sus propios testigos para cuyo efecto se les entregarán las cédulas de notificación. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad y pedirán que se les cite. El juez ordenará la citación con apercibimiento de arresto hasta por treinta y seis horas o multa equivalente hasta quince días de salario mínimo general diario vigente en el Distrito Federal, que aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
 
-##### Artículo 1263.
+###### Artículo 1263.
 
 Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El juez debe cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen. Contra la desestimación de preguntas sólo cabe el recurso de apelación en el efecto devolutivo, de tramitación conjunta con la sentencia definitiva.
 
-##### Artículo 1264.
+###### Artículo 1264.
 
 La protesta y examen de los testigos se hará en presencia de las partes que concurrieren. Interrogará el promovente de la prueba y a continuación los demás litigantes.
 
-##### Artículo 1265.
+###### Artículo 1265.
 
 Después de tomarle al testigo la protesta de conducirse con verdad y de advertirle de las penas en que incurren los testigos falsos, se hará constar el nombre y apellidos, edad, estado, domicilio y ocupación; si es pariente por consanguinidad o afinidad y en que grado, de alguno de los litigantes, si es dependiente o empleado del que lo presente, o tiene con él sociedad o alguna otra relación de intereses; si tiene interés directo o indirecto en el pleito, si es amigo íntimo o enemigo de alguno de los litigantes. A continuación se procederá al examen.
 
-##### Artículo 1266.
+###### Artículo 1266.
 
 Sobre los hechos probados por confesión judicial, no podrá el que los haya confesado rendir prueba de testigos.
 
-##### Artículo 1267.
+###### Artículo 1267.
 
 A las personas mayores de setenta años y a los enfermos, podrá el juez, según las circunstancias, recibirles la declaración en sus casas.
 
-##### Artículo 1268.
+###### Artículo 1268.
 
 El Presidente de la República, los secretarios de Estado, los titulares de los organismos públicos descentralizados o empresas de participación estatal mayoritaria, el Gobernador del Banco de México, los senadores, diputados, magistrados, jueces, generales con mando, las primeras autoridades políticas del Distrito Federal, no están obligados a declarar, a solicitud de las partes, respecto al asunto de que conozcan o hayan conocido por virtud de sus funciones. Solamente cuando el tribunal lo juzgue indispensable para la investigación de la verdad, podrán ser llamados a declarar. En este caso, y en cualquier otro, se pedirá su declaración por oficio, y en esta forma lo rendirán.
 
-##### Artículo 1269.
+###### Artículo 1269.
 
 Cuando el testigo resida fuera de la jurisdicción territorial del juez que conozca del juicio, deberá el promovente, al ofrecer la prueba, presentar sus interrogatorios con las copias respectivas para las otras partes, que dentro de tres días podrán presentar sus interrogatorios de repreguntas. Para el examen de estos testigos, se librará exhorto en que se incluirán en pliego cerrado, las preguntas y repreguntas.
 
@@ -6872,17 +6954,17 @@ Cuando se solicitare el desahogo de prueba testimonial o de declaración de part
 
 Para ello será necesario que se acredite ante el tribunal del desahogo, que los hechos materia del interrogatorio están relacionados con el proceso pendiente y que medie solicitud de parte o de la autoridad exhortante.
 
-##### Artículo 1270.
+###### Artículo 1270.
 
 Las partes pueden asistir al acto del interrogatorio de los testigos, pero no podrán interrumpirlos ni hacerles otras preguntas o repreguntas que las formuladas en los respectivos interrogatorios. Solo cuando el testigo deje de contestar á algún punto, o haya incurrido en contradicción, o se haya expresado con ambigüedad, pueden las partes llamar la atención del juez, para que éste, si lo estima conveniente, exija al testigo las aclaraciones oportunas.
 
-##### Artículo 1271.
+###### Artículo 1271.
 
 Los testigos serán examinados separada y sucesivamente, sin que unos pueden presenciar las declaraciones de los otros. A este efecto, el juez fijará un sólo día para que se presenten los testigos que deban declarar conforme a un mismo interrogatorio y designará el lugar en que deben permanecer hasta la conclusión de la diligencia. Cuando no fuere posible terminar el examen de los testigos en un sólo día, la diligencia se suspenderá para continuarla el siguiente.
 
 La parte contraria al oferente de la prueba decidirá, a su perjuicio si la prueba testimonial se divide, permitiendo que se examine a un testigo sin que haya comparecido alguno con el que este relacionado el examinado.
 
-##### Artículo 1272.
+###### Artículo 1272.
 
 El juez, al examinar á los testigos, puede hacerles las preguntas que estime convenientes, siempre que sean relativas a los hechos contenidos en los interrogatorios.
 
@@ -6896,13 +6978,13 @@ Las respuestas del testigo se harán constar en autos en forma que al mismo tiem
 
 Los testigos están obligados a dar la razón de su dicho y el juez deberá exigirla en todo caso.
 
-##### Artículo 1273.
+###### Artículo 1273.
 
 Sobre los hechos que han sido objeto de un interrogatorio, no puede presentarse otro en ninguna instancia del juicio.
 
 #### CAPITULO XVIII · De la Fama Pública
 
-##### Artículo 1274.
+###### Artículo 1274.
 
 Para que la fama pública sea admitida como prueba, debe tener las condiciones siguientes:
 
@@ -6914,21 +6996,21 @@ III.- Que sea uniforme, constante y aceptada por la generalidad de la población
 
 IV.- Que no tenga por fundamento las preocupaciones religiosas o populares, ni las exageraciones de los partidos políticos, sino una tradición racional o algunos hechos que, aunque indirectamente, la comprueben.
 
-##### Artículo 1275.
+###### Artículo 1275.
 
 La fama pública debe probarse con tres o más testigos que no solo sean mayores de toda excepción, sino que por su edad, por su inteligencia y por la independencia de su posición social, merezcan verdaderamente el hombre de fidedignos.
 
-##### Artículo 1276.
+###### Artículo 1276.
 
 Los testigos no solo deben declarar las personas á quienes oyeron referir el suceso, sino también las causas probables en que descanse la creencia de la sociedad.
 
 #### CAPITULO XIX · De las Presunciones
 
-##### Artículo 1277.
+###### Artículo 1277.
 
 Presunción es la consecuencia que la ley o el juez deducen de un hecho conocido, para averiguar la verdad de otro desconocido: la primera se llama legal, y la segunda humana.
 
-##### Artículo 1278.
+###### Artículo 1278.
 
 Hay presunción legal:
 
@@ -6936,15 +7018,15 @@ I.- Cuando la ley la establece expresamente.
 
 II.- Cuando la consecuencia nace inmediata y directamente de la ley.
 
-##### Artículo 1279.
+###### Artículo 1279.
 
 Hay presunción humana cuando de un hecho debidamente probado se deduce otro que es consecuencia ordinaria de aquel.
 
-##### Artículo 1280.
+###### Artículo 1280.
 
 El que tiene á su favor una presunción legal, solo está obligado a probar el hecho en que se funda la presunción.
 
-##### Artículo 1281.
+###### Artículo 1281.
 
 No se admite prueba contra la presunción legal:
 
@@ -6952,29 +7034,29 @@ I. Cuando la ley lo prohíbe expresamente;
 
 II. Cuando el efecto de la presunción es anular un acto o negar una acción, salvo el caso en que la ley haya reservado el derecho de probar.
 
-##### Artículo 1282.
+###### Artículo 1282.
 
 Contra las demás presunciones legales y contra las humanas, es admisible la prueba.
 
-##### Artículo 1283.
+###### Artículo 1283.
 
 Las presunciones humanas no servirán para probar aquellos actos que, conforme á la ley, deben constar en una forma especial.
 
-##### Artículo 1284.
+###### Artículo 1284.
 
 La presunción debe ser grave; esto es, digna de ser aceptada por personas de buen criterio. Debe también ser precisa; esto es, que el hecho probado en que se funde, sea parte o antecedente, o consecuencia del que se quiere probar.
 
-##### Artículo 1285.
+###### Artículo 1285.
 
 Cuando fueren varias las presunciones con que se quiere probar un hecho, han de ser, además, concordantes; esto es, no deben modificarse ni destruirse unas por otras, y deben tener tal enlace entre sí y con el hecho probado, que no puedan dejar de considerarse como antecedentes o consecuencias de éste.
 
-##### Artículo 1286.
+###### Artículo 1286.
 
 Si fueren varios los hechos en que se funde una presunción, además de las calidades señaladas en el art. 1284, deben estar de tal manera enlazadas, que aunque produzcan indicios diferentes, todos tiendan á probar el hecho de que se trate, que por lo mismo no puede dejar de ser causa o efecto de ellos.
 
 #### CAPITULO XX · Del Valor de las Pruebas
 
-##### Artículo 1287.
+###### Artículo 1287.
 
 La confesión judicial hace prueba plena cuando concurren en ella las circunstancias siguientes:
 
@@ -6986,11 +7068,11 @@ III. Que sea de hecho propio y concerniente al negocio;
 
 IV. Que se haya hecho conforme á las prescripciones del cap. XIII.
 
-##### Artículo 1288.
+###### Artículo 1288.
 
 Cuando la confesión judicial haga prueba plena y afecte á toda la demanda, cesará el juicio ordinario, si el actor lo pidiere así, y se procederá en la vía ejecutiva.
 
-##### Artículo 1289.
+###### Artículo 1289.
 
 Para que se consideren plenamente probados los hechos sobre que versen las posiciones que judicialmente han sido dadas por absueltas en sentido afirmativo, se requiere;
 
@@ -7000,27 +7082,27 @@ II. Que los hechos sean suyos y concernientes al pleito;
 
 III. Que la declaración sea legal.
 
-##### Artículo 1290.
+###### Artículo 1290.
 
 El declarado confeso puede rendir prueba en contrario.
 
-##### Artículo 1291.
+###### Artículo 1291.
 
 La confesión extrajudicial hará prueba plena si el juez incompetente ante quien se hizo, era reputado competente por las dos partes en el acto de la confesión.
 
-##### Artículo 1292.
+###### Artículo 1292.
 
 Los instrumentos públicos hacen prueba plena, aunque se presenten sin citación del colitigante, salvo siempre el derecho de éste para redargüirlos de falsedad y para pedir su cotejo con los protocolos y archivos. En caso de inconformidad con el protocolo o archivo, los instrumentos no tendrán valor probatorio en el punto en que existiere la inconformidad.
 
-##### Artículo 1293.
+###### Artículo 1293.
 
 Los instrumentos públicos no se perjudicarán en cuanto a su validez por las excepciones que se aleguen para destruir la acción que en ellos se funde.
 
-##### Artículo 1294.
+###### Artículo 1294.
 
 Las actuaciones judiciales harán prueba plena.
 
-##### Artículo 1295.
+###### Artículo 1295.
 
 Para graduar la fuerza probatoria de los libros de los comerciantes, se observarán las reglas siguientes:
 
@@ -7034,35 +7116,35 @@ IV. Si los libros de los comerciantes tuvieren todos los requisitos legales y fu
 
 V. (Se deroga).
 
-##### Artículo 1296.
+###### Artículo 1296.
 
 Los documentos privados y la correspondencia procedentes de uno de los interesados, presentados en juicio por vía de prueba y no objetados por la parte contraria se tendrán por admitidos y surtirán sus efectos como si hubieren sido reconocidos expresamente. Puede exigirse el reconocimiento expreso si el que los presenta así lo pidiere; con este objeto se manifestarán los originales a quien debe reconocerlos y se les dejará ver todo el documento, no sólo la firma.
 
-##### Artículo 1297.
+###### Artículo 1297.
 
 Los documentos simples comprobados por testigos tendrá el valor que merezcan sus testimonios recibidos conforme á lo dispuesto en el cap. XVII.
 
-##### Artículo 1298.
+###### Artículo 1298.
 
 El documento que un litigante presenta, prueba plenamente en su contra, en todas sus partes, aunque el colitigante no lo reconozca.
 
-##### Artículo 1298-A.
+###### Artículo 1298-A.
 
 Se reconoce como prueba los mensajes de datos. Para valorar la fuerza probatoria de dichos mensajes, se estimará primordialmente la fiabilidad del método en que haya sido generada, archivada, comunicada o conservada.
 
-##### Artículo 1299.
+###### Artículo 1299.
 
 El reconocimiento o inspección judicial hará prueba plena cuando se haya practicado en objetos que no requieran conocimientos especiales o científicos.
 
-##### Artículo 1300.
+###### Artículo 1300.
 
 Los avalúos harán prueba plena.
 
-##### Artículo 1301.
+###### Artículo 1301.
 
 La fe de los demás juicios periciales, incluso el cotejo de letras, será calificada por el juez según las circunstancias.
 
-##### Artículo 1302.
+###### Artículo 1302.
 
 El valor de la prueba testimonial queda al arbitrio del juez, quien nunca puede considerar probados los hechos sobre los cuales ha versado, cuando no haya por lo menos dos testigos en quienes concurran las siguientes condiciones:
 
@@ -7074,7 +7156,7 @@ III. Que declaren de ciencia cierta, esto es, que hayan oído pronunciar las pal
 
 IV. Que den fundada razón de su dicho.
 
-##### Artículo 1303.
+###### Artículo 1303.
 
 Para valorar las declaraciones de los testigos, el juez tendrá en consideración las circunstancias siguientes:
 
@@ -7090,141 +7172,141 @@ V. Que la declaración sea clara y precisa, sin dudas ni reticencias, ya sobre l
 
 VI. Que el testigo no haya sido obligado por fuerza o miedo, ni impulsado por engaño, error o soborno. El apremio judicial no debe estimarse como fuerza o intimidación.
 
-##### Artículo 1304.
+###### Artículo 1304.
 
 Un solo testigo hace prueba plena, cuando ambas partes personalmente y siendo mayores de edad, convengan en pasar por su dicho.
 
-##### Artículo 1305.
+###### Artículo 1305.
 
 Las presunciones legales de que trata el art. 1281, hacen prueba plena.
 
-##### Artículo 1306.
+###### Artículo 1306.
 
 Los jueces, según la naturaleza de los hechos, la prueba de ellos, el enlace natural más o menos necesario que existe entre la verdad conocida y la que se busca, y la aplicación más o menos exacta que se pueda hacer de los principios consignados en los arts. 1283 a 1286, apreciarán en justicia el valor de las presunciones humanas.
 
 #### CAPITULO XXI · De las Tachas
 
-##### Artículo 1307.
+###### Artículo 1307.
 
 Dentro de los tres días que sigan a la declaración de los testigos, podrán las partes tachar a los testigos por causas que éstos no hayan expresado en sus declaraciones.
 
-##### Artículo 1308.
+###### Artículo 1308.
 
 Transcurridos dichos tres días, no podrá admitirse ninguna solicitud sobre tachas.
 
-##### Artículo 1309.
+###### Artículo 1309.
 
 (Se deroga).
 
-##### Artículo 1310.
+###### Artículo 1310.
 
 Cuando el testigo tuviere con ambas partes el mismo parentesco, o desempeñare oficios o tuviere negocios o interés directo o indirecto en el pleito para con las dos partes, no será tachable.
 
-##### Artículo 1311.
+###### Artículo 1311.
 
 No es tachable el testigo presentado por ambas partes.
 
-##### Artículo 1312.
+###### Artículo 1312.
 
 El juez nunca repelará de oficio al testigo. Será siempre examinado y las tachas que se hagan valer se calificarán en la sentencia. Cuando las tachas aparezcan de las declaraciones de los testigos u otras constancias de autos, el juez hará dicha calificación aunque no se hayan opuesto tachas al testigo.
 
-##### Artículo 1313.
+###### Artículo 1313.
 
 No es admisible la prueba testimonial para tachar a los testigos que hayan declarado en el incidente de tachas.
 
-##### Artículo 1314.
+###### Artículo 1314.
 
 La petición de tachas se hará en forma de incidente y en los términos para su tramitación.
 
-##### Artículo 1315.
+###### Artículo 1315.
 
 En las pruebas de tachas se observarán las reglas que en las comunes.
 
-##### Artículo 1316.
+###### Artículo 1316.
 
 Transcurrido el término concedido para probar las tachas, las pruebas de éstas se unirán á los autos, sin necesidad de gestión de los interesados.
 
-##### Artículo 1317.
+###### Artículo 1317.
 
 Las tachas deben contraerse únicamente á las personas de los testigos; los vicios que hubiere en los dichos o en la forma de las declaraciones, serán objeto del alegato de buena prueba.
 
-##### Artículo 1318.
+###### Artículo 1318.
 
 En igual plazo que el señalado en el artículo 1307, podrá alegarse la falsedad de los documentos, observándose las disposiciones relativas a los incidentes.
 
-##### Artículo 1319.
+###### Artículo 1319.
 
 Si los documentos se presentan después del término de ofrecimiento de pruebas, en los casos en que la ley lo permite, o sean supervenientes, el juez dará vista de ellos a la parte contraria, para que haga valer sus derechos.
 
-##### Artículo 1320.
+###### Artículo 1320.
 
 La calificación de las tachas se hará en la sentencia definitiva.
 
 #### CAPITULO XXII · De las Sentencias
 
-##### Artículo 1321.
+###### Artículo 1321.
 
 Las sentencias son definitivas o interlocutorias.
 
-##### Artículo 1322.
+###### Artículo 1322.
 
 Sentencia definitiva es la que decide el negocio principal.
 
-##### Artículo 1323.
+###### Artículo 1323.
 
 Sentencia interlocutoria es la que decide un incidente, un artículo sobre excepciones dilatorias o una competencia.
 
-##### Artículo 1324.
+###### Artículo 1324.
 
 Toda sentencia debe ser fundada en la ley, y si ni por el sentido natural, ni por el espíritu de ésta, se puede decidir la controversia, se atenderá á los principios generales de derecho, tomando en consideración todas las circunstancias del caso.
 
-##### Artículo 1325.
+###### Artículo 1325.
 
 La sentencia debe ser clara, y al establecer el derecho, debe absolver o condenar.
 
-##### Artículo 1326.
+###### Artículo 1326.
 
 Cuando el actor no probare su acción, será absuelto el demandado.
 
-##### Artículo 1327.
+###### Artículo 1327.
 
 La sentencia se ocupará exclusivamente de las acciones deducidas y de las excepciones opuestas respectivamente en la demanda y en la contestación.
 
-##### Artículo 1328.
+###### Artículo 1328.
 
 No podrán, bajo ningún pretexto, los jueces ni los tribunales, aplazar, dilatar, omitir ni negar la resolución de las cuestiones que hayan sido discutidas en el pleito.
 
-##### Artículo 1329.
+###### Artículo 1329.
 
 Cuando hayan sido varios los puntos litigiosos, se hará con la debida separación la declaración correspondiente á cada uno de ellos.
 
-##### Artículo 1330.
+###### Artículo 1330.
 
 Cuando hubiere condena de frutos, intereses, daños o perjuicios, se fijará su importe en cantidad líquida, o se establecerán por lo menos las bases con arreglo á las cuales deba hacerse la liquidación, cuando no sean el objeto principal del juicio.
 
 #### CAPITULO XXIII · De la Aclaración de Sentencia
 
-##### Artículo 1331.
+###### Artículo 1331.
 
 El recurso de aclaración de sentencia solo procede respecto de las definitivas.
 
-##### Artículo 1332.
+###### Artículo 1332.
 
 El juez, al aclarar las cláusulas o palabras contradictorias, ambiguas u oscuras de la sentencia, no puede variar la sustancia de ésta.
 
-##### Artículo 1333.
+###### Artículo 1333.
 
 La interposición del recurso de aclaración de sentencia, interrumpe el término señalado para la apelación.
 
 #### CAPITULO XXIV · De la Revocación y Reposición
 
-##### Artículo 1334.
+###### Artículo 1334.
 
 Los autos que no fueren apelables y los decretos pueden ser revocados por el juez que los dictó o por el que lo substituya en el conocimiento del negocio.
 
 De los decretos y autos de los tribunales superiores, aun de aquellos que dictados en primera instancia serían apelables, puede pedirse la reposición.
 
-##### Artículo 1335.
+###### Artículo 1335.
 
 Tanto la revocación en primera instancia como la reposición deberán pedirse por escrito dentro de los tres días siguientes a que haya surtido efectos la notificación del proveído a impugnar, dando vista a la contraria por un término igual y el tribunal debe resolver y mandar notificar su determinación dentro de los tres días siguientes.
 
@@ -7232,11 +7314,11 @@ De la resolución en que se decida si se concede o no la revocación o la reposi
 
 #### CAPITULO XXV · De la Apelación
 
-##### Artículo 1336.
+###### Artículo 1336.
 
 Se llama apelación el recurso que se interpone para que el tribunal superior confirme, reforme o revoque las resoluciones del inferior que puedan ser impugnadas por la apelación, en los términos que se precisan en los artículos siguientes.
 
-##### Artículo 1337.
+###### Artículo 1337.
 
 Pueden apelar de una sentencia:
 
@@ -7248,53 +7330,63 @@ III. La parte que venció puede adherirse a la apelación interpuesta al notific
 
 IV. El tercero con interés legítimo, siempre y cuando le perjudique la resolución.
 
-##### Artículo 1338.
+###### Artículo 1338.
 
 La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sólo en el primero pudiendo ser éste, de tramitación inmediata o conjunta con la definitiva, según sea el caso.
 
-##### Artículo 1339.
+###### Artículo 1339.
 
-Sólo son recurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo valor exceda de doscientos mil pesos por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados, a la fecha de interposición del recurso, debiendo actualizarse dicha cantidad en forma anual, de acuerdo al Índice Nacional de Precios al Consumidor que publique el Banco de México, el primero de enero de cada año, y a falta de éste será aplicable el que lo sustituya.
+Sólo son recurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo valor exceda de doscientos mil pesos por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad en los términos previstos en el último párrafo de la fracción VI del artículo 1253.
 
 Las sentencias que fueren recurribles, conforme al párrafo anterior, lo serán por la apelación que se admitirá en ambos efectos, salvo cuando la ley expresamente determine que lo sean sólo en el devolutivo.
 
 Sólo serán apelables los autos, interlocutorias o resoluciones que decidan un incidente o cuando lo disponga este código, y la sentencia definitiva pueda ser susceptible de apelación, de acuerdo a lo dispuesto en el primer párrafo de este artículo.
 
-El recurso de apelación contra autos, interlocutorias o resoluciones que se dicten en el trámite del procedimiento se admitirán en el efecto preventivo, sin que sea necesario en tal escrito la expresión de agravios; interpuesta la apelación preventiva, se mandará tenerla presente cuando se apele la sentencia definitiva y se reitere ante el superior lo pedido en su oportunidad.
+El recurso de apelación contra autos, interlocutorias o resoluciones, que se dicten en el trámite del procedimiento se admitirá en el efecto devolutivo de tramitación conjunta con la apelación de la sentencia definitiva, sin que sea necesario en tal escrito la expresión de agravios; interpuesta esta apelación, se reservará su trámite para que se realice en su caso conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante.
 
 Para que proceda la apelación contra autos, interlocutorias o resoluciones en efecto devolutivo o en el suspensivo se requiere disposición especial de la ley.
 
-La apelación debe interponerse ante el tribunal que haya pronunciado el auto, interlocutoria o resolución, en el acto de la notificación o, a más tardar, dentro de los nueve días siguientes, si se tratare de sentencia definitiva o de seis, si fuere contra auto, interlocutoria o resolución dictada en el procedimiento si se trata de apelaciones de tramitación inmediata, y dentro de esos plazos se deben de exponer los motivos de agravio, y en el término de tres días aquellas preventivas de tramitación conjunta con la sentencia definitiva.
+La apelación debe interponerse ante el tribunal que haya pronunciado el auto, interlocutoria o resolución, a más tardar dentro de los nueve días siguientes a aquél en que surta efectos la notificación si se tratare de sentencia definitiva, seis si fuere contra auto, interlocutoria o resolución, dictada en el procedimiento si se trata de apelaciones de tramitación inmediata y en el término de tres días si se trata de apelación de tramitación conjunta con la sentencia definitiva.
 
-##### Artículo 1340.
+Los agravios que hayan de expresarse en contra del auto, interlocutoria o resolución, cuando se trate de apelaciones de tramitación inmediata o de sentencia definitiva, se expresarán al interponerse el recurso de apelación. Los agravios que en su caso se deban expresar en contra de resoluciones de tramitación conjunta con la sentencia definitiva se expresarán en la forma y términos previstos en el artículo 1344 de este Código.
 
-La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los Juzgados de Paz o de Cuantía Menor o cuando el monto sea inferior a doscientos mil pesos por concepto de suerte principal, debiendo actualizarse dicha cantidad en forma anual, de acuerdo con el Índice Nacional de Precios al Consumidor que publique el Banco de México, el primero de enero de cada año, y a falta de éste será aplicable el que lo sustituya.
+###### Artículo 1340.
 
-El Consejo de la Judicatura Federal, los presidentes de los Tribunales Superiores de Justicia del Distrito Federal y de Estados tendrán la obligación de hacer saber a los juzgados y tribunales de su jurisdicción, el Índice Nacional de Precios al Consumidor a que se refiere el párrafo que antecede dentro de los primeros cinco días del año.
+La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a doscientos mil pesos por concepto de suerte principal, debiendo actualizarse en forma anual, de acuerdo con el factor de actualización que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año que se calcula, entre el Índice Nacional de Precios al Consumidor de noviembre del año inmediato anterior que determine el Banco de México y, a falta de éste será aplicable el que lo sustituya.
 
-##### Artículo 1341.
+El Consejo de la Judicatura Federal, los presidentes de los Tribunales Superiores de Justicia, del Distrito Federal y de los Estados, tendrán la obligación de hacer saber a los juzgados y tribunales de su jurisdicción, el factor de actualización al que se refiere el párrafo anterior.
+
+###### Artículo 1341.
 
 Las sentencias interlocutorias son apelables, si lo fueren las definitivas conforme al artículo anterior. Con la misma condición, son apelables los autos si causan un gravamen que no pueda repararse en la definitiva, ó si la ley expresamente lo dispone.
 
-##### Artículo 1342.
+###### Artículo 1342.
 
 Las apelaciones se admitirán o denegarán de plano, y se sustanciarán con un solo escrito de cada parte, de acuerdo a lo dispuesto en el artículo 1344 de este Código.
 
-##### Artículo 1343.
+###### Artículo 1343.
 
 La sentencia de segunda instancia causará ejecutoria cuando la misma no pueda ser recurrida por ningún otro medio ordinario o extraordinario de impugnación, cualquiera que sea el interés que en el litigio se verse.
 
 #### CAPITULO XXVI · Del Trámite de la Apelación
 
-##### Artículo 1344.
+###### Artículo 1344.
 
-En los casos no previstos en el artículo 1345, la parte que se sienta agraviada por una resolución judicial que sea apelable, dentro del tercer día de su notificación deberá por escrito hacer saber su inconformidad apelando preventivamente la misma sin expresar agravios, y en caso de que la sentencia definitiva le sea adversa, siempre y cuando apele de ella, al expresar agravios en su contra, deberá hacer valer también los agravios que considere le cause la resolución apelada preventivamente; de no presentarse el escrito de inconformidad a que se refiere este párrafo, se tendrá por precluido el derecho del afectado para hacerlo valer como agravio en la apelación que se interponga contra de la definitiva.
+En los casos no previstos en el artículo 1345, la parte que se sienta agraviada por una resolución judicial que sea apelable, dentro del tercer día siguiente de aquél en que surta efectos su notificación, deberá hacer saber por escrito su inconformidad apelando preventivamente ésta sin expresar agravios; de no presentarse el escrito de inconformidad a que se refiere este párrafo, se tendrá por precluido el derecho del afectado para hacerlo valer como agravio en la apelación que se interponga contra la sentencia definitiva.
 
-El tribunal que conozca del recurso en contra de la definitiva solo tomará en consideración tales violaciones, para resolver sobre su procedencia o no, si se expresaron como agravio, siempre y cuando las mismas trasciendan al fondo del juicio, debiendo dictar una sola sentencia. En caso de que existan violaciones procesales que sean trascendentes al fondo del juicio, el tribunal dejará insubsistente la sentencia definitiva, regresando los autos originales al inferior, para que éste proceda a reponer el procedimiento reparándolas en los términos que ordena la resolución del superior.
+Dentro del plazo de nueve días a que se refiere el artículo 1079, el apelante, ya sea vencedor o vencido, deberá hacer valer también en escrito por separado los agravios que considere le causaron las determinaciones que combatió en las apelaciones admitidas en efecto devolutivo de tramitación preventiva y cuyo trámite se reservó para hacerlo conjuntamente con la sentencia definitiva, para que el tribunal que conozca del recurso en contra de ésta última pueda considerar el resultado de lo ordenado en la resolución recaída en la apelación preventiva.
 
-En caso contrario, estudiará y resolverá la procedencia o no de los agravios expresados en contra de la definitiva.
+Si se trata del vencido o de aquella parte que no obtuvo todo lo que pidió, con independencia de los agravios que se expresen en la apelación de tramitación conjunta con la sentencia definitiva, deberá expresar en los agravios en contra de la sentencia que resolvió el Juicio de qué manera trascendería al fondo del asunto el resarcimiento de la violación a subsanar.
 
-##### Artículo 1345.
+Tratándose de la parte que obtuvo todo lo que pidió, aún y cuando no sea necesario que apele en contra de la sentencia definitiva, deberá expresar los agravios en contra de las resoluciones que fueron motivo del recurso de apelación preventiva de tramitación conjunta con la sentencia definitiva, manifestando de qué manera trascendería al fondo del asunto el resarcimiento de la violación a subsanar, a efecto de que el tribunal de alzada proceda a estudiarlas.
+
+En dichos supuestos se dará vista a la contraria para que en el término de seis días contesten los agravios.
+
+El tribunal de alzada estudiará en primer término las violaciones procesales que se hubiesen hecho valer en los recursos de apelación preventiva y de encontrar violaciones procesales que sean trascendentes al fondo del Juicio y, sólo en aquellas que requieran ser reparadas por el juez natural, dejará insubsistente la sentencia definitiva, regresando los autos originales al juez de origen para que éste proceda a reponer el procedimiento y dicte nueva sentencia.
+
+De no ser procedentes los agravios de las apelaciones de tramitación conjunta con la sentencia definitiva o no habiendo sido expresados, o resultando fundados no sea necesario que la violación procesal sea reparada por el juez de origen, el tribunal estudiará y resolverá la procedencia, o no, de los agravios expresados en contra de la definitiva, resolviendo el recurso con plenitud de jurisdicción.
+
+###### Artículo 1345.
 
 Además de los casos determinados expresamente en la ley, en la forma y términos que se establecen en este Capítulo, se tramitarán de inmediato las apelaciones que se interpongan:
 
@@ -7306,17 +7398,29 @@ III. Las resoluciones que por su naturaleza pongan fin al juicio;
 
 IV. La resolución que recaiga a las providencias precautorias, siempre y cuando de acuerdo al interés del negocio hubiere lugar a la apelación, cuya tramitación será en el efecto devolutivo.
 
-##### Artículo 1345 bis.
+V. Contra el auto que desecha el incidente de nulidad de actuaciones por defectos en el emplazamiento y contra la resolución que se dicte en el incidente;
+
+VI. Contra las resoluciones que resuelvan excepciones procesales;
+
+VII. Contra el auto que tenga por contestada la demanda o reconvención, así como el que haga la declaración de rebeldía en ambos casos;
+
+VIII. Contra las resoluciones que suspendan el procedimiento;
+
+IX. Contra las resoluciones o autos que siendo apelables se pronuncien en ejecución de sentencia;
+
+X. La resolución que dicte el juez en el caso previsto en el artículo 1148 de este Código.
+
+###### Artículo 1345 bis.
 
 En los casos previstos en este Capítulo, la apelación debe interponerse ante el juez que pronunció la resolución impugnada en la forma y términos previstos en éste.
 
-##### Artículo 1345 bis 1.
+###### Artículo 1345 bis 1.
 
 El litigante al interponer la apelación de tramitación inmediata, expresará los agravios que considere le cause la resolución recurrida, salvo en aquellos que específicamente la ley establezca un trámite diverso.
 
-Las apelaciones de tramitación inmediata que se interpongan contra auto o interlocutoria, deberán hacerse valer en el término de seis días a las que se interpongan contra sentencia definitiva dentro del plazo de nueve días, contados a partir del día siguiente a aquel en que surtan efectos las notificaciones de tales resoluciones.
+Las apelaciones de tramitación inmediata que se interpongan contra auto o interlocutoria, deberán hacerse valer en el término de seis días y las que se interpongan contra sentencia definitiva dentro del plazo de nueve días, contados a partir del día siguiente a aquél en que surtan efectos las notificaciones de tales resoluciones.
 
-##### Artículo 1345 bis 2.
+###### Artículo 1345 bis 2.
 
 Interpuesta una apelación, si fuera procedente, el juez la admitirá sin substanciación alguna, siempre que tratándose de apelaciones de tramitación inmediata, en el escrito se hayan hecho valer los agravios respectivos, expresando en su auto si la admite en ambos efectos o en uno solo.
 
@@ -7324,35 +7428,35 @@ El juez en el mismo auto admisorio ordenará se forme el testimonio de apelació
 
 De igual manera, al tener por interpuesto el recurso de apelación, dará vista con el mismo a la parte apelada, para que en el término de tres días conteste los agravios si se tratare de auto o sentencia interlocutoria, y de seis días si se tratare de sentencia definitiva.
 
-##### Artículo 1345 bis 3.
+###### Artículo 1345 bis 3.
 
 Transcurridos los plazos señalados en el artículo anterior, sin necesidad de rebeldía y se hayan contestado o no los agravios, se remitirán al superior, los escritos originales del apelante y en su caso de la parte apelada y las demás constancias que se señalan anteriormente, o los autos originales cuando se trate de apelación en contra de sentencia definitiva, o que deba admitirse en ambos efectos. El testimonio de apelación que se forme por el juez, se remitirá a la superioridad que deba conocer del mismo, dentro del término de cinco días, contados a partir de la fecha en que precluyó el término de la parte apelada para contestar agravios, o en su caso del auto en que se tuvieron por contestados.
 
 El tribunal al recibir el testimonio formará un solo toca o cuaderno, en el que se vayan tramitando todas las apelaciones que se interpongan en el juicio de que se trate, el que deberá mantener en el local del tribunal hasta que concluya el negocio. Una vez terminado el asunto procederá a su destrucción, guardando solo copias con firma autógrafa de las resoluciones dictadas.
 
-##### Artículo 1345 bis 4.
+###### Artículo 1345 bis 4.
 
 El tribunal, al recibir las constancias que remita el inferior, revisará si la apelación fue interpuesta en tiempo y bien admitida, y calificará si se confirma o no el grado en que se admitió por el inferior. De encontrarla ajustada a derecho, así lo hará saber y citará a las partes en el mismo auto para dictar sentencia, la que pronunciará y notificará dentro de los términos de este Código.
 
-En el caso de que se trate de sentencia definitiva, se dejará en el juzgado copia certificada de ella y de las demás constancias que el juez estime necesarias para ejecutarla, remitiéndose desde luego los autos originales al tribunal correspondiente.
+En el caso de que se trate de sentencia definitiva y la apelación proceda en el efecto devolutivo, se dejará en el juzgado copia certificada de ella y de las demás constancias que el juez estime necesarias para ejecutarla, remitiéndose desde luego los autos originales al tribunal correspondiente.
 
 La apelación admitida en ambos efectos suspende desde luego la ejecución de la sentencia, hasta que ésta cause ejecutoria. Cuando se interponga contra auto o interlocutoria que por su contenido impida la continuación del procedimiento y la apelación se admita en ambos efectos, se suspenderá la tramitación del juicio.
 
-##### Artículo 1345 bis 5.
+###### Artículo 1345 bis 5.
 
 Se admitirán en un solo efecto las apelaciones en los casos en que no se halle prevenido expresamente que se admitan en ambos efectos.
 
-##### Artículo 1345 bis 6.
+###### Artículo 1345 bis 6.
 
 Una vez confirmada la admisión y calificación del grado en que haya sido admitido el recurso por el juez, el tribunal citará a las partes en el mismo auto para oír sentencia. Tratándose de apelaciones que no se tengan que resolver junto con las apelaciones intermedias que deban tramitarse y resolverse junto con ésta, o bien tratándose de apelaciones de intermedias y definitiva que se tramiten y resuelvan de manera conjunta, que no excedan en número de seis, el tribunal contará con un máximo de veinte días para elaborar el proyecto. Si el número de apelaciones que se tengan que resolver de manera conjunta exceden de seis, el plazo para dictar la sentencia se ampliará hasta por diez días más, así como en el caso de que tengan que examinarse expedientes y/o documentos voluminosos.
 
-##### Artículo 1345 bis 7.
+###### Artículo 1345 bis 7.
 
-En el caso de que el apelante omitiera expresar agravios al interponer el recurso de apelación de tramitación inmediata ante el juez, sin necesidad de acusar rebeldía, declarará precluido su derecho, y quedará firme la resolución. Si no se interpusiera apelación en contra de la sentencia definitiva, se entenderán consentidas las resoluciones y autos que hubieran sido apelados durante el procedimiento, y que sean de tramitación conjunta con la definitiva.
+En el caso de que el apelante omitiera expresar agravios, al interponer el recurso de apelación de tramitación inmediata ante el juez sin necesidad de acusar rebeldía, declarará precluido su derecho y quedará firme la resolución. Si no se interpusiera apelación en contra de la sentencia definitiva, se entenderán consentidas las resoluciones y autos que hubieran sido apelados durante el procedimiento y que sean de tramitación conjunta con la sentencia definitiva, a excepción de lo previsto en el párrafo cuarto del artículo 1344 de este Código.
 
-Para el caso de que el tribunal considere fundada la apelación promovida, deberá estudiar de oficio aquellas apelaciones que se hayan presentado durante el procedimiento por la parte que en la primera instancia no se encontraba obligada a apelar por haber obtenido sentencia favorable a sus intereses.
+(Se deroga el segundo párrafo)
 
-##### Artículo 1345 bis 8.
+###### Artículo 1345 bis 8.
 
 De los autos y de las sentencias interlocutorias de tramitación inmediata, de los que se derive una ejecución que pueda causar un daño irreparable o de difícil reparación y la apelación proceda en el efecto devolutivo, se admitirán en ambos efectos si el apelante lo solicita al interponer el recurso, y señala los motivos por los que se considera el daño irreparable o de difícil reparación.
 
@@ -7364,15 +7468,15 @@ En caso de que el juez señale una garantía que se estime por el apelante exces
 
 #### CAPITULO XXVII · De la Ejecución de las Sentencias
 
-##### Artículo 1346.
+###### Artículo 1346.
 
 Debe ejecutar la sentencia el juez que la dictó en primera instancia, o el designado en el compromiso en caso de procedimiento convencional.
 
-##### Artículo 1347.
+###### Artículo 1347.
 
 Cuando se pida la ejecución de sentencia o convenio, si no hay bienes embargados, se procederá al embargo, observándose lo dispuesto en los arts. 1397, 1400 y 1410 á 1413 de este Libro.
 
-##### Artículo 1347-A.
+###### Artículo 1347-A.
 
 Las sentencias y resoluciones dictadas en el extranjero podrán tener fuerza de ejecución si se cumplen las siguientes condiciones:
 
@@ -7380,7 +7484,7 @@ I.- Que se hayan cumplido las formalidades establecidas en los tratados en que M
 
 II.- Que no hayan sido dictados como consecuencia del ejercicio de una acción real;
 
-III.- Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en el derecho internacional que sean compatibles con las adoptadas por este Código;
+III.- Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en el derecho internacional que sean compatibles con las adoptadas por este Código. El Juez o tribunal sentenciador extranjero no tiene competencia cuando exista, en los actos jurídicos de que devenga la resolución que se pretenda ejecutar, una cláusula de sometimiento únicamente a la jurisdicción de tribunales mexicanos;
 
 IV.- Que el demandado haya sido notificado o emplazado en forma personal a efecto de asegurarle la garantía de audiencia y el ejercicio de sus defensas;
 
@@ -7394,163 +7498,163 @@ VIII.- Que llenen los requisitos para ser considerados como auténticos.
 
 No obstante el cumplimiento de las anteriores condiciones, el juez podrá negar la ejecución si se probara que en el país de origen no se ejecutan sentencias o resoluciones jurisdiccionales extranjeras en casos análogos.
 
-##### Artículo 1348.
+###### Artículo 1348.
 
 Si la sentencia no contiene cantidad líquida la parte a cuyo favor se pronunció al promover la ejecución presentará su liquidación, de la cual se dará vista por tres días a la parte condenada y sea que la haya o no desahogado, el juez fallará dentro de igual plazo lo que en derecho corresponda. Esta resolución será apelable en el efecto devolutivo, de tramitación inmediata.
 
 #### CAPITULO XXVIII · De los Incidentes
 
-##### Artículo 1349.
+###### Artículo 1349.
 
 Son incidentes las cuestiones que se promueven en un juicio y tienen relación inmediata con el negocio principal, por lo que aquéllos que no guarden esa relación serán desechados de plano.
 
-##### Artículo 1350.
+###### Artículo 1350.
 
-Los incidentes se substanciarán en la misma pieza de autos, sin que suspendan el trámite del juicio en lo principal.
+Los incidentes se substanciarán por cuerda separada, sin que suspendan el trámite del juicio en lo principal.
 
-##### Artículo 1351.
+###### Artículo 1351.
 
 Los incidentes, cualquiera que sea su naturaleza, se tramitarán verbalmente en las audiencias o por escrito, según se dispone en los siguientes artículos.
 
-##### Artículo 1352.
+###### Artículo 1352.
 
 Cuando en el desarrollo de alguna audiencia se interponga en forma verbal, un incidente relacionado con los actos sucedidos en la misma, el tribunal dará vista a la contraria para que en el mismo acto, de modo verbal manifieste lo que a su derecho convenga. Acto seguido se resolverá por el juez, el fondo de lo planteado. Las partes no podrán hacer uso de la palabra por más de quince minutos, tanto al interponer como al contestar estos incidentes. En este tipo de incidentes no se admitirán más prueba que la documental que se exhiba en el acto mismo de la interposición y desahogo de la contraria, la instrumental de actuaciones y la presuncional.
 
-##### Artículo 1353.
+###### Artículo 1353.
 
 Cualquier otro tipo de incidentes diferentes a los señalados en el artículo anterior, se harán valer por escrito, y al promoverse el incidente o al darse contestación al mismo, deberán proponerse en tales escritos las pruebas, fijando los puntos sobre las que versen las mismas. De ser procedentes las pruebas que ofrezcan las partes, se admitirán por el tribunal, señalando fecha para su desahogo en audiencia indiferible que se celebrará dentro del término de ocho días, mandando preparar aquellas pruebas que así lo ameriten.
 
-##### Artículo 1354.
+###### Artículo 1354.
 
 En la audiencia incidental se recibirán las pruebas y acto seguido los alegatos que podrán ser verbales citando para dictar la interlocutoria que proceda la que se pronunciará y notificará a las partes dentro de los ocho días siguientes.
 
-##### Artículo 1355.
+###### Artículo 1355.
 
 Cuando las partes no ofrezcan pruebas o las que propongan no se admitan, una vez contestado el incidente o transcurrido el término para hacerlo, el juez citará a las partes para oír la interlocutoria que proceda, la que se pronunciará y notificará a las partes dentro de los tres días siguientes.
 
-##### Artículo 1356.
+###### Artículo 1356.
 
 Las resoluciones que se dicten en los incidentes serán apelables en efecto devolutivo, salvo que paralicen o pongan término al juicio haciendo imposible su continuación, casos en que se admitirán en efecto suspensivo.
 
-##### Artículo 1357.
+###### Artículo 1357.
 
 Las disposiciones de este capítulo serán aplicables a los incidentes que surjan en los juicios ejecutivos y demás procedimientos especiales mercantiles que no tengan trámite específicamente señalado para los juicios de su clase.
 
-##### Artículo 1358.
+###### Artículo 1358.
 
 En los incidentes criminales que surjan en negocios civiles, se observará lo dispuesto en el Código de Procedimientos Penales respectivo.
 
 #### CAPITULO XXIX · De la Acumulación de Autos
 
-##### Artículo 1359.
+###### Artículo 1359.
 
 La acumulación de autos solo podrá decretarse á instancia de parte legítima, salvo los casos en que, conforme á la ley, deba hacerse de oficio.
 
-##### Artículo 1360.
+###### Artículo 1360.
 
 La acumulación puede pedirse en cualquier estado del juicio, antes de pronunciarse sentencia, salvo que se trate de excepciones procesales que deban hacerse valer al contestar la demanda, o que tratándose del actor bajo protesta de decir verdad manifieste no conocer, al solicitar la acumulación, no haber conocido antes de la presentación de su demanda, de la causa de la acumulación.
 
-##### Artículo 1361.
+###### Artículo 1361.
 
 La acumulación deberá tramitarse en forma de incidente.
 
 #### CAPITULO XXX · De las Tercerías
 
-##### Artículo 1362.
+###### Artículo 1362.
 
 En un juicio seguido por dos o más personas, puede un tercero presentarse a deducir otra acción distinta de la que se debate entre aquellos. Este nuevo litigante se llama tercer opositor.
 
-##### Artículo 1363.
+###### Artículo 1363.
 
 Las tercerías son coadyuvantes o excluyentes. Es coadyuvante la tercería que auxilia la pretensión del demandante o la del demandado. Las demás se llaman excluyentes.
 
-##### Artículo 1364.
+###### Artículo 1364.
 
 Las tercerías coadyuvantes pueden oponerse en cualquier juicio, sea cual fuere la acción que en él se ejercite, y cualquiera que sea el estado en que éste se encuentre, con tal que aún no se haya pronunciado sentencia que cause ejecutoria.
 
-##### Artículo 1365.
+###### Artículo 1365.
 
 Las tercerías coadyuvantes no producen otro efecto que el de asociar a quien las interpone con la parte cuyo derecho coadyuva, a fin de que el juicio continúe según el estado en que se encuentre, y se sustancíe hasta las ulteriores diligencias con el tercero y el litigante coadyuvado, teniéndose presente lo prevenido en el artículo 1060.
 
-##### Artículo 1366.
+###### Artículo 1366.
 
 La acción que deduce el tercero coadyuvante deberá juzgarse con lo principal en una misma sentencia.
 
-##### Artículo 1367.
+###### Artículo 1367.
 
 Las tercerías excluyentes son de dominio o de preferencia: en el primer caso deben fundarse en el dominio que sobre los bienes en cuestión o sobre la acción que se ejercita alega el tercero, y en el segundo, en el mejor derecho que éste deduzca para ser pagado.
 
-##### Artículo 1368.
+###### Artículo 1368.
 
 Las tercerías excluyentes no suspenderán el curso del negocio en que se interponen; se ventilarán por cuerda separada, conforme a los artículos siguientes, oyendo al demandante y al demandado en traslado por tres días a cada uno.
 
-##### Artículo 1369.
+###### Artículo 1369.
 
 Cuando el ejecutado esté conforme con la reclamación del tercer opositor, solo se seguirá el juicio de tercería entre éste y el ejecutante.
 
-##### Artículo 1370.
+###### Artículo 1370.
 
 El opositor deberá fundar su oposición precisamente en prueba documental. Sin este requisito se desechará desde luego y sin más trámite.
 
-##### Artículo 1371.
+###### Artículo 1371.
 
 Evacuando el traslado de que trata el art. 1368, el juez decidirá si hay méritos para estimar necesaria la tercería, y en caso afirmativo, a petición de cualquiera de las partes, abrirá una dilación probatoria de quince días.
 
-##### Artículo 1372.
+###### Artículo 1372.
 
 Vencido el término de prueba se pasará al periodo de alegatos por tres días comunes para las partes.
 
-##### Artículo 1373.
+###### Artículo 1373.
 
 Si la tercería fuere de dominio sobre bienes muebles, el juicio principal en que se interponga seguirá sus trámites y la celebración del remate únicamente podrá ser suspendida cuando el opositor exhiba título suficiente, a juicio del juez, que acredite su dominio sobre el bien en cuestión, o su derecho respecto de la acción que se ejercita. Tratándose de inmuebles, el remate sólo se suspenderá si el tercero exhibe escritura pública o instrumento equivalente, inscritos en el Registro Público correspondiente.
 
-##### Artículo 1374.
+###### Artículo 1374.
 
 Si la tercería fuere de preferencia, seguirán los procedimientos del juicio principal en que se interponga, hasta la realización de los bienes embargados, suspendiéndose el pago, que se hará, definida la tercería, al acreedor que tenga mejor derecho. Entretanto se decida ésta, se depositará el precio de la venta.
 
-##### Artículo 1375.
+###### Artículo 1375.
 
 Bastará la interposición de una tercería excluyente, para que el ejecutante puedan ampliar la ejecución en otros bienes del deudor, y si éste no los tuviere, para pedir la declaración de quiebra.
 
-##### Artículo 1376.
+###### Artículo 1376.
 
 Si la tercería, cualquiera que sea, se interpone ante un juez de paz o menor, y el interés de ella excede del que la ley respectivamente somete a la jurisdicción de estos jueces, aquel ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda verbal entablada y decidirá la tercería, sujetándose en la sustanciación a lo prevenido en los artículos anteriores.
 
-##### Artículo 1376 Bis.
+###### Artículo 1376 Bis.
 
 A todo opositor que no obtenga sentencia favorable, se le condenará al pago de gastos y costas a favor del ejecutante
 
 ### TITULO SEGUNDO · De los Juicios Ordinarios
 
-##### Artículo 1377.
+###### Artículo 1377.
 
 Todas las contiendas entre partes que no tengan señalada tramitación especial en las leyes mercantiles, se ventilarán en juicio ordinario.
 
-##### Artículo 1378.
+###### Artículo 1378.
 
 En el escrito de demanda el actor deberá mencionar los documentos públicos y privados que tengan relación con dicha demanda, así como si los tiene o no a su disposición debiendo exhibir los que posea, y acreditar haber solicitado los que no tengan en los términos del artículo 1061. De igual manera, proporcionará los nombres y apellidos de los testigos que hayan presenciado los hechos contenidos en la demanda, y las copias simples prevenidas en el artículo 1061. Admitida la demanda se emplazará al demandado para que produzca su contestación dentro del término de quince días.
 
 Con el escrito de contestación a la demanda se dará vista al actor, para que manifieste lo que a su derecho convenga dentro del término de tres días y para que mencione a los testigos que hayan presenciado los hechos, y los documentos relacionados con los hechos de la contestación de demanda.
 
-##### Artículo 1379.
+###### Artículo 1379.
 
 Las excepciones que tenga el demandado, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, a no ser que fueren supervenientes.
 
-##### Artículo 1380.
+###### Artículo 1380.
 
 En la contestación a la demanda, en los juicios ordinarios, deberá proponerse la reconvención en los casos en que proceda. De la reconvención se dará traslado a la parte contraria para que la conteste dentro del término de nueve días, y con dicha contestación se dará vista el reconveniente para los mismos fines que se indican en el último párrafo del artículo 1378 de este Código.
 
 El juicio principal y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia.
 
-##### Artículo 1381.
+###### Artículo 1381.
 
 Las excepciones perentorias se opondrán, sustanciarán y decidirán simultáneamente y en uno con el pleito principal, sin poderse nunca formar, por razón de ellas, artículo especial en el juicio.
 
-##### Artículo 1382.
+###### Artículo 1382.
 
 Contestada la demanda, se mandará recibir el negocio a prueba, si la exigiere.
 
-##### Artículo 1383.
+###### Artículo 1383.
 
 Según la naturaleza y calidad del negocio el juez fijará de oficio o a petición de parte que se abra el mismo a prueba, no pudiendo exceder de cuarenta días, de los cuales los diez días primeros serán para ofrecimiento y los treinta siguientes para desahogo de pruebas. Si el juez señala un término inferior al máximo que se autoriza, deberá precisar cuántos días completos se destinan para ofrecimiento y cuántos días completos para el desahogo, procurando que sea en la misma proporción que se indica anteriormente,
 
@@ -7576,37 +7680,37 @@ Las pruebas que deban recibirse fuera del lugar del juicio, se tramitarán media
 
 Transcurrido el término extraordinario concedido, que empezará a contar a partir de la fecha en que surta efectos la notificación a las partes, según certificación que haga la secretaría, sin que se haga devolución del exhorto diligenciado, sin causa justificada, se hará efectiva la sanción pecuniaria y se procederá a condenar en costas.
 
-##### Artículo 1384.
+###### Artículo 1384.
 
 Dentro del término concedido para ofrecimiento de pruebas, la parte que pretenda su prórroga pedirá que se le conceda la misma, y el juez dará vista a la contraria por el término de tres días, y de acuerdo a lo que alegaren las partes se concederá o denegará. Si ambas partes estuvieran conformes en la prórroga la misma se concederá por todo el plazo en que convengan, no pudiendo exceder del término de noventa días.
 
-##### Artículo 1385.
+###### Artículo 1385.
 
 Transcurrido el término de pruebas, el juez en todos los casos en que no se haya concluido el desahogo de las mismas, mandará concluirlas en los plazos que al efecto se autorizan en este Código.
 
-##### Artículo 1386.
+###### Artículo 1386.
 
 Las pruebas deberán desahogarse dentro de los términos y prórrogas que se autorizan y aquellas que no se logren concluir serán a perjuicio de las partes, sin que el juez pueda prorrogar los plazos si la ley no se lo permite.
 
-##### Artículo 1387.
+###### Artículo 1387.
 
 Para las pruebas documentales y supervenientes se observará lo que dispone este Código, y en su defecto lo que al efecto disponga la Ley Procesal de la entidad federativa que corresponda.
 
-##### Artículo 1388.
+###### Artículo 1388.
 
 Concluido el término probatorio, se pondrán los autos a la vista de las partes, para que dentro del término común de tres días produzcan sus alegatos, y transcurrido dicho plazo hayan alegado o no, el tribunal de oficio, citará para oír sentencia definitiva la que dictará y notificará dentro del término de quince días.
 
-##### Artículo 1389.
+###### Artículo 1389.
 
 Pasado que sea el término para alegar, serán citadas las partes para sentencia.
 
-##### Artículo 1390.
+###### Artículo 1390.
 
 Dentro de los quince días siguientes a la citación para sentencia, se pronunciará ésta.
 
 ### TITULO TERCERO · De los Juicios Ejecutivos
 
-##### Artículo 1391.
+###### Artículo 1391.
 
 El procedimiento ejecutivo tiene lugar cuando la demanda se funda en documento que traiga aparejada ejecución.
 
@@ -7628,15 +7732,15 @@ VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio
 
 VIII. Los demás documentos que por disposición de la ley tienen el carácter de ejecutivos o que por sus características traen aparejada ejecución.
 
-##### Artículo 1392.
+###### Artículo 1392.
 
 Presentada por el actor su demanda acompañada del título ejecutivo, se proveerá auto, con efectos de mandamiento en forma, para que el deudor sea requerido de pago, y no haciéndolo se le embarguen bienes suficientes para cubrir la deuda, los gastos y costas, poniéndolos bajo la responsabilidad del acreedor, en depósito de persona nombrada por éste.
 
-##### Artículo 1393.
+###### Artículo 1393.
 
 No encontrándose el deudor a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Federal de Procedimientos Civiles, respecto de los embargos.
 
-##### Artículo 1394.
+###### Artículo 1394.
 
 La diligencia de embargo se iniciará con el requerimiento de pago al deudor, su representante o la persona con la que se entienda, de las indicadas en el artículo anterior; de no hacerse el pago, se requerirá al demandado, su representante o la persona con quien se entiende la diligencia, para que señale bienes suficientes para garantizar las prestaciones reclamadas, apercibiéndolo que de no hacerlo, el derecho para señalar bienes pasará al actor. A continuación se emplazará al demandado.
 
@@ -7646,7 +7750,7 @@ La diligencia de embargo no se suspenderá por ningún motivo, sino que se lleva
 
 El juez, en ningún caso, suspenderá su jurisdicción para dejar de resolver todo lo concerniente al embargo, su inscripción en el Registro Público que corresponda, desembargo, rendición de cuentas por el depositario respecto de los gastos de administración y de las demás medidas urgentes, provisionales o no, relativas a los actos anteriores.
 
-##### Artículo 1395.
+###### Artículo 1395.
 
 En el embargo de bienes se seguirá este orden:
 
@@ -7668,29 +7772,29 @@ Una vez trabado el embargo, el ejecutado no puede alterar en forma alguna el bie
 
 Cometerá el delito de desobediencia el ejecutado que transmita el uso del bien embargado sin previa autorización judicial.
 
-##### Artículo 1396.
+###### Artículo 1396.
 
 Hecho el embargo, acto continuo se notificará al deudor, o a la persona con quien se haya practicado la diligencia para que dentro del término de ocho días, el que se computará en términos del artículo 1075 de este Código, comparezca el deudor ante el juzgado a hacer paga llana de la cantidad demandada y las costas, o a oponer las excepciones que tuviere para ello.
 
-##### Artículo 1397.
+###### Artículo 1397.
 
 Si se tratare de sentencia, no se admitirá más excepción que la de pago si la ejecución se pide dentro de ciento ochenta días; si ha pasado ese término, pero no más de un año, se admitirán además las de transacción, compensación y compromiso en árbitros; y transcurrido más de un año, serán admisibles también la de novación, comprendiéndose en ésta la espera, la quita, el pacto de no pedir y cualquier otro arreglo que modifique la obligación, y la de falsedad del instrumento, siempre que la ejecución no se pida en virtud de ejecutoria, convenio o juicio constante en autos. Todas estas excepciones, sin comprender la de falsedad, deberán ser posteriores á la sentencia, convenio o juicio, y constar por instrumento público, por documento judicialmente reconocido o por confesión judicial.
 
-##### Artículo 1398.
+###### Artículo 1398.
 
 Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia o convenio, a no ser que en ellos se fije plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo o desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
 
-##### Artículo 1399.
+###### Artículo 1399.
 
-Dentro de los cinco días siguientes al requerimiento de pago, al embargo, en su caso y al emplazamiento, el demandado deberá contestar la demanda, refiriéndose concretamente a cada hecho, oponiendo únicamente las excepciones que permite la ley en el artículo 1403 de este Código, y tratándose de títulos de crédito las del artículo 8o. de la Ley General de Títulos y Operaciones de Crédito, y en el mismo escrito ofrecerá pruebas, relacionándolas con los hechos y acompañando los documentos que exige la ley para las excepciones.
+Dentro de los ocho días siguientes al requerimiento de pago, al embargo, en su caso, y al emplazamiento, el demandado deberá contestar la demanda, refiriéndose concretamente a cada hecho, oponiendo únicamente las excepciones que permite la ley en el artículo 1403 de este Código, y tratándose de títulos de crédito las del artículo 8 de la Ley General de Títulos y Operaciones de Crédito, y en el mismo escrito ofrecerá pruebas, relacionándolas con los hechos y acompañando los documentos que exige la ley para las excepciones.
 
-##### Artículo 1400.
+###### Artículo 1400.
 
 Si el demandado dejare de cumplir con lo dispuesto por el artículo 1061 de este ordenamiento respecto de las documentales en que funde sus excepciones, el juez dejará de admitirlas, salvo las que sean supervenientes.
 
 En caso de que el demandado hubiere exhibido las documentales respectivas, o cumplido con lo que ordena el artículo 1061 de este ordenamiento, se tendrán por opuestas las excepciones que permite la ley, con las cuales se dará vista al actor por tres días para que manifieste y ofrezca las pruebas que a su derecho convenga.
 
-##### Artículo 1401.
+###### Artículo 1401.
 
 En los escritos de demanda, contestación y desahogo de vista de ésta, las partes ofrecerán sus pruebas, relacionándolas con los puntos controvertidos, proporcionando el nombre, apellidos y domicilio de los testigos que hubieren mencionado en los escritos señalados al principio de este artículo; así como los de sus peritos, y la clase de pericial de que se trate con el cuestionario que deban resolver; y todas las demás pruebas que permitan las leyes.
 
@@ -7700,11 +7804,11 @@ Desahogada la vista o transcurrido el plazo para hacerlo, el juez admitirá y ma
 
 Las pruebas que se reciban fuera del término concedido por el juez, o su prórroga si la hubiere decretado, serán bajo la responsabilidad de éste, quien sin embargo, podrá mandarlas concluir en una sola audiencia indiferible que se celebrará dentro de los diez días siguientes.
 
-##### Artículo 1402.
+###### Artículo 1402.
 
 Si se tratare de cartas de porte, se atenderá a lo que dispone el art. 583.
 
-##### Artículo 1403.
+###### Artículo 1403.
 
 Contra cualquier otro documento mercantil que traiga aparejada ejecución, son admisibles las siguientes excepciones:
 
@@ -7728,69 +7832,69 @@ IX. Novación de contrato;
 
 Las excepciones comprendidas desde la fracción IV a la IX sólo serán admisibles en juicio ejecutivo, si se fundaren en prueba documental.
 
-##### Artículo 1404.
+###### Artículo 1404.
 
 En los juicios ejecutivos los incidentes no suspenderán el procedimiento y se tramitarán cualquiera que sea su naturaleza con un escrito de cada parte y contándose con tres días para dictar resolución. Si se promueve prueba deberá ofrecerse en los escritos respectivos, fijando los puntos sobre los que verse, y se citará para audiencia indiferible dentro del término de ocho días, en que se reciba, se oigan brevemente las alegaciones, y en la misma se dicte la resolución correspondiente que debe notificarse a las partes en el acto, o a más tardar el día siguiente.
 
-##### Artículo 1405.
+###### Artículo 1405.
 
 Si el deudor se allanare a la demanda y solicitare término de gracia para el pago de lo reclamado, el juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo el juez resolver de acuerdo a tales proposiciones de las partes.
 
-##### Artículo 1406.
+###### Artículo 1406.
 
 Concluido el término de prueba, se pasará al período de alegatos, el que será de dos días comunes para las partes.
 
-##### Artículo 1407.
+###### Artículo 1407.
 
 Presentados los alegatos o transcurrido el término para hacerlo, previa citación y dentro del término de ocho días, se pronunciará la sentencia.
 
-##### Artículo 1407 bis.
+###### Artículo 1407 bis.
 
-Para la tramitación de apelaciones respecto del Juicio a que se refiere este Capítulo se estará a lo siguiente:
+Para la tramitación de apelaciones, respecto del Juicio a que se refiere este capítulo, se estará a las reglas generales que prevé este Código.
 
-I. Salvo lo previsto en la fracción III de este artículo, las resoluciones y autos que se dicten durante el procedimiento y que sean apelables, una vez interpuesta la apelación, el juez la admitirá si procede y reservará su tramitación para que se realice en su caso conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante. Si no se presentara apelación por la misma parte en contra de la definitiva, se entenderán consentidas las resoluciones y autos que hubieran sido apelados durante dicho procedimiento;
+I. (Se deroga).
 
-II. Sólo en caso de que el tribunal considere fundada la apelación promovida por alguna de las partes, deberá estudiar de oficio, aquellas apelaciones que se hayan presentado durante el procedimiento por la parte que en la primera instancia no se encontraba obligada a apelar por no encuadrarse en los supuestos previstos en las fracciones I, II y IV del artículo 1337;
+II. (Se deroga).
 
-III. Respecto de la sentencia definitiva, sentencias interlocutorias o autos definitivos que pongan término al juicio se admitirá la apelación en ambos efectos;
+III. (Se deroga).
 
-IV. Las apelaciones que se interpongan con motivo de resoluciones dictadas con posterioridad a la sentencia definitiva, se substanciarán de conformidad con las reglas generales que prevé este Código, y
+IV. (Se deroga).
 
-V. En los casos a que se refieren las fracciones I y III de este artículo, una vez que el tribunal cite a las partes para oír sentencia, contará con un máximo de veinte días para elaborar el proyecto. En caso que se tengan que resolver más de seis apelaciones intermedias el plazo podrá prorrogarse hasta por diez días más, así como en el caso de que se tengan que examinar expedientes o documentos voluminosos.
+V. (Se deroga).
 
-##### Artículo 1408.
+###### Artículo 1408.
 
 Si en la sentencia se declara haber lugar a hacer trance y remate de los bienes embargados y pago al acreedor, en la misma sentencia se decidirá también sobre los derechos controvertidos.
 
-##### Artículo 1409.
+###### Artículo 1409.
 
 Si la sentencia declarase que no procede el juicio ejecutivo, reservará al actor sus derechos para que los ejercite en la vía y forma que corresponda.
 
-##### Artículo 1410.
+###### Artículo 1410.
 
 A virtud de la sentencia de remate, se procederá a la venta de los bienes secuestrados, previo avalúo hecho por dos corredores o peritos y un tercero en caso de discordia, nombrados aquellos por las partes y éste por el juez.
 
-##### Artículo 1411.
+###### Artículo 1411.
 
 Presentado el avalúo y notificadas las partes para que ocurran al juzgado a imponerse de aquel, se anunciará en la forma legal la venta de los bienes, por tres veces, dentro de tres días, si fuesen muebles, y dentro de nueve si fuesen raíces, rematándose en seguida en pública almoneda y al mejor postor conforme a derecho.
 
-##### Artículo 1412.
+###### Artículo 1412.
 
 No habiéndose presentado postor a los bienes, el acreedor podrá pedir la adjudicación de ellos por el precio que para subastarlos se les haya fijado en la última almoneda.
 
-##### Artículo 1412 Bis.
+###### Artículo 1412 Bis.
 
 Cuando el monto líquido de la condena fuere superior al valor de los bienes embargados, previamente valuados en términos del artículo 1410 de este Código, y del certificado de gravámenes no aparecieren otros acreedores, el ejecutante podrá optar por la adjudicación directa de los bienes que haya en su favor al valor fijado en el avalúo.
 
-##### Artículo 1412 Bis 1.
+###### Artículo 1412 Bis 1.
 
 Tratándose del remate y adjudicación de inmuebles, el juez y el adjudicatario, sin más trámite, otorgarán la escritura pública correspondiente ante fedatario público.
 
-##### Artículo 1413.
+###### Artículo 1413.
 
 Las partes, durante el juicio, podrán convenir en que los bienes embargados se avalúen o vendan en la forma y términos que ellos acordaren, denunciándolo así oportunamente al juzgado por medio de un escrito firmado por ellas.
 
-##### Artículo 1414.
+###### Artículo 1414.
 
 Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercantiles será resuelto por el juez con apoyo en las disposiciones respectivas de este Título; y en su defecto, en lo relativo a los incidentes en los Juicios Ordinarios Mercantiles; y a falta de uno u otro, a lo que disponga el Código Federal de Procedimientos Civiles, o en su defecto la ley procesal de la Entidad Federativa correspondiente, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
 
@@ -7798,7 +7902,7 @@ Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercant
 
 #### CAPITULO I · Del procedimiento Extrajudicial de Ejecución de Garantías Otorgadas mediante Prenda sin Transmisión de Posesión y Fideicomiso de Garantía
 
-##### Artículo 1414 bis.
+###### Artículo 1414 bis.
 
 Se tramitará en esta vía el pago de los créditos vencidos y la obtención de la posesión de los bienes objeto de las garantías otorgadas mediante prenda sin transmisión de posesión o fideicomiso de garantía, siempre que no existan controversias en cuanto a la exigibilidad del crédito, la cantidad reclamada y la entrega de la posesión de los bienes mencionados. Para efectos de lo anterior, el valor de los bienes podrá determinarse por cualquiera de los siguientes procedimientos:
 
@@ -7808,13 +7912,13 @@ II. Por cualquier otro procedimiento que acuerden las partes por escrito.
 
 Al celebrar el contrato las partes deberán establecer las bases para designar a una persona autorizada, distinta del acreedor, para que realice el avalúo de los bienes, en caso de que éste no pueda llevarse a cabo, en términos de lo establecido en las fracciones de este artículo.
 
-##### Artículo 1414 bis 1.
+###### Artículo 1414 bis 1.
 
 El procedimiento se iniciará con el requerimiento formal de entrega de la posesión de los bienes, que formule al deudor el fiduciario o el acreedor prendario, según corresponda, mediante fedatario público.
 
 Una vez entregada la posesión de los bienes al fiduciario o acreedor prendario, éste tendrá el carácter de depositario judicial hasta en tanto no se realice lo previsto en el artículo 1414 bis 4.
 
-##### Artículo 1414 bis 2.
+###### Artículo 1414 bis 2.
 
 Se dará por concluido el procedimiento extrajudicial y quedará expedita la vía judicial en los siguientes casos:
 
@@ -7822,31 +7926,31 @@ I. Cuando se oponga el deudor a la entrega material de los bienes o al pago del 
 
 II. Cuando no se haya producido el acuerdo a que se refiere el artículo 1414 bis o éste sea de imposible cumplimiento.
 
-##### Artículo 1414 bis 3.
+###### Artículo 1414 bis 3.
 
 Fuera de los casos previstos en el artículo anterior, el fiduciario o el acreedor prendario podrá obtener la posesión de los bienes objeto de la garantía, si así se estipuló expresamente en el contrato respectivo. Este acto deberá llevarse a cabo ante fedatario público, quien deberá levantar el acta correspondiente, así como el inventario pormenorizado de los bienes.
 
-##### Artículo 1414 bis 4.
+###### Artículo 1414 bis 4.
 
 Una vez entregada la posesión de los bienes se procederá a la enajenación de éstos, en términos del artículo 1414 bis 17, fracción II.
 
-##### Artículo 1414 bis 5.
+###### Artículo 1414 bis 5.
 
 En caso de que el fiduciario o el acreedor prendario, según corresponda, no pueda obtener la posesión de los bienes, se seguirá el procedimiento de ejecución forzosa a que se refiere el siguiente Capítulo de este Código.
 
-##### Artículo 1414 bis 6.
+###### Artículo 1414 bis 6.
 
 No será necesario agotar el procedimiento a que se refieren los artículos anteriores, para iniciar el procedimiento de ejecución previsto en el Capítulo siguiente.
 
 #### CAPITULO II · Del Procedimiento Judicial de Ejecución de Garantías Otorgadas mediante Prenda sin Transmisión de Posesión y Fideicomiso de Garantía
 
-##### Artículo 1414 bis 7.
+###### Artículo 1414 bis 7.
 
 Se tramitará de acuerdo a este procedimiento todo juicio que tenga por objeto el pago de un crédito cierto, líquido y exigible y la obtención de la posesión material de los bienes que lo garanticen, siempre que la garantía se haya otorgado mediante prenda sin transmisión de posesión, o bien, mediante fideicomiso de garantía en que no se hubiere convenido el procedimiento previsto en el artículo 403 de la Ley General de Títulos y Operaciones de Crédito.
 
 Para que el juicio se siga de acuerdo con las disposiciones de este Capítulo, es requisito indispensable que el mencionado crédito conste en documento público o escrito privado, según corresponda, en términos de la Ley General de Títulos y Operaciones de Crédito y que sea exigible en los términos pactados o conforme con las disposiciones legales aplicables.
 
-##### Artículo 1414 bis 8.
+###### Artículo 1414 bis 8.
 
 Presentado el escrito de demanda, acompañado del contrato respectivo y la determinación del saldo que formule el acreedor, y cuando el acreedor sea una institución de crédito, anexando la certificación de saldo que corresponda, el juez bajo su más estricta responsabilidad, si encuentra que se reúnen los requisitos fijados en el artículo anterior, en un plazo no mayor de dos días, admitirá la misma y dictará auto con efectos de mandamiento en forma para que el deudor sea requerido de pago y, de no hacerlo, el propio deudor, el depositario, o quien detente la posesión, haga entrega de la posesión material al actor o a quien éste designe, de los bienes objeto de la garantía indicados en el contrato. En este último caso, el acreedor o quien éste designe, tendrá el carácter de depositario judicial y deberá informar al juez sobre el lugar en el que permanecerán los bienes que le han sido entregados, en tanto no sean vendidos.
 
@@ -7854,7 +7958,7 @@ En el mismo auto mediante el cual se requiera de pago al deudor, el juez lo empl
 
 La referida determinación de saldo podrá elaborarse a partir del último estado de cuenta que, en su caso, el deudor haya recibido y aceptado, siempre y cuando se haya pactado, o bien el acreedor esté obligado por disposición de Ley a entregar estados de cuenta al deudor. Se entenderá que el deudor ha recibido y aceptado este último estado de cuenta, si no lo objeta por escrito dentro de los 10 días hábiles siguientes de haberlo recibido o bien efectúa pagos parciales al acreedor con posterioridad a su recepción.
 
-##### Artículo 1414 bis 9.
+###### Artículo 1414 bis 9.
 
 La diligencia a que se refiere el artículo anterior, no se suspenderá por ningún motivo y se llevará adelante hasta su conclusión, dejando al deudor sus derechos a salvo para que los haga valer como le convenga durante el juicio. A fin de poner en posesión material de los bienes al demandante, el juzgador apercibirá al deudor con multa que podrá ser desde tres y hasta cuatrocientas veces el salario mínimo general diario vigente en el Distrito Federal. Para la imposición de la mencionada multa, el juez deberá considerar el monto de la garantía reclamada.
 
@@ -7866,7 +7970,7 @@ II. Si fuere ineficaz el apremio por causa imputable al deudor, el juez podrá o
 
 En caso de que la garantía recaiga sobre una casa habitación, utilizada como tal por el demandado, éste será designado depositario de la misma hasta la sentencia, siempre que acepte tal encargo. Cuando conforme a la sentencia, proceda que el demandado entregue al demandante la posesión material del inmueble, el juez hará efectivo el medio de apremio decretado y dictará las medidas conducentes para lograr el cumplimiento de la sentencia, ajustándose a lo dispuesto en este artículo.
 
-##### Artículo 1414 bis 10.
+###### Artículo 1414 bis 10.
 
 El demandado podrá oponer las excepciones que a su derecho convenga, pero su trámite se sujetará a las reglas siguientes:
 
@@ -7882,25 +7986,25 @@ V. Si se opone la excepción de improcedencia o error en la vía, el juez preven
 
 El juez, bajo su más estricta responsabilidad, revisará la contestación de la demanda y desechará de plano todas las excepciones notoriamente improcedentes, o aquéllas respecto de las cuales no se exhiba prueba documental o no se ofrezcan las pruebas directamente pertinentes a acreditarlas.
 
-##### Artículo 1414 bis 11.
+###### Artículo 1414 bis 11.
 
 El allanamiento que afecte toda la demanda producirá el efecto de que el asunto pase a sentencia definitiva.
 
 El demandado aun cuando no hubiere contestado en tiempo la demanda, tendrá en todo tiempo el derecho de ofrecer pruebas, hasta antes de que se dicte la sentencia correspondiente, y por una sola vez.
 
-##### Artículo 1414 bis 12.
+###### Artículo 1414 bis 12.
 
 Tanto en la demanda como en la contestación a la misma, las partes tienen la obligación de ser claras y precisas. En esos mismos escritos deberán ofrecer todas sus pruebas relacionándolas con los hechos que pretendan probar y presentar todos los documentos respectivos, salvo lo dispuesto en el segundo párrafo del artículo anterior.
 
-##### Artículo 1414 bis 13.
+###### Artículo 1414 bis 13.
 
 Siempre que las pruebas ofrecidas sean contra la moral o el derecho, o no se ajusten a lo dispuesto en los artículos 1414 bis 11 y 1414 bis 12, o bien se refieran a hechos imposibles, notoriamente inverosímiles o no controvertidos por las partes, el juez las desechará de plano.
 
-##### Artículo 1414 bis 14.
+###### Artículo 1414 bis 14.
 
 El juez resolverá sobre la admisión o desechamiento de pruebas en el auto que tenga por contestada o no la demanda. En el mismo auto, el juez dará vista al actor con las excepciones opuestas por el demandado, por el término de tres días y señalará fecha y hora para la celebración de la audiencia de pruebas alegatos y sentencia. Esta audiencia deberá celebrarse dentro de los diez días siguientes a aquél en que haya concluido el plazo fijado para que el actor desahogue la vista a que se refiere este artículo.
 
-##### Artículo 1414 bis 15.
+###### Artículo 1414 bis 15.
 
 La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a sus testigos, peritos, documentos públicos y privados, pliego de posiciones y demás pruebas que les hayan sido admitidas.
 
@@ -7914,11 +8018,11 @@ Al promoverse la prueba pericial, el juez hará la designación de un perito, o 
 
 Si llamado un testigo o solicitado un documento que haya sido admitido como prueba, ésta no se desahoga por causa imputable al oferente, a más tardar en la audiencia, se declarará desierta, a menos que exista una causa de fuerza mayor debidamente comprobada.
 
-##### Artículo 1414 bis 16.
+###### Artículo 1414 bis 16.
 
 El juez debe presidir la audiencia, ordenar el desahogo de las pruebas admitidas y preparadas, y dar oportunidad a las partes para alegar lo que a su derecho convenga, por escrito o verbalmente, sin necesidad de asentarlo en autos en este último caso. Acto continuo, el juez dictará sentencia, la que será apelable únicamente en efecto devolutivo.
 
-##### Artículo 1414 bis 17.
+###### Artículo 1414 bis 17.
 
 Obtenido el valor de avalúo de los bienes, de acuerdo con lo dispuesto en el artículo 1414 bis, se estará a lo siguiente:
 
@@ -7944,15 +8048,15 @@ El deudor que desee que se realicen más publicaciones relativas a la venta de l
 
 c) Realizada la venta de los bienes, si el precio de venta de los mismos fuera superior al monto del adeudo, el acreedor procederá a entregar el remanente que corresponda al deudor en un plazo no mayor de cinco días, una vez que se haya deducido el monto del crédito otorgado, incluyendo intereses y demás gastos incurridos para la venta, en efectivo, cheque de caja o mediante billete de depósito a favor del deudor a través del fedatario.
 
-##### Artículo 1414 bis 18.
+###### Artículo 1414 bis 18.
 
 En caso de incumplimiento de la parte actora a lo señalado en la fracción III, inciso c), del artículo anterior, el juez lo apercibirá con las medidas de apremio establecidas en el artículo 1414 Bis 9, y le ordenará pagar una pena equivalente a cien y hasta tres mil veces, el salario mínimo diario general vigente en el Distrito Federal en las fechas de incumplimiento, por día transcurrido, mientras subsista el incumplimiento.
 
-##### Artículo 1414 bis 19.
+###### Artículo 1414 bis 19.
 
 El acreedor o fiduciario, en tanto no realice la entrega al deudor del remanente de recursos que proceda en términos del artículo 1414 Bis 17, fracción III, por la venta de los bienes objeto de la garantía, cubrirá a éste, por todo el tiempo que dure el incumplimiento, una tasa de interés equivalente a dos veces el Costo de Captación a Plazo de pasivos denominados en moneda nacional (CCP), que mensualmente da a conocer el Banco de México, mediante publicaciones en el Diario Oficial de la Federación.
 
-##### Artículo 1414 bis 20.
+###### Artículo 1414 bis 20.
 
 En los procedimientos que se ventilen conforme a lo señalado en este Capítulo, no se admitirán incidentes y las resoluciones que se dicten podrán ser apeladas sólo en efecto devolutivo, por lo que en ningún caso podrá suspenderse el procedimiento, salvo lo previsto en el último párrafo del artículo 1414 bis 10.
 
@@ -7964,13 +8068,13 @@ Del Arbitraje Comercial
 
 #### CAPITULO I · Disposiciones Generales
 
-##### Artículo 1415.
+###### Artículo 1415.
 
 Las disposiciones del presente título se aplicarán al arbitraje comercial nacional, y al internacional cuando el lugar del arbitraje se encuentre en territorio nacional, salvo lo dispuesto en los tratados internacionales de que México sea parte o en otras leyes que establezcan un procedimiento distinto o dispongan que determinadas controversias no sean susceptibles de arbitraje.
 
 Lo dispuesto en los artículos 1424, 1425, 1461, 1462 y 1463, se aplicará aún cuando el lugar del arbitraje se encuentre fuera del territorio nacional.
 
-##### Artículo 1416.
+###### Artículo 1416.
 
 Para los efectos del presente título se entenderá por:
 
@@ -7990,7 +8094,7 @@ IV.- Costas, los honorarios del tribunal arbitral; los gastos de viaje y demás 
 
 V.- Tribunal arbitral, el árbitro o árbitros designados para decidir una controversia.
 
-##### Artículo 1417.
+###### Artículo 1417.
 
 Cuando una disposición del presente título:
 
@@ -8000,7 +8104,7 @@ II.- Se refiera a un acuerdo entre las partes, se entenderán comprendidas en es
 
 III.- Se refiera a una demanda, se aplicará también a una reconvención, y cuando se refiera a una contestación se aplicará asimismo a la contestación a esa reconvención, excepto en los casos previstos en la fracción I del artículo 1441 y el inciso a) de la fracción II del artículo 1449. Lo anterior, sin perjuicio de la decisión de los árbitros sobre su competencia para conocer de la demanda y de la reconvención.
 
-##### Artículo 1418.
+###### Artículo 1418.
 
 En materia de notificación y cómputo de plazos se estará a lo siguiente:
 
@@ -8012,19 +8116,19 @@ b) La comunicación se considerará recibida el día en que se haya realizado ta
 
 II.- Las disposiciones de este artículo no serán aplicables a las comunicaciones habidas en un procedimiento judicial.
 
-##### Artículo 1419.
+###### Artículo 1419.
 
 Para los fines del cómputo de plazos establecidos en el presente título, dichos plazos comenzarán a correr desde el día siguiente a aquél en que se reciba una notificación, nota, comunicación o propuesta. Si el último día de ese plazo es feriado oficial o no laborable en el lugar de residencia o establecimiento de los negocios del destinatario, dicho plazo se prorrogará hasta el primer día laborable siguiente. Los demás días feriados oficiales o no laborables que ocurran durante el transcurso del plazo se incluirán en el cómputo del plazo.
 
-##### Artículo 1420.
+###### Artículo 1420.
 
 Si una parte prosigue el arbitraje sabiendo que no se ha cumplido alguna disposición del presente título de la que las partes puedan apartarse o algún requisito del acuerdo de arbitraje y no exprese su objeción a tal incumplimiento sin demora justificada o, si se prevé un plazo para hacerlo y no lo hace, se entenderá renunciado su derecho a impugnar.
 
-##### Artículo 1421.
+###### Artículo 1421.
 
 Salvo disposición en contrario, en los asuntos que se rijan por el presente título, no se requerirá intervención judicial.
 
-##### Artículo 1422.
+###### Artículo 1422.
 
 Cuando se requiera la intervención judicial será competente para conocer el juez de primera instancia federal o del orden común del lugar donde se lleve a cabo el arbitraje.
 
@@ -8032,27 +8136,27 @@ Cuando el lugar del arbitraje se encuentre fuera del territorio nacional, conoce
 
 #### CAPITULO II · Acuerdo de Arbitraje
 
-##### Artículo 1423.
+###### Artículo 1423.
 
 El acuerdo de arbitraje deberá constar por escrito, y consignarse en documento firmado por las partes o en un intercambio de cartas, télex, telegramas, facsímil u otros medios de telecomunicación que dejen constancia del acuerdo, o en un intercambio de escritos de demanda y contestación en los que la existencia de un acuerdo sea afirmada por una parte sin ser negada por la otra. La referencia hecha en un contrato a un documento que contenga una cláusula compromisoria, constituirá acuerdo de arbitraje siempre que dicho contrato conste por escrito y la referencia implique que esa cláusula forma parte del contrato.
 
-##### Artículo 1424.
+###### Artículo 1424.
 
 El juez al que se someta un litigio sobre un asunto que sea objeto de un acuerdo de arbitraje, remitirá a las partes al arbitraje en el momento en que lo solicite cualquiera de ellas, a menos que se compruebe que dicho acuerdo es nulo, ineficaz o de ejecución imposible.
 
 Si se ha entablado la acción a que se refiere el párrafo anterior, se podrá no obstante, iniciar o proseguir las actuaciones arbitrales y dictar un laudo mientras la cuestión esté pendiente ante el juez.
 
-##### Artículo 1425.
+###### Artículo 1425.
 
 Aun cuando exista un acuerdo de arbitraje las partes podrán, con anterioridad a las actuaciones arbitrales o durante su transcurso, solicitar al juez la adopción de medidas cautelares provisionales.
 
 #### CAPITULO III · Composición del Tribunal Arbitral
 
-##### Artículo 1426.
+###### Artículo 1426.
 
 Las partes podrán determinar libremente el número de árbitros. A falta de tal acuerdo, será un solo árbitro.
 
-##### Artículo 1427.
+###### Artículo 1427.
 
 Para el nombramiento de árbitros se estará a lo siguiente:
 
@@ -8070,13 +8174,13 @@ IV.- Cuando en un procedimiento de nombramiento convenido por las partes, una de
 
 V.- Toda decisión sobre las cuestiones encomendadas al juez en las fracciones III o IV del presente artículo, será inapelable. Al nombrar un árbitro, el juez tendrá debidamente en cuenta las condiciones requeridas para un árbitro estipuladas en el acuerdo entre las partes y tomará las medidas necesarias para garantizar el nombramiento de un árbitro independiente e imparcial. En el caso de árbitro único o del tercer árbitro, tomará en cuenta asimismo, la conveniencia de nombrar un árbitro de nacionalidad distinta a la de las partes.
 
-##### Artículo 1428.
+###### Artículo 1428.
 
 La persona a quien se comunique su posible nombramiento como árbitro deberá revelar todas las circunstancias que puedan dar lugar a dudas justificadas acerca de su imparcialidad o independencia. El árbitro, desde el momento de su nombramiento y durante todas las actuaciones arbitrales, revelará sin demora tales circunstancias a las partes, a menos que ya se hubiera hecho de su conocimiento.
 
 Un árbitro sólo podrá ser recusado si existen circunstancias que den lugar a dudas justificadas respecto de su imparcialidad o independencia, o si no posee las cualidades convenidas por las partes. Una parte sólo podrá recusar al árbitro nombrado por ella, o en cuyo nombramiento haya participado, por causas de las que haya tenido conocimiento después de efectuada la designación.
 
-##### Artículo 1429.
+###### Artículo 1429.
 
 Las partes podrán acordar libremente el procedimiento de recusación de los árbitros.
 
@@ -8084,17 +8188,17 @@ A falta de acuerdo, la parte que desee recusar a un árbitro enviará al tribuna
 
 Si no prosperase la recusación incoada en los términos del párrafo anterior, la parte recusante podrá pedir al juez, dentro de los treinta días siguientes de notificada la decisión por la que se rechaza la recusación, resuelva sobre su procedencia, decisión que será inapelable. Mientras esa petición esté pendiente, el tribunal arbitral, incluso el árbitro recusado, podrán proseguir las actuaciones arbitrales y dictar un laudo.
 
-##### Artículo 1430.
+###### Artículo 1430.
 
 Cuando un árbitro se vea impedido de hecho o por disposición legal para ejercer sus funciones o por otros motivos no las ejerza dentro de un plazo razonable, cesará en su cargo si renuncia o si las partes acuerdan su remoción. Si existe desacuerdo, cualquiera de las partes podrá solicitar al juez dé por terminado el encargo, decisión que será inapelable.
 
-##### Artículo 1431.
+###### Artículo 1431.
 
 Cuando un árbitro cese en su cargo en virtud de lo dispuesto en los artículos 1429 o 1430, renuncia, remoción por acuerdo de las partes o terminación de su encargo por cualquier otra causa, se procederá al nombramiento de un sustituto conforme al mismo procedimiento por el que se designó al árbitro que se ha de sustituir.
 
 #### CAPITULO IV · Competencia del Tribunal Arbitral
 
-##### Artículo 1432.
+###### Artículo 1432.
 
 El tribunal arbitral estará facultado para decidir sobre su propia competencia, incluso sobre las excepciones relativas a la existencia o validez del acuerdo de arbitraje. A ese efecto, la cláusula compromisoria que forme parte de un contrato se considerará como un acuerdo independiente de las demás estipulaciones del contrato. La decisión de un tribunal arbitral declarando nulo un contrato, no entrañará por ese solo hecho la nulidad de la cláusula compromisoria.
 
@@ -8102,45 +8206,45 @@ La excepción de incompetencia del tribunal arbitral deberá oponerse a más tar
 
 El tribunal arbitral podrá decidir las excepciones a que se hace referencia en el párrafo anterior, desde luego o en el laudo sobre el fondo del asunto. Si antes de emitir laudo sobre el fondo, el tribunal arbitral se declara competente, cualquiera de las partes dentro de los treinta días siguientes a aquél en que se le notifique esta decisión, podrá solicitar al juez resuelva en definitiva; resolución que será inapelable. Mientras esté pendiente dicha solicitud, el tribunal arbitral podrá proseguir sus actuaciones y dictar laudo.
 
-##### Artículo 1433.
+###### Artículo 1433.
 
 Salvo acuerdo en contrario de las partes, el tribunal arbitral podrá, a petición de una de ellas, ordenar la adopción de las providencias precautorias necesarias respecto del objeto de litigio. El tribunal arbitral podrá exigir de cualquiera de las partes una garantía suficiente en relación con esas medidas.
 
 #### CAPITULO V · Sustanciación de las Actuaciones Arbitrales
 
-##### Artículo 1434.
+###### Artículo 1434.
 
 Deberá tratarse a las partes con igualdad y darse a cada una de ellas plena oportunidad de hacer valer sus derechos.
 
-##### Artículo 1435.
+###### Artículo 1435.
 
 Con sujeción a las disposiciones del presente título, las partes tendrán libertad para convenir el procedimiento a que se haya de ajustar el tribunal arbitral en sus actuaciones.
 
 A falta de acuerdo, el tribunal arbitral podrá, con sujeción a lo dispuesto por el presente título, dirigir el arbitraje del modo que considere apropiado. Esta facultad conferida al tribunal arbitral incluye la de determinar la admisibilidad, pertinencia y valor de las pruebas.
 
-##### Artículo 1436.
+###### Artículo 1436.
 
 Las partes podrán determinar libremente el lugar del arbitraje. En caso de no haber acuerdo al respecto, el tribunal arbitral determinará el lugar del arbitraje, atendiendo las circunstancias del caso, inclusive las conveniencias de las partes.
 
 Sin perjuicio de lo dispuesto en el párrafo precedente, el tribunal arbitral podrá salvo acuerdo en contrario de las partes, reunirse en cualquier lugar que estime apropiado para celebrar deliberaciones entre sus miembros, oír a las partes, a los testigos, o a los peritos, o para examinar mercancías u otros bienes o documentos.
 
-##### Artículo 1437.
+###### Artículo 1437.
 
 Salvo que las partes hayan convenido otra cosa, las actuaciones arbitrales con respecto a una determinada controversia, se iniciarán en la fecha en que el demandado haya recibido el requerimiento de someter esa controversia al arbitraje.
 
-##### Artículo 1438.
+###### Artículo 1438.
 
 Las partes podrán acordar libremente el idioma o los idiomas que hayan de utilizarse en las actuaciones arbitrales. A falta de tal acuerdo, el tribunal arbitral determinará el o los idiomas que hayan de emplearse en las actuaciones. Este acuerdo o esta determinación será aplicable, salvo pacto en contrario, a todos los escritos de las partes, a todas las audiencias y a cualquier laudo, decisión o comunicación de otra índole que emita el tribunal arbitral.
 
 El tribunal arbitral podrá ordenar que cualquier prueba documental vaya acompañada de una traducción a uno de los idiomas convenidos por las partes o determinados por el tribunal arbitral.
 
-##### Artículo 1439.
+###### Artículo 1439.
 
 Dentro del plazo convenido por las partes o del determinado por el tribunal arbitral, el actor deberá expresar los hechos en que se funda la demanda, los puntos controvertidos y las prestaciones que reclama; y el demandado deberá referirse a todo lo planteado en la demanda, a menos que las partes hayan acordado otra cosa respecto de los elementos que la demanda y la contestación deban necesariamente contener. Las partes aportarán, al formular sus alegatos, todos los documentos que consideran pertinentes con que cuenten o harán referencia a los documentos u otras pruebas que vayan a presentar.
 
 Salvo acuerdo en contrario de las partes, éstas podrán modificar o ampliar su demanda o contestación, a menos que el tribunal arbitral considere improcedente la alteración de que se trate en razón de la demora con que se haya hecho.
 
-##### Artículo 1440.
+###### Artículo 1440.
 
 Salvo acuerdo en contrario de las partes, el tribunal arbitral decidirá si han de celebrarse audiencias para la presentación de pruebas o de alegatos orales, o si las actuaciones se substanciarán sobre la base de documentos y demás pruebas. Si las partes no hubiesen acordado la no celebración de audiencias, el tribunal arbitral celebrará dichas audiencias en la fase apropiada de las actuaciones, a petición de una de las partes.
 
@@ -8148,7 +8252,7 @@ Deberá notificarse a las partes con suficiente antelación la celebración de l
 
 De todas las declaraciones, documentos probatorios, peritajes o demás información que una de las partes suministre al tribunal arbitral se dará traslado a la otra parte.
 
-##### Artículo 1441.
+###### Artículo 1441.
 
 Salvo acuerdo en contrario de las partes, cuando, sin invocar causa justificada:
 
@@ -8158,21 +8262,21 @@ II.- El demandado no presente su contestación con arreglo a lo dispuesto en el 
 
 III.- Una de las partes no comparezca a una audiencia o no presente pruebas documentales, el tribunal arbitral podrá continuar las actuaciones y dictar el laudo basándose en las pruebas de que disponga.
 
-##### Artículo 1442.
+###### Artículo 1442.
 
 Salvo acuerdo en contrario de las partes, el tribunal arbitral podrá nombrar uno o más peritos para que le informen sobre materias concretas y solicitar a cualquiera de las partes que proporcione al perito toda la información pertinente, o le presente para su inspección o le proporcione acceso a todos los documentos, mercancías u otros bienes pertinentes.
 
-##### Artículo 1443.
+###### Artículo 1443.
 
 Salvo acuerdo en contrario de las partes, cuando una parte lo solicite o el tribunal arbitral lo considere necesario, el perito, después de la presentación de su dictamen escrito u oral, deberá participar en una audiencia en la que las partes tendrán oportunidad de formular preguntas y presentar peritos para que informen sobre los puntos controvertidos.
 
-##### Artículo 1444.
+###### Artículo 1444.
 
 El tribunal arbitral o cualquiera de las partes con la aprobación de éste, podrá solicitar la asistencia del juez para el desahogo de pruebas.
 
 #### CAPITULO VI · Pronunciamiento del Laudo y Terminación de las Actuaciones
 
-##### Artículo 1445.
+###### Artículo 1445.
 
 El tribunal arbitral decidirá el litigio de conformidad con las normas de derecho elegidas por las partes. Se entenderá que toda indicación del derecho u ordenamiento jurídico de un país determinado se refiere, a menos que se exprese lo contrario, al derecho sustantivo de ese país y no a sus normas de conflicto de leyes.
 
@@ -8182,11 +8286,11 @@ El tribunal arbitral decidirá como amigable componedor o en conciencia, sólo s
 
 En todos los casos, el tribunal arbitral decidirá con arreglo a las estipulaciones del convenio y tendrá en cuenta los usos mercantiles aplicables al caso.
 
-##### Artículo 1446.
+###### Artículo 1446.
 
 En las actuaciones arbitrales en que hubiere más de un árbitro, toda decisión del tribunal arbitral se adoptará, salvo acuerdo en contrario de las partes, por mayoría de votos. Sin embargo, el árbitro presidente podrá decidir cuestiones de procedimiento, si así lo autorizan las partes o todos los miembros del tribunal arbitral.
 
-##### Artículo 1447.
+###### Artículo 1447.
 
 Si durante las actuaciones arbitrales, las partes llegaren a una transacción que resuelva el litigio, el tribunal arbitral dará por terminadas las actuaciones y, si lo piden ambas partes y el tribunal arbitral no se opone, hará constar la transacción en forma de laudo arbitral en los términos convenidos por las partes.
 
@@ -8194,7 +8298,7 @@ Dicho laudo se dictará con arreglo a lo dispuesto en el artículo 1448.
 
 Este laudo tendrá la misma naturaleza y efectos que cualquier otro dictado sobre el fondo del litigio.
 
-##### Artículo 1448.
+###### Artículo 1448.
 
 El laudo se dictará por escrito y será firmado por el o los árbitros. En actuaciones arbitrales con más de un árbitro, bastarán las firmas de la mayoría de los miembros del tribunal arbitral, siempre que se deje constancia de las razones de la falta de una o más firmas.
 
@@ -8204,7 +8308,7 @@ Constarán en el laudo la fecha en que ha sido dictado y el lugar del arbitraje 
 
 Después de dictado el laudo, el tribunal arbitral lo notificará a cada una de las partes mediante entrega de una copia firmada por los árbitros de conformidad con el párrafo del presente artículo.
 
-##### Artículo 1449.
+###### Artículo 1449.
 
 Las actuaciones del tribunal arbitral terminan por:
 
@@ -8220,7 +8324,7 @@ c) El tribunal arbitral compruebe que la prosecución de las actuaciones resulta
 
 El tribunal arbitral cesará en sus funciones al terminar las actuaciones arbitrales, salvo lo dispuesto en los artículos 1450, 1451 y 1459.
 
-##### Artículo 1450.
+###### Artículo 1450.
 
 Dentro de los treinta días siguientes a la notificación del laudo, salvo que las partes hayan acordado otro plazo, cualquiera de ellas podrá, con notificación a la otra, pedir al tribunal arbitral:
 
@@ -8230,7 +8334,7 @@ El tribunal arbitral podrá corregir cualquiera de los errores mencionados por s
 
 II.- Si así lo acuerdan las partes, dé una interpretación sobre un punto o una parte concreta de laudo. Si el tribunal arbitral lo estima justificado, efectuará la corrección o dará la interpretación dentro de los treinta días siguientes a la recepción de la solicitud. Dicha interpretación formará parte del laudo.
 
-##### Artículo 1451.
+###### Artículo 1451.
 
 Salvo acuerdo en contrario de las partes, dentro de los treinta días siguientes a la recepción del laudo, cualquiera de las partes, con notificación a la otra parte, podrá solicitar al tribunal arbitral que dicte un laudo adicional respecto de reclamaciones formuladas en las actuaciones arbitrales pero omitidas en el laudo. Si el tribunal arbitral lo estima justificado, dictará el laudo adicional dentro de sesenta días.
 
@@ -8240,15 +8344,15 @@ En las correcciones o interpretaciones del laudo o en los laudos adicionales, se
 
 #### CAPITULO VII · De las Costas
 
-##### Artículo 1452.
+###### Artículo 1452.
 
 Las partes tienen la facultad de adoptar, ya sea directamente o por referencia a un reglamento de arbitraje, reglas relativas a las costas del arbitraje. A falta de acuerdo entre las partes, se aplicarán las disposiciones del presente capítulo.
 
-##### Artículo 1453.
+###### Artículo 1453.
 
 El tribunal arbitral fijará en el laudo las costas del arbitraje.
 
-##### Artículo 1454.
+###### Artículo 1454.
 
 Los honorarios del tribunal arbitral serán de un monto razonable, teniendo en cuenta el monto en disputa, la complejidad del tema, el tiempo dedicado por los árbitros y cualesquiera otras circunstancias pertinentes del caso.
 
@@ -8256,7 +8360,7 @@ Los honorarios de cada árbitro, se indicarán por separado y los fijará el pro
 
 Cuando una parte lo pida y el juez consienta en desempeñar esta función, el tribunal arbitral fijará sus honorarios solamente tras consultar al juez, el cual podrá hacer al tribunal arbitral las observaciones que considere apropiadas respecto de los honorarios.
 
-##### Artículo 1455.
+###### Artículo 1455.
 
 Salvo lo dispuesto en el párrafo siguiente, las costas del arbitraje serán a cargo de la parte vencida. Sin embargo, el tribunal arbitral podrá prorratear los elementos de estas costas entre las partes si decide que el prorrateo es razonable, teniendo en cuenta las circunstancias del caso.
 
@@ -8266,7 +8370,7 @@ Cuando el tribunal arbitral dicte una orden de conclusión del procedimiento arb
 
 El tribunal arbitral no podrá cobrar honorarios adicionales por la interpretación, rectificación o por completar su laudo.
 
-##### Artículo 1456.
+###### Artículo 1456.
 
 Una vez constituido, el tribunal arbitral podrá requerir a cada una de las partes que deposite una suma igual, por concepto de anticipo de honorarios del tribunal arbitral, gastos de viaje y demás expensas de los árbitros, y del costo de asesoría paricial o de cualquier otra asistencia requerida por el tribunal arbitral.
 
@@ -8280,7 +8384,7 @@ Una vez dictado el laudo, el tribunal arbitral entregará a las partes un estado
 
 #### CAPITULO VIII · De la Nulidad del Laudo
 
-##### Artículo 1457.
+###### Artículo 1457.
 
 Los laudos arbitrales sólo podrán ser anulados por el juez competente cuando.
 
@@ -8296,15 +8400,15 @@ d) La composición del tribunal arbitral o el procedimiento arbitral no se ajust
 
 II.- El juez compruebe que según la legislación mexicana, el objeto de la controversia no es susceptible de arbitraje, o que el laudo es contrario al orden público.
 
-##### Artículo 1458.
+###### Artículo 1458.
 
 La petición de nulidad deberá formularse dentro de un plazo de tres meses contado a partir de la fecha de la notificación del laudo o, si la petición se ha hecho con arreglo a los artículos 1450 y 1451 desde la fecha en que esa petición haya sido resuelta por el tribunal arbitral.
 
-##### Artículo 1459.
+###### Artículo 1459.
 
 El juez, cuando se le solicite la anulación de un laudo, podrá suspender las actuaciones de nulidad, cuando corresponda y así lo solicite una de las partes, por el plazo que determine a fin de dar al tribunal arbitral la oportunidad de reanudar las actuaciones arbitrales o de adoptar cualquier otra medida que a juicio del tribunal arbitral elimine los motivos para la petición de la nulidad.
 
-##### Artículo 1460.
+###### Artículo 1460.
 
 El procedimiento de nulidad se sustanciará incidentalmente, de conformidad con lo dispuesto por el artículo 360 del Código Federal de Procedimientos Civiles.
 
@@ -8312,13 +8416,13 @@ La resolución no será objeto de recurso alguno.
 
 #### CAPITULO IX · Reconocimiento y Ejecución de Laudos
 
-##### Artículo 1461.
+###### Artículo 1461.
 
 Un laudo arbitral, cualquiera que sea el país en que haya sido dictado, será reconocido como vinculante y, después de la presentación de una petición por escrito al juez, será ejecutado de conformidad con las disposiciones de este capítulo.
 
 La parte que invoque un laudo o pida su ejecución deberá presentar el original del laudo debidamente autenticado o copia certificada del mismo, y el original del acuerdo de arbitraje a que se refieren los artículos 1416 fracción I y 1423 o copia certificada del mismo. Si el laudo o el acuerdo no estuviera redactado en español, la parte que lo invoca deberá presentar una traducción a este idioma de dichos documentos, hecha por perito oficial.
 
-##### Artículo 1462.
+###### Artículo 1462.
 
 Sólo se podrá denegar el reconocimiento o la ejecución de un laudo arbitral, cualquiera que sea el país en que se hubiere dictado, cuando:
 
@@ -8336,157 +8440,157 @@ e) El laudo no sea aún obligatorio para las partes o hubiere sido anulado o sus
 
 II.- El juez compruebe que, según la legislación mexicana, el objeto de la controversia no es susceptible de arbitraje; o que el reconocimiento o la ejecución del laudo son contrarios al orden público.
 
-##### Artículo 1463.
+###### Artículo 1463.
 
 Si solicitó a un juez del país en que, o conforme a su derecho, fue dictado el laudo, su nulidad o suspensión, el juez al que se solicita el reconocimiento o la ejecución de laudo podrá, si lo considera procedente, aplazar su decisión y a instancia de la parte que pida el reconocimiento o la ejecución del laudo, podrá también ordenar a la otra parte que otorgue garantías suficientes.
 
 El procedimiento de reconocimiento o ejecución se sustanciará incidentalmente de conformidad con el artículo 360 del Código Federal de Procedimientos Civiles. La resolución no será objeto de recurso alguno.
 
-##### Artículo 1464.
+###### Artículo 1464.
 
 (Se deroga).
 
-##### Artículo 1465.
+###### Artículo 1465.
 
 (Se deroga).
 
-##### Artículo 1466.
+###### Artículo 1466.
 
 (Se deroga).
 
-##### Artículo 1467.
+###### Artículo 1467.
 
 (Se deroga).
 
-##### Artículo 1468.
+###### Artículo 1468.
 
 (Se deroga).
 
-##### Artículo 1469.
+###### Artículo 1469.
 
 (Se deroga).
 
-##### Artículo 1470.
+###### Artículo 1470.
 
 (Se deroga).
 
-##### Artículo 1471.
+###### Artículo 1471.
 
 (Se deroga).
 
-##### Artículo 1472.
+###### Artículo 1472.
 
 (Se deroga).
 
-##### Artículo 1473.
+###### Artículo 1473.
 
 (Se deroga).
 
-##### Artículo 1474.
+###### Artículo 1474.
 
 (Se deroga).
 
-##### Artículo 1475.
+###### Artículo 1475.
 
 (Se deroga).
 
-##### Artículo 1476.
+###### Artículo 1476.
 
 (Se deroga).
 
-##### Artículo 1477.
+###### Artículo 1477.
 
 (Se deroga).
 
-##### Artículo 1478.
+###### Artículo 1478.
 
 (Se deroga).
 
-##### Artículo 1479.
+###### Artículo 1479.
 
 (Se deroga).
 
-##### Artículo 1480.
+###### Artículo 1480.
 
 (Se deroga).
 
-##### Artículo 1481.
+###### Artículo 1481.
 
 (Se deroga).
 
-##### Artículo 1482.
+###### Artículo 1482.
 
 (Se deroga).
 
-##### Artículo 1483.
+###### Artículo 1483.
 
 (Se deroga).
 
-##### Artículo 1484.
+###### Artículo 1484.
 
 (Se deroga).
 
-##### Artículo 1485.
+###### Artículo 1485.
 
 (Se deroga).
 
-##### Artículo 1486.
+###### Artículo 1486.
 
 (Se deroga).
 
-##### Artículo 1487.
+###### Artículo 1487.
 
 (Se deroga).
 
-##### Artículo 1488.
+###### Artículo 1488.
 
 (Se deroga).
 
-##### Artículo 1489.
+###### Artículo 1489.
 
 (Se deroga).
 
-##### Artículo 1490.
+###### Artículo 1490.
 
 (Se deroga).
 
-##### Artículo 1491.
+###### Artículo 1491.
 
 (Se deroga).
 
-##### Artículo 1492.
+###### Artículo 1492.
 
 (Se deroga).
 
-##### Artículo 1493.
+###### Artículo 1493.
 
 (Se deroga).
 
-##### Artículo 1494.
+###### Artículo 1494.
 
 (Se deroga).
 
-##### Artículo 1495.
+###### Artículo 1495.
 
 (Se deroga).
 
-##### Artículo 1496.
+###### Artículo 1496.
 
 (Se deroga).
 
-##### Artículo 1497.
+###### Artículo 1497.
 
 (Se deroga).
 
-##### Artículo 1498.
+###### Artículo 1498.
 
 (Se deroga).
 
-##### Artículo 1499.
+###### Artículo 1499.
 
 (Se deroga).
 
-##### Artículo 1500.
+###### Artículo 1500.
 
 (Se deroga).
 
@@ -8797,3 +8901,123 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 11 de marzo de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de abril de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción III del artículo 1347-A del Código de Comercio y la fracción III del artículo 571 del Código Federal de Procedimientos Civiles.
+
+*Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2008*
+
+**PRIMERO.-** Se reforma la fracción III de artículo 1347-A del Código de Comercio, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** La ejecución de las sentencias, laudos y resoluciones dictadas con anterioridad a la entrada en vigor del presente decreto, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+México, D.F., a 4 de diciembre de 2008.- Sen. Gustavo Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jaquez, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. Santiago Gustavo Pedro Cortés, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2008*
+
+**Artículo Único.-** Se reforman los artículos 1054; 1154; 1165, último párrafo; 1253, fracción VI, segundo párrafo y la fracción VII; 1339; 1340; 1344; 1345 bis 1, párrafo segundo; 1345 bis 4, párrafo segundo; 1345 bis 7, párrafo primero; 1399; 1407 bis, primer párrafo; se adicionan las fracciones V, VI, VII, VIII, IX y X al artículo 1345 y se derogan, el segundo párrafo, del artículo 1345 bis 7 y las fracciones I, II, III, IV y V del artículo 1407 bis del Código de Comercio, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El presente Decreto no será aplicable a los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de la reforma al Código de Comercio publicada en el Diario Oficial de la Federación el 17 de abril de 2008.
+
+México, D.F., a 2 de diciembre de 2008.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Margarita Arenas Guzmán, Secretaria.- Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones del Código de Comercio y de la Ley General de Sociedades Mercantiles.
+
+*Publicado en el Diario Oficial de la Federación el 2 de junio de 2009*
+
+**Artículo Primero.** Se reforman los artículos 19, 21, fracciones V, VII y XII, del Código de Comercio, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 30 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 1069 del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 8 de junio de 2009*
+
+**Artículo Único.** Se reforma el segundo párrafo del Artículo 1069 del Código de Comercio, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Artículo Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 23 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Manuel Portilla Dieguez, Secretario.- Sen. Gabino Cué Monteagudo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 1350 del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 8 de junio de 2009*
+
+**Artículo Único.** Se reforma el Artículo 1350 del Código de Comercio, para quedar como sigue:
+
+………..
+
+**TRANSITORIO**
+
+**Artículo Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 23 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria del Carmen Pinete Vargas, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Cámaras Empresariales y sus Confederaciones y del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 9 de junio de 2009*
+
+**Artículo Segundo.** Se adiciona un párrafo segundo, recorriéndose en su orden los actuales, al artículo 1051 del Código de Comercio, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 30 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 27 de agosto de 2009*
+
+**Artículo Único.** Se reforman los artículos 21, fracción IV y XIX; 21 bis 1; 30 bis, segundo párrafo; 30 bis 1; 31, primer párrafo y se adiciona, una fracción XX al artículo 21, una fracción III al artículo 21 bis, un segundo párrafo al artículo 22, un cuarto párrafo al artículo 30 y una "Sección Única" denominada "Del Registro Único de Garantías Mobiliarias" con los artículos 32 bis 1, 32 bis 2, 32 bis 3, 32 bis 4, 32 bis 5, 32 bis 6, 32 bis 7, 32 bis 8 y 32 bis 9, al Capítulo II del Título Segundo del Libro Primero, todos del Código de Comercio, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Registro Único de Garantías Mobiliarias a que se refiere la Sección Única del Capítulo II del Título Segundo del Libro Primero del Código de Comercio, deberá iniciar operaciones a más tardar dentro del año siguiente a la entrada en vigor del presente Decreto, con apego a las normas reglamentarias que se expidan al efecto.
+
+**Tercero.** Hasta en tanto inicie operaciones el Registro Único de Garantías Mobiliarias, no será exigible ninguna inscripción a través del mismo.
+
+México, D.F., a 15 de abril de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. Jacinto Gomez Pasillas, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinte de agosto de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
