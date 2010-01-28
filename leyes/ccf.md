@@ -3,12 +3,12 @@ title: Código Civil Federal
 abbreviation: CCF
 slug: ccf
 published_dof: 1928-05-26
-last_reform_dof: 2007-04-13
+last_reform_dof: 2010-01-28
 articles: 3101
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/2.doc
-archived: https://web.archive.org/web/20070609115916/http://www.diputados.gob.mx/LeyesBiblio/doc/2.doc
-source_sha256: a9c77638d730a908f02ef1b0eb8033b79dd9fca00d9645e799d1aaa17287ca70
-retrieved: 2007-06-09
+archived: https://web.archive.org/web/20110124071914/http://www.diputados.gob.mx:80/LeyesBiblio/doc/2.doc
+source_sha256: 85e1f82b8a5f581bebc00cd45c4fa33a8835c6f22f85efdab1b25ddc407ff0aa
+retrieved: 2011-01-24
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccf.htm
 ---
 
@@ -20,7 +20,7 @@ los días 26 de mayo, 14 de julio, 3 y 31 de agosto de 1928
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 13-04-2007
+Última reforma publicada DOF 28-01-2010
 
 El C. Presidente Constitucional de la República se ha servido dirigirme el decreto que sigue:
 
@@ -8314,7 +8314,7 @@ Los efectos de la aceptación o repudiación de la herencia se retrotraen siempr
 
 ###### Artículo 1661.
 
-La repudiación debe ser expresa y hacerse por escrito ante el juez, o por medio de instrumento público otorgado ante Notario, cuando el heredero no se encuentra en el lugar del juicio.
+La repudiación debe ser expresa y hacerse por escrito ante el juez, o por medio de instrumento público otorgado ante Notario.
 
 ###### Artículo 1662.
 
@@ -8970,7 +8970,7 @@ I. Por incapacidad legal de las partes o de una de ellas;
 
 II. Por vicios del consentimiento;
 
-III. Por su objeto, o su motivo o fin sea ilícito;
+III. Porque su objeto, o su motivo o fin sea ilícito;
 
 IV. Porque el consentimiento no se haya manifestado en la forma que la ley establece.
 
@@ -14454,7 +14454,7 @@ La hipoteca de una construcción levantada en terreno ajeno no comprende el áre
 
 ###### Artículo 2900.
 
-Puede hipotecarse la nula propiedad, en cuyo caso si el usufructo se consolidare con ella en la persona del propietario, la hipoteca se extenderá al mismo usufructo si así se hubiere pactado.
+Puede hipotecarse la nuda propiedad, en cuyo caso si el usufructo se consolidare con ella en la persona del propietario, la hipoteca se extenderá al mismo usufructo si así se hubiere pactado.
 
 ###### Artículo 2901.
 
@@ -15921,3 +15921,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 6 de marzo de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 1661 del Código Civil Federal.
+
+*Publicado en el Diario Oficial de la Federación el 28 de enero de 2010*
+
+**Artículo Único.-** Se reforma el artículo 1661 del Código Civil Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 24 de noviembre de 2009.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Balfre Vargas Cortez, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de enero de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
