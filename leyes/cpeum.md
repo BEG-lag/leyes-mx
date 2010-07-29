@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2008-09-26
+last_reform_dof: 2010-07-29
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
-archived: https://web.archive.org/web/20081216095947/http://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
-source_sha256: 98f9abdf69571d020f22d74c9eec1e3192ae9af1c38fc54849595c110d718725
-retrieved: 2008-12-16
+archived: https://web.archive.org/web/20100821002615/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1.doc
+source_sha256: aa899aa8b79d9b4d4eeadf108959ca0462af4d17ec7f5ad140c13bb80b3a5561
+retrieved: 2010-08-21
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 26-09-2008
+Última reforma publicada DOF 29-07-2010
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -154,6 +154,8 @@ Los ascendientes, tutores y custodios tienen el deber de preservar estos derecho
 
 El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
 
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
+
 ##### Artículo 5o.
 
 A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial.
@@ -244,6 +246,8 @@ No se autoriza la celebración de tratados para la extradición de reos polític
 
 Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
 
+Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros.
+
 No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
 La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la ley penal.
@@ -281,6 +285,8 @@ En tiempo de paz ningún miembro del Ejército podrá alojarse en casa particula
 Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
 
 Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+
+El Congreso de la Unión expedirá las leyes que regulen las acciones colectivas. Tales leyes determinarán las materias de aplicación, los procedimientos judiciales y los mecanismos de reparación del daño. Los jueces federales conocerán de forma exclusiva sobre estos procedimientos y mecanismos.
 
 Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
 
@@ -1222,7 +1228,7 @@ XIX. Para fijar las reglas a que debe sujetarse la ocupación y enajenación de 
 
 XX. Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerpo Consular mexicano.
 
-XXI. Para establecer los delitos y faltas contra la Federación y fijar los castigos que por ellos deban imponerse, así como legislar en materia de delincuencia organizada.
+XXI. Para establecer los delitos y las faltas contra la Federación y fijar los castigos que por ellos deban imponerse; expedir una ley general en materia de secuestro, que establezca, como mínimo, los tipos penales y sus sanciones, la distribución de competencias y las formas de coordinación entre la Federación, el Distrito Federal, los Estados y los Municipios; así como legislar en materia de delincuencia organizada.
 
 Las autoridades federales podrán conocer también de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales;
 
@@ -1234,7 +1240,7 @@ XXIII. Para expedir leyes que establezcan las bases de coordinación entre la Fe
 
 XXIV. Para expedir la Ley que regule la organización de la entidad de fiscalización superior de la Federación y las demás que normen la gestión, control y evaluación de los Poderes de la Unión y de los entes públicos federales;
 
-XXV. Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, los Estados y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República.
+XXV. Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, los Estados y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República. Para legislar en materia de derechos de autor y otras figuras de la propiedad intelectual relacionadas con la misma.
 
 XXVI. Para conceder licencia al Presidente de la República y para constituirse en Colegio Electoral y designar al ciudadano que deba substituir al Presidente de la República, ya sea con el carácter de substituto, interino o provisional, en los términos de los artículos 84 y 85 de esta Constitución.
 
@@ -1296,6 +1302,10 @@ XXIX-M. Para expedir leyes en materia de seguridad nacional, estableciendo los r
 
 XXIX-N. Para expedir leyes en materia de constitución, organización, funcionamiento y extinción de las sociedades cooperativas. Estas leyes establecerán las bases para la concurrencia en materia de fomento y desarrollo sustentable de la actividad cooperativa de la Federación, Estados y Municipios, así como del Distrito Federal, en el ámbito de sus respectivas competencias.
 
+XXIX-Ñ. Para expedir leyes que establezcan las bases sobre las cuales la Federación, los Estados, los Municipios y el Distrito Federal coordinarán sus acciones en materia de cultura, salvo lo dispuesto en la fracción XXV de este artículo. Asimismo, establecerán los mecanismos de participación de los sectores social y privado, con objeto de cumplir los fines previstos en el párrafo noveno del artículo 4o. de esta Constitución.
+
+XXIX-O. Para legislar en materia de protección de datos personales en posesión de particulares.
+
 XXX. Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
 
 ##### Artículo 74.
@@ -1345,6 +1355,10 @@ VIII. Las demás que le confiere expresamente esta Constitución.
 ##### Artículo 75.
 
 La Cámara de Diputados, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley; y en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.
+
+En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 127 de esta Constitución y en las leyes que en la materia expida el Congreso General.
+
+Los poderes federales Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos de la Federación, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del presupuesto de egresos, prevé el artículo 74 fracción IV de esta Constitución y demás disposiciones legales aplicables.
 
 ##### Artículo 76.
 
@@ -2134,7 +2148,7 @@ Las leyes federales no limitarán la facultad de los Estados para establecer las
 
 Los ayuntamientos, en el ámbito de su competencia, propondrán a las legislaturas estatales las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-Las legislaturas de los Estados aprobarán las leyes de ingresos de los municipios, revisarán y fiscalizarán sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles.
+Las legislaturas de los Estados aprobarán las leyes de ingresos de los municipios, revisarán y fiscalizarán sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 127 de esta Constitución.
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley;
 
@@ -2199,6 +2213,10 @@ II. El número de representantes en las legislaturas de los Estados será propor
 Los diputados a las legislaturas de los Estados no podrán ser reelectos para el período inmediato. Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietario, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
 Las legislaturas de los Estados se integrarán con diputados elegidos según los principios de mayoría relativa y de representación proporcional, en los términos que señalen sus leyes;
+
+Corresponde a las legislaturas de los Estados la aprobación anual del presupuesto de egresos correspondiente. Al señalar las remuneraciones de servidores públicos deberán sujetarse a las bases previstas en el artículo 127 de esta Constitución.
+
+Los poderes estatales Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en sus constituciones locales, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación de los presupuestos de egresos de los Estados, establezcan las disposiciones constitucionales y legales aplicables.
 
 Las legislaturas de los estados contarán con entidades estatales de fiscalización, las cuales serán órganos con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan sus leyes. La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
 
@@ -2372,7 +2390,9 @@ V. La Asamblea Legislativa, en los términos del Estatuto de Gobierno, tendrá l
 
 a) Expedir su ley orgánica, la que será enviada al Jefe de Gobierno del Distrito Federal para el solo efecto de que ordene su publicación;
 
-b) Examinar, discutir y aprobar anualmente el presupuesto de egresos y la ley de ingresos del Distrito Federal, aprobando primero las contribuciones necesarias para cubrir el presupuesto.
+b) Examinar, discutir y aprobar anualmente el presupuesto de egresos y la ley de ingresos del Distrito Federal, aprobando primero las contribuciones necesarias para cubrir el presupuesto. Al señalar las remuneraciones de servidores públicos deberán sujetarse a las bases previstas en el artículo 127 de esta Constitución.
+
+Los órganos del Distrito Federal, Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en su Estatuto de Gobierno, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del presupuesto de egresos del Distrito Federal, establezcan las disposiciones del Estatuto de Gobierno y legales aplicables.
 
 Dentro de la ley de ingresos, no podrán incorporarse montos de endeudamiento superiores a los que haya autorizado previamente el Congreso de la Unión para el financiamiento del presupuesto de egresos del Distrito Federal.
 
@@ -2452,9 +2472,9 @@ I. Para ser magistrado del Tribunal Superior se deberán reunir los mismos requi
 
 Para cubrir las vacantes de magistrados del Tribunal Superior de Justicia, el Jefe de Gobierno del Distrito Federal someterá la propuesta respectiva a la decisión de la Asamblea Legislativa. Los Magistrados ejercerán el cargo durante seis años y podrán ser ratificados por la Asamblea; y si lo fuesen, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
 
-II. La administración, vigilancia y disciplina del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales, estará a cargo del Consejo de la Judicatura del Distrito Federal. El Consejo de la Judicatura tendrá siete miembros, uno de los cuales será el presidente del Tribunal Superior de Justicia, quien también presidirá el Consejo. Los miembros restantes serán: un Magistrado, un Juez de Primera Instancia y un Juez de Paz, elegidos mediante insaculación; uno designado por el Jefe de Gobierno del Distrito Federal y otros dos nombrados por la Asamblea Legislativa. Todos los Consejeros deberán reunir los requisitos exigidos para ser magistrado y durarán cinco años en su cargo; serán sustituidos de manera escalonada y no podrán ser nombrados para un nuevo periodo.
+II. La administración, vigilancia y disciplina del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales, estará a cargo del Consejo de la Judicatura del Distrito Federal. El Consejo de la Judicatura tendrá siete miembros, uno de los cuales será el presidente del Tribunal Superior de Justicia, quien también lo será del Consejo. Los miembros restantes serán: un Magistrado y dos jueces elegidos por mayoría de votos de las dos terceras partes del Pleno de Magistrados; uno designado por el Jefe del Gobierno del Distrito Federal y otros dos nombrados por la Asamblea Legislativa. Todos los Consejeros deberán reunir los requisitos exigidos para ser Magistrado y serán personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades, en el caso de los elegidos por el Pleno de Magistrados deberán gozar, además, con reconocimiento por sus méritos profesionales en el ámbito judicial. Durarán cinco años en su cargo; serán sustituidos de manera escalonada y no podrán ser nombrados para un nuevo periodo.
 
-El Consejo designará a los Jueces de Primera Instancia y a los que con otra denominación se creen en el Distrito Federal, en los términos que las disposiciones prevean en materia de carrera judicial;
+El Consejo designará a los jueces del Distrito Federal, en los términos que las disposiciones prevean en materia de carrera judicial. También determinará el número y especialización por materia de las salas del tribunal y juzgados que integran el Poder Judicial del Distrito Federal, de conformidad con lo que establezca el propio Consejo.
 
 lll. Se determinarán las atribuciones y las normas de funcionamiento del Consejo de la Judicatura, tomando en cuenta lo dispuesto por el artículo 100 de esta Constitución;
 
@@ -2666,7 +2686,7 @@ II. Por cada seis días de trabajo, disfrutará el trabajador de un día de desc
 
 III. Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año;
 
-IV. Los salarios serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuída durante la vigencia de éstos.
+IV. Los salarios serán fijados en los presupuestos respectivos sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 127 de esta Constitución y en la ley.
 
 En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general en el Distrito Federal y en las Entidades de la República.
 
@@ -2732,7 +2752,21 @@ No podrá hacerse pago alguno que no esté comprendido en el Presupuesto o deter
 
 ##### Artículo 127.
 
-El Presidente de la República, los Ministros de la Suprema Corte de Justicia de la Nación, los Diputados y Senadores al Congreso de la Unión, los Representantes a la Asamblea del Distrito Federal y los demás servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en los Presupuestos de Egresos de la Federación y del Distrito Federal o en los presupuestos de las entidades paraestatales, según corresponda.
+Los servidores públicos de la Federación, de los Estados, del Distrito Federal y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
+
+III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente.
+
+IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+VI. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus competencias, expedirán las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
 
 ##### Artículo 128.
 
@@ -3392,6 +3426,10 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 **SEGUNDO.** Los Estados de la Federación y el Distrito Federal contarán con seis meses a partir de la entrada en vigor del Decreto, para crear las leyes, instituciones y órganos que se requieran para la aplicación del presente Decreto.
 
+La Federación contará con un año a partir de la entrada en vigor del presente decreto, para expedir las leyes y establecer las instituciones y los órganos que se requieran en el orden federal para la implementación del sistema de justicia integral para adolescentes.
+
+**TERCERO.** Los asuntos en trámite hasta el momento en que entren en vigor las leyes y se implementen las instituciones y los órganos a que se refiere el transitorio anterior se concluirán conforme a la legislación con que se iniciaron. Los asuntos que se encuentren pendientes de resolución en el momento en que inicie la operación del nuevo sistema se remitirán a la autoridad que resulte competente para que continúe en el conocimiento de éstos hasta su conclusión.
+
 México, D.F., a 8 de noviembre de 2005.- Dip. Heliodoro Díaz Escárraga, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Yolanda E. González Hernández, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los primer día del mes de diciembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
@@ -3807,3 +3845,167 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 13 de agosto de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. María Oralia Vega Ortiz, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de septiembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+### DECRETO por el que se adiciona un párrafo noveno al artículo 4o.; se reforma la fracción XXV y se adiciona una fracción XXIX-Ñ al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 30 de abril de 2009*
+
+**Artículo Único.** Se adiciona un párrafo noveno al artículo 4o.; se reforma la fracción XXV y se adiciona una fracción XXIX-Ñ al artículo 73, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Todos los actos jurídicos emitidos y fundamentados en las leyes anteriores y en la Ley Federal del Derecho de Autor vigente, tales como registros de obras y contratos, reservas de derechos otorgadas, resoluciones a procedimientos entre otros, así como los celebrados entre particulares, contratos, convenios, sucesiones testamentarias, conservarán su validez.
+
+México, D.F., a 24 de marzo de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Gabino Cue Monteagudo, Secretario.- Dip. Manuel Portilla Dieguez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de abril de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se adiciona la fracción XXIX-O al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 30 de abril de 2009*
+
+**Artículo Único.-** Se adiciona la fracción XXIX-O al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión deberá expedir la ley en la materia en un plazo no mayor de 12 meses, contados a partir de la entrada en vigor del presente Decreto.
+
+**Tercero.-** En tanto el Congreso de la Unión expide la ley respectiva a la facultad que se otorga en este Decreto, continuarán vigentes las disposiciones que sobre la materia hayan dictado las legislaturas de las entidades federativas, en tratándose de datos personales en posesión de particulares.
+
+México, D. F., a 24 de marzo de 2009.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Gabino Cue Monteagudo, Secretario.- Dip. María Eugenia Jiménez Valenzuela, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de abril de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforma el párrafo primero de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 4 de mayo de 2009*
+
+**Artículo Único.** Se reforma el párrafo primero de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Las legislaciones en materia de secuestro de las entidades federativas, continuarán en vigor hasta en tanto el Congreso de la Unión ejerza la facultad conferida en el artículo 73, fracción XXI, de esta Constitución. Los procesos penales iniciados con fundamento en dichas legislaciones, así como las sentencias emitidas con base en las mismas, no serán afectados por la entrada en vigor de la legislación general. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme a las disposiciones vigentes antes de la entrada en vigor de esta última.
+
+México, D.F., a 24 de marzo de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Gabino Cue Monteagudo, Secretario.- Dip. Margarita Arenas Guzman, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de abril de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se adiciona un segundo párrafo, recorriéndose los subsecuentes en su orden, al artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 1 de junio de 2009*
+
+**Artículo Único.-** Se adiciona un segundo párrafo, recorriéndose los subsecuentes en su orden, al artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**ARTÍCULO TRANSITORIO**
+
+**Artículo Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 21 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Margarita Arenas Guzman, Secretaria.- Sen. Gabino Cué Monteagudo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### FE de errata al Decreto por el que se adiciona un segundo párrafo, recorriéndose los subsecuentes en su orden, al artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 1 de junio de 2009.
+
+*Publicada en el Diario Oficial de la Federación el 25 de junio de 2009*
+
+En la Primera Sección, página 4, en el último párrafo transcrito, dice:
+
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que proceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
+
+Debe decir:
+
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
+
+### DECRETO por el que se adiciona un segundo párrafo al artículo segundo transitorio y un artículo tercero transitorio al decreto por el que se declaran reformado el párrafo cuarto y adicionados los párrafos quinto y sexto, y se recorre el orden de los últimos dos párrafos del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 12 de diciembre de 2005.
+
+*Publicado en el Diario Oficial de la Federación el 14 de agosto de 2009*
+
+**Artículo Único.** Se adicionan un segundo párrafo al artículo segundo transitorio y un artículo tercero transitorio al Decreto por el que se declara reformado el párrafo cuarto y adicionados los párrafos quinto y sexto, y se recorre en su orden los últimos dos párrafos del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 12 de diciembre de 2005, para quedar como sigue:
+
+……….
+
+**Artículo Transitorio**
+
+**Único.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 15 de julio de 2009.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Esmeralda Cárdenas Sánchez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de agosto de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan los artículos 75, 115, 116, 122, 123 y 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 24 de agosto de 2009*
+
+**Artículo Único.** Se reforman el párrafo cuarto del inciso c) de la fracción IV del artículo 115; el primer párrafo del inciso b) de la fracción V de la BASE PRIMERA del artículo 122; el primer párrafo de la fracción IV del apartado B del artículo 123; el artículo 127, y se adicionan los párrafos segundo y tercero al artículo 75; los párrafos cuarto y quinto a la fracción II del artículo 116, recorriéndose en su orden los actuales cuarto y quinto; un párrafo segundo, recorriéndose en su orden los actuales segundo a quinto, al inciso b) de la fracción V de la BASE PRIMERA al artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
+
+**Segundo.** Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+**Tercero.** A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto las percepciones de los ministros de la Suprema Corte de Justicia de la Nación, los magistrados del Tribunal Electoral del Poder Judicial de la Federación, los magistrados de Circuito, los jueces de Distrito, los consejeros de la Judicatura Federal, los integrantes del Consejo General del Instituto Federal Electoral y los magistrados y jueces de los Poderes Judiciales Estatales, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, se mantendrán durante el tiempo que dure su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+
+**Cuarto.** El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de su competencia, deberán expedir o adecuar la legislación, de conformidad con los términos del presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
+
+**Quinto.** El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de su competencia, deberán tipificar y sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
+
+México, D.F., a 22 de julio de 2009.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Esmeralda Cárdenas Sánchez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de agosto de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción II, de la Base Cuarta del Apartado C del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 27 de abril de 2010*
+
+**Artículo Único.** Se reforma la fracción II, de la Base Cuarta del Apartado C del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D. F., a 2 de marzo de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. Jaime Arturo Vázquez Aguilar, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de abril de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se adiciona un párrafo tercero y se recorre el orden de los párrafos subsecuentes del artículo 17 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 29 de julio de 2010*
+
+**ÚNICO.-** Se adiciona un párrafo tercero y se recorre el orden de los párrafos subsecuentes del artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Congreso de la Unión deberá realizar las adecuaciones legislativas que correspondan en un plazo máximo de un año contado a partir del inicio de la vigencia de este Decreto.
+
+México, D.F., a 9 de junio de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Óscar Saúl Castillo Andrade, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de julio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
