@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2008-06-26
-articles: 506
+last_reform_dof: 2010-08-19
+articles: 513
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-archived: https://web.archive.org/web/20080911225026/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-source_sha256: 64158cb110a5d7d3d84e6e3bff80882827847ac7713a9c5b1e473077b4ce1327
-retrieved: 2008-09-11
+archived: https://web.archive.org/web/20101122030248/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9.doc
+source_sha256: 09e73760c8bdcfc72b1b396b07d65e034b2d14bc752585fe1eeabce8cb358da1
+retrieved: 2010-11-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 26-06-2008
+Última reforma publicada DOF 19-08-2010
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -81,6 +81,8 @@ V.- Los cometidos en las embajadas y legaciones mexicanas.
 Cuando se cometa un delito no previsto en este Código, pero sí en una ley especial o en un tratado internacional de observancia obligatoria en México, se aplicarán éstos, tomando en cuenta las disposiciones del Libro Primero del presente Código y, en su caso, las conducentes del Libro Segundo.
 
 Cuando una misma materia aparezca regulada por diversas disposiciones, la especial prevalecerá sobre la general.
+
+En caso de delitos cometidos en contra de niñas, niños y adolescentes siempre se procurará el interés superior de la infancia que debe prevalecer en toda aplicación de ley.
 
 ### TITULO PRIMERO · Responsabilidad Penal
 
@@ -352,7 +354,7 @@ La reparación del daño comprende:
 
 I.- La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma;
 
-II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. En los casos de delitos contra la libertad y el normal desarrollo psicosexual y de violencia familiar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, y
+II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, y
 
 III.- El resarcimiento de los perjuicios ocasionados.
 
@@ -388,7 +390,9 @@ V.- Las sociedades o agrupaciones, por los delitos de sus socios o gerentes dire
 
 Se exceptúa de esta regla a la sociedad conyugal, pues, en todo caso, cada cónyuge responderá con sus bienes propios por la reparación del daño que cause, y
 
-VI.- El Estado, solidariamente, por los delitos dolosos de sus servidores públicos realizados con motivo del ejercicio de sus funciones, y subsidiariamente cuando aquéllos fueren culposos.
+VI. Cualquier institución, asociación, organización o agrupación de carácter religioso, cultural, deportivo, educativo, recreativo o de cualquier índole, cuyos empleados, miembros, integrantes, auxiliares o ayudantes que realicen sus actividades de manera voluntaria o remunerada, y
+
+VII.- El Estado, solidariamente, por los delitos dolosos de sus servidores públicos realizados con motivo del ejercicio de sus funciones, y subsidiariamente cuando aquéllos fueren culposos.
 
 ##### Artículo 33.
 
@@ -524,7 +528,7 @@ En los casos de los artículos 60, fracción VI, 61, 63, 64, 64-Bis y 65 y en cu
 
 ##### Artículo 52.
 
-El juez fijará las penas y medidas de seguridad que estime justas y procedentes dentro de los límites señalados para cada delito, con base en la gravedad del ilícito y el grado de culpabilidad del agente, teniendo en cuenta:
+El juez fijará las penas y medidas de seguridad que estime justas y procedentes dentro de los límites señalados para cada delito, con base en la gravedad del ilícito, la calidad y condición específica de la víctima u ofendido y el grado de culpabilidad del agente, teniendo en cuenta:
 
 I.- La magnitud del daño causado al bien jurídico o del peligro a que hubiere sido expuesto;
 
@@ -532,7 +536,7 @@ II.- La naturaleza de la acción u omisión y de los medios empleados para ejecu
 
 III.- Las circunstancias de tiempo, lugar, modo u ocasión del hecho realizado;
 
-IV.- La forma y grado de intervención del agente en la comisión del delito, así como su calidad y la de la víctima u ofendido;
+IV.- La forma y grado de intervención del agente en la comisión del delito;
 
 V.- La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a algún pueblo o comunidad indígena, se tomarán en cuenta, además, sus usos y costumbres;
 
@@ -786,7 +790,7 @@ a) Uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el 
 
 b) Contra la salud, previsto en el artículo 194, salvo que se trate de individuos en los que concurran evidente atraso cultural, aislamiento social y extrema necesidad económica; y para la modalidad de transportación, si cumplen con los requisitos establecidos en los artículos 84 y 90, fracción I, inciso c), para lo cual deberán ser primodelincuentes, a pesar de no hallarse en los tres supuestos señalados en la excepción general de este inciso;
 
-c) Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 203 y 203 bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204;
+c) Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 203 y 203 bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; Pederastia, previsto en el artículo 209 Bis;
 
 d) Violación, previsto en los artículos 265, 266 y 266 bis;
 
@@ -824,7 +828,7 @@ El condenado cuya libertad preparatoria sea revocada deberá cumplir el resto de
 
 ##### Artículo 87.
 
-Los sentenciados que disfruten de libertad preparatoria, quedarán bajo el cuidado y vigilancia de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social.
+Los sentenciados que disfruten de libertad preparatoria, concedida por la autoridad judicial, quedarán bajo el cuidado y vigilancia del Órgano Administrativo Desconcentrado Prevención y Readaptación Social, de la Secretaría de Seguridad Pública y de aquellas autoridades que participen en la fase de ejecución de sentencias, con el auxilio de la Policía Federal Preventiva.
 
 ##### Artículo 88.
 
@@ -881,6 +885,12 @@ VIII.- Los hechos que originen el nuevo proceso interrumpen el término a que se
 IX.- En caso de falta de cumplimiento de las obligaciones contraídas por el condenado, el juez podrá hacer efectiva la sanción suspendida o amonestarlo, con el apercibimiento de que, si vuelve a faltar a alguna de las condiciones fijadas, se hará efectiva dicha sanción.
 
 X.- El reo que considere que al dictarse sentencia reunía las condiciones fijadas en este precepto y que está en aptitud de cumplir los demás requisitos que se establecen, si es por inadvertencia de su parte o de los tribunales que no obtuvo en la sentencia el otorgamiento de la condena condicional, podrá promover que se le conceda, abriendo el incidente respectivo ante el juez de la causa.
+
+#### CAPITULO V · Transparencia en los beneficios de libertad anticipada o condena condicional
+
+##### Artículo 90 Bis.
+
+El Órgano Administrativo Desconcentrado Prevención y Readaptación Social, de la Secretaría de Seguridad Pública y aquellas autoridades que participen en la fase de ejecución de sentencias remitirán un informe al Sistema Nacional de Seguridad Pública en forma periódica en el que especificará el número de sentenciados del orden federal, las penas impuestas, el número de expedientes beneficiados con libertad anticipada o condena condicional, y el número de acciones de la autoridad para supervisar su debida ejecución.
 
 ### TITULO QUINTO · Extinción de la Responsabilidad Penal
 
@@ -989,6 +999,12 @@ La acción penal prescribirá en dos años, si el delito sólo mereciere destitu
 Cuando la ley no prevenga otra cosa, la acción penal que nazca de un delito que sólo puede perseguirse por querella del ofendido o algún otro acto equivalente, prescribirá en un año, contado desde el día en que quienes puedan formular la querella o el acto equivalente, tengan conocimiento del delito y del delincuente, y en tres, fuera de esta circunstancia.
 
 Pero una vez llenado el requisito de procedibilidad dentro del plazo antes mencionado, la prescripción seguirá corriendo según las reglas para los delitos perseguibles de oficio.
+
+##### Artículo 107 Bis.
+
+El término de prescripción de los delitos previstos en el Título Octavo del Libro Segundo de este Código cometidos en contra de una víctima menor de edad, comenzará a correr a partir de que ésta cumpla la mayoría de edad.
+
+En el caso de aquellas personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, correrá a partir del momento en que exista evidencia de la comisión de esos delitos ante el Ministerio Público.
 
 ##### Artículo 108.
 
@@ -1684,6 +1700,10 @@ I.- Produzca, transporte, trafique, comercie, suministre aun gratuitamente o pre
 
 Para los efectos de esta fracción, por producir se entiende: manufacturar, fabricar, elaborar, preparar o acondicionar algún narcótico, y por comerciar: vender, comprar, adquirir o enajenar algún narcótico.
 
+Por suministro se entiende la transmisión material de forma directa o indirecta, por cualquier concepto, de la tenencia de narcóticos.
+
+El comercio y suministro de narcóticos podrán ser investigados, perseguidos y, en su caso sancionados por las autoridades del fuero común en los términos de la Ley General de Salud, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento.
+
 II.- Introduzca o extraiga del país alguno de los narcóticos comprendidos en el artículo anterior, aunque fuere en forma momentánea o en tránsito.
 
 Si la introducción o extracción a que se refiere esta fracción no llegare a consumarse, pero de los actos realizados se desprenda claramente que esa era la finalidad del agente, la pena aplicable será de hasta las dos terceras partes de la prevista en el presente artículo.
@@ -1696,17 +1716,25 @@ Las mismas penas previstas en este artículo y, además, privación del cargo o 
 
 ##### Artículo 195.
 
-Se impondrá de cinco a quince años de prisión y de cien a trescientos cincuenta días multa, al que posea alguno de los narcóticos señalados en el artículo 193, sin la autorización correspondiente a que se refiere la Ley General de Salud, siempre y cuando esa posesión sea con la finalidad de realizar alguna de las conductas previstas en el artículo 194.
+Se impondrá de cinco a quince años de prisión y de cien a trescientos cincuenta días multa, al que posea alguno de los narcóticos señalados en el artículo 193, sin la autorización correspondiente a que se refiere la Ley General de Salud, siempre y cuando esa posesión sea con la finalidad de realizar alguna de las conductas previstas en el artículo 194, ambos de este código.
 
-No se precederá en contra de quien, no siendo farmacodependiente se le encuentre en posesión de alguno de los narcóticos señalados en el artículo 193, por una sola vez y en cantidad tal que pueda presumirse que está destinada a su consumo personal.
+La posesión de narcóticos podrá ser investigada, perseguida y, en su caso sancionada por las autoridades del fuero común en los términos de la Ley General de Salud, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento.
 
-No se procederá por la simple posesión de medicamentos, previstos entre los narcóticos a los que se refiere el artículo 193, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por se naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
+Cuando el inculpado posea alguno de los narcóticos señalados en la tabla prevista en el artículo 479 de la Ley General de Salud, en cantidad igual o superior a la que resulte de multiplicar por mil las ahí referidas, se presume que la posesión tiene como objeto cometer alguna de las conductas previstas en el artículo 194 de este código.
 
-##### Artículo 195 Bis.
+##### Artículo 195 bis.
 
-Cuando la posesión o transporte, por la cantidad como por las demás circunstancias del hecho, no pueda considerarse destinada a realizar alguna de las conductas a que se refiere el artículo 194 de este Código y no se trate de un miembro de una asociación delictuosa, se aplicarán las penas previstas en las tablas contenidas en el apéndice 1 de este ordenamiento, si el narcótico no se encuentra comprendido en las mismas, se aplicará hasta la mitad de las penas señaladas en el artículo anterior.
+Cuando por las circunstancias del hecho la posesión de alguno de los narcóticos señalados en el artículo 193, sin la autorización a que se refiere la Ley General de Salud, no pueda considerarse destinada a realizar alguna de las conductas a que se refiere el artículo 194, se aplicará pena de cuatro a siete años seis meses de prisión y de cincuenta a ciento cincuenta días multa.
 
-> Nota: Consulte el Apéndice 1 a que se refiere el presente artículo al término de los artículos transitorios del Código.
+El Ministerio Público Federal no procederá penalmente por este delito en contra de la persona que posea:
+
+I. Medicamentos que contengan narcóticos, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
+
+II. Peyote u hongos alucinógenos, cuando por la cantidad y circunstancias del caso pueda presumirse que serán utilizados en las ceremonias, usos y costumbres de los pueblos y comunidades indígenas, así reconocidos por sus autoridades propias.
+
+Para efectos de este capítulo se entiende por posesión: la tenencia material de narcóticos o cuando éstos están dentro del radio de acción y disponibilidad de la persona.
+
+La posesión de narcóticos podrá ser investigada, perseguida y, en su caso sancionada por las autoridades del fuero común en los términos de la Ley General de Salud, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento.
 
 ##### Artículo 196.
 
@@ -1758,11 +1786,11 @@ Si el delito fuere cometido por servidor público de alguna corporación policia
 
 ##### Artículo 199.
 
-Al fármacodependiente que posea para su estricto consumo personal algún narcótico de los señalados en el artículo 193 no se le aplicará pena alguna. El Ministerio Público o la autoridad judicial del conocimiento, tan pronto como se enteren en algún procecimiento de que una persona relacionada con él es fármacodependiente, deberán informar de inmediato a las autoridades sanitarias, para los efectos del tratamiento que corresponda.
+El Ministerio Público o la autoridad judicial del conocimiento, tan pronto conozca que una persona relacionada con algún procedimiento por los delitos previstos en los artículos 195 o 195 bis, es farmacodependiente, deberá informar de inmediato y, en su caso, dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda.
 
-Todo procesado o sentenciado que sea fármacodependiente quedará sujeto a tratamiento.
+En todo centro de reclusión se prestarán servicios de rehabilitación al farmacodependiente.
 
-Para la concesión de la condena condicional o del beneficio de la libertad preparatoria, cuando procedan, no se considerará como antecedente de mala conducta el relativo a la fármacodependencia, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento adecuado para su curación bajo vigilancia de la autoridad ejecutora.
+Para el otorgamiento de la condena condicional o del beneficio de la libertad preparatoria, cuando procedan, no se considerará como antecedente de mala conducta el relativo a la farmacodependencia, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
 
 #### CAPITULO II · Del peligro de contagio
 
@@ -1934,9 +1962,33 @@ Al que provoque públicamente a cometer un delito, o haga la apología de éste 
 
 ##### Artículo 209.
 
-El que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión de uno de los delitos contemplados en el Título VIII, Libro Segundo, de este Código, se le impondrá la pena de seis meses a dos años de prisión y de cincuenta a doscientos días multa.
+El que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión de uno de los delitos contemplados en el Título VIII, Libro Segundo, de este Código o en la Ley Federal para Prevenir y Sancionar la Trata de Personas se le impondrá la pena de seis meses a tres años de prisión y de cincuenta a doscientos días multa.
 
 Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes para que impidan un delito de los contemplados en el párrafo anterior y de cuya próxima comisión tenga noticia.
+
+Dichas penas se impondrán a las personas relacionadas o adscritas a cualquier institución, asociación, organización o agrupación de carácter religioso, cultural, deportivo, educativo, recreativo o de cualquier índole y tengan conocimiento de la comisión de los delitos a que se refiere el primer párrafo del presente artículo, cuando no informen a la autoridad competente o protejan a la persona que lo cometa, ya sea escondiéndola, cambiándola de sede o de cualquier otra forma le brinde protección.
+
+#### CAPÍTULO VIII · Pederastia
+
+##### Artículo 209 Bis.
+
+Se aplicará de nueve a dieciocho años de prisión y de setecientos cincuenta a dos mil doscientos cincuenta días multa, a quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento.
+
+La misma pena se aplicará a quien cometa la conducta descrita del párrafo anterior, en contra de la persona que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
+
+Si el agente hace uso de violencia física, las penas se aumentarán en una mitad más.
+
+El autor del delito podrá ser sujeto a tratamiento médico integral el tiempo que se requiera, mismo que no podrá exceder el tiempo que dure la pena de prisión impuesta.
+
+Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación civil.
+
+Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado, destituido o suspendido, de su empleo público o profesión por un término igual a la pena impuesta.
+
+##### Artículo 209 Ter.
+
+Para efecto de determinar el daño ocasionado al libre desarrollo de la personalidad de la víctima, se deberán solicitar los dictámenes necesarios para conocer su afectación. En caso de incumplimiento a la presente disposición por parte del Ministerio Público, éste será sancionado en los términos del presente Código y de la legislación aplicable.
+
+En los casos en que el sentenciado se niegue o no pueda garantizar la atención médica, psicológica o de la especialidad que requiera, el Estado deberá proporcionar esos servicios a la víctima.
 
 ### TITULO NOVENO · Revelación de secretos y acceso ilícito a sistemas y equipos de informática
 
@@ -1968,11 +2020,15 @@ Al que sin autorización modifique, destruya o provoque pérdida de información
 
 Al que sin autorización conozca o copie información contenida en sistemas o equipos de informática del Estado, protegidos por algún mecanismo de seguridad, se le impondrán de seis meses a dos años de prisión y de cien a trescientos días multa.
 
+A quien sin autorización conozca, obtenga, copie o utilice información contenida en cualquier sistema, equipo o medio de almacenamiento informáticos de seguridad pública, protegido por algún medio de seguridad, se le impondrá pena de cuatro a diez años de prisión y multa de quinientos a mil días de salario mínimo general vigente en el Distrito Federal. Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, destitución e inhabilitación de cuatro a diez años para desempeñarse en otro empleo, puesto, cargo o comisión pública.
+
 ##### Artículo 211 bis 3.
 
 Al que estando autorizado para acceder a sistemas y equipos de informática del Estado, indebidamente modifique, destruya o provoque pérdida de información que contengan, se le impondrán de dos a ocho años de prisión y de trescientos a novecientos días multa.
 
 Al que estando autorizado para acceder a sistemas y equipos de informática del Estado, indebidamente copie información que contengan, se le impondrán de uno a cuatro años de prisión y de ciento cincuenta a cuatrocientos cincuenta días multa.
+
+A quien estando autorizado para acceder a sistemas, equipos o medios de almacenamiento informáticos en materia de seguridad pública, indebidamente obtenga, copie o utilice información que contengan, se le impondrá pena de cuatro a diez años de prisión y multa de quinientos a mil días de salario mínimo general vigente en el Distrito Federal. Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, hasta una mitad más de la pena impuesta, destitución e inhabilitación por un plazo igual al de la pena resultante para desempeñarse en otro empleo, puesto, cargo o comisión pública.
 
 ##### Artículo 211 bis 4.
 
@@ -2052,7 +2108,7 @@ III.- Cuando indebidamente retarde o niegue a los particulares la protección o 
 
 IV.- Cuando estando encargado de administrar justicia, bajo cualquier pretexto, aunque sea el de obscuridad o silencio de la ley, se niegue injustificadamente a despachar un negocio pendiente ante él, dentro de los términos establecidos por la ley;
 
-V.- Cuando el encargado de una fuerza pública, requerida legalmente por una autoridad competente para que le preste auxilio, se niegue indebidamente a dárselo;
+V. Cuando el encargado o elemento de una fuerza pública, requerido legalmente por una autoridad competente para que le preste auxilio se niegue a dárselo o retrase el mismo injustificadamente. La misma previsión se aplicará tratándose de peritos.
 
 VI.- Cuando estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de readaptación social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos que, sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
 
@@ -2072,9 +2128,11 @@ XIII.- Obligar al inculpado a declarar, usando la incomunicación, la intimidaci
 
 XIV.- Obligar a declarar a las personas que se mencionan en el artículo 243 Bis, del Código Federal de Procedimientos Penales, acerca de la información obtenida con motivo del desempeño de su actividad.
 
+XV. Omitir el registro de la detención correspondiente o dilatar injustificadamente poner al detenido a disposición de la autoridad correspondiente.
+
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión, de cincuenta hasta trescientos días multa y destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
 
-Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIII y XIV, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIII, XIV y XV, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
 #### CAPITULO III BIS · Desaparición forzada de personas
 
@@ -2128,11 +2186,11 @@ II.- Toda persona que solicite o promueva la realización, el otorgamiento o la 
 
 III.- El servidor público que teniendo a su cargo fondos públicos, les dé a sabiendas, una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
 
-Al que cometa el delito de uso indebido de atribuciones y facultades se les impondrán las siguientes sanciones:
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión, de cien a trescientos días multa, y destitución e inhabilitación de seis meses a doce años para desempeñar otro empleo, cargo o comisión públicos.
 
-Cuando el monto a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
+(Se deroga el párrafo tercero).
 
-Cuando el monto a que asciendan las operaciones a que hace referencia este artículo, exceda del equivalente a quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a doce años para desempeñar otro empleo, cargo o comisión públicos.
+(Se deroga el párrafo cuarto).
 
 #### CAPITULO VI · Concusión
 
@@ -2242,6 +2300,8 @@ Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exc
 
 Cuando el monto de los distraído o de los fondos utilizados indebidamente exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión, multa de trescientas a quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
+Cuando los recursos materia del peculado sean aportaciones federales para los fines de seguridad pública se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
+
 #### CAPITULO XIII · Enriquecimiento Ilícito
 
 ##### Artículo 224.
@@ -2286,7 +2346,7 @@ VIII.- Retardar o entorpecer maliciosamente o por negligencia la administración
 
 IX.- Abstenerse injustificadamente de hacer la consignación que corresponda de una persona que se encuentre detenida a su disposición como probable responsable de algún delito, cuando ésta sea procedente conforme a la Constitución y a las leyes de la materia, en los casos en que la ley les imponga esa obligación; o ejercitar la acción penal cuando no preceda denuncia, acusación o querella;
 
-X.- Detener a un individuo durante la averiguación previa fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado por el párrafo séptimo del artículo 16 constitucional;
+X. Detener a un individuo durante la averiguación previa fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado en la Constitución;
 
 XI.- No otorgar, cuando se solicite, la libertad caucional, si procede legalmente;
 
@@ -2324,11 +2384,17 @@ XXVII.- No ordenar la libertad de un procesado, decretando su sujeción a proces
 
 XXVIII.- Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una averiguación previa o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean confidenciales, y
 
-XXIX.- Obligar a declarar a las personas que se mencionan en el artículo 243 Bis, del Código Federal de Procedimientos Penales, acerca de la información obtenida con motivo del desempeño de su actividad.
+XXIX. Se deroga.
+
+XXX. Retener al detenido sin cumplir con los requisitos que establece la Constitución y las leyes respectivas;
+
+XXXI. Alterar, destruir, perder o perturbar ilícitamente el lugar de los hechos; los indicios, huellas o vestigios del hecho delictuoso o los instrumentos, objetos o productos del delito, y
+
+XXXII. Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que el inculpado se sustraiga a la acción de la justicia.
 
 A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV y XXVI, se les impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa.
 
-A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII y XXIX, se le impondrá pena de prisión de cuatro a diez años y de mil a dos mil días multa.
+A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI y XXXII, se le impondrá pena de prisión de cuatro a diez años y de mil a dos mil días multa.
 
 En todos los delitos previstos en este Capítulo, además de las penas de prisión y multa previstas, el servidor público será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
@@ -2566,11 +2632,11 @@ VII.- El que a sabiendas hiciere uso de un documento falso o de copia, transcrip
 
 ##### Artículo 247.
 
-Se impondrán de dos a seis años de prisión y de cien a trescientos días multa:
+Se impondrán de cuatro a ocho años de prisión y de cien a trescientos días multa:
 
 I.- Al que interrogado por alguna autoridad pública distinta de la judicial en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad.
 
-II.- Al que examinado por la autoridad judicial como testigo o perito, faltare a la verdad sobre el hecho que se trata de averiguar, o aspectos, cantidades, calidades u otras circunstancias que sean relevantes para establecer el sentido de una opinión o dictamen, ya sea afirmando, negando u ocultando maliciosamente la existencia de algún dato que pueda servir de prueba de la verdad o falsedad del hecho principal, o que aumente o disminuya su gravedad, o que sirva para establecer la naturaleza o particularidades de orden técnico o científico que importen para que la autoridad pronuncie resolución sobre materia cuestionada en el asunto donde el testimonio o la opinión pericial se viertan. La sanción podrá ser hasta quince años de prisión para el testigo o perito falsos que fueran examinados en un procedimiento penal, cuando al reo se le imponga una pena de más de veinte años de prisión, por haber dado fuerza probatoria al testimonio o peritaje falsos;
+II. Se deroga.
 
 III.- Al que soborne a un testigo, a un perito o a un intérprete, para que se produzca con falsedad en juicio o los obligue o comprometa a ello intimándolos o de otro modo;
 
@@ -2579,6 +2645,14 @@ IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testig
 Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa o cuando tenga el carácter de acusado;
 
 V.- Al que en juicio de amparo rinda informes como autoridad responsable, en los que afirmare una falsedad o negare la verdad en todo o en parte.
+
+##### Artículo 247 Bis.
+
+Se impondrán de cinco a doce años de prisión y de trescientos a quinientos días multa:
+
+Al que examinado por la autoridad judicial como testigo o perito, faltare a la verdad sobre el hecho que se trata de averiguar, o aspectos, cantidades, calidades u otras circunstancias que sean relevantes para establecer el sentido de una opinión o dictamen, ya sea afirmando, negando u ocultando maliciosamente la existencia de algún dato que pueda servir de prueba de la verdad o falsedad del hecho principal, o que aumente o disminuya su gravedad, o que sirva para establecer la naturaleza o particularidades de orden técnico o científico que importen para que la autoridad pronuncie resolución sobre materia cuestionada en el asunto donde el testimonio o la opinión pericial se viertan.
+
+Cuando al sentenciado se le imponga una pena de más de veinte años de prisión por el testimonio o peritaje falsos, la sanción será de ocho a quince años de prisión y de quinientos a ochocientos días multa.
 
 ##### Artículo 248.
 
@@ -2623,6 +2697,32 @@ e).- Con objeto de lucrar, se una a profesionistas legalmente autorizados con fi
 III.- Al extranjero que ejerza una profesión reglamentada sin tener autorización de autoridad competente o después de vencido el plazo que aquella le hubiere concedido.
 
 IV.- Al que usare credenciales de servidor público, condecoraciones, uniformes, grados jerárquicos, divisas, insignias o siglas a las que no tenga derecho. Podrá aumentarse la pena hasta la mitad de su duración y cuantía, cuando sean de uso exclusivo de las Fuerzas Armadas Mexicanas o de alguna corporación policial.
+
+##### Artículo 250 bis.
+
+Al que cometa el delito de falsificación de uniformes y divisas de las fuerzas armadas o de cualquier institución de seguridad pública, se le impondrá de cinco a doce años de prisión y hasta quinientos días multa.
+
+Comete el delito de falsificación de uniformes y divisas de las fuerzas armadas o de cualquier institución de seguridad pública, el que sin autorización de la institución correspondiente fabrique, confeccione, produzca, imprima o pinte, cualquiera de los uniformes, insignias, credenciales de identificación, medallas, divisas, gafetes, escudos, documentos, adheribles, distintivos o piezas que contengan imágenes, siglas u otros elementos utilizados en dichas instituciones.
+
+Se entiende por uniformes, divisas o insignias para los efectos de este artículo, los señalados en las disposiciones aplicables de las fuerzas armadas o de cualquier institución de seguridad pública.
+
+##### Artículo 250 bis 1.
+
+Se impondrá de uno a seis años de prisión y de cien a trescientos días multa a quien:
+
+I.- Almacene, distribuya, posea o introduzca al territorio nacional uniformes o divisas de las fuerzas armadas o de cualquier institución de seguridad pública falsificadas;
+
+II.- Adquiera, enajene o use por cualquier medio o título, uniformes, divisas, balizaje, credenciales de identificación o insignias de las fuerzas armadas o cualquier institución de seguridad pública, falsificadas;
+
+III.- Obtenga, conserve, facilite o enajene sin autorización los verdaderos uniformes o divisas de las fuerzas armadas o de cualquier institución de seguridad pública;
+
+IV.- Cuando se utilicen vehículos con balizaje, colores, equipamiento, originales, falsificados o con apariencia tal que se asemejen a los vehículos utilizados por las fuerzas armadas o instituciones de seguridad pública, y
+
+V.- Al que utilice uniformes, balizaje, insignias, credenciales de identificación y divisas con tamaño similar o igual al reglamentario de las fuerzas armadas o de instituciones de seguridad pública, cuando dichas piezas, sin ser copia del original, presenten algunas de las imágenes o elementos de los contenidos en aquellos, resultando con ello objetos o piezas con apariencia similar, confundibles con los emitidos legalmente, con el objeto de hacerse pasar por servidor público.
+
+Se impondrá de cinco a doce años de prisión y de doscientos a seiscientos días multa a quien realice alguna de las conductas previstas en este artículo con el propósito de cometer algún delito o bien cuando el sujeto activo sea o haya sido servidor público de las fuerzas armadas o de cualquier institución de seguridad pública.
+
+Para los efectos de este artículo, se entiende por uniformes, insignias, credenciales de identificación, medallas, divisas, balizaje, gafetes, escudos, documentos, adheribles, distintivos o piezas que contengan imágenes siglas u otros elementos utilizados en instituciones de las fuerzas armadas o de seguridad pública o procuración de justicia, los señalados en las disposiciones aplicables de dichas instituciones y sólo se considerarán auténticos los que sean adquiridos, distribuidos o enajenados por personas autorizadas para ello o a quienes se les haya adjudicado el contrato respectivo por la institución competente, conforme a las disposiciones aplicables.
 
 #### CAPITULO VIII · Disposiciones comunes a los capítulos precedentes
 
@@ -2948,7 +3048,9 @@ II.- Al que por medio de amenazas de cualquier género trate de impedir que otro
 
 Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 343 bis y 343 ter, en este último caso siempre y cuando habiten en el mismo domicilio, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo.
 
-Los delitos previstos en este artículo se perseguirán por querella.
+Si el ofendido por la amenaza fuere víctima u ofendido o testigo en un procedimiento penal, la pena será de cuatro a ocho años de prisión y de cien a trescientos días multa.
+
+Los delitos previstos en este artículo se perseguirán por querella, con excepción del establecido en el párrafo anterior que se perseguirá de oficio.
 
 ##### Artículo 283.
 
@@ -2978,7 +3080,7 @@ Se impondrán de un mes a dos años de prisión y multa de diez a cien pesos, al
 
 Al que en despoblado o en paraje solitario haga uso de violencia sobre una persona con el propósito de causar un mal, obtener un lucro o de exigir su asentimiento para cualquier fin y cualesquiera que sean los medios y el grado de violencia que se emplee, e independientemente de cualquier hecho delictuoso que resulte cometido, se le castigará con prisión de uno a cinco años.
 
-La pena será de diez a treinta años de prisión para el que en caminos o carreteras haga uso de la violencia en contra de los ocupantes de un vehículo, ya sea de transporte público o particular.
+La pena será de diez a treinta años de prisión para el que en vías generales de comunicación tales como caminos, carreteras, puentes o vías férreas, haga uso de la violencia en contra de los ocupantes de un vehículo de transporte público o privado.
 
 ##### Artículo 287.
 
@@ -3682,13 +3784,15 @@ XIII.- Cuando se comete sobre equipaje o valores de viajeros en cualquier lugar 
 
 XIV.- Cuando se trate de expedientes o documentos de protocolo, oficina o archivos públicos, de documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, con afectación de alguna función pública. Si el delito lo comete el servidor público de la oficina en que se encuentre el expediente o documento, se le impondrá además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, de seis meses a tres años;
 
-XV.- Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad, y
+XV. Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad;
 
-XVI.- Cuando se cometa en caminos o carreteras.
+XVI. Cuando se cometa en caminos o carreteras, y
+
+XVII. Cuando el objeto de apoderamiento sea en vías o equipo ferroviario.
 
 En los supuestos a que se refieren las fracciones I, II, III, IV, V, VI, XI, XII, XIII, XIV y XV, hasta cinco años de prisión.
 
-En los supuestos a que se refieren las fracciones VII, VIII, IX, X y XVI, de dos a siete años de prisión.
+En los supuestos a que se refieren las fracciones VII, VIII, IX, X, XVI y XVII, de dos a siete años de prisión.
 
 ##### Artículo 381 Bis.
 
@@ -3914,9 +4018,13 @@ II.- Preste auxilio o cooperación de cualquier especie al autor de un delito, c
 
 III.- Oculte o favorezca el ocultamiento del responsable de un delito, los efectos, objetos o instrumentos del mismo o impida que se averigüe;
 
-IV.- Requerido por las autoridades, no de auxilio para la investigación de los delitos o para la persecución de los delincuentes; y
+IV. Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes;
 
-V.- No procure, por los medios lícitos que tenga a su alcance y sin riesgo para su persona, impedir la consumación de los delitos que sabe van a cometerse o se están cometiendo, salvo que tenga obligación de afrontar el riesgo, en cuyo caso se estará a lo previsto en este artículo o en otras normas aplicables.
+V. No procure, por los medios lícitos que tenga a su alcance y sin riesgo para su persona, impedir la consumación de los delitos que sabe van a cometerse o se están cometiendo, salvo que tenga obligación de afrontar el riesgo, en cuyo caso se estará a lo previsto en este artículo o en otras normas aplicables;
+
+VI. Altere, modifique o perturbe ilícitamente el lugar, huellas o vestigios del hecho delictivo, y
+
+VII. Desvíe u obstaculice la investigación del hecho delictivo de que se trate o favorezca que el inculpado se sustraiga a la acción de la justicia.
 
 No se aplicará la pena prevista en este artículo en los casos de las fracciones III, en lo referente al ocultamiento del infractor, y IV, cuando se trate de:
 
@@ -4294,7 +4402,7 @@ Las sanciones pecuniarias previstas en el presente título se aplicarán sin per
 
 ##### Artículo 429.
 
-Los delitos previstos en este título se perseguirán por querella de parte ofendida, salvo el caso previsto en el artículo 424, fracción I, que será perseguido de oficio. En el caso de que los derechos de autor hayan entrado al dominio público, la querella la formulará la Secretaría de Educación Pública, considerándose como parte ofendida.
+Los delitos previstos en este Título se perseguirán de oficio, excepto lo previsto en los artículos 424, fracción II y 427.
 
 ## ARTICULOS TRANSITORIOS:
 
@@ -4313,6 +4421,8 @@ Lo que comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 
 México, D.F., a 14 de agosto de 1931.- El Subsecretario de Gobernación. Encargado del Despacho, Octavio Mendoza González.- Rúbrica.
+
+> Nota: El Apéndice 1 de este Código y sus tablas 1, 2, 3 y 4, quedaron sin efecto al reformarse el artículo 195 bis del propio Código, mediante Decreto publicado en el Diario Oficial de la Federación el 20 de agosto de 2009.
 
 APENDICE 1
 
@@ -4940,3 +5050,175 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 22 de abril de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de junio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley que Establece las Normas Mínimas sobre Readaptación Social de Sentenciados, del Código Penal Federal, de la Ley de la Policía Federal Preventiva, de la Ley Orgánica de la Procuraduría General de la República, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y de la Ley Federal de Procedimiento Contencioso Administrativo.
+
+*Publicado en el Diario Oficial de la Federación el 23 de enero de 2009*
+
+**ARTÍCULO CUARTO.-** Se REFORMAN los artículos 87; 215, fracción V, así como el párrafo último; 225, fracción X y el párrafo tercero; 247, párrafo primero; 282, actual párrafo tercero; 400, fracciones IV y V; se ADICIONAN, al Título Cuarto un Capítulo V, con la denominación “Transparencia en los Beneficios de Libertad Anticipada o Condena Condicional”, con un artículo 90 Bis; la fracción XV al artículo 215; las fracciones XXX, XXXI y XXXII al artículo 225; el artículo 247 Bis; el párrafo tercero, recorriéndose el actual en su orden, al artículo 282; las fracciones VI y VII al artículo 400; se DEROGA la fracción XXIX del artículo 225; la fracción II del artículo 247; todos del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** Lo dispuesto en el artículo 133 Bis, del Código Federal de Procedimientos Penales estará vigente hasta en tanto entre en vigor el sistema procesal acusatorio a que se refiere el Decreto por el que se reforman los artículos 16, 17, 18, 19, 20, 21 y 22, las fracciones XXI y XXIII del artículo 73, la fracción VII del artículo 115 y la fracción XIII del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
+
+**TERCERO.** Dentro de los seis meses siguientes a la entrada en vigor del presente Decreto, las autoridades competentes deberán expedir las disposiciones administrativas necesarias para regular recepción, transmisión y conservación de la información derivada de las detenciones a que se refieren los artículos 193, 193 bis, 193 ter, 193 quáter, 193 quintus y 193 octavus del Código Federal de Procedimientos Penales.
+
+México, D.F., a 9 de diciembre de 2008.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Rosa Elia Romero Guzman, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de enero de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 28 de mayo de 2009*
+
+**Artículo Cuarto.-** Se reforma el Artículo 217 párrafo segundo y se derogan sus párrafos tercero y cuarto, del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**ARTÍCULOS TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que para su aplicación requieran de las modificaciones al sistema electrónico CompraNet a que se refiere el artículo Décimo transitorio del presente Decreto.
+
+**SEGUNDO.** Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+**TERCERO.** En tanto se expidan las reformas correspondientes al Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y al Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como las demás disposiciones administrativas derivadas de este Decreto, se continuarán aplicando los reglamentos de dichas leyes y disposiciones administrativas vigentes en la materia, en lo que no se opongan al presente Decreto.
+
+**CUARTO.** La Secretaría de la Función Pública realizará cada año una evaluación para determinar el incremento de la cobertura de participación de los testigos sociales a que se refieren los artículos 26 Ter de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 27 Bis de la Ley de Obras Públicas y Servicios Relacionados con las Mismas. Asimismo, esa Secretaría instrumentará medidas con el propósito de ampliar dicha cobertura para garantizar, en un plazo de diez años a partir de la entrada en vigor de esta Ley, la cobertura total de testigos sociales en la contratación pública.
+
+**QUINTO.** Para la adecuada aplicación del criterio de evaluación de proposiciones a través del mecanismo de puntos y porcentajes a que hacen referencia los artículos 36 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 38 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, la Secretaría de la Función Pública emitirá en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, los lineamientos correspondientes.
+
+**SEXTO.** Los lineamientos a que se refiere el segundo párrafo de los artículos 48 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, deberán ser emitidos en un plazo no mayor a seis meses, contados a partir de la entrada en vigor de los preceptos legales mencionados.
+
+**SÉPTIMO.** Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión conforme a las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, según corresponda, vigentes al momento de su inicio.
+
+**OCTAVO.** Los contratos celebrados antes de la entrada en vigor del presente Decreto, continuarán regulándose hasta su terminación por las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, según corresponda, vigentes al momento de su celebración.
+
+**NOVENO.** Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Decreto, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
+
+**DÉCIMO.** Las adecuaciones al sistema electrónico de contrataciones gubernamentales CompraNet que permitan la aplicación de las reformas que mediante el presente Decreto se realizan a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y a la Ley de Obras Públicas y Servicios Relacionados con las Mismas, deberán estar concluidas en un plazo no mayor a un año, contado a partir de la fecha de entrada en vigor de este Decreto.
+
+Entrarán en vigor dentro de dicho plazo conforme se realicen las modificaciones a que se refiere el párrafo anterior, los artículos 37 párrafo quinto en cuanto a la notificación del fallo en CompraNet; 48 segundo párrafo respecto de la obligación de las dependencias y entidades para considerar los antecedentes de cumplimiento de proveedores en los contratos a efecto de determinar los porcentajes de las garantías; 50 último párrafo, 56 y 69 párrafo segundo, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; 39 penúltimo párrafo en cuanto a la notificación del fallo en CompraNet; 48 segundo párrafo respecto de la obligación de las dependencias y entidades para considerar los antecedentes de cumplimiento de contratistas en los contratos a efecto de determinar los porcentajes de las garantías; 51 último párrafo, 74 y 87 párrafo segundo, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+
+En tanto entran en vigor las disposiciones a que se refiere el párrafo anterior, los actos señalados en las mismas se continuarán realizando conforme a la normatividad vigente.
+
+En un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto, estará disponible en CompraNet la información relativa a los programas anuales en materia de adquisiciones, arrendamientos y servicios y obras públicas y servicios relacionados con las mismas de las dependencias y entidades, padrón de testigos sociales, el registro de proveedores y contratistas sancionados, y los testimonios de los testigos sociales, a que se refieren los artículos 56 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 74 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+
+En el caso de las dependencias y entidades que cuenten con una base de datos sobre el cumplimiento de los proveedores y contratistas en los contratos que hayan celebrado con los mismos, podrán aplicar a la entrada en vigor del presente Decreto, lo dispuesto en el segundo párrafo del artículo 48 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y en el segundo párrafo del artículo 48 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, conforme a los lineamientos que emita la Secretaría de la Función Pública.
+
+**DÉCIMO PRIMERO.** La Secretaría de Economía incrementará progresivamente el porcentaje de contenido nacional a que se refiere la fracción I del artículo 28 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, hasta un sesenta y cinco por ciento, en un plazo de tres años, contados a partir de la entrada en vigor del presente Decreto.
+
+**DÉCIMO SEGUNDO.** La unidad administrativa de la Secretaría de la Función Pública a que se refieren los artículos 2 fracción II y 56 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 2 fracción II y 74 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, no implicará la creación de nuevas estructuras orgánicas y ocupacionales, ni la creación de plazas presupuestarias.
+
+**DÉCIMO TERCERO.** La Secretaría de la Función Pública emitirá los lineamientos que promuevan la agilización de los pagos a proveedores, que se regulan en el artículo 51 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Decreto.
+
+**DÉCIMO CUARTO.** Con independencia de las excepciones al procedimiento de licitación previstas en el artículo 42 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, a partir del siguiente día de la publicación del presente Decreto en el Diario Oficial de la Federación y hasta el 31 de diciembre de 2009, se exceptuará también del procedimiento de licitación pública toda contratación de construcción, mantenimiento o reparación de obras, en la que se acredite contar con empleo intensivo de mano de obra que represente al menos un 50% del costo total del proyecto.
+
+**DÉCIMO QUINTO.** La suma de los montos de los contratos que se realicen durante el año 2009, al amparo del artículo 43 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, no podrá exceder del treinta y cinco por ciento del presupuesto autorizado para llevar a cabo obras públicas y servicios relacionados con las mismas; el monto asignado a cada contratista no podrá exceder del cinco por ciento de dicho presupuesto.
+
+**DÉCIMO SEXTO.** El Ejecutivo Federal deberá informar a la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados, en su caso, a través de la Comisión Permanente del Congreso de la Unión, sobre los avances en los ahorros que se generen con motivo de la aplicación de las medidas relativas a la racionalización del gasto previstas en el Programa de Mediano Plazo, conforme a lo dispuesto en los artículos 45 y 61 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; en el artículo segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de las Leyes Federal de Presupuesto y Responsabilidad Hacendaria; Orgánica de la Administración Pública Federal, de Coordinación Fiscal, de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas, publicado en el Diario Oficial de la Federación el 1 de octubre de 2007; así como el artículo 16 del Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2009.
+
+La Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados tomará en cuenta la información que rinda el Ejecutivo Federal, respecto a los conceptos señalados en el artículo 16 del Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2009, para efectos del proceso de aprobación del Presupuesto de Egresos de la Federación para el ejercicio fiscal del año 2010.
+
+**DÉCIMO SÉPTIMO.-** El Ejecutivo Federal, a través de la Secretaría de la Función Pública y de la Secretaría del Medio Ambiente y Recursos Naturales, en un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, emitirá los lineamientos para la debida aplicación de lo dispuesto en el párrafo cuarto del artículo 26 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
+
+México, D.F., a 30 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen. Gabino Cue Monteagudo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se adicionan diversas disposiciones al Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 24 de junio de 2009*
+
+**Artículo Único.** Se adicionan un párrafo tercero al artículo 211 bis 2; un párrafo tercero al artículo 211 bis 3; un párrafo último al artículo 223; y los artículos 250 bis y 250 bis 1, todos del Código Penal Federal; para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 11 de diciembre de 2008.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Manuel Portilla Dieguez, Secretario.- Sen. Gabino Cué Monteagudo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de marzo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales.
+
+*Publicado en el Diario Oficial de la Federación el 20 de agosto de 2009*
+
+**Artículo Segundo.** Se REFORMA el artículo 195, 195 bis y 199; y se ADICIONAN los párrafos tercero y cuarto a la fracción I del artículo 194, todos del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Para efecto de lo dispuesto en el artículo 474 de la Ley General de Salud, las legislaturas locales y la Asamblea Legislativa del Distrito Federal contarán con el plazo de un año a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la legislación que corresponda.
+
+La Federación y las entidades federativas contarán con el plazo de tres años a partir de la entrada en vigor del presente Decreto, para realizar las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo.
+
+**SEGUNDO.-** Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+**TERCERO.-** A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+**CUARTO.-** Las autoridades competentes financiaran las acciones derivadas del cumplimiento del presente Decreto con los recursos que anualmente se prevea en el Presupuesto de Egresos de la Federación, sin menoscabo de los recursos que para tales efectos aporten las entidades federativas.
+
+**QUINTO.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+México, D.F., a 30 de Abril de 2009.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. José Manuel del Río Virgen, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de agosto de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal y del Código Federal de Procedimientos Penales, en Materia de Delitos contra el Transporte Ferroviario.
+
+*Publicado en el Diario Oficial de la Federación el 18 de junio de 2010*
+
+**Artículo Primero.** Se reforman el segundo párrafo del artículo 286 y el último párrafo del artículo 381; se adiciona una fracción XVII al artículo 381 del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Artículo Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Artículo Segundo.-** Los procesos que se encuentren en conocimiento de los Jueces del Fuero Común de los Estados y del Distrito Federal, continuarán de la misma forma hasta su conclusión.
+
+México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Jaime Arturo Vazquez Aguilar, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de junio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 429 del Código Penal Federal y 223 Bis de la Ley de la Propiedad Industrial.
+
+*Publicado en el Diario Oficial de la Federación el 28 de junio de 2010*
+
+**Artículo Primero.-** Se reforma el artículo 429 del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D. F., a 6 de abril de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Jaime Arturo Vázquez Aguilar, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de junio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes; de la Ley General de Educación; de la Ley de Asociaciones Religiosas y Culto Público; de la Ley Federal de Protección al Consumidor y de la Ley Reglamentaria del Artículo 5 Constitucional relativo al ejercicio de las profesiones en el Distrito Federal.
+
+*Publicado en el Diario Oficial de la Federación el 19 de agosto de 2010*
+
+**ARTÍCULO PRIMERO.-** Se reforma la fracción II del artículo 30; el primer párrafo y fracción IV del artículo 52; el inciso c) de la fracción I del artículo 85 y el primer párrafo del artículo 209. Y se adiciona un tercer párrafo al artículo 6; la fracción VI al artículo 32, recorriéndose la fracción VI vigente para constituirse en fracción VII; el artículo 107 Bis; un tercer párrafo al artículo 209 y un Capítulo VIII, denominado "Pederastia", al Título Octavo, cuyo capítulo comprende los artículos 209 Bis y 209 Ter, todos del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Jaime Arturo Vázquez Aguilar, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de agosto de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
