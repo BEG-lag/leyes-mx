@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2008-05-16
+last_reform_dof: 2011-01-28
 articles: 262
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
-archived: https://web.archive.org/web/20080611024342/http://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
-source_sha256: 6ea7e7d3652c74fcbcef9c5e1365b45ff0154dc013c54ec16c52e9f5f66b5d2a
-retrieved: 2008-06-11
+archived: https://web.archive.org/web/20110911083420/http://www.diputados.gob.mx:80/LeyesBiblio/doc/148.doc
+source_sha256: 91175c90a76eb248802c794caadd824748b23094f04eaf9e9de38be0dba64098
+retrieved: 2011-09-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 16-05-2008
+Últimas reformas publicadas DOF 28-01-2011
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -74,11 +74,17 @@ II.- El establecimiento, protección y preservación de las áreas naturales pro
 
 *Fracción reformada DOF 13-12-1996*
 
-III.- La formulación y ejecución de acciones de protección y preservación de la biodiversidad del territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción, así como el aprovechamiento de material genético; y
+III.- La formulación y ejecución de acciones de protección y preservación de la biodiversidad del territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción, así como el aprovechamiento de material genético;
 
-*Fracción reformada DOF 13-12-1996*
+*Fracción reformada DOF 13-12-1996, 28-01-2011*
 
-IV. El establecimiento de zonas intermedias de salvaguardia, con motivo de la presencia de actividades consideradas como riesgosas.
+IV.- El establecimiento de zonas intermedias de salvaguardia, con motivo de la presencia de actividades consideradas como riesgosas, y
+
+*Fracción reformada DOF 28-01-2011*
+
+V.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático.
+
+*Fracción adicionada DOF 28-01-2011*
 
 ##### ARTÍCULO 3o.
 
@@ -93,6 +99,10 @@ III.- Aprovechamiento sustentable: La utilización de los recursos naturales en 
 IV.- Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
 
 V.- Biotecnología: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos;
+
+V Bis.- Cambio climático: Cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempos comparables.
+
+*Fracción adicionada DOF 28-01-2011*
 
 VI.- Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
 
@@ -116,55 +126,93 @@ XV.- Elemento natural: Los elementos físicos, químicos y biológicos que se pr
 
 XVI.- Emergencia ecológica: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas;
 
-XVII.- Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
+XVII.- Emisión: Liberación al ambiente de toda sustancia, en cualquiera de sus estados físicos, o cualquier tipo de energía, proveniente de una fuente.
 
-XVIII.- Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre;
+*Fracción adicionada DOF 28-01-2011*
 
-XIX.- Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
+XVIII.- Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
 
-XX.- Manifestación del impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+*Fracción recorrida DOF 28-01-2011*
 
-XXI.- Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
+XIX.- Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre;
 
-XXII.- Material peligroso: Elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+*Fracción recorrida DOF 28-01-2011*
 
-XXIII.- Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+XX.- Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
 
-XXIV.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales;
+*Fracción recorrida DOF 28-01-2011*
 
-XXV.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+XXI.- Manifestación del impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
-XXVI.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
+*Fracción recorrida DOF 28-01-2011*
 
-XXVII.- Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
+XXII.- Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
 
-XXVIII.- Recursos genéticos: El material genético de valor real o potencial;
+*Fracción recorrida DOF 28-01-2011*
 
-XXIX.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
+XXIII.- Material peligroso: Elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
 
-XXX.- Región ecológica: La unidad del territorio nacional que comparte características ecológicas comunes;
+*Fracción recorrida DOF 28-01-2011*
 
-XXXI.- Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+XXIV.- Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
-XXXII.- Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, representen un peligro para el equilibrio ecológico o el ambiente;
+*Fracción recorrida DOF 28-01-2011*
 
-XXXIII.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+XXV.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales;
 
-XXXIV. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Pesca;
+*Fracción recorrida DOF 28-01-2011*
 
-*Fracción reformada DOF 07-01-2000*
+XXVI.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-XXXV. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y
+*Fracción recorrida DOF 28-01-2011*
 
-*Fracción reformada DOF 07-01-2000*
+XXVII.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
 
-XXXVI. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida.
+*Fracción recorrida DOF 28-01-2011*
 
-*Fracción adicionada DOF 07-01-2000*
+XXVIII.- Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
 
-XXXVII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
+*Fracción recorrida DOF 28-01-2011*
 
-*Fracción adicionada DOF 23-02-2005*
+XXIX.- Recursos Genéticos: Todo material genético, con valor real o potencial que provenga de origen vegetal, animal, microbiano, o de cualquier otro tipo y que contenga unidades funcionales de la herencia, existentes en el territorio nacional y en las zonas donde la nación ejerce soberanía y jurisdicción;
+
+*Fracción reformada DOF 01-04-2010. Recorrida DOF 28-01-2011*
+
+XXX.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
+
+*Fracción recorrida DOF 28-01-2011*
+
+XXXI.- Región ecológica: La unidad del territorio nacional que comparte características ecológicas comunes;
+
+*Fracción recorrida DOF 28-01-2011*
+
+XXXII.- Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+
+*Fracción recorrida DOF 28-01-2011*
+
+XXXIII.- Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, representen un peligro para el equilibrio ecológico o el ambiente;
+
+*Fracción recorrida DOF 28-01-2011*
+
+XXXIV.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+
+*Fracción recorrida DOF 28-01-2011*
+
+XXXV. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Pesca;
+
+*Fracción reformada DOF 07-01-2000. Recorrida DOF 28-01-2011*
+
+XXXVI. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y
+
+*Fracción reformada DOF 07-01-2000. Recorrida DOF 28-01-2011*
+
+XXXVII. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida.
+
+*Fracción adicionada DOF 07-01-2000. Recorrida DOF 28-01-2011*
+
+XXXVIII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
+
+*Fracción adicionada DOF 23-02-2005. Recorrida DOF 28-01-2011*
 
 *Artículo reformado DOF 13-12-1996*
 
@@ -226,9 +274,17 @@ XVIII.- La emisión de recomendaciones a autoridades Federales, Estatales y Muni
 
 XIX.- La vigilancia y promoción, en el ámbito de su competencia, del cumplimiento de esta Ley y los demás ordenamientos que de ella se deriven;
 
-XX.- La atención de los asuntos que afecten el equilibrio ecológico de dos o más entidades federativas, y
+XX.- La atención de los asuntos que afecten el equilibrio ecológico de dos o más entidades federativas;
 
-XXI.- Las demás que esta Ley u otras disposiciones legales atribuyan a la Federación.
+*Fracción reformada DOF 28-01-2011*
+
+XXI.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático, y
+
+*Fracción adicionada DOF 28-01-2011*
+
+XXII.- Las demás que esta Ley u otras disposiciones legales atribuyan a la Federación.
+
+*Fracción recorrida DOF 28-01-2011*
 
 *Artículo reformado DOF 13-12-1996*
 
@@ -286,9 +342,17 @@ XVIII.- La formulación, ejecución y evaluación del programa estatal de protec
 
 XIX.- La emisión de recomendaciones a las autoridades competentes en materia ambiental, con el propósito de promover el cumplimiento de la legislación ambiental;
 
-XX.- La atención coordinada con la Federación de asuntos que afecten el equilibrio ecológico de dos o más Entidades Federativas, cuando así lo consideren conveniente las Entidades Federativas respectivas, y
+XX.- La atención coordinada con la Federación de asuntos que afecten el equilibrio ecológico de dos o más Entidades Federativas, cuando así lo consideren conveniente las Entidades Federativas respectivas;
 
-XXI.- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
+*Fracción reformada DOF 28-01-2011*
+
+XXI.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático, y
+
+*Fracción adicionada DOF 28-01-2011*
+
+XXII.- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
+
+*Fracción recorrida DOF 28-01-2011*
 
 *Artículo reformado DOF 13-12-1996*
 
@@ -324,9 +388,17 @@ XIII.- La formulación y conducción de la política municipal de información y
 
 XIV.- La participación en la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
 
-XV.- La formulación, ejecución y evaluación del programa municipal de protección al ambiente, y
+XV.- La formulación, ejecución y evaluación del programa municipal de protección al ambiente;
 
-XVI.- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o a los Estados.
+*Fracción reformada DOF 28-01-2011*
+
+XVI.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático, y
+
+*Fracción adicionada DOF 28-01-2011*
+
+XVII.- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o a los Estados.
+
+*Fracción recorrida DOF 28-01-2011*
 
 *Artículo reformado DOF 13-12-1996*
 
@@ -1082,7 +1154,9 @@ La Secretaría del Trabajo y Previsión Social, promoverá el desarrollo de la c
 
 ##### ARTÍCULO 41.
 
-El Gobierno Federal, las entidades federativas y los municipios con arreglo a lo que dispongan las legislaturas locales, fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y protejer los ecosistemas. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+El Gobierno Federal, las entidades federativas y los municipios con arreglo a lo que dispongan las legislaturas locales, fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas, determinar la vulnerabilidad, así como las medidas de adaptación y mitigación al cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+
+*Artículo reformado DOF 28-01-2011*
 
 #### SECCION IX · Información y Vigilancia
 
@@ -1746,7 +1820,9 @@ Será nulo todo acto, convenio o contrato que contravenga lo establecido en la m
 
 Para la preservación y aprovechamiento sustentable de la flora y fauna silvestre, se considerarán los siguientes criterios:
 
-I.- La preservación de la biodiversidad y del hábitat natural de las especies de flora y fauna que se encuentran en el territorio nacional y en las zonas donde la nación ejerce su soberanía y jurisdicción;
+I.- La preservación y conservación de la biodiversidad y del hábitat natural de las especies de flora y fauna que se encuentran en el territorio nacional y en las zonas donde la nación ejerce su soberanía y jurisdicción;
+
+*Fracción reformada DOF 06-04-2010*
 
 II.- La continuidad de los procesos evolutivos de las especies de flora y fauna y demás recursos biológicos, destinando áreas representativas de los sistemas ecológicos del país a acciones de preservación e investigación;
 
@@ -1784,7 +1860,9 @@ II.- El establecimiento o modificación de vedas de la flora y fauna silvestres;
 
 III. Las acciones de sanidad fitopecuaria;
 
-IV. La protección y conservación de la flora y fauna del territorio nacional, contra la acción perjudicial de plagas y enfermedades, o la contaminación que pueda derivarse de actividades fitopecuarias;
+IV.- La protección y conservación de la flora y fauna del territorio nacional, contra la acción perjudicial de especies exóticas invasoras, plagas y enfermedades, o la contaminación que pueda derivarse de actividades fitopecuarias;
+
+*Fracción reformada DOF 06-04-2010*
 
 V.- El establecimiento de un sistema nacional de información sobre biodiversidad y de certificación del uso sustentable de sus componentes que desarrolle la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad, así como la regulación de la preservación y restauración de flora y fauna silvestre;
 
@@ -1830,7 +1908,9 @@ La Secretaría expedirá las normas oficiales mexicanas para la preservación y 
 
 ##### ARTÍCULO 85.
 
-Cuando así se requiera para la protección de especies, la Secretaría promoverá ante la Secretaría de Comercio y Fomento Industrial el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especímenes de la flora y fauna silvestres e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del y destinadas al extranjero.
+Cuando así se requiera para la protección de especies, hábitats, ecosistemas, la economía o la salud pública, la Secretaría promoverá ante la Secretaría de Economía, el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especímenes de la flora y fauna silvestres nativos o exóticos e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del y destinadas al extranjero.
+
+*Artículo reformado DOF 06-04-2010*
 
 ##### ARTÍCULO 86.
 
@@ -2176,7 +2256,7 @@ Protección al Ambiente
 
 ### CAPÍTULO I · Disposiciones Generales
 
-*Denominación del Capítulo reformada DOF 13-12-1996*
+*Denominación del Capítulo reformada DOF 13-12-1996 (Capítulo adicionado)*
 
 ##### ARTÍCULO 109 BIS.
 
@@ -2194,6 +2274,10 @@ La Secretaría deberá establecer los mecanismos y procedimientos necesarios, co
 
 *Artículo adicionado DOF 13-12-1996*
 
+### CAPÍTULO II · Prevención y Control de la Contaminación de la Atmósfera
+
+*Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo I)*
+
 ##### ARTÍCULO 110.
 
 Para la protección a la atmósfera se considerarán los siguientes criterios:
@@ -2201,10 +2285,6 @@ Para la protección a la atmósfera se considerarán los siguientes criterios:
 I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y las regiones del país; y
 
 II. Las emisiones de contaminantes de la atmósfera, sean de fuentes artificiales o naturales, fijas o móviles, deben ser reducidas y controladas, para asegurar una calidad del aire satisfactoria para el bienestar de la población y el equilibrio ecológico.
-
-### CAPÍTULO II · Prevención y Control de la Contaminación de la Atmósfera
-
-*Denominación del Capítulo reformada DOF 13-12-1996 (reubicado)*
 
 ##### ARTÍCULO 111.
 
@@ -2322,6 +2402,10 @@ III. Realicen investigaciones de tecnología cuya aplicación disminuya la gener
 
 IV. Ubiquen o relocalicen sus instalaciones para evitar emisiones contaminantes en zonas urbanas.
 
+### CAPÍTULO III · Prevención y Control de la Contaminación del Agua y de los Ecosistemas Acuáticos
+
+*Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo II)*
+
 ##### ARTÍCULO 117.
 
 Para la prevención y control de la contaminación del agua se considerarán los siguientes criterios:
@@ -2335,10 +2419,6 @@ III. El aprovechamiento del agua en actividades productivas susceptibles de prod
 IV. Las aguas residuales de origen urbano deben recibir tratamiento previo a su descarga en ríos, cuencas, vasos, aguas marinas y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo; y
 
 V. La participación y corresponsabilidad de la sociedad es condición indispensable para evitar la contaminación del agua.
-
-### CAPÍTULO III · Prevención y Control de la Contaminación del Agua y de los Ecosistemas Acuáticos
-
-*Denominación del Capítulo reformada DOF 13-12-1996 (reubicado)*
 
 ##### ARTÍCULO 118.
 
@@ -2494,7 +2574,7 @@ La Secretaría, con la participación que en su caso corresponda a la Secretarí
 
 ### CAPÍTULO IV · Prevención y Control de la Contaminación del Suelo
 
-*Denominación del Capítulo reformada DOF 13-12-1996 (reubicado)*
+*Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo III)*
 
 ##### ARTÍCULO 134.
 
@@ -2600,7 +2680,7 @@ No podrán otorgarse autorizaciones para la importación de plaguicidas, fertili
 
 ### CAPÍTULO V · Actividades Consideradas como Altamente Riesgosas
 
-*Denominación del Capítulo reformada DOF 13-12-1996 (reubicado)*
+*Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo IV)*
 
 ##### ARTÍCULO 145.
 
@@ -2656,7 +2736,7 @@ La legislación local definirá las bases a fin de que la Federación, los Estad
 
 ### CAPÍTULO VI · Materiales y Residuos Peligrosos
 
-*Denominación del Capítulo reformada DOF 13-12-1996 (reubicado)*
+*Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo V)*
 
 ##### ARTÍCULO 150.
 
@@ -2756,7 +2836,7 @@ d) Cuando se determine que la autorización fue transferida a una persona distin
 
 ### CAPÍTULO VII · Energía Nuclear
 
-*Denominación del Capítulo reformada DOF 13-12-1996 (reubicado)*
+*Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo VI)*
 
 ##### ARTÍCULO 154.
 
@@ -2766,7 +2846,7 @@ La Secretaría de Energía y la Comisión Nacional de Seguridad Nuclear y Salvag
 
 ### CAPÍTULO VIII · Ruido, Vibraciones, Energía Térmica y Lumínica, Olores y Contaminación Visual
 
-*Capítulo adicionado DOF 13-12-1996*
+*Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo VII)*
 
 ##### ARTÍCULO 155.
 
@@ -3266,9 +3346,13 @@ Por lo que se refiere a los demás trámites relativos a la sustanciación del r
 
 ##### ARTÍCULO 180.
 
-Tratándose de obras o actividades que contravengan las disposiciones de esta Ley, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas o los reglamentos y normas oficiales mexicanas derivadas de la misma, las personas físicas y morales de las comunidades afectadas tendrán derecho a impugnar los actos administrativos correspondientes, así como a exigir que se lleven a cabo las acciones necesarias para que sean observadas las disposiciones jurídicas aplicables, siempre que demuestren en el procedimiento que dichas obras o actividades originan o pueden originar un daño a los recursos naturales, la flora o la fauna silvestre, la salud pública o la calidad de vida. Para tal efecto, deberán interponer el recurso administrativo de revisión a que se refiere este capítulo.
+Tratándose de obras o actividades que contravengan las disposiciones de esta Ley y de aquéllas a las cuales se aplica de manera supletoria, así como de los reglamentos y normas oficiales mexicanas derivadas de las mismas, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas o los reglamentos y normas oficiales mexicanas derivadas de la misma, las personas físicas y morales que tengan interés legítimo tendrán derecho a impugnar los actos administrativos correspondientes, así como a exigir que se lleven a cabo las acciones necesarias para que sean observadas las disposiciones jurídicas aplicables, siempre que demuestren en el procedimiento que dichas obras o actividades originan o pueden originar un daño al medio ambiente, los recursos naturales, la vida silvestre o la salud pública.
 
-*Artículo reformado DOF 13-12-1996*
+Para tal efecto, de manera optativa podrán interponer el recurso administrativo de revisión a que se refiere este Capítulo, o acudir al Tribunal Federal de Justicia Fiscal y Administrativa.
+
+Para los efectos del presente artículo, tendrán interés legítimo las personas físicas o morales de las comunidades posiblemente afectadas por dichas obras o actividades.
+
+*Artículo reformado DOF 13-12-1996, 28-01-2011*
 
 ##### ARTÍCULO 181.
 
@@ -3763,3 +3847,85 @@ Asimismo, conservarán su número y fecha de registro, pero su renovación deber
 México, D.F., a 26 de marzo de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Olga Patricia Chozas y Chozas, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de mayo de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción XXVIII del artículo 3o. de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 1 de abril de 2010*
+
+**ARTÍCULO ÚNICO.-** Se reforma la fracción XXVIII del Artículo 3o. de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 23 de febrero de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Jaime Arturo Vazquez Aguilar, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de marzo de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El secretario de gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y de la Ley General de Vida Silvestre.
+
+*Publicado en el Diario Oficial de la Federación el 6 de abril de 2010*
+
+**ARTÍCULO PRIMERO.-** Se reforma la fracción I del artículo 79; se reforma la fracción IV del artículo 80, y se reforma el artículo 85, todos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ARTÍCULO ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D. F., a 16 de febrero de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Jaime Arturo Vázquez Aguilar, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta y uno de marzo de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforma y adiciona el artículo 180 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y se reforma la fracción I del artículo 8o. de la Ley Federal de Procedimiento Contencioso Administrativo.
+
+*Publicado en el Diario Oficial de la Federación el 28 de enero de 2011*
+
+**Artículo Primero.-** Se reforma el primer párrafo y se adicionan un segundo y tercer párrafos al artículo 180 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Artículo Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 14 de diciembre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se adiciona una fracción XVII al Artículo 3o. de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 28 de enero de 2011*
+
+**Artículo Único.-** Se adiciona una fracción XVII, recorriéndose en su orden las subsecuentes al Artículo 3o de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 13 de diciembre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria de Jesus Aguirre Maldonado, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 28 de enero de 2011*
+
+**Artículo Único.-** Se reforma el Artículo 41; y se adicionan, una fracción V al Artículo 2o; una fracción V Bis al Artículo 3o; una fracción XXI al Artículo 5o, recorriéndose las subsecuentes en su orden; una fracción XXI al Artículo 7o., recorriéndose las subsecuentes en su orden; una fracción XVI al Artículo 8o., recorriéndose las subsecuentes en su orden de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Artículo Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Artículo Segundo.** Se derogan y, en su caso, se abrogan todas las disposiciones que se opongan al presente Decreto.
+
+México, D.F., a 14 de diciembre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
