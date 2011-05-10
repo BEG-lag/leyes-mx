@@ -3,12 +3,12 @@ title: Código Fiscal de la Federación
 abbreviation: CFF
 slug: cff
 published_dof: 1981-12-31
-last_reform_dof: 2009-12-28
+last_reform_dof: 2011-05-10
 articles: 361
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/8.doc
-archived: https://web.archive.org/web/20101122030239/http://www.diputados.gob.mx:80/LeyesBiblio/doc/8.doc
-source_sha256: 72d4a38f235e4ede0815b222d5544e250e87b9713416202759500c3cc0eda345
-retrieved: 2010-11-22
+archived: https://web.archive.org/web/20110911085721/http://www.diputados.gob.mx:80/LeyesBiblio/doc/8.doc
+source_sha256: 4e12e13463b65cfb42b6574a86cb37fd5bb4bf4819f4d5216341e7f87b940cb2
+retrieved: 2011-09-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm
 ---
 
@@ -18,11 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 31 de diciembr
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 07-12-2009
-
-Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 28-12-2009
-
-> Nota de vigencia: Las reformas a los artículos 22, sexto párrafo; 29; 29-A, fracciones II, VIII y IX, y segundo y tercer párrafos; 29-C, encabezado del primer párrafo, segundo y séptimo párrafos; 32-B, fracción VII; 32-E; 81, fracción X; 82, fracción X; 84-G, y 113, encabezado y fracción III; las adiciones de los artículos 29-C, tercer párrafo; 63, con un sexto párrafo; 81, con las fracciones XXXII, XXXIII y XXXV; 82, con las fracciones XXXII, XXXIII y XXXV; 84-A, con la fracción X; 84-B, con la fracción X; 84-I; 84-J; 84-K; 84-L, y 109, primer párrafo, con las fracciones VI, VII y VIII; y la derogación del artículo 29-C, quinto párrafo, publicadas en el Diario Oficial de la Federación el 7 de diciembre de 2009, entrarán en vigor el 1 de enero de 2011.
+Última reforma publicada DOF 10-05-2011
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -636,15 +632,13 @@ Para determinar las contribuciones y sus accesorios se considerará el tipo de c
 
 Cuando las disposiciones fiscales permitan el acreditamiento de impuestos o de cantidades equivalentes a éstos, pagados en moneda extranjera, se considerará el tipo de cambio que corresponda conforme a lo señalado en el párrafo anterior, referido a la fecha en que se causó el impuesto que se traslada o en su defecto cuando se pague.
 
-Para determinar las contribuciones al comercio exterior, así como para pagar aquéllas que deban efectuarse en el extranjero, se considerará el tipo de cambio que publique el Banco de México en términos del tercer párrafo del presente Artículo.
+Para determinar las contribuciones al comercio exterior, así como para pagar aquéllas que deban efectuarse en el extranjero, se considerará el tipo de cambio que publique el Banco de México en términos del tercer párrafo del presente artículo.
 
-La equivalencia del peso mexicano con monedas extranjeras distintas al dólar de los Estado Unidos de América que regirá para efectos fiscales, se calculará multiplicando el tipo de cambio a que se refiere el párrafo tercero del presente Artículo, por el equivalente en dólares de la moneda de que se trate, de acuerdo con la tabla que mensualmente publique el Banco México durante la primera semana del mes inmediato siguiente a aquél al que corresponda.
+La equivalencia del peso mexicano con monedas extranjeras distintas al dólar de los Estado Unidos de América que regirá para efectos fiscales, se calculará multiplicando el tipo de cambio a que se refiere el párrafo tercero del presente artículo, por el equivalente en dólares de la moneda de que se trate, de acuerdo con la tabla que mensualmente publique el Banco México durante la primera semana del mes inmediato siguiente a aquél al que corresponda.
 
 Se aceptará como medio de pago de las contribuciones, los cheques certificados o de caja y la transferencia electrónica de fondos a favor de la Tesorería de la Federación, de conformidad con las reglas de carácter general que expida el Servicio de Administración Tributaria. Los contribuyentes personas físicas que realicen actividades empresariales y que en el ejercicio inmediato anterior hubiesen obtenido ingresos inferiores a \$2,160,130.00, así como las personas físicas que no realicen actividades empresariales y que hubiesen obtenido en dicho ejercicio ingresos inferiores a \$370,310.00, efectuarán el pago de sus contribuciones en efectivo, transferencia electrónica de fondos a favor de la Tesorería de la Federación o cheques personales del mismo banco, siempre que en este último caso, se cumplan las condiciones que al efecto establezca el Reglamento de este Código. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de la Tesorería de la Federación, se realiza por las instituciones de crédito, en forma electrónica.
 
-Para determinar las contribuciones se considerarán inclusive, las fracciones del peso, no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 a 50 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad del peso inmediata superior.
-
-Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes al adeudo principal, a los accesorios en el siguiente orden:
+Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes del adeudo principal, a los accesorios en el siguiente orden:
 
 I. Gastos de ejecución.
 
@@ -652,7 +646,7 @@ II. Recargos.
 
 III. Multas.
 
-IV. La indemnización a que se refiere el séptimo párrafo del Artículo 21 de este Código.
+IV. La indemnización a que se refiere el séptimo párrafo del artículo 21 de este Código.
 
 Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
 
@@ -823,7 +817,7 @@ IV. Se trate de contribuyentes que dictaminen u opten por dictaminarse para efec
 
 ##### Artículo 22-C.
 
-Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a \$10,000.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
+Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a \$11,510.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
 
 ##### Artículo 23.
 
@@ -1985,7 +1979,7 @@ III. Que los depósitos en la cuenta bancaria del contribuyente que no correspon
 
 Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación.
 
-También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a \$1´000,000.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
+También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a \$1,151,000.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
 
 No se aplicará lo dispuesto en el párrafo anterior cuando, antes de que la autoridad inicie el ejercicio de sus facultades de comprobación, el contribuyente informe al Servicio de Administración Tributaria de los depósitos realizados, cubriendo todos los requisitos que dicho órgano desconcentrado establezca mediante reglas de carácter general.
 
@@ -2185,7 +2179,7 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales federales, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias o en el supuesto previsto en el artículo 63 de este Código. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para Regular las Sociedades de Información Crediticia, ni la que se proporcione para efectos de la notificación por terceros a que se refiere el último párrafo del artículo 134 de este Código, ni la que se proporcione a un contribuyente para verificar la información contenida en los comprobantes fiscales que pretendan deducir o acreditar, expedidos a su nombre en términos del artículo 29 de este ordenamiento.
 
-La reserva a que se refiere el párrafo anterior no será aplicable tratándose de las investigaciones sobre conductas previstas en el artículo 400 Bis del Código Penal Federal, que realice la Secretaría de Hacienda y Crédito Público ni cuando, para los efectos del artículo 26 de la Ley del Impuesto Especial sobre Producción y Servicios, la autoridad requiera intercambiar información con la Comisión Federal para la Protección contra Riesgos Sanitarios de la Secretaría de Salud.
+La reserva a que se refiere el párrafo anterior no será aplicable tratándose de las investigaciones sobre conductas previstas en el artículo 400 Bis del Código Penal Federal, que realice la Secretaría de Hacienda y Crédito Público ni cuando, para los efectos del artículo 26 de la Ley del Impuesto Especial sobre Producción y Servicios, la autoridad requiera intercambiar información con la Comisión Federal para la Protección contra Riesgos Sanitarios de la Secretaría de Salud. Tampoco será aplicable dicha reserva respecto a los requerimientos que realice la Comisión Federal de Competencia para efecto de calcular el monto de las sanciones a que se refiere el artículo 35 de la Ley Federal de Competencia Económica, cuando el agente económico no haya proporcionado información sobre sus ingresos a dicha Comisión, o bien, ésta considere que se presentó en forma incompleta o inexacta.
 
 Tampoco será aplicable dicha reserva a la Unidad de Fiscalización de los Recursos de los Partidos Políticos, órgano técnico del Consejo General del Instituto Federal Electoral, en los términos establecidos por los párrafos 3 y 4 del artículo 79 del Código Federal de Instituciones y Procedimientos Electorales, ni a las Salas del Tribunal Electoral del Poder Judicial de la Federación en los asuntos contenciosos directamente relacionados con la fiscalización de las finanzas de los partidos políticos. La información que deba suministrarse en los términos de este párrafo, sólo deberá utilizarse para los fines que dieron origen a la solicitud de información.
 
@@ -6300,3 +6294,47 @@ A. Cantidades actualizadas establecidas en el Código.
 Atentamente.
 
 México, D. F., a 21 de diciembre de 2009.- En ausencia del Jefe del Servicio de Administración Tributaria y del Administrador General de Grandes Contribuyentes, con fundamento en el artículo 8 del Reglamento Interior del Servicio de Administración Tributaria, firma Jesús Rojas Ibañez, Administrador General Jurídico.- Rúbrica.
+
+### ANEXOS 5, 7, 8, 10, 15, 17 y 19 de la Tercera Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2010, publicada el 28 de diciembre de 2010.
+
+*Publicados en el Diario Oficial de la Federación el 31 de diciembre de 2010*
+
+Anexo 5 de la Resolución Miscelánea Fiscal para 2010
+
+A. Cantidades actualizadas establecidas en el Código.
+
+> Nota: Se actualizan las cantidades de los artículos 22-C; 29, párrafo quinto; 59, fracción III, párrafo tercero; 82, fracciones X, XXXII, XXXIII y XXXV; 84-B, fracción X; 84-J y 854-L.
+
+Atentamente.
+
+México, D. F., a 21 de diciembre de 2010.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria y del Administrador General de Grandes Contribuyentes, con fundamento en los artículos 2, apartado B, fracción V y 8, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, publicado en el Diario Oficial de la Federación el 22 de octubre de 2007, en vigor a partir del 23 de diciembre del mismo año, reformado mediante Decreto publicado en el mismo órgano informativo el 29 de abril de 2010, firma el Administrador General Jurídico, Jesús Rojas Ibáñez.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica, del Código Penal Federal y del Código Fiscal de la Federación.
+
+*Publicado en el Diario Oficial de la Federación el 10 de mayo de 2011*
+
+**ARTÍCULO TERCERO.** Se REFORMA el artículo 69 párrafo segundo del Código Fiscal de la Federación, para quedar como sigue:
+
+……….
+
+**ARTÍCULOS TRANSITORIOS**
+
+**ARTÍCULO PRIMERO.** El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos tercero, cuarto y sexto transitorios siguientes.
+
+**ARTÍCULO SEGUNDO.** En un plazo no mayor a seis meses a partir de la entrada en vigor del presente decreto, el Pleno publicará los criterios técnicos a que hace referencia el artículo 24, fracción XVIII bis, incisos a) a j) de la Ley Federal de Competencia Económica.
+
+**ARTÍCULO TERCERO.** El artículo 28, párrafos primero y segundo, de la Ley Federal de Competencia Económica entrará en vigor una vez que concluya el periodo actual del Presidente de la Comisión.
+
+**ARTÍCULO CUARTO.** Las investigaciones, visitas de verificación, procedimientos y cualquier otro asunto que se encuentren en trámite a la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio.
+
+Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la Ley vigente al momento de su realización.
+
+**ARTÍCULO QUINTO.** Los recursos necesarios para la implementación del presente Decreto, serán con cargo al presupuesto autorizado de la Comisión Federal de Competencia.
+
+**ARTÍCULO SEXTO.** La reforma al artículo 39 de la Ley Federal de Competencia Económica entrará en vigor una vez que los juzgados especializados en materia de competencia económica queden establecidos por el Poder Judicial de la Federación y se expidan las reglas procesales aplicables al juicio ordinario administrativo en las disposiciones legales correspondientes, en un plazo que no exceda de 180 días naturales a la entrada en vigor de este Decreto.
+
+**ARTÍCULO SÉPTIMO.** Se derogan las disposiciones que se opongan al presente Decreto.
+
+México, D.F., a 28 de abril de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria de Jesus Aguirre Maldonado, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
