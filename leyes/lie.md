@@ -3,12 +3,12 @@ title: Ley de Inversión Extranjera
 abbreviation: LIE
 slug: lie
 published_dof: 1993-12-27
-last_reform_dof: 2008-08-20
+last_reform_dof: 2011-05-25
 articles: 42
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/44.doc
-archived: https://web.archive.org/web/20101010230024/http://www.diputados.gob.mx:80/LeyesBiblio/doc/44.doc
-source_sha256: 401a13227bb1792530f03bdd2e973613601a4755ca2999ef9ff9c24143a75ae6
-retrieved: 2010-10-10
+archived: https://web.archive.org/web/20110911083605/http://www.diputados.gob.mx:80/LeyesBiblio/doc/44.doc
+source_sha256: c4d606697193122c5622e88a130efdffbec36b80f7bd07d98f8905f4f1f5dd96
+retrieved: 2011-09-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lie.htm
 ---
 
@@ -18,7 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 27 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 20-08-2008
+Última reforma publicada DOF 25-05-2011
+
+> Nota de vigencia: Las reformas a los artículos 3o. y 33, fracción I, inciso d) de esta Ley, publicadas en el Diario oficial de la Federación el 25 de mayo de 2011, entrarán en vigor “hasta que se encuentre vigente el Reglamento de la Ley de Migración”.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -66,7 +68,9 @@ VII.- Cláusula de Exclusión de Extranjeros: El convenio o pacto expreso que fo
 
 #### ARTÍCULO 3o.
 
-Para los efectos de esta Ley se equipara a la inversión mexicana la que efectúen los extranjeros en el país con calidad de inmigrados, salvo aquélla realizada en las actividades contempladas en los Títulos Primero y Segundo de esta Ley.
+Para los efectos de esta Ley se equipara a la inversión mexicana la que efectúen los extranjeros en el país con la condición de estancia de Residente Permanente, salvo aquélla realizada en las actividades contempladas en los Títulos Primero y Segundo de esta Ley.
+
+*Artículo reformado DOF 25-05-2011*
 
 #### ARTÍCULO 4o.
 
@@ -556,7 +560,9 @@ b) Nombre y domicilio del representante legal;
 
 c) Nombre y domicilio de las personas autorizadas para oír y recibir notificaciones;
 
-d) Nombre, denominación o razón social, nacionalidad y calidad migratoria en su caso, domicilio de los inversionistas extranjeros en el exterior o en el país y su porcentaje de participación;
+d) Nombre, denominación o razón social, nacionalidad y condición de estancia en su caso, domicilio de los inversionistas extranjeros en el exterior o en el país y su porcentaje de participación;
+
+*Inciso reformado DOF 25-05-2011*
 
 e) Importe del capital social suscrito y pagado o suscrito y pagadero; y
 
@@ -1023,3 +1029,27 @@ La Comisión Nacional Bancaria y de Valores, publicará en el Diario Oficial de 
 México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de agosto de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+### DECRETO por el que se expide la Ley de Migración y se reforman, derogan y adicionan diversas disposiciones de la Ley General de Población, del Código Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.
+
+*Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011*
+
+**ARTÍCULO OCTAVO.** Se reforman los artículos 3o. y 33, fracción I, inciso d) de la Ley de Inversión Extranjera, para quedar como sigue:
+
+……….
+
+TRANSITORIOS DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE POBLACIÓN, DEL CÓDIGO PENAL FEDERAL, DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+
+Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+
+**TERCERO.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
+
+**CUARTO.** Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+
+México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
