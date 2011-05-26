@@ -3,12 +3,12 @@ title: Ley Federal de Protección al Consumidor
 abbreviation: LFPC
 slug: lfpc
 published_dof: 1992-12-24
-last_reform_dof: 2009-01-29
-articles: 177
+last_reform_dof: 2011-05-26
+articles: 178
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/113.doc
-archived: https://web.archive.org/web/20090306103635/http://www.diputados.gob.mx:80/LeyesBiblio/doc/113.doc
-source_sha256: 1058e6ee9cece4489456e8ef7df5167d41b72081248e8a2a100c52b93c62638b
-retrieved: 2009-03-06
+archived: https://web.archive.org/web/20110911065925/http://www.diputados.gob.mx:80/LeyesBiblio/doc/113.doc
+source_sha256: 0fd0b49bb91fc9946e26b0c12c8b3a0d4533be46e9681ffcc0d9d885010dad22
+retrieved: 2011-09-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm
 ---
 
@@ -18,7 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 29-01-2009
+Última reforma publicada DOF 26-05-2011
+
+> Nota de vigencia: La adición de un artículo 29 BIS, publicada en el Diario Oficial de la Federación el 26 de mayo de 2011, entrará en vigor en el mes de enero de 2012.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
@@ -66,13 +68,17 @@ VI. El otorgamiento de información y de facilidades a los consumidores para la 
 
 VII. La protección contra la publicidad engañosa y abusiva, métodos comerciales coercitivos y desleales, así como contra prácticas y cláusulas abusivas o impuestas en el abastecimiento de productos y servicios.
 
-VIII. La real y efectiva protección al consumidor en las transacciones efectuadas a través del uso de medios convencionales, electrónicos, ópticos o de cualquier otra tecnología y la adecuada utilización de los datos aportados, y
+VIII. La real y efectiva protección al consumidor en las transacciones efectuadas a través del uso de medios convencionales, electrónicos, ópticos o de cualquier otra tecnología y la adecuada utilización de los datos aportados;
 
-*Fracción adicionada DOF 29-05-2000. Reformada DOF 04-02-2004*
+*Fracción adicionada DOF 29-05-2000. Reformada DOF 04-02-2004, 19-08-2010*
 
-IX. El respeto a los derechos y obligaciones derivados de las relaciones de consumo y las medidas que garanticen su efectividad y cumplimiento.
+IX. El respeto a los derechos y obligaciones derivados de las relaciones de consumo y las medidas que garanticen su efectividad y cumplimiento; y
 
-*Fracción adicionada DOF 04-02-2004*
+*Fracción adicionada DOF 04-02-2004. Reformada DOF 19-08-2010*
+
+X. La protección de los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
+
+*Fracción adicionada DOF 19-08-2010*
 
 Los derechos previstos en esta ley no excluyen otros derivados de tratados o convenciones internacionales de los que México sea signatario; de la legislación interna ordinaria; de reglamentos expedidos por las autoridades administrativas competentes; así como de los que deriven de los principios generales de derecho, la analogía, las costumbres y la equidad.
 
@@ -88,9 +94,9 @@ Tratándose de personas morales que adquieran bienes o servicios para integrarlo
 
 *Párrafo adicionado DOF 04-02-2004*
 
-II. Proveedor: la persona física o moral que habitual o periódicamente ofrece, distribuye, vende, arrienda o concede el uso o disfrute de bienes, productos y servicios;
+II. Proveedor: la persona física o moral en términos del Código Civil Federal, que habitual o periódicamente ofrece, distribuye, vende, arrienda o concede el uso o disfrute de bienes, productos y servicios;
 
-*Fracción reformada DOF 04-02-2004*
+*Fracción reformada DOF 04-02-2004, 19-08-2010*
 
 III. Secretaría: la Secretaría de Economía, y
 
@@ -100,7 +106,9 @@ IV. Procuraduría: la Procuraduría Federal del Consumidor.
 
 #### ARTÍCULO 3.
 
-A falta de competencia específica de determinada dependencia de la administración pública federal, corresponde a la Secretaría de Comercio y Fomento Industrial expedir las normas oficiales mexicanas previstas por la ley y a la Procuraduría vigilar se cumpla con lo dispuesto en la propia ley y sancionar su incumplimiento.
+A falta de competencia específica de determinada dependencia de la administración pública federal, corresponde a la Secretaría de Economía expedir las normas oficiales mexicanas previstas por la ley y a la Procuraduría vigilar se cumpla con lo dispuesto en la propia ley y sancionar su incumplimiento.
+
+*Artículo reformado DOF 30-11-2010*
 
 #### ARTÍCULO 4.
 
@@ -130,9 +138,11 @@ Todo proveedor está obligado a informar y respetar los precios, tarifas, garant
 
 #### ARTÍCULO 7 BIS.
 
-El proveedor está obligado a exhibir de manera visible el monto total a pagar por los bienes, productos o servicios que ofrezca al consumidor.
+El proveedor está obligado a exhibir de forma notoria y visible el monto total a pagar por los bienes, productos o servicios que ofrezca al consumidor.
 
-*Artículo adicionado DOF 04-02-2004*
+Dicho monto deberá incluir impuestos, comisiones, intereses, seguros y cualquier otro costo, cargo, gasto o erogación adicional que se requiera cubrir con motivo de la adquisición o contratación respectiva, sea ésta al contado o a crédito.
+
+*Artículo adicionado DOF 04-02-2004. Reformado DOF 19-07-2010*
 
 #### ARTÍCULO 8.
 
@@ -144,13 +154,15 @@ Los proveedores están obligados a respetar el precio máximo y las tarifas esta
 
 *Párrafo adicionado DOF 04-02-2004*
 
-#### ARTÍCULO 8 BIS.
+#### ARTÍCULO 8 Bis.
 
-La Procuraduría elaborará material informativo, de orientación y de educación a los consumidores y acordará con los proveedores su divulgación en los lugares o establecimientos respectivos.
+La Procuraduría deberá fomentar permanentemente una cultura de consumo responsable e inteligente, entendido como aquel que implica un consumo consciente, informado, crítico, saludable, sustentable, solidario y activo, a fin de que los consumidores estén en la posibilidad de realizar una buena toma de decisiones, suficientemente informada, respecto del consumo de bienes y servicios, los efectos de sus actos de consumo, y los derechos que los asisten.
+
+Para este propósito, elaborará contenidos y materiales educativos en esta materia a fin de ponerlos a disposición del público por los medios a su alcance, incluyendo su distribución en los establecimientos de los proveedores, previo acuerdo con éstos. También presentará sus contenidos educativos a la autoridad federal competente a fin de que los incorpore a los programas oficiales correspondientes en términos de las disposiciones aplicables.
 
 La Procuraduría establecerá módulos o sistemas de atención y orientación a los consumidores en función de la afluencia comercial, del número de establecimientos y operaciones mercantiles, de la temporada del año y conforme a sus programas y medios, debiéndose otorgar a aquélla las facilidades necesarias para ello.
 
-*Artículo adicionado DOF 04-02-2004*
+*Artículo adicionado DOF 04-02-2004. Reformado DOF 28-01-2011*
 
 #### ARTÍCULO 9.
 
@@ -187,6 +199,10 @@ Las autoridades, proveedores y consumidores están obligados a proporcionar a la
 #### ARTÍCULO 14.
 
 El plazo de prescripción de los derechos y obligaciones establecidos en la presente ley será de un año, salvo otros términos previstos por esta ley.
+
+En caso de afectaciones a los derechos de las niñas, niños y adolescentes, el término de prescripción será de diez años.
+
+*Párrafo adicionado DOF 19-08-2010*
 
 #### ARTÍCULO 15.
 
@@ -300,6 +316,10 @@ III. Representar individualmente o en grupo a los consumidores ante autoridades 
 
 IV. Recopilar, elaborar, procesar y divulgar información objetiva para facilitar al consumidor un mejor conocimiento de los bienes y servicios que se ofrecen en el mercado;
 
+En el caso de servicios educativos proporcionados por particulares, deberá informar a las y los consumidores, la publicación señalada en el segundo párrafo del artículo 56 de la Ley General de Educación así como la aptitud del personal administrativo que labora en el plantel;
+
+*Párrafo adicionado DOF 19-08-2010*
+
 V. Formular y realizar programas de educación para el consumo, así como de difusión y orientación respecto de las materias a que se refiere esta ley;
 
 *Fracción reformada DOF 04-02-2004*
@@ -344,7 +364,9 @@ XVI. Procurar la solución de las diferencias entre consumidores y proveedores y
 
 *Fracción reformada DOF 04-02-2004*
 
-XVII. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de delitos y que sean de su conocimiento y, ante las autoridades competentes, los actos que constituyan violaciones administrativas que afecten los intereses de los consumidores;
+XVII. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de delitos y que sean de su conocimiento y, ante las autoridades competentes, los actos que constituyan violaciones administrativas que afecten la integridad e intereses de las y los consumidores;
+
+*Fracción reformada DOF 19-08-2010*
 
 XVIII. Promover y apoyar la constitución de organizaciones de consumidores, proporcionándoles capacitación y asesoría, así como procurar mecanismos para su autogestión;
 
@@ -358,13 +380,21 @@ XX. Requerir a los proveedores o a las autoridades competentes a que tomen medid
 
 *Fracción reformada DOF 04-02-2004*
 
-XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán, y
+XX Bis. En el caso de que en ejercicio de sus atribuciones identifique aumentos de precios, restricciones en la cantidad ofrecida o divisiones de mercados de bienes o servicios derivados de posibles prácticas monopólicas en términos de lo dispuesto por la Ley Federal de Competencia Económica, la Procuraduría, en representación de los consumidores, podrá presentar ante la Comisión Federal de Competencia la denuncia que corresponda;
 
-*Fracción reformada DOF 04-02-2004*
+*Fracción adicionada DOF 28-01-2011*
 
-XXII. Las demás que le confieran esta ley y otros ordenamientos.
+XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán;
 
-*Fracción adicionada DOF 04-02-2004*
+*Fracción reformada DOF 04-02-2004, 10-06-2009, 19-08-2010*
+
+XXII.- Coadyuvar con las autoridades competentes para salvaguardar los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas, y
+
+*Fracción adicionada DOF 19-08-2010*
+
+XXIII.- Las demás que le confieran esta ley y otros ordenamientos.
+
+*Fracción adicionada DOF 04-02-2004. Recorrida DOF 19-08-2010*
 
 #### ARTÍCULO 25.
 
@@ -376,13 +406,17 @@ I. Apercibimiento;
 
 *Fracción reformada DOF 04-02-2004*
 
-II. Multa de \$183.56 a \$18,355.98;
+II. Multa de \$198.87 a \$19,887.70;
 
-*Fracción reformada DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
+*Fracción reformada DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
 
-III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por \$7,342.39, y
+21-12-2010
 
-*Fracción adicionada DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
+III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por \$7,955.08, y
+
+*Fracción adicionada DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
+
+21-12-2010
 
 IV. El auxilio de la fuerza pública.
 
@@ -394,17 +428,25 @@ La Procuraduría podrá aplicar las siguientes medidas precautorias cuando se af
 
 I. Inmovilización de envases, bienes, productos y transportes;
 
-II. El aseguramiento de bienes o productos en términos de lo dispuesto por el artículo 98 TER de esta ley;
+II. El aseguramiento de bienes o productos en términos de lo dispuesto por el artículo 98 TER de esta Ley;
 
 III. Suspensión de la comercialización de bienes, productos o servicios;
 
-IV. Colocación de sellos de advertencia, y
+IV. Ordenar el retiro de bienes o productos del mercado, cuando se haya determinado fehacientemente por la autoridad competente que ponen en riesgo la vida o la salud de los consumidores;
 
-V. Ordenar la suspensión de información o publicidad a que se refiere el artículo 35 de esta ley.
+V. Colocación de sellos e información de advertencia, y
 
-Las medidas precautorias se dictarán conforme a los criterios que al efecto expida la Procuraduría y dentro del procedimiento correspondiente en términos de lo dispuesto en el artículo 57 y demás relativos de la Ley Federal sobre Metrología y Normalización; así como cuando se advierta que se afecta o se puede afectar la economía de una colectividad de consumidores en los casos a que se refiere el artículo 128 TER o cuando se violen disposiciones de esta ley por diversas conductas o prácticas comerciales abusivas, tales como: el incumplimiento de precios o tarifas exhibidos; el condicionamiento de la venta de bienes o de servicios; el incumplimiento de ofertas y promociones; por conductas discriminatorias y por publicidad o información engañosa. En el caso de la medida precautoria a que se refiere la fracción IV de este precepto, previo a la colocación del sello respectivo, la Procuraduría aplicará la medida a que se refiere el artículo 25, fracción I, de esta ley. Tales medidas se levantarán una vez que se acredite el cese de las causas que hubieren originado su aplicación. En su caso, la Procuraduría hará del conocimiento de otras autoridades competentes la aplicación de la o las medidas a que se refiere este precepto.
+*Fracción reformada DOF 19-08-2010*
 
-*Artículo adicionado DOF 04-02-2004*
+VI. Ordenar la suspensión de información o publicidad a que se refiere el artículo 35 de esta Ley.
+
+Las medidas precautorias se dictarán conforme a los criterios que al efecto expida la Procuraduría y dentro del procedimiento correspondiente en términos de lo dispuesto en el artículo 57 y demás relativos de la Ley Federal sobre Metrología y Normalización; así como cuando se advierta que se afecta o se puede afectar la economía de una colectividad de consumidores en los casos a que se refiere el artículo 128 TER o cuando se violen disposiciones de esta ley por diversas conductas o prácticas comerciales abusivas, tales como: el incumplimiento de precios o tarifas exhibidos; el condicionamiento de la venta de bienes o de servicios; el incumplimiento de ofertas y promociones; por conductas discriminatorias y por publicidad o información engañosa. En el caso de la medida precautoria a que se refiere la fracción IV de este precepto, previo a la colocación del sello e información respectiva, la Procuraduría aplicará la medida a que se refiere el artículo 25, fracción I, de esta ley, salvo el caso de que se encuentre en riesgo el principio señalado en la fracción X del artículo 1 de la presente ley. Tales medidas se levantarán una vez que se acredite el cese de las causas que hubieren originado su aplicación. En su caso, la Procuraduría hará del conocimiento de otras autoridades competentes la aplicación de la o las medidas a que se refiere este precepto.
+
+*Párrafo reformado DOF 19-08-2010*
+
+Los proveedores están obligados a informar de inmediato a las autoridades si determinan que alguno de sus productos puede implicar riesgos para la vida o la salud de los consumidores.
+
+*Artículo adicionado DOF 04-02-2004. Reformado DOF 10-06-2009*
 
 #### ARTÍCULO 26.
 
@@ -456,11 +498,17 @@ VIII. Delegar facultades de autoridad y demás necesarias o convenientes en serv
 
 IX. Fijar las políticas y expedir las normas de organización y funcionamiento de la Procuraduría;
 
-X. Expedir el estatuto orgánico de la Procuraduría, previa aprobación del Secretario de Economía, y
+X. Expedir el estatuto orgánico de la Procuraduría, previa aprobación del Secretario de Economía;
 
-*Fracción reformada DOF 04-02-2004*
+*Fracción reformada DOF 04-02-2004, 28-01-2011*
 
-XI. Las demás que le confiera esta ley y otros ordenamientos.
+XI. Expedir lineamientos, criterios y demás normas administrativas que permitan a la Procuraduría el ejercicio de las atribuciones legales y reglamentarias que tenga conferidas, y
+
+*Fracción adicionada DOF 28-01-2011*
+
+XII. Las demás que le confiera esta ley y otros ordenamientos.
+
+*Fracción recorrida DOF 28-01-2011*
 
 #### ARTÍCULO 28.
 
@@ -469,6 +517,12 @@ El Procurador Federal del Consumidor será designado por el Presidente de la Rep
 #### ARTÍCULO 29.
 
 Las relaciones de trabajo entre la Procuraduría y sus trabajadores se regularán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaría del Apartado B) del artículo 123 Constitucional. Dentro del personal de confianza se considerará al que desempeñe funciones directivas, de investigación, vigilancia, inspección, supervisión y demás establecidas en dicha ley. Asimismo, tendrán este carácter quienes se encuentren adscritos a las oficinas superiores, los delegados, subdelegados y los que manejen fondos y valores.
+
+#### ARTÍCULO 29 BIS.
+
+La Procuraduría determinará y aplicará controles de confianza para todo su personal en los términos que establezca el Procurador en los lineamientos correspondientes, como medida para asegurar su probidad y honestidad, y en particular tratándose de quienes realicen o supervisen labores de verificación y vigilancia establecidas en el capítulo XII de la propia ley, se les aplicarán, además de los que se establezcan en los lineamientos referidos, exámenes psicológicos, toxicológicos, patrimoniales y socioeconómicos.
+
+*Artículo adicionado DOF 26-05-2011*
 
 #### ARTÍCULO 30.
 
@@ -1116,9 +1170,9 @@ Cuando el consumidor acuda a la Procuraduría para hacer valer sus derechos fuer
 
 #### ARTÍCULO 85.
 
-Para los efectos de esta ley, se entiende por contrato de adhesión el documento elaborado unilateralmente por el proveedor, para establecer en formatos uniformes los términos y condiciones aplicables a la adquisición de un producto o la prestación de un servicio, aun cuando dicho documento no contenga todas las cláusulas ordinarias de un contrato. Todo contrato de adhesión celebrado en territorio nacional, para su validez, deberá estar escrito en idioma español y sus caracteres tendrán que ser legibles a simple vista. Además, no podrá implicar prestaciones desproporcionadas a cargo de los consumidores, obligaciones inequitativas o abusivas, o cualquier otra cláusula o texto que viole las disposiciones de esta ley.
+Para los efectos de esta ley, se entiende por contrato de adhesión el documento elaborado unilateralmente por el proveedor, para establecer en formatos uniformes los términos y condiciones aplicables a la adquisición de un producto o la prestación de un servicio, aun cuando dicho documento no contenga todas las cláusulas ordinarias de un contrato. Todo contrato de adhesión celebrado en territorio nacional, para su validez, deberá estar escrito en idioma español y sus caracteres tendrán que ser legibles a simple vista y en un tamaño y tipo de letra uniforme. Además, no podrá implicar prestaciones desproporcionadas a cargo de los consumidores, obligaciones inequitativas o abusivas, o cualquier otra cláusula o texto que viole las disposiciones de esta ley.
 
-*Artículo reformado DOF 04-02-2004*
+*Artículo reformado DOF 04-02-2004, 30-11-2010*
 
 #### ARTÍCULO 86.
 
@@ -1388,25 +1442,51 @@ La Procuraduría podrá ordenar el aseguramiento de bienes o productos que se co
 
 #### ARTÍCULO 99.
 
-La Procuraduría recibirá las quejas o reclamaciones de los consumidores con base en esta ley, las cuales podrán presentarse en forma escrita, oral, telefónica, electrónica o por cualquier otro medio idóneo cumpliendo con los siguientes requisitos:
+La Procuraduría recibirá las quejas o reclamaciones de los consumidores de manera individual o grupal con base en esta ley, las cuales podrán presentarse en forma escrita, oral, telefónica, electrónica o por cualquier otro medio cumpliendo con los siguientes requisitos:
 
-*Párrafo reformado DOF 04-02-2004*
+*Párrafo reformado DOF 04-02-2004, 28-01-2011*
 
 I. Señalar nombre y domicilio del reclamante;
 
-II. Descripción del bien o servicio que se reclama y relación sucinta de los hechos; y
+II. Descripción del bien o servicio que se reclama y relación sucinta de los hechos;
 
-III. Señalar nombre y domicilio del proveedor que se contenga en el comprobante o recibo que ampare la operación materia de la reclamación o, en su defecto, el que proporcione el reclamante, y
+*Fracción reformada DOF 28-01-2011*
 
-*Fracción reformada DOF 04-02-2004*
+III. Señalar nombre y domicilio del proveedor que se contenga en el comprobante o recibo que ampare la operación materia de la reclamación o, en su defecto, el que proporcione el reclamante;
 
-IV. Señalar el lugar o forma en que solicita se desahogue su reclamación.
+*Fracción reformada DOF 04-02-2004, 28-01-2011*
 
-*Fracción adicionada DOF 04-02-2004*
+IV. Señalar el lugar o forma en que solicita se desahogue su reclamación;
 
-Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de \$367,119.59.
+*Fracción adicionada DOF 04-02-2004. Reformada DOF 28-01-2011*
 
-*Párrafo adicionado DOF 04-02-2004. Monto de operación actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
+V. Para la atención y procedencia de quejas o reclamaciones grupales, se deberá acreditar, además, que existe identidad de causa, acción, pretensiones y proveedor; la personalidad del o los representantes del grupo de quejosos; que la representación y gestión se realiza de manera gratuita, y que no están vinculadas con actividades de proselitismo político o electoral, y
+
+*Fracción adicionada DOF 28-01-2011*
+
+VI. Las asociaciones u organizaciones de consumidores que presenten reclamaciones grupales deberán acreditar, además:
+
+a) Su legal constitución y la personalidad de los representantes;
+
+b) Que su objeto social sea el de la promoción y defensa de los intereses y derechos de los consumidores;
+
+c) Que tienen como mínimo un año de haberse constituido;
+
+d) Que los consumidores que participan en la queja grupal expresaron su voluntad para formar parte de la misma;
+
+e) Que no tienen conflicto de intereses respecto de la queja que se pretenda presentar, expresándolo en un escrito en el que, bajo protesta de decir verdad, se haga constar dicha circunstancia;
+
+f) Que la representación y gestión se realiza de manera gratuita, y
+
+g) Que no participan de manera institucional en actividades de proselitismo político o electoral.
+
+*Fracción adicionada DOF 28-01-2011*
+
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de \$397,754.11.
+
+*Párrafo adicionado DOF 04-02-2004. Monto de operación actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008,*
+
+21-12-2009, 21-12-2010
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
@@ -1506,6 +1586,10 @@ a) A partir de que se expida el recibo a favor del que disfruta del uso o goce t
 
 b) A partir de que se cumpla efectivamente la contraprestación pactada en favor del que otorga el uso o goce temporal.
 
+Se exceptúa del término anterior, las reclamaciones que se realicen con motivo de la prestación de servicios educativos o similares, proporcionados por particulares a niñas, niños o adolescentes, por vulneración a los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes. La reclamación podrá presentarse dentro del término de diez años a partir de que se advierta dicha vulneración.
+
+*Párrafo adicionado DOF 19-08-2010*
+
 (Se deroga último párrafo).
 
 *Párrafo derogado DOF 04-02-2004*
@@ -1559,6 +1643,10 @@ La Procuraduría señalará día y hora para la celebración de una audiencia de
 La conciliación podrá celebrarse vía telefónica o por otro medio idóneo, en cuyo caso la Procuraduría o las partes podrán solicitar que se confirmen por escrito los compromisos adquiridos.
 
 *Párrafo reformado DOF 04-02-2004*
+
+Queda exceptuado de la etapa de conciliación, cuando el consumidor sea menor de edad y se haya vulnerado alguno de los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
+
+*Párrafo adicionado DOF 19-08-2010*
 
 #### ARTÍCULO 112.
 
@@ -1672,9 +1760,11 @@ La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cu
 
 *Párrafo reformado DOF 04-02-2004*
 
-Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de \$367,119.59.
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de \$397,754.11.
 
-*Párrafo adicionado DOF 04-02-2004. Monto de operación actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
+*Párrafo adicionado DOF 04-02-2004. Monto de operación actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008,*
+
+21-12-2009, 21-12-2010
 
 #### ARTÍCULO 118.
 
@@ -1744,29 +1834,37 @@ Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuradur
 
 #### ARTÍCULO 126.
 
-Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de \$183.56 a \$587,391.34.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de \$198.87 a \$636,406.58.
 
-*Artículo reformado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
+*Artículo reformado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
+
+21-12-2010
 
 #### ARTÍCULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de \$367.12 a \$1’174,782.68.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de \$397.76 a \$1’272,813.16.
 
-*Artículo reformado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
+*Artículo reformado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
+
+21-12-2010
 
 #### ARTÍCULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 73 QUÁTER, 73 QUINTUS, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de \$518.37 a \$2' 027, 403.14.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 73 QUÁTER, 73 QUINTUS, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de \$596.63 a \$2’333,490.80.
 
 *Artículo reformado DOF 29-05-2000, 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005. Reformado DOF 06-06-2006.*
 
-Multa actualizada DOF 19-12-2006, 21-12-2007, 17-12-2008. Reformado DOF 29-01-2009
+Multa actualizada DOF 19-12-2006, 21-12-2007, 17-12-2008. Reformado DOF 29-01-2009. Multa actualizada DOF 21-12-2009,
+
+21-12-2010
 
 #### ARTÍCULO 128 BIS.
 
-En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de \$110,135.88 a \$3’083,804.56.
+En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de \$119,326.23 a \$3’341,134.55.
 
-*Artículo adicionado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
+*Artículo adicionado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
+
+21-12-2010
 
 #### ARTÍCULO 128 TER.
 
@@ -1780,9 +1878,17 @@ III. Aquellas infracciones que se cometan en relación con bienes, productos o s
 
 IV. Aquellas conductas que se cometan aprovechando la escasez, lejanía o dificultad en el abastecimiento de un bien o en la prestación de un servicio;
 
-V. Cuando se trate de productos básicos de consumo generalizado, como alimentos, gas natural o licuado de petróleo, gasolina o productos sujetos a precio máximo o a precios o tarifas establecidos o registrados por la Secretaría o por cualquiera otra autoridad competente, y
+V. Cuando se trate de productos básicos de consumo generalizado, como alimentos, gas natural o licuado de petróleo, gasolina o productos sujetos a precio máximo o a precios o tarifas establecidos o registrados por la Secretaría o por cualquiera otra autoridad competente;
 
-VI. La reincidencia en la comisión de infracciones a los artículos señalados en el artículo 128 de esta ley.
+*Fracción reformada DOF 19-08-2010*
+
+VI. La reincidencia en la comisión de infracciones a los artículos señalados en el artículo 128 de esta ley, y
+
+*Fracción reformada DOF 19-08-2010*
+
+VII. Aquellas que vulneren los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
+
+*Fracción adicionada DOF 19-08-2010*
 
 *Artículo adicionado DOF 04-02-2004*
 
@@ -1848,21 +1954,23 @@ Asimismo, la Procuraduría deberá considerar los hechos generales de la infracc
 
 #### ARTÍCULO 133.
 
-En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia.
+En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia o cuando se afecten derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
 
-Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de \$6’167,609.11.
+*Párrafo reformado DOF 19-08-2010*
 
-*Párrafo adicionado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008*
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de \$6’682,269.10.
+
+*Párrafo adicionado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
+
+21-12-2010
 
 #### ARTÍCULO 134.
 
-La autoridad que haya impuesto alguna de las sanciones previstas en esta ley la podrá condonar, reducir o conmutar, para lo cual apreciará las circunstancias del caso, las causas que motivaron su imposición, así como la medida en que la reclamación del consumidor haya quedado satisfecha, sin que la petición del interesado constituya un recurso.
+La autoridad que haya impuesto alguna de las sanciones previstas en esta ley la podrá condonar, reducir o conmutar, para lo cual apreciará las circunstancias del caso, las causas que motivaron su imposición, así como la medida en que la reclamación del consumidor haya quedado satisfecha, sin que la petición del interesado constituya un recurso. Excepcionalmente procederá la condonación, reducción o conmutación de las multas que se hayan impuesto como medidas de apremio, cuando se hubiere logrado una conciliación en favor del consumidor y se acredite fehacientemente el cumplimiento del convenio correspondiente.
 
-*Párrafo reformado DOF 04-02-2004*
+La autoridad no podrá ejercer la facultad referida en el párrafo anterior, una vez que las multas hayan sido remitidas a la autoridad fiscal competente para su cobro y tampoco cuando se trate de sanciones impuestas con motivo de los procedimientos de verificación y vigilancia del cumplimiento de esta ley y demás disposiciones aplicables.
 
-La autoridad no podrá ejercer la facultad referida en este precepto, respecto de las sanciones impuestas con motivo de los procedimientos de verificación y vigilancia del cumplimiento de esta ley y demás disposiciones aplicables.
-
-*Párrafo adicionado DOF 04-02-2004*
+*Artículo reformado DOF 04-02-2004, 19-08-2010, 28-01-2011*
 
 ## Capítulo XV · Recursos administrativos
 
@@ -2431,3 +2539,157 @@ México, D.F., a 12 de diciembre de 2008.- El Procurador Federal del Consumidor,
 México, D.F., a 11 de diciembre de 2008.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Manuel Portilla Dieguez, Secretario.- Sen. Gabino Cué Monteagudo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de enero de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción XXI del artículo 24 y el artículo 25 BIS de la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 10 de junio de 2009*
+
+**Artículo Único.-** Se reforma la fracción XXI del artículo 24 y el artículo 25 BIS de la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 28 de abril de 2009.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Gabino Cue Monteagudo, Secretario.- Dip. Margarita Arenas Guzman, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### ACUERDO por el que se actualizan los montos de las operaciones y multas previstas en la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2009*
+
+**PRIMERO.-** El monto señalado en el segundo párrafo del artículo 99 y en el segundo párrafo del artículo 117, en relación con el artículo 2, fracción I, de la Ley Federal de Protección al Consumidor, se actualiza para quedar en la cantidad de \$381,294.10.
+
+**SEGUNDO.-** El monto de la multa a que se refiere la fracción II del artículo 25 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$190.64 y un máximo de \$19,064.70.
+
+**TERCERO.-** El monto de la multa a que se refiere la fracción III del artículo 25 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en \$7,625.88.
+
+**CUARTO.-** El monto de la multa prevista en el artículo 126 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$190.64 y en un máximo de \$610,070.56.
+
+**QUINTO.-** El monto de la multa prevista en el artículo 127 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$381.30 y en un máximo de \$1’220,141.12.
+
+**SEXTO.-** El monto de la multa prevista en el artículo 128 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$571.94 y en un máximo de \$2’236,925.40.
+
+**SEPTIMO.-** El monto de la multa prevista en el artículo 128 bis de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$114,388.23 y en un máximo de \$3’202,870.46.
+
+**OCTAVO.-** La cantidad establecida en el artículo 133 se actualiza para quedar en \$6’405,740.92.
+
+**NOVENO.-** Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2010.
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Acuerdo entrará en vigor el 1 de enero de 2010.
+
+México, D.F., a 9 de diciembre de 2009.- El Procurador Federal del Consumidor, Antonio Morales de la Peña.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 7 BIS de la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 19 de julio de 2010*
+
+**Artículo Único.-** Se reforma el artículo 7 BIS de la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor a los 120 días siguientes de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Jaime Arturo Vazquez Aguilar, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de julio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes; de la Ley General de Educación; de la Ley de Asociaciones Religiosas y Culto Público; de la Ley Federal de Protección al Consumidor y de la Ley Reglamentaria del Artículo 5 Constitucional relativo al ejercicio de las profesiones en el Distrito Federal.
+
+*Publicado en el Diario Oficial de la Federación el 19 de agosto de 2010*
+
+**ARTÍCULO SEXTO.-** Se reforman la fracción II del artículo 2; la fracción XVII del artículo 24; la fracción V y penúltimo párrafo al artículo 25 BIS; el primer párrafo del artículo 133 y el primer párrafo del artículo 134. Se adiciona la fracción X al artículo 1; un segundo párrafo al artículo 14; un segundo párrafo a la fracción IV del artículo 24; la fracción XXII del artículo 24, recorriéndose la actual fracción XXII para constituirse en fracción XXIII; un segundo párrafo al inciso b), fracción II del artículo 105; un tercer párrafo al artículo 111; la fracción VII del artículo 128 TER, todos de la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** A los procedimientos iniciados antes de la publicación del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su instauración.
+
+México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Jaime Arturo Vázquez Aguilar, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de agosto de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 3 y el artículo 85 de la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010*
+
+**Artículo Único.-** Se reforma el artículo 3 y el artículo 85 de la Ley Federal de Protección al Consumidor para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+México, D. F., a 28 de septiembre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de noviembre de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### ACUERDO por el que se actualizan los montos de las operaciones y multas previstas en la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2010*
+
+**PRIMERO.-** El monto señalado en el segundo párrafo del artículo 99 y en el segundo párrafo del artículo 117, en relación con el artículo 2, fracción I, de la Ley Federal de Protección al Consumidor, se actualiza para quedar en la cantidad de \$397,754.11.
+
+**SEGUNDO.-** El monto de la multa a que se refiere la fracción II del artículo 25 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$198.87 y un máximo de \$19,887.70.
+
+**TERCERO.-** El monto de la multa a que se refiere la fracción III del artículo 25 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en \$7,955.08.
+
+**CUARTO.-** El monto de la multa prevista en el artículo 126 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$198.87 y en un máximo de \$636,406.58.
+
+**QUINTO.-** El monto de la multa prevista en el artículo 127 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$397.76 y en un máximo de \$1’272,813.16.
+
+**SEXTO.-** El monto de la multa prevista en el artículo 128 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$596.63 y en un máximo de \$2’333,490.80.
+
+**SEPTIMO.-** El monto de la multa prevista en el artículo 128 bis de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$119,326.23 y en un máximo de \$3’341,134.55.
+
+**OCTAVO.-** La cantidad establecida en el artículo 133 se actualiza para quedar en \$6’682,269.10.
+
+**NOVENO.-** Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2011.
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Acuerdo entrará en vigor el 1 de enero de 2011.
+
+México, D.F., a 9 de diciembre de 2010.- El Procurador Federal del Consumidor, Antonio Morales de la Peña.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Protección al Consumidor y de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil.
+
+*Publicado en el Diario Oficial de la Federación el 28 de enero de 2011*
+
+**Artículo Primero.** Se reforman los artículos 8 Bis; 99, en su párrafo primero, y 134, y se adicionan una fracción XX Bis al artículo 24; una fracción XI al artículo 27, pasando la anterior XI a ser la XII, y las fracciones V y VI al artículo 99 de la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 30 de noviembre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se adiciona un artículo 29 BIS a la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 26 de mayo de 2011*
+
+**ARTÍCULO ÚNICO.-** Se adiciona un artículo 29 BIS a la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente decreto entrará en vigor en el mes de enero siguiente al de su publicación en el Diario Oficial de la Federación y durante ese plazo se deberán expedir los lineamientos a que hace referencia el artículo 29 BIS.
+
+México, D.F., a 1 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 23 de mayo de 2011.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
