@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2010-08-19
-articles: 513
+last_reform_dof: 2011-06-08
+articles: 514
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-archived: https://web.archive.org/web/20101122030248/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9.doc
-source_sha256: 09e73760c8bdcfc72b1b396b07d65e034b2d14bc752585fe1eeabce8cb358da1
-retrieved: 2010-11-22
+archived: https://web.archive.org/web/20110911085734/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9.doc
+source_sha256: 381fe3404fb406cdf536c0bfdbef6627ee55074d66c9515a5f5503bbbaad7328
+retrieved: 2011-09-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 19-08-2010
+Última reforma publicada DOF 08-06-2011
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -292,6 +292,8 @@ Las penas y medidas de seguridad son:
 
 18.- Decomiso de bienes correspondientes al enriquecimiento ilícito.
 
+19\. La colocación de dispositivos de localización y vigilancia.
+
 Y las demás que fijen las leyes.
 
 #### CAPITULO II · Prisión
@@ -558,11 +560,11 @@ Son aplicables las que se funden en circunstancias objetivas, si los demás suje
 
 Cuando la orden de aprehensión se dicte en contra de una persona mayor de 70 años de edad, el juez podrá ordenar que la prisión preventiva se lleve a cabo en el domicilio del indiciado bajo las medidas de seguridad que procedan de acuerdo con la representación social.
 
-No gozarán de esta prerrogativa quienes a criterio del juez puedan sustraerse de la acción de la justicia o manifiesten una conducta que haga presumible su peligrosidad.
+No gozarán de esta prerrogativa quienes a criterio del juez puedan sustraerse de la acción de la justicia o manifiesten una conducta que revele su peligrosidad social, ni los inculpados por las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 En todo caso la valoración por parte del juez se apoyará en dictámenes de peritos.
 
-Una vez dictada la sentencia ejecutoriada, la pena podrá ser sustituida por una medida de seguridad, a juicio del juez o tribunal que la imponga de oficio o a petición de parte, cuando por haber sufrido el sujeto activo consecuencias graves en su persona, o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria o irracional que se compurgue dicha pena.
+Una vez dictada la sentencia ejecutoriada, la pena podrá ser sustituida por una medida de seguridad, a juicio del juez o tribunal que la imponga de oficio o a petición de parte, cuando por haber sufrido el sujeto activo consecuencias graves en su persona, o por su senilidad o su precario estado de salud, fuere notoriamente innecesario que se compurgue dicha pena, a excepción de los sentenciados por las conductas previstas en el artículo 9 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, que en todo caso deberán cumplir la pena impuesta.
 
 En los casos de senilidad o precario estado de salud, el juez se apoyará siempre en dictámenes de peritos.
 
@@ -634,7 +636,7 @@ En los casos de tentativa punible de delito grave así calificado por la ley, la
 
 ##### Artículo 64.
 
-En caso de concurso ideal, se aplicará la pena correspondiente al delito que merezca la mayor, que se aumentará hasta una mitad del máximo de su duración, sin que pueda exceder de las máximas señaladas en el Título Segundo del Libro Primero.
+En caso de concurso ideal, se aplicará la pena correspondiente al delito que merezca la mayor, que se aumentará hasta una mitad del máximo de su duración, sin que pueda exceder de las máximas señaladas en el Título Segundo del Libro Primero, con excepción de los casos en que uno de los delitos por los que exista concurso ideal sea de los contemplados en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, supuesto en el cual se aplicarán las reglas de concurso real.
 
 En caso de concurso real, se impondrán las penas previstas para cada uno de los delitos cometidos, sin que exceda de las máximas señaladas en el Título Segundo del Libro Primero. Si las penas se impusieran en el mismo proceso o en distintos, pero si los hechos resultan conexos, o similares, o derivado uno del otro, en todo caso las penas deberán contarse desde el momento en que se privó de libertad por el primer delito.
 
@@ -796,7 +798,7 @@ d) Violación, previsto en los artículos 265, 266 y 266 bis;
 
 e) Homicidio, previsto en los artículos 315, 315 bis y 320;
 
-f) Secuestro, previsto en el artículo 366, salvo los dos párrafos últimos, y tráfico de menores, previsto en el artículo 366 ter.
+f) Tráfico de menores, previsto en el artículo 366 Ter.
 
 g) Comercialización de objetos robados, previsto en el artículo 368 ter;
 
@@ -813,6 +815,8 @@ l) Los previstos y sancionados en los artículos 432, 433, 434 y 435 de la Ley G
 II. Trata de personas previsto en los artículos 5 y 6 de la Ley para Prevenir y Sancionar la Trata de Personas.
 
 III. Los que incurran en segunda reincidencia de delito doloso o sean considerados delincuentes habituales.
+
+IV. Los sentenciados por las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, salvo las previstas en los artículos 9, 10, 11, 17 y 18.
 
 Tratándose de los delitos comprendidos en el Titulo Décimo de este Código, la libertad preparatoria solo se concederá cuando se satisfaga la reparación del daño a que se refiere la fracción III del artículo 30 o se otorgue caución que la garantice.
 
@@ -1408,7 +1412,7 @@ Al reo que se fugue estando bajo alguna de las sanciones privativas de libertad,
 
 ##### Artículo 156.
 
-Al extranjero expulsado de la República que vuelva a ésta, se le impondrá de uno a dos años de prisión y se le expulsará de nuevo después de hacer efectiva esta sanción.
+(Se deroga).
 
 ##### Artículo 157.
 
@@ -1619,6 +1623,12 @@ El que sin excusa legal se negare a comparecer ante la autoridad a dar su declar
 ##### Artículo 180.
 
 Se aplicarán de uno a dos años de prisión y multa de diez a mil pesos: al que, empleando la fuerza, el amago o la amenaza, se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones o resista al cumplimiento de un mandato legítimo ejecutado en forma legal.
+
+##### Artículo 180 Bis.
+
+Se aplicará de uno a dos años de prisión y de diez mil a treinta mil días multa, al que retire, modifique o inutilice, sin la debida autorización, dispositivos de localización y vigilancia.
+
+Si la conducta a que se refiere el párrafo anterior la realiza un integrante de alguna institución de seguridad pública, se aplicará de dos a cinco años de prisión, de veinte mil a cuarenta mil días multa e inhabilitación para ejercer cualquier empleo o cargo público en cualquier ámbito de gobierno hasta por veinte años.
 
 ##### Artículo 181.
 
@@ -2124,15 +2134,17 @@ XI.- Cuando autorice o contrate a quien se encuentre inhabilitado por resolució
 
 XII.- Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
 
-XIII.- Obligar al inculpado a declarar, usando la incomunicación, la intimidación o la tortura, y
+XIII. Obligar al inculpado a declarar, usando la incomunicación, la intimidación o la tortura;
 
 XIV.- Obligar a declarar a las personas que se mencionan en el artículo 243 Bis, del Código Federal de Procedimientos Penales, acerca de la información obtenida con motivo del desempeño de su actividad.
 
-XV. Omitir el registro de la detención correspondiente o dilatar injustificadamente poner al detenido a disposición de la autoridad correspondiente.
+XV. Omitir el registro de la detención correspondiente o dilatar injustificadamente poner al detenido a disposición de la autoridad correspondiente, y
+
+XVI. Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad.
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión, de cincuenta hasta trescientos días multa y destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
 
-Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIII, XIV y XV, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIII, XIV, XV, y XVI, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
 #### CAPITULO III BIS · Desaparición forzada de personas
 
@@ -2660,7 +2672,7 @@ El testigo, perito o intérprete que retracte espontáneamente sus falsas declar
 
 ##### Artículo 248 Bis.
 
-Al que con el propósito de inculpar a alguien como responsable de un delito ante la autoridad, simule en su contra la existencia de pruebas materiales que hagan presumir su responsabilidad, se le impondrá prisión de uno a cinco años y de cien a trescientos días multa.
+Al que con el propósito de inculpar a alguien como responsable de un delito ante la autoridad, simule en su contra la existencia de pruebas materiales que hagan presumir su responsabilidad, se le impondrá prisión de dos a seis años y de cien a trescientos días multa.
 
 #### CAPITULO VI · Variación del nombre o del domicilio
 
@@ -2752,7 +2764,7 @@ b).- Todo acto o procedimiento que evite o dificulte, o se proponga evitar o dif
 
 c).- La limitación de la producción o el manejo que se haga de la misma, con el propósito de mantener las mercancías en injusto precio.
 
-d).- Todo acuerdo o combinación, de cualquier manera que se haga, de productores, industriales, comerciantes o transportistas, para evitar la competencia entre sí y traiga como consecuencia que los consumidores o usuarios paguen precios exagerados.
+d) (Se deroga)
 
 e).- La suspensión de la producción, procesamiento, distribución, oferta o venta de mercancías o de la prestación de servicios, que efectúen los industriales, comerciantes, productores, empresarios o prestadores de servicios, con el objeto de obtener un alza en los precios o se afecte el abasto de los consumidores.
 
@@ -2812,9 +2824,25 @@ La sanción que corresponda se aumentará en una mitad cuando se realice en los 
 
 VIII.- Al que sin derecho realice cualquier sustracción o alteración de equipos o instalaciones del servicio público de energía eléctrica.
 
-##### Artículo 254 Bis.
+##### Artículo 254 bis.
 
-(Se deroga)
+Se sancionará con prisión de tres a diez años y con mil a tres mil días de multa, a quien celebre, ordene o ejecute contratos, convenios o arreglos entre agentes económicos competidores, cuyo objeto sea cualquiera de los siguientes:
+
+I. Fijar, elevar, concertar o manipular el precio de venta o compra de bienes o servicios al que son ofrecidos o demandados en los mercados;
+
+II. Establecer la obligación de no producir, procesar, distribuir, comercializar o adquirir sino solamente una cantidad restringida o limitada de bienes o la prestación o transacción de un número, volumen o frecuencia restringidos o limitados de servicios;
+
+III. Dividir, distribuir, asignar o imponer porciones o segmentos de un mercado actual o potencial de bienes y servicios, mediante clientela, proveedores, tiempos o espacios determinados o determinables, o
+
+IV. Establecer, concertar o coordinar posturas o la abstención en las licitaciones, concursos, subastas o almonedas públicas.
+
+El delito previsto en este artículo se perseguirá por querella de la Comisión Federal de Competencia, la cual sólo podrá formularse cuando la autoridad competente haya determinado mediante resolución que haya causado estado, que un agente económico resultó responsable de haber cometido alguna práctica monopólica absoluta, en los términos de lo dispuesto en la Ley Federal de Competencia Económica.
+
+No existirá responsabilidad penal para los agentes económicos que se acojan al beneficio a que se refiere el artículo 33 bis 3 de la Ley Federal de Competencia Económica, previa resolución de la Comisión que determine que cumple con los términos establecidos en dicha disposición y las demás aplicables.
+
+Los procesos seguidos por este delito se podrán sobreseer a petición del Pleno de la Comisión, cuando los procesados cumplan las sanciones administrativas impuestas y, además se cumplan los requisitos previstos en los criterios técnicos emitidos por la Comisión.
+
+La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad a que se refiere el primer párrafo de este artículo.
 
 ##### Artículo 254 Ter.
 
@@ -2956,23 +2984,23 @@ Se aplicará esta misma sanción en caso de incesto entre hermanos.
 
 #### CAPITULO IV · Adulterio
 
+(Se deroga)
+
 ##### Artículo 273.
 
-Se aplicará prisión hasta de dos años y privación de derechos civiles hasta por seis años, a los culpables de adulterio cometido en el domicilio conyugal o con escándalo.
+(Se deroga).
 
 ##### Artículo 274.
 
-No se podrá proceder contra los adúlteros sino a petición del cónyuge ofendido, pero cuando éste formule su querella contra uno solo de los culpables, se procederá contra los dos y los que aparezcan como codelincuentes.
-
-Esto se entiende en el caso de que los dos adúlteros vivan, estén presentes y se hallen sujetos a la acción de la justicia del país; pero cuando no sea así, se podrá proceder contra el responsable que se encuentre en esas condiciones.
+(Se deroga).
 
 ##### Artículo 275.
 
-Sólo se castigará el adulterio consumado.
+(Se deroga).
 
 ##### Artículo 276.
 
-Cuando el ofendido perdone a su cónyuge, cesará todo procedimiento si no se ha dictado sentencia, y si ésta se ha dictado, no producirá efecto alguno. Esta disposición favorecerá a todos los responsables.
+(Se deroga).
 
 #### CAPITULO V · Disposiciones generales
 
@@ -3538,55 +3566,11 @@ Este delito sólo se perseguirá por querella de la persona ofendida.
 
 ##### Artículo 366.
 
-Al que prive de la libertad a otro se le aplicará:
-
-I. De quince a cuarenta años de prisión y de quinientos a dos mil días multa, si la privación de la libertad se efectúa con el propósito de:
-
-a) Obtener rescate;
-
-b) Detener en calidad de rehén a una persona y amenazar con privarla de la vida o con causarle daño, para que la autoridad o un particular realice o deje de realizar un acto cualquiera, o
-
-c) Causar daño o perjuicio a la persona privada de la libertad o a cualquier otra.
-
-d) Cometer secuestro exprés, desde el momento mismo de su realización, entendiéndose por éste, el que, para ejecutar los delitos de robo o extorsión, prive de la libertad a otro. Lo anterior, con independencia de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten.
-
-II. De veinte a cuarenta años de prisión y de dos mil a cuatro mil días multa, si en la privación de la libertad a que se hace referencia en la fracción anterior concurre alguna o algunas de las circunstancias siguientes:
-
-a) Que se realice en camino público o en lugar desprotegido o solitario;
-
-b) Que el autor sea o haya sido integrante de alguna institución de seguridad pública, o se ostente como tal sin serlo;
-
-c) Que quienes lo lleven a cabo obren en grupo de dos o más personas;
-
-d) Que se realice con violencia, o
-
-e) Que la víctima sea menor de dieciséis o mayor de sesenta años de edad, o que por cualquier otra circunstancia se encuentre en inferioridad física o mental respecto de quien ejecuta la privación de la libertad.
-
-III. Se aplicarán de veinticinco a cincuenta años de prisión y de cuatro mil a ocho mil días multa, cuando la privación de libertad se efectúe con el fin de trasladar a un menor de dieciséis años fuera de territorio nacional, con el propósito de obtener un lucro indebido por la venta o la entrega del menor.
-
-Se impondrá una pena de treinta a cincuenta años de prisión al o a los secuestradores, si a la víctima del secuestro se le causa alguna lesión de las previstas en los artículos 291 a 293 de este Código.
-
-En caso de que el secuestrado sea privado de la vida por su o sus secuestradores, se aplicará pena de hasta setenta años de prisión.
-
-Si espontáneamente se libera al secuestrado dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refieren las fracciones I y III de este artículo y sin que se haya presentado alguna de las circunstancias previstas en la fracción II, la pena será de dos a seis años y de cincuenta a ciento cincuenta días multa.
-
-En los demás casos en que espontáneamente se libere al secuestrado, sin lograr alguno de los propósitos a que se refieren las fracciones I y III de este artículo, las penas de prisión aplicables serán de cinco a quince años y de doscientos cincuenta hasta quinientos días multa.
+Derogado.
 
 ##### Artículo 366 Bis.
 
-Se impondrá pena de dos a diez años de prisión y de doscientos a mil días multa, al que en relación con las conductas sancionadas por el artículo anterior y fuera de las causas de exclusión del delito previstas por la ley:
-
-I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen en favor de la víctima;
-
-II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
-
-III. Actúe como asesor con fines lucrativos de quienes representen o gestionen en favor de la víctima, evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro;
-
-IV. Aconseje el no presentar la denuncia del secuestro cometido, o bien el no colaborar o el obstruir la actuación de las autoridades;
-
-V. Efectúe el cambio de moneda nacional por divisas, o de éstas por moneda nacional sabiendo que es con el propósito directo de pagar el rescate a que se refiere la fracción I del artículo anterior, y
-
-VI. Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
+Derogado.
 
 ##### Artículo 366 Ter.
 
@@ -5222,3 +5206,111 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Jaime Arturo Vázquez Aguilar, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de agosto de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública
+
+*Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010*
+
+**ARTÍCULO TERCERO.** Se reforman los artículos 55, párrafos segundo y cuarto; 64, párrafo primero; 85, inciso f), de la fracción I; el artículo 215, en su fracción XIII y último párrafo y la fracción XIV; se adicionan el numeral 19 al artículo 24, la fracción IV al artículo 85, el artículo 180 Bis y la fracción XVI al artículo 215; y se derogan los artículos 366 y 366 Bis, todos del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**ARTÍCULOS TRANSITORIOS**
+
+**Primero.** El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+**Tercero.** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+**Cuarto.** La implementación del presente Decreto será con cargo a los respectivos presupuestos aprobados a las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el presente.
+
+**Quinto.** Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor el presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+**Sexto.** El Procurador General de la República y los Procuradores Generales de Justicia de los Estados y del Distrito Federal, tendrán un año contado a partir de la publicación de este Decreto en el Diario Oficial de la Federación, para expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la presente Ley, sin menoscabo de las medidas de protección que otorguen previamente.
+
+**Séptimo.** El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de Justicia, deberán elaborar un Programa Nacional para prevenir, perseguir y sancionar las conductas previstas en el presente ordenamiento, independientemente del programa de cada entidad en particular, teniendo un plazo de seis meses, contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación.
+
+**Octavo.** La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor al día siguiente de la publicación del Decreto respecto de los usuarios de telefonía móvil en cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto y, respecto de los nuevos usuarios de telefonía móvil, en términos del artículo transitorio cuarto del decreto de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009.
+
+**Noveno.** El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los términos de lo dispuesto en la ley de la materia.
+
+**Décimo.** Para el establecimiento y organización de las unidades especializadas contra el secuestro a que se refiere esta Ley, las entidades federativas dispondrán de los recursos del Fondo de Apoyo a la Seguridad Pública que respectivamente hayan recibido.
+
+**Décimo Primero.** El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
+
+**Décimo Segundo.** En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+México, D. F., a 7 de octubre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. María de Jesús Aguirre Maldonado, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 29 de noviembre de 2010.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica, del Código Penal Federal y del Código Fiscal de la Federación.
+
+*Publicado en el Diario Oficial de la Federación el 10 de mayo de 2011*
+
+**ARTÍCULO SEGUNDO.** Se ADICIONA un artículo 254 bis y se DEROGA el artículo 253 fracción I, inciso d), todos del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**ARTÍCULOS TRANSITORIOS**
+
+**ARTÍCULO PRIMERO.** El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos tercero, cuarto y sexto transitorios siguientes.
+
+**ARTÍCULO SEGUNDO.** En un plazo no mayor a seis meses a partir de la entrada en vigor del presente decreto, el Pleno publicará los criterios técnicos a que hace referencia el artículo 24, fracción XVIII bis, incisos a) a j) de la Ley Federal de Competencia Económica.
+
+**ARTÍCULO TERCERO.** El artículo 28, párrafos primero y segundo, de la Ley Federal de Competencia Económica entrará en vigor una vez que concluya el periodo actual del Presidente de la Comisión.
+
+**ARTÍCULO CUARTO.** Las investigaciones, visitas de verificación, procedimientos y cualquier otro asunto que se encuentren en trámite a la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio.
+
+Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la Ley vigente al momento de su realización.
+
+**ARTÍCULO QUINTO.** Los recursos necesarios para la implementación del presente Decreto, serán con cargo al presupuesto autorizado de la Comisión Federal de Competencia.
+
+**ARTÍCULO SEXTO.** La reforma al artículo 39 de la Ley Federal de Competencia Económica entrará en vigor una vez que los juzgados especializados en materia de competencia económica queden establecidos por el Poder Judicial de la Federación y se expidan las reglas procesales aplicables al juicio ordinario administrativo en las disposiciones legales correspondientes, en un plazo que no exceda de 180 días naturales a la entrada en vigor de este Decreto.
+
+**ARTÍCULO SÉPTIMO.** Se derogan las disposiciones que se opongan al presente Decreto.
+
+México, D.F., a 28 de abril de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria de Jesus Aguirre Maldonado, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se expide la Ley de Migración y se reforman, derogan y adicionan diversas disposiciones de la Ley General de Población, del Código Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.
+
+*Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011*
+
+**ARTÍCULO TERCERO.** Se deroga el artículo 156 del Código Penal Federal, para quedar como sigue:
+
+……….
+
+TRANSITORIOS DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE POBLACIÓN, DEL CÓDIGO PENAL FEDERAL, DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+
+Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+
+**TERCERO.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
+
+**CUARTO.** Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+
+México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se deroga el Capítulo IV del Título Decimoquinto del Libro Segundo del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 8 de junio de 2011*
+
+**ARTÍCULO ÚNICO.** Se deroga el Capítulo IV del Título Decimoquinto del Libro Segundo del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 24 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a siete de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
