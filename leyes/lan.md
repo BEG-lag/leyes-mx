@@ -3,12 +3,12 @@ title: Ley de Aguas Nacionales
 abbreviation: LAN
 slug: lan
 published_dof: 1992-12-01
-last_reform_dof: 2008-04-18
+last_reform_dof: 2011-06-20
 articles: 190
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc
-archived: https://web.archive.org/web/20080611025823/http://www.diputados.gob.mx/LeyesBiblio/doc/16.doc
-source_sha256: 376508c49826019dd59fda8ebe0e1d6457d9c76c34a2943a1662984fa8bc38ae
-retrieved: 2008-06-11
+archived: https://web.archive.org/web/20110911083429/http://www.diputados.gob.mx:80/LeyesBiblio/doc/16.doc
+source_sha256: 9b49ae9a08f691cfc9495ce942b0b0ed1857077413dcdd2516bbc06a27c6282f
+retrieved: 2011-09-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lan.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de diciembre d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 18-04-2008
+Última reforma publicada DOF 20-06-2011
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -302,9 +302,17 @@ VII. El control de la extracción y de la explotación, uso o aprovechamiento de
 
 VIII. La incorporación plena de la variable ambiental y la valoración económica y social de las aguas nacionales en las políticas, programas y acciones en materia de gestión de los recursos hídricos, en el ámbito de las instituciones y de la sociedad;
 
-IX. El mejoramiento de las eficiencias y modernización de las áreas bajo riego, particularmente en distritos y unidades de riego, para contribuir a la gestión integrada de los recursos hídricos, y
+IX. El mejoramiento de las eficiencias y modernización de las áreas bajo riego, particularmente en distritos y unidades de riego, para contribuir a la gestión integrada de los recursos hídricos;
 
-X. La organización de los usuarios, asociaciones civiles y otros sistemas y organismos públicos y privados prestadores de servicios de agua rurales y urbanos, así como su vinculación con los tres órdenes de gobierno, para consolidar su participación en los Consejos de Cuenca.
+*Fracción reformada DOF 20-06-2011*
+
+X. La organización de los usuarios, asociaciones civiles y otros sistemas y organismos públicos y privados prestadores de servicios de agua rurales y urbanos, así como su vinculación con los tres órdenes de gobierno, para consolidar su participación en los Consejos de Cuenca, y
+
+*Fracción reformada DOF 20-06-2011*
+
+XI. La sustentabilidad ambiental y la prevención de la sobreexplotación de los acuíferos.
+
+*Fracción adicionada DOF 20-06-2011*
 
 *Artículo adicionado DOF 29-04-2004*
 
@@ -1143,11 +1151,37 @@ No se requerirá concesión para la extracción de aguas marinas interiores y de
 
 ##### ARTÍCULO 18.
 
-Las aguas nacionales del subsuelo podrán ser libremente alumbradas mediante obras artificiales, sin contar con concesión o asignación, excepto cuando el Ejecutivo Federal establezca zonas reglamentadas para su extracción y para su explotación, uso o aprovechamiento, así como zonas de veda o zonas de reserva.
+Las aguas nacionales del subsuelo podrán ser libremente alumbradas mediante obras artificiales, salvo cuando por causas de interés o utilidad pública el Titular del Ejecutivo Federal establezca zona reglamentada, de veda o de reserva o bien suspenda o limite provisionalmente el libre alumbramiento mediante Acuerdos de carácter general.
 
-Para tales casos, el Ejecutivo Federal, a iniciativa de "la Comisión" que se apoyará en las propuestas que elaboren los Organismos de Cuenca, publicará la declaratoria que se expida cuando se comprueben condiciones de sobreexplotación para acuíferos y unidades hidrogeológicas específicas, cuidando de deslindar cuando así se requiera, la aplicación de las disposiciones que se establezcan para acuíferos superiores, en relación con otras unidades hidrogeológicas que contengan acuíferos inferiores, acuicludos y acuitardos, existentes en la misma zona geográfica a distintas profundidades, en función de sus zonas de recarga y descarga, estratos geológicos que las contengan, condiciones de flujo y almacenamiento y comportamiento en relación con su uso y aprovechamiento. Para ello, "la Comisión" deberá realizar, por sí o con el apoyo de terceros cuando resulte conveniente, los estudios y evaluaciones suficientes con el objeto de sustentar los deslindamientos referidos y promover el mejor aprovechamiento de las fuentes de aguas del subsuelo.
+*Párrafo reformado DOF 20-06-2011*
+
+Para el establecimiento de zonas reglamentadas de veda o reserva, el Ejecutivo Federal, a iniciativa de “la Comisión” que se apoyará en las propuestas que elaboren los Organismos de Cuenca, publicará la declaratoria que se expida cuando se comprueben condiciones de sobreexplotación para acuíferos y unidades hidrogeológicas específicas, cuidando de deslindar cuando así se requiera, la aplicación de las disposiciones que se establezcan para acuíferos superiores, en relación con otras unidades hidrogeológicas que contengan acuíferos inferiores, acuicludos y acuitardos, existentes en la misma zona geográfica a distintas profundidades, en función de sus zonas de recarga y descarga, estratos geológicos que las contengan, condiciones de flujo y almacenamiento y comportamiento en relación con su uso y aprovechamiento. Para ello, “la Comisión” deberá realizar, por sí o con el apoyo de terceros cuando resulte conveniente, los estudios y evaluaciones suficientes con el objeto de sustentar los deslindamientos referidos y promover el mejor aprovechamiento de las fuentes de aguas del subsuelo.
+
+*Párrafo reformado DOF 20-06-2011*
 
 Conforme a las disposiciones del presente Artículo y Ley, se expedirán el reglamento para la extracción y para la explotación, uso o aprovechamiento de las aguas nacionales de los acuíferos correspondientes, incluyendo el establecimiento de zonas reglamentadas, así como los decretos para el establecimiento, modificación o supresión de zonas de veda o declaratorias de reserva que se requieran.
+
+Los acuerdos de carácter general a que se refiere el presente artículo se expedirán en los siguientes casos:
+
+*Párrafo adicionado DOF 20-06-2011*
+
+I. Cuando de los estudios de disponibilidad de aguas nacionales arrojen que no existe disponibilidad del recurso hídrico o que la que existe es limitada;
+
+*Fracción adicionada DOF 20-06-2011*
+
+II. Cuando de los datos contenidos en los estudios técnicos para el establecimiento de zonas reglamentadas, de veda o de reserva se desprenda la necesidad de suspender o limitar el libre alumbramiento de las aguas del subsuelo;
+
+En este supuesto los Acuerdos de carácter general estarán vigentes hasta en tanto se publique el Decreto de zona reglamentada, de veda o reserva de aguas nacionales;
+
+*Fracción adicionada DOF 20-06-2011*
+
+III. Cuando existan razones técnicas justificadas en estudios específicos de las que se desprenda la necesidad de suspender o limitar el libre alumbramiento de las aguas del subsuelo, y
+
+*Fracción adicionada DOF 20-06-2011*
+
+IV. Cuando de los estudios técnicos específicos que realice o valide “la Comisión” se desprenda la existencia de conos de abatimiento, interferencia de volumen o cualquier otro supuesto que pueda ocasionar afectaciones a terceros.
+
+*Fracción adicionada DOF 20-06-2011*
 
 Independientemente de lo anterior, la explotación, uso o aprovechamiento de las aguas del subsuelo causará las contribuciones fiscales que señale la Ley de la materia. En las declaraciones fiscales correspondientes, el concesionario o asignatario deberá señalar que su aprovechamiento se encuentra inscrito en el Registro Público de Derechos de Agua, en los términos de la presente Ley.
 
@@ -3468,3 +3502,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 26 de marzo de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de abril de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan los artículos 7 Bis y 18 de la Ley de Aguas Nacionales.
+
+*Publicado en el Diario Oficial de la Federación el 20 de junio de 2011*
+
+**ÚNICO.-** Se reforman los párrafos primero y segundo del artículo 18 y se adiciona una fracción XI al artículo 7 BIS y un cuarto párrafo al artículo 18 de la Ley de Aguas Nacionales, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.** El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 28 de abril de 2011.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. María de Jesús Aguirre Maldonado, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecisiete de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
