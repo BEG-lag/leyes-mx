@@ -3,12 +3,12 @@ title: Ley Agraria
 abbreviation: LAgra
 slug: lagra
 published_dof: 1992-02-26
-last_reform_dof: 2008-04-17
+last_reform_dof: 2011-06-22
 articles: 200
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc
-archived: https://web.archive.org/web/20110303155216/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13.doc
-source_sha256: eb5af33f20b6f27a421ea67d152721009ff9b89e3d0936230744919926ce8f61
-retrieved: 2011-03-03
+archived: https://web.archive.org/web/20110911082124/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13.doc
+source_sha256: eb4f7349dd6789d34f8ba96d651c570b96090a946e8e801caaf90078f7db7872
+retrieved: 2011-09-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lagra.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 26 de febrero de 1
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 17-04-2008
+Última reforma publicada DOF 22-06-2011
 
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -518,7 +518,11 @@ La asamblea podrá reservar igualmente una superficie en la extensión que deter
 
 ##### Artículo 72.
 
-En cada ejido y comunidad podrá destinarse una parcela para constituir la unidad productiva para el desarrollo integral de la juventud, en donde se realizarán actividades productivas, culturales, recreativas y de capacitación para el trabajo, para los hijos de ejidatarios, comuneros y avecindados mayores de dieciséis y menores de veinticuatro años. Esta unidad será administrada por un comité cuyos miembros serán designados exclusivamente por los integrantes de la misma. Los costos de operación de la unidad serán cubiertos por sus miembros.
+En cada ejido y comunidad podrá destinarse una parcela para constituir la unidad productiva para el desarrollo integral de la juventud, donde se realizarán actividades sociales, económicas, culturales, de salud y de capacitación, tendientes a procurar que los hijos de ejidatarios, comuneros y avecindados mayores de catorce y menores de veintinueve años logren una inserción sana, plena y productiva en el desarrollo del campo. Esta unidad será administrada por un comité cuyos miembros serán designados exclusivamente por los integrantes de la misma.
+
+La puesta en marcha y los costos de operación de la unidad serán cubiertos por sus integrantes, quienes podrán recurrir a los programas de financiamiento y asesoría de la Federación, estados, Distrito Federal y municipios.
+
+*Artículo reformado DOF 03-06-2011*
 
 #### Sección Quinta · De las Tierras de Uso Común
 
@@ -1220,11 +1224,21 @@ Son juicios agrarios los que tienen por objeto sustanciar, dirimir y resolver la
 
 ##### Artículo 164.
 
-En la resolución de las controversias que sean puestas bajo su conocimiento, los tribunales se sujetarán siempre al procedimiento previsto por esta ley y quedará constancia de ella por escrito.
+En la resolución de las controversias que sean puestas bajo su conocimiento, los tribunales se sujetarán siempre al procedimiento previsto por esta ley y quedará constancia de ella por escrito, además observarán lo siguiente:
 
-En los juicios en que se involucren tierras de los grupos indígenas, los tribunales deberán de considerar las costumbres y usos de cada grupo mientras no contravengan lo dispuesto por esta ley ni se afecten derechos de tercero. Asimismo, cuando se haga necesario, el tribunal se asegurará de que los indígenas cuenten con traductores.
+I.- Los juicios en los que una o ambas partes sean indígenas se considerarán los usos y costumbres de los pueblos o comunidades indígenas a los que pertenezcan mientras no contravengan lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y esta ley;
+
+II.- Las promociones que los pueblos o comunidades indígenas, o los indígenas en lo individual hicieren en su lengua, no necesitarán acompañarse de la traducción al español. El tribunal la hará de oficio por conducto de persona autorizada para ello;
+
+III.- Los juicios en los que una o ambas partes sean indígenas y no supieran leer el idioma español, el tribunal realizará una versión sintetizada de los puntos esenciales de las actuaciones y de la sentencia dictadas por él, en la lengua o variantes dialectales de la que se trate; debiendo agregarse en los autos constancia de que se cumplió con esta obligación.
+
+En caso de existir contradicción entre la traducción y la resolución, se estará a lo dispuesto por ésta última;
+
+IV.- El tribunal asignará gratuitamente a los indígenas un defensor y un traductor que conozca su cultura, hable su lengua y el idioma español, para que se le explique, en su lengua, el alcance y consecuencias del proceso que se le sigue.
 
 Los tribunales suplirán la deficiencia de las partes en sus planteamientos de derecho cuando se trate de núcleos de población ejidales o comunales, así como ejidatarios y comuneros.
+
+*Artículo reformado DOF 22-06-2011*
 
 ##### Artículo 165.
 
@@ -1557,3 +1571,37 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 6 de marzo de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Maria del Carmen Salvatori Bronca, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de abril de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 72 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 3 de junio de 2011*
+
+**ARTÍCULO ÚNICO.-** Se reforma el artículo 72 de la Ley Agraria, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 22 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 164 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 22 de junio de 2011*
+
+**Artículo Único.-** Se reforma el artículo 164 de la Ley Agraria, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** Para el desarrollo de las acciones que deba realizar el tribunal a fin de dar cumplimiento a lo dispuesto por la presente ley, podrá apoyarse en el Instituto Nacional de Lenguas Indígenas, así como en el Instituto Federal de Defensoría Pública, en el ámbito de sus respectivas competencias. Asimismo, deberá sujetarse a su disponibilidad presupuestaria.
+
+**Segundo.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 31 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
