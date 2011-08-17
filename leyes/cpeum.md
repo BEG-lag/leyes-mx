@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2010-07-29
+last_reform_dof: 2011-08-17
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
-archived: https://web.archive.org/web/20100821002615/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1.doc
-source_sha256: aa899aa8b79d9b4d4eeadf108959ca0462af4d17ec7f5ad140c13bb80b3a5561
-retrieved: 2010-08-21
+archived: https://web.archive.org/web/20110911065834/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1.doc
+source_sha256: 47c19acee6ee626179a75476d5e7dff31a5a0323558d340ccb5c92a0375c49ea
+retrieved: 2011-09-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,9 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 29-07-2010
+Última reforma publicada DOF 17-08-2011
+
+> Nota: Las reformas y adiciones al artículo 94, párrafos séptimo, octavo, noveno y décimo; a los artículos 103 y 104; y al artículo 107, párrafo inicial; fracciones I y II; inciso a) de la fracción III; fracciones IV, V, VI y VII; inciso a) de la fracción VIII; fracciones IX, X, XI, XIII, XVI y XVII y la fracción XIV derogada, publicadas en el Diario Oficial de la Federación el 6 de junio de 2011, entrarán en vigor el 4 de octubre del mismo año.
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -30,15 +32,19 @@ CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS QUE REFORMA LA DE 5 DE FEB
 
 ## Título Primero
 
-### Capítulo I · De las Garantías Individuales
+### Capítulo I · De los Derechos Humanos y sus Garantías
 
 ##### Artículo 1o.
 
-En los Estados Unidos Mexicanos todo individuo gozará de las garantías que otorga esta Constitución, las cuales no podrán restringirse ni suspenderse, sino en los casos y con las condiciones que ella misma establece.
+En los Estados Unidos Mexicanos todas las personas gozarán de los derechos humanos reconocidos en esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que esta Constitución establece.
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución y con los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
 Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional alcanzarán, por este solo hecho, su libertad y la protección de las leyes.
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ##### Artículo 2o.
 
@@ -104,7 +110,7 @@ Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus 
 
 Todo individuo tiene derecho a recibir educación. El Estado -federación, estados, Distrito Federal y municipios-, impartirá educación preescolar, primaria y secundaria. La educación preescolar, primaria y la secundaria conforman la educación básica obligatoria.
 
-La educación que imparta el Estado tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
+La educación que imparta el Estado tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
 I. Garantizada por el artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa;
 
@@ -218,7 +224,9 @@ Los habitantes de los Estados Unidos Mexicanos tienen derecho a poseer armas en 
 
 ##### Artículo 11.
 
-Todo hombre tiene derecho para entrar en la República, salir de ella, viajar por su territorio y mudar de residencia, sin necesidad de carta de seguridad, pasaporte, salvo-conducto u otros requisitos semejantes. El ejercicio de este derecho estará subordinado a las facultades de la autoridad judicial, en los casos de responsabilidad criminal o civil, y a las de la autoridad administrdativa, (administrativa, sic DOF 05-02-1917) por lo que toca a las limitaciones que impongan las leyes sobre emigración, inmigración y salubridad general de la República, o sobre extranjeros perniciosos residentes en el país.
+Toda persona tiene derecho para entrar en la República, salir de ella, viajar por su territorio y mudar de residencia, sin necesidad de carta de seguridad, pasaporte, salvoconducto u otros requisitos semejantes. El ejercicio de este derecho estará subordinado a las facultades de la autoridad judicial, en los casos de responsabilidad criminal o civil, y a las de la autoridad administrativa, por lo que toca a las limitaciones que impongan las leyes sobre emigración, inmigración y salubridad general de la República, o sobre extranjeros perniciosos residentes en el país.
+
+En caso de persecución, por motivos de orden político, toda persona tiene derecho de solicitar asilo; por causas de carácter humanitario se recibirá refugio. La ley regulará sus procedencias y excepciones.
 
 ##### Artículo 12.
 
@@ -240,7 +248,7 @@ En los juicios del orden civil, la sentencia definitiva deberá ser conforme a l
 
 ##### Artículo 15.
 
-No se autoriza la celebración de tratados para la extradición de reos políticos, ni para la de aquellos delincuentes del orden común que hayan tenido en el país donde cometieron el delito, la condición de esclavos; ni de convenios o tratados en virtud de los que se alteren las garantías y derechos establecidos por esta Constitución para el hombre y el ciudadano.
+No se autoriza la celebración de tratados para la extradición de reos políticos, ni para la de aquellos delincuentes del orden común que hayan tenido en el país donde cometieron el delito, la condición de esclavos; ni de convenios o tratados en virtud de los que se alteren los derechos humanos reconocidos por esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte.
 
 ##### Artículo 16.
 
@@ -302,7 +310,7 @@ Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
 Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
 
-El sistema penitenciario se organizará sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
 La Federación, los Estados y el Distrito Federal podrán celebrar convenios para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
 
@@ -322,7 +330,7 @@ Para la reclusión preventiva y la ejecución de sentencias en materia de delinc
 
 Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de delincuencia organizada, homicidio doloso, violación, secuestro, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud.
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de delincuencia organizada, homicidio doloso, violación, secuestro, trata de personas, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud.
 
 La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso.
 
@@ -404,7 +412,7 @@ IV. Que se le repare el daño. En los casos en que sea procedente, el Ministerio
 
 La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño;
 
-V. Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, secuestro o delincuencia organizada; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
+V. Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, trata de personas, secuestro o delincuencia organizada; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 
 El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todas los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
 
@@ -652,7 +660,15 @@ Se podrán otorgar subsidios a actividades prioritarias, cuando sean generales, 
 
 ##### Artículo 29.
 
-En los casos de invasión, perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, de acuerdo con los Titulares de las Secretarías de Estado y la Procuraduría General de la República y con la aprobación del Congreso de la Unión y, en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país o en lugar determinado las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación; pero si se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
+En los casos de invasión, perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, de acuerdo con los titulares de las Secretarías de Estado y la Procuraduría General de la República y con la aprobación del Congreso de la Unión o de la Comisión Permanente cuando aquel no estuviere reunido, podrá restringir o suspender en todo el país o en lugar determinado el ejercicio de los derechos y las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la restricción o suspensión se contraiga a determinada persona. Si la restricción o suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación; pero si se verificase en tiempo de receso, se convocará de inmediato al Congreso para que las acuerde.
+
+En los decretos que se expidan, no podrá restringirse ni suspenderse el ejercicio de los derechos a la no discriminación, al reconocimiento de la personalidad jurídica, a la vida, a la integridad personal, a la protección a la familia, al nombre, a la nacionalidad; los derechos de la niñez; los derechos políticos; las libertades de pensamiento, conciencia y de profesar creencia religiosa alguna; el principio de legalidad y retroactividad; la prohibición de la pena de muerte; la prohibición de la esclavitud y la servidumbre; la prohibición de la desaparición forzada y la tortura; ni las garantías judiciales indispensables para la protección de tales derechos.
+
+La restricción o suspensión del ejercicio de los derechos y garantías debe estar fundada y motivada en los términos establecidos por esta Constitución y ser proporcional al peligro a que se hace frente, observando en todo momento los principios de legalidad, racionalidad, proclamación, publicidad y no discriminación.
+
+Cuando se ponga fin a la restricción o suspensión del ejercicio de los derechos y garantías, bien sea por cumplirse el plazo o porque así lo decrete el Congreso, todas las medidas legales y administrativas adoptadas durante su vigencia quedarán sin efecto de forma inmediata. El Ejecutivo no podrá hacer observaciones al decreto mediante el cual el Congreso revoque la restricción o suspensión.
+
+Los decretos expedidos por el Ejecutivo durante la restricción o suspensión, serán revisados de oficio e inmediatamente por la Suprema Corte de Justicia de la Nación, la que deberá pronunciarse con la mayor prontitud sobre su constitucionalidad y validez.
 
 ### Capítulo II · De los Mexicanos
 
@@ -704,7 +720,9 @@ Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias,
 
 ##### Artículo 33.
 
-Son extranjeros los que no posean las calidades determinadas en el artículo 30. Tienen derecho a las garantías que otorga el Capítulo I, Título Primero, de la presente Constitución; pero el Ejecutivo de la Unión tendrá la facultad exclusiva de hacer abandonar el territorio nacional, inmediatamente y sin necesidad de juicio previo, a todo extranjero cuya permanencia juzgue inconveniente.
+Son personas extranjeras las que no posean las calidades determinadas en el artículo 30 constitucional y gozarán de los derechos humanos y garantías que reconoce esta Constitución.
+
+El Ejecutivo de la Unión, previa audiencia, podrá expulsar del territorio nacional a personas extranjeras con fundamento en la ley, la cual regulará el procedimiento administrativo, así como el lugar y tiempo que dure la detención.
 
 Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos políticos del país.
 
@@ -924,7 +942,7 @@ VI. El espacio situado sobre el territorio nacional, con la extensión y modalid
 
 ##### Artículo 43.
 
-Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas y el Distrito Federal.
+Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila de Zaragoza, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas y el Distrito Federal.
 
 ##### Artículo 44.
 
@@ -1130,15 +1148,15 @@ II. A los Diputados y Senadores al Congreso de la Unión; y
 
 III. A las Legislaturas de los Estados.
 
-Las iniciativas presentadas por el Prseidente (Presidente, sic DOF 05-02-1917) de la República, por las Legislaturas de los Estados o por las Diputaciones de los mismos, pasarán desde luego a comisión. Las que presentaren los diputados o los senadores, se sujetarán a los trámites que designe el Reglamento de Debates.
+Las iniciativas presentadas por el Presidente de la República, por las legislaturas de los Estados o por las diputaciones de los mismos, pasarán desde luego a comisión. Las que presentaren los diputados o los senadores, se sujetarán a los trámites que designen la Ley del Congreso y sus reglamentos respectivos.
 
 ##### Artículo 72.
 
-Todo proyecto de ley o decreto, cuya resolución no sea exclusiva de alguna de las Cámaras, se discutirá sucesivamente en ambas, observándose el Reglamento de Debates sobre la forma, intervalos y modo de proceder en las discusiones y votaciones.
+Todo proyecto de ley o decreto, cuya resolución no sea exclusiva de alguna de las Cámaras, se discutirá sucesivamente en ambas, observándose la Ley del Congreso y sus reglamentos respectivos, sobre la forma, intervalos y modo de proceder en las discusiones y votaciones:
 
 A. Aprobado un proyecto en la Cámara de su origen, pasará para su discusión a la otra. Si ésta lo aprobare, se remitirá al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente.
 
-B. Se reputará aprobado por el Poder Ejecutivo, todo proyecto no devuelto con observaciones a la Cámara de su origen, dentro de diez días útiles; a no ser que, corriendo este término hubiere el Congreso cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día útil en que el Congreso esté reunido.
+B. Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones a la Cámara de su origen dentro de los treinta días naturales siguientes a su recepción; vencido este plazo el Ejecutivo dispondrá de diez días naturales para promulgar y publicar la ley o decreto. Transcurrido este segundo plazo, la ley o decreto será considerado promulgado y el Presidente de la Cámara de origen ordenará dentro de los diez días naturales siguientes su publicación en el Diario Oficial de la Federación, sin que se requiera refrendo. Los plazos a que se refiere esta fracción no se interrumpirán si el Congreso cierra o suspende sus sesiones, en cuyo caso la devolución deberá hacerse a la Comisión Permanente.
 
 C. El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto, con sus observaciones, a la Cámara de su origen. Deberá ser discutido de nuevo por ésta,, (, sic DOF 05-02-1917) y si fuese confirmado por las dos terceras partes del número total de votos, pasará otra vez a la Cámara revisora. Si por esta fuese sancionado por la misma mayoría, el proyecto será ley o decreto y volverá al Ejecutivo para su promulgación.
 
@@ -1228,7 +1246,7 @@ XIX. Para fijar las reglas a que debe sujetarse la ocupación y enajenación de 
 
 XX. Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerpo Consular mexicano.
 
-XXI. Para establecer los delitos y las faltas contra la Federación y fijar los castigos que por ellos deban imponerse; expedir una ley general en materia de secuestro, que establezca, como mínimo, los tipos penales y sus sanciones, la distribución de competencias y las formas de coordinación entre la Federación, el Distrito Federal, los Estados y los Municipios; así como legislar en materia de delincuencia organizada.
+XXI. Para establecer los delitos y las faltas contra la Federación y fijar los castigos que por ellos deban imponerse; expedir leyes generales en materias de secuestro, y trata de personas, que establezcan, como mínimo, los tipos penales y sus sanciones, la distribución de competencias y las formas de coordinación entre la Federación, el Distrito Federal, los Estados y los Municipios; así como legislar en materia de delincuencia organizada.
 
 Las autoridades federales podrán conocer también de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales;
 
@@ -1416,7 +1434,7 @@ I. Prestar su consentimiento para el uso de la Guardia Nacional en los casos de 
 
 II. Recibir, en su caso, la protesta del Presidente de la República;
 
-III. Resolver los asuntos de su competencia; recibir durante el receso del Congreso de la Unión las iniciativas de ley y proposiciones dirigidas a las Cámaras y turnarlas para dictamen a las Comisiones de la Cámara a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones;
+III. Resolver los asuntos de su competencia; recibir durante el receso del Congreso de la Unión las iniciativas de ley, las observaciones a los proyectos de ley o decreto que envíe el Ejecutivo y proposiciones dirigidas a las Cámaras y turnarlas para dictamen a las comisiones de la Cámara a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones;
 
 IV. Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias;
 
@@ -1560,7 +1578,7 @@ VIII. Declarar la guerra en nombre de los Estados Unidos Mexicanos, previa ley d
 
 IX. Designar, con ratificación del Senado, al Procurador General de la República;
 
-X. Dirigir la política exterior y celebrar tratados internacionales, así como terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos, sometiéndolos a la aprobación del Senado. En la conducción de tal política, el titular del Poder Ejecutivo observará los siguientes principios normativos: la autodeterminación de los pueblos; la no intervención; la solución pacífica de controversias; la proscripción de la amenaza o el uso de la fuerza en las relaciones internacionales; la igualdad jurídica de los Estados; la cooperación internacional para el desarrollo; y la lucha por la paz y la seguridad internacionales;
+X. Dirigir la política exterior y celebrar tratados internacionales, así como terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos, sometiéndolos a la aprobación del Senado. En la conducción de tal política, el titular del Poder Ejecutivo observará los siguientes principios normativos: la autodeterminación de los pueblos; la no intervención; la solución pacífica de controversias; la proscripción de la amenaza o el uso de la fuerza en las relaciones internacionales; la igualdad jurídica de los Estados; la cooperación internacional para el desarrollo; el respeto, la protección y promoción de los derechos humanos y la lucha por la paz y la seguridad internacionales;
 
 XI. Convocar al Congreso a sesiones extraordinarias, cuando lo acuerde la Comisión Permanente.
 
@@ -1624,15 +1642,19 @@ La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la compe
 
 El Consejo de la Judicatura Federal determinará el número, división en circuitos, competencia territorial y, en su caso, especialización por materia, de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
-El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la Corte, así como remitir a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los asuntos, aquéllos en los que hubiera establecido jurisprudencia o los que, conforme a los referidos acuerdos, la propia corte determine para una mejor impartición de justicia. Dichos acuerdos surtirán efectos después de publicados.
+Asimismo, mediante acuerdos generales establecerá Plenos de Circuito, atendiendo al número y especialización de los Tribunales Colegiados que pertenezcan a cada Circuito. Las leyes determinarán su integración y funcionamiento.
 
-La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los tribunales del Poder Judicial de la Federación sobre interpretación de la Constitución, leyes y reglamentos federales o locales y tratados internacionales celebrados por el Estado Mexicano, así como los requisitos para su interrupción y modificación.
+El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la Corte, así como remitir a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los asuntos, aquéllos en los que hubiera establecido jurisprudencia o los que, conforme a los referidos acuerdos, la propia Corte determine para una mejor impartición de justicia. Dichos acuerdos surtirán efectos después de publicados.
+
+Los juicios de amparo, las controversias constitucionales y las acciones de inconstitucionalidad se substanciarán y resolverán de manera prioritaria cuando alguna de las Cámaras del Congreso, a través de su presidente, o el Ejecutivo Federal, por conducto del consejero jurídico del gobierno, justifique la urgencia atendiendo al interés social o al orden público, en los términos de lo dispuesto por las leyes reglamentarias.
+
+La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los Tribunales del Poder Judicial de la Federación y los Plenos de Circuito sobre la interpretación de la Constitución y normas generales, así como los requisitos para su interrupción y sustitución.
 
 La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito, los Jueces de Distrito y los Consejeros de la Judicatura Federal, así como los Magistrados Electorales, no podrá ser disminuida durante su encargo.
 
-Los Ministros de la Suprema Corte de Justicia durarán en su encargo quince años, sólo podrán ser removidos del mismo en los términos del Título Cuarto de esta Constitución y, al vencimiento de su período, tendrán derecho a un haber por retiro.
+Los Ministros de la Suprema Corte de Justicia durarán en su encargo quince años, sólo podrán ser removidos del mismo en los términos del Título Cuarto de esta Constitución y, al vencimiento de su periodo, tendrán derecho a un haber por retiro.
 
-Ninguna persona que haya sido Ministro podrá ser nombrada para un nuevo período, salvo que hubiera ejercido el cargo con el carácter de provisional o interino.
+Ninguna persona que haya sido ministro podrá ser nombrada para un nuevo periodo, salvo que hubiera ejercido el cargo con el carácter de provisional o interino.
 
 ##### Artículo 95.
 
@@ -1662,7 +1684,7 @@ En caso de que la Cámara de Senadores rechace la totalidad de la terna propuest
 
 Los Magistrados de Circuito y los Jueces de Distrito serán nombrados y adscritos por el Consejo de la Judicatura Federal, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezca la ley. Durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados o promovidos a cargos superiores, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
 
-La Suprema Corte de Justicia de la Nación podrá nombrar alguno o algunos de sus miembros o algún Juez de Distrito o Magistrado de Circuito, o designar uno o varios comisionados especiales, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal o alguna de las Cámaras del Congreso de la Unión, o el Gobernador de algún Estado, únicamente para que averigüe algún hecho o hechos que constituyan una grave violación de alguna garantía individual. También podrá solicitar al Consejo de la Judicatura Federal, que averigüe la conducta de algún juez o magistrado federal.
+La Suprema Corte de Justicia de la Nación podrá solicitar al Consejo de la Judicatura Federal que averigüe la conducta de algún juez o magistrado federal.
 
 (Párrafo tercero. Se deroga)
 
@@ -1794,47 +1816,57 @@ La función de consejero jurídico del Gobierno, estará a cargo de la dependenc
 
 B. El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, establecerán organismos de protección de los derechos humanos que ampara el orden jurídico mexicano, los que conocerán de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial de la Federación, que violen estos derechos.
 
-Los organismos a que se refiere el párrafo anterior, formularán recomendaciones públicas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+Los organismos a que se refiere el párrafo anterior, formularán recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presenten estos organismos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, la Cámara de Senadores o en sus recesos la Comisión Permanente, o las legislaturas de las entidades federativas, según corresponda, podrán llamar, a solicitud de estos organismos, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
 
-Estos organismos no serán competentes tratándose de asuntos electorales, laborales y jurisdiccionales.
+Estos organismos no serán competentes tratándose de asuntos electorales y jurisdiccionales.
 
 El organismo que establezca el Congreso de la Unión se denominará Comisión Nacional de los Derechos Humanos; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
+
+Las Constituciones de los Estados y el Estatuto de Gobierno del Distrito Federal establecerán y garantizarán la autonomía de los organismos de protección de los derechos humanos.
 
 La Comisión Nacional de los Derechos Humanos tendrá un Consejo Consultivo integrado por diez consejeros que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, por la Comisión Permanente del Congreso de la Unión, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente serán substituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
 
 El Presidente de la Comisión Nacional de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Cuarto de esta Constitución.
 
+La elección del titular de la presidencia de la Comisión Nacional de los Derechos Humanos, así como de los integrantes del Consejo Consultivo, y de titulares de los organismos de protección de los derechos humanos de las entidades federativas, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la ley.
+
 El Presidente de la Comisión Nacional de los Derechos Humanos presentará anualmente a los Poderes de la Unión un informe de actividades. Al efecto comparecerá ante las Cámaras del Congreso en los términos que disponga la ley.
 
 La Comisión Nacional de los Derechos Humanos conocerá de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones de los organismos equivalentes en las entidades federativas.
 
+La Comisión Nacional de los Derechos Humanos podrá investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, alguna de las Cámaras del Congreso de la Unión, el gobernador de un Estado, el Jefe de Gobierno del Distrito Federal o las legislaturas de las entidades federativas.
+
 ##### Artículo 103.
 
-Los tribunales de la Federación resolverán toda controversia que se suscite:
+Los Tribunales de la Federación resolverán toda controversia que se suscite
 
-I. Por leyes o actos de la autoridad que viole las garantías individuales.
+I. Por normas generales, actos u omisiones de la autoridad que violen los derechos humanos reconocidos y las garantías otorgadas para su protección por esta Constitución, así como por los tratados internacionales de los que el Estado Mexicano sea parte;
 
-II. Por leyes o actos de la autoridad federal que vulneren o restrinjan la soberanía de los Estados o la esfera de competencia del Distrito Federal, y
+II. Por normas generales o actos de la autoridad federal que vulneren o restrinjan la soberanía de los estados o la esfera de competencia del Distrito Federal, y
 
-III. Por leyes o actos de las autoridades de los Estados o del Distrito Federal que invadan la esfera de competencia de la autoridad federal.
+III. Por normas generales o actos de las autoridades de los Estados o del Distrito Federal que invadan la esfera de competencia de la autoridad federal.
 
 ##### Artículo 104.
 
-Corresponde a los Tribunales de la Federación conocer:
+Los Tribunales de la Federación conocerán:
 
-I. De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o de los tratados internacionales celebrados por el Estado Mexicano. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales del orden común de los Estados y del Distrito Federal. Las sentencias de primera instancia podrán ser apelables para ante (apelables ante, sic DOF 08-10-1974) el superior inmediato del juez que conozca del asunto en primer grado.
+I. De los procedimientos relacionados con delitos del orden federal;
 
-I-B. De los recursos de revisión que se interpongan contra las resoluciones definitivas de los tribunales de lo contencioso-administrativo a que se refieren la fracción XXIX-H del artículo 73 y fracción IV, inciso e) del artículo 122 de esta Constitución, sólo en los casos que señalen las leyes. Las revisiones, de las cuales conocerán los Tribunales Colegiados de Circuito, se sujetarán a los trámites que la ley reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y en contra de las resoluciones que en ellas dicten los Tribunales Colegiados de Circuito no procederá juicio o recurso alguno;
+II. De todas las controversias del orden civil o mercantil que se susciten sobre el cumplimiento y aplicación de leyes federales o de los tratados internacionales celebrados por el Estado Mexicano. A elección del actor y cuando sólo se afecten intereses particulares, podrán conocer de ellas, los jueces y tribunales del orden común.
 
-II. De todas las controversias que versen sobre derecho marítimo;
+Las sentencias de primera instancia podrán ser apelables ante el superior inmediato del juez que conozca del asunto en primer grado;
 
-III. De aquellas en que la Federación fuese parte;
+III. De los recursos de revisión que se interpongan contra las resoluciones definitivas de los tribunales de lo contencioso-administrativo a que se refieren la fracción XXIX-H del artículo 73 y fracción IV, inciso e) del artículo 122 de esta Constitución, sólo en los casos que señalen las leyes. Las revisiones, de las cuales conocerán los Tribunales Colegiados de Circuito, se sujetarán a los trámites que la ley reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y en contra de las resoluciones que en ellas dicten los Tribunales Colegiados de Circuito no procederá juicio o recurso alguno;
 
-IV. De las controversias y de las acciones a que se refiere el artículo 105, mismas que serán del conocimiento exclusivo de la Suprema Corte de Justicia de la Nación;
+IV. De todas las controversias que versen sobre derecho marítimo;
 
-V. De las que surjan entre un Estado y uno o más vecinos de otro, y
+V. De aquellas en que la Federación fuese parte;
 
-VI. De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
+VI. De las controversias y de las acciones a que se refiere el artículo 105, mismas que serán del conocimiento exclusivo de la Suprema Corte de Justicia de la Nación;
+
+VII. De las que surjan entre un Estado y uno o más vecinos de otro, y
+
+VIII. De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
 
 ##### Artículo 105.
 
@@ -1884,7 +1916,7 @@ e) El equivalente al treinta y tres por ciento de los integrantes de la Asamblea
 
 f) Los partidos políticos con registro ante el Instituto Federal Electoral, por conducto de sus dirigencias nacionales, en contra de leyes electorales federales o locales; y los partidos políticos con registro estatal, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por el órgano legislativo del Estado que les otorgó el registro.
 
-g) La Comisión Nacional de los Derechos Humanos, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos consagrados en esta Constitución. Asimismo los organismos de protección de los derechos humanos equivalentes en los estados de la República, en contra de leyes expedidas por las legislaturas locales y la Comisión de Derechos Humanos del Distrito Federal, en contra de leyes emitidas por la Asamblea Legislativa del Distrito Federal.
+g) La Comisión Nacional de los Derechos Humanos, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos consagrados en esta Constitución y en los tratados internacionales de los que México sea parte. Asimismo, los organismos de protección de los derechos humanos equivalentes en los estados de la República, en contra de leyes expedidas por las legislaturas locales y la Comisión de Derechos Humanos del Distrito Federal, en contra de leyes emitidas por la Asamblea Legislativa del Distrito Federal.
 
 La única vía para plantear la no conformidad de las leyes electorales a la Constitución es la prevista en este artículo.
 
@@ -1904,29 +1936,45 @@ Corresponde al Poder Judicial de la Federación, en los términos de la ley resp
 
 ##### Artículo 107.
 
-Todas las controversias de que habla el Artículo 103 se sujetarán a los procedimientos y formas del orden jurídico que determine la ley, de acuerdo a las bases siguientes:
+Las controversias de que habla el artículo 103 de esta Constitución, con excepción de aquellas en materia electoral, se sujetarán a los procedimientos que determine la ley reglamentaria, de acuerdo con las bases siguientes:
 
-I. El juicio de amparo se seguirá siempre a instancia de parte agraviada;
+I. El juicio de amparo se seguirá siempre a instancia de parte agraviada, teniendo tal carácter quien aduce ser titular de un derecho o de un interés legítimo individual o colectivo, siempre que alegue que el acto reclamado viola los derechos reconocidos por esta Constitución y con ello se afecte su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico.
 
-II. La sentencia será siempre tal, que sólo se ocupe de individuos particulares, limitándose a ampararlos y protegerlos en el caso especial sobre el que verse la queja, sin hacer una declaración general respecto de la ley o acto que la motivare.
+Tratándose de actos o resoluciones provenientes de tribunales judiciales, administrativos o del trabajo, el quejoso deberá aducir ser titular de un derecho subjetivo que se afecte de manera personal y directa;
 
-En el juicio de amparo deberá suplirse la deficiencia de la queja de acuerdo con lo que disponga la Ley Reglamentaria de los Artículos 103 y 107 de esta Constitución.
+II. Las sentencias que se pronuncien en los juicios de amparo sólo se ocuparán de los quejosos que lo hubieren solicitado, limitándose a ampararlos y protegerlos, si procediere, en el caso especial sobre el que verse la demanda.
+
+Cuando en los juicios de amparo indirecto en revisión se resuelva la inconstitucionalidad de una norma general por segunda ocasión consecutiva, la Suprema Corte de Justicia de la Nación lo informará a la autoridad emisora correspondiente.
+
+Cuando los órganos del Poder Judicial de la Federación establezcan jurisprudencia por reiteración en la cual se determine la inconstitucionalidad de una norma general, la Suprema Corte de Justicia de la Nación lo notificará a la autoridad emisora. Transcurrido el plazo de 90 días naturales sin que se supere el problema de inconstitucionalidad, la Suprema Corte de Justicia de la Nación emitirá, siempre que fuere aprobada por una mayoría de cuando menos ocho votos, la declaratoria general de inconstitucionalidad, en la cual se fijarán sus alcances y condiciones en los términos de la ley reglamentaria.
+
+Lo dispuesto en los dos párrafos anteriores no será aplicable a normas generales en materia tributaria.
+
+En el juicio de amparo deberá suplirse la deficiencia de los conceptos de violación o agravios de acuerdo con lo que disponga la ley reglamentaria.
 
 Cuando se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas, pastos y montes a los ejidos o a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a los ejidatarios o comuneros, deberán recabarse de oficio todas aquellas pruebas que puedan beneficiar a las entidades o individuos mencionados y acordarse las diligencias que se estimen necesarias para precisar sus derechos agrarios, así como la naturaleza y efectos de los actos reclamados.
 
-En los juicios a que se refiere el párrafo anterior no procederán, en perjuicio de los núcleos ejidales o comunales, o de los ejidatarios o comuneros, el sobreseimiento por inactividad procesal ni la caducidad de la instancia, pero uno y otra sí podrán decretarse en su beneficio. Cuando se reclamen actos que afecten los derechos colectivos del núcleo tampoco procederán el desistimiento ni el consentimiento expreso de los propios actos, salvo que el primero sea acordado por la Asamblea General o el segundo emane de ésta.
+En los juicios a que se refiere el párrafo anterior no procederán, en perjuicio de los núcleos ejidales o comunales, o de los ejidatarios o comuneros, el sobreseimiento por inactividad procesal ni la caducidad de la instancia, pero uno y otra sí podrán decretarse en su beneficio. Cuando se reclamen actos que afecten los derechos colectivos del núcleo tampoco procederán desistimiento ni el consentimiento expreso de los propios actos, salvo que el primero sea acordado por la Asamblea General o el segundo emane de ésta;
 
 III. Cuando se reclamen actos de tribunales judiciales, administrativos o del trabajo, el amparo sólo procederá en los casos siguientes:
 
-a) Contra sentencias definitivas o laudos y resoluciones que pongan fin al juicio, respecto de las cuales no proceda ningún recurso ordinario por el que puedan ser modificados o reformados, ya sea que la violación se cometa en ellos o que, cometida durante el procedimiento, afecte a las defensas del quejoso, trascendiendo al resultado del fallo; siempre que en materia civil haya sido impugnada la violación en el curso del procedimiento mediante el recurso ordinario establecido por la ley e invocada como agravio en la segunda instancia, si se cometió en la primera. Estos requisitos no serán exigibles en el amparo contra sentencias dictadas en controversias sobre acciones del estado civil o que afecten al orden y a la estabilidad de la familia;
+a) Contra sentencias definitivas, laudos y resoluciones que pongan fin al juicio, ya sea que la violación se cometa en ellos o que, cometida durante el procedimiento, afecte las defensas del quejoso trascendiendo al resultado del fallo. En relación con el amparo al que se refiere este inciso y la fracción V de este artículo, el Tribunal Colegiado de Circuito deberá decidir respecto de todas las violaciones procesales que se hicieron valer y aquéllas que, cuando proceda, advierta en suplencia de la queja, y fijará los términos precisos en que deberá pronunciarse la nueva resolución. Si las violaciones procesales no se invocaron en un primer amparo, ni el Tribunal Colegiado correspondiente las hizo valer de oficio en los casos en que proceda la suplencia de la queja, no podrán ser materia de concepto de violación, ni de estudio oficioso en juicio de amparo posterior.
+
+La parte que haya obtenido sentencia favorable y la que tenga interés jurídico en que subsista el acto reclamado, podrá presentar amparo en forma adhesiva al que promueva cualquiera de las partes que intervinieron en el juicio del que emana el acto reclamado. La ley determinará la forma y términos en que deberá promoverse.
+
+Para la procedencia del juicio deberán agotarse previamente los recursos ordinarios que se establezcan en la ley de la materia, por virtud de los cuales aquellas sentencias definitivas, laudos y resoluciones puedan ser modificados o revocados, salvo el caso en que la ley permita la renuncia de los recursos.
+
+Al reclamarse la sentencia definitiva, laudo o resolución que ponga fin al juicio, deberán hacerse valer las violaciones a las leyes del procedimiento, siempre y cuando el quejoso las haya impugnado durante la tramitación del juicio mediante el recurso o medio de defensa que, en su caso, señale la ley ordinaria respectiva. Este requisito no será exigible en amparos contra actos que afecten derechos de menores o incapaces, al estado civil, o al orden o estabilidad de la familia, ni en los de naturaleza penal promovidos por el sentenciado;
 
 b) Contra actos en juicio cuya ejecución sea de imposible reparación, fuera de juicio o después de concluido, una vez agotados los recursos que en su caso procedan, y
 
 c) Contra actos que afecten a personas extrañas al juicio;
 
-IV. En materia administrativa el amparo procede, además, contra resoluciones que causen agravio no reparable mediante algún recurso, juicio o medio de defensa legal. No será necesario agotar éstos cuando la ley que los establezca exija, para otorgar la suspensión del acto reclamado, mayores requisitos que los que la Ley Reglamentaria del Juicio de Amparo requiera como condición para decretar esa suspensión;
+IV. En materia administrativa el amparo procede, además, contra actos u omisiones que provengan de autoridades distintas de los tribunales judiciales, administrativos o del trabajo, y que causen agravio no reparable mediante algún medio de defensa legal. Será necesario agotar estos medios de defensa siempre que conforme a las mismas leyes se suspendan los efectos de dichos actos de oficio o mediante la interposición del juicio, recurso o medio de defensa legal que haga valer el agraviado, con los mismos alcances que los que prevé la ley reglamentaria y sin exigir mayores requisitos que los que la misma consigna para conceder la suspensión definitiva, ni plazo mayor que el que establece para el otorgamiento de la suspensión provisional, independientemente de que el acto en sí mismo considerado sea o no susceptible de ser suspendido de acuerdo con dicha ley.
 
-V. El amparo contra sentencias definitivas o laudos y resoluciones que pongan fin al juicio, sea que la violación se cometa durante el procedimiento o en la sentencia misma, se promoverá ante el tribunal colegiado de circuito que corresponda, conforme a la distribución de competencias que establezca la Ley Orgánica del Poder Judicial de la Federación, en los casos siguientes:
+No existe obligación de agotar tales recursos o medios de defensa si el acto reclamado carece de fundamentación o cuando sólo se aleguen violaciones directas a esta Constitución;
+
+V. El amparo contra sentencias definitivas, laudos o resoluciones que pongan fin al juicio se promoverá ante el Tribunal Colegiado de Circuito competente de conformidad con la ley, en los casos siguientes:
 
 a) En materia penal, contra resoluciones definitivas dictadas por tribunales judiciales, sean éstos federales, del orden común o militares.
 
@@ -1940,13 +1988,13 @@ d) En materia laboral, cuando se reclamen laudos dictados por las Juntas Locales
 
 La Suprema Corte de Justicia, de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, o del Procurador General de la República, podrá conocer de los amparos directos que por su interés y trascendencia así lo ameriten.
 
-VI. En los casos a que se refiere la fracción anterior, la ley reglamentaria de los artículos 103 y 107 de esta Constitución señalará el trámite y los términos a que deberán someterse los tribunales colegiados de circuito y, en su caso, la Suprema Corte de Justicia, para dictar sus respectivas resoluciones;
+VI. En los casos a que se refiere la fracción anterior, la ley reglamentaria señalará el procedimiento y los términos a que deberán someterse los Tribunales Colegiados de Circuito y, en su caso, la Suprema Corte de Justicia de la Nación para dictar sus resoluciones;
 
-VII. El amparo contra actos en juicio, fuera de juicio o después de concluido, o que afecten a personas extrañas al juicio, contra leyes o contra actos de autoridad administrativa, se interpondrá ante el juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse, y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos, pronunciándose en la misma audiencia la sentencia;
+VII. El amparo contra actos u omisiones en juicio, fuera de juicio o después de concluido, o que afecten a personas extrañas al juicio, contra normas generales o contra actos u omisiones de autoridad administrativa, se interpondrá ante el Juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse, y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos, pronunciándose en la misma audiencia la sentencia;
 
 VIII. Contra las sentencias que pronuncien en amparo los Jueces de Distrito o los Tribunales Unitarios de Circuito procede revisión. De ella conocerá la Suprema Corte de Justicia:
 
-a) Cuando habiéndose impugnado en la demanda de amparo, por estimarlos directamente violatorios de esta Constitución, leyes federales o locales, tratados internacionales, reglamentos expedidos por el Presidente de la República de acuerdo con la fracción I del Artículo 89 de esta Constitución y reglamentos de leyes locales expedidos por los gobernadores de los Estados o por el Jefe del Distrito Federal, subsista en el recurso el problema de constitucionalidad;
+a) Cuando habiéndose impugnado en la demanda de amparo normas generales por estimarlas directamente violatorias de esta Constitución, subsista en el recurso el problema de constitucionalidad.
 
 b) Cuando se trate de los casos comprendidos en las fracciones II y III del artículo 103 de esta Constitución.
 
@@ -1954,35 +2002,39 @@ La Suprema Corte de Justicia, de oficio o a petición fundada del correspondient
 
 En los casos no previstos en los párrafos anteriores, conocerán de la revisión los tribunales colegiados de circuito y sus sentencias no admitirán recurso alguno;
 
-IX. Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito no admiten recurso alguno, a menos de que decidan sobre la inconstitucionalidad de una ley o establezcan la interpretación directa de un precepto de la Constitución cuya resolución, a juicio de la Suprema Corte de Justicia y conforme a acuerdos generales, entrañe la fijación de un criterio de importancia y trascendencia. Sólo en esta hipótesis procederá la revisión ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales;
+IX. En materia de amparo directo procede el recurso de revisión en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales, establezcan la interpretación directa de un precepto de esta Constitución u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que fijen un criterio de importancia y trascendencia, según lo disponga la Suprema Corte de Justicia de la Nación, en cumplimiento de los acuerdos generales del Pleno. La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales, sin poder comprender otras;
 
-X. Los actos reclamados podrán ser objeto de suspensión en los casos y mediante las condiciones y garantías que determine la ley, para lo cual se tomará en cuenta la naturaleza de la violación alegada, la dificultad de reparación de los daños y perjuicios que pueda sufrir el agraviado con su ejecución, los que la suspensión origine a terceros perjudicados y el interés público.
+X. Los actos reclamados podrán ser objeto de suspensión en los casos y mediante las condiciones que determine la ley reglamentaria, para lo cual el órgano jurisdiccional de amparo, cuando la naturaleza del acto lo permita, deberá realizar un análisis ponderado de la apariencia del buen derecho y del interés social.
 
-Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal al comunicarse la interposición del amparo, y en materia civil, mediante fianza que dé el quejoso para responder de los daños y perjuicios que tal suspensión ocasionare, la cual quedará sin efecto si la otra parte da contrafianza para asegurar la reposición de las cosas al estado que guardaban si se concediese el amparo, y a pagar los daños y perjuicios consiguientes;
+Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal al comunicarse la promoción del amparo, y en las materias civil, mercantil y administrativa, mediante garantía que dé el quejoso para responder de los daños y perjuicios que tal suspensión pudiere ocasionar al tercero interesado. La suspensión quedará sin efecto si éste último da contragarantía para asegurar la reposición de las cosas al estado que guardaban si se concediese el amparo y a pagar los daños y perjuicios consiguientes;
 
-XI. La suspensión se pedirá ante la autoridad responsable cuando se trate de amparos directos promovidos ante los Tribunales Colegiados de Circuito y la propia autoridad responsable decidirá al respecto. En todo caso, el agraviado deberá presentar la demanda de amparo ante la propia autoridad responsable, acompañando copias de la demanda para las demás partes en el juicio, incluyendo al Ministerio Público y una para el expediente. En los demás casos, conocerán y resolverán sobre la suspensión los Juzgados de Distrito o los Tribunales Unitarios de Circuito;
+XI. La demanda de amparo directo se presentará ante la autoridad responsable, la cual decidirá sobre la suspensión. En los demás casos la demanda se presentará ante los Juzgados de Distrito o los Tribunales Unitarios de Circuito los cuales resolverán sobre la suspensión, o ante los tribunales de los Estados en los casos que la ley lo autorice;
 
 XII. La violación de las garantías de los artículos 16, en materia penal, 19 y 20 se reclamará ante el superior del tribunal que la cometa, o ante el Juez de Distrito o Tribunal Unitario de Circuito que corresponda, pudiéndose recurrir, en uno y otro caso, las resoluciones que se pronuncien, en los términos prescritos por la fracción VIII.
 
 Si el Juez de Distrito o el Tribunal Unitario de Circuito no residieren en el mismo lugar en que reside la autoridad responsable, la ley determinará el juez o tribunal ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca;
 
-XIII. Cuando los Tribunales Colegiados de Circuito sustenten tesis contradictorias en los juicios de amparo de su competencia, los Ministros de la Suprema Corte de Justicia, el Procurador General de la República, los mencionados Tribunales o las partes que intervinieron en los juicios en que dichas tesis fueron sustentadas, podrán denunciar la contradicción ante la Suprema Corte de Justicia, a fin de que el Pleno o la Sala respectiva, según corresponda, decidan la tesis que debe prevalecer como jurisprudencia.
+XIII. Cuando los Tribunales Colegiados de un mismo Circuito sustenten tesis contradictorias en los juicios de amparo de su competencia, el Procurador General de la República, los mencionados tribunales y sus integrantes, los Jueces de Distrito o las partes en los asuntos que los motivaron podrán denunciar la contradicción ante el Pleno del Circuito correspondiente, a fin de que decida la tesis que debe prevalecer como jurisprudencia.
 
-Cuando las Salas de la Suprema Corte de Justicia sustenten tesis contradictorias en los juicios de amparo materia de su competencia, cualquiera de esas Salas, el Procurador General de la República o las partes que intervinieron en los juicios en que tales tesis hubieran sido sustentadas, podrán denunciar la contradicción ante la Suprema Corte de Justicia, que funcionando en pleno decidirá cuál tesis debe prevalecer.
+Cuando los Plenos de Circuito de distintos Circuitos, los Plenos de Circuito en materia especializada de un mismo Circuito o los Tribunales Colegiados de un mismo Circuito con diferente especialización sustenten tesis contradictorias al resolver las contradicciones o los asuntos de su competencia, según corresponda, los Ministros de la Suprema Corte de Justicia de la Nación, los mismos Plenos de Circuito, así como los órganos a que se refiere el párrafo anterior, podrán denunciar la contradicción ante la Suprema Corte de Justicia, con el objeto de que el Pleno o la Sala respectiva, decida la tesis que deberá prevalecer.
 
-La resolución que pronuncien las Salas o el Pleno de la Suprema Corte en los casos a que se refieren los dos párrafos anteriores, sólo tendrá el efecto de fijar la jurisprudencia y no afectará las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción, y
+Cuando las Salas de la Suprema Corte de Justicia de la Nación sustenten tesis contradictorias en los juicios de amparo cuyo conocimiento les competa, los ministros, los Tribunales Colegiados de Circuito y sus integrantes, los Jueces de Distrito, el Procurador General de la República o las partes en los asuntos que las motivaron, podrán denunciar la contradicción ante el Pleno de la Suprema Corte, conforme a la ley reglamentaria, para que éste resuelva la contradicción.
 
-XIV. Salvo lo dispuesto en el párrafo final de la fracción II de este artículo, se decretará el sobreseimiento del amparo o la caducidad de la instancia por inactividad del quejoso o del recurrente, respectivamente, cuando el acto reclamado sea del orden civil o administrativo, en los casos y términos que señale la ley reglamentaria. La caducidad de la instancia dejará firme la sentencia recurrida.
+Las resoluciones que pronuncien el Pleno o las Salas de la Suprema Corte de Justicia así como los Plenos de Circuito conforme a los párrafos anteriores, sólo tendrán el efecto de fijar la jurisprudencia y no afectarán las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción;
+
+XIV. Se deroga;
 
 XV. El Procurador General de la República o el Agente del Ministerio Público Federal que al efecto designare, será parte en todos los juicios de amparo; pero podrán abstenerse de intervenir en dichos juicios, cuando el caso de que se trate carezca a su juicio, de interés público.
 
-XVI. Si concedido el amparo la autoridad responsable insistiere en la repetición del acto reclamado o tratare de eludir la sentencia de la autoridad federal, y la Suprema Corte de Justicia estima que es inexcusable el incumplimiento, dicha autoridad será inmediatamente separada de su cargo y consignada al Juez de Distrito que corresponda. Si fuere excusable, previa declaración de incumplimiento o repetición, la Suprema Corte requerirá a la responsable y le otorgará un plazo prudente para que ejecute la sentencia. Si la autoridad no ejecuta la sentencia en el término concedido, la Suprema Corte de Justicia procederá en los términos primeramente señalados.
+XVI. Si la autoridad incumple la sentencia que concedió el amparo, pero dicho incumplimiento es justificado, la Suprema Corte de Justicia de la Nación, de acuerdo con el procedimiento previsto por la ley reglamentaria, otorgará un plazo razonable para que proceda a su cumplimiento, plazo que podrá ampliarse a solicitud de la autoridad. Cuando sea injustificado o hubiera transcurrido el plazo sin que se hubiese cumplido, procederá a separar de su cargo al titular de la autoridad responsable y a consignarlo ante el Juez de Distrito. Las mismas providencias se tomarán respecto del superior jerárquico de la autoridad responsable si hubiese incurrido en responsabilidad, así como de los titulares que, habiendo ocupado con anterioridad el cargo de la autoridad responsable, hubieran incumplido la ejecutoria.
 
-Cuando la naturaleza del acto lo permita, la Suprema Corte de Justicia, una vez que hubiera determinado el incumplimiento o repetición del acto reclamado, podrá disponer de oficio el cumplimiento substituto de las sentencias de amparo, cuando su ejecución afecte gravemente a la sociedad o a terceros en mayor proporción que los beneficios económicos que pudiera obtener el quejoso. Igualmente, el quejoso podrá solicitar ante el órgano que corresponda, el cumplimiento substituto de la sentencia de amparo, siempre que la naturaleza del acto lo permita.
+Si concedido el amparo, se repitiera el acto reclamado, la Suprema Corte de Justicia de la Nación, de acuerdo con el procedimiento establecido por la ley reglamentaria, procederá a separar de su cargo al titular de la autoridad responsable, y dará vista al Ministerio Público Federal, salvo que no hubiera actuado dolosamente y deje sin efectos el acto repetido antes de que sea emitida la resolución de la Suprema Corte de Justicia de la Nación.
 
-La inactividad procesal o la falta de promoción de parte interesada, en los procedimientos tendientes al cumplimiento de las sentencias de amparo, producirá su caducidad en los términos de la ley reglamentaria.
+El cumplimiento sustituto de las sentencias de amparo podrá ser solicitado por el quejoso al órgano jurisdiccional, o decretado de oficio por la Suprema Corte de Justicia de la Nación, cuando la ejecución de la sentencia afecte a la sociedad en mayor proporción a los beneficios que pudiera obtener el quejoso, o cuando, por las circunstancias del caso, sea imposible o desproporcionadamente gravoso restituir la situación que imperaba antes de la violación. El incidente tendrá por efecto que la ejecutoria se dé por cumplida mediante el pago de daños y perjuicios al quejoso. Las partes en el juicio podrán acordar el cumplimiento sustituto mediante convenio sancionado ante el propio órgano jurisdiccional.
 
-XVII. La autoridad responsable será consignada a la autoridad correspondiente, cuando no suspenda el acto reclamado debiendo hacerlo, y cuando admita fianza que resulte ilusoria o insuficiente, siendo en estos dos últimos casos, solidaria la responsabilidad civil de la autoridad con el que ofreciere la fianza y el que la prestare;
+No podrá archivarse juicio de amparo alguno, sin que se haya cumplido la sentencia que concedió la protección constitucional;
+
+XVII. La autoridad responsable que desobedezca un auto de suspensión o que, ante tal medida, admita por mala fe o negligencia fianza o contrafianza que resulte ilusoria o insuficiente, será sancionada penalmente;
 
 XVIII. Se deroga.
 
@@ -4009,3 +4061,115 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 9 de junio de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Óscar Saúl Castillo Andrade, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de julio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 13 de abril de 2011*
+
+**ARTÍCULO ÚNICO.-** Se reforma el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 22 de febrero de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Carlos Samuel Moreno Teran, Secretario.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas.”
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de abril de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 94, 103, 104 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 6 de junio de 2011*
+
+**Artículo Único.-** Se reforma el artículo 94, para modificar el párrafo ubicado actualmente en octavo lugar; se incorpora un nuevo párrafo para quedar en séptimo lugar y se incorpora otro nuevo párrafo para quedar en noveno lugar. Se reforma el artículo 103. Se reforma el artículo 104. Se reforma el artículo 107 de la siguiente manera: el párrafo inicial; las fracciones I y II; el inciso a) de la fracción III; las fracciones IV, V, VI y VII; el inciso a) de la fracción VIII; las fracciones IX, X, XI, XIII, XVI y XVII y se deroga la fracción XIV, todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**Artículos Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor a los 120 días de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Congreso de la Unión expedirá las reformas legales correspondientes dentro de los 120 días posteriores a la publicación del presente Decreto.
+
+**Tercero.** Los juicios de amparo iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo por lo que se refiere a las disposiciones relativas al sobreseimiento por inactividad procesal y caducidad de la instancia, así como el cumplimiento y ejecución de las sentencias de amparo.
+
+**Cuarto.** Para la integración de jurisprudencia por reiteración no se tomarán en cuenta las tesis aprobadas en los asuntos resueltos conforme a lo dispuesto en las disposiciones vigentes con anterioridad a la entrada en vigor del presente Decreto.
+
+México, D.F., a 4 de mayo de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Juan Carlos López Fernández, Secretario.- Rúbricas.”
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se modifica la denominación del Capítulo I del Título Primero y reforma diversos artículos de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 10 de junio de 2011*
+
+**ARTÍCULO ÚNICO.-** Se modifica la denominación del Capítulo Primero del Título Primero; el primero y quinto párrafos del artículo 1o.; el segundo párrafo del artículo 3o.; el primer párrafo del artículo 11; el artículo 15; el segundo párrafo del artículo 18; el primer párrafo del artículo 29; el primer párrafo del artículo 33; la fracción décima del artículo 89; el segundo párrafo del artículo 97; el segundo y tercer párrafos del apartado B del artículo 102; y el inciso g) de la fracción segunda del artículo 105; la adición de dos nuevos párrafos, segundo y tercero, al artículo 1o. y recorriéndose los actuales en su orden; un nuevo párrafo segundo al artículo 11, los párrafos segundo, tercero, cuarto y quinto al artículo 29; un nuevo párrafo segundo al artículo 33, recorriéndose el actual en su orden y los nuevos párrafos quinto, octavo y décimo primero, recorriéndose los actuales en su orden, al artículo 102 del Apartado B; todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La ley a que se refiere el tercer párrafo del artículo 1o. constitucional sobre reparación deberá ser expedida en un plazo máximo de un año contado a partir de la entrada en vigor del presente decreto.
+
+**Tercero.** La ley a que se refiere el artículo 11 constitucional sobre el asilo, deberá ser expedida en un plazo máximo de un año, contado a partir del inicio de la vigencia de este decreto.
+
+**Cuarto.** El Congreso de la Unión expedirá la Ley Reglamentaria del artículo 29 constitucional en materia de suspensión del ejercicio de los derechos y las garantías, en un plazo máximo de un año, contado a partir del inicio de la vigencia de este decreto.
+
+**Quinto.** El Congreso de la Unión expedirá la Ley Reglamentaria del artículo 33 constitucional, en materia de expulsión de extranjeros en un plazo máximo de un año contado a partir del inicio de la vigencia de este decreto. En tanto se expida la ley referida, este artículo se seguirá aplicando en los términos del texto vigente.
+
+**Sexto.** Los casos previstos en el segundo párrafo del artículo 97 constitucional, que estén pendientes de resolución al momento de entrar en vigor la reforma, los continuará desahogando la Suprema Corte de Justicia de la Nación hasta su conclusión.
+
+**Séptimo.** En lo que se refiere al Apartado B del artículo 102 constitucional y a la autonomía de los organismos locales de derechos humanos, las legislaturas locales deberán realizar las adecuaciones que correspondan en un plazo máximo de un año contados a partir del inicio de la vigencia de este decreto.
+
+**Octavo.** El Congreso de la Unión adecuará la Ley de la Comisión Nacional de los Derechos Humanos en un plazo máximo de un año, contado a partir del inicio de la vigencia de este decreto.
+
+**Noveno.** Se derogan todas las disposiciones que contravengan el presente decreto.
+
+México, D.F., a 1 de junio de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Julio Castellanos Ramírez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 19, 20 y 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 14 de julio de 2011*
+
+**ÚNICO.-** Se reforman los artículos 19, segundo párrafo; 20, apartado C, fracción V, y 73, fracción XXI, primer párrafo de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Congreso de la Unión deberá expedir la Ley General para Prevenir y Sancionar la Trata de Personas, en un plazo no mayor a los 180 días siguientes a la entrada en vigor del presente Decreto.
+
+México, D.F., a 29 de junio de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Arturo Zamora Jiménez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de julio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 71, 72 y 78 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 17 de agosto de 2011*
+
+**ARTÍCULO PRIMERO.-** Se reforma el último párrafo del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**ARTÍCULO SEGUNDO.-** Se reforma el primer párrafo y de la fracción B del artículo 72 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**ARTÍCULO TERCERO.-** Se reforma la fracción III del artículo 78 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.-** Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 25 de mayo de 2011.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Dip. Arturo Zamora Jiménez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de agosto de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
