@@ -3,12 +3,12 @@ title: Ley Federal de Protección al Consumidor
 abbreviation: LFPC
 slug: lfpc
 published_dof: 1992-12-24
-last_reform_dof: 2011-05-26
+last_reform_dof: 2011-08-30
 articles: 178
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/113.doc
-archived: https://web.archive.org/web/20110911065925/http://www.diputados.gob.mx:80/LeyesBiblio/doc/113.doc
-source_sha256: 0fd0b49bb91fc9946e26b0c12c8b3a0d4533be46e9681ffcc0d9d885010dad22
-retrieved: 2011-09-11
+archived: https://web.archive.org/web/20111017224021/http://www.diputados.gob.mx/LeyesBiblio/doc/113.doc
+source_sha256: 847469ada7a027368f65539473b238816264fd67103967b487cc712404146737
+retrieved: 2011-10-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm
 ---
 
@@ -18,9 +18,11 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 26-05-2011
+Última reforma publicada DOF 30-08-2011
 
-> Nota de vigencia: La adición de un artículo 29 BIS, publicada en el Diario Oficial de la Federación el 26 de mayo de 2011, entrará en vigor en el mes de enero de 2012.
+> Notas de vigencia:
+> La adición de un artículo 29 BIS, publicada en el Diario Oficial de la Federación el 26 de mayo de 2011, entrará en vigor en el mes de enero de 2012.
+> La reforma al artículo 26, publicada en el Diario Oficial de la Federación el 30 de agosto de 2011, entrará en vigor el 29 de febrero de 2012.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
@@ -450,25 +452,9 @@ Los proveedores están obligados a informar de inmediato a las autoridades si de
 
 #### ARTÍCULO 26.
 
-La Procuraduría tendrá legitimación procesal activa para ejercer ante los tribunales competentes acciones de grupo en representación de consumidores, para que dichos órganos, en su caso, dicten:
+Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad o grupo de consumidores, la Procuraduría, así como cualquier legitimado a que se refiere el artículo 585 del Código Federal de Procedimientos Civiles, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en el Libro Quinto de dicho Código.
 
-I. Sentencia que declare que una o varias personas han realizado una conducta que ha ocasionado daños o perjuicios a consumidores y, en consecuencia, proceda la reparación por la vía incidental a los interesados que acrediten su calidad de perjudicados. La indemnización de daños y perjuicios que en su caso corresponda no podrá ser inferior al veinte por ciento de los mismos, o
-
-*Fracción reformada DOF 04-02-2004*
-
-II. Mandamiento para impedir, suspender o modificar la realización de conductas que ocasionen daños o perjuicios a consumidores o previsiblemente puedan ocasionarlos.
-
-La Procuraduría en representación de los consumidores afectados podrá ejercer por la vía incidental la reclamación de los daños y perjuicios que correspondan, en base a la sentencia emitida por la autoridad judicial.
-
-*Párrafo adicionado DOF 04-02-2004*
-
-Las atribuciones que este artículo otorga a la Procuraduría se ejercitarán previo análisis de su procedencia, tomando en consideración la gravedad, el número de reclamaciones o denuncias que se hubieran presentado en contra del proveedor o la afectación general que pudiera causarse a los consumidores en su salud o en su patrimonio.
-
-*Párrafo reformado DOF 04-02-2004*
-
-La Procuraduría estará exenta de presentar garantía alguna ante las autoridades judiciales competentes, para el ejercicio de las acciones señaladas en las fracciones I y II.
-
-*Párrafo adicionado DOF 04-02-2004*
+*Artículo reformado DOF 04-02-2004, 30-08-2011*
 
 #### ARTÍCULO 27.
 
@@ -2693,3 +2679,29 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 1 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 23 de mayo de 2011.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan el Código Federal de Procedimientos Civiles, el Código Civil Federal, la Ley Federal de Competencia Económica, la Ley Federal de Protección al Consumidor, la Ley Orgánica del Poder Judicial de la Federación, la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección y Defensa al Usuario de Servicios Financieros.
+
+*Publicado en el Diario Oficial de la Federación el 30 de agosto de 2011*
+
+**ARTÍCULO CUARTO.-** Se reforma el artículo 26 de la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+**TERCERO.-** La Cámara de Diputados aprobará las modificaciones presupuestales necesarias a efecto de lograr el efectivo cumplimiento del presente Decreto.
+
+**CUARTO.-** El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
+
+**QUINTO.-** El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
+
+**SEXTO.-** El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
+
+México, D. F., a 28 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de agosto de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
