@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2011-08-17
+last_reform_dof: 2011-10-13
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
-archived: https://web.archive.org/web/20110911065834/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1.doc
-source_sha256: 47c19acee6ee626179a75476d5e7dff31a5a0323558d340ccb5c92a0375c49ea
-retrieved: 2011-09-11
+archived: https://web.archive.org/web/20111124221542/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1.doc
+source_sha256: 01a99e41a0c5a5294c3359c37217cbb1a43948a5f3715f70663a61db495281e4
+retrieved: 2011-11-24
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,9 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 17-08-2011
-
-> Nota: Las reformas y adiciones al artículo 94, párrafos séptimo, octavo, noveno y décimo; a los artículos 103 y 104; y al artículo 107, párrafo inicial; fracciones I y II; inciso a) de la fracción III; fracciones IV, V, VI y VII; inciso a) de la fracción VIII; fracciones IX, X, XI, XIII, XVI y XVII y la fracción XIV derogada, publicadas en el Diario Oficial de la Federación el 6 de junio de 2011, entrarán en vigor el 4 de octubre del mismo año.
+Última reforma publicada DOF 13-10-2011
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -148,19 +146,23 @@ El varón y la mujer son iguales ante la ley. Esta protegerá la organización y
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
 
+Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad. El Estado lo garantizará.
+
 Toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud y establecerá la concurrencia de la Federación y las entidades federativas en materia de salubridad general, conforme a lo que dispone la fracción XVI del artículo 73 de esta Constitución.
 
 Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar.
 
 Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
-Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral.
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
 
-Los ascendientes, tutores y custodios tienen el deber de preservar estos derechos. El Estado proveerá lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos.
+Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
 
 El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
 
 Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
 
 ##### Artículo 5o.
 
@@ -631,6 +633,8 @@ Son de jurisdicción federal todas las cuestiones que por límites de terrenos e
 La ley establecerá un órgano para la procuración de justicia agraria, y
 
 XX. El Estado promoverá las condiciones para el desarrollo rural integral, con el propósito de generar empleo y garantizar a la población campesina el bienestar y su participación e incorporación en el desarrollo nacional, y fomentará la actividad agropecuaria y forestal para el óptimo uso de la tierra, con obras de infraestructura, insumos, créditos, servicios de capacitación y asistencia técnica. Asimismo expedirá la legislación reglamentaria para planear y organizar la producción agropecuaria, su industrialización y comercialización, considerándolas de interés público.
+
+El desarrollo rural integral y sustentable a que se refiere el párrafo anterior, también tendrá entre sus fines que el Estado garantice el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
 
 ##### Artículo 28.
 
@@ -1310,7 +1314,7 @@ XXIX-H. Para expedir leyes que instituyan tribunales de lo contencioso-administr
 
 XXIX-I. Para expedir leyes que establezcan las bases sobre las cuales la Federación, los estados, el Distrito Federal y los municipios, coordinarán sus acciones en materia de protección civil, y
 
-XXIX-J. Para legislar en materia de deporte, estableciendo las bases generales de coordinación de la facultad concurrente entre la Federación, los estados, el Distrito Federal y municipios; asimismo de la participación de los sectores social y privado, y
+XXIX-J. Para legislar en materia de cultura física y deporte con objeto de cumplir lo previsto en el artículo 4o. de esta Constitución, estableciendo la concurrencia entre la Federación, los Estados, el Distrito Federal y los municipios; así como de la participación de los sectores social y privado;
 
 XXIX-K. Para expedir leyes en materia de turismo, estableciendo las bases generales de coordinación de las facultades concurrentes entre la Federación, Estados, Municipios y el Distrito Federal, así como la participación de los sectores social y privado.
 
@@ -1323,6 +1327,8 @@ XXIX-N. Para expedir leyes en materia de constitución, organización, funcionam
 XXIX-Ñ. Para expedir leyes que establezcan las bases sobre las cuales la Federación, los Estados, los Municipios y el Distrito Federal coordinarán sus acciones en materia de cultura, salvo lo dispuesto en la fracción XXV de este artículo. Asimismo, establecerán los mecanismos de participación de los sectores social y privado, con objeto de cumplir los fines previstos en el párrafo noveno del artículo 4o. de esta Constitución.
 
 XXIX-O. Para legislar en materia de protección de datos personales en posesión de particulares.
+
+XXIX-P. Expedir leyes que establezcan la concurrencia de la Federación, los Estados, el Distrito Federal y los Municipios, en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos y cumpliendo con los tratados internacionales de la materia, de los que México sea parte.
 
 XXX. Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
 
@@ -4173,3 +4179,53 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 25 de mayo de 2011.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Dip. Arturo Zamora Jiménez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de agosto de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se adiciona un párrafo décimo al artículo 4o. y se reforma la fracción XXIX-J del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 12 de octubre de 2011*
+
+**ARTÍCULO ÚNICO.** Se adiciona un párrafo décimo al artículo 4o. y se reforma la fracción XXIX-J del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**Primero.** El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** En el plazo de un año, a partir de la publicación del presente Decreto, el Congreso de la Unión expedirá la legislación general reglamentaria del artículo cuarto constitucional en materia de cultura física y deporte
+
+México, D.F., a 10 de agosto de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Arturo Zamora Jiménez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de octubre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforman los párrafos sexto y séptimo del artículo 4o. y se adiciona la fracción XXIX-P al artículo 73, de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 12 de octubre de 2011*
+
+**Artículo Único.** Se reforman los párrafos sexto y séptimo del artículo 4o. y se adiciona la fracción XXIX-P al artículo 73, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 24 de agosto de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Claudia Ruiz Massieu Salinas, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de octubre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se adiciona un párrafo tercero al artículo 4o. recorriéndose en el orden los subsecuentes y un segundo párrafo a la fracción XX del artículo 27 ambos de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 13 de octubre de 2011*
+
+**ARTÍCULO ÚNICO.-** Se adiciona un párrafo tercero al artículo 4o., recorriéndose en el orden los subsecuentes, y un segundo párrafo a la fracción XX del artículo 27 ambos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 17 de agosto de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Juan Carlos López Fernández, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de octubre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
