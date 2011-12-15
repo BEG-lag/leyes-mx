@@ -3,12 +3,12 @@ title: Ley General de Sociedades Mercantiles
 abbreviation: LGSM
 slug: lgsm
 published_dof: 1934-08-04
-last_reform_dof: 2009-06-02
+last_reform_dof: 2011-12-15
 articles: 266
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/144.doc
-archived: https://web.archive.org/web/20110911083408/http://www.diputados.gob.mx:80/LeyesBiblio/doc/144.doc
-source_sha256: 5eb920a7ce2431d0c3fc3fe1039ec36280940b3930a47876158c5671fef6faa6
-retrieved: 2011-09-11
+archived: https://web.archive.org/web/20130626031427/http://www.diputados.gob.mx/LeyesBiblio/doc/144.doc
+source_sha256: 635fd2db0383ae1f289abacb290e56ceae46a81926b40d5b52c78acc286ab45c
+retrieved: 2013-06-26
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 4 de agosto de 193
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 02-06-2009
+Última reforma publicada DOF 15-12-2011
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -88,7 +88,7 @@ II.- El objeto de la sociedad;
 
 III.- Su razón social o denominación;
 
-IV.- Su duración;
+IV.- Su duración, misma que podrá ser indefinida;
 
 V.- El importe del capital social;
 
@@ -406,7 +406,7 @@ Ninguna sociedad de responsabilidad limitada tendrá más de cincuenta socios.
 
 #### Artículo 62.
 
-El capital social nunca será inferior a tres millones de pesos; se dividirá en partes sociales que podrán ser de valor y categoría desiguales, pero que en todo caso serán de mil pesos o de un múltiplo de esta cantidad.
+El capital social será el que se establezca en el contrato social; se dividirá en partes sociales que podrán ser de valor y categoría desiguales, pero que en todo caso serán de un múltiplo de un peso.
 
 #### Artículo 63.
 
@@ -562,7 +562,7 @@ Para proceder a la constitución de una sociedad anónima se requiere:
 
 I.- Que haya dos socios como mínimo, y que cada uno de ellos suscriba una acción por lo menos;
 
-II. Que el capital social no sea menor de cincuenta mil pesos y que esté íntegramente suscrito;
+II.- Que el contrato social establezca el monto mínimo del capital social y que esté íntegramente suscrito;
 
 III.- Que se exhiba en dinero efectivo, cuando menos el veinte por ciento del valor de cada acción pagadera en numerario, y
 
@@ -1749,3 +1749,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 30 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera, de la Ley General de Sociedades Mercantiles, de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Derechos, de la Ley Federal de Procedimiento Administrativo y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
+
+*Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011*
+
+**ARTÍCULO SEGUNDO.-** Se reforman los artículos 6o, fracción IV; 62, y 89 fracciones II de la Ley General de Sociedades Mercantiles, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
+
+**SEGUNDO.-** Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 26 de octubre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de diciembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
