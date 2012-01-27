@@ -3,12 +3,12 @@ title: Ley Federal del Derecho de Autor
 abbreviation: LFDA
 slug: lfda
 published_dof: 1996-12-24
-last_reform_dof: 2003-07-23
+last_reform_dof: 2012-01-27
 articles: 244
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/122.doc
-archived: https://web.archive.org/web/20110815150422/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122.doc
-source_sha256: e2527bbfdc3590fe2daabd1906177b97dd78c78df2c28c3914bc49b69eda5ab7
-retrieved: 2011-08-15
+archived: https://web.archive.org/web/20120511152327/http://www.diputados.gob.mx/LeyesBiblio/doc/122.doc
+source_sha256: 816792489915a17d58c9cb7d89ab7c707eaeb13785aba3419f88babf2ad98997
+retrieved: 2012-05-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfda.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 23-07-2003
+Última reforma publicada DOF 27-01-2012
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1896,9 +1896,13 @@ X. Las demás infracciones a las disposiciones de la Ley que impliquen conducta 
 
 #### Artículo 232.
 
-Las infracciones en materia de comercio previstos en la presente Ley serán sancionados por el Instituto Mexicano de la Propiedad Industrial con multa:
+Las infracciones en materia de comercio previstas en la presente Ley serán sancionadas por el Instituto Mexicano de la Propiedad Industrial con multa:
 
-I. De cinco mil hasta diez mil días de salario mínimo en los casos previstos en las fracciones I, III, IV, V, VII, VIII y IX del artículo anterior;
+*Párrafo reformado DOF 27-01-2012*
+
+I. De cinco mil hasta cuarenta mil días de salario mínimo en los casos previstos en las fracciones I, III, IV, V, VII, VIII y IX del artículo anterior,
+
+*Fracción reformada DOF 27-01-2012*
 
 II. De mil hasta cinco mil días de salario mínimo en los casos previstos en las fracciones II y VI del artículo anterior, y
 
@@ -1999,3 +2003,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 30 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Lydia Madero García, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de julio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones de la Ley de la Propiedad Industrial y el artículo 232 de la Ley Federal del Derecho de Autor.
+
+*Publicado en el Diario Oficial de la Federación el 27 de enero de 2012*
+
+**Artículo Segundo.** Se reforma la fracción I del artículo 232 de la Ley Federal del Derecho de Autor, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 14 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 18 de enero de 2012.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
