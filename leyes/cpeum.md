@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2011-10-13
+last_reform_dof: 2012-02-09
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
-archived: https://web.archive.org/web/20111124221542/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1.doc
-source_sha256: 01a99e41a0c5a5294c3359c37217cbb1a43948a5f3715f70663a61db495281e4
-retrieved: 2011-11-24
+archived: https://web.archive.org/web/20120511145537/http://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
+source_sha256: 0c9a6e2cae9ba54249a680e48a004d6f363f5f2ffa91b54f458f548f65313425
+retrieved: 2012-05-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 13-10-2011
+Última reforma publicada DOF 09-02-2012
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -106,7 +106,7 @@ Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus 
 
 ##### Artículo 3o.
 
-Todo individuo tiene derecho a recibir educación. El Estado -federación, estados, Distrito Federal y municipios-, impartirá educación preescolar, primaria y secundaria. La educación preescolar, primaria y la secundaria conforman la educación básica obligatoria.
+Todo individuo tiene derecho a recibir educación. El Estado –Federación, Estados, Distrito Federal y Municipios–, impartirá educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias.
 
 La educación que imparta el Estado tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
@@ -120,13 +120,13 @@ a) Será democrático, considerando a la democracia no solamente como una estruc
 
 b) Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
 
-c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
+c) Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 
 III. Para dar pleno cumplimiento a lo dispuesto en el segundo párrafo y en la fracción II, el Ejecutivo Federal determinará los planes y programas de estudio de la educación preescolar, primaria, secundaria y normal para toda la República. Para tales efectos, el Ejecutivo Federal considerará la opinión de los gobiernos de las entidades federativas y del Distrito Federal, así como de los diversos sectores sociales involucrados en la educación, en los términos que la ley señale.
 
 IV. Toda la educación que el Estado imparta será gratuita;
 
-V. Además de impartir la educación preescolar, primaria y secundaria señaladas en el primer párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos -incluyendo la educación inicial y a la educación superior- necesarios para el desarrollo de la nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura.
+V. Además de impartir la educación preescolar, primaria, secundaria y media superior, señaladas en el primer párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos –incluyendo la educación inicial y a la educación superior– necesarios para el desarrollo de la nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura;
 
 VI. Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación preescolar, primaria, secundaria y normal, los particulares deberán:
 
@@ -140,7 +140,7 @@ VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación
 
 ##### Artículo 4o.
 
-(Se deroga el párrafo primero)
+(Se deroga el anterior párrafo primero)
 
 El varón y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
 
@@ -150,7 +150,9 @@ Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad
 
 Toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud y establecerá la concurrencia de la Federación y las entidades federativas en materia de salubridad general, conforme a lo que dispone la fracción XVI del artículo 73 de esta Constitución.
 
-Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar.
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
+
+Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, las entidades federativas y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
 Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
@@ -700,7 +702,7 @@ II. La mujer o el varón extranjeros que contraigan matrimonio con varón o con 
 
 Son obligaciones de los mexicanos:
 
-I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria y secundaria, y reciban la militar, en los términos que establezca la ley.
+I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria, secundaria, media superior y reciban la militar, en los términos que establezca la ley.
 
 II. Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas, y conocedores de la disciplina militar.
 
@@ -4229,3 +4231,49 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 17 de agosto de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Juan Carlos López Fernández, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de octubre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se Declara reformado el párrafo quinto y se adiciona un párrafo sexto recorriéndose en su orden los subsecuentes, al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 8 de febrero de 2012*
+
+**Artículo Único.-** Se reforma el párrafo quinto y se adiciona un párrafo sexto recorriéndose en su orden los subsecuentes, al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión, contará con un plazo de 180 días para incorporar las disposiciones relativas al derecho a un medio ambiente sano y las responsabilidades por el daño y deterioro ambiental.
+
+**Tercero.-** El Congreso de la Unión, contará con un plazo de 360 días para emitir una Ley General de Aguas.
+
+México, D.F., a 18 de enero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Dip. Rigoberto Salgado Vázquez, Secretario.- Sen Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de febrero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se declara reformado el párrafo primero; el inciso c) de la fracción II y la fracción V del artículo 3o., y la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 9 de febrero de 2012*
+
+**Artículo Primero.** Se reforman el párrafo primero; el inciso c) de la fracción II y la fracción V del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**Artículo Segundo.** Se reforma la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**ARTÍCULOS TRANSITORIOS**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La obligatoriedad del Estado de garantizar la educación media superior, como deber del mismo de ofrecer un lugar para cursarla a quien teniendo la edad típica hubiera concluido la educación básica, se realizará de manera gradual y creciente a partir del ciclo escolar 2012-2013 y hasta lograr la cobertura total en sus diversas modalidades en el país a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y de las entidades federativas, y en los términos establecidos en los instrumentos del Sistema Nacional y los Sistemas Estatales de Planeación Democrática del Desarrollo.
+
+**Tercero.** Para dar cumplimiento al principio de obligatoriedad, en los presupuestos federal, de las entidades federativas y de los municipios, se incluirán los recursos necesarios; asimismo, se establecerán los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
+
+**Cuarto.** Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión y las legislaturas de los estados, deberán adecuar en el ámbito de sus respectivas competencias, la Ley General de Educación y demás disposiciones legales aplicables en la materia.
+
+México, D.F., a 11 de enero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Dip. Francisco Alejandro Moreno Merino, Secretario.- Sen. Luis Alberto Villarreal García, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a ocho de febrero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
