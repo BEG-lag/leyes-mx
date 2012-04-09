@@ -3,12 +3,12 @@ title: Ley Federal del Trabajo
 abbreviation: LFT
 slug: lft
 published_dof: 1970-04-01
-last_reform_dof: 2006-01-17
+last_reform_dof: 2012-04-09
 articles: 1073
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/125.doc
-archived: https://web.archive.org/web/20100820164132/http://www.diputados.gob.mx:80/LeyesBiblio/doc/125.doc
-source_sha256: 0ce896596ecf43d6b0054dd34f1219ebc9228494e475fcd688c2d3e539b1466c
-retrieved: 2010-08-20
+archived: https://web.archive.org/web/20120511152609/http://www.diputados.gob.mx/LeyesBiblio/doc/125.doc
+source_sha256: d6ef2f607cf53c5a343877dab1cb58e7420d1a60e9d25ff5da69dc17679d9d28
+retrieved: 2012-05-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de abril de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 17-01-2006
+Última reforma publicada DOF 09-04-2012
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -924,7 +924,7 @@ IV. Las instituciones de asistencia privada, reconocidas por las leyes, que con 
 
 V. El Instituto Mexicano del Seguro Social y las instituciones públicas descentralizadas con fines culturales, asistenciales o de beneficencia; y
 
-VI. Las empresas que tengan un capital menor del que fije la Secretaría del Trabajo y Previsión Social por ramas de la industria, previa consulta con la Secretaría de Industria y Comercio. La resolución podrá revisarse total o parcialmente, cuando existan circunstancias económicas importantes que lo justifiquen.
+VI. Las empresas que tengan un capital menor del que fije la Secretaría del Trabajo y Previsión Social por ramas de la industria, previa consulta con la Secretaría de Economía. La resolución podrá revisarse total o parcialmente, cuando existan circunstancias económicas importantes que lo justifiquen.
 
 ##### Artículo 127.
 
@@ -3300,7 +3300,7 @@ Pueden solicitar la celebración de un contrato-ley los sindicatos que represent
 
 ##### Artículo 407.
 
-La solicitud se presentará a la Secretaría del Trabajo y Previsión Social, si se refiere a dos o más Entidades Federativas o a industrias de jurisdicción federal, o al Gobernador del Estado o Territorio o Jefe del Departamento del Distrito Federal, si se trata de industrias de jurisdicción local.
+La solicitud se presentará a la Secretaría del Trabajo y Previsión Social, si se refiere a dos o más Entidades Federativas o a industrias de jurisdicción federal, o al Gobernador del Estado o Territorio o al Jefe de Gobierno del Distrito Federal, si se trata de industrias de jurisdicción local.
 
 ##### Artículo 408.
 
@@ -3308,7 +3308,7 @@ Los solicitantes justificarán que satisfacen el requisito de mayoría mencionad
 
 ##### Artículo 409.
 
-La Secretaría del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe del Departamento del Distrito Federal, después de verificar el requisito de mayoría, si a su juicio es oportuna y benéfica para la industria la celebración del contrato-ley, convocará a una convención a los sindicatos de trabajadores y a los patrones que puedan resultar afectados.
+La Secretaría del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe del Gobierno del Distrito Federal, después de verificar el requisito de mayoría, si a su juicio es oportuna y benéfica para la industria la celebración del contrato-ley, convocará a una convención a los sindicatos de trabajadores y a los patrones que puedan resultar afectados.
 
 ##### Artículo 410.
 
@@ -3316,7 +3316,7 @@ La convocatoria se publicará en el Diario Oficial de la Federación o en el per
 
 ##### Artículo 411.
 
-La convención será presidida por el Secretario del Trabajo y Previsión Social, o por el Gobernador del Estado o Territorio o por el Jefe del Departamento del Distrito Federal, o por el representante que al efecto designen.
+La convención será presidida por el Secretario del Trabajo y Previsión Social, o por el Gobernador del Estado o Territorio o por el Jefe del Gobierno del Distrito Federal, o por el representante que al efecto designen.
 
 La convención formulará su reglamento e integrará las comisiones que juzgue conveniente.
 
@@ -3350,7 +3350,7 @@ Aprobado el convenio en los términos del párrafo anterior, el Presidente de la
 
 Si el contrato colectivo ha sido celebrado por una mayoría de dos terceras partes de los trabajadores sindicalizados de determinada rama de la industria, en una o varias Entidades Federativas, en una o varias zonas económicas, o en todo el territorio nacional, podrá ser elevado a la categoría de contrato-ley, previo cumplimiento de los requisitos siguientes:
 
-I. La solicitud deberá presentarse por los sindicatos de trabajadores o por los patrones ante la Secretaría del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe del Departamento del Distrito Federal, de conformidad con lo dispuesto en el artículo 407;
+I. La solicitud deberá presentarse por los sindicatos de trabajadores o por los patrones ante la Secretaría del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe de Gobierno del Distrito Federal, de conformidad con lo dispuesto en el artículo 407;
 
 II. Los sindicatos de trabajadores y los patrones comprobarán que satisfacen el requisito de mayoría señalado en el artículo 406;
 
@@ -3384,11 +3384,11 @@ En la revisión del contrato-ley se observarán las normas siguientes:
 
 I. Podrán solicitar la revisión los sindicatos de trabajadores o los patrones que representen las mayorías señaladas en el artículo 406;
 
-II. La solicitud se presentará a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o Territorio o al Jefe del Departamento del Distrito Federal, noventa días antes del vencimiento del contrato-ley, por lo menos;
+II. La solicitud se presentará a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o Territorio o al Jefe de Gobierno del Distrito Federal, noventa días antes del vencimiento del contrato-ley, por lo menos;
 
 III. La autoridad que reciba la solicitud, después de verificar el requisito de mayoría, convocará a los sindicatos de trabajadores y a los patrones afectados a una convención, que se regirá por lo dispuesto en el artículo 411; y
 
-IV. Si los sindicatos de trabajadores y los patrones llegan a un convenio, la Secretaría del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe del Departamento del Distrito Federal, ordenará su publicación en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa. Las reformas surtirán efectos a partir del día de su publicación, salvo que la convención señale una fecha distinta.
+IV. Si los sindicatos de trabajadores y los patrones llegan a un convenio, la Secretaría del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe de Gobierno del Distrito Federal, ordenará su publicación en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa. Las reformas surtirán efectos a partir del día de su publicación, salvo que la convención señale una fecha distinta.
 
 ##### Artículo 419 Bis.
 
@@ -4062,7 +4062,7 @@ Cuando la Secretaría del Trabajo determine la clausura parcial o total, lo noti
 
 ##### Artículo 512-E.
 
-La Secretaría del Trabajo y Previsión Social establecerá la coordinación necesaria con la Secretaría de Salubridad y Asistencia y con el Instituto Mexicano del Seguro Social para la elaboración de programas y el desarrollo de campañas tendientes a prevenir accidentes y enfermedades de trabajo.
+La Secretaría del Trabajo y Previsión Social establecerá la coordinación necesaria con la Secretaría de Salud y con el Instituto Mexicano del Seguro Social para la elaboración de programas y el desarrollo de campañas tendientes a prevenir accidentes y enfermedades de trabajo.
 
 ##### Artículo 512-F.
 
@@ -6038,7 +6038,7 @@ III. Proponer a las partes interesadas soluciones amistosas para el arreglo de s
 
 ##### Artículo 531.
 
-La procuraduría de la Defensa del Trabajo se integrará con un Procurador General y con el número de Procuradores Auxiliares que se juzgue necesario para la defensa de los intereses de los trabajadores. Los nombramientos se harán por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe del Departamento del Distrito Federal.
+La Procuraduría de la Defensa del Trabajo se integrará con un Procurador General y con el número de Procuradores Auxiliares que se juzgue necesario para la defensa de los intereses de los trabajadores. Los nombramientos se harán por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe de Gobierno del Distrito Federal.
 
 ##### Artículo 532.
 
@@ -6154,7 +6154,7 @@ b) En general, realizar todas aquéllas que las leyes y reglamentos confieran a 
 
 Para el cumplimiento de sus funciones en relación con las empresas o establecimientos que pertenezcan a ramas industriales o actividades de jurisdicción federal, la Secretaría del Trabajo y Previsión Social será asesorada por un Consejo Consultivo integrado por representantes del Sector Público, de las organizaciones nacionales de trabajadores y de las organizaciones nacionales de patrones, a razón de cinco miembros por cada uno de ellos con sus respectivos suplentes.
 
-Por el Sector Público participarán sendos representantes de la Secretaría del Trabajo y Previsión Social; de la Secretaría de Educación Pública; de la Secretaría de Comercio y Fomento Industrial; de la Secretaría de Energía, Minas e Industria Paraestatal y del Instituto Mexicano del Seguro Social.
+Por el Sector Público participarán sendos representantes de la Secretaría del Trabajo y Previsión Social; de la Secretaría de Educación Pública; de la Secretaría de Economía, de la Secretaría de Energía, y del Instituto Mexicano del Seguro Social.
 
 Los representantes de las organizaciones obreras y de las patronales, serán designados conforme a las bases que expida la Secretaría del Trabajo y Previsión Social.
 
@@ -6308,7 +6308,7 @@ I. El Director General practicará una investigación con audiencia del interesa
 
 II. El Director General podrá imponer las sanciones señaladas en el artículo anterior, fracciones I y II; y
 
-III. Cuando a juicio del Director General la sanción aplicable sea la destitución, dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o Territorio o al Jefe del Departamento del Distrito Federal, para su decisión.
+III. Cuando a juicio del Director General la sanción aplicable sea la destitución, dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o Territorio o al Jefe de Gobierno del Distrito Federal, para su decisión.
 
 ##### Artículo 550.
 
@@ -7100,11 +7100,11 @@ Las Juntas Locales de Conciliación y Arbitraje funcionarán en cada una de las 
 
 ##### Artículo 622.
 
-El Gobernador del Estado o el Jefe del Departamento del Distrito Federal, cuando lo requieran las necesidades del trabajo y del capital, podrá establecer una o más Juntas de Conciliación y Arbitraje fijando el lugar de su residencia y su competencia territorial.
+El Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, cuando lo requieran las necesidades del trabajo y del capital, podrá establecer una o más Juntas de Conciliación y Arbitraje fijando el lugar de su residencia y su competencia territorial.
 
 ##### Artículo 623.
 
-La integración y funcionamiento de las Juntas Locales de Conciliación y Arbitraje se regirán por las disposiciones contenidas en el capítulo anterior. Las facultades del Presidente de la República y del Secretario del Trabajo y Previsión Social se ejercerán por los Gobernadores de los Estados y en el caso del Distrito Federal, por el propio Presidente de la República y por el Jefe del Departamento del Distrito Federal, respectivamente.
+La integración y funcionamiento de las Juntas Locales de Conciliación y Arbitraje se regirán por las disposiciones contenidas en el capítulo anterior. Las facultades del Presidente de la República y del Secretario del Trabajo y Previsión Social se ejercerán por los Gobernadores de los Estados y en el caso del Distrito Federal, por el propio Presidente de la República y por el Jefe de Gobierno del Distrito Federal, respectivamente.
 
 ##### Artículo 624.
 
@@ -7118,7 +7118,7 @@ Personal Jurídico de las Juntas de Conciliación y Arbitraje
 
 El personal de las Juntas de Conciliación y Arbitraje se compondrá de Actuarios, Secretarios, Auxiliares, Secretarios Generales y Presidentes de Junta Especial.
 
-La Secretaría del Trabajo y Previsión Social, los Gobernadores de las Entidades Federativas y el Jefe del Departamento del Distrito Federal, determinarán el número de personas de que deba componerse cada Junta.
+La Secretaría del Trabajo y Previsión Social, los Gobernadores de las Entidades Federativas y el Jefe de Gobierno del Distrito Federal, determinarán el número de personas de que deba componerse cada Junta.
 
 ##### Artículo 626.
 
@@ -7176,7 +7176,7 @@ Los Actuarios, Secretarios, Auxiliares y Presidentes de las Juntas Especiales no
 
 ##### Artículo 633.
 
-Los Presidentes de las Juntas Especiales serán nombrados cada seis años por el Secretario del Trabajo y Previsión Social, por el Gobernador del Estado o por el Jefe del Departamento del Distrito Federal.
+Los Presidentes de las Juntas Especiales serán nombrados cada seis años por el Secretario del Trabajo y Previsión Social, por el Gobernador de Estado o por el Jefe de Gobierno del Distrito Federal.
 
 ##### Artículo 634.
 
@@ -7196,7 +7196,7 @@ En la imposición de las sanciones a que se refiere el artículo anterior se obs
 
 I. El Presidente de la Junta practicará una investigación con audiencia del interesado, e impondrá la sanción que corresponda a los Actuarios, Secretarios y Auxiliares; y
 
-II. Cuando se trate de los Presidentes de las Juntas Especiales, el Presidente de la Junta dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe del Departamento del Distrito Federal, quienes, después de oir al interesado, dictarán la resolución correspondiente.
+II. Cuando se trate de los Presidentes de las Juntas Especiales, el Presidente de la Junta dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe de Gobierno del Distrito Federal, quienes, después de oír al interesado, dictarán la resolución correspondiente.
 
 ##### Artículo 638.
 
@@ -7338,7 +7338,7 @@ Se celebrarán tantas convenciones como Juntas Especiales deban funcionar en la 
 
 ##### Artículo 650.
 
-El día primero de octubre del año par que corresponda, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe del Departamento del Distrito Federal, publicarán en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa y en uno de los periódicos de mayor circulación, la convocatoria para la elección de representantes.
+El día primero de octubre del año par que corresponda, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, publicarán en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa y en uno de los periódicos de mayor circulación, la convocatoria para la elección de representantes.
 
 ##### Artículo 651.
 
@@ -7412,7 +7412,7 @@ III. Nombres del patrón o patrones, domicilio y rama de la industria o activida
 
 ##### Artículo 656.
 
-Los padrones se presentarán a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe del Departamento del Distrito Federal, el día 20 de octubre del año de la Convocatoria a más tardar.
+Los padrones se presentarán a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe de Gobierno del Distrito Federal, el día 20 de octubre del año de la Convocatoria a más tardar.
 
 ##### Artículo 657.
 
@@ -7440,7 +7440,7 @@ III. Las convenciones funcionarán con el número de delegados y patrones indepe
 
 IV. Los delegados y los patrones independientes, tendrán en las convenciones un número de votos igual al de los trabajadores que aparezca certificado en sus credenciales;
 
-V. Las convenciones serán instaladas por el Secretario del Trabajo y Previsión Social, por el Gobernador del Estado o por el Jefe del Departamento del Distrito Federal o por la persona que éstos designen;
+V. Las convenciones serán instaladas por el Secretario del Trabajo y Previsión Social, por el Gobernador del Estado o por el Jefe de Gobierno del Distrito Federal o por la persona que éstos designen;
 
 VI. Instalada la convención, se procederá al registro de credenciales y a la elección de la mesa directiva, que se integrará con un Presidente, dos Secretarios y dos Vocales. Tomarán parte en la elección, con el número de votos que les corresponda, los delegados y los patrones independientes cuyas credenciales hubiesen quedado registradas. El cómputo se hará por dos de las personas asistentes, designadas especialmente;
 
@@ -7448,11 +7448,11 @@ VII. Instalada la Mesa Directiva, se procederá a la revisión de las credencial
 
 VIII. Aprobadas las credenciales se procederá a la elección de los representantes, por mayoría de votos. Por cada propietario se elegirá un suplente; y
 
-IX. Concluida la elección, se levantará un acta; un ejemplar se depositará en el archivo de la Junta, otro se remitirá a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o Territorios o al Jefe del Departamento del Distrito Federal, y dos se entregarán a los representantes electos, propietario o suplente, a fin de que les sirvan de credencial.
+IX. Concluida la elección, se levantará un acta; un ejemplar se depositará en el archivo de la Junta, otro se remitirá a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o Territorios o al Jefe de Gobierno del Distrito Federal, y dos se entregarán a los representantes electos, propietario o suplente, a fin de que les sirvan de credencial.
 
 ##### Artículo 661.
 
-Si ningún delegado o patrón independiente concurre a la convención o ésta no hace la elección de representantes el día cinco de diciembre, se entenderá que los interesados delegan la facultad en el Secretario del Trabajo y Previsión Social, en el Gobernador del Estado o en el Jefe del Departamento del Distrito Federal.
+Si ningún delegado o patrón independiente concurre a la convención o ésta no hace la elección de representantes el día cinco de diciembre, se entenderá que los interesados delegan la facultad en el Secretario del Trabajo y Previsión Social, en el Gobernador del Estado o en el Jefe de Gobierno del Distrito Federal.
 
 ##### Artículo 662.
 
@@ -7460,7 +7460,7 @@ Los representantes electos, provistos de sus credenciales, se presentarán desde
 
 ##### Artículo 663.
 
-El primer día hábil del mes de enero siguiente, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe del Departamento del Distrito Federal, tomarán a los representantes electos la protesta legal y después de exhortarlos para que administren una justicia pronta y expedita, declararán constituída la Junta Federal o Local de Conciliación y Arbitraje y la de Conciliación Permanente.
+El primer día hábil del mes de enero siguiente, el Secretario del Trabajo y Previsión Social, El Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, tomarán a los representantes electos la protesta legal y después de exhortarlos para que administren una justicia pronta y expedita, declararán constituida la Junta Federal o Local de Conciliación y Arbitraje y la de Conciliación Permanente.
 
 ##### Artículo 664.
 
@@ -7494,7 +7494,7 @@ Los representantes de los trabajadores y de los patrones durarán en su encargo 
 
 ##### Artículo 668.
 
-El Secretario del Trabajo y Previsión Social, los Gobernadores de los Estados y el Jefe del Departamento del Distrito Federal, conocerán de las renuncias de los representantes, aceptándolas o desechándolas, previa calificación de la causa.
+El Secretario del Trabajo y Previsión Social, los Gobernadores de los Estados y el Jefe de Gobierno del Distrito Federal, conocerán de las renuncias de los representantes, aceptándolas o desechándolas, previa calificación de la causa.
 
 ##### Artículo 669.
 
@@ -7502,7 +7502,7 @@ El cargo de representante es revocable de conformidad con las normas siguientes:
 
 I. Podrán solicitar la revocación las dos terceras partes de los trabajadores de las ramas de la industria o actividades representadas en la Junta Especial o los patrones que tengan a su servicio dicha mayoría de trabajadores;
 
-II. La solicitud se presentará al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe del Departamento del Distrito Federal;
+II. La solicitud se presentará al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe de Gobierno del Distrito Federal;
 
 III. La autoridad que reciba la solicitud, después de verificar el requisito de la mayoría, hará la declaratoria correspondiente y llamará al suplente, a fin de que rinda la protesta legal; y
 
@@ -7510,7 +7510,7 @@ IV. A falta de suplente o cuando la revocación del nombramiento le afecte, al h
 
 ##### Artículo 670.
 
-Las faltas temporales o definitivas de los representantes serán cubiertas por los suplentes. A falta de éstos o si llamados por el Presidente de la Junta no se presentan dentro de los diez días siguientes al requerimiento, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe del Departamento del Distrito Federal, hará la designación del substituto, que deberá recaer en un trabajador o patrón.
+Las faltas temporales o definitivas de los representantes serán cubiertas por los suplentes. A falta de éstos o si llamados por el Presidente de la Junta no se presentan dentro de los diez días siguientes al requerimiento, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, hará la designación del substituto, que deberá recaer en un trabajador o patrón.
 
 ##### Artículo 671.
 
@@ -7562,7 +7562,7 @@ III. La negativa a votar tres resoluciones o la comisión de cinco faltas distin
 
 Las sanciones a los representantes de los trabajadores y de los patrones se impondrán por el Jurado de Responsabilidades de los Representantes, que se integrará:
 
-I. Con un representante del Secretario del Trabajo y Previsión Social, del Gobernador del Estado o del Jefe del Departamento del Distrito Federal; y
+I. Con un representante del Secretario del Trabajo y Previsión Social, del Gobernador del Estado o del Jefe de Gobierno del Distrito Federal, y
 
 II. Con un representante propietario de los trabajadores y otro de los patrones, y sus respectivos suplentes, elegidos cada seis años en las convenciones a que se refiere este capítulo.
 
@@ -7844,7 +7844,7 @@ I. Las instruirán y decidirán:
 
 a) El Presidente de la Junta, cuando se trate del Presidente de una Junta Especial o de la de Conciliación, del Auxiliar o del Representante de los Trabajadores o de los Patrones.
 
-b) El Secretario del Trabajo y Previsión Social, tratándose del Presidente de la Junta Federal y el Gobernador del Estado o el Jefe del Departamento del Distrito Federal, cuando se trate del Presidente de la Junta Local.
+b) El Secretario del Trabajo y Previsión Social, tratándose del Presidente de la Junta Federal y el Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, cuando se trate del Presidente de la Junta Local.
 
 II. La excusa se deberá promover por escrito y bajo protesta de decir verdad, ante las autoridades señaladas en la fracción anterior, dentro de las 48 horas siguientes a la en que se tenga conocimiento del impedimento. Al solicitarse se acompañarán las pruebas que lo justifiquen;
 
@@ -8738,7 +8738,7 @@ II. Si se trata de laudo:
 
 a) Si después del requerimiento insisten en su negativa, quedarán excluidos del conocimiento del negocio y el Presidente de la Junta o de la Junta Especial, llamará a los suplentes.
 
-b) Si los suplentes no se presentan a la Junta dentro del término que se les señale, que no podrá ser mayor de tres días, o se niegan a votar el laudo, el Presidente de la Junta o de la Junta Especial dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe del Departamento del Distrito Federal, para que designen las personas que los substituyan; en caso de empate, se entenderá que los ausentes sumarán su voto al del Presidente.
+b) Si los suplentes no se presentan a la Junta dentro del término que se les señale, que no podrá ser mayor de tres días, o se niegan a votar el laudo, el Presidente de la Junta o de la Junta Especial dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe de Gobierno del Distrito Federal, para que designen las personas que los substituyan; en caso de empate, se entenderá que los ausentes sumarán su voto al del Presidente.
 
 ##### Artículo 846.
 
@@ -9942,7 +9942,7 @@ Las penas consignadas en el artículo anterior, se aplicarán sin perjuicio de l
 
 ##### Artículo 1008.
 
-Las sanciones administrativas de que trata este Capítulo serán impuestas, en su caso, por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe del Departamento del Distrito Federal, quienes podrán delegar el ejercicio de esta facultad en los funcionarios subordinados que estimen conveniente, mediante acuerdo que se publique en el periódico oficial que corresponda.
+Las sanciones administrativas de que trata este Capítulo serán impuestas, en su caso, por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe de Gobierno del Distrito Federal, quienes podrán delegar el ejercicio de esta facultad en los funcionarios subordinados que estimen conveniente, mediante acuerdo que se publique en el periódico oficial que corresponda.
 
 ##### Artículo 1009.
 
@@ -10045,3 +10045,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 15 de diciembre de 2005.- Dip. Heliodoro Díaz Escárraga, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Patricia Garduño Morales, Secretaria.- Sen. Micaela Aguilar González, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de enero de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+### DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
+
+*Publicado en el Diario Oficial de la Federación el 9 de abril de 2012*
+
+**ARTÍCULO CUADRÁGESIMO OCTAVO.** Se reforman los artículos 126, fracción VI; 407; 409; 411, primer párrafo; 415, fracción I; 419, fracciones II y IV; 512-E; 531; 539-A, segundo párrafo; 549, fracción III; 622; 623; 625, segundo párrafo; 633; 637, fracción II; 650; 656; 660, fracciones V y IX; 661; 663; 668; 669, fracción II; 670; 674, fracción I; 709, fracción I, inciso b); 845, fracción II, inciso b), y 1008; de la Ley Federal del Trabajo, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
