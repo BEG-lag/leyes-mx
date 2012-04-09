@@ -3,12 +3,12 @@ title: Ley Agraria
 abbreviation: LAgra
 slug: lagra
 published_dof: 1992-02-26
-last_reform_dof: 2011-06-22
+last_reform_dof: 2012-04-09
 articles: 200
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc
-archived: https://web.archive.org/web/20110911082124/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13.doc
-source_sha256: eb4f7349dd6789d34f8ba96d651c570b96090a946e8e801caaf90078f7db7872
-retrieved: 2011-09-11
+archived: https://web.archive.org/web/20130626020227/http://www.diputados.gob.mx/LeyesBiblio/doc/13.doc
+source_sha256: 0114165771cd0c6ded3da2f1a1e7f42b5b25e8330831e1655af6b813d1d938a9
+retrieved: 2013-06-26
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lagra.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 26 de febrero de 1
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 22-06-2011
+Última reforma publicada DOF 09-04-2012
 
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -250,9 +250,13 @@ Previa liquidación de las obligaciones subsistentes del ejido, las tierras ejid
 
 ##### Artículo 30.
 
-Para la asistencia válida de un mandatario a una asamblea bastará una carta-poder debidamente suscrita ante dos testigos que sean ejidatarios o avecindados. En caso de que el ejidatario mandante no pueda firmar, imprimirá su huella digital en la carta y solicitará a un tercero que firme la misma y asiente el nombre de ambos.
+Para la asistencia válida de un mandatario a una asamblea bastará una carta-poder debidamente suscrita por el titular ante dos testigos que sean ejidatarios o avecindados del mismo núcleo al que pertenece el mandante. En caso de que el ejidatario mandante no pueda firmar, imprimirá su huella digital en la carta y solicitará a un tercero que firme la misma y asiente el nombre de ambos.
 
-En el caso de asambleas que se reúnan para tratar los asuntos señalados en las fracciones VII a XIV del Artículo 23 de esta Ley, el ejidatario no podrá designar mandatario.
+El mandatario sólo podrá representar a un ejidatario en la asamblea para la cual se le confirió el poder; debiendo quedar asentada en el acta de la asamblea, la participación del mandatario y el documento con el que se acreditó.
+
+En el caso de asambleas que se reúnan para tratar los asuntos señalados en las fracciones III, VII a XIV del artículo 23 de esta Ley, el ejidatario no podrá designar mandatario.
+
+*Artículo reformado DOF 17-01-2012*
 
 ##### Artículo 31.
 
@@ -488,7 +492,9 @@ Cuando el poblado ejidal esté asentado en tierras ejidales, la asamblea podrá 
 
 ##### Artículo 66.
 
-Para la localización, deslinde y fraccionamiento de la zona de urbanización y su reserva de crecimiento, se requerirá la intervención de las autoridades municipales correspondientes y se observarán las normas técnicas que emita la Secretaría de Desarrollo Urbano y Ecología.
+Para la localización, deslinde y fraccionamiento de la zona de urbanización y su reserva de crecimiento, se requerirá la intervención de las autoridades municipales correspondientes y se observarán las normas técnicas que emita la Secretaría de Medio Ambiente y Recursos Naturales.
+
+*Artículo reformado DOF 09-04-2012*
 
 ##### Artículo 67.
 
@@ -894,15 +900,19 @@ Se considera pequeña propiedad forestal la superficie de tierras forestales de 
 
 ##### Artículo 120.
 
-Se considera pequeña propiedad ganadera la superficie de tierras ganaderas que, de acuerdo con el coeficiente de agostadero ponderado de la región de que se trate no exceda de la necesaria para mantener hasta quinientas cabezas de ganado mayor o su equivalente en ganado menor, conforme a las equivalencias que determine y publique la Secretaría de Agricultura y Recursos Hidráulicos.
+Se considera pequeña propiedad ganadera la superficie de tierras ganaderas que, de acuerdo con el coeficiente de agostadero ponderado de la región de que se trate no exceda de la necesaria para mantener hasta quinientas cabezas de ganado mayor o su equivalente en ganado menor, conforme a las equivalencias que determine y publique la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
-El coeficiente de agostadero por regiones que determine la Secretaría de Agricultura y Recursos Hidráulicos se hará mediante estudios técnicos de campo tomando en cuenta la superficie que se requiere para alimentar una cabeza de ganado mayor o su equivalente en ganado menor, atendiendo los factores topográficos, climatológicos y pluviométricos que determinen la capacidad forrajera de la tierra de cada región.
+El coeficiente de agostadero por regiones que determine la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación se hará mediante estudios técnicos de campo tomando en cuenta la superficie que se requiere para alimentar una cabeza de ganado mayor o su equivalente en ganado menor, atendiendo los factores topográficos, climatológicos y pluviométricos que determinen la capacidad forrajera de la tierra de cada región.
+
+*Artículo reformado DOF 09-04-2012*
 
 ##### Artículo 121.
 
 La superficie de las tierras que a partir de su estado natural hubieren sido mejoradas con obras de riego, drenaje, nivelación o cualesquiera otras ejecutadas por sus dueños o poseedores, continuarán computándose conforme a la clase o coeficiente de agostadero anteriores a la mejora, según se trate de tierras agrícolas o ganaderas respectivamente.
 
-A solicitud del propietario o poseedor de un predio, la Secretaría de Agricultura y Recursos Hidráulicos expedirá certificados en los que conste la clase o coeficiente de agostadero de sus tierras. Dichos certificados harán prueba plena.
+A solicitud del propietario o poseedor de un predio, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación expedirá certificados en los que conste la clase o coeficiente de agostadero de sus tierras. Dichos certificados harán prueba plena.
+
+*Párrafo reformado DOF 09-04-2012*
 
 ##### Artículo 122.
 
@@ -1605,3 +1615,37 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 31 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 30 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 17 de enero de 2012*
+
+**ÚNICO.-** Se reforma el Artículo 30 de la Ley Agraria, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 8 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Balfre Vargas Cortez, Secretario.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
+
+*Publicado en el Diario Oficial de la Federación el 9 de abril de 2012*
+
+**ARTÍCULO SÉPTIMO.** Se reforman los artículos 66, 120 y 121, último párrafo, de la Ley Agraria, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
