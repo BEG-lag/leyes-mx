@@ -3,12 +3,12 @@ title: Ley General de Títulos y Operaciones de Crédito
 abbreviation: LGTOC
 slug: lgtoc
 published_dof: 1932-08-27
-last_reform_dof: 2008-08-20
+last_reform_dof: 2012-04-09
 articles: 460
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc
-archived: https://web.archive.org/web/20110911083414/http://www.diputados.gob.mx:80/LeyesBiblio/doc/145.doc
-source_sha256: 33590e8741bf16b2c0dab12debd61388ec86a3f3bd88f5b94e79ba30e851655c
-retrieved: 2011-09-11
+archived: https://web.archive.org/web/20130515101156/http://www.diputados.gob.mx/LeyesBiblio/doc/145.doc
+source_sha256: fcdd3b8e84111640efa07c9d89ccb4635218ea65dc8c40f4901b3b34c1fbe09d
+retrieved: 2013-05-15
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgtoc.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 27 de agosto de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 20-08-2008
+Última reforma publicada DOF 09-04-2012
 
 Al margen un sello que dice: Poder Ejecutivo Federal.-Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -1752,7 +1752,7 @@ Las acciones para el cobro de los cupones de los certificados prescribirán en t
 
 La prescripción de las acciones para el cobro en efectivo o adjudicación, tratándose de certificados no amortizables, se regirá por las reglas del derecho común y principiará a correr el término correspondiente en la fecha que señale la asamblea general de tenedores que conozca de la terminación del fideicomiso correspondiente.
 
-La prescripción operará, en todos los casos, en favor del patrimonio de la Secretaría de Salubridad y Asistencia.
+La prescripción operará, en todos los casos, en favor del patrimonio de la Secretaría de Salud.
 
 ### CAPITULO VI · Del certificado de depósito y del bono de prenda
 
@@ -2090,7 +2090,7 @@ Cuando los Almacenes reciban mercancías o bienes sujetos al pago de derechos de
 
 ##### Artículo 286.
 
-La duración del depósito de mercancías o bienes, será establecida libremente entre los Almacenes y el depositante, a menos que se trate de mercancías o bienes sujetos al pago de impuestos o pensiones fiscales de cualquier clase, en cuyo caso la duración del depósito no excederá del término que al efecto señale la Secretaría de Hacienda, o del plazo de dos años, cuando no haya término especialmente señalado.
+La duración del depósito de mercancías o bienes, serán establecidas libremente entre los Almacenes y el depositante, a menos que se trate de mercancías o bienes sujetos al pago de impuestos o pensiones fiscales de cualquier clase, en cuyo caso la duración del depósito no excederá del término que al efecto señale la Secretaría de Hacienda y Crédito Público, o del plazo de dos años, cuando no haya término especialmente señalado.
 
 ##### Artículo 287.
 
@@ -3519,3 +3519,21 @@ La Comisión Nacional Bancaria y de Valores, publicará en el Diario Oficial de 
 México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de agosto de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+### DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
+
+*Publicado en el Diario Oficial de la Federación el 9 de abril de 2012*
+
+**ARTÍCULO SEXAGÉSIMO PRIMERO.** Se reforman los artículos 228 V, tercer párrafo; y 286 de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
