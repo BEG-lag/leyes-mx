@@ -3,12 +3,12 @@ title: Ley Federal de Procedimiento Administrativo
 abbreviation: LFPA
 slug: lfpa
 published_dof: 1994-08-04
-last_reform_dof: 2000-05-30
-articles: 118
+last_reform_dof: 2012-04-09
+articles: 119
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/112.doc
-archived: https://web.archive.org/web/20110303155206/http://www.diputados.gob.mx:80/LeyesBiblio/doc/112.doc
-source_sha256: a1563610795b451ceb4e1aa628ce978d41ffe95718ce38b2c673c142aba64553
-retrieved: 2011-03-03
+archived: https://web.archive.org/web/20130626005117/http://www.diputados.gob.mx/LeyesBiblio/doc/112.doc
+source_sha256: 565887fc41670d990338911b57c6834e1607353900eb37cf47d74727cd2ee2f2
+retrieved: 2013-06-26
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpa.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 4 de agosto de 199
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 30-05-2000
+Última reforma publicada DOF 09-04-2012
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -670,15 +670,29 @@ Los documentos presentados por medios de comunicación electrónica producirán 
 
 *Párrafo adicionado DOF 30-05-2000*
 
-La certificación de los medios de identificación electrónica del promovente, así como la verificación de la fecha y hora de recepción de las promociones o solicitudes y de la autenticidad de las manifestaciones vertidas en las mismas, deberán hacerse por las dependencias u organismos descentralizados, bajo su responsabilidad, y de conformidad con las disposiciones generales que al efecto emita la Secretaría de Contraloría y Desarrollo Administrativo.
+La certificación de los medios de identificación electrónica del promovente, así como la verificación de la fecha y hora de recepción de las promociones o solicitudes y de la autenticidad de las manifestaciones vertidas en las mismas, deberán hacerse por las dependencias u organismo descentralizados, bajo su responsabilidad, y de conformidad con las disposiciones generales que al efecto emita la Secretaría de la Función Pública.
 
-*Párrafo adicionado DOF 30-05-2000*
+*Párrafo adicionado DOF 30-05-2000. Reformado DOF 09-04-2012*
 
 Las dependencias y organismos descentralizados podrán hacer uso de los medios de comunicación electrónica para realizar notificaciones, citatorios o requerimientos de documentación e información a los particulares, en términos de lo dispuesto en el artículo 35 de esta Ley.
 
 *Párrafo adicionado DOF 30-05-2000*
 
 *Artículo adicionado DOF 19-04-2000*
+
+#### Artículo 69 C Bis.
+
+Asimismo, a efecto de facilitar las gestiones de los interesados frente a las autoridades y evitar duplicidad de información en trámites y crear sinergias entre las diversas bases de datos, las dependencias y organismos descentralizados que estén vinculados en la realización de procedimientos administrativos relacionados con la apertura y operación de empresas, estarán obligados a coordinarse con la Secretaría de Economía, para el cumplimiento de dichos fines. La Secretaría de Economía tendrá la facultad de organizar, unificar e implementar el sistema informático que preverá expedientes electrónicos empresariales.
+
+Los expedientes electrónicos empresariales se compondrán, por lo menos, del conjunto de información y documentos electrónicos generados por la autoridad y por el interesado relativas a éste y que se requieren para la realización de cualquier trámite ante la Administración Pública Federal centralizada y descentralizada.
+
+La información y documentos electrónicos contenidos en el expediente electrónico gozarán, para todos los efectos jurídicos a que haya lugar, de equivalencia funcional en relación con la información y documentación en medios no electrónicos, siempre que la información y los documentos electrónicos originales se encuentren en poder de la Administración Pública Federal o cuando cuenten con la firma digital de las personas facultadas para generarlos o cuando hayan sido verificados por la autoridad requirente.
+
+Las normas reglamentarias del expediente electrónico empresarial desarrollarán, entre otros, los procedimientos y requisitos técnicos del mismo.
+
+El Gobierno Federal, a través de la Secretaría de Economía, podrá celebrar convenios con los Estados y Municipios del país que deseen incorporarse al sistema electrónico de apertura y operación de empresas que se ha mencionado en los párrafos anteriores.
+
+*Artículo adicionado DOF 15-12-2011*
 
 #### Artículo 69-D.
 
@@ -700,7 +714,9 @@ La Comisión Federal de Mejora Regulatoria hará públicos los programas y repor
 
 #### Artículo 69-E.
 
-La Comisión Federal de Mejora Regulatoria, órgano administrativo desconcentrado de la Secretaría de Comercio y Fomento Industrial, promoverá la transparencia en la elaboración y aplicación de las regulaciones y que éstas generen beneficios superiores a sus costos y el máximo beneficio para la sociedad. Para ello la Comisión contará con autonomía técnica y operativa, y tendrá las siguiente atribuciones:
+La Comisión Federal de Mejora Regulatoria, órgano administrativo desconcentrado de la Secretaría de Economía, promoverá la transparencia en la elaboración y aplicación de las regulaciones y que éstas generen beneficios superiores a sus costos y el máximo beneficio para la sociedad. Para ello la Comisión contará con autonomía técnica y operativa, y tendrá las siguientes atribuciones:
+
+*Párrafo reformado DOF 09-04-2012*
 
 I. Revisar el marco regulatorio nacional, diagnosticar su aplicación y elaborar para su propuesta al Titular del Ejecutivo Federal, proyectos de disposiciones legislativas y administrativas y programas para mejorar la regulación en actividades o sectores económicos específicos;
 
@@ -730,7 +746,9 @@ II. Conocer los programas de la Comisión así como los informes que presente el
 
 III. Acordar los asuntos que se sometan a su consideración.
 
-El consejo estará integrado por los titulares de las Secretarías de Comercio y Fomento Industrial, quien lo presidirá, de Hacienda y Crédito Público, de Contraloría y Desarrollo Administrativo y de Trabajo y Previsión Social, así como de la Consejería Jurídica del Ejecutivo Federal.
+El consejo estará integrado por los titulares de las Secretarías de Economía quien lo presidirá, de Hacienda y Crédito Público, de la Función Pública y de Trabajo y Previsión Social, así como de la Consejería Jurídica del Ejecutivo Federal.
+
+*Párrafo reformado DOF 09-04-2012*
 
 Serán invitados permanentes del consejo el Gobernador del Banco de México, el Presidente de la Comisión Federal de Competencia, el Procurador Federal del Consumidor, los demás servidores públicos que establezca el Titular del Ejecutivo Federal, y al menos cinco representantes del sector empresarial y uno de cada uno de los sectores académico, laboral y agropecuario a nivel nacional.
 
@@ -922,7 +940,9 @@ VIII. Al servidor público competente de la Comisión Federal de Mejora Regulato
 
 IX. Al servidor público competente de la Comisión Federal de Mejora Regulatoria que incumpla lo dispuesto en el artículo 69-N, primer párrafo.
 
-La Comisión Federal de Mejora Regulatoria informará a la Secretaría de Contraloría y Desarrollo Administrativo de los casos que tenga conocimiento sobre algún incumplimiento a lo previsto en esta Ley y su reglamento.
+La Comisión Federal de Mejora Regulatoria informará a la Secretaría de la Función Pública de los casos que tenga conocimiento sobre algún incumplimiento a lo previsto en esta Ley y su reglamento.
+
+*Párrafo reformado DOF 09-04-2012*
 
 *Artículo adicionado DOF 19-04-2000*
 
@@ -1209,3 +1229,39 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 29 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Marta Laura Carranza Aguayo, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera, de la Ley General de Sociedades Mercantiles, de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Derechos, de la Ley Federal de Procedimiento Administrativo y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
+
+*Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011*
+
+**ARTÍCULO QUINTO.-** Se adiciona un artículo 69 C Bis a la Ley Federal de Procedimiento Administrativo, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
+
+**SEGUNDO.-** Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 26 de octubre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de diciembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
+
+*Publicado en el Diario Oficial de la Federación el 9 de abril de 2012*
+
+**ARTÍCULO CUADRÁGESIMO SEGUNDO.** Se reforman los artículos 69-C, quinto párrafo; 69-E, primer párrafo; 69-F, tercer párrafo; y 70-A, último párrafo, de la Ley Federal de Procedimiento Administrativo, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
