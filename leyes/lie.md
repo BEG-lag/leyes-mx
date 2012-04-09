@@ -3,12 +3,12 @@ title: Ley de Inversión Extranjera
 abbreviation: LIE
 slug: lie
 published_dof: 1993-12-27
-last_reform_dof: 2011-05-25
+last_reform_dof: 2012-04-09
 articles: 42
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/44.doc
-archived: https://web.archive.org/web/20110911083605/http://www.diputados.gob.mx:80/LeyesBiblio/doc/44.doc
-source_sha256: c4d606697193122c5622e88a130efdffbec36b80f7bd07d98f8905f4f1f5dd96
-retrieved: 2011-09-11
+archived: https://web.archive.org/web/20130626031246/http://www.diputados.gob.mx/LeyesBiblio/doc/44.doc
+source_sha256: fbd74ab0b737015cafa87247b61b4af76665ad8c7466c749838903f3f927b818
+retrieved: 2013-06-26
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lie.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 27 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 25-05-2011
-
-> Nota de vigencia: Las reformas a los artículos 3o. y 33, fracción I, inciso d) de esta Ley, publicadas en el Diario oficial de la Federación el 25 de mayo de 2011, entrarán en vigor “hasta que se encuentre vigente el Reglamento de la Ley de Migración”.
+Última reforma publicada DOF 09-04-2012
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -60,7 +58,9 @@ III.- Inversionista extranjero: a la persona física o moral de nacionalidad dis
 
 IV.- Registro: el Registro Nacional de Inversiones Extranjeras;
 
-V.- Secretaría: la Secretaría de Comercio y Fomento Industrial;
+V. Secretaría: la Secretaría de Economía;
+
+*Fracción reformada DOF 09-04-2012*
 
 VI.- Zona Restringida: La faja del territorio nacional de cien kilómetros a lo largo de las fronteras y de cincuenta a lo largo de las playas, a que hace referencia la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos; y
 
@@ -344,11 +344,15 @@ De la Constitución y Modificación de Sociedades
 
 #### ARTÍCULO 15.
 
-Se requiere permiso de la Secretaría de Relaciones Exteriores para la constitución de sociedades. Se deberá insertar en los estatutos de las sociedades que se constituyan, la cláusula de exclusión de extranjeros o el convenio previsto en la fracción I del artículo 27 Constitucional.
+La Secretaría de Economía autorizará el uso de las denominaciones o razones sociales con las que pretendan constituirse las sociedades. Se deberá insertar en los estatutos de las sociedades que se constituyan, la cláusula de exclusión de extranjeros o el convenio previsto en la fracción I del artículo 27 Constitucional.
+
+*Artículo reformado DOF 15-12-2011*
 
 #### ARTÍCULO 16.
 
-Se requiere permiso de la Secretaría de Relaciones Exteriores para que las sociedades constituidas cambien su denominación o razón social.
+El procedimiento referido en el artículo anterior, se aplicará para sociedades constituidas que cambien su denominación o razón social.
+
+*Párrafo reformado DOF 15-12-2011*
 
 Las sociedades que modifiquen su cláusula de exclusión de extranjeros por la de admisión, deberán notificarlo a la Secretaría de Relaciones Exteriores, dentro de los treinta días hábiles siguientes a dicha modificación.
 
@@ -358,9 +362,9 @@ Si estas sociedades son propietarias de bienes inmuebles ubicados en la zona res
 
 #### ARTÍCULO 16 A.
 
-Toda solicitud de permiso a que se refieren los artículos 15 y 16 de esta Ley deberá ser resuelta por la Secretaría de Relaciones Exteriores dentro de los cinco días hábiles siguientes a la fecha de su presentación. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
+Las solicitudes a que se refieren los artículos 15 y 16 de esta ley deberán ser resueltas por la Secretaría de Economía, dentro de los dos días hábiles inmediatos siguientes al de su presentación.
 
-*Artículo adicionado DOF 24-12-1996*
+*Artículo adicionado DOF 24-12-1996. Reformado DOF 15-12-2011*
 
 ## TITULO · CUARTO
 
@@ -1053,3 +1057,39 @@ Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de I
 México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera, de la Ley General de Sociedades Mercantiles, de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Derechos, de la Ley Federal de Procedimiento Administrativo y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
+
+*Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011*
+
+**ARTÍCULO PRIMERO.-** Se reforman los artículos 15, 16 primer párrafo y 16 A de la Ley de Inversión Extranjera, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
+
+**SEGUNDO.-** Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 26 de octubre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de diciembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
+
+*Publicado en el Diario Oficial de la Federación el 9 de abril de 2012*
+
+**ARTÍCULO NOVENO.** Se reforma el artículo 2o, fracción V, de la Ley de Inversión Extranjera, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
