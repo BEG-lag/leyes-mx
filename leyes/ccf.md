@@ -3,12 +3,12 @@ title: Código Civil Federal
 abbreviation: CCF
 slug: ccf
 published_dof: 1928-05-26
-last_reform_dof: 2011-08-30
+last_reform_dof: 2012-04-09
 articles: 3102
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/2.doc
-archived: https://web.archive.org/web/20111017222828/http://www.diputados.gob.mx/LeyesBiblio/doc/2.doc
-source_sha256: 9c62a10342a047c7998438385c2780d1181fd1175a9fb232359ee879d3d2a5bc
-retrieved: 2011-10-17
+archived: https://web.archive.org/web/20120511144017/http://www.diputados.gob.mx/LeyesBiblio/doc/2.doc
+source_sha256: ec28da4c541d67f79fc17d464b533dfc550683193d1f35d3c7a17024718fc147
+retrieved: 2012-05-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccf.htm
 ---
 
@@ -20,9 +20,7 @@ los días 26 de mayo, 14 de julio, 3 y 31 de agosto de 1928
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 30-08-2011
-
-> Nota de vigencia: La adición del artículo 1934 Bis, publicada en el Diario Oficial de la Federación el 30 de agosto de 2011, entrará en vigor el 29 de febrero de 2012.
+Última reforma publicada DOF 09-04-2012
 
 El C. Presidente Constitucional de la República se ha servido dirigirme el decreto que sigue:
 
@@ -288,7 +286,7 @@ Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o fal
 
 ###### Artículo 41.
 
-Las Formas del Registro Civil serán expedidas por el Jefe del Departamento del Distrito Federal o por quien él designe. Se renovarán cada año y los Jueces del Registro Civil remitirán en el transcurso del primer mes del año, un ejemplar de las Formas del Registro Civil del año inmediato anterior al Archivo de la Oficina Central del Registro Civil, otro al Archivo del Tribunal Superior de Justicia del Distrito Federal y el otro, con los documentos que le correspondan quedará en el archivo de la oficina en que hayan actuado.
+Las Formas del Registro Civil serán expedidas por el Jefe de Gobierno del Distrito Federal o por quien él designe. Se renovarán cada año y los Jueces del Registro Civil remitirán en el transcurso del primer mes del año, un ejemplar de las Formas del Registro Civil del año inmediato anterior al Archivo de la Oficina Central del Registro Civil, otro al Archivo del Tribunal Superior de Justicia del Distrito Federal y el otro, con los documentos que le correspondan quedará en el archivo de la oficina en que hayan actuado.
 
 ###### Artículo 42.
 
@@ -866,7 +864,7 @@ Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mu
 
 ###### Artículo 148.
 
-Para contraer matrimonio el hombre necesita haber cumplido dieciséis años y la mujer catorce. El Jefe del Departamento del Distrito Federal o los Delegados según el caso, pueden conceder dispensas de edad por causas graves y justificadas.
+Para Contraer matrimonio el hombre necesita haber cumplido dieciséis años y la mujer catorce. El Jefe de Gobierno del Distrito Federal o los Delegados según el caso, pueden conceder dispensas de edad por causas graves y justificadas.
 
 ###### Artículo 149.
 
@@ -878,7 +876,7 @@ Faltando padres y abuelos, se necesita el consentimiento de los tutores; y falta
 
 ###### Artículo 151.
 
-Los interesados pueden ocurrir al Jefe del Departamento del Distrito Federal o a los Delegados, según el caso, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las mencionadas Autoridades, después de levantar una información sobre el particular, suplirán o no el consentimiento.
+Los interesados pueden ocurrir al Jefe del Gobierno del Distrito Federal o a los Delegados, según el caso, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las mencionadas Autoridades, después de levantar una información sobre el particular, suplirán o no el consentimiento.
 
 ###### Artículo 152.
 
@@ -3472,7 +3470,7 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 ###### Artículo 631.
 
-En cada Delegación habrá un Consejo Local de Tutelas compuesto de un Presidente y de dos vocales, que durarán un año en el ejercicio de su cargo, serán nombrados por el Jefe del Departamento del Distrito Federal o por quien él autorice al efecto o por los Delegados, según el caso, en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
+En cada Delegación habrá un Consejo Local de Tutelas compuesto de un Presidente y de dos vocales, que durarán un año en el ejercicio de su cargo, serán nombrados por el Jefe de Gobierno del Distrito Federal o por quien él autorice al efecto o por los Delegados, según el caso, en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
 
 Los miembros del Consejo no cesarán en sus funciones aun cuando haya transcurrido el término para el que fueron nombrados, hasta que tomen posesión las personas que hayan sido designadas para el siguiente período.
 
@@ -4532,7 +4530,7 @@ El Gobierno Federal podrá expropiar las cosas que pertenezcan a los particulare
 
 ###### Artículo 834.
 
-Quienes actualmente sean propietarios de las cosas mencionadas en el artículo anterior, no podrán enajenarlas o gravarlas, ni alterarlas (en forma que pierdan sus características,) sin autorización del C. Presidente de la República, concedida por conducto de la Secretaría de Educación Pública y Bellas Artes.
+Quienes actualmente sean propietarios de las cosas mencionadas en el artículo anterior, no podrán enajenarlas o gravarlas, ni alterarlas (en forma que pierdan sus características,) sin autorización del C. Presidente de la República, concedida por conducto de la Secretaría de Educación Pública.
 
 ###### Artículo 835.
 
@@ -11502,11 +11500,11 @@ El contrato de compra-venta no requiere para su validez formalidad alguna especi
 
 Las enajenaciones de bienes inmuebles cuyo valor de avalúo no exceda al equivalente a trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Distrito Federal en el momento de la operación y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez competente o Registro Público de la Propiedad.
 
-Los contratos por los que el Departamento del Distrito Federal enajene terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos, hasta por el valor máximo a que se refiere el artículo 730, podrán otorgarse en documento privado, sin los requisitos de testigos o de ratificación de firmas.
+Los contratos por los que el Gobierno del Distrito Federal enajene terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos, hasta por el valor máximo a que se refiere el artículo 730, podrán otorgarse en documento privado, sin los requisitos de testigos o de ratificación de firmas.
 
-En los programas de regularización de la tenencia de la tierra que realice el Departamento del Distrito Federal sobre inmuebles de propiedad particular, cuyo valor no rebase el que señala el artículo 730 de este Código, los contratos que se celebren entre las partes, podrán otorgarse en las mismas condiciones a que se refiere el párrafo anterior.
+En los programas de regularización de la tenencia de la tierra que realice el Gobierno del Distrito Federal sobre inmuebles de propiedad particular, cuyo valor no rebase el que señala el artículo 730 de este Código, los contratos que se celebren entre las partes, podrán otorgarse en las mismas condiciones a que se refiere el párrafo anterior.
 
-Los contratos a que se refiere el párrafo segundo, así como los que se otorguen con motivo de los programas de regularización de la tenencia de la tierra que realice el Departamento del Distrito Federal sobre inmuebles de propiedad particular, podrán también otorgarse en el protocolo abierto especial a cargo de los notarios del Distrito Federal, quienes en esos casos reducirán en un cincuenta por ciento las cuotas que correspondan conforme al arancel respectivo.
+Los contratos a que se refiere el párrafo segundo, así como los que se otorguen con motivo de los programas de regularización de la tenencia de la tierra que realice el Gobierno del Distrito Federal sobre inmuebles de propiedad particular, podrán también otorgarse en el protocolo abierto especial a cargo de los notarios del Distrito Federal, quienes en esos casos reducirán en un cincuenta por ciento las cuotas que correspondan conforme al arancel respectivo.
 
 ###### Artículo 2318.
 
@@ -12164,11 +12162,11 @@ VIII. Las obligaciones que el arrendador y arrendatario contraigan adicionalment
 
 ###### Artículo 2448-G.
 
-El arrendador deberá registrar el contrato de arrendamiento ante la autoridad competente del Departamento del Distrito Federal. Una vez cumplido este requisito, entregará al arrendatario una copia registrada del contrato.
+El arrendador deberá registrar el contrato de arrendamiento ante la autoridad competente del Gobierno del Distrito Federal. Una vez cumplido este requisito, entregará al arrendatario una copia registrada del contrato.
 
 El arrendatario tendrá acción para demandar el registro mencionado y la entrega de la copia del contrato.
 
-Igualmente el arrendatario tendrá derecho para registrar su copia de contrato de arrendamiento ante la autoridad competente del Departamento del Distrito Federal.
+Igualmente el arrendatario tendrá derecho para registrar su copia de contrato de arrendamiento ante la autoridad competente del Gobierno del Distrito Federal.
 
 ###### Artículo 2448-H.
 
@@ -14534,7 +14532,7 @@ Puede también convenir con el deudor en que se le adjudique en el precio que se
 
 Para la constitución de créditos con garantía hipotecaria se observarán las formalidades establecidas en los artículos 2317 y 2320.
 
-Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Departamento del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda del valor máximo establecido en el artículo 730, se observarán las formalidades establecidas en el párrafo segundo del artículo 2317.
+Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Gobierno del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda del valor máximo establecido en el artículo 730, se observarán las formalidades establecidas en el párrafo segundo del artículo 2317.
 
 ###### Artículo 2918.
 
@@ -15016,7 +15014,7 @@ Con los bienes restantes serán pagados todos los demás créditos que no estén
 
 ###### Artículo 2999.
 
-Las oficinas del Registro Público se establecerán en el Distrito Federal y estarán ubicadas en el lugar que determine el Jefe del Departamento del Distrito Federal.
+Las oficinas del Registro Público se establecerán en el Distrito Federal y estarán ubicadas en el lugar que determine el Jefe de Gobierno del Distrito Federal.
 
 ###### Artículo 3000.
 
@@ -15432,7 +15430,7 @@ c) Constancias relativas al estado catastral y predial del inmueble, si existier
 
 III. Recibida la solicitud el Director del Registro Público de la Propiedad la hará del conocimiento, por correo certificado y con acuse de recibo, de la persona de quien se obtuvo la posesión y de su causante, si fuere conocido, así como de los colindantes, señalándoles un plazo de nueve días hábiles para que manifiesten lo que a sus derechos convenga.
 
-El Director del Registro Público de la Propiedad, además, mandará publicar edictos para notificar a las personas que pudieren considerarse perjudicadas, a costa del interesado por una sola vez en la Gaceta Oficial del Departamento del Distrito Federal, y en un periódico de los de mayor circulación, si se tratare de bienes inmuebles urbanos. Si los predios fueren rústicos, se publicarán además por una sola vez en el Diario Oficial de la Federación;
+El Director del Registro Público de la Propiedad, además, mandará publicar edictos para notificar a las personas que pudieren considerarse perjudicadas, a costa del interesado por una sola vez en la Gaceta Oficial del Gobierno del Distrito Federal, y en un periódico de los de mayor circulación, si se tratare de bienes inmuebles urbanos. Si los predios fueren rústicos, se publicarán además por una sola vez en el Diario Oficial de la Federación:
 
 IV. Si existiere oposición de la personas mencionadas en las fracción anterior, el Director del Registro Público dará por terminado el procedimiento, a efecto de que la controversia sea resuelta por el Juez competente;
 
@@ -15969,3 +15967,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D. F., a 28 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de agosto de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
+
+*Publicado en el Diario Oficial de la Federación el 9 de abril de 2012*
+
+**ARTÍCULO PRIMERO.** Se reforman los artículos 41; 148; 151; 631, primer párrafo; 834; 2317, segundo, tercero y cuarto párrafos; 2448-G, primer y tercer párrafos; 2917, segundo párrafo; 2999 y 3052, fracción III, segundo párrafo del Código Civil Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
