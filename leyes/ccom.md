@@ -3,12 +3,12 @@ title: Código de Comercio
 abbreviation: CCom
 slug: ccom
 published_dof: 1889-10-07
-last_reform_dof: 2012-04-09
+last_reform_dof: 2012-04-17
 articles: 1613
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
-archived: https://web.archive.org/web/20120417135207/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3.doc
-source_sha256: edf4f6c0ef11513e575d2c5f05b1ed012ab39c164b362bb150f9ffac07a04279
-retrieved: 2012-04-17
+archived: https://web.archive.org/web/20120511160015/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
+source_sha256: d94eafdf2d5974da6dd02e0197ae915881021fd4d5ee2b30ab0598eccdb8f19c
+retrieved: 2012-05-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccom.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código publicado en el Diario Oficial de la Federación del 7 de octubre 
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-04-2012
+Última reforma publicada DOF 17-04-2012
 
 El Presidente de la República se ha servido dirigirme el decreto que sigue:
 
@@ -8128,9 +8128,11 @@ V. (Se deroga)
 
 VI. La decisión de los peritos designados en los seguros para fijar el importe del siniestro, observándose lo prescrito en la ley de la materia;
 
-VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio firmados y reconocidos judicialmente por el deudor; y
+VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio firmados y reconocidos judicialmente por el deudor;
 
-VIII. Los demás documentos que por disposición de la ley tienen el carácter de ejecutivos o que por sus características traen aparejada ejecución.
+VIII. Los convenios emitidos en los procedimientos conciliatorios que realiza la Procuraduría Federal del Consumidor, así como los laudos arbitrales que la misma emite; y
+
+IX. Los demás documentos que por disposición de la Ley tienen el carácter de ejecutivos o que por sus características traen aparejada ejecución.
 
 ###### Artículo 1392.
 
@@ -9613,3 +9615,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se adiciona al artículo 1391 una fracción VIII, recorriendo la actual VIII para quedar como IX, del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 17 de abril de 2012*
+
+**Artículo Único.-** Se adiciona al artículo 1391, una fracción VIII recorriendo la actual VIII para quedar como IX del Código de Comercio, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 1 de marzo de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Arturo Herviz Reyes, Secretario.- Dip. Herón Escobar García, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de abril de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
