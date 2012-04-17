@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2011-06-08
-articles: 514
+last_reform_dof: 2012-04-17
+articles: 515
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-archived: https://web.archive.org/web/20110911085734/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9.doc
-source_sha256: 381fe3404fb406cdf536c0bfdbef6627ee55074d66c9515a5f5503bbbaad7328
-retrieved: 2011-09-11
+archived: https://web.archive.org/web/20120511145501/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
+source_sha256: 97de5eec7d49de6a4c4be985003ec680d6d4395f0354f3ee4a605f6e2aead476
+retrieved: 2012-05-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 08-06-2011
+Última reforma publicada DOF 17-04-2012
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -1616,6 +1616,10 @@ Al que, sin causa legítima, rehusare a prestar un servicio de interés público
 
 Al que desobedeciere el mandato de arraigo domiciliario o la prohibición de abandonar una demarcación geográfica, dictados por autoridad judicial competente, se le impondrán de seis meses a dos años de prisión y de diez a doscientos días multa.
 
+##### Artículo 178 Bis.
+
+Al responsable operativo del concesionario o permisionario del servicio de telecomunicaciones que tenga asignada la función de colaborar con las autoridades en la localización geográfica, en tiempo real, de los equipos de comunicación móvil asociados a una línea que estén relacionados con investigaciones en materia de delincuencia organizada, delitos contra la salud, secuestro, extorsión o amenazas y que se rehusare a hacerlo de forma dolosa, se le impondrán de doscientos cincuenta a dos mil quinientos días multa.
+
 ##### Artículo 179.
 
 El que sin excusa legal se negare a comparecer ante la autoridad a dar su declaración, cuando legalmente se le exija, no será considerado como reo del delito previsto en el artículo anterior, sino cuando insista en su desobediencia después de haber sido apremiado por la autoridad judicial o apercibido por la administrativa, en su caso, para que comparezca a declarar.
@@ -2786,7 +2790,7 @@ III.- Entregar dolosa y repetidamente, cuando la medición se haga en el momento
 
 IV.- Alterar o reducir por cualquier medio las propiedades que las mercancías o productos debieran tener.
 
-V.- Revender a un organismo público, a precios mínimos de garantía o a los autorizados por la Secretaría de Comercio, productos agropecuarios, marítimos, fluviales y lacustres adquiridos a un precio menor. Se aplicará la misma sanción al empleado o funcionario del organismo público que los compre a sabiendas de esa situación o propicie que el productor se vea obligado a vender a precios más bajos a terceras personas.
+V. Revender a un organismo público, a precios mínimos de garantía o a los autorizados por la Secretaría de Economía, productos agropecuarios, marítimos, fluviales y lacustres adquiridos a un precio menor. Se aplicará la misma sanción al empleado o funcionario del organismo público que los compre a sabiendas de esa situación o propicie que el productor se vea obligado a vender a precios más bajos a terceras personas.
 
 En cualquiera de los casos señalados en las fracciones anteriores, el juez podrá ordenar, además, la suspensión hasta por un año o la disolución de la empresa de la que el delincuente sea miembro o representante, si concurren las circunstancias mencionadas en el artículo 11 de este Código.
 
@@ -2818,11 +2822,15 @@ Si el que entregue los insumos referidos, fuere el productor que los recibió de
 
 VI.- A los funcionarios o empleados de cualquiera entidad o dependencia pública que entreguen estos insumos a quienes no tengan derecho a recibirlos; o que indebidamente nieguen o retarden la entrega a quienes tienen derecho a recibirlos, se harán acreedores a las sanciones del artículo 253.
 
-VII.- Al que sin derecho realice cualquier sustracción o alteración a equipos o instalaciones de la industria petrolera a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo.
+VII. Al que sin derecho y sin consentimiento de la persona que legalmente pueda autorizarlo, sustraiga o aproveche hidrocarburos o sus derivados, de los equipos o instalaciones de la industria petrolera a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, distintos a los previstos en la fracción IV del artículo 368 Quáter de este Código, cualquiera que sea su estado físico; o realice cualquier sustracción o alteración de dichos equipos o instalaciones.
 
-La sanción que corresponda se aumentará en una mitad cuando se realice en los ductos o sus instalaciones afectos a la industria petrolera o cuando el responsable sea o haya sido servidor público de dicha industria, y
+La sanción que corresponda se aumentará en una mitad cuando se realice en los ductos o sus instalaciones afectos a la industria petrolera o cuando el responsable sea o haya sido trabajador o servidor público de dicha industria.
 
-VIII.- Al que sin derecho realice cualquier sustracción o alteración de equipos o instalaciones del servicio público de energía eléctrica.
+VIII. A quien de manera dolosa altere los instrumentos de medición utilizados para enajenar o suministrar hidrocarburos refinados, procesados o sus derivados. En este caso la sanción que corresponda se aumentará hasta en una mitad cuando el responsable sea o haya sido trabajador o servidor público de la industria petrolera, y
+
+IX. Al que sin derecho realice cualquier sustracción o alteración de equipos o instalaciones del servicio público de energía eléctrica.
+
+Las penas que correspondan por los delitos previstos en este artículo, se aumentarán en una mitad más para el trabajador o servidor público que, con motivo de su trabajo, suministre información de las instalaciones, del equipo o de la operación de la industria que resulte útil o pueda auxiliar a la comisión de los delitos de referencia.
 
 ##### Artículo 254 bis.
 
@@ -3636,11 +3644,29 @@ Se sancionará con pena de tres a diez años de prisión y hasta mil días multa
 
 Al que comercialice en forma habitual objetos robados, a sabiendas de esta circunstancia y el valor intrínseco de aquéllos sea superior a quinientas veces el salario, se le sancionará con una pena de prisión de seis a trece años y de cien a mil días multa.
 
-##### Artículo 368 quáter.
+##### Artículo 368 Quáter.
 
-Al que sustraiga o aproveche hidrocarburos o sus derivados, cualquiera que sea su estado físico, sin derecho y sin consentimiento de la persona que legalmente pueda autorizarlo, de los equipos o instalaciones de la industria petrolera a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, se le impondrán de tres a diez años de prisión y de quinientos a diez mil días multa.
+Se sancionará a quien:
 
-La sanción que corresponda se aumentará en una mitad cuando se realice en los ductos o sus instalaciones afectos a la industria petrolera o cuando el responsable sea o haya sido servidor público de dicha industria.
+I. Posea o resguarde de manera ilícita petróleo crudo o hidrocarburos refinados, procesados o sus derivados.
+
+Cuando la cantidad sea menor de 300 litros y hasta 300 litros, con pena de prisión de seis meses a dos años y de cien a quinientos días multa.
+
+Cuando la cantidad sea mayor de 300 litros pero menor de 1 000 litros, con pena de prisión de dos a cuatro años y de quinientos a mil días multa.
+
+En caso de que la cantidad sea igual o mayor a 1 000 litros, con pena de prisión de cuatro a diez años y de mil a doce mil días multa.
+
+No se aplicará la pena prevista en el segundo párrafo de esta fracción, siempre que se trate de la posesión de hidrocarburos refinados, procesados o sus derivados hasta por la cantidad de 300 litros, cuando el sujeto activo detente la posesión de estos productos con fines de consumo para actividades agropecuarias o pesqueras lícitas dentro de su comunidad.
+
+II. Enajene o suministre gasolinas o diesel con conocimiento de que está entregando una cantidad inferior desde 1.5 por ciento a la cantidad que aparezca registrada por los instrumentos de medición que se emplean para su enajenación o suministro con pena de prisión de tres a seis años y de quinientos a mil días multa.
+
+III. Enajene o suministre gas licuado de petróleo mediante estación de Gas L.P., para carburación, con conocimiento de que está entregando una cantidad inferior desde 3.0 por ciento a la cantidad que aparezca registrada por los instrumentos de medición que se emplean para su enajenación o suministro con una pena de prisión de tres a seis años y de quinientos a mil días multa.
+
+IV. Sustraiga o aproveche petróleo crudo o hidrocarburos refinados, procesados o sus derivados de ductos, equipos o instalaciones de Petróleos Mexicanos, sus organismos subsidiarios o empresas filiales con pena de prisión de ocho a doce años y de mil a doce mil días multa.
+
+Las sanciones que correspondan en este artículo se aumentarán hasta en una mitad cuando el responsable sea o haya sido trabajador o servidor público de la industria petrolera.
+
+Las penas que correspondan por los delitos previstos en este artículo, se aumentarán en una mitad más para el trabajador o servidor público que, con motivo de su trabajo, suministre información de las instalaciones, del equipo o de la operación de la industria que resulte útil o pueda auxiliar a la comisión de los delitos de referencia.
 
 ##### Artículo 369.
 
@@ -5314,3 +5340,55 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 24 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a siete de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal, del Código Federal de Procedimientos Penales y de la Ley Federal contra la Delincuencia Organizada.
+
+*Publicado en el Diario Oficial de la Federación el 24 de octubre de 2011*
+
+**Artículo Primero.** Se reforman las fracciones VII y actual VIII y se adiciona una fracción VIII, pasando la actual VIII a ser IX al artículo 254, y se reforma el artículo 368 Quáter del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 20 de septiembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Cleominio Zoreda Novelo, Secretario.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de octubre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
+
+*Publicado en el Diario Oficial de la Federación el 9 de abril de 2012*
+
+**ARTÍCULO QUINTO.** Se reforma el artículo 253, fracción V, del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal de Telecomunicaciones, de la Ley que Establece las Normas Mínimas sobre Readaptación Social de Sentenciados y de la Ley General del Sistema Nacional de Seguridad Pública.
+
+*Publicado en el Diario Oficial de la Federación el 17 de abril de 2012*
+
+**ARTICULO SEGUNDO.-** Se adiciona un artículo 178 Bis al Código Penal Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Artículo Único.-** El presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+……….
+
+México, D.F., a 1 de marzo de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Arturo Herviz Reyes, Secretario.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de abril de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
