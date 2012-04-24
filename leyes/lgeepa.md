@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2011-08-30
+last_reform_dof: 2012-04-24
 articles: 262
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
-archived: https://web.archive.org/web/20111017223610/http://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
-source_sha256: c486e2b5280cbbceaf84c5a1b7cebab2f16dad5d57033afea510450fecfa7e2b
-retrieved: 2011-10-17
+archived: https://web.archive.org/web/20120511161802/http://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
+source_sha256: 9239d3a35fba9059d7fd9d2bf1411d76ff40c96bef748ffc09951907e9366750
+retrieved: 2012-05-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 30-08-2011
-
-> Nota de vigencia: La reforma al artículo 202, publicada en el Diario Oficial de la Federación el 30 de agosto de 2011, entrará en vigor el 29 de febrero de 2012.
+Última reforma publicada DOF 24-04-2012
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -200,9 +198,9 @@ XXXIV.- Restauración: Conjunto de actividades tendientes a la recuperación y r
 
 *Fracción recorrida DOF 28-01-2011*
 
-XXXV. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Pesca;
+XXXV. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales.
 
-*Fracción reformada DOF 07-01-2000. Recorrida DOF 28-01-2011*
+*Fracción reformada DOF 07-01-2000. Recorrida DOF 28-01-2011. Reformada DOF 09-04-2012*
 
 XXXVI. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y
 
@@ -528,7 +526,9 @@ II.- Los ecosistemas y sus elementos deben ser aprovechados de manera que se ase
 
 III.- Las autoridades y los particulares deben asumir la responsabilidad de la protección del equilibrio ecológico;
 
-IV.- Quien realice obras o actividades que afecten o puedan afectar el ambiente, está obligado a prevenir, minimizar o reparar los daños que cause, así como a asumir los costos que dicha afectación implique. Asimismo, debe incentivarse a quien proteja el ambiente y aproveche de manera sustentable los recursos naturales;
+IV.- Quien realice obras o actividades que afecten o puedan afectar el ambiente, está obligado a prevenir, minimizar o reparar los daños que cause, así como a asumir los costos que dicha afectación implique. Asimismo, debe incentivarse a quien proteja el ambiente, promueva o realice acciones de mitigación y adaptación a los efectos del cambio climático y aproveche de manera sustentable los recursos naturales;
+
+*Fracción reformada DOF 24-04-2012*
 
 V.- La responsabilidad respecto al equilibrio ecológico, comprende tanto las condiciones presentes como las que determinarán la calidad de la vida de las futuras generaciones;
 
@@ -1572,9 +1572,9 @@ En el otorgamiento o expedición de permisos, licencias, concesiones, o en gener
 
 El solicitante deberá en tales casos demostrar ante la autoridad competente, su capacidad técnica y económica para llevar a cabo la exploración, explotación o aprovechamiento de que se trate, sin causar deterioro al equilibrio ecológico.
 
-La Secretaría, así como las Secretarías de Agricultura, Ganadería y Desarrollo Rural y de la Reforma Agraria, prestarán oportunamente a ejidatarios, comuneros y pequeños propietarios la asesoría técnica necesaria para el cumplimiento de lo dispuesto en el párrafo anterior, cuando éstos no cuenten con suficientes recursos económicos para procurársela.
+La Secretaría, así como las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y de la Reforma Agraria, prestará oportunamente a ejidatarios, comuneros y pequeños propietarios la asesoría técnica necesaria para el cumplimiento de lo dispuesto en el párrafo anterior, cuando éstos no cuenten con suficientes recursos económicos para procurársela.
 
-*Párrafo reformado DOF 13-12-1996*
+*Párrafo reformado DOF 13-12-1996, 09-04-2012*
 
 La Secretaría, tomando como base los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente, la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando la exploración, explotación o aprovechamiento de recursos ocasione o pueda ocasionar deterioro al equilibrio ecológico.
 
@@ -1910,9 +1910,9 @@ La Secretaría expedirá las normas oficiales mexicanas para la preservación y 
 
 ##### ARTÍCULO 85.
 
-Cuando así se requiera para la protección de especies, hábitats, ecosistemas, la economía o la salud pública, la Secretaría promoverá ante la Secretaría de Economía, el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especímenes de la flora y fauna silvestres nativos o exóticos e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del y destinadas al extranjero.
+Cuando así se requiera para la protección de especies, habitats, ecosistemas, la economía o la salud pública, la Secretaría promoverá ante la Secretaría de Economía el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especímenes de la flora y fauna silvestres nativos o exóticos e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del y destinadas al extranjero.
 
-*Artículo reformado DOF 06-04-2010*
+*Artículo reformado DOF 06-04-2010, 09-04-2012*
 
 ##### ARTÍCULO 86.
 
@@ -2308,7 +2308,9 @@ VII.- Expedir las normas oficiales mexicanas para el establecimiento y operació
 
 VIII.- Expedir las normas oficiales mexicanas para la certificación por la autoridad competente, de los niveles de emisión de contaminantes a la atmósfera provenientes de fuentes determinadas;
 
-IX.- Expedir, en coordinación con la Secretaría de Comercio y Fomento Industrial, las normas oficiales mexicanas que establezcan los niveles máximos permisibles de emisión de contaminantes a la atmósfera, provenientes de vehículos automotores nuevos en planta y de vehículos automotores en circulación, considerando los valores de concentración máxima permisible para el ser humano de contaminantes en el ambiente, determinados por la Secretaría de Salud;
+IX. Expedir, en coordinación con la Secretaría de Economía, las normas oficiales mexicanas que establezcan los niveles máximos permisibles de emisión de contaminantes a la atmósfera, provenientes de vehículos automotores nuevos en planta y de vehículos automotores en circulación, considerando los valores de concentración máxima permisible para el ser humano de contaminantes en el ambiente, determinados por la Secretaría de Salud;
+
+*Fracción reformada DOF 09-04-2012*
 
 X.- Definir niveles máximos permisibles de emisión de contaminantes a la atmósfera por fuentes, áreas, zonas o regiones, de tal manera que no se rebasen las capacidades de asimilación de las cuencas atmosféricas y se cumplan las normas oficiales mexicanas de calidad del aire;
 
@@ -2650,13 +2652,15 @@ Toda descarga, depósito o infiltración de sustancias o materiales contaminante
 
 ##### ARTÍCULO 140.
 
-La generación, manejo y disposición final de los residuos de lenta degradación deberá sujetarse a lo que se establezca en las normas oficiales mexicanas que al respecto expida la Secretaría, en coordinación con la Secretaría de Comercio y Fomento Industrial.
+La generación, manejo y disposición final de los residuos de lenta degradación deberá sujetarse a lo que se establezca en las normas oficiales mexicanas que al respecto expida la Secretaría, en coordinación con la Secretaría de Economía.
 
-*Artículo reformado DOF 13-12-1996*
+*Artículo reformado DOF 13-12-1996, 09-04-2012*
 
 ##### ARTÍCULO 141.
 
-La Secretaría, en coordinación con las Secretarías de Comercio y Fomento Industrial y de Salud, expedirán normas oficiales mexicanas para la fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos.
+La Secretaría, en coordinación con las Secretarías de Economía y de Salud, expedirá normas oficiales mexicanas para la fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos.
+
+*Párrafo reformado DOF 09-04-2012*
 
 Asimismo, dichas Dependencias promoverán ante los organismos nacionales de normalización respectivos, la emisión de normas mexicanas en las materias a las que se refiere este precepto.
 
@@ -2668,13 +2672,15 @@ En ningún caso podrá autorizarse la importación de residuos para su derrame, 
 
 ##### ARTÍCULO 143.
 
-Los plaguicidas, fertilizantes y demás materiales peligrosos, quedarán sujetos a las normas oficiales mexicanas que expidan en el ámbito de sus respectivas competencias, la Secretaría y las Secretarías de Agricultura, Ganadería y Desarrollo Rural, de Salud y de Comercio y Fomento Industrial. El Reglamento de esta Ley establecerá la regulación, que dentro del mismo marco de coordinación deba observarse en actividades relacionadas con dichos materiales, incluyendo la disposición final de sus residuos, empaques y envases vacíos, medidas para evitar efectos adversos en los ecosistemas y los procedimientos para el otorgamiento de las autorizaciones correspondientes.
+Los plaguicidas, fertilizantes y demás materiales peligrosos, quedarán sujetos a las normas oficiales mexicanas que expidan en el ámbito de sus respectivas competencias, la Secretaría y las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de Salud y de Economía. El Reglamento de esta Ley establecerá la regulación, que dentro del mismo marco de coordinación deba observarse en actividades relacionadas con dichos materiales, incluyendo la disposición final de sus residuos, empaques y envases vacíos, medidas para evitar efectos adversos en los ecosistemas y los procedimientos para el otorgamiento de las autorizaciones correspondientes.
 
-*Artículo reformado DOF 13-12-1996*
+*Artículo reformado DOF 13-12-1996, 09-04-2012*
 
 ##### ARTÍCULO 144.
 
-Atendiendo a lo dispuesto por la presente Ley, la Ley Federal de Sanidad Vegetal y las demás disposiciones legales y reglamentarias aplicables, la Secretaría coordinadamente con las Secretarías de Salud, de Agricultura, Ganadería y Desarrollo Rural y de Comercio y Fomento Industrial, participará en la determinación de restricciones arancelarias y no arancelarias relativas a la importación y exportación de materiales peligrosos.
+Atendiendo a lo dispuesto por la presente Ley, la Ley Federal de Sanidad Vegetal y las demás disposiciones legales y reglamentarías aplicables, la Secretaría coordinadamente con la Secretarías de Salud, de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Economía, participará en la determinación de restricciones arancelarias y no arancelarias relativas a la importación y exportación de materiales peligrosos.
+
+*Párrafo reformado DOF 09-04-2012*
 
 No podrán otorgarse autorizaciones para la importación de plaguicidas, fertilizantes y demás materiales peligrosos, cuando su uso no esté permitido en el país en el que se hayan elaborado o fabricado.
 
@@ -2704,9 +2710,9 @@ VI. La infraestructura para la dotación de servicios básicos.
 
 ##### ARTÍCULO 146.
 
-La Secretaría, previa opinión de las Secretarías de Energía, de Comercio y Fomento Industrial, de Salud, de Gobernación y del Trabajo y Previsión Social, conforme al Reglamento que para tal efecto se expida, establecerá la clasificación de las actividades que deban considerarse altamente riesgosas en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas para el equilibrio ecológico o el ambiente, de los materiales que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento.
+La Secretaría, previa opinión de las Secretarías de Energía, de Economía, de Salud, de Gobernación y del Trabajo y Previsión Social, conforme al Reglamento que para tal efecto se expida, establecerá la clasificación de las actividades que deban considerarse altamente riesgosas en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas para el equilibrio ecológico o el ambiente, de los materiales que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento.
 
-*Artículo reformado DOF 13-12-1996*
+*Artículo reformado DOF 13-12-1996, 09-04-2012*
 
 ##### ARTÍCULO 147.
 
@@ -3961,3 +3967,37 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D. F., a 28 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de agosto de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+### DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
+
+*Publicado en el Diario Oficial de la Federación el 9 de abril de 2012*
+
+**ARTÍCULO SEXAGÉSIMO SEGUNDO.** Se reforman los artículos 3o., fracción XXXV; 64, tercer párrafo; 85; 111, fracción IX; 140; 141, primer párrafo; 143; 144, primer párrafo; y 146 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción IV del artículo 15 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 24 de abril de 2012*
+
+**Artículo Único.-** Se reforma la fracción IV del artículo 15 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 13 de marzo de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Gloria Romero León, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de abril de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
