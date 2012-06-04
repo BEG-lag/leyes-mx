@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2012-04-24
+last_reform_dof: 2012-06-04
 articles: 262
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
-archived: https://web.archive.org/web/20120511161802/http://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
-source_sha256: 9239d3a35fba9059d7fd9d2bf1411d76ff40c96bef748ffc09951907e9366750
-retrieved: 2012-05-11
+archived: https://web.archive.org/web/20120710005200/http://www.diputados.gob.mx:80/LeyesBiblio/doc/148.doc
+source_sha256: f5048f84e5f770c605ce07ca942cf0a84644a6a5fc2aa57068ed5d1991743af3
+retrieved: 2012-07-10
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 24-04-2012
+Última reforma publicada DOF 04-06-2012
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -202,17 +202,21 @@ XXXV. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales.
 
 *Fracción reformada DOF 07-01-2000. Recorrida DOF 28-01-2011. Reformada DOF 09-04-2012*
 
-XXXVI. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y
+XXXVI. Servicios ambientales: los beneficios tangibles e intangibles, generados por los ecosistemas, necesarios para la supervivencia del sistema natural y biológico en su conjunto, y para que proporcionen beneficios al ser humano;
 
-*Fracción reformada DOF 07-01-2000. Recorrida DOF 28-01-2011*
+*Fracción adicionada DOF 04-06-2012*
 
-XXXVII. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida.
+XXXVII. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y
 
-*Fracción adicionada DOF 07-01-2000. Recorrida DOF 28-01-2011*
+*Fracción reformada DOF 07-01-2000. Recorrida DOF 28-01-2011, 04-06-2012*
 
-XXXVIII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
+XXXVIII. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida.
 
-*Fracción adicionada DOF 23-02-2005. Recorrida DOF 28-01-2011*
+*Fracción adicionada DOF 07-01-2000. Recorrida DOF 28-01-2011, 04-06-2012*
+
+XXXIX. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
+
+*Fracción adicionada DOF 23-02-2005. Recorrida DOF 28-01-2011, 04-06-2012*
 
 *Artículo reformado DOF 13-12-1996*
 
@@ -778,7 +782,9 @@ Se consideran instrumentos económicos los mecanismos normativos y administrativ
 
 Se consideran instrumentos económicos de carácter fiscal, los estímulos fiscales que incentiven el cumplimiento de los objetivos de la política ambiental. En ningún caso, estos instrumentos se establecerán con fines exclusivamente recaudatorios.
 
-Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la preservación, protección, restauración o aprovechamiento sustentable de los recursos naturales y el ambiente, así como al financiamiento de programas, proyectos, estudios e investigación científica y tecnológica para la preservación del equilibrio ecológico y protección al ambiente.
+Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la preservación, protección, restauración o aprovechamiento sustentable de los recursos naturales y el ambiente, así como al financiamiento de programas, proyectos, estudios, investigación científica, desarrollo tecnológico e innovación para la preservación del equilibrio ecológico y protección al ambiente.
+
+*Párrafo reformado DOF 29-05-2012*
 
 Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien, que establecen los límites de aprovechamiento de recursos naturales, o de construcción en áreas naturales protegidas o en zonas cuya preservación y protección se considere relevante desde el punto de vista ambiental.
 
@@ -790,7 +796,9 @@ Las prerrogativas derivadas de los instrumentos económicos de mercado serán tr
 
 Se consideran prioritarias, para efectos del otorgamiento de los estímulos fiscales que se establezcan conforme a la Ley de Ingresos de la Federación, las actividades relacionadas con:
 
-I.- La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar la contaminación o deterioro ambiental, así como el uso eficiente de recursos naturales y de energía;
+I.- La investigación científica y tecnológica, incorporación, innovación o utilización de mecanismos, equipos y tecnologías que tengan por objetivo evitar, reducir o controlar la contaminación o deterioro ambiental, así como el uso eficiente de recursos naturales y de energía;
+
+*Fracción reformada DOF 29-05-2012*
 
 II.- La investigación e incorporación de sistemas de ahorro de energía y de utilización de fuentes de energía menos contaminantes;
 
@@ -806,7 +814,7 @@ VI.- Los procesos, productos y servicios que, conforme a la normatividad aplicab
 
 VII.- En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-*Fracción reformada DOF 05-07-2007 (se recorre)*
+*Fracción recorrida DOF 05-07-2007*
 
 *Artículo adicionado DOF 13-12-1996*
 
@@ -832,9 +840,17 @@ VI.- Las autoridades de la Federación, los Estados, el Distrito Federal y los M
 
 VII.- El aprovechamiento del agua para usos urbanos deberá incorporar de manera equitativa los costos de su tratamiento, considerando la afectación a la calidad del recurso y la cantidad que se utilice;
 
-VIII.- En la determinación de áreas para actividades altamente riesgosas, se establecerán las zonas intermedias de salvaguarda en las que no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población, y
+VIII. En la determinación de áreas para actividades altamente riesgosas, se establecerán las zonas intermedias de salvaguarda en las que no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población;
 
-IX.- La política ecológica debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y, a la vez, prever las tendencias de crecimiento del asentamiento humano, para mantener una relación suficiente entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de la vida.
+*Fracción reformada DOF 29-05-2012*
+
+IX. La política ecológica debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y, a la vez, prever las tendencias de crecimiento del asentamiento humano, para mantener una relación suficiente entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de la vida, y
+
+*Fracción reformada DOF 29-05-2012*
+
+X. Las autoridades de la Federación, los Estados, el Distrito Federal y los Municipios, en la esfera de su competencia, deberán de evitar los asentamientos humanos en zonas donde las poblaciones se expongan al riesgo de desastres por impactos adversos del cambio climático.
+
+*Fracción adicionada DOF 29-05-2012*
 
 *Artículo reformado DOF 13-12-1996*
 
@@ -1156,9 +1172,9 @@ La Secretaría del Trabajo y Previsión Social, promoverá el desarrollo de la c
 
 ##### ARTÍCULO 41.
 
-El Gobierno Federal, las entidades federativas y los municipios con arreglo a lo que dispongan las legislaturas locales, fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas, determinar la vulnerabilidad, así como las medidas de adaptación y mitigación al cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+El Gobierno Federal, las entidades federativas y los municipios con arreglo a lo que dispongan las legislaturas locales, fomentarán la investigación científica, desarrollo tecnológico e innovación, asimismo promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento sustentable de los recursos naturales, preservar, proteger y restaurar los ecosistemas para prevenir desequilibrios ecológicos y daños ambientales, determinar la vulnerabilidad, así como las medidas de adaptación y mitigación al cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
-*Artículo reformado DOF 28-01-2011*
+*Artículo reformado DOF 28-01-2011, 29-05-2012*
 
 #### SECCION IX · Información y Vigilancia
 
@@ -2402,7 +2418,9 @@ I. Adquieran, instalen u operen equipo para el control de emisiones contaminante
 
 II. Fabriquen, instalen o proporcionen mantenimiento a equipo de filtrado, combustión, control, y en general, de tratamiento de emisiones que contaminen la atmósfera;
 
-III. Realicen investigaciones de tecnología cuya aplicación disminuya la generación de emisiones contaminantes; y
+III. Realicen investigación científica y tecnológica e innovación, cuya aplicación disminuya la generación de emisiones contaminantes, y
+
+*Fracción reformada DOF 29-05-2012*
 
 IV. Ubiquen o relocalicen sus instalaciones para evitar emisiones contaminantes en zonas urbanas.
 
@@ -3190,9 +3208,9 @@ Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones
 
 *Párrafo reformado DOF 13-12-1996*
 
-I. Multa por el equivalente de veinte a cincuenta mil días de salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción;
+I. Multa por el equivalente de treinta a cincuenta mil días de salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción;
 
-*Fracción reformada DOF 31-12-2001*
+*Fracción reformada DOF 31-12-2001, 01-06-2012*
 
 II.- Clausura temporal o definitiva, total o parcial, cuando:
 
@@ -3216,7 +3234,9 @@ V.- La suspensión o revocación de las concesiones, licencias, permisos o autor
 
 Si una vez vencido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido, conforme a la fracción I de este artículo.
 
-En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del doble del máximo permitido, así como la clausura definitiva.
+En el caso de reincidencia, el monto de la multa podrá ser hasta por tres veces del monto originalmente impuesto, así como la clausura definitiva.
+
+*Párrafo reformado DOF 01-06-2012*
 
 Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
 
@@ -4001,3 +4021,73 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 13 de marzo de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Gloria Romero León, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de abril de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se adiciona una fracción X al artículo 23 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 29 de mayo de 2012*
+
+**Artículo Único.** Se adiciona una fracción X al artículo 23 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El titular del Poder Ejecutivo Federal en un plazo no mayor de 180 días posteriores a la entrada en vigor del presente decreto, deberá publicar el Atlas Nacional de Vulnerabilidad ante el Cambio Climático, con el fin de que las autoridades de la Federación, los Estados, el Distrito Federal y los Municipios, en la esfera de su competencia lo tomen en cuenta en la elaboración, actualización e implementación de sus programas de ordenamiento ecológico.
+
+México, D.F., a 17 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Gloria Romero Leon, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticinco de mayo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 22, 22 Bis, 41 y 116 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 29 de mayo de 2012*
+
+**Artículo Único:** Se reforman los artículos 22, tercer párrafo; 22 BIS, fracción I; 41, y 116, fracción III de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 17 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Mariano Quihuis Fragoso, Secretario.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticinco de mayo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 171 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 1 de junio de 2012*
+
+**Artículo Único.-** Se reforma la fracción I y el tercer párrafo del Artículo 171 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se derogan y abrogan todas las disposiciones que se opongan al presente Decreto
+
+México, D.F., a 19 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Gloria Romero León, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta y uno de mayo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de la Ley General de Desarrollo Forestal Sustentable.
+
+*Publicado en el Diario Oficial de la Federación el 4 de junio de 2012*
+
+**Artículo Primero.-** Se adiciona la fracción XXXVI al artículo 3, recorriéndose las subsecuentes, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……..
+
+**TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** El Titular del Poder Ejecutivo Federal, en un plazo no mayor a tres años posteriores a la entrada en vigor del presente Decreto, implementará un sistema nacional de monitoreo, registro y verificación, con el fin de evaluar y sistematizar la reducción de emisiones derivadas de acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales (REDD+), al que se hace referencia en la fracción IX del artículo 45 del presente Decreto.
+
+México, D.F., a 24 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Guadalupe Perez Dominguez, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
