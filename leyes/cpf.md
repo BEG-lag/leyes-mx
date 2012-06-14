@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2012-04-17
-articles: 515
+last_reform_dof: 2012-06-14
+articles: 521
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-archived: https://web.archive.org/web/20120511145501/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-source_sha256: 97de5eec7d49de6a4c4be985003ec680d6d4395f0354f3ee4a605f6e2aead476
-retrieved: 2012-05-11
+archived: https://web.archive.org/web/20121115131514/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
+source_sha256: b70f374c7650e20dfcee1d1260bc147c76eb32f9f61265781778683731295440
+retrieved: 2012-11-15
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 17-04-2012
+Últimas reformas publicadas DOF 14-06-2012
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -194,7 +194,7 @@ V.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, d
 
 VI.- La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho, y que este último no se realice con el solo propósito de perjudicar a otro;
 
-VII.- Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el agente hubiere preordenado su trastorno mental dolosa o culposamente, en cuyo caso responderá por el resultado típico siempre y cuando lo haya previsto o le fuere previsible.
+VII.- Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el agente hubiere provocado su trastorno mental dolosa o culposamente, en cuyo caso responderá por el resultado típico siempre y cuando lo haya previsto o le fuere previsible.
 
 Cuando la capacidad a que se refiere el párrafo anterior sólo se encuentre considerablemente disminuida, se estará a lo dispuesto en el artículo 69 bis de este Código.
 
@@ -352,13 +352,23 @@ En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de é
 
 ##### Artículo 30.
 
-La reparación del daño comprende:
+La reparación del daño debe ser integral, adecuada, eficaz, efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida, comprenderá cuando menos:
 
-I.- La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma;
+I. La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma, a su valor actualizado;
 
-II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, y
+II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
 
-III.- El resarcimiento de los perjuicios ocasionados.
+III. El resarcimiento de los perjuicios ocasionados;
+
+IV. El pago de la pérdida de ingreso económico y lucro cesante, para ello se tomará como base el salario que en el momento de sufrir el delito tenía la víctima y en caso de no contar con esa información, será conforme al salario mínimo vigente en el lugar en que ocurra el hecho;
+
+V. El costo de la pérdida de oportunidades, en particular el empleo, educación y prestaciones sociales, acorde a sus circunstancias;
+
+VI. La declaración que restablezca la dignidad y reputación de la víctima, a través de medios electrónicos o escritos;
+
+VII. La disculpa pública, la aceptación de responsabilidad, así como la garantía de no repetición, cuando el delito se cometa por servidores públicos.
+
+Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
 
 ##### Artículo 30 Bis.
 
@@ -366,15 +376,17 @@ Tienen derecho a la reparación del daño en el siguiente orden: 1o. El ofendido
 
 ##### Artículo 31.
 
-La reparación será fijada por los jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas en el proceso.
+La reparación será fijada por los jueces, según el daño que sea preciso reparar, con base en las pruebas obtenidas en el proceso y la afectación causada a la víctima u ofendido del delito.
 
 Para los casos de reparación del daño causado con motivo de delitos por imprudencia, el Ejecutivo de la Unión reglamentará, sin perjuicio de la resolución que se dicte por la autoridad judicial, la forma en que, administrativamente, deba garantizarse mediante seguro especial dicha reparación.
 
 ##### Artículo 31 Bis.
 
-En todo proceso penal el Ministerio Público estará obligado a solicitar, en su caso, la condena en lo relativo a la reparación del daño y el juez a resolver lo conducente.
+En todo proceso penal, el Ministerio Público estará obligado a solicitar, de oficio, la condena en lo relativo a la reparación del daño y el juez está obligado a resolver lo conducente.
 
-El incumplimiento de esta disposición será sancionado con multa de treinta a cincuenta días de salario mínimo.
+El incumplimiento de esta disposición se sancionara conforme a lo dispuesto por la fracción VII y el párrafo segundo del artículo 225 de este Código.
+
+En todo momento, la víctima deberá estar informada sobre la reparación del daño.
 
 ##### Artículo 32.
 
@@ -412,7 +424,7 @@ Quien se considere con derecho a la reparación del daño, que no pueda obtener 
 
 ##### Artículo 35.
 
-El importe de la sanción pecuniaria se distribuirá: entre el Estado y la parte ofendida; al primero se le aplicará el importe de la multa, y a la segunda el de la reparación.
+El importe de la sanción pecuniaria se distribuirá: entre el Estado y la parte ofendida; al primero se aplicará el importe de la multa, y a la segunda el de la reparación.
 
 Si no se logra hacer efectivo todo el importe de la sanción pecuniaria, se cubrirá de preferencia la reparación del daño, y en su caso, a prorrata entre los ofendidos.
 
@@ -420,7 +432,7 @@ Si la parte ofendida renunciare a la reparación, el importe de ésta se aplicar
 
 Los depósitos que garanticen la libertad caucional se aplicarán como pago preventivo a la reparación del daño cuando el inculpado se substraiga a la acción de la justicia.
 
-Al mandarse hacer efectivos tales depósitos, se prevendrá a la autoridad ejecutora que conserve su importe a disposición del tribunal, para que llegado el caso se haga su aplicación conforme a lo dispuesto en los párrafos anteriores de este artículo.
+Al mandarse hacer efectivos tales depósitos, se prevendrá a la autoridad ejecutora que conserve su importe a disposición del tribunal, para que se haga su aplicación conforme a lo dispuesto en los párrafos anteriores de este artículo.
 
 ##### Artículo 36.
 
@@ -716,7 +728,7 @@ II.- Si fuere la de confinamiento, se conmutará por multa, a razón de un día 
 
 El reo que considere que al dictarse sentencia reunía las condiciones para el disfrute de la sustitución o conmutación de la sanción y que por inadvertencia de su parte o del juzgador no le hubiera sido otorgada, podrá promover ante éste que se le conceda, abriéndose el incidente respectivo en los términos de la fracción X del artículo 90.
 
-En todo caso en que proceda la substitución o la conmutación de la pena, al hacerse el cálculo de la sanción substitutiva se disminuirá además de lo establecido en el último párrafo del artículo 29 de este Código, el tiempo durante el cual el sentenciado sufrió sanción preventiva.
+En todo caso en que proceda la substitución o la conmutación de la pena, al hacerse el cálculo de la sanción substitutiva se disminuirá además de lo establecido en el último párrafo del artículo 29 de este Código, el tiempo durante el cual el sentenciado sufrió prisión preventiva.
 
 ##### Artículo 75.
 
@@ -796,7 +808,7 @@ c) Corrupción de personas menores de dieciocho años de edad o de personas que 
 
 d) Violación, previsto en los artículos 265, 266 y 266 bis;
 
-e) Homicidio, previsto en los artículos 315, 315 bis y 320;
+e) Homicidio, previsto en los artículos 315, 315 Bis y 320; y feminicidio previsto en el artículo 325;
 
 f) Tráfico de menores, previsto en el artículo 366 Ter.
 
@@ -812,7 +824,7 @@ k) Los previstos y sancionados en los artículos 112 Bis, 112 Ter, 112 Quáter y
 
 l) Los previstos y sancionados en los artículos 432, 433, 434 y 435 de la Ley General de Títulos y Operaciones de Crédito, cuando quien lo cometa forme parte de una asociación, banda o pandilla en los términos del artículo 164 o 164 Bis.
 
-II. Trata de personas previsto en los artículos 5 y 6 de la Ley para Prevenir y Sancionar la Trata de Personas.
+II. Delitos en Materia de Trata de Personas contenidos en el Título Segundo de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
 
 III. Los que incurran en segunda reincidencia de delito doloso o sean considerados delincuentes habituales.
 
@@ -914,7 +926,7 @@ La amnistía extingue la acción penal y las sanciones impuestas, excepto la rep
 
 ##### Artículo 93.
 
-El perdón del ofendido o del legitimado para otorgarlo extingue la acción penal respecto de los delitos que se persiguen por querella, siempre que se conceda ante el Ministerio Público si éste no ha ejercitado la misma o ante el órgano jurisdiccional antes de dictarse sentencia de segunda instancia. Una vez otorgado el perdón, éste no podrá revocarse.
+El perdón del ofendido o del legitimado para otorgarlo sólo podrá otorgarse cuando se hayan reparado la totalidad de los daños y perjuicios ocasionados por la comisión del delito, éste extingue la acción penal respecto de los delitos que se persiguen por querella, siempre que se conceda ante el Ministerio Público si éste no ha ejercitado la misma o ante el órgano jurisdiccional antes de dictarse sentencia de segunda instancia. Una vez otorgado el perdón, éste no podrá revocarse.
 
 Lo dispuesto en el párrafo anterior es igualmente aplicable a los delitos que sólo pueden ser perseguidos por declaratoria de perjuicio o por algún otro acto equivalente a la querella, siendo suficiente para la extinción de la acción penal la manifestación de quien está autorizado para ello de que el interés afectado ha sido satisfecho.
 
@@ -960,7 +972,7 @@ La rehabilitación tiene por objeto reintegrar al condenado en los derechos civi
 
 ##### Artículo 100.
 
-Por la prescripción se extingue la acción penal y las sanciones, conforme a los siguientes artículos.
+Por la prescripción se extinguen la acción penal y las sanciones, conforme a los siguientes artículos.
 
 ##### Artículo 101.
 
@@ -1009,6 +1021,8 @@ Pero una vez llenado el requisito de procedibilidad dentro del plazo antes menci
 El término de prescripción de los delitos previstos en el Título Octavo del Libro Segundo de este Código cometidos en contra de una víctima menor de edad, comenzará a correr a partir de que ésta cumpla la mayoría de edad.
 
 En el caso de aquellas personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, correrá a partir del momento en que exista evidencia de la comisión de esos delitos ante el Ministerio Público.
+
+En los casos de los delitos contra la libertad y el normal desarrollo psicosexual, así como los previstos en la Ley para prevenir y sancionar la Trata de Personas, que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, se observarán las reglas para la prescripción de la acción penal contenidas en este capítulo, pero el inicio del cómputo de los plazos comenzará a partir del día en que la víctima cumpla la mayoría de edad.
 
 ##### Artículo 108.
 
@@ -1228,7 +1242,7 @@ a) Oculte o auxilie a los espías o exploradores de los rebeldes, sabiendo que l
 
 b) Mantenga relaciones con los rebeldes, para proporcionarles noticias concernientes a las operaciones militares u otras que les sean útiles.
 
-III.- Voluntariamente sirva un empleo, cargo o comisión en lugar ocupado por los rebeldes, salvo que actué coaccionado o por razones humanitarias.
+III.- Voluntariamente sirva un empleo, cargo o comisión en lugar ocupado por los rebeldes, salvo que actúe coaccionado o por razones humanitarias.
 
 ##### Artículo 136.
 
@@ -1376,6 +1390,30 @@ Se aplicarán las mismas sanciones señaladas en el párrafo anterior, a quien c
 
 En caso de que los responsables de dichos delitos fueran gobernantes, funcionarios o empleados públicos y las cometieren en ejercicio de sus funciones o con motivo de ellas, además de las sanciones establecidas en este artículo se les aplicarán las penas señaladas en el artículo 15 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
 
+### Título Tercero Bis · Delitos contra la Dignidad de las Personas
+
+#### Capítulo Único · Discriminación
+
+##### Artículo 149 Ter.
+
+Se aplicará sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y hasta doscientos días multa al que por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, embarazo, opiniones políticas o de cualquier otra índole atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
+
+I. Niegue a una persona un servicio o una prestación a la que tenga derecho;
+
+II. Niegue o restrinja derechos laborales, principalmente por razón de género o embarazo; o límite un servicio de salud, principalmente a la mujer en relación con el embarazo; o
+
+III. Niegue o restrinja derechos educativos.
+
+Al servidor público que, por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación a que tenga derecho se le aumentará en una mitad la pena prevista en el primer párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
+
+No serán consideradas discriminatorias todas aquellas medidas tendentes a la protección de los grupos socialmente desfavorecidos.
+
+Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que la víctima tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
+
+Asimismo, se incrementará la pena cuando los actos discriminatorios limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
+
+Este delito se perseguirá por querella.
+
 ### TITULO · CUARTO
 
 Delitos Contra la Seguridad Pública
@@ -1470,7 +1508,7 @@ La concesión de licencias a que se refiere el artículo 161, la hará el Ejecut
 
 I.- La venta de las armas comprendidas en el artículo 161, sólo podrá hacerse por establecimientos mercantiles provistos de licencia y nunca por particulares, y
 
-II.- El que solicite la licencia para portar armas deberá cumplir con los requisitos siguientes:
+II.- El que solicite licencia para portar armas deberá cumplir con los requisitos siguientes:
 
 a). Otorgar fianza por la cantidad que fije la autoridad, y
 
@@ -1574,7 +1612,7 @@ Las mismas penas se impondrán a quienes realicen vuelos clandestinos, o proporc
 
 Si las actividades delictivas a que se refiere el primer párrafo se relacionan con delitos contra la salud, las penas de prisión y de multa se duplicarán.
 
-Al que construya, instale, acondicione o ponga en operación los inmuebles e instalaciones a que se refiere el párrafo primero, sin haber observado las normas de concesión, aviso o permiso contenidas en las legislación respectiva, se le pondrá de tres a ocho años de prisión y de ciento cincuenta a cuatrocientos días multa.
+Al que construya, instale, acondicione o ponga en operación los inmuebles e instalaciones a que se refiere el párrafo primero, sin haber observado las normas de concesión, aviso o permiso contenidas en la legislación respectiva, se le impondrá de tres a ocho años de prisión y de ciento cincuenta a cuatrocientos días multa.
 
 Las sanciones previstas en este artículo se impondrán sin perjuicio de las medidas que disponga la Ley de Vías Generales de Comunicación y de las sanciones que correspondan, en su caso, por otros delitos cometidos.
 
@@ -1724,7 +1762,7 @@ Si la introducción o extracción a que se refiere esta fracción no llegare a c
 
 III.- Aporte recursos económicos o de cualquier especie, o colabore de cualquier manera al financiamiento, supervisión o fomento para posibilitar la ejecución de alguno de los delitos a que se refiere este capítulo; y
 
-IV.- Realice actos de publicidad o propaganda, para que se consuma cualesquiera de las instancias comprendidas en el artículo anterior.
+IV.- Realice actos de publicidad o propaganda, para que se consuma cualesquiera de las sustancias comprendidas en el artículo anterior.
 
 Las mismas penas previstas en este artículo y, además, privación del cargo o comisión e inhabilitación para ocupar otro hasta por cinco años, se impondrán al servidor público que, en ejercicio de sus funciones o aprovechando su cargo, permita, autorice o tolere cualesquiera de las conductas señaladas en este artículo.
 
@@ -1815,6 +1853,36 @@ El que a sabiendas de que está enfermo de un mal venéreo u otra enfermedad gra
 Si la enfermedad padecida fuera incurable se impondrá la pena de seis meses a cinco años de prisión.
 
 Cuando se trate de cónyuges, concubinas, sólo podrá procederse por querella del ofendido.
+
+#### Capítulo III · Delitos contra los Derechos Reproductivos
+
+##### Artículo 199 Ter.
+
+A quien cometa el delito previsto en el artículo 466 de la Ley General de Salud con violencia, se impondrá de cinco a catorce años de prisión y hasta ciento veinte días multa.
+
+##### Artículo 199 Quáter.
+
+Se sancionará de cuatro a siete años de prisión y hasta setenta días multa a quien implante a una mujer un óvulo fecundado, cuando hubiere utilizado para ello un óvulo ajeno o esperma de donante no autorizado, sin el consentimiento expreso de la paciente, del donante o con el consentimiento de una menor de edad o de una incapaz para comprender el significado del hecho o para resistirlo.
+
+Si el delito se realiza con violencia o de ella resulta un embarazo, la pena aplicable será de cinco a catorce años y hasta ciento veinte días multa.
+
+Además de las penas previstas, se impondrá suspensión para ejercer la profesión o, en caso de servidores públicos, inhabilitación para el desempeño del empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta, así como la destitución.
+
+Cuando entre el activo y el pasivo exista relación de matrimonio, concubinato o relación de pareja, los delitos previstos en los artículos anteriores se perseguirán por querella.
+
+Si resultan hijos a consecuencia de la comisión de alguno de los delitos previstos en los artículos anteriores, la reparación del daño comprenderá además el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil.
+
+##### Artículo 199 Quintus.
+
+Comete el delito de esterilidad provocada quien sin el consentimiento de una persona practique en ella procedimientos quirúrgicos, químicos o de cualquier otra índole para hacerla estéril.
+
+Al responsable de esterilidad provocada se le impondrán de cuatro a siete años de prisión y hasta setenta días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados, que podrá incluir el procedimiento quirúrgico correspondiente para revertir la esterilidad.
+
+Además de las penas señaladas en el párrafo anterior, se impondrá al responsable la suspensión del empleo o profesión por un plazo igual al de la pena de prisión impuesta hasta la inhabilitación definitiva, siempre que en virtud de su ejercicio haya resultado un daño para la víctima; o bien, en caso de que el responsable sea servidor público se le privará del empleo, cargo o comisión público que haya estado desempeñando, siempre que en virtud de su ejercicio haya cometido dicha conducta típica.
+
+##### Artículo 199 Sextus.
+
+Los delitos previstos en este capítulo serán perseguibles de oficio, a excepción de los que se señalen por querella de parte ofendida.
 
 ### TITULO OCTAVO · DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD.
 
@@ -1920,9 +1988,9 @@ Al responsable de este delito se le impondrá prisión de ocho a quince años y 
 
 Derogado.
 
-##### Artículo 205 bis.
+##### Artículo 205-Bis.
 
-Las sanciones señaladas en los artículos 200, 201, 202, 203 y 204 se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
+Serán imprescriptibles las sanciones señaladas en los artículos 200, 201 y 204. Asimismo, las sanciones señaladas en dichos artículos se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
 
 a) Los que ejerzan la patria potestad, guarda o custodia;
 
@@ -2226,7 +2294,7 @@ Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientas v
 
 Comete el delito de intimidación:
 
-I.- El servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley Federal de Responsabilidad de los Servidores Públicos, y
+I.- El servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley Federal de Responsabilidades de los Servidores Públicos, y
 
 II.- El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
 
@@ -2256,7 +2324,7 @@ Comete el delito de tráfico de influencia:
 
 I.- El servidor público que por sí o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, y
 
-II.- Cualquier persona que promueva la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior.
+II.- Cualquier persona que promueve la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior.
 
 III.- El servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que hace referencia la primera fracción del artículo 220 de este Código.
 
@@ -2272,7 +2340,7 @@ I.- El servidor público que por sí, o por interpósita persona solicite o reci
 
 II.- El que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva a alguna de las personas que se mencionan en la fracción anterior, para que cualquier servidor público haga u omita un acto justo o injusto relacionado con sus funciones.
 
-Al que comete el delito de cohecho se le impondrán las siguiente sanciones:
+Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
 
 Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
 
@@ -2314,7 +2382,7 @@ Al que cometa el delito de peculado se le impondrán las siguientes sanciones:
 
 Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
 
-Cuando el monto de los distraído o de los fondos utilizados indebidamente exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión, multa de trescientas a quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión, multa de trescientas a quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 Cuando los recursos materia del peculado sean aportaciones federales para los fines de seguridad pública se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
 
@@ -2404,11 +2472,15 @@ XXIX. Se deroga.
 
 XXX. Retener al detenido sin cumplir con los requisitos que establece la Constitución y las leyes respectivas;
 
-XXXI. Alterar, destruir, perder o perturbar ilícitamente el lugar de los hechos; los indicios, huellas o vestigios del hecho delictuoso o los instrumentos, objetos o productos del delito, y
+XXXI. Alterar, destruir, perder o perturbar ilícitamente el lugar de los hechos; los indicios, huellas o vestigios del hecho delictuoso o los instrumentos, objetos o productos del delito;
 
-XXXII. Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que el inculpado se sustraiga a la acción de la justicia.
+XXXII. Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que el inculpado se sustraiga a la acción de la justicia;
 
-A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV y XXVI, se les impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa.
+XXXIII. Obligue a una persona o a su representante a otorgar el perdón en los delitos que se persiguen por querella; y
+
+XXXIV. Obligue a una persona a renunciar a su cargo o empleo para evitar responder a acusaciones de acoso, hostigamiento o para ocultar violaciones a la Ley Federal del Trabajo.
+
+A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV, XXVI, XXXIII y XXXIV, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa.
 
 A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI y XXXII, se le impondrá pena de prisión de cuatro a diez años y de mil a dos mil días multa.
 
@@ -2476,7 +2548,7 @@ I.- Por patrocinar o ayudar a diversos contendientes o partes con intereses opue
 
 II.- Por abandonar la defensa de un cliente o negocio sin motivo justificado y causando daño, y
 
-III.- Al defensor de un reo, sea particular o de oficio, que sólo se concrete a aceptar el cargo y a solicitar la libertad condicional que menciona la fracción I del artículo 20 de la Constitución, sin promover, más pruebas ni dirigirlo en su defensa.
+III.- Al defensor de un reo, sea particular o de oficio, que sólo se concrete a aceptar el cargo y a solicitar la libertad caucional que menciona la fracción I del artículo 20 de la Constitución, sin promover más pruebas ni dirigirlo en su defensa.
 
 ##### Artículo 233.
 
@@ -2516,7 +2588,7 @@ Para los efectos de este artículo se entiende que altera un billete, aquel que 
 
 ##### Artículo 237.
 
-Se castigará con prisión de cinco a doce años y hasta quinientos días multa, a quien preste sus servios o desempeñe un cargo o comisión en la casa de moneda o en cualquier empresa que fabrique cospeles, y que por cualquier medio, haga que las monedas de oro, plata, platino o paladio, contengan metal diverso al señalado por la ley, o tengan menor peso que el legal o una ley de aleación inferior.
+Se castigará con prisión de cinco a doce años y hasta quinientos días multa, a quien preste sus servicios o desempeñe un cargo o comisión en la casa de moneda o en cualquier empresa que fabrique cospeles, y que por cualquier medio, haga que las monedas de oro, plata, platino o paladio, contengan metal diverso al señalado por la ley, o tengan menor peso que el legal o una ley de aleación inferior.
 
 ##### Artículo 238.
 
@@ -2886,7 +2958,7 @@ Si con los actos a que se refiere el párrafo anterior se causa algún daño, la
 
 Delitos contra la Libertad y el Normal Desarrollo Psicosexual
 
-#### CAPITULO I · Hostigamiento sexual, abuso sexual, estupro y violación
+#### Capítulo I · Hostigamiento Sexual, Abuso Sexual, Estupro y Violación
 
 ##### Artículo 259 Bis.
 
@@ -2898,19 +2970,25 @@ Sólo se procederá contra el hostigador, a petición de parte ofendida.
 
 ##### Artículo 260.
 
-Al que sin el consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual o la obligue a ejecutarlo, se le impondrá pena de seis meses a cuatro años de prisión.
+Comete el delito de abuso sexual quien ejecute en una persona, sin su consentimiento, o la obligue a ejecutar para sí o en otra persona, actos sexuales sin el propósito de llegar a la cópula.
 
-Si se hiciere uso de la violencia física o moral, el mínimo y el máximo de la pena se aumentarán hasta en una mitad.
+A quien cometa este delito, se le impondrá pena de seis a diez años de prisión y hasta doscientos días multa.
+
+Para efectos de este artículo se entiende por actos sexuales los tocamientos o manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
+
+También se considera abuso sexual cuando se obligue a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
+
+Si se hiciera uso de violencia, física o psicológica, la pena se aumentará en una mitad más en su mínimo y máximo.
 
 ##### Artículo 261.
 
-Al que sin el propósito de llegar a la cópula, ejecute un acto sexual en una persona menor de doce años de edad o persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo, se le aplicará una pena de dos a cinco años de prisión.
+A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y hasta quinientos días multa.
 
-Si se hiciere uso de la violencia física o moral, el mínimo y el máximo de la pena se aumentarán hasta en una mitad.
+Si se hiciera uso de violencia, la pena se aumentará en una mitad más en su mínimo y máximo.
 
 ##### Artículo 262.
 
-Al que tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de engaño, se le aplicará de tres meses a cuatro años de prisión.
+Al que tenga cópula con persona mayor de quince años y menor de dieciocho, obteniendo su consentimiento por medio de engaño, se le aplicará de tres meses a cuatro años de prisión.
 
 ##### Artículo 263.
 
@@ -2922,11 +3000,11 @@ En el caso del artículo anterior, no se procederá contra el sujeto activo, sin
 
 ##### Artículo 265.
 
-Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a catorce años.
+Comete el delito de violación quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a veinte años.
 
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
-Se considerará también como violación y se sancionará con prisión de ocho a catorce años, al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+Se considerará también como violación y se sancionará con prisión de ocho a veinte años al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 
 ##### Artículo 265 bis.
 
@@ -2936,13 +3014,13 @@ Este delito se perseguirá por querella de parte ofendida.
 
 ##### Artículo 266.
 
-Se equipara a la violación y se sancionará con la misma pena:
+Se equipara a la violación y se sancionará de ocho a treinta años de prisión:
 
-I.- Al que sin violencia realice cópula con persona menor de doce años de edad;
+I. Al que sin violencia realice cópula con persona menor de quince años de edad;
 
 II.- Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y
 
-III.- Al que sin violencia y con fines lascivos introduzca por vía anal o vaginal cualquier elemento o instrumento distinto del miembro viril en una persona menor de doce años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
+III. Al que sin violencia y con fines lascivos introduzca por vía anal o vaginal cualquier elemento o instrumento distinto del miembro viril en una persona menor de quince años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
 
 Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se aumentará hasta en una mitad.
 
@@ -2984,11 +3062,13 @@ IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custo
 
 ##### Artículo 272.
 
-Se impondrá la pena de uno a seis años de prisión a los ascendientes que tengan relaciones sexuales con sus descendientes.
+Se sancionará con pena de uno a seis años de prisión, el delito de incesto cuando los ascendientes tengan relaciones sexuales con sus descendientes, siempre y cuando estos últimos sean mayores de edad.
 
-La pena aplicable a estos últimos será de seis meses a tres años de prisión.
+(Se deroga el párrafo segundo)
 
-Se aplicará esta misma sanción en caso de incesto entre hermanos.
+(Se deroga el párrafo tercero)
+
+Cuando la víctima sea menor de edad, la conducta siempre será entendida como típica de violación.
 
 #### CAPITULO IV · Adulterio
 
@@ -3244,7 +3324,7 @@ Además de lo dispuesto en los artículos 51 y 52 para la fijación de las penas
 
 ##### Artículo 310.
 
-Se impondrá de dos a siete años de prisión, al que en estado de emoción violenta cause homicidio en circunstancias que atenúen su culpabilidad. Si lo causado fueren lesiones, la pena será de hasta una tercera parte de la que correspondería por su comisión.
+(Se deroga)
 
 ##### Artículo 311.
 
@@ -3284,9 +3364,15 @@ I.- Cuando el delincuente es superior en fuerza física al ofendido y éste no s
 
 II.- Cuando es superior por las armas que emplea, por su mayor destreza en el manejo de ellas o por el número de los que lo acompañan;
 
-III.- Cuando se vale de algún medio que debilita la defensa del ofendido, y
+III. Cuando se vale de algún medio que debilita la defensa del ofendido;
 
-IV.- Cuando éste se halla inerme o caído y aquél armado o de pie.
+IV. Cuando éste se halla inerme o caído y aquél armado o de pie;
+
+V. El activo sea un hombre superior en fuerza física y el pasivo una mujer o persona menor de dieciocho años;
+
+VI. El homicidio y las lesiones se ocasionen en situaciones de violencia familiar; y
+
+VII. Exista una situación de vulnerabilidad motivada por la condición física o mental o por discriminación.
 
 La ventaja no se tomará en consideración en los tres primeros casos, si el que la tiene obrase en defensa legítima, ni en el cuarto, si el que se halla armado o de pie fuera el agredido, y, además, hubiere corrido peligro de su vida por no aprovechar esa circunstancia.
 
@@ -3326,17 +3412,41 @@ II.- Prohibirles ir a determinado lugar, Municipio, Distrito o Estado, o residir
 
 ##### Artículo 323.
 
-Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación se le impondrá prisión de diez a cuarenta años. Si faltare dicho conocimiento, se estará a la punibilidad prevista en el artículo 307, sin menoscabo de observar alguna circunstancia que agrave o atenúe la sanción a que se refieren los Capítulos II y III anteriores.
+Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, convivente, compañera o compañero civil, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación se le impondrá prisión de treinta a sesenta años.
+
+Si faltare dicho conocimiento, se estará a la punibilidad prevista en el artículo 307, sin menoscabo de observar alguna circunstancia que agrave o atenúe la sanción a que se refieren los capítulos II y III anteriores.
 
 ##### Artículo 324.
 
 (Se deroga).
 
-#### CAPITULO V · Infanticidio
+#### Capítulo V · Feminicidio
 
 ##### Artículo 325.
 
-(Se deroga).
+Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
+
+I. La víctima presente signos de violencia sexual de cualquier tipo;
+
+II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
+
+III. Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
+
+IV. Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
+
+V. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+
+VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
+
+VII. El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+
+A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y de quinientos a mil días multa.
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
 ##### Artículo 326.
 
@@ -3428,19 +3538,15 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 
 #### CAPITULO OCTAVO · Violencia familiar
 
-##### Artículo 343 bis.
+##### Artículo 343 Bis.
 
-Por violencia familiar se considera el uso de la fuerza física o moral así como la omisión grave, que de manera reiterada se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones.
+Comete el delito de violencia familiar quien lleve a cabo actos o conductas de dominio, control o agresión física, psicológica, patrimonial o económica, a alguna persona con la que se encuentre o haya estado unida por vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o una relación de pareja dentro o fuera del domicilio familiar.
 
-Comete el delito de violencia familiar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima.
+A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia. Asimismo, se le sujetará a tratamiento psicológico especializado.
 
-A quien comete el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
+##### Artículo 343 Ter.
 
-Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en que se perseguirá de oficio.
-
-##### Artículo 343 ter.
-
-Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor y el agredido habiten en la misma casa.
+Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
 
 ##### Artículo 343 quáter.
 
@@ -3558,19 +3664,11 @@ II.- (Se deroga)
 
 ##### Artículo 365.
 
-Se impondrán de tres días a un año de prisión y multa de cinco a cien pesos:
-
-I.- Al que obligue a otro a prestarle trabajos o servicios personales sin la retribución debida, ya sea empleando violencia física o moral o valiéndose del engaño, de la intimidación o de cualquier otro medio, y
-
-II.- Al que celebre con otro un contrato que prive a éste de la libertad o le imponga condiciones que lo constituyan en una especie de servidumbre o que se apodere de alguna persona y la entregue a otro con el objeto de que éste celebre dicho contrato.
+(Se deroga)
 
 ##### Artículo 365 Bis.
 
-Al que prive ilegalmente a otro de su libertad con el propósito de realizar un acto sexual, se le impondrá pena de uno a cinco años de prisión.
-
-Si el autor del delito restituye la libertad a la víctima sin haber practicado el acto sexual, dentro de los tres días siguientes, la sanción será de un mes a dos años de prisión.
-
-Este delito sólo se perseguirá por querella de la persona ofendida.
+(Se deroga)
 
 ##### Artículo 366.
 
@@ -3939,6 +4037,12 @@ Este delito se sancionará con las penas previstas en el artículo 386 de este C
 Al que sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo, obteniendo un lucro para sí o para otro o causando a alguien un perjuicio patrimonial, se le aplicarán de dos a ocho años de prisión y de cuarenta a ciento sesenta días multa.
 
 Las penas se aumentarán hasta un tanto más si el constreñimiento se realiza por una asociación delictuoso, o por servidor público o ex-servidor público, o por miembro o ex-miembro de alguna corporación policial o de las Fuerzas Armadas Mexicanas. En este caso, se impondrá además al servidor o ex-servidor público y al miembro o ex-miembro de alguna corporación policial, la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar cargo o comisión público, y si se tratare de un miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a cinco años para desempeñar cargos o comisión públicos.
+
+#### Capítulo III Ter · Fraude Familiar
+
+##### Artículo 390 Bis.
+
+A quien en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio o el concubinato, oculte, transfiera o adquiera a nombre de terceros bienes, se le aplicará sanción de uno a cinco años de prisión y hasta trescientos días multa.
 
 #### CAPITULO IV · De los delitos cometidos por los comerciantes sujetos a concurso
 
@@ -5392,3 +5496,57 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 1 de marzo de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Arturo Herviz Reyes, Secretario.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de abril de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos; y abroga la Ley para Prevenir y Sancionar la Trata de Personas; y reforma diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Orgánica del Poder Judicial de la Federación; de la Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública.
+
+*Publicado en el Diario Oficial de la Federación el 14 de junio de 2012*
+
+**Artículo Primero.-** Se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo a Octavo.- ……….
+
+**Noveno.-** La presente Ley deroga los delitos objeto de la misma, en el Código Penal Federal y Leyes Federales.
+
+**Décimo.-** ……….
+
+**Décimo Primero.-** Las disposiciones relativas a los delitos a que se refiere esta Ley previstas tanto en el Código Penal Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor de la presente Ley, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+Décimo Segundo a Décimo Cuarto. ……….
+
+……….
+
+**Artículo Cuarto.** Se reforman los artículos 85, fracción II y 205 bis, primer párrafo del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D. F., a 27 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Laura Arizmendi Campos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, de la Ley Orgánica de la Administración Pública Federal y de la Ley Orgánica de la Procuraduría General de la República.
+
+*Publicado en el Diario Oficial de la Federación el 14 de junio de 2012*
+
+**Artículo Primero.** Se reforman los artículos 30; el primer párrafo del artículo 31; el artículo 31-Bis; el inciso e) de la fracción I del artículo 85; el primer párrafo del artículo 93; las fracciones XXXI y XXXII y el párrafo segundo del artículo 225; los artículos 260 y 261; las fracciones III y IV del artículo 316; el artículo 323; la denominación del capítulo V, para quedar como “Feminicidio”, del título decimonoveno del libro segundo, así como su artículo 325; y los artículos 343 Bis y 343 Ter. Se adicionan el párrafo tercero en el artículo 107 Bis; el título tercero bis, denominado “Delitos contra la dignidad de las personas”, con un capítulo único, con la denominación “Discriminación”, integrado por el artículo 149 Ter; el capítulo III, con la denominación “Delitos contra los derechos reproductivos”, al título séptimo, llamado “Delitos contra la salud”, así como sus artículos 199 Ter, 199 Quáter, 199 Quintus y 199 Sextus; las fracciones XXXIII y XXXIV al artículo 225; las fracciones V, VI y VII al artículo 316; el capítulo III Ter al título vigésimo segundo del libro segundo, para denominarse “Fraude familiar”, con su artículo 390 Bis. Y se derogan los párrafos segundo y tercero del artículo 272; el artículo 310 y los artículos 365 y 365 Bis, todos del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
+
+México, D.F., a 30 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Herón Escobar García, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
