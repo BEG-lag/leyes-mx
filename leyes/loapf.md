@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2012-04-09
+last_reform_dof: 2012-06-14
 articles: 61
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
-archived: https://web.archive.org/web/20120511140617/http://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
-source_sha256: 3e1c5dd21ce2ba6944bd383be9381b13b180fb19cbf998a30925323676ef741a
-retrieved: 2012-05-11
+archived: https://web.archive.org/web/20121115124723/http://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
+source_sha256: 4bfb3d04fd260f3b04d75551f42ef21d82b692786c105684af71f15f75f17922
+retrieved: 2012-11-15
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-04-2012
+Última reforma publicada DOF 14-06-2012
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -462,7 +462,7 @@ XXV.- Inspeccionar, patrullar y llevar a cabo labores de reconocimiento y vigila
 
 XXVI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-#### Artículo 30 bis.
+#### Artículo 30 Bis.
 
 A la Secretaría de Seguridad Pública corresponde el despacho de los siguientes asuntos:
 
@@ -514,11 +514,13 @@ XXIII. Ejecutar las penas por delitos del orden federal y administrar el sistema
 
 XXIV. Participar, conforme a los tratados respectivos, en el traslado de los reos a que se refiere el quinto párrafo del artículo 18 constitucional;
 
-XXV. Administrar el sistema federal para el tratamiento de menores infractores, en términos de la política especial correspondiente y con estricto apego a los derechos humanos; y
+XXV. Administrar el sistema federal para el tratamiento de menores infractores, en términos de la política especial correspondiente y con estricto apego a los derechos humanos;
 
-XXVI. Promover la celebración de convenios entre las autoridades federales, y de éstas, con aquéllas estatales, municipales y del Distrito Federal competentes, en aras de lograr la efectiva coordinación y funcionamiento del Sistema Nacional de Seguridad Pública y el combate a la delincuencia, y
+XXVI. Promover la celebración de convenios entre las autoridades federales, y de éstas, con las estatales, municipales y del Distrito Federal competentes, en aras de lograr la efectiva coordinación y funcionamiento del Sistema Nacional de Seguridad Pública y el combate a la delincuencia;
 
-XXVII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXVII. Diseñar, actualizar y publicar una página electrónica específica en la cual se registren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas en todo el país. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas. Esta página deberá actualizarse de forma permanente; y
+
+XXVIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 #### Artículo 31.
 
@@ -1999,3 +2001,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, de la Ley Orgánica de la Administración Pública Federal y de la Ley Orgánica de la Procuraduría General de la República.
+
+*Publicado en el Diario Oficial de la Federación el 14 de junio de 2012*
+
+**Artículo Tercero.** Se reforma la fracción XXV y se adiciona una fracción XXVII, pasando la actual a ser fracción XXVIII, al artículo 30 Bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
+
+México, D.F., a 30 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Herón Escobar García, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
