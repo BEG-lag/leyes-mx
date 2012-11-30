@@ -3,12 +3,12 @@ title: Ley Federal del Trabajo
 abbreviation: LFT
 slug: lft
 published_dof: 1970-04-01
-last_reform_dof: 2012-04-09
-articles: 1073
+last_reform_dof: 2012-11-30
+articles: 1131
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/125.doc
-archived: https://web.archive.org/web/20120511152609/http://www.diputados.gob.mx/LeyesBiblio/doc/125.doc
-source_sha256: d6ef2f607cf53c5a343877dab1cb58e7420d1a60e9d25ff5da69dc17679d9d28
-retrieved: 2012-05-11
+archived: https://web.archive.org/web/20150316001004/http://www.diputados.gob.mx/LeyesBiblio/doc/125.doc
+source_sha256: 2201471942db439d594171f6052a09f3155e3068ad5fc26ef8c48523bcc1bb09
+retrieved: 2015-03-16
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de abril de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-04-2012
+Última reforma publicada DOF 30-11-2012
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -40,15 +40,33 @@ La presente Ley es de observancia general en toda la República y rige las relac
 
 ##### Artículo 2o.
 
-Las normas de trabajo tienden a conseguir el equilibrio y la justicia social en las relaciones entre trabajadores y patrones.
+Las normas del trabajo tienden a conseguir el equilibrio entre los factores de la producción y la justicia social, así como propiciar el trabajo digno o decente en todas las relaciones laborales.
+
+Se entiende por trabajo digno o decente aquél en el que se respeta plenamente la dignidad humana del trabajador; no existe discriminación por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, condición migratoria, opiniones, preferencias sexuales o estado civil; se tiene acceso a la seguridad social y se percibe un salario remunerador; se recibe capacitación continua para el incremento de la productividad con beneficios compartidos, y se cuenta con condiciones óptimas de seguridad e higiene para prevenir riesgos de trabajo.
+
+El trabajo digno o decente también incluye el respeto irrestricto a los derechos colectivos de los trabajadores, tales como la libertad de asociación, autonomía, el derecho de huelga y de contratación colectiva.
+
+Se tutela la igualdad sustantiva o de hecho de trabajadores y trabajadoras frente al patrón.
+
+La igualdad sustantiva es la que se logra eliminando la discriminación contra las mujeres que menoscaba o anula el reconocimiento, goce o ejercicio de sus derechos humanos y las libertades fundamentales en el ámbito laboral. Supone el acceso a las mismas oportunidades, considerando las diferencias biológicas, sociales y culturales de mujeres y hombres.
 
 ##### Artículo 3o.
 
-El trabajo es un derecho y un deber sociales. No es artículo de comercio, exige respeto para las libertades y dignidad de quien lo presta y debe efectuarse en condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia.
+El trabajo es un derecho y un deber sociales. No es artículo de comercio.
 
-No podrán establecerse distinciones entre los trabajadores por motivo de raza, sexo, edad, credo religioso, doctrina política o condición social.
+No podrán establecerse condiciones que impliquen discriminación entre los trabajadores por motivo de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, condición migratoria, opiniones, preferencias sexuales, estado civil o cualquier otro que atente contra la dignidad humana.
 
-Asimismo, es de interés social promover y vigilar la capacitación y el adiestramiento de los trabajadores.
+No se considerarán discriminatorias las distinciones, exclusiones o preferencias que se sustenten en las calificaciones particulares que exija una labor determinada.
+
+Es de interés social promover y vigilar la capacitación, el adiestramiento, la formación para y en el trabajo, la certificación de competencias laborales, la productividad y la calidad en el trabajo, la sustentabilidad ambiental, así como los beneficios que éstas deban generar tanto a los trabajadores como a los patrones.
+
+##### Artículo 3o. Bis.
+
+Para efectos de esta Ley se entiende por:
+
+a) Hostigamiento, el ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas; y
+
+b) Acoso sexual, una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
 ##### Artículo 4o.
 
@@ -56,7 +74,7 @@ No se podrá impedir el trabajo a ninguna persona ni que se dedique a la profesi
 
 I. Se atacan los derechos de tercero en los casos previstos en las leyes y en los siguientes:
 
-a) Cuando se trate de substituir o se substituya definitivamente a un trabajador que haya sido separado sin haberse resuelto el caso por la Junta de Conciliación y Arbitraje.
+a) Cuando se trate de sustituir o se sustituya definitivamente a un trabajador que reclame la reinstalación en su empleo sin haberse resuelto el caso por la Junta de Conciliación y Arbitraje.
 
 b) Cuando se niegue el derecho de ocupar su mismo puesto a un trabajador que haya estado separado de sus labores por causa de enfermedad o de fuerza mayor, o con permiso, al presentarse nuevamente a sus labores; y
 
@@ -82,7 +100,7 @@ V. Un salario inferior al mínimo;
 
 VI. Un salario que no sea remunerador, a juicio de la Junta de Conciliación y Arbitraje;
 
-VII. Un plazo mayor de una semana para el pago de los salarios a los obreros;
+VII. Un plazo mayor de una semana para el pago de los salarios a los obreros y a los trabajadores del campo;
 
 VIII. Un lugar de recreo, fonda, cantina, café, taberna o tienda, para efectuar el pago de los salarios, siempre que no se trate de trabajadores de esos establecimientos;
 
@@ -156,6 +174,36 @@ I. La empresa beneficiaria será solidariamente responsable de las obligaciones 
 
 II. Los trabajadores empleados en la ejecución de las obras o servicios tendrán derecho a disfrutar de condiciones de trabajo proporcionadas a las que disfruten los trabajadores que ejecuten trabajos similares en la empresa beneficiaria. Para determinar la proporción, se tomarán en consideración las diferencias que existan en los salarios mínimos que rijan en el área geográfica de aplicación en que se encuentren instaladas las empresas y las demás circunstancias que puedan influir en las condiciones de trabajo.
 
+##### Artículo 15-A.
+
+El trabajo en régimen de subcontratación es aquel por medio del cual un patrón denominado contratista ejecuta obras o presta servicios con sus trabajadores bajo su dependencia, a favor de un contratante, persona física o moral, la cual fija las tareas del contratista y lo supervisa en el desarrollo de los servicios o la ejecución de las obras contratadas.
+
+Este tipo de trabajo, deberá cumplir con las siguientes condiciones:
+
+a) No podrá abarcar la totalidad de las actividades, iguales o similares en su totalidad, que se desarrollen en el centro de trabajo.
+
+b) Deberá justificarse por su carácter especializado.
+
+c) No podrá comprender tareas iguales o similares a las que realizan el resto de los trabajadores al servicio del contratante.
+
+De no cumplirse con todas estas condiciones, el contratante se considerará patrón para todos los efectos de esta Ley, incluyendo las obligaciones en materia de seguridad social.
+
+##### Artículo 15-B.
+
+El contrato que se celebre entre la persona física o moral que solicita los servicios y un contratista, deberá constar por escrito.
+
+La empresa contratante deberá cerciorarse al momento de celebrar el contrato a que se refiere el párrafo anterior, que la contratista cuenta con la documentación y los elementos propios suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores.
+
+##### Artículo 15-C.
+
+La empresa contratante de los servicios deberá cerciorarse permanentemente que la empresa contratista, cumple con las disposiciones aplicables en materia de seguridad, salud y medio ambiente en el trabajo, respecto de los trabajadores de esta última.
+
+Lo anterior, podrá ser cumplido a través de una unidad de verificación debidamente acreditada y aprobada en términos de las disposiciones legales aplicables.
+
+##### Artículo 15-D.
+
+No se permitirá el régimen de subcontratación cuando se transfieran de manera deliberada trabajadores de la contratante a la subcontratista con el fin de disminuir derechos laborales; en este caso, se estará a lo dispuesto por el artículo 1004-C y siguientes de esta Ley.
+
 ##### Artículo 16.
 
 Para los efectos de las normas de trabajo, se entiende por empresa la unidad económica de producción o distribución de bienes o servicios y por establecimiento la unidad técnica que como sucursal, agencia u otra forma semejante, sea parte integrante y contribuya a la realización de los fines de la empresa.
@@ -192,6 +240,14 @@ Se presumen la existencia del contrato y de la relación de trabajo entre el que
 
 Queda prohibida la utilización del trabajo de los menores de catorce años y de los mayores de esta edad y menores de dieciséis que no hayan terminado su educación obligatoria, salvo los casos de excepción que apruebe la autoridad correspondiente en que a su juicio haya compatibilidad entre los estudios y el trabajo.
 
+##### Artículo 22 Bis.
+
+Cuando las autoridades del trabajo detecten trabajando a un menor de 14 años fuera del círculo familiar, ordenará que de inmediato cese en sus labores. Al patrón que incurra en esta conducta se le sancionará con la pena establecida en el artículo 995 Bis de esta Ley.
+
+En caso de que el menor no estuviere devengando el salario que perciba un trabajador que preste los mismos servicios, el patrón deberá resarcirle las diferencias.
+
+Se entenderá por círculo familiar a los parientes del menor, por consanguinidad, ascendientes o colaterales; hasta el segundo grado.
+
 ##### Artículo 23.
 
 Los mayores de dieciséis años pueden prestar libremente sus servicios, con las limitaciones establecidas en esta Ley. Los mayores de catorce y menores de dieciséis necesitan autorización de sus padres o tutores y a falta de ellos, del sindicato a que pertenezcan, de la Junta de Conciliación y Arbitraje, del Inspector del Trabajo o de la Autoridad Política.
@@ -206,13 +262,13 @@ Las condiciones de trabajo deben hacerse constar por escrito cuando no existan c
 
 El escrito en que consten las condiciones de trabajo deberá contener:
 
-I. Nombre, nacionalidad, edad, sexo, estado civil y domicilio del trabajador y del patrón;
+I. Nombre, nacionalidad, edad, sexo, estado civil, Clave Única de Registro de Población, Registro Federal de Contribuyentes y domicilio del trabajador y del patrón;
 
-II. Si la relación de trabajo es por obra o tiempo determinado o tiempo indeterminado;
+II. Si la relación de trabajo es para obra o tiempo determinado, por temporada, de capacitación inicial o por tiempo indeterminado y, en su caso, si está sujeta a un periodo de prueba;
 
 III. El servicio o servicios que deban prestarse, los que se determinarán con la mayor precisión posible;
 
-IV. El lugar o los lugares donde debe prestarse el trabajo;
+IV. El lugar o los lugares donde deba prestarse el trabajo;
 
 V. La duración de la jornada;
 
@@ -234,25 +290,59 @@ Si no se hubiese determinado el servicio o servicios que deban prestarse, el tra
 
 ##### Artículo 28.
 
-Para la prestación de servicios de los trabajadores mexicanos fuera de la República, se observarán las normas siguientes:
+En la prestación de los servicios de trabajadores mexicanos fuera de la República, contratados en territorio nacional y cuyo contrato de trabajo se rija por esta Ley, se observará lo siguiente:
 
-I. Las condiciones de trabajo se harán constar por escrito y contendrán para su validez las estipulaciones siguientes:
+I. Las condiciones de trabajo se harán constar por escrito y contendrán además de las estipulaciones del artículo 25 de esta Ley, las siguientes:
 
-a) Los requisitos señalados en el artículo 25.
+a) Indicar que los gastos de repatriación quedan a cargo del empresario contratante;
 
-b) Los gastos de transporte, repatriación, traslado hasta el lugar de origen y alimentación del trabajador y de su familia, en su caso, y todos los que se originen por el paso de las fronteras y cumplimiento de las disposiciones sobre migración, o por cualquier otro concepto semejante, serán por cuenta exclusiva del patrón. El trabajador percibirá íntegro el salario que le corresponda, sin que pueda descontarse cantidad alguna por esos conceptos.
+b) Las condiciones de vivienda decorosa e higiénica que disfrutará el trabajador, mediante arrendamiento o cualquier otra forma;
 
-c) El trabajador tendrá derecho a las prestaciones que otorguen las instituciones de seguridad y previsión social a los extranjeros en el país al que vaya a prestar sus servicios. En todo caso, tendrá derecho a ser indemnizado por los riesgos de trabajo con una cantidad igual a la que señala esta Ley, por lo menos;
+c) La forma y condiciones en las que se le otorgará al trabajador y de su familia, en su caso, la atención médica correspondiente; y
 
-d) Tendrá derecho a disfrutar, en el centro de trabajo o en lugar cercano, mediante arrendamiento o cualquier otra forma, de vivienda decorosa e higiénica;
+d) Los mecanismos para informar al trabajador acerca de las autoridades consulares y diplomáticas mexicanas a las que podrá acudir en el extranjero y de las autoridades competentes del país a donde se prestarán los servicios, cuando el trabajador considere que sus derechos han sido menoscabados, a fin de ejercer la acción legal conducente;
 
-II. El patrón señalará domicilio dentro de la República para todos los efectos legales;
+II. El patrón señalará en el contrato de trabajo domicilio dentro de la República para todos los efectos legales;
 
-III. El escrito que contenga las condiciones de trabajo será sometido a la aprobación de la Junta de Conciliación y Arbitraje dentro de cuya jurisdicción se celebró, la cual, después de comprobar los requisitos de validez a que se refiere la fracción I, determinará el monto de la fianza o del depósito que estime suficiente para garantizar el cumplimiento de las obligaciones contraídas. El depósito deberá constituirse en el Banco de México o en la institución bancaria que éste designe. El patrón deberá comprobar ante la misma Junta el otorgamiento de la fianza o la constitución del depósito;
+III. El contrato de trabajo será sometido a la aprobación de la Junta Federal de Conciliación y Arbitraje, la cual, después de comprobar que éste cumple con las disposiciones a que se refieren las fracciones I y II de este artículo lo aprobará.
 
-IV. El escrito deberá ser visado por el Cónsul de la Nación donde deban prestarse los servicios; y
+En caso de que el patrón no cuente con un establecimiento permanente y domicilio fiscal o de representación comercial en territorio nacional, la Junta Federal de Conciliación y Arbitraje fijará el monto de una fianza o depósito para garantizar el cumplimiento de las obligaciones contraídas. El patrón deberá comprobar ante la misma Junta el otorgamiento de la fianza o la constitución del depósito;
 
-V. Una vez que el patrón compruebe ante la Junta que ha cumplido las obligaciones contraídas, se ordenará la cancelación de la fianza o la devolución del depósito.
+IV. El trabajador y el patrón deberán anexar al contrato de trabajo la visa o permiso de trabajo emitido por las autoridades consulares o migratorias del país donde deban prestarse los servicios; y
+
+V. Una vez que el patrón compruebe ante la Junta que ha cumplido las obligaciones contraídas, se ordenará la cancelación de la fianza o la devolución del depósito que ésta hubiere determinado.
+
+##### Artículo 28-A.
+
+En el caso de trabajadores mexicanos reclutados y seleccionados en México, para un empleo concreto en el exterior de duración determinada, a través de mecanismos acordados por el gobierno de México con un gobierno extranjero, se atenderá a lo dispuesto por dicho acuerdo, que en todo momento salvaguardará los derechos de los trabajadores, conforme a las bases siguientes:
+
+I. Las condiciones generales de trabajo para los mexicanos en el país receptor serán dignas e iguales a las que se otorgue a los trabajadores de aquel país;
+
+II. Al expedirse la visa o permiso de trabajo por la autoridad consular o migratoria del país donde se prestará el servicio, se entenderá que dicha autoridad tiene conocimiento de que se establecerá una relación laboral entre el trabajador y un patrón determinado;
+
+III. Las condiciones para la repatriación, la vivienda, la seguridad social y otras prestaciones se determinarán en el acuerdo;
+
+IV. El reclutamiento y la selección será organizada por la Secretaría del Trabajo y Previsión Social, a través del Servicio Nacional de Empleo, en coordinación con las autoridades estatales y municipales; y
+
+V. Contendrá mecanismos para informar al trabajador acerca de las autoridades consulares y diplomáticas mexicanas a las que podrá acudir en el extranjero y de las autoridades competentes del país a donde se prestarán los servicios, cuando el trabajador considere que sus derechos han sido menoscabados, a fin de ejercer la acción legal conducente.
+
+##### Artículo 28-B.
+
+En el caso de trabajadores mexicanos reclutados y seleccionados en México, para un empleo concreto en el exterior de duración determinada, que sean colocados por entidades privadas, se observarán las normas siguientes:
+
+I. Las agencias de colocación de trabajadores deberán estar debidamente autorizadas y registradas, según corresponda, conforme a lo dispuesto en las disposiciones legales aplicables;
+
+II. Las agencias de colocación de trabajadores deberán cerciorarse de:
+
+a) La veracidad de las condiciones generales de trabajo que se ofrecen, así como de las relativas a vivienda, seguridad social y repatriación a que estarán sujetos los trabajadores. Dichas condiciones deberán ser dignas y no implicar discriminación de cualquier tipo; y
+
+b) Que los aspirantes hayan realizado los trámites para la expedición de visa o permiso de trabajo por la autoridad consular o migratoria del país donde se prestará el servicio;
+
+III. Las agencias de colocación deberán informar a los trabajadores sobre la protección consular a la que tienen derecho y la ubicación de la Embajada o consulados mexicanos en el país que corresponda, además de las autoridades competentes a las que podrán acudir para hacer valer sus derechos en el país de destino.
+
+En los casos en que los trabajadores hayan sido engañados respecto a las condiciones de trabajo ofrecidas, las agencias de colocación de trabajadores serán responsables de sufragar los gastos de repatriación respectivos.
+
+La Inspección Federal del Trabajo vigilará el cumplimiento de las obligaciones contenidas en este artículo.
 
 ##### Artículo 29.
 
@@ -290,7 +380,7 @@ III. Cuando se trate de reducción de los trabajos, el reajuste se efectuará de
 
 ##### Artículo 35.
 
-Las relaciones de trabajo pueden ser para obra o tiempo determinado o por tiempo indeterminado. A falta de estipulaciones expresas, la relación será por tiempo indeterminado.
+Las relaciones de trabajo pueden ser para obra o tiempo determinado, por temporada o por tiempo indeterminado y en su caso podrá estar sujeto a prueba o a capacitación inicial. A falta de estipulaciones expresas, la relación será por tiempo indeterminado.
 
 ##### Artículo 36.
 
@@ -313,6 +403,40 @@ Las relaciones de trabajo para la explotación de minas que carezcan de minerale
 ##### Artículo 39.
 
 Si vencido el término que se hubiese fijado subsiste la materia del trabajo, la relación quedará prorrogada por todo el tiempo que perdure dicha circunstancia.
+
+##### Artículo 39-A.
+
+En las relaciones de trabajo por tiempo indeterminado o cuando excedan de ciento ochenta días, podrá establecerse un periodo a prueba, el cual no podrá exceder de treinta días, con el único fin de verificar que el trabajador cumple con los requisitos y conocimientos necesarios para desarrollar el trabajo que se solicita.
+
+El periodo de prueba a que se refiere el párrafo anterior, podrá extenderse hasta ciento ochenta días, sólo cuando se trate de trabajadores para puestos de dirección, gerenciales y demás personas que ejerzan funciones de dirección o administración en la empresa o establecimiento de carácter general o para desempeñar labores técnicas o profesionales especializadas.
+
+Durante el período de prueba el trabajador disfrutará del salario, la garantía de la seguridad social y de las prestaciones de la categoría o puesto que desempeñe. Al término del periodo de prueba, de no acreditar el trabajador que satisface los requisitos y conocimientos necesarios para desarrollar las labores, a juicio del patrón, tomando en cuenta la opinión de la Comisión Mixta de Productividad, Capacitación y Adiestramiento en los términos de esta Ley, así como la naturaleza de la categoría o puesto, se dará por terminada la relación de trabajo, sin responsabilidad para el patrón.
+
+##### Artículo 39-B.
+
+Se entiende por relación de trabajo para capacitación inicial, aquella por virtud de la cual un trabajador se obliga a prestar sus servicios subordinados, bajo la dirección y mando del patrón, con el fin de que adquiera los conocimientos o habilidades necesarios para la actividad para la que vaya a ser contratado.
+
+La vigencia de la relación de trabajo a que se refiere el párrafo anterior, tendrá una duración máxima de tres meses o en su caso, hasta de seis meses sólo cuando se trate de trabajadores para puestos de dirección, gerenciales y demás personas que ejerzan funciones de dirección o administración en la empresa o establecimiento de carácter general o para desempeñar labores que requieran conocimientos profesionales especializados. Durante ese tiempo el trabajador disfrutará del salario, la garantía de la seguridad social y de las prestaciones de la categoría o puesto que desempeñe. Al término de la capacitación inicial, de no acreditar competencia el trabajador, a juicio del patrón, tomando en cuenta la opinión de la Comisión Mixta de Productividad, Capacitación y Adiestramiento en los términos de esta Ley, así como a la naturaleza de la categoría o puesto, se dará por terminada la relación de trabajo, sin responsabilidad para el patrón.
+
+##### Artículo 39-C.
+
+La relación de trabajo con periodo a prueba o de capacitación inicial, se hará constar por escrito garantizando la seguridad social del trabajador; en caso contrario se entenderá que es por tiempo indeterminado, y se garantizarán los derechos de seguridad social del trabajador.
+
+##### Artículo 39-D.
+
+Los periodos a prueba y de capacitación inicial son improrrogables.
+
+Dentro de una misma empresa o establecimiento, no podrán aplicarse al mismo trabajador en forma simultánea o sucesiva periodos de prueba o de capacitación inicial, ni en más de una ocasión, ni tratándose de puestos de trabajo distintos, o de ascensos, aun cuando concluida la relación de trabajo surja otra con el mismo patrón, a efecto de garantizar los derechos de la seguridad social del trabajador.
+
+##### Artículo 39-E.
+
+Cuando concluyan los periodos a prueba o de capacitación inicial y subsista la relación de trabajo, ésta se considerará por tiempo indeterminado y el tiempo de vigencia de aquellos se computará para efectos del cálculo de la antigüedad.
+
+##### Artículo 39-F.
+
+Las relaciones de trabajo por tiempo indeterminado serán continuas por regla general, pero podrán pactarse para labores discontinuas cuando los servicios requeridos sean para labores fijas y periódicas de carácter discontinuo, en los casos de actividades de temporada o que no exijan la prestación de servicios toda la semana, el mes o el año.
+
+Los trabajadores que presten servicios bajo esta modalidad tienen los mismos derechos y obligaciones que los trabajadores por tiempo indeterminado, en proporción al tiempo trabajado en cada periodo.
 
 ##### Artículo 40.
 
@@ -340,21 +464,29 @@ IV. El arresto del trabajador;
 
 V. El cumplimiento de los servicios y el desempeño de los cargos mencionados en el artículo 5o de la Constitución, y el de las obligaciones consignadas en el artículo 31, fracción III de la misma Constitución;
 
-VI. La designación de los trabajadores como representantes ante los organismos estatales, Juntas de Conciliación, Conciliación y Arbitraje, Comisión Nacional de los Salarios Mínimos, Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas y otros semejantes; y
+VI. La designación de los trabajadores como representantes ante los organismos estatales, Juntas de Conciliación y Arbitraje, Comisión Nacional de los Salarios Mínimos, Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas y otros semejantes;
 
-VII. La falta de los documentos que exijan las leyes y reglamentos, necesarios para la prestación del servicio, cuando sea imputable al trabajador.
+VII. La falta de los documentos que exijan las Leyes y reglamentos, necesarios para la prestación del servicio, cuando sea imputable al trabajador; y
+
+VIII. La conclusión de la temporada en el caso de los trabajadores contratados bajo esta modalidad.
+
+##### Artículo 42 Bis.
+
+En los casos en que las autoridades competentes emitan una declaratoria de contingencia sanitaria, conforme a las disposiciones aplicables, que implique la suspensión de las labores, se estará a lo dispuesto por el artículo 429, fracción IV de esta Ley.
 
 ##### Artículo 43.
 
-La suspensión surtirá efectos:
+La suspensión a que se refiere el artículo 42 surtirá efectos:
 
 I. En los casos de las fracciones I y II del artículo anterior, desde la fecha en que el patrón tenga conocimiento de la enfermedad contagiosa o de la en que se produzca la incapacidad para el trabajo, hasta que termine el período fijado por el Instituto Mexicano del Seguro Social o antes si desaparece la incapacidad para el trabajo, sin que la suspensión pueda exceder del término fijado en la Ley del Seguro Social para el tratamiento de las enfermedades que no sean consecuencia de un riesgo de trabajo;
 
-II. Tratándose de las fracciones III y IV, desde el momento en que el trabajador acredite estar detenido a disposición de la autoridad judicial o administrativa, hasta la fecha en que cause ejecutoria la sentencia que lo absuelva, o termine el arresto;
+II. Tratándose de las fracciones III y IV, desde el momento en que el trabajador acredite estar detenido a disposición de la autoridad judicial o administrativa, hasta la fecha en que cause ejecutoria la sentencia que lo absuelva o termine el arresto. Si obtiene su libertad provisional, deberá presentarse a trabajar en un plazo de quince días siguientes a su liberación, salvo que se le siga proceso por delitos intencionales en contra del patrón o sus compañeros de trabajo;
 
-III. En los casos de las fracciones V y VI, desde la fecha en que deban prestarse los servicios o desempeñarse los cargos, hasta por un período de seis años; y
+III. En los casos de las fracciones V y VI, desde la fecha en que deban prestarse los servicios o desempeñarse los cargos, hasta por un periodo de seis años;
 
-IV. En el caso de la fracción VII, desde la fecha en que el patrón tenga conocimiento del hecho, hasta por un período de dos meses.
+IV. En el caso de la fracción VII, desde la fecha en que el patrón tenga conocimiento del hecho, hasta por un periodo de dos meses; y
+
+V. En el caso de la fracción VIII, desde la fecha de conclusión de la temporada, hasta el inicio de la siguiente.
 
 ##### Artículo 44.
 
@@ -380,7 +512,7 @@ Son causas de rescisión de la relación de trabajo, sin responsabilidad para el
 
 I. Engañarlo el trabajador o en su caso, el sindicato que lo hubiese propuesto o recomendado con certificados falsos o referencias en los que se atribuyan al trabajador capacidad, aptitudes o facultades de que carezca. Esta causa de rescisión dejará de tener efecto después de treinta días de prestar sus servicios el trabajador;
 
-II. Incurrir el trabajador, durante sus labores, en faltas de probidad u honradez, en actos de violencia, amagos, injurias o malos tratamientos en contra del patrón, sus familiares o del personal directivo o administrativo de la empresa o establecimiento, salvo que medie provocación o que obre en defensa propia;
+II. Incurrir el trabajador, durante sus labores, en faltas de probidad u honradez, en actos de violencia, amagos, injurias o malos tratamientos en contra del patrón, sus familiares o del personal directivo o administrativo de la empresa o establecimiento, o en contra de clientes y proveedores del patrón, salvo que medie provocación o que obre en defensa propia;
 
 III. Cometer el trabajador contra alguno de sus compañeros, cualquiera de los actos enumerados en la fracción anterior, si como consecuencia de ellos se altera la disciplina del lugar en que se desempeña el trabajo;
 
@@ -392,7 +524,7 @@ VI. Ocasionar el trabajador los perjuicios de que habla la fracción anterior si
 
 VII. Comprometer el trabajador, por su imprudencia o descuido inexcusable, la seguridad del establecimiento o de las personas que se encuentren en él;
 
-VIII. Cometer el trabajador actos inmorales en el establecimiento o lugar de trabajo;
+VIII. Cometer el trabajador actos inmorales o de hostigamiento y/o acoso sexual contra cualquier persona en el establecimiento o lugar de trabajo;
 
 IX. Revelar el trabajador los secretos de fabricación o dar a conocer asuntos de carácter reservado, con perjuicio de la empresa;
 
@@ -404,21 +536,33 @@ XII. Negarse el trabajador a adoptar las medidas preventivas o a seguir los proc
 
 XIII. Concurrir el trabajador a sus labores en estado de embriaguez o bajo la influencia de algún narcótico o droga enervante, salvo que, en este último caso, exista prescripción médica. Antes de iniciar su servicio, el trabajador deberá poner el hecho en conocimiento del patrón y presentar la prescripción suscrita por el médico;
 
-XIV. La sentencia ejecutoriada que imponga al trabajador una pena de prisión, que le impida el cumplimiento de la relación de trabajo; y
+XIV. La sentencia ejecutoriada que imponga al trabajador una pena de prisión, que le impida el cumplimiento de la relación de trabajo;
+
+XIV Bis. La falta de documentos que exijan las leyes y reglamentos, necesarios para la prestación del servicio cuando sea imputable al trabajador y que exceda del periodo a que se refiere la fracción IV del artículo 43; y
 
 XV. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere.
 
-El patrón deberá dar al trabajador aviso escrito de la fecha y causa o causas de la rescisión.
+El patrón que despida a un trabajador deberá darle aviso escrito en el que refiera claramente la conducta o conductas que motivan la rescisión y la fecha o fechas en que se cometieron.
 
-El aviso deberá hacerse del conocimiento del trabajador, y en caso de que éste se negare a recibirlo, el patrón dentro de los cinco días siguientes a la fecha de la rescisión, deberá hacerlo del conocimiento de la Junta respectiva, proporcionando a ésta el domicilio que tenga registrado y solicitando su notificación al trabajador.
+El aviso deberá entregarse personalmente al trabajador en el momento mismo del despido o bien, comunicarlo a la Junta de Conciliación y Arbitraje competente, dentro de los cinco días hábiles siguientes, en cuyo caso deberá proporcionar el último domicilio que tenga registrado del trabajador a fin de que la autoridad se lo notifique en forma personal.
 
-La falta de aviso al trabajador o a la Junta, por sí sola bastará para considerar que el despido fue injustificado.
+La prescripción para ejercer las acciones derivadas del despido no comenzará a correr sino hasta que el trabajador reciba personalmente el aviso de rescisión.
+
+La falta de aviso al trabajador personalmente o por conducto de la Junta, por sí sola determinará la separación no justificada y, en consecuencia, la nulidad del despido.
 
 ##### Artículo 48.
 
-El trabajador podrá solicitar ante la Junta de Conciliación y Arbitraje, a su elección, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de salario.
+El trabajador podrá solicitar ante la Junta de Conciliación y Arbitraje, a su elección, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de salario, a razón del que corresponda a la fecha en que se realice el pago.
 
-Si en el juicio correspondiente no comprueba el patrón la causa de la rescisión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo.
+Si en el juicio correspondiente no comprueba el patrón la causa de la rescisión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un período máximo de doce meses, en términos de lo preceptuado en la última parte del párrafo anterior.
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
+En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
+
+Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se le impondrá una multa de 100 a 1000 veces el salario mínimo general.
+
+Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción aplicable será la suspensión hasta por noventa días sin pago de salario y en caso de reincidencia la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia.
 
 ##### Artículo 49.
 
@@ -442,7 +586,7 @@ I. Si la relación de trabajo fuere por tiempo determinado menor de un año, en 
 
 II. Si la relación de trabajo fuere por tiempo indeterminado, la indemnización consistirá en veinte días de salario por cada uno de los años de servicios prestados; y
 
-III. Además de las indemnizaciones a que se refieren las fracciones anteriores, en el importe de tres meses de salario y en el de los salarios vencidos desde la fecha del despido hasta que se paguen las indemnizaciones.
+III. Además de las indemnizaciones a que se refieren las fracciones anteriores, en el importe de tres meses de salario y el pago de los salarios vencidos e intereses, en su caso, en los términos previstos en el artículo 48 de esta Ley.
 
 ##### Artículo 51.
 
@@ -450,7 +594,7 @@ Son causas de rescisión de la relación de trabajo, sin responsabilidad para el
 
 I. Engañarlo el patrón, o en su caso, la agrupación patronal al proponerle el trabajo, respecto de las condiciones del mismo. Esta causa de rescisión dejará de tener efecto después de treinta días de prestar sus servicios el trabajador;
 
-II. Incurrir el patrón, sus familiares o su personal directivo o administrativo, dentro del servicio, en faltas de probidad u honradez, actos de violencia, amenazas, injurias, malos tratamientos u otros análogos, en contra del trabajador, cónyuge, padres, hijos o hermanos;
+II. Incurrir el patrón, sus familiares o cualquiera de sus representantes, dentro del servicio, en faltas de probidad u honradez, actos de violencia, amenazas, injurias, hostigamiento y/o acoso sexual, malos tratamientos u otros análogos, en contra del trabajador, cónyuge, padres, hijos o hermanos;
 
 III. Incurrir el patrón, sus familiares o trabajadores, fuera del servicio, en los actos a que se refiere la fracción anterior, si son de tal manera graves que hagan imposible el cumplimiento de la relación de trabajo;
 
@@ -464,7 +608,9 @@ VII. La existencia de un peligro grave para la seguridad o salud del trabajador 
 
 VIII. Comprometer el patrón, con su imprudencia o descuido inexcusables, la seguridad del establecimiento o de las personas que se encuentren en él; y
 
-IX. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes, en lo que al trabajo se refiere.
+IX. Exigir la realización de actos, conductas o comportamientos que menoscaben o atenten contra la dignidad del trabajador; y
+
+X. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes, en lo que al trabajo se refiere.
 
 ##### Artículo 52.
 
@@ -500,7 +646,13 @@ Si en el juicio correspondiente no comprueba el patrón las causas de la termina
 
 ##### Artículo 56.
 
-Las condiciones de trabajo en ningún caso podrán ser inferiores a las fijadas en esta Ley y deberán ser proporcionadas a la importancia de los servicios e iguales para trabajos iguales, sin que puedan establecerse diferencias por motivo de raza, nacionalidad, sexo, edad, credo religioso o doctrina política, salvo las modalidades expresamente consignadas en esta Ley.
+Las condiciones de trabajo basadas en el principio de igualdad sustantiva entre mujeres y hombres en ningún caso podrán ser inferiores a las fijadas en esta Ley y deberán ser proporcionales a la importancia de los servicios e iguales para trabajos iguales, sin que puedan establecerse diferencias y/o exclusiones por motivo de origen étnico o nacionalidad, sexo, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, condiciones de embarazo, responsabilidades familiares o estado civil, salvo las modalidades expresamente consignadas en esta Ley.
+
+##### Artículo 56 Bis.
+
+Los trabajadores podrán desempeñar labores o tareas conexas o complementarias a su labor principal, por lo cual podrán recibir la compensación salarial correspondiente.
+
+Para los efectos del párrafo anterior, se entenderán como labores o tareas conexas o complementarias, aquellas relacionadas permanente y directamente con las que estén pactadas en los contratos individuales y colectivos de trabajo o, en su caso, las que habitualmente realice el trabajador.
 
 ##### Artículo 57.
 
@@ -656,6 +808,8 @@ Salario es la retribución que debe pagar el patrón al trabajador por su trabaj
 
 El salario puede fijarse por unidad de tiempo, por unidad de obra, por comisión, a precio alzado o de cualquier otra manera.
 
+Tratándose de salario por unidad de tiempo, se establecerá específicamente esa naturaleza. El trabajador y el patrón podrán convenir el monto, siempre que se trate de un salario remunerador, así como el pago por cada hora de prestación de servicio, siempre y cuando no se exceda la jornada máxima legal y se respeten los derechos laborales y de seguridad social que correspondan a la plaza de que se trate. El ingreso que perciban los trabajadores por esta modalidad, en ningún caso será inferior al que corresponda a una jornada diaria.
+
 Cuando el salario se fije por unidad de obra, además de especificarse la naturaleza de ésta, se hará constar la cantidad y calidad del material, el estado de la herramienta y útiles que el patrón, en su caso, proporcione para ejecutar la obra, y el tiempo por el que los pondrá a disposición del trabajador, sin que pueda exigir cantidad alguna por concepto del desgaste natural que sufra la herramienta como consecuencia del trabajo.
 
 ##### Artículo 84.
@@ -734,7 +888,7 @@ II. Pago de rentas a que se refiere el artículo 151. Este descuento no podrá e
 
 III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados a la adquisición, construcción, reparación, ampliación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Asimismo, a aquellos trabajadores que se les haya otorgado un crédito para la adquisición de viviendas ubicadas en conjuntos habitacionales financiados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores se les descontará el 1% del salario a que se refiere el artículo 143 de esta Ley, que se destinará a cubrir los gastos que se eroguen por concepto de administración, operación y mantenimiento del conjunto habitacional de que se trate. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder el 20% del salario.
 
-IV. Pago de abonos para cubrir créditos otorgados o garantizados por el Fondo a que se refiere el artículo 103 Bis de esta Ley, destinados a la adquisición de bienes de consumo duradero o al pago de servicios. Estos descuentos estarán precedidos de la aceptación que libremente haya hecho el trabajador y no podrán exceder del 10% del salario.
+IV. Pago de abonos para cubrir créditos otorgados o garantizados por el Instituto a que se refiere el artículo 103 Bis de esta Ley, destinados a la adquisición de bienes de consumo duradero o al pago de servicios. Estos descuentos estarán precedidos de la aceptación que libremente haya hecho el trabajador y no podrán exceder del 10% del salario.
 
 ### CAPITULO VII · Normas protectoras y privilegios del salario
 
@@ -756,6 +910,8 @@ El pago hecho en contravención a lo dispuesto en el párrafo anterior no libera
 
 El salario en efectivo deberá pagarse precisamente en moneda de curso legal, no siendo permitido hacerlo en mercancías, vales, fichas o cualquier otro signo representativo con que se pretenda substituir la moneda.
 
+Previo consentimiento del trabajador, el pago del salario podrá efectuarse por medio de depósito en cuenta bancaria, tarjeta de débito, transferencias o cualquier otro medio electrónico. Los gastos o costos que originen estos medios alternativos de pago serán cubiertos por el patrón.
+
 ##### Artículo 102.
 
 Las prestaciones en especie deberán ser apropiadas al uso personal del trabajador y de su familia y razonablemente proporcionadas al monto del salario que se pague en efectivo.
@@ -774,7 +930,11 @@ IV. En el convenio se determinará la participación que corresponda a los traba
 
 ##### Artículo 103 Bis.
 
-El Ejecutivo Federal reglamentará la forma y términos en que se establecerá el fondo de fomento y garantía para el consumo de los trabajadores, que otorgará financiamiento para la operación de los almacenes y tiendas a que se refiere el artículo anterior y, asimismo, gestionará de otras instituciones, para conceder y garantizar, créditos baratos y oportunos para la adquisición de bienes y pago de servicios por parte de los trabajadores.
+El Instituto del Fondo Nacional para el Consumo de los Trabajadores, conforme a la Ley que lo regula, establecerá las bases para:
+
+I. Otorgar crédito a los trabajadores, procurando las mejores condiciones de mercado; y
+
+II. Facilitar el acceso de los trabajadores a los servicios financieros que promuevan su ahorro y la consolidación de su patrimonio.
 
 ##### Artículo 104.
 
@@ -812,11 +972,13 @@ III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la
 
 IV. Pago de cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, siempre que los trabajadores manifiesten expresa y libremente su conformidad y que no sean mayores del treinta por ciento del excedente del salario mínimo;
 
-V. Pago de pensiones alimenticias en favor de la esposa, hijos, ascendientes y nietos, decretado por la autoridad competente; y
+V. Pago de pensiones alimenticias en favor de acreedores alimentarios, decretado por la autoridad competente.
+
+En caso de que el trabajador deje de prestar sus servicios en el centro de trabajo, el patrón deberá informar a la autoridad jurisdiccional competente y los acreedores alimentarios tal circunstancia, dentro de los cinco días hábiles siguientes a la fecha de la terminación de la relación laboral;
 
 VI. Pago de las cuotas sindicales ordinarias previstas en los estatutos de los sindicatos.
 
-VII. Pago de abonos para cubrir créditos garantizados por el Fondo a que se refiere el artículo 103-bis de esta Ley, destinados a la adquisición de bienes de consumo, o al pago de servicios. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario.
+VII. Pago de abonos para cubrir créditos garantizados por el Instituto a que se refiere el artículo 103 Bis de esta Ley, destinados a la adquisición de bienes de consumo, o al pago de servicios. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario.
 
 ##### Artículo 111.
 
@@ -874,11 +1036,13 @@ I. El patrón, dentro de un término de diez días contado a partir de la fecha 
 
 Los trabajadores no podrán poner en conocimiento de terceras personas los datos contenidos en la declaración y en sus anexos;
 
-II. Dentro de los treinta días siguientes, el sindicato titular del contrato colectivo o la mayoría de los trabajadores de la empresa, podrá formular ante la Secretaría de Hacienda y Crédito Público las observaciones que juzgue conveniente;
+II. Dentro de los treinta días siguientes, el sindicato titular del contrato colectivo o la mayoría de los trabajadores de la empresa, podrá formular ante la Secretaría de Hacienda y Crédito Público las observaciones que juzgue convenientes, la que tendrá la obligación de responder por escrito, una vez que concluyan los procedimientos de fiscalización de acuerdo a los plazos que establece el Código Fiscal de la Federación, respecto de cada una de ellas;
 
 III. La resolución definitiva dictada por la misma Secretaría no podrá ser recurrida por los trabajadores; y
 
 IV. Dentro de los treinta días siguientes a la resolución dictada por la Secretaría de Hacienda y Crédito Público, el patrón dará cumplimiento a la misma independientemente de que la impugne. Si como resultado de la impugnación variara a su favor el sentido de la resolución, los pagos hechos podrán deducirse de las utilidades correspondientes a los trabajadores en el siguiente ejercicio.
+
+Lo anterior, a excepción de que el patrón hubiese obtenido de la Junta de Conciliación y Arbitraje, la suspensión del reparto adicional de utilidades.
 
 ##### Artículo 122.
 
@@ -937,6 +1101,8 @@ II. Los demás trabajadores de confianza participarán en las utilidades de las 
 III. El monto de la participación de los trabajadores al servicio de personas cuyos ingresos deriven exclusivamente de su trabajo, y el de los que se dediquen al cuidado de bienes que produzcan rentas o al cobro de créditos y sus intereses, no podrá exceder de un mes de salario;
 
 IV. Las madres trabajadoras, durante los períodos pre y postnatales, y los trabajadores víctimas de un riesgo de trabajo durante el período de incapacidad temporal, serán considerados como trabajadores en servicio activo;
+
+IV Bis. Los trabajadores del establecimiento de una empresa forman parte de ella para efectos de la participación de los trabajadores en las utilidades;
 
 V. En la industria de la construcción, después de determinar qué trabajadores tienen derecho a participar en el reparto, la Comisión a que se refiere el artículo 125 adoptará las medidas que juzgue conveniente para su citación;
 
@@ -1000,13 +1166,17 @@ XIV.- Hacer por su cuenta, cuando empleen más de cien y menos de mil trabajador
 
 XV.- Proporcionar capacitación y adiestramiento a sus trabajadores, en los términos del Capítulo III Bis de este Título.
 
-XVI.- Instalar, de acuerdo con los principios de seguridad e higiene, las fábricas, talleres, oficinas y demás lugares en que deban ejecutarse las labores, para prevenir riesgos de trabajo y perjuicios al trabajador, así como adoptar las medidas necesarias para evitar que los contaminantes excedan los máximos permitidos en los reglamentos e instructivos que expidan las autoridades competentes. Para estos efectos, deberán modificar, en su caso, las instalaciones en los términos que señalen las propias autoridades;
+XVI. Instalar y operar las fábricas, talleres, oficinas, locales y demás lugares en que deban ejecutarse las labores, de acuerdo con las disposiciones establecidas en el reglamento y las normas oficiales mexicanas en materia de seguridad, salud y medio ambiente de trabajo, a efecto de prevenir accidentes y enfermedades laborales. Asimismo, deberán adoptar las medidas preventivas y correctivas que determine la autoridad laboral;
 
-XVII.- Cumplir las disposiciones de seguridad e higiene que fijen las leyes y los reglamentos para prevenir los accidentes y enfermedades en los centros de trabajo y, en general, en los lugares en que deban ejecutarse las labores; y, disponer en todo tiempo de los medicamentos y materiales de curación indispensables que señalen los instructivos que se expidan, para que se presten oportuna y eficazmente los primeros auxilios; debiendo dar, desde luego, aviso a la autoridad competente de cada accidente que ocurra;
+XVI Bis. Contar, en los centros de trabajo que tengan más de 50 trabajadores, con instalaciones adecuadas para el acceso y desarrollo de actividades de las personas con discapacidad;
 
-XVIII.- Fijar visiblemente y difundir en los lugares donde se preste el trabajo, las disposiciones conducentes de los reglamentos e instructivos de seguridad e higiene;
+XVII. Cumplir el reglamento y las normas oficiales mexicanas en materia de seguridad, salud y medio ambiente de trabajo, así como disponer en todo tiempo de los medicamentos y materiales de curación indispensables para prestar oportuna y eficazmente los primeros auxilios;
+
+XVIII. Fijar visiblemente y difundir en los lugares donde se preste el trabajo, las disposiciones conducentes de los reglamentos y las normas oficiales mexicanas en materia de seguridad, salud y medio ambiente de trabajo, así como el texto íntegro del o los contratos colectivos de trabajo que rijan en la empresa; asimismo, se deberá difundir a los trabajadores la información sobre los riesgos y peligros a los que están expuestos;
 
 XIX.- Proporcionar a sus trabajadores los medicamentos profilácticos que determine la autoridad sanitaria en los lugares donde existan enfermedades tropicales o endémicas, o cuando exista peligro de epidemia;
+
+XIX Bis. Cumplir con las disposiciones que en caso de emergencia sanitaria fije la autoridad competente, así como proporcionar a sus trabajadores los elementos que señale dicha autoridad, para prevenir enfermedades en caso de declaratoria de contingencia sanitaria;
 
 XX.- Reservar, cuando la población fija de un centro rural de trabajo exceda de doscientos habitantes, un espacio de terreno no menor de cinco mil metros cuadrados para el establecimiento de mercados públicos, edificios para los servicios municipales y centros recreativos, siempre que dicho centro de trabajo esté a una distancia no menor de cinco kilómetros de la población más próxima;
 
@@ -1016,21 +1186,27 @@ XXII.- Hacer las deducciones que soliciten los sindicatos de las cuotas sindical
 
 XXIII.- Hacer las deducciones de las cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, de conformidad con lo dispuesto en el artículo 110, fracción IV;
 
+XXIII Bis. Hacer las deducciones y pagos correspondientes a las pensiones alimenticias previstas en la fracción V del artículo 110 y colaborar al efecto con la autoridad jurisdiccional competente;
+
 XXIV.- Permitir la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento para cerciorarse del cumplimiento de las normas de trabajo y darles los informes que a ese efecto sean indispensables, cuando lo soliciten. Los patrones podrán exigir a los inspectores o comisionados que les muestren sus credenciales y les den a conocer las instrucciones que tengan; y
 
 XXV.- Contribuir al fomento de las actividades culturales y del deporte entre sus trabajadores y proporcionarles los equipos y útiles indispensables.
 
-XXVI.- Hacer las deducciones previstas en las fracciones IV del artículo 97 y VII del artículo 110, y enterar los descuentos a la institución bancaria acreedora, o en su caso al Fondo de Fomento y Garantía para el Consumo de los Trabajadores. Esta obligación no convierte al patrón en deudor solidario del crédito que se haya concedido al trabajador.
+XXVI. Hacer las deducciones previstas en las fracciones IV del artículo 97 y VII del artículo 110, y enterar los descuentos a la institución bancaria acreedora, o en su caso, al Instituto del Fondo Nacional para el Consumo de los Trabajadores. Esta obligación no convierte al patrón en deudor solidario del crédito que se haya concedido al trabajador;
+
+XXVI Bis. Afiliar al centro de trabajo al Instituto del Fondo Nacional para el Consumo de los Trabajadores, a efecto de que los trabajadores puedan ser sujetos del crédito que proporciona dicha entidad. La afiliación será gratuita para el patrón;
 
 XXVII.- Proporcionar a las mujeres embarazadas la protección que establezcan los reglamentos.
+
+XXVII Bis. Otorgar permiso de paternidad de cinco días laborables con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos y de igual manera en el caso de la adopción de un infante; y
 
 XXVIII.- Participar en la integración y funcionamiento de las Comisiones que deban formarse en cada centro de trabajo, de acuerdo con lo establecido por esta Ley.
 
 ##### Artículo 133.
 
-Queda prohibido a los patrones:
+Queda prohibido a los patrones o a sus representantes:
 
-I.- Negarse a aceptar trabajadores por razón de edad o de su sexo;
+I. Negarse a aceptar trabajadores por razón de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otro criterio que pueda dar lugar a un acto discriminatorio;
 
 II.- Exigir que los trabajadores compren sus artículos de consumo en tienda o lugar determinado;
 
@@ -1038,7 +1214,7 @@ III.- Exigir o aceptar dinero de los trabajadores como gratificación porque se 
 
 IV.- Obligar a los trabajadores por coacción o por cualquier otro medio, a afiliarse o retirarse del sindicato o agrupación a que pertenezcan, o a que voten por determinada candidatura;
 
-V.- Intervenir en cualquier forma en el régimen interno del sindicato;
+V. Intervenir en cualquier forma en el régimen interno del sindicato, impedir su formación o el desarrollo de la actividad sindical, mediante represalias implícitas o explícitas contra los trabajadores;
 
 VI.- Hacer o autorizar colectas o suscripciones en los establecimientos y lugares de trabajo;
 
@@ -1048,9 +1224,17 @@ VIII.- Hacer propaganda política o religiosa dentro del establecimiento;
 
 IX- Emplear el sistema de poner en el índice a los trabajadores que se separen o sean separados del trabajo para que no se les vuelva a dar ocupación;
 
-X.- Portar armas en el interior de los establecimientos ubicados dentro de las poblaciones; y
+X. Portar armas en el interior de los establecimientos ubicados dentro de las poblaciones;
 
-XI.- Presentarse en los establecimientos en estado de embriaguez o bajo la influencia de un narcótico o droga enervante.
+XI. Presentarse en los establecimientos en estado de embriaguez o bajo la influencia de un narcótico o droga enervante;
+
+XII. Realizar actos de hostigamiento y/o acoso sexual contra cualquier persona en el lugar de trabajo;
+
+XIII. Permitir o tolerar actos de hostigamiento y/o acoso sexual en el centro de trabajo;
+
+XIV. Exigir la presentación de certificados médicos de no embarazo para el ingreso, permanencia o ascenso en el empleo; y
+
+XV. Despedir a una trabajadora o coaccionarla directa o indirectamente para que renuncie por estar embarazada, por cambio de estado civil o por tener el cuidado de hijos menores.
 
 ### CAPITULO II · Obligaciones de los trabajadores
 
@@ -1060,7 +1244,7 @@ Son obligaciones de los trabajadores:
 
 I.- Cumplir las disposiciones de las normas de trabajo que les sean aplicables;
 
-II.- Observar las medidas preventivas e higiénicas que acuerden las autoridades competentes y las que indiquen los patrones para la seguridad y protección personal de los trabajadores;
+II. Observar las disposiciones contenidas en el reglamento y las normas oficiales mexicanas en materia de seguridad, salud y medio ambiente de trabajo, así como las que indiquen los patrones para su seguridad y protección personal;
 
 III.- Desempeñar el servicio bajo la dirección del patrón o de su representante, a cuya autoridad estarán subordinados en todo lo concerniente al trabajo;
 
@@ -1104,9 +1288,11 @@ VII. Suspender las labores sin autorización del patrón;
 
 VIII. Hacer colectas en el establecimiento o lugar de trabajo;
 
-IX. Usar los útiles y herramientas suministrados por el patrón, para objeto distinto de aquél a que están destinados; y
+IX. Usar los útiles y herramientas suministrados por el patrón, para objeto distinto de aquél a que están destinados;
 
-X. Hacer cualquier clase de propaganda en las horas de trabajo, dentro del establecimiento.
+X. Hacer cualquier clase de propaganda en las horas de trabajo, dentro del establecimiento; y
+
+XI. Acosar sexualmente a cualquier persona o realizar actos inmorales en los lugares de trabajo.
 
 ### CAPITULO III · Habitaciones para los trabajadores
 
@@ -1234,103 +1420,75 @@ Los trabajadores tendrán derecho a ejercitar ante las Juntas de Conciliación y
 
 Las empresas tendrán derecho a ejercitar ante las Juntas de Conciliación y Arbitraje, las acciones que les correspondan en contra de los trabajadores por incumplimiento de las obligaciones que les impone este capítulo.
 
-### CAPITULO III BIS · De la capacitación y adiestramiento de los trabajadores
+### Capítulo III BIS · De la Productividad, Formación y Capacitación de los Trabajadores
 
 ##### Artículo 153-A.
 
-Todo trabajador tiene el derecho a que su patrón le proporcione capacitación o adiestramiento en su trabajo que le permita elevar su nivel de vida y productividad, conforme a los planes y programas formulados, de común acuerdo, por el patrón y el sindicato o sus trabajadores y aprobados por la Secretaría del Trabajo y Previsión Social.
+Los patrones tienen la obligación de proporcionar a todos los trabajadores, y éstos a recibir, la capacitación o el adiestramiento en su trabajo que le permita elevar su nivel de vida, su competencia laboral y su productividad, conforme a los planes y programas formulados, de común acuerdo, por el patrón y el sindicato o la mayoría de sus trabajadores.
+
+Para dar cumplimiento a la obligación que, conforme al párrafo anterior les corresponde, los patrones podrán convenir con los trabajadores en que la capacitación o adiestramiento se proporcione a éstos dentro de la misma empresa o fuera de ella, por conducto de personal propio, instructores especialmente contratados, instituciones, escuelas u organismos especializados, o bien mediante adhesión a los sistemas generales que se establezcan.
+
+Las instituciones, escuelas u organismos especializados, así como los instructores independientes que deseen impartir formación, capacitación o adiestramiento, así como su personal docente, deberán estar autorizados y registrados por la Secretaría del Trabajo y Previsión Social.
+
+Los cursos y programas de capacitación o adiestramiento, así como los programas para elevar la productividad de la empresa, podrán formularse respecto de cada establecimiento, una empresa, varias de ellas o respecto a una rama industrial o actividad determinada.
+
+La capacitación o adiestramiento a que se refiere este artículo y demás relativos, deberá impartirse al trabajador durante las horas de su jornada de trabajo; salvo que, atendiendo a la naturaleza de los servicios, patrón y trabajador convengan que podrá impartirse de otra manera; así como en el caso en que el trabajador desee capacitarse en una actividad distinta a la de la ocupación que desempeñe, en cuyo supuesto, la capacitación se realizará fuera de la jornada de trabajo.
 
 ##### Artículo 153-B.
 
-Para dar cumplimiento a la obligación que, conforme al artículo anterior les corresponde, los patrones podrán convenir con los trabajadores en que la capacitación o adiestramiento, se proporcione a éstos dentro de la misma empresa o fuera de ella, por conducto de personal propio, instructores especialmente contratados, instituciones, escuelas u organismos especializados, o bien mediante adhesión a los sistemas generales que se establezcan y que se registren en la Secretaría del Trabajo y Previsión Social. En caso de tal adhesión, quedará a cargo de los patrones cubrir las cuotas respectivas.
+La capacitación tendrá por objeto preparar a los trabajadores de nueva contratación y a los demás interesados en ocupar las vacantes o puestos de nueva creación.
+
+Podrá formar parte de los programas de capacitación el apoyo que el patrón preste a los trabajadores para iniciar, continuar o completar ciclos escolares de los niveles básicos, medio o superior.
 
 ##### Artículo 153-C.
 
-Las instituciones o escuelas que deseen impartir capacitación o adiestramiento, así como su personal docente, deberán estar autorizadas y registradas por la Secretaría del Trabajo y Previsión Social.
+El adiestramiento tendrá por objeto:
+
+I. Actualizar y perfeccionar los conocimientos y habilidades de los trabajadores y proporcionarles información para que puedan aplicar en sus actividades las nuevas tecnologías que los empresarios deben implementar para incrementar la productividad en las empresas;
+
+II. Hacer del conocimiento de los trabajadores sobre los riesgos y peligros a que están expuestos durante el desempeño de sus labores, así como las disposiciones contenidas en el reglamento y las normas oficiales mexicanas en materia de seguridad, salud y medio ambiente de trabajo que les son aplicables, para prevenir riesgos de trabajo;
+
+III. Incrementar la productividad; y
+
+IV. En general mejorar el nivel educativo, la competencia laboral y las habilidades de los trabajadores.
 
 ##### Artículo 153-D.
-
-Los cursos y programas de capacitación o adiestramiento de los trabajadores, podrán formularse respecto a cada establecimiento, una empresa, varias de ellas o respecto a una rama industrial o actividad determinada.
-
-##### Artículo 153-E.
-
-La capacitación o adiestramiento a que se refiere el artículo 153-A, deberá impartirse al trabajador durante las horas de su jornada de trabajo; salvo que, atendiendo a la naturaleza de los servicios, patrón y trabajador convengan que podrá impartirse de otra manera; así como en el caso en que el trabajador desee capacitarse en una actividad distinta a la de la ocupación que desempeñe, en cuyo supuesto, la capacitación se realizará fuera de la jornada de trabajo.
-
-##### Artículo 153-F.
-
-La capacitación y el adiestramiento deberán tener por objeto:
-
-I. Actualizar y perfeccionar los conocimientos y habilidades del trabajador en su actividad; así como proporcionarle información sobre la aplicación de nueva tecnología en ella;
-
-II. Preparar al trabajador para ocupar una vacante o puesto de nueva creación;
-
-III. Prevenir riesgos de trabajo;
-
-IV. Incrementar la productividad; y,
-
-V. En general, mejorar las aptitudes del trabajador.
-
-##### Artículo 153-G.
-
-Durante el tiempo en que un trabajador de nuevo ingreso que requiera capacitación inicial para el empleo que va a desempeñar, reciba ésta, prestará sus servicios conforme a las condiciones generales de trabajo que rijan en la empresa o a lo que se estipule respecto a ella en los contratos colectivos.
-
-##### Artículo 153-H.
 
 Los trabajadores a quienes se imparta capacitación o adiestramiento están obligados a:
 
 I. Asistir puntualmente a los cursos, sesiones de grupo y demás actividades que formen parte del proceso de capacitación o adiestramiento;
 
-II. Atender las indicaciones de las personas que impartan la capacitación o adiestramiento, y cumplir con los programas respectivos; y,
+II. Atender las indicaciones de las personas que impartan la capacitación o adiestramiento, y cumplir con los programas respectivos; y
 
-III. Presentar los exámenes de evaluación de conocimientos y de aptitud que sean requeridos.
+III. Presentar los exámenes de evaluación de conocimientos y de aptitud o de competencia laboral que sean requeridos.
 
-##### Artículo 153-I.
+##### Artículo 153-E.
 
-En cada empresa se constituirán Comisiones Mixtas de Capacitación y Adiestramiento, integradas por igual número de representantes de los trabajadores y del patrón, las cuales vigilarán la instrumentación y operación del sistema y de los procedimientos que se implanten para mejorar la capacitación y el adiestramiento de los trabajadores, y sugerirán las medidas tendientes a perfeccionarlos; todo esto conforme a las necesidades de los trabajadores y de las empresas.
+En las empresas que tengan más de 50 trabajadores se constituirán Comisiones Mixtas de Capacitación, Adiestramiento y Productividad, integradas por igual número de representantes de los trabajadores y de los patrones, y serán las encargadas de:
 
-##### Artículo 153-J.
+I. Vigilar, instrumentar, operar y mejorar los sistemas y los programas de capacitación y adiestramiento;
 
-Las autoridades laborales cuidarán que las Comisiones Mixtas de Capacitación y Adiestramiento se integren y funcionen oportuna y normalmente, vigilando el cumplimiento de la obligación patronal de capacitar y adiestrar a los trabajadores.
+II. Proponer los cambios necesarios en la maquinaria, los equipos, la organización del trabajo y las relaciones laborales, de conformidad con las mejores prácticas tecnológicas y organizativas que incrementen la productividad en función de su grado de desarrollo actual;
 
-##### Artículo 153-K.
+III. Proponer las medidas acordadas por el Comité Nacional y los Comités Estatales de Productividad a que se refieren los artículos 153-K y 153-Q, con el propósito de impulsar la capacitación, medir y elevar la productividad, así como garantizar el reparto equitativo de sus beneficios;
 
-La Secretaría del Trabajo y Previsión Social podrá convocar a los Patrones, Sindicatos y Trabajadores libres que formen parte de las mismas ramas industriales o actividades, para constituir Comités Nacionales de Capacitación y Adiestramiento de tales ramas Industriales o actividades, los cuales tendrán el carácter de órganos auxiliares de la propia Secretaría.
+IV. Vigilar el cumplimiento de los acuerdos de productividad; y
 
-Estos Comités tendrán facultades para:
+V. Resolver las objeciones que, en su caso, presenten los trabajadores con motivo de la distribución de los beneficios de la productividad.
 
-I. Participar en la determinación de los requerimientos de capacitación y adiestramiento de las ramas o actividades respectivas;
+Para el caso de las micro y pequeñas empresas, que son aquellas que cuentan con hasta 50 trabajadores, la Secretaría del Trabajo y Previsión Social y la Secretaría de Economía estarán obligadas a incentivar su productividad mediante la dotación de los programas a que se refiere el artículo 153-J, así como la capacitación relacionada con los mismos. Para tal efecto, con el apoyo de las instituciones académicas relacionadas con los temas de los programas referidos, convocarán en razón de su rama, sector, entidad federativa o región a los micro y pequeños empresarios, a los trabajadores y sindicatos que laboran en dichas empresas.
 
-II. Colaborar en la elaboración del Catálogo Nacional de Ocupaciones y en la de estudios sobre las características de la maquinaria y equipo en existencia y uso en las ramas o actividades correspondientes;
+##### Artículo 153-F.
 
-III. Proponer sistemas de capacitación y adiestramiento para y en el trabajo, en relación con las ramas industriales o actividades correspondientes;
+Las autoridades laborales cuidarán que las Comisiones Mixtas de Capacitación, Adiestramiento y Productividad se integren y funcionen oportuna y normalmente, vigilando el cumplimiento de sus obligaciones.
 
-IV. Formular recomendaciones específicas de planes y programas de capacitación y adiestramiento;
+##### Artículo 153-F Bis.
 
-V. Evaluar los efectos de las acciones de capacitación y adiestramiento en la productividad dentro de las ramas industriales o actividades específicas de que se trate; y,
+Los patrones deberán conservar a disposición de la Secretaría del Trabajo y Previsión Social y la Secretaría de Economía, los planes y programas de capacitación, adiestramiento y productividad que se haya acordado establecer, o en su caso, las modificaciones que se hayan convenido acerca de planes y programas ya implantados.
 
-VI. Gestionar ante la autoridad laboral el registro de las constancias relativas a conocimientos o habilidades de los trabajadores que hayan satisfecho los requisitos legales exigidos para tal efecto.
+##### Artículo 153-G.
 
-##### Artículo 153-L.
-
-La Secretaría del Trabajo y Previsión Social fijará las bases para determinar la forma de designación de los miembros de los Comités Nacionales de Capacitación y Adiestramiento, así como las relativas a su organización y funcionamiento.
-
-##### Artículo 153-M.
-
-En los contratos colectivos deberán incluirse cláusulas relativas a la obligación patronal de proporcionar capacitación y adiestramiento a los trabajadores, conforme a planes y programas que satisfagan los requisitos establecidos en este Capítulo.
-
-Además, podrá consignarse en los propios contratos el procedimiento conforme al cual el patrón capacitará y adiestrará a quienes pretendan ingresar a laborar en la empresa, tomando en cuenta, en su caso, la cláusula de admisión.
-
-##### Artículo 153-N.
-
-Dentro de los quince días siguientes a la celebración, revisión o prórroga del contrato colectivo, los patrones deberán presentar ante la Secretaría del Trabajo y Previsión Social, para su aprobación, los planes y programas de capacitación y adiestramiento que se haya acordado establecer, o en su caso, las modificaciones que se hayan convenido acerca de planes y programas ya implantados con aprobación de la autoridad laboral.
-
-##### Artículo 153-O.
-
-Las empresas en que no rija contrato colectivo de trabajo, deberán someter a la aprobación de la Secretaría del Trabajo y Previsión Social, dentro de los primeros sesenta días de los años impares, los planes y programas de capacitación o adiestramiento que, de común acuerdo con los trabajadores, hayan decidido implantar. Igualmente, deberán informar respecto a la constitución y bases generales a que se sujetará el funcionamiento de las Comisiones Mixtas de Capacitación y Adiestramiento.
-
-##### Artículo 153-P.
-
-El registro de que trata el artículo 153-C se otorgará a las personas o instituciones que satisfagan los siguientes requisitos:
+El registro de que trata el tercer párrafo del artículo 153-A se otorgará a las personas o instituciones que satisfagan los siguientes requisitos:
 
 I. Comprobar que quienes capacitarán o adiestrarán a los trabajadores, están preparados profesionalmente en la rama industrial o actividad en que impartirán sus conocimientos;
 
@@ -1342,31 +1500,121 @@ El registro concedido en los términos de este artículo podrá ser revocado cua
 
 En el procedimiento de revocación, el afectado podrá ofrecer pruebas y alegar lo que a su derecho convenga.
 
-##### Artículo 153-Q.
+##### Artículo 153-H.
 
-Los planes y programas de que tratan los artículos 153-N y 153-O, deberán cumplir los siguientes requisitos:
+Los planes y programas de capacitación y adiestramiento se elaborarán dentro de los sesenta días hábiles siguientes a que inicien las operaciones en el centro de trabajo y deberán cumplir los requisitos siguientes:
 
-I. Referirse a períodos no mayores de cuatro años;
+I. Referirse a periodos no mayores de dos años, salvo la capacitación a que se refiere el segundo párrafo del artículo 153-B;
 
 II. Comprender todos los puestos y niveles existentes en la empresa;
 
 III. Precisar las etapas durante las cuales se impartirá la capacitación y el adiestramiento al total de los trabajadores de la empresa;
 
-IV. Señalar el procedimiento de selección, a través del cual se establecerá el orden en que serán capacitados los trabajadores de un mismo puesto y categoría;
+IV. Señalar el procedimiento de selección, a través del cual se establecerá el orden en que serán capacitados los trabajadores de un mismo puesto y categoría; y
 
-V. Especificar el nombre y número de registro en la Secretaría del Trabajo y Previsión Social de las entidades instructoras; y,
+V. Deberán basarse en normas técnicas de competencia laboral, si las hubiere para los puestos de trabajo de que se trate.
 
-VI. Aquellos otros que establezcan los criterios generales de la Secretaría del Trabajo y Previsión Social que se publiquen en el Diario Oficial de la Federación.
+##### Artículo 153-I.
 
-Dichos planes y programas deberán ser aplicados de inmediato por las empresas.
+Se entiende por productividad, para efectos de esta Ley, el resultado de optimizar los factores humanos, materiales, financieros, tecnológicos y organizacionales que concurren en la empresa, en la rama o en el sector para la elaboración de bienes o la prestación de servicios, con el fin de promover a nivel sectorial, estatal, regional, nacional e internacional, y acorde con el mercado al que tiene acceso, su competitividad y sustentabilidad, mejorar su capacidad, su tecnología y su organización, e incrementar los ingresos, el bienestar de los trabajadores y distribuir equitativamente sus beneficios.
+
+Al establecimiento de los acuerdos y sistemas para medir e incrementar la productividad, concurrirán los patrones, trabajadores, sindicatos, gobiernos y academia.
+
+##### Artículo 153-J.
+
+Para elevar la productividad en las empresas, incluidas las micro y pequeñas empresas, se elaborarán programas que tendrán por objeto:
+
+I. Hacer un diagnóstico objetivo de la situación de las empresas en materia de productividad;
+
+II. Proporcionar a las empresas estudios sobre las mejores prácticas tecnológicas y organizativas que incrementen su nivel actual de productividad en función de su grado de desarrollo;
+
+III. Adecuar las condiciones materiales, organizativas, tecnológicas y financieras que permitan aumentar la productividad;
+
+IV. Proponer programas gubernamentales de financiamiento, asesoría, apoyo y certificación para el aumento de la productividad;
+
+V. Mejorar los sistemas de coordinación entre trabajadores, empresa, gobiernos y academia;
+
+VI. Establecer compromisos para elevar la productividad por parte de los empresarios, trabajadores, sindicatos, gobiernos y academia;
+
+VII. Evaluar periódicamente el desarrollo y cumplimiento de los programas;
+
+VIII. Mejorar las condiciones de trabajo, así como las medidas de Seguridad e Higiene;
+
+IX. Implementar sistemas que permitan determinar en forma y monto apropiados los incentivos, bonos o comisiones derivados de la contribución de los trabajadores a la elevación de la productividad que se acuerde con los sindicatos y los trabajadores; y
+
+X. Las demás que se acuerden y se consideren pertinentes.
+
+Los programas establecidos en este artículo podrán formularse respecto de varias empresas, por actividad o servicio, una o varias ramas industriales o de servicios, por entidades federativas, región o a nivel nacional.
+
+##### Artículo 153-K.
+
+La Secretaría del Trabajo y Previsión Social en conjunto con la Secretaría de Economía, convocarán a los patrones, sindicatos, trabajadores e instituciones académicas para que constituyan el Comité Nacional de Productividad, que tendrán el carácter de órgano consultivo y auxiliar del Ejecutivo Federal y de la planta productiva.
+
+El Comité Nacional de Productividad tendrá las facultades que enseguida se enumeran:
+
+I. Realizar el diagnóstico nacional e internacional de los requerimientos necesarios para elevar la productividad y la competitividad en cada sector y rama de la producción, impulsar la capacitación y el adiestramiento, así como la inversión en el equipo y la forma de organización que se requiera para aumentar la productividad, proponiendo planes por rama, y vincular los salarios a la calificación y competencias adquiridas, así como a la evolución de la productividad de la empresa en función de las mejores prácticas tecnológicas y organizativas que incrementen la productividad tomando en cuenta su grado de desarrollo actual;
+
+II. Colaborar en la elaboración y actualización permanente del Catálogo Nacional de Ocupaciones y en los estudios sobre las características de la tecnología, maquinaria y equipo en existencia y uso, así como de las competencias laborales requeridas en las actividades correspondientes a las ramas industriales o de servicios;
+
+III. Sugerir alternativas tecnológicas y de organización del trabajo para elevar la productividad en función de las mejores prácticas y en correspondencia con el nivel de desarrollo de las empresas;
+
+IV. Formular recomendaciones de planes y programas de capacitación y adiestramiento que permitan elevar la productividad;
+
+V. Estudiar mecanismos y nuevas formas de remuneración que vinculen los salarios y, en general el ingreso de los trabajadores, a los beneficios de la productividad;
+
+VI. Evaluar los efectos de las acciones de capacitación y adiestramiento en la productividad dentro de las ramas industriales o actividades específicas de que se trate;
+
+VII. Proponer a la Secretaría del Trabajo y Previsión Social la expedición de normas técnicas de competencia laboral y, en su caso, los procedimientos para su evaluación, acreditación y certificación, respecto de aquellas actividades productivas en las que no exista una norma determinada;
+
+VIII. Gestionar ante la autoridad laboral el registro de las constancias relativas a conocimientos o habilidades de los trabajadores que hayan satisfecho los requisitos legales exigidos para tal efecto;
+
+IX. Elaborar e implementar los programas a que hace referencia el artículo anterior;
+
+X. Participar en la elaboración del Plan Nacional de Desarrollo;
+
+XI. Emitir opinión y sugerir el destino y aplicación de recursos presupuestales orientados al incremento de la productividad; y
+
+XII. Las demás que se establezcan en esta y otras disposiciones normativas.
+
+##### Artículo 153-L.
+
+El Titular del Ejecutivo Federal fijará las bases para determinar la forma de designación de los miembros de la Comisión Nacional de Productividad, así como las relativas a su organización y funcionamiento. Sujetándose a los principios de representatividad e inclusión en su integración.
+
+En la toma de decisiones de la Comisión Nacional de Productividad se privilegiará el consenso.
+
+##### Artículo 153-M.
+
+En los contratos colectivos deberán incluirse cláusulas relativas a la obligación patronal de proporcionar capacitación y adiestramiento a los trabajadores, conforme a planes y programas que satisfagan los requisitos establecidos en este Capítulo.
+
+Además, podrá consignarse en los propios contratos el procedimiento conforme al cual el patrón capacitará y adiestrará a quienes pretendan ingresar a laborar en la empresa, tomando en cuenta, en su caso, la cláusula de admisión.
+
+##### Artículo 153-N.
+
+Para su funcionamiento la Comisión Nacional de Productividad establecerá subcomisiones sectoriales, por rama de actividad, estatales y regionales.
+
+Las subcomisiones elaborarán para el ámbito del respectivo sector, rama de actividad, entidad federativa o región los programas que establece el artículo 153-J de esta Ley.
+
+##### Artículo 153-O.
+
+(Se deroga).
+
+##### Artículo 153-P.
+
+(Se deroga).
+
+##### Artículo 153-Q.
+
+A nivel de las entidades federativas y el Distrito Federal se establecerán Comisiones Estatales de Productividad.
+
+Será aplicable a las Comisiones Estatales de Productividad, en el ámbito de las entidades federativas, lo establecido en los artículos 153-I, 153-J, 153-K, 153-L, 153-N y demás relativos.
 
 ##### Artículo 153-R.
 
-Dentro de los sesenta días hábiles que sigan a la presentación de tales planes y programas ante la Secretaría del Trabajo y Previsión Social, ésta los aprobará o dispondrá que se les hagan las modificaciones que estime pertinentes; en la inteligencia de que, aquellos planes y programas que no hayan sido objetados por la autoridad laboral dentro del término citado, se entenderán definitivamente aprobados.
+(Se deroga).
 
 ##### Artículo 153-S.
 
-Cuando el patrón no dé cumplimiento a la obligación de presentar ante la Secretaría del Trabajo y Previsión Social los planes y programas de capacitación y adiestramiento, dentro del plazo que corresponda, en los términos de los artículos 153-N y 153-O, o cuando presentados dichos planes y programas, no los lleve a la práctica, será sancionado conforme a lo dispuesto en la fracción IV del artículo 878 de esta Ley, sin perjuicio de que, en cualquiera de los dos casos, la propia Secretaría adopte las medidas pertinentes para que el patrón cumpla con la obligación de que se trata.
+Cuando el patrón no dé cumplimiento a la obligación de conservar a disposición de la Secretaría del Trabajo y Previsión Social los planes y programas de capacitación y adiestramiento, en los términos del artículo 153-N, o cuando dichos planes y programas no se lleven a la práctica, será sancionado conforme a lo dispuesto en esta Ley, sin perjuicio de que, en cualquiera de los dos casos, la propia Secretaría adopte las medidas pertinentes para que el patrón cumpla con la obligación de que se trata.
 
 ##### Artículo 153-T.
 
@@ -1374,19 +1622,17 @@ Los trabajadores que hayan sido aprobados en los exámenes de capacitación y ad
 
 ##### Artículo 153-U.
 
-Cuando implantado un programa de capacitación, un trabajador se niegue a recibir ésta, por considerar que tiene los conocimientos necesarios para el desempeño de su puesto y del inmediato superior, deberá acreditar documentalmente dicha capacidad o presentar y aprobar, ante la entidad instructora, el examen de suficiencia que señale la Secretaría del Trabajo y Previsión Social.
+Cuando implantado un programa de capacitación, un trabajador se niegue a recibir ésta, por considerar que tiene los conocimientos necesarios para el desempeño de su puesto y del inmediato superior, deberá acreditar documentalmente dicha capacidad mediante el correspondiente certificado de competencia laboral o presentar y aprobar, ante la entidad instructora, el examen de suficiencia respectivo.
 
-En este último caso, se extenderá a dicho trabajador la correspondiente constancia de habilidades laborales.
+En este último caso, se extenderá a dicho trabajador la constancia de competencias o de habilidades laborales.
 
 ##### Artículo 153-V.
 
-La constancia de habilidades laborales es el documento expedido por el capacitador, con el cual el trabajador acreditará haber llevado y aprobado un curso de capacitación.
+La constancia de competencias o de habilidades laborales es el documento con el cual el trabajador acreditará haber llevado y aprobado un curso de capacitación.
 
 Las empresas están obligadas a enviar a la Secretaría del Trabajo y Previsión Social para su registro y control, listas de las constancias que se hayan expedido a sus trabajadores.
 
 Las constancias de que se trata surtirán plenos efectos, para fines de ascenso, dentro de la empresa en que se haya proporcionado la capacitación o adiestramiento.
-
-Si en una empresa existen varias especialidades o niveles en relación con el puesto a que la constancia se refiera, el trabajador, mediante examen que practique la Comisión Mixta de Capacitación y Adiestramiento respectiva acreditará para cuál de ellas es apto.
 
 ##### Artículo 153-W.
 
@@ -1400,7 +1646,7 @@ Los trabajadores y patrones tendrán derecho a ejercitar ante las Juntas de Conc
 
 ##### Artículo 154.
 
-Los patrones estarán obligados a preferir en igualdad de circunstancias a los trabajadores mexicanos respecto de quienes no lo sean, a quienes les hayan servido satisfactoriamente por mayor tiempo, a quienes no teniendo ninguna otra fuente de ingreso económico tengan a su cargo una familia y a los sindicalizados respecto de quienes no lo estén.
+Los patrones estarán obligados a preferir, en igualdad de circunstancias, a los trabajadores mexicanos respecto de quienes no lo sean, a quienes les hayan servido satisfactoriamente por mayor tiempo, a quienes no teniendo ninguna otra fuente de ingreso económico tengan a su cargo una familia, a los que hayan terminado su educación básica obligatoria, a los capacitados respecto de los que no lo sean, a los que tengan mayor aptitud y conocimientos para realizar un trabajo y a los sindicalizados respecto de quienes no lo estén.
 
 Si existe contrato colectivo y éste contiene cláusula de admisión, la preferencia para ocupar las vacantes o puestos de nueva creación se regirá por lo que disponga el contrato colectivo y el estatuto sindical.
 
@@ -1416,7 +1662,7 @@ De no existir contrato colectivo o no contener el celebrado la cláusula de admi
 
 ##### Artículo 157.
 
-El incumplimiento de las obligaciones contenidas en los artículos 154 y 156 da derecho al trabajador para solicitar ante la Junta de Conciliación y Arbitraje, a su elección, que se le otorgue el puesto correspondiente o se le indemnice con el importe de tres meses de salario. Tendrá además derecho a que se le paguen los salarios a que se refiere el párrafo segundo del artículo 48.
+El incumplimiento de las obligaciones contenidas en los artículos 154 y 156 da derecho al trabajador para solicitar ante la Junta de Conciliación y Arbitraje, a su elección, que se le otorgue el puesto correspondiente o se le indemnice con el importe de tres meses de salario. Tendrá además derecho a que se le paguen los salarios e intereses, en su caso, a que se refiere el párrafo segundo del artículo 48.
 
 ##### Artículo 158.
 
@@ -1426,15 +1672,7 @@ Una comisión integrada con representantes de los trabajadores y del patrón for
 
 ##### Artículo 159.
 
-Las vacantes definitivas, las provisionales con duración mayor de treinta días y los puestos de nueva creación, serán cubiertos escalafonariamente, por el trabajador de la categoría inmediata inferior, del respectivo oficio o profesión.
-
-Si el patrón cumplió con la obligación de capacitar a todos los trabajadores de la categoría inmediata inferior a aquélla en que ocurra la vacante, el ascenso corresponderá a quien haya demostrado ser apto y tenga mayor antigüedad. En igualdad de condiciones, se preferirá al trabajador que tenga a su cargo una familia y, de subsistir la igualdad, al que, previo examen, acredite mayor aptitud.
-
-Si el patrón no ha dado cumplimiento a la obligación que le impone el artículo 132, fracción XV, la vacante se otorgará al trabajador de mayor antigüedad y, en igualdad de esta circunstancia, al que tenga a su cargo una familia.
-
-Tratándose de puestos de nueva creación para los cuales, por su naturaleza o especialidad, no existan en la empresa trabajadores con aptitud para desempeñarlos y no se haya establecido un procedimiento para tal efecto en el contrato colectivo, el patrón podrá cubrirlos libremente.
-
-En los propios contratos colectivos y conforme a lo dispuesto en esta Ley, se establecerá la forma en que deberán acreditarse la aptitud y otorgarse los ascensos.
+Las vacantes definitivas, las provisionales con duración mayor de treinta días y los puestos de nueva creación, serán cubiertos por el trabajador que tenga la categoría o rango inmediato inferior, así como mayor capacitación, con mayor antigüedad, demuestre mayor aptitud, acredite mayor productividad y sea apto para el puesto.
 
 ##### Artículo 160.
 
@@ -1502,7 +1740,9 @@ Los reglamentos que se expidan determinarán los trabajos que quedan comprendido
 
 ##### Artículo 168.
 
-(Se deroga).
+En caso de que las autoridades competentes emitan una declaratoria de contingencia sanitaria, conforme a las disposiciones aplicables, no podrá utilizarse el trabajo de mujeres en periodos de gestación o de lactancia. Las trabajadoras que se encuentren en este supuesto, no sufrirán perjuicio en su salario, prestaciones y derechos.
+
+Cuando con motivo de la declaratoria de contingencia sanitaria se ordene la suspensión general de labores, a las mujeres en periodos de gestación o de lactancia les será aplicable lo dispuesto por el artículo 429, fracción IV de esta Ley.
 
 ##### Artículo 169.
 
@@ -1514,11 +1754,15 @@ Las madres trabajadoras tendrán los siguientes derechos:
 
 I. Durante el período del embarazo, no realizarán trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación, tales como levantar, tirar o empujar grandes pesos, que produzcan trepidación, estar de pie durante largo tiempo o que actúen o puedan alterar su estado psíquico y nervioso;
 
-II. Disfrutarán de un descanso de seis semanas anteriores y seis posteriores al parto;
+II. Disfrutarán de un descanso de seis semanas anteriores y seis posteriores al parto. A solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda o, en su caso, del servicio de salud que otorgue el patrón, tomando en cuenta la opinión del patrón y la naturaleza del trabajo que desempeñe, se podrá transferir hasta cuatro de las seis semanas de descanso previas al parto para después del mismo. En caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta ocho semanas posteriores al parto, previa presentación del certificado médico correspondiente.
+
+En caso de que se presente autorización de médicos particulares, ésta deberá contener el nombre y número de cédula profesional de quien los expida, la fecha y el estado médico de la trabajadora.
+
+II Bis. En caso de adopción de un infante disfrutarán de un descanso de seis semanas con goce de sueldo, posteriores al día en que lo reciban;
 
 III. Los períodos de descanso a que se refiere la fracción anterior se prorrogarán por el tiempo necesario en el caso de que se encuentren imposibilitadas para trabajar a causa del embarazo o del parto;
 
-IV. En el período de lactancia tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, en lugar adecuado e higiénico que designe la empresa;
+IV. En el período de lactancia hasta por el término máximo de seis meses, tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, en lugar adecuado e higiénico que designe la empresa, o bien, cuando esto no sea posible, previo acuerdo con el patrón se reducirá en una hora su jornada de trabajo durante el período señalado;
 
 V. Durante los períodos de descanso a que se refiere la fracción II, percibirán su salario íntegro. En los casos de prórroga mencionados en la fracción III, tendrán derecho al cincuenta por ciento de su salario por un período no mayor de sesenta días;
 
@@ -1538,43 +1782,119 @@ En los establecimientos en que trabajen mujeres, el patrón debe mantener un nú
 
 ##### Artículo 173.
 
-El trabajo de los mayores de catorce años y menores de dieciséis queda sujeto a vigilancia y protección especiales de la Inspección del Trabajo.
+El trabajo de los menores queda sujeto a vigilancia y protección especiales de las autoridades del trabajo tanto federales como locales.
+
+La Secretaría del Trabajo y Previsión Social en coordinación con las autoridades del trabajo en las entidades federativas, desarrollarán programas que permitan identificar y erradicar el trabajo infantil.
 
 ##### Artículo 174.
 
-Los mayores de catorce y menores de dieciséis años deberán obtener un certificado médico que acredite su aptitud para el trabajo y someterse a los exámenes médicos que periódicamente ordene la Inspección del Trabajo . Sin el requisito del certificado, ningún patrón podrá utilizar sus servicios.
+Los mayores de catorce y menores de dieciséis años, independientemente de contar con la autorización de Ley para trabajar, deberán obtener un certificado médico que acredite su aptitud para el trabajo y someterse a los exámenes médicos que periódicamente ordenen las autoridades laborales correspondientes. Sin estos requisitos, ningún patrón podrá utilizar sus servicios.
 
 ##### Artículo 175.
 
 Queda prohibida la utilización del trabajo de los menores:
 
-I. De dieciséis años, en:
+I. En establecimientos no industriales después de las diez de la noche;
 
-a) Expendios de bebidas embriagantes de consumo inmediato.
+II. En expendios de bebidas embriagantes de consumo inmediato, cantinas o tabernas y centros de vicio;
 
-b) Trabajos susceptibles de afectar su moralidad o sus buenas costumbres.
+III. En trabajos susceptibles de afectar su moralidad o buenas costumbres; y
 
-c) Trabajos ambulantes, salvo autorización especial de la Inspección de Trabajo.
+IV. En labores peligrosas o insalubres que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se presta, o por la composición de la materia prima que se utiliza, son capaces de actuar sobre la vida, el desarrollo y la salud física y mental de los menores.
 
-d) Trabajos subterráneos o submarinos.
+En caso de declaratoria de contingencia sanitaria y siempre que así lo determine la autoridad competente, no podrá utilizarse el trabajo de menores de dieciséis años. Los trabajadores que se encuentren en este supuesto, no sufrirán perjuicio en su salario, prestaciones y derechos.
 
-e) Labores peligrosas o insalubres.
+Cuando con motivo de la declaratoria de contingencia sanitaria se ordene la suspensión general de labores, a los menores de dieciséis años les será aplicable lo dispuesto por el artículo 429, fracción IV de esta Ley.
 
-f) Trabajos superiores a sus fuerzas y los que puedan impedir o retardar su desarrollo físico normal.
+##### Artículo 175 Bis.
 
-g) Establecimientos no industriales después de las diez de la noche.
+Para los efectos de este capítulo, no se considerará trabajo las actividades que bajo la supervisión, el cuidado y la responsabilidad de los padres, tutores o quienes ejerzan la patria potestad, realicen los menores de catorce años relacionadas con la creación artística, el desarrollo científico, deportivo o de talento, la ejecución musical o la interpretación artística en cualquiera de sus manifestaciones, cuando se sujeten a las siguientes reglas:
 
-h) Los demás que determinen las leyes.
+a) La relación establecida con el solicitante deberá constar por escrito y contendrá el consentimiento expreso que en nombre del menor manifiesten los padres, tutores o quienes ejerzan la patria potestad, así como la incorporación del compromiso que asuma el solicitante de respetar a favor del mismo menor los derechos que la Constitución, los convenios internacionales y las leyes federales y locales reconozcan a favor de la niñez;
 
-II. De dieciocho años, en:
+b) Las actividades que realice el menor no podrán interferir con su educación, esparcimiento y recreación en los términos que establezca el derecho aplicable, tampoco implicarán riesgo para su integridad o salud y en todo caso, incentivarán el desarrollo de sus habilidades y talentos; y
 
-Trabajos nocturnos industriales.
+c) Las contraprestaciones que reciba el menor por las actividades que realice, nunca serán menores a las que por concepto de salario recibiría un mayor de catorce y menor de dieciséis años.
 
 ##### Artículo 176.
 
-Las labores peligrosas o insalubres a que se refiere el artículo anterior, son aquellas que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se presta, o por la composición de la materia prima que se utiliza, son capaces de actuar sobre la vida, el desarrollo y la salud física y mental de los menores.
+Para los efectos del artículo 175, además de lo que dispongan las Leyes, reglamentos y normas aplicables, se considerarán como labores peligrosas o insalubres, las siguientes:
 
-Los reglamentos que se expidan determinarán los trabajos que queden comprendidos en la anterior definición.
+A. Tratándose de menores de catorce a dieciséis años de edad, aquellos que impliquen:
+
+I. Exposición a:
+
+1\. Ruido, vibraciones, radiaciones ionizantes y no ionizantes infrarrojas o ultravioletas, condiciones térmicas elevadas o abatidas o presiones ambientales anormales.
+
+2\. Agentes químicos contaminantes del ambiente laboral.
+
+3\. Residuos peligrosos, agentes biológicos o enfermedades infecto contagiosas.
+
+4\. Fauna peligrosa o flora nociva.
+
+II. Labores:
+
+1\. De rescate, salvamento y brigadas contra siniestros.
+
+2\. En altura o espacios confinados.
+
+3\. En las cuales se operen equipos y procesos críticos donde se manejen sustancias químicas peligrosas que puedan ocasionar accidentes mayores.
+
+4\. De soldadura y corte.
+
+5\. En condiciones climáticas extremas en campo abierto, que los expongan a deshidratación, golpe de calor, hipotermia o congelación.
+
+6\. En vialidades con amplio volumen de tránsito vehicular (vías primarias).
+
+7\. Agrícolas, forestales, de aserrado, silvícolas, de caza y pesca.
+
+8\. Productivas de las industrias gasera, del cemento, minera, del hierro y el acero, petrolera y nuclear.
+
+9\. Productivas de las industrias ladrillera, vidriera, cerámica y cerera.
+
+10\. Productivas de la industria tabacalera.
+
+11\. Relacionadas con la generación, transmisión y distribución de electricidad y el mantenimiento de instalaciones eléctricas.
+
+12\. En obras de construcción.
+
+13\. Que tengan responsabilidad directa sobre el cuidado de personas o la custodia de bienes y valores.
+
+14\. Con alto grado de dificultad; en apremio de tiempo; que demandan alta responsabilidad, o que requieren de concentración y atención sostenidas.
+
+15\. Relativas a la operación, revisión, mantenimiento y pruebas de recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas.
+
+16\. En buques.
+
+17\. Submarinas y subterráneas.
+
+18\. Trabajos ambulantes, salvo autorización especial de la Inspección de Trabajo.
+
+III. Esfuerzo físico moderado y pesado; cargas superiores a los siete kilogramos; posturas forzadas, o con movimientos repetitivos por períodos prolongados, que alteren su sistema músculo-esquelético.
+
+IV. Manejo, transporte, almacenamiento o despacho de sustancias químicas peligrosas.
+
+V. Manejo, operación y mantenimiento de maquinaria, equipo o herramientas mecánicas, eléctricas, neumáticas o motorizadas, que puedan generar amputaciones, fracturas o lesiones graves.
+
+VI. Manejo de vehículos motorizados, incluido su mantenimiento mecánico y eléctrico.
+
+VII. Uso de herramientas manuales punzo cortantes.
+
+B. Tratándose de menores de dieciocho años de edad, aquellos que impliquen:
+
+I. Trabajos nocturnos industriales.
+
+II. Exposición a:
+
+a. Fauna peligrosa o flora nociva.
+
+b. Radiaciones ionizantes.
+
+III. Actividades en calidad de pañoleros y fogoneros en buques.
+
+IV. Manejo, transporte, almacenamiento o despacho de sustancias químicas peligrosas.
+
+V. Trabajos en minas.
 
 ##### Artículo 177.
 
@@ -2266,13 +2586,29 @@ Alcanzado el monto del fondo, no se harán nuevas aportaciones, salvo para repon
 
 ##### Artículo 279.
 
-Trabajadores del campo son los que ejecutan los trabajos propios y habituales de la agricultura, de la ganadería y forestales, al servicio de un patrón.
+Trabajadores del campo son los que ejecutan las labores propias de las explotaciones agrícolas, ganaderas, acuícolas, forestales o mixtas, al servicio de un patrón.
 
 Los trabajadores en las explotaciones industriales forestales se regirán por las disposiciones generales de esta ley.
 
+Los trabajadores del campo pueden ser permanentes, eventuales o estacionales.
+
+##### Artículo 279 Bis.
+
+Trabajador eventual del campo es aquél que, sin ser permanente ni estacional, desempeña actividades ocasionales en el medio rural, que pueden ser por obra y tiempo determinado, de acuerdo a lo establecido en la presente Ley.
+
+##### Artículo 279 Ter.
+
+Los trabajadores estacionales del campo o jornaleros son aquellas personas físicas que son contratadas para laborar en explotaciones agrícolas, ganaderas, forestales, acuícolas o mixtas, únicamente en determinadas épocas del año, para realizar actividades relacionadas o que van desde la preparación de la tierra, hasta la preparación de los productos para su primera enajenación, ya sea que sean producidos a cielo abierto, en invernadero o de alguna otra manera protegidos, sin que se afecte su estado natural; así como otras de análoga naturaleza agrícola, ganadera, forestal, acuícola o mixta. Puede ser contratada por uno o más patrones durante un año, por periodos que en ningún caso podrán ser superiores a veintisiete semanas por cada patrón.
+
+No se considerarán trabajadores estacionales del campo, los que laboren en empresas agrícolas, ganaderas, forestales, acuícolas o mixtas que adquieran productos del campo, para realizar actividades de empaque, re empaque, exposición, venta o para su transformación a través de algún proceso que modifique su estado natural.
+
 ##### Artículo 280.
 
-Los trabajadores que tengan una permanencia continua de tres meses o más al servicio de un patrón, tienen a su favor la presunción de ser trabajadores de planta.
+El trabajador estacional o eventual del campo que labore en forma continua por un periodo mayor a veintisiete semanas para un patrón, tiene a su favor la presunción de ser trabajador permanente.
+
+El patrón llevará un registro especial de los trabajadores eventuales y estacionales que contrate cada año y exhibirlo ante las autoridades del trabajo cuando sea requerido para ello.
+
+Al final de la estación o del ciclo agrícola, el patrón deberá pagar al trabajador las partes proporcionales que correspondan por concepto de vacaciones, prima vacacional, aguinaldo y cualquier otra prestación a la que tenga derecho, y deberá entregar una constancia a cada trabajador en la que se señalen los días laborados y los salarios totales devengados.
 
 ##### Artículo 281.
 
@@ -2282,7 +2618,7 @@ Si existieren contratos de aparcería, el propietario del predio y el aparcero s
 
 ##### Artículo 282.
 
-Las condiciones de trabajo se redactarán por escrito, observándose lo dispuesto en el artículo 25 y siguientes.
+Las condiciones de trabajo se redactarán por escrito, observándose lo dispuesto en el artículo 25 y demás relativos de esta Ley.
 
 ##### Artículo 283.
 
@@ -2290,29 +2626,41 @@ Los patrones tienen las obligaciones especiales siguientes:
 
 I. Pagar los salarios precisamente en el lugar donde preste el trabajador sus servicios y en períodos de tiempo que no excedan de una semana;
 
-II. Suministrar gratuitamente a los trabajadores habitaciones adecuadas e higiénicas, proporcionadas al número de familiares o dependientes económicos, y un terreno contiguo para la cría de animales de corral;
+II. Suministrar gratuitamente a los trabajadores habitaciones adecuadas e higiénicas, proporcionales al número de familiares o dependientes económicos que los acompañen y, en su caso, un predio individual o colectivo, para la cría de animales de corral;
 
 III. Mantener las habitaciones en buen estado, haciendo en su caso las reparaciones necesarias y convenientes;
 
-IV. Mantener en el lugar de trabajo los medicamentos y material de curación necesarios para primeros auxilios y adiestrar personal que los preste;
+IV. Proporcionar a los trabajadores agua potable y servicios sanitarios durante la jornada de trabajo;
 
-V. Proporcionar a los trabajadores y a sus familiares asistencia médica o trasladarlos al lugar más próximo en el que existan servicios médicos. También tendrán las obligaciones a que se refiere el artículo 504, fracción II;
+V. Mantener en el lugar de trabajo los medicamentos y material de curación, así como los antídotos necesarios, a fin de proporcionar primeros auxilios a los trabajadores, a sus familiares o dependientes económicos que los acompañen, así como adiestrar personal que los preste;
 
-VI. Proporcionar gratuitamente medicamentos y material de curación en los casos de enfermedades tropicales, endémicas y propias de la región y pagar el setenta y cinco por ciento de los salarios hasta por noventa días; y
+VI. Proporcionar a los trabajadores y a sus familiares que los acompañen asistencia médica o trasladarlos al lugar más próximo en el que existan servicios médicos. También tendrán las obligaciones a que se refiere el artículo 504, fracción II;
 
-VII. Permitir a los trabajadores dentro del predio:
+VII. Proporcionar gratuitamente al trabajador, a sus familiares o dependientes económicos que los acompañen medicamentos y material de curación en los casos de enfermedades tropicales, endémicas y propias de la región y pagar a los trabajadores que resulten incapacitados, el setenta y cinco por ciento de los salarios hasta por noventa días. Los trabajadores estacionales disfrutarán de esta prestación por el tiempo que dure la relación laboral.
+
+Los trabajadores estacionales también deberán contar con un seguro de vida para sus traslados desde sus lugares de origen a los centros de trabajo y posteriormente a su retorno;
+
+VIII. Permitir a los trabajadores dentro del predio:
 
 a) Tomar en los depósitos acuíferos, el agua que necesiten para sus usos domésticos y sus animales de corral.
 
-b) La caza y la pesca, para usos propios, de conformidad con las disposiciones que determinan las leyes.
+b) La caza y la pesca, para usos propios, de conformidad con las disposiciones que determinan las Leyes.
 
 c) El libre tránsito por los caminos y veredas establecidos, siempre que no sea en perjuicio de los sembrados y cultivos.
 
 d) Celebrar en los lugares acostumbrados sus fiestas regionales.
 
-e) Fomentar la creación de cooperativas de consumo entre los trabajadores.
+IX. Fomentar la creación de cooperativas de consumo entre los trabajadores;
 
-f) Fomentar la alfabetización entre los trabajadores y sus familiares.
+X. Fomentar la alfabetización entre los trabajadores y sus familiares.
+
+El Estado garantizará en todo momento, el acceso a la educación básica de los hijos de los trabajadores estacionales del campo o jornaleros. La Secretaría de Educación Pública, reconocerá los estudios que en un mismo ciclo escolar, realicen los hijos de los trabajadores estacionales del campo o jornaleros tanto en sus lugares de origen como en sus centros de trabajo;
+
+XI. Proporcionar a los trabajadores en forma gratuita, transporte cómodo y seguro de las zonas habitacionales a los lugares de trabajo y viceversa. El patrón podrá emplear sus propios medios o pagar el servicio para que el trabajador haga uso de un trasporte público adecuado;
+
+XII. Utilizar los servicios de un intérprete cuando los trabajadores no hablen español; y
+
+XIII. Brindar servicios de guardería a los hijos de los trabajadores.
 
 ##### Artículo 284.
 
@@ -2322,7 +2670,7 @@ I. Permitir la entrada a vendedores de bebidas embriagantes;
 
 II. Impedir la entrada a los vendedores de mercancías o cobrarles alguna cuota; y
 
-III. Impedir a los trabajadores que críen animales de corral dentro del predio contiguo a la habitación que se hubiese señalado a cada uno.
+III. Impedir a los trabajadores la crianza de animales de corral en el predio individual o colectivo destinado a tal fin, a menos que ésta perjudique los cultivos o cualquier otra actividad que se realice en las propias instalaciones del centro de trabajo.
 
 ### CAPITULO IX · Agentes de comercio y otros semejantes
 
@@ -2476,7 +2824,9 @@ Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a 
 
 Trabajo a domicilio es el que se ejecuta habitualmente para un patrón, en el domicilio del trabajador o en un local libremente elegido por el, sin vigilancia ni dirección inmediata de quien proporciona el trabajo.
 
-Si el trabajo se ejecuta en condiciones distintas de las señaladas en el párrafo anterior, se regirá por las disposiciones generales de esta Ley.
+Será considerado como trabajo a domicilio el que se realiza a distancia utilizando tecnologías de la información y la comunicación.
+
+Si el trabajo se ejecuta en condiciones distintas de las señaladas en este artículo se regirá por las disposiciones generales de esta Ley.
 
 ##### Artículo 312.
 
@@ -2638,7 +2988,7 @@ II. Los porteros y veladores de los establecimientos señalados en la fracción 
 
 ##### Artículo 333.
 
-Los trabajadores domésticos deberán disfrutar de reposos suficientes para tomar sus alimentos y de descanso durante la noche.
+Los trabajadores domésticos que habitan en el hogar donde prestan sus servicios deberán disfrutar de un descanso mínimo diario nocturno de nueve horas consecutivas, además de un descanso mínimo diario de tres horas entre las actividades matutinas y vespertinas.
 
 ##### Artículo 334.
 
@@ -2650,7 +3000,9 @@ La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos pro
 
 ##### Artículo 336.
 
-Para la fijación de los salarios mínimos a que se refiere el artículo anterior, se tomarán en consideración las condiciones de las localidades en que vayan a aplicarse.
+Los trabajadores domésticos tienen derecho a un descanso semanal de día y medio ininterrumpido, preferiblemente en sábado y domingo.
+
+Mediante acuerdo entre las partes podrá acordarse la acumulación de los medios días en periodos de dos semanas, pero habrá de disfrutarse de un día completo de descanso en cada semana.
 
 ##### Artículo 337.
 
@@ -2658,7 +3010,7 @@ Los patrones tienen las obligaciones especiales siguientes:
 
 I. Guardar consideración al trabajador doméstico, absteniéndose de todo mal trato de palabra o de obra;
 
-II. Proporcionar al trabajador un local cómodo e higiénico para dormir, una alimentación sana y satisfactoria y condiciones de trabajo que aseguren la vida y la salud; y
+II. Proporcionar al trabajador habitación cómoda e higiénica, alimentación sana y suficiente y condiciones de trabajo que aseguren la vida y la salud; y
 
 III. El patrón deberá cooperar para la instrucción general del trabajador doméstico, de conformidad con las normas que dicten las autoridades correspondientes.
 
@@ -2695,6 +3047,64 @@ El trabajador doméstico podrá dar por terminada en cualquier tiempo la relaci�
 ##### Artículo 343.
 
 El patrón podrá dar por terminada la relación de trabajo sin responsabilidad, dentro de los treinta días siguientes a la iniciación del servicio; y en cualquier tiempo, sin necesidad de comprobar la causa que tenga para ello, pagando la indemnización que corresponda de conformidad con los dispuesto en los artículos 49, fracción IV, y 50.
+
+### Capitulo XIII Bis · De Los Trabajadores en Minas
+
+##### Artículo 343-A.
+
+Las disposiciones de este capítulo son aplicables en todas las minas de carbón de la República Mexicana, y a todos sus desarrollos mineros en cualquiera de sus etapas mineras en que se encuentre, ya sea, prospección, preparación, exploración y explotación, independientemente del tipo de exploración y explotación de que se trate, ya sean, minas subterráneas, minas de arrastre, tajos a cielo abierto, tiros inclinados y verticales, así como la extracción en cualquiera de sus modalidades, llevada a cabo en forma artesanal, mismas que, para los efectos de esta Ley, son consideradas centros de trabajo.
+
+##### Artículo 343-B.
+
+Todo centro de trabajo debe contar con un sistema de gestión de seguridad y salud en el trabajo y con un responsable de su funcionamiento, designado por el patrón, en los términos que establezca la normatividad aplicable.
+
+##### Artículo 343-C.
+
+Independientemente de las obligaciones que la presente Ley u otras disposiciones normativas le impongan, el patrón está obligado a:
+
+I. Facilitar y mantener en condiciones higiénicas instalaciones para que sus trabajadores puedan asearse y comer;
+
+II. Contar, antes y durante la exploración y explotación, con los planos, estudios y análisis necesarios para que las actividades se desarrollen en condiciones de seguridad, los que deberán actualizarse cada vez que exista una modificación relevante en los procesos de trabajo;
+
+III. Informar a los trabajadores de manera clara y comprensible los riesgos asociados a su actividad, los peligros que éstos implican para su salud y las medidas de prevención y protección aplicables;
+
+IV. Proporcionar el equipo de protección personal necesario, a fin de evitar la ocurrencia de riesgos de trabajo y capacitar a los trabajadores respecto de su utilización y funcionamiento;
+
+V. Contar con sistemas adecuados de ventilación y fortificación en todas las explotaciones subterráneas, las que deberán tener dos vías de salida, por lo menos, desde cualquier frente de trabajo, comunicadas entre sí;
+
+VI. Establecer un sistema de supervisión y control adecuados en cada turno y frente de trabajo, que permitan garantizar que la explotación de la mina se efectúa en condiciones de seguridad;
+
+VII. Implementar un registro y sistema que permita conocer con precisión los nombres de todas las personas que se encuentran en la mina, así como mantener un control de entradas y salidas de ésta;
+
+VIII. Suspender las actividades y disponer la evacuación de los trabajadores a un lugar seguro en caso de riesgo inminente para la seguridad y salud de los mismos; y
+
+IX. No contratar o permitir que se contrate a menores de 18 años.
+
+Los operadores de las concesiones que amparen los lotes mineros, en los cuales se ubiquen los centros de trabajo a que se refiere este Capítulo, deberán cerciorarse de que el patrón cumpla con sus obligaciones. Los operadores de las concesiones mineras serán subsidiariamente responsables, en caso de que ocurra un suceso en donde uno o más trabajadores sufran incapacidad permanente parcial o total, o la muerte, derivada de dicho suceso.
+
+##### Artículo 343-D.
+
+Los trabajadores podrán negarse a prestar sus servicios, siempre y cuando la Comisión Mixta de Seguridad e Higiene confirme que:
+
+I. No cuenten con la debida capacitación y adiestramiento que les permita identificar los riesgos a los que están expuestos, la forma de evitar la exposición a los mismos y realizar sus labores en condiciones de seguridad.
+
+II. El patrón no les entregue el equipo de protección personal o no los capacite para su correcta utilización.
+
+III. Identifiquen situaciones de riesgo inminente que puedan poner en peligro su vida, integridad física o salud o las de sus compañeros de trabajo.
+
+Cuando los trabajadores tengan conocimiento de situaciones de riesgo inminente, deberán retirarse del lugar de trabajo expuesto a ese riesgo, haciendo del conocimiento de esta circunstancia al patrón, a cualquiera de los integrantes de la Comisión de Seguridad e Higiene o a la Inspección del Trabajo.
+
+Enterada la Inspección del Trabajo, por cualquier medio o forma, de que existe una situación de riesgo inminente, deberá constatar la existencia de dicho riesgo, a través de los Inspectores del Trabajo que comisione para tal efecto, y de manera inmediata, ordenar las medidas correctivas o preventivas en materia de seguridad e higiene con la finalidad de salvaguardar la vida, la integridad física o la salud de los trabajadores. Dichas medidas podrán consistir en la suspensión total o parcial de las actividades de la mina e inclusive en la restricción de acceso de los trabajadores al centro de trabajo hasta en tanto no se adopten las medidas de seguridad necesarias para inhibir la ocurrencia de un siniestro.
+
+En caso de que un patrón se niegue a recibir a la autoridad laboral, ésta podrá solicitar el auxilio de la fuerza pública, Federal, Estatal o Municipal, según sea el caso, para ingresar al centro de trabajo y cumplir con sus funciones de vigilancia del cumplimiento de la normatividad laboral. La Inspección del Trabajo deberá notificar esta circunstancia a la autoridad minera para que ésta proceda a la suspensión de obras y trabajos mineros en los términos de la Ley de la materia.
+
+##### Artículo 343-E.
+
+A los responsables y encargados directos de la operación y supervisión de los trabajos y desarrollos mineros, que dolosamente o negligentemente omitan implementar las medidas de seguridad previstas en la normatividad, y que hayan sido previamente identificados por escrito en dictamen fundado y motivado de la autoridad competente, se les aplicarán las penas siguientes:
+
+I. Multa de hasta 2,000 veces el salario mínimo general vigente en el Distrito Federal, cuando por su omisión se produzca un riesgo de trabajo, que genere a uno o varios trabajadores una incapacidad permanente parcial.
+
+II. Multa de hasta 3,500 veces el salario mínimo general vigente en el Distrito Federal, cuando por su omisión se produzca un riesgo de trabajo, que genere a uno o varios trabajadores una incapacidad permanente total.
 
 ### CAPITULO XIV · Trabajo en hoteles, restaurantes, bares y otros establecimientos análogos
 
@@ -2756,7 +3166,7 @@ Para los efectos de este Capítulo, se entiende por:
 
 I. Médico Residente: El profesional de la medicina con Título legalmente expedido y registrado ante las autoridades competentes, que ingrese a una Unidad Médica Receptora de Residentes, para cumplir con una residencia.
 
-II. Unidad Médica Receptora de Residentes, el establecimiento hospitalario en el cual se pueden cumplir las Residencias, que para los efectos de los artículos 161 y 164 del Código Sanitario de los Estados Unidos Mexicanos, exige la especialización de los profesionales de la Medicina;
+II. Unidad Médica Receptora de Residentes: El establecimiento hospitalario en el cual se pueden cumplir las residencias, que para los efectos de la Ley General de Salud, exige la especialización de los profesionales de la medicina; y
 
 III. Residencia: El conjunto de actividades que deba cumplir un Médico Residente en período de adiestramiento; para realizar estudios y prácticas de postrado, respecto de la disciplina de la salud a que pretenda dedicarse, dentro de una Unidad Médica Receptora de Residentes, durante el tiempo y conforme a los requisitos que señalen las disposiciones académicas respectivas.
 
@@ -2876,7 +3286,7 @@ Además de los casos previstos por el Artículo 935, antes de la suspensión de 
 
 ##### Artículo 353-S.
 
-En las Juntas de Conciliación y Arbitraje o las de Conciliación Permanentes, funcionarán Juntas Especiales que conocerán de los asuntos laborales de las universidades e instituciones de educación superior autónomas por Ley y se integrarán con el presidente respectivo, el representante de cada universidad o institución y el representante de sus trabajadores académicos o administrativos que corresponda.
+En las Juntas de Conciliación y Arbitraje, funcionarán Juntas Especiales que conocerán de los asuntos laborales de las universidades e instituciones de educación superior autónomas por Ley y se integrarán con el presidente respectivo, el representante de cada universidad o institución y el representante de sus trabajadores académicos o administrativos que corresponda.
 
 ##### Artículo 353-T.
 
@@ -2907,6 +3317,8 @@ Sindicato es la asociación de trabajadores o patrones, constituida para el estu
 ##### Artículo 357.
 
 Los trabajadores y los patrones tienen el derecho de constituir sindicatos, sin necesidad de autorización previa.
+
+Cualquier injerencia indebida será sancionada en los términos que disponga la Ley.
 
 ##### Artículo 358.
 
@@ -2952,6 +3364,10 @@ No pueden ingresar en los sindicatos de los demás trabajadores, los trabajadore
 
 Los sindicatos deberán constituirse con veinte trabajadores en servicio activo o con tres patrones, por lo menos. Para la determinación del número mínimo de trabajadores, se tomarán en consideración aquellos cuya relación de trabajo hubiese sido rescindida o dada por terminada dentro del período comprendido entre los treinta días anteriores a la fecha de presentación de la solicitud de registro del sindicato y la en que se otorgue éste.
 
+##### Artículo 364 Bis.
+
+En el registro de los sindicatos se deberán observar los principios de legalidad, transparencia, certeza, gratuidad, inmediatez, imparcialidad y respeto a la libertad, autonomía, equidad y democracia sindical.
+
 ##### Artículo 365.
 
 Los sindicatos deben registrarse en la Secretaría del Trabajo y Previsión Social en los casos de competencia federal y en las Juntas de Conciliación y Arbitraje en los de competencia local, a cuyo efecto remitirán por duplicado:
@@ -2966,6 +3382,30 @@ IV. Copia autorizada del acta de la asamblea en que se hubiese elegido la direct
 
 Los documentos a que se refieren las fracciones anteriores serán autorizados por el Secretario General, el de Organización y el de Actas, salvo lo dispuesto en los estatutos.
 
+##### Artículo 365 Bis.
+
+Las autoridades a que se refiere el artículo anterior harán pública, para consulta de cualquier persona, debidamente actualizada, la información de los registros de los sindicatos. Asimismo, deberán expedir copias de los documentos que obren en los expedientes de registros que se les soliciten, en términos del artículo 8o. constitucional, de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de las leyes que regulen el acceso a la información gubernamental de las entidades federativas, según corresponda.
+
+El texto íntegro de las versiones públicas de los estatutos en los sindicatos deberá estar disponible en los sitios de Internet de la Secretaría del Trabajo y Previsión Social y de las Juntas Locales de Conciliación y Arbitraje, según corresponda.
+
+Los registros de los sindicatos deberán contener, cuando menos, los siguientes datos:
+
+I. Domicilio;
+
+II. Número de registro;
+
+III. Nombre del sindicato;
+
+IV. Nombre de los integrantes del Comité Ejecutivo;
+
+V. Fecha de vigencia del Comité Ejecutivo;
+
+VI. Número de socios, y
+
+VII. Central obrera a la que pertenecen, en su caso.
+
+La actualización de los índices se deberá hacer cada tres meses.
+
 ##### Artículo 366.
 
 El registro podrá negarse únicamente:
@@ -2974,11 +3414,11 @@ I. Si el sindicato no se propone la finalidad prevista en el artículo 356;
 
 II. Si no se constituyó con el número de miembros fijado en el artículo 364; y
 
-III. Si no se exhiben los documentos a que se refiere el artículo anterior.
+III. Si no se exhiben los documentos a que se refiere el artículo 365.
 
 Satisfechos los requisitos que se establecen para el registro de los sindicatos, ninguna de las autoridades correspondientes podrá negarlo.
 
-Si la autoridad ante la que se presentó la solicitud de registro, no resuelve dentro de un término de sesenta días, los solicitantes podrán requerirla para que dicte resolución, y si no lo hace dentro de los tres días siguientes a la presentación de la solicitud, se tendrá por hecho el registro para todos los efectos legales, quedando obligada la autoridad, dentro de los tres días siguientes, a expedir la constancia respectiva.
+Si la autoridad ante la que se presentó la solicitud de registro, no resuelve dentro de un término de sesenta días naturales, los solicitantes podrán requerirla para que dicte resolución, y si no lo hace dentro de los tres días siguientes a la presentación de la solicitud, se tendrá por hecho el registro para todos los efectos legales, quedando obligada la autoridad, dentro de los tres días siguientes, a expedir la constancia respectiva.
 
 ##### Artículo 367.
 
@@ -3038,7 +3478,7 @@ VIII. Forma de convocar a asamblea, época de celebración de las ordinarias y q
 
 Las resoluciones deberán adoptarse por el cincuenta y uno por ciento del total de los miembros del sindicato o de la sección, por lo menos;
 
-IX. Procedimiento para la elección de la directiva y número de sus miembros;
+IX. Procedimiento para la elección de la directiva y número de miembros, salvaguardando el libre ejercicio del voto con las modalidades que acuerde la asamblea general; de votación indirecta y secreta o votación directa y secreta;
 
 X. Período de duración de la directiva;
 
@@ -3046,7 +3486,9 @@ XI. Normas para la administración, adquisición y disposición de los bienes, p
 
 XII. Forma de pago y monto de las cuotas sindicales;
 
-XIII. Epoca de presentación de cuentas;
+XIII. Época de presentación de cuentas y sanciones a sus directivos en caso de incumplimiento.
+
+Para tales efectos, se deberán establecer instancias y procedimientos internos que aseguren la resolución de controversias entre los agremiados, con motivo de la gestión de los fondos sindicales.
 
 XIV. Normas para la liquidación del patrimonio sindical; y
 
@@ -3062,7 +3504,17 @@ II. Los extranjeros.
 
 ##### Artículo 373.
 
-La directiva de los sindicatos debe rendir a la asamblea cada seis meses, por lo menos, cuenta completa y detallada de la administración del patrimonio sindical. Esta obligación no es dispensable.
+La directiva de los sindicatos, en los términos que establezcan sus estatutos, deberá rendir a la asamblea cada seis meses, por lo menos, cuenta completa y detallada de la administración del patrimonio sindical. La rendición de cuentas incluirá la situación de los ingresos por cuotas sindicales y otros bienes, así como su destino.
+
+La obligación a que se refiere el párrafo anterior no es dispensable.
+
+En todo momento cualquier trabajador tendrá el derecho de solicitar información a la directiva, sobre la administración del patrimonio del sindicato.
+
+En caso de que los trabajadores no hubieren recibido la información sobre la administración del patrimonio sindical o estimen la existencia de irregularidades en la gestión de los fondos sindicales, podrán acudir a las instancias y procedimientos internos previstos en los respectivos estatutos, en términos del artículo 371, fracción XIII, de esta Ley.
+
+De no existir dichos procedimientos o si agotados éstos, no se proporciona la información o las aclaraciones correspondientes, podrán tramitar ante la Junta de Conciliación y Arbitraje que corresponda, el cumplimiento de dichas obligaciones.
+
+El ejercicio de las acciones a que se refiere el párrafo anterior, por ningún motivo implicará la pérdida de derechos sindicales, ni será causa para la expulsión o separación del trabajador inconforme.
 
 ##### Artículo 374.
 
@@ -3093,6 +3545,8 @@ I. Proporcionar los informes que les soliciten las autoridades del trabajo, siem
 II. Comunicar a la autoridad ante la que estén registrados, dentro de un término de diez días, los cambios de su directiva y las modificaciones de los estatutos, acompañando por duplicado copia autorizada de las actas respectivas; y
 
 III. Informar a la misma autoridad cada tres meses, por lo menos, de las altas y bajas de sus miembros.
+
+Las obligaciones a que se refiere este artículo podrán ser cumplidas a través de medios electrónicos, en los términos que determinen las autoridades correspondientes.
 
 ##### Artículo 378.
 
@@ -3208,6 +3662,12 @@ IX. Las bases sobre la integración y funcionamiento de las Comisiones que deban
 
 X. Las demás estipulaciones que convengan las partes.
 
+##### Artículo 391 Bis.
+
+Las Juntas de Conciliación y Arbitraje harán pública, para consulta de cualquier persona, la información de los contratos colectivos de trabajo que se encuentren depositados ante las mismas. Asimismo, deberán expedir copias de dichos documentos, en términos de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de las leyes que regulen el acceso a la información gubernamental de las entidades federativas, según corresponda.
+
+De preferencia, el texto íntegro de las versiones públicas de los contratos colectivos de trabajo deberá estar disponible en forma gratuita en los sitios de Internet de las Juntas de Conciliación y Arbitraje.
+
 ##### Artículo 392.
 
 En los contratos colectivos podrá establecerse la organización de comisiones mixtas para el cumplimiento de determinadas funciones sociales y económicas. Sus resoluciones serán ejecutadas por las Juntas de Conciliación y Arbitraje, en los casos en que las partes las declaren obligatorias.
@@ -3223,8 +3683,6 @@ El contrato colectivo no podrá concertarse en condiciones menos favorables para
 ##### Artículo 395.
 
 En el contrato colectivo, podrá establecerse que el patrón admitirá exclusivamente como trabajadores a quienes sean miembros del sindicato contratante. Esta cláusula y cualesquiera otras que establezcan privilegios en su favor, no podrán aplicarse en perjuicio de los trabajadores que no formen parte del sindicato y que ya presten sus servicios en la empresa o establecimiento con anterioridad a la fecha en que el sindicato solicite la celebración o revisión del contrato colectivo y la inclusión en él de la cláusula de exclusión.
-
-Podrá también establecerse que el patrón separará del trabajo a los miembros que renuncien o sean expulsados del sindicato contratante.
 
 ##### Artículo 396.
 
@@ -3454,6 +3912,12 @@ III. No producirán ningún efecto legal las disposiciones contrarias a esta Ley
 
 IV. Los trabajadores o el patrón, en cualquier tiempo, podrán solicitar de la Junta se subsanen las omisiones del reglamento o se revisen sus disposiciones contrarias a esta Ley y demás normas de trabajo.
 
+##### Artículo 424 Bis.
+
+Las Juntas de Conciliación y Arbitraje harán pública, para consulta de cualquier persona, la información de los reglamentos interiores de trabajo que se encuentren depositados ante las mismas. Asimismo, deberán expedir copias de dichos documentos, en términos de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de las leyes que regulen el acceso a la información gubernamental de las entidades federativas, según corresponda.
+
+De preferencia, el texto íntegro de las versiones públicas de los reglamentos interiores de trabajo deberá estar disponible en forma gratuita en los sitios de Internet de las Juntas de Conciliación y Arbitraje.
+
 ##### Artículo 425.
 
 El reglamento surtirá efectos a partir de la fecha de su depósito. Deberá imprimirse y repartirse entre los trabajadores y se fijará en los lugares más visibles del establecimiento.
@@ -3486,7 +3950,9 @@ IV. La incosteabilidad, de naturaleza temporal, notoria y manifiesta de la explo
 
 V. La falta de fondos y la imposibilidad de obtenerlos para la prosecución normal de los trabajos, si se comprueba plenamente por el patrón; y
 
-VI. La falta de administración por parte del Estado de las cantidades que se haya obligado a entregar a las empresas con las que hubiese contratado trabajos o servicios, siempre que aquéllas sean indispensables.
+VI. La falta de ministración por parte del Estado de las cantidades que se haya obligado a entregar a las empresas con las que hubiese contratado trabajos o servicios, siempre que aquéllas sean indispensables; y
+
+VII. La suspensión de labores o trabajos, que declare la autoridad sanitaria competente, en los casos de contingencia sanitaria.
 
 ##### Artículo 428.
 
@@ -3496,15 +3962,17 @@ La suspensión puede afectar a toda una empresa o establecimiento o a parte de e
 
 En los casos señalados en el artículo 427, se observarán las normas siguientes:
 
-I. Si se trata de la fracción I, el patrón o su representante, dará aviso de la suspensión a la Junta de Conciliación y Arbitraje, para que está, previo el procedimiento consignado en el artículo 782 y siguientes, la apruebe o desapruebe;
+I. Si se trata de la fracción I, el patrón o su representante, dará aviso de la suspensión a la Junta de Conciliación y Arbitraje, para que ésta, previo el procedimiento consignado en el artículo 892 y siguientes, la apruebe o desapruebe;
 
 II. Si se trata de las fracciones III a V, el patrón, previamente a la suspensión, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones para conflictos colectivos de naturaleza económica; y
 
-III. Si se trata de las fracciones II y VI, el patrón, previamente a la suspensión, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones contenidas en el artículo 782 y siguientes.
+III. Si se trata de las fracciones II y VI, el patrón, previamente a la suspensión, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones contenidas en el artículo 892 y siguientes.
+
+IV. Si se trata de la fracción VII, el patrón no requerirá aprobación o autorización de la Junta de Conciliación y Arbitraje y estará obligado a pagar a sus trabajadores una indemnización equivalente a un día de salario mínimo general vigente, por cada día que dure la suspensión, sin que pueda exceder de un mes.
 
 ##### Artículo 430.
 
-La Junta de Conciliación y Arbitraje, al sancionar o autorizar la suspensión, fijará la indemnización que deba pagarse a los trabajadores, tomando en consideración, entre otras circunstancias, el tiempo probable de suspensión de los trabajos y la posibilidad de que encuentren nueva ocupación, sin que pueda exceder del importe de un mes de salario.
+La Junta de Conciliación y Arbitraje, con excepción de los casos a que se refiere la fracción VII del artículo 427, al sancionar o autorizar la suspensión, fijará la indemnización que deba pagarse a los trabajadores, tomando en consideración, entre otras circunstancias, el tiempo probable de suspensión de los trabajos y la posibilidad de que encuentren nueva ocupación, sin que pueda exceder del importe de un mes de salario.
 
 ##### Artículo 431.
 
@@ -3515,6 +3983,8 @@ El sindicato y los trabajadores podrán solicitar cada seis meses de la Junta de
 El patrón deberá anunciar con toda oportunidad la fecha de reanudación de los trabajos. Dará aviso al sindicato, y llamará por los medios que sean adecuados, a juicio de la Junta de Conciliación y Arbitraje, a los trabajadores que prestaban sus servicios en la empresa cuando la suspensión fue decretada, y estará obligado a reponerlos en los puestos que ocupaban con anterioridad, siempre que se presenten dentro del plazo que fije el mismo patrón, que no podrá ser menor de treinta días, contado desde la fecha del último llamamiento.
 
 Si el patrón no cumple las obligaciones consignadas en el párrafo anterior, los trabajadores podrán ejercitar las acciones a que se refiere el artículo 48.
+
+Lo establecido en el presente artículo no será aplicable en el caso a que se refiere la fracción VII del artículo 427. En este supuesto, los trabajadores estarán obligados a reanudar sus labores tan pronto concluya la contingencia.
 
 ### CAPITULO VIII · Terminación colectiva de las relaciones de trabajo
 
@@ -3540,9 +4010,9 @@ V. El concurso o la quiebra legalmente declarado, si la autoridad competente o l
 
 En los casos señalados en el artículo anterior, se observarán las normas siguientes:
 
-I. Si se trata de las fracciones I y V, se dará aviso de la terminación a la Junta de Conciliación y Arbitraje, para que ésta, previo el procedimiento consignado en el artículo 782 y siguientes, la apruebe o desapruebe;
+I. Si se trata de las fracciones I y V, se dará aviso de la terminación a la Junta de Conciliación y Arbitraje, para que ésta, previo el procedimiento consignado en el artículo 892 y siguientes, la apruebe o desapruebe;
 
-II. Si se trata de la fracción III, el patrón, previamente a la terminación, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones contenidas en el artículo 782 y siguientes; y
+II. Si se trata de la fracción III, el patrón, previamente a la terminación, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones contenidas en el artículo 892 y siguientes; y
 
 III. Si se trata de la fracción II, el patrón, previamente a la terminación, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones para conflictos colectivos de naturaleza económica.
 
@@ -3562,7 +4032,7 @@ Lo dispuesto en el párrafo anterior es aplicable, en el caso de que se reanuden
 
 ##### Artículo 439.
 
-Cuando se trate de la implantación de maquinaria o de procedimientos de trabajo nuevos, que traiga como consecuencia la reducción de personal, a falta de convenio, el patrón deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con lo dispuesto en el artículo 782 y siguientes. Los trabajadores reajustados tendrán derecho a una indemnización de cuatro meses de salario, más veinte días por cada año de servicios prestados o la cantidad estipulada en los contratos de trabajo si fuese mayor y a la prima de antigüedad a que se refiere el artículo 162.
+Cuando se trate de la implantación de maquinaria o de procedimientos de trabajo nuevos, que traiga como consecuencia la reducción de personal, a falta de convenio, el patrón deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con lo dispuesto en el artículo 892 y siguientes. Los trabajadores reajustados tendrán derecho a una indemnización de cuatro meses de salario, más veinte días por cada año de servicios prestados o la cantidad estipulada en los contratos de trabajo si fuese mayor y a la prima de antigüedad a que se refiere el artículo 162.
 
 ## TITULO OCTAVO · Huelgas
 
@@ -3764,9 +4234,15 @@ Quedan incluidos en la definición anterior los accidentes que se produzcan al t
 
 Enfermedad de trabajo es todo estado patológico derivado de la acción continuada de una causa que tenga su origen o motivo en el trabajo o en el medio en que el trabajador se vea obligado a prestar sus servicios.
 
+##### Artículo 475 Bis.
+
+El patrón es responsable de la seguridad e higiene y de la prevención de los riesgos en el trabajo, conforme a las disposiciones de esta Ley, sus reglamentos y las normas oficiales mexicanas aplicables.
+
+Es obligación de los trabajadores observar las medidas preventivas de seguridad e higiene que establecen los reglamentos y las normas oficiales mexicanas expedidas por las autoridades competentes, así como las que indiquen los patrones para la prevención de riesgos de trabajo.
+
 ##### Artículo 476.
 
-Serán consideradas en todo caso enfermedades de trabajo las consignadas en la tabla del artículo 513.
+Serán consideradas en todo caso enfermedades de trabajo las que determine esta Ley y, en su caso, la actualización que realice la Secretaría del Trabajo y Previsión Social.
 
 ##### Artículo 477.
 
@@ -3862,7 +4338,7 @@ III. Que el accidente sea causado por imprudencia o negligencia de algún compa�
 
 En los casos de falta inexcusable del patrón, la indemnización podrá aumentarse hasta en un veinticinco por ciento, a juicio de la Junta de Conciliación y Arbitraje. Hay falta inexcusable del patrón:
 
-I. Si no cumple las disposiciones legales y reglamentarias para la prevención de los riesgos de trabajo;
+I. Si no cumple las disposiciones legales, reglamentarias y las contenidas en las normas oficiales mexicanas en materia de seguridad, salud y medio ambiente de trabajo;
 
 II. Si habiéndose realizado accidentes anteriores, no adopta las medidas adecuadas para evitar su repetición;
 
@@ -3936,19 +4412,19 @@ V. A falta de las personas mencionadas en las fracciones anteriores, el Institut
 
 ##### Artículo 502.
 
-En caso de muerte del trabajador, la indemnización que corresponda a las personas a que se refiere el artículo anterior será la cantidad equivalente al importe de setecientos treinta días de salario, sin deducir la indemnización que percibió el trabajador durante el tiempo en que estuvo sometido al régimen de incapacidad temporal.
+En caso de muerte del trabajador, la indemnización que corresponda a las personas a que se refiere el artículo anterior será la cantidad equivalente al importe de cinco mil días de salario, sin deducir la indemnización que percibió el trabajador durante el tiempo en que estuvo sometido al régimen de incapacidad temporal.
 
 ##### Artículo 503.
 
 Para el pago de la indemnización en los casos de muerte por riesgo de trabajo, se observarán las normas siguientes:
 
-I. La Junta de Conciliación Permanente o el Inspector del Trabajo que reciba el aviso de la muerte, o la Junta de Conciliación y Arbitraje ante la que se reclame el pago de la indemnización, mandará practicar dentro de las veinticuatro horas siguientes una investigación encaminada a averiguar qué personas dependían económicamente del trabajador y ordenará se fije un aviso en lugar visible del establecimiento donde prestaba sus servicios, convocando a los beneficiarios para que comparezcan ante la Junta de Conciliación y Arbitraje, dentro de un término de treinta días, a ejercitar sus derechos;
+I. El Inspector del Trabajo que reciba el aviso de la muerte, o la Junta de Conciliación y Arbitraje ante la que se reclame el pago de la indemnización, mandará practicar dentro de las veinticuatro horas siguientes una investigación encaminada a averiguar qué personas dependían económicamente del trabajador y ordenará se fije un aviso en lugar visible del establecimiento donde prestaba sus servicios, convocando a los beneficiarios para que comparezcan ante la Junta de Conciliación y Arbitraje, dentro de un término de treinta días, a ejercitar sus derechos;
 
-II. Si la residencia del trabajador en el lugar de su muerte era menor de seis meses, se girará exhorto a la Junta de Conciliación Permanente, a la de Conciliación y Arbitraje o al Inspector del Trabajo del lugar de la última residencia, a fin de que se practique la investigación y se fije el aviso mencionado en la fracción anterior;
+II. Si la residencia del trabajador en el lugar de su muerte era menor de seis meses, se girará exhorto a la Junta de Conciliación y Arbitraje o al Inspector del Trabajo del lugar de la última residencia, a fin de que se practique la investigación y se fije el aviso mencionado en la fracción anterior;
 
-III. La Junta de Conciliación Permanente, la de Conciliación y Arbitraje o el Inspector del Trabajo, independientemente del aviso a que se refiere la fracción I, podrá emplear los medios publicitarios que juzgue conveniente para convocar a los beneficiarios;
+III. La Junta de Conciliación y Arbitraje o el inspector del Trabajo, independientemente del aviso a que se refiere la fracción I, podrán emplear los medios publicitarios que juzguen conveniente para convocar a los beneficiarios;
 
-IV. La Junta de Conciliación Permanente, o el Inspector del Trabajo, concluida la investigación, remitirá el expediente a la Junta de Conciliación y Arbitraje;
+IV. El Inspector del Trabajo, concluida la investigación, remitirá el expediente a la Junta de Conciliación y Arbitraje;
 
 V. Satisfechos los requisitos señalados en las fracciones que anteceden y comprobada la naturaleza del riesgo, la Junta de Conciliación y Arbitraje, con audiencia de las partes, dictará resolución, determinando qué personas tienen derecho a la indemnización;
 
@@ -3968,7 +4444,7 @@ III. Cuando tengan a su servicio más de trescientos trabajadores, instalar un h
 
 IV. Previo acuerdo con los trabajadores, podrán los patrones celebrar contratos con sanatorios u hospitales ubicados en el lugar en que se encuentre el establecimiento o a una distancia que permita el traslado rápido y cómodo de los trabajadores, para que presten los servicios a que se refieren las dos fracciones anteriores;
 
-V. Dar aviso escrito a la Secretaría del Trabajo y Previsión Social, al inspector del Trabajo y a la Junta de Conciliación Permanente o a la de Conciliación y Arbitraje, dentro de las 72 horas siguientes, de los accidentes que ocurran, proporcionando los siguientes datos y elementos:
+V. Dar aviso escrito o por medios electrónicos a la Secretaría del Trabajo y Previsión Social, al Inspector del Trabajo y a la Junta de Conciliación y Arbitraje, dentro de las 72 horas siguientes, de los accidentes que ocurran, proporcionando los siguientes datos y elementos:
 
 a) Nombre y domicilio de la empresa;
 
@@ -3979,6 +4455,8 @@ c) Lugar y hora del accidente, con expresión sucinta de los hechos;
 d) Nombre y domicilio de las personas que presenciaron el accidente; y,
 
 e) Lugar en que se presta o haya prestado atención médica al accidentado.
+
+La Secretaría del Trabajo y Previsión Social y el Instituto Mexicano del Seguro Social deberán intercambiar información en forma permanente respecto de los avisos de accidentes de trabajo que presenten los patrones, así como otros datos estadísticos que resulten necesarios para el ejercicio de sus respectivas facultades legales; y
 
 VI. Tan pronto se tenga conocimiento de la muerte de un trabajador por riesgos de trabajo, dar aviso escrito a las autoridades que menciona la fracción anterior, proporcionando, además de los datos y elementos que señala dicha fracción, el nombre y domicilio de las personas que pudieran tener derecho a la indemnización correspondiente.
 
@@ -4036,29 +4514,39 @@ En los reglamentos de esta Ley y en los instructivos que las autoridades laboral
 
 ##### Artículo 512-A.
 
-Con el objeto de estudiar y proponer la adopción de medidas preventivas para abatir los riesgos en los centros de trabajo, se organizará la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo, integrada por representantes de las Secretarías del Trabajo y Previsión Social y de Salubridad y Asistencia, y del Instituto Mexicano del Seguro Social, así como por los que designen aquellas organizaciones nacionales de trabajadores y de patrones a las que convoque el titular de la Secretaría del Trabajo y Previsión Social, quien tendrá el carácter de Presidente de la citada Comisión.
+Con el objeto de coadyuvar en el diseño de la política nacional en materia de seguridad, salud y medio ambiente de trabajo, proponer reformas y adiciones al reglamento y a las normas oficiales mexicanas en la materia, así como estudiar y recomendar medidas preventivas para abatir los riesgos en los centros de trabajo, se organizará la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo.
+
+Dicha comisión se integrará por representantes de las Secretarías del Trabajo y Previsión Social; de Salud; de Gobernación, y de Medio Ambiente y Recursos Naturales, del Instituto Mexicano del Seguro Social, así como por los que designen aquellas organizaciones nacionales de trabajadores y de patrones a las que convoque el titular de la Secretaría del Trabajo y Previsión Social, quien tendrá el carácter de Presidente de la citada Comisión.
+
+La Comisión deberá mantener comunicación permanente con las autoridades de protección civil, a efecto de diseñar las acciones que contribuyan a reducir o eliminar la pérdida de vidas, la afectación de la planta productiva, la destrucción de bienes materiales, el daño a la naturaleza y la interrupción de las funciones esenciales de la sociedad, ante la eventualidad de un desastre provocado por agentes naturales o humanos.
 
 ##### Artículo 512-B.
 
-En cada Entidad Federativa se constituirá una Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, cuya finalidad será la de estudiar y proponer la adopción de todas aquellas medidas preventivas para abatir los riesgos en los centros de trabajo comprendidos en su jurisdicción.
+En cada entidad federativa se constituirá una Comisión Consultiva Estatal de Seguridad y Salud en el Trabajo, cuya finalidad será la de coadyuvar en la definición de la política estatal en materia de seguridad, salud y medio ambiente de trabajo, proponer reformas y adiciones al reglamento y a las normas oficiales mexicanas en la materia, así como estudiar y proponer medidas preventivas para abatir los riesgos en los centros de trabajo establecidos en su jurisdicción.
 
-Dichas Comisiones Consultivas Estatales serán presididas por los Gobernadores de las Entidades Federativas y en su integración participarán también representantes de las Secretarías del Trabajo y Previsión Social y Salubridad y Asistencia y del Instituto Mexicano del Seguro Social; así como los que designen las organizaciones de trabajadores y de patrones a las que convoquen, conjuntamente, la Secretaría del Trabajo y Previsión Social y el Gobernador de la Entidad correspondiente.
+Dichas Comisiones Consultivas Estatales serán presididas por los Ejecutivos Estatales y el Jefe de Gobierno del Distrito Federal y en su integración participarán representantes de las Secretarías del Trabajo y Previsión Social; de Salud; de Gobernación, y de Medio Ambiente y Recursos Naturales; del Instituto Mexicano del Seguro Social; así como los que designen las organizaciones de trabajadores y de patrones a las que convoquen.
 
 El representante de la Secretaría del Trabajo y Previsión Social ante la Comisión Consultiva Estatal respectiva, fungirá como Secretario de la misma.
 
 ##### Artículo 512-C.
 
-La organización de la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo y la de las Comisiones Consultivas Estatales de Seguridad e Higiene en el Trabajo, serán señaladas en el reglamento de esta Ley que se expida en materia de seguridad e higiene.
+La organización de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo y la de las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad y Salud en el Trabajo, serán señaladas en el reglamento que se expida en materia de seguridad, salud y medio ambiente de trabajo.
 
 El funcionamiento interno de dichas Comisiones, se fijará en el Reglamento Interior que cada Comisión expida.
 
 ##### Artículo 512-D.
 
-Los patrones deberán efectuar las modificaciones que ordenen las autoridades del trabajo a fin de ajustar sus establecimientos, instalaciones o equipos a las disposiciones de esta Ley, de sus reglamentos o de los instructivos que con base en ellos expidan las autoridades competentes. Si transcurrido el plazo que se les conceda para tal efecto, no se han efectuado las modificaciones, la Secretaría del Trabajo y Previsión Social procederá a sancionar al patrón infractor, con apercibimiento de sanción mayor en caso de no cumplir la orden dentro del nuevo plazo que se le otorgue.
+Los patrones deberán efectuar las modificaciones que ordenen las autoridades del trabajo a fin de ajustar sus establecimientos, instalaciones o equipos a las disposiciones de esta Ley, de sus reglamentos o de las normas oficiales mexicanas en materia de seguridad y salud en el trabajo que expidan las autoridades competentes. Si transcurrido el plazo que se les conceda para tal efecto, no se han efectuado las modificaciones, la Secretaría del Trabajo y Previsión Social procederá a sancionar al patrón infractor, con apercibimiento de sanción mayor en caso de no cumplir la orden dentro del nuevo plazo que se le otorgue.
 
-Si aplicadas las sanciones a que se hace referencia anteriormente, subsistiera la irregularidad, la Secretaría, tomando en cuenta la naturaleza de las modificaciones ordenadas y el grado de riesgo, podrá clausurar parcial o totalmente el centro de trabajo hasta que se dé cumplimiento a la obligación respectiva, oyendo previamente la opinión de la Comisión Mixta de Seguridad e Higiene correspondiente, sin perjuicio de que la propia Secretaría adopte las medidas pertinentes para que el patrón cumpla con dicha obligación.
+##### Artículo 512-D Bis.
 
-Cuando la Secretaría del Trabajo determine la clausura parcial o total, lo notificará por escrito, con tres días hábiles de anticipación a la fecha de la clausura, al patrón y a los representantes del sindicato. Si los trabajadores no están sindicalizados, el aviso se notificará por escrito a los representantes de éstos ante la Comisión Mixta de Seguridad e Higiene.
+Para el caso de la restricción de acceso o limitación en la operación en las áreas de riesgo detectadas a que se refiere el artículo 541, fracción VI Bis de esta Ley, la Secretaría del Trabajo y Previsión Social después de realizar el análisis del informe a que se refiere dicho precepto y practicar las diligencias que considere pertinentes, resolverá dentro de las siguientes 72 horas si levanta la restricción decretada o amplía su duración, hasta en tanto se corrijan las irregularidades que motivaron la suspensión de actividades, independientemente de la imposición de la sanción económica que corresponda por el incumplimiento a las disposiciones en materia de seguridad e higiene en el trabajo.
+
+Dentro del plazo a que se refiere el párrafo anterior, el patrón podrá manifestar a la Secretaría lo que a su derecho convenga y ofrecer las pruebas que estime pertinentes, lo que será tomado en cuenta por la autoridad al momento de resolver.
+
+##### Artículo 512-D Ter.
+
+En el caso de que las autoridades sanitarias competentes hubieren determinado la suspensión de labores con motivo de una declaratoria de contingencia sanitaria, la Secretaría del Trabajo y Previsión Social ordenará medidas necesarias para evitar afectaciones a la salud de los trabajadores, sin perjuicio de la imposición de las sanciones que correspondan y del ejercicio de las facultades de otras autoridades.
 
 ##### Artículo 512-E.
 
@@ -4066,13 +4554,17 @@ La Secretaría del Trabajo y Previsión Social establecerá la coordinación nec
 
 ##### Artículo 512-F.
 
-Las autoridades de las Entidades Federativas auxiliarán a las del orden federal en la aplicación de las normas de seguridad e higiene en el trabajo, cuando se trate de empresas o establecimientos que, en los demás aspectos derivados de las relaciones laborales, estén sujetos a la jurisdicción local.
+Las autoridades de las entidades federativas auxiliarán a las del orden federal en la promoción, aplicación y vigilancia del cumplimiento de las normas de seguridad, salud y medio ambiente de trabajo, cuando se trate de empresas o establecimientos que, en los demás aspectos derivados de las relaciones laborales, estén sujetos a la jurisdicción local.
 
 Dicho auxilio será prestado en los términos de los artículos 527-A y 529.
 
+##### Artículo 512-G.
+
+En el supuesto de que los centros de trabajo se encuentren regulados por Leyes o normas especializadas en materia de seguridad y salud, cuya vigilancia corresponda a otras autoridades distintas a las laborales, la Secretaría del Trabajo y Previsión Social o las autoridades del trabajo de las entidades federativas, según el ámbito de competencia, serán auxiliares de aquéllas.
+
 ##### Artículo 513.
 
-Para los efectos de este Título la Ley adopta la siguiente Tabla de Enfermedades de Trabajo.
+La Secretaría del Trabajo y Previsión Social, previa opinión de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo, actualizará las tablas de enfermedades de trabajo y de evaluación de las incapacidades permanentes resultante de los riesgos de trabajo, mismas que se publicarán en el Diario Oficial de la Federación y serán de observancia general en todo el territorio nacional.
 
 TABLA DE ENFERMEDADES DE TRABAJO
 
@@ -4764,1069 +5256,9 @@ Pilotos aviadores, telefonistas y otras actividades similares.
 
 ##### Artículo 514.
 
-Para los efectos de este Título, la Ley adopta la siguiente:
+Las tablas a que se refiere el artículo anterior serán revisadas cada vez que se considere necesario y conveniente para el país, cuando existan estudios e investigaciones que lo justifiquen.
 
-TABLA DE VALUACION DE INCAPACIDADES PERMANENTES
-
-Miembro superior.
-
-Pérdidas.
-
-1\. Por la desarticulación interescapulotorácica de 80 a 85%
-
-2\. Por la desarticulación del hombro de 75 a 80%
-
-3\. Por la amputación del brazo, entre el hombro y el codo, de 70 a 80%
-
-4\. Por la desarticulación del codo, de 70 a 80%
-
-5\. Por la amputación del antebrazo entre el codo y la muñeca, de 65 a 75%
-
-6\. Por la pérdida total de la mano, de 65 a 75%
-
-7\. Por la pérdida total o parcial de los 5 metacarpianos, de 60 a 70%
-
-8\. Por la pérdida de los 5 dedos, de 60 a 70%
-
-9\. Por la pérdida de 4 dedos de la mano, incluyendo el pulgar, según la movilidad del dedo restante, de 55 a 65%
-
-10\. Por la pérdida de 4 dedos de la mano incluyendo el pulgar y los metacarpianos correspondientes, aunque la pérdida de éstos no sea completa, de 60 a 70%
-
-11\. Por la pérdida de 4 dedos de la mano, conservando el pulgar móvil, de 45 a 50%
-
-12\. Conservando el pulgar inmóvil, de 55 a 60%
-
-13\. Por la pérdida del pulgar índice y medio, de 52 a 57%
-
-14\. Por la pérdida del pulgar y del índice, de 40 a 45%
-
-15\. Por la pérdida del pulgar con el metacarpiano correspondiente 35%
-
-16\. Por la pérdida del pulgar solo, de 25 a 30%
-
-17\. Por la pérdida de la falange ungueal del pulgar 20%
-
-18\. Por la pérdida del índice con el metacarpiano o parte de éste, de 20 a 25%
-
-19\. Por la pérdida del dedo índice 20%
-
-20\. Por la pérdida de la falangeta, con mutilación o pérdida de la falangina del índice 12%
-
-21\. Por la pérdida de la falangeta del índice 6%
-
-22\. Por la pérdida del dedo medio con mutilación o pérdida de su metacarpiano o parte de
-
-éste 18%
-
-23\. Por la pérdida del dedo medio 15%
-
-24\. Por la pérdida de la falangeta con mutilación o pérdida de la falangina del dedo medio 10%
-
-25\. Por la pérdida de la falangeta del dedo medio 5%
-
-26\. Por la pérdida del dedo anular o del meñique con mutilación o pérdida de su metacarpiano o parte de éste 15%
-
-27\. Por la pérdida del dedo anular o del meñique 12%
-
-28\. Por la pérdida de la falangeta con mutilación de la falangina del anular o del meñique . 8%
-
-29\. Por la pérdida de la falangeta del anular o del meñique 4%
-
-Anquilosis
-
-Pérdida completa de la movilidad articular
-
-30\. Completa del hombro con movilidad del omóplato, de 35 a 40%
-
-31\. Completa del hombro con fijación e inmovilidad del omóplato, de 40 a 55%
-
-32\. Completa del codo en posición de flexión (favorable) entre 110° y 75°, de 30 a 35%
-
-33\. Completa del codo en posición de extensión (desfavorable) entre 110° y 180°, de 45 a 50%
-
-34\. De torsión, con supresión de los movimientos de pronación y supinación, de 15 a 25%
-
-35\. Completa de la muñeca en extensión, según el grado de movilidad de los dedos, de 20 a 45%
-
-36\. Completa de la muñeca en flexión, según el grado de movilidad de los dedos, de 45 a 60%
-
-37\. Anquilosis de todas las articulaciones de los dedos de la mano en flexión (mano en garra) o extensión (mano extendida), de 65 a 75%
-
-38\. Carpo-metacarpiana del pulgar, de 15 a 20%
-
-39\. Metacarpo-falángica del pulgar 12%
-
-40\. Interfalángica del pulgar 6%
-
-41\. De las dos articulaciones del pulgar 15%
-
-42\. De las articulaciones del pulgar y carpo-metacarpiana del primer dedo, de 25 a 30%
-
-43\. Articulación metacarpo-falángica del índice 7%
-
-44\. Articulación de la primera y de la segunda falanges del índice 10%
-
-45\. Articulación de la segunda y tercera falanges del índice 4%
-
-46\. De las dos últimas articulaciones del índice 10%
-
-47\. De las tres articulaciones del índice 15%
-
-48\. Articulación metacarpo-falángica del dedo medio 5%
-
-49\. Articulación de la primera y de la segunda falanges del dedo medio 7%
-
-50\. Articulación de la segunda y de la tercera falanges del dedo medio 2%
-
-51\. De las dos últimas articulaciones del dedo medio 10%
-
-52\. De las tres articulaciones del dedo medio 15%
-
-53\. Articulación metacarpo-falángica del anular o del meñique 3%
-
-54\. Articulación de la primera y segunda falanges del anular o del meñique 5%
-
-55\. Articulación de la segunda y de la tercera falanges del anular o del meñique 2%
-
-56\. De las dos últimas articulaciones del anular o del meñique 8%
-
-57\. De las tres articulaciones del anular o del meñique 12%
-
-Rigideces articulares
-
-Disminución de los movimientos por lesiones articulares, tendinosas o musculares
-
-58\. Del hombro, afectando principalmente la propulsión y la abducción, de 10 a 30%
-
-59\. Del codo, con conservación del movimiento en posición desfavorable, entre 110° y
-
-180° 30%
-
-60\. Del codo, con conservación del movimiento en posición favorable, entre 110° y 75°,
-
-de 10 a 20%
-
-61\. De torsión, con limitación de los movimientos de pronación y supinación, de 5 a 15%
-
-62\. De la muñeca, de 10 a 15%
-
-63\. Metacarpo-falángica del pulgar, de 2 a 4%
-
-64\. Interfalángica del pulgar, de 3 a 5%
-
-65\. De las dos articulaciones del pulgar, de 5 a 10%
-
-66\. Metacarpo-falángica del índice, de 2 a 3%
-
-67\. De la primera o de la segunda articulaciones interfalángicas del índice, de 4 a 6%
-
-68\. De las tres articulaciones del índice, de 8 a 12%
-
-69\. De una sola articulación del dedo medio 2%
-
-70\. De las tres articulaciones del dedo medio, de 5 a 8%
-
-71\. De una sola articulación del anular o del meñique 2%
-
-72\. De las tres articulaciones del anular o del meñique, de 4 a 6%
-
-Pseudoartrosis
-
-73\. Del hombro, consecutiva a resecciones amplias o pérdidas considerables de substancia ósea,
-
-de 45 a 60%
-
-74\. Del húmero, apretada, de 15 a 35%
-
-75\. Del húmero, laxa, de 40 a 50%
-
-76\. Del codo, consecutiva a resecciones amplias o pérdidas considerables de substancia ósea,
-
-de 40 a 55%
-
-77\. Del antebrazo, de un solo hueso, apretada, de 5 a 10%
-
-78\. Del antebrazo, de un solo hueso, laxa, de 20 a 40%
-
-79\. Del antebrazo, de los dos huesos, apretada, de 20 a 35%
-
-80\. Del antebrazo, de los dos huesos, laxa, de 40 a 50%
-
-81\. De la muñeca, consecutiva a resecciones amplias o pérdidas considerables de substancia
-
-ósea 40%
-
-82\. De todos los huesos del metacarpo, de 30 a 40%
-
-83\. De un solo metacarpiano 10%
-
-84\. De la falange ungueal del pulgar 8%
-
-85\. De la falange ungueal de los otros dedos 6%
-
-86\. De la otra falange del pulgar 15%
-
-87\. De las otras falanges del índice 10%
-
-88\. De las otras falanges de los demás dedos 5%
-
-Cicatrices retráctiles que no puedan ser resueltas quirúrgicamente.
-
-89\. De la axila, según el grado de limitación de los movimientos del brazo, de 20 a 50%
-
-90\. Del codo, con limitación de la extensión del antebrazo, entre los 135° y 45°, de 10 a 40%
-
-91\. Del codo en flexión aguda del antebrazo, a 45% o menos, de 45 a 50%
-
-92\. De la aponeurosis palmar que afecten la flexión o extensión, la pronación, supinación, o que produzca rigideces combinadas, de 10 a 30%
-
-Trastornos funcionales de los dedos, consecutivos a lesiones no articulares, sino a sección o pérdida de los tendones extensores o flexores, adherencias o cicatrices
-
-Flexión permanente de uno o varios dedos
-
-93\. Pulgar, de 10 a 25%
-
-94\. Indice o dedo medio, de 8 a 15%
-
-95\. Anular o meñique, de 8 a 12%
-
-96\. Flexión permanente de todos los dedos de la mano, de 65 a 75%
-
-97\. Flexión permanente de 4 dedos de la mano incluyendo el pulgar, de 45 a 50%
-
-Extensión permanente de uno o varios dedos.
-
-98\. Pulgar, de 18 a 22%
-
-99\. Indice, de 10 a 15%
-
-100\. Medio, de 8 a 12%
-
-101\. Anular o meñique, de 8 a 12%
-
-102\. Extensión permanente de todos los dedos de la mano, de 65 a 75%
-
-103\. Extensión permanente de 4 dedos de la mano, excluyendo el pulgar, de 45 a 50%
-
-Secuelas de fracturas
-
-104\. De la clavícula, trazo único, cuando produzca rigidez del hombro, de 10 a 15%
-
-105\. De la clavícula, de trazo doble, con callo saliente y rigidez del hombro, de 10 a 30%
-
-106\. Del húmero, con deformación del callo de consolidación y atrofia muscular, de 10 a 30%
-
-107\. Del olécrano, con callo óseo o fibroso corto y limitación moderada de la flexión,
-
-de 5 a 10%
-
-108\. Del olécrano, con callo fibroso largo y trastornos moderados de los movimientos,
-
-de 10 a 15%
-
-109\. Del olécrano, con callo fibroso largo, trastornos acentuados de la movilidad y atrofia del tríceps, de 20 a 25%
-
-110\. De los huesos del antebrazo, cuando produzcan entorpecimiento de los movimientos de la mano, de 10 a 20%
-
-111\. De los huesos del antebrazo, cuando produzcan limitaciones de los movimientos de pronación o supinación, de 10 a 20%
-
-112\. Con abolición de movimientos, de 20 a 40%
-
-113\. Del metacarpo, con callo deforme o saliente, desviación secundaria de la mano y entorpecimiento de los movimientos de los dedos, de 10 a 20%
-
-Parálisis completas e incompletas (paresias) por lesiones de nervios periféricos.
-
-114\. Parálisis total del miembro superior, de 70 a 80%
-
-115\. Parálisis radicular superior 40%
-
-116\. Parálisis radicular inferior 60%
-
-117\. Parálisis del nervio sub-escapular 12%
-
-118\. Parálisis del nervio circunflejo, de 15 a 30%
-
-119\. Parálisis del nervio músculo-cutáneo, de 30 a 35%
-
-120\. Parálisis del nervio mediano, en el brazo 45%
-
-121\. En la muñeca, de 15 a 25%
-
-122\. Parálisis del nervio mediano con causalgia, de 50 a 80%
-
-123\. Parálisis del nervio cubital si está lesionado a nivel del codo 35%
-
-124\. Parálisis del nervio cubital si está lesionado en la mano 30%
-
-125\. Parálisis del nervio radial si está lesionado arriba de la rama del tríceps 50%
-
-126\. Parálisis del nervio radial si está lesionado abajo de la rama del tríceps 40%
-
-En caso de parálisis incompleta o parcial (paresia), los porcentajes serán reducidos proporcionalmente de acuerdo con el grado de impotencia funcional.
-
-Luxaciones que no puedan ser resueltas quirúrgicamente.
-
-127\. De la clavícula, no reducida o irreductible, interna, de 5 a 10%
-
-128\. De la clavícula, no reducida o irreductible, externa 5%
-
-129\. Del hombro, de 10 a 30%
-
-130\. De los dos últimos metacarpianos, de 15 a 20%
-
-131\. De todos los metacarpianos, de 30 a 40%
-
-132\. Metacarpo-falángica del pulgar, de 10 a 25%
-
-133\. De la falange ungueal del pulgar 5%
-
-134\. De la primera o de la segunda falange de cualquier otro dedo 10%
-
-135\. De la tercera falange de cualquier otro dedo 4%
-
-Músculos
-
-136\. Amiotrofia del hombro, sin anquilosis ni rigidez articular 15%
-
-137\. Amiotrofia del brazo o del antebrazo, sin anquilosis ni rigidez articular, de 10 a 15%
-
-138\. Amiotrofia de la mano, sin anquilosis ni rigidez articular, de 5 a 10%
-
-Vasos
-
-139\. Las secuelas y lesiones arteriales y venosas, se valuarán de acuerdo con la magnitud de las alteraciones orgánicas y los trastornos funcionales que produzcan (amputaciones, rigideces articulares, lesiones de los nervios periféricos, atrofia de masas musculares, etc.). En caso de lesiones bilaterales, se sumarán los porcentajes correspondientes a cada miembro, sin que en ningún caso sobrepasen
-
-del 100%
-
-140\. Si el miembro lesionado es el menos útil, se reducirá la indemnización calculada conforme a esta tabla en un 10%
-
-141\. En los músicos, mecanógrafos, linotipistas, telegrafistas y labores similares, la pérdida, anquilosis, pseudoartrosis, luxaciones, parálisis, retracciones cicatrizales y rigideces de los dedos utilizados efectivamente en el trabajo, así como en los casos de retracciones de la aponeurosis palmar de la mano que interese esos mismos dedos, se aumentará hasta el 250%, observándose lo dispuesto en el artículo 494.
-
-Miembro inferior
-
-Pérdidas.
-
-142\. Por la desarticulación de la cadera, de 75 a 80%
-
-143\. Por la amputación del múslo, entre la cadera y la rodilla, de 70 a 80%
-
-144\. Por la desarticulación de la rodilla, de 65 a 70%
-
-145\. Por la extirpación de la rótula, con movilidad anormal de la rodilla y amiotrofia del tríceps,
-
-de 20 a 40%
-
-146\. Por la amputación de la pierna, entre la rodilla y el cuello del pie, de 55 a 65%
-
-147\. Por la pérdida total del pie, de 50 a 55%
-
-148\. Por la mutilación de un pie con conservación del talón, de 35 a 45%
-
-149\. Por la pérdida parcial o total del calcáneo, de 10 a 30%
-
-150\. Por la desarticulación medio-tarsiana, de 35 a 40%
-
-151\. Por la desarticulación tarso metatarsiana, de 25 a 30%
-
-152\. Por la pérdida de los cinco ortejos, de 20 a 25%
-
-153\. Por la pérdida del primer ortejo; con pérdida o mutilación de su metatarsiano, de 20 a 30%
-
-154\. Por la pérdida del primer ortejo sólo 15%
-
-155\. Por la pérdida de la falange ungueal del primer ortejo 7%
-
-156\. Por la pérdida de un ortejo que no sea el primero 5%
-
-157\. Por la pérdida de las dos últimas falanges de un ortejo que no sea el primero 3%
-
-158\. Por la pérdida de la falange ungueal de un ortejo que no sea el primero 2%
-
-159\. Por la pérdida del quinto ortejo con mutilación o pérdida de su metatarsiano, de 20 a 30%
-
-Anquilosis
-
-160\. Completa de la articulación coxo-femoral, en rectitud, de 50 a 55%
-
-161\. De la articulación coxo-femoral en mala posición (flexión, aducción, abducción, rotación),
-
-de 60 a 65%
-
-162\. De las dos articulaciones coxo-femorales, de 90 a 100%
-
-163\. De la rodilla en posición de extensión (favorable), de 180° a 135°, de 30 a 40%
-
-164\. De la rodilla en posición de flexión (desfavorable), de 135° a 30°, de 40 a 65%
-
-165\. De la rodilla en genu-valgum o genu-varum, de 40 a 50%
-
-166\. Del cuello del pie en ángulo recto, con movilidad suficiente de los ortejos, de 10 a 15%
-
-167\. Del cuello del pie en ángulo recto, con entorpecimiento de la movilidad de los ortejos,
-
-de 25 a 30%
-
-168\. Del cuello del pie, en actitud viciosa, de 30 a 55%
-
-169\. Del primer ortejo, en rectitud 5%
-
-170\. Del primer ortejo en posición viciosa, de 10 a 15%
-
-171\. De los demás ortejos, en rectitud 5%
-
-172\. De los demás ortejos en posición viciosa, de 5 a 15%
-
-Rigideces articulares
-
-Disminución de los movimientos por lesiones articulares, tendinosas o musculares.
-
-173\. De la cadera, con ángulo de movilidad favorable, de 15 a 25%
-
-174\. De la cadera, con ángulo de movilidad desfavorable, de 30 a 40%
-
-175\. De la rodilla, que permita la extensión completa, según el ángulo de flexión, de 10 a 20%
-
-176\. De la rodilla que no permita la extensión completa o casi completa, según el ángulo de flexión,
-
-de 25 a 35%
-
-177\. Del cuello del pie, con ángulo de movilidad favorable, de 5 a 10%
-
-178\. Del cuello del pie, con ángulo de movilidad desfavorable, de 10 a 20%
-
-179\. De cualquier ortejo, de 2 a 5%
-
-Pseudoartrosis
-
-180\. De la cadera, consecutiva a resecciones amplias con pérdida considerable de substancia ósea, de 50 a 70%
-
-181\. Del fémur, de 40 a 60%
-
-182\. De la rodilla con pierna de badajo .(consecutiva a resecciones de rodilla), de 40 a 60%
-
-183\. De la rótula con callo fibroso corto, flexión poco limitada 15%
-
-184\. De la rótula con callo fibroso largo, extensión activa débil y flexión poco limitada 20%
-
-185\. De la rótula con callo fibroso largo, extensión activa casi nula y amiotrofia del muslo 40%
-
-186\. De la tibia y el peroné, de 40 a 60%
-
-187\. De la tibia sola, de 30 a 40%
-
-188\. Del peroné sólo, de 8 a 18%
-
-189\. Del primero o del último metatarsiano, de 8 a 15%
-
-Cicatrices retráctiles que no puedan ser resueltas quirúrgicamente.
-
-190\. Del hueco poplíteo, que limiten la extensión de 170° a 135°, de 20 a 30%
-
-191\. Del hueco poplíteo, que limiten la extensión de 135° a 90°, de 30 a 50%
-
-192\. Del hueco poplíteo, que limiten la extensión a menos de 90°, de 50 a 60%
-
-193\. De la planta del pie, con retracción de la punta hacia uno de sus bordes, de 20 a 40%
-
-Secuelas de fracturas
-
-194\. Doble vertical de la pelvis, con dolores persistentes y dificultad moderada para la marcha y los esfuerzos, de 15 a 25%
-
-195\. Doble vertical de la pelvis, con acortamiento o desviación del miembro inferior, de 25 a 50%
-
-196\. De la cavidad cotiloidea, con hundimiento, de 15 a 40%
-
-197\. De la rama horizontal del pubis, con ligeros dolores persistentes y moderada dificultad para la marcha o los esfuerzos, de 15 a 20%
-
-198\. De la rama isquiopúbica, con moderada dificultad para la marcha y los esfuerzos,
-
-de 15 a 20%
-
-199\. De la rama horizontal y de la rama isquiopúbica, con dolores persistentes, trastornos vesicales y acentuada dificultad para la marcha o los esfuerzos, de 40 a 60%
-
-200\. Del cuello del fémur y región trocantérea, con impotencia funcional moderada, claudicación y dolor de 30 a 40%
-
-201\. Del cuello del fémur y región trocantérea, con impotencia funcional acentuada, gran acortamiento, rigideces articulares y desviaciones angulares, de 60 a 80%
-
-202\. De la diáfisis femoral, con acortamiento de 1 a 4 centímetros, sin lesiones articulares ni atrofia muscular, de 8 a 15%
-
-203\. De la diáfisis femoral, con acortamiento de 3 a 6 centímetros, atrofia muscular media, sin igidez articular, de 15 a 30%
-
-204\. De la diáfisis femoral, con acortamiento de 3 a 6 centímetros, atrofia muscular media y rigidez articular, de 30 a 40%
-
-205\. De la diáfisis femoral, con acortamiento de 6 a 12 centímetros, atrofia muscular y rigideces articulares, de 30 a 50%
-
-206\. De la diáfisis femoral, con acortamiento de 6 a 12 centímetros, desviación angular externa, atrofia muscular avanzada y flexión de la rodilla que no pase de 135°, de 50 a 70%
-
-207\. De los cóndilos femorales y tuberosidades tibiales, con rigideces articulares, desviaciones, aumento de volumen de la rodilla, claudicación, etc., de 30 a 50%
-
-208\. De la rótula, con callo óseo, extensión completa y flexión poco limitada 10%
-
-209\. De la tibia y el peroné, con acortamiento de 2 a 4 centímetros, callo grande y saliente y atrofia muscular, de 15 a 30%
-
-210\. De la tibia y el peroné, con acortamiento de más de 4 centímetros, consolidación angular, desviación de la pierna hacia fuera o hacia adentro, desviación secundaria del pie, marcha posible,
-
-de 35 a 50%
-
-211\. De la tibia y el peroné, con acortamiento considerable o consolidación angular, marcha imposible, de 55 a 70%
-
-212\. De la tibia, con dolor, atrofia muscular y rigidez articular, de 10 a 25%
-
-213\. Del peroné, con dolor y ligera atrofia muscular de 5 a 10%
-
-214\. Maleolares, con desalojamiento del pie hacia adentro, de 25 a 40%
-
-215\. Maleolares, con desalojamiento del pie hacia afuera, de 25 a 40%
-
-216\. Del tarso, con pie plano post-traumático doloroso, de 15 a 20%
-
-217\. Del tarso, con desviación del pie hacia adentro o hacia afuera, de 20 a 30%
-
-218\. Del tarso, con deformación considerable, inmovilidad de los ortejos y atrofia de la pierna,
-
-de 30 a 50%
-
-219\. Del metatarso, con dolor, desviaciones o impotencia funcional, de 10 a 20%
-
-Parálisis completas o incompletas (paresias) por lesiones de nervios periféricos
-
-220\. Parálisis total del miembro inferior, de 70 a 80%
-
-221\. Parálisis completa del nervio ciático mayor 40%
-
-222\. Parálisis del ciático poplíteo externo 35%
-
-223\. Parálisis del ciático poplíteo interno 30%
-
-224\. Parálisis combinada del ciático poplíteo interno y del ciático poplíteo externo 40%
-
-225\. Parálisis del nervio crural, de 40 a 50%
-
-226\. Con reacción causálgica, de los nervios antes citados, aumento de 20 a 30%
-
-227\. En caso de parálisis combinadas por lesiones de los nervios antes mencionados en ambos miembros, se sumarán los porcentajes correspondientes a cada uno, sin que en ningún caso las incapacidades sumadas pasen del 100%
-
-228\. En caso de parálisis incompleta o parcial (paresias), los porcentajes serán reducidos proporcionalmente de acuerdo con el grado de impotencia funcional.
-
-Luxaciones que no puedan ser resueltas quirúrgicamente.
-
-229\. Del pubis, irreductible o irreducida, o relajación extensa de la sínfisis, de 25 a 40%
-
-Músculos
-
-230\. Amiotrofia del muslo, sin anquilosis ni rigidez articular 30%
-
-231\. Amiotrofia del lóculo anterior del muslo, sin anquilosis ni rigidez articular 20%
-
-232\. Amiotrofia de la pierna, sin anquilosis ni rigidez articular 30%
-
-233\. Amiotrofia del lóculo antero-externo de la pierna, sin anquilosis ni rigidez articular 15%
-
-234\. Amiotrofia total del miembro inferior 40%
-
-Vasos
-
-235\. Las secuelas de lesiones arteriales se valuarán de acuerdo con la magnitud de las alteraciones orgánicas y los trastornos funcionales que provoquen (amputaciones, rigideces articulares, lesiones de los nervios periféricos, atrofia de masas musculares, etc.)
-
-236\. Flebitis debidamente comprobada, de 15 a 25%
-
-237\. Ulcera varicosa recidivante, según su extensión, de 8 a 20%
-
-238\. En caso de lesiones bilaterales se sumarán los porcentajes correspondientes a cada miembro, sin que en ningún caso sobrepasen del 100%
-
-239\. En caso de que el miembro lesionado (superior o inferior) no estuviera, antes del accidente, íntegro fisiológica y anatómicamente, se reducirá la indemnización proporcionalmente.
-
-Cabeza
-
-Cráneo
-
-240\. Síndrome cráneo-encefálico tardío post-conmocional discreto, de 10 a 20%
-
-241\. Síndrome cráneo-encefálico tardío post-conmocional moderado, de 20 a 35%
-
-242\. Síndrome cráneo-encefálico tardío post-conmocional acentuado, de 35 a 50%
-
-243\. Escalpe o pérdida considerable del cuero cabelludo, de 20 a 35%
-
-244\. Pérdida ósea del cráneo hasta de 5 centímetros de diámetro, de 10 a 20%
-
-245\. Pérdida ósea más extensa, de 20 a 30%
-
-246\. Epilepsia traumática no curable quirúrgicamente, cuando las crisis puedan ser controladas médicamente y permitan desempeñar algún trabajo, de 50 a 70%
-
-247\. Por epilepsia traumática no curable quirúrgicamente, cuando las crisis no puedan ser controladas médicamente y no permitan el desempeño de ningún trabajo 100%
-
-248\. Epilepsia jacksoniana, de 10 a 25%
-
-249\. Anosmia por lesión del nervio olfativo 5%
-
-250\. Por lesión del nervio trigémino, de 15 a 30%
-
-251\. Por lesión del nervio facial, de 15 a 30%
-
-252\. Por lesión del neumogástrico (según el grado de trastornos funcionales comprobados),
-
-de 10 a 50%
-
-253\. Por lesión del nervio espinal, de 10 a 40%
-
-254\. Por lesión del nervio hipogloso, cuando es unilateral 15%
-
-255\. Por lesión del nervio hipogloso, bilateral 60%
-
-256\. Monoplegia superior 70%
-
-257\. Monoparesia superior, de 20 a 40%
-
-258\. Monoplegia inferior, marcha espasmódica, de 40 a 60%
-
-259\. Monoparesia inferior, marcha posible, de 20 a 40%
-
-260\. Paraplegia 100%
-
-261\. Paraparesia, marcha posible, de 50 a 70%
-
-262\. Hemiplegia, de 70 a 90%
-
-263\. Hemiparesia, de 20 a 60%
-
-264\. Diabetes azucarada o insípida, de 10 a 40%
-
-265\. Afasia discreta, de 20 a 30%
-
-266\. Afasia acentuada, aislada, de 40 a 80%
-
-267\. Afasia con hemiplegia 100%
-
-268\. Agrafia, de 20 a 30%
-
-269\. Demencia crónica 100%
-
-Cara
-
-270\. Mutilaciones extensas, cuando comprendan los dos maxilares superiores y la nariz, según la pérdida de substancia de las partes blandas, de 90 a 100%
-
-271\. Mutilaciones que comprendan un maxilar superior y el inferior, de 90 a 100%
-
-272\. Mutilación de la rama horizontal del maxilar inferior sin prótesis posible, o del maxilar en su totalidad, de 60 a 80%
-
-273\. Pseudoartrosis del maxilar superior con masticación imposible, de 50 a 60%
-
-274\. Pseudoartrosis del maxilar superior con masticación posible, pero limitada, de 20 a 30%
-
-275\. En caso de prótesis con mejoría comprobada de la masticación, de 5 a 15%
-
-276\. Pérdidas de substancia en la bóveda palatina, no resueltas quirúrgicamente, según el sitio y la extensión, de 15 a 35%
-
-277\. En caso de prótesis con mejoría funcional comprobada, de 5 a 10%
-
-278\. Pseudoartrosis del maxilar inferior, con masticación posible, por falta de consolidación, apretada, de la rama ascendente, de 5 a 10%
-
-279\. Cuando sea laxa en la rama ascendente, de 15 a 25%
-
-280\. Cuando sea apretada en la rama horizontal, de 10 a 20%
-
-281\. Cuando sea laxa en la rama horizontal, de 25 a 35%
-
-282\. Cuando sea apretada en la sínfisis, de 25 a 30%
-
-283\. Cuando sea lexa en la sínfisis, de 25 a 40%
-
-284\. En caso de prótesis con mejoría funcional comprobada, de 5 a 20%
-
-285\. Pseudoartrosis del maxilar inferior, con o sin pérdida de substancia, no resuelta quirúrgicamente, con masticación insuficiente o abolida, de 50 a 60%
-
-286\. Consolidaciones defectuosas de los maxilares, que dificulten la articulación de los arcos dentarios y limiten la masticación, de 20 a 30%
-
-287\. Cuando la dificultad de la articulación sea parcial, de 5 a 15%
-
-288\. Cuando con un aparato protésico se corrija la masticación, de 5 a 10%
-
-289\. Pérdida de uno o varios dientes: reposición
-
-290\. Pérdida total de la dentadura, prótesis no tolerada 30%
-
-291\. Pérdida total de la dentadura, prótesis tolerada 15%
-
-292\. Pérdida completa de un arco dentario, prótesis no tolerada 20%
-
-293\. Pérdida completa de un arco dentario, prótesis tolerada 10%
-
-294\. Pérdida de la mitad de un arco dentario, prótesis no tolerada 15%
-
-295\. Pérdida de la mitad de un arco dentario, prótesis tolerada 5%
-
-296\. Bridas cicatrizales que limiten la abertura de la boca, impidiendo la higiene bucal, la pronunciación, la masticación o dejen escurrir la saliva, de 20 a 50%
-
-297\. Luxación irreductible de la articulación temporo-maxilar, según el grado de entorpecimiento funcional, de 20 a 35%
-
-298\. Amputaciones más o menos extensas de la lengua, con adherencias y según el entorpecimiento de la palabra y de la deglución, de 20 a 40%
-
-299\. Fístula salival no resuelta quirúrgicamente, de 10 a 20%
-
-Ojos
-
-300\. Ceguera total, con conservación o pérdida de los globos oculares 100%
-
-301\. Pérdida o disminución permanente (cuando ya no puede ser mejorada con anteojos) de la agudeza visual, en trabajadores cuya actividad sea de exigencia visual mediana o baja. (Visión restante con corrección óptica.)
-
-TABLA I
-
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| A.V. | 1 a 0.8 | 0.7 | 0.6 | 0.5 | 0.4 | 0.3 | 0.2 | 0.1 | 0.05 | 0\. | E.c./p.\* | E.p./i.\*\* |  | 1 a 0.8 | 0% | 4% | 6% | 8% | 12% | 18% | 25% | 30% | 33% | 35% | 50% | 60% |  | 0.7 | 4% | 9 | 11 | 13 | 17 | 23 | 30 | 35 | 38 | 40 | 55 | 65 |  | 0.6 | 6% | 11 | 13 | 15 | 19 | 25 | 32 | 37 | 40 | 45 | 60 | 70 |  | 0.5 | 8% | 13 | 15 | 17 | 21 | 27 | 35 | 45 | 50 | 55 | 65 | 75 |  | 0.4 | 12% | 17 | 19 | 21 | 25 | 35 | 45 | 55 | 60 | 65 | 70 | 80 |  | 0.3 | 18% | 23 | 25 | 27 | 35 | 45 | 55 | 65 | 70 | 75 | 80 | 85 |  | 0.2 | 25% | 30 | 32 | 35 | 45 | 55 | 65 | 75 | 80 | 85 | 90 | 95 |  | 0.1 | 30% | 35 | 37 | 45 | 55 | 65 | 75 | 85 | 90 | 95 | 98 | 100 |  | 0.05 | 33% | 38 | 40 | 50 | 60 | 70 | 80 | 90 | 95 | 100 | 100 | 100 |  | 0 | 35% | 40 | 45 | 55 | 65 | 75 | 85 | 95 | 100 | 100 | 100 | 100 |  | E.c./p.\* | 50% | 55 | 60 | 65 | 70 | 80 | 90 | 98 | 100 | 100 | 100 | 100 |  | E.p./i.\*\* | 60% | 65 | 70 | 75 | 80 | 85 | 95 | 100 | 100 | 100 | 100 | 100 |  |
-
-\_\_\_\_\_\_\_\_\_\_
-
-\* Enucleación con prótesis.
-
-\*\* Enucleación, prótesis imposible.
-
-En los casos de pérdida o disminución de la agudeza visual en un solo ojo, estando el otro sano, debajo de la primera línea horizontal en la que están señalados los diversos grados indemnizables de pérdida o disminución, aparecen insertos los porcentajes de incapacidad correspondientes a cada grado, (segunda línea horizontal).
-
-En los casos de pérdida o disminución de la agudeza visual en un solo ojo, estando el otro enfermo por afección ajena al trabajo, si la visión restante en cada ojo es inferior a 0. 2, el porcentaje de incapacidad indemnizable aparece en la intersección de la columna vertical y de la línea horizontal correspondiente.
-
-En los casos de pérdida o disminución bilateral de la agudeza visual, a consecuencia de riesgo profesional en ambos ojos, el porcentaje de incapacidad indemnizable aparece en la intersección de la columna vertical y de la línea horizontal correspondiente.
-
-302\. Pérdida o disminución permanente (cuando ya no puede ser mejorada con anteojos) de la agudeza visual, en trabajadores cuya actividad sea de elevada exigencia visual, (visión restante con corrección óptica).
-
-TABLA II
-
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| A.V. | 1 a 0.8 | 0.7 | 0.6 | 0.5 | 0.4 | 0.3 | 0.2 | 0.1 | 0.05 | 0\. | E.c./p.\* | E.p./i.\*\* |  | 1 a 0.8 | 0% | 6% | 9% | 12% | 15% | 20% | 30% | 35% | 40% | 45% | 50% | 60% |  | 0.7 | 6% | 13 | 16 | 19 | 22 | 27 | 37 | 42 | 47 | 52 | 57 | 67 |  | 0.6 | 9% | 16 | 19 | 22 | 25 | 30 | 40 | 45 | 50 | 55 | 62 | 72 |  | 0.5 | 12% | 19 | 22 | 25 | 28 | 33 | 43 | 50 | 55 | 60 | 67 | 77 |  | 0.4 | 15% | 22 | 25 | 28 | 31 | 40 | 50 | 60 | 65 | 70 | 75 | 82 |  | 0.3 | 20% | 27 | 30 | 33 | 40 | 50 | 60 | 70 | 75 | 80 | 85 | 90 |  | 0.2 | 30% | 37 | 40 | 43 | 50 | 60 | 70 | 77 | 85 | 90 | 95 | 98 |  | 0.1 | 35% | 42 | 45 | 50 | 60 | 70 | 77 | 90 | 95 | 98 | 100 | 100 |  | 0.05 | 40% | 47 | 50 | 55 | 65 | 75 | 85 | 95 | 98 | 100 | 100 | 100 |  | 0 | 45% | 52 | 55 | 60 | 70 | 80 | 90 | 98 | 100 | 100 | 100 | 100 |  | E.c./p.\* | 50% | 57 | 62 | 67 | 75 | 85 | 95 | 100 | 100 | 100 | 100 | 100 |  | E.p./i.\*\* | 60% | 67 | 72 | 77 | 82 | 90 | 98 | 100 | 100 | 100 | 100 | 100 |  |
-
-\_\_\_\_\_\_\_\_\_\_
-
-\* Enucleación con prótesis.
-
-\*\* Enucleación, prótesis imposible.
-
-En los casos de pérdida o disminución de la agudeza visual en un solo ojo, estando el otro sano, debajo de la primera línea horizontal, en la que están señalados los diversos grados indemnizables de pérdida o disminución, aparecen inscritos los porcentajes de incapacidad correspondientes a cada grado. (Segunda línea horizontal.)
-
-En los casos de pérdida o disminución de la agudeza visual en un solo ojo, estando el otro enfermo por afección ajena al trabajo, si la visión restante en cada ojo es inferior a 0. 2, el porcentaje de incapacidad indemnizable aparece en la intersección de la columna vertical y de la línea horizontal correspondiente.
-
-En los casos de pérdida o disminución bilateral de la agudeza visual, a consecuencia de riesgo profesional en ambos ojos, el porcentaje de incapacidad indemnizable aparece en la intersección de la columna vertical y de la línea horizontal correspondiente.
-
-303\. Pérdida o disminución permanente de la agudeza visual en sujetos monóculos (ceguera o visión inferior a 0. 05 en el ojo contralateral).
-
-(Visión restante con corrección óptica.)
-
-TABLA III
-
-|   |   |   |
-|---|---|---|
-| Agudeza visual | Incapacidades en trabajadores cuya actividad sea de exigencia visual mediana o baja | Incapacidades en trabajadores cuya actividad sea de elevada exigencia visual |
-| 0.7 | 9 | 13 |
-| 0.6 | 13 | 19 |
-| 0.5 | 17 | 25 |
-| 0.4 | 25 | 31 |
-| 0.3 | 45 | 50 |
-| 0.2 | 65 | 70 |
-| 0.1 | 85 | 90 |
-| 0.05 | 95 | 100 |
-| 0 | 100 | 100 |
-
-304\. Extracción o atrofia de un globo ocular con deformación ostensible, que permite el uso de prótesis 50%
-
-305\. Con lesiones cicatrizales o modificaciones anatómicas que impidan el uso de prótesis 60%
-
-306\. Al aceptarse en servicio a los trabajadores, se considerará para reclamaciones posteriores por pérdida de la agudeza visual, que tienen la unidad aunque tuvieran 0. 8 (8 décimos en cada ojo).
-
-307\. Los escotomas centrales se valuarán según la determinación de la agudeza visual, aplicando las tablas anteriores.
-
-308\. Estrechamiento del campo visual, con conservación de 30 grados en un solo ojo 10%
-
-309\. En ambos ojos, de 15 a 30%
-
-310\. Estrechamiento del campo visual, con conservación de menos de 30 grados en un solo ojo,
-
-de 15 a 35%
-
-311\. En ambos ojos, de 40 a 90%
-
-Hemianopsias verticales.
-
-312\. Homónimas, derecha o izquierda, de 20 a 35%
-
-313\. Heterónimas binasales, de 10 a 15%
-
-314\. Heterónimas bitemporales, de 40 a 60%
-
-Hemianopsias horizontales.
-
-315\. Superiores, de 10 a 15%
-
-316\. Inferiores, de 30 a 50%
-
-317\. En cuadrante superior, 10%
-
-318\. En cuadrante inferior, de 20 a 25%
-
-Hemianopsia en sujetos monóculos (visión conservada en un ojo y abolida o menor a 0. 05 en el contralateral), con visión central.
-
-319\. Nasal, de 60 a 70%
-
-320\. Inferior, de 70 a 80%
-
-321\. Temporal, de 80 a 90%
-
-322\. En los casos de hemianopsia con pérdida de la visión central uni o bilateral se agregará al porcentaje de valuación correspondiente a la hemianopsia, el relativo a la visión restante, observándose lo dispuesto en el artículo 494.
-
-Trastornos de la movilidad ocular
-
-323\. Estrabismo por lesión muscular o alteración nerviosa correspondiente, sin diplopia, en pacientes que previamente carecían de fusión, de 5 a 10%
-
-324\. Diplopia susceptible de corrección con prismas o posición compensadora de la cabeza,
-
-de 5 a 20%
-
-325\. Diplopia en la parte inferior del campo, de 10 a 25%
-
-326\. Diplopia no susceptible de corrección con prismas o posición compensadora de la cabeza, acompañada o no de ptosis palpebral, con o sin oftalmoplegia interna, que amerita la oclusión de un ojo, de 20 a 30%
-
-327\. Diplopia no susceptible de corregirse con prismas o mediante posición compensadora de la cabeza, por lesión nerviosa bilateral que limita los movimientos de ambos ojos y reduce el campo visual por la desviación, originando desviación de cabeza para fijar, además de la oclusión de un ojo,
-
-de 40 a 50%
-
-Otras lesiones
-
-328\. Afaquia unilateral corregible con lente de contacto:
-
-Agregar 10% de incapacidad al porcentaje correspondiente a la disminución de la agudeza visual, sin que la suma sobrepase de 35% en trabajadores de mediana o baja exigencia visual, o de 45% en los de elevada exigencia visual.
-
-329\. Afaquia bilateral corregible con lentes tóricos o de contacto:
-
-Agregar 25% de incapacidad al porcentaje correspondiente a la disminución de la agudeza visual, sin que la suma sobrepase el 100%, conforme a las estipulaciones del artículo 494.
-
-330\. Catarata traumática uni o bilateral inoperable: será indemnizada de acuerdo con la disminución de la agudeza visual.
-
-331\. Oftalmoplegia interna total unilateral, de 10 a 15%
-
-332\. Bilateral, de 15 a 30%
-
-333\. Midriasis, iridodiálisis o iridectomía en sector, cuando ocasionan trastornos funcionales, en un
-
-ojo 5%
-
-334\. En ambos ojos 10%
-
-335\. Ptosis palpebral parcial unilateral, pupila descubierta, de 5 a 10%
-
-336\. Ptosis palpebral o blefaroespasmo unilaterales, no resueltos quirúrgicamente, cuando cubren el área pupilar: serán indemnizados de acuerdo con la disminución de la agudeza visual.
-
-337\. Pstosis palpebral bilateral, de 20 a 70%
-
-Estas incapacidades se basan en el grado de la visión, según que en posición primaria (mirada horizontal de frente) la pupila está más o menos descubierta.
-
-338\. Desviación de los bordes palpebrales (entropión, ectropión, triquiasis, cicatrices deformantes, simblefarón, anquiloblefarón), unilateral, de 5 a 15%
-
-339\. Bilateral, de 10 a 25%
-
-Alteraciones de las vías lagrimales
-
-340\. Lagoftalmos cicatrizal o paralítico unilateral, de 5 a 15%
-
-341\. Bilateral, de 10 a 25%
-
-342\. Epífora, de 5 a 15%
-
-343\. Fístulas lagrimales, de 15 a 25%
-
-Nariz
-
-344\. Mutilación parcial de la nariz, sin estenosis, no corregida plásticamente, de 10 a 20%
-
-345\. Pérdida de la nariz sin estenosis, no reparada plásticamente, de 30 a 40%
-
-346\. Cuando haya sido reparada plásticamente, de 15 a 20%
-
-347\. Cuando la nariz quede reducida a muñón cicatrizal, con estenosis, de 30 a 50%
-
-Oídos
-
-348\. Pérdida o deformación excesiva del pabellón auricular, unilateral, de 5 a 10%
-
-349\. Bilateral, de 10 a 15%
-
-350\. Vértigo laberíntico traumático debidamente comprobado, de 30 a 50%
-
-Sorderas e hipoacusias profesionales
-
-351\. Se valuarán siguiendo las normas de la tabla siguiente:
-
-|   |   |
-|---|---|
-| % de hipoacusia bilateral combinada | % de incapacidad permanente |
-|  |  |
-| 10 | 10 |
-| 15 | 14 |
-| 20 | 17 |
-| 25 | 20 |
-| 30 | 25 |
-| 35 | 30 |
-| 40 | 35 |
-| 45 | 40 |
-| 50 | 45 |
-| 55 | 50 |
-| 60 | 55 |
-| 65 | 60 |
-| 70 | 65 |
-| 75 a 100 | 70 |
-
-Se recomienda la exploración por medio de la audiometría tonal, determinando la incapacidad funcional auditiva binaural, sin reducción por presbiacusia o estado anterior.
-
-Cuello
-
-352\. Desviación (tortícolis, inflexión anterior) por retracción muscular o amplia cicatriz,
-
-de 10 a 30%
-
-353\. lnflexión anterior cicatrizal, estando el mentón en contacto con el esternón, de 40 a 60%
-
-354\. Estrechamientos cicatrizales de la laringe que produzcan disfonía, de 10 a 20%
-
-355\. Que produzcan afonía sin disnea, de 20 a 30%
-
-356\. Cuando produzcan disnea de grandes esfuerzos 10%
-
-357\. Cuando produzcan disnea de medianos o pequeños esfuerzos, de 20 a 70%
-
-358\. Cuando produzcan disnea de reposo, de 70 a 80%
-
-359\. Cuando por disnea se requiera el uso de cánula traqueal a permanencia, de 70 a 90%
-
-360\. Cuando causen disfonía (o afonía) y disnea, de 25 a 80%
-
-361\. Estrechamiento cicatrizal de la faringe con perturbación de la deglución, de 20 a 40%
-
-Tórax y contenido.
-
-362\. Secuelas discretas de fractura aislada del esternón 10%
-
-363\. Con hundimiento o desviación, sin complicaciones profundas 20%
-
-364\. Secuela de fracturas de una a tres costillas, con dolores permanentes al esfuerzo,
-
-de 5 a 10%
-
-365\. De fracturas costales o condrales con callo deforme doloroso, y dificultad al esfuerzo torácico o abdominal, de 10 a 15%
-
-366\. Con hundimiento y trastornos funcionales más acentuados, de 20 a 30%
-
-367\. Adherencias y retracciones cicatrizales pleurales consecutivas a traumatismos,
-
-de 20 a 30%
-
-368\. Secuelas postraumáticas con lesiones bronco-pulmonares, según el grado de lesión orgánica y de los trastornos funcionales residuales, de 10 a 90%
-
-369\. Fibrosis neumoconiótica (radiológicamente, con opacidades lineales o reticulares generalizadas, u opacidades puntiformes grados 1 ó 2, u opacidades miliares grado 1, habitualmente), con función cardio-respiratoria sensiblemente normal, de 5 a 10%
-
-370\. Fibrosis neumoconiótica (radiológicamente, con opacidades puntiformes grados 2 ó 3, u opacidades miliares grados 1 ó 2, u opacidades nodulares grado 1, habitualmente), con insuficiencia cardio-respiratoria ligera, parcial o completa, de 10 a 25%
-
-371\. Fibrosis neumoconiótica (radiológicamente, con opacidades puntiformes grado 3, u opacidades miliares grados 2 ó 3, u opacidades nodulares grados 1, 2 ó 3, u opacidades confluentes grados A o B, habitualmente), con insuficiencia cardio-respiratoria media, de 30 a 60%
-
-372\. Fibrosis neumoconiótica (radiológicamente, con opacidades miliares grado 3, u opacidades nodulares grado 2 ó 3, u opacidades confluentes grados B o C, habitualmente), con insuficiencia cardiorespiratoria acentuada o grave, de 60 a 100%
-
-373\. Fibrosis neumoconiótica infectada de tuberculosis, clínica y bacteriológicamente curada: agregar 20% al monto de las incapacidades consignadas en las fracciones anteriores relativas, sin exceder
-
-del 100%
-
-374\. Fibrosis neumoconiótica infectada de tuberculosis, no curada clínica ni bacteriológicamente, abierta 100%
-
-375\. Las neumoconiosis no fibróticas y el efisema pulmonar, se valuarán según el grado de insuficiencia cardio-respiratoria, de acuerdo con los porcentajes señalados en las fracciones relativas anteriores.
-
-376\. Hernia diafragmática post-traumática no resuelta quirúrgicamente, de 30 a 40%
-
-377\. Estrechamiento del esófago no resuelto quirúrgicamente, de 20 a 70%
-
-378\. Adherencias pericárdicas post-traumáticas sin insuficiencia cardíaca, de 10 a 20%
-
-379\. Con insuficiencia cardíaca, según su gravedad de 20 a 100%
-
-Abdomen
-
-380\. Hernia inguinal, crural o epigástrica inoperables, de 10 a 20%
-
-381\. Las mismas, reproducidas después de tratamiento quirúrgico, de 20 a 30%
-
-382\. Cicatrices viciosas de la pared abdominal que produzcan alguna incapacidad,
-
-de 10 a 30%
-
-383\. Cicatrices con eventración, inoperables o no resueltas quirúrgicamente, de 30 a 60%
-
-384\. Fístulas del tubo digestivo o de sus anexos, inoperables o cuando produzcan alguna incapacidad, de 20 a 60%
-
-385\. Otras lesiones de los órganos contenidos en el abdomen, que produzcan como consecuencia alguna incapacidad probada, de 30 a 80%
-
-Aparato génito-urinario
-
-386\. Pérdida o atrofia de un testículo, de 15 a 25%
-
-387\. De los dos testículos, tomando en consideración la edad, de 40 a 100%
-
-388\. Pérdida total o parcial del pene, o disminución o pérdida de su función, de 50 a 100%
-
-389\. Con estrechamiento del orificio uretral, perineal o hipogástrico, de 70 a 100%
-
-390\. Prolapso uterino consecutivo a accidentes de trabajo, no resuelto quirúrgicamente,
-
-de 50 a 70%
-
-391\. Por la pérdida de un seno, de 20 a 30%
-
-392\. De los dos senos, de 50 a 70%
-
-393\. Pérdida orgánica o funcional de un riñón estando normal el contra-lateral, tomando en cuenta el estado de la cicatriz parietal y la edad, de 35 a 50%
-
-394\. Con perturbación funcional del riñón contra-lateral, tomando en cuenta el estado de la cicatriz parietal y la edad, de 50 a 90%
-
-395\. Incontinencia de orina permanente, de 30 a 40%
-
-396\. Estrechamiento franqueable de la uretra anterior, no resuelto quirúrgicamente,
-
-de 30 a 40%
-
-397\. Estrechamiento franqueable por lesión incompleta de la uretra posterior, no resuelto quirúrgicamente 60%
-
-398\. Estrechamiento infranqueable de la uretra, post-traumático, no resuelto quirúrgicamente, que obligue a efectuar la micción por un meato perineal o hipogástrico, de 60 a 90%
-
-Columna vertebral
-
-Secuelas de traumatismo sin lesión medular.
-
-399\. Desviaciones persistentes de la cabeza o del tronco, con acentuado entorpecimiento de los movimientos, de 30 a 50%
-
-400\. Escoliosis o cifosis extensa y permanente o rigidez permanente en rectitud de la columna,
-
-de 30 a 40%
-
-401\. Saliente o depresión localizada, con dolores y entorpecimiento de los movimientos,
-
-de 20 a 30%
-
-Secuelas de traumatismos con lesión medular
-
-402\. Paraplegia 100%
-
-403\. Paraparesia de los miembros inferiores, si la marcha es imposible, de 70 a 90%
-
-404\. Si la marcha es posible con muletas, de 50 a 70%
-
-Clasificaciones diversas
-
-405\. Por enajenación mental que sea resultado de algún accidente o riesgo de trabajo 100%
-
-406\. La pérdida de ambos ojos, ambos brazos arriba del codo, desarticulación de la cadera de ambos lados o de un brazo arriba del codo y de una pierna arriba de la rodilla del mismo lado, lesión medular por cualquier traumatismo que produzca parálisis completa de los miembros inferiores con trastornos esfinterianos, enajenación mental incurable, se considerarán como incapacidad total
-
-permanente 100%
-
-407\. Las deformaciones puramente estéticas, según su carácter, serán indemnizadas a juicio de la Junta de Conciliación y Arbitraje que corresponda, sólo en el caso de que en alguna forma disminuyan la capacidad de trabajo de la persona lesionada, teniendo en cuenta la profesión a que se dedica.
-
-408\. Las lesiones producidas por la acción de la energía radiante, serán indemnizadas de acuerdo con las modalidades especiales de la incapacidad, de 20 a 100%
-
-409\. Las cicatrices producidas por amplias quemaduras de los tegumentos serán indemnizadas tomando en cuenta la extensión y la profundidad de las zonas cicatrizales, independientemente de las perturbaciones funcionales que acarreen en los segmentos adyacentes.
+En todo caso la Secretaría del Trabajo y Previsión Social y la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo deberán tomar en cuenta el progreso y los avances de la medicina del trabajo y para tal efecto podrán auxiliarse de los técnicos y médicos especialistas que para ello se requiera, informando al Poder Legislativo.
 
 ##### Artículo 515.
 
@@ -5882,7 +5314,7 @@ II. Contra los trabajadores incorporados al servicio militar en tiempo de guerra
 
 La prescripción se interrumpe:
 
-I. Por la sola presentación de la demanda o de cualquiera promoción ante la Junta de Conciliación o ante la de Conciliación y Arbitraje, independientemente de la fecha de la notificación. No es obstáculo para la interrupción que la Junta sea incompetente; y
+I. Por la sola presentación de la demanda o de cualquiera promoción ante la Junta de Conciliación y Arbitraje, independientemente de la fecha de la notificación. No es obstáculo para la interrupción que la Junta sea incompetente; y
 
 II. Si la persona a cuyo favor corre la prescripción reconoce el derecho de aquella contra quien prescribe, de palabra, por escrito o por hechos indudables.
 
@@ -5908,7 +5340,7 @@ III. A las autoridades de las Entidades Federativas, y a sus Direcciones o Depar
 
 IV. A la Procuraduría de la Defensa del Trabajo;
 
-V. Al Servicio Nacional del Empleo, Capacitación y Adiestramiento;
+V. Al Servicio Nacional de Empleo;
 
 VI. A la Inspección del Trabajo;
 
@@ -5916,7 +5348,7 @@ VII. A la Comisión Nacional de los Salarios Mínimos;
 
 VIII. A la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas;
 
-IX. A las Juntas Federales y Locales de Conciliación;
+IX. Se deroga;
 
 X. A la Junta Federal de Conciliación y Arbitraje;
 
@@ -5930,7 +5362,11 @@ La Secretaría del Trabajo y Previsión Social y los Departamentos y Direcciones
 
 ##### Artículo 525.
 
-La Secretaría del Trabajo y Previsión Social organizará un Instituto del Trabajo, para la preparación y elevación del nivel cultural del personal técnico y administrativo.
+(Se deroga).
+
+##### Artículo 525 Bis.
+
+Las Juntas Federal y Locales de Conciliación y Arbitraje establecerán, con sujeción a las disposiciones presupuestales aplicables, un Servicio Profesional de Carrera para el ingreso, promoción, permanencia, evaluación de desempeño, separación y retiro de sus servidores públicos.
 
 ##### Artículo 526.
 
@@ -5942,7 +5378,7 @@ Compete a la Secretaría de Hacienda y Crédito Público, la intervención que l
 
 La aplicación de las normas de trabajo corresponde a las autoridades federales, cuando se trate de:
 
-I. Ramas Industriales:
+I. Ramas industriales y de servicios:
 
 1\. Textil;
 
@@ -5982,15 +5418,17 @@ I. Ramas Industriales:
 
 19\. Maderera básica que comprende la producción de aserradero y la fabricación de triplay o aglutinados de madera;
 
-20\. Vidriera, exclusivamente por lo que toca a la fabricación de vidrio plano, liso o labrado, o de envases de vidrio; y,
+20\. Vidriera, exclusivamente por lo que toca a la fabricación de vidrio plano, liso o labrado o de envases de vidrio;
 
-21\. Tabacalera, que comprende el beneficio o fabricación de productos de tabaco.
+21\. Tabacalera, que comprende el beneficio o fabricación de productos de tabaco; y
+
+22\. Servicios de banca y crédito.
 
 II. Empresas:
 
 1\. Aquéllas que sean administradas en forma directa o descentralizada por el Gobierno Federal;
 
-2\. Aquéllas que actúen en virtud de un contrato o concesión federal y las industrias que les sean conexas; y,
+2\. Aquellas que actúen en virtud de un contrato, o concesión federal y las industrias que les sean conexas. Para los efectos de esta disposición, se considera que actúan bajo concesión federal aquellas empresas que tengan por objeto la administración y explotación de servicios públicos o bienes del Estado en forma regular y continua, para la satisfacción del interés colectivo, a través de cualquier acto administrativo emitido por el gobierno federal, y
 
 3\. Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
 
@@ -6012,13 +5450,13 @@ De conformidad con lo dispuesto por el artículo 527-A, las autoridades de las E
 
 I. Poner a disposición de las Dependencias del Ejecutivo Federal competentes para aplicar esta Ley, la información que éstas les soliciten para estar en aptitud de cumplir sus funciones;
 
-II. Participar en la integración y funcionamiento del respectivo Consejo Consultivo Estatal de Capacitación y Adiestramiento;
+II. Participar en la integración y funcionamiento del respectivo Consejo Consultivo Estatal del Servicio Nacional de Empleo;
 
-III. Participar en la integración y funcionamiento de la correspondiente Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
+III. Participar en la integración y funcionamiento de la correspondiente Comisión Consultiva Estatal de Seguridad y Salud en el Trabajo;
 
 IV. Reportar a la Secretaría del Trabajo y Previsión Social las violaciones que cometan los patrones en materia de seguridad e higiene y de capacitación y adiestramiento e intervenir en la ejecución de las medidas que se adopten para sancionar tales violaciones y para corregir las irregularidades en las empresas o establecimientos sujetos a jurisdicción local;
 
-V. Coadyuvar con los correspondientes Comités Nacionales de Capacitación y Adiestramiento;
+V. Coadyuvar con los correspondientes Comités Nacionales de Productividad y Capacitación;
 
 VI. Auxiliar en la realización de los trámites relativos a constancias de habilidades laborales; y,
 
@@ -6036,6 +5474,12 @@ II. Interponer los recursos ordinarios y extraordinarios procedentes, para la de
 
 III. Proponer a las partes interesadas soluciones amistosas para el arreglo de sus conflictos y hacer constar los resultados en actas autorizadas.
 
+##### Artículo 530 Bis.
+
+Para el desarrollo de sus funciones, la Procuraduría de la Defensa del Trabajo podrá citar a los patrones o sindicatos a juntas de avenimiento o conciliatorias, apercibiéndolos que de no comparecer a dichas diligencias, se les impondrá la medida de apremio a que se refiere la fracción I del artículo 731 de esta Ley.
+
+Si el solicitante del servicio es quien no asiste a la junta de avenimiento o conciliatoria, se le tendrá por desistido de su petición sin responsabilidad para la Procuraduría, salvo que acredite que existió causa justificada para no comparecer.
+
 ##### Artículo 531.
 
 La Procuraduría de la Defensa del Trabajo se integrará con un Procurador General y con el número de Procuradores Auxiliares que se juzgue necesario para la defensa de los intereses de los trabajadores. Los nombramientos se harán por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe de Gobierno del Distrito Federal.
@@ -6050,13 +5494,17 @@ II. Tener título legalmente expedido de licenciado en derecho y una práctica p
 
 III. Haberse distinguido en estudios de derecho del trabajo y de la seguridad social;
 
-IV. No pertenecer al estado eclesiástico; y
+IV. No ser ministro de culto; y
 
 V. No haber sido condenado por delito intencional sancionado con pena corporal.
 
 ##### Artículo 533.
 
-Los Procuradores Auxiliares deberán satisfacer los requisitos señalados en las fracciones I, IV y V del artículo anterior y haber terminado los estudios correspondientes al tercer año o al sexto semestre de la carrera de licenciado en derecho, por lo menos.
+Los Procuradores Auxiliares deberán satisfacer los requisitos señalados en las fracciones I, IV y V del artículo anterior y tener título de abogado o licenciado en derecho y haber obtenido la patente para ejercer la profesión.
+
+##### Artículo 533 Bis.
+
+El personal jurídico de la Procuraduría está impedido para actuar como apoderado, asesor o abogado patrono en asuntos particulares en materia de trabajo, en tanto sean servidores públicos al servicio de ésta.
 
 ##### Artículo 534.
 
@@ -6070,23 +5518,29 @@ Las Autoridades están obligadas a proporcionar a la Procuraduría de la Defensa
 
 Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Procuraduría de la Defensa del Trabajo.
 
-### CAPITULO IV · Del servicio nacional del empleo, capacitación y adiestramiento
+### Capítulo IV · Del Servicio Nacional de Empleo
 
 ##### Artículo 537.
 
-El Servicio Nacional del Empleo, Capacitación y Adiestramiento tendrá los siguientes objetivos:
+El Servicio Nacional de Empleo tendrá los siguientes objetivos:
 
-I. Estudiar y promover la generación de empleos;
+I. Estudiar y promover la operación de políticas públicas que apoyen la generación de empleos;
 
-II. Promover y supervisar la colocación de los trabajadores;
+II. Promover y diseñar mecanismos para el seguimiento a la colocación de los trabajadores;
 
-III. Organizar, promover y supervisar la capacitación y el adiestramiento de los trabajadores; y,
+III. Organizar, promover y supervisar políticas, estrategias y programas dirigidos a la capacitación y el adiestramiento de los trabajadores;
 
-IV. Registrar las constancias de habilidades laborales.
+IV. Registrar las constancias de habilidades laborales;
+
+V. Vincular la formación laboral y profesional con la demanda del sector productivo;
+
+VI. Diseñar, conducir y evaluar programas específicos para generar oportunidades de empleo para jóvenes y grupos en situación vulnerable; y
+
+VII. Coordinar con las autoridades competentes el régimen de normalización y certificación de competencia laboral.
 
 ##### Artículo 538.
 
-El Servicio Nacional del Empleo, Capacitación y Adiestramiento estará a cargo de la Secretaría del Trabajo y Previsión Social, por conducto de las unidades administrativas de la misma, a las que competan las funciones correspondientes, en los términos de su Reglamento Interior.
+El Servicio Nacional de Empleo estará a cargo de la Secretaría del Trabajo y Previsión Social, por conducto de las unidades administrativas de la misma, a las que competan las funciones correspondientes, en los términos de su Reglamento Interior.
 
 ##### Artículo 539.
 
@@ -6096,51 +5550,51 @@ I. En materia de promoción de empleos:
 
 a) Practicar estudios para determinar las causas del desempleo y del subempleo de la mano de obra rural y urbana;
 
-b) Analizar permanentemente el mercado de trabajo, estimando su volumen y sentido de crecimiento;
+b) Analizar permanentemente el mercado de trabajo, a través de la generación y procesamiento de información que dé seguimiento a la dinámica del empleo, desempleo y subempleo en el país;
 
-c) Formular y actualizar permanentemente el Catálogo Nacional de Ocupaciones, en coordinación con la Secretaría de Educación Pública;
+c) Formular y actualizar permanentemente el Sistema Nacional de Ocupaciones, en coordinación con la Secretaría de Educación Pública y demás autoridades competentes;
 
-d) Promover, directa o indirectamente, el aumento de las oportunidades de empleo;
+d) Promover la articulación entre los actores del mercado de trabajo para mejorar las oportunidades de empleo;
 
-e) Practicar estudios y formular planes y proyectos para impulsar la ocupación en el país, así como procurar su correcta ejecución;
+e) Elaborar informes y formular programas para impulsar la ocupación en el país, así como procurar su ejecución;
 
-f) Proponer lineamientos para orientar la formación profesional hacia las áreas con mayor demanda de mano de obra;
+f) Orientar la formación profesional hacia las áreas con mayor demanda de mano de obra;
 
 g) Proponer la celebración de convenios en materia de empleo, entre la Federación y las Entidades Federativas; y,
 
-h) En general, realizar todas aquéllas que las leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
+h) En general, realizar todas las que las Leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
 
 II. En materia de colocación de trabajadores:
 
-a) Encauzar a los demandantes de trabajo hacia aquellas personas que requieran sus servicios, dirigiendo a los solicitantes más adecuados, por su preparación y aptitudes, hacia los empleos que les resulten más idóneos;
+a) Orientar a los buscadores de empleo hacia las vacantes ofertadas por los empleadores con base a su formación y aptitudes;
 
 b) Autorizar y registrar, en su caso, el funcionamiento de agencias privadas que se dediquen a la colocación de personas;
 
 c) Vigilar que las entidades privadas a que alude el inciso anterior, cumplan las obligaciones que les impongan esta ley, sus reglamentos y las disposiciones administrativas de las autoridades laborales;
 
-d) Intervenir, en coordinación con las respectivas Unidades Administrativas de las Secretarías de Gobernación, de Patrimonio y Fomento Industrial, de Comercio y de Relaciones Exteriores, en la contratación de los nacionales que vayan a prestar sus servicios en el extranjero;
+d) Intervenir, en coordinación con las Secretarías de Gobernación, Economía y Relaciones Exteriores, dentro del ámbito de sus respectivas competencias, en la contratación de los nacionales que vayan a prestar sus servicios al extranjero;
 
 e) Proponer la celebración de convenios en materia de colocación de trabajadores, entre la Federación y las Entidades Federativas; y,
 
-f) En general, realizar todas aquéllas que las leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
+f) En general, realizar todas las que las Leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
 
 III. En materia de capacitación o adiestramiento de trabajadores:
 
-a) Cuidar de la oportuna constitución y el funcionamiento de las Comisiones Mixtas de Capacitación y Adiestramiento;
+a) (Se deroga).
 
-b) Estudiar y, en su caso, sugerir, la expedición de Convocatorias para formar Comités Nacionales de Capacitación y Adiestramiento, en aquellas ramas industriales o actividades en que lo juzgue conveniente; así como la fijación de las bases relativas a la integración y funcionamiento de dichos Comités;
+b) Emitir Convocatorias para formar Comités Nacionales de Capacitación, Adiestramiento y Productividad en las ramas industriales o actividades en que lo juzgue conveniente, así como fijar las bases relativas a la integración y el funcionamiento de dichos comités;
 
-c) Estudiar y, en su caso, sugerir, en relación con cada rama industrial o actividad, la expedición de criterios generales que señalen los requisitos que deban observar los planes y programas de capacitación y adiestramiento, \_oyendo la opinión del Comité Nacional de Capacitación y Adiestramiento que corresponda;
+c) Estudiar y, en su caso, sugerir, en relación con cada rama industrial o actividad, la expedición de criterios generales idóneos para los planes y programas de capacitación y adiestramiento, oyendo la opinión del Comité Nacional de Capacitación, Adiestramiento y Productividad que corresponda;
 
-d) Autorizar y registrar, en los términos del artículo 153-C, a las instituciones o escuelas que deseen impartir capacitación y adiestramiento a los trabajadores; supervisar su correcto desempeño; y, \_en su caso, revocar la autorización y cancelar el registro concedido;
+d) Autorizar y registrar, en los términos del artículo 153-C, a las instituciones, escuelas u organismos especializados, así como a los instructores independientes que deseen impartir formación, capacitación o adiestramiento a los trabajadores; supervisar su correcto desempeño; y, en su caso, revocar la autorización y cancelar el registro concedido;
 
-e) Aprobar, modificar o rechazar, según el caso, los planes y programas de capacitación o adiestramiento que los patrones presenten;
+e) (Se deroga).
 
 f) Estudiar y sugerir el establecimiento de sistemas generales que permitan, capacitar o adiestrar a los trabajadores, conforme al procedimiento de adhesión, convencional a que se refiere el artículo 153-B;
 
 g) Dictaminar sobre las sanciones que deban imponerse por infracciones a las normas contenidas en el Capítulo III Bis del Título Cuarto;
 
-h) Establecer coordinación con la Secretaría de Educación Pública para implantar planes o programas sobre capacitación y adiestramiento para el trabajo y, en su caso, para la expedición de certificados conforme a lo dispuesto en esta Ley, en los ordenamientos educativos y demás disposiciones en vigor;
+h) Establecer coordinación con la Secretaría de Educación Pública para sugerir, promover y organizar planes o programas sobre capacitación y adiestramiento para el trabajo y, en su caso, para la expedición de certificados, conforme a lo dispuesto en esta Ley, en los ordenamientos educativos y demás disposiciones en vigor; e
 
 i) En general, realizar todas aquéllas que las leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
 
@@ -6150,25 +5604,37 @@ a) Establecer registros de constancias relativas a trabajadores capacitados o ad
 
 b) En general, realizar todas aquéllas que las leyes y reglamentos confieran a la Secretaría del Trabajo y Previsión Social en esta materia.
 
+V. En materia de vinculación de la formación laboral y profesional con la demanda estratégica del sector productivo, proponer e instrumentar mecanismos para vincular la formación profesional con aquellas áreas prioritarias para el desarrollo regional y nacional, así como con aquellas que presenten índices superiores de demanda.
+
+VI. En materia de normalización y certificación de competencia laboral, conjuntamente con la Secretaría de Educación Pública y demás autoridades federales competentes:
+
+a) Determinar los lineamientos generales aplicables en toda la República para la definición de aquellos conocimientos, habilidades o destrezas susceptibles de certificación, así como de los procedimientos de evaluación correspondientes. Para la fijación de dichos lineamientos, se establecerán procedimientos que permitan considerar las necesidades, propuestas y opiniones de los diversos sectores productivos; y
+
+b) Establecer un régimen de certificación, aplicable a toda la República, conforme al cual sea posible acreditar conocimientos, habilidades o destrezas, intermedios o terminales, de manera parcial y acumulativa, que requiere un individuo para la ejecución de una actividad productiva, independientemente de la forma en que hayan sido adquiridos.
+
 ##### Artículo 539-A.
 
-Para el cumplimiento de sus funciones en relación con las empresas o establecimientos que pertenezcan a ramas industriales o actividades de jurisdicción federal, la Secretaría del Trabajo y Previsión Social será asesorada por un Consejo Consultivo integrado por representantes del Sector Público, de las organizaciones nacionales de trabajadores y de las organizaciones nacionales de patrones, a razón de cinco miembros por cada uno de ellos con sus respectivos suplentes.
+Para el cumplimiento de sus funciones, en relación con las empresas o establecimientos que pertenezcan a ramas industriales o actividades de jurisdicción federal, la Secretaría del Trabajo y Previsión Social será asesorada por un Consejo Consultivo del Servicio Nacional de Empleo, integrado por representantes del sector público, de las organizaciones nacionales de trabajadores y de las organizaciones nacionales de patrones, a razón de cinco miembros por cada uno de ellos, con sus respectivos suplentes.
 
 Por el Sector Público participarán sendos representantes de la Secretaría del Trabajo y Previsión Social; de la Secretaría de Educación Pública; de la Secretaría de Economía, de la Secretaría de Energía, y del Instituto Mexicano del Seguro Social.
 
-Los representantes de las organizaciones obreras y de las patronales, serán designados conforme a las bases que expida la Secretaría del Trabajo y Previsión Social.
+Los representantes de las organizaciones obreras y de los patrones serán designados conforme a las bases que expida la Secretaría del Trabajo y Previsión Social.
 
-El Consejo Consultivo será presidido por el Secretario del Trabajo y Previsión Social; fungirá como Secretario del mismo, el funcionario que determine el Titular de la propia Secretaría; y su funcionamiento se regirá por el Reglamento que expida el propio Consejo.
+El Secretario del Trabajo y Previsión Social podrá invitar a participar en el Consejo Consultivo del Servicio Nacional de Empleo, con derecho a voz pero sin voto, a cinco personas que por su trayectoria y experiencia puedan hacer aportaciones en la materia.
+
+El Consejo Consultivo será presidido por el Secretario del Trabajo y Previsión Social, fungirá como secretario del mismo el funcionario que determine el titular de la propia Secretaría y su funcionamiento se regirá por el reglamento que expida el propio Consejo.
 
 ##### Artículo 539-B.
 
-Cuando se trate de empresas o establecimientos sujetos a jurisdicción local y para la realización de las actividades a que se contraen las fracciones III y IV del artículo 539, la Secretaría del Trabajo y Previsión Social será asesorada por Consejos Consultivos Estatales de Capacitación y Adiestramiento.
+Cuando se trate de empresas o establecimientos sujetos a jurisdicción local y para la realización de las actividades a que se contraen las fracciones III y IV del artículo 539, la Secretaría del Trabajo y Previsión Social será asesorada por Consejos Consultivos Estatales y del Distrito Federal del Servicio Nacional de Empleo.
 
-Los Consejos Consultivos Estatales estarán formados por el Gobernador de la Entidad Federativa correspondiente, quien los presidirá; sendos representantes de la Secretaría del Trabajo y Previsión Social, de la Secretaría de Educación Pública y del Instituto Mexicano del Seguro Social; tres representantes de las organizaciones locales de trabajadores y tres representantes de las organizaciones patronales de la Entidad. El representante de la Secretaría del Trabajo y Previsión Social fungirá como Secretario del Consejo.
+Los Consejos Consultivos Estatales y del Distrito Federal del Servicio Nacional de Empleo estarán formados por el Gobernador de la Entidad Federativa correspondiente o por el Jefe de Gobierno del Distrito Federal, quien los presidirá; sendos representantes de la Secretaría del Trabajo y Previsión Social, de la Secretaría de Educación Pública y del Instituto Mexicano del Seguro Social; tres representantes de las organizaciones locales de trabajadores y tres representantes de las organizaciones patronales de la Entidad. El representante de la Secretaría del Trabajo y Previsión Social fungirá como Secretario del Consejo.
 
-La Secretaría del Trabajo y Previsión Social y el Gobernador de la Entidad Federativa que corresponda expedirán, conjuntamente, las bases conforme a las cuales deban designarse los representantes de los trabajadores y de los patrones en los Consejos Consultivos mencionados y formularán, al efecto, las invitaciones que se requieran.
+La Secretaría del Trabajo y Previsión Social y el Gobernador de la Entidad Federativa que corresponda o el Jefe de Gobierno del Distrito Federal expedirán, conjuntamente, las bases conforme a las cuales deban designarse los representantes de los trabajadores y de los patrones en los Consejos Consultivos mencionados y formularán, al efecto, las invitaciones que se requieran.
 
-Los Consejos Consultivos se sujetarán en lo que se refiere a su funcionamiento interno, al reglamento que al efecto expida cada una de ellos.
+El Secretario del Trabajo y Previsión Social y el Gobernador de la Entidad Federativa o el Jefe de Gobierno del Distrito Federal, podrán invitar a participar en los Consejos Consultivos Estatales y del Distrito Federal del Servicio Nacional de Empleo, respectivamente, a tres personas con derecho a voz pero sin voto, que por su trayectoria y experiencia puedan hacer aportaciones en la materia.
+
+Los Consejos Consultivos se sujetarán en lo que se refiere a su funcionamiento interno, al reglamento que al efecto expida cada uno de ellos.
 
 ##### Artículo 539-C.
 
@@ -6218,7 +5684,11 @@ IV. Exigir la presentación de libros, registros u otros documentos, a que oblig
 
 V. Sugerir se corrijan las violaciones a las condiciones de trabajo;
 
-VI. Sugerir se eliminen los defectos comprobados en las instalaciones y métodos de trabajo cuando constituyan una violación de las normas de trabajo o un peligro para la seguridad o salud de los trabajadores, y la adopción de las medidas de aplicación inmediata en caso de peligro inminente;
+VI. Disponer que se eliminen los defectos comprobados en las instalaciones y métodos de trabajo cuando constituyan una violación de las normas de trabajo o un peligro para la seguridad o salud de los trabajadores;
+
+VI Bis. Ordenar, previa consulta con la Dirección General de Inspección Federal del Trabajo, la adopción de las medidas de seguridad de aplicación inmediata en caso de peligro inminente para la vida, la salud o la integridad de las personas. En este caso, si así son autorizados, los Inspectores deberán decretar la restricción de acceso o limitar la operación en las áreas de riesgo detectadas. En este supuesto, deberán dar copia de la determinación al patrón para los efectos legales procedentes.
+
+Dentro de las 24 horas siguientes, los Inspectores del Trabajo, bajo su más estricta responsabilidad, harán llegar un informe detallado por escrito a la Secretaría del Trabajo y Previsión Social, con copia del mismo al patrón.
 
 VII. Examinar las substancias y materiales utilizados en las empresas y establecimientos cuando se trate de trabajos peligrosos; y
 
@@ -6264,13 +5734,13 @@ Para ser Inspector del Trabajo se requiere:
 
 I. Ser mexicano, mayor de edad, y estar en pleno ejercicio de sus derechos;
 
-II. Haber terminado la educación secundaria;
+II. Haber terminado el bachillerato o sus equivalentes;
 
 III. No pertenecer a las organizaciones de trabajadores o de patrones;
 
 IV. Demostrar conocimientos suficientes de derecho del trabajo y de la seguridad social y tener la preparación técnica necesaria para el ejercicio de sus funciones;
 
-V. No pertenecer al estado eclesiástico; y
+V. No ser ministro de culto; y
 
 VI. No haber sido condenado por delito intencional sancionado con pena corporal.
 
@@ -6330,7 +5800,7 @@ II. Poseer título legalmente expedido de licenciado en derecho o en economía;
 
 III. Haberse distinguido en estudios de derecho del trabajo y económicos;
 
-IV. No pertenecer al estado eclesiástico; y
+IV. No ser ministro de culto; y
 
 V. No haber sido condenado por delito intencional sancionado con pena corporal.
 
@@ -6370,7 +5840,7 @@ I. Ser mexicanos, mayores de treinta años de edad y estar en pleno ejercicio de
 
 II. Poseer título legalmente expedido de licenciado en derecho o en economía;
 
-III. No pertenecer al estado eclesiástico; y
+III. No ser ministro de culto; y
 
 IV. No haber sido condenados por delito intencional sancionado con pena corporal.
 
@@ -6380,7 +5850,7 @@ Los representantes de los trabajadores y de los patrones deberán satisfacer los
 
 I. Ser mexicanos, mayores de veinticinco años y estar en pleno ejercicio de sus derechos;
 
-II. No pertenecer al estado eclesiástico; y
+II. No ser ministro de culto; y
 
 III. No haber sido condenados por delito intencional sancionado con pena corporal.
 
@@ -6428,7 +5898,7 @@ I. Ser mexicanos, mayores de veinticinco años y estar en pleno ejercicio de sus
 
 II. Poseer título legalmente expedido de licenciado en derecho o en economía;
 
-III. No pertenecer al estado eclesiástico; y
+III. No ser ministro de culto; y
 
 IV. No haber sido condenados por delito intencional sancionado con pena corporal.
 
@@ -6790,123 +6260,89 @@ En los procedimientos a que se refiere este capítulo se observarán las normas 
 
 ##### Artículo 591.
 
-Las Juntas Federales de Conciliación tendrán las funciones siguientes:
-
-I. Actuar como instancia conciliatoria potestativa para los trabajadores y los patrones;
-
-II. Actuar como Juntas de Conciliación y Arbitraje, cuando se trate de conflictos a que se refiere el artículo 600, fracción IV; y
-
-III. Las demás que le confieran las leyes.
+(Se deroga).
 
 ##### Artículo 592.
 
-Las Juntas Federales de Conciliación funcionarán permanentemente y tendrán la jurisdicción territorial que les asigne la Secretaría del Trabajo y Previsión Social. No funcionarán estas Juntas en los lugares en que está instalada la Junta Federal de Conciliación y Arbitraje.
-
-Cuando la importancia y el volumen de los conflictos de trabajo en una demarcación territorial no amerite el funcionamiento de una Junta permanente, funcionará una accidental.
+(Se deroga).
 
 ##### Artículo 593.
 
-Las Juntas Federales de Conciliación Permanente se integrarán con un Representante del Gobierno, nombrado por la Secretaría del Trabajo y Previsión Social, que fungirá como Presidente y con un representante de los trabajadores sindicalizados y uno de los patrones, designados de conformidad con la convocatoria que al efecto expida la misma Secretaría. Sólo a falta de trabajadores sindicalizados la elección se hará por los trabajadores libres.
+(Se deroga).
 
 ##### Artículo 594.
 
-Por cada representante propietario de los trabajadores y de los patrones se designará un suplente.
+(Se deroga).
 
 ##### Artículo 595.
 
-Las Juntas Federales de Conciliación Accidentales se integrarán y funcionarán cada vez que sea necesario, de conformidad con lo dispuesto en el capítulo IV del Título Catorce.
+(Se deroga).
 
 ##### Artículo 596.
 
-Para ser Presidente de las Juntas Federales de Conciliación Permanente se requiere:
-
-I. Ser mexicano, mayor de edad y estar en pleno ejercicio de sus derechos;
-
-II. Haber terminado la educación secundaria;
-
-III. Demostrar conocimientos suficientes de derecho del trabajo y de la seguridad social;
-
-IV. No pertenecer a las organizaciones de trabajadores o de patrones;
-
-V. No pertenecer al estado eclesiástico; y
-
-VI. No haber sido condenado por delito intencional sancionado con pena corporal.
+(Se deroga).
 
 ##### Artículo 597.
 
-Los Presidentes de las Juntas Federales de Conciliación Accidentales deberán satisfacer los requisitos señalados en el artículo anterior, fracciones I, IV, V y VI y haber terminado la educación obligatoria.
+(Se deroga).
 
 ##### Artículo 598.
 
-Los representantes de los trabajadores y de los patrones deberán satisfacer los requisitos siguientes:
-
-I. Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
-
-II. Haber terminado la educación obligatoria;
-
-III. No pertenecer al estado eclesiástico; y
-
-IV. No haber sido condenados por delito intencional sancionado con pena corporal.
+(Se deroga).
 
 ##### Artículo 599.
 
-No podrán se representantes de los trabajadores o de los patrones en las Juntas Federales de Conciliación:
-
-I. En las Permanentes, los directores, gerentes o administradores de las empresas y los miembros de la directiva de los sindicatos de las ramas de la industria representadas en las Juntas; y
-
-II. En las Accidentales, los directores, gerentes o administradores de las empresas y los miembros de la directiva de los sindicatos afectados.
+(Se deroga).
 
 ##### Artículo 600.
 
-Las Juntas Federales de Conciliación tienen las facultades y obligaciones siguientes:
-
-I. Procurar un arreglo conciliatorio de los conflictos de trabajo;
-
-II. Recibir las pruebas que los trabajadores o los patrones juzguen conveniente rendir ante ellas, en relación con las acciones y excepciones que pretendan deducir ante la Junta Federal de Conciliación y Arbitraje. El término para la recepción de las pruebas no podrá exceder de diez días.
-
-Terminada la recepción de las pruebas o transcurrido el término a que se refiere el párrafo anterior, la Junta remitirá el expediente a la Junta Especial de la jurisdicción territorial a que esté asignada si la hubiere, y si no, a la Junta Federal de Conciliación y Arbitraje;
-
-III. Recibir las demandas que les sean presentadas, remitiéndolas a la Junta Especial de la jurisdicción territorial a que esté asignada si la hubiere, y si no a la Junta Federal de Conciliación y Arbitraje;
-
-IV. Actuar como Juntas de Conciliación y Arbitraje para conocer y resolver los conflictos que tengan por objeto el cobro de prestaciones cuyo monto no exceda del importe de tres meses de salario;
-
-V. Cumplimentar los exhortos y practicar las diligencias que les encomienden otras Juntas Federales o Locales de Conciliación y las Juntas Federales y Locales del Conciliación y Arbitraje; y
-
-VI. Denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar el salario mínimo general a uno o varios de sus trabajadores;
-
-VII. De ser procedente, aprobar los convenios que les sean sometidos por las partes; y
-
-VIII. Las demás que les confieran las leyes.
+(Se deroga).
 
 ### CAPITULO XI · Juntas locales de conciliación
 
 ##### Artículo 601.
 
-En las Entidades Federativas funcionarán Juntas Locales de Conciliación, que se instalarán en los Municipios o zonas económicas que determine el Gobernador.
+(Se deroga).
 
 ##### Artículo 602.
 
-No funcionarán las Juntas de Conciliación en los Municipios o zonas económicas en que estén instaladas Juntas de Conciliación y Arbitraje.
+(Se deroga).
 
 ##### Artículo 603.
 
-Son aplicables a las Juntas Locales de Conciliación las disposiciones contenidas en el capítulo anterior. Las atribuciones asignadas a la Secretaría del Trabajo y Previsión Social se ejercerán por los Gobiernos de los Estados y Territorios.
+(Se deroga).
 
 ### CAPITULO XII · Junta federal de conciliación y arbitraje
 
 ##### Artículo 604.
 
-Corresponde a la Junta Federal de Conciliación y Arbitraje el conocimiento y resolución de los conflictos de trabajo que se susciten entre trabajadores y patrones, sólo entre aquéllos o sólo entre éstos, derivados de las relaciones de trabajo o de hechos íntimamente relacionados con ellas, salvo lo dispuesto en el artículo 600 fracción IV.
+Corresponden a la Junta Federal de Conciliación y Arbitraje, en el ámbito de su competencia, el conocimiento y la resolución de los conflictos de trabajo que se susciten entre trabajadores y patrones, sólo entre aquéllos o sólo entre éstos, derivados de las relaciones de trabajo o de hechos relacionados con ellas.
 
 ##### Artículo 605.
 
 La Junta se integrará con un representante del Gobierno y con representantes de los trabajadores y de los patrones designados por ramas de la industria o de otras actividades, de conformidad con la clasificación y convocatoria que expida la Secretaría del Trabajo y Previsión Social.
 
-Habrá uno o varios secretarios generales según se juzgue conveniente.
+Habrá un secretario general de acuerdos y, de ser necesario, otros secretarios generales y secretarios auxiliares, según se juzgue conveniente, de conformidad con lo que disponga el Reglamento Interior de la Junta.
+
+La designación y separación del personal jurídico de la Junta se realizará conforme a los reglamentos que apruebe el Pleno en materia del servicio profesional de carrera y de evaluación del desempeño de los Presidentes de las Juntas Especiales.
+
+El Presidente de la Junta será responsable del cumplimiento estricto de este precepto y de las disposiciones aplicables.
+
+##### Artículo 605 Bis.
+
+El secretario general de acuerdos actuará como secretario del Pleno. Es el encargado de formular el orden del día que determine el Presidente y de levantar el acta de la sesión, que será aprobada antes de su terminación.
+
+El secretario general de acuerdos auxiliará al Presidente en las funciones que le competen.
+
+Los secretarios generales de la Junta, de acuerdo a sus atribuciones, son los encargados de organizar, vigilar y evaluar el desarrollo, resolución y control oportuno y eficiente de los procedimientos que se llevan a cabo en las Juntas Especiales y en las áreas a su cargo, cuidando que se desarrollen de conformidad con lo dispuesto en los ordenamientos legales aplicables, así como de la evaluación del desempeño de los servidores públicos a los que se refiere la fracción I del artículo 614 de la presente Ley.
+
+Los secretarios generales, vigilarán la tramitación de los procedimientos de su competencia a través de los Auxiliares y Secretarios Auxiliares que les sean adscritos, quienes, bajo su responsabilidad, deberán dictar en debido tiempo y forma, los acuerdos que procedan para asegurar la continuidad del procedimiento.
+
+En el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje se establecerán las competencias y responsabilidades respectivas.
 
 ##### Artículo 606.
 
-La Junta funcionará en Pleno o en Juntas Especiales, de conformidad con la clasificación de las ramas de la industria y de las actividades a que se refiere el artículo anterior.
+La Junta funcionará en Pleno o en Juntas Especiales, de conformidad con la clasificación de las ramas de la industria y de las actividades a que se refiere el artículo 605.
 
 La Secretaría del Trabajo y Previsión Social, cuando lo requieran las necesidades del trabajo y del capital, podrá establecer Juntas Especiales, fijando el lugar de su residencia y su competencia territorial.
 
@@ -6914,7 +6350,9 @@ Las Juntas Especiales establecidas fuera de la capital de la República conforme
 
 ##### Artículo 607.
 
-El Pleno se integrará con el Presidente de la Junta y con la totalidad de los representantes de los trabajadores y de los patrones.
+El Pleno se integrará con el Presidente de la Junta y con todos los representantes de los trabajadores y de los patrones ante las Juntas Especiales del Distrito Federal.
+
+Las resoluciones y sesiones del Pleno se regirán por lo establecido en el artículo 615 de esta Ley.
 
 ##### Artículo 608.
 
@@ -6930,17 +6368,19 @@ II. Con los respectivos representantes de los trabajadores y de los patrones.
 
 ##### Artículo 610.
 
-Durante la tramitación de los juicios, hasta formular el dictamen a que se refieren los artículos 771 y 808, el Presidente de la Junta y los de las Juntas Especiales serán substituidos por Auxiliares, pero intervendrán personalmente en la votación de las resoluciones siguientes:
+Durante la tramitación de los juicios, hasta formular el proyecto de laudo a que se refieren los artículos 885 y 916 de esta Ley, el Presidente de la Junta Federal de Conciliación y Arbitraje y los de las Juntas Especiales podrán ser sustituidos por auxiliares, pero intervendrán personalmente en la votación de las resoluciones siguientes:
 
 I. Competencia;
 
-II. Nulidad de actuaciones;
+II. Personalidad;
 
-III. Substitución de patrón;
+III. Nulidad de actuaciones;
 
-IV. En los casos del artículo 727; y
+IV. Sustitución de patrón;
 
-V. Cuando se trate de conflictos colectivos de naturaleza económica, en la que designe perito y en la que ordene la práctica de las diligencias a que se refiere el artículo 806.
+V. En los casos del artículo 772 de esta Ley; y
+
+VI. Cuando se trate de conflictos colectivos de naturaleza económica, en la que designe perito y en la que ordene la práctica de diligencias a que se refiere el artículo 913.
 
 ##### Artículo 611.
 
@@ -6948,19 +6388,21 @@ En el Pleno y en las Juntas Especiales habrá el número de Auxiliares que se ju
 
 ##### Artículo 612.
 
-El Presidente de la Junta será nombrado por el Presidente de la República, percibirá los mismos emolumentos que correspondan a los Ministros de la Suprema Corte de Justicia de la Nación y deberá satisfacer los requisitos siguientes:
+El Presidente de la Junta Federal de Conciliación y Arbitraje será nombrado por el Presidente de la República, y deberá satisfacer los requisitos siguientes:
 
-I. Ser mexicano por nacimiento que no adquiera otra nacionalidad, mayor de veinticinco años de edad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Ser mexicano por nacimiento que no adquiera otra nacionalidad, mayor de treinta años y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II. Tener título legalmente expedido de licenciado en derecho;
+II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
-III. Tener cinco años de ejercicio profesional, posteriores a la fecha de adquisición del título a que se refiere la fracción anterior, por lo menos;
+III. Tener cinco años de ejercicio profesional, posteriores a la fecha de adquisición del título a que se refiere la fracción anterior;
 
-IV. Haberse distinguido en estudios de derecho del trabajo y de la seguridad social;
+IV. Tener experiencia en la materia y haberse distinguido en estudios de derecho del trabajo y de la seguridad social;
 
-V. No pertenecer al estado eclesiástico; y
+V. No ser ministro de culto; y
 
-VI. No haber sido condenado por delito intencional sancionado con pena corporal.
+VI. Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena privativa de la libertad.
+
+Las percepciones del Presidente de la Junta Federal de Conciliación y Arbitraje se fijarán anualmente, con sujeción a las disposiciones legales aplicables.
 
 ##### Artículo 613.
 
@@ -6968,9 +6410,9 @@ El Presidente de la Junta será substituido en sus faltas temporales y en las de
 
 ##### Artículo 614.
 
-El Pleno de la Junta de Conciliación y Arbitraje tiene las facultades y obligaciones siguientes:
+El Pleno de la Junta Federal de Conciliación y Arbitraje tiene las facultades y obligaciones siguientes:
 
-I. Expedir el Reglamento Interior de la Junta y el de las Juntas de Conciliación;
+I. Expedir el Reglamento Interior y los reglamentos del servicio profesional de carrera y el de evaluación del desempeño de los Presidentes de las Juntas Especiales;
 
 II. Conocer y resolver los conflictos de trabajo cuando afecten a la totalidad de las ramas de la industria y de las actividades representadas en la Junta;
 
@@ -6978,7 +6420,7 @@ III. Conocer del recurso de revisión interpuesto en contra de las resoluciones 
 
 IV. Uniformar los criterios de resolución de la Junta, cuando las Juntas Especiales sustenten tesis contradictorias;
 
-V. Cuidar que se integren y funcionen debidamente las Juntas de Conciliación y girar las instrucciones que juzgue conveniente para su mejor funcionamiento;
+V. (Se deroga).
 
 VI. Informar a la Secretaría del Trabajo y Previsión Social de las deficiencias que observe en el funcionamiento de la Junta y sugerir las medidas que convenga dictar para corregirlas; y
 
@@ -6986,21 +6428,21 @@ VII. Las demás que le confieran las leyes.
 
 ##### Artículo 615.
 
-Para uniformar el criterio de resolución de las Juntas Especiales se observarán las normas siguientes:
+Para uniformar el criterio de resolución de las Juntas Especiales, se observarán las normas siguientes:
 
 I. El Pleno se reunirá en sesión especial, no pudiendo ocuparse de ningún otro asunto;
 
-II. Para que pueda sesionar el Pleno, se requiere la presencia de las dos terceras partes del total de sus miembros, por lo menos;
+II. Para que pueda sesionar el Pleno, se requiere la presencia de la mayoría de los representantes de los trabajadores y de los patrones, respectivamente;
 
-III. Los Presidentes de las Juntas Especiales serán citados a la sesión y tendrán voz informativa;
+III. Los Presidentes de las Juntas Especiales en el Distrito Federal, serán citados a la sesión y tendrán voz informativa. Los representantes de los trabajadores y patrones y los Presidentes de las Juntas Especiales radicadas fuera del Distrito Federal podrán participar como invitados en las sesiones; o bien, formular sus propuestas por escrito, las que se incluirán en el orden del día que corresponda;
 
-IV. Las resoluciones del pleno deberán ser aprobadas por el cincuenta y uno por ciento del total de los miembros que lo integran, por lo menos;
+IV. Las resoluciones del Pleno deberán ser aprobadas por la mitad más uno de sus miembros presentes;
 
 V. Las decisiones del Pleno que uniformen el criterio de resolución serán obligatorias para todas las Juntas Especiales;
 
-VI. Las mismas resoluciones podrán revisarse en cualquier tiempo a solicitud del cincuenta y uno por ciento de los representantes de los trabajadores o de los patrones, del cincuenta y uno por ciento de los Presidentes de las Juntas Especiales o del Presidente de la Junta; y
+VI. Las mismas resoluciones podrán revisarse en cualquier tiempo a solicitud de cincuenta y uno por ciento de los representantes de los trabajadores o de los patrones, de cincuenta y uno por ciento de los Presidentes de las Juntas Especiales o del Presidente de la Junta; y
 
-VII. El pleno publicará un boletín cada tres meses, por lo menos, con el criterio uniformado y con los laudos del Pleno y de las Juntas Especiales que juzgue conveniente.
+VII. El Pleno publicará un boletín cada tres meses, por lo menos, con el criterio uniformado y con los laudos del Pleno y de las Juntas Especiales que juzgue conveniente.
 
 ##### Artículo 616.
 
@@ -7008,7 +6450,7 @@ Las Juntas Especiales tienen las facultades y obligaciones siguientes:
 
 I. Conocer y resolver los conflictos de trabajo que se susciten en las ramas de la industria o de las actividades representadas en ellas;
 
-II. Conocer y resolver los conflictos a que se refiere el artículo 600, fracción IV, que se susciten en el lugar en que se encuentren instaladas;
+II. (Se deroga).
 
 III. Practicar la investigación y dictar las resoluciones a que se refiere el artículo 503;
 
@@ -7022,7 +6464,7 @@ VI. Las demás que le confieran las leyes.
 
 ##### Artículo 617.
 
-El Presidente de la Junta tiene las facultades y obligaciones siguientes:
+El Presidente de la Junta Federal de Conciliación y Arbitraje tiene las facultades y obligaciones siguientes:
 
 I. Cuidar del orden y de la disciplina del personal de la Junta;
 
@@ -7036,9 +6478,13 @@ V. Revisar los actos de los Actuarios en la ejecución de los laudos que le corr
 
 VI. Cumplimentar los exhortos o turnarlos a los Presidentes de las Juntas Especiales;
 
-VII. Rendir los informes en los amparos que se interpongan en contra de los laudos y resoluciones dictadas por el Pleno y por las Juntas Especiales que presida; y
+VII. Rendir los informes en los amparos que se interpongan contra los laudos y las resoluciones dictados por el Pleno y por las Juntas Especiales que presida;
 
-VIII. Las demás que le confieran las leyes.
+VIII. Conocer y resolver de las providencias cautelares que se promuevan en los conflictos colectivos;
+
+IX. Someter al Pleno los reglamentos del servicio profesional de carrera y el de evaluación del desempeño de los Presidentes de las Juntas Especiales; y
+
+X. Las demás que le confieran las Leyes.
 
 ##### Artículo 618.
 
@@ -7046,7 +6492,7 @@ Los Presidentes de las Juntas Especiales tienen las obligaciones y facultades si
 
 I. Cuidar del orden y de la disciplina del personal de la Junta Especial;
 
-II. Ejecutar los laudos dictados por la Junta Especial;
+II. Ordenar la ejecución de los laudos dictados por la Junta Especial;
 
 III. Conocer y resolver las providencias cautelares;
 
@@ -7058,15 +6504,17 @@ VI. Rendir los informes en los amparos que se interpongan en contra de los laudo
 
 VII. Informar al Presidente de la Junta de las deficiencias que observen en su funcionamiento y sugerir las medidas que convenga dictar para corregirlas; y
 
-VIII. Las demás que les confieran las leyes.
+VIII. Cumplir y aprobar satisfactoriamente los procedimientos de evaluación de desempeño que se establezcan conforme a lo dispuesto en el reglamento respectivo; y
+
+IX. Las demás que les confieran las Leyes.
 
 ##### Artículo 619.
 
 Los Secretarios Generales de la Junta tienen las facultades y obligaciones siguientes:
 
-I. Actuar como Secretarios del Pleno;
+I. Coordinar la integración y manejo de los archivos de la Junta que les competan;
 
-II. Cuidar de los archivos de la Junta; y
+II. Dar fe de las actuaciones de la Junta en el ámbito de su competencia; y
 
 III. Las demás que les confiera esta Ley.
 
@@ -7074,7 +6522,7 @@ III. Las demás que les confiera esta Ley.
 
 Para el funcionamiento del Pleno y de las Juntas Especiales se observarán las normas siguientes:
 
-I. En el Pleno se requiere la presencia del Presidente de la Junta y del cincuenta por ciento de los representantes, por lo menos. En caso de empate, los votos de los ausentes se sumarán al del Presidente;
+I. En el Pleno se requiere la presencia del Presidente de la Junta y de la mayoría de los representantes de los trabajadores y de los patrones, respectivamente. En caso de empate, el Presidente tendrá voto de calidad;
 
 II. En las Juntas Especiales se observarán las normas siguientes:
 
@@ -7082,7 +6530,7 @@ a) Durante la tramitación de los conflictos individuales y de los colectivos de
 
 Si están presentes uno o varios de los representantes, las resoluciones se tomarán por mayoría de votos.
 
-Si no está presente ninguno de los representantes, el Presidente o el Auxiliar dictará las resoluciones que procedan, salvo que se trate de las que versen sobre personalidad, competencia, aceptación de pruebas, desistimiento de la acción a que se refiere el artículo 726 y substitución del patrón. El mismo Presidente acordará se cite a los representantes a una audiencia para la resolución de dichas cuestiones, y si ninguno concurre, dictará la resolución que proceda.
+Si no está presente ninguno de los representantes, el Presidente o el Auxiliar dictará las resoluciones que procedan, salvo que se trate de las que versen sobre personalidad, competencia, aceptación de pruebas, desistimiento de la acción a que se refiere el artículo 773 y sustitución de patrón. El mismo Presidente acordará que se cite a los representantes a una audiencia para la resolución de dichas cuestiones y, si ninguno concurre, dictará la resolución que proceda.
 
 b) La audiencia de discusión y votación del laudo se regirá por lo dispuesto en la fracción siguiente.
 
@@ -7090,7 +6538,7 @@ c) Cuando se trate de conflictos colectivos de naturaleza económica, además de
 
 d) En los casos de empate, el voto del o de los representantes ausentes se sumará al del Presidente o al del Auxiliar;
 
-III. Para la audiencia de discusión y votación del laudo, será necesaria la presencia del Presidente o Presidente Especial y del cincuenta por ciento de los representantes de los trabajadores y de los patrones, por lo menos. Si concurre menos del cincuenta por ciento, el Presidente señalará nuevo día y hora para que se celebre la audiencia; si tampoco se reúne la mayoría, se citará a los suplentes, quedando excluidos los faltistas del conocimiento del negocio. Si tampoco concurren los suplentes, el Presidente de la Junta o el de la Junta Especial, dará cuenta al Secretario del Trabajo y Previsión Social, para que designe las personas que los substituyan. En caso de empate, los votos de los ausentes se sumarán al del Presidente.
+III. Para la audiencia de discusión y votación del laudo, será necesaria la presencia del Presidente o del Presidente especial y de cincuenta por ciento de los representantes de los trabajadores y de los patrones, por lo menos. Si concurre menos de cincuenta por ciento, el Presidente señalará nuevo día y hora para que se celebre la audiencia; si tampoco se reúne la mayoría, se citará a los suplentes, quedando excluidos los faltistas del conocimiento del negocio. Si tampoco concurren los suplentes, el Presidente de la Junta o el de la Junta Especial dará cuenta al Secretario del Trabajo y Previsión Social para que designe a las personas que los sustituyan. En caso de empate, el Presidente tendrá voto de calidad.
 
 ### CAPITULO XIII · Juntas locales de conciliación y arbitraje
 
@@ -7104,11 +6552,13 @@ El Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, cuando lo r
 
 ##### Artículo 623.
 
+El Pleno se integrará con el Presidente de la Junta y con los representantes de los trabajadores y de los patrones.
+
 La integración y funcionamiento de las Juntas Locales de Conciliación y Arbitraje se regirán por las disposiciones contenidas en el capítulo anterior. Las facultades del Presidente de la República y del Secretario del Trabajo y Previsión Social se ejercerán por los Gobernadores de los Estados y en el caso del Distrito Federal, por el propio Presidente de la República y por el Jefe de Gobierno del Distrito Federal, respectivamente.
 
 ##### Artículo 624.
 
-El Presidente de la Junta del Distrito Federal percibirá los mismos emolumentos que correspondan al Presidente del Tribunal Superior de Justicia.
+Las percepciones de los Presidentes de las Juntas de Conciliación y Arbitraje de los Estados y del Distrito Federal se fijarán anualmente, con sujeción a las disposiciones legales aplicables.
 
 ## TITULO · DOCE
 
@@ -7116,7 +6566,7 @@ Personal Jurídico de las Juntas de Conciliación y Arbitraje
 
 ##### Artículo 625.
 
-El personal de las Juntas de Conciliación y Arbitraje se compondrá de Actuarios, Secretarios, Auxiliares, Secretarios Generales y Presidentes de Junta Especial.
+El personal de las Juntas de Conciliación y Arbitraje se compondrá de actuarios, secretarios, funcionarios conciliadores, auxiliares, secretarios auxiliares, secretarios generales y Presidentes de Junta Especial.
 
 La Secretaría del Trabajo y Previsión Social, los Gobernadores de las Entidades Federativas y el Jefe de Gobierno del Distrito Federal, determinarán el número de personas de que deba componerse cada Junta.
 
@@ -7126,11 +6576,13 @@ Los Actuarios deberán satisfacer los requisitos siguientes:
 
 I. Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
 
-II. Haber terminado el tercer año o el sexto semestre de la carrera de licenciado en derecho, por lo menos;
+II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
-III. No pertenecer al estado eclesiástico; y
+III. Haberse distinguido en estudios de derecho del trabajo;
 
-IV. No haber sido condenados por delito intencional sancionado con pena corporal.
+IV. No ser ministro de culto; y
+
+V. Gozar de buena reputación y no haber sido condenados por delito intencional sancionado con pena corporal.
 
 ##### Artículo 627.
 
@@ -7138,11 +6590,35 @@ Los Secretarios deberán satisfacer los requisitos siguientes:
 
 I. Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
 
-II. Tener título legalmente expedido de licenciado en derecho y haberse distinguido en estudios de derecho del trabajo;
+II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
-III. No pertenecer al estado eclesiástico; y
+III. Haberse distinguido en estudios de derecho del trabajo;
 
-IV. No haber sido condenados por delito intencional sancionado con pena corporal.
+IV. No ser ministro de culto; y
+
+V. Gozar de buena reputación y no haber sido condenados por delito intencional sancionado con pena corporal.
+
+##### Artículo 627-A.
+
+El servicio público de conciliación se prestará a través de servidores públicos especializados en la función conciliatoria, denominados funcionarios conciliadores; los integrantes de las Juntas o por su personal jurídico.
+
+##### Artículo 627-B.
+
+Los funcionarios conciliadores deberán satisfacer los requisitos siguientes:
+
+I. Ser mexicanos, mayores de treinta años de edad, y estar en pleno ejercicio de sus derechos;
+
+II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
+
+III. Tener dos años de ejercicio profesional en materia laboral, posteriores a la obtención del título de licenciado en derecho, haberse distinguido en estudios de derecho del trabajo y haberse capacitado en materia de conciliación;
+
+IV. No ser ministro de culto; y
+
+V. No haber sido condenados por delito intencional sancionado con pena privativa de la libertad.
+
+##### Artículo 627-C.
+
+Durante todo el procedimiento y hasta antes de dictarse los laudos, las Juntas tendrán la obligación de promover que las partes resuelvan los conflictos mediante la conciliación. Los convenios a que lleguen, en su caso, una vez ratificados y aprobados por aquéllas, producirán los efectos jurídicos inherentes a los laudos ejecutoriados.
 
 ##### Artículo 628.
 
@@ -7150,29 +6626,29 @@ Los Auxiliares deberán satisfacer los requisitos siguientes:
 
 I. Ser mexicanos, mayores de veinticinco años y estar en pleno ejercicio de sus derechos;
 
-II. Tener título legalmente expedido de licenciado en derecho;
+II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
-III. Tener tres años de ejercicio profesional posteriores a la obtención del título de licenciado en derecho, por lo menos, y haberse distinguido en estudios de derecho del trabajo;
+III. Tener tres años de ejercicio profesional en materia laboral, posteriores a la obtención del título de abogado o licenciado en derecho, y haberse distinguido en estudios de derecho del trabajo;
 
-IV. No pertenecer al estado eclesiástico; y
+IV. No ser ministro de culto; y
 
-V. No haber sido condenados por delito intencional sancionado con pena corporal.
+V. Gozar de buena reputación y no haber sido condenados por delito intencional sancionado con pena corporal.
 
 ##### Artículo 629.
 
-Los Secretarios Generales deberán satisfacer los requisitos señalados en las fracciones I, II, IV y V del artículo anterior, y tener cinco años de ejercicio profesional, posteriores a la obtención del título de licenciado en derecho, por lo menos, y haberse distinguido en estudios de derecho del trabajo.
+Los secretarios generales deberán satisfacer los requisitos señalados en las fracciones I, II, IV y V del artículo anterior, tener cinco años de ejercicio profesional en materia laboral, posteriores a la obtención del título de abogado o licenciado en derecho, haberse distinguido en estudios de derecho del trabajo y experiencia mínima de un año como servidor público en el ámbito del sector laboral.
 
 ##### Artículo 630.
 
-Los Presidentes de las Juntas Especiales deberán satisfacer los requisitos señalados en el artículo anterior.
+Los Presidentes de las Juntas Especiales y los secretarios auxiliares, deberán satisfacer los requisitos señalados en el artículo anterior.
 
 ##### Artículo 631.
 
-Los Presidentes de las Juntas Especiales de la Federal de Conciliación y Arbitraje \_ percibirán los mismos emolumentos que correspondan a los Magistrados de Circuito, y los de la Junta de Conciliación y Arbitraje del Distrito Federal los que correspondan a los Magistrados del Tribunal Superior de Justicia del Distrito Federal.
+Las percepciones de los Presidentes de las Juntas Especiales de la Federal de Conciliación y Arbitraje se fijarán anualmente, con sujeción a las disposiciones presupuestales aplicables.
 
 ##### Artículo 632.
 
-Los Actuarios, Secretarios, Auxiliares y Presidentes de las Juntas Especiales no podrán ejercer la profesión de abogados en asuntos de trabajo.
+El personal jurídico de las Juntas no podrá actuar como apoderado, asesor o abogado patrono en asuntos de trabajo.
 
 ##### Artículo 633.
 
@@ -7180,7 +6656,7 @@ Los Presidentes de las Juntas Especiales serán nombrados cada seis años por el
 
 ##### Artículo 634.
 
-Los nombramientos de los Presidentes de las Juntas Especiales podrán ser confirmados una o más veces.
+Los nombramientos de los Secretarios Generales y Secretarios Auxiliares serán considerados de libre designación, en atención a las funciones y necesidades propias del puesto.
 
 ##### Artículo 635.
 
@@ -7194,9 +6670,9 @@ El incumplimiento de las obligaciones del personal jurídico de las Juntas, que 
 
 En la imposición de las sanciones a que se refiere el artículo anterior se observarán las normas siguientes:
 
-I. El Presidente de la Junta practicará una investigación con audiencia del interesado, e impondrá la sanción que corresponda a los Actuarios, Secretarios y Auxiliares; y
+I. El Presidente de la Junta practicará una investigación con audiencia del interesado e impondrá la sanción que corresponda a los actuarios, secretarios, auxiliares y funcionarios conciliadores; y
 
-II. Cuando se trate de los Presidentes de las Juntas Especiales, el Presidente de la Junta dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe de Gobierno del Distrito Federal, quienes, después de oír al interesado, dictarán la resolución correspondiente.
+II. Cuando se trate de los secretarios generales, secretarios auxiliares y Presidentes de las Juntas Especiales, el Presidente de la Junta dará cuenta al Secretario del Trabajo y Previsión Social, al gobernador del estado o al Jefe de Gobierno del Distrito Federal, quienes, después de oír al interesado, dictarán la resolución correspondiente.
 
 ##### Artículo 638.
 
@@ -7250,6 +6726,24 @@ XI. Engrosar los laudos en términos distintos a los consignados en la votación
 
 XII. Las demás que establezcan las leyes.
 
+##### Artículo 641-A.
+
+Son faltas especiales de los funcionarios conciliadores:
+
+I. Conocer de un negocio para el que se encuentren impedidos de conformidad con las disposiciones de esta Ley;
+
+II. No estar presentes en las audiencias de conciliación que se les asignen o en cualquier etapa del juicio, cuando la Junta o cualquiera de sus integrantes consideren necesaria la función conciliatoria, salvo causa justificada;
+
+III. No atender a las partes oportunamente y con la debida consideración;
+
+IV. Retardar la conciliación de un negocio injustificadamente;
+
+V. No informar a las Juntas de Conciliación y Arbitraje a que se encuentren adscritos respecto de los resultados logrados en las audiencias de conciliación que se les encomienden, con la periodicidad que ellas determinen;
+
+VI. No dar cuenta a las Juntas de Conciliación y Arbitraje de su adscripción sobre los convenios a que hubieren llegado las partes para efectos de su aprobación, cuando proceda; y
+
+VII. Las demás que establezcan las Leyes.
+
 ##### Artículo 642.
 
 Son faltas especiales de los Auxiliares:
@@ -7260,31 +6754,39 @@ II. Retardar la tramitación de un negocio;
 
 III. Votar una resolución notoriamente ilegal o injusta;
 
-IV. No informar oportunamente al Presidente de la Junta Especial de la conducta irregular o delictuosa de alguno de los representantes de los trabajadores o de los patrones; y
+IV. Dejar de engrosar los laudos dentro del término señalado en esta Ley;
 
-V. Las demás que establezcan las leyes.
+V. Engrosar los laudos en términos distintos de los consignados en la votación;
+
+VI. Dejar de dictar los acuerdos respectivos dentro de los términos señalados en esta Ley;
+
+VII. Abstenerse de informar oportunamente al Presidente de la Junta Especial acerca de la conducta irregular o delictuosa de alguno de los representantes de los trabajadores o de los patrones; y
+
+VIII. Las demás que establezcan las Leyes.
 
 ##### Artículo 643.
 
 Son faltas especiales de los Presidentes de las Juntas Especiales:
 
-I. Los casos señalados en las fracciones I, II y III del artículo anterior;
+I. Los casos señalados en las fracciones I, II, III y VI del artículo anterior,
 
 II. No proveer oportunamente a la ejecución de los laudos;
 
-III. No informar oportunamente al Presidente de la Junta de la conducta irregular o delictuosa de alguno de los representantes de los trabajadores o de los patrones ante la Junta Especial que presidan;
+III. No informar oportunamente al Presidente de la Junta acerca de la conducta irregular o delictuosa de alguno de los representantes de los trabajadores o de los patrones ante la Junta Especial que presidan;
 
-IV. No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenando por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
+IV. No denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir a uno o varios de sus trabajadores;
 
-V. Las demás que establezcan las leyes
+V. Abstenerse de cumplir con los procesos, métodos y mecanismos de evaluación del desempeño, así como de las obligaciones previstas en los Reglamentos que expida el Pleno de la Junta; y
+
+VI. Las demás que establezcan las Leyes.
 
 ##### Artículo 644.
 
-Son causas generales de destitución de los Actuarios, Secretarios, Auxiliares y Presidentes de las Juntas Especiales:
+Son causas generales de destitución de los actuarios, secretarios, funcionarios conciliadores, auxiliares, secretarios generales, secretarios auxiliares y Presidentes de las Juntas Especiales:
 
-I. Violar la prohibición del artículo 632;
+I. Violar la prohibición del artículo 632 de esta Ley;
 
-II. Dejar de asistir con frecuencia a la Junta durante las horas de trabajo e incumplir reiteradamente las obligaciones inherentes al cargo;
+II. Dejar de asistir por más de tres días consecutivos a sus labores sin causa justificada; ausentarse con frecuencia durante las horas de trabajo, e incumplir reiteradamente las obligaciones inherentes al cargo;
 
 III. Recibir directa o indirectamente cualquier dádiva de las partes; y
 
@@ -7296,9 +6798,15 @@ Son causas especiales de destitución:
 
 I. De los Actuarios: hacer constar hechos falsos en las actas que levanten en ejercicio de sus funciones;
 
-II. De los Secretarios: dar fe de hechos falsos y alterar substancial o dolosamente los hechos en la redacción de las actas que autoricen;
+II. De los funcionarios conciliadores:
 
-III. De los Auxiliares:
+a) No dar cuenta a las Juntas de Conciliación y Arbitraje de su adscripción sobre los convenios a que hubieren llegado las partes para efectos de su aprobación, cuando proceda.
+
+b) Conocer de un negocio para el que se encuentren impedidos de conformidad con las disposiciones de esta Ley;
+
+III. De los secretarios: dar fe de hechos falsos y alterar sustancial o dolosamente los hechos en la redacción de las actas que autoricen;
+
+IV. De los auxiliares:
 
 a) Conocer de algún negocio para el que se encuentren impedidos.
 
@@ -7306,7 +6814,7 @@ b) Votar una resolución o formular un dictamen notoriamente ilegal o injusto.
 
 c) Retener o retardar indebidamente la tramitación de un expediente; y
 
-IV. De los Presidentes de las Juntas Especiales:
+V. De los Secretarios Generales, Secretarios Auxiliares y Presidentes de las Juntas Especiales:
 
 a) Los casos señalados en los incisos a) y c) de la fracción anterior.
 
@@ -7314,9 +6822,11 @@ b) Votar una resolución notoriamente ilegal o injusta.
 
 c) No proveer oportunamente a la ejecución de los laudos.
 
+d) Los casos señalados en el artículo 643, fracción V de esta Ley.
+
 ##### Artículo 646.
 
-La destitución del cargo de los Actuarios, Secretarios, Auxiliares y Presidentes de las Juntas Especiales, se decretará por la autoridad que hubiese hecho el nombramiento.
+La destitución del cargo del personal jurídico de las Juntas Especiales se decretará por la autoridad que hubiese hecho el nombramiento.
 
 ##### Artículo 647.
 
@@ -7330,7 +6840,7 @@ Representantes de los Trabajadores y de los Patrones
 
 ##### Artículo 648.
 
-Los representantes de los trabajadores y de los patrones en las Juntas Federal y Locales de Conciliación y Arbitraje y en las Juntas de Conciliación Permanentes, serán elegidos en convenciones que se organizarán y funcionarán cada seis años de conformidad con las disposiciones de este capítulo.
+Los representantes de los trabajadores y de los patrones en las Juntas serán elegidos en convenciones, que se organizarán y funcionarán cada seis años de conformidad con las disposiciones de este Capítulo.
 
 ##### Artículo 649.
 
@@ -7464,7 +6974,7 @@ El primer día hábil del mes de enero siguiente, el Secretario del Trabajo y Pr
 
 ##### Artículo 664.
 
-En la designación de los representantes de los trabajadores y de los patrones en las Juntas de Conciliación Permanentes y en las Especiales establecidas fuera de la capital de la República, se observarán las disposiciones de este capítulo, con las modalidades siguientes:
+En la designación de los representantes de los trabajadores y de los patrones en las Juntas Especiales establecidas fuera de la capital de la República, se observarán las disposiciones de este Capítulo, con las modalidades siguientes:
 
 I. La convocatoria indicará la competencia territorial de la Junta;
 
@@ -7660,7 +7170,7 @@ Derecho Procesal del Trabajo
 
 ##### Artículo 685.
 
-El proceso del derecho del trabajo será público, gratuito, inmediato, predominantemente oral y se iniciará a instancia de parte. Las Juntas tendrán la obligación de tomar las medidas necesarias para lograr la mayor economía, concentración y sencillez del proceso.
+El proceso del derecho del trabajo será público, gratuito, inmediato, predominantemente oral y conciliatorio y se iniciará a instancia de parte. Las Juntas tendrán la obligación de tomar las medidas necesarias para lograr la mayor economía, concentración y sencillez del proceso.
 
 Cuando la demanda del trabajador sea incompleta, en cuanto a que no comprenda todas las prestaciones que de acuerdo con esta Ley deriven de la acción intentada o procedente, conforme a los hechos expuestos por el trabajador, la Junta, en el momento de admitir la demanda, subsanará ésta. Lo anterior sin perjuicio de que cuando la demanda sea obscura o vaga se proceda en los términos previstos en el artículo 873 de esta Ley.
 
@@ -7676,9 +7186,9 @@ En las comparecencias, escritos, promociones o alegaciones, no se exigirá forma
 
 ##### Artículo 688.
 
-Las autoridades administrativas y judiciales, están obligadas, dentro de la esfera de sus respectivas competencias, a auxiliar a las Juntas de Conciliación y a las de Conciliación y Arbitraje; si se negaren a ello, serán responsables en los términos de las leyes aplicables al caso. Las Juntas se auxiliarán entre si en el ejercicio de sus funciones.
+Las autoridades administrativas y las judiciales están obligadas, en la esfera de sus respectivas competencias, a auxiliar a las Juntas de Conciliación y Arbitraje; si se negaren a ello, serán responsables en los términos de las Leyes aplicables al caso. Las Juntas se auxiliarán entre sí en el ejercicio de sus funciones.
 
-### CAPITULO II · De la capacidad y personalidad
+### Capítulo II · De la Capacidad, Personalidad y Legitimación
 
 ##### Artículo 689.
 
@@ -7688,9 +7198,13 @@ Son partes en el proceso del trabajo, las personas físicas o morales que acredi
 
 Las personas que puedan ser afectadas por la resolución que se pronuncie en un conflicto, podrán intervenir en él, comprobando su interés jurídico en el mismo, o ser llamadas a juicio por la Junta.
 
+Los terceros interesados en un juicio podrán comparecer o ser llamados a éste hasta antes de la celebración de la audiencia de ofrecimiento y admisión de pruebas, para manifestar lo que a su derecho convenga. La Junta, con suspensión del procedimiento y citación de las partes, dictará acuerdo señalando día y hora para la celebración de la audiencia respectiva, la que deberá celebrarse dentro de los diez días hábiles siguientes a la fecha de la comparecencia o llamamiento del tercero, notificando personalmente al mismo el acuerdo señalado con cinco días hábiles de anticipación.
+
 ##### Artículo 691.
 
-Los menores trabajadores tienen capacidad para comparecer a juicio sin necesidad de autorización alguna, pero en el caso de no estar asesorados en juicio, la Junta solicitará la intervención de la Procuraduría de la Defensa del Trabajo para tal efecto. Tratándose de menores de 16 años, la Procuraduría de la Defensa del Trabajo les designará un representante.
+Los menores trabajadores tienen capacidad para comparecer a juicio sin necesidad de autorización alguna; pero, en caso de no estar asesorados en juicio, la Junta solicitará la intervención de la Procuraduría de la Defensa del Trabajo para tal efecto. Tratándose de menores de 16 años, la Procuraduría de la Defensa del Trabajo les designará un representante cuando no lo tuvieren.
+
+Lo previsto en el párrafo anterior se aplicará también tratándose de presuntos beneficiarios de algún trabajador fallecido.
 
 ##### Artículo 692.
 
@@ -7700,15 +7214,15 @@ Tratándose de apoderado, la personalidad se acreditará conforme a las siguient
 
 I. Cuando el compareciente actúe como apoderado de persona física, podrá hacerlo mediante poder notarial o carta poder firmada por el otorgante y ante dos testigos, sin necesidad de ser ratificada ante la Junta;
 
-II. Cuando el apoderado actúe como representante legal de persona moral, deberá exhibir el testimonio notarial respectivo que así lo acredite;
+II. Los abogados patronos o asesores legales de las partes, sean o no apoderados de éstas, deberán acreditar ser abogados o licenciados en derecho con cédula profesional o personas que cuenten con carta de pasante vigente expedida por la autoridad competente para ejercer dicha profesión. Sólo se podrá autorizar a otras personas para oír notificaciones y recibir documentos, pero éstas no podrán comparecer en las audiencias ni efectuar promoción alguna;
 
 III. Cuando el compareciente actúe como apoderado de persona moral, podrá acreditar su personalidad mediante testimonio notarial o carta poder otorgada ante dos testigos, previa comprobación de que quien le otorga el poder está legalmente autorizado para ello; y
 
-IV. Los representantes de los sindicatos acreditarán su personalidad con la certificación que les extienda la Secretaría del Trabajo y Previsión Social, o la Junta Local de Conciliación y Arbitraje, de haber quedado registrada la directiva del Sindicato.
+IV. Los representantes de los sindicatos acreditarán su personalidad con la certificación que les extienda la autoridad registradora correspondiente, de haber quedado inscrita la directiva del sindicato. También podrán comparecer por conducto de apoderado legal, quien en todos los casos deberá ser abogado, licenciado en derecho o pasante.
 
 ##### Artículo 693.
 
-Las Juntas podrán tener por acreditada la personalidad de los representantes de los trabajadores o sindicatos, sin sujetarse a las reglas del artículo anterior, siempre que de los documentos exhibidos lleguen al convencimiento de que efectivamente se representa a la parte interesada.
+Las Juntas podrán tener por acreditada la personalidad de los representantes de los trabajadores o sindicatos, federaciones y confederaciones sin sujetarse a las reglas del artículo anterior, siempre que de los documentos exhibidos lleguen al convencimiento de que, efectivamente, se representa a la parte interesada.
 
 ##### Artículo 694.
 
@@ -7736,7 +7250,7 @@ El representante común tendrá los derechos, obligaciones y responsabilidad inh
 
 Será competencia de las Juntas Locales de Conciliación y de Conciliación y Arbitraje de las Entidades Federativas, conocer de los conflictos que se susciten dentro de su jurisdicción, que no sean de la competencia de las Juntas Federales.
 
-Las Juntas Federales de Conciliación y Federal de Conciliación y Arbitraje, conocerán de los conflictos de trabajo cuando se trate de las ramas industriales, empresas o materias contenidas en los artículos 123, Apartado A fracción XXXI de la Constitución Política y 527 de esta Ley.
+La Junta Federal de Conciliación y Arbitraje conocerá de los conflictos de trabajo cuando se trate de las ramas industriales, empresas o materias contenidas en los artículos 123, apartado A, fracción XXXI, de la Constitución Política y 527 de esta Ley.
 
 ##### Artículo 699.
 
@@ -7748,15 +7262,15 @@ En el supuesto previsto en el párrafo anterior, la Junta Local, al admitir la d
 
 La competencia por razón del territorio se rige por las normas siguientes:
 
-I. Si se trata de Juntas de Conciliación, la del lugar de prestación de servicios;
+I. (Se deroga).
 
-II. Si se trata de la Junta de Conciliación y Arbitraje, el actor puede escoger entre:
+II. En los conflictos individuales, el actor puede escoger entre:
 
-a) La Junta del lugar de prestación de los servicios; si éstos se prestaron en varios lugares, será la Junta de cualquiera de ellos.
+a) La Junta del lugar de celebración del contrato.
 
-b) La Junta del lugar de celebración del contrato.
+b) La Junta del domicilio del demandado.
 
-c) La Junta del domicilio del demandado.
+c) La Junta del lugar de prestación de los servicios; si éstos se prestaron en varios lugares, será la Junta del último de ellos.
 
 III. En los conflictos colectivos de jurisdicción federal, la Junta Federal de Conciliación y Arbitraje, en los términos del artículo 606 de esta Ley; en los conflictos colectivos de jurisdicción local, la del lugar en que esté ubicada la empresa o establecimiento;
 
@@ -7768,7 +7282,7 @@ VI. Cuando el demandado sea un sindicato, la Junta del domicilio del mismo.
 
 ##### Artículo 701.
 
-La Junta de Conciliación y las de Conciliación y Arbitraje, de oficio deberán declararse incompetentes en cualquier estado del proceso, hasta antes de la audiencia de desahogo de pruebas, cuando existan en el expediente datos que lo justifiquen. Si la Junta se declara incompetente, con citación de las partes, remitirá de inmediato el expediente a la Junta o Tribunal que estime competente; si ésta o aquél, al recibir el expediente se declara a su vez incompetente, remitirá de inmediato el expediente a la autoridad que debe decidir la competencia, en los términos del artículo 705 de esta Ley.
+Las Juntas de Conciliación y Arbitraje de oficio deberán declararse incompetentes en cualquier estado del proceso, hasta antes de la audiencia de desahogo de pruebas, cuando existan en el expediente datos que lo justifiquen. Si la Junta se declara incompetente, con citación de las partes, remitirá de inmediato el expediente a la Junta o al tribunal que estime competente; si ésta o aquél, al recibir el expediente, se declara a su vez incompetente, remitirá de inmediato el expediente a la autoridad que debe decidir la competencia, en los términos del artículo 705 de esta Ley.
 
 ##### Artículo 702.
 
@@ -7788,15 +7302,11 @@ Cuando una Junta Especial considere que el conflicto de que conoce, es de la com
 
 Las competencias se decidirán:
 
-I. Por el Pleno de las Juntas Locales de Conciliación y Arbitraje, cuando se trate de:
+I. Por el Presidente de la Junta Federal de Conciliación y Arbitraje, cuando se trate de las Juntas Especiales de la misma, entre sí;
 
-a) Juntas de Conciliación de la misma Entidad Federativa, y
+II. Por el Presidente de la Junta Local de Conciliación y Arbitraje, cuando se trate de Juntas Especiales de la misma entidad federativa; y
 
-b) Las diversas Juntas Especiales de la Junta de Conciliación y Arbitraje de la misma Entidad Federativa.
-
-II. Por el Pleno de la Junta Federal de Conciliación y Arbitraje, cuando se trate de las Juntas Federales de Conciliación y de las Especiales de la misma; entre si recíprocamente.
-
-III. Por la Cuarta Sala de la Suprema Corte de Justicia de la Nación cuando se suscite entre:
+III. Por las instancias correspondientes del Poder Judicial de la Federación, cuando se suscite entre:
 
 a) Juntas Locales o Federales de Conciliación y Arbitraje y el Tribunal Federal de Conciliación y Arbitraje.
 
@@ -7870,7 +7380,7 @@ Independientemente de la sustitución, el funcionario impedido será sancionado,
 
 ##### Artículo 711.
 
-El procedimiento no se suspenderá mientras se tramite la excusa salvo disposición en contrario de la Ley.
+El procedimiento no se suspenderá mientras se tramite la denuncia de impedimento.
 
 ### CAPITULO V · De la actuación de las juntas
 
@@ -7928,7 +7438,9 @@ La Junta, conforme a lo establecido en esta Ley, está obligada a expedir a la p
 
 ##### Artículo 724.
 
-El Pleno de la Junta Federal de Conciliación y Arbitraje o el de las Juntas Locales de Conciliación y Arbitraje, podrá acordar que los expedientes concluidos de manera definitiva sean dados de baja previa certificación de la microfilmación de los mismos o de su conservación a través de cualquier otro procedimiento técnico científico que permita su consulta.
+El Pleno de la Junta Federal de Conciliación y Arbitraje o el de las Juntas Locales de Conciliación y Arbitraje, podrá acordar la creación, divulgación y utilización de herramientas tecnológicas en las que se incluyan los sistemas necesarios para la consulta y actuación de las partes en los procedimientos establecidos en el Título Catorce de la presente Ley.
+
+También podrá acordar que los expedientes concluidos de manera definitiva sean dados de baja previa certificación de la microfilmación de los mismos o de su conservación a través de cualquier otro procedimiento técnico científico que permita su consulta.
 
 ##### Artículo 725.
 
@@ -7940,7 +7452,7 @@ En el caso del artículo anterior, la Junta señalará, dentro de las setenta y 
 
 ##### Artículo 727.
 
-La Junta, de oficio, cuando lo estime conveniente, hará la denuncia correspondiente ante el Ministerio Público competente, de la desaparición del expediente o actuación, acompañando copia de las actas y demás diligencias practicadas con dicho motivo.
+La Junta, de oficio, hará la denuncia correspondiente ante el Ministerio Público competente de la desaparición del expediente o actuación, acompañando copia de las actas y demás diligencias practicadas con dicho motivo.
 
 ##### Artículo 728.
 
@@ -7948,11 +7460,11 @@ Los Presidentes de las Juntas y los Auxiliares, podrán imponer correcciones dis
 
 ##### Artículo 729.
 
-Por su orden las correcciones disciplinarias que pueden imponerse, son:
+Las correcciones disciplinarias que pueden imponerse son:
 
 I. Amonestación;
 
-II. Multa que no podrá exceder de siete veces el salario mínimo general, vigente en el lugar y tiempo en que se cometa la violación; y
+II. Multa, que no podrá exceder de 100 veces del salario mínimo general vigente en el Distrito Federal en el tiempo en que se cometa la violación. Tratándose de trabajadores, la multa no podrá exceder del importe de su jornal o salario en un día. Para los efectos de este artículo, no se considera trabajadores a los apoderados; y
 
 III. Expulsión del local de la Junta; la persona que se resista a cumplir la orden, será desalojada del local con el auxilio de la fuerza pública.
 
@@ -7966,7 +7478,7 @@ El Presidente de la Junta, los de las Juntas Especiales y los Auxiliares podrán
 
 Los medios de apremio que pueden emplearse son:
 
-I. Multa hasta de siete veces el salario mínimo general, vigente en el lugar y tiempo en que se cometió la infracción;
+I. Multa, que no podrá exceder de 100 veces el salario mínimo general vigente en el Distrito Federal en el tiempo en que se cometió el desacato. Tratándose de trabajadores, la multa no podrá exceder del importe de su jornal o salario de un día. Para los efectos de este artículo, no se considerará trabajadores a los apoderados;
 
 II. Presentación de la persona con auxilio de la fuerza pública; y
 
@@ -7984,7 +7496,7 @@ Los términos comenzarán a correr el día siguiente al en que surta efecto la n
 
 ##### Artículo 734.
 
-En ningún término se contarán los días en que no puedan tener lugar actuaciones ante la Junta, salvo disposición contraria de esta Ley.
+En los términos no se computarán los días en que en la Junta deje de actuar conforme al calendario de labores aprobado por el Pleno, así como cuando por caso fortuito o de fuerza mayor no puedan llevarse a cabo actuaciones. Los avisos de suspensión de labores se publicarán en el boletín laboral o en los estrados, en su caso.
 
 ##### Artículo 735.
 
@@ -7996,7 +7508,7 @@ Para computar los términos, los meses se regularán por el de treinta días nat
 
 ##### Artículo 737.
 
-Cuando el domicilio de la persona demandada se encuentre fuera del lugar de residencia de la Junta, esta podrá ampliar el término de que se trate, en función de la distancia a razón de un día por cada 200 kilómetros, de 3 a 12 días, tomando en cuenta los medios de comunicación existentes.
+Cuando el domicilio de la persona demandada se encuentre fuera del lugar de residencia de la Junta, ésta ampliará el término de que se trate, en función de la distancia, a razón de un día por cada 200 kilómetros, de 3 a 12 días, tomando en cuenta los medios de transporte y las vías generales de comunicación existentes.
 
 ##### Artículo 738.
 
@@ -8008,11 +7520,15 @@ Transcurridos los términos fijados a las partes, se tendrá por perdido su dere
 
 Las partes, en su primera comparecencia o escrito, deberán señalar domicilio dentro del lugar de residencia de la Junta para recibir notificaciones, si no lo hacen, las notificaciones personales se harán por boletín o por estrados, según el caso, en los términos previstos en esta Ley.
 
-Asimismo, deberán señalar domicilio en el que deba hacerse la primera notificación a la persona o personas contra quienes promuevan. Cuando no se localice a la persona, la notificación se hará en el domicilio que se hubiere señalado, de conformidad con lo dispuesto en el artículo 712 de esta Ley, y faltando ese, la notificación se hará en el último local o lugar de trabajo en donde se prestaron los servicios y en estos casos se fijarán las copias de la demanda en los estrados de la Junta.
+Asimismo, deberán señalar el domicilio del demandado para recibir notificaciones, o el último lugar donde el trabajador prestó sus servicios. La notificación es personal y se diligenciará conforme a lo dispuesto en el artículo 743.
+
+La persona que comparezca como tercero interesado en un juicio, deberá señalar domicilio dentro del lugar de residencia de la Junta para recibir notificaciones; si no lo hace, se estará a lo dispuesto en la parte final del primer párrafo de este artículo.
+
+En caso de que las partes señalen terceros interesados, deberán indicar en su promoción inicial el domicilio de éstos para recibir notificaciones.
 
 ##### Artículo 740.
 
-Cuando en la demanda no se haya expresado el nombre del patrón o de la empresa en que trabaja o trabajó el trabajador, la notificación personal de la misma se sujetará al procedimiento establecido en el artículo 743 en lo conducente debiendo cerciorarse el actuario de que el lugar donde efectúa la notificación es precisamente el de el centro de trabajo donde presta o prestó sus servicios el demandante, y la notificación se entenderá hecha al patrón, aunque al hacerla se ignore el nombre del mismo.
+Cuando en la demanda no se haya expresado el nombre del patrón o de la empresa en que trabaja o trabajó el trabajador, la notificación personal de la misma se sujetará al procedimiento establecido en el artículo 743 de esta Ley en lo conducente, debiendo cerciorarse el actuario de que el lugar donde efectúa la notificación es precisamente el indicado por el demandante, y la notificación se entenderá hecha al patrón, aunque al hacerla se ignore el nombre del mismo.
 
 ##### Artículo 741.
 
@@ -8042,7 +7558,7 @@ IX. El auto que conceda término o señale fecha para que el trabajador sea rein
 
 X. El auto por el que se ordena la reposición de actuaciones;
 
-XI. En los casos a que se refiere el artículo 772 de esta Ley; y
+XI. En los casos a que se refieren los artículos 772 y 774 de esta Ley; y
 
 XII. En casos urgentes o cuando concurran circunstancias especiales a juicio de la Junta.
 
@@ -8052,11 +7568,11 @@ La primera notificación personal se hará de conformidad con las normas siguien
 
 I. El actuario se cerciorará de que la persona que deba ser notificada, habita, trabaja o tiene su domicilio en la casa o local, señalado en autos para hacer la notificación;
 
-II. Si está presente el interesado o su representante, el actuario notificará, la resolución entregando copia de la misma; si se trata de persona moral, el actuario se asegurará de que la persona con quien entiende la diligencia es representante legal de aquella.
+II. Si está presente el interesado o su representante, el actuario notificará la resolución, entregando copia de la misma; si se trata de persona moral, el actuario se asegurará de que la persona con quien entiende la diligencia es representante o apoderado legal de aquélla;
 
 III. Si no está presente el interesado o su representante, se le dejará citatorio para que lo espere al día siguiente, a una hora determinada;
 
-IV. Si no obstante el citatorio, no está presente el interesado o su representante, la notificación se hará a cualquier persona que se encuentre en la casa o local, y si estuvieren éstos cerrados, se fijár una copia de la resolución en la puerta de entrada;
+IV. Si no obstante el citatorio, no está presente el interesado o su representante, la notificación se hará a cualquier persona mayor de edad que se encuentre en la casa o local; y si estuvieren estos cerrados, se fijará una copia de la resolución en la puerta de entrada;
 
 V. Si en la casa o local designado para hacer la notificación se negare el interesado, su representante o la persona con quien se entienda la diligencia, a recibir la notificación, ésta se hará por instructivo que se fijará en la puerta de la misma, adjuntando una copia de la resolución; y
 
@@ -8124,7 +7640,7 @@ Son nulas las notificaciones que no se practiquen de conformidad a lo dispuesto 
 
 ##### Artículo 753.
 
-Las diligencias que no puedan practicarse en el lugar de residencia de la Junta que conozca del juicio, deberán encomendarse por medio de exhorto al Presidente de la Junta de Conciliación o de Conciliación y Arbitraje o al de las Especiales, o a la autoridad más próxima al lugar en que deban practicarse dentro de la República Mexicana.
+Las diligencias que no puedan practicarse en el lugar de residencia de la Junta que conozca del juicio deberán encomendarse por medio de exhorto al Presidente de la Junta de Conciliación y Arbitraje o al de las Especiales del domicilio en que deban practicarse; y, de no haberlas en dicho lugar, a la autoridad más próxima al lugar que corresponda dentro de la República Mexicana.
 
 ##### Artículo 754.
 
@@ -8184,7 +7700,11 @@ V. Excusas.
 
 ##### Artículo 763.
 
-Cuando se promueva un incidente dentro de una audiencia o diligencia, se substanciará y resolverá de plano, oyendo a las partes; continuándose el procedimiento de inmediato. Cuando se trate de nulidad, competencia y en los casos de acumulación y excusas, dentro de las veinticuatro horas siguientes se señalará día y hora para la audiencia incidental, en la que se resolverá.
+Cuando en una audiencia o diligencia se promueva incidente de falta de personalidad, se sustanciará de inmediato oyendo a las partes y se resolverá, continuándose el procedimiento.
+
+En los demás casos a que se refiere el artículo anterior, se señalará día y hora para la celebración de la audiencia incidental, que se realizará dentro de las veinticuatro horas siguientes, en la que las partes podrán ofrecer y desahogar pruebas documentales e instrumentales para que de inmediato se resuelva el incidente, continuándose el procedimiento.
+
+Los incidentes que no tengan señalada una tramitación especial en esta Ley se resolverán de plano oyendo a las partes.
 
 ##### Artículo 764.
 
@@ -8192,7 +7712,7 @@ Si en autos consta que una persona se manifiesta sabedora de una resolución, la
 
 ##### Artículo 765.
 
-Los incidentes que no tengan señalada una tramitación especial en esta Ley, se resolverán de plano oyendo a las partes.
+(Se deroga).
 
 ### CAPITULO X · De la acumulación
 
@@ -8236,21 +7756,27 @@ Será competente para conocer de la acumulación la Junta de Conciliación y Arb
 
 Los Presidentes de las Juntas y los Auxiliares cuidarán, bajo su más estricta responsabilidad, que los juicios que ante ellos se tramiten no queden inactivos, proveyendo lo que conforme a la Ley corresponda hasta dictar laudo, salvo disposición en contrario.
 
+En caso de no cumplir lo anterior, se harán acreedores a las sanciones que establezcan las Leyes de responsabilidades administrativas de los servidores públicos.
+
 ##### Artículo 772.
 
-Cuando para continuar el trámite del juicio en los términos del artículo que antecede, sea necesaria promoción del trabajador, y éste no la haya efectuado dentro de un lapso de tres meses; el Presidente de la Junta deberá ordenar se le requiera para que la presente apercibiéndole de que, de no hacerlo, operará la caducidad a que se refiere el artículo siguiente.
+Cuando, para continuar el trámite del juicio en los términos del artículo que antecede, sea necesaria promoción del trabajador y éste no la haya efectuado dentro de un lapso de cuarenta y cinco días naturales, el Presidente de la Junta deberá ordenar que se le requiera personalmente para que la presente, apercibiéndolo de que, de no hacerlo, operará la caducidad a que se refiere el artículo siguiente.
 
-Si el trabajador está patrocinado por un Procurador del Trabajo, la Junta notificará el acuerdo de que se trata, a la Procuraduría de la Defensa del Trabajo, para los efectos correspondientes. Si no estuviera patrocinado por la Procuraduría, se le hará saber a ésta el acuerdo, para el efecto de que intervenga ante el trabajador y le precise las consecuencias legales de la falta de promoción, así como para que le brinde asesoría legal en caso de que el trabajador se la requiera.
+Si el trabajador está patrocinado por un Procurador del Trabajo, la Junta notificará el acuerdo de que se trata al trabajador y a la Procuraduría de la Defensa del Trabajo, para los efectos correspondientes. Si no estuviera patrocinado por la Procuraduría, se le hará saber a ésta el acuerdo, para el efecto de que intervenga ante el trabajador y le precise las consecuencias legales de la falta de promoción, así como para que le brinde asesoría legal en caso de que el trabajador se la requiera.
 
 ##### Artículo 773.
 
-Se tendrá por desistida de la acción intentada a toda persona que no haga promoción alguna en el término de seis meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. No se tendrá por transcurrido dicho término si están desahogadas las pruebas del actor o esta pendiente de dictarse resolución sobre alguna promoción de las partes o la práctica de alguna diligencia, o la recepción de informes o copias que se hubiesen solicitado.
+La Junta, a petición de parte, tendrá por desistida de la acción intentada a toda persona que no haga promoción alguna en el término de cuatro meses, siempre que esa promoción sea necesaria para la continuación del procedimiento y se haya cumplido lo dispuesto en el artículo anterior. No se considerará que dicho término opera si están desahogadas las pruebas del actor o está pendiente de dictarse resolución sobre alguna promoción de las partes a que se refiere este artículo, o la práctica de alguna diligencia, o se encuentre pendiente de acordarse la devolución de un exhorto o la recepción de informes o copias que se hubiesen solicitado a diversa autoridad dentro del procedimiento.
 
-Cuando se solicite que se tenga por desistido al actor de las acciones intentadas, la Junta citará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia del desistimiento, dictará resolución.
+Para los efectos del párrafo anterior, la Junta citará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia del desistimiento, dictará resolución.
 
 ##### Artículo 774.
 
 En caso de muerte del trabajador, mientras tanto comparecen a juicio sus beneficiarios, la Junta hará la solicitud al Procurador de la Defensa del Trabajo, en los términos y para los efectos a que se refiere el artículo 772 de esta Ley.
+
+##### Artículo 774 Bis.
+
+En cualquier estado del procedimiento, las partes podrán, mediante la conciliación, celebrar un convenio que ponga fin al juicio; asimismo, el demandado podrá allanarse en todo o en parte a lo reclamado. En el primer supuesto, se dará por terminado el juicio; en el segundo, se continuará el procedimiento por lo pendiente.
 
 ##### Artículo 775.
 
@@ -8280,7 +7806,7 @@ VI. Presuncional;
 
 VII. Instrumental de actuaciones; y
 
-VIII. Fotografías y, en general, aquellos medios aportados por los descubrimientos de la ciencia.
+VIII. Fotografías, cintas cinematográficas, registros dactiloscópicos, grabaciones de audio y de video, o las distintas tecnologías de la información y la comunicación, tales como sistemas informáticos, medios electrónicos ópticos, fax, correo electrónico, documento digital, firma electrónica o contraseña y, en general, los medios aportados por los descubrimientos de la ciencia.
 
 ##### Artículo 777.
 
@@ -8308,7 +7834,7 @@ La Junta podrá ordenar con citación de las partes, el examen de documentos, ob
 
 ##### Artículo 783.
 
-Toda autoridad o persona ajena al juicio que tenga conocimiento de hechos o documentos en su poder que puedan contribuir al esclarecimiento de la verdad, está obligada a aportarlos, cuando sea requerida por la Junta de Conciliación o de Conciliación y Arbitraje.
+Toda autoridad o persona ajena al juicio que tenga documentos en su poder que puedan contribuir al esclarecimiento de la verdad deberá aportarlos, a más tardar en la audiencia de ofrecimiento y admisión de pruebas o, hasta antes del cierre de la instrucción, cuando le sean requeridos por la Junta de Conciliación y Arbitraje.
 
 ##### Artículo 784.
 
@@ -8322,15 +7848,15 @@ III. Faltas de asistencia del trabajador;
 
 IV. Causa de rescisión de la relación de trabajo;
 
-V. Terminación de la relación o contrato de trabajo para obra o tiempo determinado, en los términos del artículo 37 fracción I y 53 fracción III de esta Ley;
+V. Terminación de la relación o contrato de trabajo para obra o tiempo determinado, en los términos de los artículos 37, fracción I, y 53, fracción III, de esta Ley;
 
-VI. Constancia de haber dado aviso por escrito al trabajador de la fecha y causa de su despido;
+VI. Constancia de haber dado aviso por escrito al trabajador o a la Junta de Conciliación y Arbitraje de la fecha y la causa de su despido;
 
 VII. El contrato de trabajo;
 
-VIII. Duración de la jornada de trabajo;
+VIII. Jornada de trabajo ordinaria y extraordinaria, cuando ésta no exceda de nueve horas semanales;
 
-IX. Pagos de días de descanso y obligatorios;
+IX. Pagos de días de descanso y obligatorios, así como del aguinaldo;
 
 X. Disfrute y pago de las vacaciones;
 
@@ -8340,19 +7866,25 @@ XII. Monto y pago del salario;
 
 XIII. Pago de la participación de los trabajadores en las utilidades de las empresas; y
 
-XIV. Incorporación y aportación al Fondo Nacional de la Vivienda.
+XIV. Incorporación y aportaciones al Instituto Mexicano del Seguro Social; al Fondo Nacional de la Vivienda y al Sistema de Ahorro para el Retiro.
+
+La pérdida o destrucción de los documentos señalados en este artículo, por caso fortuito o fuerza mayor, no releva al patrón de probar su dicho por otros medios.
 
 ##### Artículo 785.
 
-Si alguna persona no puede, por enfermedad u otro motivo justificado a juicio de la Junta concurrir al local de la misma para absolver posiciones o contestar un interrogatorio; previa comprobación del hecho, mediante certificado médico u otra constancia fehaciente que se exhiba, bajo protesta de decir verdad, ésta señalará nueva fecha para el desahogo de la prueba correspondiente; y de subsistir el impedimento, el médico deberá comparecer, dentro de los cinco días siguientes, a ratificar el documento en cuyo caso, la Junta deberá trasladarse al lugar donde aquélla se encuentre para el desahogo de la diligencia.
+Si alguna persona está imposibilitada por enfermedad u otra causa a concurrir al local de la Junta para absolver posiciones; reconocer el contenido o firma de un documento o rendir testimonio, y lo justifica a juicio de la misma, mediante certificado médico u otra constancia fehaciente que exhiba bajo protesta de decir verdad, señalará nueva fecha para el desahogo de la prueba y, de subsistir el impedimento, podrá ordenar que el secretario, acompañado por los miembros de la Junta que lo deseen, se traslade al lugar donde se encuentra el imposibilitado para el desahogo de la prueba. De no encontrarse la persona, se le declarará confeso o por reconocidos los documentos a que se refiere la diligencia o bien, por desierta la prueba, según sea el caso.
+
+Los certificados médicos deberán contener el nombre y número de cédula profesional de quien los expida, la fecha y el estado patológico que impide la comparecencia del citado. Los certificados médicos expedidos por instituciones públicas de seguridad social no requieren ser ratificados.
 
 #### Sección Segunda · De la Confesional
 
 ##### Artículo 786.
 
-Cada parte podrá solicitar se cite a su contraparte para que concurra a absolver posiciones.
+Cada parte podrá solicitar que se cite a su contraparte para que concurra a absolver posiciones.
 
-Tratándose de personas morales la confesional se desahogará por conducto de su representante legal; salvo el caso a que se refiere el siguiente artículo.
+Tratándose de personas morales, la confesional puede desahogarse por conducto de su representante legal o apoderado con facultades para absolver posiciones.
+
+Los sindicatos u organizaciones de trabajadores o patrones absolverán posiciones por conducto de su secretario general o integrante de la representación estatutariamente autorizada o por apoderado con facultades expresas.
 
 ##### Artículo 787.
 
@@ -8374,7 +7906,7 @@ I. Las posiciones podrán formularse en forma oral o por escrito, que exhiba la 
 
 II. Las posiciones se formularán libremente, pero deberán concretarse a los hechos controvertidos; no deberán ser insidiosas o inútiles. Son insidiosas las posiciones que tiendan a ofuscar la inteligencia del que ha de responder, para obtener una confesión contraria a la verdad; son inútiles aquellas que versan sobre hechos que hayan sido previamente confesados o que no están en contradicción con alguna prueba o hecho fehaciente que conste en autos o sobre los que no exista controversia;
 
-III. El absolvente bajo protesta de decir verdad, responderá por sí mismo, de palabra, sin la presencia de su asesor, ni ser asistido por persona alguna. No podrá valerse de borrador de respuestas pero se le permitirá que consulte simples notas o apuntes, si la Junta, después de tomar conocimiento de ellos, resuelve que son necesarios para auxiliar su memoria;
+III. El absolvente deberá identificarse con cualquier documento oficial y, bajo protesta de decir verdad, responder por sí mismo sin asistencia. No podrá valerse de borrador de respuestas, pero sí se le permitirá que consulte notas o apuntes si la Junta, después de conocerlos, resuelve que son necesarios para auxiliar su memoria;
 
 IV. Cuando las posiciones se formulen oralmente, se harán constar textualmente en el acta respectiva; cuando sean formuladas por escrito, éste se mandará agregar a los autos y deberá ser firmado por el articulante y el absolvente;
 
@@ -8396,9 +7928,9 @@ Se tendrán por confesión expresa y espontánea, las afirmaciones contenidas en
 
 ##### Artículo 793.
 
-Cuando la persona a quien se señale para absolver posiciones sobre hechos propios, ya no labore para la empresa o establecimiento, previa comprobación del hecho el oferente de la prueba será requerido para que proporcione el domicilio donde deba ser citada. En caso de que el oferente ignore el domicilio, lo hará del conocimiento de la Junta antes de la fecha señalada para la celebración de la audiencia de desahogo de pruebas, y la Junta podrá solicitar a la empresa que proporcione el último domicilio que tenga registrado de dicha persona.
+Cuando la persona a quien se señale para absolver posiciones sobre hechos propios ya no labore para la empresa o establecimiento, previa comprobación del hecho, el oferente de la prueba será requerido para que proporcione el domicilio donde deba ser citada. En caso de que el oferente ignore el domicilio, lo hará del conocimiento de la Junta antes de la fecha señalada para la celebración de la audiencia de desahogo de pruebas, y la Junta podrá solicitar a la empresa que proporcione el último domicilio que tenga registrado de dicha persona. En el supuesto de que la persona a que se refiere este artículo haya dejado de prestar sus servicios a la empresa por un término mayor de tres meses, la prueba cambiará su naturaleza a testimonial.
 
-Si la persona citada no concurre el día y hora señalados, la Junta lo hará presentar por la policía.
+Si la persona citada no concurre el día y hora señalados, la Junta lo hará presentar mediante el uso de la fuerza pública.
 
 ##### Artículo 794.
 
@@ -8442,7 +7974,7 @@ Los interesados presentarán los originales de los documentos privados y, cuando
 
 Se reputa autor de un documento privado al que lo suscribe.
 
-Se entiende por suscripción, la colocación al pie del escrito de la firma o huella digital que sean idóneas, para identificar a la persona que suscribe.
+Se entiende por suscripción de un escrito la colocación al pie o al margen del mismo de la firma autógrafa de su autor o de su huella digital, como expresión de la voluntad de hacerlo suyo.
 
 La suscripción hace plena fe de la formulación del documento por cuenta del suscriptor cuando sea ratificado en su contenido y firma o huella digital; excepto en los casos en que el contenido no se repute proveniente del autor, circunstancia que deberá justificarse con prueba idónea y del señalado en el artículo 33 de esta Ley.
 
@@ -8460,11 +7992,11 @@ II. Listas de raya o nómina de personal, cuando se lleven en el centro de traba
 
 III. Controles de asistencia, cuando se lleven en el centro de trabajo;
 
-IV. Comprobantes de pagos de participación de utilidades, de vacaciones, de aguinaldos, así como las primas a que se refiere esta Ley; y
+IV. Comprobantes de pago de participación de utilidades, de vacaciones y de aguinaldos, así como las primas a que se refiere esta Ley, y pagos, aportaciones y cuotas de seguridad social; y
 
 V. Los demás que señalen las leyes.
 
-Los documentos señalados por la fracción I deberán conservarse mientras dure la relación laboral y hasta un año después; los señalados por las fracciones II, III y IV durante el último año y un año después de que se extinga la relación laboral, y los mencionados en la fracción V, conforme lo señalen las leyes que los rijan.
+Los documentos señalados en la fracción I deberán conservarse mientras dure la relación laboral y hasta un año después; los señalados en las fracciones II, III y IV, durante el último año y un año después de que se extinga la relación laboral; y los mencionados en la fracción V, conforme lo señalen las Leyes que los rijan.
 
 ##### Artículo 805.
 
@@ -8484,7 +8016,7 @@ Para que proceda la compulsa o cotejo, deberá exhibirse en la audiencia de ofre
 
 ##### Artículo 808.
 
-Para que hagan fe en la República, los documentos procedentes del extranjero deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares, en los términos que establezcan las leyes relativas.
+Para que hagan fe en la República, los documentos procedentes del extranjero deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares, en los términos que establezcan las Leyes relativas o los tratados internacionales.
 
 ##### Artículo 809.
 
@@ -8512,17 +8044,17 @@ De la Testimonial
 
 La parte que ofrezca prueba testimonial deberá cumplir con los requisitos siguientes:
 
-I. Solo podrán ofrecerse un máximo de tres testigos por cada hecho controvertido que se pretenda probar;
+I. Los testigos deberán ofrecerse en relación con los hechos controvertidos que se pretendan probar con su testimonio, hasta un máximo de cinco testigos para cada hecho, en el entendido de que para su desahogo se estará a lo dispuesto en la fracción X del artículo 815 de esta Ley;
 
-II. Indicará los nombres y domicilios de los testigos; cuando exista impedimento para presentar directamente a los testigos, deberá solicitarse a la Junta que los cite, señalando la causa o motivo justificados que le impidan presentarlos directamente;
+II. Indicará los nombres de los testigos; cuando exista impedimento para presentarlos directamente, podrá solicitar a la Junta que los cite, señalando la causa o los motivos justificados que se lo impidan, en cuyo caso deberá proporcionar sus domicilios y, de resultar éstos incorrectos, quedará a cargo del oferente su presentación;
 
 III. Si el testigo radica fuera del lugar de residencia de la Junta, el oferente deberá al ofrecer la prueba, acompañar interrogatorio por escrito, al tenor del cual deberá ser examinado el testigo; de no hacerlo, se declarará desierta. Asimismo, exhibirá copias del interrogatorio, las que se pondrán a disposición de las demás partes, para que dentro del término de tres días presenten su pliego de repreguntas en sobre cerrado; y
 
-IV. Cuando el testigo sea alto funcionario público, a juicio de la Junta, podrá rendir su declaración por medio de oficio, observándose lo dispuesto en este artículo en lo que sea aplicable.
+IV. Cuando el testigo sea servidor público de mando superior, a juicio de la Junta, podrá rendir su declaración por medio de oficio, observándose lo dispuesto en este artículo en lo que sea aplicable.
 
 ##### Artículo 814.
 
-La Junta, en el caso de la fracción II del artículo anterior, ordenará se cite al testigo para que rinda su declaración, en la hora y día que al efecto se señale, con el apercibimiento de ser presentado por conducto de la Policía.
+La Junta, en el caso de la fracción II del artículo anterior, ordenará que se cite al testigo para que rinda su declaración en la hora y día que al efecto se señale, con el apercibimiento de ser presentado por medio de la fuerza pública.
 
 ##### Artículo 815.
 
@@ -8530,29 +8062,33 @@ En el desahogo de la prueba testimonial se observarán las normas siguientes:
 
 I. El oferente de la prueba presentará directamente a sus testigos, salvo lo dispuesto en el artículo 813, y la Junta procederá a recibir su testimonio;
 
-II. El testigo deberá identificarse ante la Junta cuando así lo pidan las partes y si no puede hacerlo en el momento de la audiencia, la Junta le concederá tres días para ello;
+II. El testigo deberá identificarse ante la Junta en los términos de lo dispuesto en la fracción IV del artículo 884 de esta Ley;
 
 III. Los testigos serán examinados por separado, en el orden en que fueran ofrecidos. Los interrogatorios se formularán oralmente, salvo lo dispuesto en las fracciones III y IV del artículo 813 de esta Ley;
 
-IV. Después de tomarle al testigo la protesta de conducirse con verdad y de advertirle de las penas en que incurren los testigos falsos, se hará constar el nombre, edad, estado civil, domicilio, ocupación y lugar en que se trabaja y a continuación se procederá a tomar su declaración;
+IV. Después de tomar al testigo la protesta de conducirse con verdad y de advertirle de las penas en que incurren los testigos falsos, se harán constar el nombre, edad, estado civil, domicilio, ocupación y lugar en que se trabaja y a continuación se procederá a tomar su declaración;
 
 V. Las partes formularán las preguntas en forma verbal y directamente. La Junta admitirá aquellas que tengan relación directa con el asunto de que se trata y que no se hayan hecho con anterioridad al mismo testigo, o lleven implícita la contestación;
 
-VI. Primero interrogará el oferente de la prueba y posteriormente a las demás partes. La Junta, cuando lo estime pertinente, examinará directamente al testigo;
+VI. Primero interrogará al oferente de la prueba y posteriormente a las demás partes. La Junta, cuando lo estime pertinente, examinará directamente al testigo;
 
-VII. Las preguntas y respuestas se harán constar en autos, escribiéndose textualmente unas y otras;
+VII. Las preguntas y las respuestas se harán constar en autos, escribiéndose textualmente unas y otras;
 
-VIII. Los testigos están obligados a dar la razón de su dicho, y la Junta deberá solicitarla, respecto de las respuestas que no la lleven ya en sí; y
+VIII. Los testigos están obligados a dar la razón de su dicho, y la Junta deberá solicitarla, respecto de las respuestas que no la lleven ya en sí;
 
-IX. El testigo, enterado de su declaración, firmará al margen de las hojas que la contengan y así se hará constar por el Secretario; si no sabe o no puede leer o firmar la declaración, le será leída por el Secretario e imprimirá su huella digital y una vez ratificada, no podrá variarse ni en la substancia ni en la redacción.
+IX. El testigo, enterado de su declaración, firmará al margen de las hojas que la contengan y así se hará constar por el secretario; si no sabe o no puede leer o firmar la declaración, le será leída por el secretario e imprimirá su huella digital y, una vez ratificada, no podrá variarse en la sustancia ni en la redacción;
+
+X. Sólo se recibirá la declaración de tres testigos por cada hecho que se pretenda probar; en el caso que se presentaran más de tres testigos, el oferente de la prueba designará entre ellos quiénes la desahogarán; y
+
+XI. El desahogo de esta prueba será indivisible, salvo que alguno de los testigos radique fuera del lugar de residencia de la Junta y que la prueba tenga que desahogarse por exhorto, en cuyo caso la Junta adoptará las medidas pertinentes para que los otros testigos no tengan conocimiento previo de las declaraciones desahogadas.
 
 ##### Artículo 816.
 
-Si el testigo no habla el idioma español rendirá su declaración por medio de intérprete, que será nombrado por el tribunal, el que protestará su fiel desempeño. Cuando el testigo lo pidiere, además de asentarse su declaración en español, deberá escribirse en su propio idioma, por él o por el intérprete.
+Si el testigo no habla el idioma español, rendirá su declaración por medio de intérprete, que será nombrado por la Junta, el que protestará su fiel desempeño. Cuando el testigo lo pidiere, además de asentarse su declaración en español, deberá escribirse en su propio idioma, por él o por el intérprete.
 
 ##### Artículo 817.
 
-La Junta, al girar el exhorto para desahogar la prueba testimonial, acompañará el interrogatorio con las preguntas calificadas, e indicará a la autoridad exhortada, los nombres de las personas que tienen facultad para intervenir en la diligencia.
+La Junta, al girar el exhorto para desahogar la prueba testimonial, acompañará los interrogatorios con las preguntas y las repreguntas calificadas, a cuyo tenor deberá desahogarse la prueba, sin que las partes puedan ampliarlos, e indicará a la autoridad exhortada los nombres de las personas que tienen facultad para intervenir en la diligencia.
 
 ##### Artículo 818.
 
@@ -8586,17 +8122,11 @@ Los peritos deben tener conocimiento en la ciencia, técnica, o arte sobre el cu
 
 ##### Artículo 823.
 
-La prueba pericial deberá ofrecerse indicando la materia sobre la que deba versar, exhibiendo el cuestionario respectivo, con copia para cada una de las partes.
+La prueba pericial deberá ofrecerse indicando la materia sobre la que deba versar, exhibiendo el cuestionario respectivo, con copia para cada una de las partes. La omisión del cuestionario dará lugar a que la Junta no admita la prueba.
 
 ##### Artículo 824.
 
-La Junta nombrará los peritos que correspondan al trabajador, en cualquiera de los siguientes casos:
-
-I. Si no hiciera nombramiento de perito;
-
-II. Si designándolo no compareciera a la audiencia respectiva a rendir su dictamen; y
-
-III. Cuando el trabajador lo solicita, por no estar en posibilidad de cubrir los honorarios correspondientes.
+La Junta nombrará los peritos que correspondan al trabajador, cuando éste lo solicite.
 
 ##### Artículo 825.
 
@@ -8606,9 +8136,9 @@ I. Cada parte presentará personalmente a su perito el día de la audiencia, sal
 
 II. Los peritos protestarán de desempeñar su cargo con arreglo a la Ley e inmediatamente rendirán su dictamen; a menos que por causa justificada soliciten se señale nueva fecha para rendir su dictamen;
 
-III. La prueba se desahogará con el perito que concurra, salvo el caso de la fracción II del artículo que antecede, la Junta señalará nueva fecha, y dictará las medidas necesarias para que comparezca el perito;
+III. El día señalado para que tenga verificativo la audiencia respectiva, el o los peritos que concurran a la misma rendirán su dictamen. Si alguno no concurriera a la audiencia, sin causa justificada a juicio de la Junta, se señalará nueva fecha para que lo rinda, dictando la Junta las medidas para que comparezca;
 
-IV. Las partes y los miembros de la Junta podrán hacer a los peritos las preguntas que juzguen conveniente; y
+IV. Las partes y los miembros de la Junta podrán hacer a los peritos las preguntas que juzguen convenientes; y
 
 V. En caso de existir discrepancia en los dictámenes, la Junta designará un perito tercero.
 
@@ -8618,6 +8148,10 @@ El perito tercero en discordia que designe la Junta debe excusarse dentro de las
 
 La Junta calificará de plano la excusa y, declarada procedente, se nombrará nuevo perito.
 
+##### Artículo 826 Bis.
+
+Cuando el dictamen rendido por un perito sea notoriamente falso, tendencioso o inexacto, la Junta dará vista al Ministerio Público para que determine si existe la comisión de un delito.
+
 #### Sección Sexta · De la Inspección
 
 ##### Artículo 827.
@@ -8626,7 +8160,7 @@ La parte que ofrezca la inspección deberá precisar el objeto materia de la mis
 
 ##### Artículo 828.
 
-Admitida la prueba de inspección por la Junta, deberá señalar día, hora y lugar para su desahogo; si los documentos y objetos obran en poder de alguna de las partes, la Junta la apercibirá que, en caso de no exhibirlos, se tendrán por ciertos presuntivamente los hechos que se tratan de probar. Si los documentos y objetos se encuentran en poder de personas ajenas a la controversia se aplicarán los medios de apremio que procedan.
+Admitida la prueba de inspección por la Junta, señalará día, hora y lugar para su desahogo; si los documentos y objetos obran en poder de alguna de las partes, la Junta la apercibirá de que, en caso de no exhibirlos, se tendrán por ciertos presuntivamente los hechos que tratan de probarse, siempre que se trate de los documentos a que se refiere el artículo 804 de esta Ley. Si los documentos y objetos se encuentran en poder de personas ajenas a la controversia, se aplicarán los medios de apremio que procedan.
 
 ##### Artículo 829.
 
@@ -8672,6 +8206,80 @@ La instrumental es el conjunto de actuaciones que obren en el expediente, formad
 
 La Junta estará obligada a tomar en cuenta las actuaciones que obren en el expediente del juicio.
 
+#### Sección Novena · De los Elementos Aportados por los Avances de la Ciencia.
+
+##### Artículo 836-A.
+
+En el caso de que las partes ofrezcan como prueba, las señaladas en la fracción VIII del artículo 776, el oferente deberá proporcionar a la Junta los instrumentos, aparatos o elementos necesarios para que pueda apreciarse el contenido de los registros y reproducirse los sonidos e imágenes, por el tiempo indispensable para su desahogo.
+
+En caso de que el oferente justifique debidamente su impedimento para proporcionar dichos elementos, la Junta lo proveerá.
+
+##### Artículo 836-B.
+
+Para el desahogo o valoración de los medios de prueba referidos en esta Sección, se entenderá por:
+
+a) Autoridad Certificadora: a las dependencias y entidades de la Administración Pública Federal y a los prestadores de servicios de certificación que, conforme a las disposiciones jurídicas, tengan reconocida esta calidad y cuenten con la infraestructura tecnológica para la emisión, administración y registro de certificados digitales, así como para proporcionar servicios relacionados con los mismos;
+
+b) Clave de acceso: al conjunto único de caracteres alfanuméricos que un usuario emplea para acceder a un servicio, sistema o programa y que puede estar asociado a un medio físico, magnético o biométrico;
+
+c) Certificado Digital: a la constancia digital emitida por una Autoridad Certificadora que garantiza la autenticidad de los datos de identidad del titular del certificado;
+
+d) Contraseña: al conjunto único de caracteres secretos que permite validar la identificación de la persona a la que se le asignó una Clave de Acceso para ingresar a un servicio, sistema o programa;
+
+e) Clave privada: el conjunto de caracteres que genera el titular del certificado digital de manera exclusiva y secreta para crear su firma electrónica avanzada;
+
+f) Clave pública: los datos contenidos en un certificado digital que permiten la identificación del firmante y la verificación de la autenticidad de su firma electrónica avanzada;
+
+g) Destinatario: la persona designada por el emisor para recibir el mensaje de datos;
+
+h) Documento Digital: la información que sólo puede ser generada, consultada, modificada y procesada por medios electrónicos, y enviada a través de un mensaje de datos;
+
+i) Emisor: a la persona que envía un documento digital o un mensaje de datos;
+
+j) Firma electrónica: Conjunto de datos que en forma electrónica son vinculados o asociados a un mensaje de datos por cualquier tecnología y que son utilizados para identificar al firmante en relación con el mensaje de datos para indicar que aprueba la información contenida en el mensaje de datos;
+
+k) Firma Electrónica Avanzada: al conjunto de caracteres que permite la identificación del firmante en los documentos electrónicos o en los mensajes de datos, como resultado de utilizar su certificado digital y clave privada y que produce los mismos efectos jurídicos que la firma autógrafa;
+
+l) Firmante: a toda persona que utiliza su firma electrónica o firma electrónica avanzada para suscribir documentos digitales y, en su caso, mensajes de datos;
+
+m) Medios de Comunicación Electrónica: a los dispositivos tecnológicos para efectuar la transmisión y recepción de mensajes de datos y documentos digitales;
+
+n) Medios Electrónicos: a los dispositivos tecnológicos para el procesamiento, impresión, despliegue, almacenamiento, reproducción, recuperación, extracción y conservación de la información;
+
+ñ) Mensaje de Datos: al intercambio de información entre un emisor y un receptor a través de medios de comunicación electrónica;
+
+o) Número de identificación personal (NIP): la contraseña que se utiliza en los servicios, sistemas o programas, para obtener acceso, o identificarse; y
+
+p) Sistema de información: conjunto de elementos tecnológicos para generar, enviar, recibir, almacenar o procesar información.
+
+##### Artículo 836-C.
+
+La parte que ofrezca algún documento digital o cualquier medio electrónico, deberá cumplir con lo siguiente:
+
+I. Presentar una impresión o copia del documento digital; y
+
+II. Acompañar los datos mínimos para la localización del documento digital, en el medio electrónico en que aquél se encuentre.
+
+##### Artículo 836-D.
+
+En el desahogo de la prueba de medios electrónicos, se observarán las normas siguientes:
+
+I. La Junta designará el o los peritos que se requieran, a fin de determinar si la información contenida en el documento digital se encuentra íntegra e inalterada, tal y como fue generada desde el primer momento, ubicándola en tiempo y espacio entre el emisor y destinatario.
+
+La Junta podrá comisionar al actuario para que asociado del o los peritos designados, dé fe del lugar, fecha y hora en que se ponga a disposición de éstos el medio en el cual se contenga el documento digital.
+
+II. Si el documento digital o medio electrónico, se encuentra en poder del oferente, éste deberá poner a disposición del o los peritos designados, los medios necesarios para emitir su dictamen, apercibido que de no hacerlo se decretará desierta la prueba.
+
+III. Si el documento digital o medio electrónico se encuentra en poder de la contraparte, se deberá poner igualmente a disposición del o los peritos designados, con el apercibimiento de que en caso de no hacerlo, se establecerá la presunción de ser ciertos los hechos que el oferente exprese, en relación con el documento digital.
+
+IV. Si el documento digital o medio electrónico se encuentra en poder de un tercero, éste tiene la obligación de ponerlo a disposición de la Junta, bajo los apercibimientos establecidos en el artículo 731 de esta Ley.
+
+Para los efectos de este artículo, se estará a lo dispuesto en la Sección Quinta del presente Capítulo, relativo a la prueba pericial.
+
+V. Las partes y los miembros de la Junta podrán hacer al o a los peritos designados las preguntas que juzguen convenientes.
+
+Para el desahogo de la prueba a que se refiere este artículo, la Junta en todo momento podrá asistirse de elementos humanos y tecnológicos necesarios para mejor proveer.
+
 ### CAPITULO XIII · De las resoluciones laborales
 
 ##### Artículo 837.
@@ -8690,7 +8298,7 @@ La Junta dictará sus resoluciones en el acto en que concluya la diligencia resp
 
 ##### Artículo 839.
 
-Los resoluciones de las Juntas deberán ser firmadas por los integrantes de ellas y por el Secretario, el mismo día en que las voten.
+Las resoluciones de las Juntas deberán ser firmadas por los integrantes de ellas y por el secretario el día en que las voten, en los términos del artículo 620 de esta Ley.
 
 ##### Artículo 840.
 
@@ -8700,19 +8308,19 @@ I. Lugar, fecha y Junta que lo pronuncie;
 
 II. Nombres y domicilios de las partes y de sus representantes;
 
-III. Un extracto de la demanda y su contestación que deberá contener con claridad y concisión, las peticiones de las partes y los hechos controvertidos;
+III. Extracto de la demanda y su contestación; réplica y contrarréplica y, en su caso, de la reconvención y contestación a la misma, que deberá contener con claridad y concisión las peticiones de las partes y los hechos controvertidos;
 
-IV. Enumeración de las pruebas y apreciación que de ellas haga la Junta;
+IV. Enumeración de las pruebas admitidas y desahogadas y su apreciación en conciencia, señalando los hechos que deban considerarse probados;
 
 V. Extracto de los alegatos;
 
-VI. Las razones legales o de equidad; la jurisprudencia y doctrina que les sirva de fundamento; y
+VI. Las razones legales o de equidad, la jurisprudencia y doctrina que les sirva de fundamento; y
 
 VII. Los puntos resolutivos.
 
 ##### Artículo 841.
 
-Los laudos se dictarán a verdad sabida, y buena fe guardada y apreciando los hechos en conciencia, sin necesidad de sujetarse a reglas o formulismos sobre estimación de las pruebas, pero expresarán los motivos y fundamentos legales en que se apoyen.
+Los laudos se dictarán a verdad sabida y buena fe guardada, y apreciando los hechos en conciencia, sin necesidad de sujetarse a reglas o formulismos sobre estimación de las pruebas, pero las Juntas de Conciliación y Arbitraje están obligadas a estudiar pormenorizadamente las rendidas, haciendo la valoración de las mismas. Asimismo, expresarán los motivos y fundamentos legales en que se apoyan.
 
 ##### Artículo 842.
 
@@ -8764,13 +8372,13 @@ Contra actos de los presidentes, actuarios o funcionarios, legalmente habilitado
 
 ##### Artículo 850.
 
-De la revisión conocerá:
+De la revisión conocerán:
 
-I. La Junta de Conciliación o la Junta Especial de la de Conciliación y Arbitraje correspondiente, cuando se trate de actos de los presidentes de las mismas;
+I. La Junta Especial de la de Conciliación y Arbitraje correspondiente, integrada con los representantes de los patrones y de los trabajadores y con el auxiliar que esté conociendo del asunto, conforme al artículo 635 de esta Ley, cuando se trate de actos de los Presidentes de las mismas;
 
-II. El Presidente de la Junta o el de la Junta Especial correspondiente, cuando se trate de actos de los actuarios o funcionarios legalmente habilitados; y
+II. El Presidente de la Junta o el de la Junta Especial correspondiente, cuando se trate de actos de los actuarios o de los funcionarios legalmente habilitados; y
 
-III. El Pleno de la Junta de Conciliación y Arbitraje cuando se trate de actos del Presidente de ésta o cuando se trate de un conflicto que afecte a dos o más ramas de la industria.
+III. La Junta de Conciliación y Arbitraje con la participación del Secretario General de Acuerdos, cuando se trate de actos del Presidente de ésta o cuando se trate de un conflicto que afecte dos o más ramas de la industria.
 
 ##### Artículo 851.
 
@@ -8790,7 +8398,7 @@ Declarada procedente la revisión, se modificará el acto que la originó en los
 
 ##### Artículo 853.
 
-Procede la reclamación contra las medidas de apremio que impongan los Presidentes de las Juntas de Conciliación, de las Juntas Especiales y de las de Conciliación y Arbitraje, así como de los auxiliares de éstas.
+Procede la reclamación contra las medidas de apremio que impongan los Presidentes de las Juntas Especiales y de las de Conciliación y Arbitraje, así como de los auxiliares de éstas.
 
 ##### Artículo 854.
 
@@ -8808,7 +8416,7 @@ De resultar procedente la reclamación, se modificará en lo que procede la medi
 
 ##### Artículo 856.
 
-Los Presidentes de las Juntas, podrán imponer a la parte que promueva la revisión o la reclamación notoriamente improcedente, una multa de dos a siete veces el salario mínimo general que rija en el lugar y tiempo en que se cometió la violación.
+Los Presidentes de las Juntas podrán imponer a la parte que promueva la revisión o la reclamación en forma notoriamente improcedente una multa de hasta 100 veces el salario mínimo general que rija en el Distrito Federal en el tiempo en que se presentaron.
 
 Se entenderá que es notoriamente improcedente cuando a juicio de su Presidente, según el caso, aparezca que se promueva con el propósito de demorar o entorpecer la administración de justicia.
 
@@ -8820,7 +8428,7 @@ Los Presidentes de las Juntas de Conciliación y Arbitraje, o los de las Especia
 
 I. Arraigo, cuando haya temor de que se ausente u oculte la persona contra quien se entable o se haya entablado una demanda; y
 
-II. Secuestro provisional, cuando sea necesario asegurar los bienes de una persona, empresa o establecimiento.
+II. Embargo precautorio, cuando sea necesario asegurar los bienes de una persona, empresa o establecimiento.
 
 ##### Artículo 858.
 
@@ -8836,15 +8444,15 @@ La persona que quebrante el arraigo decretado, será responsable del delito de d
 
 ##### Artículo 861.
 
-Para decretar un secuestro provisional se observarán las normas siguientes:
+Para decretar un embargo precautorio, se observarán las normas siguientes:
 
 I. El solicitante determinará el monto de lo demandado y rendirá las pruebas que juzgue conveniente para acreditar la necesidad de la medida;
 
-II. El Presidente de la Junta, tomando en consideración las circunstancias del caso y las pruebas rendidas, dentro de las veinticuatro horas siguientes a la en que se le solicite, podrá decretar el secuestro provisional si, a su juicio, es necesaria la providencia;
+II. El Presidente de la Junta, tomando en consideración las circunstancias del caso y las pruebas rendidas, dentro de las veinticuatro horas siguientes a aquella en que se le solicite, podrá decretar el embargo precautorio si, a su juicio, es necesaria la providencia;
 
-III. El auto que ordene el secuestro determinará el monto por el cual deba practicarse; y
+III. El auto que ordene el embargo determinará el monto por el cual deba practicarse; y
 
-IV. El Presidente de la Junta dictará las medidas a que se sujetará el secuestro, a efecto de que no se suspenda o dificulte el desarrollo de las actividades de la empresa o establecimiento.
+IV. El Presidente de la Junta dictará las medidas a que se sujetará el embargo, a efecto de que no se suspenda o dificulte el desarrollo de las actividades de la empresa o establecimiento.
 
 ##### Artículo 862.
 
@@ -8852,7 +8460,9 @@ En el caso de la fracción II del artículo anterior, se considerará necesaria 
 
 ##### Artículo 863.
 
-La providencia se llevará a cabo aún cuando no esté presente la persona contra quien se dictó. El propietario de los bienes secuestrados será depositario de los mismos, sin necesidad de que acepte el cargo ni proteste desempeñarlo, con las responsabilidades y atribuciones inherentes al mismo, observándose las disposiciones de esta Ley en lo que sean aplicables. En caso de persona moral, el depositario lo será el gerente o director general o quien tenga la representación legal de la misma.
+La providencia se llevará a cabo aún cuando no esté presente la persona contra quien se dicte. El propietario de los bienes embargados será depositario de los mismos, sin necesidad de que acepte el cargo ni proteste desempeñarlo, con las responsabilidades y atribuciones inherentes al mismo, observándose las disposiciones de esta Ley en lo que sean aplicables. En caso de persona moral, el depositario será el gerente o director general o quien tenga la representación legal de la misma.
+
+Tratándose de inmuebles, a petición del interesado, la Junta solicitará la inscripción del embargo precautorio en el Registro Público de la Propiedad.
 
 ##### Artículo 864.
 
@@ -8862,27 +8472,23 @@ Si el demandado constituye depósito u otorga fianza bastante, no se llevará a 
 
 ##### Artículo 865.
 
-En los procedimientos ante las Juntas Federales y Locales de Conciliación, se observarán las normas que establecen las fracciones I y II del artículo 600 de esta Ley.
+(Se deroga).
 
 ##### Artículo 866.
 
-Terminado el procedimiento de conciliación, las partes deberán señalar domicilio para recibir notificaciones, en el lugar de residencia de la Junta Federal, Local o Especial de Conciliación y Arbitraje a la que deba remitirse el expediente; si no hacen el señalamiento, las subsecuentes notificaciones, aún las personales, se harán en el boletín o estrados de la Junta correspondiente.
+(Se deroga).
 
 ##### Artículo 867.
 
-Cuando las Juntas de Conciliación conozcan de los conflictos que tengan por objeto el cobro de prestaciones, cuyo monto no exceda del importe de tres meses de salario, se observarán las disposiciones contenidas en el Capítulo XVIII de este Título.
+(Se deroga).
 
 ##### Artículo 868.
 
-Si no existe Junta de Conciliación Permanente, los trabajadores o patrones, pueden ocurrir ante la representación de la Secretaría del Trabajo y Previsión Social o ante la Autoridad Municipal, según el caso, para que se integre la Junta de Conciliación Accidental.
+(Se deroga).
 
 ##### Artículo 869.
 
-En la integración de las Juntas de Conciliación Accidentales, se observarán las normas siguientes:
-
-I. Las autoridades señaladas en el artículo anterior, en su caso, prevendrán a los trabajadores y patrones que dentro del término de veinticuatro horas designen sus representantes, y les darán a conocer el nombre del representante del Gobierno que presidirá la Junta; y
-
-II. Las autoridades citadas harán las designaciones de los representantes obrero y patronal, cuando éstos no hayan hecho las designaciones
+(Se deroga).
 
 ### CAPITULO XVII · Procedimiento ordinario ante las juntas de conciliación y arbitraje
 
@@ -8900,9 +8506,9 @@ La demanda se formulará por escrito, acompañando tantas copias de la misma, co
 
 ##### Artículo 873.
 
-El Pleno o la Junta Especial, dentro de las veinticuatro horas siguientes, contadas a partir del momento en que reciba el escrito de demanda, dictará acuerdo, en el que señalará día y hora para la celebración de la audiencia de conciliación, demanda y excepciones y ofrecimiento y admisión de pruebas, que deberá efectuarse dentro de los quince días siguientes al en que se haya recibido el escrito de demanda. En el mismo acuerdo se ordenará se notifique personalmente a las partes, con diez días de anticipación a la audiencia cuando menos, entregando al demandado copia cotejada de la demanda, y ordenando se notifique a las partes con el apercibimiento al demandado de tenerlo por inconforme con todo arreglo, por contestada la demanda en sentido afirmativo, y por perdido el derecho de ofrecer pruebas, si no concurre a la audiencia.
+La Junta, dentro de las veinticuatro horas siguientes, contadas a partir del momento en que reciba el escrito de demanda, dictará acuerdo, en el que señalará día y hora para la celebración de la audiencia de conciliación, demanda y excepciones, que deberá efectuarse dentro de los quince días siguientes a aquél en que se haya recibido el escrito de demanda. Dicho acuerdo se notificará personalmente a las partes, con diez días de anticipación a la audiencia cuando menos, entregando al demandado copia cotejada de la demanda y del acuerdo admisorio, apercibiéndolas de lo dispuesto en el artículo 879 de esta Ley.
 
-Cuando el actor sea el trabajador o sus beneficiarios, la Junta, en caso de que notare alguna irregularidad en el escrito de demanda, o que estuviera ejercitando acciones contradictorias, al admitir la demanda le señalara los defectos u omisiones en que haya incurrido y lo prevendrá para que los subsane dentro de un término de tres días.
+Cuando el actor sea el trabajador o sus beneficiarios, la Junta, en caso de que notare alguna irregularidad en el escrito de demanda o que estuviere ejercitando acciones contradictorias o no hubiere precisado el salario base de la acción, en el acuerdo le señalará los defectos u omisiones en que haya incurrido y la prevendrá para que los subsane dentro de un término de tres días. Dicho acuerdo deberá notificarse personalmente al actor.
 
 ##### Artículo 874.
 
@@ -8912,59 +8518,61 @@ Las partes que comparecieren a la audiencia, quedarán notificadas de la nueva f
 
 ##### Artículo 875.
 
-La audiencia a que se refiere el artículo 873 constará de tres etapas:
+La audiencia a que se refiere el artículo 873 constará de dos etapas:
 
 a) De conciliación;
 
-b) De demanda y excepciones; y
+b) De demanda y excepciones;
 
-c) De ofrecimiento y admisión de pruebas.
+c) (Se deroga).
 
-La audiencia se iniciará con la comparecencia de las partes que concurran a la misma; las que estén ausentes, podrán intervenir en el momento en que se presenten, siempre y cuando la Junta no haya tomado el acuerdo de las peticiones formuladas en la etapa correspondiente.
+La audiencia se iniciará con la comparecencia de las partes que concurran a la misma; las que estén ausentes podrán intervenir en el momento en que se presenten, siempre que la Junta no haya tomado el acuerdo de las peticiones formuladas en la etapa correspondiente.
 
 ##### Artículo 876.
 
 La etapa conciliatoria se desarrollará en la siguiente forma:
 
-I. Las partes comparecerán personalmente a la Junta, sin abogados patronos, asesores o apoderados.
+I. Las partes comparecerán personalmente a la Junta y podrán ser asistidas por sus abogados patronos, asesores o apoderados. Si se trata de personas morales, el representante o apoderado deberá tener facultades para asumir una solución conciliatoria que obligue a su representada;
 
-II. La Junta intervendrá para la celebración de pláticas entre las partes y exhortará a las mismas para que procuren llegar a un arreglo conciliatorio.
+II. La Junta, por conducto del funcionario conciliador o de su personal jurídico, intervendrá para la celebración de pláticas entre las partes y las exhortará para que procuren llegar a un arreglo conciliatorio. Les propondrá opciones de solución justas y equitativas que, a su juicio, sean adecuadas para dar por terminada la controversia;
 
 III. Si las partes llegaren a un acuerdo, se dará por terminado el conflicto. El convenio respectivo, aprobado por la Junta, producirá todos los efectos jurídicos inherentes a un laudo;
 
-IV. Las partes de común acuerdo, podrán solicitar se suspenda la audiencia con objeto de conciliarse; y la Junta, por una sola vez, la suspenderá y fijará su reanudación dentro de los ocho días siguientes, quedando notificadas las partes de la nueva fecha con los apercibimientos de Ley;
+IV. (Se deroga).
 
-V. Si las partes no llegan a un acuerdo, se les tendrá por inconformes, pasando a la etapa de demanda y excepciones; y
+V. La Junta, por conducto del funcionario conciliador o de su personal jurídico, procurará, sin entorpecer el procedimiento y estando en contacto personal con las partes y hasta antes de que se declare cerrada la instrucción, que lleguen a un acuerdo conciliatorio, insistiendo siempre en opciones de solución justas y equitativas para ambas; si las partes no llegan a un acuerdo se les tendrá por inconformes, pasando a la etapa de demanda y excepciones; y
 
 VI. De no haber concurrido las partes a la conciliación, se les tendrá por inconformes con todo arreglo y deberán presentarse personalmente a la etapa de demanda y excepciones.
 
 ##### Artículo 877.
 
-La Junta de Conciliación y Arbitraje que reciba un expediente de la de Conciliación, citará a las partes a la etapa de demanda y excepciones, y ofrecimiento y admisión de pruebas.
+(Se deroga).
 
 ##### Artículo 878.
 
 La etapa de demanda y excepciones, se desarrollará conforme a las normas siguientes:
 
-I. El Presidente de la Junta hará una exhortación a las partes y si éstas persistieren en su actitud, dará la palabra al actor para la exposición de su demanda;
+I. El Presidente o el funcionario conciliador y demás personal jurídico de la Junta exhortará nuevamente a las partes para que resuelvan el conflicto mediante un arreglo conciliatorio y, si éstas persistieran en su actitud, dará la palabra al actor para la exposición de su demanda;
 
-II. El actor expondrá su demanda, ratificándola o modificándola, precisando los puntos petitorios. Si el promovente, siempre que se trate del trabajador, no cumpliere los requisitos omitidos o no subsanare las irregularidades que se le hayan indicado en el planteamiento de las adiciones a la demanda, la Junta lo prevendrá para que lo haga en ese momento;
+II. Si el actor es el trabajador o sus beneficiarios y no cumple los requisitos omitidos o no subsana las irregularidades que se le hayan indicado en el planteamiento de las adiciones a la demanda, la Junta lo prevendrá para que lo haga en ese momento.
+
+El actor expondrá su demanda, ratificándola, aclarándola o modificándola, precisando los puntos petitorios. En caso de modificación, aclaración o enderezamiento de la demanda, cuando el actor sea el trabajador o sus beneficiarios, podrá hacerlo por una sola vez en esta etapa. Tratándose de aclaración o modificación de la demanda, la Junta, a petición del demandado, señalará nueva fecha, dentro del término de diez días, para la continuación de la audiencia a fin de que pueda contestar la demanda en su totalidad; en caso de enderezamiento, la Junta procederá de igual forma, pero de oficio;
 
 III. Expuesta la demanda por el actor, el demandado procederá en su caso, a dar contestación a la demanda oralmente o por escrito. En este último caso estará obligado a entregar copia simple al actor de su contestación; si no lo hace, la Junta la expedirá a costa del demandado;
 
 IV. En su contestación opondrá el demandado sus excepciones y defensas, debiendo de referirse a todos y cada uno de los hechos aducidos en la demanda, afirmándolos o negándolos, y expresando los que ignore cuando no sean propios; pudiendo agregar las explicaciones que estime convenientes. El silencio y las evasivas harán que se tengan por admitidos aquellos sobre los que no se suscite controversia, y no podrá admitirse prueba en contrario. La negación pura y simple del derecho, importa la confesión de los hechos. La confesión de éstos no entraña la aceptación del derecho;
 
-V. La excepción de incompetencia no exime al demandado de contestar la demanda en la misma audiencia y si no lo hiciere y la Junta se declara competente, se tendrá por confesada la demanda;
+V. La excepción de incompetencia no exime al demandado de contestar la demanda en la misma audiencia y, si no lo hace y la Junta se declara competente, se tendrá por contestada en sentido afirmativo la demanda;
 
 VI. Las partes podrán por una sola vez, replicar y contrarreplicar brevemente, asentándose en actas sus alegaciones si lo solicitaren;
 
-VII. Si el demandado reconviene al actor, éste procederá a contestar de inmediato, o bien, a solicitud del mismo, la Junta acordará la suspensión de la audiencia, señalando para su continuación una fecha dentro de los cinco días siguientes; y
+VII. Si el demandado reconviene al actor, éste procederá a contestar de inmediato; o bien, a solicitud del mismo, la Junta acordará la suspensión de la audiencia, señalando para su continuación una fecha dentro de los diez días siguientes; y
 
-VIII. Al concluir el período de demanda y excepciones, se pasará inmediatamente al de ofrecimiento y admisión de pruebas. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción.
+VIII. Al concluir el periodo de demanda y excepciones, se citará a la audiencia de ofrecimiento y admisión de pruebas, que tendrá verificativo dentro de los diez días siguientes. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción turnándose los autos a resolución.
 
 ##### Artículo 879.
 
-La audiencia se llevará a cabo, aún cuando no concurran las partes.
+La audiencia de conciliación, demanda y excepciones se llevará a cabo, aún cuando no concurran las partes.
 
 Si el actor no comparece al período de demanda y excepciones, se tendrá por reproducida en vía de demanda su comparecencia o escrito inicial.
 
@@ -8972,15 +8580,15 @@ Si el demandado no concurre, la demanda se tendrá por contestada en sentido afi
 
 ##### Artículo 880.
 
-La etapa de ofrecimiento y admisión de pruebas se desarrollará conforme a las normas siguientes:
+La audiencia de ofrecimiento y admisión de pruebas se desarrollará conforme a lo dispuesto en el último párrafo del artículo 875 de esta Ley y de acuerdo con las normas siguientes:
 
 I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos. Inmediatamente después el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte y aquel a su vez podrá objetar las del demandado;
 
-II. Las partes podrán ofrecer nuevas pruebas, siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas. Asimismo, en caso de que el actor necesite ofrecer pruebas relacionadas con hechos desconocidos que se desprendan de la contestación de la demanda, podrá solicitar que la audiencia se suspenda para reanudarse a los 10 días siguientes a fin de preparar dentro de este plazo las pruebas correspondientes a tales hechos;
+II. Las partes podrán ofrecer nuevas pruebas, siempre que se relacionen con las ofrecidas por la contraparte, así como las que tiendan a justificar sus objeciones a las mismas, en tanto no se haya cerrado la audiencia, y por una sola vez;
 
 III. Las partes deberán ofrecer sus pruebas, observando las disposiciones del Capítulo XII de este Título; y
 
-IV. Concluido el ofrecimiento, la Junta resolverá inmediatamente sobre las pruebas que admita y las que deseche.
+IV. Concluido el ofrecimiento, la Junta resolverá inmediatamente sobre las pruebas que admita y las que deseche. En caso contrario, la Junta se podrá reservar para resolver dentro de los cinco días siguientes.
 
 ##### Artículo 881.
 
@@ -8988,29 +8596,37 @@ Concluida la etapa de ofrecimiento y admisión de pruebas, solamente se admitir�
 
 ##### Artículo 882.
 
-Si las partes están conformes con los hechos y la controversia queda reducida a un punto de derecho, al concluir la audiencia de conciliación, demanda y excepciones, y ofrecimiento y admisión de pruebas, se otorgará a las partes término para alegar y se dictará el laudo.
+(Se deroga).
 
 ##### Artículo 883.
 
-La Junta, en el mismo acuerdo en que admita las pruebas, señalará día y hora para la celebración de la audiencia de desahogo de pruebas, que deberá efectuarse dentro de los diez días hábiles siguientes, y ordenará, en su caso, se giren los oficios necesarios para recabar los informes o copias que deba expedir alguna autoridad o exhibir persona ajena al juicio y que haya solicitado el oferente, con los apercibimientos señalados en esta Ley; y dictará las medidas que sean necesarias, a fin de que el día de la audiencia se puedan desahogar todas las pruebas que se hayan admitido.
+La Junta, en el mismo acuerdo en que admita las pruebas, señalará día y hora para la celebración de la audiencia de desahogo de pruebas, que deberá efectuarse dentro de los diez días hábiles siguientes, y ordenará, en su caso, que se giren los oficios y exhortos necesarios para recabar los informes o copias que deba expedir alguna autoridad o exhibir persona ajena al juicio y que haya solicitado el oferente, con los apercibimientos señalados en esta Ley; y dictará las medidas necesarias, a fin de que el día de la audiencia se puedan desahogar todas las pruebas que se hayan admitido.
 
-Cuando por la naturaleza de las pruebas admitidas, la Junta considere que no es posible desahogarlas en una sola audiencia, en el mismo acuerdo señalará los días y horas en que deberán desahogarse, aunque no guarden el orden en que fueron ofrecidas, procurando se reciban primero las del actor y después las del demandado. Este período no deberá exceder de treinta días.
+Cuando, por la naturaleza de las pruebas admitidas, la Junta considere que no es posible desahogarlas en una sola audiencia, en el mismo acuerdo señalará los días y horas en que deberán desahogarse, aunque no guarden el orden en que fueron ofrecidas, procurando que se reciban primero las del actor y después las del demandado. Este periodo no deberá exceder de treinta días.
 
 ##### Artículo 884.
 
 La audiencia de desahogo de pruebas se llevará a cabo conforme a las siguientes normas:
 
-I. Abierta la audiencia, se procederá a desahogar todas las pruebas que se encuentren debidamente preparadas, procurando que sean primeramente las del actor e inmediatamente las del demandado o, en su caso, aquellas que hubieren sido señaladas para desahogarse en su fecha;
+I. Abierta la audiencia, se procederá a desahogar todas las pruebas que se encuentren debidamente preparadas, procurando que sean primero las del actor e inmediatamente las del demandado o, en su caso, las que hubieren sido señaladas para desahogarse en su fecha;
 
-II. Si faltare por desahogar alguna prueba, por no estar debidamente preparada, se suspenderá la audiencia para continuarla dentro de los diez días siguientes, haciéndose uso de los medios de apremio a que se refiere esta Ley;
+II. Si alguna de las pruebas admitidas no estuviere debidamente preparada, se señalará nuevo día y hora para su desahogo dentro de los diez días siguientes, haciéndose uso de los medios de apremio;
 
-III. En caso de que las únicas pruebas que falten por desahogar sean copias o documentos que hayan solicitado las partes, no se suspenderá la audiencia, sino que la Junta requerirá a la autoridad o funcionario omiso, le remita los documentos o copias; si dichas autoridades o funcionarios no cumplieran con esa obligación, a solicitud de parte, la Junta se lo comunicará al superior jerárquico para que se le apliquen las sanciones correspondientes; y
+III. Si las pruebas por desahogar son únicamente copias o documentos que deban remitir autoridades o terceros, la Junta los requerirá en los siguientes términos:
 
-IV. Desahogadas las pruebas, las partes, en la misma audiencia, podrán formular sus alegatos.
+a) Si se tratare de autoridades, la Junta las requerirá para que envíen dichos documentos o copias y, si no lo cumplieren, a solicitud de parte, la Junta lo comunicará al superior inmediato para que se le apliquen las sanciones correspondientes; y
+
+b) Si se trata de terceros, la Junta dictará las medidas de apremio correspondientes, hasta que se logre la presentación de las copias o documentos respectivos;
+
+IV. La Junta deberá requerir a la persona que comparezca a desahogar la prueba correspondiente para que se identifique con cualquier documento oficial; y, si no lo hiciere en el momento de la audiencia, se le concederán tres días para ello, apercibiéndola de que, en caso contrario, se dejará sin efectos la declaración correspondiente; y
+
+V. Al concluir el desahogo de las pruebas, la Junta concederá a las partes un término de dos días para que presenten sus alegatos por escrito.
 
 ##### Artículo 885.
 
-Al concluir el desahogo de las pruebas, formulados los alegatos de las partes y previa certificación del Secretario de que ya no quedan pruebas por desahogar, el auxiliar, de oficio, declarará cerrada la instrucción, y dentro de los diez días siguientes formulará por escrito el proyecto de resolución en forma de laudo, que deberá contener:
+Al concluir el desahogo de las pruebas, formulados los alegatos de las partes y previa certificación del secretario de que ya no quedan pruebas por desahogar, se dará vista a las partes por el término de tres días para que expresen su conformidad con dicha certificación, bajo el apercibimiento de que si transcurrido el término señalado no lo hicieren y hubiere pruebas por desahogar, se les tendrá por desistidos de las mismas para todos los efectos legales y se procederá conforme a lo que dispone el párrafo siguiente. En caso de que las partes, al desahogar la vista señalada, acrediten que alguna o algunas pruebas ofrecidas no se desahogaron, la Junta, con citación de las mismas, señalará dentro de los ocho días siguientes día y hora para su desahogo. Desahogadas las pruebas pendientes, las partes formularán alegatos dentro de las veinticuatro horas siguientes.
+
+Hecho lo anterior, el auxiliar, de oficio, declarará cerrada la instrucción y, dentro de los diez días siguientes, formulará por escrito el proyecto de laudo, que deberá contener los elementos que se señalan en el artículo 840 de esta Ley.
 
 I. Un extracto de la demanda y de la contestación, réplica y contrarréplica; y en su caso, de la reconvención y contestación de la misma;
 
@@ -9024,11 +8640,11 @@ V. Los puntos resolutivos.
 
 ##### Artículo 886.
 
-Del proyecto de laudo formulado por el auxiliar, se entregará una copia a cada uno de los miembros de la Junta.
+Del proyecto de laudo se entregará copia a cada uno de los integrantes de la Junta.
 
-Dentro de los cinco días hábiles siguientes al de haber recibido la copia del proyecto, cualquiera de los miembros de la Junta podrá solicitar que se practiquen las diligencias que no se hubieren llevado a cabo por causas no imputables a las partes, o cualquiera diligencia que juzgue conveniente para el esclarecimiento de la verdad.
+Dentro de los cinco días hábiles siguientes a aquel en que se hubiere recibido la copia del proyecto, cualquiera de los integrantes de la Junta podrá solicitar que se practiquen las diligencias que juzgue convenientes para el esclarecimiento de la verdad.
 
-La Junta, con citación de las partes, señalará, en su caso, día y hora para el desahogo, dentro de un término de ocho días, de aquellas pruebas que no se llevaron a cabo o para la práctica de las diligencias solicitadas.
+La Junta, con citación de las partes, señalará, en su caso, día y hora para el desahogo, dentro de un término de ocho días, de las pruebas que no se llevaron a cabo o para la práctica de las diligencias solicitadas.
 
 ##### Artículo 887.
 
@@ -9036,9 +8652,9 @@ Transcurrido el término a que se refiere el artículo anterior, concedido a los
 
 ##### Artículo 888.
 
-La discusión y votación del proyecto de laudo, se llevará a cabo en sesión de la Junta, de conformidad con las normas siguientes:
+La discusión y votación del proyecto de laudo se llevarán a cabo en sesión de la Junta, certificando el secretario la presencia de los participantes que concurran a la votación, de conformidad con las normas siguientes:
 
-I. Se dará lectura al proyecto de resolución a los alegatos y observaciones formuladas por las partes;
+I. Se dará lectura al proyecto de resolución y a los alegatos y a las observaciones formulados por las partes;
 
 II. El Presidente pondrá a discusión el negocio con el resultado de las diligencias practicadas; y
 
@@ -9056,7 +8672,7 @@ Engrosado el laudo, el Secretario recogerá, en su caso, las firmas de los miemb
 
 ##### Artículo 891.
 
-Si la Junta estima que alguna de las partes obró con dolo o mala fé, podrá imponerle en el laudo una multa hasta de siete veces el salario mínimo general, vigente en el tiempo y lugar de residencia de la Junta. La misma multa podrá imponerse a los representantes de las partes.
+Si la Junta estima que alguna de las partes obró con dolo o mala fe, podrá imponerle en el laudo una multa, en los términos de lo dispuesto en la fracción II del artículo 729 de esta Ley.
 
 ### CAPITULO XVIII · De los procedimientos especiales
 
@@ -9103,6 +8719,138 @@ La Junta, para los efectos del artículo 503 de esta Ley, solicitará al patrón
 ##### Artículo 899.
 
 En los procedimientos especiales se observarán las disposiciones de los Capítulos XII y XVII de este Título, en lo que sean aplicables.
+
+#### Sección Primera · Conflictos Individuales de Seguridad Social
+
+##### Artículo 899-A.
+
+Los conflictos individuales de seguridad social son los que tienen por objeto reclamar el otorgamiento de prestaciones en dinero o en especie, derivadas de los diversos seguros que componen el régimen obligatorio del Seguro Social, organizado y administrado por el Instituto Mexicano del Seguro Social, y de aquellas que conforme a la Ley del Seguro Social y la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, deban cubrir el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y las Administradoras de Fondos para el Retiro, así como las que resulten aplicables en virtud de contratos colectivos de trabajo o contratos-Ley que contengan beneficios en materia de seguridad social.
+
+La competencia para conocer de estos conflictos, por razón de territorio corresponderá a la Junta Especial de la Federal de Conciliación y Arbitraje del lugar en el que se encuentre la clínica del Instituto Mexicano del Seguro Social a la cual se encuentren adscritos los asegurados o sus beneficiarios.
+
+En caso de que se demanden únicamente prestaciones relacionadas con la devolución de fondos para el retiro y vivienda, corresponderá la competencia a la Junta Especial de la Federal de Conciliación y Arbitraje de la entidad federativa donde se encuentre el último centro de trabajo del derechohabiente.
+
+##### Artículo 899-B.
+
+Los conflictos individuales de seguridad social, podrán ser planteados por:
+
+I. Los trabajadores, asegurados, pensionados o sus beneficiarios, que sean titulares de derechos derivados de los seguros que comprende el régimen obligatorio del Seguro Social;
+
+II. Los trabajadores que sean titulares de derechos derivados del Fondo Nacional de la Vivienda para los Trabajadores o sus beneficiarios;
+
+III. Los titulares de las cuentas individuales del Sistema de Ahorro para el Retiro de los trabajadores sujetos a esta Ley o sus beneficiarios; y
+
+IV. Los trabajadores a quienes les resulten aplicables los contratos colectivos de trabajo o contratos-Ley que contengan beneficios en materia de seguridad social.
+
+##### Artículo 899-C.
+
+Las demandas relativas a los conflictos a que se refiere esta sección, deberán contener:
+
+I. Nombre, domicilio y fecha de nacimiento del promovente y los documentos que acrediten su personalidad;
+
+II. Exposición de los hechos y causas que dan origen a su reclamación;
+
+III. Las pretensiones del promovente, expresando claramente lo que se le pide;
+
+IV. Nombre y domicilio de las empresas o establecimientos en las que ha laborado; puestos desempeñados; actividades desarrolladas; antigüedad generada y cotizaciones al régimen de seguridad social;
+
+V. Número de seguridad social o referencia de identificación como asegurado, pensionado o beneficiario, clínica o unidad de medicina familiar asignada;
+
+VI. En su caso, el último estado de la cuenta individual de ahorro para el retiro, constancia expedida por el Instituto Mexicano del Seguro Social de otorgamiento o negativa de pensión, o constancia de otorgamiento o negativa de crédito para vivienda;
+
+VII. Los documentos expedidos por los patrones, el Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y la Administradora de Fondos para el Retiro correspondiente o, en su caso, el acuse de recibo de la solicitud de los mismos y, en general, la información necesaria que garantice la sustanciación del procedimiento con apego al principio de inmediatez;
+
+VIII. Las demás pruebas que juzgue conveniente para acreditar sus pretensiones; y
+
+IX. Las copias necesarias de la demanda y sus anexos, para correr traslado a la contraparte.
+
+##### Artículo 899-D.
+
+Los organismos de seguridad social, conforme a lo dispuesto por el artículo 784 deberán exhibir los documentos que, de acuerdo con las Leyes, tienen la obligación legal de expedir y conservar, bajo el apercibimiento de que de no presentarlos, se presumirán ciertos los hechos alegados por el promovente. En todo caso, corresponde a los organismos de seguridad social, probar su dicho cuando exista controversia sobre:
+
+I. Fecha de inscripción al régimen de seguridad social;
+
+II. Número de semanas cotizadas en los ramos de aseguramiento;
+
+III. Promedios salariales de cotización de los promoventes;
+
+IV. Estado de cuenta de aportaciones de vivienda y retiro de los asegurados;
+
+V. Disposiciones o retiros de los asegurados, sobre los recursos de las cuentas;
+
+VI. Otorgamiento de pensiones o indemnizaciones;
+
+VII. Vigencia de derechos; y
+
+VIII. Pagos parciales otorgados a los asegurados.
+
+##### Artículo 899-E.
+
+Tratándose de prestaciones derivadas de riesgos de trabajo o enfermedades generales, el procedimiento se sujetará a las siguientes reglas:
+
+Las partes designarán a sus peritos médicos en la demanda y en la contestación de la misma, los cuales deberán contar con el registro a que se refiere el artículo 899-F.
+
+En caso de que el actor omita la designación de perito médico o no solicite a la Junta se le designe uno en términos de lo dispuesto por el artículo 824 de esta Ley, ésta lo prevendrá para que subsane la omisión en un término de tres días, apercibiéndolo que en caso de no hacerlo se desechará de plano el escrito de demanda.
+
+La prueba pericial se integrará con los peritajes que rindan los peritos de las partes, y con el que rinda el perito que designe la Junta Especial del conocimiento.
+
+La Junta, al designar a los peritos, procurará que los mismos dependan de distinta institución que los designados por las partes, salvo que en el cuerpo de peritos médicos a que se refiere el artículo 899-G de esta Ley, no se cuente con alguno que satisfaga esa circunstancia.
+
+Los dictámenes deberán contener:
+
+I. Datos de la identificación y de la acreditación de la profesión de médico de cada uno de los peritos;
+
+II. Datos de identificación del actor, precisando el documento con el que se comprobó su identidad;
+
+III. Diagnóstico sobre los padecimientos reclamados;
+
+IV. Tratándose de calificación y valuación de riesgos de trabajo, los razonamientos para determinar la relación de causa efecto entre la actividad específica desarrollada por el trabajador y el estado de incapacidad cuya calificación o valuación se determine;
+
+V. Los medios de convicción en los cuales se basan las conclusiones del peritaje, incluyendo la referencia a los estudios médicos a los que se hubiera sometido el trabajador; y
+
+VI. En su caso, el porcentaje de valuación, de disminución orgánico funcional, o la determinación del estado de invalidez.
+
+Las partes contarán con un plazo de diez días hábiles contados a partir de la celebración de la audiencia inicial, para que sus peritos acepten y protesten el cargo conferido y expresen a la Junta en forma justificada, los requerimientos necesarios para la emisión del dictamen pericial y, en su caso, para la determinación del nexo causal, tratándose de riesgos de trabajo.
+
+La Junta se hará cargo de la notificación de los peritos que ésta designe y dictará las medidas que considere pertinentes para agilizar la emisión de los dictámenes periciales y requerirá al trabajador para que se presente a la realización de los estudios médicos o diligencias que requieran los peritos.
+
+Dentro de los treinta días siguientes a la celebración de la audiencia inicial, la Junta señalará día y hora para la audiencia en que se recibirán los dictámenes periciales con citación de las partes, con el apercibimiento que de no comparecer, se les tendrá por perdido su derecho para formular repreguntas u observaciones.
+
+Si la parte actora no acude a las diligencias ordenadas por la Junta a que se refiere el inciso c) de este artículo, o si abandona los estudios médicos o diligencias ordenadas, se hará constar la falta de interés, a efecto de que se decrete la deserción de la prueba, salvo las causas justificadas a que se refiere el artículo 785 de esta Ley.
+
+La Junta deberá aplicar a los peritos las medidas de apremio que establece esta Ley, para garantizar la emisión oportuna del dictamen.
+
+Las partes en la audiencia de desahogo de la pericial médica, por sí o a través de un profesionista en medicina, podrán formular las observaciones o preguntas que juzguen convenientes en relación a las consideraciones y conclusiones de la prueba pericial médica.
+
+Los miembros de la Junta podrán formular preguntas al perito o a los peritos que comparezcan a la diligencia.
+
+La Junta determinará si se acreditó el nexo causal entre la actividad específica desarrollada por el trabajador y el medio ambiente de trabajo señalado en el escrito de demanda, así como el origen profesional del riesgo de trabajo, para calificarlo como tal.
+
+La Junta podrá requerir a las autoridades, instituciones públicas y organismos descentralizados, la información que tengan en su poder y que contribuya al esclarecimiento de los hechos; también podrá solicitar estudios médicos de instituciones de salud públicas o privadas; practicar toda clase de consultas e inspecciones en las empresas o establecimientos en los que el trabajador haya laborado y, de ser necesario, se auxiliará con la opinión de peritos en otras materias.
+
+En la ejecución del laudo las partes podrán convenir las modalidades de su cumplimiento.
+
+##### Artículo 899-F.
+
+Los peritos médicos que intervengan en los conflictos vinculados con la calificación y valuación de riesgos de trabajo y enfermedades generales, deberán estar inscritos en el registro de la Junta Federal de Conciliación y Arbitraje.
+
+Para tal efecto, los peritos médicos deberán satisfacer los requisitos siguientes:
+
+I. Estar legalmente autorizados y capacitados para ejercer la profesión de médico;
+
+II. Gozar de buena reputación;
+
+III. Tener tres años de experiencia profesional vinculada con la medicina del trabajo;
+
+IV. No haber sido condenado por delito intencional sancionado con pena corporal; y
+
+V. Observar lo dispuesto por el artículo 707 de esta Ley, así como las disposiciones de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, en lo que respecta a las causas de impedimento y excusa.
+
+Si durante el lapso de seis meses los peritos médicos incumplen en más de tres ocasiones, con la presentación oportuna de los dictámenes médicos que le sean requeridos, sin que medie causa justificada, a juicio del Presidente de la Junta Federal de Conciliación y Arbitraje será dado de baja del registro de peritos médicos y no podrá reingresar sino transcurridos dos años, contados a partir de la fecha de la baja.
+
+##### Artículo 899-G.
+
+La Junta Federal de Conciliación y Arbitraje integrará un cuerpo de peritos médicos especializados en medicina del trabajo, para lo cual las instituciones públicas que presten servicios de salud, deberán designar a los peritos médicos que les sean solicitados por la Junta, en los términos del Reglamento correspondiente.
 
 ### CAPITULO XIX · Procedimientos de los conflictos colectivos de naturaleza económica
 
@@ -9438,11 +9186,11 @@ Procedimientos de Ejecución
 
 ##### Artículo 939.
 
-Las disposiciones de este Título rigen la ejecución de los laudos dictados por las Juntas de Conciliación Permanentes y por las Juntas de Conciliación y Arbitraje. Son también aplicables a los laudos arbitrales, a las resoluciones dictadas en los conflictos colectivos de naturaleza económica y a los convenios celebrados ante las Juntas.
+Las disposiciones de este Título rigen la ejecución de los laudos dictados por las Juntas de Conciliación y Arbitraje. Son también aplicables a los laudos arbitrales, a las resoluciones dictadas en los conflictos colectivos de naturaleza económica y a los convenios celebrados ante las Juntas.
 
 ##### Artículo 940.
 
-La ejecución de los laudos a que se refiere el artículo anterior, corresponde a los Presidentes de las Juntas de Conciliación Permanente, a los de las de Conciliación y Arbitraje y a los de las Juntas Especiales, a cuyo fin dictarán las medidas necesarias para que la ejecución sea pronta y expedita.
+La ejecución de los laudos a que se refiere el artículo anterior corresponde a los Presidentes de las Juntas de Conciliación y Arbitraje y a los de las Juntas Especiales, a cuyo fin dictarán las medidas necesarias para que la ejecución sea pronta y expedita.
 
 ##### Artículo 941.
 
@@ -9462,7 +9210,7 @@ Los gastos que se originen en la ejecución de los laudos, serán a cargo de la 
 
 ##### Artículo 945.
 
-Los laudos deben cumplirse dentro de las setenta y dos horas siguientes a la en que surta efectos la notificación.
+Los laudos deben cumplirse dentro de los quince días siguientes al día en que surta efectos la notificación.
 
 Las partes pueden convenir en las modalidades de su cumplimiento.
 
@@ -9480,7 +9228,7 @@ II. Condenará a indemnizar al trabajador con el importe de tres meses de salari
 
 III. Procederá a fijar la responsabilidad que resulte al patrón del conflicto, de conformidad con lo dispuesto en el artículo 50, fracciones I y II; y
 
-IV. Además, condenará al pago de los salarios vencidos desde la fecha en que dejaron de pagarlos hasta que se paguen las indemnizaciones, así como al pago de la prima de antigüedad, en los términos del artículo 162.
+IV. Además, condenará al pago de los salarios vencidos e intereses, en su caso, conforme a lo establecido en el artículo 48, así como al pago de la prima de antigüedad, en los términos del artículo 162.
 
 Las disposiciones contenidas en este artículo no son aplicables en los casos de las acciones consignadas en el artículo 123, fracción XXII, apartado A de la Constitución.
 
@@ -9490,7 +9238,7 @@ Si la negativa a aceptar el laudo pronunciado por la Junta fuere de los trabajad
 
 ##### Artículo 949.
 
-Siempre que en ejecución de un laudo deba entregarse una suma de dinero o el cumplimiento de un derecho al trabajador, el Presidente cuidará que se le otorgue personalmente. En caso de que la parte demandada radique fuera del lugar de residencia de la Junta, se girará exhorto al Presidente de la Junta de Conciliación Permanente, al de la Junta de Conciliación y Arbitraje o al Juez más próximo a su domicilio, para que se cumplimente la ejecución del laudo.
+Siempre que en ejecución de un laudo deba entregarse una suma de dinero o el cumplimiento de un derecho al trabajador, el Presidente cuidará que se le otorgue personalmente. En caso de que la parte demandada radique fuera del lugar de residencia de la Junta, se girará exhorto al Presidente de la Junta de Conciliación y Arbitraje o al Juez más próximo a su domicilio para que se cumplimente la ejecución del laudo.
 
 #### Sección Segunda · Del Procedimiento del Embargo
 
@@ -9566,7 +9314,7 @@ El Actuario requerirá al demandando a fin de que le exhiba los documentos y con
 
 ##### Artículo 960.
 
-Si llega a asegurarse el título mismo del crédito, se designará un depositario que lo conserve en guarda, quien estará obligado a hacer todo lo necesario para que no se altere ni menoscabe el derecho que el título represente, y a intentar todas las acciones y recursos que la Ley concede para hacer efectivo el crédito, quedando sujeto, además, a las obligaciones que impongan las leyes a los depositarios.
+Si llega a asegurarse un título de crédito, se designará un depositario que lo conserve en guarda, quien estará obligado a hacer todo lo necesario para que no se altere ni menoscabe el derecho que el Título represente y a intentar todas las acciones y los recursos que la Ley concede para hacer efectivo el crédito, quedando sujeto, además, a las obligaciones que impongan las Leyes a los depositarios.
 
 ##### Artículo 961.
 
@@ -9574,7 +9322,7 @@ Si el crédito fuese litigioso, se notificará el embargo a la autoridad que con
 
 ##### Artículo 962.
 
-Si los bienes embargados fueren inmuebles, se ordenará dentro de las veinticuatro horas siguientes, la inscripción en el Registro Público de la Propiedad.
+Si los bienes embargados fueren inmuebles, el Presidente ejecutor, bajo su responsabilidad, ordenará, dentro de las 24 horas siguientes, la inscripción en el Registro Público de la Propiedad.
 
 ##### Artículo 963.
 
@@ -9616,9 +9364,9 @@ El actor puede pedir la ampliación del embargo:
 
 I. Cuando no basten los bienes embargados para cubrir las cantidades por las que se despachó ejecución, después de rendido el avalúo de los mismos; y
 
-II. Cuando se promueva una tercería.
+II. Cuando se promueva una tercería y se haya dictado auto admisorio.
 
-El Presidente Ejecutor podrá decretar la ampliación si a su juicio concurren las circunstancias a que se refieren las fracciones anteriores, sin ponerlo en conocimiento del demandado.
+El Presidente ejecutor podrá decretar la ampliación si, a su juicio, concurren las circunstancias a que se refieren las fracciones anteriores, sin ponerlo en conocimiento del demandado.
 
 ##### Artículo 966.
 
@@ -9626,7 +9374,7 @@ Cuando se practiquen varios embargos sobre los mismos bienes, se observarán las
 
 I. Si se practican en ejecución de créditos de trabajo, se pagará en el orden sucesivo de los embargos, salvo el caso de preferencia de derechos;
 
-II. El embargo practicado en ejecución de un crédito de trabajo, aun cuando sea posterior, es preferente sobre los practicados por autoridades distintas de la Junta de Conciliación y de Conciliación y Arbitraje siempre que dicho embargo se practique antes que quede fincado el remate.
+II. El embargo practicado en ejecución de un crédito de trabajo, aun cuando sea posterior, es preferente sobre los practicados por autoridades distintas de la Junta de Conciliación y Arbitraje siempre que dicho embargo se practique antes que quede fincado el remate.
 
 Cuando el Presidente Ejecutor tenga conocimiento de la existencia de un embargo, hará saber a la autoridad que lo practicó, que los bienes embargados quedan afectos al pago preferente del crédito de trabajo y continuará los procedimientos de ejecución hasta efectuar el pago. El saldo líquido que resulte después de hacer el pago, se pondrá a disposición de la autoridad que hubiese practicado el embargo.
 
@@ -9648,19 +9396,19 @@ En los embargos se observarán las normas siguientes:
 
 A. Si los bienes embargados son muebles:
 
-I. Se efectuará su avalúo por la persona que designe el Presidente Ejecutor;
+I. Se efectuará su avalúo por la persona que designe el Presidente ejecutor; en los casos en que el Presidente ejecutor se percate de que el avalúo de los bienes es notoriamente inferior o superior a su valor, podrá ordenar la práctica de otro, razonando los motivos por los cuales considera que el avalúo no corresponde al valor del bien;
 
 II. Servirá de base para el remate el monto del avalúo; y
 
-III. El remate se anunciará en los tableros de la Junta y en el Palacio Municipal o en la oficina de gobierno que designe el Presidente Ejecutor.
+III. El remate se anunciará en el boletín laboral o en los estrados de la Junta, en su caso y en el palacio municipal o en la oficina de gobierno que designe el Presidente ejecutor.
 
 B. Si los bienes embargados son inmuebles:
 
-I. Se tomará como avalúo el de un perito valuador legalmente autorizado, que será designado por el Presidente de la Junta;
+I. Se tomará como avalúo el de un perito valuador legalmente autorizado, que será designado por el Presidente de la Junta y en su caso, se procederá conforme a lo dispuesto por la fracción I del apartado A de este artículo;
 
-II. El embargante exhibirá certificado de gravámenes expedido por el Registro Público de la Propiedad, de diez años anteriores a la fecha en que ordenó el remate. Si en autos obrare ya otro certificado, sólo se pedirá al Registro, el relativo al período o períodos que aquél no abarque; y
+II. El embargante exhibirá certificado de gravámenes expedido por el Registro Público de la Propiedad, de 10 años anteriores a la fecha en que ordenó el remate. Si en autos obrare ya otro certificado, se pedirá al Registro sólo el relativo al periodo o periodos que aquél no abarque; y
 
-III. El proveído que ordene el remate, se fijará en los tableros de la Junta y se publicará, por una sola vez, en la Tesorería de cada Entidad Federativa y en el periódico de mayor circulación del lugar en que se encuentren ubicados los bienes, convocando postores.
+III. El proveído que ordene el remate se publicará, por una sola vez, en el boletín laboral o en los estrados de la Junta, en su caso y se fijará, por una sola vez, en la Tesorería de cada entidad federativa y en el periódico de mayor circulación del lugar en que se encuentren ubicados los bienes, convocando postores.
 
 Se citará personalmente a los acreedores que aparezcan en el certificado de gravámenes, a efecto de que hagan valer sus derechos.
 
@@ -9668,17 +9416,17 @@ Se citará personalmente a los acreedores que aparezcan en el certificado de gra
 
 Si los bienes embargados son una empresa o establecimiento se observará el procedimiento siguiente:
 
-I. Se efectuará un avalúo por perito que se solicitará por el Presidente de la Junta a la Nacional Financiera, S. A., o a alguna otra institución oficial;
+I. Se efectuará un avalúo por perito que se solicitará por el Presidente de la Junta a Nacional Financiera, SNC, o a alguna otra institución oficial;
 
 II. Servirá de base para el remate el monto de avalúo;
 
-III. Es aplicable lo dispuesto en la fracción III referente a muebles; y
+III. Es aplicable lo dispuesto en la fracción III del apartado A del artículo anterior, referente a muebles; y
 
 IV. Si la empresa o establecimiento se integra con bienes inmuebles, se recabará el certificado de gravámenes a que se refiere la fracción II del apartado B del artículo anterior.
 
 ##### Artículo 970.
 
-Postura legal es la que cubre las dos terceras partes del avalúo. La persona que concurra como postor, deberá presentar por escrito su postura y exhibir en un billete de depósito de la Nacional Financiera, S. A., el importe del diez por ciento de su puja.
+Postura legal es la que cubre las dos terceras partes del avalúo. La persona que concurra como postor deberá presentar por escrito su postura y exhibir en un billete de depósito de Nacional Financiera, SNC, el importe de 10 por ciento de su puja.
 
 ##### Artículo 971.
 
@@ -9734,7 +9482,7 @@ Las tercerías pueden ser excluyentes de dominio o de preferencia. Las primeras 
 
 ##### Artículo 977.
 
-Las tercerías se tramitarán y resolverán por el Pleno, por la Junta Especial o por la de Conciliación que conozca del juicio principal, sustanciándose en forma incidental, conforme a las normas siguientes:
+Las tercerías se tramitarán y resolverán por el Pleno o por la Junta Especial que conozca del juicio principal, sustanciándose en forma incidental, conforme a las normas siguientes:
 
 I. La tercería se interpondrá por escrito, acompañando el título en que se funde y las pruebas pertinentes;
 
@@ -9756,7 +9504,7 @@ La autoridad exhortada, al devolver el exhorto, remitirá la demanda de tercerí
 
 ##### Artículo 979.
 
-Cuando exista un conflicto individual o colectivo, los trabajadores podrán solicitar a la Junta, para los efectos del artículo 113, que prevenga a la autoridad jurisdiccional o administrativa ante la que se tramiten juicios en los que se pretendan hacer efectivos créditos en contra del patrón, para que, antes de llevar a cabo el remate o adjudicación de los bienes embargados, notifique al solicitante, a fin de que esté en posibilidad de hacer valer sus derechos.
+Cuando exista un conflicto individual o colectivo, los trabajadores podrán solicitar a la Junta, para los efectos del artículo 113, que prevenga a la autoridad jurisdiccional o administrativa ante la que se tramiten juicios en los que se pretendan hacer efectivos créditos contra el patrón para que, antes de llevar a cabo el remate o la adjudicación de los bienes embargados, les notifique para garantizar el derecho preferente que la Ley les concede en dicha disposición.
 
 Si resultan insuficientes los bienes embargados para cubrir los créditos de todos los trabajadores, se harán a prorrata dejando a salvo sus derechos.
 
@@ -9796,7 +9544,7 @@ La cancelación de la fianza o la devolución del depósito, también podrá tra
 
 ##### Artículo 985.
 
-Cuando la Secretaría de Hacienda y Crédito Público, sin haber mediado objeción de los trabajadores, modifique el ingreso global gravable declarado por el causante, y éste haya impugnado dicha resolución, podrá solicitar a la Junta de Conciliación y Arbitraje, dentro de los 3 días siguientes al recibo de la notificación, la suspensión del reparto adicional de utilidades a los trabajadores, para lo cual adjuntará:
+Cuando la Secretaría de Hacienda y Crédito Público, sin haber mediado objeción de los trabajadores, modifique el ingreso global gravable declarado por el causante, y éste haya impugnado dicha resolución, podrá solicitar a la Junta de Conciliación y Arbitraje, dentro de los 3 días siguientes a aquel en que haya presentado la impugnación correspondiente, la suspensión del reparto adicional de utilidades a los trabajadores, para lo cual adjuntará:
 
 I. La garantía que otorgue en favor de los trabajadores que será por:
 
@@ -9804,7 +9552,9 @@ a) La cantidad adicional a repartir a los trabajadores.
 
 b) Los intereses legales computados por un año.
 
-II. Copia de la resolución dictada por la Secretaría de Hacienda y Crédito Público.
+II. Copia de la resolución dictada por la Secretaría de Hacienda y Crédito Público; y
+
+III. El nombre y domicilio de los representantes de los trabajadores sindicalizados, no sindicalizados y de confianza.
 
 ##### Artículo 986.
 
@@ -9814,9 +9564,11 @@ Si la solicitud del patrón no reúne los requisitos legales, la Junta la desech
 
 ##### Artículo 987.
 
-Cuando trabajadores y patrones lleguen a un convenio o liquidación de un trabajador, fuera de juicio, podrán concurrir ante las Juntas de Conciliación, de Conciliación y Arbitraje y las Especiales, solicitando su aprobación y ratificación, en los términos a que se refiere el párrafo segundo del artículo 33 de esta Ley, para cuyo efecto se identificarán a satisfacción de aquélla.
+Cuando trabajadores y patrones lleguen a un convenio o liquidación de un trabajador, fuera de juicio, podrán concurrir ante las Juntas de Conciliación y Arbitraje y las Especiales, solicitando su aprobación y ratificación, en los términos a que se refiere el párrafo segundo del artículo 33 de esta Ley, para cuyo efecto se identificarán a satisfacción de aquélla.
 
-En los convenios en que se dé por terminada la relación de trabajo, deberá desglosarse la cantidad que se le entregue al trabajador por concepto de participación de utilidades. En caso de que la Comisión Mixta aún no haya determinado la participación individual de los trabajadores, se dejarán a salvo sus derechos, hasta en tanto se formule el proyecto del reparto individual.
+En los convenios en que se dé por terminada la relación de trabajo deberá desglosarse la cantidad que se entregue al trabajador por concepto de salario, de prestaciones devengadas y de participación de utilidades. En caso de que la Comisión Mixta para la Participación de las Utilidades en la empresa o establecimiento aún no haya determinado la participación individual de los trabajadores, se dejarán a salvo sus derechos, hasta en tanto se formule el proyecto del reparto individual.
+
+Los convenios celebrados en los términos de este artículo serán aprobados por la Junta de Conciliación y Arbitraje competente, cuando no afecten derechos de los trabajadores, y tendrán efectos definitivos, por lo que se elevarán a la categoría de laudo ejecutoriado.
 
 ##### Artículo 988.
 
@@ -9834,9 +9586,7 @@ El trabajador o sus beneficiarios que deban recibir alguna cantidad de dinero en
 
 ##### Artículo 991.
 
-En los casos de rescisión previstos en el párrafo final del artículo 47, el patrón podrá acudir ante la Junta de Conciliación o de Conciliación y Arbitraje competente, a solicitar se notifique al trabajador, por conducto del Actuario de la Junta, el aviso a que el citado precepto se refiere. La Junta, dentro de los 5 días siguientes al recibo de la promoción, deberá proceder a la notificación.
-
-El actuario levantará acta circunstanciada de la diligencia.
+En los casos de rescisión previstos en el artículo 47, el patrón podrá acudir ante la Junta de Conciliación y Arbitraje competente a solicitar que se notifique al trabajador el aviso a que el citado precepto se refiere, por los medios indicados en el mismo. La Junta, dentro de los cinco días siguientes al recibo de la promoción, deberá proceder a la notificación.
 
 ## TITULO · DIECISEIS
 
@@ -9844,89 +9594,123 @@ Responsabilidades y Sanciones
 
 ##### Artículo 992.
 
-Las violaciones a las normas de trabajo cometidas por los patrones o por los trabajadores, se sancionarán de conformidad con las disposiciones de este Título, independientemente de la responsabilidad que les corresponda por el incumplimiento de sus obligaciones.
+Las violaciones a las normas de trabajo cometidas por los patrones o por los trabajadores, se sancionarán de conformidad con las disposiciones de este Título, independientemente de la responsabilidad que les corresponda por el incumplimiento de sus obligaciones, sin perjuicio de las sanciones previstas en otros ordenamientos legales y de las consecuencias jurídicas que procedan en materia de bienes y servicios concesionados.
 
-La cuantificación de las sanciones pecuniarias que en el presente Título se establecen, se hará tomando como base de cálculo la cuota diaria de salario mínimo general vigente, en el lugar y tiempo en que se cometa la violación.
+La cuantificación de las sanciones pecuniarias que en el presente Título se establecen, se hará tomando como base de cálculo la cuota diaria de salario mínimo general vigente en el Distrito Federal, al momento de cometerse la violación.
+
+Para la imposición de las sanciones, se tomará en cuenta lo siguiente:
+
+I. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
+II. La gravedad de la infracción;
+
+III. Los daños que se hubieren producido o puedan producirse;
+
+IV. La capacidad económica del infractor; y
+
+V. La reincidencia del infractor.
+
+En todos los casos de reincidencia se duplicará la multa impuesta por la infracción anterior.
+
+Se entiende por reincidencia, para los efectos de esta Ley y demás disposiciones derivadas de ella, cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha del acta en que se hizo constar la infracción precedente, siempre que ésta no hubiese sido desvirtuada.
+
+Cuando en un solo acto u omisión se afecten a varios trabajadores, se impondrá sanción por cada uno de los trabajadores afectados. Si con un solo acto u omisión se incurre en diversas infracciones, se aplicarán las sanciones que correspondan a cada una de ellas, de manera independiente.
+
+Cuando la multa se aplique a un trabajador, ésta no podrá exceder al importe señalado en el artículo 21 Constitucional.
 
 ##### Artículo 993.
 
-Al patrón que no cumpla las normas que determinan el porcentaje o la utilización exclusiva de trabajadores mexicanos en las empresas o establecimientos se le impondrá una multa por el equivalente de 15 a 155 veces el salario mínimo general, conforme a lo dispuesto en el artículo que antecede.
+Al patrón que no cumpla las normas que determinan el porcentaje o la utilización exclusiva de trabajadores mexicanos en las empresas o establecimientos se le impondrá una multa por el equivalente de 250 a 2500 veces el salario mínimo general.
 
 ##### Artículo 994.
 
-Se impondrá multa, cuantificada en los términos del artículo 992, por el equivalente:
+Se impondrá multa, por el equivalente a:
 
-I. De 3 a 155 veces el salario mínimo general, al patrón que no cumpla las disposiciones contenidas en los artículos 61, 69, 76 y 77;
+I. De 50 a 250 veces el salario mínimo general, al patrón que no cumpla las disposiciones contenidas en los artículos 61, 69, 76 y 77;
 
-II. De 15 a 315 veces el salario mínimo general, al patrón que no cumpla las obligaciones que le impone el Capítulo VIII del Título Tercero;
+II. De 250 a 5000 veces el salario mínimo general, al patrón que no cumpla las obligaciones que le impone el Capítulo VIII del Título Tercero, relativo a la Participación de los Trabajadores en las Utilidades de las Empresas;
 
-III. De 3 a 95 veces el salario mínimo general al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV y XXII;
+III. De 50 a 1500 veces el salario mínimo general al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV y XXII;
 
-IV. De 15 a 315 veces el salario mínimo general, al patrón que no cumpla con lo dispuesto por la fracción XV del artículo 132. La multa se duplicará, si la irregularidad no es subsanada dentro del plazo que se conceda para ello;
+IV. De 250 a 5000 veces el salario mínimo general, al patrón que no cumpla con lo dispuesto por la fracción XV del artículo 132;
 
-V. De 15 a 315 veces el salario mínimo general, al patrón que no permita la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento; y no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las leyes para prevenir los riesgos de trabajo. La multa se duplicará, si la irregularidad no es subsanada dentro del plazo que se conceda para ello, sin perjuicio de que las autoridades procedan en los términos del artículo 512-D;
+V. De 250 a 5000 veces el salario mínimo general, al patrón que no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las Leyes para prevenir los riesgos de trabajo;
 
-VI. De 15 a 155 veces el salario mínimo general, al patrón que viole las prohibiciones contenidas en el artículo 133, fracciones II, IV, VI y VII.
+VI. De 250 a 5000 veces el salario mínimo general, al patrón que cometa cualquier acto o conducta discriminatoria en el centro de trabajo; al que realice actos de hostigamiento sexual o que tolere o permita actos de acoso u hostigamiento sexual en contra de sus trabajadores; y
+
+VII. De 250 a 2500 veces el salario mínimo general, al patrón que viole las prohibiciones contenidas en el artículo 133, fracciones II, IV, V, VI y VII, y 357 segundo párrafo.
 
 ##### Artículo 995.
 
-Al patrón que viole las normas que rigen el trabajo de las mujeres y de los menores, se le impondrá multa por el equivalente de 3 a 155 veces el salario mínimo general, calculado en los términos del artículo 992.
+Al patrón que viole las prohibiciones contenidas en el artículo 133 fracciones XIV y XV, y las normas que rigen el trabajo de las mujeres y de los menores, se le impondrá una multa equivalente de 50 a 2500 veces el salario mínimo general.
+
+##### Artículo 995 Bis.
+
+Al patrón que infrinja lo dispuesto en el artículo 22 Bis, primer párrafo de esta Ley, se le castigará con prisión de 1 a 4 años y multa de 250 a 5000 veces el salario mínimo general.
 
 ##### Artículo 996.
 
-Al armador, naviero o fletador, de conformidad a lo dispuesto por el artículo 992, se le impondrá multa por el equivalente:
+Al armador, naviero o fletador, se le impondrá multa por el equivalente a:
 
-I. De 3 a 31 veces el salario mínimo general, si no cumple las disposiciones contenidas en los artículos 204, fracción II \_y 213, fracción II; y
+I. De 50 a 500 veces el salario mínimo general, si no cumple las disposiciones contenidas en los artículos 204, fracción II, y 213, fracción II; y
 
-II. De 3 a 155 veces el salario mínimo general, al que no cumpla la obligación señalada en el artículo 204, fracción IX.
+II. De 50 a 2500 veces el salario mínimo general, al que no cumpla la obligación señalada en el artículo 204, fracción IX.
 
 ##### Artículo 997.
 
-Al patrón que viole las normas protectoras del trabajo del campo y del trabajo a domicilio, se le impondrá multa por el equivalente de 15 a 155 veces el salario mínimo general, conforme a lo establecido en el artículo 992.
+Al patrón que viole las normas protectoras del trabajo del campo y del trabajo a domicilio, se le impondrá multa por el equivalente de 250 a 2500 veces el salario mínimo general.
 
 ##### Artículo 998.
 
-Conforme a lo dispuesto en el artículo 992, al patrón que no facilite al trabajador doméstico que carezca de instrucción, la asistencia a una escuela primaria, se le impondrá multa por el equivalente de 3 a 15 veces el salario mínimo general.
+Al patrón que no facilite al trabajador doméstico que carezca de instrucción, la asistencia a una escuela primaria, se le impondrá multa por el equivalente de 50 a 250 veces el salario mínimo general.
 
 ##### Artículo 999.
 
-Al patrón que viole las normas protectoras del trabajo en hoteles, restaurantes, bares y otros establecimientos semejantes, se le impondrá multa por el equivalente de 3 a 155 veces el salario mínimo general, conforme a lo establecido en el artículo 992.
+Al patrón que viole las normas protectoras del trabajo en hoteles, restaurantes, bares y otros establecimientos semejantes, se le impondrá multa por el equivalente de 50 a 2500 veces el salario mínimo general.
 
 ##### Artículo 1000.
 
-El incumplimiento de las normas relativas a la remuneración de los trabajos, duración de la jornada y descansos, contenidas en un contrato ley, o en un contrato colectivo de trabajo, cometido en el transcurso de una semana se sancionará con multas por el equivalente de 15 a 315 veces el salario mínimo general, conforme a lo establecido en el artículo 992 tomando en consideración la gravedad de la falta. Si el incumplimiento se prolonga dos o más semanas, se acumularán las multas. La reincidencia se sancionará con la misma multa, aumentada a un veinticinco por ciento.
+El incumplimiento de las normas relativas a la remuneración de los trabajos, duración de la jornada y descansos, contenidas en un contrato Ley, o en un contrato colectivo de trabajo, se sancionará con multa por el equivalente de 250 a 5000 veces el salario mínimo general.
 
 ##### Artículo 1001.
 
-Al patrón que viole las normas contenidas en el Reglamento Interior de Trabajo, se le impondrá multa por el equivalente de 3 a 30 veces el salario mínimo general, conforme a lo establecido en el artículo 992.
+Al patrón que viole las normas contenidas en el Reglamento Interior de Trabajo, se le impondrá multa por el equivalente de 50 a 500 veces el salario mínimo general.
 
 ##### Artículo 1002.
 
-De conformidad con lo que establece el artículo 992, por violaciones a las normas de trabajo no sancionadas en este Capítulo o en alguna otra disposición de esta Ley, se impondrá al infractor multa por el equivalente de 3 a 315 veces el salario mínimo general, tomando en consideración la gravedad de la falta y las circunstancias del caso.
-
-Cuando la multa se aplique a un trabajador, ésta no podrá exceder al importe señalado en el último párrafo del artículo 21 Constitucional.
+Por violaciones a las normas de trabajo no sancionadas en este Capítulo o en alguna otra disposición de esta Ley, se impondrá al infractor multa por el equivalente de 50 a 5000 veces el salario mínimo general.
 
 ##### Artículo 1003.
 
 Los trabajadores, los patrones y los sindicatos, federaciones y confederaciones de unos y otros, podrán denunciar ante las autoridades del Trabajo las violaciones a las normas del trabajo.
 
-Los Presidentes de las Juntas Especiales, los de las Juntas Federales Permanentes de Conciliación, los de las Locales de Conciliación y los Inspectores del Trabajo, tienen la obligación de denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar o pague a sus trabajadores cantidades inferiores a las señaladas como salario mínimo general.
+Los Presidentes de las Juntas Especiales y los Inspectores del Trabajo, tienen la obligación de denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar o pague a sus trabajadores cantidades inferiores a las señaladas como salario mínimo general.
 
 ##### Artículo 1004.
 
 Al patrón de cualquier negociación industrial, agrícola, minera, comercial o de servicios que haga entrega a uno o varios de sus trabajadores de cantidades inferiores al salario fijado como mínimo general o haya entregado comprobantes de pago que amparen sumas de dinero superiores de las que efectivamente hizo entrega, se le castigará con las penas siguientes:
 
-I. Con prisión de seis meses a tres años y multa que equivalga hasta 50 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión no exceda del importe de un mes de salario mínimo general del área geográfica de aplicación correspondiente;
+I. Con prisión de seis meses a tres años y multa que equivalga hasta 800 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión no exceda del importe de un mes de salario mínimo general del área geográfica de aplicación correspondiente;
 
-II. Con prisión de seis meses a tres años y multa que equivalga hasta 100 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión sea mayor al importe de un mes, pero no exceda de tres meses de salario mínimo general del área geográfica de aplicación correspondiente; y
+II. Con prisión de seis meses a tres años y multa que equivalga hasta 1600 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión sea mayor al importe de un mes, pero no exceda de tres meses de salario mínimo general del área geográfica de aplicación correspondiente; y
 
-III. Con prisión de seis meses a cuatro años y multa que equivalga hasta 200 veces el salario mínimo general, conforme a lo establecido por el artículo 992, si la omisión excede a los tres meses de salario mínimo general del área geográfica de aplicación correspondiente.
+III. Con prisión de seis meses a cuatro años y multa que equivalga hasta 3200 veces el salario mínimo general, conforme a lo establecido por el artículo 992, si la omisión excede a los tres meses de salario mínimo general del área geográfica de aplicación correspondiente.
 
-En caso de reincidencia se duplicarán las sanciones económicas a que se refieren cada una de las tres Fracciones de este Artículo.
+##### Artículo 1004-A.
+
+Al patrón que no permita la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento, se le aplicará una multa de 250 a 5000 veces el salario mínimo general.
+
+##### Artículo 1004-B.
+
+El incumplimiento de las obligaciones a que se refiere el artículo 15-B de la Ley, se sancionará con multa por el equivalente de 250 a 2500 veces el salario mínimo general.
+
+##### Artículo 1004-C.
+
+A quien utilice el régimen de subcontratación de personal en forma dolosa, en términos del artículo 15-D de esta Ley, se le impondrá multa por el equivalente de 250 a 5000 veces el salario mínimo general.
 
 ##### Artículo 1005.
 
-Al Procurador de la Defensa del Trabajo, o al apoderado o representante del trabajador, se les impondrá sanción de seis meses a tres años de prisión y multa de ocho a ochenta veces el salario mínimo general que rija en el lugar y tiempo de residencia de la Junta, en los casos siguientes:
+Al Procurador de la Defensa del Trabajo o al apoderado o representante del trabajador, se les impondrá sanción de seis meses a tres años de prisión y multa de 125 a 1250 veces el salario mínimo general vigente en el Distrito Federal en los casos siguientes:
 
 I. Cuando sin causa justificada se abstengan de concurrir a dos o más audiencias; y
 
@@ -9934,7 +9718,7 @@ II. Cuando sin causa justificada se abstengan de promover en el juicio durante e
 
 ##### Artículo 1006.
 
-A todo aquel que presente documentos o testigos falsos, se le impondrá una pena de seis meses a cuatro años de prisión y multa de ocho a ciento veinte veces el salario mínimo general que rija en el lugar y tiempo de residencia de la Junta. Tratándose de trabajadores, la multa será el salario que perciba el trabajador en una semana.
+A todo el que presente documentos o testigos falsos se le impondrá una pena de seis meses a cuatro años y multa de 125 a 1900 veces el salario mínimo general vigente en el Distrito Federal. Tratándose de trabajadores, la multa será el salario que reciba el trabajador en una semana.
 
 ##### Artículo 1007.
 
@@ -10063,3 +9847,55 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo.
+
+*Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2012*
+
+**Artículo Único.-** Se REFORMAN los artículos 2o; 3o; 4o, fracción I, inciso a); 5o, fracción VII; 25, fracciones I, II y IV; 28; 35; 43, primer párrafo, y fracción II; 47, fracciones II, VIII, y segundo, tercer y cuarto párrafos; 48; 50, fracción III; 51, fracción II; 56; 97, fracción IV; 103 Bis; 110, fracciones V y VII; 121, fracción II; 132, fracciones XVI, XVII, XVIII y XXVI; 133, primer párrafo y fracciones I y V; 134, fracción II; la denominación del Capítulo III Bis del Título Cuarto, para quedar como “De la Productividad, Formación y Capacitación de los Trabajadores”; 153-A; 153-B; 153-C; 153-D; 153-E; 153-F; 153-G; 153-H; 153-I; 153-J; 153-K; 153-L; 153-N; 153-Q; 153-S; 153-U; 153-V, primer párrafo; 154, primer párrafo; 157; 159; 168; 170, fracciones II y IV; 173; 174; 175; 176; 279, primer párrafo; 280; 282; 283, fracciones II y actuales IV, V, VI y VII; 284, fracción III; 285; 311, actual segundo párrafo; 333; 336; 337, fracción II; 353-A, fracción II; 353-S; 366, fracción III y último párrafo; 371, fracciones IX y XIII; 373; 427, fracción VI; 429, fracciones I y III; 430; 435, fracciones I y II; 439; 476; 490, fracción I; 502; 503, fracciones I, II, III y IV; 504, fracción V; 512-A; 512-B, párrafos primero y segundo; 512-C, primer párrafo; 512-D, primer párrafo; 512-F, primer párrafo; 513, primer párrafo; 514; 515; 521, fracción I; 523, fracción V; 527, fracciones I y II, numeral 2; 529, fracciones II, III y V; 532, fracción IV; 533; la denominación del Capítulo IV del Título Once, para quedar como “Del Servicio Nacional del Empleo”; 537; 538; 539, fracciones I, incisos b), c), d), e), f) y h), II, incisos a), d) y f), III, incisos b), c), d) y h); 539-A, primer y tercer párrafos; 539-B; 541, fracción VI; 546, fracciones II y V; 552, fracción IV; 555, fracción III; 556, fracción II; 560, fracción III; 604; 605, segundo párrafo; 606, primer párrafo; 607; 610, primer párrafo y actuales fracciones IV y V; 612; 614, primer párrafo y fracción I; 615, primer párrafo y fracciones II, III, IV, VI y VII; 617, primer párrafo y fracción VII; 618, fracción II; 619, fracciones I y II; 620, fracciones I, II, inciso a), párrafo tercero, y III; 624; 625, primer párrafo; 626, actuales fracciones II, III y IV; 627, actuales fracciones II, III y IV; 628, fracciones II, III, IV y V; 629; 630; 631; 632; 634; 637, fracciones I y II; 642, actual fracción IV; 643, fracciones I, III y IV; 644, primer párrafo y fracciones I y II; 645, actual fracción IV; 646; 648; 664, primer párrafo; 685, primer párrafo; 688; la denominación del Capítulo II del Título Catorce, para quedar como “De la Capacidad, Personalidad y Legitimación”; 689; 691; 692, fracciones II y IV; 693; 698, segundo párrafo; 700, fracción II, incisos a), b) y c); 701; 705, fracciones I, II y III; 711; 724; 727; 729, primer párrafo y fracción II; 731, fracción I; 734; 737; 739, segundo párrafo; 740; 742, fracción XI; 743, fracciones II y IV; 753; 763; 772; 773; 776, fracción VIII; 783; 784, fracciones V, VI, VIII, IX y XIV; 785; 786; 790, fracción III; 793; 802, segundo párrafo; 804, fracción IV y último párrafo; 808; 813, fracciones I, II, y IV; 814; 815, fracciones II, IV, VI y VII; 816; 817; 823; 824; 825, fracciones III y IV; 828; 839; 840, fracciones III, IV y VI; 841; 850; 853; 856, primer párrafo; 857, fracción II; 861, primer párrafo y fracciones II, III y IV; 863; 873; 875, primer y segundo párrafos; 876, fracciones I, II y V; 878, fracciones I, II, V, VII y VIII; 879, primer párrafo; 880, primer párrafo y fracciones II y IV; 883; 884, fracciones I, II, III y actual IV; 885, el primer párrafo; 886; 888, primer párrafo y fracción I; 891; 939; 940; 945, primer párrafo; 947, fracción IV; 949; 960; 962; 965, fracción II y último párrafo; 966, fracción II; 968; apartado A, fracciones I y III, y apartado B, fracciones I, II y III; 969, fracciones I y III; 970; 977, primer párrafo; 979, primer párrafo; 985, primer párrafo; 987; 991, primer párrafo; 992; 993; 994; 995; 996; 997; 998; 999; 1000; 1001; 1002; 1003, segundo párrafo; 1004, fracciones I, II y III; 1005, primer párrafo y 1006; se ADICIONAN los artículos 3o. Bis; 15-A; 15-B; 15-C; 15-D; 22 Bis; 28-A, 28-B; 39-A; 39-B; 39-C; 39-D; 39-E; 39-F; 42, con una fracción VIII; 42 Bis; 43, con una fracción V; 47, con una fracción XIV Bis y un penúltimo párrafo; 51, con una fracción IX, pasando la actual fracción IX a ser fracción X; 56 Bis; 83, con un segundo párrafo, pasando el anterior segundo párrafo a ser tercero; 101, con un segundo párrafo; 121, con un segundo párrafo a la fracción IV; 127, con una fracción IV Bis; 132, con las fracciones XVI Bis; XIX Bis, XXIII Bis; XXVI Bis y XXVII Bis; 133, con las fracciones XII, XIII, XIV y XV; 135, con una fracción XI; 153-F Bis; 170, con una fracción II Bis; 175 Bis; 279, con un último párrafo; 279 Bis; 279 Ter; 283, con las fracciones IV, IX, X, XI, XII y XIII; 311, con un segundo párrafo, pasando el anterior segundo párrafo a ser tercero; un Capítulo XIII Bis denominado “De los Trabajos en Minas”, al Título Sexto, que comprende los artículos 343-A, 343-B, 343-C, 343-D y 343-E; 357, con un segundo párrafo; 364 Bis, 365 Bis, 377, con un último párrafo; 391 Bis; 424 Bis; 427, con una fracción VII; 429, con una fracción IV; 432, con un tercer párrafo; 475 Bis; 504, con un último párrafo a la fracción V; 512-D Bis; 512-D Ter; 512-G; 525 Bis; 527, fracción I, con un numeral 22; 530 Bis; 533 Bis; 539, con las fracciones V y VI; 539-A, con un párrafo cuarto, pasando el anterior párrafo cuarto a ser quinto; 541, con una fracción VI Bis; 605, con un tercer y cuarto párrafos; 605 Bis; 610, con una fracción II, recorriéndose las subsecuentes; 617, con las fracciones VIII y IX, pasando la actual fracción VIII a ser X; 618, con una fracción VIII, pasando la actual fracción VIII a ser IX; 623, con un primer párrafo, pasando el anterior primer párrafo a ser segundo; 626, con una fracción II, recorriéndose las subsecuentes; 627, con una fracción III, recorriéndose las subsecuentes; 627-A; 627-B; 627-C; 641-A; 642, con las fracciones IV, V y VI, pasando las actuales fracciones IV y V a ser VII y VIII; 643, con una fracción V, pasando la actual fracción V a ser VI; 645, con una fracción II, recorriéndose las subsecuentes, y un inciso d) a la actual fracción IV; 690, con un segundo párrafo; 739, con un tercer y cuarto párrafos; 771, con un segundo párrafo; 774 Bis; 784, con un último párrafo; 815, con las fracciones X y XI; 826 Bis; una Sección Novena, denominada “De los Elementos Aportados por los Avances de la Ciencia”, al Capítulo XII, del Título Catorce, que comprende los artículos 836-A, 836-B, 836-C y 836-D; 884, con una fracción IV; pasando la actual IV a ser V; 885, con un segundo párrafo; una Sección Primera, al Capítulo XVIII del Título Catorce, denominada “Conflictos Individuales de Seguridad Social”, que comprende los artículos 899-A al 899-G; 985, con una fracción III; 995 Bis; 1004-A; 1004-B y 1004-C; y se DEROGAN los artículos 153-O; 153-P; 153-R; 153-V, cuarto párrafo; 395, segundo párrafo; 512-D, segundo y tercer párrafos; 523, fracción IX; 525; 539, fracción III, incisos a) y e); los Capítulos X y XI del Título Once, que comprenden los artículos 591 al 603; 614, fracción V; 616, fracción II; 700, fracción I; 765; el Capítulo XVI del Título Catorce, que comprende los artículos 865 al 869; 876, fracción IV; 875, primer párrafo, inciso c); 877; 882; 991, segundo párrafo; 1004, último párrafo de la Ley Federal del Trabajo, para quedar como sigue:
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Los patrones contarán con treinta y seis meses a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a las instalaciones de los centros de trabajo, a fin de facilitar el acceso y desarrollo de actividades de las personas con discapacidad.
+
+Asimismo, los patrones contarán con doce meses a partir de la entrada en vigor del presente Decreto, para proceder a realizar los trámites conducentes para afiliar el centro de trabajo al Instituto del Fondo Nacional para el Consumo de los Trabajadores.
+
+**Tercero.** El Titular del Ejecutivo Federal, los Gobernadores de los Estados, así como el Jefe de Gobierno del Distrito Federal, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses, para adecuar los ordenamientos reglamentarios que correspondan, a las disposiciones contenidas en este Decreto.
+
+**Cuarto.** La Secretaría del Trabajo y Previsión Social deberá expedir las tablas de enfermedades de trabajo y de valuación de incapacidades permanentes resultantes de los riesgos de trabajo, en un término de seis meses contados a partir de la entrada en vigor del presente Decreto, en tanto se seguirán aplicando las tablas a que se refieren los artículos 513 y 514 que se reforman.
+
+**Quinto.** Las Entidades Federativas, en el ámbito de sus respectivas competencias, contarán con un plazo de hasta tres años para transformar las Juntas de Conciliación en Juntas de Conciliación y Arbitraje Local, a cuyo efecto deberán incluir dentro de sus presupuestos correspondientes, los recursos económicos suficientes para garantizar la implementación, funcionamiento y operación. Estos presupuestos deberán ser analizados y aprobados, en su caso, por el Poder Legislativo correspondiente.
+
+**Sexto.** Las Juntas Federal y Locales de Conciliación y Arbitraje deberán adoptar el servicio profesional de carrera a que se refiere el artículo 525-Bis de la Ley, acorde a su régimen jurídico a partir del día primero del mes de enero del año 2014.
+
+**Séptimo.** Los Presidentes de las Juntas Federal y Locales de Conciliación y Arbitraje establecerán los lineamientos para el sistema de formación, capacitación y actualización jurídica del personal de su respectiva Junta dentro de los seis meses siguientes a que entren en vigor las presentes reformas.
+
+**Octavo.** El Servicio Público de Conciliación deberá quedar integrado a más tardar para el ejercicio presupuestal siguiente a aquél en que entren en vigor las presentes reformas.
+
+**Noveno.** Los Procuradores Auxiliares de la Defensa del Trabajo que no cuenten con el título y la cédula profesionales a que se refiere el artículo 533 contarán con un término de cinco años para obtenerlo, contado a partir de que entren en vigor las presentes reformas.
+
+Los Inspectores de Trabajo que no cuenten con el certificado de educación media superior o su equivalente a que se refiere el artículo 546, fracción II, contarán con un término de tres años para obtenerlo, a partir de que entren en vigor las presentes reformas.
+
+El personal jurídico de las Juntas de Conciliación y Arbitraje que no cuente con el título y la cédula profesionales a que se refieren los artículos 626, fracción II; 627, fracción II; 627-B, fracción II; 628, fracción II y 629 contarán con un término de cinco años para obtenerlo, contado a partir de que entren en vigor las presentes reformas.
+
+**Décimo.** Las retribuciones a que se refiere el artículo 631 entrarán en vigor a partir del próximo Presupuesto de Egresos de la Federación y de las entidades federativas.
+
+**Décimo Primero.** Los juicios iniciados con las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
+
+**Décimo Segundo.** La supresión de las Juntas de Conciliación Permanentes surtirá efectos a los noventa días naturales posteriores a aquél en que entre en vigor el presente Decreto.
+
+Las autoridades competentes deberán realizar las acciones conducentes para que los asuntos que estuvieren en trámite, se atiendan por las Juntas de Conciliación y Arbitraje que corresponda.
+
+Las autoridades competentes deberán adoptar las medidas administrativas correspondientes respecto al personal de las Juntas de Conciliación permanentes que se extinguen.
+
+**Décimo Tercero.** La Junta Federal de Conciliación y Arbitraje deberá establecer el registro de peritos médicos en materia de medicina del trabajo a que se refiere el artículo 899-G de este Decreto, dentro de los treinta días siguientes a la entrada en vigor del mismo.
+
+Los peritos médicos en materia de medicina del trabajo contarán con un periodo de seis meses, a partir de que la Junta Federal de Conciliación y Arbitraje establezca el registro a que se refiere el párrafo anterior, para obtener el registro correspondiente; vencido el plazo señalado, la Junta no recibirá los peritajes que emitan peritos que carezcan de registro.
+
+**Décimo Cuarto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto de egresos aprobado, por lo que no se requerirán recursos adicionales en el presente ejercicio fiscal, ni se incrementará el presupuesto regularizable.
+
+México, D.F., a 13 de noviembre de 2012.- Dip. Jesus Murillo Karam, Presidente.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de noviembre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
