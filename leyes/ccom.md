@@ -3,12 +3,12 @@ title: Código de Comercio
 abbreviation: CCom
 slug: ccom
 published_dof: 1889-10-07
-last_reform_dof: 2012-04-17
+last_reform_dof: 2012-12-29
 articles: 1613
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
-archived: https://web.archive.org/web/20120511160015/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
-source_sha256: d94eafdf2d5974da6dd02e0197ae915881021fd4d5ee2b30ab0598eccdb8f19c
-retrieved: 2012-05-11
+archived: https://web.archive.org/web/20130626021247/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
+source_sha256: de169e23b6663f5e48199ec56da46318fd93b3fedc190ac57e387026b330dca6
+retrieved: 2013-06-26
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccom.htm
 ---
 
@@ -19,6 +19,8 @@ Nuevo Código publicado en el Diario Oficial de la Federación del 7 de octubre 
 TEXTO VIGENTE
 
 Última reforma publicada DOF 17-04-2012
+
+Cantidades actualizadas por Acuerdo DOF 29-12-2012
 
 El Presidente de la República se ha servido dirigirme el decreto que sigue:
 
@@ -5570,7 +5572,7 @@ Para hacer cumplir sus determinaciones el juez puede emplear cualquiera de las s
 
 I. Amonestación;
 
-II. Multa hasta de seis mil pesos, monto que se actualizará en términos del artículo 1253, fracción VI;
+II. Multa hasta de \$6,250.80, monto que se actualizará en términos del artículo 1253, fracción VI;
 
 III. El uso de la fuerza pública y rompimiento de cerraduras si fuere necesaria, y
 
@@ -6834,7 +6836,7 @@ V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten su
 
 VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.
 
-En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de tres mil pesos y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
+En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de \$3,125.40 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
 Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dicho monto y el mes de noviembre del año en cuestión.
 
@@ -7354,7 +7356,7 @@ La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sól
 
 ###### Artículo 1339.
 
-Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a quinientos mil pesos por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
+Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a \$520,900.00 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
 
 Corresponderá a la Secretaría de Economía actualizar cada año por inflación el monto expresado en pesos en el párrafo anterior y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
@@ -7378,7 +7380,7 @@ Los asuntos de cuantía indeterminada siempre serán apelables.
 
 ###### Artículo 1340.
 
-La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a quinientos mil pesos por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
+La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a \$520,900.00 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
 
 ###### Artículo 1341.
 
@@ -7968,7 +7970,7 @@ VI. La citación para audiencia de juicio.
 
 ###### Artículo 1390 Bis 33.
 
-La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a dos mil pesos, ni superior a cinco mil pesos, monto que se actualizará en los términos del artículo 1253 fracción VI de este Código.
+La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a dos mil pesos, ni superior a \$5,209.00, monto que se actualizará en los términos del artículo 1253 fracción VI de este Código.
 
 ###### Artículo 1390 Bis 34.
 
@@ -9631,3 +9633,27 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 1 de marzo de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Arturo Herviz Reyes, Secretario.- Dip. Herón Escobar García, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de abril de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### ACUERDO para la actualización de los montos establecidos en los artículos 1067 Bis, fracción II, 1253, fracción VI, 1339, 1340 y 1390 Bis 33 del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 29 de diciembre de 2012*
+
+Acuerdo
+
+**PRIMERO.-** Los montos actualizados correspondientes a los artículos 1067 Bis fracción II; 1253 fracción VI; 1339; 1340 y 1390 Bis 33 del Código de Comercio, son los siguientes:
+
+a) Artículo 1067 Bis, fracción II: \$6,250.80 (Seis mil doscientos cincuenta pesos 80/100 M.N.).
+
+b) Artículo 1253, fracción VI: \$3,125.40 (Tres mil ciento veinticinco pesos 40/100 M.N.).
+
+c) Artículo 1339: \$520,900.00 (Quinientos veinte mil novecientos pesos 00/100 M.N.).
+
+d) Artículo 1340: \$520,900.00 (Quinientos veinte mil novecientos pesos 00/100 M.N.).
+
+e) Artículo 1390 Bis 33: \$5,209.00 (Cinco mil doscientos nueve pesos 00/100 M.N.).
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 26 de diciembre de 2012.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.
