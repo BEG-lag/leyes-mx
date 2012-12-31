@@ -3,12 +3,12 @@ title: Código Fiscal de la Federación
 abbreviation: CFF
 slug: cff
 published_dof: 1981-12-31
-last_reform_dof: 2012-01-05
+last_reform_dof: 2012-12-31
 articles: 362
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/8.doc
-archived: https://web.archive.org/web/20120812212733/http://www.diputados.gob.mx:80/LeyesBiblio/doc/8.doc
-source_sha256: 9862415e43d5722b729d8bc63fb3212857a2cc7b3b3bfc04c6eea328be0cbb43
-retrieved: 2012-08-12
+archived: https://web.archive.org/web/20130626055859/http://www.diputados.gob.mx/LeyesBiblio/doc/8.doc
+source_sha256: 75b90c845b61abfdc224d5fbdea6aeaba2665c6e784f483c1cc096eec5dde472
+retrieved: 2013-06-26
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm
 ---
 
@@ -22,7 +22,7 @@ TEXTO VIGENTE
 
 Fe de erratas DOF 26-12-2011
 
-Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 05-01-2012
+Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 31-12-2012
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1231,7 +1231,7 @@ Para los efectos de este artículo, una vez que las autoridades fiscales hayan i
 
 Las personas físicas con actividades empresariales y las personas morales que se encuentran en alguno de los supuestos de las siguientes fracciones, están obligadas a dictaminar, en los términos del Artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado.
 
-I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a \$34,803,950.00, que el valor de su activo determinado en los términos del artículo 9o-A de la Ley del Impuesto sobre la Renta sea superior a \$69,607,920.00 o que por lo menos trescientos de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior.
+I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a \$39,140,520.00, que el valor de su activo determinado en los términos del artículo 9o-A de la Ley del Impuesto sobre la Renta sea superior a \$78,281,070.00 o que por lo menos trescientos de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior.
 
 Para efectos de determinar si se está en lo dispuesto por esta fracción se considera como una sola persona moral el conjunto de aquéllas que reúna alguna de las características que se señalan a continuación, caso en el cual cada una de estas personas morales deberá cumplir con la obligación establecida por este Artículo:
 
@@ -2427,7 +2427,7 @@ A quien cometa las infracciones relacionadas con el Registro Federal de Contribu
 
 I. De \$2,740.00 a \$8,230.00, a las comprendidas en las fracciones I, II y VI.
 
-II. De \$3,040.00 a \$6,070.00, a la comprendida en la fracción III. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, la multa será de \$1,010.00 a \$2,030.00.
+II. De \$3,420.00 a \$6,830.00, a la comprendida en la fracción III. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, la multa será de \$1,140.00 a \$2,280.00.
 
 III. Para la señalada en la fracción IV:
 
@@ -2609,7 +2609,7 @@ XXXII. De \$8,000.00 a \$15,000.00, para la establecida en la fracción XXXII.
 
 XXXIII. (Se deroga)
 
-XXXIV. De \$15,000.00 a \$25,000.00 por cada solicitud no atendida, para la señalada en la fracción XXXIV.
+XXXIV. De \$16,870.00 a \$28,110.00 por cada solicitud no atendida, para la señalada en la fracción XXXIV.
 
 XXXV. De \$8,000.00 a \$15,000.00 por cada dispositivo de seguridad que se utilice sin que se encuentre vigente, para la establecida en la fracción XXXV.
 
@@ -2669,7 +2669,7 @@ c) De \$12,070.00 a \$69,000.00 tratándose de contribuyentes que cuenten con la
 
 V. De \$730.00 a \$9,560.00, a la señalada en la fracción VI.
 
-VI. De \$12.070.00 a \$69,000.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, la multa será de \$1,210.00 a \$2,410.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+VI. De \$13,570.00 a \$77,600.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, la multa será de \$1,360.00 a \$2,710.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 VII. De \$2,400.00 a \$11,960.00, a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
 
@@ -2729,9 +2729,9 @@ VI. De \$19,840.00 a \$59,550.00, a la establecida en la fracción VI.
 
 VII. De \$70.00 a \$140.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de \$279,507.00 a \$559,014.00, por no proporcionar la información, a las señaladas en la fracción VII.
 
-VIII. De \$225,000.00 a \$250,000.00, a las establecidas en la fracción VIII.
+VIII. De \$253,030.00 a \$281,150.00, a las establecidas en la fracción VIII.
 
-IX. De \$225,000.00 a \$250,000.00, a las establecidas en la fracción IX.
+IX. De \$253,030.00 a \$281,150.00, a las establecidas en la fracción IX.
 
 X. De \$50,000.00 a \$60,000.00, a la establecida en la fracción X.
 
@@ -2757,7 +2757,7 @@ Se considera infracción en la que pueden incurrir las casas de bolsa, el no pro
 
 ##### Artículo 84-H.
 
-A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G de este Código se le impondrá una multa de \$3,700.00 a \$7,410.00 por cada informe no proporcionado.
+A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G de este Código se le impondrá una multa de \$4,160.00 a \$8,330.00 por cada informe no proporcionado.
 
 ##### Artículo 84-I.
 
@@ -2879,7 +2879,7 @@ No se incurrirá en la infracción a que se refiere la fracción primera de este
 
 ##### Artículo 90.
 
-Se sancionará con una multa de \$39,670.00 a \$62,340.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89 de este Código.
+Se sancionará con una multa de \$44,610.00 a \$70,110.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89 de este Código.
 
 En los supuestos señalados en la fracción I del artículo citado, se considerará como agravante que la asesoría, el consejo o la prestación de servicios sea diversa a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código. En este caso, la multa se aumentará de un 10% a un 20% del monto de la contribución omitida, sin que dicho aumento exceda del doble de los honorarios cobrados por la asesoría, el consejo o la prestación de servicios.
 
@@ -6460,3 +6460,17 @@ A. Cantidades actualizadas establecidas en el Código.
 Atentamente
 
 México, D.F., a 19 de diciembre de 2011.- El Jefe del Servicio de Administración Tributaria, Alfredo Gutiérrez Ortiz Mena.- Rúbrica.
+
+### MODIFICACIONES a los Anexos 5 y 7 de la Resolución Miscelánea Fiscal para 2012, publicada el 28 de diciembre de 2011.
+
+*Publicadas en el Diario Oficial de la Federación el 31 de diciembre de 2012*
+
+Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2012
+
+A. Cantidades actualizadas establecidas en el Código.
+
+> Nota: Se actualizan las cantidades de los artículos 32-A, fracción I; 80, fracción II; 82, fracción XXXIV; 84, fracción VI; 84-B, fracciones VIII y IX; 84-H; y 90, primer párrafo.
+
+Atentamente.
+
+México, D. F., a 17 de diciembre de 2012.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria y del Administrador General de Grandes Contribuyentes, con fundamento en los artículos 2, apartado B, fracción V y 8, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, publicado en el Diario Oficial de la Federación el 22 de octubre de 2007, en vigor a partir del 23 de diciembre del mismo año, reformado mediante Decretos publicados en el mismo órgano informativo el 29 de abril de 2010 y 13 de julio de 2012, firma el Administrador General Jurídico, Jesús Rojas Ibáñez.- Rúbrica.
