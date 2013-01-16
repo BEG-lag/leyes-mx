@@ -3,12 +3,12 @@ title: Ley Federal de Protección al Consumidor
 abbreviation: LFPC
 slug: lfpc
 published_dof: 1992-12-24
-last_reform_dof: 2012-04-09
-articles: 178
+last_reform_dof: 2013-01-16
+articles: 185
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/113.doc
-archived: https://web.archive.org/web/20120511145748/http://www.diputados.gob.mx/LeyesBiblio/doc/113.doc
-source_sha256: df5ac0f5582ea73ff31b393d923e873e16d394d30e9a4253129ce67ae53e339f
-retrieved: 2012-05-11
+archived: https://web.archive.org/web/20130626020935/http://www.diputados.gob.mx/LeyesBiblio/doc/113.doc
+source_sha256: e06002f161ccce01c31e458a897ef78ed2fbe960d953f31f011a30aecfd2a87f
+retrieved: 2013-06-26
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-04-2012
+Última reforma publicada DOF 16-01-2013
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
@@ -410,17 +410,17 @@ I. Apercibimiento;
 
 *Fracción reformada DOF 04-02-2004*
 
-II. Multa de \$205.80 a \$20,580.33;
+II. Multa de \$214.40 a \$21,440.56;
 
 *Fracción reformada DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
 
-21-12-2010, 21-12-2011
+21-12-2010, 21-12-2011, 31-12-2012
 
-III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por \$8,232.13, y
+III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por \$8,576.23, y
 
 *Fracción adicionada DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
 
-21-12-2010, 21-12-2011
+21-12-2010, 21-12-2011, 31-12-2012
 
 IV. El auxilio de la fuerza pública.
 
@@ -896,17 +896,113 @@ VII. En lo relativo a los servicios de tiempo compartido a prestarse en el extra
 
 *Fracción adicionada DOF 27-01-2012*
 
-#### ARTÍCULO 65 BIS.
+#### ARTÍCULO 65 Bis.
 
-Los proveedores personas físicas o sociedades mercantiles no regulados por leyes financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, deberán registrar su contrato de adhesión ante la Procuraduría.
+Para efectos de lo dispuesto en la presente ley, serán casas de empeño los proveedores personas físicas o sociedades mercantiles no reguladas por leyes y autoridades financieras que en forma habitual o profesional realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria.
 
-Las personas a que se refiere el párrafo anterior no podrán prestar servicios ni realizar operaciones de las reservadas por las leyes vigentes a las instituciones del sistema financiero nacional.
+Las personas a que se refiere el párrafo anterior no podrán prestar servicios ni realizar operaciones de las reservadas y reguladas por las leyes vigentes a las instituciones del sistema financiero nacional.
 
-Los proveedores deberán transparentar sus operaciones, por lo que deberán colocar en su publicidad o en todos sus establecimientos abiertos al público, de manera permanente y visible, una pizarra de anuncios o medio electrónico informativo, que tendrá como propósito brindar información a los consumidores sobre los términos y condiciones de dichos contratos. Además deberán informar, el monto de la tasa de interés anualizada que se cobra sobre los saldos insolutos; dicha información deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable.
+La Procuraduría establecerá un registro público en el que se deberán inscribir las casas de empeño y los formatos de los contratos de adhesión que celebren con sus clientes.
 
-Los proveedores deberán cumplir con los requisitos que fije la norma oficial mexicana que se expida al efecto por la Secretaría, la cual incluirá aspectos operativos tales como las características de la información que se debe proporcionar al consumidor, y los elementos de información que debe contener el contrato de adhesión que se utilice para formalizar las operaciones. Asimismo, deberá contener o permitir obtener para los principales servicios ofrecidos, la suma de todos los costos asociados a la operación.
+Para organizarse y operar se requiere la inscripción en el Registro de Casas de Empeño, que compete otorgar a la Procuraduría. Por su naturaleza, los derechos derivados de la inscripción son intransmisibles.
 
-*Artículo adicionado DOF 06-06-2006*
+La operación de una casa de empeño sin la inscripción en el Registro de Casas de Empeño se considerará como infracción particularmente grave y se sancionará conforme a lo dispuesto en el artículo 128 Bis.
+
+*Artículo adicionado DOF 06-06-2006. Reformado DOF 16-01-2013*
+
+#### ARTÍCULO 65 Bis 1.
+
+Para obtener de la Procuraduría el registro para operar como casa de empeño se requiere, además de la documentación e información que la Procuraduría establezca mediante disposiciones de carácter general, los siguientes requisitos:
+
+I. Presentar solicitud por escrito dirigida a la Procuraduría con los siguientes datos:
+
+a) Nombre, denominación o razón social de la casa de empeño y, en su caso, del representante legal;
+
+b) Registro Federal de Contribuyentes;
+
+c) Domicilio del establecimiento matriz o de las oficinas en las que se asiente la administración de la casa de empeño;
+
+d) En su caso, domicilio de las sucursales en las que se prestará el servicio de casa de empeño;
+
+e) Domicilio para oír y recibir notificaciones;
+
+f) Fecha y lugar de la solicitud;
+
+II. Presentar documento con el que se acredite la personalidad jurídica del promovente. Tratándose de personas morales, se deberán presentar los documentos con los que se acredite su constitución y la personalidad jurídica de su representante; y
+
+III. Acompañar copia del formato de contrato de adhesión que se utilizará para las operaciones de mutuo con interés y garantía prendaria, el cual deberá cumplir, además de los requisitos que establece la presente ley, los que en su caso se encuentren establecidos por alguna norma oficial mexicana.
+
+No podrán ser socios, accionistas, administradores, directivos o representantes de las casas de empeño quienes hayan sido condenados por delitos patrimoniales, financieros o de delincuencia organizada. La violación a esta disposición se considerará como infracción particularmente grave y se sancionará conforme a lo dispuesto en el artículo 128 Bis y con la cancelación definitiva del registro.
+
+La Procuraduría expedirá el resto de las disposiciones de carácter general que sean necesarias para la operación del registro, procurando su agilidad y economía, y considerará también las causales de suspensión y cancelación del mismo.
+
+*Artículo adicionado DOF 16-01-2013*
+
+#### ARTÍCULO 65 Bis 2.
+
+Una vez cumplidos los requisitos establecidos en el artículo anterior, la Procuraduría inscribirá al solicitante en el registro público y emitirá la constancia que ampare dicho registro indicando un número único de identificación.
+
+La Procuraduría, dentro del plazo de noventa días naturales contados a partir de la recepción de la solicitud, deberá resolver sobre la inscripción en el registro y emitir la constancia correspondiente. Transcurrido dicho plazo, se entenderá que la resolución es en sentido negativo al solicitante.
+
+La Procuraduría deberá publicar cada año en el Diario Oficial de la Federación y de forma permanente en su sitio de Internet la lista de los proveedores inscritos en el registro.
+
+*Artículo adicionado DOF 16-01-2013*
+
+#### ARTÍCULO 65 Bis 3.
+
+Las casas de empeño deberán informar a la Procuraduría de cualquier cambio o modificación en la información solicitada en el artículo 65 Bis 1 de la presente ley mediante la presentación de un aviso dentro de los treinta días naturales siguientes a la fecha en que se realizó el cambio.
+
+*Artículo adicionado DOF 16-01-2013*
+
+#### ARTÍCULO 65 Bis 4.
+
+Las casas de empeño deberán transparentar sus operaciones, por lo que deberán colocar en su publicidad o en todos sus establecimientos abiertos al público, de manera permanente y visible, una pizarra de anuncios o medio electrónico informativo, que tendrá como propósito brindar información a los consumidores sobre los términos y condiciones de dichos contratos.
+
+Además, deberán informar el costo diario totalizado, así como el costo mensual totalizado, que se deberán expresar en tasas de interés porcentual sobre el monto prestado, los cuales, para fines informativos y de comparación, incorporaran la totalidad de los costos y gastos inherentes al contrato de mutuo durante ese periodo.
+
+La información a la que se refiere el presente artículo deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable y permitir su fácil comprensión y comparación por parte de los consumidores.
+
+*Artículo adicionado DOF 16-01-2013*
+
+#### ARTÍCULO 65 Bis 5.
+
+Las casas de empeño deberán cumplir con los requisitos que fije la norma oficial mexicana que se expida al efecto por la Secretaría, misma que determinará, entre otros, los elementos de información que se incluirán en el contrato de adhesión que se utilizará para formalizar las operaciones; las características de la información que se proporcionará al consumidor, y la metodología para determinar la información relativa a la totalidad de los costos asociados a la operación a que se refiere el artículo 65 Bis 4 de la presente ley.
+
+*Artículo adicionado DOF 16-01-2013*
+
+#### ARTÍCULO 65 Bis 6.
+
+Las casas de empeño deberán establecer procedimientos que le garanticen al pignorante la restitución de la prenda. En caso de que el bien sobre el que se constituyó la prenda haya sido robado, extraviado o sufra algún daño o deterioro, el pignorante podrá optar por la entrega del valor del bien conforme al avalúo o la entrega de un bien del mismo tipo, valor y calidad.
+
+Tratándose de metales preciosos, el valor de reposición del bien no podrá ser inferior al valor real que tenga el metal en el mercado al momento de la reposición.
+
+La infracción a este artículo se considerará particularmente grave y se sancionará conforme a lo dispuesto en el artículo 128 Bis de esta ley.
+
+*Artículo adicionado DOF 16-01-2013*
+
+#### ARTÍCULO 65 Bis 7.
+
+La Procuraduría podrá celebrar convenios de colaboración o concertación con las asociaciones, cámaras, confederaciones u organismos de representación de las casas de empeño, con el objeto de coadyuvar en el cumplimiento de las disposiciones contenidas en la presente ley y las normas oficiales mexicanas aplicables.
+
+Las Casas de Empeño deberán hacer del conocimiento de la procuraduría estatal que corresponda, mediante un reporte mensual, los siguientes actos o hechos que estén relacionados con las operaciones que realizan, de acuerdo con lo que se establece a continuación:
+
+I. Los casos en que un cliente haya empeñado tres o más artículos iguales o de naturaleza similar en una o más sucursales o unidades de negocio de una misma casa de empeño.
+
+II. Cuando racionalmente se pueda estimar que existe un comportamiento atípico del pignorante que permite suponer que los bienes prendarios son objetos provenientes de hechos ilícitos.
+
+Para efectos de los supuestos contemplados en este artículo, las casas de empeño deberán proporcionar a la procuraduría estatal que corresponda los siguientes datos del cliente involucrado:
+
+I. Nombre;
+
+II. Domicilio;
+
+III. Copia de la identificación oficial contra la cual se cotejo la firma del contrato respectivo; y
+
+IV. Tipo de bien o bienes empeñados y el importe de los montos empeñados.
+
+En los casos en que se presuma la comisión de un delito, a solicitud del Ministerio Público las prendas empeñadas podrán quedar en calidad de depósito en la casa de empeño sin que se pueda disponer de ellas de forma alguna, hasta en tanto no se concluya la averiguación previa. Si concluida ésta el Ministerio Público determina que existen elementos para ejercer la acción penal, la custodia de las prendas quedará sujeta a lo que en su oportunidad dicte la autoridad competente. En caso de determinar que no existen elementos para ejercer la acción penal, el Ministerio Público competente notificará a la casa de empeño para liberar el mencionado depósito.
+
+*Artículo adicionado DOF 16-01-2013*
 
 ## Capítulo VII · De las operaciones a crédito
 
@@ -1480,11 +1576,11 @@ g) Que no participan de manera institucional en actividades de proselitismo pol�
 
 *Fracción adicionada DOF 28-01-2011*
 
-Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de \$411,606.67.
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de \$428,811.21.
 
 *Párrafo adicionado DOF 04-02-2004. Monto de operación actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008,*
 
-21-12-2009, 21-12-2010, 21-12-2011
+21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
@@ -1758,11 +1854,11 @@ La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cu
 
 *Párrafo reformado DOF 04-02-2004*
 
-Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de \$411,606.67.
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de \$428,811.21.
 
 *Párrafo adicionado DOF 04-02-2004. Monto de operación actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008,*
 
-21-12-2009, 21-12-2010, 21-12-2011
+21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012
 
 #### ARTÍCULO 118.
 
@@ -1832,35 +1928,35 @@ Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuradur
 
 #### ARTÍCULO 126.
 
-Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de \$205.80 a \$658,570.67.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de \$214.40 a \$686,097.95.
 
 *Artículo reformado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
 
-21-12-2010, 21-12-2011
+21-12-2010, 21-12-2011, 31-12-2012
 
 #### ARTÍCULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de \$411.61 a \$1’317,141.34.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de \$428.81 a \$1,372,195.89.
 
 *Artículo reformado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
 
-21-12-2010. Reformado DOF 15-12-2011. Multa actualizada DOF 21-12-2011
+21-12-2010. Reformado DOF 15-12-2011. Multa actualizada DOF 21-12-2011, 31-12-2012
 
 #### ARTÍCULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 32, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 73 QUÁTER, 73 QUINTUS, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de \$617.41 a \$2’414,759.14.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis y 121 serán sancionadas con multa de \$617.41 a \$2’414,759.14.
 
 *Artículo reformado DOF 29-05-2000, 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005. Reformado DOF 06-06-2006.*
 
 Multa actualizada DOF 19-12-2006, 21-12-2007, 17-12-2008. Reformado DOF 29-01-2009. Multa actualizada DOF 21-12-2009,
 
-21-12-2010. Reformado DOF 15-12-2011. Multa actualizada DOF 21-12-2011
+21-12-2010. Reformado DOF 15-12-2011. Multa actualizada DOF 21-12-2011, 31-12-2012. Reformado DOF 16-01-2013
 
 #### ARTÍCULO 128 BIS.
 
-En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de \$123,482.00 a \$3’457,496.04.
+En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de \$128,643.37 a \$3,602,014.24.
 
-Multa del párrafo actualizada DOF 21-12-2011
+Multa del párrafo actualizada DOF 21-12-2011, 31-12-2012
 
 Las violaciones a lo establecido en el artículo 32 que se consideren particularmente graves conforme a lo establecido en el artículo 128 Ter de esta ley, serán sancionadas con la multa establecida en el párrafo anterior o bien con multa de hasta un 10% de los ingresos brutos anuales del infractor obtenidos por la comercialización del bien o los bienes, productos o servicios contenidos en la publicidad respectiva, correspondiente al último ejercicio fiscal en que se haya cometido la infracción, en caso de reincidencia.
 
@@ -1964,11 +2060,11 @@ En ningún caso será sancionado el mismo hecho constitutivo de la infracción e
 
 *Párrafo reformado DOF 19-08-2010*
 
-Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de \$6’914,992.07.
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de \$7,204,028.46.
 
 *Párrafo adicionado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
 
-21-12-2010, 21-12-2011
+21-12-2010, 21-12-2011, 31-12-2012
 
 #### ARTÍCULO 134.
 
@@ -2821,3 +2917,51 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### ACUERDO por el que se actualizan los montos de las operaciones y multas previstas en la Ley Federal de Protección al Consumidor, para el año dos mil trece.
+
+*Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2012*
+
+**PRIMERO.-** El monto señalado en el segundo párrafo del artículo 99 y en el segundo párrafo del artículo 117, en relación con el artículo 2, fracción I, de la Ley Federal de Protección al Consumidor, se actualiza para quedar en la cantidad de \$428,811.21.
+
+**SEGUNDO.-** El monto de la multa a que se refiere la fracción II del artículo 25 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$214.40 y un máximo de \$21,440.56.
+
+**TERCERO.-** El monto de la multa a que se refiere la fracción III del artículo 25 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en \$8,576.23.
+
+**CUARTO.-** El monto de la multa prevista en el artículo 126 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$214.40 y en un máximo de \$686,097.95.
+
+**QUINTO.-** El monto de la multa prevista en el artículo 127 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$428.81 y en un máximo de \$1,372,195.89.
+
+**SEXTO.-** El monto de la multa prevista en el artículo 128 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$643.22 y en un máximo de \$2,515,692.48.
+
+**SEPTIMO.-** El monto de la multa prevista en el artículo 128 bis de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$128,643.37 y en un máximo de \$3,602,014.24.
+
+**OCTAVO.-** La cantidad establecida en el artículo 133 se actualiza para quedar en \$7,204,028.46.
+
+**NOVENO.-** Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2013.
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Acuerdo entrará en vigor el 1 de enero de 2013.
+
+México, D.F., a 21 de diciembre de 2012.- El Procurador Federal del Consumidor, Víctor Humberto Benítez Treviño.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 65 Bis y 128; y se adicionan los artículos 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6 y 65 Bis 7 a la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 16 de enero de 2013*
+
+**ARTÍCULO ÚNICO.** Se reforman los artículos 65 Bis y 128; y se adicionan los artículos 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6 y 65 Bis 7 a la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Las casas de empeño contarán con un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para dar cumplimiento a las disposiciones contenidas en el presente Decreto.
+
+**Tercero.** La Procuraduría Federal del Consumidor deberá ejecutar un programa de verificación de establecimientos y lugares en los que se ofertan al público contratos de mutuo con interés y garantía prendaria.
+
+México, D.F., a 18 de diciembre de 2012.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a siete de enero de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
