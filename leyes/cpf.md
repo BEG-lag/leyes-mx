@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2012-06-14
+last_reform_dof: 2013-01-25
 articles: 521
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-archived: https://web.archive.org/web/20121115131514/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-source_sha256: b70f374c7650e20dfcee1d1260bc147c76eb32f9f61265781778683731295440
-retrieved: 2012-11-15
+archived: https://web.archive.org/web/20130303053541/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
+source_sha256: 74dc800008d377725222f9b5f9ed5dd8f24bd3e2bbf857ceab0cfe544587bf49
+retrieved: 2013-03-03
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 14-06-2012
+Última reforma publicada DOF 25-01-2013
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -3896,7 +3896,7 @@ XV. Cuando el agente se valga de identificaciones falsas o supuestas órdenes de
 
 XVI. Cuando se cometa en caminos o carreteras, y
 
-XVII. Cuando el objeto de apoderamiento sea en vías o equipo ferroviario.
+XVII. Cuando el objeto de apoderamiento sean vías, sus partes o equipo ferroviario, los bienes, valores o mercancías que se transporten por este medio.
 
 En los supuestos a que se refieren las fracciones I, II, III, IV, V, VI, XI, XII, XIII, XIV y XV, hasta cinco años de prisión.
 
@@ -5550,3 +5550,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 30 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Herón Escobar García, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción XVII del artículo 381 del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 25 de enero de 2013*
+
+**ÚNICO.** Se reforma la fracción XVII del artículo 381 del Código Penal Federal para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 20 de diciembre de 2012.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Xavier Azuara Zúñiga, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de enero de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
