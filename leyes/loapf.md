@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2013-01-02
+last_reform_dof: 2013-04-02
 articles: 61
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
-archived: https://web.archive.org/web/20130303040447/http://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
-source_sha256: 3b0789d7f9f455361048ae4973927a17daac2f5cd6849cac3415a518efd56c56
-retrieved: 2013-03-03
+archived: https://web.archive.org/web/20130626010431/http://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
+source_sha256: aeff4f4ee24d90f16eef7b87bc7c3e50c9d3c53df37cdd66119e1ee925f8e215
+retrieved: 2013-06-26
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 02-01-2013
+Última reforma publicada DOF 02-04-2013
 
 > Nota de vigencia: Las reformas a los artículos 26; 31, fracciones XII, XIX, XXI, XXIV y XXV; y 50; las adiciones de los artículos 31, con las fracciones XXII, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXIV; y el 44; así como la derogación del artículo 37, publicadas mediante decreto en el DOF 02-01-2013, entrarán en vigor de conformidad con lo establecido por el artículo segundo transitorio de dicho decreto.
 
@@ -1294,9 +1294,11 @@ VIII.- Participar, junto con las demás dependencias competentes, en la actualiz
 
 IX.- Prestar apoyo y asesoría en materia técnico jurídica a las entidades federativas que lo soliciten, sin perjuicio de la competencia de otras dependencias;
 
-X.- Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios en que el titular del Ejecutivo Federal intervenga con cualquier carácter. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas, y
+X. Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios en que el titular del Ejecutivo Federal intervenga con cualquier carácter. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
 
-XI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+XI. Ejercer, cuando así se lo haya solicitado algún Secretario de Estado, y atendiendo a las leyes reglamentarias y a los acuerdos generales que al efecto emita el Presidente de la República, la facultad a que se refiere el noveno párrafo del artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, solicitando al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, y
+
+XII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 #### Artículo 43 Bis.
 
@@ -2079,3 +2081,19 @@ Las dependencias reformadas en virtud del presente Decreto integrarán los diver
 México, D.F., a 13 de diciembre de 2012.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Diaz Lizama, Secretaria.- Dip. Tanya Rellstab Carreto, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de diciembre de dos mil doce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se expide la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; se reforman y adicionan diversas disposiciones de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica de la Administración Pública Federal, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y de la Ley Orgánica de la Procuraduría General de la República.
+
+*Publicado en el Diario Oficial de la Federación el 2 de abril de 2013*
+
+**ARTÍCULO CUARTO.** Se adiciona una fracción XI, recorriéndose en su orden la subsecuente al artículo 43 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 20 de marzo de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
