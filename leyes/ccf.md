@@ -3,12 +3,12 @@ title: Código Civil Federal
 abbreviation: CCF
 slug: ccf
 published_dof: 1928-05-26
-last_reform_dof: 2012-04-09
+last_reform_dof: 2013-04-08
 articles: 3102
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/2.doc
-archived: https://web.archive.org/web/20120511144017/http://www.diputados.gob.mx/LeyesBiblio/doc/2.doc
-source_sha256: ec28da4c541d67f79fc17d464b533dfc550683193d1f35d3c7a17024718fc147
-retrieved: 2012-05-11
+archived: https://web.archive.org/web/20130626004713/http://www.diputados.gob.mx/LeyesBiblio/doc/2.doc
+source_sha256: 21e2dce1c6cd528f207664b88a9d340b1fcd8150dd036c42df94c9d48e29e873
+retrieved: 2013-06-26
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccf.htm
 ---
 
@@ -20,7 +20,7 @@ los días 26 de mayo, 14 de julio, 3 y 31 de agosto de 1928
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-04-2012
+Última reforma publicada DOF 08-04-2013
 
 El C. Presidente Constitucional de la República se ha servido dirigirme el decreto que sigue:
 
@@ -2174,7 +2174,7 @@ Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopci
 
 ###### Artículo 391.
 
-El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de los cónyuges cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos. Se deberán acreditar además los requisitos previstos en las fracciones del artículo anterior.
+Los cónyuges o concubinos podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de los cónyuges o concubinos cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos. Se deberán acreditar además los requisitos previstos en las fracciones del artículo anterior.
 
 ###### Artículo 392.
 
@@ -2234,51 +2234,39 @@ El juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 ###### Artículo 402.
 
-Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 157.
+Se deroga.
 
 ###### Artículo 403.
 
-Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante, salvo que, en su caso, esté casado con alguno de los progenitores del adoptado porque entonces se ejercerá por ambos cónyuges.
+Se deroga.
 
 ###### Artículo 404.
 
-La adopción simple podrá convertirse en plena, debiendo obtenerse el consentimiento del adoptado, si éste hubiere cumplido doce años. Si fuere menor de esa edad se requiere el consentimiento de quien hubiese consentido en la adopción, siempre y cuando sea posible obtenerlo; de lo contrario el juez deberá resolver atendiendo al interés superior del menor.
+Se deroga.
 
 ###### Artículo 405.
 
-La adopción simple puede revocarse:
-
-I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no la fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 397, cuando fueren de domicilio conocido, y a falta de ellas, al representante del Ministerio Público y al Consejo de Tutelas;
-
-II. Por ingratitud del adoptado.
-
-III. Cuando el Consejo de Adopciones del Sistema Nacional para el Desarrollo Integral de la Familia justifique que existe causa grave que ponga en peligro al menor.
+Se deroga.
 
 ###### Artículo 406.
 
-Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
-
-I. Si comete algún delito intencional contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II. Si el adoptado formula denuncia o querella contra el adoptante, por algún delito aunque se pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
-
-III. Si el adoptado rehúsa dar alimento al adoptante que ha caído en pobreza.
+Se deroga.
 
 ###### Artículo 407.
 
-En el primer caso del artículo 405, el juez decretará que la adopción queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+Se deroga.
 
 ###### Artículo 408.
 
-El decreto del juez deja sin efecto la adopción y restituye las cosas al estado que guardaban antes de efectuarse ésta.
+Se deroga.
 
 ###### Artículo 409.
 
-En el segundo caso del artículo 405, la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
+Se deroga.
 
 ###### Artículo 410.
 
-Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Juez del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+Se deroga
 
 ###### Sección Tercera · De la Adopción Plena
 
@@ -15985,3 +15973,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman y derogan diversas disposiciones del Código Civil Federal.
+
+*Publicado en el Diario Oficial de la Federación el 8 de abril de 2013*
+
+**Artículo Único.** Se reforma el artículo 391; y se deroga la Sección Segunda, “De la Adopción Simple”, con los artículos 402 al 410, del Capítulo V “De la Adopción”, del Título Séptimo “De la Paternidad y Filiación”, del Libro Primero denominado “De las Personas” del Código Civil Federal, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 21 de febrero de 2013.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Tanya Rellstab Carreto, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
