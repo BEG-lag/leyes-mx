@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2012-06-04
-articles: 262
+last_reform_dof: 2013-06-07
+articles: 264
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
-archived: https://web.archive.org/web/20120710005200/http://www.diputados.gob.mx:80/LeyesBiblio/doc/148.doc
-source_sha256: f5048f84e5f770c605ce07ca942cf0a84644a6a5fc2aa57068ed5d1991743af3
-retrieved: 2012-07-10
+archived: https://web.archive.org/web/20130626052341/http://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
+source_sha256: 4b4c77a6b1b607cd79a0ff23de7de2f4a6c0499e350804e983ea0f4a7b2a7cec
+retrieved: 2013-06-26
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,7 +18,11 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 04-06-2012
+Última reforma publicada DOF 07-06-2013
+
+> Notas de vigencia:
+> La adición del artículo 17 TER, publicada en el Diario Oficial de la Federación el 15-05-2013 “entrará en vigor en el siguiente ejercicio fiscal que corresponda a su publicación en el Diario Oficial de la Federación” (Artículo Primero Transitorio, Decreto DOF 15-05-2013).
+> La reforma al párrafo segundo del artículo 168, y al artículo 169; así como la adición de los párrafos tercero, cuarto y quinto al artículo 168, y de un último párrafo al artículo 176, publicadas en el DOF 07-06-2013, entrarán en vigor el 7 de julio de 2013.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -602,6 +606,16 @@ La Administración Pública Federal, el Poder Legislativo Federal y el Poder Jud
 
 *Artículo adicionado DOF 13-06-2003*
 
+##### ARTÍCULO 17 TER.
+
+Las dependencias de la Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación, instalarán en los inmuebles a su cargo, un sistema de captación de agua pluvial, debiendo atender los requerimientos de la zona geográfica en que se encuentren y la posibilidad física, técnica y financiera que resulte conveniente para cada caso. Esta se utilizará en los baños, las labores de limpieza de pisos y ventanas, el riego de jardines y árboles de ornato.
+
+La instalación del sistema de captación de agua pluvial en aquellos inmuebles a cargo de las dependencias de la Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación, declarados monumentos artísticos e históricos en términos de lo dispuesto por la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos se llevará a cabo bajo la rigurosa supervisión de expertos del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes, según corresponda, con objeto de evitar afectaciones a dichos inmuebles.
+
+Para efectos de lo dispuesto en el presente artículo, por agua pluvial se entiende aquella que proviene de la lluvia, el granizo y la nieve.
+
+*Artículo adicionado DOF 15-05-2013*
+
 ##### ARTÍCULO 18.
 
 El Gobierno Federal promoverá la participación de los distintos grupos sociales en la elaboración de los programas que tengan por objeto la preservación y restauración del equilibrio ecológico y la protección al ambiente, según lo establecido en esta Ley y las demás aplicables.
@@ -958,9 +972,9 @@ La Secretaría publicará en su Gaceta Ecológica, el listado de los informes pr
 
 ##### ARTÍCULO 32.
 
-En el caso de que un plan o programa parcial de desarrollo urbano o de ordenamiento ecológico del territorio incluyan obras o actividades de las señaladas en el artículo 28 de esta Ley, las autoridades competentes de los Estados, el Distrito Federal o los Municipios, podrán presentar dichos planes o programas a la Secretaría, con el propósito de que ésta emita la autorización que en materia de impacto ambiental corresponda, respecto del conjunto de obras o actividades que se prevean realizar en un área determinada, en los términos previstos en el artículo 31 de esta Ley.
+En el caso de que un plan o programa parcial de desarrollo urbano o de ordenamiento ecológico del territorio incluyan obras o actividades de las señaladas en el artículo 28 de esta Ley, las autoridades competentes de los Estados, el Distrito Federal o los Municipios, deberán presentar dichos planes o programas a la Secretaría, con el propósito de que ésta emita la autorización que en materia de impacto ambiental corresponda, respecto del conjunto de obras o actividades que se prevean realizar en un área determinada, en los términos previstos en el artículo 31 de esta Ley.
 
-*Artículo reformado DOF 13-12-1996*
+*Artículo reformado DOF 13-12-1996, 20-05-2013*
 
 ##### ARTÍCULO 33.
 
@@ -1058,7 +1072,9 @@ Asimismo, la Secretaría, a solicitud del promovente, integrará a la autorizaci
 
 Para garantizar la sustentabilidad de las actividades económicas, la Secretaría emitirá normas oficiales mexicanas en materia ambiental y para el aprovechamiento sustentable de los recursos naturales, que tengan por objeto:
 
-I.- Establecer los requisitos, especificaciones, condiciones, procedimientos, metas, parámetros y límites permisibles que deberán observarse en regiones, zonas, cuencas o ecosistemas, en aprovechamiento de recursos naturales, en el desarrollo de actividades económicas, en el uso y destino de bienes, en insumos y en procesos;
+I.- Establecer los requisitos, especificaciones, condiciones, procedimientos, metas, parámetros y límites permisibles que deberán observarse en regiones, zonas, cuencas o ecosistemas, en aprovechamiento de recursos naturales, en el desarrollo de actividades económicas, en la producción, uso y destino de bienes, en insumos y en procesos;
+
+*Fracción reformada DOF 24-05-2013*
 
 II.- Considerar las condiciones necesarias para el bienestar de la población y la preservación o restauración de los recursos naturales y la protección al ambiente;
 
@@ -1088,9 +1104,15 @@ Cuando la resolución sea favorable, deberá publicarse en un órgano de difusi�
 
 ##### ARTÍCULO 37 BIS.
 
+La Secretaría en coordinación con la Secretaría de Economía promoverá la identificación de los productos, bienes, insumos y servicios con menor impacto ambiental basándose en parámetros y criterios ambientales a lo largo de su ciclo de vida mediante un distintivo o certificado cuyo uso será voluntario. Dichos parámetros y criterios ambientales se determinarán mediante las normas oficiales mexicanas que correspondan.
+
+*Artículo adicionado DOF 24-05-2013*
+
+##### ARTÍCULO 37 TER.
+
 Las normas oficiales mexicanas en materia ambiental son de cumplimiento obligatorio en el territorio nacional y señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
 
-*Artículo adicionado DOF 13-12-1996*
+*Artículo adicionado DOF 13-12-1996. Recorrido (antes Artículo 37 BIS) DOF 24-05-2013*
 
 #### SECCIÓN VII · Autorregulación y Auditorías Ambientales
 
@@ -1210,7 +1232,9 @@ Se deroga.
 
 ##### ARTÍCULO 44.
 
-Las zonas del territorio nacional y aquéllas sobre las que la Nación ejerce soberanía y jurisdicción, en las que los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que requieren ser preservadas y restauradas, quedarán sujetas al régimen previsto en esta Ley y los demás ordenamientos aplicables.
+Las zonas del territorio nacional y aquellas sobre las que la Nación ejerce soberanía y jurisdicción, en las que los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que sus ecosistemas y funciones integrales requieren ser preservadas y restauradas, quedarán sujetas al régimen previsto en esta Ley y los demás ordenamientos aplicables.
+
+*Párrafo reformado DOF 24-05-2013*
 
 Los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas deberán sujetarse a las modalidades que de conformidad con la presente Ley, establezcan los decretos por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en el programa de manejo y en los programas de ordenamiento ecológico que correspondan.
 
@@ -1222,15 +1246,17 @@ El establecimiento de áreas naturales protegidas, tiene por objeto:
 
 *Párrafo reformado DOF 13-12-1996*
 
-I. Preservar los ambientes naturales representativos de las diferentes regiones biogeográficas y ecológicas y de los ecosistemas más frágiles, para asegurar el equilibrio y la continuidad de los procesos evolutivos y ecológicos;
+I.- Preservar los ambientes naturales representativos de las diferentes regiones biogeográficas y ecológicas y de los ecosistemas más frágiles, así como sus funciones, para asegurar el equilibrio y la continuidad de los procesos evolutivos y ecológicos;
+
+*Fracción reformada DOF 24-05-2013*
 
 II.- Salvaguardar la diversidad genética de las especies silvestres de las que depende la continuidad evolutiva; así como asegurar la preservación y el aprovechamiento sustentable de la biodiversidad del territorio nacional, en particular preservar las especies que están en peligro de extinción, las amenazadas, las endémicas, las raras y las que se encuentran sujetas a protección especial;
 
 *Fracción reformada DOF 13-12-1996*
 
-III.- Asegurar el aprovechamiento sustentable de los ecosistemas y sus elementos;
+III.- Asegurar la preservación y el aprovechamiento sustentable de los ecosistemas, sus elementos, y sus funciones;
 
-*Fracción reformada DOF 13-12-1996*
+*Fracción reformada DOF 13-12-1996, 24-05-2013*
 
 IV. Proporcionar un campo propicio para la investigación científica y el estudio de los ecosistemas y su equilibrio;
 
@@ -1304,6 +1330,10 @@ Asimismo, corresponde a los municipios establecer las zonas de conservación eco
 
 En las áreas naturales protegidas no podrá autorizarse la fundación de nuevos centros de población.
 
+En las áreas naturales protegidas queda prohibida la introducción de especies exóticas invasoras.
+
+*Párrafo adicionado DOF 24-05-2013*
+
 *Artículo reformado DOF 13-12-1996*
 
 ##### ARTÍCULO 47.
@@ -1318,15 +1348,21 @@ Para tal efecto, la Secretaría podrá suscribir con los interesados los conveni
 
 Para el cumplimiento de las disposiciones de la presente Ley, en relación al establecimiento de las áreas naturales protegidas, se realizará una división y subdivisión que permita identificar y delimitar las porciones del territorio que la conforman, acorde con sus elementos biológicos, físicos y socioeconómicos, los cuales constituyen un esquema integral y dinámico, por lo que cuando se realice la delimitación territorial de las actividades en las áreas naturales protegidas, ésta se llevará a cabo a través de las siguientes zonas y sus respectivas subzonas, de acuerdo a su categoría de manejo:
 
-I. Las zonas núcleo, tendrán como principal objetivo la preservación de los ecosistemas a mediano y largo plazo, en donde se podrán autorizar las actividades de preservación de los ecosistemas y sus elementos, de investigación y de colecta científica, educación ambiental, y limitarse o prohibirse aprovechamientos que alteren los ecosistemas. Estas zonas podrán estar conformadas por las siguientes subzonas:
+I. Las zonas núcleo, tendrán como principal objetivo la preservación de los ecosistemas y su funcionalidad a mediano y largo plazo, en donde se podrán autorizar las actividades de preservación de los ecosistemas y sus elementos, de investigación y de colecta científica, educación ambiental, y limitarse o prohibirse aprovechamientos que alteren los ecosistemas. Estas zonas podrán estar conformadas por las siguientes subzonas:
 
-a) De protección: Aquellas superficies dentro del área natural protegida, que han sufrido muy poca alteración, así como ecosistemas relevantes o frágiles y fenómenos naturales, que requieren de un cuidado especial para asegurar su conservación a largo plazo.
+*Párrafo reformado DOF 24-05-2013*
 
-En las subzonas de protección sólo se permitirá realizar actividades de monitoreo del ambiente, de investigación científica que no implique la extracción o el traslado de especímenes, ni la modificación del hábitat.
+a) De protección: Aquellas superficies dentro del área natural protegida, que han sufrido muy poca alteración, así como ecosistemas relevantes o frágiles, o hábitats críticos, y fenómenos naturales, que requieren de un cuidado especial para asegurar su conservación a largo plazo.
+
+En las subzonas de protección sólo se permitirá realizar actividades de monitoreo del ambiente, de investigación científica no invasiva en los términos del reglamento correspondiente, que no implique la extracción o el traslado de especímenes, ni la modificación del hábitat.
+
+*Inciso reformado DOF 24-05-2013*
 
 b) De uso restringido: Aquellas superficies en buen estado de conservación donde se busca mantener las condiciones actuales de los ecosistemas, e incluso mejorarlas en los sitios que así se requieran, y en las que se podrán realizar excepcionalmente actividades de aprovechamiento que no modifiquen los ecosistemas y que se encuentren sujetas a estrictas medidas de control.
 
-En las subzonas de uso restringido sólo se permitirán la investigación científica y el monitoreo del ambiente, las actividades de educación ambiental y turismo de bajo impacto ambiental que no impliquen modificaciones de las características o condiciones naturales originales, y la construcción de instalaciones de apoyo, exclusivamente para la investigación científica o el monitoreo del ambiente, y
+En las subzonas de uso restringido sólo se permitirán la investigación científica no invasiva y el monitoreo del ambiente, las actividades de educación ambiental y turismo de bajo impacto ambiental, que no impliquen modificaciones de las características o condiciones naturales originales, y la construcción de instalaciones de apoyo, exclusivamente para la investigación científica o el monitoreo del ambiente, y
+
+*Párrafo reformado DOF 24-05-2013*
 
 II. Las zonas de amortiguamiento, tendrán como función principal orientar a que las actividades de aprovechamiento, que ahí se lleven a cabo, se conduzcan hacia el desarrollo sustentable, creando al mismo tiempo las condiciones necesarias para lograr la conservación de los ecosistemas de ésta a largo plazo, y podrán estar conformadas básicamente por las siguientes subzonas:
 
@@ -1334,25 +1370,35 @@ a) De preservación: Aquellas superficies en buen estado de conservación que co
 
 En las subzonas de preservación sólo se permitirán la investigación científica y el monitoreo del ambiente, las actividades de educación ambiental y las actividades productivas de bajo impacto ambiental que no impliquen modificaciones sustanciales de las características o condiciones naturales originales, promovidas por las comunidades locales o con su participación, y que se sujeten a una supervisión constante de los posibles impactos negativos que ocasionen, de conformidad con lo dispuesto en los ordenamientos jurídicos y reglamentarios que resulten aplicables.
 
+*Párrafo reformado DOF 24-05-2013*
+
 b) De uso tradicional: Aquellas superficies en donde los recursos naturales han sido aprovechados de manera tradicional y continua, sin ocasionar alteraciones significativas en el ecosistema. Están relacionadas particularmente con la satisfacción de las necesidades socioeconómicas y culturales de los habitantes del área protegida.
 
-En dichas subzonas no podrán realizarse actividades que amenacen o perturben la estructura natural de las poblaciones y ecosistemas o los mecanismos propios para su recuperación. Sólo se podrán realizar actividades de investigación científica, educación ambiental y de turismo de bajo impacto ambiental, así como la infraestructura de apoyo que se requiera, utilizando ecotécnias y materiales tradicionales de construcción propios de la región, aprovechamiento de los recursos naturales para la satisfacción de las necesidades económicas básicas y de autoconsumo de los pobladores, utilizando métodos tradicionales enfocados a la sustentabilidad, conforme lo previsto en las disposiciones legales y reglamentarias aplicables.
+En dichas subzonas no podrán realizarse actividades que amenacen o perturben la estructura natural de las poblaciones y ecosistemas o los mecanismos propios para su recuperación. Sólo se podrán realizar actividades de investigación científica, educación ambiental y de turismo de bajo impacto ambiental, así como, en su caso, pesca artesanal con artes de bajo impacto ambiental; así como la infraestructura de apoyo que se requiera, utilizando ecotécnias y materiales tradicionales de construcción propios de la región, aprovechamiento de los recursos naturales para la satisfacción de las necesidades económicas básicas y de autoconsumo de los pobladores, utilizando métodos tradicionales enfocados a la sustentabilidad, conforme lo previsto en las disposiciones legales y reglamentarias aplicables.
 
-c) De aprovechamiento sustentable de los recursos naturales: Aquellas superficies en las que los recursos naturales pueden ser aprovechados, y que, por motivos de uso y conservación de sus ecosistemas a largo plazo, es necesario que todas las actividades productivas se efectúen bajo esquemas de aprovechamiento sustentable.
+*Párrafo reformado DOF 24-05-2013*
+
+c) De aprovechamiento sustentable de los recursos naturales: Aquellas superficies en las que los recursos naturales pueden ser aprovechados, y que, por motivos de uso y conservación de sus ecosistemas a largo plazo, es necesario que todas las actividades productivas, se efectúen bajo esquemas de aprovechamiento sustentable.
+
+*Párrafo reformado DOF 24-05-2013*
 
 En dichas subzonas se permitirán exclusivamente el aprovechamiento y manejo de los recursos naturales renovables, siempre que estas acciones generen beneficios preferentemente para los pobladores locales, la investigación científica, la educación ambiental y el desarrollo de actividades turísticas de bajo impacto ambiental.
 
 Asimismo, el aprovechamiento sustentable de la vida silvestre podrá llevarse a cabo siempre y cuando se garantice su reproducción controlada o se mantengan o incrementen las poblaciones de las especies aprovechadas y el hábitat del que dependen; y se sustenten en los planes correspondientes autorizados por la Secretaría, conforme a las disposiciones legales y reglamentarias aplicables.
 
-d) De aprovechamiento sustentable de los ecosistemas: Aquellas superficies con usos agrícolas y pecuarios actuales.
+d) De aprovechamiento sustentable de los ecosistemas: Aquellas superficies con usos agrícolas, pesqueros y pecuarios actuales.
 
-En dichas subzonas se podrán realizar actividades agrícolas y pecuarias de baja intensidad que se lleven a cabo en predios que cuenten con aptitud para este fin, y en aquellos en que dichas actividades se realicen de manera cotidiana, y actividades de agroforestería y silvopastoriles, siempre y cuando sean compatibles con las acciones de conservación del área, y que contribuyan al control de la erosión y evitar la degradación de los suelos.
+En dichas subzonas se podrán realizar actividades agrícolas, pesqueras y pecuarias de baja intensidad que se lleven a cabo en predios, o zonas que cuenten con aptitud para este fin, y en aquellos en que dichas actividades se realicen de manera cotidiana, y actividades de pesquería artesanal, agroforestería y silvopastoriles, siempre y cuando sean compatibles con las acciones de conservación del área, y que en su caso contribuyan al control de la erosión y evitar la degradación de los suelos.
 
-La ejecución de las prácticas agrícolas, pecuarias, agroforestales y silvopastoriles que no estén siendo realizadas en forma sustentable, deberán orientarse hacia la sustentabilidad y a la disminución del uso de agroquímicos e insumos externos para su realización.
+La ejecución de las prácticas agrícolas, pesqueras, pecuarias, agroforestales y silvopastoriles que no estén siendo realizadas en forma sustentable, deberán orientarse hacia la sustentabilidad y a la disminución del uso de agroquímicos e insumos externos para su realización.
+
+*Inciso reformado DOF 24-05-2013*
 
 e) De aprovechamiento especial: Aquellas superficies generalmente de extensión reducida, con presencia de recursos naturales que son esenciales para el desarrollo social, y que deben ser explotadas sin deteriorar el ecosistema, modificar el paisaje de forma sustancial, ni causar impactos ambientales irreversibles en los elementos naturales que conformen.
 
-En dichas subzonas sólo se podrán ejecutar obras públicas o privadas para la instalación de infraestructura o explotación de recursos naturales, que generen beneficios públicos, que guarden armonía con el paisaje, que no provoquen desequilibrio ecológico grave y que estén sujetos a estrictas regulaciones de uso sustentable de los recursos naturales.
+En dichas subzonas sólo se podrán ejecutar obras públicas o privadas para la instalación de infraestructura o explotación de recursos naturales, que generen beneficios públicos, que guarden armonía con el paisaje, que no provoquen desequilibrio ecológico grave y que estén sujetos a estrictas regulaciones de uso sustentable de los recursos naturales, con apego estricto a los programas de manejo emitidos por la Secretaría.
+
+*Inciso reformado DOF 24-05-2013*
 
 f) De uso público: Aquellas superficies que presentan atractivos naturales para la realización de actividades de recreación y esparcimiento, en donde es posible mantener concentraciones de visitantes, en los límites que se determinen con base en la capacidad de carga de los ecosistemas.
 
@@ -1360,9 +1406,13 @@ En dichas subzonas se podrá llevar a cabo exclusivamente la construcción de in
 
 g) De asentamientos humanos: En aquellas superficies donde se ha llevado a cabo una modificación sustancial o desaparición de los ecosistemas originales, debido al desarrollo de asentamientos humanos, previos a la declaratoria del área protegida, y
 
-h) De recuperación: Aquellas superficies en las que los recursos naturales han resultado severamente alterados o modificados, y que serán objeto de programas de recuperación y rehabilitación.
+h) De recuperación: Aquellas superficies en las que los recursos naturales han resultado severamente alterados o modificados, y que serán objeto de programas de recuperación y rehabilitación, por lo que no deberán continuar las actividades que llevaron a dicha alteración.
 
-En estas subzonas deberán utilizarse preferentemente para su rehabilitación, especies nativas de la región; o en su caso, especies compatibles con el funcionamiento y la estructura de los ecosistemas originales.
+*Párrafo reformado DOF 24-05-2013*
+
+En estas subzonas sólo podrán utilizarse para su rehabilitación, especies nativas de la región o en su caso, especies compatibles con el funcionamiento y la estructura de los ecosistemas originales cuando científicamente se compruebe que no se afecta la evolución y continuidad de los procesos naturales.
+
+*Inciso reformado DOF 21-05-2013*
 
 En las zonas de amortiguamiento deberá tomarse en consideración las actividades productivas que lleven a cabo las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva, basándose en lo previsto tanto en el Programa de Manejo respectivo como en los Programas de Ordenamiento Ecológico que resulten aplicables.
 
@@ -1390,9 +1440,17 @@ Las reservas de la biosfera se constituirán en áreas biogeográficas relevante
 
 *Párrafo reformado DOF 13-12-1996*
 
-En las zonas núcleo de las reservas de la biosfera sólo podrá autorizarse la ejecución de actividades de preservación de los ecosistemas y sus elementos, de investigación científica y educación ambiental, mientras que se prohibirá la realización de aprovechamientos que alteren los ecosistemas.
+En las zonas núcleo de las reservas de la biosfera sólo podrá autorizarse la ejecución de actividades de preservación de los ecosistemas y sus elementos, y educación ambiental, mientras que se prohibirá la realización de aprovechamientos que alteren los ecosistemas.
 
-*Párrafo reformado DOF 23-02-2005*
+*Párrafo reformado DOF 23-02-2005, 24-05-2013*
+
+Para el caso de zonas núcleo que se ubiquen en zonas marinas deberá limitarse el tráfico de embarcaciones de conformidad con el programa de manejo respectivo.
+
+*Párrafo adicionado DOF 24-05-2013*
+
+Asimismo, se deberán regular los aprovechamientos no extractivos de vida silvestre que deberán de ser de bajo impacto, y de acuerdo con las normas oficiales mexicanas que para tal efecto emita la Secretaría.
+
+*Párrafo adicionado DOF 24-05-2013*
 
 Por su parte, en las zonas de amortiguamiento de las reservas de la biosfera sólo podrán realizarse actividades productivas emprendidas por las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva o con su participación, que sean estrictamente compatibles con los objetivos, criterios y programas de aprovechamiento sustentable, en los términos del decreto respectivo y del programa de manejo que se formule y expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables.
 
@@ -1430,11 +1488,15 @@ En los parques nacionales sólo podrá permitirse la realización de actividades
 
 Para los fines señalados en el presente Capítulo, así como para proteger y preservar los ecosistemas marinos y regular el aprovechamiento sustentable de la flora y fauna acuática, en las zonas marinas mexicanas, que podrán incluir la zona federal marítimo terrestre contigua, se podrán establecer áreas naturales protegidas de los tipos a que se refieren las fracciones I, III, IV, VII y VIII del artículo 46, atendiendo a las características particulares de cada caso.
 
-En estas áreas se permitirán y, en su caso, se restringirán o prohibirán las actividades o aprovechamientos que procedan, de conformidad con lo que disponen esta Ley, la Ley de Pesca, la Ley Federal del Mar, las convenciones internacionales de las que México sea parte y las demás disposiciones jurídicas aplicables.
+En estas áreas se permitirán y, en su caso, se restringirán o prohibirán las actividades o aprovechamientos que procedan, de conformidad con lo que disponen esta Ley, la Ley General de Pesca y Acuacultura Sustentables, la Ley General de Vida Silvestre, la Ley Federal del Mar, las convenciones internacionales de las que México sea parte y las demás disposiciones jurídicas aplicables.
+
+*Párrafo reformado DOF 24-05-2013*
 
 Las autorizaciones, concesiones o permisos para el aprovechamiento de los recursos naturales en estas áreas, así como el tránsito de embarcaciones en la zona o la construcción o utilización de infraestructura dentro de la misma, quedarán sujetas a lo que dispongan los Programas de Manejo y las declaratorias correspondientes.
 
-Para el establecimiento, administración y vigilancia de las áreas naturales protegidas establecidas en las zonas marinas mexicanas, así como para la elaboración de su programa de manejo, se deberán coordinar, atendiendo a sus respectivas competencias, la Secretaría y la Secretaría de Marina.
+Para el establecimiento, administración y vigilancia de las áreas naturales protegidas establecidas en las zonas marinas mexicanas, así como para la elaboración de su programa de manejo, se deberán coordinar, atendiendo a sus respectivas competencias, la Secretaría y la Secretaría de Marina. En todos los casos queda prohibida la introducción de especies exóticas invasoras.
+
+*Párrafo reformado DOF 24-05-2013*
 
 *Artículo reformado DOF 13-12-1996, 12-02-2007*
 
@@ -1471,6 +1533,10 @@ Asimismo, podrá autorizarse el aprovechamiento de los recursos naturales a las 
 Los santuarios son aquellas áreas que se establecen en zonas caracterizadas por una considerable riqueza de flora o fauna, o por la presencia de especies, subespecies o hábitat de distribución restringida. Dichas áreas abarcarán cañadas, vegas, relictos, grutas, cavernas, cenotes, caletas, u otras unidades topográficas o geográficas que requieran ser preservadas o protegidas.
 
 En los santuarios sólo se permitirán actividades de investigación, recreación y educación ambiental, compatibles con la naturaleza y características del área.
+
+Las actividades de aprovechamiento no extractivo quedan restringidas a los programas de manejo, y normas oficiales mexicanas emitidas por la Secretaría.
+
+*Párrafo adicionado DOF 24-05-2013*
 
 *Artículo reformado DOF 13-12-1996*
 
@@ -2222,9 +2288,9 @@ Quienes realicen actividades agrícolas y pecuarias deberán llevar a cabo las p
 
 ##### ARTÍCULO 104.
 
-La Secretaría promoverá ante la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y las demás dependencias y entidades competentes, la introducción y generalización de prácticas de protección y restauración de los suelos en las actividades agropecuarias, así como la realización de estudios de impacto ambiental previos al otorgamiento de autorizaciones para efectuar cambios del uso del suelo, cuando existan elementos que permitan prever grave deterioro de los suelos afectados y del equilibrio ecológico de la zona.
+La Secretaría promoverá ante la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y las demás dependencias y entidades competentes, la introducción y generalización de prácticas de protección y restauración de los suelos en las actividades agropecuarias, así como la realización de estudios de impacto ambiental que deben realizar previo al otorgamiento de autorizaciones para efectuar cambios del uso del suelo, cuando existan elementos que permitan prever grave deterioro de los suelos afectados y del equilibrio ecológico de la zona.
 
-*Artículo reformado DOF 13-12-1996, 25-02-2003*
+*Artículo reformado DOF 13-12-1996, 25-02-2003, 20-05-2013*
 
 ##### ARTÍCULO 105.
 
@@ -2584,9 +2650,9 @@ Para la protección del medio marino, la Secretaría emitirá las normas oficial
 
 ##### ARTÍCULO 132.
 
-La Secretaría se coordinará con las Secretarías de Marina, de Energía, de Salud y de Comunicaciones y Transportes, a efecto de que dentro de sus respectivas atribuciones intervengan en la prevención y control de la contaminación del medio marino, así como en la preservación y restauración del equilibrio de sus ecosistemas, con arreglo a lo establecido en la presente Ley, en la Ley de Aguas Nacionales, la Ley Federal del Mar, las convenciones internacionales de las que México forma parte y las demás disposiciones aplicables.
+La Secretaría se coordinará con las Secretarías de Marina, de Energía, de Salud, de Turismo y de Comunicaciones y Transportes, a efecto de que dentro de sus respectivas atribuciones intervengan en la prevención y control de la contaminación del medio marino, así como en la preservación y restauración del equilibrio de sus ecosistemas, con arreglo a lo establecido en la presente Ley, en la Ley de Aguas Nacionales, la Ley Federal del Mar, la Ley General de Turismo, las convenciones internacionales de las que México forma parte y las demás disposiciones aplicables.
 
-*Artículo reformado DOF 13-12-1996*
+*Artículo reformado DOF 13-12-1996, 20-05-2013*
 
 ##### ARTÍCULO 133.
 
@@ -3154,29 +3220,45 @@ Toda notificación deberá efectuarse en un plazo máximo de quince días hábil
 
 Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá, dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
-Durante el procedimiento y antes de que se dicte resolución, el interesado y la Secretaría, a petición del primero, podrán convenir la realización de las acciones de restauración o compensación de daños necesarias para la corrección de las presuntas irregularidades observadas. La instrumentación y evaluación de dicho convenio, se llevará a cabo en los términos del artículo 169 de esta Ley.
+Durante el procedimiento, y antes de que se dicte resolución administrativa, el interesado y la Procuraduría Federal de Protección al Ambiente, a petición del primero, podrán convenir la realización de acciones para la reparación y compensación de los daños que se hayan ocasionado al ambiente.
 
-*Párrafo adicionado DOF 31-12-2001*
+*Párrafo adicionado DOF 31-12-2001. Reformado DOF 07-06-2013*
+
+En los convenios administrativos referidos en el párrafo anterior, podrán intervenir quienes sean parte en el procedimiento judicial previsto en la Ley Federal de Responsabilidad Ambiental, siempre que se trate de la misma infracción, hechos y daños.
+
+*Párrafo adicionado DOF 07-06-2013*
+
+En la formulación y ejecución de los convenios se observará lo dispuesto por el artículo 169 de esta Ley, así como lo previsto por la Ley Federal de Responsabilidad Ambiental, en ellos podrá también acordarse la realización del examen metodológico de las operaciones del interesado a las que hace referencia el artículo 38 Bis, así como la atenuación y conmutación de las multas que resulten procedentes. En todo caso, deberá garantizarse el cumplimiento de las obligaciones del infractor, en cualquiera de las formas previstas en el Código Fiscal de la Federación.
+
+*Párrafo adicionado DOF 07-06-2013*
+
+La celebración del convenio suspenderá el procedimiento administrativo y el término para la caducidad, a partir de la presentación de la solicitud a la autoridad, y hasta por un plazo de cuarenta y cinco días hábiles.
+
+*Párrafo adicionado DOF 07-06-2013*
 
 *Artículo reformado DOF 13-12-1996*
 
 ##### ARTÍCULO 169.
 
-En la resolución administrativa correspondiente, se señalarán o, en su caso, adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
+La resolución del procedimiento administrativo contendrá:
 
-Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo.
+I. Las sanciones a que se haya hecho acreedor el responsable;
 
-Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer además de la sanción o sanciones que procedan conforme al artículo 171 de esta Ley, una multa adicional que no exceda de los límites máximos señalados en dicho precepto.
+II. Las medidas que el responsable deba llevar a cabo para corregir las deficiencias, violaciones o irregularidades observadas;
 
-*Párrafo reformado DOF 13-12-1996*
+III. El reconocimiento de los términos y obligaciones derivados del convenio previsto en el artículo anterior, y las medidas que el responsable deba llevar a cabo para su cumplimiento. En este supuesto, la resolución del procedimiento será pública, y
 
-En los casos en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades detectadas, en los plazos ordenados por la Secretaría, siempre y cuando el infractor no sea reincidente, y no se trate de alguno de los supuestos previstos en el artículo 170 de esta Ley, ésta podrá revocar o modificar la sanción o sanciones impuestas.
+IV. Los plazos para el cumplimiento de las obligaciones del infractor que se deriven de la resolución.
 
-*Párrafo reformado DOF 13-12-1996*
+El infractor deberá informar a la autoridad ordenadora, por escrito, en forma detallada y dentro de los cinco días siguientes al vencimiento del plazo correspondiente, sobre el cumplimiento de las obligaciones a que se refiere el presente artículo.
+
+La procuraduría podrá realizar inspecciones para verificar el cumplimiento de las obligaciones del infractor. Cuando del acta que se levante al efecto, se desprenda su incumplimiento, podrá imponerse además de las sanciones previstas en el artículo 171 de esta Ley, una multa adicional que no exceda el monto previsto en dicho precepto.
+
+En los casos en que el infractor realice las medidas correctivas o de urgente aplicación, subsane las irregularidades detectadas, o cumpla con las obligaciones derivadas del convenio previsto en el artículo 168, en los plazos ordenados o acordados por la Procuraduría Federal de Protección al Ambiente, siempre y cuando el infractor no sea reincidente, ésta podrá revocar o modificar la sanción o sanciones impuestas.
 
 En los casos en que proceda, la autoridad federal hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
 
-*Párrafo adicionado DOF 13-12-1996*
+*Artículo reformado DOF 13-12-1996, 07-06-2013*
 
 ### CAPITULO III · Medidas de Seguridad
 
@@ -3331,6 +3413,10 @@ Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en es
 Las resoluciones definitivas dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y disposiciones que de ella emanen, podrán ser impugnadas por los afectados, mediante el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación, o ante las instancias jurisdiccionales competentes.
 
 El recurso de revisión se interpondrá directamente ante la autoridad que emitió la resolución impugnada, quien en su caso, acordará su admisión, y el otorgamiento o denegación de la suspensión del acto recurrido, turnando el recurso a su superior jerárquico para su resolución definitiva.
+
+La resolución del procedimiento administrativo y la que recaiga al recurso administrativo de revisión, podrán controvertirse en vía de juicio ante los juzgados de distrito en materia administrativa. Cuando se impugne la resolución del recurso administrativo, se entenderá que simultáneamente se impugna la resolución administrativa recurrida en la parte que continúa afectándolo, pudiendo hacer valer conceptos de impugnación no planteados en el recurso.
+
+*Párrafo adicionado DOF 07-06-2013*
 
 *Artículo reformado DOF 13-12-1996*
 
@@ -4091,3 +4177,125 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 24 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Guadalupe Perez Dominguez, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se adiciona un artículo 17 TER a la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 15 de mayo de 2013*
+
+**ARTÍCULO ÚNICO.-** Se adiciona un artículo 17 TER a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**ARTÍCULO PRIMERO.-** El presente Decreto entrará en vigor en el siguiente ejercicio fiscal que corresponda a su publicación en el Diario Oficial de la Federación, debiendo los órganos correspondientes incluir las previsiones en sus anteproyectos de presupuesto.
+
+**ARTÍCULO SEGUNDO.-** Las dependencias de la Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación contarán con un plazo no mayor a trescientos sesenta días naturales para llevar a cabo la instalación del sistema de captación de agua pluvial a que se refiere el artículo 17 TER de esta Ley.
+
+México, D.F., a 3 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de mayo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 132 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 20 de mayo de 2013*
+
+**Artículo Único.-** Se reforma el artículo 132 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 3 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de mayo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de la Ley General de Desarrollo Forestal Sustentable.
+
+*Publicado en el Diario Oficial de la Federación el 20 de mayo de 2013*
+
+**Artículo Primero.-** Se reforman los artículos 32 y 104 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**Artículo Primero.** El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Artículo Segundo.** En un plazo no mayor a 180 días hábiles posteriores a la entrada en vigor del presente Decreto el titular del Poder Ejecutivo Federal deberá realizar las adecuaciones correspondientes al Reglamento de la Ley General de Desarrollo Forestal Sustentable.
+
+México, D. F., a 3 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Tanya Rellstab Carreto, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de mayo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 47 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 21 de mayo de 2013*
+
+**Artículo Único.-** Se reforma el segundo párrafo del inciso h), fracción II del artículo 47 Bis, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Poder Ejecutivo Federal, en un plazo que no exceda de 90 días naturales posteriores a la entrada en vigor del presente Decreto, deberá publicar en el Diario Oficial de la Federación, el Decreto por el que se reforma el artículo 61 del Reglamento de la Ley General del Equilibro Ecológico y la Protección al Ambiente en materia de Áreas Naturales Protegidas, a fin de que se ajuste a lo previsto en el presente Decreto.
+
+México, D. F., a 3 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecisiete de mayo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan los artículos 36, 37 BIS y 37 TER de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 24 de mayo de 2013*
+
+**ARTÍCULO ÚNICO.-** Se reforma la fracción I del artículo 36 y se adiciona un artículo 37 BIS, y el vigente artículo 37 BIS pasa a ser artículo 37 TER de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el siguiente día al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 16 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecisiete de mayo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en materia de áreas protegidas marinas.
+
+*Publicado en el Diario Oficial de la Federación el 24 de mayo de 2013*
+
+**Artículo Único.-** Se reforman el primer párrafo del artículo 44; las fracciones I y III del artículo 45; el primer párrafo, los párrafos primero y segundo del inciso a) y, el segundo párrafo del inciso b) de la fracción I; el segundo párrafo del inciso a), el segundo párrafo del inciso b), el primer párrafo del inciso c), el primero, segundo y tercer párrafos del inciso d), el segundo párrafo del inciso e), y el primer párrafo del inciso h) de la fracción II del artículo 47 BIS; el segundo párrafo del artículo 48; los párrafos segundo y cuarto del artículo 51; y se adicionan un último párrafo al artículo 46; los párrafos tercero y cuarto, recorriéndose en el orden el subsecuente del artículo 48; y el párrafo tercero al artículo 55, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 18 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Tanya Rellstab Carreto, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecisiete de mayo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se expide la Ley Federal de Responsabilidad Ambiental y se reforman, adicionan y derogan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de la Ley General para la Prevención y Gestión Integral de los Residuos, de la Ley General de Desarrollo Forestal Sustentable, de la Ley de Aguas Nacionales, del Código Penal Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley General de Bienes Nacionales.
+
+*Publicado en el Diario Oficial de la Federación el 7 de junio de 2013*
+
+**Artículo Segundo.** Se reforman el párrafo segundo del artículo 168 y el artículo 169; y se adicionan tres párrafos al artículo 168 y un párrafo último al artículo 176 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+**TERCERO.-** Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
+
+México, D.F., a 25 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
