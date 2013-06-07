@@ -3,12 +3,12 @@ title: Ley de Aguas Nacionales
 abbreviation: LAN
 slug: lan
 published_dof: 1992-12-01
-last_reform_dof: 2012-06-08
+last_reform_dof: 2013-06-07
 articles: 193
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc
-archived: https://web.archive.org/web/20121115124603/http://www.diputados.gob.mx/LeyesBiblio/doc/16.doc
-source_sha256: f998276da355cb7dd5b351042443a2377eb0319215f8db47d9846bcaa2299399
-retrieved: 2012-11-15
+archived: https://web.archive.org/web/20130626054157/http://www.diputados.gob.mx/LeyesBiblio/doc/16.doc
+source_sha256: ffb63f8e7a4dcffd06b5125af54f2894f736ab3f1dfd6d6745a77e1860b79e3c
+retrieved: 2013-06-26
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lan.htm
 ---
 
@@ -18,7 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de diciembre d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 08-06-2012
+Última reforma publicada DOF 07-06-2013
+
+> Nota de vigencia: Las reformas a la fracción III y IV del artículo 14 BIS 4; al artículo 96 BIS; y al primer párrafo del artículo 96 BIS 1, publicadas en el DOF 07-06-2013, entrarán en vigor el 7 de julio de 2013.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -987,15 +989,19 @@ El Instituto se apegará a lo dispuesto en la presente Ley y en sus reglamentos 
 
 ##### ARTÍCULO 14 BIS 4.
 
-Para los fines de esta Ley y sus reglamentos, son atribuciones de "la Procuraduría":
+Para los fines de esta Ley y sus reglamentos, son atribuciones de “la Procuraduría”:
 
 I. Formular denuncias y aplicar sanciones que sean de su competencia;
 
 II. Sustanciar y resolver los procedimientos y recursos administrativos de su competencia, en los términos de esta Ley y sus disposiciones reglamentarias;
 
-III. Imponer las medidas técnicas correctivas y de seguridad que sean de su competencia en los términos de esta Ley y la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+III. Imponer las medidas técnicas correctivas y de seguridad que sean de su competencia en los términos de esta Ley y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-IV. Promover la reparación del daño ambiental a los ecosistemas asociados con el agua en los términos de esta Ley y de las demás disposiciones jurídicas aplicables;
+*Fracción reformada DOF 07-06-2013*
+
+IV. Promover las acciones para la reparación o compensación del daño ambiental a los ecosistemas asociados con el agua en los términos de esta Ley y de las demás disposiciones jurídicas aplicables;
+
+*Fracción reformada DOF 07-06-2013*
 
 V. Solicitar ante "la Comisión" o el Organismo de Cuenca que corresponda conforme a lo dispuesto en la Fracción IX del Artículo 9 de la presente Ley, conforme a sus respectivas competencias, la cancelación de los permisos de descarga, y
 
@@ -2789,13 +2795,15 @@ En las zonas de riego y en aquellas zonas de contaminación extendida o dispersa
 
 ##### ARTÍCULO 96 BIS.
 
-"La Autoridad del Agua" intervendrá para que se cumpla con la reparación del daño ambiental, incluyendo aquellos daños que comprometan a ecosistemas vitales, debiendo sujetarse en sus actuaciones en términos de Ley.
+“La Autoridad del Agua” intervendrá para que se cumpla con la reparación del daño ambiental, incluyendo aquellos daños que comprometan a ecosistemas vitales, debiendo sujetarse en sus actuaciones en términos de ley, de la Ley de Aguas Nacionales y su Reglamento.
 
-*Artículo adicionado DOF 29-04-2004*
+*Artículo adicionado DOF 29-04-2004. Reformado DOF 07-06-2013*
 
 ##### ARTÍCULO 96 BIS 1.
 
-Las personas físicas o morales que descarguen aguas residuales, en violación a las disposiciones legales aplicables, y que causen contaminación en un cuerpo receptor, asumirán la responsabilidad de reparar el daño ambiental causado, sin perjuicio de la aplicación de las sanciones administrativas, penales o civiles que procedan, mediante la remoción de los contaminantes del cuerpo receptor afectado y restituirlo al estado que guardaba antes de producirse el daño, o cuando no fuere posible, mediante el pago de una indemnización fijada en términos de Ley por Autoridad competente.
+Las personas físicas o morales que descarguen aguas residuales, en violación a las disposiciones legales aplicables, y que causen contaminación en un cuerpo receptor, asumirán la responsabilidad de reparar o compensar el daño ambiental causado en términos de la Ley de Aguas Nacionales y su Reglamento, sin perjuicio de la aplicación de las sanciones administrativas, penales o civiles que procedan, mediante la remoción de los contaminantes del cuerpo receptor afectado y restituirlo al estado que guardaba antes de producirse el daño.
+
+*Párrafo reformado DOF 07-06-2013*
 
 "La Comisión", con apoyo en el Organismo de Cuenca competente, intervendrá para que se instrumente la reparación del daño ambiental a cuerpos de agua de propiedad nacional causado por extracciones o descargas de agua, en los términos de esta Ley y sus reglamentos.
 
@@ -3612,3 +3620,23 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 26 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Mariano Quihuis Fragoso, Secretario.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se expide la Ley Federal de Responsabilidad Ambiental y se reforman, adicionan y derogan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de la Ley General para la Prevención y Gestión Integral de los Residuos, de la Ley General de Desarrollo Forestal Sustentable, de la Ley de Aguas Nacionales, del Código Penal Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley General de Bienes Nacionales.
+
+*Publicado en el Diario Oficial de la Federación el 7 de junio de 2013*
+
+**ARTÍCULO SEXTO.-** Se reforman la fracción III y IV del artículo 14 BIS 4; el artículo 96 BIS y el artículo 96 BIS 1, de la Ley de Aguas Nacionales, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+**TERCERO.-** Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
+
+México, D.F., a 25 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
