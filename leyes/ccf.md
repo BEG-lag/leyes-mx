@@ -3,12 +3,12 @@ title: Código Civil Federal
 abbreviation: CCF
 slug: ccf
 published_dof: 1928-05-26
-last_reform_dof: 2013-04-08
+last_reform_dof: 2013-12-24
 articles: 3102
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/2.doc
-archived: https://web.archive.org/web/20130626004713/http://www.diputados.gob.mx/LeyesBiblio/doc/2.doc
-source_sha256: 21e2dce1c6cd528f207664b88a9d340b1fcd8150dd036c42df94c9d48e29e873
-retrieved: 2013-06-26
+archived: https://web.archive.org/web/20140408223656/http://www.diputados.gob.mx/LeyesBiblio/doc/2.doc
+source_sha256: 2cf57a8ef5992870b0d80ff69941de2e31a474e3bd13ae718b9914fa52f2393d
+retrieved: 2014-04-08
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccf.htm
 ---
 
@@ -20,7 +20,7 @@ los días 26 de mayo, 14 de julio, 3 y 31 de agosto de 1928
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 08-04-2013
+Últimas reformas publicadas DOF 24-12-2013
 
 El C. Presidente Constitucional de la República se ha servido dirigirme el decreto que sigue:
 
@@ -490,19 +490,15 @@ La falta de registro de la adopción no quita a ésta sus efectos legales; pero 
 
 ###### Artículo 86.
 
-El acta de adopción simple contendrá los nombres, apellidos y domicilio del adoptante y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilio de las personas que intervengan como testigos. En el acta se insertarán los datos esenciales de la resolución judicial.
-
-En los casos de adopción plena, se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos, sin perjuicio de lo dispuesto en el segundo párrafo del artículo siguiente.
+En la adopción plena se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos, sin perjuicio de lo dispuesto en el artículo siguiente.
 
 ###### Artículo 87.
 
-Extendida el acta de la adopción simple, se harán las anotaciones que correspondan al acta de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
-
-En el caso de adopción plena, a partir del levantamiento del acta a que se refiere el segundo párrafo del artículo anterior, se harán las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio.
+En la adopción plena, a partir del levantamiento del acta a que se refiere el artículo anterior se harán las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio.
 
 ###### Artículo 88.
 
-El juez o tribunal que resuelva que una adopción simple queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Juez del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+(Se deroga).
 
 ##### CAPITULO V · De las Actas de Tutela
 
@@ -774,7 +770,7 @@ El Juez del Registro Civil hará la anotación correspondiente en las actas de n
 
 ###### Artículo 133.
 
-Cuando se recobre la capacidad legal para administrar, se revoque la adopción simple o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Juez del Registro Civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción a que se refiere el artículo anterior.
+Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Juez del Registro Civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción a que se refiere el artículo anterior.
 
 ##### CAPITULO XI · De la Rectificación, Modificación y Aclaración de las Actas del Registro Civil
 
@@ -820,37 +816,31 @@ La aclaración de las actas del estado civil, procede cuando en el Registro Civi
 
 ###### Artículo 139.
 
-La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales.
+(Se deroga)
 
 ###### Artículo 140.
 
-Sólo pueden celebrar esponsales el hombre que ha cumplido dieciséis años y la mujer que ha cumplido catorce.
+(Se deroga)
 
 ###### Artículo 141.
 
-Cuando los prometidos son menores de edad, los esponsales no producen efectos jurídicos si no han consentido en ellos sus representantes legales.
+(Se deroga)
 
 ###### Artículo 142.
 
-Los esponsales no producen obligación de contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa.
+(Se deroga)
 
 ###### Artículo 143.
 
-El que sin causa grave, a juicio del juez, rehusare cumplir su compromiso de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado.
-
-En la misma responsabilidad incurrirá el prometido que diere motivo grave para el rompimiento de los esponsales.
-
-También pagará el prometido que sin causa grave falte a su compromiso, una indemnización a título de reparación moral, cuando por la duración del noviazgo, la intimidad establecida entre los prometidos, la publicidad de las relaciones, la proximidad del matrimonio u otras causas semejantes, el rompimiento de los esponsales cause un grave daño a la reputación del prometido inocente.
-
-La indemnización será prudentemente fijada en cada caso por el juez, teniendo en cuenta los recursos del prometido culpable y la gravedad del perjuicio causado al inocente.
+(Se deroga)
 
 ###### Artículo 144.
 
-Las acciones a que se refiere el artículo que precede, sólo pueden ejercitarse dentro de un año, contado desde el día de la negativa a la celebración del matrimonio.
+(Se deroga)
 
 ###### Artículo 145.
 
-Si el matrimonio no se celebra, tienen derecho los prometidos de exigir la devolución de lo que se hubieren donado con motivo de su concertado matrimonio. Este derecho durará un año, contado desde el rompimiento de los esponsales.
+(Se deroga)
 
 ##### CAPITULO II · De los Requisitos para contraer Matrimonio
 
@@ -922,7 +912,7 @@ De estos impedimentos sólo son dispensables la falta de edad y el parentesco de
 
 ###### Artículo 157.
 
-Bajo el régimen de adopción simple, el adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
+(Se deroga).
 
 ###### Artículo 158.
 
@@ -1648,7 +1638,7 @@ Ejecutoriada una sentencia de divorcio, el juez de primera instancia remitirá c
 
 ###### Artículo 292.
 
-La ley no reconoce más parentesco que los de consanguinidad, afinidad y el civil.
+La ley no reconoce más parentesco que los de consanguinidad y afinidad.
 
 ###### Artículo 293.
 
@@ -1662,7 +1652,7 @@ El parentesco de afinidad es el que se contrae por el matrimonio, entre el varó
 
 ###### Artículo 295.
 
-El parentesco civil es el que nace de la adopción simple y sólo existe entre adoptante y adoptado.
+(Se deroga).
 
 ###### Artículo 296.
 
@@ -2186,13 +2176,11 @@ El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido defin
 
 ###### Artículo 394.
 
-El menor o la persona con incapacidad que haya sido adoptado bajo la forma de adopción simple, podrá impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que haya desaparecido la incapacidad.
+(Se deroga).
 
 ###### Artículo 395.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
-
-El adoptante dará nombre y sus apellidos al adoptado, salvo que por circunstancias específicas, en el caso de la adopción simple, no se estime conveniente.
+El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos. El adoptante dará nombre y sus apellidos al adoptado.
 
 ###### Artículo 396.
 
@@ -8082,11 +8070,11 @@ Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, 
 
 ###### Artículo 1612.
 
-El adoptado hereda como hijo, pero en la adopción simple no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+El adoptado hereda como hijo.
 
 ###### Artículo 1613.
 
-Concurriendo padres adoptantes y descendientes del adoptado en forma simple, los primeros sólo tendrán derecho a alimentos.
+(Se deroga).
 
 ###### Artículo 1614.
 
@@ -8116,7 +8104,7 @@ Los miembros de cada línea dividirán entre sí por partes iguales la porción 
 
 ###### Artículo 1620.
 
-Concurriendo los adoptantes con ascendientes del adoptado en forma simple, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+(Se deroga).
 
 ###### Artículo 1621.
 
@@ -15989,3 +15977,35 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 21 de febrero de 2013.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Tanya Rellstab Carreto, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 86, 87, 133, 292, 395 y 1612 y se derogan los artículos 88, 157, 295, 394, 1613 y 1620 del Código Civil Federal.
+
+*Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2013*
+
+**ARTÍCULO ÚNICO.** Se reforman los artículos 86, 87, 133, 292, 395 y 1612 y se derogan los artículos 88, 157, 295, 394, 1613 y 1620, del Código Civil Federal, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**ÚNICO.-** El Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 12 de noviembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Fernando Bribiesca Sahagún, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se derogan los artículos 139, 140, 141, 142, 143, 144 y 145 del Código Civil Federal.
+
+*Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2013*
+
+**Artículo Único.** Se derogan los artículos 139, 140, 141, 142, 143, 144 y 145 del Código Civil Federal, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 7 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
