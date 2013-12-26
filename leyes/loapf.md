@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2013-04-02
+last_reform_dof: 2013-12-26
 articles: 61
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
-archived: https://web.archive.org/web/20130626010431/http://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
-source_sha256: aeff4f4ee24d90f16eef7b87bc7c3e50c9d3c53df37cdd66119e1ee925f8e215
-retrieved: 2013-06-26
+archived: https://web.archive.org/web/20140408215334/http://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
+source_sha256: 0e2699cf5b042db869c2b81f108368af77535fb8e6c666c12a2c5efd91ddffc6
+retrieved: 2014-04-08
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 02-04-2013
+Última reforma publicada DOF 26-12-2013
 
 > Nota de vigencia: Las reformas a los artículos 26; 31, fracciones XII, XIX, XXI, XXIV y XXV; y 50; las adiciones de los artículos 31, con las fracciones XXII, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXIV; y el 44; así como la derogación del artículo 37, publicadas mediante decreto en el DOF 02-01-2013, entrarán en vigor de conformidad con lo establecido por el artículo segundo transitorio de dicho decreto.
 
@@ -444,13 +444,21 @@ b. Vigilancia de las zonas marinas mexicanas, sin perjuicio de las atribuciones 
 
 c. Las medidas y competencias que le otorguen los ordenamientos legales y los instrumentos internacionales de los que México sea parte, en la Zona Contigua y en la Zona Económica Exclusiva.
 
-V.- Ejercer la autoridad para garantizar el cumplimiento del orden jurídico en las zonas marinas mexicanas, proteger el tráfico marítimo y salvaguardar la vida humana en la mar, sin perjuicio de las atribuciones que correspondan a otras dependencias.
+V.- Ejercer la autoridad en las zonas marinas mexicanas en materia de:
+
+a) Cumplimento del orden jurídico nacional;
+
+b) Búsqueda y rescate para la salvaguarda de la vida humana en la mar;
+
+c) Vertimiento de desechos y otras materias al mar distintas al de aguas residuales, y
+
+d) Protección marítima y portuaria en coordinación con la Secretaría de Comunicaciones y Transportes, en los términos que fijan los tratados internacionales y las leyes de la materia;
 
 VI.- Dirigir la educación pública naval;
 
 VII.- Ejercer funciones de policía marítima para mantener el estado de derecho en las zonas marinas mexicanas;
 
-VII bis.- Llevar a cabo la búsqueda, rescate, salvamento y auxilio en las zonas marinas mexicanas de conformidad con las normas nacionales e internacionales, en su caso, en coordinación con las demás autoridades competentes;
+VII Bis.- Establecer y dirigir el Servicio de Búsqueda y Rescate para la salvaguarda de la vida humana en la mar;
 
 VIII.- Inspeccionar los servicios de la Armada;
 
@@ -724,9 +732,11 @@ XXXVIII. (Se deroga).
 
 XXXIX. Otorgar contratos, concesiones, licencias, permisos, autorizaciones, asignaciones, y reconocer derechos, según corresponda, en materia de aguas, forestal, ecológica, explotación de la flora y fauna silvestres, y sobre playas, zona federal marítimo terrestre y terrenos ganados al mar;
 
-XL. Diseñar y operar, con la participación que corresponda a otras dependencias y entidades, la adopción de instrumentos económicos para la protección, restauración y conservación del medio ambiente, y
+XL. Diseñar y operar, con la participación que corresponda a otras dependencias y entidades, la adopción de instrumentos económicos para la protección, restauración y conservación del medio ambiente;
 
-XLI. Los demás que le atribuyan expresamente las leyes y reglamentos.
+XLI. Elaborar y aplicar en coordinación con las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Salud; de Comunicaciones y Transportes; de Economía; de Turismo; de Desarrollo Social; de Gobernación; de Marina; de Energía; de Educación Pública; de Hacienda y Crédito Público; y de Relaciones Exteriores, las políticas públicas encaminadas al cumplimiento de las acciones de mitigación y adaptación que señala la Ley General de Cambio Climático, y
+
+XLII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 #### Artículo 33.
 
@@ -962,7 +972,7 @@ XV.- Establecer los requisitos que deban satisfacer el personal técnico de la a
 
 XVI.- Regular las comunicaciones y transportes por agua;
 
-XVII.- Inspeccionar los servicios de la marina mercante;
+XVII. Inspeccionar los servicios de la marina mercante, así como coordinarse con la Secretaría de Marina en la aplicación de las medidas en materia de Protección Marítima y Portuaria;
 
 XVIII.- Construir, reconstruir y conservar las obras marítimas, portuarias y de dragado, instalar el señalamiento marítimo y proporcionar los servicios de información y seguridad para la navegación marítima;
 
@@ -2097,3 +2107,39 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 20 de marzo de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se adiciona una fracción XLI al artículo 32 Bis de la Ley Orgánica de la Administración Pública Federal.
+
+*Publicado en el Diario Oficial de la Federación el 5 de diciembre de 2013*
+
+**Artículo Único.** Se adiciona una fracción XLI, recorriendo la actual en su orden, al artículo 32 Bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 29 de octubre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Merilyn Gómez Pozos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Puertos y de la Ley de Navegación y Comercio Marítimos.
+
+*Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013*
+
+**ARTÍCULO PRIMERO.-** Se reforman las fracciones V y VII Bis del artículo 30, y la fracción XVII del artículo 36 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+**TERCERO.** Las acciones que deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación.
+
+México, D.F., a 13 de diciembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
