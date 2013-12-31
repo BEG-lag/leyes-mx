@@ -3,12 +3,12 @@ title: Ley Federal de Protección al Consumidor
 abbreviation: LFPC
 slug: lfpc
 published_dof: 1992-12-24
-last_reform_dof: 2013-01-16
+last_reform_dof: 2013-12-31
 articles: 185
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/113.doc
-archived: https://web.archive.org/web/20130626020935/http://www.diputados.gob.mx/LeyesBiblio/doc/113.doc
-source_sha256: e06002f161ccce01c31e458a897ef78ed2fbe960d953f31f011a30aecfd2a87f
-retrieved: 2013-06-26
+archived: https://web.archive.org/web/20140408224626/http://www.diputados.gob.mx/LeyesBiblio/doc/113.doc
+source_sha256: 2d95028963909ed7dfcf1e652ed917c5ee042723af672569aa6ed2e739f2dd1f
+retrieved: 2014-04-08
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm
 ---
 
@@ -18,7 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 16-01-2013
+Última reforma publicada DOF 05-11-2013
+
+Actualización de montos de operaciones y multas por Acuerdo DOF 31-12-2013
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
@@ -70,13 +72,17 @@ VIII. La real y efectiva protección al consumidor en las transacciones efectuad
 
 *Fracción adicionada DOF 29-05-2000. Reformada DOF 04-02-2004, 19-08-2010*
 
-IX. El respeto a los derechos y obligaciones derivados de las relaciones de consumo y las medidas que garanticen su efectividad y cumplimiento; y
+IX. El respeto a los derechos y obligaciones derivados de las relaciones de consumo y las medidas que garanticen su efectividad y cumplimiento;
 
-*Fracción adicionada DOF 04-02-2004. Reformada DOF 19-08-2010*
+*Fracción adicionada DOF 04-02-2004. Reformada DOF 19-08-2010, 05-11-2013*
 
-X. La protección de los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
+X. La protección de los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas, y
 
-*Fracción adicionada DOF 19-08-2010*
+*Fracción adicionada DOF 19-08-2010. Reformada DOF 05-11-2013*
+
+XI. La libertad de constituir grupos u otras organizaciones de consumidores que, sin contravenir las disposiciones de esta ley, sean garantes de los derechos del consumidor.
+
+*Fracción adicionada DOF 05-11-2013*
 
 Los derechos previstos en esta ley no excluyen otros derivados de tratados o convenciones internacionales de los que México sea signatario; de la legislación interna ordinaria; de reglamentos expedidos por las autoridades administrativas competentes; así como de los que deriven de los principios generales de derecho, la analogía, las costumbres y la equidad.
 
@@ -410,17 +416,17 @@ I. Apercibimiento;
 
 *Fracción reformada DOF 04-02-2004*
 
-II. Multa de \$214.40 a \$21,440.56;
+II. Multa de \$222.16 a \$22,216.42;
 
 *Fracción reformada DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
 
-21-12-2010, 21-12-2011, 31-12-2012
+21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013
 
-III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por \$8,576.23, y
+III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por \$8,886.57, y
 
 *Fracción adicionada DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
 
-21-12-2010, 21-12-2011, 31-12-2012
+21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013
 
 IV. El auxilio de la fuerza pública.
 
@@ -1576,11 +1582,11 @@ g) Que no participan de manera institucional en actividades de proselitismo pol�
 
 *Fracción adicionada DOF 28-01-2011*
 
-Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de \$428,811.21.
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de \$444,328.57.
 
 *Párrafo adicionado DOF 04-02-2004. Monto de operación actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008,*
 
-21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012
+21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
@@ -1854,11 +1860,11 @@ La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cu
 
 *Párrafo reformado DOF 04-02-2004*
 
-Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de \$428,811.21.
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de \$444,328.57.
 
 *Párrafo adicionado DOF 04-02-2004. Monto de operación actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008,*
 
-21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012
+21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013
 
 #### ARTÍCULO 118.
 
@@ -1928,35 +1934,37 @@ Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuradur
 
 #### ARTÍCULO 126.
 
-Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de \$214.40 a \$686,097.95.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de \$222.16 a \$710,925.72.
 
 *Artículo reformado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
 
-21-12-2010, 21-12-2011, 31-12-2012
+21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013
 
 #### ARTÍCULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de \$428.81 a \$1,372,195.89.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de \$444.33 a \$1’421,851.43.
 
 *Artículo reformado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
 
-21-12-2010. Reformado DOF 15-12-2011. Multa actualizada DOF 21-12-2011, 31-12-2012
+21-12-2010. Reformado DOF 15-12-2011. Multa actualizada DOF 21-12-2011, 31-12-2012, 31-12-2013
 
 #### ARTÍCULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis y 121 serán sancionadas con multa de \$617.41 a \$2’414,759.14.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis y 121 serán sancionadas con multa de \$638.28 a \$2’496,402.43.
 
 *Artículo reformado DOF 29-05-2000, 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005. Reformado DOF 06-06-2006.*
 
 Multa actualizada DOF 19-12-2006, 21-12-2007, 17-12-2008. Reformado DOF 29-01-2009. Multa actualizada DOF 21-12-2009,
 
-21-12-2010. Reformado DOF 15-12-2011. Multa actualizada DOF 21-12-2011, 31-12-2012. Reformado DOF 16-01-2013
+21-12-2010. Reformado DOF 15-12-2011. Multa actualizada DOF 21-12-2011, 31-12-2012. Reformado DOF 16-01-2013.
+
+Multa actualizada DOF 31-12-2013
 
 #### ARTÍCULO 128 BIS.
 
-En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de \$128,643.37 a \$3,602,014.24.
+En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de \$133,298.57 a \$3’732,360.02.
 
-Multa del párrafo actualizada DOF 21-12-2011, 31-12-2012
+Multa del párrafo actualizada DOF 21-12-2011, 31-12-2012, 31-12-2013
 
 Las violaciones a lo establecido en el artículo 32 que se consideren particularmente graves conforme a lo establecido en el artículo 128 Ter de esta ley, serán sancionadas con la multa establecida en el párrafo anterior o bien con multa de hasta un 10% de los ingresos brutos anuales del infractor obtenidos por la comercialización del bien o los bienes, productos o servicios contenidos en la publicidad respectiva, correspondiente al último ejercicio fiscal en que se haya cometido la infracción, en caso de reincidencia.
 
@@ -2060,11 +2068,11 @@ En ningún caso será sancionado el mismo hecho constitutivo de la infracción e
 
 *Párrafo reformado DOF 19-08-2010*
 
-Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de \$7,204,028.46.
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de \$7’464,720.04.
 
 *Párrafo adicionado DOF 04-02-2004. Multa actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009,*
 
-21-12-2010, 21-12-2011, 31-12-2012
+21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013
 
 #### ARTÍCULO 134.
 
@@ -2965,3 +2973,51 @@ México, D.F., a 21 de diciembre de 2012.- El Procurador Federal del Consumidor,
 México, D.F., a 18 de diciembre de 2012.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a siete de enero de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se adiciona la fracción XI al artículo 1 de la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 5 de noviembre de 2013*
+
+**Artículo Único.-** Se adiciona la fracción XI al artículo 1 de la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 26 de septiembre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de octubre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### ACUERDO por el que se actualizan los montos de las operaciones y multas previstas en la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2013*
+
+**PRIMERO.-** El monto señalado en el segundo párrafo del artículo 99 y en el segundo párrafo del artículo 117, en relación con el artículo 2, fracción I, de la Ley Federal de Protección al Consumidor, se actualiza para quedar en la cantidad de \$444,328.57.
+
+**SEGUNDO.-** El monto de la multa a que se refiere la fracción II del artículo 25 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$222.16 y un máximo de \$22,216.42.
+
+**TERCERO.-** El monto de la multa a que se refiere la fracción III del artículo 25 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en \$8,886.57.
+
+**CUARTO.-** El monto señalado en el artículo 126 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$222.16 y un máximo de \$710,925.72.
+
+**QUINTO.-** El monto de la multa a que se refiere el 127 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$444.33 y un máximo de \$1’421,851.43.
+
+**SEXTO.-** El monto de la multa a que se refiere el 128 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$638.28 y un máximo de \$2’496,402.43.
+
+**SÉPTIMO.-** El monto de la multa a que se refiere el 128 BIS de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$133,298.57 y un máximo de \$3’732,360.02.
+
+**OCTAVO.-** El monto de la multa prevista en el artículo 133 de la Ley Federal de Protección al Consumidor, no deberá rebasar la cantidad de \$7’464,720.04, cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción.
+
+**NOVENO.-** Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2014.
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Acuerdo entrará en vigor el 1 de enero de 2014.
+
+Atentamente
+
+“Sufragio Efectivo. No Reelección”
+
+México, Distrito Federal, a 17 de diciembre de 2013.- El Procurador Federal del Consumidor, Alfredo Castillo Cervantes.- Rúbrica.
