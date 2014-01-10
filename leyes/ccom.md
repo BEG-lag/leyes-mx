@@ -3,12 +3,12 @@ title: Código de Comercio
 abbreviation: CCom
 slug: ccom
 published_dof: 1889-10-07
-last_reform_dof: 2012-12-29
-articles: 1613
+last_reform_dof: 2014-01-10
+articles: 1614
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
-archived: https://web.archive.org/web/20130626021247/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
-source_sha256: de169e23b6663f5e48199ec56da46318fd93b3fedc190ac57e387026b330dca6
-retrieved: 2013-06-26
+archived: https://web.archive.org/web/20140408221902/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
+source_sha256: 7c993b9db225ab048c0a8f7f8bb5d9c6b7dc6f16c5e7650b34aa413d353b6c87
+retrieved: 2014-04-08
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccom.htm
 ---
 
@@ -18,9 +18,7 @@ Nuevo Código publicado en el Diario Oficial de la Federación del 7 de octubre 
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 17-04-2012
-
-Cantidades actualizadas por Acuerdo DOF 29-12-2012
+Última reforma publicada DOF 10-01-2014
 
 El Presidente de la República se ha servido dirigirme el decreto que sigue:
 
@@ -3600,9 +3598,11 @@ El papel, billetes de banco y títulos de deuda extranjeros, no pueden ser objet
 
 De las Instituciones de Crédito
 
+Se deroga
+
 ###### Artículo 640.
 
-Las instituciones de crédito se regirán por una ley especial, y mientras ésta se expide, ninguna de dichas instituciones podrá establecerse en la República sin previa autorización de la Secretaría de Hacienda y Crédito Público y sin el contrato respectivo aprobado en cada caso, por el Congreso de la Unión.
+Se deroga
 
 ## LIBRO TERCERO · Del Comercio Marítimo
 
@@ -5480,9 +5480,9 @@ VII. El secretario dará cuenta al titular del tribunal junto con los oficios, c
 
 VIII. Los tribunales podrán ordenar que se subsane toda omisión que notaren en la substanciación, para el efecto de regularizar el procedimiento correspondiente.
 
-###### Artículo 1055 Bis.
+###### Artículo 1055 bis.
 
-Cuando el crédito tenga garantía real, el acreedor podrá ejercitar sus acciones en juicio ejecutivo mercantil, ordinario, especial, sumario hipotecario o el que corresponda, de acuerdo a esta Ley, a la legislación mercantil o a la legislación civil aplicable, conservando la garantía real y su preferencia en el pago, aun cuando los bienes gravados se señalen para la práctica de la ejecución.
+Cuando el crédito tenga garantía real, el actor, a su elección, podrá ejercitar sus acciones en juicio ejecutivo mercantil, ordinario, especial, sumario hipotecario o el que corresponda, de acuerdo a este Código, a la legislación mercantil o a la legislación civil aplicable, conservando la garantía real y su preferencia en el pago, aun cuando los bienes gravados se señalen para la práctica de la ejecución.
 
 #### CAPITULO II · De la Capacidad y Personalidad
 
@@ -5572,7 +5572,7 @@ Para hacer cumplir sus determinaciones el juez puede emplear cualquiera de las s
 
 I. Amonestación;
 
-II. Multa hasta de \$6,250.80, monto que se actualizará en términos del artículo 1253, fracción VI;
+II. Multa hasta de \$6,477.08, monto que se actualizará en términos del artículo 1253, fracción VI;
 
 III. El uso de la fuerza pública y rompimiento de cerraduras si fuere necesaria, y
 
@@ -5584,7 +5584,9 @@ Si el juez estima que el caso puede ser constitutivo de delito, dará parte al M
 
 ###### Artículo 1068.
 
-Las notificaciones, citaciones y entrega de expedientes se verificarán lo más tarde el día siguiente al en que se dicten las resoluciones que las prevengan, cuando el juez en éstas no dispusiere otra cosa. En el caso de notificaciones personales, dicho término se contará a partir de la fecha en que se entregue el expediente al notificador, lo cual deberá hacerse, dentro de un plazo que no exceda de tres días. Se impondrá de plano a los infractores de este artículo una multa que no exceda del equivalente a diez días de salario mínimo general vigente en el lugar en que se desahogue el procedimiento.
+Las notificaciones, citaciones y entrega de expedientes se verificarán a más tardar el día siguiente a aquel en que se dicten las resoluciones que ordenen su práctica. Si se tratare de notificaciones personales, estas deberán realizarse dentro de los tres días siguientes a aquel en que el notificador reciba el expediente. Sin perjuicio de lo anterior, por causa justificada, el juez, bajo su responsabilidad, podrá ampliar los plazos previstos en este párrafo.
+
+Se impondrá de plano a los infractores de este artículo una multa que no exceda del equivalente a diez días de salario mínimo general vigente en el lugar en que se desahogue el procedimiento. A tal efecto, el juez deberá hacer del conocimiento del Consejo de la Judicatura que corresponda la infracción, a efecto de que este substancie el procedimiento disciplinario respectivo.
 
 Las notificaciones en cualquier procedimiento judicial serán:
 
@@ -5628,11 +5630,13 @@ Cuando la autoridad o institución proporcione información de diversas personas
 
 En el caso de que en el documento base de la acción se haya pactado domicilio convencional para recibir las notificaciones, si se acude a realizar la notificación personal en dicho domicilio y éste no corresponde al de la demandada, se procederá a la notificación por edictos sin necesidad de recabar el informe a que se refieren los párrafos anteriores.
 
-Mientras un litigante no hiciere substitución del domicilio en donde se deban practicar las diligencias o notificaciones personales, seguirán haciéndose en el que para tal fin hubiere señalado. El notificador tendrá la obligación de realizarlas en el domicilio señalado, y en caso de no existir el mismo o de negativa a recibirlas, lo deberá hacer constar en autos para que surtan efectos así como las subsecuentes, por publicación en el boletín, gaceta o periódico judicial o en los estrados de los tribunales, además de que las diligencias en que dicha parte debiere tener intervención se practicarán en el local del juzgado sin su presencia.
+Mientras un litigante no hiciere substitución del domicilio en donde se deban practicar las diligencias o notificaciones personales, seguirán haciéndose en el que para tal fin hubiere señalado. El notificador tendrá la obligación de realizarlas en el domicilio señalado, y en caso de no existir el mismo, lo deberá hacer constar en autos para que surtan efectos así como las subsecuentes, por publicación en el boletín, gaceta o periódico judicial o en los estrados de los tribunales, además de que las diligencias en que dicha parte debiere tener intervención se practicarán en el local del juzgado sin su presencia.
 
-###### Artículo 1070 Bis.
+Una vez que el actuario o ejecutor se cerciore de que en el domicilio sí habita la persona buscada y después de la habilitación de días y horas inhábiles, de persistir la negativa de abrir o de atender la diligencia, el actuario dará fe para que el Juez ordene dicha diligencia por medio de edictos sin necesidad de girar oficios para la localización del domicilio.
 
-Las instituciones y autoridades estarán obligadas a proporcionar la información a que se refiere el artículo 1070 de este Código, en un plazo no mayor a treinta días hábiles y, en caso de no hacerlo, la autoridad judicial dictará las medidas de apremio correspondientes a la persona o funcionario responsables de contestar los informes, sin perjuicio de las responsabilidades en que incurran por su incumplimiento, derivadas de la legislación aplicable a los servidores públicos.
+###### Artículo 1070 bis.
+
+Las instituciones y autoridades estarán obligadas a proporcionar la información a que se refiere el artículo 1070 de este Código, en un plazo no mayor a veinte días naturales y, en caso de no hacerlo, la autoridad judicial ordenará la notificación por edictos y dictará las medidas de apremio correspondientes a la persona o funcionario responsables de contestar los informes, sin perjuicio de las responsabilidades en que incurran por su incumplimiento, derivadas de la legislación aplicable a los servidores públicos.
 
 ###### Artículo 1071.
 
@@ -5830,7 +5834,9 @@ V. El que intente acciones o haga valer cualquier tipo de defensas o excepciones
 
 ###### Artículo 1085.
 
-Las costas serán reguladas por la parte a cuyo favor se hubieren declarado.
+Las costas serán reguladas por la parte a cuyo favor se hubieren decretado.
+
+Cuando habiéndose intentado una acción, la misma sea declarada improcedente y exista condena en costas, la regulación de ellas se hará sobre la base de juicio de cuantía indeterminada. Lo anterior también será aplicable a las costas que se generen por la caducidad de la instancia.
 
 ###### Artículo 1086.
 
@@ -5864,7 +5870,7 @@ Es juez competente aquel a quien los litigantes se hubieren sometido expresa o t
 
 ###### Artículo 1093.
 
-Hay sumisión expresa cuando los interesados renuncien clara y terminantemente al fuero que la ley les concede, y para el caso de controversia, señalan como tribunales competentes a los del domicilio de cualquiera de las partes, del lugar de cumplimiento de alguna de las obligaciones contraídas, o de la ubicación de la cosa.
+Hay sumisión expresa cuando los interesados renuncien clara y terminantemente al fuero que la ley les concede, y para el caso de controversia, señalan como tribunales competentes a los del domicilio de cualquiera de las partes, del lugar de cumplimiento de alguna de las obligaciones contraídas, o de la ubicación de la cosa. En el caso de que se acuerden pluralidad de jurisdicciones, el actor podrá elegir a un tribunal competente entre cualquiera de ellas.
 
 ###### Artículo 1094.
 
@@ -5926,27 +5932,33 @@ Los litigantes pueden desistirse de la competencia antes o después de la remisi
 
 ###### Artículo 1104.
 
-Salvo lo dispuesto en el artículo 1093, sea cual fuere la naturaleza del juicio, serán preferidos a cualquier otro juez:
+Salvo lo dispuesto en el artículo 1093, sea cual fuere la naturaleza del juicio, será juez competente, en el orden siguiente:
 
-I. El del lugar que el deudor haya designado para ser requerido judicialmente de pago;
+I. El del lugar que el demandado haya designado para ser requerido judicialmente de pago;
 
 II. El del lugar designado en el contrato para el cumplimiento de la obligación.
 
+III. El del domicilio del demandado. Si tuviere varios domicilios, el juez competente será el que elija el actor.
+
+Tratándose de personas morales, para los efectos de esta fracción, se considerará como su domicilio aquel donde se ubique su administración.
+
 ###### Artículo 1105.
 
-Si no se ha hecho la designación que autoriza el artículo 1093, será competente el juez del domicilio del deudor, sea cual fuere la acción que se ejercite.
+Se deroga
 
 ###### Artículo 1106.
 
-Si el deudor tuviere varios domicilios, será preferido el que elija el acreedor.
+Se deroga
 
 ###### Artículo 1107.
 
-A falta de domicilio fijo, será competente el juez del lugar donde se celebró el contrato, cuando la acción sea personal, y el de la ubicación de la cosa, cuando la acción sea real.
+A falta de domicilio fijo o conocido, tratándose de acciones personales, será competente el juez del lugar donde se celebró el contrato.
+
+En el supuesto de que se pretenda hacer valer una acción real, será competente el juez del lugar de la ubicación de la cosa. Si las cosas fueren varias y estuvieren ubicadas en distintos lugares, será juez competente el del lugar de la ubicación de cualquiera de ellas, adonde primero hubiere ocurrido el actor. Lo mismo se observará cuando la cosa estuviere ubicada en territorio de diversas jurisdicciones.
 
 ###### Artículo 1108.
 
-Si las cosas objeto de la acción real fueren varias y estuvieren ubicadas en distintos lugares, será juez competente el del lugar de la ubicación de cualquiera de ellas, adonde primero hubiere ocurrido el demandante. Lo mismo se observará cuando la cosa estuviere ubicada en territorio de diversas jurisdicciones.
+Se deroga
 
 ###### Artículo 1109.
 
@@ -6158,7 +6170,7 @@ IX. Haber sido el juez abogado o procurador, perito o testigo en el negocio de q
 
 X. Haber conocido del negocio como juez, árbitro o asesor, resolviendo algún punto que afecte a la sustancia de la cuestión;
 
-XI. Siempre que por cualquier motivo haya externado su opinión antes del fallo;
+XI. Siempre que por cualquier motivo haya externado su opinión antes del fallo, salvo en los casos en que haya actuado en funciones de mediación o conciliación de conformidad con los artículos 1390 bis 32 y 1390 bis 35 de este Código, o
 
 XII. Si fuere pariente por consanguinidad o afinidad del abogado o procurador de alguna de las partes, en los mismos grados que expresa la frac. II de este artículo.
 
@@ -6404,13 +6416,19 @@ Si es instrumento público o privado reconocido o contiene cantidad líquida, pu
 
 ###### Artículo 1168.
 
-Las providencias precautorias podrán dictarse:
+En los juicios mercantiles únicamente podrán dictarse las medidas cautelares o providencias precautorias, previstas en este Código, y que son las siguientes:
 
-I. Cuando hubiere temor de que se ausente u oculte la persona contra quien deba entablarse o se haya entablado una demanda;
+I. Radicación de persona, cuando hubiere temor fundado de que se ausente u oculte la persona contra quien deba promoverse o se haya promovido una demanda. Dicha medida únicamente tendrá los efectos previstos en el artículo 1173 de éste Código;
 
-II. Cuando se tema que se oculten o dilapiden los bienes en que debe ejercitarse una acción real;
+II. Retención de bienes, en cualquiera de los siguientes casos:
 
-III. Cuando la acción sea personal, siempre que el deudor no tuviere otros bienes que aquellos en que se ha de practicar la diligencia y se tema que los oculte o enajene.
+a) Cuando exista temor fundado de que los bienes que se hayan consignado como garantía o respecto de los cuales se vaya a ejercitar una acción real, se dispongan, oculten, dilapiden, enajenen o sean insuficientes, y
+
+b) Tratándose de acciones personales, siempre que la persona contra quien se pida no tuviere otros bienes que aquellos en que se ha de practicar la diligencia, y exista temor fundado de que los disponga, oculte, dilapide o enajene.
+
+En los supuestos a que se refiere esta fracción, si los bienes consisten en dinero en efectivo o en depósito en instituciones de crédito, u otros bienes fungibles, se presumirá, para los efectos de este artículo, el riesgo de que los mismos sean dispuestos, ocultados o dilapidados, salvo que el afectado con la medida garantice el monto del adeudo.
+
+Tratándose de la retención de bienes cuya titularidad o propiedad sea susceptible de inscripción en algún registro público, el Juez ordenará que se haga la anotación sobre el mismo.
 
 ###### Artículo 1169.
 
@@ -6418,101 +6436,121 @@ Las disposiciones del artículo anterior comprenden, no solo al deudor, sino tam
 
 ###### Artículo 1170.
 
-Las providencias precautorias establecidas por este Código podrán decretarse, tanto como actos prejudiciales, como después de iniciado el juicio respectivo: en este segundo caso la providencia se sustanciará en incidente por cuerda separada, y conocerá de ella el juez o tribunal que al ser presentada la solicitud esté conociendo del negocio.
+El que solicite la radicación de persona, deberá acreditar el derecho que tiene para gestionar dicha medida. Se podrá probar lo anterior mediante documentos o con testigos idóneos.
 
 ###### Artículo 1171.
 
-No pueden dictarse otras providencias precautorias que las establecidas en este Código, y que exclusivamente consistirán en el arraigo de la persona en el caso de la frac. I del art. 1168, y en el secuestro de bienes en los casos de las fracs. II y III del mismo artículo,
+Si la petición de radicación de persona se presenta antes de promover la demanda, además de cumplir con lo dispuesto en el artículo anterior, el promovente deberá garantizar el pago de los daños y perjuicios que se generen si no se presenta la demanda. El monto de la garantía deberá ser determinado por el juez prudentemente, con base en la información que se le proporcione y cuidando que la misma sea asequible para el solicitante.
 
 ###### Artículo 1172.
 
-El que pida la providencia precautoria deberá acreditar el derecho que tiene para gestionar y la necesidad de la medida que solicita.
+Si la radicación de persona se pide al tiempo de presentar la demanda, bastará la petición del actor y el otorgamiento de la garantía a que se refiere el artículo anterior para que se decrete y se haga al demandado la correspondiente notificación.
 
 ###### Artículo 1173.
 
-La prueba puede consistir en documentos o en testigos idóneos, que serán por lo menos tres.
+En todos los casos, la radicación de persona se reducirá a prevenir al demandado que no se ausente del lugar del juicio sin dejar representante legítimo, suficientemente instruido y expensado, para responder a las resultas del juicio.
 
 ###### Artículo 1174.
 
-Si el arraigo de una persona para que conteste en juicio se pide al tiempo de entablar la demanda, bastará la petición del actor y el otorgamiento de una fianza que responda de los daños y perjuicios que se causen al demandado, cuyo monto discrecionalmente fijará el Juez, para que se haga al demandado la correspondiente notificación.
+El que quebrantare la providencia de radicación de persona será castigado con la pena que señala el Código Penal respectivo al delito de desobediencia a un mandato legítimo de la autoridad pública, sin perjuicio de ser compelido por los medios de apremio que correspondan a volver al lugar del juicio.
+
+En todo caso, se seguirá éste, según su naturaleza, conforme a las reglas comunes.
 
 ###### Artículo 1175.
 
-En el caso del artículo anterior, la providencia se reducirá a prevenir al demandado que no se ausente del lugar del juicio sin dejar representante legítimo, suficientemente instruido y expensado, para responder a las resultas del juicio.
+El juez deberá decretar de plano la retención de bienes, cuando el que lo pide cumpla con los siguientes requisitos:
+
+I. Pruebe la existencia de un crédito líquido y exigible a su favor;
+
+II. Exprese el valor de las prestaciones o el de la cosa que se reclama, designando ésta con toda precisión;
+
+III. Manifieste, bajo protesta de decir verdad, las razones por las cuales tenga temor fundado de que los bienes consignados como garantía o respecto de los cuales se vaya a ejercitar la acción real serán ocultados, dilapidados, dispuestos o enajenados. En caso de que dichos bienes sean insuficientes para garantizar el adeudo, deberá acreditarlo con el avalúo o las constancias respectivas;
+
+IV. Tratándose de acciones personales, manifieste bajo protesta de decir verdad que el deudor no tiene otros bienes conocidos que aquellos en que se ha de practicar la diligencia. Asimismo, deberá expresar las razones por las que exista temor fundado de que el deudor oculte, dilapide o enajene dichos bienes, salvo que se trate de dinero en efectivo o en depósito en instituciones de crédito, o de otros bienes fungibles, y
+
+V. Garantice los daños y perjuicios que pueda ocasionar la medida precautoria al deudor, en el caso de que no se presente la demanda dentro del plazo previsto en este Código o bien porque promovida la demanda, sea absuelta su contraparte.
+
+El monto de la garantía deberá ser determinado por el juez prudentemente, con base en la información que se le proporcione y cuidando que la misma sea asequible para el solicitante.
 
 ###### Artículo 1176.
 
-Si la petición de arraigo se presenta antes de entablar la demanda, además de la prueba que exige el art. 1172, el actor deberá dar una fianza a satisfacción del juez de responder de los daños y perjuicios que se sigan si no se entabla la demanda.
+La retención de bienes decretada como providencia precautoria se regirá, en lo que le resulte aplicable, por lo dispuesto para los juicios ejecutivos mercantiles. La consignación y el otorgamiento de las garantías a que se refiere el artículo 1179 de este Código, se hará de acuerdo a lo que disponga la ley procesal de la entidad federativa a que pertenezca el juez que haya decretado la providencia, y en su oscuridad o insuficiencia conforme a los principios generales del derecho.
 
 ###### Artículo 1177.
 
-El que quebrantare el arraigo será castigado con la pena que señala el Código Penal respectivo al delito de desobediencia a un mandato legítimo de la autoridad pública, sin perjuicio de ser compelido por los medios de apremio que correspondan a volver al lugar del juicio. En todo caso, se seguirá éste, según su naturaleza, conforme a las reglas comunes.
+Las providencias precautorias establecidas por este Código podrán decretarse, tanto como actos prejudiciales, como después de iniciado cualquiera de los juicios previstos en el mismo. En el primero de los casos, la providencia se decretará de plano, sin citar a la persona contra quien ésta se pida, una vez cubiertos los requisitos previstos en este ordenamiento. En el segundo caso, la providencia se sustanciará en incidente, por cuerda separada, y conocerá de ella el juez o tribunal que al ser presentada la solicitud esté conociendo del negocio.
 
 ###### Artículo 1178.
 
-Cuando se solicite el secuestro provisional, se expresará el valor de la demanda o el de la cosa que se reclama, designando ésta con toda precisión; y el juez, al decretarlo, fijará la cantidad por la cual haya de practicarse la diligencia.
+Ni para recibir la información ni para dictar una providencia precautoria se citará a la persona contra quien ésta se pida, salvo que la medida se solicite iniciado cualquiera de los juicios previstos en este Código.
 
 ###### Artículo 1179.
 
-Cuando se pida un secuestro provisional sin fundarlo en título ejecutivo, el actor dará fianza de responder por los daños y perjuicios que se sigan, ya porque se revoque la providencia, ya porque, entablada la demanda, sea absuelto el reo.
+Una vez ordenada la radicación de persona o practicada la retención de bienes, y en su caso, presentada la solicitud de inscripción de éste en el Registro Público correspondiente, se concederán tres días al afectado para que manifieste lo que a su derecho convenga.
+
+Si el demandado consigna el valor u objeto reclamado, da fianza o garantiza con bienes raíces suficientes el valor de lo reclamado, se levantará la providencia que se hubiere dictado.
 
 ###### Artículo 1180.
 
-Si el demandado consigna el valor ú objeto reclamado, da fianza bastante a juicio del juez o prueba tener bienes raíces suficientes para responder del éxito de la demanda, no se llevará á cabo la providencia precautoria, o se levantará la que se hubiere dictado.
+En la ejecución de las providencias precautorias no se admitirá excepción alguna, salvo lo previsto en el segundo párrafo del artículo anterior.
 
 ###### Artículo 1181.
 
-Ni para recibir la información ni para dictar una providencia precautoria se citará a la persona contra quien ésta se pida.
+Ejecutada la providencia precautoria antes de ser promovida la demanda, el que la pidió deberá presentarla dentro de tres días, si el juicio hubiere de seguirse en el lugar en que aquélla se dictó. Si debiere seguirse en otro lugar, el juez aumentará a los tres días señalados, los que resulten de acuerdo al último párrafo del artículo 1075.
+
+El que pidió la medida precautoria deberá acreditar ante el juzgador que concedió la providencia la presentación de la demanda ante el juez competente, dentro de los tres días siguientes a que se venza cualquiera de los plazos del párrafo anterior.
 
 ###### Artículo 1182.
 
-De toda providencia precautoria queda responsable el que la pide; por consiguiente, son de su cargo los daños y perjuicios que se causen.
+Si el que solicita la providencia precautoria no cumple con lo dispuesto en el artículo que precede, ésta se revocará de oficio, aunque no lo pida la persona contra la que se decretó.
 
 ###### Artículo 1183.
 
-En la ejecución de las providencias precautorias no se admitirá excepción alguna, salvo las que se señalan en el artículo 1180.
+En contra de la resolución que decrete una providencia precautoria procede el recurso de apelación de tramitación inmediata en efecto devolutivo, en términos de los artículos 1339,1345, fracción IV, y 1345 bis 1 de este Código.
+
+Sin perjuicio de lo anterior, la persona contra quien se haya dictado una providencia precautoria, puede en cualquier tiempo, pero antes de la sentencia ejecutoria, solicitar al juez su modificación o revocación, cuando ocurra un hecho superveniente.
 
 ###### Artículo 1184.
 
-El aseguramiento de bienes decretado por providencia precautoria, se regirán por lo dispuesto para los juicios ejecutivos mercantiles, y en cuanto a la consignación a que se refiere el artículo 1180 de acuerdo a lo que disponga la ley procesal de la entidad federativa, a que pertenezca el juez que haya decretado la precautoria, y en su oscuridad o insuficiencia a lo que resuelva el juez.
+Igualmente puede reclamar la providencia precautoria un tercero, cuando sus bienes hayan sido objeto del secuestro. Esta reclamación se sustanciará por cuaderno separado y conforme a los artículos siguientes.
 
 ###### Artículo 1185.
 
-Ejecutada la providencia precautoria antes de ser entablada la demanda, el que la pidió deberá entablarla dentro de tres días, si el juicio hubiere de seguirse en el lugar en que aquélla se dictó. Si debiere seguirse en otro lugar, el juez aumentará a los tres días señalados, los que resulten de acuerdo al último párrafo del artículo 1075.
+El tercero que reclame una providencia, deberá hacerlo mediante escrito en el que ofrezca las pruebas respectivas. El juez correrá traslado al promovente de la precautoria, y a la persona contra quien se ordenó la medida para que la contesten dentro del término de cinco días y ofrezcan las pruebas que pretendan se les reciban. Transcurrido el plazo para la contestación, al día siguiente en que se venza el término, el juez admitirá las pruebas que se hayan ofrecido, y señalará fecha para su desahogo dentro de los diez días siguientes, mandando preparar las pruebas que así lo ameriten.
 
 ###### Artículo 1186.
 
-Si el actor no cumple con lo dispuesto en el artículo que precede, la providencia precautoria se revocará de oficio, aunque no lo pida el demandado.
+En la audiencia a que se refiere el artículo anterior, se recibirán las pruebas. Concluido su desahogo, las partes alegarán verbalmente lo que a su derecho convenga. El tribunal fallará en la misma audiencia.
 
 ###### Artículo 1187.
 
-La persona contra quien se haya dictado una providencia precautoria, puede reclamarla en cualquier tiempo, pero antes de la sentencia ejecutoria, para cuyo efecto se le notificará dicha providencia, caso de no haberse ejecutado con su persona o con su representante legítimo.
+Si atendiendo a la cuantía del negocio fuere apelable la sentencia que resuelva la reclamación, el recurso se admitirá sólo en el efecto devolutivo de tramitación inmediata. Si la sentencia que resuelva la reclamación en primera instancia levanta la providencia precautoria, no se ejecutará sino previa garantía que dé la parte que la obtuvo. La sentencia de segunda instancia causará ejecutoria. Cuando la providencia precautoria hubiere sido dictada en segunda instancia, la sentencia no admitirá recurso alguno.
 
 ###### Artículo 1188.
 
-Igualmente puede reclamar la providencia precautoria un tercero, cuando sus bienes hayan sido objeto del secuestro. Esta reclamación se sustanciará por cuaderno separado y conforme a los artículos siguientes.
+Cuando la providencia precautoria se dicte por un juez que no sea el que deba conocer del negocio principal, una vez ejecutada y resuelta la reclamación, si se hubiere formulado, se remitirán al juez competente las actuaciones, que en todo caso se unirán al expediente a efecto de que obren en él para los efectos que correspondan conforme a derecho.
 
 ###### Artículo 1189.
 
-Reclamada la providencia en escrito de demanda en el que se ofrezcan las pruebas por el tercero, el juez correrá traslado al promovente de la precautoria, y en su caso al deudor para que la contesten dentro del término de cinco días, debiendo en su caso, ofrecer las pruebas que pretendan se les reciban. Transcurrido el plazo para la contestación, al día siguiente en que se venza el término, el juez admitirá las pruebas que se hayan ofrecido, y señalará fecha para su desahogo dentro de los quince días siguientes, mandando preparar las pruebas que así lo ameriten.
+Las garantías de que se trata en este capítulo, se otorgarán ante el juez o el tribunal que haya decretado la providencia precautoria respectiva.
+
+Si se tratara de fianza, el fiador, o la compañía que otorgue la garantía por cualquiera de las partes se entiende que renuncia a todos los beneficios legales, observándose en este caso, lo dispuesto en los artículos relativos al Código Civil Federal.
 
 ###### Artículo 1190.
 
-En la audiencia a que se refiere el artículo anterior, se recibirán las pruebas y concluido su desahogo las partes alegarán verbalmente lo que a su derecho convenga, y el tribunal fallará en la misma audiencia.
+Se deroga
 
 ###### Artículo 1191.
 
-Si atendido el interés del negocio hubiere lugar a la apelación, ésta se admitirá sólo en el efecto devolutivo y será de tramitación inmediata. Si la sentencia levanta la providencia precautoria, no se ejecutará sino previa fianza que dé la parte que obtuvo. La sentencia de segunda instancia causará ejecutoria. Cuando la providencia precautoria hubiere sido dictada en segunda instancia, la sentencia no admitirá recurso alguno.
+Se deroga
 
 ###### Artículo 1192.
 
-Cuando la providencia precautoria se dicte por un juez que no sea el que deba conocer del negocio principal, una vez ejecutada y resuelta la reclamación, si se hubiere formulado, se remitirán al juez competente las actuaciones, que en todo caso se unirán al expediente para que en él obren los efectos que correspondan conforme a derecho.
+Se deroga
 
 ###### Artículo 1193.
 
-Las fianzas de que se trata en este capítulo, se otorgarán ante el tribunal que haya decretado la providencia precautoria respectiva.
-
-El fiador, o la compañía de fianzas que otorgue la garantía por cualquiera de las partes se entiende que renuncia a todos los beneficios legales, observándose en este caso, lo dispuesto en los artículos relativos al Código Civil Federal.
+Se deroga
 
 #### CAPITULO XII · Reglas Generales sobre la Prueba
 
@@ -6836,7 +6874,7 @@ V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten su
 
 VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.
 
-En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de \$3,125.40 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
+En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de \$3,238.54 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
 Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dicho monto y el mes de noviembre del año en cuestión.
 
@@ -7356,7 +7394,7 @@ La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sól
 
 ###### Artículo 1339.
 
-Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a \$520,900.00 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
+Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a \$539,756.58 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
 
 Corresponderá a la Secretaría de Economía actualizar cada año por inflación el monto expresado en pesos en el párrafo anterior y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
@@ -7380,7 +7418,7 @@ Los asuntos de cuantía indeterminada siempre serán apelables.
 
 ###### Artículo 1340.
 
-La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a \$520,900.00 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
+La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a \$539,756.58 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
 
 ###### Artículo 1341.
 
@@ -7640,7 +7678,7 @@ Si la tercería fuere de preferencia, seguirán los procedimientos del juicio pr
 
 ###### Artículo 1375.
 
-Bastará la interposición de una tercería excluyente, para que el ejecutante puedan ampliar la ejecución en otros bienes del deudor, y si éste no los tuviere, para pedir la declaración de quiebra.
+Bastará la interposición de una tercería excluyente, para que el ejecutante pueda ampliar la ejecución en otros bienes del demandado y si éste no los tuviere, para pedir la declaración de quiebra.
 
 ###### Artículo 1376.
 
@@ -7748,6 +7786,12 @@ Se tramitarán en este juicio todas las contiendas cuya suerte principal sea inf
 
 Contra las resoluciones pronunciadas en el juicio oral mercantil no procederá recurso ordinario alguno.
 
+No obstante, las partes podrán solicitar al juez, de manera verbal en las audiencias, que subsane las omisiones o irregularidades que se llegasen a presentar en la substanciación del juicio oral, para el sólo efecto de regularizar el procedimiento.
+
+Asimismo, el juez podrá ordenar que se subsane toda omisión que notare en la substanciación, para el solo efecto de regularizar el procedimiento.
+
+Si las partes estimaren que la sentencia definitiva contiene omisiones, cláusulas o palabras contradictorias, ambiguas u oscuras, las partes podrán solicitar de manera verbal dentro de la audiencia en que se dicte, la aclaración o adición a la resolución, sin que con ello se pueda variar la substancia de la resolución. Contra tal determinación no procederá recurso ordinario alguno.
+
 ###### Artículo 1390 Bis 1.
 
 No se sustanciarán en este juicio aquellos de tramitación especial establecidos en el presente Código y en otras leyes, ni los de cuantía indeterminada.
@@ -7834,11 +7878,13 @@ Si la demanda fuere obscura o irregular, o no cumpliera con alguno de los requis
 
 El actor deberá cumplir con la prevención que haga el juez, en un plazo máximo de tres días, contados a partir del día siguiente a aquel en que surta efectos la notificación y, en caso de no hacerlo, transcurrido el término, el juez la desechará precisando los puntos de la prevención que no fueron atendidos y pondrá a disposición del interesado todos los documentos originales y copias simples que se hayan exhibido, con excepción de la demanda con la que se haya formado el expediente respectivo.
 
-###### Artículo 1390 Bis 13.
+###### Artículo 1390 bis 13.
 
-En los escritos de demanda, contestación, reconvención, contestación a la reconvención y desahogo de vista de éstas, las partes ofrecerán sus pruebas expresando con toda claridad cuál es el hecho o hechos que se tratan de demostrar con las mismas, proporcionando el nombre, apellidos y domicilio de los testigos que hubieren mencionado en los escritos señalados al principio de este párrafo, así como los de sus peritos, y la clase de pericial de que se trate con el cuestionario a resolver, que deberán rendir durante el juicio, exhibiendo las documentales que tengan en su poder o el escrito sellado mediante el cual hayan solicitado los documentos que no tuvieren en su poder en los términos del artículo 1061 de este Código.
+En los escritos de demanda, contestación, reconvención, contestación a la reconvención y desahogo de vista de éstas, las partes ofrecerán sus pruebas expresando con toda claridad cuál es el hecho o hechos que se tratan de demostrar con las mismas, así como las razones por las que el oferente considera que demostrarán sus afirmaciones, proporcionando el nombre, apellidos y domicilio de los testigos que hubieren mencionado en los escritos señalados al principio de este párrafo, así como los de sus peritos, y la clase de pericial de que se trate con el cuestionario a resolver, que deberán rendir durante el juicio, exhibiendo las documentales que tengan en su poder o el escrito sellado mediante el cual hayan solicitado los documentos que no tuvieren en su poder en los términos del artículo 1061 de este Código.
 
-Si las partes no cumplen con los requisitos anteriores, el juez no podrá admitir las pruebas aunque se ofrezcan por las partes posteriormente, salvo que importen pruebas supervenientes en términos del artículo 1390 bis 49 de este Código.
+El juez no admitirá pruebas que sean contrarias al derecho o la moral; que se hayan ofrecido extemporáneamente, salvo que se tratare de pruebas supervenientes, en términos del artículo 1390 bis 49; que se refieran a hechos no controvertidos o ajenos a la litis, o bien sobre hechos imposibles o notoriamente inverosímiles.
+
+Si las partes incumplen los requisitos anteriores, el juez desechará las pruebas.
 
 ###### Artículo 1390 Bis 14.
 
@@ -7866,11 +7912,13 @@ El juez examinará, escrupulosamente y bajo su más estricta responsabilidad, si
 
 El escrito de contestación se formulará ajustándose a los términos previstos para la demanda. Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, salvo las supervenientes. Del escrito de contestación se dará vista a la parte actora por el término de 3 días para que desahogue la vista de la misma.
 
-###### Artículo 1390 Bis 18.
+###### Artículo 1390 bis 18.
 
-El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el juez, se correrá traslado de ésta a la parte actora para que la conteste en un plazo de nueve días. Del escrito de contestación a la reconvención, se dará vista a la parte contraria por el término de tres días para que desahogue la vista de la misma.
+El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el juez, ésta se notificará personalmente a la parte actora para que la conteste en un plazo de nueve días. Del escrito de contestación a la reconvención, se dará vista a la parte contraria por el término de tres días para que desahogue la vista de la misma. Si no se admite, el juez publicará únicamente un acuerdo para enterar a la parte que la solicitó sobre la reserva del derecho.
 
-Si en la reconvención se reclama, por concepto de suerte principal, una cantidad superior a la que sea competencia del juicio oral en términos del artículo 1390 bis, cesará de inmediato el juicio oral para que se continúe en la vía ordinaria, ante el juez que resulte competente.
+Si en la reconvención se reclama, por concepto de suerte principal, una cantidad superior a la que sea competencia del juicio oral en términos del artículo 1390 bis, se reservará el derecho del actor en la reconvención para que lo haga valer ante el Juez que resulte competente.
+
+Lo anterior, salvo que la acción de reconvención provenga de la misma causa que la acción principal, supuesto en el cual cesará de inmediato el juicio para que se continúe en la vía correspondiente.
 
 ###### Artículo 1390 Bis 19.
 
@@ -7970,7 +8018,7 @@ VI. La citación para audiencia de juicio.
 
 ###### Artículo 1390 Bis 33.
 
-La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a dos mil pesos, ni superior a \$5,209.00, monto que se actualizará en los términos del artículo 1253 fracción VI de este Código.
+La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a \$2,159.03, ni superior a \$5,397.57, monto que se actualizará en los términos del artículo 1253 fracción VI de este Código.
 
 ###### Artículo 1390 Bis 34.
 
@@ -8024,7 +8072,7 @@ Tratándose de una cuestión que requiera prueba y de ser procedente su admisió
 
 Cuando las partes no ofrezcan pruebas o las que propongan no se admitan, el juez, sin mayores trámites, dictará la resolución correspondiente, si fuera posible; en caso contrario, citará a las partes para dictarla dentro del término de tres días.
 
-Si en la audiencia de juicio no pudiere concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia, sin que pueda dictar sentencia definitiva, hasta que se resuelva el incidente.
+Si en la audiencia de juicio no pudiere concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia, resolviendo la incidencia previamente al dictado de la sentencia definitiva.
 
 #### CAPÍTULO IV · De las Pruebas
 
@@ -8120,7 +8168,7 @@ Traen aparejada ejecución:
 
 I. La sentencia ejecutoriada o pasada en autoridad de cosa juzgada y la arbitral que sea inapelable, conforme al artículo 1346, observándose lo dispuesto en el 1348;
 
-II. Los instrumentos públicos, así como los testimonios y copias certificadas que de los mismos expidan los fedatarios públicos;
+II. Los instrumentos públicos, así como los testimonios y copias certificadas que de los mismos expidan los fedatarios públicos, en los que conste alguna obligación exigible y líquida;
 
 III. La confesión judicial del deudor, según el art. 1288;
 
@@ -8132,25 +8180,33 @@ VI. La decisión de los peritos designados en los seguros para fijar el importe 
 
 VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio firmados y reconocidos judicialmente por el deudor;
 
-VIII. Los convenios emitidos en los procedimientos conciliatorios que realiza la Procuraduría Federal del Consumidor, así como los laudos arbitrales que la misma emite; y
+VIII. Los convenios celebrados en los procedimientos conciliatorios tramitados ante la Procuraduría Federal del Consumidor o ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, así como los laudos arbitrales que éstas emitan, y
 
 IX. Los demás documentos que por disposición de la Ley tienen el carácter de ejecutivos o que por sus características traen aparejada ejecución.
 
 ###### Artículo 1392.
 
-Presentada por el actor su demanda acompañada del título ejecutivo, se proveerá auto, con efectos de mandamiento en forma, para que el deudor sea requerido de pago, y no haciéndolo se le embarguen bienes suficientes para cubrir la deuda, los gastos y costas, poniéndolos bajo la responsabilidad del acreedor, en depósito de persona nombrada por éste.
+Presentada por el actor su demanda acompañada del título ejecutivo, se proveerá auto, con efectos de mandamiento en forma, para que el demandado sea requerido de pago, y no haciéndolo se le embarguen bienes suficientes para cubrir la deuda, los gastos y costas, poniéndolos bajo la responsabilidad del actor, en depósito de persona nombrada por éste.
+
+En todo momento, el actor tendrá acceso a los bienes embargados, a efecto de verificar que no hayan sido dispuestos, sustraídos, su estado y la suficiencia de la garantía, para lo cual, podrá además solicitar la práctica de avalúos. De ser el caso, el actor podrá solicitar la ampliación de embargo, salvo que la depreciación del bien haya sido por causas imputables al mismo o a la persona nombrada para la custodia del bien.
 
 ###### Artículo 1393.
 
-No encontrándose el deudor a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Federal de Procedimientos Civiles, respecto de los embargos.
+No encontrándose el demandado a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Federal de Procedimientos Civiles, respecto de los embargos.
+
+Una vez que el actuario o ejecutor se cerciore de que en el domicilio sí habita la persona buscada y después de la habilitación de días y horas inhábiles, de persistir la negativa de abrir o de atender la diligencia, el actuario dará fe para que el Juez ordene dicha diligencia por medio de edictos sin girar oficios para la localización del domicilio.
 
 ###### Artículo 1394.
 
-La diligencia de embargo se iniciará con el requerimiento de pago al deudor, su representante o la persona con la que se entienda, de las indicadas en el artículo anterior; de no hacerse el pago, se requerirá al demandado, su representante o la persona con quien se entiende la diligencia, para que señale bienes suficientes para garantizar las prestaciones reclamadas, apercibiéndolo que de no hacerlo, el derecho para señalar bienes pasará al actor. A continuación se emplazará al demandado.
+La diligencia de embargo se iniciará con el requerimiento de pago al demandado, su representante o la persona con la que se entienda, de las indicadas en el artículo anterior; de no hacerse el pago, se requerirá al demandado, su representante o la persona con quien se entiende la diligencia, para que señale bienes suficientes para garantizar las prestaciones reclamadas, apercibiéndolo que de no hacerlo, el derecho para señalar bienes pasará al actor. A continuación, se emplazará al demandado.
 
 En todos los casos se le entregará a dicho demandado cédula en la que se contengan la orden de embargo decretada en su contra, dejándole copia de la diligencia practicada, corriéndole traslado con la copia de demanda, de los documentos base de la acción y demás que se ordenan por el artículo 1061.
 
-La diligencia de embargo no se suspenderá por ningún motivo, sino que se llevará adelante hasta su conclusión, dejando al deudor sus derechos a salvo para que los haga valer como le convenga durante el juicio.
+La diligencia de embargo no se suspenderá por ningún motivo, sino que se llevará adelante hasta su conclusión, dejando al demandado sus derechos a salvo para que los haga valer como le convenga durante el juicio.
+
+En todos los casos, practicada la diligencia de ejecución decretada, el ejecutor entregará también al ejecutante copia del acta que se levante o constancia firmada por él, en que conste los bienes que hayan sido embargados y el nombre, apellidos y domicilio del depositario designado.
+
+La copia o constancia que se entregue al ejecutante podrá servir para el caso de haberse embargado bienes inmuebles, para que la misma se presente al Registro Público de la Propiedad, o del Comercio, dentro de los tres días siguientes, para su inscripción preventiva, la cual tendrá los mismos efectos que se señalan para los avisos de los notarios en los términos de la parte final del artículo 3016 del Código Civil, y el juez, dentro de un término máximo de cinco días, deberá poner a disposición del interesado el oficio respectivo junto con copia certificada de la diligencia de embargo para su inscripción.
 
 El juez, en ningún caso, suspenderá su jurisdicción para dejar de resolver todo lo concerniente al embargo, su inscripción en el Registro Público que corresponda, desembargo, rendición de cuentas por el depositario respecto de los gastos de administración y de las demás medidas urgentes, provisionales o no, relativas a los actos anteriores.
 
@@ -8160,9 +8216,9 @@ En el embargo de bienes se seguirá este orden:
 
 I. Las mercancías;
 
-II. Los créditos de fácil y pronto cobro, a satisfacción del acreedor;
+II. Los créditos de fácil y pronto cobro, a satisfacción del actor;
 
-III. Los demás muebles del deudor;
+III. Los demás muebles del demandado;
 
 IV. Los inmuebles;
 
@@ -8178,7 +8234,7 @@ Cometerá el delito de desobediencia el ejecutado que transmita el uso del bien 
 
 ###### Artículo 1396.
 
-Hecho el embargo, acto continuo se notificará al deudor, o a la persona con quien se haya practicado la diligencia para que dentro del término de ocho días, el que se computará en términos del artículo 1075 de este Código, comparezca el deudor ante el juzgado a hacer paga llana de la cantidad demandada y las costas, o a oponer las excepciones que tuviere para ello.
+Hecho el embargo, acto continuo se notificará al demandado, o a la persona con quien se haya practicado la diligencia para que dentro del término de ocho días, el que se computará en términos del artículo 1075 de este Código, comparezca la parte demandada ante el juzgado a hacer paga llana de la cantidad reclamada y las costas, o a oponer las excepciones que tuviere para ello.
 
 ###### Artículo 1397.
 
@@ -8242,7 +8298,7 @@ En los juicios ejecutivos los incidentes no suspenderán el procedimiento y se t
 
 ###### Artículo 1405.
 
-Si el deudor se allanare a la demanda y solicitare término de gracia para el pago de lo reclamado, el juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo el juez resolver de acuerdo a tales proposiciones de las partes.
+Si el demandado se allanare a la demanda y solicitare término de gracia para el pago de lo reclamado, el juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo el juez resolver de acuerdo a tales proposiciones de las partes.
 
 ###### Artículo 1406.
 
@@ -8268,7 +8324,7 @@ V. (Se deroga).
 
 ###### Artículo 1408.
 
-Si en la sentencia se declara haber lugar a hacer trance y remate de los bienes embargados y pago al acreedor, en la misma sentencia se decidirá también sobre los derechos controvertidos.
+Si en la sentencia se declara haber lugar a hacer trance y remate de los bienes embargados y pago al actor, en la misma sentencia se decidirá también sobre los derechos controvertidos.
 
 ###### Artículo 1409.
 
@@ -8276,15 +8332,25 @@ Si la sentencia declarase que no procede el juicio ejecutivo, reservará al acto
 
 ###### Artículo 1410.
 
-A virtud de la sentencia de remate, se procederá a la venta de los bienes secuestrados, previo avalúo hecho por dos corredores o peritos y un tercero en caso de discordia, nombrados aquellos por las partes y éste por el juez.
+A virtud de la sentencia de remate se procederá a la venta de los bienes retenidos o embargados, con el avalúo que cada parte exhiba dentro de los diez días siguientes a que sea ejecutable la sentencia. Si los valores determinados en cada avalúo no coincidieren, se tomará como base para el remate el promedio de ambos avalúos, siempre y cuando no exista una diferencia mayor al veinte por ciento entre el más bajo y el más alto. Si la discrepancia en el valor de los avalúos exhibidos por las partes fuera superior al porcentaje referido, el Juez podrá ordenar que se practique un tercer avalúo.
+
+En caso de que alguna de las partes deje de exhibir el avalúo se entenderá su conformidad con el avalúo exhibido por su contraria.
+
+El avalúo de los bienes retenidos o embargados será practicado por un corredor público, una Institución de crédito o perito valuador autorizado por el Consejo de la Judicatura correspondiente quienes no podrán tener el carácter de parte o de interesada en el juicio.
 
 ###### Artículo 1411.
 
-Presentado el avalúo y notificadas las partes para que ocurran al juzgado a imponerse de aquel, se anunciará en la forma legal la venta de los bienes, por tres veces, dentro de tres días, si fuesen muebles, y dentro de nueve si fuesen raíces, en un periódico de circulación amplia de la Entidad Federativa donde se ventile el juicio, rematándose enseguida en pública almoneda y al mejor postor conforme a derecho.
+Presentado el avalúo y notificadas las partes para que ocurran al juzgado a imponerse de aquel, se anunciará en la forma legal la venta de los bienes por medio de edictos que se publicarán dos veces en un periódico de circulación amplia de la Entidad Federativa donde se ventile el juicio. Entre la primera y la segunda publicación, deberá mediar un lapso de tres días si fuesen muebles, y nueve días si fuesen raíces. Asimismo, entre la última publicación y la fecha del remate deberá mediar un plazo no menor de cinco días.
 
 ###### Artículo 1412.
 
-No habiéndose presentado postor a los bienes, el acreedor podrá pedir la adjudicación de ellos por el precio que para subastarlos se les haya fijado en la última almoneda.
+Postura legal es la que cubre las dos terceras partes del precio fijado por las partes a los bienes retenidos o embargados, o en su defecto, el establecido mediante el procedimiento previsto en el artículo 1410 de este ordenamiento, con tal de que sea suficiente para pagar el importe de lo sentenciado.
+
+Si en la primera almoneda no hubiere postura legal, se citará a una segunda, para lo cual se hará una sola publicación de edictos, conforme a lo dispuesto en el artículo 1411 de este Código. En la segunda almoneda se tendrá como precio el de la primera con deducción de un diez por ciento.
+
+Si en la segunda almoneda, no hubiere postura legal, se citará a la tercera en la forma que dispone el párrafo anterior, y de igual manera se procederá para las ulteriores, cuando se actualizare la misma causa hasta efectuar legalmente el remate. En cada una de las almonedas se deducirá un diez por ciento del precio que en la anterior haya servido de base.
+
+En cualquier almoneda en que no hubiere postura legal, el ejecutante tiene derecho a pedir la adjudicación de los bienes a rematar, por las dos terceras partes del precio que en ella haya servido de base para el remate, hasta el importe de lo sentenciado y, en su caso, entregará el remanente al demandado en los diez días hábiles siguientes a que haya quedado firme la adjudicación respectiva.
 
 ###### Artículo 1412 Bis.
 
@@ -8293,6 +8359,12 @@ Cuando el monto líquido de la condena fuere superior al valor de los bienes emb
 ###### Artículo 1412 Bis 1.
 
 Tratándose del remate y adjudicación de inmuebles, el juez y el adjudicatario, sin más trámite, otorgarán la escritura pública correspondiente ante fedatario público.
+
+###### Artículo 1412 bis 2.
+
+Una vez que quede firme la resolución que determine la adjudicación de los bienes, se dictarán las diligencias necesarias a petición de parte interesada para poner en posesión material y jurídica de dichos bienes al adjudicatario, siempre y cuando este último, en su caso, haya consignado el precio, dándose para ello las ordenes necesarias, aún las de desocupación de fincas habitadas por el demandado o terceros que no tuvieren contratos para acreditar el uso, en los términos que fija la legislación civil aplicable.
+
+En caso de que existan terceros que acrediten mediante la exhibición del contrato correspondiente dicho uso, en la primera diligencia que se lleve a cabo en términos del párrafo anterior, se dará a conocer como nuevo dueño al adjudicatario o, en su caso, a sus causahabientes.
 
 ###### Artículo 1413.
 
@@ -8356,17 +8428,17 @@ Para que el juicio se siga de acuerdo con las disposiciones de este Capítulo, e
 
 ###### Artículo 1414 bis 8.
 
-Presentado el escrito de demanda, acompañado del contrato respectivo y la determinación del saldo que formule el acreedor, y cuando el acreedor sea una institución de crédito, anexando la certificación de saldo que corresponda, el juez bajo su más estricta responsabilidad, si encuentra que se reúnen los requisitos fijados en el artículo anterior, en un plazo no mayor de dos días, admitirá la misma y dictará auto con efectos de mandamiento en forma para que el deudor sea requerido de pago y, de no hacerlo, el propio deudor, el depositario, o quien detente la posesión, haga entrega de la posesión material al actor o a quien éste designe, de los bienes objeto de la garantía indicados en el contrato. En este último caso, el acreedor o quien éste designe, tendrá el carácter de depositario judicial y deberá informar al juez sobre el lugar en el que permanecerán los bienes que le han sido entregados, en tanto no sean vendidos.
+Presentado el escrito de demanda, acompañado del contrato respectivo y la determinación del saldo que formule el actor, y cuando el promovente sea una institución de crédito, anexando la certificación de saldo que corresponda, el juez bajo su más estricta responsabilidad, si encuentra que se reúnen los requisitos fijados en el artículo anterior, en un plazo no mayor de dos días, admitirá la misma y dictará auto con efectos de mandamiento en forma para que el demandado sea requerido de pago y, de no hacerlo, el propio demandado, el depositario, o quien detente la posesión, haga entrega de la posesión material al actor o a quien éste designe, de los bienes objeto de la garantía indicados en el contrato. En este último caso, el actor o quien éste designe, tendrá el carácter de depositario judicial y deberá informar al juez sobre el lugar en el que permanecerán los bienes que le han sido entregados, en tanto no sean vendidos.
 
-En el mismo auto mediante el cual se requiera de pago al deudor, el juez lo emplazará a juicio, en caso de que no pague o no haga entrega de la posesión material de los bienes dados en garantía al acreedor, para que dentro del término de cinco días ocurra a contestarla y a oponer, en su caso, las excepciones que se indican en el artículo 1414 bis 10.
+En el mismo auto mediante el cual se requiera de pago al demandado, el juez lo emplazará a juicio, en caso de que no pague o no haga entrega de la posesión material de los bienes dados en garantía al acreedor, para que dentro del término de cinco días ocurra a contestarla y a oponer, en su caso, las excepciones que se indican en el artículo 1414 bis 10.
 
-La referida determinación de saldo podrá elaborarse a partir del último estado de cuenta que, en su caso, el deudor haya recibido y aceptado, siempre y cuando se haya pactado, o bien el acreedor esté obligado por disposición de Ley a entregar estados de cuenta al deudor. Se entenderá que el deudor ha recibido y aceptado este último estado de cuenta, si no lo objeta por escrito dentro de los 10 días hábiles siguientes de haberlo recibido o bien efectúa pagos parciales al acreedor con posterioridad a su recepción.
+La referida determinación de saldo podrá elaborarse a partir del último estado de cuenta que, en su caso, el deudor haya recibido y aceptado, siempre y cuando se haya pactado, o bien el acreedor esté obligado por disposición de Ley a entregar estados de cuenta al deudor. Se entenderá que el deudor ha recibido y aceptado este último estado de cuenta, si no lo objeta por escrito dentro de los diez días hábiles siguientes de haberlo recibido o bien efectúa pagos parciales al acreedor con posterioridad a su recepción.
 
-###### Artículo 1414 Bis 9.
+###### Artículo 1414 bis 9.
 
-La diligencia a que se refiere el artículo anterior, no se suspenderá por ningún motivo y se llevará adelante hasta su conclusión, dejando al deudor sus derechos a salvo para que los haga valer como le convenga durante el juicio. A fin de poner en posesión material de los bienes al demandante, el juzgador apercibirá al deudor con el uso de los medios de apremio establecidos en el artículo 1067 bis de este Código.
+La diligencia a que se refiere el artículo anterior, no se suspenderá por ningún motivo y se llevará adelante hasta su conclusión, dejando al demandado sus derechos a salvo para que los haga valer como le convenga durante el juicio. A fin de poner en posesión material de los bienes al demandante, el juzgador apercibirá al demandado con el uso de los medios de apremio establecidos en el artículo 1067 bis de este Código.
 
-Si el deudor no hiciera entrega de los bienes en la diligencia prevista en este artículo, el secretario o actuario, en su caso, hará constar y dará cuenta de ello al juez, quien procederá a hacer efectivos los medios de apremio que estime conducentes para lograr el cumplimiento de su determinación en términos del presente Capítulo.
+Si el demandado no hiciera entrega de los bienes en la diligencia prevista en este artículo, el secretario o actuario, en su caso, hará constar y dará cuenta de ello al juez, quien procederá a hacer efectivos los medios de apremio que estime conducentes para lograr el cumplimiento de su determinación en términos del presente Capítulo.
 
 En caso de que la garantía recaiga sobre una casa habitación, utilizada como tal por el demandado, éste será designado depositario de la misma hasta la sentencia, siempre que acepte tal encargo. Cuando conforme a la sentencia, proceda que el demandado entregue al demandante la posesión material del inmueble, el juez hará efectivos los medios de apremio decretados y dictará las medidas conducentes para lograr el cumplimiento de la sentencia, ajustándose a lo dispuesto en este artículo.
 
@@ -8378,7 +8450,7 @@ I. Sólo se tendrán por opuestas las excepciones que se acrediten con prueba do
 
 II. Si se opone la excepción de falta de personalidad del actor y se declara procedente, el juez concederá un plazo no mayor de diez días para que dicha parte subsane los defectos del documento presentado, si fueran subsanables; igual derecho tendrá el demandado, si se impugna la personalidad de su representante. Si no se subsana la del actor, el juez de inmediato sobreseerá el juicio, y si no se subsana la del demandado, el juicio se seguirá en rebeldía.
 
-III. Si se oponen excepciones consistentes en que el demandado no haya firmado el documento base de la acción o fundadas en la falsedad del mismo, serán declaradas improcedentes al dictarse la sentencia, cuando quede acreditado que el deudor realizó pagos parciales del crédito a su cargo, o bien, que éste ha mantenido la posesión de los bienes adquiridos con el producto del crédito. Lo anterior, sin perjuicio de que la improcedencia de dichas excepciones resulte de diversa causa;
+III. Si se oponen excepciones consistentes en que el demandado no haya firmado el documento base de la acción o fundadas en la falsedad del mismo, serán declaradas improcedentes al dictarse la sentencia, cuando quede acreditado que el demandado realizó pagos parciales del crédito a su cargo, o bien, que éste ha mantenido la posesión de los bienes adquiridos con el producto del crédito. Lo anterior, sin perjuicio de que la improcedencia de dichas excepciones resulte de diversa causa;
 
 IV. Si se opone la excepción de litispendencia, sólo se admitirá cuando se exhiban con la contestación, las copias selladas de la demanda y la contestación a ésta o de las cédulas de emplazamiento del juicio pendiente, y
 
@@ -8426,27 +8498,27 @@ El juez debe presidir la audiencia, ordenar el desahogo de las pruebas admitidas
 
 Obtenido el valor de avalúo de los bienes, de acuerdo con lo dispuesto en el artículo 1414 bis, se estará a lo siguiente:
 
-I. Cuando el valor de los bienes sea igual al monto del adeudo condenado, quedará liquidado totalmente el crédito respectivo, sin corresponder en consecuencia acción o derecho alguno a la parte actora para ejercitar o hacer valer con posterioridad en contra del demandado, por lo que respecta al contrato base de la acción. En este caso, el acreedor o el fiduciario, según corresponda, podrá disponer libremente de los bienes objeto de la garantía;
+I. Cuando el valor de los bienes sea igual al monto del adeudo condenado, quedará liquidado totalmente el crédito respectivo, sin corresponder en consecuencia acción o derecho alguno a la parte actora para ejercitar o hacer valer con posterioridad en contra del demandado, por lo que respecta al contrato base de la acción. En este caso, el actor, podrá disponer libremente de los bienes objeto de la garantía;
 
-II. Cuando el valor de los bienes sea menor al monto del adeudo condenado, el acreedor o fiduciario, según corresponda, podrá disponer libremente de los bienes objeto de la garantía y conservará las acciones que en derecho le corresponda, por la diferencia que no le haya sido cubierta, conforme lo establecen las leyes correspondientes.
+II. Cuando el valor de los bienes sea menor al monto del adeudo condenado, el actor, podrá disponer libremente de los bienes objeto de la garantía y conservará las acciones que en derecho le corresponda, por la diferencia que no le haya sido cubierta, conforme lo establecen las leyes correspondientes.
 
-Se exceptúa de lo dispuesto en el párrafo anterior, a los créditos a la vivienda por un monto inferior a 100,000 Unidades de Inversión (UDIs), siempre que se haya pagado cuando menos el 50% del saldo insoluto del crédito. En este caso el valor del bien dado en garantía, actualizado a UDIs, responderá por el resto del crédito otorgado, sin corresponder en consecuencia acción o derecho alguno sobre otros bienes, títulos o derechos que no hayan sido dados en garantía a la parte actora para ejercitar o hacer valer con posterioridad en contra del deudor, por lo que respecta al contrato base de la acción.
+Se exceptúa de lo dispuesto en el párrafo anterior, a los créditos a la vivienda por un monto inferior a 100,000 Unidades de Inversión (UDIs), siempre que se haya pagado cuando menos el 50% del saldo insoluto del crédito. En este caso el valor del bien dado en garantía, actualizado a UDIs, responderá por el resto del crédito otorgado, sin corresponder en consecuencia acción o derecho alguno sobre otros bienes, títulos o derechos que no hayan sido dados en garantía a la parte actora para ejercitar o hacer valer con posterioridad en contra del demandado, por lo que respecta al contrato base de la acción.
 
 En ningún caso y bajo ninguna forma se podrá renunciar a este derecho;
 
-III. Cuando el valor de los bienes sea mayor al monto del adeudo condenado, la parte acreedora o la fiduciaria, según se trate y una vez deducido el crédito, los intereses y los gastos generados, entregará al deudor el remanente que corresponda por la venta de los bienes.
+III. Cuando el valor de los bienes sea mayor al monto del adeudo condenado, la parte actora, según se trate y una vez deducido el crédito, los intereses y los gastos generados, entregará al demandado el remanente que corresponda por la venta de los bienes.
 
-La venta a elección del acreedor o fiduciario se podrá realizar ante el juez que conozca del juicio o fedatario público, mediante el procedimiento siguiente:
+La venta a elección del actor se podrá realizar ante el juez que conozca del juicio o fedatario público, mediante el procedimiento siguiente:
 
-a) Se notificará personalmente al deudor, conforme a lo señalado en el Libro Quinto, Capítulo IV, del Título Primero de este Código, el día y la hora en que se efectuará la venta de los bienes a que se refiere el inciso siguiente. Dicha notificación deberá realizarse con cinco días de anticipación a la fecha de la venta;
+a) Se notificará personalmente al demandado, conforme a lo señalado en el Libro Quinto, Capítulo IV, del Título Primero de este Código, el día y la hora en que se efectuará la venta de los bienes a que se refiere el inciso siguiente. Dicha notificación deberá realizarse con cinco días de anticipación a la fecha de la venta;
 
-b) Se publicará en un periódico de la localidad en que se encuentren los bienes por lo menos con cinco días hábiles de antelación, un aviso de venta de los mismos, en el que se señale el lugar, día y hora en que se pretenda realizar la venta, señalando la descripción de los bienes, así como el precio de la venta, determinado conforme al artículo 1414 Bis.
+b) Se publicará en un periódico de la localidad en que se encuentren los bienes por lo menos con cinco días hábiles de antelación, un aviso de venta de los mismos, en el que se señale el lugar, día y hora en que se pretenda realizar la venta, señalando la descripción de los bienes, así como el precio de la venta, determinado conforme al artículo 1414 bis.
 
-En dicha publicación podrán señalarse las fechas en que se realizarán, en su caso, las ofertas sucesivas de venta de los bienes. Cada semana en la que no haya sido posible realizar la venta de los bienes, el valor mínimo de venta de los mismos, se reducirá en un 10%, pudiendo el acreedor, a su elección, obtener la propiedad plena de los mismos cuando el precio de dichos bienes esté en alguno de los supuestos a que se refieren las fracciones I o II de este artículo.
+En dicha publicación podrán señalarse las fechas en que se realizarán, en su caso, las ofertas sucesivas de venta de los bienes. Cada semana en la que no haya sido posible realizar la venta de los bienes, el valor mínimo de venta de los mismos, se reducirá en un 10%, pudiendo el actor, a su elección, obtener la propiedad plena de los mismos cuando el precio de dichos bienes esté en alguno de los supuestos a que se refieren las fracciones I o II de este artículo.
 
-El deudor que desee que se realicen más publicaciones relativas a la venta de los bienes podrá hacerlo directamente a su costa, y
+El demandado que desee que se realicen más publicaciones relativas a la venta de los bienes podrá hacerlo directamente a su costa, y
 
-c) Realizada la venta de los bienes, si el precio de venta de los mismos fuera superior al monto del adeudo, el acreedor procederá a entregar el remanente que corresponda al deudor en un plazo no mayor de cinco días, una vez que se haya deducido el monto del crédito otorgado, incluyendo intereses y demás gastos incurridos para la venta, en efectivo, cheque de caja o mediante billete de depósito a favor del deudor a través del fedatario.
+c) Realizada la venta de los bienes, si el precio de venta de los mismos fuera superior al monto del adeudo, el actor procederá a entregar el remanente que corresponda al demandado en un plazo no mayor de cinco días, una vez que se haya deducido el monto del crédito otorgado, incluyendo intereses y demás gastos incurridos para la venta, en efectivo, cheque de caja o mediante billete de depósito a favor de la parte demandada a través del fedatario.
 
 ###### Artículo 1414 bis 18.
 
@@ -8454,7 +8526,7 @@ En caso de incumplimiento de la parte actora a lo señalado en la fracción III,
 
 ###### Artículo 1414 bis 19.
 
-El acreedor o fiduciario, en tanto no realice la entrega al deudor del remanente de recursos que proceda en términos del artículo 1414 Bis 17, fracción III, por la venta de los bienes objeto de la garantía, cubrirá a éste, por todo el tiempo que dure el incumplimiento, una tasa de interés equivalente a dos veces el Costo de Captación a Plazo de pasivos denominados en moneda nacional (CCP), que mensualmente da a conocer el Banco de México, mediante publicaciones en el Diario Oficial de la Federación.
+El actor, en tanto no realice la entrega al demandado del remanente de recursos que proceda en términos del artículo 1414 bis 17, fracción III, por la venta de los bienes objeto de la garantía, cubrirá a éste, por todo el tiempo que dure el incumplimiento, una tasa de interés equivalente a dos veces el Costo de Captación a Plazo de pasivos denominados en moneda nacional (CCP), que mensualmente da a conocer el Banco de México, mediante publicaciones en el Diario Oficial de la Federación.
 
 ###### Artículo 1414 bis 20.
 
@@ -9657,3 +9729,61 @@ e) Artículo 1390 Bis 33: \$5,209.00 (Cinco mil doscientos nueve pesos 00/100 M.
 **UNICO.-** El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 26 de diciembre de 2012.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.
+
+### ACUERDO para la actualización de los montos establecidos en los artículos 1067 Bis fracción II, 1253 fracción VI, 1339, 1340 y 1390 Bis 33 del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2013*
+
+Acuerdo
+
+**PRIMERO.-** Los montos correspondientes a los artículos 1067 Bis fracción II; 1253 fracción VI; 1339; 1340 y 1390 Bis 33 del Código de Comercio, se actualizan en los siguientes términos:
+
+a) Artículo 1067 Bis fracción II: \$6,477.08 (Seis mil cuatrocientos setenta y siete pesos 08/100 M.N.).
+
+b) Artículo 1253 fracción VI: \$3,238.54 (Tres mil doscientos treinta y ocho pesos 54/100 M.N.).
+
+c) Artículo 1339: \$539,756.58 (Quinientos treinta y nueve mil setecientos cincuenta y seis pesos 58/100 M.N.).
+
+d) Artículo 1340: \$539,756.58 (Quinientos treinta y nueve mil setecientos cincuenta y seis pesos 58/100 M.N.).
+
+e) Artículo 1390 Bis 33: de \$2,159.03 (Dos mil ciento cincuenta y nueve pesos 03/100 M.N. a \$5,397.57 (Cinco mil trescientos noventa y siete pesos 57/100 M.N.).
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 13 de diciembre de 2013.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.
+
+*Publicado en el Diario Oficial de la Federación el 10 de enero de 2014*
+
+OTORGAMIENTO Y EJECUCIÓN DE GARANTÍAS
+
+**ARTÍCULO VIGÉSIMO SEGUNDO.-** Se REFORMAN los artículos 1055 bis; 1068, párrafo primero; 1070 párrafo sexto; 1070 bis; 1085 párrafo primero; 1093; 1104, primer párrafo y fracción I; 1107 primer párrafo; 1132, fracción XI; 1168; 1170; 1171; 1172; 1173; 1174; 1175; 1176; 1177; 1178; 1179; 1180; 1181, 1182; 1183; 1184; 1185; 1186, 1187; 1188; 1189; 1375; 1390 bis 13 primer y segundo párrafo; 1390 bis 18; 1390 bis 40, último párrafo; 1391, fracciones II y VIII; 1392 primer párrafo; 1393 primer párrafo; 1394, primer y tercer párrafos; 1395, fracciones II y III; 1396; 1405; 1408; 1410, primer párrafo; 1411; 1412 primer párrafo; 1414 bis 8; 1414 bis 9 párrafo primero y segundo; 1414 bis 10, fracción III; 1414 bis 17; 1414 bis 19; se ADICIONAN un segundo párrafo al artículo 1068, pasando el actual párrafo segundo a ser tercero; un último párrafo al artículo 1070; segundo párrafo al artículo 1085; una fracción III y un último párrafo al artículo 1104; un párrafo segundo al artículo 1107; un tercer, cuarto y quinto párrafo al artículo 1390 bis; un tercer párrafo al artículo 1390 bis 13; un segundo párrafo al artículo 1392; un segundo al artículo 1393; un párrafo cuarto y quinto al artículo 1394 pasando el actual párrafo cuarto a ser sexto; un párrafo segundo y un tercero al artículo 1410; un párrafo segundo, tercero y cuarto al artículo 1412; 1412 bis 2 y se DEROGAN el “Título Décimo Cuarto, De las Instituciones de Crédito”; los artículos 640; 1105; 1106; 1108; 1190; 1191; 1192 y 1193 del Código de Comercio, para quedar como sigue:
+
+……….
+
+**Disposiciones Transitorias**
+
+**ARTÍCULO VIGÉSIMO QUINTO.-** En relación con las modificaciones a que se refieren los Artículos Vigésimo Segundo a Vigésimo Cuarto de este Decreto, se estará a lo siguiente:
+
+I. La reforma al artículo 53 y lo dispuesto en el artículo 53 bis de la Ley Orgánica del Poder Judicial de la Federación que se adiciona, entrarán en vigor a los 6 meses siguientes al día de su publicación en el Diario Oficial de la Federación, excepto por lo que respecta a las fracciones I, V y VI del artículo 53 bis, las cuales entrarán en vigor a los 12 meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+II. Los juicios mercantiles que a la fecha de entrada en vigor de esta ley se encuentren radicados en los juzgados de distrito, deberán seguir siendo tramitados y resueltos por estos.
+
+III. El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
+
+IV. Los contratos de prenda celebrados con anterioridad a la fecha de entrada en vigor del artículo 336 Bis de la Ley General de Títulos y Operaciones de Crédito que se adiciona, seguirán sujetos a las disposiciones que les resulten aplicables al momento de su celebración.
+
+V. Las normas procesales contenidas en el presente Decreto no serán aplicables a los asuntos cuya demanda haya sido admitida con anterioridad a la fecha de su entrada en vigor.
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
