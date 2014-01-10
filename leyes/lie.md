@@ -3,12 +3,12 @@ title: Ley de Inversión Extranjera
 abbreviation: LIE
 slug: lie
 published_dof: 1993-12-27
-last_reform_dof: 2012-04-09
+last_reform_dof: 2014-01-10
 articles: 42
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/44.doc
-archived: https://web.archive.org/web/20130626031246/http://www.diputados.gob.mx/LeyesBiblio/doc/44.doc
-source_sha256: fbd74ab0b737015cafa87247b61b4af76665ad8c7466c749838903f3f927b818
-retrieved: 2013-06-26
+archived: https://web.archive.org/web/20140408222944/http://www.diputados.gob.mx/LeyesBiblio/doc/44.doc
+source_sha256: dcfde2e45505e5108cfc786bbfb2c4b72cd6de68a378ca3209576d024d9cf9fc
+retrieved: 2014-04-08
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lie.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 27 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-04-2012
+Última reforma publicada DOF 10-01-2014
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -176,27 +176,37 @@ d) (Se deroga).
 
 *Inciso derogado DOF 19-01-1999*
 
-e) Instituciones de seguros;
+e) Se deroga
 
-f) Instituciones de fianzas;
+*Inciso derogado DOF 10-01-2014*
 
-g) Casas de cambio;
+f) Se deroga
 
-h) Almacenes generales de depósito;
+*Inciso derogado DOF 10-01-2014*
+
+g) Se deroga
+
+*Inciso derogado DOF 10-01-2014*
+
+h) Se deroga
+
+*Inciso derogado DOF 10-01-2014*
 
 i) Se deroga.
 
-*Fracción derogada DOF 18-07-2006*
+*Inciso derogado DOF 18-07-2006*
 
 j) Se deroga.
 
-*Fracción derogada DOF 18-07-2006*
+*Inciso derogado DOF 18-07-2006*
 
 k) Se deroga.
 
-*Fracción derogada DOF 18-07-2006*
+*Inciso derogado DOF 18-07-2006*
 
-l) Sociedades a las que se refiere el artículo 12 bis de la Ley del Mercado de Valores;
+l) Se deroga
+
+*Inciso derogado DOF 10-01-2014*
 
 m) (Se deroga).
 
@@ -206,7 +216,9 @@ n) (Se deroga).
 
 *Inciso derogado DOF 04-06-2001*
 
-o) Administradoras de fondos para el retiro;
+o) Se deroga
+
+*Inciso derogado DOF 10-01-2014*
 
 p) Fabricación y comercialización de explosivos, armas de fuego, cartuchos, municiones y fuegos artificiales, sin incluir la adquisición y utilización de explosivos para actividades industriales y extractivas, ni la elaboración de mezclas explosivas para el consumo de dichas actividades;
 
@@ -250,11 +262,17 @@ IV.- Servicios privados de educación preescolar, primaria, secundaria, media su
 
 V.- Servicios legales;
 
-VI.- Sociedades de información crediticia;
+VI. Se deroga
 
-VII.- Instituciones calificadoras de valores;
+*Fracción derogada DOF 10-01-2014*
 
-VIII.- Agentes de seguros;
+VII. Se deroga
+
+*Fracción derogada DOF 10-01-2014*
+
+VIII. Se deroga
+
+*Fracción derogada DOF 10-01-2014*
 
 IX.- Telefonía celular;
 
@@ -1093,3 +1111,35 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.
+
+*Publicado en el Diario Oficial de la Federación el 10 de enero de 2014*
+
+**ARTÍCULO CUADRAGÉSIMO OCTAVO.-** Se DEROGAN los incisos e), f), g), h), i) y o) de la fracción III del artículo 7o., así como las fracciones VI, VII y VIII del artículo 8o., de la Ley de Inversión Extranjera, para quedar como sigue:
+
+……….
+
+**Disposiciones Transitorias**
+
+**ARTÍCULO QUINCUAGÉSIMO.-** En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
+
+I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y
+
+II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
+
+III. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+IV. La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015. Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014.
+
+………
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
