@@ -3,12 +3,12 @@ title: Ley General de Títulos y Operaciones de Crédito
 abbreviation: LGTOC
 slug: lgtoc
 published_dof: 1932-08-27
-last_reform_dof: 2012-04-09
-articles: 460
+last_reform_dof: 2014-01-10
+articles: 461
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc
-archived: https://web.archive.org/web/20130515101156/http://www.diputados.gob.mx/LeyesBiblio/doc/145.doc
-source_sha256: fcdd3b8e84111640efa07c9d89ccb4635218ea65dc8c40f4901b3b34c1fbe09d
-retrieved: 2013-05-15
+archived: https://web.archive.org/web/20140408230121/http://www.diputados.gob.mx/LeyesBiblio/doc/145.doc
+source_sha256: 0804a42dfad122cdec4444fa5158e83e47e01e8634336c6586999f9a72375539
+retrieved: 2014-04-08
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgtoc.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 27 de agosto de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-04-2012
+Última reforma publicada DOF 10-01-2014
 
 Al margen un sello que dice: Poder Ejecutivo Federal.-Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -1616,9 +1616,9 @@ Cuando la sociedad emisora esté autorizada para practicar también operaciones 
 
 ##### Artículo 228 h.
 
-El monto total nominal de una emisión de certificados de participación será fijado mediante dictamen que formulen, previo peritaje que practiquen de los bienes fideicometidos materia de esa emisión, la Nacional Financiera, S. A., o el Banco Nacional Hipotecario Urbano y de Obras Públicas, S. A., respectivamente, según que se trate de bienes muebles o inmuebles.
+El monto total nominal de una emisión de certificados de participación será fijado mediante dictamen que formule alguna sociedad nacional de crédito, previo peritaje que practique de los bienes fideicomitidos materia de esa emisión.
 
-La Nacional Financiera o el Banco Nacional Hipotecario Urbano y de Obras Públicas, al formular su dictamen y fijar el monto total nominal de una emisión, tomarán como base el valor comercial de los bienes y si se tratare de certificados amortizables estimarán sobre éste un margen prudente de seguridad para la inversión de los tenedores correspondientes. El dictamen que se formule por dichas instituciones será definitivo.
+La sociedad nacional de crédito, al formular su dictamen y fijar el monto total nominal de una emisión, tomará como base el valor comercial de los bienes y si se tratare de certificados amortizables estimarán sobre éste un margen prudente de seguridad para la inversión de los tenedores correspondientes. El dictamen que se formule por dichas instituciones será definitivo.
 
 ##### Artículo 228 i.
 
@@ -1766,11 +1766,9 @@ Las constancias, recibos o certificados que otras personas o instituciones expid
 
 ##### Artículo 230.
 
-Cuando se trate de mercancías o bienes individualmente designados, los Almacenes sólo podrán expedir un bono de prenda en relación con cada certificado de depósito. Si se trata de mercancías o bienes designados genéricamente, los Almacenes podrán expedir, a voluntad del depositante, bonos de prenda múltiples. Cuando el certificado de depósito se emita con la mención expresa de no ser negociable, no se expedirá bono de prenda alguno en relación con él.
+Cuando se trate de mercancías o bienes individualmente designados, los Almacenes sólo podrán expedir un bono de prenda en relación con cada certificado de depósito. Si se trata de mercancías o bienes designados genéricamente, los Almacenes podrán expedir, a voluntad del depositante, bonos de prenda múltiples.
 
 Si se expide un solo bono, deberá ir adherido al certificado de depósito.
-
-Salvo el caso de que el certificado se emita como no negociable, el Almacén no puede expedir solamente uno de los títulos.
 
 ##### Artículo 231.
 
@@ -1824,7 +1822,7 @@ Cuando no se indique el tipo de interés, se presumirá que el bono ha sido desc
 
 ##### Artículo 234.
 
-Los Almacenes expedirán estos títulos desprendiéndolos de libros talonarios en los que se anotarán los mismos datos que en los documentos expedidos, según las constancias que obren en los Almacenes o según el aviso de la institución de crédito que intervenga en la primera negociación del bono.
+Los Almacenes expedirán estos títulos y deberán llevar un registro en el que se contengan los mismos datos que en los documentos expedidos.
 
 ##### Artículo 235.
 
@@ -2406,6 +2404,14 @@ Cuando la prenda se constituya sobre bienes o títulos fungibles, puede pactarse
 
 Cuando la prenda se constituya sobre dinero, se entenderá transferida la propiedad, salvo convenio en contrario.
 
+##### Artículo 336 Bis.
+
+En los casos en los que las partes hubieren pactado la transferencia de propiedad del efectivo cuando exista un incumplimiento de las obligaciones garantizadas, de presentarse éste el acreedor prendario conservará el efectivo, hasta por la cantidad que importen las obligaciones garantizadas, sin necesidad de que exista un procedimiento de ejecución o resolución judicial, extinguiéndose éstas por dicho monto.
+
+Si el monto de la prenda y la obligación garantizada no fueren de igual cantidad, queda expedita la acción por el resto de la deuda.
+
+En estos casos, se entenderá que la transferencia de propiedad del efectivo se llevó a cabo por el consentimiento de las partes como una forma de pago de las obligaciones del deudor y no en ejecución de la prenda.
+
 ##### Artículo 337.
 
 El acreedor prendario está obligado a entregar al deudor, a expensas de éste, en los casos a que se refieren las fracciones I, II, III, V y VI del artículo 334, un resguardo que exprese el recibo de los bienes o títulos dados en prenda y los datos necesarios para su identificación.
@@ -2696,9 +2702,9 @@ El fideicomisario podrá ser designado por el fideicomitente en el acto constitu
 
 El fideicomiso será válido aunque se constituya sin señalar fideicomisario, siempre que su fin sea lícito y determinado, y conste la aceptación del encargo por parte del fiduciario.
 
-Es nulo el fideicomiso que se constituye a favor del fiduciario, salvo lo dispuesto en el párrafo siguiente, y en las demás disposiciones legales aplicables.
+Cuarto párrafo.- Se deroga
 
-La institución fiduciaria podrá ser fideicomisaria en los fideicomisos que tengan por fin servir como instrumentos de pago de obligaciones incumplidas, en el caso de créditos otorgados por la propia institución para la realización de actividades empresariales. En este supuesto, las partes deberán convenir los términos y condiciones para dirimir posibles conflictos de intereses.
+Las instituciones mencionadas en el artículo 385 de esta Ley podrán reunir la calidad de fiduciarias y fideicomisarias únicamente tratándose de fideicomisos que tengan por fin servir como instrumentos de pago a su favor. En este supuesto, las partes deberán convenir los términos y condiciones para dirimir posibles conflictos de intereses, para lo cual podrán nombrar a un ejecutor o instructor, que podrá ser una institución fiduciaria o cualquier tercero, a fin de que determine el cumplimiento o incumplimiento del contrato para el solo efecto de iniciar el procedimiento de ejecución y para que cumpla los fines del fideicomiso en lo que respecta a la aplicación de los bienes afectos al fideicomiso como fuente de pago de obligaciones derivadas de créditos otorgados por la propia institución.
 
 ##### Artículo 383.
 
@@ -2814,11 +2820,13 @@ III. Instituciones de fianzas;
 
 IV. Casas de bolsa;
 
-V. Sociedades financieras de objeto múltiple a que se refiere el artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito;
+V. Sociedades Financieras de Objeto Múltiple que cuenten con un registro vigente ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros;
 
-VI. Almacenes generales de depósito, y
+VI. Almacenes generales de depósito;
 
-VII. Uniones de crédito.
+VII. Uniones de crédito, y
+
+VIII. Sociedades operadoras de fondos de inversión que cumplan con los requisitos previstos por la Ley de Fondos de Inversión.
 
 Las instituciones fiduciarias a que se refieren las fracciones II a IV y VI de este artículo, se sujetarán a lo que dispone el artículo 85 Bis de la Ley de Instituciones de Crédito.
 
@@ -3537,3 +3545,95 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.
+
+*Publicado en el Diario Oficial de la Federación el 10 de enero de 2014*
+
+**ARTÍCULO VIGÉSIMO.-** Se REFORMA el artículo 228 h de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
+
+………
+
+**Disposiciones Transitorias**
+
+**ARTÍCULO VIGÉSIMO PRIMERO.-** En relación con las modificaciones a que se refieren los Artículos Undécimo, Duodécimo, Décimo Tercero, Décimo Cuarto, Décimo Quinto, Décimo Sexto, Décimo Séptimo, Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
+
+I. El Congreso de la Unión, al emitir las leyes reglamentarias a que se refiere el párrafo segundo del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones.
+
+II. A partir de la entrada en vigor de este Decreto, los trabajadores de confianza de las instituciones de banca de desarrollo quedarán excluidos de la aplicación de las condiciones generales de trabajo de la respectiva institución. Sin perjuicio de lo anterior, los derechos adquiridos de los trabajadores de confianza que se encuentren laborando en una institución de banca de desarrollo a la fecha de entrada en vigor de este Decreto, deberán ser respetados, previéndose lo conducente en los manuales de remuneraciones y jubilaciones a que se refiere el artículo 43 Bis de la Ley de Instituciones de Crédito, reformado en los términos del presente Decreto.
+
+III. En un plazo de sesenta días naturales siguientes a la entrada en vigor de este Decreto, las sociedades nacionales de crédito deberán extinguir el fideicomiso constituido en términos del artículo 55 Bis de la Ley de Instituciones de Crédito.
+
+IV. Las funciones de banca social previstas en la reforma al artículo 3 de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, se deberán implementar por la institución a partir del 1o de enero de 2014, por lo que en el PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2014 deberá preverse la asignación de recursos para fortalecer el patrimonio del Banco del Ahorro Nacional y Servicios Financieros a fin de que pueda cumplir su objeto como Banca Social.
+
+V. En un plazo de noventa días naturales, la Secretaría de Hacienda y Crédito Público realizará una evaluación de los subsidios, apoyos, programas, fondos, fideicomisos otorgados y administrados por las entidades de la Administración Pública Federal, con la finalidad diagnosticar la factibilidad de que sean canalizados a través de un nuevo sistema único de financiamiento y fomento agropecuario y rural.
+
+VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones jurídicas emitidas con anterioridad al presente Decreto, así como todos los contratos, convenios y demás actos jurídicos celebrados por la institución, hagan referencia a la Financiera Rural, se entenderá que hacen referencia a la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero.
+
+………
+
+**ARTÍCULO VIGÉSIMO TERCERO.-** Se REFORMA el quinto párrafo del artículo 382, se ADICIONA el artículo 336 Bis y se DEROGA el cuarto párrafo del artículo 382 de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
+
+………
+
+**Disposiciones Transitorias**
+
+**ARTÍCULO VIGÉSIMO QUINTO.-** En relación con las modificaciones a que se refieren los Artículos Vigésimo Segundo a Vigésimo Cuarto de este Decreto, se estará a lo siguiente:
+
+I. La reforma al artículo 53 y lo dispuesto en el artículo 53 bis de la Ley Orgánica del Poder Judicial de la Federación que se adiciona, entrarán en vigor a los 6 meses siguientes al día de su publicación en el Diario Oficial de la Federación, excepto por lo que respecta a las fracciones I, V y VI del artículo 53 bis, las cuales entrarán en vigor a los 12 meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+II. Los juicios mercantiles que a la fecha de entrada en vigor de esta ley se encuentren radicados en los juzgados de distrito, deberán seguir siendo tramitados y resueltos por estos.
+
+III. El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
+
+IV. Los contratos de prenda celebrados con anterioridad a la fecha de entrada en vigor del artículo 336 Bis de la Ley General de Títulos y Operaciones de Crédito que se adiciona, seguirán sujetos a las disposiciones que les resulten aplicables al momento de su celebración.
+
+V. Las normas procesales contenidas en el presente Decreto no serán aplicables a los asuntos cuya demanda haya sido admitida con anterioridad a la fecha de su entrada en vigor.
+
+………
+
+**ARTÍCULO VIGÉSIMO NOVENO.-** Se REFORMAN los artículos 230; 234 y 395 en sus fracciones V, VI y VII; y se ADICIONA el artículo 395 con la fracción VIII; de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
+
+.........
+
+**Disposiciones Transitorias**
+
+**ARTÍCULO TRIGÉSIMO.-** En relación con las modificaciones a que se refieren los Artículos Vigésimo Octavo y Vigésimo Noveno de este Decreto, se estará a lo siguiente:
+
+I. Quedarán sin efectos el Acuerdo por el que se determinan los capitales mínimos con que deberán contar los almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio para el año de 2012, publicado en el Diario Oficial de la Federación el 30 de marzo de 2012, y la Resolución por la que se determinan los capitales mínimos con que deberán contar los almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio para el año de 2013, publicada en el Diario Oficial de la Federación el 29 de marzo de 2013, únicamente en lo que se oponga al presente Decreto.
+
+II. Para efectos de las “Disposiciones de carácter general mediante las que se determina el capital mínimo adicional, al capital mínimo suscrito y pagado sin derecho a retiro con que deberán contar los almacenes generales de depósito, para poder actuar como fiduciarias en los fideicomisos de garantía a que se refiere la Sección Segunda del Capítulo V del Título Segundo de la Ley General de Títulos y Operaciones de Crédito”, publicadas en el Diario Oficial de la Federación del 26 de enero de 2009, el capital que se establece en el artículo 12 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito que por este Decreto se adiciona, servirá como base para determinar el capital adicional con que deberán contar los almacenes generales de depósito que pretendan actuar como fiduciarias en dichos fideicomisos de garantía, a más tardar el último día hábil del año 2013. En consecuencia, cualquier referencia prevista en dichas disposiciones de carácter general respecto a capitales mínimos determinados por la Secretaría de Hacienda y Crédito Público para organizaciones auxiliares del crédito y casas de cambio con fundamento en la fracción I del artículo 8 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito que por este Decreto se reforma, deberá entenderse referida a los capitales mínimos previstos por el artículo 12 Bis del mismo ordenamiento que por este Decreto se adiciona.
+
+III. Las Reglas para el funcionamiento y operación del Registro Único de Certificados, Almacenes y Mercancías a que hacen referencia los artículos 22 Bis 6 al 22 Bis 8, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, deberán ser emitidas y publicadas para su inmediata entrada en vigor, dentro de los trescientos sesenta días naturales posteriores a la entrada en vigor del presente. Asimismo, durante los trescientos sesenta días naturales posteriores a la fecha de entrada en vigor de este Decreto, no serán exigibles las obligaciones previstas por este Decreto y por las disposiciones de la referida Ley que por el presente se adicionan, en relación con el referido Registro. Una vez emitidas las Reglas, el registro que al efecto lleven los almacenes en términos del artículo 11 Bis, podrá ser sustituido por el RUCAM.
+
+IV. Los artículos 22 Bis 2, 22 Bis 3, 22 Bis 4, 22 Bis 7, 22 Bis 10 y 22 Bis 11 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, adicionados mediante el presente Decreto, entrarán en vigor una vez transcurridos trescientos sesenta días naturales posteriores a la fecha de publicación de este Decreto en el Diario Oficial de la Federación.
+
+V. El Sistema Integral de Información de Almacenamiento de Productos Agropecuarios a que se refiere el artículo 22 Bis 2 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, entrará en vigor a los trescientos sesenta días naturales contados a partir de la fecha de publicación de este Decreto, por lo que la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación contará con ese mismo plazo para emitir las disposiciones de carácter general y tener en operación el sistema digital informático a que se refiere el artículo 22 Bis 2, así como otorgar a los Almacenes Generales de Depósito la clave individualizada de acceso al sistema a que se refiere el artículo 22 Bis 3 y establecer los mecanismos remotos o locales de comunicación electrónica o impresa a que se refiere el artículo 22 Bis 4.
+
+VI. En tanto se emiten o modifiquen las reglas o disposiciones de carácter general a que se refieren las reformas y adiciones contenidas en el presente Decreto, seguirán aplicándose en las materias correspondientes las expedidas con anterioridad a su entrada en vigor, en lo que no se opongan a este Decreto.
+
+VII. Al expedirse las disposiciones a que se refiere este artículo, deberán señalarse expresamente aquéllas a las que sustituyan o deroguen.
+
+VIII. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, contará con el plazo de doscientos setenta días naturales contados a partir del día siguiente a aquél en que entre en vigor el presente Decreto, para emitir las disposiciones de carácter general a que se refiere este Decreto en materia del Registro de sociedades financieras de objeto múltiple.
+
+IX. Las sociedades financieras de objeto múltiple que a la entrada en vigor de este Decreto se encuentren registradas ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros en términos de la Ley de Protección y Defensa al Usuario de Servicios Financieros y disposiciones que de ella emanan, gozarán del plazo de doscientos setenta días naturales contados a partir del día siguiente a aquél en que entren en vigor las disposiciones de carácter general en materia del Registro de sociedades financieras de objeto múltiple a que se refiere este Decreto, para solicitar la renovación de su registro ante dicha Comisión. Aquéllas sociedades financieras de objeto múltiple que no estuvieren registradas, gozarán del mismo plazo para solicitar su registro en términos de este Decreto. Transcurrido dicho plazo sin que se cumpla con ello, las sociedades de que se trate perderán su carácter de sociedad financiera de objeto múltiple por ministerio de ley.
+
+X. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+XI. En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+XII. Las erogaciones que, en su caso, se requieran por parte de la Administración Pública Federal para dar cumplimiento a lo dispuesto en el presente Decreto, se sujetarán al presupuesto autorizado para dichos fines en el ejercicio fiscal correspondiente.
+
+XIII. Los centros cambiarios y los transmisores de dinero que a la entrada en vigor de este Decreto se encuentren registrados ante la Comisión Nacional Bancaria y de Valores, gozarán del plazo de doscientos cuarenta días naturales contados a partir del día siguiente a aquél en que entre en vigor el presente Decreto, para solicitar la renovación de su registro. Transcurrido dicho plazo sin que se cumpla con ello, las sociedades de que se trate perderán su carácter de centro cambiario o transmisor de dinero por ministerio de ley.
+
+XIV. Las disposiciones de carácter general a que se refieren los artículos 86 Bis y 87-P de este Decreto, deberán ser emitidas dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto. Las disposiciones de carácter general a que se refiere el artículo 87-C Bis 1 de este Decreto, deberán ser expedidas dentro de los trescientos sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+……..
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
