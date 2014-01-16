@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2013-06-07
+last_reform_dof: 2014-01-16
 articles: 264
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
-archived: https://web.archive.org/web/20130626052341/http://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
-source_sha256: 4b4c77a6b1b607cd79a0ff23de7de2f4a6c0499e350804e983ea0f4a7b2a7cec
-retrieved: 2013-06-26
+archived: https://web.archive.org/web/20140408224345/http://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
+source_sha256: b54fc9e7b52666cb1f29e10242ab6668434c24d992b8f0c65076404ac16a658f
+retrieved: 2014-04-08
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,11 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 07-06-2013
-
-> Notas de vigencia:
-> La adición del artículo 17 TER, publicada en el Diario Oficial de la Federación el 15-05-2013 “entrará en vigor en el siguiente ejercicio fiscal que corresponda a su publicación en el Diario Oficial de la Federación” (Artículo Primero Transitorio, Decreto DOF 15-05-2013).
-> La reforma al párrafo segundo del artículo 168, y al artículo 169; así como la adición de los párrafos tercero, cuarto y quinto al artículo 168, y de un último párrafo al artículo 176, publicadas en el DOF 07-06-2013, entrarán en vigor el 7 de julio de 2013.
+Última reforma publicada DOF 16-01-2014
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -44,7 +40,9 @@ LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
 La presente Ley es reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos que se refieren a la preservación y restauración del equilibrio ecológico, así como a la protección al ambiente, en el territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción. Sus disposiciones son de orden público e interés social y tienen por objeto propiciar el desarrollo sustentable y establecer las bases para:
 
-I.- Garantizar el derecho de toda persona a vivir en un medio ambiente adecuado para su desarrollo, salud y bienestar;
+I.- Garantizar el derecho de toda persona a vivir en un medio ambiente sano para su desarrollo, salud y bienestar;
+
+*Fracción reformada DOF 05-11-2013*
 
 II.- Definir los principios de la política ambiental y los instrumentos para su aplicación;
 
@@ -194,9 +192,9 @@ XXXII.- Residuo: Cualquier material generado en los procesos de extracción, ben
 
 *Fracción recorrida DOF 28-01-2011*
 
-XXXIII.- Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, representen un peligro para el equilibrio ecológico o el ambiente;
+XXXIII.- Residuos peligrosos: son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad o que contengan agentes infecciosos que le confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio y por tanto, representan un peligro al equilibrio ecológico o el ambiente;
 
-*Fracción recorrida DOF 28-01-2011*
+*Fracción recorrida DOF 28-01-2011. Reformada DOF 16-01-2014*
 
 XXXIV.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
@@ -2040,7 +2038,9 @@ Los ingresos que la Federación perciba por concepto del otorgamiento de permiso
 
 El Gobierno Federal, los gobiernos de los Estados, del Distrito Federal y de los Municipios, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
 
-*Artículo adicionado DOF 13-12-1996*
+Corresponde al Gobierno Federal expedir las normas oficiales mexicanas que determinen los principios básicos de trato digno y respetuoso previsto por esta Ley, que incluyan condiciones de cautiverio, exhibición, transporte, alimentación, explotación, manutención y sacrificio de los animales, así como vigilar su cumplimiento.
+
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 05-11-2013*
 
 ## TÍTULO TERCERO · Aprovechamiento Sustentable de los Elementos Naturales
 
@@ -4299,3 +4299,53 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 25 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 1o. de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y el artículo 1 de la Ley General para la Prevención y Gestión Integral de los Residuos.
+
+*Publicado en el Diario Oficial de la Federación el 5 de noviembre de 2013*
+
+**Artículo Primero.-** Se reforma la fracción I del artículo 1o. de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D. F., a 2 de octubre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Merilyn Gómez Pozos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de octubre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se adiciona un párrafo segundo al artículo 87 Bis 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y se adicionan las fracciones X, XXVI y XLVII, recorriéndose las subsecuentes, al artículo 3o. de la Ley General de Vida Silvestre.
+
+*Publicado en el Diario Oficial de la Federación el 5 de noviembre de 2013*
+
+**Artículo Primero.-** Se adiciona un párrafo segundo al artículo 87 Bis 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La Secretaría deberá expedir las normas oficiales mexicanas correspondientes en un plazo de dieciocho meses siguientes contados a partir de la entrada en vigor de la presente Ley.
+
+México, D.F., a 3 de octubre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de noviembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 3o. de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 16 de enero de 2014*
+
+**ARTÍCULO ÚNICO.** Se reforma la fracción XXXIII del artículo 3o. de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 3 de diciembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
