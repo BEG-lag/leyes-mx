@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2013-06-07
-articles: 521
+last_reform_dof: 2014-03-14
+articles: 526
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-archived: https://web.archive.org/web/20130626043022/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-source_sha256: 74c99d3a1d6ce311a36ebb75b10ced402fe52d99a42ed7d5b67a7044e6d64d06
-retrieved: 2013-06-26
+archived: https://web.archive.org/web/20140408224506/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
+source_sha256: 063f83ce3ba1738fab593c2b7cbb2ef8847ff04cbae9b4eb762ee5c04a449861
+retrieved: 2014-04-08
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,9 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 07-06-2013
-
-> Nota de vigencia: La reforma al primer párrafo, a la fracción I y al párrafo quinto del artículo 421; así como la adición de un párrafo sexto al mismo artículo 421, publicadas en el DOF 07-06-2013, entrarán en vigor el 7 de julio de 2013.
+Última reforma publicada DOF 14-03-2014
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -610,7 +608,7 @@ Cuando entre la comisión de un delito y la extinción de la pena o medida de se
 
 ##### Artículo 60.
 
-En los casos de delitos culposos se impondrá hasta la cuarta parte de las penas y medidas de seguridad asignadas por la ley al tipo básico del delito doloso, con excepción de aquéllos para los que la ley señale una pena específica. Además, se impondrá, en su caso, suspensión hasta de diez años, o privación definitiva de derechos para ejercer profesión, oficio, autorización, licencia o permiso.
+En los casos de delitos culposos se impondrá hasta la cuarta parte de las penas y medidas de seguridad asignadas por la ley al tipo básico del delito doloso, con excepción de aquéllos para los que la ley señale una pena específica. Además, se impondrá, en su caso, suspensión hasta de tres años de derechos para ejercer profesión, oficio, autorización, licencia o permiso.
 
 Las sanciones por delitos culposos sólo se impondrán en relación con los delitos previstos en los siguientes artículos: 150, 167, fracción VI, 169, 199 Bis, 289, parte segunda, 290, 291, 292, 293, 302, 307, 323, 397, 399, 414, primer párrafo y tercero en su hipótesis de resultado, 415, fracciones I y II y último párrafo en su hipótesis de resultado, 416, 420, fracciones I, II, III y V, y 420 Bis, fracciones I, II y IV de este Código.
 
@@ -964,6 +962,12 @@ II.- Por otros delitos cuando la conducta de los responsables haya sido determin
 
 III.- Por delitos de orden federal o común en el Distrito Federal, cuando el sentenciado haya prestado importantes servicios a la Nación, y previa solicitud.
 
+##### Artículo 97 Bis.
+
+De manera excepcional, por sí o a petición del Pleno de alguna de las Cámaras del Congreso de la Unión, el Titular del Poder Ejecutivo Federal podrá conceder el indulto, por cualquier delito del orden federal o común en el Distrito Federal, y previo dictamen del órgano ejecutor de la sanción en el que se demuestre que la persona sentenciada no representa un peligro para la tranquilidad y seguridad públicas, expresando sus razones y fundamentos, cuando existan indicios consistentes de violaciones graves a los derechos humanos de la persona sentenciada.
+
+El Ejecutivo Federal deberá cerciorarse de que la persona sentenciada haya agotado previamente todos los recursos legales nacionales.
+
 ##### Artículo 98.
 
 El indulto en ningún caso extinguirá la obligación de reparar el daño causado. El reconocimiento de la inocencia del sentenciado extingue la obligación de reparar el daño.
@@ -1268,9 +1272,19 @@ No se aplicará pena a los que depongan las armas antes de ser tomados prisioner
 
 ##### Artículo 139.
 
-Se impondrá pena de prisión de seis a cuarenta años y hasta mil doscientos días multa, sin perjuicio de las penas que correspondan por los delitos que resulten, al que utilizando sustancias tóxicas, armas químicas, biológicas o similares, material radioactivo o instrumentos que emitan radiaciones, explosivos o armas de fuego, o por incendio, inundación o por cualquier otro medio violento, realice actos en contra de las personas, las cosas o servicios públicos, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para atentar contra la seguridad nacional o presionar a la autoridad para que tome una determinación.
+Se impondrá pena de prisión de quince a cuarenta años y cuatrocientos a mil doscientos días multa, sin perjuicio de las penas que correspondan por otros delitos que resulten:
 
-La misma sanción se impondrá al que directa o indirectamente financie, aporte o recaude fondos económicos o recursos de cualquier naturaleza, con conocimiento de que serán utilizados, en todo o en parte, en apoyo de personas u organizaciones que operen o cometan actos terroristas en el territorio nacional.
+I. A quien utilizando sustancias tóxicas, armas químicas, biológicas o similares, material radioactivo, material nuclear, combustible nuclear, mineral radiactivo, fuente de radiación o instrumentos que emitan radiaciones, explosivos, o armas de fuego, o por incendio, inundación o por cualquier otro medio violento, intencionalmente realice actos en contra de bienes o servicios, ya sea públicos o privados, o bien, en contra de la integridad física, emocional, o la vida de personas, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para atentar contra la seguridad nacional o presionar a la autoridad o a un particular, u obligar a éste para que tome una determinación.
+
+II. Al que acuerde o prepare un acto terrorista que se pretenda cometer, se esté cometiendo o se haya cometido en territorio nacional.
+
+Las sanciones a que se refiere el primer párrafo de este artículo se aumentarán en una mitad, cuando además:
+
+I. El delito sea cometido en contra de un bien inmueble de acceso público;
+
+II. Se genere un daño o perjuicio a la economía nacional, o
+
+III. En la comisión del delito se detenga en calidad de rehén a una persona.
 
 ##### Artículo 139 Bis.
 
@@ -1279,6 +1293,30 @@ Se aplicará pena de uno a nueve años de prisión y de cien a trescientos días
 ##### Artículo 139 Ter.
 
 Se aplicará pena de cinco a quince años de prisión y de doscientos a seiscientos días multa al que amenace con cometer el delito de terrorismo a que se refiere el párrafo primero del artículo 139.
+
+#### CAPÍTULO VI BIS · Del Financiamiento al Terrorismo
+
+##### Artículo 139 Quáter.
+
+Se impondrá la misma pena señalada en el artículo 139 de este Código, sin perjuicio de las penas que corresponden por los demás delitos que resulten, al que por cualquier medio que fuere ya sea directa o indirectamente, aporte o recaude fondos económicos o recursos de cualquier naturaleza, con conocimiento de que serán destinados para financiar o apoyar actividades de individuos u organizaciones terroristas, o para ser utilizados, o pretendan ser utilizados, directa o indirectamente, total o parcialmente, para la comisión, en territorio nacional o en el extranjero, de cualquiera de los delitos previstos en los ordenamientos legales siguientes:
+
+I. Del Código Penal Federal, los siguientes:
+
+1\) Terrorismo, previstos en los artículos 139, 139 Bis y 139 Ter;
+
+2\) Sabotaje, previsto en el artículo 140;
+
+3\) Terrorismo Internacional, previsto en los artículos 148 Bis, 148 Ter y 148 Quáter;
+
+4\) Ataques a las vías de comunicación, previstos en los artículos 167, fracción IX, y 170, párrafos primero, segundo y tercero, y
+
+5\) Robo, previsto en el artículo 368 Quinquies.
+
+II. De la Ley que Declara Reservas Mineras los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se obtengan Isótopos Hendibles que puedan producir Energía Nuclear, los previstos en los artículos 10 y 13.
+
+##### Artículo 139 Quinquies.
+
+Se aplicará de uno a nueve años de prisión y de cien a trescientos días multa, a quien encubra a una persona que haya participado en los delitos previstos en el artículo 139 Quáter de este Código.
 
 #### CAPITULO VII · Sabotaje
 
@@ -1358,13 +1396,17 @@ En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces 
 
 ##### Artículo 148 Bis.
 
-Se impondrá pena de prisión de quince a cuarenta años y de cuatrocientos a mil doscientos días multa, sin perjuicio de las penas que correspondan por los delitos que resulten:
+Se impondrá pena de prisión de quince a cuarenta años y de cuatrocientos a mil doscientos días multa, sin perjuicio de las penas que correspondan por otros delitos que resulten:
 
-I) A quien utilizando sustancias tóxicas, armas químicas, biológicas o similares, material radioactivo o instrumentos que emitan radiaciones, explosivos o armas de fuego, o por incendio, inundación o por cualquier otro medio violento, realice en territorio mexicano, actos en contra de bienes o personas de un Estado extranjero, o de cualquier organismo u organización internacionales, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para tratar de menoscabar la autoridad de ese estado extranjero, u obligar a éste o a un organismo u organización internacionales para que tomen una determinación.
+I. A quien utilizando sustancias tóxicas, armas químicas, biológicas o similares, material radioactivo, material nuclear, combustible nuclear, mineral radiactivo, fuente de radiación o instrumentos que emitan radiaciones, explosivos o armas de fuego, o por incendio, inundación o por cualquier otro medio violento, realice en territorio mexicano, actos en contra de bienes, personas o servicios, de un Estado extranjero, o de cualquier organismo u organización internacionales, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para presionar a la autoridad de ese Estado extranjero, u obligar a éste o a un organismo u organización internacionales para que tomen una determinación;
 
-II) Al que directa o indirectamente financie, aporte o recaude fondos económicos o recursos de cualquier naturaleza, con conocimiento de que serán utilizados, en todo o en parte, para cometer actos terroristas internacionales, o en apoyo de personas u organizaciones terroristas que operen en el extranjero, y
+II. Al que cometa el delito de homicidio o algún acto contra la libertad de una persona internacionalmente protegida;
 
-III) Al que acuerde o prepare en territorio mexicano un acto terrorista que se pretenda cometer o se haya cometido en el extranjero.
+III. Al que realice, en territorio mexicano, cualquier acto violento en contra de locales oficiales, residencias particulares o medios de transporte de una persona internacionalmente protegida, que atente en contra de su vida o su libertad, o
+
+IV. Al que acuerde o prepare en territorio mexicano un acto terrorista que se pretenda cometer, se esté cometiendo o se haya cometido en el extranjero.
+
+Para efectos de este artículo se entenderá como persona internacionalmente protegida a un jefe de Estado incluso cada uno de los miembros de un órgano colegiado cuando, de conformidad con la constitución respectiva, cumpla las funciones de jefe de Estado, un jefe de gobierno o un ministro de relaciones exteriores, así como los miembros de su familia que lo acompañen y, además, a cualquier representante, funcionario o personalidad oficial de un Estado o cualquier funcionario, personalidad oficial u otro agente de una organización intergubernamental que, en el momento y en el lugar en que se cometa un delito contra él, los miembros de su familia que habiten con él, sus locales oficiales, su residencia particular o sus medios de transporte, tenga derecho a una protección especial conforme al derecho internacional.
 
 ##### Artículo 148 Ter.
 
@@ -1372,7 +1414,7 @@ Se impondrá pena de cinco a diez años de prisión y de cien a trescientos día
 
 ##### Artículo 148 Quáter.
 
-Se aplicará pena de seis a doce años de prisión y de doscientos a seiscientos días multa al que amenace con cometer el delito de terrorismo a que se refiere la fracción primera del artículo 148 Bis.
+Se aplicará pena de seis a doce años de prisión y de doscientos a seiscientos días multa al que amenace con cometer el delito de terrorismo a que se refieren las fracciones I a III del artículo 148 Bis.
 
 ### TITULO TERCERO · Delitos Contra la Humanidad
 
@@ -1588,13 +1630,15 @@ Al que ponga en movimiento una locomotora, carro, camión o vehículo similar y 
 
 ##### Artículo 170.
 
-Al que empleando explosivos o materias incendiarias, o por cualquier otro medio destruya total o parcialmente una nave, aeronave, u otro vehículo de servicio público federal o local, o que proporcione servicios al público, si se encontraren ocupados por una o más personas, se le aplicarán de veinte a treinta años de prisión.
+Al que empleando explosivos o materias incendiarias, o por cualquier otro medio destruya total o parcialmente instalaciones o servicios de navegación aérea o marítima o de aeropuertos que presten servicios a la aviación civil, alguna plataforma fija, o una nave, aeronave, u otro vehículo de servicio público federal o local, o que proporcione servicios al público, si se encontraren ocupados por una o más personas, se le aplicarán de veinte a treinta años de prisión.
 
-Si en el vehículo de que se trate no se hallare persona alguna se aplicará prisión de cinco a veinte años.
+Si en el vehículo, instalación o plataforma de que se trate no se hallare persona alguna se aplicará prisión de cinco a veinte años.
 
-Asimismo se impondrán de tres a veinte años de prisión y de cien a cuatrocientos días multa, sin perjuicio de la pena que corresponda por otros delitos que cometa, al que mediante violencia física, amenazas o engaño, se apodera de una nave, aeronave, máquina o tren ferroviarios, autobuses o cualquier otro medio de transporte público colectivo, interestatal o internacional, o los haga desviar de su ruta o destino.
+Asimismo se impondrán de tres a veinte años de prisión y de cien a cuatrocientos días multa, sin perjuicio de la pena que corresponda por otros delitos que cometa, al que mediante violencia, amenazas o engaño, se apodere o ejerza el control de una plataforma fija, instalaciones o servicios de navegación aérea o marítima o de aeropuertos que presten servicios a la aviación civil; así como de una nave, aeronave, máquina o tren ferroviarios, autobuses o cualquier otro medio de transporte público colectivo, interestatal o internacional, o los haga desviar de su ruta o destino.
 
 Cuando se cometiere por servidor público de alguna corporación policial, cualquiera de los delitos que contemplan este artículo y el 168, se le impondrán, además de las penas señaladas en estos artículos, la destitución del empleo y se le inhabilitará de uno a diez años para desempeñar cargo o comisión públicos. Si quien cometiere los delitos mencionados fuere miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, se le impondrá además, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a diez años para desempeñar cargo o comisión públicos.
+
+Para efectos de este artículo se entenderá por plataforma fija una isla artificial, instalación o estructura sujeta de manera permanente al fondo marino o a la plataforma continental con fines de exploración o explotación de recursos u otros fines de carácter económico.
 
 ##### Artículo 171.
 
@@ -3772,6 +3816,10 @@ Las sanciones que correspondan en este artículo se aumentarán hasta en una mit
 
 Las penas que correspondan por los delitos previstos en este artículo, se aumentarán en una mitad más para el trabajador o servidor público que, con motivo de su trabajo, suministre información de las instalaciones, del equipo o de la operación de la industria que resulte útil o pueda auxiliar a la comisión de los delitos de referencia.
 
+##### Artículo 368 Quinquies.
+
+Al que cometa el delito de robo de material radiactivo, material nuclear, combustible nuclear, mineral radiactivo o fuente de radiación, se le impondrán de doce a veinte años de prisión y de doce mil a veinte mil días multa.
+
 ##### Artículo 369.
 
 Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada; aún cuando la abandone o la desapoderen de ella. En cuanto a la fijación del valor de lo robado, así como la multa impuesta, se tomará en consideración el salario en el momento de la ejecución del delito.
@@ -4160,19 +4208,27 @@ El juez, teniendo en cuenta la naturaleza de la acción, las circunstancias pers
 
 ##### Artículo 400 Bis.
 
-Se impondrá de cinco a quince años de prisión y de mil a cinco mil días multa al que por sí o por interpósita persona realice cualquiera de las siguientes conductas: adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio nacional, de éste hacia el extranjero o a la inversa, recursos, derechos o bienes de cualquier naturaleza, con conocimiento de que proceden o representan el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar o pretender ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita.
+Se impondrá de cinco a quince años de prisión y de mil a cinco mil días multa al que, por sí o por interpósita persona realice cualquiera de las siguientes conductas:
 
-La misma pena se aplicará a los empleados y funcionarios de las instituciones que integran el sistema financiero, que dolosamente presten ayuda o auxilien a otro para la comisión de las conductas previstas en el párrafo anterior, sin perjuicio de los procedimientos y sanciones que correspondan conforme a la legislación financiera vigente.
+I. Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera, dentro del territorio nacional, de éste hacia el extranjero o a la inversa, recursos, derechos o bienes de cualquier naturaleza, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita, o
 
-La pena prevista en el primer párrafo será aumentada en una mitad, cuando la conducta ilícita se cometa por servidores públicos encargados de prevenir, denunciar, investigar o juzgar la comisión de delitos. En este caso, se impondrá a dichos servidores públicos, además, inhabilitación para desempeñar empleo, cargo o comisión públicos hasta por un tiempo igual al de la pena de prisión impuesta.
+II. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita.
 
-En caso de conductas previstas en este artículo, en las que se utilicen servicios de instituciones que integran el sistema financiero, para proceder penalmente se requerirá la denuncia previa de la Secretaría de Hacienda y Crédito Público.
+Para efectos de este Capítulo, se entenderá que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
 
-Cuando dicha Secretaría, en ejercicio de sus facultades de fiscalización, encuentre elementos que permitan presumir la comisión de los delitos referidos en el párrafo anterior, deberá ejercer respecto de los mismos las facultades de comprobación que le confieren las leyes y, en su caso, denunciar hechos que probablemente puedan constituir dicho ilícito.
+En caso de conductas previstas en este Capítulo, en las que se utilicen servicios de instituciones que integran el sistema financiero, para proceder penalmente se requerirá la denuncia previa de la Secretaría de Hacienda y Crédito Público.
 
-Para efectos de este artículo se entiende que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
+Cuando la Secretaría de Hacienda y Crédito Público, en ejercicio de sus facultades de fiscalización, encuentre elementos que permitan presumir la comisión de alguno de los delitos referidos en este Capítulo, deberá ejercer respecto de los mismos las facultades de comprobación que le confieren las leyes y denunciar los hechos que probablemente puedan constituir dichos ilícitos.
 
-Para los mismos efectos, el sistema financiero se encuentra integrado por las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, arrendadoras financieras, sociedades de ahorro y préstamo, sociedades financieras de objeto limitado, uniones de crédito, empresas de factoraje financiero, casas de bolsa y otros intermediarios bursátiles, casas de cambio, administradoras de fondos de retiro y cualquier otro intermediario financiero o cambiario.
+##### Artículo 400 Bis 1.
+
+Las penas previstas en este Capítulo se aumentarán desde un tercio hasta en una mitad, cuando el que realice cualquiera de las conductas previstas en el artículo 400 Bis de este Código tiene el carácter de consejero, administrador, funcionario, empleado, apoderado o prestador de servicios de cualquier persona sujeta al régimen de prevención de operaciones con recursos de procedencia ilícita, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos.
+
+Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión en personas morales sujetas al régimen de prevención hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
+
+Las penas previstas en este Capítulo se duplicarán, si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conducta en los dos años posteriores a su terminación. Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
+
+Asimismo, las penas previstas en este Capítulo se aumentarán hasta en una mitad si quien realice cualquiera de las conductas previstas en el artículo 400 Bis, fracciones I y II, utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tiene capacidad para resistirlo.
 
 ### TITULO · VIGESIMOCUARTO
 
@@ -5614,3 +5670,55 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 25 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se adiciona un artículo 97 Bis al Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 30 de octubre de 2013*
+
+**Artículo Único.-** Se adiciona un artículo 97 Bis al Código Penal Federal, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 29 de octubre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 29 de octubre de 2013.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el primer párrafo del artículo 60 del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013*
+
+**Artículo Único.** Se reforma el primer párrafo del artículo 60 del Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 21 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Angelina Carreño Mijares, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; del Código Fiscal de la Federación y de la Ley Federal de Extinción de Dominio, Reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 14 de marzo de 2014*
+
+**ARTÍCULO PRIMERO.-** Se reforman los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis; y se adicionan el CAPÍTULO VI BIS denominado “Del Financiamiento al Terrorismo” al Título Primero del Libro Segundo con los artículos 139 Quáter y 139 Quinquies; el artículo 368 Quinquies, y artículos 400 Bis 1, dentro del CAPÍTULO II, Título Vigésimo Tercero, Libro Segundo, que se refiere a las “Operaciones con Recursos de Procedencia Ilícita”, del Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** Las disposiciones legales que establezcan medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones de las establecidas en el artículo 400 Bis, del Código Penal Federal, así como, actos u omisiones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del mismo Código establecidas en otras leyes, se entenderán en adelante también aplicables en lo conducente, para la prevención, identificación y persecución de las conductas previstas en el artículo 139 Quáter del citado Código Penal Federal.
+
+**TERCERO.** A quienes hayan cometido alguno de los delitos previstos en los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis, que se reforman con motivo del presente Decreto con antelación a su entrada en vigor, incluidos quienes se encuentren dentro de cualquier etapa de los procedimientos previstos en el Código Federal de Procedimientos Penales, les seguirán siendo aplicables las disposiciones vigentes en el momento en que se haya cometido y los sentenciados deberán compurgar sus penas y sanciones en los términos en los que fueron impuestas.
+
+México, D.F., a 11 de febrero de 2014.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Merilyn Gómez Pozos, Secretaria.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
