@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2014-03-14
-articles: 526
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-archived: https://web.archive.org/web/20140408224506/http://www.diputados.gob.mx/LeyesBiblio/doc/9.doc
-source_sha256: 063f83ce3ba1738fab593c2b7cbb2ef8847ff04cbae9b4eb762ee5c04a449861
-retrieved: 2014-04-08
+last_reform_dof: 2014-06-03
+articles: 527
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_030614.doc
+archived: https://web.archive.org/web/20140701190446/http://www.diputados.gob.mx/LeyesBiblio/doc/9_030614.doc
+source_sha256: 20ba8980b7ee62e709e8726986cd56a665c7297479388098924d6b35d0d718b7
+retrieved: 2014-07-01
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,9 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 14-03-2014
+Última reforma publicada DOF 03-06-2014
+
+> Nota de vigencia: La reforma al artículo 254 bis y la adición de un artículo 254 bis 1, publicadas en el DOF 23-05-2014, entrarán en vigor el 7 de julio de 2014.
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -303,6 +305,8 @@ Y las demás que fijen las leyes.
 La prisión consiste en la privación de la libertad corporal. Su duración será de tres días a sesenta años, y sólo podrá imponerse una pena adicional al límite máximo cuando se cometa un nuevo delito en reclusión. Se extinguirá en las colonias penitenciarias, establecimientos o lugares que al efecto señalen las leyes o la autoridad ejecutora de las penas, ajustándose a la resolución judicial respectiva.
 
 La privación de libertad preventiva se computará para el cumplimiento de la pena impuesta así como de las que pudieran imponerse en otras causas, aunque hayan tenido por objeto hechos anteriores al ingreso a prisión. En este caso, las penas se compurgarán en forma simultánea.
+
+El límite máximo de la duración de la pena de privación de la libertad hasta por 60 años contemplada en el presente artículo, no aplicará para los delitos que se sancionen con lo estipulado en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, cuya duración máxima será la que marque dicha Ley.
 
 ##### Artículo 26.
 
@@ -2956,23 +2960,29 @@ Las penas que correspondan por los delitos previstos en este artículo, se aumen
 
 ##### Artículo 254 bis.
 
-Se sancionará con prisión de tres a diez años y con mil a tres mil días de multa, a quien celebre, ordene o ejecute contratos, convenios o arreglos entre agentes económicos competidores, cuyo objeto sea cualquiera de los siguientes:
+Se sancionará con prisión de cinco a diez años y con mil a diez mil días de multa, a quien celebre, ordene o ejecute contratos, convenios, arreglos o combinaciones entre agentes económicos competidores entre sí, cuyo objeto o efecto sea cualquiera de los siguientes:
 
 I. Fijar, elevar, concertar o manipular el precio de venta o compra de bienes o servicios al que son ofrecidos o demandados en los mercados;
 
 II. Establecer la obligación de no producir, procesar, distribuir, comercializar o adquirir sino solamente una cantidad restringida o limitada de bienes o la prestación o transacción de un número, volumen o frecuencia restringidos o limitados de servicios;
 
-III. Dividir, distribuir, asignar o imponer porciones o segmentos de un mercado actual o potencial de bienes y servicios, mediante clientela, proveedores, tiempos o espacios determinados o determinables, o
+III. Dividir, distribuir, asignar o imponer porciones o segmentos de un mercado actual o potencial de bienes y servicios, mediante clientela, proveedores, tiempos o espacios determinados o determinables;
 
-IV. Establecer, concertar o coordinar posturas o la abstención en las licitaciones, concursos, subastas o almonedas públicas.
+IV. Establecer, concertar o coordinar posturas o la abstención en las licitaciones, concursos, subastas o almonedas, y
 
-El delito previsto en este artículo se perseguirá por querella de la Comisión Federal de Competencia, la cual sólo podrá formularse cuando la autoridad competente haya determinado mediante resolución que haya causado estado, que un agente económico resultó responsable de haber cometido alguna práctica monopólica absoluta, en los términos de lo dispuesto en la Ley Federal de Competencia Económica.
+V. Intercambiar información con alguno de los objetos o efectos a que se refieren las anteriores fracciones.
 
-No existirá responsabilidad penal para los agentes económicos que se acojan al beneficio a que se refiere el artículo 33 bis 3 de la Ley Federal de Competencia Económica, previa resolución de la Comisión que determine que cumple con los términos establecidos en dicha disposición y las demás aplicables.
+El delito previsto en este artículo se perseguirá por querella de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, según corresponda, la cual sólo podrá formularse con el dictamen de probable responsabilidad, en los términos de lo dispuesto en la Ley Federal de Competencia Económica.
 
-Los procesos seguidos por este delito se podrán sobreseer a petición del Pleno de la Comisión, cuando los procesados cumplan las sanciones administrativas impuestas y, además se cumplan los requisitos previstos en los criterios técnicos emitidos por la Comisión.
+No existirá responsabilidad penal para los agentes económicos que se acojan al beneficio a que se refiere el artículo 103 de la Ley Federal de Competencia Económica, previa resolución de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones que determine que cumple con los términos establecidos en dicha disposición y las demás aplicables.
+
+Los procesos seguidos por este delito se podrán sobreseer a petición del Pleno de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, cuando los procesados cumplan las sanciones administrativas impuestas y, además se cumplan los requisitos previstos en los criterios técnicos emitidos por la Comisión Federal de Competencia Económica o el Instituto Federal de Telecomunicaciones.
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad a que se refiere el primer párrafo de este artículo.
+
+##### Artículo 254 bis 1.
+
+Se sancionará con prisión de uno a tres años y con quinientos a cinco mil días de multa, a quien por sí o por interpósita persona, en la práctica de una visita de verificación, por cualquier medio altere, destruya o perturbe de forma total o parcial documentos, imágenes o archivos electrónicos que contengan información o datos, con el objeto de desviar, obstaculizar o impedir la investigación de un posible hecho delictuoso o la práctica de la diligencia administrativa.
 
 ##### Artículo 254 Ter.
 
@@ -5722,3 +5732,49 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 11 de febrero de 2014.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Merilyn Gómez Pozos, Secretaria.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se expide la Ley Federal de Competencia Económica y se reforman y adicionan diversos artículos del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 23 de mayo de 2014*
+
+**ARTÍCULO SEGUNDO.-** Se reforma el artículo 254 bis y se adiciona un artículo 254 bis 1 al Código Penal Federal, para quedar como sigue:
+
+.........
+
+**TRANSITORIOS**
+
+**Primero.** El presente Decreto entrará en vigor a los cuarenta y cinco días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Se abroga la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992.
+
+Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio, ante las unidades administrativas que establezca el estatuto orgánico emitido conforme al transitorio siguiente. Las resoluciones que recaigan en dichos procedimientos sólo podrán ser impugnadas mediante el juicio de amparo, conforme a lo dispuesto por el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
+
+**Tercero.** Para el caso de la designación del primer titular como Autoridad Investigadora, por cuanto hace al requisito establecido en la fracción VII del artículo 31 de esta Ley, deberá atenderse en el sentido de que durante los tres años previos a su nombramiento, no haya ocupado ningún empleo, cargo o función directiva o haber representado de cualquier forma los intereses de algún Agente Económico que haya estado sujeto a alguno de los procedimientos, previstos en la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992, vigente hasta antes de la entrada en vigor del presente Decreto.
+
+**Cuarto.** El Pleno de la Comisión deberá adecuar su Estatuto Orgánico a lo dispuesto en el presente Decreto en un plazo que no excederá de treinta días contados a partir de su entrada en vigor. En tanto se efectúe la adecuación, se continuará aplicando el Estatuto Orgánico vigente al momento de la entrada en vigor del presente Decreto, en lo que no se oponga a éste.
+
+**Quinto.** Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la Cámara de Diputados del Congreso de la Unión deberá integrar un grupo de trabajo técnico, con el objeto de analizar y formular propuestas de ajustes a legislación penal vigente, en la materia objeto del presente Decreto. El grupo de trabajo deberá presentar las propuestas correspondientes dentro de los sesenta días siguientes al de su instalación.
+
+**Sexto.** En un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, el Pleno publicará las Disposiciones Regulatorias a que hace referencia el artículo 12, fracción XXII de la Ley Federal de Competencia Económica.
+
+**Séptimo.** Dentro del plazo de un año contado a partir de la entrada en vigor del presente Decreto, el Congreso de la Unión deberá realizar las adecuaciones al marco jurídico a efecto de armonizarlo con los principios en materia de competencia y libre concurrencia previstos en el artículo 28 de la Constitución. Para lo anterior, el Congreso de la Unión podrá solicitar opinión a la Comisión Federal de Competencia Económica.
+
+México, D.F., a 29 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman diversos artículos de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y se adiciona el artículo 25 del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 3 de junio de 2014*
+
+**Artículo Segundo.-** Se adiciona un tercer párrafo al artículo 25 del Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 29 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
