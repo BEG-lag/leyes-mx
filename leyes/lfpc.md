@@ -3,12 +3,12 @@ title: Ley Federal de Protección al Consumidor
 abbreviation: LFPC
 slug: lfpc
 published_dof: 1992-12-24
-last_reform_dof: 2013-12-31
+last_reform_dof: 2014-06-04
 articles: 185
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/113.doc
-archived: https://web.archive.org/web/20140408224626/http://www.diputados.gob.mx/LeyesBiblio/doc/113.doc
-source_sha256: 2d95028963909ed7dfcf1e652ed917c5ee042723af672569aa6ed2e739f2dd1f
-retrieved: 2014-04-08
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/113_040614.doc
+archived: https://web.archive.org/web/20140701173648/http://www.diputados.gob.mx/LeyesBiblio/doc/113_040614.doc
+source_sha256: d7c83eb538078cd8cc97d7dd5a321e038e257479ed298529dfd9c5fb5437e74a
+retrieved: 2014-07-01
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 05-11-2013
-
-Actualización de montos de operaciones y multas por Acuerdo DOF 31-12-2013
+Última reforma publicada DOF 04-06-2014
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
@@ -398,13 +396,17 @@ XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los
 
 *Fracción reformada DOF 04-02-2004, 10-06-2009, 19-08-2010*
 
-XXII.- Coadyuvar con las autoridades competentes para salvaguardar los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas, y
+XXII. Coadyuvar con las autoridades competentes para salvaguardar los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas;
 
-*Fracción adicionada DOF 19-08-2010*
+*Fracción adicionada DOF 19-08-2010. Reformada DOF 04-06-2014*
 
-XXIII.- Las demás que le confieran esta ley y otros ordenamientos.
+XXIII. Publicar, a través de cualquier medio, los productos y servicios que con motivo de sus verificaciones y los demás procedimientos previstos por la Ley sean detectados como riesgosos o en incumplimiento a las disposiciones jurídicas aplicables, y
 
-*Fracción adicionada DOF 04-02-2004. Recorrida DOF 19-08-2010*
+*Fracción adicionada DOF 04-06-2014*
+
+XXIV. Las demás que le confieran esta ley y otros ordenamientos.
+
+*Fracción adicionada DOF 04-02-2004. Recorrida DOF 19-08-2010, 04-06-2014*
 
 #### ARTÍCULO 25.
 
@@ -3021,3 +3023,19 @@ Atentamente
 “Sufragio Efectivo. No Reelección”
 
 México, Distrito Federal, a 17 de diciembre de 2013.- El Procurador Federal del Consumidor, Alfredo Castillo Cervantes.- Rúbrica.
+
+### DECRETO por el que se adiciona la fracción XXIII al artículo 24 de la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 4 de junio de 2014*
+
+**ARTÍCULO ÚNICO.-** Se adiciona una fracción XXIII, pasando la actual XXIII a ser XXIV al artículo 24 de la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 30 de abril de 2014.- Dip. José González Morfín, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
