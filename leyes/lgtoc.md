@@ -3,12 +3,12 @@ title: Ley General de Títulos y Operaciones de Crédito
 abbreviation: LGTOC
 slug: lgtoc
 published_dof: 1932-08-27
-last_reform_dof: 2014-01-10
-articles: 461
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc
-archived: https://web.archive.org/web/20140408230121/http://www.diputados.gob.mx/LeyesBiblio/doc/145.doc
-source_sha256: 0804a42dfad122cdec4444fa5158e83e47e01e8634336c6586999f9a72375539
-retrieved: 2014-04-08
+last_reform_dof: 2014-06-13
+articles: 462
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/145_130614.doc
+archived: https://web.archive.org/web/20170518230947/http://www.diputados.gob.mx:80/LeyesBiblio/doc/145_130614.doc
+source_sha256: e8b223f643d6cc242ed67050fa0bbe59098cad89620b7e53ebe53f160fc374f8
+retrieved: 2017-05-18
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgtoc.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 27 de agosto de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 10-01-2014
+Última reforma publicada DOF 13-06-2014
 
 Al margen un sello que dice: Poder Ejecutivo Federal.-Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -38,6 +38,8 @@ LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
 Son cosas mercantiles los títulos de crédito. Su emisión, expedición, endoso, aval o aceptación y las demás operaciones que en ellos se consignen, son actos de comercio. Los derechos y obligaciones derivados de los actos o contratos que hayan dado lugar a la emisión o transmisión de títulos de crédito, o se hayan practicado con éstos, se rigen por las normas enumeradas en el artículo 2o., cuando no se puedan ejercitar o cumplir separadamente del título, y por la Ley que corresponda a la naturaleza civil o mercantil de tales actos o contratos, en los demás casos.
 
+*Fe de erratas al párrafo DOF 08-09-1932*
+
 Las operaciones de crédito que esta Ley reglamenta son actos de comercio.
 
 ##### Artículo 2o.
@@ -55,6 +57,8 @@ IV.- Por el Derecho Común, declarándose aplicable en toda la República, para 
 ##### Artículo 3o.
 
 Todos los que tengan capacidad legal para contratar, conforme a las Leyes que menciona el artículo anterior, podrán efectuar las operaciones a que se refiere esta ley, salvo aquellas que requieran concesión o autorización especial.
+
+*Fe de erratas al artículo DOF 08-09-1932*
 
 ##### Artículo 4o.
 
@@ -76,7 +80,7 @@ Las disposiciones de este Capítulo no son aplicables a los boletos, contraseña
 
 ##### Artículo 7o.
 
-Los títulos de crédito dados en pago, se presumen recibidos bajo la condición salvo buen cobro.
+Los títulos de crédito dados en pago, se presumen recibidos bajo la condición “salvo buen cobro.”
 
 ##### Artículo 8o.
 
@@ -127,6 +131,8 @@ Es tácita la ratificación que resulte de actos que necesariamente impliquen la
 ##### Artículo 11.
 
 Quien haya dado lugar, con actos positivos o con omisiones graves, a que se crea, conforme a los usos del comercio, que un tercero está facultado para suscribir en su nombre títulos de crédito, no podrá invocar la excepción a que se refiere la fracción III del artículo 8o. contra el tenedor de buena fe. La buena fe se presume, salvo prueba en contrario, siempre que concurran las demás circunstancias que en este artículo se expresan.
+
+*Fe de erratas al artículo DOF 14-09-1932*
 
 ##### Artículo 12.
 
@@ -186,7 +192,11 @@ Son títulos nominativos, los expedidos a favor de una persona cuyo nombre se co
 
 En el caso de títulos nominativos que llevan adheridos cupones, se considerará que son cupones nominativos, cuando los mismos estén identificados y vinculados por su número, serie y demás datos con el título correspondiente.
 
+*Párrafo adicionado DOF 08-02-1985*
+
 Unicamente el legítimo propietario del título nominativo o su representante legal podrán ejercer, contra la entrega de los cupones correspondientes, los derechos patrimoniales que otorgue el título al cual estén adheridos.
+
+*Párrafo adicionado DOF 08-02-1985*
 
 ##### Artículo 24.
 
@@ -194,7 +204,7 @@ Cuando por expresarlo el título mismo, o prevenirlo la ley que lo rige, el tít
 
 ##### Artículo 25.
 
-Los títulos nominativos se entenderán siempre extendidos a la orden, salvo inserción en su texto, o en el de un endoso, de las cláusulas no a la orden o no negociable. Las cláusulas dichas podrán ser inscritas en el documento por cualquier tenedor, y surtirán sus efectos desde la fecha de su inserción. El título que contenga las cláusulas de referencia, sólo será transmisible en la forma y con los efectos de una cesión ordinaria.
+Los títulos nominativos se entenderán siempre extendidos a la orden, salvo inserción en su texto, o en el de un endoso, de las cláusulas “no a la orden” o “no negociable.” Las cláusulas dichas podrán ser inscritas en el documento por cualquier tenedor, y surtirán sus efectos desde la fecha de su inserción. El título que contenga las cláusulas de referencia, sólo será transmisible en la forma y con los efectos de una cesión ordinaria.
 
 ##### Artículo 26.
 
@@ -234,7 +244,9 @@ El endoso puede hacerse en blanco, con la sola firma del endosante. En este caso
 
 El endoso al portador produce los efectos del endoso en blanco.
 
-Tratándose de acciones, bonos de fundador, obligaciones, certificados de depósito, certificados de participación y cheques, el endoso siempre será a favor de persona determinada; el endoso en blanco o al portador no producirá efecto alguno. Lo previsto en este párrafo no será aplicable a los cheques expedidos por cantidades superiores a las establecidas por el Banco de México, a través de disposiciones de carácter general que publique en el Diario Oficial de la Federación.
+Tratándose de acciones, bonos de fundador, obligaciones, certificados de depósito, certificados de participación y cheques, el endoso siempre será a favor de persona determinada; el endoso en blanco o al portador no producirá efecto alguno. Lo previsto en este párrafo no será aplicable a los cheques expedidos por cantidades inferiores a las establecidas por el Banco de México, a través de disposiciones de carácter general que publique en el Diario Oficial de la Federación.
+
+*Párrafo adicionado DOF 30-12-1982. Reformado DOF 26-12-1990, 01-02-2008, 13-06-2014*
 
 ##### Artículo 33.
 
@@ -244,21 +256,21 @@ Por medio del endoso, se puede trasmitir el título en propiedad, en procuració
 
 El endoso en propiedad, transfiere la propiedad del título y todos los derechos a él inherentes. El endoso en propiedad no obligará solidariamente al endosante, sino en los casos en que la ley establezca la solidaridad.
 
-Cuando la ley establezca la responsabilidad solidaria de los endosantes, éstos pueden librarse de ella mediante la cláusula sin mi responsabilidad o alguna equivalente.
+Cuando la ley establezca la responsabilidad solidaria de los endosantes, éstos pueden librarse de ella mediante la cláusula “sin mi responsabilidad” o alguna equivalente.
 
 ##### Artículo 35.
 
-El endoso que contenga las cláusulas en procuración, al cobro, u otra equivalente, no transfiere la propiedad; pero da facultad al endosatario para presentar el documento a la aceptación, para cobrarlo judicial o extrajudicialmente, para endosarlo en procuración y para protestarlo en su caso. El endosatario tendrá todos los derechos y obligaciones de un mandatario. El mandato contenido en el endoso no termina con la muerte o incapacidad del endosante, y su revocación no surte efectos respecto de tercero, sino desde que el endoso se cancela conforme al artículo 41.
+El endoso que contenga las cláusulas “en procuración,” “al cobro”, u otra equivalente, no transfiere la propiedad; pero da facultad al endosatario para presentar el documento a la aceptación, para cobrarlo judicial o extrajudicialmente, para endosarlo en procuración y para protestarlo en su caso. El endosatario tendrá todos los derechos y obligaciones de un mandatario. El mandato contenido en el endoso no termina con la muerte o incapacidad del endosante, y su revocación no surte efectos respecto de tercero, sino desde que el endoso se cancela conforme al artículo 41.
 
 En el caso de este artículo, los obligados sólo podrán oponer al tenedor del título las excepciones que tendrían contra el endosante.
 
 ##### Artículo 36.
 
-El endoso con las cláusulas en garantía, en prenda, u otra equivalente, atribuye al endosatario todos los derechos y obligaciones de un acreedor prendario respecto del título endosado y los derechos a él inherentes, comprendiendo las facultades que confiere el endoso en procuración.
+El endoso con las cláusulas “en garantía,” “en prenda” u otra equivalente, atribuye al endosatario todos los derechos y obligaciones de un acreedor prendario respecto del título endosado y los derechos a él inherentes, comprendiendo las facultades que confiere el endoso en procuración.
 
 En el caso de este artículo, los obligados no podrán oponer al endosatario las excepciones personales que tengan contra el endosante.
 
-Cuando la prenda se realice en los términos de la Sección 6a. del Capítulo IV, Título II de esta ley, lo certificarán así, en el documento, el corredor o los comerciantes que intervengan en la venta, y llenado ese requisito, el acreedor endosará en propiedad el título, pudiendo insertar la cláusula sin responsabilidad.
+Cuando la prenda se realice en los términos de la Sección 6a. del Capítulo IV, Título II de esta ley, lo certificarán así, en el documento, el corredor o los comerciantes que intervengan en la venta, y llenado ese requisito, el acreedor endosará en propiedad el título, pudiendo insertar la cláusula “sin responsabilidad.”
 
 ##### Artículo 37.
 
@@ -274,7 +286,9 @@ La constancia que ponga el Juez en el título conforme al artículo 28, se tendr
 
 ##### Artículo 39.
 
-El que paga no está obligado a cerciorarse de la autenticidad de los endosos, ni tiene la facultad de exigir que ésta se le compruebe, pero sí debe verificar la identidad de la persona que presente el título como último tenedor, y la continuidad de los endosos. Las instituciones de crédito pueden cobrar los títulos aun cuando no estén endosados en su favor, siempre que les sean entregados por los beneficiarios para abono en su cuenta, mediante relación suscrita por el beneficiario o su representante, en la que se indique la característica que identifique el título; se considerará legítimo el pago con la sola declaración que la institución de crédito respectiva haga en el título, por escrito, de actuar en los términos de este precepto.
+El que paga no está obligado a cerciorarse de la autenticidad de los endosos, ni tiene la facultad de exigir que ésta se le compruebe, pero sí debe verificar la identidad de la persona que presente el título como último tenedor, y la continuidad de los endosos. Las instituciones de crédito pueden cobrar los títulos aun cuando no estén endosados en su favor, siempre que les sean entregados por los beneficiarios para abono en su cuenta, mediante relación suscrita por el beneficiario o su representante, en la que se indique la característica que identifique el título; se considerará legítimo el pago con la sola declaración que la institución de crédito respectiva, haga en el título, por escrito, de actuar en los términos de este precepto.
+
+*Artículo reformado DOF 31-12-1951*
 
 ##### Artículo 40.
 
@@ -294,7 +308,9 @@ La pérdida del título por otras causas sólo da derecho a las acciones persona
 
 El tenedor de un título nominativo que justifique su derecho a éste en los términos del artículo 38, no puede ser obligado a devolverlo, o a restituir las sumas que hubiere recibido por su cobro o negociación, a menos. que se pruebe que lo adquirió incurriendo en culpa grave o de mala fe.
 
-Si el título es de aquellos cuya misión y transmisión deben inscribirse en algún registro, incurre en culpa grave el que lo adquiera de quien no aparece como propietario en el registro.
+Si el título es de aquellos cuya emisión y transmisión deben inscribirse en algún registro, incurre en culpa grave el que lo adquiera de quien no aparece como propietario en el registro.
+
+*Fe de erratas al párrafo DOF 10-02-1933*
 
 También incurre en culpa grave el que adquiere un título perdido o robado después de hechas las publicaciones ordenadas por la fracción III del artículo 45.
 
@@ -314,7 +330,9 @@ Si de las pruebas aportadas resultare cuando menos una presunción grave en favo
 
 I.- Decretará la cancelación del título, y autorizará al deudor principal, y subsidiariamente a los obligados en vía de regreso designados en la demanda, a pagar el documento al reclamante, para el caso de que nadie se presente a oponerse a la cancelación dentro de un plazo de sesenta días, contados a partir de la publicación del decreto en los términos de la fracción III, o dentro de los treinta días posteriores al vencimiento del título, según que éste sea o no exigible en los treinta días que sigan al decreto;
 
-II.- Ordenará, si así lo pidiere el reclamante, y fuere suficiente la garantía ofrecida por él en los términos del artículo anterior, que se suspenda el cumplimiento de las prestaciones o que el título dé derecho, mientras pasa a ser definitiva la cancelación, o se decide sobre las oposiciones a ésta;
+II.- Ordenará, si así lo pidiere el reclamante, y fuere suficiente la garantía ofrecida por él en los términos del artículo anterior, que se suspenda el cumplimiento de las prestaciones a que el título dé derecho, mientras pasa a ser definitiva la cancelación, o se decide sobre las oposiciones a ésta;
+
+*Fe de erratas a la fracción DOF 24-09-1932*
 
 III.- Mandará que se publique una vez en el Diario Oficial un extracto del decreto de cancelación y que dicho decreto y la orden de suspensión se notifiquen:
 
@@ -336,6 +354,8 @@ V.- Dispondrá, siempre que el reclamante lo pidiere, que el decreto y la orden 
 
 El pago hecho al tenedor del título por cualquiera de los obligados, después de serle notificada la orden de suspensión, no libera al que lo hace, si queda firme el decreto de cancelación.
 
+*Artículo reformado DOF 31-08-1933*
+
 ##### Artículo 47.
 
 Puede oponerse a la cancelación, y al pago o reposición del título, en su caso, todo el que justifique tener sobre éste mejor derecho que el que alega el reclamante.
@@ -348,9 +368,15 @@ Es aplicable al oponente lo dispuesto por los párrafos segundo, tercero, cuarto
 
 La oposición del tenedor del título debe substanciarse con citación del que pidió la cancelación, y de las personas mencionadas en la fracción III del artículo 45.
 
-Para que se dé entrada a la oposición, es necesario que el oponente deposite el documento a disposición del juzgado, y además asegure con garantía real o personal satisfactoria, el resarcimiento de los daños y perjuicios que la oposición ocasione al que obtuvo el decreto de cancelación, para el caso de que aquélla no sea admitida.
+Para que se dé entrada a la oposición, es necesario que el oponente deposite el documento a disposición del Juzgado, y además asegure con garantía real o personal satisfactoria, el resarcimiento de los daños y perjuicios que la oposición ocasione al que obtuvo el decreto de cancelación, para el caso de que aquélla no sea admitida.
+
+*Fe de erratas al párrafo DOF 09-09-1933*
 
 Oído dentro de tres días en traslado el reclamante, la oposición será recibida a prueba por un término que el Juez fijará atendiendo a las circunstancias del negocio, y que en ningún caso excederá de treinta días. El término para alegar será de cinco días para cada parte, y la resolución deberá dictarse dentro de diez días. Ninguno de esos términos puede suspenderse o prorrogarse.
+
+*Fe de erratas al párrafo DOF 09-09-1933*
+
+*Artículo reformado DOF 31-08-1933*
 
 ##### Artículo 49.
 
@@ -368,17 +394,27 @@ Si la oposición es admitida, se estará a lo dispuesto por el artículo 49. Si 
 
 Las oposiciones que por separado se formulen contra la cancelación del título extraviado o robado deben acumularse, y fallarse en una misma sentencia.
 
+*Artículo reformado DOF 31-08-1933*
+
 ##### Artículo 52.
 
 El que sin haber firmado el título sea designado en la demanda de cancelación como signatario, debe expresar su inconformidad ante el Juez que conoce de aquélla, dentro de los treinta días que sigan al de la notificación ordenada por la fracción III del artículo 45. Otro tanto hará el que haya suscrito el documento en una calidad diversa de la que en dicha demanda se le atribuya.
 
 Si el interesado no manifiesta su inconformidad en el plazo que antecede, se presumirá, salvo prueba en contrario, que es cierto lo que afirma el demandante. Contra esa presunción no se le recibirá prueba alguna sino en los procedimientos a que se refieren los artículos 54, 55 y 57, y deberá tenérsele como signatario, con la calidad indicada en la demanda, mientras no sea depositado el título por el tenedor, en todo lo concerniente a los actos conservatorios previstos por los artículos 60 y 61.
 
+*Fe de erratas al párrafo DOF 09-09-1933*
+
+*Artículo reformado DOF 31-08-1933*
+
 ##### Artículo 53.
 
-La cancelación del título extraviado o robado no libera a los signatarios de las prestaciones que el mismo les impone. Sólo extingue las acciones y derechos que respecto de éstos puedan incumbir al tenedor del documento, desde que adquieran fuerza de definitivo el decreto de cancelación o la sentencia que deseche la oposición.
+La cancelación del título extraviado o robado no libera a los signatarios de las prestaciones que el mismo les impone. Sólo extingue las acciones y derechos que respecto de éstos puedan incumbir al tenedor del documento, desde que adquieran fuerza de definitivos el decreto de cancelación o la sentencia que deseche la oposición.
+
+*Fe de erratas al párrafo DOF 09-09-1933*
 
 Desde que la cancelación quede firme, por no haberse presentado ningún opositor, o por haberse desechado las oposiciones formuladas contra ella, el que la obtuvo puede reclamar a los signatarios del título el pago de éste, si fuere para entonces exigible, o que le extiendan un duplicado del mismo, si fuere de vencimiento posterior.
+
+*Fe de erratas al artículo DOF 08-09-1932. Reformado DOF 31-08-1933*
 
 ##### Artículo 54.
 
@@ -389,6 +425,8 @@ Contra esa reclamación caben todas las excepciones y defensas enumeradas en el 
 ##### Artículo 55.
 
 El signatario de un título cancelado que lo pague al que obtuvo la cancelación, tiene derecho a reivindicar el documento, para ejercitar contra los demás obligados las acciones que en virtud del mismo le competan, sin perjuicio de las causales y de la de enriquecimiento sin causa que pueda tener, respectivamente, contra su deudor directo o contra el girador, librador, emisor o suscriptor, en su caso.
+
+*Fe de erratas al párrafo DOF 08-09-1932*
 
 También puede exigir que se le dé copia certificada de las resoluciones y constancias de los procedimientos de cancelación y de oposición que estime pertinentes, y con ellas y los demás documentos justificativos de su derecho, ejercitar en la vía ejecutiva las acciones que del documento cancelado se deriven en su favor contra los demás signatarios de éste.
 
@@ -440,6 +478,8 @@ Contra las demás resoluciones que se dicten en los procedimientos de cancelaci�
 
 Respecto de los procedimientos a que se refieren los artículos 56 y 57, las providencias y el fallo que en ellos se pronuncien admitirán los recursos previstos para los juicios ejecutivos mercantiles.
 
+*Fe de erratas al párrafo DOF 24-09-1932*
+
 ##### Artículo 64.
 
 El que negocie un título nominativo habiéndolo adquirido de mala fe, es responsable de los daños y perjuicios que con ello ocasione al endosatario de buena fe o al dueño del documento, cualquiera que sea la causa que privó a éste de su posesión.
@@ -462,11 +502,13 @@ Los procedimientos de cancelación, oposición, y reposición a que se refieren 
 
 Las acciones que resulten de los títulos nominativos extraviados, robados, destruidos, mutilados o deteriorados gravemente, no se perjudicarán por la omisión de los actos conservatorios que no puedan practicarse mientras se substancian los procedimientos de cancelación, oposición y reposición de que hablan los artículos anteriores; pero si la ley fija un plazo para la realización de dichos actos, éste comenzará a correr desde que queda firme la cancelación por falta de opositores, o se resuelve en sentencia definitiva sobre las oposiciones a la cancelación o sobre la demanda de reposición en los términos del artículo 57.
 
+*Fe de erratas al artículo DOF 08-09-1932*
+
 #### Sección Tercera · De los Títulos al Portador
 
 ##### Artículo 69.
 
-Son títulos al portador los que no están expedidos a favor de persona determinada, contengan o no la cláusula al portador.
+Son títulos al portador los que no están expedidos a favor de persona determinada, contengan o no la cláusula “al portador.”
 
 ##### Artículo 70.
 
@@ -544,9 +586,11 @@ Las letras de cambio con otra clase de vencimientos, o con vencimientos sucesivo
 
 Una letra de cambio girada a uno o varios meses fecha o vista, vence el día correspondiente al de su otorgamiento o presentación del mes en que debe efectuarse el pago. Si éste no tuviere día correspondiente al del otorgamiento o presentación, la letra vencerá el último del mes.
 
-Si se fijare el vencimiento para principios, mediados, o fines de mes, se entenderán por estos términos los días primero, quince y último del mes que corresponda.
+*Párrafo reformado DOF 31-08-1933*
 
-Las expresiones ocho días o una semana, quince días, dos semanas, una quincena o medio mes, se entenderán, no como una o dos semanas enteras, sino como plazos de ocho o de quince días efectivos, respectivamente.
+Si se fijare el vencimiento para “principios,” “mediados” o “fines” de mes, se entenderán por estos términos los días primero, quince y último del mes que corresponda.
+
+Las expresiones “ocho días” o “una semana,” “quince días,” “dos semanas,” “una quincena” o “medio mes,” se entenderán, no como una o dos semanas enteras, sino como plazos de ocho o de quince días efectivos, respectivamente.
 
 ##### Artículo 81.
 
@@ -586,15 +630,19 @@ El girador es responsable de la aceptación y del pago de la letra; toda cláusu
 
 ##### Artículo 88.
 
-La letra de cambio expedida al portador no producirá efectos de letra de cambio, estándose a la regla del artículo 14. Si se emitiere alternativamente al portador o a favor de persona determinada, la expresión al portador se tendrá por no puesta.
+La letra de cambio expedida al portador no producirá efectos de letra de cambio, estándose a la regla del artículo 14. Si se emitiere alternativamente al portador o a favor de persona determinada, la expresión “al portador” se tendrá por no puesta.
+
+*Fe de erratas al artículo DOF 08-09-1932*
 
 ##### Artículo 89.
 
-La inserción de las cláusulas documentos contra aceptación o documentos contra pago, o de las mencionadas D/a o D/p, en el texto de una letra de cambio con la que se acompañen documentos representativos de mercancías, obliga al tenedor de la letra a no entregar los documentos sino mediante la aceptación o el pago de la letra.
+La inserción de las cláusulas “documentos contra aceptación” o “documentos contra pago,” o de las mencionadas “D/a” o “D/p”, en el texto de una letra de cambio con la que se acompañen documentos representativos de mercancías, obliga al tenedor de la letra a no entregar los documentos sino mediante la aceptación o el pago de la letra.
 
 ##### Artículo 90.
 
 El endoso en propiedad de una letra de cambio, obliga al endosante solidariamente con los demás responsables del valor de la letra, observándose, en su caso, lo que dispone el párrafo final del artículo 34.
+
+*Fe de erratas al artículo DOF 08-09-1932*
 
 #### Sección Segunda · De la Aceptación
 
@@ -632,7 +680,7 @@ Si la letra es pagadera en el domicilio del girado, puede éste, al aceptarla, i
 
 ##### Artículo 97.
 
-La aceptación debe constar en la letra misma y expresarse por la palabra acepto, u otra equivalente, y la firma del girado. Sin embargo, la sola firma de éste, puesta en la letra, es bastante para que se tenga por hecha la aceptación.
+La aceptación debe constar en la letra misma y expresarse por la palabra “acepto,” u otra equivalente, y la firma del girado. Sin embargo, la sola firma de éste, puesta en la letra, es bastante para que se tenga por hecha la aceptación.
 
 ##### Artículo 98.
 
@@ -684,6 +732,8 @@ El aceptante por intervención deberá dar inmediato aviso de su intervención a
 
 Son aplicables a la aceptación por intervención, las disposiciones de los artículos 95 al 100.
 
+*Fe de erratas al artículo DOF 08-09-1932*
+
 #### Sección · Cuarta
 
 Del aval
@@ -698,7 +748,7 @@ Puede prestar el aval quien no ha intervenido en la letra y cualquiera de los si
 
 ##### Artículo 111.
 
-El aval debe constar en la letra o en hoja que se le adhiera. Se expresará con la fórmula por aval, u otra equivalente, y debe llevar la firma de quien lo presta. La sola firma puesta en la letra, cuando no se le pueda atribuir otro significado, se tendrá como aval.
+El aval debe constar en la letra o en hoja que se le adhiera. Se expresará con la fórmula “por aval,” u otra equivalente, y debe llevar la firma de quien lo presta. La sola firma puesta en la letra, cuando no se le pueda atribuir otro significado, se tendrá como aval.
 
 ##### Artículo 112.
 
@@ -724,7 +774,7 @@ La acción contra el avalista estará sujeta a los mismos términos y condicione
 
 ##### Artículo 117.
 
-Cuando la letra no contenga la cláusula única, el tomador tendrá derecho a que el girador le expida uno o más ejemplares idénticos, pagando todos los gastos que se causen. Esos ejemplares deberán contener en su texto la indicación primera, segunda, y así sucesivamente, según el orden de su expedición. A falta de esta indicación, cada ejemplar se considerará como una letra de cambio distinta.
+Cuando la letra no contenga la cláusula “única,” el tomador tendrá derecho a que el girador le expida uno o más ejemplares idénticos, pagando todos los gastos que se causen. Esos ejemplares deberán contener en su texto la indicación “primera,” “segunda,” y así sucesivamente, según el orden de su expedición. A falta de esta indicación, cada ejemplar se considerará como una letra de cambio distinta.
 
 Cualquier otro tenedor podrá ejercitar ese mismo derecho, por medio del endosante inmediato, quien a su vez habrá de dirigirse al que le antecede, y así sucesivamente, hasta llegar al girador.
 
@@ -742,17 +792,27 @@ La persona que haya remitido uno de los ejemplares para su aceptación, debe men
 
 El tenedor del ejemplar enviado a la aceptación, está autorizado y tiene además la obligación de presentarlo oportunamente y protestarlo en su caso; si al vencerse la letra no le hubiere sido exigido el ejemplar por quien tuviere derecho a él, deberá presentarlo al cobro para el efecto de que se deposite el importe de la letra en una institución de crédito o, en su defecto, en una casa de comercio, protestando la letra por falta de pago si el girado no hiciere el depósito. Tiene además obligación de entregar el ejemplar que se le envió para su aceptación y las actas de protesto, en su caso, el tenedor legítimo de otro ejemplar que contenga la indicación de la persona a quien el primero fue enviado.
 
+*Fe de erratas al párrafo DOF 09-09-1933*
+
+*Artículo reformado DOF 31-08-1933*
+
 ##### Artículo 120.
 
 Si el tenedor se negare a hacer la entrega, el tenedor legítimo no podrá ejercitar sus acciones sino después de haber levantado acta de protesto:
+
+*Fe de erratas al párrafo DOF 09-09-1933*
 
 I.- Contra el tenedor, haciendo constar la omisión de dicha entrega; y
 
 II.- Contra el girado, por falta de aceptación o de pago del duplicado, siempre que tales protestos se levanten dentro de los términos que esta Ley establece.
 
+*Artículo reformado DOF 31-08-1933*
+
 ##### Artículo 121.
 
-Cuando al tenedor del original enviado para su aceptación se le presenten dos o más tenedores de los demás ejemplares para que entregue aquél, lo entregará al primero que lo solicite; y si se presentaren varios a un mismo tiempo, dará preferencia al portador del ejemplar marcando con el número ordinal más bajo.
+Cuando al tenedor del original enviado para su aceptación se le presenten dos o más tenedores de los demás ejemplares para que entregue aquél, lo entregará al primero que lo solicite; y si se presentaren varios a un mismo tiempo, dará preferencia al portador del ejemplar marcado con el número ordinal más bajo.
+
+*Artículo reformado DOF 31-08-1933. Fe de erratas DOF 09-09-1933*
 
 ##### Artículo 122.
 
@@ -768,9 +828,13 @@ La persona que haya remitido el original para su aceptación o que lo haya depos
 
 El tenedor del original está obligado a entregarlo al tenedor legítimo de la copia. El tenedor que, sin el original, quiera ejercitar sus derechos contra los suscriptores de la copia, debe probar con el protesto que el original no le fue entregado a su petición.
 
+*Artículo reformado DOF 31-08-1933*
+
 ##### Artículo 125.
 
-Cuando el tenedor del original se le presentaren dos o más portadores legítimos de copias, obrará de acuerdo con lo que previene el artículo 121.
+Cuando al tenedor del original se le presentaren dos o más portadores legítimos de copias, obrará de acuerdo con lo que previene el artículo 121.
+
+*Artículo reformado DOF 31-08-1933*
 
 #### Sección Sexta · Del Pago
 
@@ -800,6 +864,8 @@ El pago de la letra debe hacerse precisamente contra su entrega.
 
 El tenedor no puede rechazar un pago parcial; pero debe conservar la letra en su poder mientras no se le cubra íntegramente, anotando en ella la cantidad cobrada y dando por separado el recibo correspondiente.
 
+*Fe de erratas al artículo DOF 08-09-1932*
+
 ##### Artículo 131.
 
 El tenedor no puede ser obligado a recibir el pago antes del vencimiento de la letra.
@@ -828,6 +894,8 @@ El girado que no aceptó como girado, puede intervenir como tercero, con prefere
 
 El pago por intervención debe hacerse en el acto del protesto o dentro del día hábil siguiente, y para que surta los efectos previstos en ésta Sección, el notario, el corredor o la autoridad política que levanten el protesto lo harán constar en el acta relativa a éste, o a continuación de la misma.
 
+*Fe de erratas al artículo DOF 08-09-1932*
+
 ##### Artículo 135.
 
 El que paga por intervención deberá indicar la persona por quien lo hace. En defecto de tal indicación, se entenderá que interviene en favor del aceptante y, si no lo hubiere, en favor del girador.
@@ -835,6 +903,8 @@ El que paga por intervención deberá indicar la persona por quien lo hace. En d
 ##### Artículo 136.
 
 El tenedor está obligado a entregar al interventor la letra con la constancia del pago, y dicho interventor tendrá acción cambiaria contra la persona por quien pagó, y contra los obligados anteriores a está.
+
+*Fe de erratas al artículo DOF 08-09-1932*
 
 ##### Artículo 137.
 
@@ -856,7 +926,7 @@ El protesto establece en forma auténtica que una letra fue presentada en tiempo
 
 ##### Artículo 141.
 
-El girador puede dispensar al tenedor de protestar la letra, inscribiendo en ella la cláusula sin protesto, sin gastos u otra equivalente. Esta cláusula no dispensa al tenedor de la presentación de una letra para su aceptación o para su pago ni, en su caso, de dar aviso de la falta de aceptación o de pago a los obligados en vía de regreso.
+El girador puede dispensar al tenedor de protestar la letra, inscribiendo en ella la cláusula “sin protesto,” “sin gastos” u otra equivalente. Esta cláusula no dispensa al tenedor de la presentación de una letra para su aceptación o para su pago ni, en su caso, de dar aviso de la falta de aceptación o de pago a los obligados en vía de regreso.
 
 En el caso de este artículo, la prueba de falta de presentación oportuna, incumbe al que la invoca en contra del tenedor. Si a pesar de la cláusula, el tenedor hace el protesto, los gastos serán por su cuenta. La cláusula inscrita por el tenedor o por un endosante se tiene por no puesta.
 
@@ -998,6 +1068,8 @@ Para los efectos de lo dispuesto por el artículo anterior, y por los artículos
 
 Todos los que aparezcan en una letra de cambio subscribiendo el mismo acto, responden solidariamente por las obligaciones nacidas de éste. El pago de la letra por uno de los signatarios en el caso a que este artículo se refiere, no confiere al que lo hace, respecto de los demás que firmaron en el mismo acto, sino los derechos y acciones que competen al deudor solidario contra los demás coobligados; pero deja expeditas las acciones cambiarias que puedan corresponder a aquél contra el aceptante y los obligados en vía de regreso precedentes, y las que le incumban, en los términos de los artículos 168 y 169, contra el endosante inmediato anterior o contra el girador.
 
+*Fe de erratas al artículo DOF 08-09-1932*
+
 ##### Artículo 160.
 
 La acción cambiaria del último tenedor de la letra contra los obligados en vía de regreso, caduca:
@@ -1012,6 +1084,8 @@ IV.- Por no haberse admitido el pago por intervención, en los términos de los 
 
 V.- Por no haber ejercitado la acción dentro de los tres meses que sigan a la fecha del protesto o, en el caso previsto por el artículo 141, al día de la presentación de la letra para su aceptación o para su pago; y
 
+*Fracción reformada DOF 31-08-1933*
+
 VI.- Por haber prescrito la acción cambiaria contra el aceptante, o porque haya de prescribir esa acción dentro de los tres meses siguientes a la notificación de la demanda.
 
 ##### Artículo 161.
@@ -1020,7 +1094,11 @@ La acción cambiaria del obligado en vía de regreso que paga la letra, contra l
 
 I.- Por haber caducado la acción de regreso del último tenedor de la letra de acuerdo con las fracciones I, II, III, IV y VI del artículo anterior;
 
+*Fracción reformada DOF 31-08-1933*
+
 II.- Por no haber ejercitado la acción dentro de los tres meses que sigan a la fecha en que se hubiere pagado la letra, con los intereses y gastos accesorios, o a la fecha en que le fue notificada la demanda respectiva, si no se allanó a hacer el pago voluntariamente; y
+
+*Fracción reformada DOF 31-08-1933*
 
 III.- Por haber prescrito la acción cambiaria contra el aceptante, o porque haya de prescribir esa acción dentro de los tres meses que sigan a la notificación de la demanda.
 
@@ -1029,6 +1107,8 @@ En los casos previstos por el artículo 157, se considerará como fecha de pago,
 ##### Artículo 162.
 
 El ejercicio de la acción en el plazo fijado por las fracciones V del artículo 160 y II del artículo 161, no impide su caducidad sino cuando la demanda respectiva hubiere sido presentada dentro del mismo plazo, aun cuando lo sea ante Juez incompetente.
+
+*Artículo reformado DOF 31-08-1933*
 
 ##### Artículo 163.
 
@@ -1052,6 +1132,8 @@ Las causas que interrumpen la prescripción respecto de uno de los deudores camb
 
 La demanda interrumpe la prescripción, aun cuando sea presentada ante Juez incompetente.
 
+*Artículo reformado DOF 31-08-1933*
+
 ##### Artículo 167.
 
 La acción cambiaria contra cualquiera de los signatarios de la letra es ejecutiva por el importe de ésta, y por el de los intereses y gastos accesorios, sin necesidad de que reconozca previamente su firma el demandado.
@@ -1065,6 +1147,8 @@ Si de la relación que dio origen a la emisión o transmisión de la letra se de
 Esa acción debe intentarse restituyendo la letra al demandado, y no procede sino después de que la letra hubiere sido presentada inútilmente para su aceptación o para su pago conforme a los artículos 91 al 94 y 126 al 128. Para acreditar tales hechos, y salvo lo dispuesto en el párrafo que sigue, podrá suplirse el protesto por cualquier otro medio de prueba.
 
 Si la acción cambiaria se hubiere extinguido por prescripción o caducidad, el tenedor sólo podrá ejercitar la acción causal en caso de que haya ejecutado los actos necesarios para que el demandado conserve las acciones que en virtud de la letra pudieran corresponderle.
+
+*Artículo reformado DOF 31-08-1933*
 
 ##### Artículo 169.
 
@@ -1116,6 +1200,8 @@ Para los efectos del artículo 152, el importe del pagaré comprenderá los réd
 
 El suscriptor del pagaré se considerará como aceptante para todos los efectos de las disposiciones enumeradas antes, salvo el caso de los artículos 168 y 169, en que se equiparará al girador.
 
+*Párrafo reformado DOF 31-08-1933*
+
 ### CAPITULO IV · Del cheque
 
 #### Sección Primera · Del Cheque en General
@@ -1156,13 +1242,19 @@ Si no hubiere indicación de lugar, el cheque se reputará expedido en el domici
 
 El cheque será siempre pagadero a la vista. Cualquiera inserción en contrario se tendrá por no puesta. El cheque presentado al pago antes del día indicado como fecha de expedición, es pagadero el día de la presentación.
 
+*Artículo reformado DOF 31-12-1951*
+
 ##### Artículo 179.
 
 El cheque puede ser nominativo o al portador.
 
 El cheque expedido por cantidades superiores a las establecidas por el Banco de México, a través de disposiciones de carácter general que publique en el Diario Oficial de la Federación, siempre será nominativo.
 
-El cheque que no indique a favor de quién se expide, así como el emitido a favor de persona determinada y que, además, contenga la cláusula al portador, se reputará al portador.
+*Párrafo adicionado DOF 26-12-1990. Reformado DOF 01-02-2008*
+
+El cheque que no indique a favor de quién se expide, así como el emitido a favor de persona determinada y que, además, contenga la cláusula “al portador,” se reputará al portador.
+
+*Fe de erratas al párrafo DOF 10-02-1933*
 
 El cheque nominativo puede ser expedido a favor de un tercero, del mismo librador o del librado. El cheque expedido o endosado a favor del librado no será negociable.
 
@@ -1250,6 +1342,8 @@ II.- Desde el día siguiente a aquél en que paguen el cheque, las de los endosa
 
 El librador de un cheque presentado en tiempo y no pagado, por causa imputable al propio librador, resarcirá al tenedor los daños y perjuicios que con ello le ocasione. En ningún caso, la indemnización será menor del veinte por ciento del valor del cheque.
 
+*Reforma DOF 13-01-1984: Derogó del artículo el entonces párrafo segundo*
+
 ##### Artículo 194.
 
 La alteración de la cantidad por la que el cheque fue expedido, o la falsificación de la firma del librador, no pueden ser invocadas por éste para objetar el pago hecho por el librado, si el librador ha dado lugar a ellas por su culpa, o por la de sus factores, representantes o dependientes.
@@ -1280,7 +1374,9 @@ El librado que pague un cheque cruzado en términos distintos de los que este ar
 
 ##### Artículo 198.
 
-El librador o el tenedor pueden prohibir que un cheque sea pagado en efectivo, mediante la inserción en el documento de la expresión para abono en cuenta. En este caso el cheque se podrá depositar en cualquier institución de crédito, la cual sólo podrá abonar el importe del mismo a la cuenta que lleve o abra a favor del beneficiario. El cheque no es negociable a partir de la inserción de la cláusula para abono en cuenta. La cláusula no puede ser borrada.
+El librador o el tenedor pueden prohibir que un cheque sea pagado en efectivo, mediante la inserción en el documento de la expresión “para abono en cuenta”. En este caso el cheque se podrá depositar en cualquier institución de crédito, la cual sólo podrá abonar el importe del mismo a la cuenta que lleve o abra a favor del beneficiario. El cheque no es negociable a partir de la inserción de la cláusula “para abono en cuenta”. La cláusula no puede ser borrada.
+
+*Párrafo reformado DOF 26-12-1990*
 
 El librado que pague en otra forma, es responsable del pago irregularmente hecho.
 
@@ -1294,7 +1390,7 @@ El cheque certificado no es negociable.
 
 La certificación produce los mismos efectos que la aceptación de la letra de cambio.
 
-La inserción en el cheque, de las palabras acepto, visto, bueno u otras equivalentes, suscrita por el librado, o de la simple firma de éste, equivalen a una certificación.
+La inserción en el cheque, de las palabras “acepto,” “visto,” “bueno” u otras equivalentes, suscrita por el librado, o de la simple firma de éste, equivalen a una certificación.
 
 El librador puede revocar el cheque certificado, siempre que lo devuelva al librado para su cancelación.
 
@@ -1332,6 +1428,8 @@ Las acciones contra el librado que certifique un cheque, prescriben en seis mese
 
 Las acciones contra el que expida o ponga en circulación los cheques de viajero prescriben en un año a partir de la fecha en que los cheques son puestos en circulación.
 
+*Fe de erratas al párrafo DOF 08-09-1932*
+
 ### CAPITULO V · De las obligaciones
 
 ##### Artículo 208.
@@ -1344,6 +1442,8 @@ Las obligaciones serán bienes muebles aun cuando estén garantizadas con hipote
 
 Las obligaciones serán nominativas y deberán emitirse en denominaciones de cien pesos o de sus múltiplos, excepto tratándose de obligaciones que se inscriban en el Registro Nacional de Valores e Intermediarios y se coloquen en el extranjero entre el gran público inversionista, en cuyo caso podrán emitirse al portador. Los títulos de las obligaciones llevarán adheridos cupones.
 
+*Párrafo reformado DOF 30-12-1982, 08-02-1985. Fe de erratas DOF 03-04-1985*
+
 Las obligaciones darán a sus tenedores, dentro de cada serie, iguales derechos. Cualquier obligacionista podrá pedir la nulidad de la emisión hecha en contra de lo dispuesto en este párrafo.
 
 ##### Artículo 210.
@@ -1352,27 +1452,49 @@ Las obligaciones deben contener:
 
 I.- Nombre, nacionalidad y domicilio del obligacionista, excepto en los casos en que se trate de obligaciones emitidas al portador en los términos del primer párrafo del artículo anterior.
 
+*Fracción adicionada DOF 30-12-1982*
+
 II.- La denominación, el objeto y el domicilio de la sociedad emisora;
+
+*Fracción recorrida DOF 30-12-1982*
 
 III.- El importe del capital pagado de la sociedad emisora y el de su activo y de su pasivo, según el balance que se practique precisamente para efectuar la emisión;
 
+*Fracción reformada DOF 31-08-1933. Fe de erratas DOF 09-09-1933. Recorrida DOF 30-12-1982*
+
 IV.- El importe de la emisión, con especificación del número y del valor nominal de las obligaciones que se emitan;
+
+*Fracción recorrida DOF 30-12-1982*
 
 V.- El tipo de interés pactado;
 
+*Fracción recorrida DOF 30-12-1982*
+
 VI.- El término señalado para el pago de interés y de capital y los plazos, condiciones y manera en que las obligaciones han de ser amortizadas;
+
+*Fracción recorrida DOF 30-12-1982*
 
 VII.- El lugar del pago;
 
+*Fracción recorrida DOF 30-12-1982*
+
 VIII.- La especificación, en su caso, de las garantías especiales que se constituyan para la emisión, con expresión de las inscripciones relativas en el Registro Público;
+
+*Fracción recorrida DOF 30-12-1982*
 
 IX.- El lugar y fecha de la emisión, con especificación de la fecha y número de la inscripción relativa en el Registro de Comercio.
 
+*Fracción recorrida DOF 30-12-1982*
+
 X.- La firma autógrafa de los administradores de la sociedad, autorizados al efecto, o bien la firma impresa en facsímil de dichos administradores, a condición, en este último caso, de que se deposite el original de las firmas respectivas en el Registro Público de Comercio en que se haya registrado la sociedad emisora.
+
+*Fracción reformada y recorrida DOF 30-12-1982*
 
 XI.- La firma autógrafa del representante común de los obligacionistas, o bien la firma impresa en facsímil de dicho representante, a condición, en este último caso, de que se deposite el original de dicha firma en el Registro Público de Comercio en que se haya registrado la sociedad emisora.
 
-##### Artículo 210 Bis.
+*Fracción reformada y recorrida DOF 30-12-1982*
+
+##### Artículo 210-bis.
 
 Las sociedades anónimas que pretendan emitir obligaciones convertibles en acciones se sujetarán a los siguientes requisitos:
 
@@ -1384,11 +1506,15 @@ III.- En el acuerdo de emisión se establecerá el plazo dentro del cual, a part
 
 IV.- Las obligaciones convertibles no podrán colocarse abajo de la par. Los gastos de emisión y colocación de las obligaciones se amortizarán durante la vigencia de la misma.
 
-V.- La conversión de las obligaciones en acciones se hará siempre mediante solicitud presentada por los obligacionistas, dentro del plazo que señala el acuerdo de emisión.
+V.- La conversión de las obligaciones en acciones se hará siempre mediante solicitud presentada por los obligacionistas, dentro del plazo que señale el acuerdo de emisión.
+
+*Fe de erratas a la fracción DOF 27-05-1963*
 
 VI.- Durante la vigencia de la emisión de obligaciones convertibles, la emisora no podrá tomar ningún acuerdo que perjudique los derechos de los obligacionistas derivados de las bases establecidas para la conversión.
 
-VII.- Siempre que se haga uso de la designación capital autorizado, deberá ir acompañada de las palabras para conversión de obligaciones en acciones.
+VII.- Siempre que se haga uso de la designación: capital autorizado, deberá ir acompañada de las palabras “para conversión de obligaciones en acciones”.
+
+*Fe de erratas al párrafo DOF 27-05-1963*
 
 En todo caso en que se haga referencia al capital autorizado, deberá mencionarse al mismo tiempo el capital pagado.
 
@@ -1396,11 +1522,15 @@ VIII.- Anualmente, dentro de los primeros cuatro meses siguientes al cierre del 
 
 IX.- Las acciones en tesorería que en definitiva no se canjeen por obligaciones, serán canceladas. Con este motivo, el Consejo de Administración y el Representante Común de los Obligacionistas levantarán un acta ante Notario que será inscrita en el Registro Público de Comercio.
 
+*Artículo adicionado DOF 29-12-1962*
+
 ##### Artículo 211.
 
-No podrá pactarse que las obligaciones sean amortizadas por medio de sorteos a una suma superior a su valor nominal o con primas o premios, sino cuando éstos tengan por objeto compensar a los obligacionistas por la redención anticipada de una parte o de la totalidad de la emisión, o cuando el interés que haya de pagarse a todos los obligacionistas sea superior al cuatro por ciento anual y la cantidad periódica que deba destinarse a la amortización de las obligaciones y al pago de intereses sea la misma durante el tiempo estipulado para dicha amortización.
+No podrá pactarse que las obligaciones sean amortizadas por medio de sorteos a una suma superior a su valor nominal o con primas o premios, sino cuando éstos tengan por objeto compensar a los obligacionistas por la redención anticipada de una parte o de la totalidad de la emisión, o cuando el interés que haya de pagarse a todos los obligacionistas sea superior al cuatro por ciento anual y la cantidad periódica que deba destinarse a la amortización de las obligaciones y al pago de intereses sea la misma durante todo el tiempo estipulado para dicha amortización.
 
 Cualquiera de los obligacionistas podrá pedir la nulidad de la emisión hecha en contra de lo prevenido en este artículo.
+
+*Artículo reformado DOF 31-08-1933*
 
 ##### Artículo 212.
 
@@ -1408,7 +1538,9 @@ No se podrá hacer emisión alguna de obligaciones por cantidad mayor que el act
 
 La sociedad emisora no podrá reducir su capital sino en proporción al reembolso que haga sobre las obligaciones, por ella emitidas, ni podrá cambiar su objeto, domicilio o denominación, sin el consentimiento de la Asamblea General de Obligacionistas.
 
-Las sociedades que emitan obligaciones deberán publicar anualmente su balance, certificado por Contador Público. La publicación se hará en el Diario Oficial de la Federación.
+Las sociedades que emitan obligaciones deberán publicar anualmente su balance, certificado por Contador Público. La publicación se hará en el sistema electrónico establecido por la Secretaría.
+
+*Párrafo reformado DOF 13-06-2014*
 
 ##### Artículo 213.
 
@@ -1429,6 +1561,8 @@ III.- La especificación en su caso, de las garantías especiales que se consign
 IV.- La especificación del empleo que haya de darse a los fondos producto de la emisión, en el caso a que se refiere el primer párrafo del artículo 212;
 
 V.- La designación de representante común de los obligacionistas y la aceptación de éste, con su declaración:
+
+*Fe de erratas al párrafo DOF 10-02-1933*
 
 a).- De haber comprobado el valor del activo neto manifestado por la sociedad;
 
@@ -1456,6 +1590,8 @@ El representante común sólo podrá renunciar por causas graves que calificará
 
 En caso de falta del representante común, será substituido, si fuere una institución de crédito, por otra institución de crédito que designarán los obligacionistas, y en caso contrario, por la persona o institución que al efecto designen los mismos obligacionistas. Mientras los obligacionistas nombran nuevo representante común, será designada con el carácter de representante interino, una institución autorizada para actuar como fiduciaria, debiendo ser hecho este nombramiento a petición del deudor o de cualquiera de los obligacionistas, por el Juez de Primera Instancia del domicilio de la sociedad emisora. La institución designada como representante interino, deberá expedir, en un término no mayor de quince días a partir de la fecha en que acepte el cargo, la convocatoria para la celebración de la asamblea de obligacionistas. En caso de que no fuere posible designar a una institución fiduciaria en los términos del párrafo que antecede, o de que la designada no aceptare el cargo, el Juez expedirá por sí mismo la convocatoria antes mencionada.
 
+*Fe de erratas al párrafo DOF 10-02-1933*
+
 ##### Artículo 217.
 
 El representante común de los obligacionistas obrará como mandatario de éstos, con las siguientes obligaciones y facultades, además de las que expresamente se consignen en el acta de emisión:
@@ -1465,6 +1601,8 @@ I.- Comprobar los datos contenidos en el balance de la sociedad emisora que se f
 II.- Comprobar, en su caso, la existencia de los contratos a que se refiere el párrafo primero del artículo 212;
 
 III.- Comprobar la existencia y el valor de los bienes dados en prenda o hipotecados en garantía de la emisión, así como que los objetos pignorados y, en su caso, las construcciones y los muebles inmovilizados incluidos en la hipoteca, estén asegurados mientras la emisión no se amortice totalmente, por su valor o por el importe de las obligaciones en circulación, cuando esté sea menor que aquél;
+
+*Fracción reformada DOF 31-08-1933*
 
 IV.- Cerciorarse de la debida constitución de la garantía;
 
@@ -1476,11 +1614,15 @@ VII.- Autorizar las obligaciones que se emitan;
 
 VIII.- Ejercitar todas las acciones o derechos que al conjunto de obligacionistas corresponda por el pago de los intereses o del capital debidos o por virtud de las garantías señaladas para la emisión, así como los que requiera el desempeño de las funciones y deberes a que este artículo se refiere, y ejecutar los actos conservatorios respectivos;
 
+*Fracción reformada DOF 31-08-1933. Fe de erratas DOF 09-09-1933*
+
 IX.- Asistir a los sorteos, en su caso;
 
 X.- Convocar y presidir la asamblea general de obligacionistas y ejecutar sus decisiones;
 
 XI.- Asistir a las asambleas generales de accionistas de la sociedad emisora, y recabar de los administradores, gerentes y funcionarios de la misma todos los informes y datos que necesite para el ejercicio de sus atribuciones, incluyendo los relativos a la situación financiera de aquélla.
+
+*Fracción reformada DOF 31-08-1933. Fe de erratas DOF 09-09-1933*
 
 XII.- Otorgar en nombre del conjunto de los obligacionistas, los documentos o contratos que con la sociedad emisora deban celebrarse.
 
@@ -1536,6 +1678,8 @@ Los obligacionistas podrán ejercitar individualmente las acciones que les corre
 
 I.- Para pedir la nulidad de la emisión en los casos de los artículos 209 y 211 y la de las resoluciones de la asamblea, en el caso del párrafo final del artículo 220, y cuando no se hayan cumplido los requisitos establecidos para su convocatoria y celebración;
 
+*Fe de erratas a la fracción DOF 08-09-1932*
+
 II.- Para exigir de la sociedad emisora, en la vía ejecutiva, el pago de los cupones vencidos, de las obligaciones vencidas o sorteadas y de las amortizaciones o reembolsos que se hayan vencido o decretado conforme al acta de emisión;
 
 III.- Para exigir del representante común que practique los actos conservatorios de los derechos correspondientes a los obligacionistas en común, o haga efectivos esos derechos; y
@@ -1566,7 +1710,11 @@ Las acciones para el cobro de las obligaciones, prescribirán en cinco años a p
 
 Son aplicables a las obligaciones y a sus cupones, en lo conducente, los artículos 77, párrafo final, 81, 90, 127, 130, 132, 139, 140, 142, 148, 149, 151 al 162, 164, 166 al 169 y 174, párrafo final.
 
+*Artículo reformado DOF 31-08-1933*
+
 ### CAPITULO V Bis · De los Certificados de Participación
+
+*Capítulo adicionado DOF 31-12-1946*
 
 ##### Artículo 228 a.
 
@@ -1580,9 +1728,13 @@ c).- O bien el derecho a una parte alícuota del producto neto que resulte de la
 
 En el caso de los incisos b) y c), el derecho total de los tenedores de certificados de cada emisión será igual al porcentaje que represente en el momento de hacerse la emisión el valor total nominal de ella en relación con el valor comercial de los bienes, derechos o valores correspondientes fijado por el peritaje practicado en los términos del artículo 228 h. En caso de que al hacerse la adjudicación o venta de dichos bienes, derechos o valores, el valor comercial de éstos hubiere disminuido, sin ser inferior al importe nominal total de la emisión, la adjudicación o liquidación en efectivo se hará a los tenedores hasta por un valor igual al nominal de sus certificados; y si el valor comercial de la masa fiduciaria fuere inferior al nominal total de la emisión, tendrán derecho a la aplicación íntegra de los bienes o producto neto de la venta de los mismos.
 
+*Artículo adicionado DOF 31-12-1946*
+
 ##### Artículo 228 a bis.
 
-Los certificados de vivienda son títulos que representan el derecho, mediante el pago de la totalidad de las cuotas estipuladas, a que se transmita la propiedad de una vivienda, gozándose entretanto del aprovechamiento directo del inmueble; y en caso de incumplimiento o abandono, a recuperar una parte de dichas cuotas de acuerdo con los valores de rescate que se fijen.
+Los “certificados de vivienda” son títulos que representan el derecho, mediante el pago de lo totalidad de las cuotas estipuladas, a que se transmita la propiedad de una vivienda, gozándose entretanto del aprovechamiento directo del inmueble; y en caso de incumplimiento o abandono, a recuperar una parte de dichas cuotas de acuerdo con los valores de rescate que se fijen.
+
+*Artículo adicionado DOF 30-12-1963*
 
 ##### Artículo 228 b.
 
@@ -1592,27 +1744,39 @@ Sólo las instituciones de crédito autorizadas en los términos de la Ley respe
 
 Los certificados que las sociedades fiduciarias expidan haciendo constar la participación de los distintos copropietarios en bienes, títulos o valores que se encuentren en su poder, no producirán efectos como títulos de crédito y serán considerados solamente como documentos probatorios.
 
+*Artículo adicionado DOF 31-12-1946*
+
 ##### Artículo 228 c.
 
 Para los efectos de la emisión de certificados de participación podrán constituirse fideicomisos sobre toda clase de empresas industriales y mercantiles, consideradas como unidades económicas.
 
+*Artículo adicionado DOF 31-12-1946*
+
 ##### Artículo 228 d.
 
-Los certificados de participación serán designados como ordinarios o inmobiliarios, según que los bienes fideicometidos, materia de la emisión, sean muebles o inmuebles.
+Los certificados de participación serán designados como ordinarios o inmobiliarios, según que los bienes fideicometidos materia de la emisión sean muebles o inmuebles.
+
+*Artículo adicionado DOF 31-12-1946*
 
 ##### Artículo 228 e.
 
 Tratándose de certificados de participación inmobiliarios, la sociedad emisora podrá establecer en beneficio de los tenedores, derechos de aprovechamiento directo del inmueble fideicometido, cuya extensión, alcance y modalidades se determinarán en el acta de la emisión correspondiente.
 
+*Artículo adicionado DOF 31-12-1946*
+
 ##### Artículo 228 f.
 
-La sociedad emisora, previo el consentimiento y aprobación del representante común de los tenedores, en su caso, podrá concertar y obtener préstamos para el mejoramiento e incremento de los bienes inmuebles materia de la emisión, emitiendo por este concepto certificados fiduciarios de adeudo.
+La sociedad emisora, previo el consentimiento y aprobación del representante común de los tenedores, en su caso, podrá concertar y obtener préstamos para el mejoramiento e incremento de los bienes inmuebles materia de la emisión, emitiendo por este concepto “certificados fiduciarios de adeudo.”
 
 Los certificados fiduciarios de adeudo serán títulos de crédito contra el fideicomiso correspondiente. Serán preferentes en su pago a los certificados de participación de dicho fideicomiso.
+
+*Artículo adicionado DOF 31-12-1946*
 
 ##### Artículo 228 g.
 
 Cuando la sociedad emisora esté autorizada para practicar también operaciones financieras en los términos de la Ley respectiva podrán garantizar a los tenedores de los certificados que emita un mínimo de rendimiento; esta garantía será otorgada sin obligar al departamento fiduciario de la institución.
+
+*Artículo adicionado DOF 31-12-1946*
 
 ##### Artículo 228 h.
 
@@ -1620,25 +1784,37 @@ El monto total nominal de una emisión de certificados de participación será f
 
 La sociedad nacional de crédito, al formular su dictamen y fijar el monto total nominal de una emisión, tomará como base el valor comercial de los bienes y si se tratare de certificados amortizables estimarán sobre éste un margen prudente de seguridad para la inversión de los tenedores correspondientes. El dictamen que se formule por dichas instituciones será definitivo.
 
+*Artículo adicionado DOF 31-12-1946. Reformado DOF 10-01-2014*
+
 ##### Artículo 228 i.
 
-Los certificados podrán ser amortizados o no serlo.
+Los certificados podrán ser amortizables o no serlo.
+
+*Artículo adicionado DOF 31-12-1946*
 
 ##### Artículo 228 j.
 
 Los certificados amortizables darán a sus tenedores, además del derecho a una parte alícuota de los frutos o rendimientos correspondientes, el del reembolso del valor nominal de los títulos. En caso de que la sociedad fiduciaria emisora no hiciere el pago del valor nominal de los certificados a su vencimiento, sus tenedores tendrán los derechos a que se refieren los incisos b) y c) y el párrafo final del artículo 228 a.
 
+*Artículo adicionado DOF 31-12-1946*
+
 ##### Artículo 228 k.
 
 Tratándose de certificados de participación no amortizables, la sociedad emisora no está obligada a hacer pago del valor nominal de ellos a sus tenedores en ningún tiempo. Al extinguirse el fideicomiso base de la emisión y de acuerdo con las resoluciones de la asamblea general de tenedores de certificados, la sociedad emisora procederá a hacer la adjudicación y venta de los bienes fideicometidos y la distribución del producto neto de la misma, en los términos del artículo 228 a.
 
+*Artículo adicionado DOF 31-12-1946*
+
 ##### Artículo 228 l.
 
-Los certificados pueden ser nominativos o al portador o nominativos con cupones al portador, y serán emitidos por series, en denominaciones de cien pesos o de sus múltiplos.
+Los certificados serán nominativos, tendrán cupones y deberán emitirse por series, en denominaciones de cien pesos o de sus múltiplos.
+
+*Párrafo reformado DOF 30-12-1982, 08-02-1985. Fe de erratas DOF 03-04-1985*
 
 Los certificados darán a sus tenedores, dentro de cada serie, iguales derechos.
 
 Cualquier tenedor podrá pedir la nulidad de la emisión hecha en contra de lo dispuesto en este párrafo.
+
+*Artículo adicionado DOF 31-12-1946*
 
 ##### Artículo 228 m.
 
@@ -1672,39 +1848,69 @@ b).- De haber comprobado la existencia de los bienes fideicometidos y la autenti
 
 En caso de que los certificados se ofrezcan en venta al público, los avisos o la propaganda, contendrán los datos anteriores. Por violación de lo dispuesto en este párrafo quedarán solidariamente sujetos a daños y perjuicios aquellos a quienes la violación sea imputable.
 
+*Artículo adicionado DOF 31-12-1946*
+
 ##### Artículo 228 n.
 
 El certificado de participación deberá contener:
 
-I.- Nombre, nacionalidad y domicilio del titular del certificado;
+I.- Nombre, nacionalidad y domicilio del titular del certificado.
+
+*Fracción adicionada DOF 30-12-1982*
 
 II.- La mención de ser “certificados de participación” y la expresión de si es ordinario o inmobiliario;
 
+*Fracción recorrida DOF 30-12-1982*
+
 III.- La designación de la sociedad emisora y la firma autógrafa del funcionario de la misma, autorizado para suscribir la emisión correspondiente;
+
+*Fracción recorrida DOF 30-12-1982*
 
 IV.- La fecha de expedición del título;
 
+*Fracción recorrida DOF 30-12-1982*
+
 V.- El importe de la emisión, con especificación de número y del valor nominal de los certificados que se emitan;
+
+*Fracción recorrida DOF 30-12-1982*
 
 VI.- En su caso, el mínimo de rendimiento garantizado;
 
+*Fracción recorrida DOF 30-12-1982*
+
 VII.- El término señalado para el pago de productos o rendimientos y del capital y los plazos, condiciones y forma en que los certificados han de ser amortizados;
+
+*Fracción recorrida DOF 30-12-1982*
 
 VIII.- El lugar y modo de pago;
 
+*Fracción recorrida DOF 30-12-1982*
+
 IX.- La especificación, en su caso, de las garantías especiales que se constituyan para la emisión, con expresión de las inscripciones relativas en el Registro Público;
+
+*Fracción recorrida DOF 30-12-1982*
 
 X.- El lugar y la fecha del acta de emisión, con especificación de la fecha y número de la inscripción relativa en el Registro de Comercio;
 
+*Fracción recorrida DOF 30-12-1982*
+
 XI.- La firma autógrafa del representante común de los tenedores de certificados.
+
+*Fracción recorrida DOF 30-12-1982*
+
+*Artículo adicionado DOF 31-12-1946*
 
 ##### Artículo 228 o.
 
 Los términos y condiciones de las emisiones de certificados de participación deberán ser aprobados por la Comisión Nacional Bancaria, así como los textos de las actas de emisión y de los certificados y cualquiera modificación de ellos. Además, en el otorgamiento de un acta de emisión o de modificación deberá concurrir un representante de la Comisión Nacional Bancaria.
 
+*Artículo adicionado DOF 31-12-1946*
+
 ##### Artículo 228 p.
 
 Cuando en el acta de emisión se haya estipulado que los certificados serán reembolsados por sorteos, se seguirá el procedimiento que establece el artículo 222 de esta Ley.
+
+*Artículo adicionado DOF 31-12-1946*
 
 ##### Artículo 228 q.
 
@@ -1712,25 +1918,29 @@ Para representar al conjunto de los tenedores de certificados se designará un r
 
 Son aplicables al representante común de los tenedores de certificados, en lo conducente, las disposiciones de los artículos 216 y 226 de esta Ley.
 
+*Artículo adicionado DOF 31-12-1946*
+
 ##### Artículo 228 r.
 
 El representante común de los tenedores de certificados obrará como mandatario de éstos, con las siguientes obligaciones y facultades, además de las que expresamente se consignen en el acta de emisión:
 
-1.- Verificar los términos del acto constitutivo del fideicomiso base de la emisión;
+1º.- Verificar los términos del acto constitutivo del fideicomiso base de la emisión;
 
-2.- Comprobar la existencia de los derechos o bienes dados en fideicomiso, y en su caso, que las construcciones y los bienes inmovilizados incluidos en el fideicomiso estén asegurados, mientras la emisión no se amortice totalmente por su valor o por el importe de los certificados en circulación, cuando éste sea menor que aquél;
+2º.- Comprobar la existencia de los derechos o bienes dados en fideicomiso, y en su caso, que las construcciones y los bienes inmovilizados incluidos en el fideicomiso estén asegurados, mientras la emisión no se amortice totalmente por su valor o por el importe de los certificados en circulación, cuando éste sea menor que aquél;
 
-3.- Recibir y conservar los fondos relativos como depositario y aplicarlos al pago de los bienes adquiridos o de su construcción en los términos que señale el acta de emisión, cuando el importe de la misma o una parte de él, deban ser destinados a la adquisición o construcción de bienes;
+3º.- Recibir y conservar los fondos relativos como depositario y aplicarlos al pago de los bienes adquiridos o de su construcción en los términos que señale el acta de emisión, cuando el importe de la misma o una parte de él, deban ser destinados a la adquisición o construcción de bienes;
 
-4.- Autorizar con su firma los certificados que se emitan;
+4º.- Autorizar con su firma los certificados que se emitan;
 
-5.- Ejercitar todas las acciones o derechos que al conjunto de tenedores de certificados correspondan por el pago de intereses o del capital debidos o por virtud de las garantías señaladas para la emisión, así como los que requiera el desempeño de las funciones y deberes a que este artículo se refiere, y ejecutar los actos conservatorios de esos derechos y acciones;
+5º.- Ejercitar todas las acciones o derechos que al conjunto de tenedores de certificados correspondan por el pago de intereses o del capital debidos o por virtud de las garantías señaladas para la emisión, así como los que requiera el desempeño de las funciones y deberes a que este artículo se refiere, y ejecutar los actos conservatorios de esos derechos y acciones;
 
-6.- Asistir a los sorteos en su caso;
+6º.- Asistir a los sorteos en su caso;
 
-7.- Convocar y presidir la asamblea general de tenedores de certificados y ejecutar sus decisiones;
+7º.- Convocar y presidir la asamblea general de tenedores de certificados y ejecutar sus decisiones;
 
-8.- Recabar de los funcionarios de la institución fiduciaria emisora, todos los informes y datos que necesite para el ejercicio de sus atribuciones, inclusive los relativos a la situación financiera del fideicomiso base de la emisión.
+8º.- Recabar de los funcionarios de la institución fiduciaria emisora, todos los informes y datos que necesite para el ejercicio de sus atribuciones, inclusive los relativos a la situación financiera del fideicomiso base de la emisión.
+
+*Artículo adicionado DOF 31-12-1946*
 
 ##### Artículo 228 s.
 
@@ -1738,13 +1948,19 @@ La asamblea general de tenedores de certificados de participación representará
 
 Son aplicables a la asamblea general de tenedores de certificados de participación las disposiciones de los artículos 218, 219, 220 y 221 de esta Ley.
 
+*Artículo adicionado DOF 31-12-1946*
+
 ##### Artículo 228 t.
 
 El fideicomiso base de la emisión, no se extinguirá mientras haya saldos insolutos por concepto de créditos a cargo de la masa fiduciaria, de certificados o de participación en los frutos o rendimientos.
 
+*Artículo adicionado DOF 31-12-1946*
+
 ##### Artículo 228 u.
 
 Son aplicables a los derechos de los tenedores de certificados en lo conducente, los artículos 223 y 224.
+
+*Artículo adicionado DOF 31-12-1946*
 
 ##### Artículo 228 v.
 
@@ -1753,6 +1969,10 @@ Las acciones para el cobro de los cupones de los certificados prescribirán en t
 La prescripción de las acciones para el cobro en efectivo o adjudicación, tratándose de certificados no amortizables, se regirá por las reglas del derecho común y principiará a correr el término correspondiente en la fecha que señale la asamblea general de tenedores que conozca de la terminación del fideicomiso correspondiente.
 
 La prescripción operará, en todos los casos, en favor del patrimonio de la Secretaría de Salud.
+
+*Párrafo reformado DOF 09-04-2012*
+
+*Artículo adicionado DOF 31-12-1946*
 
 ### CAPITULO VI · Del certificado de depósito y del bono de prenda
 
@@ -1770,13 +1990,19 @@ Cuando se trate de mercancías o bienes individualmente designados, los Almacene
 
 Si se expide un solo bono, deberá ir adherido al certificado de depósito.
 
+*Artículo reformado DOF 10-01-2014*
+
 ##### Artículo 231.
 
 Tanto el certificado de depósito como el bono de prenda, deberán contener:
 
-I.- La mención de ser certificado de depósito y bono de prenda, respectivamente;
+I.- La mención de ser “certificado de depósito” y “bono de prenda,” respectivamente;
 
-II.- La designación y la firma del almacén;
+*Fe de erratas a la fracción DOF 10-02-1933*
+
+II.- La designación y la firma del Almacén;
+
+*Fe de erratas a la fracción DOF 08-09-1932*
 
 III.- El lugar del depósito;
 
@@ -1792,6 +2018,8 @@ VIII.- El plazo señalado para el depósito;
 
 IX.- El nombre del depositante;
 
+*Fracción reformada DOF 30-12-1982*
+
 X.- La mención de estar o no sujetos los bienes o mercancías materia del depósito al pago de derechos, impuestos o responsabilidades fiscales, y cuando para la constitución del depósito sea requisito previo el formar la liquidación de tales derechos, nota de esa liquidación;
 
 XI.- La mención de estar o no asegurados los bienes o mercancías depositados y del importe del seguro, en su caso;
@@ -1802,7 +2030,9 @@ XII.- La mención de los adeudos o de las tarifas en favor del Almacén o, en su
 
 El bono de prenda deberá contener, además:
 
-I.- El Nombre del tomador del bono;
+I.- El nombre del tomador del bono;
+
+*Fracción reformada DOF 30-12-1982*
 
 II.- El importe del crédito que el bono representa;
 
@@ -1818,15 +2048,23 @@ VI.- La mención, suscrita por el Almacén o por la institución de crédito que
 
 Cuando el bono de prenda no indique el monto del crédito que el bono representa, se entenderá que éste afecta todo el valor de los bienes depositados en favor del tenedor de buena fe, salvo el derecho del tenedor del certificado de depósito, para repetir por el exceso que reciba el tenedor del bono sobre el importe real de su crédito.
 
+*Fe de erratas al párrafo DOF 10-02-1933*
+
 Cuando no se indique el tipo de interés, se presumirá que el bono ha sido descontado.
+
+*Fe de erratas al párrafo DOF 10-02-1933*
 
 ##### Artículo 234.
 
 Los Almacenes expedirán estos títulos y deberán llevar un registro en el que se contengan los mismos datos que en los documentos expedidos.
 
+*Artículo reformado DOF 10-01-2014*
+
 ##### Artículo 235.
 
 Cuando se expidan bonos de prenda múltiples en relación con un certificado, desde el momento de su expedición el Almacén debe hacer constar en los bonos los requisitos a que se refieren las fracciones II a IV del artículo 232, y en el certificado, la expedición de los bonos con las indicaciones dichas.
+
+*Fe de erratas al artículo DOF 08-09-1932*
 
 ##### Artículo 236.
 
@@ -1845,6 +2083,8 @@ Los bonos de prenda múltiples a que el artículo 230 se refiere, serán expedid
 ##### Artículo 238.
 
 Los certificados de depósito y los bonos de prenda deberán ser emitidos a favor del depositante o de un tercero.
+
+*Artículo reformado DOF 30-12-1982*
 
 ##### Artículo 239.
 
@@ -1892,7 +2132,9 @@ Los Almacenes serán considerados como depositarios de las cantidades, que proce
 
 ##### Artículo 247.
 
-Los Almacenes deberán hacer constar en el bono mismo o en hoja anexa, la cantidad pagada sobre el bono con el producto de la venta de los bienes depositados, o con la entrega de las cantidades correspondientes que los Almacenes tuvieren en su poder conforme al artículo 246. Igualmente deberán hacer constar, en su caso de que la venta de los bienes no puede efectuarse. Esta anotación hará prueba para el ejercicio de las acciones de regreso.
+Los Almacenes deberán hacer constar en el bono mismo o en hoja anexa, la cantidad pagada sobre el bono con el producto de la venta de los bienes depositados, o con la entrega de las cantidades correspondientes que los Almacenes tuvieren en su poder conforme al artículo 246. Igualmente deberán hacer constar, en su caso, que la venta de los bienes no puede efectuarse. Esta anotación hará prueba para el ejercicio de las acciones de regreso.
+
+*Fe de erratas al artículo DOF 08-09-1932*
 
 ##### Artículo 248.
 
@@ -1922,17 +2164,23 @@ En el mismo plazo, prescribirán las acciones derivadas del certificado de depó
 
 Son aplicables al certificado de depósito y al bono de prenda, en lo conducente, los artículos 81, 85, 86, 129, 131 y 167.
 
-Son aplicables al bono de prenda, en lo conducente los artículos 90, 109 al 116, 127, 130, 142, 148, 149, 151 al 162, 164, 166, 168 y 169.
+Son aplicables al bono de prenda, en lo conducente, los artículos 90, 109 al 116, 127, 130, 142, 148, 149, 151 al 162, 164, 166, 168 y 169.
+
+*Fe de erratas al párrafo DOF 10-02-1933*
 
 Para los efectos del artículo 152, por importe del bono de prenda se entenderá la parte no pagada del adeudo consignado en éste, incluyendo los réditos caídos; y los intereses moratorios se calcularán al tipo estipulado para ellos; a falta de esa estipulación, al tipo de rédito fijado en el documento, y en defecto de ambos, al tipo legal.
 
 El tenedor que por primera vez negocie el bono de prenda separadamente del certificado de depósito se considerará como aceptante para todos los efectos de las disposiciones enumeradas antes, salvo el caso de los artículos 168 y 169, en que se equiparará al girador.
 
+*Párrafo reformado DOF 31-08-1933*
+
 ### CAPITULO VII · De la aplicación de leyes extranjeras
 
 ##### Artículo 252.
 
-La capacidad para emitir en el extranjero títulos de crédito o para celebrar cualquiera de los actos que en ellos se consignen, será determinada conforme a la ley del país en que se emite el título o se celebre el acto.
+La capacidad para emitir en el extranjero títulos de crédito o para celebrar cualquiera de los actos que en ellos se consignen, será determinada conforme a la ley del país en que se emita el título o se celebre el acto.
+
+*Fe de erratas al párrafo DOF 08-09-1932*
 
 La ley mexicana regirá la capacidad de los extranjeros para emitir títulos o para celebrar cualquiera de los actos que en ellos se consignen, dentro del territorio de la República.
 
@@ -1994,7 +2242,7 @@ A falta de plazo señalado expresamente, el reporto se entenderá pactado para l
 
 ##### Artículo 265.
 
-En ningún caso el plazo del reporto se extenderá a más de cuarenta y cinco días. Toda cláusula en contrario, se tendrá por no puesta. La operación podrá ser prorrogada una o más veces, sin que la prórroga importe celebración de nuevo contrato y bastando al efecto la simple mención prorrogado, suscrita por las partes, en el documento en que se haya hecho constar la operación primitiva.
+En ningún caso el plazo del reporto se extenderá a más de cuarenta y cinco días. Toda cláusula en contrario, se tendrá por no puesta. La operación podrá ser prorrogada una o más veces, sin que la prórroga importe celebración de nuevo contrato y bastando al efecto, la simple mención “prorrogado,” suscrita por las partes, en el documento en que se haya hecho constar la operación primitiva.
 
 ##### Artículo 266.
 
@@ -2016,7 +2264,7 @@ Los depósitos que se constituyan en caja, saco o sobre cerrados, no transfieren
 
 En los depósitos a la vista, en cuenta de cheques, el depositante tiene derecho a hacer libremente remesas en efectivo para abono de su cuenta y a disponer, total o parcialmente, de la suma depositada, mediante cheques girados a cargo del depositario. Los depósitos en dinero constituidos a la vista en instituciones de crédito, se entenderán entregados en cuenta de cheques, salvo convenio en contrario.
 
-Para que el depositante pueda hacer remesas conforme a este artículo, en títulos de crédito, se requerirá autorización del depositario. Los abonos se entenderán hechos salvo buen cobro.
+Para que el depositante pueda hacer remesas conforme a este artículo, en títulos de crédito, se requerirá autorización del depositario. Los abonos se entenderán hechos “salvo buen cobro.”
 
 ##### Artículo 270.
 
@@ -2074,6 +2322,8 @@ Los Almacenes pueden recibir en guarda mercancías o bienes genéricamente desig
 
 En el caso de depósito de mercancías o bienes individualmente designados, los Almacenes están obligados a la guarda de las mercancías o bienes depositados, por todo el tiempo que se estipule como duración para el depósito y, si por causas que no les sean imputables, las mercancías o efectos se descompusieren en condiciones que puedan afectar la seguridad o la salubridad, los Almacenes, con intervención de corredor o con autorización de las oficinas de salubridad pública respectivas, podrán proceder, sin responsabilidad, a la venta o a la destrucción de las mercancías o efectos de que se trate. En todo caso, serán por cuenta del depositante los daños que los Almacenes puedan sufrir a consecuencia de la descomposición o alteración de los bienes o mercancías depositados con designación individual, salvo estipulación contraria contenida en el certificado de depósito. El producto de la venta, en su caso, será aplicado como lo previene el artículo 244.
 
+*Fe de erratas al artículo DOF 10-02-1933*
+
 ##### Artículo 283.
 
 En el caso de depósito de mercancías o bienes genéricamente designados, los Almacenes sólo están obligados a conservar una existencia igual, en calidad y en cantidad, a la que hubiere sido materia del depósito, y serán de su cuenta todas las pérdidas que ocurran por alteración o descomposición de los bienes y mercancías, salvo las mermas naturales cuyo monto quede expresamente determinado en el certificado de depósito relativo. Los Almacenes podrán, en el caso a que este artículo se refiere, disponer de los bienes o mercancías que hayan recibido, a condición de conservar siempre una existencia igual en cantidad y en calidad, a la que esté amparada por los certificados de depósito correspondientes.
@@ -2089,6 +2339,8 @@ Cuando los Almacenes reciban mercancías o bienes sujetos al pago de derechos de
 ##### Artículo 286.
 
 La duración del depósito de mercancías o bienes, serán establecidas libremente entre los Almacenes y el depositante, a menos que se trate de mercancías o bienes sujetos al pago de impuestos o pensiones fiscales de cualquier clase, en cuyo caso la duración del depósito no excederá del término que al efecto señale la Secretaría de Hacienda y Crédito Público, o del plazo de dos años, cuando no haya término especialmente señalado.
+
+*Artículo reformado DOF 09-04-2012*
 
 ##### Artículo 287.
 
@@ -2128,13 +2380,19 @@ Sólo las instituciones de crédito podrán celebrar las operaciones a que se re
 
 En virtud de la apertura de crédito, el acreditante se obliga a poner una suma de dinero a disposición del acreditado, o a contraer por cuenta de éste una obligación, para que el mismo haga uso del crédito concedido en la forma y en los términos y condiciones convenidos, quedando obligado el acreditado a restituir al acreditante las sumas de que disponga, o a cubrirlo oportunamente por el importe de la obligación que contrajo, y en todo caso a pagarle los intereses, prestaciones, gastos y comisiones que se estipulen.
 
+*Artículo reformado DOF 31-08-1933*
+
 ##### Artículo 292.
 
 Si las partes fijaron límite al importe del crédito, se entenderá, salvo pacto en contrario, que en él quedan comprendidos los intereses, comisiones y gastos que deba cubrir el acreditado.
 
+*Artículo reformado DOF 31-08-1933*
+
 ##### Artículo 293.
 
 Si en el contrato no se señala un límite a las disposiciones del acreditado, y tampoco es posible determinar el importe del crédito por el objeto a que se destina, o de algún otro modo convenido por las partes, se entenderá que el acreditante está facultado para fijar ese límite en cualquier tiempo.
+
+*Artículo reformado DOF 31-08-1933. Fe de erratas DOF 09-09-1933*
 
 ##### Artículo 294.
 
@@ -2142,7 +2400,11 @@ Aun cuando en el contrato se hayan fijado el importe del crédito y el plazo en 
 
 Cuando no se estipule término, se entenderá que cualquiera de las partes puede dar por concluido el contrato en todo tiempo, notificándolo así a la otra como queda dicho respecto del aviso a que se refiere el párrafo anterior.
 
+*Fe de erratas al párrafo DOF 09-09-1933*
+
 Denunciado el contrato o notificada su terminación de acuerdo con lo que antecede, se extinguirá el crédito en la parte de que no hubiere hecho uso el acreditado hasta el momento de esos actos; pero a no ser que otra cosa se estipule, no quedará liberado el acreditado de pagar los premios, comisiones y gastos correspondientes a las sumas de que no hubiere dispuesto, sino cuando la denuncia o la notificación dichas procedan del acreditante.
+
+*Artículo reformado DOF 31-08-1933*
 
 ##### Artículo 295.
 
@@ -2154,11 +2416,15 @@ La apertura de crédito en cuenta corriente da derecho al acreditado a hacer rem
 
 Son aplicables a la apertura del crédito en cuenta corriente, en lo que haya lugar, los artículos 306, 308 y 309.
 
+*Fe de erratas al artículo DOF 08-09-1932. Reformado DOF 31-08-1933*
+
 ##### Artículo 297.
 
 Salvo convenio en contrario, siempre que en virtud de una apertura de crédito, el acreditante se obligue a aceptar u otorgar letras, a suscribir pagarés, a prestar su aval o en general a aparecer como endosante o signatario de un título de crédito, por cuenta del acreditado, éste quedará obligado a constituir en poder del acreditante la provisión de fondos suficiente, a más tardar el día hábil anterior a la fecha en que el documento aceptado, otorgado o suscrito deba hacerse efectivo.
 
 La aceptación, el endoso, el aval o la suscripción del documento, así como la ejecución del acto de que resulte la obligación que contraiga el acreditante por cuenta del acreditado, deba éste o no constituir la provisión de que antes se habla, disminuirán desde luego el saldo del crédito, a menos que otra cosa se estipule; pero, aparte de los gastos, comisiones, premios y demás prestaciones que se causen por el uso del crédito, de acuerdo con el contrato, el acreditado sólo estará obligado a devolver las cantidades que realmente supla el acreditante al pagar las obligaciones que así hubiere contraído, y a cubrirle únicamente los intereses que correspondan a tales sumas.
+
+*Artículo reformado DOF 31-08-1933*
 
 ##### Artículo 298.
 
@@ -2170,11 +2436,15 @@ El otorgamiento o transmisión de un título de crédito o de cualquier otro doc
 
 Negociado o cedido el crédito por el acreditante, éste abonará al acreditado, desde la fecha de tales actos, los intereses correspondientes al importe de la disposición de que dicho crédito proceda, conforme al tipo estipulado en la apertura de crédito; pero el crédito concedido no se entenderá renovado por esa cantidad, sino cuando las partes así lo hayan convenido.
 
+*Artículo reformado DOF 31-08-1933*
+
 ##### Artículo 300.
 
 Cuando las partes no fijen plazo para la devolución de las sumas de que puede disponer el acreditado, o para que el mismo reintegre las que por cuenta suya pague el acreditante de acuerdo con el contrato, se entenderá que la restitución debe hacerse al expirar el término señalado para el uso del crédito, o en su defecto, dentro del mes que siga a la extinción de este último.
 
 La misma regla se seguirá acerca de los premios, comisiones, gastos y demás prestaciones que corresponda pagar al acreditado, así como respecto al saldo que a cargo de éste resulte al extinguirse el crédito abierto en cuenta corriente.
+
+*Artículo reformado DOF 31-08-1933*
 
 ##### Artículo 301.
 
@@ -2190,7 +2460,9 @@ IV.- Por la falta o disminución de las garantías pactadas a cargo del acredita
 
 V.- Por hallarse cualquiera de las partes en estado de suspensión de pagos, de liquidación judicial o de quiebra;
 
-VI.- Por la muerte, interdicción, inhabilitación o ausencia del acreditado, o por disolución de la sociedad a cuyo favor se hubiere concedido crédito.
+VI.- Por la muerte, interdicción, inhabilitación o ausencia del acreditado, o por disolución de la sociedad a cuyo favor se hubiere concedido el crédito.
+
+*Fe de erratas al artículo DOF 08-09-1932. Reformado DOF 31-08-1933*
 
 #### Sección Segunda · De la Cuenta Corriente
 
@@ -2212,15 +2484,17 @@ Si el acto o el contrato son anulados, la partida correspondiente se cancela en 
 
 El cuentacorrentista que incluya en la cuenta un crédito garantizado con prenda o hipoteca, tiene derecho a hacer efectiva la garantía por el importe del crédito garantizado, en cuanto resulte acreedor del saldo.
 
+*Fe de erratas al párrafo DOF 08-09-1932*
+
 Si por un crédito comprendido en la cuenta, hubiere fiadores o coobligados, éstos quedarán obligados en los términos de sus contratos por el monto de ese crédito en favor del cuentacorrentista que hizo la remesa y en cuanto éste resulte acreedor del saldo.
 
 ##### Artículo 306.
 
 La inscripción en cuenta de un crédito contra tercero se entiende definitiva y a riesgo de quien recibe la remesa, salvo reserva expresa para el caso de insolvencia del deudor.
 
-A falta de pacto expreso, la remesa de títulos de crédito se entiende siempre hecha salvo buen cobro.
+A falta de pacto expreso, la remesa de títulos de crédito se entiende siempre hecha “salvo buen cobro.”
 
-Si el crédito no es pagado a su vencimiento, y existe la cláusula salvo buen cobro, expresa o subentendida, el que recibió el crédito podrá a su elección asentar en la cuenta la contrapartida correspondiente restituyendo el título, o ejercitar las acciones que de éste se deriven.
+Si el crédito no es pagado a su vencimiento, y existe la cláusula “salvo buen cobro,” expresa o subentendida, el que recibió el crédito podrá a su elección asentar en la cuenta la contrapartida correspondiente restituyendo el título, o ejercitar las acciones que de éste se deriven.
 
 ##### Artículo 307.
 
@@ -2239,6 +2513,8 @@ Las acciones para la rectificación de los errores de cálculo, de las omisiones
 El contrato de cuenta corriente termina al vencimiento del plazo convenido. A falta de éste, cualquiera de los cuentacorrentistas podrá, en cada época de clausura de la cuenta, denunciar el contrato, dando aviso al otro cuentacorrentista por lo menos diez días antes de la fecha de clausura.
 
 La muerte o la incapacidad superveniente de uno de los cuentacorrentistas, no importan la terminación del contrato sino cuando sus herederos o representantes o el otro cuentacorrentista opten por su terminación.
+
+*Fe de erratas al párrafo DOF 10-02-1933*
 
 #### Sección Tercera · De las Cartas de Crédito
 
@@ -2267,6 +2543,8 @@ El que expida una carta de crédito quedará obligado hacia la persona a cuyo ca
 ##### Artículo 316.
 
 Salvo convenio en contrario, el término de las cartas de crédito será de seis meses contados desde la fecha de su expedición. Pasado el término que en la carta se señale, o transcurrido, en caso contrario, el que indica éste artículo, la carta quedará cancelada.
+
+*Fe de erratas al artículo DOF 08-09-1932*
 
 #### Sección · Cuarta
 
@@ -2304,6 +2582,8 @@ En virtud del contrato de crédito refaccionario, el acreditado queda obligado a
 
 También podrá pactarse en el contrato de crédito refaccionario, que parte del importe del crédito se destine a cubrir las responsabilidades fiscales que pesen sobre la empresa del acreditado o sobre los bienes que éste use con motivo de la misma, al tiempo de celebrarse el contrato, y que parte asimismo de ese importe se aplique a pagar los adeudos en que hubiere incurrido el acreditado por gastos de explotación o por la compra de los bienes muebles o inmuebles o de la ejecución de las obras que antes se mencionan, siempre que los actos u operaciones de que procedan tales adeudos hayan tenido lugar dentro del año anterior a la fecha del contrato.
 
+*Párrafo adicionado DOF 31-08-1933*
+
 ##### Artículo 324.
 
 Los créditos refaccionarios quedarán garantizados, simultánea o separadamente, con las fincas, construcciones, edificios, maquinarias, aperos, instrumentos, muebles y útiles, y con los frutos o productos, futuros, pendientes o ya obtenidos, de la empresa a cuyo fomento haya sido destinado el préstamo.
@@ -2314,6 +2594,8 @@ Los créditos refaccionarios y de habilitación o avío, podrán ser otorgados e
 
 El acreditado podrá otorgar a la orden del acreditante, pagarés que representen las disposiciones que haga del crédito concedido, siempre que los vencimientos no sean posteriores al del crédito, que se haga constar en tales documentos su procedencia de manera que queden suficientemente identificados y que revelen las anotaciones de registro del crédito original. La transmisión de estos títulos implica, en todo caso, la responsabilidad solidaria de quien la efectúe y el traspaso de la parte correspondiente del principal del crédito representada por el pagaré, con las garantías y demás derechos accesorios, en la proporción que corresponda.
 
+*Párrafo adicionado DOF 17-04-1935*
+
 ##### Artículo 326.
 
 Los contratos de crédito refaccionario o de habilitación o avío:
@@ -2322,23 +2604,39 @@ I.- Expresarán el objeto de la operación, la duración y la forma en que el be
 
 II.- Fijarán, con toda precisión, los bienes que se afecten en garantía, y señalarán los demás términos y condiciones del contrato;
 
-III.- Se consignarán en contrato privado que se firmará por triplicado ante dos testigos conocidos y se ratificara ante el Encargado del Registro Público de que habla la fracción IV.
+III.- Se consignarán en contrato privado que se firmará por triplicado ante dos testigos conocidos y se ratificara ante el Encargado del Registro de que habla la fracción IV.
 
-IV.- Serán inscritos en el Registro de Hipotecas que corresponda, según la ubicación de los bienes afectos en garantía, o en el Registro de Comercio respectivo, cuando en la garantía no se incluya la de bienes inmuebles.
+*Fracción reformada DOF 17-04-1935*
 
-Los contratos de habilitación o refacción no surtirán efectos contra tercero, sino desde la fecha y hora de su inscripción en el Registro.
+IV. Serán inscritos en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio.
+
+*Fracción reformada DOF 13-06-2014*
+
+Si en la garantía se incluyen bienes inmuebles, deberá inscribirse, adicionalmente, en el Registro Público de la Propiedad que corresponda, según la ubicación de los bienes inmuebles afectos en garantía.
+
+*Párrafo adicionado DOF 13-06-2014*
+
+Los contratos de habilitación o refacción surtirán efectos contra tercero desde la fecha y hora de su inscripción conforme a los párrafos anteriores.
+
+*Párrafo reformado DOF 13-06-2014*
 
 ##### Artículo 327.
 
 Quienes otorguen créditos de refacción o de habilitación o avío, deberán cuidar de que su importe se invierta precisamente en los objetos determinados en el contrato; si se probare que se le dio otra inversión a sabiendas del acreedor o por su negligencia, éste perderá el privilegio a que se refieren los artículos 322 y 324.
 
+*Fe de erratas al párrafo DOF 08-09-1932*
+
 El acreedor tendrá en todo tiempo el derecho de designar interventor que cuide del exacto cumplimiento de las obligaciones del acreditado. El sueldo y los gastos del interventor serán a cargo del acreedor, salvo pacto en contrario. El acreditado estará obligado a dar al interventor las facilidades necesarias para que éste cumpla su función. Si el acreditado emplea los fondos que se le suministren en fines distintos de los pactados, o no atiende su negociación con la diligencia debida, el acreedor podrá rescindir el contrato, dar por vencida anticipadamente la obligación, y exigir el reembolso de las sumas que haya proporcionado, con sus intereses.
 
 Cuando el acreditante haya endosado los pagarés a que se refiere el artículo 325, conservará, salvo pacto en contrario, la obligación de vigilar la inversión que deba hacer el acreditado, así como la de cuidar y conservar las garantías concedidas, teniendo para estos fines el carácter de mandatario de los tenedores de los pagarés emitidos. El acreditante puede, con el mismo carácter, rescindir la obligación en los términos de la parte final del párrafo anterior y recibir el importe de los pagarés emitidos, que se darán por vencidos anticipadamente.
 
+*Párrafo adicionado DOF 17-04-1935*
+
 ##### Artículo 328.
 
 Los créditos de habilitación o avío, debidamente registrados, se pagarán con preferencia a los refaccionarios y ambos con preferencia a los hipotecarios inscritos con posterioridad. Cuando el traspaso de la propiedad o negociación para cuyo fomento se haya otorgado el préstamo, sea hecho sin consentimiento previo del acreedor, dará a éste derecho a rescindir el contrato o a dar por vencida anticipadamente la obligación y a exigir su pago inmediato.
+
+*Fe de erratas al artículo DOF 08-09-1932*
 
 ##### Artículo 329.
 
@@ -2364,6 +2662,8 @@ III.- Las accesiones y mejoras permanentes;
 
 IV.- Los muebles inmovilizados y los animales fijados en el documento en que se consigne el préstamo, como pie de cría en los predios rústicos destinados total o parcialmente al ramo de ganadería; y
 
+*Fe de erratas a la fracción DOF 08-09-1932*
+
 V.- La indemnización eventual que se obtenga por seguro en caso de destrucción de los bienes dichos.
 
 ##### Artículo 333.
@@ -2380,15 +2680,23 @@ En materia de comercio, la prenda se constituye:
 
 I.- Por la entrega al acreedor, de los bienes o títulos de crédito, si éstos son al portador;
 
+*Fe de erratas a la fracción DOF 08-09-1932*
+
 II.- Por el endoso de los títulos de crédito en favor del acreedor, si se trata de títulos nominativos, y por este mismo endoso y la correspondiente anotación en el registro, si los títulos son de los mencionados en el artículo 24;
 
 III.- Por la entrega, al acreedor, del título o del documento en que el crédito conste, cuando el título o crédito materia de la prenda no sean negociables, con inscripción del gravamen en el registro de emisión del título o con notificación hecha al deudor, según que se trate de títulos o créditos respecto de los cuales se exija o no tal registro;
 
-IV.- Por el depósito de los bienes o títulos, si éstos son al portador, en poder de un tercero que las partes hayan designado y a disposición del acreedor;
+*Fracción reformada DOF 31-08-1933*
+
+IV.- Por el depósito de los bienes o títulos, si éstos son al portador, en poder de un tercero que las partes hayan designado, y a disposición del acreedor;
+
+*Fe de erratas a la fracción DOF 08-09-1932*
 
 V.- Por el depósito de los bienes, a disposición del acreedor, en locales cuyas llaves queden en poder de éste, aun cuando tales locales sean de la propiedad o se encuentren dentro del establecimiento del deudor;
 
 VI.- Por la entrega o endoso del título representativo de los bienes objeto del contrato, o por la emisión o el endoso del bono de prenda relativo;
+
+*Fe de erratas a la fracción DOF 08-09-1932*
 
 VII.- Por la inscripción del contrato de crédito refaccionario o de habilitación o avío, en los términos del artículo 326;
 
@@ -2412,13 +2720,19 @@ Si el monto de la prenda y la obligación garantizada no fueren de igual cantida
 
 En estos casos, se entenderá que la transferencia de propiedad del efectivo se llevó a cabo por el consentimiento de las partes como una forma de pago de las obligaciones del deudor y no en ejecución de la prenda.
 
+*Artículo adicionado DOF 10-01-2014*
+
 ##### Artículo 337.
 
 El acreedor prendario está obligado a entregar al deudor, a expensas de éste, en los casos a que se refieren las fracciones I, II, III, V y VI del artículo 334, un resguardo que exprese el recibo de los bienes o títulos dados en prenda y los datos necesarios para su identificación.
 
+*Fe de erratas al artículo DOF 10-02-1933*
+
 ##### Artículo 338.
 
 El acreedor prendario, además de estar obligado a la guarda y conservación de los bienes o títulos dados en prenda, debe ejercitar todos los derechos inherentes a ellos, siendo los gastos por cuenta del deudor, y debiendo aplicarse, en su oportunidad, al pago del crédito, todas las sumas que sean percibidas, salvo pacto en contrario. Es nulo todo convenio que limite la responsabilidad que para el acreedor establece este artículo.
+
+*Fe de erratas al artículo DOF 08-09-1932. Reformado DOF 31-08-1933*
 
 ##### Artículo 339.
 
@@ -2434,13 +2748,19 @@ El acreedor podrá pedir al Juez que autorice la venta de los bienes o títulos 
 
 El juez correrá traslado de inmediato al deudor de dicha petición, notificándole que contará con un plazo de quince días, contados a partir de la petición del acreedor, para oponer las defensas y excepciones que le asistan a efecto de demostrar la improcedencia de la misma, en cuyo caso, el juez resolverá en un plazo no mayor a diez días. Si el deudor no hace valer este derecho, el juez autorizará la venta. En caso de notoria urgencia, y bajo la responsabilidad del acreedor que determine el juez, éste podrá autorizar la venta aun antes de hacer la notificación al deudor.
 
+*Párrafo reformado DOF 23-05-2000*
+
 El corredor o los comerciantes que hayan intervenido en la venta, deberán extender un certificado de ella al acreedor.
 
 El producto de la venta será conservado en prenda por el acreedor, en substitución de los bienes o títulos vendidos.
 
+*Reforma DOF 23-05-2000: Derogó del artículo el entonces párrafo tercero (antes con fe de erratas por DOF 08-09-1932)*
+
 ##### Artículo 342.
 
 Igualmente podrá el acreedor pedir la venta de los bienes o títulos dados en prenda, en el caso del artículo 340, o si el deudor no cumple la obligación de proporcionarle en tiempo los fondos necesarios para cubrir las exhibiciones que deban enterarse sobre los títulos.
+
+*Fe de erratas al párrafo DOF 08-09-1932, 14-09-1932*
 
 El deudor podrá oponerse a la venta, haciendo el pago de los fondos requeridos para efectuar la exhibición, o mejorando la garantía por el aumento de los bienes dados en prenda o por la reducción de su adeudo.
 
@@ -2450,13 +2770,17 @@ Si antes del vencimiento del crédito garantizado, se vencen o son amortizados l
 
 ##### Artículo 344.
 
-El acreedor prendario no podrá hacerse dueño de los bienes o títulos dados en prenda, sin el expreso consentimiento del deudor, manifestado por escrito y con posterioridad a la constitución de la prenda.
+El acreedor prendario no podrá hacerse dueño de los bienes o títulos dados en prenda, sin el expreso consentimiento del deudor.
+
+*Artículo reformado DOF 13-06-2014*
 
 ##### Artículo 345.
 
 Lo dispuesto en esta Sección no modifica las disposiciones relativas a los bonos de prenda, ni las contenidas en la Ley General de Instituciones de Crédito o en otras leyes especiales.
 
 #### Sección Séptima · De la prenda sin transmisión de posesión
+
+*Sección adicionada DOF 23-05-2000*
 
 ##### Artículo 346.
 
@@ -2466,11 +2790,17 @@ La prenda sin transmisión de posesión se regirá por lo dispuesto por esta sec
 
 En cualquier caso, el proceso de ejecución de la garantía se sujetará a lo establecido por el Libro Quinto Título Tercero Bis del Código de Comercio.
 
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
+
 ##### Artículo 347.
 
-Los contratos mediante los cuales se documente la constitución de garantías a través de la prenda sin transmisión de posesión, serán mercantiles para todas las partes que intervengan en ellos. Se exceptúan aquellos actos que se celebren entre dos o más personas físicas que no tengan el carácter de comerciantes en los términos del Código de Comercio, así como aquellos actos que, de conformidad con el mismo, no se reputen como actos de comercio.
+Los contratos mediante los cuales se documente la constitución de garantías a través de la prenda sin transmisión de posesión, serán mercantiles para todas las partes que intervengan en ellos. Se exceptúan aquellos contratos que se celebren entre dos o más personas físicas o morales que no tengan el carácter de comerciantes en los términos del Código de Comercio, así como aquellos actos que, de conformidad con el mismo, no se reputen como actos de comercio para ninguna de sus partes.
+
+*Párrafo reformado DOF 13-06-2014*
 
 En las controversias que se susciten con motivo de la prenda sin transmisión de posesión, se estará a lo dispuesto por los artículos 1049 y 1050 del mencionado Código.
+
+*Artículo adicionado DOF 23-05-2000*
 
 ##### Artículo 348.
 
@@ -2478,37 +2808,53 @@ El importe de la obligación garantizada podrá ser una cantidad determinada o d
 
 Salvo pacto en contrario, la obligación garantizada incluirá los intereses ordinarios y moratorios estipulados en el contrato respectivo o en su defecto los previstos en la ley, así como los gastos incurridos en el proceso de ejecución de la garantía.
 
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
+
 ##### Artículo 349.
 
-Cuando el deudor esté facultado para hacer pagos parciales, la garantía se reducirá desde luego y de manera proporcional con respecto de los pagos realizados, si ésta recae sobre varios objetos o éstos son cómodamente divisibles en razón de su naturaleza jurídica, sin reducir su valor, y siempre que los derechos del acreedor queden debidamente garantizados.
+Salvo pacto en contrario, cuando el deudor esté facultado para hacer pagos parciales, la garantía se reducirá desde luego y de manera proporcional con respecto de los pagos realizados, si ésta recae sobre varios objetos o éstos son cómodamente divisibles en razón de su naturaleza jurídica, sin reducir su valor, y siempre que los derechos del acreedor queden debidamente garantizados.
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2014*
 
 ##### Artículo 350.
 
 En caso de que el deudor se encuentre sujeto a un proceso concursal, los créditos a su cargo garantizados mediante prenda sin transmisión de posesión, serán exigibles desde la fecha de la declaración y seguirán devengando los intereses ordinarios estipulados, hasta donde alcance la respectiva garantía.
 
+*Artículo adicionado DOF 23-05-2000*
+
 ##### Artículo 351.
 
-En caso de concurso o quiebra del deudor, los bienes objeto de prenda sin transmisión de posesión que existan en la masa, podrán ser ejecutados por el acreedor prendario, mediante la acción que corresponda conforme a la ley de la materia, ante el juez concursal, el cual deberá decretar, sin más trámite, la ejecución solicitada.
+En caso de concurso del deudor, los bienes objeto de prenda sin transmisión de posesión que existan en la masa, podrán ser ejecutados por el acreedor prendario, mediante la acción que corresponda conforme a la ley de la materia, ante el juez de concurso mercantil, el cual deberá decretar, sin más trámite, la ejecución solicitada.
+
+*Párrafo reformado DOF 13-06-2014*
 
 Si hubiera oposición, el litigio se resolverá por la vía incidental. La resolución que el juez dicte, haya habido o no litigio, sólo será apelable en el efecto devolutivo.
+
+*Artículo adicionado DOF 23-05-2000*
 
 ##### Artículo 352.
 
 Podrá garantizarse con prenda sin transmisión de posesión cualquier obligación, con independencia de la actividad preponderante a la que se dedique el deudor.
 
+*Artículo adicionado DOF 23-05-2000*
+
 ##### Artículo 353.
 
 Pueden ser dados en prenda sin transmisión de posesión toda clase de derechos y bienes muebles, salvo aquellos que conforme a la Ley sean estrictamente personales de su titular.
 
-No podrá constituirse prenda ordinaria u otra garantía, sobre los bienes que ya se encuentren pignorados con arreglo a esta Sección Séptima.
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003, 13-06-2014*
 
 ##### Artículo 354.
 
-Los bienes pignorados deberán identificarse, salvo el caso en que el deudor dé en prenda sin transmisión de posesión a su acreedor todos los bienes muebles que utilice para la realización de su actividad preponderante, en cuyo caso éstos podrán identificarse en forma genérica.
+Los bienes pignorados deberán identificarse de forma individual, por categorías de bienes o genéricamente.
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2014*
 
 ##### Artículo 355.
 
-Podrán darse en prenda sin transmisión de posesión los bienes muebles siguientes:
+Podrán darse en prenda sin transmisión de posesión los bienes muebles siguientes
+
+*Párrafo reformado DOF 13-06-2014*
 
 I. Aquellos bienes y derechos que obren en el patrimonio del deudor al momento de otorgar la prenda sin transmisión de posesión, incluyendo los nombres comerciales, las marcas y otros derechos;
 
@@ -2519,6 +2865,12 @@ III. Los bienes que se deriven como frutos o productos futuros, pendientes o ya 
 IV. Los bienes que resulten de procesos de transformación de los bienes antes señalados, y
 
 V. Los bienes o derechos que el deudor reciba o tenga derecho a recibir, en pago por la enajenación a terceros de los bienes pignorados a que se refiere este artículo o como indemnización en caso de daños o destrucción de dichos bienes.
+
+Tratándose de bienes referidos en las fracciones III a V, los mismos quedarán comprendidos de manera automática como bienes pignorados, salvo pacto en contrario.
+
+*Párrafo adicionado DOF 13-06-2014*
+
+*Artículo adicionado DOF 23-05-2000*
 
 ##### Artículo 356.
 
@@ -2532,19 +2884,13 @@ III. Enajenar los bienes pignorados, en el curso normal de su actividad preponde
 
 El derecho otorgado al deudor para vender o transferir, en el curso ordinario de sus actividades preponderantes, los bienes pignorados quedará extinguido desde el momento en que reciba notificación del inicio de cualquiera de los procedimientos de ejecución en su contra, previstos en el Libro Quinto, Título Tercero Bis del Código de Comercio. En caso de que los bienes pignorados representen más del 80% de los activos del deudor, éste podrá enajenarlos en el curso ordinario de sus actividades, con la previa autorización del Juez o del acreedor, según sea el caso.
 
+*Artículo adicionado DOF 23-05-2000*
+
 ##### Artículo 357.
 
-Para efectos de lo dispuesto en los artículos 355 y 356, las partes deberán convenir, al celebrar el contrato de prenda sin transmisión de posesión:
+(Se deroga).
 
-I. En su caso, los lugares en los que deberán encontrarse los bienes pignorados;
-
-II. Las contraprestaciones mínimas que deberá recibir el deudor de su contraparte, por la venta o transferencia de los bienes pignorados;
-
-III. Las características o categorías que permitan identificar a la persona o personas, o a estas últimas de manera específica, a las que el deudor podrá vender o transferir dichos bienes, así como el destino que el deudor deberá dar al dinero, bienes o derechos que reciba en pago, y
-
-IV. La información que el deudor deberá entregar al acreedor sobre la transformación, venta, o transferencia de los mencionados bienes.
-
-En caso de incumplimiento a las estipulaciones convenidas con base en este artículo, el crédito garantizado con la prenda sin transmisión de posesión se tendrá por vencido anticipadamente.
+*Artículo adicionado DOF 23-05-2000. Derogado DOF 13-06-2014*
 
 ##### Artículo 358.
 
@@ -2552,23 +2898,35 @@ No obstante que el deudor dé en prenda sin transmisión de posesión a su acree
 
 En este supuesto, el primer acreedor seguirá teniendo preferencia para el pago de su crédito sobre todos los bienes muebles que el deudor le haya dado en prenda sin transmisión de posesión, frente a cualquier . acreedor, con excepción de los bienes adquiridos por el deudor con los recursos que le proporcione el nuevo acreedor, los cuales podrán servir de garantía a este último y asegurar su preferencia en el pago, respecto a cualquier otro acreedor del deudor, incluyendo al primer acreedor.
 
-La excepción a que se refiere este artículo, sólo procederá tratándose de bienes muebles que puedan identificarse con toda precisión y distinguirse del resto de los bienes muebles que el deudor haya dado en prenda al primer acreedor.
+La excepción a que se refiere este artículo, sólo procederá tratándose de bienes muebles que puedan distinguirse del resto de los bienes muebles que el deudor haya dado en prenda al primer acreedor.
+
+*Párrafo reformado DOF 13-06-2014*
+
+*Artículo adicionado DOF 23-05-2000*
 
 ##### Artículo 359.
 
 Pueden garantizarse con prenda sin transmisión de posesión obligaciones futuras, pero en este caso no puede ejecutarse la garantía, ni adjudicarse al acreedor, sin que la obligación principal llegue a ser exigible.
 
+*Artículo adicionado DOF 23-05-2000*
+
 ##### Artículo 360.
 
-En caso de que en el contrato respectivo se establezca que los bienes pignorados deban estar asegurados por una cantidad que alcance a cubrir su valor de reposición, el deudor tendrá la facultad de determinar la compañía aseguradora que se encargará de ello. En el mencionado seguro deberá designarse como beneficiario al acreedor prendario. El saldo insoluto del crédito garantizado, se reducirá en la proporción del pago que el acreedor reciba de la institución de seguros. De existir algún remanente, el acreedor deberá entregarlo al deudor, a más tardar el tercer día hábil siguiente a la fecha en que lo reciba.
+En caso de que en el contrato respectivo se establezca que los bienes pignorados deban estar asegurados por una cantidad que alcance a cubrir su valor de reposición, el deudor tendrá la facultad de determinar la compañía aseguradora que se encargará de ello. En el mencionado seguro deberá designarse como beneficiario al acreedor prendario. Salvo pacto en contrario, el saldo insoluto del crédito garantizado, se reducirá en una cantidad igual a la del pago que el acreedor reciba de la institución de seguros. En este último caso, de existir algún remanente, el acreedor deberá entregarlo al deudor, a más tardar el tercer día hábil siguiente a la fecha en que lo reciba.
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2014*
 
 ##### Artículo 361.
 
 El deudor no podrá transferir la posesión sin autorización previa del acreedor, salvo pacto en contrario.
 
+*Párrafo reformado DOF 13-06-2003*
+
 Serán por cuenta del deudor los gastos necesarios para la debida conservación, reparación, administración y recolección de los bienes pignorados.
 
 El acreedor tiene el derecho de exigir al deudor otra prenda o el pago de la deuda aun antes del plazo convenido, si la cosa dada en prenda se pierde o se deteriora en exceso del límite que al efecto estipulen los contratantes.
+
+*Artículo adicionado DOF 23-05-2000*
 
 ##### Artículo 362.
 
@@ -2576,11 +2934,17 @@ El deudor estará obligado a permitir al acreedor la inspección de los bienes p
 
 De convenirse así en el contrato, si el valor de mercado de los bienes dados en prenda sin transmisión de posesión disminuye de manera que no baste para cubrir el importe del principal y los accesorios de la deuda que garantizan, el deudor podrá dar bienes adicionales para restituir la proporción original. En caso contrario, el crédito podrá darse por vencido anticipadamente, una vez que se haya realizado el procedimiento previsto en el artículo siguiente, teniendo el acreedor que notificar al deudor de ello judicialmente o a través de fedatario. Al efecto, las partes deberán convenir el alcance que dicha reducción de valor de mercado habrá de sufrir, para que el crédito pueda darse por vencido anticipadamente.
 
+*Artículo adicionado DOF 23-05-2000*
+
 ##### Artículo 363.
 
-Desde la celebración del contrato constitutivo de prenda sin transmisión de posesión, las partes deberán establecer las bases para designar a un perito, cuya responsabilidad será dictaminar, una vez que haya oído a ambas partes, la actualización de los supuestos previstos en los artículos 361 y 362.
+Las partes deberán designar perito o acordar las bases para su designación, cuya responsabilidad será dictaminar, una vez que haya oído a ambas partes, la actualización de los supuestos previstos en los artículos 361 y 362.
 
-Las partes podrán designar como perito para los efectos de lo dispuesto en este artículo, a un almacén general de depósito, así como encomendar a éste la guarda y conservación de los bienes pignorados, en términos de la fracción I del artículo 357.
+Las partes podrán designar como perito para los efectos de lo dispuesto en este artículo, a un almacén general de depósito, así como encomendar a éste la guarda y conservación de los bienes pignorados.
+
+A falta del acuerdo referido en el primer párrafo de este artículo, el perito será designado por juez competente a solicitud de cualquiera de las partes.
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2014*
 
 ##### Artículo 364.
 
@@ -2588,19 +2952,29 @@ El acreedor está obligado a liberar la prenda, luego que estén pagados íntegr
 
 Cuando el acreedor no libere la prenda, de conformidad con lo establecido en el párrafo anterior, resarcirá al deudor los daños y perjuicios que con ello le ocasione, independientemente de que deberá liberar los bienes dados en prenda.
 
+*Artículo adicionado DOF 23-05-2000*
+
 ##### Artículo 365.
 
-El contrato constitutivo de la prenda sin transmisión de posesión, deberá constar por escrito y cuando la operación se refiera a bienes cuyo monto sea igual o superior al equivalente en moneda nacional a doscientos cincuenta mil Unidades de Inversión, las partes deberán ratificar sus firmas ante fedatario.
+El contrato constitutivo de la prenda sin transmisión de posesión, deberá constar por escrito y cuando el monto del crédito que garantiza sea igual o superior al equivalente en moneda nacional a doscientos cincuenta mil Unidades de Inversión, las partes deberán ratificar sus firmas ante fedatario.
 
-La garantía se tendrá por constituida a la firma del contrato, surtiendo efectos entre las partes desde la fecha de su celebración.
+El contrato de prenda sin transmisión de posesión será válido desde su constitución y la nulidad de alguna de sus cláusulas por contravenciones a lo dispuesto en esta ley no producirá la nulidad de la prenda.
+
+En caso de declararse nula alguna cláusula del contrato de prenda sin transmisión de posesión, se aplicará supletoriamente lo dispuesto por esta ley.
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2014*
 
 ##### Artículo 366.
 
 La prenda sin transmisión de posesión surtirá efectos contra terceros a partir de la fecha de su inscripción en el registro.
 
+*Artículo adicionado DOF 23-05-2000*
+
 ##### Artículo 367.
 
-Los acreedores garantizados con prenda sin transmisión de posesión, percibirán el principal y los intereses de sus créditos del producto de los bienes objeto de esas garantías, con exclusión absoluta de los demás acreedores del deudor.
+Los acreedores garantizados con prenda sin transmisión de posesión, percibirán el principal y los intereses de sus créditos del producto de los bienes objeto de esas garantías, con exclusión absoluta de los demás acreedores del deudor que no sean preferentes.
+
+*Párrafo reformado DOF 13-06-2014*
 
 Lo dispuesto en el párrafo anterior, es sin perjuicio de las preferencias que conforme a la ley correspondan a los créditos laborales a cargo del deudor.
 
@@ -2608,29 +2982,53 @@ En todo caso, los embargos por adeudos laborales que recaigan sobre bienes en po
 
 Cuando los bienes objeto de la garantía hayan sido adquiridos con el producto del crédito garantizado, la prelación que establece este artículo, por lo que se refiere a los bienes mencionados, prevalecerá sobre la que corresponda a los acreedores de los créditos mencionados en el segundo párrafo de esta disposición.
 
+*Artículo adicionado DOF 23-05-2000*
+
+##### Artículo 367 Bis.
+
+En caso de que la totalidad o parte de los bienes objeto de la garantía sean bienes de importación temporal, tratándose de ejecución de la prenda, el juez podrá autorizar que el acreedor tramite por cuenta del deudor, cuando proceda de conformidad con las disposiciones aduaneras, la importación definitiva de los bienes para proceder a la venta de los mismos o para efectos de que queden a disposición del acreedor, en cuyo caso deberá pagarse preferentemente al erario público con el importe de la venta de los bienes, o a cargo del acreedor en caso de que los mismos queden a su disposición, los impuestos y derechos que procedan por la importación definitiva de los mismos. En caso de venta el monto remanente quedará a disposición del acreedor en los términos de este artículo.
+
+*Artículo adicionado DOF 13-06-2014*
+
 ##### Artículo 368.
 
 La prenda sin transmisión de posesión tendrá la prelación a la que se refiere el artículo anterior, desde el momento de su registro.
 
 La prelación de los nuevos acreedores a que se refiere el artículo 358 no se verá afectada por el hecho de registrar sus garantías, con posterioridad al registro de aquellas mediante las cuales el deudor haya otorgado en garantía al otro acreedor todos los bienes muebles que utilice en la realización de sus actividades preponderantes.
 
+*Artículo adicionado DOF 23-05-2000*
+
 ##### Artículo 369.
 
-La garantía sobre un bien mueble constituida, en términos de esta Sección Séptima, tiene prelación sobre la garantía hipotecaria, refaccionaria o fiduciaria, si aquélla se inscribe antes de que el mencionado bien mueble se adhiera, en su caso, al bien inmueble objeto de dichas garantías.
+La garantía sobre un bien mueble constituida, en términos de esta Sección Séptima, tiene prelación sobre la garantía hipotecaria, refaccionaría o fiduciaria, si aquélla se inscribe antes de que el mencionado bien mueble se adhiera, en su caso, al bien inmueble objeto de dichas garantías, a menos que exista consentimiento del acreedor de la garantía mobiliaria para que la segunda garantía tenga prelación sobre la mobiliaria.
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2014*
 
 ##### Artículo 370.
 
 La prelación entre las garantías que no hayan sido inscritas, será determinada por el orden cronológico de los contratos fehacientes respectivos.
 
+*Artículo adicionado DOF 23-05-2000*
+
 ##### Artículo 371.
 
-La prenda sin transmisión de posesión, registrada, tendrá prelación sobre:
+La prenda sin transmisión de posesión, registrada en el Registro Único de Garantías Mobiliarias, tendrá prelación sobre actos y gravámenes registrables y no registrados y sobre actos o gravámenes registrados con posterioridad.
 
-I. Los créditos quirografarios;
+*Párrafo reformado DOF 13-06-2014*
 
-II. Los créditos con garantía real no registrados, y
+I. (Se deroga).
 
-III. Los gravámenes judiciales preexistentes no registrados.
+*Fracción derogada DOF 13-06-2014*
+
+II. (Se deroga).
+
+*Fracción derogada DOF 13-06-2014*
+
+III. (Se deroga).
+
+*Fracción derogada DOF 13-06-2014*
+
+*Artículo adicionado DOF 23-05-2000*
 
 ##### Artículo 372.
 
@@ -2638,17 +3036,33 @@ La prelación que se establece en favor de los acreedores, garantizados conforme
 
 La nueva prelación establecida por las partes, surtirá efectos a partir de su inscripción.
 
+*Artículo adicionado DOF 23-05-2000*
+
 ##### Artículo 373.
 
-Se entenderá por adquirente de mala fe, para efectos de lo dispuesto en el artículo 356, a toda persona que, sabedora de la existencia de la garantía, adquiera los bienes muebles objeto de la misma sin consentimiento del acreedor.
+Se entenderá por adquirente de mala fe, para efectos de lo dispuesto en el artículo 356 y 398, a toda persona que adquiera, sin consentimiento del acreedor, bienes muebles del deudor, sabedora por cualquier medio, incluyendo el Registro Único de Garantías Mobiliarias, de:
+
+I. La existencia de la garantía sobre dichos bienes; y
+
+II. Que la enajenación de dichos bienes se encuentra fuera del curso normal de la actividad preponderante del deudor.
+
+Las enajenaciones realizadas sin contar con el consentimiento a que se refiere este artículo no harán que cesen los efectos de la garantía y el acreedor conservará el derecho de persecución sobre los bienes respectivos con relación a los adquirentes; sin perjuicio de que el acreedor exija al deudor el pago de los daños y perjuicios que dicha enajenación le cause.
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003, 13-06-2014*
 
 ##### Artículo 374.
 
 El deudor estará obligado a solicitar autorización por escrito del acreedor garantizado, para enajenar en términos del artículo 356, los bienes objeto de la garantía, a las siguientes personas:
 
-I. Las físicas y morales que detenten más del cinco por ciento de los títulos representativos del capital del deudor;
+*Párrafo reformado DOF 13-06-2003*
 
-II. Los miembros propietarios y suplentes del consejo de administración del deudor;
+I. Las personas físicas y morales que tengan el control directo o indirecto de más del cinco por ciento de los títulos representativos del capital del deudor, o que estén sujetas a un control corporativo común con el deudor;
+
+*Fracción reformada DOF 13-06-2014*
+
+II. Los miembros propietarios y suplentes del consejo de administración del deudor o de las personas morales a que se refiere la fracción anterior;
+
+*Fracción reformada DOF 13-06-2014*
 
 III. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el segundo grado, o civil, con las personas mencionadas en las fracciones anteriores, o con el propio deudor, si éste es persona física, y
 
@@ -2656,29 +3070,53 @@ IV. Los empleados, funcionarios y acreedores del deudor
 
 Para los efectos de la autorización que deberá otorgar el acreedor garantizado, éste tendrá diez días naturales para hacerlo; de no contestar, se entenderá tácitamente otorgada en favor del deudor.
 
-Las enajenaciones realizadas sin contar con la autorización a que se refiere este artículo y el anterior, en lo conducente, serán nulas, por lo que no cesarán los efectos de la garantía y el acreedor conservará el derecho de persecución sobre los bienes respectivos con relación a los adquirentes; sin perjuicio de que el acreedor exija al deudor el pago de los daños y perjuicios que dicha enajenación le cause.
+Las enajenaciones realizadas sin contar con la autorización a que se refiere este artículo serán nulas, por lo que no cesarán los efectos de la garantía y el acreedor conservará el derecho de persecución sobre los bienes respectivos con relación a los adquirentes; sin perjuicio de que el acreedor exija al deudor el pago de los daños y perjuicios que dicha enajenación le cause.
+
+*Párrafo reformado DOF 13-06-2003, 13-06-2014*
 
 Asimismo, podrá preverse en el contrato respectivo que, de realizarse enajenaciones en contravención a lo dispuesto por este artículo, el plazo del crédito se tendrá por vencido anticipadamente.
+
+*Párrafo reformado DOF 13-06-2003*
+
+Para efectos de la fracción I anterior se entiende por control corporativo la capacidad de una persona o grupo de personas, de llevar a cabo cualquiera de los actos siguientes:
+
+a) Imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes, de una persona moral.
+
+b) Dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma.
+
+*Párrafo adicionado DOF 13-06-2014*
+
+*Artículo adicionado DOF 23-05-2000*
 
 ##### Artículo 375.
 
 Las acciones de los acreedores garantizados conforme a esta Sección Séptima, prescriben en tres años, contados desde que la obligación garantizada pudo exigirse.
 
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
+
 ##### Artículo 376.
 
-Los actos en los que se haga constar la constitución, modificación, extinción, cesión y las resoluciones judiciales sobre cancelaciones de la prenda sin transmisión de posesión a que se refiere esta Sección Séptima, deberán ser inscritos en el Registro Público de Comercio del lugar en el que se encuentre ubicado el domicilio del deudor o, en los casos que proceda, en el Registro Especial que corresponda según su naturaleza.
+Los actos en los que se haga constar la constitución, modificación, extinción, cesión y las resoluciones judiciales sobre cancelaciones de la prenda sin transmisión de posesión a que se refiere esta Sección Séptima, deberán ser inscritos en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio o, en los casos que proceda, en el registro especial que corresponda según su naturaleza.
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2014*
 
 ##### Artículo 377.
 
-Los registradores se abstendrán de suspender o denegar la inscripción de garantías sobre bienes muebles, cuya identificación se realice en forma genérica y correspondan a la actividad preponderante del deudor, en términos de lo dispuesto en el artículo 354.
+(Se deroga).
+
+*Artículo adicionado DOF 23-05-2000. Derogado DOF 13-06-2014*
 
 ##### Artículo 378.
 
 Tratándose de obligaciones garantizadas cuyo importe sea determinable al momento de la ejecución de la garantía, procederá su registro aun cuando no se fije la cantidad máxima que garantice el gravamen.
 
+*Artículo adicionado DOF 23-05-2000*
+
 ##### Artículo 379.
 
 Se deroga.
+
+*Artículo adicionado DOF 23-05-2000. Derogado DOF 13-06-2003*
 
 ##### Artículo 380.
 
@@ -2686,13 +3124,19 @@ Al que, teniendo la posesión material de los bienes objeto de garantías otorga
 
 Si dicho monto excede de esta cantidad, pero no de diez mil, la prisión será de uno a seis años y la multa de cien a ciento ochenta veces el salario mínimo general diario vigente en el Distrito Federal. Si el monto es mayor al equivalente de diez mil días de dicho salario, la prisión será de seis a doce años y la multa de ciento veinte veces el salario mínimo general diario vigente en el Distrito Federal.
 
-### CAPITULO V
+*Artículo adicionado DOF 23-05-2000*
+
+### CAPITULO V · Denominación del Capítulo suprimida DOF 23-05-2000
 
 #### Sección Primera · Del fideicomiso
+
+*Sección adicionada DOF 23-05-2000*
 
 ##### Artículo 381.
 
 En virtud del fideicomiso, el fideicomitente transmite a una institución fiduciaria la propiedad o la titularidad de uno o más bienes o derechos, según sea el caso, para ser destinados a fines lícitos y determinados, encomendando la realización de dichos fines a la propia institución fiduciaria.
+
+*Artículo recorrido (antes artículo 346) DOF 23-05-2000. Reformado DOF 13-06-2003*
 
 ##### Artículo 382.
 
@@ -2702,9 +3146,21 @@ El fideicomisario podrá ser designado por el fideicomitente en el acto constitu
 
 El fideicomiso será válido aunque se constituya sin señalar fideicomisario, siempre que su fin sea lícito y determinado, y conste la aceptación del encargo por parte del fiduciario.
 
-Cuarto párrafo.- Se deroga
-
 Las instituciones mencionadas en el artículo 385 de esta Ley podrán reunir la calidad de fiduciarias y fideicomisarias únicamente tratándose de fideicomisos que tengan por fin servir como instrumentos de pago a su favor. En este supuesto, las partes deberán convenir los términos y condiciones para dirimir posibles conflictos de intereses, para lo cual podrán nombrar a un ejecutor o instructor, que podrá ser una institución fiduciaria o cualquier tercero, a fin de que determine el cumplimiento o incumplimiento del contrato para el solo efecto de iniciar el procedimiento de ejecución y para que cumpla los fines del fideicomiso en lo que respecta a la aplicación de los bienes afectos al fideicomiso como fuente de pago de obligaciones derivadas de créditos otorgados por la propia institución.
+
+*Párrafo reformado DOF 10-01-2014*
+
+En todo caso, el ejecutor o instructor ejercitará sus funciones en nombre y representación del fiduciario, pero sin sujetarse a sus instrucciones, obrando en todo momento de conformidad con lo pactado en el contrato y la legislación aplicable y actuando con independencia e imparcialidad respecto de los intereses del fideicomitente y fideicomisario.
+
+*Párrafo adicionado DOF 13-06-2014*
+
+Para efectos del párrafo anterior, se presume independencia e imparcialidad en el cumplimiento del contrato, cuando los títulos representativos del capital social, así como las compras e ingresos del último ejercicio fiscal o del que esté en curso del ejecutor o instructor, no estén vinculados con alguna de las partes del fideicomiso en más de un diez por ciento.
+
+*Párrafo adicionado DOF 13-06-2014*
+
+*Reforma DOF 10-01-2014: Derogó del artículo el entonces párrafo cuarto*
+
+*Artículo recorrido (antes artículo 347) DOF 23-05-2000. Reformado DOF 13-06-2003*
 
 ##### Artículo 383.
 
@@ -2712,9 +3168,15 @@ El fideicomitente puede designar varios fideicomisarios para que reciban simult�
 
 Cuando sean dos o más fideicomisarios y deba consultarse su voluntad, en cuanto no esté previsto en el fideicomiso, las decisiones se tomarán por mayoría de votos computados por representaciones y no por personas. En caso de empate, decidirá el juez de primera instancia del lugar del domicilio del fiduciario.
 
+*Artículo reformado DOF 31-08-1933, 24-05-1996. Reformado y recorrido (antes artículo 348) DOF 23-05-2000. Reformado DOF*
+
+13-06-2003
+
 ##### Artículo 384.
 
 Sólo pueden ser fideicomitentes las personas con capacidad para transmitir la propiedad o la titularidad de los bienes o derechos objeto del fideicomiso, según sea el caso, así como las autoridades judiciales o administrativas competentes para ello.
+
+*Artículo recorrido (antes artículo 349) DOF 23-05-2000. Reformado DOF 13-06-2003*
 
 ##### Artículo 385.
 
@@ -2724,31 +3186,51 @@ En el fideicomiso podrán intervenir varias instituciones fiduciarias para que c
 
 Salvo lo que se prevea en el fideicomiso, cuando por renuncia o remoción la institución fiduciaria concluya el desempeño de su cargo, deberá designarse a otra institución fiduciaria que la substituya. Si no fuere posible esta substitución, el fideicomiso se dará por extinguido.
 
+*Fe de erratas al artículo DOF 08-09-1932. Recorrido (antes artículo 350) DOF 23-05-2000. Reformado DOF 13-06-2003*
+
 ##### Artículo 386.
 
 Pueden ser objeto del fideicomiso toda clase de bienes y derechos, salvo aquellos que, conforme a la ley, sean estrictamente personales de su titular.
 
 Los bienes que se den en fideicomiso se considerarán afectos al fin a que se destinan y, en consecuencia, sólo podrán ejercitarse respecto a ellos los derechos y acciones que al mencionado fin se refieran, salvo los que expresamente se reserve el fideicomitente, los que para él deriven del fideicomiso mismo o los adquiridos legalmente respecto de tales bienes, con anterioridad a la constitución del fideicomiso, por el fideicomisario o por terceros. La institución fiduciaria deberá registrar contablemente dichos bienes o derechos y mantenerlos en forma separada de sus activos de libre disponibilidad.
 
+*Párrafo reformado DOF 13-06-2003*
+
 El fideicomiso constituido en fraude de terceros, podrá en todo tiempo ser atacado de nulidad por los interesados.
+
+*Artículo recorrido (antes artículo 351) DOF 23-05-2000*
 
 ##### Artículo 387.
 
 La constitución del fideicomiso deberá constar siempre por escrito.
 
+*Artículo recorrido (antes artículo 352) DOF 23-05-2000. Reformado DOF 13-06-2003*
+
 ##### Artículo 388.
 
 El fideicomiso cuyo objeto recaiga en bienes inmuebles, deberá inscribirse en la Sección de la Propiedad del Registro Público del lugar en que los bienes estén ubicados. El fideicomiso surtirá efectos contra tercero, en el caso de este artículo, desde la fecha de inscripción en el Registro.
 
+*Fe de erratas al artículo DOF 10-02-1933. Recorrido (antes artículo 353) DOF 23-05-2000*
+
 ##### Artículo 389.
 
-El fideicomiso cuyo objeto recaiga en bienes muebles, surtirá efectos contra tercero desde la fecha en que se cumplan los requisitos siguientes:
+El fideicomiso cuyo objeto recaiga en bienes muebles, surtirá efectos contra tercero desde la fecha de su inscripción en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio.
 
-I.- Si se tratare de un crédito no negociable o de un derecho personal, desde que el fideicomiso fuere notificado al deudor;
+*Párrafo reformado DOF 13-06-2014*
 
-II.- Si se tratare de un título nominativo, desde que éste se endose a la institución fiduciaria y se haga constar en los registros del emisor, en su caso;
+I. (Se deroga).
 
-III.- Si se tratare de cosa corpórea o de títulos al portador, desde que estén en poder de la institución fiduciaria.
+*Fracción derogada DOF 13-06-2014*
+
+II. (Se deroga).
+
+*Fracción derogada DOF 13-06-2014*
+
+III. (Se deroga).
+
+*Fe de erratas a la fracción DOF 10-02-1933. Derogada DOF 13-06-2014*
+
+*Artículo recorrido (antes artículo 354) DOF 23-05-2000*
 
 ##### Artículo 390.
 
@@ -2756,9 +3238,13 @@ El fideicomisario tendrá, además de los derechos que se le concedan por virtud
 
 Cuando no exista fideicomisario determinado o cuando éste sea incapaz, los derechos a que se refiere el párrafo anterior, corresponderán al que ejerza la patria potestad, al tutor o al Ministerio Público, según el caso.
 
+*Artículo recorrido (antes artículo 355) DOF 23-05-2000*
+
 ##### Artículo 391.
 
 La institución fiduciaria tendrá todos los derechos y acciones que se requieran para el cumplimiento del fideicomiso, salvo las normas o limitaciones que se establezcan al efecto, al constituirse el mismo; estará obligada a cumplir dicho fideicomiso conforme al acto constitutivo; no podrá excusarse o renunciar su encargo sino por causas graves a juicio de un Juez de Primera Instancia del lugar de su domicilio, y deberá obrar siempre como buen padre de familia, siendo responsable de las pérdidas o menoscabos que los bienes sufran por su culpa.
+
+*Fe de erratas al artículo DOF 08-09-1932. Recorrido (antes artículo 356) DOF 23-05-2000*
 
 ##### Artículo 392.
 
@@ -2774,11 +3260,21 @@ IV.- Por haberse cumplido la condición resolutoria a que haya quedado sujeto;
 
 V. Por convenio escrito entre fideicomitente, fiduciario y fideicomisario;
 
+*Fracción reformada DOF 13-06-2003*
+
 VI. Por revocación hecha por el fideicomitente, cuando éste se haya reservado expresamente ese derecho al constituir el fideicomiso;
+
+*Fracción reformada DOF 01-02-2008*
 
 VII. En el caso del párrafo final del artículo 386, y
 
+*Fracción reformada DOF 23-05-2000, 01-02-2008*
+
 VIII. En el caso del artículo 392 Bis.
+
+*Fracción adicionada DOF 01-02-2008*
+
+*Artículo recorrido (antes artículo 357) DOF 23-05-2000*
 
 ##### Artículo 392 Bis.
 
@@ -2788,6 +3284,8 @@ En el supuesto a que se refiere el párrafo anterior, la institución fiduciaria
 
 Para efectos de este artículo se entenderá que se realizaron esfuerzos razonables por parte de la institución fiduciaria cuando se observe el procedimiento de notificación previsto en el artículo 1070 del Código de Comercio.
 
+*Artículo adicionado DOF 01-02-2008*
+
 ##### Artículo 393.
 
 Extinguido el fideicomiso, si no se pactó lo contrario, los bienes o derechos en poder de la institución fiduciaria serán transmitidos al fideicomitente o al fideicomisario, según corresponda. En caso de duda u oposición respecto de dicha transmisión, el juez de primera instancia competente en el lugar del domicilio de la institución fiduciaria, oyendo a las partes, resolverá lo conducente.
@@ -2795,6 +3293,8 @@ Extinguido el fideicomiso, si no se pactó lo contrario, los bienes o derechos e
 Para que la transmisión antes citada surta efectos tratándose de inmuebles o de derechos reales impuestos sobre ellos, bastará que la institución fiduciaria así lo manifieste y que esta declaración se inscriba en el Registro Público de la Propiedad en que aquél hubiere sido inscrito.
 
 Las instituciones fiduciarias indemnizarán a los fideicomitentes por los actos de mala fe o en exceso de las facultades que les corresponda para la ejecución del fideicomiso, por virtud del acto constitutivo o de la ley, que realicen en perjuicio de éstos.
+
+*Fe de erratas al artículo DOF 08-09-1932. Recorrido (antes artículo 358) DOF 23-05-2000. Reformado DOF 13-06-2003*
 
 ##### Artículo 394.
 
@@ -2806,7 +3306,13 @@ II.- Aquellos en los cuales el beneficio se conceda a diversas personas sucesiva
 
 III. Aquéllos cuya duración sea mayor de cincuenta años, cuando se designe como beneficiario a una persona moral que no sea de derecho público o institución de beneficencia. Sin embargo, pueden constituirse con duración mayor de cincuenta años cuando el fin del fideicomiso sea el mantenimiento de museos de carácter científico o artístico que no tengan fines de lucro.
 
+*Fracción reformada DOF 08-05-1945, 13-06-2003*
+
+*Artículo recorrido (antes artículo 359) DOF 23-05-2000*
+
 #### Sección Segunda · Del fideicomiso de garantía
+
+*Sección adicionada DOF 23-05-2000*
 
 ##### Artículo 395.
 
@@ -2822,25 +3328,55 @@ IV. Casas de bolsa;
 
 V. Sociedades Financieras de Objeto Múltiple que cuenten con un registro vigente ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros;
 
+*Fracción reformada DOF 18-07-2006, 20-08-2008, 10-01-2014*
+
 VI. Almacenes generales de depósito;
+
+*Fracción reformada DOF 20-08-2008, 10-01-2014*
 
 VII. Uniones de crédito, y
 
+*Fracción adicionada DOF 20-08-2008. Reformada DOF 10-01-2014*
+
 VIII. Sociedades operadoras de fondos de inversión que cumplan con los requisitos previstos por la Ley de Fondos de Inversión.
 
+*Fracción adicionada DOF 10-01-2014*
+
 Las instituciones fiduciarias a que se refieren las fracciones II a IV y VI de este artículo, se sujetarán a lo que dispone el artículo 85 Bis de la Ley de Instituciones de Crédito.
+
+*Párrafo reformado DOF 18-07-2006*
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
 
 ##### Artículo 396.
 
 Las instituciones y sociedades mencionadas en el artículo anterior, podrán reunir la calidad de fiduciarias y fideicomisarias, tratándose de fideicomisos cuyo fin sea garantizar obligaciones a su favor. En este supuesto, las partes deberán convenir los términos y condiciones para dirimir posibles conflictos de intereses.
 
+Para tal efecto, las partes podrán nombrar un ejecutor o instructor, que podrá ser una institución fiduciaria o cualquier tercero, a fin de que determine el cumplimiento o incumplimiento del contrato para el sólo efecto de iniciar el procedimiento de ejecución y para que cumpla los fines del fideicomiso en lo que respecta a la realización y aplicación de la garantía, a partir de que se considere incumplida la obligación garantizada.
+
+*Párrafo adicionado DOF 13-06-2014*
+
+En todo caso, el ejecutor o instructor ejercitará sus funciones en nombre y representación del fiduciario, pero sin sujetarse a sus instrucciones, obrando en todo momento de conformidad con lo pactado en el contrato y la legislación aplicable y actuando con independencia e imparcialidad respecto de los intereses del fideicomitente y fideicomisario.
+
+*Párrafo adicionado DOF 13-06-2014*
+
+Para efectos del párrafo anterior, se presume independencia e imparcialidad en el cumplimiento del contrato o ejecución de la garantía, cuando los títulos representativos del capital social, así como las compras e ingresos del último ejercicio fiscal o del que esté en curso del ejecutor o instructor, no estén vinculados con alguna de las partes del crédito garantizado en más de un diez por ciento.
+
+*Párrafo adicionado DOF 13-06-2014*
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
+
 ##### Artículo 397.
 
-Cuando así se señale, un mismo fideicomiso podrá ser utilizado para garantizar simultánea o sucesivamente diferentes obligaciones que el fideicomitente contraiga, con un mismo o distintos acreedores, a cuyo efecto cada fideicomisario estará obligado a notificar a la institución fiduciaria que la obligación a su favor ha quedado extinguida, en cuyo caso quedarán sin efectos los derechos que respecto de él se derivan del fideicomiso. La notificación deberá entregarse mediante fedatario público a más tardar a los cinco días hábiles siguientes a la fecha en la que se reciba el pago.
+Cuando así se señale, un mismo fideicomiso podrá ser utilizado para garantizar simultánea o sucesivamente diferentes obligaciones que el fideicomitente contraiga, con un mismo o distintos acreedores, a cuyo efecto se estipularán las reglas y en su caso, las prelaciones aplicables.
 
-A partir del momento en que el fiduciario reciba la mencionada notificación, el fideicomitente podrá designar un nuevo fideicomisario o manifestar a la institución fiduciaria que se ha realizado el fin para el cual fue constituido el fideicomiso.
+En este caso, cada fideicomisario estará obligado a notificar a la institución fiduciaria cuando la obligación a su favor haya quedado extinguida, en cuyo caso quedarán sin efectos los derechos que respecto de él se derivan del fideicomiso. La notificación deberá entregarse mediante fedatario público a más tardar a los cinco días hábiles siguientes a la fecha en la que se reciba el pago.
 
-El fideicomisario que no entregue oportunamente al fiduciario la notificación a que se refiere este artículo, resarcirá al fideicomitente los daños y perjuicios que con ello le ocasione.
+En el caso de fideicomisos con fideicomisarios sucesivos y no simultáneos, a partir del momento en que el fiduciario reciba la mencionada notificación, el fideicomitente podrá designar un nuevo fideicomisario o manifestar a la institución fiduciaria que se ha realizado el fin para el cual fue constituido el fideicomiso.
+
+El fideicomisario que no entregue oportunamente al fiduciario la notificación a que se refiere este artículo, resarcirá a los demás fideicomisarios, en su caso, y al fideicomitente los daños y perjuicios que con ello les ocasione.
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003, 13-06-2014*
 
 ##### Artículo 398.
 
@@ -2850,13 +3386,23 @@ I. Hacer uso de los bienes fideicomitidos, los combinen o empleen en la fabricac
 
 II. Percibir y utilizar los frutos y productos de los bienes fideicomitidos, y
 
-III. Instruir al fiduciario la enajenación de los bienes fideicomitidos, sin responsabilidad para éste, siempre y cuando dicha enajenación sea acorde con el curso normal de las actividades del fideicomitente. En estos casos cesarán los efectos de la garantía fiduciaria y los derechos de persecución con relación a los adquirentes de buena fe, quedando afectos al fideicomiso los bienes o derechos que el fiduciario reciba o tenga derecho a recibir en pago por la enajenación de los referidos bienes.
+III. Instruir al fiduciario la enajenación de los bienes fideicomitidos, sin responsabilidad para éste, siempre y cuando dicha enajenación sea acorde con el contrato de fideicomiso y el curso normal de las actividades del fideicomitente. En estos casos cesarán los efectos de la garantía fiduciaria y los derechos de persecución con relación a los adquirentes de buena fe, quedando afectos al fideicomiso los bienes o derechos que el fiduciario reciba o tenga derecho a recibir en pago por la enajenación de los referidos bienes.
+
+*Fracción reformada DOF 13-06-2014*
 
 El derecho que tengan el o los fideicomitentes para instruir al fiduciario la enajenación de los bienes muebles materia del fideicomiso conforme al párrafo anterior, quedará extinguido desde el momento en que se inicie el procedimiento previsto en el artículo 403 de esta Ley, o bien cuando el fiduciario tenga conocimiento del inicio de cualquiera de los procedimientos de ejecución previstos en el Libro Quinto Título Tercero Bis del Código de Comercio.
 
+Las fracciones I y II referidas anteriormente, serán aplicables sólo a los fideicomisos de garantía en los cuales el deudor o un tercero conserve la posesión sobre los bienes muebles.
+
+*Párrafo adicionado DOF 13-06-2014*
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
+
 ##### Artículo 399.
 
-Para efectos de lo dispuesto en el artículo anterior, las partes deberán convenir desde la constitución del fideicomiso:
+Para efectos de lo dispuesto en el artículo anterior, las partes podrán convenir desde la constitución del fideicomiso:
+
+*Párrafo reformado DOF 13-06-2014*
 
 I. En su caso, los lugares en que deberán encontrarse los bienes fideicomitidos;
 
@@ -2870,7 +3416,11 @@ V. La forma de valuar los bienes fideicomitidos, y
 
 VI. Los términos en los que se acordará la revisión del aforo pactado, en el caso de que el bien o bienes dados en garantía incrementen su valor.
 
-En caso de incumplimiento a los convenios celebrados con base en este artículo, el crédito garantizado por el fideicomiso se tendrá por vencido anticipadamente.
+En caso de incumplimiento a los convenios celebrados con base en este artículo, el crédito garantizado por el fideicomiso se podrá declarar vencido anticipadamente por el acreedor garantizado.
+
+*Párrafo reformado DOF 13-06-2014*
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
 
 ##### Artículo 400.
 
@@ -2882,19 +3432,29 @@ En este caso, serán por cuenta del fideicomitente los gastos necesarios para la
 
 Si los bienes fideicomitidos se pierden o se deterioran, el fideicomisario tiene derecho de exigir al fideicomitente, cuando éste sea el deudor de la obligación garantizada, la transmisión en fideicomiso de otros bienes o el pago de la deuda aun antes del plazo convenido.
 
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
+
 ##### Artículo 401.
 
-Los riesgos de pérdida, daño o deterioro del valor de los bienes fideicomitidos corren por cuenta de la parte que esté en posesión de los mismos, debiendo permitir a las otras partes inspeccionarlos a efecto de verificar, según corresponda, su peso, cantidad y estado de conservación general.
+Salvo pacto en contrario, los riesgos de pérdida, daño o deterioro del valor de los bienes fideicomitidos corren por cuenta de la parte que este en posesión de los mismos, debiendo permitir a las otras partes inspeccionarlos a efecto de verificar, según corresponda, su peso, cantidad y estado de conservación general.
+
+*Párrafo reformado DOF 13-06-2014*
 
 De convenirse así en el contrato, si el valor de mercado de los bienes fideicomitidos disminuye de manera que no baste a cubrir el importe del principal y los accesorios de la deuda que garantizan, el deudor podrá dar bienes adicionales para restituir la proporción original. En caso contrario, el crédito podrá darse por vencido anticipadamente, teniendo el acreedor que notificar al deudor de ello judicialmente o a través de fedatario.
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
 
 ##### Artículo 402.
 
 En caso de incumplimiento de la obligación garantizada, si el depositario se niega a devolver al fiduciario los bienes depositados, su restitución se tramitará de conformidad con lo establecido en el Libro Quinto Título Tercero Bis del Código de Comercio.
 
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
+
 ##### Artículo 403.
 
-En el fideicomiso de garantía, las partes podrán convenir la forma en que la institución fiduciaria procederá a enajenar extrajudicialmente, a título oneroso, los bienes o derechos en fideicomiso, siempre que, cuando menos, se pacte lo siguiente:
+En el fideicomiso de garantía, las partes podrán convenir la forma en que la institución fiduciaria procederá a enajenar extrajudicialmente, a título oneroso, los bienes o derechos en fideicomiso, pudiendo en todo caso pactarse lo siguiente:
+
+*Párrafo reformado DOF 13-06-2014*
 
 I. Que la institución fiduciaria inicie el procedimiento de enajenación extrajudicial del o los bienes o derechos en fideicomiso, cuando reciba del o los fideicomisarios comunicación por escrito en la que soliciten la mencionada enajenación y precisen el incumplimiento de la o las obligaciones garantizadas;
 
@@ -2912,13 +3472,25 @@ a) La enajenación de los bienes en fideicomiso que en su caso deba llevar a cab
 
 b) La tramitación del juicio que se promueva para oponerse a la ejecución del fideicomiso.
 
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
+
 ##### Artículo 404.
 
-Cuando el fideicomiso de garantía se refiera a bienes muebles y su monto sea igual o superior al equivalente en moneda nacional a doscientas cincuenta mil unidades de inversión, las partes deberán ratificar sus firmas ante fedatario público.
+El fideicomiso de garantía debe constar por escrito. Tratándose de fideicomisos cuyo objeto recaiga sobre bienes inmuebles deberá constar en escritura pública e inscribirse en el registro público de la propiedad correspondiente.
+
+Cuando el patrimonio del fideicomiso de garantía recaiga sobre bienes muebles y su monto sea igual o superior al equivalente en moneda nacional a doscientas cincuenta mil Unidades de Inversión, las partes deberán ratificar sus firmas ante fedatario público.
+
+El contrato de fideicomiso de garantía será válido desde su constitución y la nulidad de alguna de sus cláusulas por contravenciones a lo dispuesto en esta ley no producirá la nulidad del fideicomiso.
+
+En caso de declararse nula alguna cláusula del contrato de fideicomiso de garantía, se aplicará supletoriamente lo dispuesto por esta ley.
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003, 13-06-2014*
 
 ##### Artículo 405.
 
 Las acciones de los acreedores garantizados con fideicomiso de garantía prescriben en tres años contados desde la fecha en que se haya dado por vencida la obligación garantizada. En este caso se extinguirá el derecho a pedir su cumplimiento y se revertirá la propiedad de los bienes objeto de la garantía al patrimonio del fideicomitente.
+
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
 
 ##### Artículo 406.
 
@@ -2926,27 +3498,39 @@ Al que teniendo la posesión material de los bienes objeto de garantías otorgad
 
 Si dicho monto excede de esta cantidad, pero no de diez mil, la prisión será de uno a seis años y la multa de cien a ciento ochenta veces el salario mínimo general diario vigente en el Distrito Federal. Si el monto es mayor de diez mil veces de dicho salario, la prisión será de seis a doce años y la multa de ciento veinte veces el salario mínimo general diario vigente en el Distrito Federal.
 
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
+
 ##### Artículo 407.
 
 El fideicomiso de garantía se regirá por lo dispuesto en esta sección y, sólo en lo que no se oponga a ésta, en la sección primera anterior.
 
+*Artículo adicionado DOF 23-05-2000. Reformado DOF 13-06-2003*
+
 ### CAPITULO VI · Del arrendamiento financiero
+
+*Capítulo adicionado DOF 18-07-2006*
 
 ##### Artículo 408.
 
 Por virtud del contrato de arrendamiento financiero, el arrendador se obliga a adquirir determinados bienes y a conceder su uso o goce temporal, a plazo forzoso, al arrendatario, quien podrá ser persona física o moral, obligándose este último a pagar como contraprestación, que se liquidará en pagos parciales, según se convenga, una cantidad en dinero determinada o determinable, que cubra el valor de adquisición de los bienes, las cargas financieras y los demás accesorios que se estipulen, y adoptar al vencimiento del contrato alguna de las opciones terminales a que se refiere el artículo 410 de esta Ley.
 
-Los contratos de arrendamiento financiero deberán otorgarse por escrito y podrán inscribirse en el Registro Público de Comercio, a solicitud de los contratantes, sin perjuicio de hacerlo en otros Registros que las leyes determinen.
+Los contratos de arrendamiento financiero deberán otorgarse por escrito y deberán inscribirse en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio, en el folio electrónico del arrendador y del arrendatario, a fin de que surta efectos contra tercero, sin perjuicio de hacerlo en otros registros especiales que las leyes determinen.
+
+*Párrafo reformado DOF 13-06-2014*
 
 En los contratos de arrendamiento financiero en los que se convenga la entrega de anticipos, por parte del arrendador, a los proveedores, fabricantes o constructores de los bienes objeto de dichos contratos que, por su naturaleza, ubicación o proceso de producción, no sean entregados en el momento en que se pague su precio o parte del mismo, el arrendatario quedará obligado a pagar al arrendador una cantidad de dinero, determinada o determinable, que cubrirá únicamente el valor de las cargas financieras y demás accesorios de los anticipos hasta en tanto se entregue el bien de que se trate, condición que deberá estar contenida en el contrato de arrendamiento financiero.
 
 En el supuesto señalado en el párrafo anterior, las partes deberán convenir el plazo durante el cual se entregarán los anticipos, después del cual el arrendatario deberá cubrirlos en el arrendamiento financiero con las características y condiciones pactadas en el contrato correspondiente.
+
+*Artículo adicionado DOF 23-05-2000. Derogado DOF 13-06-2003. Adicionado DOF 18-07-2006*
 
 ##### Artículo 409.
 
 El o los pagarés que el arrendatario otorgue a la orden del arrendador, por el importe total del precio pactado, por concepto de renta global, no podrán tener un vencimiento posterior al plazo del arrendamiento financiero y deberá hacerse constar en tales documentos su procedencia de manera que queden suficientemente identificados. La transmisión de esos títulos, implica en todo caso el traspaso de la parte correspondiente de los derechos derivados del contrato de arrendamiento financiero y demás derechos accesorios en la proporción que correspondan.
 
 La suscripción y entrega de estos títulos de crédito, no se considerarán como pago de la contraprestación ni de sus parcialidades.
+
+*Artículo adicionado DOF 23-05-2000. Derogado DOF 13-06-2003. Adicionado DOF 18-07-2006*
 
 ##### Artículo 410.
 
@@ -2962,11 +3546,15 @@ Cuando en el contrato se convenga la obligación del arrendatario de adoptar, de
 
 Si en los términos del contrato, queda el arrendatario facultado para adoptar la opción terminal al finalizar el plazo obligatorio, éste deberá notificar por escrito al arrendador, por lo menos con un mes de anticipación al vencimiento del contrato, cuál de ellas va a adoptar, respondiendo de los daños y perjuicios en caso de omisión, con independencia de lo que se convenga en el contrato.
 
+*Artículo adicionado DOF 23-05-2000. Derogado DOF 13-06-2003. Adicionado DOF 18-07-2006*
+
 ##### Artículo 411.
 
 En los contratos de arrendamiento financiero en los que se estipule que la entrega material de los bienes sea realizada directamente al arrendatario por el proveedor, fabricante o constructor, en las fechas previamente convenidas, el arrendatario quedará obligado a entregar constancia del recibo de los bienes al arrendador. Salvo pacto en contrario, la obligación de pago del precio del arrendamiento financiero se inicia a partir de la firma del contrato, aunque no se haya hecho la entrega material de los bienes objeto del arrendamiento.
 
 En los casos a que se refiere el párrafo anterior, el arrendador estará obligado a entregar al arrendatario los documentos necesarios para que el mismo quede legitimado a fin de recibirlos directamente.
+
+*Artículo adicionado DOF 23-05-2000. Derogado DOF 13-06-2003. Adicionado DOF 18-07-2006*
 
 ##### Artículo 412.
 
@@ -2974,11 +3562,15 @@ Salvo pacto en contrario, el arrendatario queda obligado a conservar los bienes 
 
 El arrendatario debe servirse de los bienes solamente para el uso convenido, o conforme a la naturaleza y destino de éstos, siendo responsable de los daños que los bienes sufran por darles otro uso, o por su culpa o negligencia, o la de sus empleados o terceros.
 
+*Artículo adicionado DOF 23-05-2000. Derogado DOF 13-06-2003. Adicionado DOF 18-07-2006*
+
 ##### Artículo 413.
 
 El arrendatario deberá seleccionar al proveedor, fabricante o constructor y autorizar los términos, condiciones y especificaciones que se contengan en el pedido u orden de compra, identificando y describiendo los bienes que se adquirirán.
 
 El arrendador no será responsable de error u omisión en la descripción de los bienes objeto del arrendamiento contenida en el pedido u orden de compra. La firma del arrendatario en cualquiera de estos últimos documentos implica, entre otros efectos, su conformidad con los términos, condiciones, descripciones y especificaciones, ahí consignados.
+
+*Artículo adicionado DOF 23-05-2000. Derogado DOF 13-06-2003. Adicionado DOF 18-07-2006*
 
 ##### Artículo 414.
 
@@ -2992,6 +3584,8 @@ III. En general, todos los riesgos, pérdidas, robos, destrucción o daños que 
 
 Frente a las eventualidades señaladas, el arrendatario no queda liberado del pago de la contraprestación, debiendo cubrirla en la forma que se haya convenido en el contrato.
 
+*Artículo adicionado DOF 23-05-2000. Derogado DOF 13-06-2003. Adicionado DOF 18-07-2006*
+
 ##### Artículo 415.
 
 En casos de despojo, perturbación o cualquier acto de terceros, que afecten el uso o goce de los bienes, la posesión de los mismos o bien la propiedad, el arrendatario tiene la obligación de realizar las acciones que correspondan para recuperar los bienes o defender el uso o goce de los mismos. Igualmente, estará obligado a ejercer las defensas que procedan, cuando medie cualquier acto o resolución de autoridad que afecten la posesión o la propiedad de los bienes.
@@ -3000,9 +3594,13 @@ Cuando ocurra alguna de estas eventualidades, el arrendatario debe notificarlo a
 
 El arrendador estará obligado a legitimar al arrendatario para que, en su representación, ejercite dichas acciones o defensas, cuando ello sea necesario.
 
+*Artículo adicionado DOF 18-07-2006*
+
 ##### Artículo 416.
 
 El arrendador, para solicitar en la demanda o durante el juicio la posesión de los bienes objeto del arrendamiento financiero, al ser exigible la obligación y ante el incumplimiento del arrendatario de las obligaciones consignadas en el contrato, deberá acompañar el contrato correspondiente debidamente ratificado ante fedatario público. Una vez decretada la posesión, el arrendador quedará facultado a dar los bienes en arrendamiento financiero a terceros o a disponer de ellos.
+
+*Artículo adicionado DOF 18-07-2006*
 
 ##### Artículo 417.
 
@@ -3010,11 +3608,17 @@ El seguro o garantía que llegue a convenirse en los contratos de arrendamiento 
 
 En los contratos o documentos en que conste la garantía deberá señalarse como primer beneficiario al arrendador, a fin de que, en primer lugar, con el importe de las indemnizaciones se cubran a éste los saldos pendientes de la obligación concertada, o las responsabilidades a que queda obligado como propietario de los bienes. Si el importe de las indemnizaciones pagadas no cubre dichos saldos o responsabilidades, el arrendatario queda obligado al pago de los faltantes.
 
+*Artículo adicionado DOF 18-07-2006*
+
 ##### Artículo 418.
 
 Las primas y los gastos del seguro serán por cuenta del arrendatario, incluso cuando el arrendador proceda a contratar los seguros a que se refiere el artículo anterior si es el caso de que habiéndose pactado que el seguro deba ser contratado por el arrendatario y éste no realizara la contratación respectiva dentro de los tres días siguientes a la celebración del contrato. Lo anterior, sin perjuicio de que contractualmente esta omisión se considere como causa de rescisión.
 
+*Artículo adicionado DOF 18-07-2006*
+
 ### CAPITULO VII · Del Factoraje Financiero
+
+*Capítulo adicionado DOF 18-07-2006*
 
 ##### Artículo 419.
 
@@ -3030,19 +3634,27 @@ Todos los derechos de crédito pueden transmitirse a través de un contrato de f
 
 El deudor no puede alegar contra el tercero que el derecho no podía transmitirse mediante contrato de factoraje financiero porque así se había convenido, cuando ese convenio no conste en el título constitutivo del derecho.
 
+*Artículo adicionado DOF 18-07-2006*
+
 ##### Artículo 420.
 
 El factorante, al celebrar contratos con los deudores de derechos de crédito constituidos a favor de proveedores de bienes o servicios, deberá estipular expresamente si se comprometerá a adquirir dichos derechos de crédito para el caso de aceptación de los propios proveedores.
 
 Tratándose de contratos de promesa de factoraje en los que se convenga la entrega de anticipos al factorado, éste quedará obligado a pagar una cantidad de dinero determinada o determinable que cubrirá conforme a lo estipulado el valor de las cargas financieras y demás accesorios de los anticipos hasta en tanto se transmitan los derechos de crédito mediante la celebración del contrato de factoraje correspondiente, condición que deberá estar contenida en el contrato de promesa de factoraje financiero. En este supuesto deberá convenirse el plazo de los anticipos, después del cual deberá otorgarse el contrato de factoraje financiero.
 
+*Artículo adicionado DOF 18-07-2006*
+
 ##### Artículo 421.
 
 Podrán ser objeto del contrato de factoraje, cualquier derecho de crédito denominado en moneda nacional o extranjera que se encuentren documentados en facturas, contrarrecibos, títulos de crédito, mensajes de datos, en los términos del Título Segundo del Libro Segundo del Código de Comercio, o cualesquier otros documentos, que acrediten la existencia de dichos derechos de crédito.
 
+*Artículo adicionado DOF 18-07-2006*
+
 ##### Artículo 422.
 
 Los factorados estarán obligados a garantizar la existencia y legitimidad de los derechos de crédito objeto del contrato de factoraje, al tiempo de celebrarse el contrato, independientemente de la obligación que, en su caso, contraigan conforme a la fracción II del artículo 419 de esta Ley.
+
+*Artículo adicionado DOF 18-07-2006*
 
 ##### Artículo 423.
 
@@ -3050,19 +3662,27 @@ Los factorados responderán del detrimento en el valor de los derechos de crédi
 
 Si del acto jurídico que dio origen a los derechos de crédito se derivan devoluciones, los bienes correspondientes se entregarán al factorado, salvo pacto en contrario.
 
+*Artículo adicionado DOF 18-07-2006*
+
 ##### Artículo 424.
 
 Solo en las operaciones de factoraje financiero a que se refiere la fracción II del artículo 419, los factorados podrán suscribir a la orden del factorante pagarés por el importe total de las obligaciones asumidas por ellos, en cuyo caso deberá hacerse constar en dichos títulos de crédito su procedencia, de manera que queden suficientemente identificados. Estos pagarés serán no negociables, en los términos del artículo 25 de esta Ley.
 
 La suscripción y entrega de dichos pagarés no se considerará como pago o dación en pago de las obligaciones que documenten.
 
+*Artículo adicionado DOF 18-07-2006*
+
 ##### Artículo 425.
 
 En las operaciones de factoraje financiero la transmisión de los derechos de crédito comprende la de todos los derechos accesorios a ellos, salvo pacto en contrario.
 
+*Artículo adicionado DOF 18-07-2006*
+
 ##### Artículo 426.
 
-La transmisión de derechos de crédito efectuada con motivo de una operación de factoraje financiero surtirá efectos frente a terceros, desde la fecha en que haya sido notificada al deudor, en los términos del artículo 427 de esta Ley, sin necesidad de que sea inscrita en registro alguno u otorgada ante fedatario público.
+La transmisión de derechos de crédito efectuada con motivo de una operación de factoraje financiero surtirá efectos frente a terceros, desde la fecha en que haya sido inscrita en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio, sin necesidad de que sea otorgada ante fedatario público.
+
+*Artículo adicionado DOF 18-07-2006. Reformado DOF 13-06-2014*
 
 ##### Artículo 427.
 
@@ -3088,13 +3708,19 @@ En el caso de sociedades en liquidación en las que se hubieran nombrado varios 
 
 La notificación se tendrá por realizada al expedir los deudores contraseña, sello o cualquier signo inequívoco de haberla recibido por alguno de los medios señalados en el presente artículo. Asimismo, el pago que haga el deudor o su representante legal al factorante surtirá efectos de notificación en forma desde la fecha en que se realice dicho pago.
 
+*Artículo adicionado DOF 18-07-2006*
+
 ##### Artículo 428.
 
 El deudor de los derechos de crédito transmitidos por virtud de una operación de factoraje financiero, mientras no se le haya notificado la transmisión en términos del artículo anterior, libera su obligación con el pago que haga al acreedor original o a quien haya sido el último titular de esos derechos previo al factorante, según corresponda. Por el contrario, el pago que, después de recibir la notificación a que se refiere el artículo precedente, realice el deudor al acreedor original o a quien haya sido el último titular de esos derechos previo al factorante, según corresponda, no lo libera ante el propio factorante.
 
+*Artículo adicionado DOF 18-07-2006*
+
 ##### Artículo 429.
 
 Cuando el factorante dé en prenda los derechos adquiridos, dicha garantía se constituirá y formalizará mediante contrato que deberá constar por escrito, pudiendo designarse un depositario de los documentos correspondientes.
+
+*Artículo adicionado DOF 18-07-2006*
 
 ##### Artículo 430.
 
@@ -3104,13 +3730,21 @@ En el contrato de factoraje financiero deberá incluirse la relación de los der
 
 En caso de que el factorante convenga con el factorado que podrá realizar visitas de inspección en los locales de las personas a quienes se les haya conferido la facultad de realizar la administración y cobranza de los derechos de crédito objeto del factoraje financiero, se deberá establecer expresamente en el contrato los aspectos que, respecto de los derechos de crédito, serán objeto de las visitas y la obligación de levantar actas en las que se asiente el procedimiento utilizado y los resultados de las mismas. Será nula cualquier visita hecha en violación a lo pactado conforme a lo anteriormente dispuesto por este párrafo.
 
+*Artículo adicionado DOF 18-07-2006*
+
 ##### Artículo 431.
 
 El factorante podrá transmitir a un tercero los derechos de crédito objeto del correspondiente contrato de factoraje financiero que haya celebrado, para lo cual deberá sujetarse a las disposiciones aplicables a dicha transmisión.
 
+*Artículo adicionado DOF 18-07-2006*
+
 ## Título Tercero · De los Delitos en Materia de Títulos y Operaciones de Crédito
 
+*Título adicionado DOF 26-06-2008*
+
 ### Capítulo Único
+
+*Capítulo adicionado DOF 26-06-2008*
 
 ##### Artículo 432.
 
@@ -3130,9 +3764,13 @@ VI. Posea, adquiera, utilice o comercialice equipos o medios electrónicos, ópt
 
 Para los efectos de este capítulo, se entiende por tarjetas de servicio, las tarjetas emitidas por empresas comerciales no bancarias, a través de un contrato que regula el uso de las mismas, por medio de las cuales, los usuarios de las tarjetas, ya sean personas físicas o morales, pueden utilizarlas para la adquisición de bienes o servicios en establecimientos afiliados a la empresa comercial emisora.
 
+*Artículo adicionado DOF 26-06-2008*
+
 ##### Artículo 433.
 
 Se sancionará con prisión de tres a nueve años y multa de treinta mil a trescientos mil días multa, al que posea, adquiera, utilice, comercialice o distribuya, cualquiera de los objetos a que se refiere el párrafo primero del artículo 432 de esta Ley, a sabiendas de que estén alterados o falsificados.
+
+*Artículo adicionado DOF 26-06-2008*
 
 ##### Artículo 434.
 
@@ -3142,9 +3780,13 @@ I. Acceda a los equipos o medios electrónicos, ópticos o de cualquier otra tec
 
 II. Altere o modifique el mecanismo de funcionamiento de los equipos o medios electrónicos, ópticos o de cualquier otra tecnología para la disposición de efectivo que son utilizados por los usuarios del sistema de pagos, para obtener recursos económicos, información confidencial o reservada.
 
+*Artículo adicionado DOF 26-06-2008*
+
 ##### Artículo 435.
 
 La pena que corresponda podrá aumentarse hasta en una mitad más, si quien realice cualquiera de las conductas señaladas en los artículos 432, 433 y 434 de esta Ley, tiene el carácter de consejero, funcionario, empleado o prestador de servicios de cualquier entidad emisora de los objetos a que se refiere el párrafo primero del citado artículo 432, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos, o sea propietario o empleado de cualquier entidad mercantil que a cambio de bienes o servicios reciba como contraprestación el pago a través de cualquiera de los instrumentos mencionados en el artículo 432.
+
+*Artículo adicionado DOF 26-06-2008*
 
 ## TRANSITORIOS
 
@@ -3179,6 +3821,8 @@ Sufragio Efectivo. No Reelección.
 México, D. F., a 26 de agosto de 1932.- El Secretario de Gobernación, Juan José Ríos.- Rúbrica.
 
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
+
+A partir de 1996
 
 ### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Procedimientos Civiles para el Distrito Federal; de la Ley Orgánica de Nacional Financiera; del Código de Comercio; de la Ley General de Títulos y Operaciones de Crédito; y del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
 
@@ -3637,3 +4281,23 @@ XIV. Las disposiciones de carácter general a que se refieren los artículos 86 
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Comercio, de la Ley General de Sociedades Mercantiles, de la Ley de Fondos de Inversión, de la Ley General de Títulos y Operaciones de Crédito, de la Ley Federal de Derechos y de la Ley Orgánica de la Administración Pública Federal, en relación con la Miscelánea en Materia Mercantil.
+
+*Publicado en el Diario Oficial de la Federación el 13 de junio de 2014*
+
+**Artículo Cuarto.** Se reforman los artículos 32, último párrafo; 212, párrafo tercero; 326, fracción IV, y actual segundo párrafo, pasando a ser tercer párrafo; 344; 347, párrafo primero; 349; 351, párrafo primero; 354; 358, párrafo tercero; 360; 363; 365, párrafo primero; 367, párrafo primero; 369; 371, párrafo primero; 373; 374, fracciones I, II y párrafo tercero; 376; 389; 397; 398, fracción III; 399, párrafos primero y último; 401, párrafo primero; 403, párrafo primero; 404; 408, párrafo segundo; 426; se adicionan los artículos 326, con un párrafo segundo, pasando el actual segundo a ser tercer párrafo; 355, con un último párrafo; 363, con un último párrafo; 365, con los párrafos segundo y tercero; 367 Bis; 373, fracciones I y II del párrafo primero y un párrafo segundo; 374, con un último párrafo y los incisos a) y b); 382, párrafos quinto y sexto; 396, con los párrafos segundo, tercero y cuarto; 397, con un segundo párrafo, recorriéndose los actuales párrafos segundo y tercero en el orden subsecuente; 398, con un último párrafo; 404, con los párrafos segundo, tercero y cuarto; y se derogan los artículos 353, párrafo segundo; 357; 365, párrafo segundo; 371, fracciones I a III, 377; 389, fracciones I a III de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
+
+**Tercero.** Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
+
+México, D.F., a 29 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
