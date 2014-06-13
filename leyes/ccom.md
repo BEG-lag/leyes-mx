@@ -3,12 +3,12 @@ title: Código de Comercio
 abbreviation: CCom
 slug: ccom
 published_dof: 1889-10-07
-last_reform_dof: 2014-01-10
-articles: 1614
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
-archived: https://web.archive.org/web/20140408221902/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc
-source_sha256: 7c993b9db225ab048c0a8f7f8bb5d9c6b7dc6f16c5e7650b34aa413d353b6c87
-retrieved: 2014-04-08
+last_reform_dof: 2014-06-13
+articles: 1616
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/3_130614.doc
+archived: https://web.archive.org/web/20140701192932/http://www.diputados.gob.mx/LeyesBiblio/doc/3_130614.doc
+source_sha256: e8f024d5e4bc9a3e8df0b2d31e2d476d307f785faf6f9bc9741233781499a32c
+retrieved: 2014-07-01
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccom.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código publicado en el Diario Oficial de la Federación del 7 de octubre 
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 10-01-2014
+Última reforma publicada DOF 13-06-2014
 
 El Presidente de la República se ha servido dirigirme el decreto que sigue:
 
@@ -132,7 +132,7 @@ En lo que se refiera a su capacidad para contratar, se sujetarán a las disposic
 
 Todos los comerciantes, por el hecho de serlo, están obligados.
 
-I.- A la publicación, por medio de la prensa, de la calidad mercantil; con sus circunstancias esenciales, y en su oportunidad, de las modificaciones que se adopten;
+I. (Se deroga).
 
 II.- A la inscripción en el Registro público de comercio, de los documentos cuyo tenor y autenticidad deben hacerse notorios;
 
@@ -144,13 +144,7 @@ IV.- A la conservación de la correspondencia que tenga relación con el giro de
 
 ###### Artículo 17.
 
-Los comerciantes tienen el deber.
-
-I.- De participar la apertura del establecimiento o despacho de su propiedad, por los medios de comunicación que sean idóneos, en las plazas en que tengan domicilio, sucursales, relaciones o corresponsables mercantiles; esta información dará a conocer el nombre del establecimiento o despacho su ubicación y objeto; si hay persona encargada de su administración, su nombre y firma; si hay compañía, su naturaleza, la indicación del gerente o gerentes, la razón social ó denominación y la persona ó personas autorizadas para usar una ú otra, y la designación de las casas, sucursales o agencias, si las hubiere;
-
-II.- De dar parte, en igual forma, de las modificaciones que sufra cualquiera de las circunstancias antes referidas.
-
-III.- (Se deroga).
+(Se deroga).
 
 #### CAPITULO II · Del registro de comercio
 
@@ -168,17 +162,11 @@ La inscripción o matrícula en el registro mercantil será potestativa para los
 
 ###### Artículo 20.
 
-El Registro Público de Comercio operará con un programa informático y con una base de datos central interconectada con las bases de datos de sus oficinas ubicadas en las entidades federativas. Las bases de datos contarán con al menos un respaldo electrónico.
-
-Mediante el programa informático se realizará la captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información registral.
-
-Las bases de datos del Registro Público de Comercio en las entidades federativas se integrarán con el conjunto de la información incorporada por medio del programa informático de cada inscripción o anotación de los actos mercantiles inscribibles, y la base de datos central con la información que los responsables del Registro incorporen en las bases de datos ubicadas en las entidades federativas.
+El Registro Público de Comercio operará con un programa informático mediante el cual se realizará la captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información registral.
 
 El programa informático será establecido por la Secretaría. Dicho programa y las bases de datos del Registro Público de Comercio, serán propiedad del Gobierno Federal.
 
-En caso de existir discrepancia o presunción de alteración de la información del Registro Público de Comercio contenida en la base de datos de alguna entidad federativa, o sobre cualquier otro respaldo que hubiere, prevalecerá la información registrada en la base de datos central, salvo prueba en contrario.
-
-La Secretaría establecerá los formatos, que serán de libre reproducción, así como los datos, requisitos y demás información necesaria para llevar a cabo las inscripciones, anotaciones y avisos a que se refiere el presente Capítulo. Lo anterior deberá publicarse en el Diario Oficial de la Federación.
+La Secretaría establecerá los formatos, que serán de libre reproducción, así como los datos, requisitos y demás información necesaria para llevar a cabo los asientos a que se refiere el presente Capítulo, previo pago de los derechos establecidos por las entidades federativas. Lo anterior deberá publicarse en el Diario Oficial de la Federación.
 
 ###### Artículo 20 bis.
 
@@ -240,7 +228,7 @@ XVIII.- (Se deroga).
 
 XIX.- Las autorizaciones de los corredores públicos para registrar información;
 
-XX.- Las garantías mobiliarias que hubiere otorgado, así como los actos jurídicos por los que constituya un privilegio especial o derecho de retención sobre bienes muebles a favor de terceros, en los términos de lo dispuesto por los artículos 32 bis 1 a 32 bis 9 del presente Capítulo.
+XX. Las garantías mobiliarias que hubiere otorgado, así como cualesquiera otros actos jurídicos por los que constituya un privilegio especial o derecho de retención sobre bienes muebles a favor de terceros, en los términos de lo dispuesto por los artículos 32 bis 1 a 32 bis 9 del presente Capítulo, información que deberá residir en la base de datos nacional a que se refiere la Sección Única del presente Capítulo, de conformidad con las reglas de matriculación establecidas en el Reglamento del Registro Público de Comercio.
 
 ###### Artículo 21 bis.
 
@@ -268,9 +256,9 @@ La prelación entre derechos sobre dos o más actos que se refieran a un mismo f
 
 ###### Artículo 22.
 
-Cuando, conforme a la ley, algún acto o contrato deba inscribirse en el Registro Público de la Propiedad o en registros especiales, su inscripción en dichos registros será bastante para que surtan los efectos correspondientes del derecho mercantil, siempre y cuando en el Registro Público de Comercio se tome razón de dicha inscripción y de las modificaciones a la misma.
+Cuando, conforme a la ley, algún acto o contrato deba inscribirse en el Registro Público de la Propiedad o en registros especiales para surtir efectos contra terceros, su inscripción en dichos registros será bastante.
 
-El registro de las garantías mobiliarias deberá sujetarse a lo establecido en la Sección Única del presente Capítulo.
+Las dependencias y organismos responsables de los registros especiales deberán coordinarse con la Secretaría de Economía para que las garantías mobiliarias y gravámenes sobre bienes muebles que hayan sido inscritos en dichos registros especiales puedan también ser consultados a través del Registro Único de Garantías Mobiliarias, en los términos que establezca el Reglamento del Registro Público de Comercio.
 
 ###### Artículo 23.
 
@@ -300,7 +288,7 @@ Las sentencias dictadas en el extranjero sólo se registrarán cuando medie orde
 
 ###### Artículo 27.
 
-La falta de registro de los actos cuya inscripción sea obligatoria, hará que éstos sólo produzcan efectos jurídicos entre los que lo celebren, y no podrán producir perjuicio a tercero, el cual sí podrá aprovecharse de ellos en lo que le fueren favorables.
+Los actos que deban inscribirse de acuerdo con las normas que los regulan, y que no se registren sólo producirán efectos jurídicos entre los que lo celebren.
 
 ###### Artículo 28.
 
@@ -308,7 +296,7 @@ Si el comerciante omitiere hacer la anotación o inscripción de los documentos 
 
 ###### Artículo 29.
 
-Los documentos inscritos producirán su efecto legal desde la fecha de su inscripción, sin que puedan invalidarlos otros anteriores o posteriores no registrados.
+Los actos que deban inscribirse conforme a las normas que los regulan producirán efectos jurídicos contra terceros desde la fecha y hora de su inscripción, sin que puedan afectar su prelación otros actos que también deban inscribirse, ya sean anteriores o posteriores no registrados.
 
 ###### Artículo 30.
 
@@ -370,15 +358,39 @@ El procedimiento para efectuar la rectificación en la base de datos lo determin
 
 ###### Artículo 32 bis 1.
 
-Las garantías mobiliarias que se constituyan con apego a éste u otros ordenamientos jurídicos del orden mercantil, su modificación, transmisión o cancelación, así como cualquier acto jurídico que se realice con o respecto de ellas, serán susceptibles de inscripción en los términos de esta Sección.
+Las garantías mobiliarias que se constituyan con apego a éste u otros ordenamientos jurídicos del orden mercantil, su modificación, transmisión o cancelación, así como cualquier acto jurídico que se realice con o respecto de ellas y, en general, cualquier gravamen o afectación sobre bienes muebles que sirva como garantía de manera directa o indirecta, deberán inscribirse en los términos de esta Sección para que surtan efectos jurídicos contra terceros, salvo que de acuerdo a las leyes que los regulan, los mismos deban inscribirse en algún registro especial.
 
-En las garantías mobiliarias quedan comprendidos, sin perjuicio de aquellos que por su naturaleza mantengan ese carácter, los actos jurídicos mercantiles por medio de los cuales se constituya, modifique, transmita o cancele un privilegio especial o derecho de retención sobre bienes muebles en favor de terceros.
+A. En las garantías mobiliarias quedan comprendidos, sin perjuicio de aquéllos que por su naturaleza mantengan ese carácter, los siguientes:
 
-Se presumen mercantiles todas las garantías mobiliarias otorgadas en favor de un comerciante, las cuales únicamente estarán sujetas a inscripción en los términos de esta Sección.
+I. La prenda sin transmisión de posesión;
+
+II. La prenda ordinaria mercantil cuando el acreedor prendario no mantenga la posesión sobre los bienes;
+
+III. La prenda en los créditos refaccionarios o de habilitación o avío;
+
+IV. La hipoteca industrial por lo que hace a los bienes muebles sobre los que recae;
+
+B. Los siguientes actos deberán inscribirse en esta Sección:
+
+I. Los actos jurídicos mercantiles por medio de los cuales se constituya, modifique, transmita o cancele un privilegio especial o derecho de retención sobre bienes muebles en favor de terceros en los que el acreedor no mantenga la posesión sobre los bienes muebles;
+
+II. El arrendamiento financiero, por lo que hace a los bienes muebles sobre los que recae;
+
+III. El factoraje financiero;
+
+IV. Las cláusulas rescisoria y de reserva de dominio en compraventas mercantiles, cuando el comprador no mantenga la posesión de los bienes muebles;
+
+V. El fideicomiso de garantía en cuyo patrimonio existan bienes muebles;
+
+VI. Las resoluciones judiciales o administrativas que recaigan sobre bienes muebles, incluyendo los embargos sobre bienes muebles; y
+
+VII. Cualesquiera otros actos, gravámenes o afectaciones sobre bienes muebles de naturaleza análoga a los expresados en las fracciones anteriores, que sirvan directa o indirectamente como garantías, en los que el acreedor no mantenga la posesión sobre los mismos.
+
+Se presumen mercantiles, y por tanto sujetas a inscripción en los términos de esta Sección, todas las garantías mobiliarias y demás actos contenidos en el apartado B anterior que sean otorgadas en favor de un comerciante o que sirvan para garantizar una obligación de naturaleza mercantil.
 
 ###### Artículo 32 bis 2.
 
-Se constituye el Registro Único de Garantías Mobiliarias, en adelante el Registro, como una sección del Registro Público de Comercio, en donde se inscribirán las garantías a que se refiere el artículo anterior, con lo que se dará publicidad de las mismas para los efectos que establezcan éste u otros ordenamientos jurídicos. Esta sección se sujetará a las bases especiales de operación a que se refieren los artículos siguientes.
+Se constituye el Registro Único de Garantías Mobiliarias, en adelante el Registro, como una sección del Registro Público de Comercio, en donde se inscribirán las garantías a que se refiere el artículo anterior. Esta Sección se sujetará a las bases especiales de operación a que se refieren los artículos siguientes.
 
 ###### Artículo 32 bis 3.
 
@@ -388,7 +400,9 @@ El Registro estará exclusivamente a cargo de la Secretaría; su operación se l
 
 La inscripción de las garantías mobiliarias, su modificación, transmisión o cancelación, así como la de cualquier acto vinculado con ellas, se realizará de manera inmediata a su recepción, previo pago de los derechos correspondientes, y en el folio de su otorgante.
 
-Salvo prueba en contrario, se presume que los otorgantes de garantías mobiliarias autorizan la inscripción de las mismas en el Registro.
+Salvo prueba en contrario, se presume que los otorgantes de garantías mobiliarias autorizan la inscripción de las mismas en el Registro, así como su modificación, rectificación, transmisión, renovación, cancelación o algún aviso preventivo o anotación en relación con ellas o con sus bienes muebles.
+
+Será responsabilidad de quien inscribe realizar los asientos en el folio electrónico del Registro, correspondiente al otorgante de la garantía mobiliaria, de conformidad con lo establecido en el Reglamento del Registro Público de Comercio.
 
 El procedimiento para la inscripción de garantías mobiliarias en el Registro se llevará de acuerdo a las bases siguientes:
 
@@ -398,13 +412,17 @@ II.- Las inscripciones, anotaciones o cualquier acto vinculado con ellas deberá
 
 III.- El Registro generará la boleta que corresponda, misma que se entregará de manera digital a su solicitante, y
 
-IV.- Serán inscribibles, en su caso y de acuerdo a lo establecido en el Reglamento, todos los documentos mercantiles a través de los cuales se constituya, modifique, transmita o cancele una garantía mobiliaria.
+IV. (Se deroga).
 
 Se encuentran facultados para llevar a cabo inscripciones o anotaciones en el Registro los fedatarios públicos, los jueces y las oficinas habilitadas de la Secretaría en las entidades federativas, así como las entidades financieras, los servidores públicos y otras personas que para tales fines autorice la Secretaría.
 
 Los acreedores, instancias de autoridad o personas facultadas que realicen inscripciones o anotaciones sobre garantías mobiliarias, serán responsables para todos los efectos legales de la existencia y veracidad de la información y documentación relativa a las inscripciones y anotaciones que lleven a cabo. Si una institución financiera o persona moral autorizada realiza la inscripción o anotación y es parte del contrato como acreedor prendario, fideicomisario o fiduciario, será responsable, independientemente del empleado o funcionario que realiza la inscripción.
 
-Será responsabilidad de quien realice una inscripción o anotación, llevar a cabo la rectificación de los errores materiales o de concepto que las mismas contengan. Se entiende que se comete un error de concepto, cuando al expresar en la inscripción o anotación alguno de los contenidos convencionales o formales de la garantía o acto objeto a registro, se altere o varíe su sentido en virtud de un juicio equivocado de quien la lleve a cabo. Todos los demás errores se considerarán materiales.
+Será responsabilidad de quien realice una inscripción o anotación, llevar a cabo la rectificación de los errores que las mismas contengan.
+
+Asimismo, será responsabilidad de quien realiza una inscripción, realizar la cancelación o modificación de los mismos, si se hubiere extinguido la garantía mobiliaria o si la garantía hubiere sido modificada.
+
+Si quien aparece como acreedor de una inscripción no realiza la cancelación o modificación referida en el párrafo anterior, el deudor podrá solicitar a un juez la cancelación o modificación correspondiente, para lo cual el juez deberá emitir resolución en un plazo de 10 días hábiles a partir del cierre de instrucción ordenando la cancelación, modificación o la no procedencia de la petición, según corresponda, pudiendo el acreedor oponer la única excepción de falta de pago.
 
 Los acreedores, instancias de autoridad o personas facultadas para llevar a cabo inscripciones o anotaciones en el Registro, responden por los daños y perjuicios que se pudieren originar por tal motivo. El afectado podrá optar por reclamar los daños y perjuicios que se le ocasionen mediante su cálculo y acreditación o por sanción legal. La sanción legal se calculará y exigirá en un monto equivalente a 1,000 veces el salario mínimo diario general vigente en el Distrito Federal. Lo anterior, sin perjuicio de las sanciones penales o administrativas a que hubiere lugar.
 
@@ -414,9 +432,9 @@ Salvo que la vigencia de la inscripción o anotación se establezca en la forma 
 
 En los términos que establezca el Reglamento respectivo, de igual forma serán susceptibles de anotarse en el Registro, los avisos preventivos; las resoluciones judiciales o administrativas, así como cualquier acto que por su naturaleza constituya, modifique, transmita o cancele una garantía mobiliaria.
 
-###### Artículo 32 bis 6.
+###### Artículo 32 Bis 6.
 
-Las garantías mobiliarias inscritas de conformidad con la presente Sección, surtirán efectos frente a terceros de conformidad con las leyes respectivas.
+Las garantías mobiliarias inscritas de conformidad con la presente Sección, surtirán efectos contra terceros y tendrán prelación sobre cualesquiera otras posteriores o anteriores no inscritas.
 
 ###### Artículo 32 bis 7.
 
@@ -531,6 +549,12 @@ Para efectos de la conservación o presentación de originales, en el caso de me
 ###### Artículo 50.
 
 Los tribunales pueden decretar de oficio, o a instancia de parte legítima, que se presenten en juicio las cartas que tengan relación con el asunto del litigio, así como que se compulsen de las respectivas copias las que se hayan escrito por los litigantes, fijándose de antemano, con precisión, por la parte que las solicite, las que hayan de ser copiadas o reproducidas.
+
+###### Artículo 50 Bis.
+
+Las publicaciones que deban realizarse conforme a las leyes mercantiles se realizarán a través del sistema electrónico que para tal propósito establezca la Secretaría de Economía, y surtirán efectos a partir del día siguiente de su publicación.
+
+Lo anterior, sin perjuicio de las publicaciones que deban realizarse de conformidad con otras disposiciones o leyes especiales.
 
 ### TITULO TERCERO · De los Corredores
 
@@ -2336,7 +2360,7 @@ Los créditos mercantiles que no sean al portador ni endosables, se transferirá
 
 ###### Artículo 390.
 
-La cesión producirá sus efectos legales con respecto al deudor, desde que le sea notificada ante dos testigos.
+La cesión producirá sus efectos legales con respecto al deudor, desde que le sea notificada ante dos testigos y contra terceros a partir de su inscripción en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio.
 
 ###### Artículo 391.
 
@@ -3408,7 +3432,7 @@ Si un jefe de estación, un conductor de vehículo terrestre o un patrón de emb
 
 Los Empresarios de transportes están obligados:
 
-I.- A publicar en el periódico oficial del Estado, o del Distrito Federal, y circular sus reglamentos, fijándolos en los parajes públicos, en la parte más visible de sus oficinas y en cada uno de los vehículos destinados a la conducción, poniendo los artículos relativos al reverso de los conocimientos de carga;
+I. A publicar en el sistema electrónico establecido por la Secretaría de Economía, y circular sus reglamentos, fijándolos en los parajes públicos, en la parte más visible de sus oficinas y en cada uno de los vehículos destinados a la conducción, poniendo los artículos relativos al reverso de los conocimientos de carga;
 
 II.- A dar a los pasajeros billetes de asiento, y a los cargadores la carta de porte á que se refiere el art. 58l;
 
@@ -5533,6 +5557,10 @@ IV. Además de lo señalado en la fracción III, con la demanda y contestación 
 V. Copia simple o fotostática siempre que sean legibles a simple vista, tanto del escrito de demanda como de los demás documentos referidos, incluyendo la de los que se exhiban como prueba según los párrafos precedentes para correr traslado a la contraria.
 
 Lo dispuesto en la fracción anterior, se observará también respecto de los escritos en que se oponga la excepción de compensación o se promueva reconvención o algún incidente.
+
+###### Artículo 1061 Bis.
+
+En todos los juicios mercantiles se reconoce como prueba la información generada o comunicada que conste en medios digitales, ópticos o en cualquier otra tecnología. Su valor probatorio se regirá conforme a lo previsto por el artículo 210-A del Código Federal de Procedimientos Civiles.
 
 ###### Artículo 1062.
 
@@ -8228,6 +8256,8 @@ Cualquiera dificultad suscitada en el orden que deba seguirse, no impedirá el e
 
 Tratándose de embargo de inmuebles, a petición de la parte actora, el juez requerirá que la demandada exhiba el o los contratos celebrados con anterioridad que impliquen la transmisión del uso o de la posesión de los mismos a terceros. Sólo se aceptarán contratos que cumplan con todos los requisitos legales y administrativos aplicables.
 
+Tratándose de embargo de bienes muebles, el mismo deberá realizarse en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio.
+
 Una vez trabado el embargo, el ejecutado no puede alterar en forma alguna el bien embargado, ni celebrar contratos que impliquen el uso del mismo, sin previa autorización del juez, quien al decidir deberá recabar la opinión del ejecutante. Registrado que sea el embargo, toda transmisión de derechos respecto de los bienes sobre los que se haya trabado no altera de manera alguna la situación jurídica de los mismos en relación con el derecho que, en su caso, corresponda al embargante de obtener el pago de su crédito con el producto del remate de esos bienes, derecho que se surtirá en contra de tercero con la misma amplitud y en los mismos términos que se surtiría en contra del embargado, si no hubiese operado la transmisión.
 
 Cometerá el delito de desobediencia el ejecutado que transmita el uso del bien embargado sin previa autorización judicial.
@@ -8386,7 +8416,9 @@ I. Por el dictamen que rinda el perito que las partes designen para tal efecto d
 
 II. Por cualquier otro procedimiento que acuerden las partes por escrito.
 
-Al celebrar el contrato las partes deberán establecer las bases para designar a una persona autorizada, distinta del acreedor, para que realice el avalúo de los bienes, en caso de que éste no pueda llevarse a cabo, en términos de lo establecido en las fracciones de este artículo.
+Al celebrar el contrato las partes deberán designar perito o establecer las bases para designar a una persona autorizada distinta del acreedor, para que realice el avalúo de los bienes, en caso de que éste no pueda llevarse a cabo, en términos de lo establecido en las fracciones de este artículo.
+
+A falta de acuerdo respecto a la designación del perito o de la persona autorizada, éste será designado por el juez competente a solicitud de cualquiera de las partes.
 
 ###### Artículo 1414 bis 1.
 
@@ -9787,3 +9819,23 @@ V. Las normas procesales contenidas en el presente Decreto no serán aplicables 
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Comercio, de la Ley General de Sociedades Mercantiles, de la Ley de Fondos de Inversión, de la Ley General de Títulos y Operaciones de Crédito, de la Ley Federal de Derechos y de la Ley Orgánica de la Administración Pública Federal, en relación con la Miscelánea en Materia Mercantil.
+
+*Publicado en el Diario Oficial de la Federación el 13 de junio de 2014*
+
+**Artículo Primero.** Se reforman los artículos 20; 21, fracción XX; 22; 27; 29; 32 bis 1; 32 bis 2; 32 bis 4, párrafos segundo y séptimo; 32 bis 6; 390; 600, fracción I; 1061 bis; 1414 bis, párrafo segundo; se adicionan los artículos 32 bis 4, con los párrafos tercero, octavo y noveno, recorriéndose los actuales párrafos tercero, cuarto, quinto, sexto, séptimo y octavo a ser cuarto, quinto, sexto, séptimo, décimo y onceavo párrafos; 50 bis; 1061 bis; 1395, con un párrafo cuarto pasando los actuales cuarto y quinto párrafos a ser quinto y sexto; 1414 bis, con un último párrafo; y se derogan los artículos 16, fracción I; 17; 32 bis 4, fracción IV del Código de Comercio, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
+
+**Tercero.** Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
+
+México, D.F., a 29 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
