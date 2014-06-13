@@ -3,12 +3,12 @@ title: Ley General de Sociedades Mercantiles
 abbreviation: LGSM
 slug: lgsm
 published_dof: 1934-08-04
-last_reform_dof: 2011-12-15
+last_reform_dof: 2014-06-13
 articles: 266
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/144.doc
-archived: https://web.archive.org/web/20130626031427/http://www.diputados.gob.mx/LeyesBiblio/doc/144.doc
-source_sha256: 635fd2db0383ae1f289abacb290e56ceae46a81926b40d5b52c78acc286ab45c
-retrieved: 2013-06-26
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/144_130614.doc
+archived: https://web.archive.org/web/20150316023616/http://www.diputados.gob.mx/LeyesBiblio/doc/144_130614.doc
+source_sha256: 9a4656d762a8b98b492d30c1d4665feb9dd0cf7b3b8d331f6187ac6ad33039c2
+retrieved: 2015-03-16
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 4 de agosto de 193
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 15-12-2011
+Última reforma publicada DOF 13-06-2014
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -74,13 +74,15 @@ La liquidación se limitará a la realización del activo social, para pagar las
 
 Se reputarán mercantiles todas las sociedades que se constituyan en alguna de las formas reconocidas en el artículo 1º de esta Ley.
 
+Las sociedades mercantiles podrán realizar todos los actos de comercio necesarios para el cumplimiento de su objeto social, salvo lo expresamente prohibido por las leyes y los estatutos sociales.
+
 #### Artículo 5o.
 
-Las sociedades se constituirán ante notario y en la misma forma se harán constar con sus modificaciones. El notario no autorizará la escritura cuando los estatutos o sus modificaciones contravengan lo dispuesto por esta ley.
+Las sociedades se constituirán ante fedatario público y en la misma forma se harán constar con sus modificaciones. El fedatario público no autorizará la escritura o póliza cuando los estatutos o sus modificaciones contravengan lo dispuesto por esta Ley.
 
 #### Artículo 6o.
 
-La escritura constitutiva de una sociedad deberá contener:
+La escritura o póliza constitutiva de una sociedad deberá contener:
 
 I.- Los nombres, nacionalidad y domicilio de las personas físicas o morales que constituyan la sociedad;
 
@@ -114,7 +116,7 @@ Todos los requisitos a que se refiere este artículo y las demás reglas que se 
 
 #### Artículo 7o.
 
-Si el contrato social no se hubiere otorgado en escritura ante Notario, pero contuviere los requisitos que señalan las fracciones I a VII del artículo 6º, cualquiera persona que figure como socio podrá demandar en la vía sumaria el otorgamiento de la escritura correspondiente.
+Si el contrato social no se hubiere otorgado en escritura o póliza ante fedatario público, pero contuviere los requisitos que señalan las fracciones I a VII del artículo 6o., cualquiera persona que figure como socio podrá demandar en la vía sumaria el otorgamiento de la escritura o póliza correspondiente.
 
 En caso de que la escritura social no se presentare dentro del término de quince días a partir de su fecha, para su inscripción en el Registro Público de Comercio, cualquier socio podrá demandar en la vía sumaria dicho registro.
 
@@ -123,6 +125,8 @@ Las personas que celebren operaciones a nombre de la sociedad, antes del registr
 #### Artículo 8o.
 
 En caso de que se omitan los requisitos que señalan las fracciones VIII a XIII, inclusive, del artículo 6º, se aplicarán las disposiciones relativas de esta Ley.
+
+Asimismo, las reglas permisivas contenidas en esta Ley no constituirán excepciones a la libertad contractual que prevalece en esta materia.
 
 #### Artículo 8-A.
 
@@ -134,7 +138,7 @@ En los casos en que una sociedad entre en liquidación o sea fusionada, su ejerc
 
 Toda sociedad podrá aumentar o disminuir su capital, observando, según su naturaleza, los requisitos que exige esta Ley.
 
-La reducción del capital social, efectuada mediante reembolso a los socios o liberación concedida a éstos de exhibiciones no realizadas, se publicará por tres veces en el Periódico Oficial en la entidad federativa en la que tenga su domicilio la sociedad, con intervalos de diez días.
+La reducción del capital social, efectuada mediante reembolso a los socios o liberación concedida a éstos de exhibiciones no realizadas, se publicará en el sistema electrónico establecido por la Secretaría de Economía.
 
 Los acreedores de la sociedad, separada o conjuntamente, podrán oponerse ante la autoridad judicial a dicha reducción, desde el día en que se haya tomado la decisión por la sociedad, hasta cinco días después de la última publicación.
 
@@ -570,11 +574,11 @@ IV.- Que se exhiba íntegramente el valor de cada acción que haya de pagarse, e
 
 #### Artículo 90.
 
-La sociedad anónima puede constituirse por la comparecencia ante Notario, de las personas que otorguen la escritura social, o por suscripción pública.
+La sociedad anónima puede constituirse por la comparecencia ante fedatario público, de las personas que otorguen la escritura o póliza correspondiente, o por suscripción pública, en cuyo caso se estará a lo establecido en el artículo 11 de la Ley del Mercado de Valores.
 
 #### Artículo 91.
 
-La escritura constitutiva de la sociedad anónima deberá contener, además de los datos requeridos por el artículo 6º, los siguientes:
+La escritura constitutiva o póliza de la sociedad anónima deberá contener, además de los datos requeridos por el artículo 6o., los siguientes:
 
 I.- La parte exhibida del capital social;
 
@@ -587,6 +591,28 @@ IV.- La participación en las utilidades concedidas a los fundadores;
 V.- El nombramiento de uno o varios comisarios;
 
 VI.- Las facultades de la Asamblea General y las condiciones para la validez de sus deliberaciones, así como para el ejercicio del derecho de voto, en cuanto las disposiciones legales puedan ser modificadas por la voluntad de los socios.
+
+VII. En su caso, las estipulaciones que:
+
+a) Impongan restricciones, de cualquier naturaleza, a la transmisión de propiedad o derechos, respecto de las acciones de una misma serie o clase representativas del capital social, distintas a lo que se prevé en el artículo 130 de la Ley General de Sociedades Mercantiles.
+
+b) Establezcan causales de exclusión de socios o para ejercer derechos de separación, de retiro, o bien, para amortizar acciones, así como el precio o las bases para su determinación.
+
+c) Permitan emitir acciones que:
+
+1\. No confieran derecho de voto o que el voto se restrinja a algunos asuntos.
+
+2\. Otorguen derechos sociales no económicos distintos al derecho de voto o exclusivamente el derecho de voto.
+
+3\. Confieran el derecho de veto o requieran del voto favorable de uno o más accionistas, respecto de las resoluciones de la asamblea general de accionistas.
+
+Las acciones a que se refiere este inciso, computarán para la determinación del quórum requerido para la instalación y votación en las asambleas de accionistas, exclusivamente en los asuntos respecto de los cuales confieran el derecho de voto a sus titulares.
+
+d) Implementen mecanismos a seguir en caso de que los accionistas no lleguen a acuerdos respecto de asuntos específicos.
+
+e) Amplíen, limiten o nieguen el derecho de suscripción preferente a que se refiere el artículo 132 de la Ley General de Sociedades Mercantiles.
+
+f) Permitan limitar la responsabilidad en los daños y perjuicios ocasionados por sus consejeros y funcionarios, derivados de los actos que ejecuten o por las decisiones que adopten, siempre que no se trate de actos dolosos o de mala fe, o bien, ilícitos conforme a ésta u otras leyes.
 
 #### Artículo 92.
 
@@ -634,7 +660,7 @@ Si vencido el plazo convencional o el legal que menciona el artículo anterior, 
 
 #### Artículo 99.
 
-Suscrito el capital social y hechas las exhibiciones legales, los fundadores, dentro de un plazo de quince días, publicarán la convocatoria para la reunión de la Asamblea General Constitutiva, en la forma prevista en el programa.
+Suscrito el capital social y hechas las exhibiciones legales, los fundadores, dentro de un plazo de quince días, publicarán la convocatoria para la reunión de la Asamblea General Constitutiva, en la forma prevista en el programa, en el sistema electrónico establecido por la Secretaría de Economía.
 
 #### Artículo 100.
 
@@ -720,7 +746,7 @@ Sin embargo, en el contrato social podrá estipularse que el capital se divida e
 
 #### Artículo 113.
 
-Cada acción sólo tendrá derecho a un voto; pero en el contrato social podrá pactarse que una parte de las acciones tenga derecho de voto solamente en las Asambleas Extraordinarias que se reúnan para tratar los asuntos comprendidos en las fracciones I, II, IV, V, VI y VII del artículo 182.
+Salvo lo previsto por el artículo 91, cada acción sólo tendrá derecho a un voto; pero en el contrato social podrá pactarse que una parte de las acciones tenga derecho de voto solamente en las Asambleas Extraordinarias que se reúnan para tratar los asuntos comprendidos en las fracciones I, II, IV, V, VI y VII del artículo 182.
 
 No podrán asignarse dividendos a las acciones ordinarias sin que antes se pague a las de voto limitando un dividendo de cinco por ciento. Cuando en algún ejercicio social no haya dividendos o sean inferiores a dicho cinco por ciento, se cubrirá éste en los años siguientes con la prelación indicada.
 
@@ -746,13 +772,9 @@ Tratándose de reservas de valuación o de revaluación, éstas deberán estar a
 
 #### Artículo 117.
 
-(Se deroga el primer párrafo).
-
 La distribución de las utilidades y del capital social se hará en proporción al importe exhibido de las acciones.
 
 Los suscriptores y adquirentes de acciones pagadoras serán responsables por el importe insoluto de la acción durante cinco años, contados desde la fecha del registro de traspaso; pero no podrá reclamarse el pago al enajenante sin que antes se haga exclusión en los bienes del adquirente.
-
-(Se deroga el cuarto párrafo).
 
 #### Artículo 118.
 
@@ -760,7 +782,7 @@ Cuando constare en las acciones el plazo en que deban pagarse las exhibiciones y
 
 #### Artículo 119.
 
-Cuando se decrete una exhibición cuyo plazo o monto no conste en las acciones, deberá hacerse una publicación, por lo menos 30 días antes de la fecha señalada para el pago, en el Periódico Oficial de la entidad federativa a que corresponda el domicilio de la sociedad. Transcurrido dicho plazo sin que se haya verificado la exhibición, la sociedad procederá en los términos del artículo anterior.
+Cuando se decrete una exhibición cuyo plazo o monto no conste en las acciones, deberá hacerse una publicación, por lo menos 30 días antes de la fecha señalada para el pago, en el sistema electrónico establecido por la Secretaría de Economía. Transcurrido dicho plazo sin que se haya verificado la exhibición, la sociedad procederá en los términos del artículo anterior.
 
 #### Artículo 120.
 
@@ -810,7 +832,7 @@ V.- Las exhibiciones que sobre el valor de la acción haya pagado el accionista,
 
 VI.- La serie y número de la acción o del certificado provisional, con indicación del número total de acciones que corresponda a la serie;
 
-VII.- Los derechos concedidos y las obligaciones impuestas al tenedor de la acción, y en su caso, a las limitaciones al derecho de voto;
+VII. Los derechos concedidos y las obligaciones impuestas al tenedor de la acción, y en su caso, a las limitaciones al derecho de voto y en específico las estipulaciones previstas en la fracción VII del artículo 91 de esta Ley.
 
 VIII.- La firma autógrafa de los administradores que conforme al contrato social deban suscribir el documento, o bien la firma impresa en facsímil de dichos administradores a condición, en este último caso, de que se deposite el original de las firmas respectivas en el Registro Público de Comercio en que se haya registrado la Sociedad.
 
@@ -848,7 +870,7 @@ La transmisión de una acción que se efectúe por medio diverso del endoso debe
 
 #### Artículo 132.
 
-Los accionistas tendrán derecho preferente, en proporción al número de sus acciones, para suscribir las que emitan en caso de aumento del capital social. Este derecho deberá ejercitarse dentro de los quince días siguientes a la publicación en el Periódico Oficial del domicilio de la sociedad, del acuerdo de la Asamblea sobre el aumento del capital social.
+Los accionistas tendrán derecho preferente, en proporción al número de sus acciones, para suscribir las que emitan en caso de aumento del capital social. Este derecho deberá ejercitarse dentro de los quince días siguientes a la publicación en el sistema electrónico establecido por la Secretaría de Economía, del acuerdo de la Asamblea sobre el aumento del capital social.
 
 #### Artículo 133.
 
@@ -872,7 +894,7 @@ I.- La amortización deberá ser decretada por la Asamblea General de Accionista
 
 II.- Sólo podrán amortizarse acciones íntegramente pagadas;
 
-III.- La adquisición de acciones para amortizarlas se hará en bolsa; pero si el contrato social o el acuerdo de la Asamblea General fijaren un precio determinado, las acciones amortizadas se designarán por sorteo ante Notario o Corredor titulado. El resultado del sorteo deberá publicarse por una sola vez en el “Periódico Oficial” de la entidad federativa del domicilio de la sociedad;
+III. La adquisición de acciones para amortizarlas se hará en bolsa; pero si el contrato social o el acuerdo de la Asamblea General fijaren un precio determinado, las acciones amortizadas se designarán por sorteo ante Notario o Corredor titulado. El resultado del sorteo deberá publicarse por una sola vez en el sistema electrónico establecido por la Secretaría de Economía;
 
 IV.- Los títulos de las acciones amortizadas quedarán anulados y en su lugar podrán emitirse acciones de goce, cuando así lo prevenga expresamente el contrato social;
 
@@ -978,7 +1000,7 @@ El Administrador que en cualquiera operación tenga un interés opuesto al de la
 
 #### Artículo 157.
 
-Los Administradores tendrán la responsabilidad inherente a su mandato y la derivada de las obligaciones que la ley y los estatutos les imponen.
+Los Administradores tendrán la responsabilidad inherente a su mandato y la derivada de las obligaciones que la ley y los estatutos les imponen. Dichos Administradores deberán guardar confidencialidad respecto de la información y los asuntos que tengan conocimiento con motivo de su cargo en la sociedad, cuando dicha información o asuntos no sean de carácter público, excepto en los casos en que la información sea solicitada por autoridades judiciales o administrativas. Dicha obligación de confidencialidad estará vigente durante el tiempo de su encargo y hasta un año posterior a la terminación del mismo.
 
 #### Artículo 158.
 
@@ -1012,7 +1034,7 @@ Los Administradores cesarán en el desempeño de su encargo inmediatamente que l
 
 #### Artículo 163.
 
-Los accionistas que representen el treinta y tres por ciento del capital social, por lo menos, podrán ejercitar directamente la acción de responsabilidad civil contra los Administradores, siempre que se satisfagan los requisitos siguientes:
+Los accionistas que representen el veinticinco por ciento del capital social, por lo menos, podrán ejercitar directamente la acción de responsabilidad civil contra los Administradores, siempre que se satisfagan los requisitos siguientes:
 
 I.- Que la demanda comprenda el monto total de las responsabilidades en favor de la sociedad y no únicamente el interés personal de los promoventes, y
 
@@ -1064,7 +1086,7 @@ VII.- Asistir, con voz, pero sin voto, a todas la sesiones del Consejo de Admini
 
 VIII.- Asistir, con voz pero sin voto, a las Asambleas de Accionistas, y
 
-IX.- En general, vigilar ilimitadamente y en cualquier tiempo todas las operaciones de la sociedad.
+IX. En general, vigilar la gestión, conducción y ejecución de los negocios de la sociedad.
 
 #### Artículo 167.
 
@@ -1085,6 +1107,8 @@ Los comisarios serán individualmente responsables para con la sociedad por el c
 #### Artículo 170.
 
 Los Comisarios que en cualquiera operación tuvieren un interés opuesto al de la sociedad, deberán abstenerse de toda intervención, bajo la sanción establecida en el artículo 156.
+
+Al efecto, los comisarios deberán notificar por escrito al Consejo de Administración o al administrador único, según sea el caso, dentro de un plazo que no deberá exceder de quince días naturales contados a partir de que tomen conocimiento de la operación correspondiente, los términos y condiciones de la operación de que se trate, así como cualquier información relacionada con la naturaleza y el beneficio que obtendrían las partes involucradas en la misma.
 
 #### Artículo 171.
 
@@ -1130,7 +1154,7 @@ La falta de presentación oportuna del informe a que se refiere el enunciado gen
 
 #### Artículo 177.
 
-Quince días después de la fecha en que la asamblea general de accionistas haya aprobado el informe a que se refiere el enunciado general del artículo 172, deberán mandarse publicar los estados financieros incluidos en el mismo, juntamente con sus notas y el dictamen del comisario, en el periódico oficial de la entidad en donde tenga su domicilio la sociedad, o, si se trata de sociedades que tengan oficinas o dependencias en varias entidades, en el Diario Oficial de la Federación.
+Quince días después de la fecha en que la asamblea general de accionistas haya aprobado el informe a que se refiere el enunciado general del artículo 172, los accionistas podrán solicitar que se publiquen en el sistema electrónico establecido por la Secretaría de Economía los estados financieros, junto con sus notas y el dictamen de los comisarios.
 
 ### SECCION SEXTA · De las asambleas de accionistas
 
@@ -1210,7 +1234,7 @@ Si el Administrador o Consejo de Administración, o los Comisarios se rehusaren 
 
 #### Artículo 186.
 
-La convocatoria para las asambleas generales deberá hacerse por medio de la publicación de un aviso en el periódico oficial de la entidad del domicilio de la sociedad, o en uno de los periódicos de mayor circulación en dicho domicilio con la anticipación que fijen los estatutos, o en su defecto, quince días antes de la fecha señalada para la reunión. Durante todo este tiempo estará a disposición de los accionistas, en las oficinas de la sociedad, el informe a que se refiere el enunciado general del artículo 172.
+La convocatoria para las asambleas generales deberá hacerse por medio de la publicación de un aviso en el sistema electrónico establecido por la Secretaría de Economía con la anticipación que fijen los estatutos, o en su defecto, quince días antes de la fecha señalada para la reunión. Durante todo este tiempo estará a disposición de los accionistas, en las oficinas de la sociedad, el informe a que se refiere el enunciado general del artículo 172.
 
 #### Artículo 187.
 
@@ -1248,9 +1272,9 @@ Salvo estipulación contraria de los estatutos, las Asambleas Generales de Accio
 
 Las actas de las Asambleas Generales de Accionistas se asentarán en el libro respectivo y deberán ser firmadas por el Presidente y por el Secretario de la Asamblea, así como por los Comisarios que concurran. Se agregarán a las actas los documentos que justifiquen que las convocatorias se hicieron en los términos que esta Ley establece.
 
-Cuando por cualquiera circunstancia no pudiere asentarse el acta de una asamblea en el libro respectivo, se protocolizará ante Notario.
+Cuando por cualquiera circunstancia no pudiere asentarse el acta de una asamblea en el libro respectivo, se protocolizará ante fedatario público.
 
-Las actas de las asambleas extraordinarias serán protocolizadas ante fedatario público.
+Las actas de las Asambleas Extraordinarias serán protocolizadas ante fedatario público e inscritas en el Registro Público de Comercio.
 
 #### Artículo 195.
 
@@ -1272,11 +1296,33 @@ En caso de contravención esta disposición, la resolución será nula cuando si
 
 #### Artículo 198.
 
-Es nulo todo convenio que restrinja la libertad del voto de los accionistas.
+Sin perjuicio de lo que dispongan las leyes especiales, los accionistas de las sociedades anónimas podrán convenir entre ellos:
+
+I. Derechos y obligaciones que establezcan opciones de compra o venta de las acciones representativas del capital social de la sociedad, tales como:
+
+a) Que uno o varios accionistas solamente puedan enajenar la totalidad o parte de su tenencia accionaria, cuando el adquirente se obligue también a adquirir una proporción o la totalidad de las acciones de otro u otros accionistas, en iguales condiciones;
+
+b) Que uno o varios accionistas puedan exigir a otro socio la enajenación de la totalidad o parte de su tenencia accionaria, cuando aquéllos acepten una oferta de adquisición, en iguales condiciones;
+
+c) Que uno o varios accionistas tengan derecho a enajenar o adquirir de otro accionista, quien deberá estar obligado a enajenar o adquirir, según corresponda, la totalidad o parte de la tenencia accionaria objeto de la operación, a un precio determinado o determinable;
+
+d) Que uno o varios accionistas queden obligados a suscribir y pagar cierto número de acciones representativas del capital social de la sociedad, a un precio determinado o determinable, y
+
+e) Otros derechos y obligaciones de naturaleza análoga;
+
+II. Enajenaciones y demás actos jurídicos relativos al dominio, disposición o ejercicio del derecho de preferencia a que se refiere el artículo 132 de esta Ley, con independencia de que tales actos jurídicos se lleven a cabo con otros accionistas o con personas distintas de éstos;
+
+III. Acuerdos para el ejercicio del derecho de voto en asambleas de accionistas;
+
+IV. Acuerdos para la enajenación de sus acciones en oferta pública; y
+
+V. Otros de naturaleza análoga.
+
+Los convenios a que se refiere este artículo no serán oponibles a la sociedad, excepto tratándose de resolución judicial.
 
 #### Artículo 199.
 
-A solicitud de los accionistas que reúnan el treinta y tres por ciento de las acciones representadas en una Asamblea, se aplazará, para dentro de tres días y sin necesidad de nueva convocatoria, la votación de cualquier asunto respecto del cual no se consideren suficientemente informados. Este derecho no podrá ejercitarse sino una sola vez para el mismo asunto.
+A solicitud de los accionistas que reúnan el veinticinco por ciento de las acciones representadas en una Asamblea, se aplazará, para dentro de tres días y sin necesidad de nueva convocatoria, la votación de cualquier asunto respecto del cual no se consideren suficientemente informados. Este derecho no podrá ejercitarse sino una sola vez para el mismo asunto.
 
 #### Artículo 200.
 
@@ -1284,7 +1330,7 @@ Las resoluciones legalmente adoptadas por las Asambleas de Accionistas son oblig
 
 #### Artículo 201.
 
-Los accionistas que representen el treinta y tres por ciento del capital social podrán oponerse judicialmente a las resoluciones de las Asambleas Generales, siempre que se satisfagan los siguientes requisitos:
+Los accionistas que representen el veinticinco por ciento del capital social podrán oponerse judicialmente a las resoluciones de las Asambleas Generales, siempre que se satisfagan los siguientes requisitos:
 
 I.- Que la demanda se presente dentro de los quince días siguientes a la fecha de clausura de la Asamblea;
 
@@ -1308,7 +1354,7 @@ Todas las oposiciones contra una misma resolución, deberán decidirse en una so
 
 #### Artículo 205.
 
-Para el ejercicio de las acciones judiciales a que se refieren los artículo 185 y 201, los accionistas depositarán los títulos de sus acciones ante Notario o en una Institución de Crédito, quienes expedirán el certificado correspondiente para acompañarse a la demanda y los demás que sean necesarios para hacer efectivos los derechos sociales.
+Para el ejercicio de las acciones judiciales a que se refieren los artículos 185 y 201, los accionistas depositarán los títulos de sus acciones ante fedatario público o en una Institución de Crédito, quienes expedirán el certificado correspondiente para acompañarse a la demanda y los demás que sean necesarios para hacer efectivos los derechos sociales.
 
 Las acciones depositadas no se devolverán sino hasta la conclusión del juicio.
 
@@ -1394,7 +1440,7 @@ La fusión de varias sociedades deberá ser decidida por cada una de ellas, en l
 
 #### Artículo 223.
 
-Los acuerdos sobre fusión se inscribirán en el Registro Público de Comercio y se publicarán en el Periódico Oficial del domicilio de las sociedades que hayan de fusionarse. Cada sociedad deberá publicar su último balance, y aquélla o aquéllas que dejen de existir, deberá publicar, además, el sistema establecido para la extinción de su pasivo.
+Los acuerdos sobre fusión se inscribirán en el Registro Público de Comercio y se publicarán en el sistema electrónico establecido por la Secretaría de Economía, de la misma manera, cada sociedad deberá publicar su último balance, y aquélla o aquéllas que dejen de existir, deberán publicar, además, el sistema establecido para la extinción de su pasivo.
 
 #### Artículo 224.
 
@@ -1446,7 +1492,7 @@ d) La determinación de las obligaciones que por virtud de la escisión asuma ca
 
 e) Los proyectos de estatutos de las sociedades escindidas.
 
-V.- La resolución de escisión deberá protocolizarse ante notario e inscribirse en el Registro Público de Comercio. Asimismo, deberá publicarse en la gaceta oficial y en uno de los periódicos de mayor circulación del domicilio de la escindente, un extracto de dicha resolución que contenga, por lo menos, la síntesis de la información a que se refieren los incisos a) y d) de la fracción IV de este artículo, indicando claramente que el texto completo se encuentra a disposición de socios y acreedores en el domicilio social de la sociedad durante un plazo de cuarenta y cinco días naturales contado a partir de que se hubieren efectuado la inscripción y ambas publicaciones;
+V. La resolución de escisión deberá protocolizarse ante fedatario público e inscribirse en el Registro Público de Comercio. Asimismo, deberá publicarse en el sistema electrónico establecido por la Secretaría de Economía, un extracto de dicha resolución que contenga, por lo menos, la síntesis de la información a que se refieren los incisos a) y d) de la fracción IV de este artículo, indicando claramente que el texto completo se encuentra a disposición de socios y acreedores en el domicilio social de la sociedad durante un plazo de cuarenta y cinco días naturales contados a partir de que se hubieren efectuado la inscripción y la publicación;
 
 VI.- Durante el plazo señalado, cualquier socio o grupo de socios que representen por lo menos el veinte por ciento del capital social o acreedor que tenga interés jurídico, podrá oponerse judicialmente a la escisión, la que se suspenderá hasta que cause ejecutoria la sentencia que declara que la oposición es infundada, se dicte resolución que tenga por terminado el procedimiento sin que hubiere procedido la oposición o se llegue a convenio, siempre y cuando quien se oponga diere fianza bastante para responder de los daños y perjuicios que pudieren causarse a la sociedad con la suspensión;
 
@@ -1558,7 +1604,7 @@ VI.- Obtener del Registro Público de Comercio la cancelación de la inscripció
 
 Ningún socio podrá exigir de los liquidadores la entrega total del haber que le corresponda; pero sí la parcial que sea compatible con los intereses de los acreedores de la sociedad, mientras no estén extinguidos sus créditos pasivos, o se haya depositado su importe si se presentare inconveniente para hacer su pago.
 
-El acuerdo sobre distribución parcial deberá publicarse en el Periódico Oficial del domicilio de la sociedad, y los acreedores tendrán el derecho de oposición en la forma y términos del artículo 9o.
+El acuerdo sobre distribución parcial deberá publicarse en el sistema electrónico establecido por la Secretaría de Economía, y los acreedores tendrán el derecho de oposición en la forma y términos del artículo 9o.
 
 #### Artículo 244.
 
@@ -1590,7 +1636,7 @@ En la liquidación de las sociedades anónimas y en comandita por acciones, los 
 
 I.- En el balance final se indicará la parte que a cada socio corresponda en el haber social;
 
-II.- Dicho balance se publicará por tres veces, de diez en diez días, en el Periódico Oficial de la localidad en que tenga su domicilio la sociedad.
+II. Dicho balance se publicará en el sistema electrónico establecido por la Secretaría de Economía.
 
 El mismo balance quedará, por igual término, así como los papeles y libros de la sociedad, a disposición de los accionistas, quienes gozarán de un plazo de quince días a partir de la última publicación, para presentar sus reclamaciones a los liquidadores.
 
@@ -1616,7 +1662,7 @@ Las sociedades extranjeras sólo podrán ejercer el comercio desde su inscripci�
 
 La inscripción sólo se efectuará previa autorización de la Secretaría de Economía, en los términos de los artículos 17 y 17 A de la Ley de Inversión Extranjera.
 
-Las sociedades extranjeras estarán obligadas a publicar anualmente un balance general de la negociación visado por un Contador Público titulado.
+Las sociedades extranjeras deberán publicar anualmente, en el sistema electrónico establecido por la Secretaría de Economía, un balance general de la negociación visado por un contador público titulado.
 
 > Nota: El Decreto publicado en el Diario Oficial de la Federación el 28 de julio de 2006, que reforma, entre otras disposiciones, el párrafo segundo del artículo 251 de esta Ley, hace referencia a las fracciones I a III del párrafo segundo del citado artículo, como si estuvieran vigentes (I. a III. ...).
 >
@@ -1767,3 +1813,23 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 26 de octubre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de diciembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Comercio, de la Ley General de Sociedades Mercantiles, de la Ley de Fondos de Inversión, de la Ley General de Títulos y Operaciones de Crédito, de la Ley Federal de Derechos y de la Ley Orgánica de la Administración Pública Federal, en relación con la Miscelánea en Materia Mercantil.
+
+*Publicado en el Diario Oficial de la Federación el 13 de junio de 2014*
+
+**Artículo Segundo.** Se reforman los artículos 5o.; 6o., párrafo primero; 7o., párrafo primero; 9o., párrafo segundo; 90; 91, párrafo primero; 99; 113, párrafo primero; 119; 125, fracción VII; 132; 136, fracción III; 157; 163 párrafo primero; 166, fracción IX; 177; 186; 194, párrafos segundo y tercero; 198, párrafo primero; 199; 201, párrafo primero; 205, párrafo primero; 223; 228 Bis, fracción V; 243, último párrafo; 247, fracción II; 251 último párrafo; se adicionan los artículos 4o., con un último párrafo; 8o. con un párrafo segundo; 91, con una fracción VII; 170, con un párrafo segundo; 198, con las fracciones I a V del párrafo primero y un último párrafo de la Ley General de Sociedades Mercantiles, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
+
+**Tercero.** Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
+
+México, D.F., a 29 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
