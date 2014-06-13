@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2013-12-26
+last_reform_dof: 2014-06-13
 articles: 61
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
-archived: https://web.archive.org/web/20140408215334/http://www.diputados.gob.mx/LeyesBiblio/doc/153.doc
-source_sha256: 0e2699cf5b042db869c2b81f108368af77535fb8e6c666c12a2c5efd91ddffc6
-retrieved: 2014-04-08
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_130614.doc
+archived: https://web.archive.org/web/20140718134756/http://www.diputados.gob.mx/LeyesBiblio/doc/153_130614.doc
+source_sha256: 6acc3225fa8ce155eec9e5ffe7b1864a954fb20b4a75056cb60567a0f0e4138f
+retrieved: 2014-07-18
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 26-12-2013
+Última reforma publicada DOF 13-06-2014
 
 > Nota de vigencia: Las reformas a los artículos 26; 31, fracciones XII, XIX, XXI, XXIV y XXV; y 50; las adiciones de los artículos 31, con las fracciones XXII, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXIV; y el 44; así como la derogación del artículo 37, publicadas mediante decreto en el DOF 02-01-2013, entrarán en vigor de conformidad con lo establecido por el artículo segundo transitorio de dicho decreto.
 
@@ -260,7 +260,7 @@ A la Secretaría de Gobernación corresponde el despacho de los siguientes asunt
 
 I. Coordinar, por acuerdo del Presidente de la República, a los Secretarios de Estado y demás funcionarios de la Administración Pública Federal para garantizar el cumplimiento de las órdenes y acuerdos del Titular del Ejecutivo Federal. Para tal efecto, convocará por acuerdo del Presidente de la República a las reuniones de gabinete; acordará con los titulares de las Secretarías de Estado, órganos desconcentrados y entidades paraestatales las acciones necesarias para dicho cumplimiento, y requerirá a los mismos los informes correspondientes;
 
-II. Presentar ante el Congreso de la Unión las iniciativas de ley o decreto del Ejecutivo;
+II. Presentar ante el Congreso de la Unión las iniciativas de ley o decreto del Ejecutivo; y en su caso, comunicar el señalamiento formal del Presidente de la República del carácter preferente de hasta dos de las iniciativas que se hubieren presentado en periodos anteriores cuando estén pendientes de dictamen;
 
 III. Administrar el Diario Oficial de la Federación y publicar las leyes y decretos del Congreso de la Unión, de alguna de las dos Cámaras o la Comisión Permanente, así como los reglamentos que expida el Presidente de la República, en términos de lo dispuesto en la fracción I del artículo 89 constitucional y el inciso B del artículo 72 constitucional, y las resoluciones y disposiciones que por ley deban publicarse en dicho medio de difusión oficial;
 
@@ -872,7 +872,9 @@ XXIX. Otorgar contratos, concesiones, asignaciones, permisos, autorizaciones y a
 
 XXX. Impulsar la reubicación de la industria de zonas urbanas con graves problemas demográficos y ambientales, en coordinación con las Entidades Federativas, para que se facilite su traslado con infraestructura industrial, y
 
-XXXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXXI. Determinar y operar el sistema electrónico en el que deberán realizarse las publicaciones que establezcan las leyes mercantiles;
+
+XXXII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 #### Artículo 35.
 
@@ -2143,3 +2145,43 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 13 de diciembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, de la Ley Orgánica de la Administración Pública Federal y del Código Federal de Instituciones y Procedimientos Electorales en materia de Iniciativa Ciudadana e Iniciativa Preferente.
+
+*Publicado en el Diario Oficial de la Federación el 20 de mayo de 2014*
+
+**Artículo Tercero.-** Se reforma la fracción II del artículo 27 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
+
+**Tercero.-** Las Cámaras del Congreso a través de la oficina de atención ciudadana, en un plazo no mayor a 90 días establecerán mecanismos de apoyo a los ciudadanos que buscan presentar iniciativas.
+
+México, D.F., a 9 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 19 de mayo de 2014.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Comercio, de la Ley General de Sociedades Mercantiles, de la Ley de Fondos de Inversión, de la Ley General de Títulos y Operaciones de Crédito, de la Ley Federal de Derechos y de la Ley Orgánica de la Administración Pública Federal, en relación con la Miscelánea en Materia Mercantil.
+
+*Publicado en el Diario Oficial de la Federación el 13 de junio de 2014*
+
+**Artículo Sexto.** Se adiciona el artículo 34, con una fracción XXXI, pasando la actual XXXI a ser la XXXII de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
+
+**Tercero.** Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
+
+México, D.F., a 29 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
