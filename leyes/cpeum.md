@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2014-02-10
+last_reform_dof: 2014-06-17
 articles: 136
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
-archived: https://web.archive.org/web/20140408230654/http://www.diputados.gob.mx/LeyesBiblio/doc/1.doc
-source_sha256: 87c7515d4f089e6a6e9103e8b250735c57494885160000c3c7e35fbf5a5f3bb6
-retrieved: 2014-04-08
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_170614.doc
+archived: https://web.archive.org/web/20140701201056/http://www.diputados.gob.mx/LeyesBiblio/doc/1_170614.doc
+source_sha256: e89ef41033ac71de9e863d22970e2cfa85100c118806abdcde5bae523e6d3ca4
+retrieved: 2014-07-01
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 10-02-2014
+Últimas reformas publicadas DOF 17-06-2014
 
 > Notas de vigencia relativas al Decreto en materia política-electoral publicado en el DOF 10-02-2014:
 > Las reformas, adiciones y derogaciones a los artículos 35, 41, 54, 55, 99, 105 fracción II inciso f), 110, 111 y 116 fracción IV, entrarán en vigor con base en lo que establece el Artículo Cuarto Transitorio de dicho Decreto.
@@ -234,6 +234,10 @@ Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienest
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, las entidades federativas y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
 *Párrafo adicionado DOF 08-02-2012*
+
+Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
+*Párrafo adicionado DOF 17-06-2014*
 
 Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
@@ -3445,9 +3449,9 @@ Para los efectos de las responsabilidades a que alude este Título se reputarán
 
 El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
 
-Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales, en su caso, los miembros de los Consejos de las Judicaturas Locales, así como los miembros de los organismos a los que las Constituciones Locales y el Estatuto de Gobierno del Distrito Federal les otorgue autonomía, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
+Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales, en su caso, los miembros de los Consejos de las Judicaturas Locales, los integrantes de los ayuntamientos, así como los miembros de los organismos a los que las Constituciones Locales y el Estatuto de Gobierno del Distrito Federal les otorgue autonomía, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo y aplicación indebidos de fondos y recursos federales.
 
-*Párrafo reformado DOF 31-12-1994. Fe de erratas DOF 03-01-1995. Reformado DOF 07-02-2014*
+*Párrafo reformado DOF 31-12-1994. Fe de erratas DOF 03-01-1995. Reformado DOF 07-02-2014, 17-06-2014*
 
 Las Constituciones de los Estados de la República precisarán, en los mismos términos del primer párrafo de este artículo y para los efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los Estados y en los Municipios.
 
@@ -4199,9 +4203,9 @@ II. La jornada máxima de trabajo nocturno será de 7 horas. Quedan prohibidas: 
 
 *Fracción reformada DOF 21-11-1962, 31-12-1974*
 
-III. Queda prohibida la utilización del trabajo de los menores de catorce años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas.
+III. Queda prohibida la utilización del trabajo de los menores de quince años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas.
 
-*Fracción reformada DOF 21-11-1962*
+*Fracción reformada DOF 21-11-1962, 17-06-2014*
 
 IV. Por cada seis días de trabajo deberá disfrutar el operario de un día de descanso, cuando menos.
 
@@ -6904,3 +6908,59 @@ En tanto el Congreso de la Unión expide la Ley a que se refiere el párrafo ant
 SALÓN DE SESIONES DE LA COMISIÓN PERMANENTE DEL HONORABLE CONGRESO DE LA UNIÓN.- México, D.F., a 22 de enero de 2014.- Dip. Ricardo Anaya Cortés, Presidente.- Dip. Mónica García de la Fuente, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta y uno de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se adiciona el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 17 de junio de 2014*
+
+**ARTÍCULO ÚNICO.-** Se adiciona un octavo (sic DOF 17-06-2014) párrafo, recorriéndose en su orden los subsecuentes, al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** A partir de la entrada en vigor del presente Decreto, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, dispondrán de seis meses para establecer en sus haciendas o códigos financieros la exención de cobro del derecho por el registro de nacimiento y la expedición de la primera copia certificada del acta de nacimiento.
+
+**TERCERO.** El Congreso de la Unión en un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, y previa opinión de las entidades federativas y la autoridad competente en materia de registro nacional de población, deberá realizar las adecuaciones a la ley que determinen las características, diseño y contenido del formato único en materia de registro de población, así como para la expedición de toda acta del registro civil que deberá implementarse a través de mecanismos electrónicos y adoptarse por las propias entidades federativas del país y por las representaciones de México en el exterior.
+
+**CUARTO.** La Secretaría de Gobernación a través del Registro Nacional de Población, remitirá al Instituto Nacional Electoral la información recabada por las autoridades locales registrales relativas a los certificados de defunción.
+
+México, D.F., a 4 de junio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el tercer párrafo del artículo 108 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 17 de junio de 2014*
+
+**ARTÍCULO ÚNICO.-** Se reforma el tercer párrafo del artículo 108 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
+
+México, D.F., a 4 de junio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción III del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 17 de junio de 2014*
+
+**ARTÍCULO ÚNICO.-** Se reforma la fracción III del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 4 de junio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
