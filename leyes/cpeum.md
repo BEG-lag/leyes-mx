@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2014-06-17
+last_reform_dof: 2014-07-07
 articles: 136
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_170614.doc
-archived: https://web.archive.org/web/20140701201056/http://www.diputados.gob.mx/LeyesBiblio/doc/1_170614.doc
-source_sha256: e89ef41033ac71de9e863d22970e2cfa85100c118806abdcde5bae523e6d3ca4
-retrieved: 2014-07-01
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_07jul14.doc
+archived: https://web.archive.org/web/20150315084330/http://www.diputados.gob.mx/LeyesBiblio/doc/1_07jul14.doc
+source_sha256: 71530a12d137cefa01eb7708327ed1d1833b39fdcda6c3ba31dad90878b27955
+retrieved: 2015-03-15
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 17-06-2014
+Última reforma publicada DOF 07-07-2014
 
 > Notas de vigencia relativas al Decreto en materia política-electoral publicado en el DOF 10-02-2014:
 > Las reformas, adiciones y derogaciones a los artículos 35, 41, 54, 55, 99, 105 fracción II inciso f), 110, 111 y 116 fracción IV, entrarán en vigor con base en lo que establece el Artículo Cuarto Transitorio de dicho Decreto.
@@ -211,10 +211,6 @@ La ley establecerá los mecanismos y acciones necesarios que permitan al Institu
 
 ##### Artículo 4o.
 
-(Se deroga el anterior párrafo primero)
-
-*Párrafo adicionado DOF 28-01-1992. Derogado (se recorren los demás en su orden) DOF 14-08-2001*
-
 El varón y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
@@ -235,13 +231,13 @@ Toda persona tiene derecho al acceso, disposición y saneamiento de agua para co
 
 *Párrafo adicionado DOF 08-02-2012*
 
-Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
-
-*Párrafo adicionado DOF 17-06-2014*
-
 Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
 *Párrafo adicionado DOF 07-02-1983*
+
+Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
+*Párrafo adicionado DOF 17-06-2014*
 
 En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
 
@@ -264,6 +260,8 @@ Toda persona tiene derecho a la cultura física y a la práctica del deporte. Co
 *Párrafo adicionado DOF 12-10-2011*
 
 *Artículo reformado DOF 31-12-1974*
+
+*Reforma DOF 14-08-2001: Derogó del artículo el entonces párrafo primero (antes adicionado por DOF 28-01-1992)*
 
 ##### Artículo 5o.
 
@@ -975,10 +973,6 @@ No constituirán monopolios las funciones que el Estado ejerza de manera exclusi
 
 *Párrafo reformado DOF 20-08-1993, 02-03-1995, 20-12-2013*
 
-(Se deroga el párrafo quinto)
-
-*Párrafo derogado (se recorren los demás en su orden) DOF 27-06-1990*
-
 El Estado contará con los organismos y empresas que requiera para el eficaz manejo de las áreas estratégicas a su cargo y en las actividades de carácter prioritario donde, de acuerdo con las leyes, participe por sí o con los sectores social y privado.
 
 El Estado tendrá un banco central que será autónomo en el ejercicio de sus funciones y en su administración. Su objetivo prioritario será procurar la estabilidad del poder adquisitivo de la moneda nacional, fortaleciendo con ello la rectoría del desarrollo nacional que corresponde al Estado. Ninguna autoridad podrá ordenar al banco conceder financiamiento. El Estado contará con un fideicomiso público denominado Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, cuya Institución Fiduciaria será el banco central y tendrá por objeto, en los términos que establezca la ley, recibir, administrar y distribuir los ingresos derivados de las asignaciones y contratos a que se refiere el párrafo séptimo del artículo 27 de esta Constitución, con excepción de los impuestos.
@@ -1118,6 +1112,8 @@ Todos los actos del proceso de selección y designación de los Comisionados son
 *Párrafo adicionado DOF 11-06-2013*
 
 *Artículo reformado DOF 17-11-1982, 03-02-1983*
+
+*Reforma DOF 27-06-1990: Derogó del artículo el entonces párrafo quinto*
 
 ##### Artículo 29.
 
@@ -1335,9 +1331,7 @@ V. Por ayudar, en contra de la Nación, a un extranjero, o a un gobierno extranj
 
 VI. En los demás casos que fijan las leyes.
 
-(Se deroga el último párrafo del Apartado C)
-
-*Párrafo derogado DOF 30-09-2013*
+*Reforma DOF 30-09-2013: Derogó de este Apartado C el entonces último párrafo*
 
 *Fe de erratas al artículo DOF 06-02-1917. Artículo reformado DOF 18-01-1934, 20-03-1997*
 
@@ -1605,7 +1599,9 @@ La ley establecerá el sistema de nulidades de las elecciones federales o locale
 
 a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
 
-b) Se compre cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
+b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
+
+*Inciso reformado DOF 07-07-2014*
 
 c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
 
@@ -1751,11 +1747,9 @@ VI. En los términos de lo establecido en las fracciones III, IV y V anteriores,
 
 *Fracción adicionada DOF 03-09-1993. Reformada DOF 22-08-1996*
 
-VII. (Se elimina del artículo)
-
-*Fracción adicionada DOF 03-09-1993. Fracción eliminada del artículo DOF 22-08-1996*
-
 *Artículo reformado DOF 22-06-1963, 14-02-1972, 06-12-1977, 15-12-1986, 06-04-1990*
+
+*Reforma DOF 22-08-1996: Eliminó del artículo la entonces fracción VII (antes adicionada por DOF 03-09-1993)*
 
 ##### Artículo 55.
 
@@ -2133,14 +2127,6 @@ XXIV. Para expedir la Ley que regule la organización de la entidad de fiscaliza
 
 *Fracción reformada DOF 30-07-1999*
 
-(Se elimina del artículo la anterior fracción XXV)
-
-*Fracción derogada (se elimina del artículo y se recorren las demás en su orden) DOF 20-08-1928*
-
-(Se elimina del artículo la anterior fracción XXVI)
-
-*Fracción derogada (se elimina del artículo y se recorren las demás en su orden) DOF 20-08-1928*
-
 XXV. Para establecer el Servicio Profesional docente en términos del artículo 3o. de esta Constitución; establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, los Estados y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República, y para asegurar el cumplimiento de los fines de la educación y su mejora continua en un marco de inclusión y diversidad. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República. Para legislar en materia de derechos de autor y otras figuras de la propiedad intelectual relacionadas con la misma;
 
 *Fracción reformada DOF 08-07-1921. Recorrida (antes fracción XXVII) por derogación de fracciones XXV y XXVI DOF 20-08-1928.*
@@ -2283,6 +2269,8 @@ XXX. Para expedir todas las leyes que sean necesarias, a objeto de hacer efectiv
 
 *Fracción adicionada DOF 24-10-1942*
 
+*Reforma DOF 20-08-1928: Eliminó del artículo las entonces fracciones XXV y XXVI*
+
 ##### Artículo 74.
 
 Son facultades exclusivas de la Cámara de Diputados:
@@ -2313,23 +2301,15 @@ Cuando inicie su encargo en la fecha prevista por el artículo 83, el Ejecutivo 
 
 No podrá haber otras partidas secretas, fuera de las que se consideren necesarias, con ese carácter, en el mismo presupuesto; las que emplearán los secretarios por acuerdo escrito del Presidente de la República.
 
-(Se deroga el quinto párrafo)
-
-*Párrafo derogado (se recorren los demás en su orden) DOF 07-05-2008*
-
-(Se deroga el sexto párrafo)
-
-*Párrafo reformado DOF 30-07-1999. Derogado (se recorren los demás en su orden) DOF 07-05-2008*
-
-(Se deroga el séptimo párrafo)
-
-*Párrafo reformado DOF 17-03-1987. Derogado (se recorren los demás en su orden) DOF 07-05-2008*
-
 Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Cámara o de la Comisión Permanente, debiendo comparecer en todo caso el Secretario del Despacho correspondiente a informar de las razones que lo motiven;
 
 *Párrafo reformado DOF 25-10-1993, 07-05-2008*
 
 *Fracción reformada DOF 06-12-1977*
+
+*Reforma DOF 07-05-2008: Derogó de esta fracción los entonces párrafos quinto, sexto (antes reformado por DOF 30-07-1999)*
+
+y séptimo (antes reformado por DOF 17-03-1987)
 
 V. Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 111 de esta Constitución.
 
@@ -2895,10 +2875,6 @@ La Suprema Corte de Justicia de la Nación podrá solicitar al Consejo de la Jud
 
 *Párrafo reformado DOF 10-06-2011*
 
-(Se deroga el párrafo tercero)
-
-*Párrafo derogado (se recorren los demás en su orden) DOF 13-11-2007*
-
 La Suprema Corte de Justicia nombrará y removerá a su secretario y demás funcionarios y empleados. Los Magistrados y jueces nombrarán y removerán a los respectivos funcionarios y empleados de los Tribunales de Circuito y de los Juzgados de Distrito, conforme a lo que establezca la ley respecto de la carrera judicial.
 
 Cada cuatro años, el Pleno elegirá de entre sus miembros al Presidente de la Suprema Corte de Justicia de la Nación, el cual no podrá ser reelecto para el período inmediato posterior.
@@ -2916,6 +2892,8 @@ Los Magistrados de Circuito y los Jueces de Distrito protestarán ante la Suprem
 *Párrafo reformado DOF 11-06-1999*
 
 *Artículo reformado DOF 20-08-1928, 11-09-1940, 19-02-1951, 06-12-1977, 28-12-1982, 10-08-1987, 31-12-1994*
+
+*Reforma DOF 13-11-2007: Derogó del artículo el entonces párrafo tercero*
 
 ##### Artículo 98.
 
@@ -3787,13 +3765,11 @@ Los Magistrados integrantes de los Poderes Judiciales Locales, deberán reunir l
 
 Los nombramientos de los magistrados y jueces integrantes de los Poderes Judiciales Locales serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-(Se deroga el párrafo quinto)
-
-*Párrafo derogado (se recorren los demás en su orden) DOF 31-12-1994*
-
 Los magistrados durarán en el ejercicio de su encargado (sic DOF 17-03-1987) el tiempo que señalen las Constituciones Locales, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos que determinen las Constituciones y las Leyes de Responsabilidades de los Servidores Públicos de los Estados.
 
 Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+*Reforma DOF 31-12-1994: Derogó de esta fracción el entonces párrafo quinto*
 
 IV. De conformidad con las bases establecidas en esta Constitución y las leyes generales en la materia, las Constituciones y leyes de los Estados en materia electoral, garantizarán que:
 
@@ -6913,7 +6889,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *Publicado en el Diario Oficial de la Federación el 17 de junio de 2014*
 
-**ARTÍCULO ÚNICO.-** Se adiciona un octavo (sic DOF 17-06-2014) párrafo, recorriéndose en su orden los subsecuentes, al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+**ARTÍCULO ÚNICO.-** Se adiciona un octavo párrafo, recorriéndose en su orden los subsecuentes, al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
 ……….
 
@@ -6964,3 +6940,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 4 de junio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el inciso b) del tercer párrafo de la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 7 de julio de 2014*
+
+**ARTÍCULO ÚNICO.** Se reforma el inciso b) del tercer párrafo de la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 25 de junio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Juan Pablo Adame Alemán, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de julio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
