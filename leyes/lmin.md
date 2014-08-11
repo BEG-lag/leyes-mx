@@ -3,12 +3,12 @@ title: Ley de Minería
 abbreviation: LMin
 slug: lmin
 published_dof: 1992-06-26
-last_reform_dof: 2006-06-26
+last_reform_dof: 2014-08-11
 articles: 63
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/151.doc
-archived: https://web.archive.org/web/20130626045059/http://www.diputados.gob.mx/LeyesBiblio/doc/151.doc
-source_sha256: cfdc941a3d96af52b7093a967dfefdadc5e0d679ea034fcc6a3c9dbd9d213b62
-retrieved: 2013-06-26
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/151_110814.doc
+archived: https://web.archive.org/web/20190711020813/http://www.diputados.gob.mx:80/LeyesBiblio/doc/151_110814.doc
+source_sha256: 820d5f8b0437d8ca2e51760a9b6d77a4c89ecaaa835a12545b3296ed2e3bd4d5
+retrieved: 2019-07-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lmin.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 26 de junio de 199
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 26-06-2006
+Última reforma publicada DOF 11-08-2014
 
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -98,9 +98,9 @@ VII. Las materias minerales u orgánicas siguientes, susceptibles de ser utiliza
 
 *Fracción reformada DOF 28-04-2005*
 
-VIII.- El carbón mineral en todas sus variedades y el gas asociado a los yacimientos de éste;
+VIII. El carbón mineral en todas sus variedades;
 
-*Fracción reformada DOF 28-04-2005, 26-06-2006*
+*Fracción reformada DOF 28-04-2005, 26-06-2006, 11-08-2014*
 
 IX.- Los demás que determine el Ejecutivo Federal, mediante decreto que será publicado en el Diario Oficial de la Federación, atendiendo a su uso industrial debido al desarrollo de nuevas tecnologías, a su cotización en los mercados internacionales o a la necesidad de promover la explotación racional y la preservación de los recursos no renovables en beneficio de la sociedad.
 
@@ -110,9 +110,9 @@ Quienes estén realizando la exploración o explotación de los minerales o sust
 
 Se exceptúan de la aplicación de la presente Ley:
 
-I.- El petróleo y los carburos de hidrógeno sólidos, líquidos o gaseosos; salvo el gas asociado a los yacimientos de carbón mineral;
+I. El petróleo y los demás hidrocarburos sólidos, líquidos o gaseosos, que se encuentren en el subsuelo;
 
-*Fracción reformada DOF 26-06-2006*
+*Fracción reformada DOF 26-06-2006, 11-08-2014*
 
 II.- Los minerales radiactivos;
 
@@ -129,6 +129,22 @@ VI.- La sal que provenga de salinas formadas en cuencas endorréicas.
 ### Artículo 6.
 
 La exploración, explotación y beneficio de los minerales o sustancias a que se refiere esta Ley son de utilidad pública, serán preferentes sobre cualquier otro uso o aprovechamiento del terreno, con sujeción a las condiciones que establece la misma, y únicamente por ley de carácter federal podrán establecerse contribuciones que graven estas actividades.
+
+El carácter preferente de las actividades a que se refiere el párrafo anterior, no tendrá efectos frente a las actividades de exploración y extracción del petróleo y de los demás hidrocarburos, así como frente al servicio público de transmisión y distribución de energía eléctrica.
+
+*Párrafo adicionado DOF 11-08-2014*
+
+La Secretaría, previo a expedir títulos de concesión, deberá solicitar información necesaria a las autoridades competentes, a fin de verificar si, dentro de la superficie en la que se solicita la concesión, se realiza alguna de las actividades de exploración y extracción de petróleo y de los demás hidrocarburos o del servicio público de transmisión y distribución de energía eléctrica.
+
+*Párrafo adicionado DOF 11-08-2014*
+
+En caso de que la información solicitada confirme la realización de alguna de las actividades a que se refiere el párrafo segundo de este artículo dentro de la superficie para la que se solicita la concesión, la Secretaría, con base en un estudio técnico que realice con la Secretaría de Energía y en el cual se determine la factibilidad de la coexistencia de actividades mineras con las actividades de exploración y extracción de petróleo y demás hidrocarburos, o con las de servicio público de transmisión y distribución de energía eléctrica, en la misma superficie, podrá negar la concesión minera u otorgarla excluyendo la superficie que comprendan las actividades preferentes, en la medida en que resulten incompatibles con la explotación minera.
+
+*Párrafo adicionado DOF 11-08-2014*
+
+Con base en el estudio a que hace referencia el párrafo anterior, la Secretaría y la Secretaría de Energía podrán establecer reglas de convivencia entre las actividades mineras y las actividades estratégicas de exploración y extracción del petróleo y de los demás hidrocarburos y del servicio público de transmisión y distribución de energía eléctrica.
+
+*Párrafo adicionado DOF 11-08-2014*
 
 ### Artículo 7.
 
@@ -166,17 +182,17 @@ XI.- Corregir administrativamente los errores que encuentre en un título de con
 
 XII.- Verificar el cumplimiento de los deberes y obligaciones que impone la presente Ley a quienes lleven a cabo la exploración, explotación o beneficio de minerales o sustancias concesibles e imponer las sanciones administrativas derivadas de su inobservancia;
 
-XIII.- En conjunto con la Secretaría de Energía, formular y actualizar las políticas de recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral, para asegurar su aprovechamiento racional y promover su uso eficiente;
+XIII. (Se deroga.)
 
-*Fracción adicionada DOF 26-06-2006*
+*Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014*
 
-XIV.- En conjunto con la Secretaría de Energía, establecer los términos y condiciones, así como disposiciones administrativas de carácter técnico para la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral;
+XIV. (Se deroga.)
 
-*Fracción adicionada DOF 26-06-2006*
+*Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014*
 
-XV.- En conjunto con la Secretaría de Energía, evaluar la factibilidad de los proyectos de recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral y su congruencia con la política de energía;
+XV. (Se deroga.)
 
-*Fracción adicionada DOF 26-06-2006*
+*Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014*
 
 XVI.- Resolver los recursos que se interpongan conforme a lo previsto por esta Ley, y
 
@@ -312,9 +328,7 @@ II.- Que tengan su domicilio legal en la República Mexicana, y
 
 III.- En las que la participación de inversionistas extranjeros, en su caso, se ajuste a las disposiciones de la ley de la materia.
 
-(Se deroga segundo párrafo)
-
-*Párrafo derogado DOF 24-12-1996*
+*Reforma DOF 24-12-1996: Derogó del artículo el entonces párrafo segundo*
 
 ### Artículo 12.
 
@@ -426,21 +440,15 @@ Cuando se cancelen concesiones y asignaciones por sustitución, solamente se lib
 
 Las concesiones mineras conferirán derechos sobre todos los minerales o sustancias sujetos a la aplicación de la presente Ley.
 
-(Se derogan párrafos segundo y tercero)
-
-*Párrafos derogados DOF 28-04-2005*
-
 Las concesiones mineras tendrán una duración de cincuenta años, contados a partir de la fecha de su inscripción en el Registro Público de Minería y se prorrogarán por igual término si sus titulares no incurrieron en las causales de cancelación previstas en la presente Ley y lo solicitan dentro de los cinco años previos al término de su vigencia.
 
 *Párrafo reformado DOF 28-04-2005*
 
-(Se deroga párrafo quinto)
-
-*Párrafo derogado DOF 28-04-2005*
-
 En tanto se resuelven las solicitudes de prórroga de vigencia, continuarán en vigor las concesiones con respecto a las cuales se formulen.
 
 *Párrafo reformado DOF 28-04-2005*
+
+*Reforma DOF 28-04-2005: Derogó del artículo los entonces párrafos segundo, tercero y quinto*
 
 ### Artículo 16.
 
@@ -524,19 +532,15 @@ XII.- Obtener la prórroga en las concesiones minera por igual término de vigen
 
 *Fracción reformada DOF 28-04-2005, 26-06-2006*
 
-XIII.- Obtener el permiso de la Secretaría de Energía para la recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral. El aprovechamiento puede darse de dos maneras: el autoconsumo y la entrega a Petróleos Mexicanos. En el caso del autoconsumo dependiendo de la forma en que se de éste se sujetará a lo dispuesto en las leyes correspondientes.
+XIII. (Se deroga.)
 
-a) Los concesionarios de yacimientos para la explotación de carbón mineral podrán asociarse para recuperar, autoconsumir y aprovechar el gas asociado a los yacimientos de carbón mineral, previa autorización de la Secretaría de Energía.
-
-b) Para el caso del transporte y servicio de entrega del gas asociado a los yacimientos de carbón mineral a Petróleos Mexicanos, será necesario la celebración de un contrato en los términos de las disposiciones administrativas que fije la Secretaría de Energía.
-
-c) Los términos y la metodología para el pago de la contraprestación del servicio de transporte y entrega del gas a que se refiere el contrato citado en el párrafo anterior serán establecidos por la autoridad competente y deberá considerar las inversiones necesarias para su recuperación, transporte, operación y mantenimiento más la obtención de una utilidad razonable.
-
-*Fracción adicionada DOF 26-06-2006*
+*Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014*
 
 ### Artículo 20.
 
-Las obras y trabajos de exploración y explotación de carbón en todas sus variedades, en terrenos amparados por asignaciones petroleras sólo podrán ejecutarse con autorización de la Secretaría, la que solicitará opinión a la Secretaría de Energía para fijar las condiciones técnicas a que deben sujetarse los mismos.
+Las obras y trabajos de exploración y explotación de carbón en todas sus variedades, en terrenos amparados por asignaciones petroleras o por contratos para la exploración y extracción de hidrocarburos, en términos de la Ley de Hidrocarburos, sólo podrán ejecutarse con autorización de la Secretaría, que solicitará opinión favorable a la Secretaría de Energía.
+
+*Párrafo reformado DOF 11-08-2014*
 
 Las obras y trabajos de exploración y de explotación que se realicen dentro de poblaciones, presas, canales, vías generales de comunicación y otras obras públicas, en los zócalos submarinos de islas, cayos y arrecifes, el lecho marino y el subsuelo de la zona económica exclusiva, en las áreas naturales protegidas, así como las que se efectúen dentro de la zona federal marítimo terrestre, únicamente podrán realizarse con autorización, permiso, o concesión según el caso, de las autoridades que tengan a su cargo los referidos bienes, zócalos, lecho marino, subsuelo, las áreas o las zonas citadas, en los términos que señalen las disposiciones aplicables.
 
@@ -640,21 +644,21 @@ X.- Rendir al Servicio Geológico Mexicano, en el caso de concesiones otorgadas 
 
 *Fracción adicionada DOF 28-04-2005. Reformada DOF 26-06-2006*
 
-XI.- Dar aviso a la Secretaría de Energía sobre el inicio y suspensión de las actividades relacionadas con la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral, que se realice al amparo de su concesión minera;
+XI. Informar a la Secretaría de Energía sobre el hallazgo de cualquier hidrocarburo en el área objeto de la concesión minera.
 
-*Fracción adicionada DOF 26-06-2006*
+*Fracción adicionada DOF 26-06-2006. Reformada DOF 11-08-2014*
 
-XII. Acumular, registrar y proporcionar periódicamente información geológica a la Secretaría de Energía relacionada con la recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral;
+XII. (Se deroga.)
 
-*Fracción adicionada DOF 26-06-2006*
+*Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014*
 
-XIII.- Avisar a la Secretaría de Energía sobre el descubrimiento de gas no asociado a los yacimientos de carbón mineral, como producto de las concesiones que amparan la exploración y explotación de yacimientos de carbón mineral, y
+XIII. (Se deroga.)
 
-*Fracción adicionada DOF 26-06-2006*
+*Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014*
 
-XIV.- Entregar el gas asociado a los yacimientos de carbón mineral en el punto de conexión que indique Petróleos Mexicanos, en caso de que no se destine al autoconsumo.
+XIV. (Se deroga.)
 
-*Fracción adicionada DOF 26-06-2006*
+*Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014*
 
 Los titulares de concesiones mineras otorgadas mediante concurso o de aquellas que las sustituyan estarán obligados a cubrir, adicionalmente, la prima por descubrimiento y la contraprestación económica ofrecidas.
 
@@ -708,11 +712,9 @@ XIV.- Adquisición, arrendamiento y mantenimiento de equipo para minado, acarreo
 
 XV.- Adquisición, arrendamiento, instalación y mantenimiento de equipo para operaciones de beneficio y presas de jales.
 
-(Se deroga segundo párrafo)
-
-*Párrafo derogado DOF 28-04-2005*
-
 Las inversiones se aplicarán de acuerdo con los criterios que fije el Reglamento de la presente Ley.
+
+*Reforma DOF 28-04-2005: Derogó del artículo el entonces párrafo segundo*
 
 ### Artículo 30.
 
@@ -740,9 +742,7 @@ La Secretaría dispondrá de veinte días naturales para desaprobar el desistimi
 
 *Párrafo reformado DOF 24-12-1996*
 
-(Se deroga tercer párrafo)
-
-*Párrafo derogado DOF 24-12-1996*
+*Reforma DOF 24-12-1996: Derogó del artículo el entonces párrafo tercero*
 
 ### Artículo 34.
 
@@ -948,11 +948,9 @@ Las reclamaciones por negativa, rectificación, modificación o cancelación de 
 
 La Secretaría llevará la Cartografía Minera para constatar el carácter libre de los lotes que sean objeto de solicitudes de concesión y asignación mineras. En dicha Cartografía se representarán gráficamente la ubicación y el perímetro de los lotes amparados por concesiones, asignaciones y reservas mineras vigentes, al igual que por solicitudes de concesión y asignación mineras en trámite.
 
-(Se deroga segundo párrafo)
-
-*Párrafo derogado DOF 28-04-2005*
-
 Toda persona podrá examinar la Cartografía Minera y solicitar a su costa planos de la misma.
+
+*Reforma DOF 28-04-2005: Derogó del artículo el entonces párrafo segundo*
 
 ## CAPITULO SEPTIMO · De las Inspecciones, Sanciones y Recursos
 
@@ -1010,21 +1008,21 @@ VIII.- Agrupar concesiones que amparen lotes mineros no colindantes para efectos
 
 *Fracción reformada DOF 26-06-2006*
 
-IX.- Recuperar, almacenar, transportar y prestar servicio de entrega del gas asociado que se derive de la recuperación y aprovechamiento de los yacimientos de carbón mineral, sin la autorización a que se refiere el artículo 19, fracción XIII, de esta Ley;
+IX. (Se deroga.)
 
-*Fracción adicionada DOF 26-06-2006*
+*Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014*
 
-X.- Recuperar, almacenar, transportar y prestar servicio de entrega del gas asociado a los yacimientos de carbón mineral a que se refiere el artículo 19, fracción XIII, de esta Ley, simulando sin realizar las actividades para las que fue otorgada la concesión;
+X. (Se deroga.)
 
-*Fracción adicionada DOF 26-06-2006*
+*Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014*
 
-XI.- Enajenar el gas asociado que se derive de la recuperación y aprovechamiento de los yacimientos de carbón mineral;
+XI. (Se deroga.)
 
-*Fracción adicionada DOF 26-06-2006*
+*Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014*
 
-XII.- Omitir información respecto al gas no asociado a los yacimientos de carbón mineral descubierto en las fases de exploración y explotación de los yacimientos de dicho mineral, o
+XII. Omitir información sobre el hallazgo de cualquier hidrocarburo en el área objeto de la concesión minera.
 
-*Fracción adicionada DOF 26-06-2006*
+*Fracción adicionada DOF 26-06-2006. Reformada DOF 11-08-2014*
 
 XIII.- Perder la capacidad para ser titular de concesiones.
 
@@ -1084,10 +1082,6 @@ XI. Comprobar extemporáneamente la ejecución en tiempo de las obras y trabajos
 
 XII.- No rendir oportuna y verazmente los informes estadísticos, técnicos y contables en los términos y condiciones que fije el Reglamento de la presente Ley.
 
-(Se deroga segundo párrafo)
-
-*Párrafo derogado DOF 28-04-2005*
-
 De existir reincidencia se podrá imponer hasta dos tantos del importe de la multa y cuando se trate de la infracción a que se refiere la fracción I hasta cien tantos del importe de dicha multa.
 
 *Párrafo reformado DOF 28-04-2005*
@@ -1095,6 +1089,8 @@ De existir reincidencia se podrá imponer hasta dos tantos del importe de la mul
 Para la imposición de la multa, la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios que haya causado, al igual que los antecedentes, circunstancias personales y capacidad económica del infractor.
 
 La aplicación de las multas establecidas en el presente artículo será sin perjuicio de la responsabilidad penal que pudiere resultar.
+
+*Reforma DOF 28-04-2005: Derogó del artículo el entonces párrafo segundo*
 
 ### Artículo 57 BIS.
 
@@ -1229,3 +1225,35 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 20 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Micaela Aguilar González, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+### DECRETO por el que se expide la Ley de Hidrocarburos y se reforman diversas disposiciones de la Ley de Inversión Extranjera; Ley Minera, y Ley de Asociaciones Público Privadas.
+
+*Publicado en el Diario Oficial de la Federación el 11 de agosto de 2014*
+
+**ARTÍCULO TERCERO.** Se reforman los artículos 4, fracción VIII; 5, fracción I; el primer párrafo al artículo 20; 27, fracción XI, y 55, fracción XII; se adicionan un segundo, tercer, cuarto y quinto párrafos al artículo 6; y se deroga las fracciones XIII, XIV y XV del artículo 7; la fracción XIII del artículo 19; las fracciones XII, XIII y XIV del artículo 27 y las fracciones IX, X y XI del artículo 55 de la Ley Minera, para quedar como sigue:
+
+………
+
+**ARTÍCULO CUARTO.** Se establecen las siguientes disposiciones transitorias de la Ley Minera:
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se abroga el Reglamento de la Ley Minera en materia de Gas Asociado a los Yacimientos de Carbón Mineral, publicado en el Diario Oficial de la Federación el 16 de diciembre de 2008.
+
+**Tercero.-** Las áreas en que hubo o haya asignaciones mineras con potencial para la extracción de gas asociado a los yacimientos de carbón, se considerarán como reservadas, para ello el Ejecutivo Federal mediante Decreto publicado en el Diario Oficial de la Federación establecerá esta Reserva conforme al procedimiento establecido en la presente Ley. Lo previsto en este transitorio no será aplicable para las concesiones mineras que se encuentren vigentes a la entrada en vigor de este Decreto.
+
+**Cuarto.-** Tratándose de concesiones mineras vigentes a la fecha de la entrada en vigor del presente Decreto, no se requerirá el estudio a que se refiere el artículo 6 de la Ley.
+
+La Secretaría y la Secretaría de Energía podrán elaborar reglas para que las actividades mineras vigentes a la entrada en vigor del presente Decreto coexistan con las actividades de exploración y extracción de petróleo y demás hidrocarburos.
+
+………
+
+**TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+
+México, D.F., a 5 de agosto de 2014.- Dip. José González Morfín, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
