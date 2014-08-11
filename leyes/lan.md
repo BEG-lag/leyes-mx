@@ -3,12 +3,12 @@ title: Ley de Aguas Nacionales
 abbreviation: LAN
 slug: lan
 published_dof: 1992-12-01
-last_reform_dof: 2013-06-07
+last_reform_dof: 2014-08-11
 articles: 193
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc
-archived: https://web.archive.org/web/20130626054157/http://www.diputados.gob.mx/LeyesBiblio/doc/16.doc
-source_sha256: ffb63f8e7a4dcffd06b5125af54f2894f736ab3f1dfd6d6745a77e1860b79e3c
-retrieved: 2013-06-26
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/16_110814.doc
+archived: https://web.archive.org/web/20150315091459/http://www.diputados.gob.mx/LeyesBiblio/doc/16_110814.doc
+source_sha256: b3c7c2955e1db2281c6ddde2025f30aae386a165f20e1ae0b2a92baa7bb6d499
+retrieved: 2015-03-15
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lan.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de diciembre d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 07-06-2013
-
-> Nota de vigencia: Las reformas a la fracción III y IV del artículo 14 BIS 4; al artículo 96 BIS; y al primer párrafo del artículo 96 BIS 1, publicadas en el DOF 07-06-2013, entrarán en vigor el 7 de julio de 2013.
+Última reforma publicada DOF 11-08-2014
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -193,6 +191,10 @@ LIX. "Uso Pecuario": La aplicación de aguas nacionales para la cría y engorda 
 LX. "Uso Público Urbano": La aplicación de agua nacional para centros de población y asentamientos humanos, a través de la red municipal;
 
 LXI. "Vaso de lago, laguna o estero": El depósito natural de aguas nacionales delimitado por la cota de la creciente máxima ordinaria;
+
+LXI BIS. “Yacimiento geotérmico hidrotermal”: Aquel definido en términos de la Ley de Energía Geotérmica;
+
+*Fracción adicionada DOF 11-08-2014*
 
 LXII. "Zona de Protección": La faja de terreno inmediata a las presas, estructuras hidráulicas y otra infraestructura hidráulica e instalaciones conexas, cuando dichas obras sean de propiedad nacional, en la extensión que en cada caso fije "la Comisión" o el Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para su protección y adecuada operación, conservación y vigilancia, de acuerdo con lo dispuesto en los reglamentos de esta Ley;
 
@@ -1173,9 +1175,9 @@ Las aguas nacionales del subsuelo podrán ser libremente alumbradas mediante obr
 
 *Párrafo reformado DOF 20-06-2011*
 
-Para el establecimiento de zonas reglamentadas de veda o reserva, el Ejecutivo Federal, a iniciativa de “la Comisión” que se apoyará en las propuestas que elaboren los Organismos de Cuenca, publicará la declaratoria que se expida cuando se comprueben condiciones de sobreexplotación para acuíferos y unidades hidrogeológicas específicas, cuidando de deslindar cuando así se requiera, la aplicación de las disposiciones que se establezcan para acuíferos superiores, en relación con otras unidades hidrogeológicas que contengan acuíferos inferiores, acuicludos y acuitardos, existentes en la misma zona geográfica a distintas profundidades, en función de sus zonas de recarga y descarga, estratos geológicos que las contengan, condiciones de flujo y almacenamiento y comportamiento en relación con su uso y aprovechamiento. Para ello, “la Comisión” deberá realizar, por sí o con el apoyo de terceros cuando resulte conveniente, los estudios y evaluaciones suficientes con el objeto de sustentar los deslindamientos referidos y promover el mejor aprovechamiento de las fuentes de aguas del subsuelo.
+El Ejecutivo Federal, a propuesta de “la Comisión”, emitirá la declaratoria de zonas reglamentadas, de veda o de reserva, deslindando, cuando así se requiera, la aplicación de las disposiciones que se establezcan para acuíferos definidos por “la Comisión”, en relación con otros acuíferos o yacimientos geotérmicos hidrotermales que existan en la misma zona geográfica. Para ello, “la Comisión” deberá realizar, por sí o con el apoyo de terceros cuando resulte conveniente, los estudios y evaluaciones suficientes para sustentar los deslindamientos referidos y promover el mejor aprovechamiento de las fuentes de aguas del subsuelo.
 
-*Párrafo reformado DOF 20-06-2011*
+*Párrafo reformado DOF 20-06-2011, 11-08-2014*
 
 Conforme a las disposiciones del presente Artículo y Ley, se expedirán el reglamento para la extracción y para la explotación, uso o aprovechamiento de las aguas nacionales de los acuíferos correspondientes, incluyendo el establecimiento de zonas reglamentadas, así como los decretos para el establecimiento, modificación o supresión de zonas de veda o declaratorias de reserva que se requieran.
 
@@ -2415,9 +2417,25 @@ No se requerirá concesión, en los términos de los reglamentos de la presente 
 
 ##### ARTÍCULO 81.
 
-La explotación, el uso o aprovechamiento de aguas de subsuelo en estado de vapor o con temperatura superior a ochenta grados centígrados, cuando se pueda afectar un acuífero, requerirán de la concesión previa para generación geotérmica u otros usos, además de evaluar el impacto ambiental.
+Los interesados en realizar trabajos de exploración con fines geotérmicos, deberán solicitar a “la Comisión” permiso de obra para el o los pozos exploratorios, en términos de lo dispuesto por la Ley de Energía Geotérmica y su Reglamento.
 
-*Artículo reformado DOF 29-04-2004*
+La explotación, uso y aprovechamiento de aguas del subsuelo, contenidas en yacimientos geotérmicos hidrotermales, requiere de concesión de agua otorgada por “la Comisión” y de autorización en materia de impacto ambiental.
+
+Las concesiones de agua a que alude el párrafo anterior serán otorgadas de conformidad con los requisitos establecidos en la Ley de Energía Geotérmica y su Reglamento. En todo caso, la dependencia ante la cual se realizarán los trámites relativos a su otorgamiento y modificación, será la que señala el artículo 2 fracción XVI de la Ley de Energía Geotérmica.
+
+Como parte de los requisitos que establece la Ley de Energía Geotérmica y su Reglamento para el otorgamiento de concesiones de agua, el interesado deberá presentar a la dependencia a que alude el párrafo anterior, los estudios del yacimiento geotérmico hidrotermal que determinen su localización, extensión, características y conexión o independencia con los acuíferos adyacentes o sobreyacentes.
+
+Los estudios y exploraciones realizados por los interesados deberán determinar la ubicación del yacimiento geotérmico hidrotermal con respecto a los acuíferos, la probable posición y configuración del límite inferior de éstos, las características de las formaciones geológicas comprendidas entre el yacimiento y los acuíferos, entre otros aspectos.
+
+Si los estudios demuestran que el yacimiento geotérmico hidrotermal y los acuíferos sobreyacentes no tienen conexión hidráulica directa, el otorgamiento de la concesión de agua por parte de “la Comisión”, no estará sujeta a la disponibilidad de agua de los acuíferos ni a la normatividad relativa a las zonas reglamentadas, vedas y reservas, respectivas.
+
+“La Comisión” otorgará al solicitante, a través de la dependencia a que la alude la fracción XVI del artículo 2 de la Ley de Energía Geotérmica, la concesión de agua correspondiente sobre el volumen de agua solicitado por el interesado y establecerá un programa de monitoreo a fin de identificar afectaciones negativas a la calidad del agua subterránea, a las captaciones de la misma o a la infraestructura existente derivadas de la explotación del yacimiento.
+
+Se requerirá permiso de descarga y autorización en materia de impacto ambiental cuando el agua de retorno se vierta a cuerpos receptores que sean aguas nacionales y demás bienes nacionales o cuando se trate de la disposición al subsuelo de los recortes de perforación. La reincorporación del agua de retorno al yacimiento geotérmico hidrotermal, requiere permiso de obra para el pozo de inyección.
+
+Las concesiones de agua otorgadas por “la Comisión”, podrán ser objeto de modificación en caso de alteración de los puntos de extracción o inyección, redistribución de volúmenes, relocalización, reposición y cierre de pozos.
+
+*Artículo reformado DOF 29-04-2004, 11-08-2014*
 
 ### Capítulo IV · Uso en otras Actividades Productivas
 
@@ -3640,3 +3658,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 25 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se expiden la Ley de la Industria Eléctrica, la Ley de Energía Geotérmica y se adicionan y reforman diversas disposiciones de la Ley de Aguas Nacionales.
+
+*Publicado en el Diario Oficial de la Federación el 11 de agosto de 2014*
+
+**ARTÍCULO TERCERO.-** Se reforman los artículos 18, segundo párrafo y 81; y se adiciona al artículo 3, la fracción LXI BIS de la Ley de Aguas Nacionales, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+México, D.F., a 5 de agosto de 2014.- Dip. José González Morfín, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
