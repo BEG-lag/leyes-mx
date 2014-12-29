@@ -3,12 +3,12 @@ title: Código Nacional de Procedimientos Penales
 abbreviation: CNPP
 slug: cnpp
 published_dof: 2014-03-05
-last_reform_dof: null
+last_reform_dof: 2014-12-29
 articles: 490
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc
-archived: https://web.archive.org/web/20140701184206/http://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc
-source_sha256: 9f3e4cd62913415c5a075a6eca4a16237a6b1c305ccad329d0d13a3a4c0fbcc7
-retrieved: 2014-07-01
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_291214.doc
+archived: https://web.archive.org/web/20150315094139/http://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_291214.doc
+source_sha256: c9335e01f18bfae3ca83f5fb9075acc94d19fa76b27183f19580c4c1bd52a0cd
+retrieved: 2015-03-15
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 ---
 
@@ -16,7 +16,16 @@ reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 
 Nuevo Código publicado en el Diario Oficial de la Federación el 5 de marzo de 2014
 
-> Nota de vigencia: El presente Código entrará en vigor de conformidad con lo que establece el Artículo Segundo Transitorio del mismo.
+Última reforma publicada DOF 29-12-2014
+
+> Nota de vigencia: El presente Código entrará en vigor de conformidad con lo que establece el Artículo Segundo Transitorio del mismo:
+>
+> “ARTÍCULO SEGUNDO. Vigencia
+> Este Código entrará en vigor a nivel federal gradualmente en los términos previstos en la Declaratoria que al efecto emita el Congreso de la Unión previa solicitud conjunta del Poder Judicial de la Federación, la Secretaría de Gobernación y de la Procuraduría General de la República, sin que pueda exceder del 18 de junio de 2016.
+>
+> En el caso de las Entidades federativas y del Distrito Federal, el presente Código entrará en vigor en cada una de ellas en los términos que establezca la Declaratoria que al efecto emita el órgano legislativo correspondiente, previa solicitud de la autoridad encargada de la implementación del Sistema de Justicia Penal Acusatorio en cada una de ellas.
+>
+> En todos los casos, entre la Declaratoria a que se hace referencia en los párrafos anteriores y la entrada en vigor del presente Código deberán mediar sesenta días naturales.”
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -2274,7 +2283,7 @@ En todo lo no previsto en este Título, y siempre que no se opongan al mismo, se
 
 Para las salidas alternas y formas de terminación anticipada, la autoridad competente contará con un registro para dar seguimiento al cumplimiento de los acuerdos reparatorios, los procesos de suspensión condicional del proceso, y el procedimiento abreviado, dicho registro deberá ser consultado por el Ministerio Público y la autoridad judicial antes de solicitar y conceder, respectivamente, alguna forma de solución alterna del procedimiento o de terminación anticipada del proceso.
 
-En lo relativo a la conciliación y la mediación, se estará a lo dispuesto en la ley en la materia.
+*Artículo reformado DOF 29-12-2014*
 
 ###### Artículo 184.
 
@@ -2298,7 +2307,9 @@ El procedimiento abreviado será considerado una forma de terminación anticipad
 
 Definición
 
-Los acuerdos reparatorios son aquéllos celebrados entre la víctima u ofendido y el imputado que, una vez aprobados por el Ministerio Público o el Juez de control y cumplidos en sus términos, tienen como efecto la conclusión del proceso.
+Los acuerdos reparatorios son aquéllos celebrados entre la víctima u ofendido y el imputado que, una vez aprobados por el Ministerio Público o el Juez de control y cumplidos en sus términos, tienen como efecto la extinción de la acción penal.
+
+*Artículo reformado DOF 29-12-2014*
 
 ###### Artículo 187.
 
@@ -2306,19 +2317,31 @@ Control sobre los acuerdos reparatorios
 
 Procederán los acuerdos reparatorios únicamente en los casos siguientes:
 
-I. Delitos que se persiguen por querella o requisito equivalente de parte ofendida;
+I. Delitos que se persiguen por querella, por requisito equivalente de parte ofendida o que admiten el perdón de la víctima o el ofendido;
+
+*Fracción reformada DOF 29-12-2014*
 
 II. Delitos culposos, o
 
 III. Delitos patrimoniales cometidos sin violencia sobre las personas.
 
-No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos de la misma naturaleza jurídica, salvo que hayan transcurrido cinco años de haber dado cumplimiento al último acuerdo reparatorio, o se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas.
+No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a delitos dolosos, salvo que hayan transcurrido dos años de haber dado cumplimiento al último acuerdo reparatorio, o se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas.
+
+*Párrafo reformado DOF 29-12-2014*
+
+Tampoco serán procedentes en caso de que el imputado haya incumplido previamente un acuerdo reparatorio, salvo que haya sido absuelto o cuando hayan transcurrido cinco años desde dicho incumplimiento.
+
+*Párrafo adicionado DOF 29-12-2014*
 
 ###### Artículo 188.
 
 Procedencia
 
-Los acuerdos reparatorios procederán hasta antes de decretarse el auto de apertura de juicio. El Juez de control, a petición de las partes, podrá suspender el proceso penal hasta por treinta días para que las partes puedan concretar el acuerdo con el apoyo de la autoridad competente especializada en la materia. En caso de que la concertación se interrumpa, cualquiera de las partes podrá solicitar la continuación del proceso.
+Los acuerdos reparatorios procederán desde la presentación de la denuncia o querella hasta antes de decretarse el auto de apertura de juicio. En el caso de que se haya dictado el auto de vinculación a proceso y hasta antes de que se haya dictado el auto de apertura a juicio, el Juez de control, a petición de las partes, podrá suspender el proceso penal hasta por treinta días para que las partes puedan concretar el acuerdo con el apoyo de la autoridad competente especializada en la materia.
+
+En caso de que la concertación se interrumpa, cualquiera de las partes podrá solicitar la continuación del proceso.
+
+*Artículo reformado DOF 29-12-2014*
 
 ###### Artículo 189.
 
@@ -2328,7 +2351,9 @@ Desde su primera intervención, el Ministerio Público o en su caso, el Juez de 
 
 Las partes podrán acordar acuerdos reparatorios de cumplimiento inmediato o diferido. En caso de señalar que el cumplimiento debe ser diferido y no señalar plazo específico, se entenderá que el plazo será por un año. El plazo para el cumplimiento de las obligaciones suspenderá el trámite del proceso y la prescripción de la acción penal.
 
-Si el imputado incumple sin justa causa las obligaciones pactadas dentro del plazo acordado, el Ministerio Público lo hará del conocimiento del Juez de control, quien ordenará levantar la suspensión del trámite del proceso y continuará con el procedimiento como si no se hubiera celebrado acuerdo alguno.
+Si el imputado incumple sin justa causa las obligaciones pactadas, la investigación o el proceso, según corresponda, continuará como si no se hubiera celebrado acuerdo alguno.
+
+*Párrafo reformado DOF 29-12-2014*
 
 La información que se genere como producto de los acuerdos reparatorios no podrá ser utilizada en perjuicio de las partes dentro del proceso penal.
 
@@ -2338,7 +2363,9 @@ El juez decretará la extinción de la acción una vez aprobado el cumplimiento 
 
 Trámite
 
-Los acuerdos reparatorios deberán ser aprobados por el Juez de control cuando sean de cumplimiento diferido o cuando el proceso ya se haya iniciado y por el Ministerio Público, en la etapa de investigación inicial, cuando sean de cumplimiento inmediato; en este último caso, se declarará extinta la acción penal. La parte inconforme con esta determinación del Ministerio Público podrá solicitar control judicial dentro del plazo de tres días contados a partir de aquél en que se haya aprobado el acuerdo.
+Los acuerdos reparatorios deberán ser aprobados por el Juez de control a partir de la etapa de investigación complementaria y por el Ministerio Publico en la etapa de investigación inicial. En este último supuesto, las partes tendrán derecho a acudir ante el Juez de control, dentro de los cinco días siguientes a que se haya aprobado el acuerdo reparatorio, cuando estimen que el mecanismo alternativo de solución de controversias no se desarrolló conforme a las disposiciones previstas en la ley de la materia. Si el Juez de control determina como válidas las pretensiones de las partes, podrá declarar como no celebrado el acuerdo reparatorio y, en su caso, aprobar la modificación acordada entre las partes.
+
+*Párrafo reformado DOF 29-12-2014*
 
 Previo a la aprobación del acuerdo reparatorio, el Juez de control o el Ministerio Público verificarán que las obligaciones que se contraen no resulten notoriamente desproporcionadas y que los intervinientes estuvieron en condiciones de igualdad para negociar y que no hayan actuado bajo condiciones de intimidación, amenaza o coacción.
 
@@ -5463,3 +5490,35 @@ A partir de la entrada en vigor del Código Nacional de Procedimientos Penales, 
 México, D.F., a 5 de febrero de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
+
+### DECRETO por el que se expide la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, se reforman diversas disposiciones del Código Nacional de Procedimientos Penales y se reforman y adicionan diversas disposiciones del Código Federal de Procedimientos Penales.
+
+*Publicado en el Diario Oficial de la Federación el 29 de diciembre de 2014*
+
+**ARTÍCULO SEGUNDO.** Se REFORMAN los artículos 183, 186, 187, fracción I y segundo párrafo; 188, 189, tercer párrafo; y 190, primer párrafo; y se adiciona el artículo 187, con un tercer párrafo del Código Nacional de Procedimientos Penales, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**PRIMERO.** La Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal entrará en vigor en los mismos términos y plazos en que entrará en vigor el Código Nacional de Procedimientos Penales, de conformidad con lo previsto en el artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales.
+
+Las reformas y adiciones al Código Federal de Procedimientos Penales previstas en el presente Decreto entrarán en vigor en las regiones y gradualidad en las que se lleve a cabo la declaratoria a que refiere el artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, serán aplicables para los procedimientos iniciados con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio y se sustanciarán de conformidad con lo previsto en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+
+**SEGUNDO.** Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+**TERCERO.** A partir de la entrada en vigor del presente Decreto, el Poder Judicial de la Federación y los poderes judiciales de las entidades federativas que cuenten con un Órgano, conformarán, dentro del término de sesenta días hábiles, el Consejo a que se refiere el artículo 46 de la presente Ley.
+
+**CUARTO.** La certificación inicial de Facilitadores a que se refiere la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal deberá concluirse antes del dieciocho de junio de 2016.
+
+Dentro de los sesenta días siguientes a la publicación de este Decreto en el Diario Oficial de la Federación, la Secretaría Técnica de la Conferencia Nacional de Procuración de Justicia, así como la Secretaría Técnica del Consejo de certificación en sede judicial deberán elaborar el proyecto de criterios mínimos de certificación de Facilitadores. Para la elaboración de los criterios referidos deberán tomar en consideración la opinión de los representantes de las zonas en que estén conformadas la Conferencia y el Consejo. El proyecto deberá ser sometido a consideración del Pleno de la Conferencia o el Consejo en la sesión plenaria siguiente al vencimiento del plazo a que se refiere este párrafo.
+
+**QUINTO.** La Federación y las entidades federativas emitirán las disposiciones administrativas que desarrollen lo previsto en el presente Decreto a más tardar el día de su entrada en vigor de conformidad con el artículo primero transitorio anterior.
+
+**SEXTO.** La Federación y las entidades federativas, en su ámbito de competencia respectivo, proveerán los recursos humanos, materiales, tecnológicos y financieros que requiera la implementación del presente Decreto, conforme a sus presupuestos autorizados. Para el presente ejercicio fiscal, la Procuraduría General de la República, cubrirá con cargo a su presupuesto autorizado las erogaciones necesarias para el cumplimiento del presente Decreto, en el ámbito de su competencia.
+
+México, D.F., a 2 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
