@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2014-01-16
+last_reform_dof: 2015-01-09
 articles: 264
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
-archived: https://web.archive.org/web/20140408224345/http://www.diputados.gob.mx/LeyesBiblio/doc/148.doc
-source_sha256: b54fc9e7b52666cb1f29e10242ab6668434c24d992b8f0c65076404ac16a658f
-retrieved: 2014-04-08
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/148_090115.doc
+archived: https://web.archive.org/web/20160328112838/http://www.diputados.gob.mx:80/LeyesBiblio/doc/148_090115.doc
+source_sha256: f41fe9a27be4c84dabafd4bc1b00446601b19778fdd357cf6978499d1c6a4c65
+retrieved: 2016-03-28
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 16-01-2014
+Última reforma publicada DOF 09-01-2015
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1454,9 +1454,7 @@ Por su parte, en las zonas de amortiguamiento de las reservas de la biosfera só
 
 *Párrafo reformado DOF 13-12-1996, 23-02-2005*
 
-(Se deroga el último párrafo).
-
-*Párrafo derogado DOF 13-12-1996*
+*Reforma DOF 13-12-1996: Derogó del artículo el entonces último párrafo*
 
 ##### ARTÍCULO 49.
 
@@ -2038,7 +2036,9 @@ Los ingresos que la Federación perciba por concepto del otorgamiento de permiso
 
 El Gobierno Federal, los gobiernos de los Estados, del Distrito Federal y de los Municipios, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
 
-Corresponde al Gobierno Federal expedir las normas oficiales mexicanas que determinen los principios básicos de trato digno y respetuoso previsto por esta Ley, que incluyan condiciones de cautiverio, exhibición, transporte, alimentación, explotación, manutención y sacrificio de los animales, así como vigilar su cumplimiento.
+Corresponde al Gobierno Federal expedir las normas oficiales mexicanas que determinen los principios básicos de trato digno y respetuoso previsto por esta Ley, que incluyen condiciones de cautiverio, exhibición, transporte, alimentación, explotación, entrenamiento, manutención y sacrificio de los animales, así como vigilar su cumplimiento.
+
+*Párrafo reformado DOF 09-01-2015*
 
 *Artículo adicionado DOF 13-12-1996. Reformado DOF 05-11-2013*
 
@@ -4349,3 +4349,27 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 3 de diciembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de la Ley General de Vida Silvestre.
+
+*Publicado en el Diario Oficial de la Federación el 9 de enero de 2015*
+
+**Artículo Primero.-** Se reforma el segundo párrafo del artículo 87 Bis 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor a los ciento ochenta días naturales posteriores a su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Los circos presentarán a la Secretaría de Medio Ambiente y Recursos Naturales de forma inmediata una base de datos que incluya el número y características de los ejemplares de vida silvestre que posean. Estas bases de datos se pondrán a disposición de los zoológicos del país para que éstos estén en posibilidades de seleccionar a los ejemplares que sean susceptibles de ser integrados a sus colecciones.
+
+Los ejemplares de vida silvestre incluidos en las bases de datos a que hace referencia el párrafo anterior que no sean seleccionados por los zoológicos, podrán ser entregados por sus poseedores a los Centros para la Conservación e Investigación de la Vida Silvestre pertenecientes a la Secretaría de Medio Ambiente y Recursos Naturales con el objeto de que no impliquen gasto por concepto de manutención de animales que ya no podrán ser utilizados en sus centros de trabajo.
+
+**Tercero.** Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas competencias, deberán adecuar sus legislaciones para dar cumplimiento al presente Decreto en un plazo que no exceda de ciento ochenta días naturales posteriores a la publicación del mismo en el Diario Oficial de la Federación.
+
+**Cuarto.** Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+México, D.F., a 11 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Lucero Saldaña Pérez, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a ocho de enero de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
