@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2014-12-24
+last_reform_dof: 2015-02-11
 articles: 62
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_241214.doc
-archived: https://web.archive.org/web/20150113030024/http://www.diputados.gob.mx/LeyesBiblio/doc/153_241214.doc
-source_sha256: b07f65e54c785720b1cb9a7394699e7eb93f918f0ba8f97a65e4bc261d15608e
-retrieved: 2015-01-13
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_110215.doc
+archived: https://web.archive.org/web/20150315091220/http://www.diputados.gob.mx/LeyesBiblio/doc/153_110215.doc
+source_sha256: 598f027f1d99444dc50198151aca279370c36544d612839fca8a5831c4224bce
+retrieved: 2015-03-15
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 24-12-2014
+Última reforma publicada DOF 27-01-2015
+
+Declaratoria de Invalidez de artículos por Sentencia de la SCJN DOF 11-02-2015
 
 > Nota de vigencia: Las reformas a los artículos 26; 31, fracciones XII, XIX, XXI, XXIV y XXV; y 50; las adiciones de los artículos 31, con las fracciones XXII, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXIV; y el 44; así como la derogación del artículo 37, publicadas mediante decreto en el DOF 02-01-2013, entrarán en vigor de conformidad con lo establecido por el artículo segundo transitorio de dicho decreto.
 
@@ -280,7 +282,11 @@ X. Conducir la política interior que competa al Ejecutivo y no se atribuya expr
 
 XI. Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del país; coordinar en vinculación con las organizaciones de la sociedad civil, trabajos y tareas de promoción y defensa de los derechos humanos y dar seguimiento a la atención de las recomendaciones que emitan los organismos competentes en dicha materia; así como dictar las medidas administrativas necesarias para tal efecto;
 
-XII. Formular y ejecutar las políticas, programas y acciones tendientes a garantizar la seguridad pública de la Nación y de sus habitantes; proponer al Ejecutivo Federal la política criminal y las medidas que garanticen la congruencia de ésta entre las dependencias de la Administración Pública Federal; comparecer cada seis meses ante las comisiones de Gobernación y de Seguridad Pública del Senado para presentar la política criminal y darle seguimiento cuando ésta se apruebe o se modifique; coadyuvar a la prevención del delito; ejercer el mando sobre la fuerza pública para proteger a la población ante todo tipo de amenazas y riesgos, con plena sujeción a los derechos humanos y libertades fundamentales; salvaguardar la integridad y los derechos de las personas; así como preservar las libertades, el orden y la paz públicos;
+XII. Formular y ejecutar las políticas, programas y acciones tendientes a garantizar la seguridad pública de la Nación y de sus habitantes; proponer al Ejecutivo Federal la política criminal y las medidas que garanticen la congruencia de ésta entre las dependencias de la Administración Pública Federal; [comparecer cada seis meses ante las comisiones de Gobernación y de Seguridad Pública del Senado para presentar la política criminal y darle seguimiento cuando ésta se apruebe o se modifique]; coadyuvar a la prevención del delito; ejercer el mando sobre la fuerza pública para proteger a la población ante todo tipo de amenazas y riesgos, con plena sujeción a los derechos humanos y libertades fundamentales; salvaguardar la integridad y los derechos de las personas; así como preservar las libertades, el orden y la paz públicos;
+
+*Nota: Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015 (En la porción normativa*
+
+que indica “comparecer cada seis meses ante las comisiones de Gobernación y de Seguridad Pública del Senado para presentar la política criminal y darle seguimiento cuando ésta se apruebe o se modifique”)
 
 XIII. Presidir el Consejo Nacional de Seguridad Pública en ausencia del Presidente de la República;
 
@@ -318,7 +324,13 @@ XXVIII. Establecer mecanismos e instancias para la coordinación integral de las
 
 XXIX. Coordinar y establecer mecanismos para contar oportunamente con la información de seguridad pública y nacional, así como del ámbito criminal y preventivo que esta Secretaría requiera de dependencias y organismos competentes en dichas materias, para el adecuado cumplimiento de las atribuciones que las leyes le establecen;
 
-XXX. Informar al Poder Legislativo Federal sobre los asuntos de su competencia en materia de seguridad nacional, a través de comparecencia de su titular cada seis meses ante la Comisión Bicamaral prevista en el artículo 56 de la Ley de Seguridad Nacional;
+XXX. Informar al Poder Legislativo Federal sobre los asuntos de su competencia en materia de seguridad nacional, [a través de comparecencia de su titular cada seis meses ante la Comisión Bicamaral prevista en el artículo 56 de la Ley de Seguridad Nacional];
+
+*Nota: Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015 (En la porción normativa*
+
+que indica “a través de comparecencia de su titular cada seis meses ante la Comisión Bicamaral prevista en el artículo 56 de la Ley de
+
+Seguridad Nacional”)
 
 XXXI. Otorgar las autorizaciones a empresas que presten servicios privados de seguridad en dos o más entidades federativas, supervisar su funcionamiento e informar periódicamente al Sistema Nacional de Seguridad Pública sobre el ejercicio de esta atribución;
 
@@ -348,7 +360,11 @@ XLIII. Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 En el ejercicio de las facultades a que se refieren las fracciones XII, XIII Bis, XIV, XV, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXVII, XXVIII, XXIX y XXXI de este artículo, el Secretario de Gobernación se auxiliará del Comisionado Nacional de Seguridad, sin perjuicio de ejercer directamente dichas facultades.
 
-El Comisionado Nacional de Seguridad y el Secretario Ejecutivo del Sistema Nacional de Seguridad Pública serán nombrados por el Titular del Poder Ejecutivo Federal con la ratificación del Senado de la República.
+[El Comisionado Nacional de Seguridad y] el Secretario Ejecutivo del Sistema Nacional de Seguridad Pública serán nombrados por el Titular del Poder Ejecutivo Federal con la ratificación del Senado de la República.
+
+*Nota: Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015 (En la porción normativa*
+
+que indica “El Comisionado Nacional de Seguridad y”)
 
 #### Artículo 28.
 
@@ -1076,7 +1092,7 @@ XXV.- Formular normas y programas, y ejecutar acciones para promover la educaci�
 
 XXVI.- (Se deroga).
 
-XXVII.- Organizar, promover y supervisar programas de capacitación y adiestramiento en coordinación con las dependencias del Gobierno Federal, los Gobiernos de los Estados y de los Municipios, las entidades públicas y privadas, así como los fideicomisos creados con tal propósito. A este fin organizará, igualmente, sistemas de orientación vocacional de enseñanza abierta y de acreditación de estudios;
+XXVII. Organizar, promover y supervisar programas de capacitación y adiestramiento en coordinación con las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y de los Municipios, las entidades públicas y privadas, así como los fideicomisos creados con tal propósito. A este fin organizará, igualmente, servicios de educación básica para adultos y sistemas de orientación vocacional de enseñanza abierta y de acreditación de estudios;
 
 XXVIII.- Orientar las actividades artísticas, culturales, recreativas y deportivas que realice el sector público federal;
 
@@ -2479,3 +2495,111 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 15 de diciembre de 2014.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción XXVII del artículo 38 de la Ley Orgánica de la Administración Pública Federal.
+
+*Publicado en el Diario Oficial de la Federación el 27 de enero de 2015*
+
+**Artículo Único.-** Se reforma la fracción XXVII del artículo 38 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** La Secretaría de Educación Pública, así como las demás autoridades con quienes se coordinarán para llevar a cabo los servicios de educación básica para adultos en los términos del presente Decreto, deberán llevar a cabo un diagnóstico inicial para la identificación de la población objetivo de estos servicios, en un plazo de ciento ochenta días contados a partir de la publicación del presente Decreto, mismo que deberá actualizarse cada año.
+
+**Tercero.-** Para los programas de educación básica para adultos, en los términos del presente Decreto, la Secretaría de Educación Pública conjuntamente con las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y los Municipios, así como las entidades públicas o privadas deberán establecer los plazos y las metas para lograr los objetivos que se fijen, de acuerdo a los diagnósticos señalados en el artículo transitorio anterior, tomando en consideración las asignaciones presupuestales previstas para ello.
+
+**Cuarto.-** La Secretaría de Educación Pública, las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y los Municipios, así como las entidades públicas o privadas deberán definir los esquemas de incentivos y otorgar las facilidades necesarias para que los servidores públicos que se encuentran en rezago educativo puedan concluir su educación básica.
+
+México, D.F., a 14 de diciembre de 2014.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lucero Saldaña Pérez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de enero de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### SENTENCIA dictada por el Tribunal Pleno en la Acción de Inconstitucionalidad 1/2013, promovida por diputados y diputadas integrantes de la Sexagésima Segunda Legislatura del Congreso de la Unión, así como el Voto Aclaratorio formulado por el Ministro José Ramón Cossío Díaz en dicho fallo.
+
+*Publicada en el Diario Oficial de la Federación el 11 de febrero de 2015*
+
+ACCIÓN DE INCONSTITUCIONALIDAD 1/2013
+
+PROMOVENTES: DIPUTADOS Y DIPUTADAS INTEGRANTES DE LA SEXAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DE LA UNIÓN
+
+PONENTE: MINISTRO ALFREDO GUTIÉRREZ ORTIZ MENA
+
+SECRETARIO: MIGUEL ANTONIO NÚÑEZ VALADEZ
+
+México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación correspondiente al día veintitrés de octubre de dos mil catorce, por el que se emite la siguiente:
+
+SENTENCIA
+
+Mediante la que se resuelve la acción de inconstitucionalidad 1/2013, promovida por diversos diputados y diputadas federales de la Sexagésima Segunda Legislatura del Congreso de la Unión en contra de diversos preceptos de la Ley Orgánica de la Administración Pública Federal.
+
+I a VIII. ………
+
+IX. EFECTOS DE LA SENTENCIA
+
+118\. Atendiendo a lo dispuesto por el artículo 73, en relación con el 45, ambos de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, que señalan:
+
+**Artículo 73.** Las sentencias se regirán por lo dispuesto en los artículos 41, 43, 44 y 45 de esta ley.”
+
+**Artículo 45.** Las sentencias producirán sus efectos a partir de la fecha que determine la Suprema Corte de Justicia de la Nación.
+
+La declaración de invalidez de las sentencias no tendrá efectos retroactivos, salvo en materia penal, en la que regirán los principios generales y disposiciones legales aplicables de esta materia.
+
+119\. La declaratoria de invalidez de las citadas porciones normativas del artículo 27, fracciones XII, XXX y último párrafo, de la Ley Orgánica de la Administración Pública Federal tienen efectos generales y surtirán su vigencia a partir de la publicación de esta sentencia en el Diario Oficial de la Federación.
+
+120\. En suma, por lo expuesto y fundado,
+
+SE RESUELVE:
+
+**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+
+**SEGUNDO.** Se desestima la presente acción de inconstitucionalidad en relación con el artículo 27, párrafo último, de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que dice “el Secretario Ejecutivo del Sistema Nacional de Seguridad”.
+
+**TERCERO.** Se reconoce la validez de la fracción XVI del artículo 27 de la Ley Orgánica de la Administración Pública Federal, en la porción normativa impugnada que dice “en los términos que establece el párrafo final de este artículo”, en términos del apartado VII de la presente sentencia.
+
+**CUARTO.** Se declara la invalidez de la fracción XII del artículo 27 de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que señala “comparecer cada seis meses ante las comisiones de Gobernación y de Seguridad Pública del Senado para presentar la política criminal y darle seguimiento cuando ésta se apruebe o se modifique”; y de la fracción XXX del mismo artículo, en la porción normativa que establece “a través de comparecencia de su titular cada seis meses ante la Comisión Bicamaral prevista en el artículo 56 de la Ley de Seguridad Nacional”, en términos del apartado VIII de la presente sentencia.
+
+**QUINTO.** Se declara la invalidez de la porción normativa del párrafo último del artículo 27 de la Ley Orgánica de la Administración Pública Federal que indica: “El Comisionado Nacional de Seguridad y” en términos del apartado VII de la presente sentencia.
+
+**SEXTO.** Publíquese esta sentencia en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+Notifíquese haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
+
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+
+En relación con el punto resolutivo primero:
+
+Se aprobó por unanimidad de diez votos de las Ministras y los Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas, Pérez Dayán y Presidente Silva Meza, respecto de los apartados I, II, III, IV, V y VI relativos, respectivamente, a los antecedentes y trámite de la demanda, a la competencia, a la oportunidad, a la legitimación, a las causas de improcedencia y a la delimitación de la materia de estudio.
+
+En relación con el punto resolutivo segundo:
+
+Se expresó una mayoría de siete votos de la Ministra y los Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo y Aguilar Morales, respecto de la propuesta del apartado VII, consistente en declarar la invalidez del artículo 27, párrafo último, de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que señala “el Secretario Ejecutivo del Sistema Nacional de Seguridad”. La Ministra Sánchez Cordero de García Villegas y los Ministros Pérez Dayán y Presidente Silva Meza votaron en contra. La Ministra y los Ministros Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea y Aguilar Morales reservaron su derecho de formular sendos votos concurrentes. La señora Ministra Sánchez Cordero de García Villegas reservó su derecho de formular voto particular.
+
+Dado el resultado obtenido, el Tribunal Pleno determinó desestimar el planteamiento anterior al no alcanzar una mayoría calificada, con fundamento en lo dispuesto en los artículos 105, fracción II, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos y 72 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
+
+En relación con el punto resolutivo tercero:
+
+Se aprobó por unanimidad de diez votos de las Ministras y los Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas, Pérez Dayán y Presidente Silva Meza, respecto de la propuesta del apartado VII, consistente en reconocer la validez del artículo 27, fracción XVI, de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que indica “en los términos que establece el párrafo final de este artículo”.
+
+En relación con el punto resolutivo cuarto:
+
+Se aprobó por unanimidad de diez votos de las Ministras y los Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas, Pérez Dayán y Presidente Silva Meza, respecto de la propuesta del apartado VIII consistente en, por un lado, declarar la invalidez del artículo 27, fracción XII, de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que indica “comparecer cada seis meses ante las comisiones de Gobernación y de Seguridad Pública del Senado para presentar la política criminal y darle seguimiento cuando ésta se apruebe o se modifique” y, por otro lado, declarar la invalidez del artículo 27, fracción XXX, de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que cita “a través de comparecencia de su titular cada seis meses ante la Comisión Bicamaral prevista en el artículo 56 de la Ley de Seguridad Nacional”.
+
+En relación con el punto resolutivo quinto:
+
+Se aprobó por mayoría de ocho votos de las Ministras y los Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales y Sánchez Cordero de García Villegas, respecto de la propuesta del apartado VII, consistente en declarar la invalidez del artículo 27, párrafo último, de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que señala “El Comisionado Nacional de Seguridad y”. Los señores Ministros Pérez Dayán y Presidente Silva Meza votaron en contra. La Ministra y los Ministros Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea y Aguilar Morales reservaron su derecho de formular sendos votos concurrentes.
+
+En relación con el punto resolutivo sexto:
+
+Se aprobó por unanimidad de diez votos de las Ministras y los Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas, Pérez Dayán y Presidente Silva Meza.
+
+El señor Ministro Sergio A. Valls Hernández no asistió a las sesiones de veintiuno y veintitrés de octubre de dos mil catorce por licencia concedida.
+
+El señor Ministro Presidente Silva Meza declaró que el asunto se resolvió en los términos precisados. Doy fe.
+
+El Ministro Presidente de la Suprema Corte de Justicia de la Nación: Juan N. Silva Meza.- Rúbrica.- El Ministro Ponente: Alfredo Gutiérrez Ortiz Mena.- Rúbrica.- El Secretario General de Acuerdos en Funciones, Marco Antonio Cepeda Anaya.- Rúbrica.
+
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta fotocopia constante de treinta y cinco fojas útiles, concuerda fiel y exactamente con la sentencia de veintitrés de octubre de dos mil catorce, dictada por el Tribunal Pleno en la acción de inconstitucionalidad 1/2013. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- México, Distrito Federal, a veintisiete de enero de dos mil quince.- Rúbrica.
