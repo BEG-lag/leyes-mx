@@ -3,12 +3,12 @@ title: Ley Federal del Derecho de Autor
 abbreviation: LFDA
 slug: lfda
 published_dof: 1996-12-24
-last_reform_dof: 2014-07-14
+last_reform_dof: 2015-03-17
 articles: 244
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/122_140714.doc
-archived: https://web.archive.org/web/20140809062450/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122_140714.doc
-source_sha256: e4a553e259579a91516cc7b4f56ce82b950fc3133179a6f0527fd03f56aecd83
-retrieved: 2014-08-09
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/122_170315.doc
+archived: https://web.archive.org/web/20150514150313/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122_170315.doc
+source_sha256: e8970a0ea3fb5947873724b68cc7c13406b8748d87a830939071ca7c277ccfcc
+retrieved: 2015-05-14
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfda.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 14-07-2014
+Última reforma publicada DOF 17-03-2015
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1120,9 +1120,17 @@ Las personas morales no podrán valerse de lo dispuesto en esta fracción salvo 
 
 V. Reproducción de una sola copia, por parte de un archivo o biblioteca, por razones de seguridad y preservación, y que se encuentre agotada, descatalogada y en peligro de desaparecer;
 
-VI. Reproducción para constancia en un procedimiento judicial o administrativo, y
+VI. Reproducción para constancia en un procedimiento judicial o administrativo;
 
-VII. Reproducción, comunicación y distribución por medio de dibujos, pinturas, fotografías y procedimientos audiovisuales de las obras que sean visibles desde lugares públicos.
+*Fracción reformada DOF 17-03-2015*
+
+VII. Reproducción, comunicación y distribución por medio de dibujos, pinturas, fotografías y procedimientos audiovisuales de las obras que sean visibles desde lugares públicos; y
+
+*Fracción reformada DOF 17-03-2015*
+
+VIII. Publicación de obra artística y literaria sin fines de lucro para personas con discapacidad.
+
+*Fracción adicionada DOF 17-03-2015*
 
 #### Artículo 149.
 
@@ -2301,3 +2309,19 @@ En caso de que exista impedimento técnico, legal o económico para que Telecomu
 México, D.F., a 08 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de julio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se adiciona la fracción VIII al artículo 148 de la Ley Federal del Derecho de Autor.
+
+*Publicado en el Diario Oficial de la Federación el 17 de marzo de 2015*
+
+**Artículo Único.-** Se adiciona la fracción VIII al artículo 148 de la Ley Federal del Derecho de Autor, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 10 de febrero de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Francisca Elena Corrales Corrales, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de marzo de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
