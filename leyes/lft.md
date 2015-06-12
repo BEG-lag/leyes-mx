@@ -3,12 +3,12 @@ title: Ley Federal del Trabajo
 abbreviation: LFT
 slug: lft
 published_dof: 1970-04-01
-last_reform_dof: 2012-11-30
+last_reform_dof: 2015-06-12
 articles: 1131
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/125.doc
-archived: https://web.archive.org/web/20150316001004/http://www.diputados.gob.mx/LeyesBiblio/doc/125.doc
-source_sha256: 2201471942db439d594171f6052a09f3155e3068ad5fc26ef8c48523bcc1bb09
-retrieved: 2015-03-16
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/125_120615.doc
+archived: https://web.archive.org/web/20170518232845/http://www.diputados.gob.mx:80/LeyesBiblio/doc/125_120615.doc
+source_sha256: 08fe891f52b162b65cc546c3dd30e08f8f2c30ce762afd3ebbbf7f9ff1ceccb0
+retrieved: 2017-05-18
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de abril de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 30-11-2012
+Última reforma publicada DOF 12-06-2015
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -50,6 +50,8 @@ Se tutela la igualdad sustantiva o de hecho de trabajadores y trabajadoras frent
 
 La igualdad sustantiva es la que se logra eliminando la discriminación contra las mujeres que menoscaba o anula el reconocimiento, goce o ejercicio de sus derechos humanos y las libertades fundamentales en el ámbito laboral. Supone el acceso a las mismas oportunidades, considerando las diferencias biológicas, sociales y culturales de mujeres y hombres.
 
+*Artículo reformado DOF 30-11-2012*
+
 ##### Artículo 3o.
 
 El trabajo es un derecho y un deber sociales. No es artículo de comercio.
@@ -60,6 +62,8 @@ No se considerarán discriminatorias las distinciones, exclusiones o preferencia
 
 Es de interés social promover y vigilar la capacitación, el adiestramiento, la formación para y en el trabajo, la certificación de competencias laborales, la productividad y la calidad en el trabajo, la sustentabilidad ambiental, así como los beneficios que éstas deban generar tanto a los trabajadores como a los patrones.
 
+*Artículo reformado DOF 28-04-1978, 30-11-2012*
+
 ##### Artículo 3o. Bis.
 
 Para efectos de esta Ley se entiende por:
@@ -68,6 +72,8 @@ a) Hostigamiento, el ejercicio del poder en una relación de subordinación real
 
 b) Acoso sexual, una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 4o.
 
 No se podrá impedir el trabajo a ninguna persona ni que se dedique a la profesión, industria o comercio que le acomode, siendo lícitos. El ejercicio de estos derechos sólo podrá vedarse por resolución de la autoridad competente cuando se ataquen los derechos de tercero o se ofendan los de la sociedad:
@@ -75,6 +81,8 @@ No se podrá impedir el trabajo a ninguna persona ni que se dedique a la profesi
 I. Se atacan los derechos de tercero en los casos previstos en las leyes y en los siguientes:
 
 a) Cuando se trate de sustituir o se sustituya definitivamente a un trabajador que reclame la reinstalación en su empleo sin haberse resuelto el caso por la Junta de Conciliación y Arbitraje.
+
+*Inciso reformado DOF 30-11-2012*
 
 b) Cuando se niegue el derecho de ocupar su mismo puesto a un trabajador que haya estado separado de sus labores por causa de enfermedad o de fuerza mayor, o con permiso, al presentarse nuevamente a sus labores; y
 
@@ -88,19 +96,25 @@ b) Cuando declarada una huelga en iguales términos de licitud por la mayoría d
 
 Las disposiciones de esta Ley son de orden público por lo que no producirá efecto legal, ni impedirá el goce y el ejercicio de los derechos, sea escrita o verbal, la estipulación que establezca:
 
-I. Trabajos para niños menores de catorce años;
+I. Trabajos para menores de quince años;
+
+*Fracción reformada DOF 12-06-2015*
 
 II. Una jornada mayor que la permitida por esta Ley;
 
 III. Una jornada inhumana por lo notoriamente excesiva, dada la índole del trabajo, a juicio de la Junta de Conciliación y Arbitraje;
 
-IV. Horas extraordinarias de trabajo para los menores de dieciséis años
+IV. Horas extraordinarias de trabajo para los menores de dieciocho años;
+
+*Fracción reformada DOF 31-12-1974, 12-06-2015*
 
 V. Un salario inferior al mínimo;
 
 VI. Un salario que no sea remunerador, a juicio de la Junta de Conciliación y Arbitraje;
 
 VII. Un plazo mayor de una semana para el pago de los salarios a los obreros y a los trabajadores del campo;
+
+*Fracción reformada DOF 30-11-2012*
 
 VIII. Un lugar de recreo, fonda, cantina, café, taberna o tienda, para efectuar el pago de los salarios, siempre que no se trate de trabajadores de esos establecimientos;
 
@@ -111,6 +125,8 @@ X. La facultad del patrón de retener el salario por concepto de multa;
 XI. Un salario menor que el que se pague a otro trabajador en la misma empresa o establecimiento por trabajo de igual eficiencia, en la misma clase de trabajo o igual jornada, por consideración de edad, sexo o nacionalidad;
 
 XII. Trabajo nocturno industrial o el trabajo después de las veintidós horas, para menores de dieciséis años; y
+
+*Fracción reformada DOF 31-12-1974*
 
 XIII. Renuncia por parte del trabajador de cualquiera de los derechos o prerrogativas consignados en las normas de trabajo.
 
@@ -154,7 +170,9 @@ Intermediario es la persona que contrata o interviene en la contratación de otr
 
 ##### Artículo 13.
 
-No serán considerados intermediarios, sino patrones, las empresas establecidas que contraten trabajos para ejecutarlos con elementos propios suficientes para cumplir las obligaciones que deriven de las relaciones con sus trabajadores. En caso contrario serán solidariamente responsables con los beneficiarios directos de las obras o servicios, por las obligaciones contraídas con los trabajadores
+No serán considerados intermediarios, sino patrones, las empresas establecidas que contraten trabajos para ejecutarlos con elementos propios suficientes para cumplir las obligaciones que deriven de las relaciones con sus trabajadores. En caso contrario serán solidariamente responsables con los beneficiarios directos de las obras o servicios, por las obligaciones contraídas con los trabajadores.
+
+*Fe de erratas al artículo DOF 30-04-1970*
 
 ##### Artículo 14.
 
@@ -170,9 +188,13 @@ II. Los intermediarios no podrán recibir ninguna retribución o comisión con c
 
 En las empresas que ejecuten obras o servicios en forma exclusiva o principal para otra, y que no dispongan de elementos propios suficientes de conformidad con lo dispuesto en el Artículo 13, se observarán las normas siguientes:
 
+*Párrafo reformado DOF 21-01-1988*
+
 I. La empresa beneficiaria será solidariamente responsable de las obligaciones contraídas con los trabajadores; y
 
 II. Los trabajadores empleados en la ejecución de las obras o servicios tendrán derecho a disfrutar de condiciones de trabajo proporcionadas a las que disfruten los trabajadores que ejecuten trabajos similares en la empresa beneficiaria. Para determinar la proporción, se tomarán en consideración las diferencias que existan en los salarios mínimos que rijan en el área geográfica de aplicación en que se encuentren instaladas las empresas y las demás circunstancias que puedan influir en las condiciones de trabajo.
+
+*Fracción reformada DOF 21-01-1988*
 
 ##### Artículo 15-A.
 
@@ -188,11 +210,15 @@ c) No podrá comprender tareas iguales o similares a las que realizan el resto d
 
 De no cumplirse con todas estas condiciones, el contratante se considerará patrón para todos los efectos de esta Ley, incluyendo las obligaciones en materia de seguridad social.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 15-B.
 
 El contrato que se celebre entre la persona física o moral que solicita los servicios y un contratista, deberá constar por escrito.
 
 La empresa contratante deberá cerciorarse al momento de celebrar el contrato a que se refiere el párrafo anterior, que la contratista cuenta con la documentación y los elementos propios suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 15-C.
 
@@ -200,9 +226,13 @@ La empresa contratante de los servicios deberá cerciorarse permanentemente que 
 
 Lo anterior, podrá ser cumplido a través de una unidad de verificación debidamente acreditada y aprobada en términos de las disposiciones legales aplicables.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 15-D.
 
 No se permitirá el régimen de subcontratación cuando se transfieran de manera deliberada trabajadores de la contratante a la subcontratista con el fin de disminuir derechos laborales; en este caso, se estará a lo dispuesto por el artículo 1004-C y siguientes de esta Ley.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 16.
 
@@ -238,21 +268,33 @@ Se presumen la existencia del contrato y de la relación de trabajo entre el que
 
 ##### Artículo 22.
 
-Queda prohibida la utilización del trabajo de los menores de catorce años y de los mayores de esta edad y menores de dieciséis que no hayan terminado su educación obligatoria, salvo los casos de excepción que apruebe la autoridad correspondiente en que a su juicio haya compatibilidad entre los estudios y el trabajo.
+Los mayores de quince años pueden prestar libremente sus servicios con las limitaciones establecidas en esta Ley.
+
+Los mayores de quince y menores de dieciséis necesitan autorización de sus padres o tutores y a falta de ellos, del sindicato a que pertenezcan, de la Junta de Conciliación y Arbitraje, del Inspector del Trabajo o de la Autoridad Política.
+
+Los menores trabajadores deben percibir el pago de sus salarios y ejercitar, en su caso, las acciones que les correspondan.
+
+*Artículo reformado DOF 12-06-2015*
 
 ##### Artículo 22 Bis.
 
-Cuando las autoridades del trabajo detecten trabajando a un menor de 14 años fuera del círculo familiar, ordenará que de inmediato cese en sus labores. Al patrón que incurra en esta conducta se le sancionará con la pena establecida en el artículo 995 Bis de esta Ley.
+Queda prohibido el trabajo de menores de quince años; no podrá utilizarse el trabajo de mayores de esta edad y menores de dieciocho años que no hayan terminado su educación básica obligatoria, salvo los casos que apruebe la autoridad laboral correspondiente en que a su juicio haya compatibilidad entre los estudios y el trabajo.
 
-En caso de que el menor no estuviere devengando el salario que perciba un trabajador que preste los mismos servicios, el patrón deberá resarcirle las diferencias.
-
-Se entenderá por círculo familiar a los parientes del menor, por consanguinidad, ascendientes o colaterales; hasta el segundo grado.
+*Artículo adicionado DOF 30-11-2012. Reformado DOF 12-06-2015*
 
 ##### Artículo 23.
 
-Los mayores de dieciséis años pueden prestar libremente sus servicios, con las limitaciones establecidas en esta Ley. Los mayores de catorce y menores de dieciséis necesitan autorización de sus padres o tutores y a falta de ellos, del sindicato a que pertenezcan, de la Junta de Conciliación y Arbitraje, del Inspector del Trabajo o de la Autoridad Política.
+Cuando las autoridades del trabajo detecten trabajando a un menor de quince años fuera del círculo familiar, ordenará que de inmediato cese en sus labores. Al patrón que incurra en esta conducta se le sancionará con la pena establecida en el artículo 995 Bis de esta Ley.
 
-Los menores trabajadores pueden percibir el pago de sus salarios y ejercitar las acciones que les correspondan.
+En caso de que el menor no estuviere devengando el salario que perciba un trabajador que preste los mismos servicios, el patrón deberá resarcirle las diferencias.
+
+Queda prohibido el trabajo de menores de dieciocho años dentro del círculo familiar en cualquier tipo de actividad que resulte peligrosa para su salud, su seguridad o su moralidad, o que afecte el ejercicio de sus derechos y, con ello, su desarrollo integral.
+
+Se entenderá por círculo familiar a los parientes del menor, por consanguinidad, ascendientes o colaterales; hasta el segundo grado.
+
+Cuando los menores de dieciocho años realicen alguna actividad productiva de autoconsumo, bajo la dirección de integrantes de su círculo familiar o tutores, éstos tendrán la obligación de respetar y proteger los derechos humanos de los menores y brindar el apoyo y las facilidades necesarias para que los mismos concluyan, por lo menos, su educación básica obligatoria.
+
+*Artículo reformado DOF 12-06-2015*
 
 ##### Artículo 24.
 
@@ -264,11 +306,17 @@ El escrito en que consten las condiciones de trabajo deberá contener:
 
 I. Nombre, nacionalidad, edad, sexo, estado civil, Clave Única de Registro de Población, Registro Federal de Contribuyentes y domicilio del trabajador y del patrón;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Si la relación de trabajo es para obra o tiempo determinado, por temporada, de capacitación inicial o por tiempo indeterminado y, en su caso, si está sujeta a un periodo de prueba;
+
+*Fracción reformada DOF 30-11-2012*
 
 III. El servicio o servicios que deban prestarse, los que se determinarán con la mayor precisión posible;
 
 IV. El lugar o los lugares donde deba prestarse el trabajo;
+
+*Fracción reformada DOF 30-11-2012*
 
 V. La duración de la jornada;
 
@@ -278,7 +326,11 @@ VII. El día y el lugar de pago del salario;
 
 VIII. La indicación de que el trabajador será capacitado o adiestrado en los términos de los planes y programas establecidos o que se establezcan en la empresa, conforme a lo dispuesto en esta Ley; y
 
+*Fracción adicionada DOF 28-04-1978*
+
 IX. Otras condiciones de trabajo, tales como días de descanso, vacaciones y demás que convengan el trabajador y el patrón.
+
+*Fracción recorrida DOF 28-04-1978*
 
 ##### Artículo 26.
 
@@ -312,6 +364,8 @@ IV. El trabajador y el patrón deberán anexar al contrato de trabajo la visa o 
 
 V. Una vez que el patrón compruebe ante la Junta que ha cumplido las obligaciones contraídas, se ordenará la cancelación de la fianza o la devolución del depósito que ésta hubiere determinado.
 
+*Artículo reformado DOF 02-07-1976, 30-11-2012*
+
 ##### Artículo 28-A.
 
 En el caso de trabajadores mexicanos reclutados y seleccionados en México, para un empleo concreto en el exterior de duración determinada, a través de mecanismos acordados por el gobierno de México con un gobierno extranjero, se atenderá a lo dispuesto por dicho acuerdo, que en todo momento salvaguardará los derechos de los trabajadores, conforme a las bases siguientes:
@@ -325,6 +379,8 @@ III. Las condiciones para la repatriación, la vivienda, la seguridad social y o
 IV. El reclutamiento y la selección será organizada por la Secretaría del Trabajo y Previsión Social, a través del Servicio Nacional de Empleo, en coordinación con las autoridades estatales y municipales; y
 
 V. Contendrá mecanismos para informar al trabajador acerca de las autoridades consulares y diplomáticas mexicanas a las que podrá acudir en el extranjero y de las autoridades competentes del país a donde se prestarán los servicios, cuando el trabajador considere que sus derechos han sido menoscabados, a fin de ejercer la acción legal conducente.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 28-B.
 
@@ -343,6 +399,8 @@ III. Las agencias de colocación deberán informar a los trabajadores sobre la p
 En los casos en que los trabajadores hayan sido engañados respecto a las condiciones de trabajo ofrecidas, las agencias de colocación de trabajadores serán responsables de sufragar los gastos de repatriación respectivos.
 
 La Inspección Federal del Trabajo vigilará el cumplimiento de las obligaciones contenidas en este artículo.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 29.
 
@@ -382,6 +440,8 @@ III. Cuando se trate de reducción de los trabajos, el reajuste se efectuará de
 
 Las relaciones de trabajo pueden ser para obra o tiempo determinado, por temporada o por tiempo indeterminado y en su caso podrá estar sujeto a prueba o a capacitación inicial. A falta de estipulaciones expresas, la relación será por tiempo indeterminado.
 
+*Artículo reformado DOF 30-11-2012*
+
 ##### Artículo 36.
 
 El señalamiento de un obra determinada puede únicamente estipularse cuando lo exija su naturaleza.
@@ -412,15 +472,21 @@ El periodo de prueba a que se refiere el párrafo anterior, podrá extenderse ha
 
 Durante el período de prueba el trabajador disfrutará del salario, la garantía de la seguridad social y de las prestaciones de la categoría o puesto que desempeñe. Al término del periodo de prueba, de no acreditar el trabajador que satisface los requisitos y conocimientos necesarios para desarrollar las labores, a juicio del patrón, tomando en cuenta la opinión de la Comisión Mixta de Productividad, Capacitación y Adiestramiento en los términos de esta Ley, así como la naturaleza de la categoría o puesto, se dará por terminada la relación de trabajo, sin responsabilidad para el patrón.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 39-B.
 
 Se entiende por relación de trabajo para capacitación inicial, aquella por virtud de la cual un trabajador se obliga a prestar sus servicios subordinados, bajo la dirección y mando del patrón, con el fin de que adquiera los conocimientos o habilidades necesarios para la actividad para la que vaya a ser contratado.
 
 La vigencia de la relación de trabajo a que se refiere el párrafo anterior, tendrá una duración máxima de tres meses o en su caso, hasta de seis meses sólo cuando se trate de trabajadores para puestos de dirección, gerenciales y demás personas que ejerzan funciones de dirección o administración en la empresa o establecimiento de carácter general o para desempeñar labores que requieran conocimientos profesionales especializados. Durante ese tiempo el trabajador disfrutará del salario, la garantía de la seguridad social y de las prestaciones de la categoría o puesto que desempeñe. Al término de la capacitación inicial, de no acreditar competencia el trabajador, a juicio del patrón, tomando en cuenta la opinión de la Comisión Mixta de Productividad, Capacitación y Adiestramiento en los términos de esta Ley, así como a la naturaleza de la categoría o puesto, se dará por terminada la relación de trabajo, sin responsabilidad para el patrón.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 39-C.
 
 La relación de trabajo con periodo a prueba o de capacitación inicial, se hará constar por escrito garantizando la seguridad social del trabajador; en caso contrario se entenderá que es por tiempo indeterminado, y se garantizarán los derechos de seguridad social del trabajador.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 39-D.
 
@@ -428,15 +494,21 @@ Los periodos a prueba y de capacitación inicial son improrrogables.
 
 Dentro de una misma empresa o establecimiento, no podrán aplicarse al mismo trabajador en forma simultánea o sucesiva periodos de prueba o de capacitación inicial, ni en más de una ocasión, ni tratándose de puestos de trabajo distintos, o de ascensos, aun cuando concluida la relación de trabajo surja otra con el mismo patrón, a efecto de garantizar los derechos de la seguridad social del trabajador.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 39-E.
 
 Cuando concluyan los periodos a prueba o de capacitación inicial y subsista la relación de trabajo, ésta se considerará por tiempo indeterminado y el tiempo de vigencia de aquellos se computará para efectos del cálculo de la antigüedad.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 39-F.
 
 Las relaciones de trabajo por tiempo indeterminado serán continuas por regla general, pero podrán pactarse para labores discontinuas cuando los servicios requeridos sean para labores fijas y periódicas de carácter discontinuo, en los casos de actividades de temporada o que no exijan la prestación de servicios toda la semana, el mes o el año.
 
 Los trabajadores que presten servicios bajo esta modalidad tienen los mismos derechos y obligaciones que los trabajadores por tiempo indeterminado, en proporción al tiempo trabajado en cada periodo.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 40.
 
@@ -466,27 +538,45 @@ V. El cumplimiento de los servicios y el desempeño de los cargos mencionados en
 
 VI. La designación de los trabajadores como representantes ante los organismos estatales, Juntas de Conciliación y Arbitraje, Comisión Nacional de los Salarios Mínimos, Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas y otros semejantes;
 
+*Fracción reformada DOF 21-01-1988, 30-11-2012*
+
 VII. La falta de los documentos que exijan las Leyes y reglamentos, necesarios para la prestación del servicio, cuando sea imputable al trabajador; y
 
+*Fracción reformada DOF 30-11-2012*
+
 VIII. La conclusión de la temporada en el caso de los trabajadores contratados bajo esta modalidad.
+
+*Fracción adicionada DOF 30-11-2012*
 
 ##### Artículo 42 Bis.
 
 En los casos en que las autoridades competentes emitan una declaratoria de contingencia sanitaria, conforme a las disposiciones aplicables, que implique la suspensión de las labores, se estará a lo dispuesto por el artículo 429, fracción IV de esta Ley.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 43.
 
 La suspensión a que se refiere el artículo 42 surtirá efectos:
+
+*Párrafo reformado DOF 30-11-2012*
 
 I. En los casos de las fracciones I y II del artículo anterior, desde la fecha en que el patrón tenga conocimiento de la enfermedad contagiosa o de la en que se produzca la incapacidad para el trabajo, hasta que termine el período fijado por el Instituto Mexicano del Seguro Social o antes si desaparece la incapacidad para el trabajo, sin que la suspensión pueda exceder del término fijado en la Ley del Seguro Social para el tratamiento de las enfermedades que no sean consecuencia de un riesgo de trabajo;
 
 II. Tratándose de las fracciones III y IV, desde el momento en que el trabajador acredite estar detenido a disposición de la autoridad judicial o administrativa, hasta la fecha en que cause ejecutoria la sentencia que lo absuelva o termine el arresto. Si obtiene su libertad provisional, deberá presentarse a trabajar en un plazo de quince días siguientes a su liberación, salvo que se le siga proceso por delitos intencionales en contra del patrón o sus compañeros de trabajo;
 
+*Fracción reformada DOF 30-11-2012*
+
 III. En los casos de las fracciones V y VI, desde la fecha en que deban prestarse los servicios o desempeñarse los cargos, hasta por un periodo de seis años;
+
+*Fracción reformada DOF 30-11-2012*
 
 IV. En el caso de la fracción VII, desde la fecha en que el patrón tenga conocimiento del hecho, hasta por un periodo de dos meses; y
 
+*Fracción reformada DOF 30-11-2012*
+
 V. En el caso de la fracción VIII, desde la fecha de conclusión de la temporada, hasta el inicio de la siguiente.
+
+*Fracción adicionada DOF 30-11-2012*
 
 ##### Artículo 44.
 
@@ -514,6 +604,8 @@ I. Engañarlo el trabajador o en su caso, el sindicato que lo hubiese propuesto 
 
 II. Incurrir el trabajador, durante sus labores, en faltas de probidad u honradez, en actos de violencia, amagos, injurias o malos tratamientos en contra del patrón, sus familiares o del personal directivo o administrativo de la empresa o establecimiento, o en contra de clientes y proveedores del patrón, salvo que medie provocación o que obre en defensa propia;
 
+*Fracción reformada DOF 30-11-2012*
+
 III. Cometer el trabajador contra alguno de sus compañeros, cualquiera de los actos enumerados en la fracción anterior, si como consecuencia de ellos se altera la disciplina del lugar en que se desempeña el trabajo;
 
 IV. Cometer el trabajador, fuera del servicio, contra el patrón, sus familiares o personal directivo administrativo, alguno de los actos a que se refiere la fracción II, si son de tal manera graves que hagan imposible el cumplimiento de la relación de trabajo;
@@ -525,6 +617,8 @@ VI. Ocasionar el trabajador los perjuicios de que habla la fracción anterior si
 VII. Comprometer el trabajador, por su imprudencia o descuido inexcusable, la seguridad del establecimiento o de las personas que se encuentren en él;
 
 VIII. Cometer el trabajador actos inmorales o de hostigamiento y/o acoso sexual contra cualquier persona en el establecimiento o lugar de trabajo;
+
+*Fracción reformada DOF 30-11-2012*
 
 IX. Revelar el trabajador los secretos de fabricación o dar a conocer asuntos de carácter reservado, con perjuicio de la empresa;
 
@@ -538,17 +632,29 @@ XIII. Concurrir el trabajador a sus labores en estado de embriaguez o bajo la in
 
 XIV. La sentencia ejecutoriada que imponga al trabajador una pena de prisión, que le impida el cumplimiento de la relación de trabajo;
 
+*Fracción reformada DOF 30-11-2012*
+
 XIV Bis. La falta de documentos que exijan las leyes y reglamentos, necesarios para la prestación del servicio cuando sea imputable al trabajador y que exceda del periodo a que se refiere la fracción IV del artículo 43; y
+
+*Fracción adicionada DOF 30-11-2012*
 
 XV. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere.
 
 El patrón que despida a un trabajador deberá darle aviso escrito en el que refiera claramente la conducta o conductas que motivan la rescisión y la fecha o fechas en que se cometieron.
 
+*Párrafo reformado DOF 30-11-2012*
+
 El aviso deberá entregarse personalmente al trabajador en el momento mismo del despido o bien, comunicarlo a la Junta de Conciliación y Arbitraje competente, dentro de los cinco días hábiles siguientes, en cuyo caso deberá proporcionar el último domicilio que tenga registrado del trabajador a fin de que la autoridad se lo notifique en forma personal.
+
+*Párrafo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
 
 La prescripción para ejercer las acciones derivadas del despido no comenzará a correr sino hasta que el trabajador reciba personalmente el aviso de rescisión.
 
+*Párrafo adicionado DOF 30-11-2012*
+
 La falta de aviso al trabajador personalmente o por conducto de la Junta, por sí sola determinará la separación no justificada y, en consecuencia, la nulidad del despido.
+
+*Párrafo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
 
 ##### Artículo 48.
 
@@ -563,6 +669,8 @@ En caso de muerte del trabajador, dejarán de computarse los salarios vencidos c
 Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se le impondrá una multa de 100 a 1000 veces el salario mínimo general.
 
 Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción aplicable será la suspensión hasta por noventa días sin pago de salario y en caso de reincidencia la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia.
+
+*Artículo reformado DOF 30-11-2012*
 
 ##### Artículo 49.
 
@@ -588,6 +696,8 @@ II. Si la relación de trabajo fuere por tiempo indeterminado, la indemnización
 
 III. Además de las indemnizaciones a que se refieren las fracciones anteriores, en el importe de tres meses de salario y el pago de los salarios vencidos e intereses, en su caso, en los términos previstos en el artículo 48 de esta Ley.
 
+*Fracción reformada DOF 30-11-2012*
+
 ##### Artículo 51.
 
 Son causas de rescisión de la relación de trabajo, sin responsabilidad para el trabajador:
@@ -595,6 +705,8 @@ Son causas de rescisión de la relación de trabajo, sin responsabilidad para el
 I. Engañarlo el patrón, o en su caso, la agrupación patronal al proponerle el trabajo, respecto de las condiciones del mismo. Esta causa de rescisión dejará de tener efecto después de treinta días de prestar sus servicios el trabajador;
 
 II. Incurrir el patrón, sus familiares o cualquiera de sus representantes, dentro del servicio, en faltas de probidad u honradez, actos de violencia, amenazas, injurias, hostigamiento y/o acoso sexual, malos tratamientos u otros análogos, en contra del trabajador, cónyuge, padres, hijos o hermanos;
+
+*Fracción reformada DOF 30-11-2012*
 
 III. Incurrir el patrón, sus familiares o trabajadores, fuera del servicio, en los actos a que se refiere la fracción anterior, si son de tal manera graves que hagan imposible el cumplimiento de la relación de trabajo;
 
@@ -610,7 +722,11 @@ VIII. Comprometer el patrón, con su imprudencia o descuido inexcusables, la seg
 
 IX. Exigir la realización de actos, conductas o comportamientos que menoscaben o atenten contra la dignidad del trabajador; y
 
+*Fracción adicionada DOF 30-11-2012*
+
 X. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes, en lo que al trabajo se refiere.
+
+*Fracción recorrida DOF 30-11-2012*
 
 ##### Artículo 52.
 
@@ -648,11 +764,15 @@ Si en el juicio correspondiente no comprueba el patrón las causas de la termina
 
 Las condiciones de trabajo basadas en el principio de igualdad sustantiva entre mujeres y hombres en ningún caso podrán ser inferiores a las fijadas en esta Ley y deberán ser proporcionales a la importancia de los servicios e iguales para trabajos iguales, sin que puedan establecerse diferencias y/o exclusiones por motivo de origen étnico o nacionalidad, sexo, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, condiciones de embarazo, responsabilidades familiares o estado civil, salvo las modalidades expresamente consignadas en esta Ley.
 
+*Artículo reformado DOF 30-11-2012*
+
 ##### Artículo 56 Bis.
 
 Los trabajadores podrán desempeñar labores o tareas conexas o complementarias a su labor principal, por lo cual podrán recibir la compensación salarial correspondiente.
 
 Para los efectos del párrafo anterior, se entenderán como labores o tareas conexas o complementarias, aquellas relacionadas permanente y directamente con las que estén pactadas en los contratos individuales y colectivos de trabajo o, en su caso, las que habitualmente realice el trabajador.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 57.
 
@@ -762,6 +882,8 @@ VIII. El 25 de diciembre, y
 
 IX. El que determinen las leyes federales y locales electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral.
 
+*Artículo reformado DOF 22-12-1987, 17-01-2006*
+
 ##### Artículo 75.
 
 En los casos del artículo anterior los trabajadores y los patrones determinarán el número de trabajadores que deban prestar sus servicios. Si no se llega a un convenio, resolverá la Junta de Conciliación Permanente o en su defecto la de Conciliación y Arbitraje.
@@ -810,6 +932,8 @@ El salario puede fijarse por unidad de tiempo, por unidad de obra, por comisión
 
 Tratándose de salario por unidad de tiempo, se establecerá específicamente esa naturaleza. El trabajador y el patrón podrán convenir el monto, siempre que se trate de un salario remunerador, así como el pago por cada hora de prestación de servicio, siempre y cuando no se exceda la jornada máxima legal y se respeten los derechos laborales y de seguridad social que correspondan a la plaza de que se trate. El ingreso que perciban los trabajadores por esta modalidad, en ningún caso será inferior al que corresponda a una jornada diaria.
 
+*Párrafo adicionado DOF 30-11-2012*
+
 Cuando el salario se fije por unidad de obra, además de especificarse la naturaleza de ésta, se hará constar la cantidad y calidad del material, el estado de la herramienta y útiles que el patrón, en su caso, proporcione para ejecutar la obra, y el tiempo por el que los pondrá a disposición del trabajador, sin que pueda exigir cantidad alguna por concepto del desgaste natural que sufra la herramienta como consecuencia del trabajo.
 
 ##### Artículo 84.
@@ -831,6 +955,8 @@ A trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia tam
 Los trabajadores tendrán derecho a un aguinaldo anual que deberá pagarse antes del día veinte de diciembre, equivalente a quince días de salario, por lo menos.
 
 Los que no hayan cumplido el año de servicios, independientemente de que se encuentren laborando o no en la fecha de liquidación del aguinaldo, tendrán derecho a que se les pague la parte proporcional del mismo, conforme al tiempo que hubieren trabajado, cualquiera que fuere éste.
+
+*Párrafo reformado DOF 31-12-1975*
 
 ##### Artículo 88.
 
@@ -854,41 +980,63 @@ El salario mínimo deberá ser suficiente para satisfacer las necesidades normal
 
 Se considera de utilidad social el establecimiento de instituciones y medidas que protejan la capacidad adquisitiva del salario y faciliten el acceso de los trabajadores a la obtención de satisfactores.
 
+*Párrafo adicionado DOF 09-01-1974*
+
 ##### Artículo 91.
 
 Los salarios mínimos podrán ser generales para una o varias áreas geográficas de aplicación, que pueden extenderse a una o más entidades federativas o profesionales, para una rama determinada de la actividad económica o para profesiones, oficios o trabajos especiales, dentro de una o varias áreas geográficas.
+
+*Artículo reformado DOF 21-01-1988*
 
 ##### Artículo 92.
 
 Los salarios mínimos generales regirán para todos los trabajadores del área o áreas geográficas de aplicación que se determinen, independientemente de las ramas de la actividad económica, profesiones, oficios o trabajos especiales.
 
+*Artículo reformado DOF 21-01-1988*
+
 ##### Artículo 93.
 
 Los salarios mínimos profesionales regirán para todos los trabajadores de las ramas de actividad económica, profesiones, oficios o trabajos especiales que se determinen dentro de una o varias áreas geográficas de aplicación.
+
+*Artículo reformado DOF 21-01-1988*
 
 ##### Artículo 94.
 
 Los salarios mínimos se fijarán por una Comisión Nacional integrada por representantes de los trabajadores, de los patrones y del gobierno, la cual podrá auxiliarse de las comisiones especiales de carácter consultivo que considere indispensables para el mejor desempeño de sus funciones.
 
+*Artículo reformado DOF 21-01-1988*
+
 ##### Artículo 95.
 
 La Comisión Nacional de los Salarios Mínimos y las Comisiones Consultivas se integrarán en forma tripartita, de acuerdo a lo establecido por el Capítulo II del Título Trece de esta Ley.
+
+*Artículo reformado DOF 24-12-1974, 21-01-1988*
 
 ##### Artículo 96.
 
 La Comisión Nacional determinará la división de la República en áreas geográficas, las que estarán constituidas por uno o más municipios en los que deba regir un mismo salario mínimo general, sin que necesariamente exista continuidad territorial entre dichos municipios.
 
+*Artículo reformado DOF 21-01-1988*
+
 ##### Artículo 97.
 
 Los salarios mínimos no podrán ser objeto de compensación, descuento o reducción, salvo en los casos siguientes:
+
+*Párrafo reformado DOF 24-04-1972, 09-01-1974*
 
 I. Pensiones alimenticias decretadas por la autoridad competente en favor de las personas mencionadas en el artículo 110, fracción V; y
 
 II. Pago de rentas a que se refiere el artículo 151. Este descuento no podrá exceder del diez por ciento del salario.
 
+*Fracción reformada DOF 24-04-1972*
+
 III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados a la adquisición, construcción, reparación, ampliación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Asimismo, a aquellos trabajadores que se les haya otorgado un crédito para la adquisición de viviendas ubicadas en conjuntos habitacionales financiados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores se les descontará el 1% del salario a que se refiere el artículo 143 de esta Ley, que se destinará a cubrir los gastos que se eroguen por concepto de administración, operación y mantenimiento del conjunto habitacional de que se trate. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder el 20% del salario.
 
+*Fracción adicionada DOF 24-04-1972. Reformada DOF 07-01-1982*
+
 IV. Pago de abonos para cubrir créditos otorgados o garantizados por el Instituto a que se refiere el artículo 103 Bis de esta Ley, destinados a la adquisición de bienes de consumo duradero o al pago de servicios. Estos descuentos estarán precedidos de la aceptación que libremente haya hecho el trabajador y no podrán exceder del 10% del salario.
+
+*Fracción adicionada DOF 09-01-1974. Reformada DOF 02-07-1976, 30-11-2012*
 
 ### CAPITULO VII · Normas protectoras y privilegios del salario
 
@@ -912,6 +1060,8 @@ El salario en efectivo deberá pagarse precisamente en moneda de curso legal, no
 
 Previo consentimiento del trabajador, el pago del salario podrá efectuarse por medio de depósito en cuenta bancaria, tarjeta de débito, transferencias o cualquier otro medio electrónico. Los gastos o costos que originen estos medios alternativos de pago serán cubiertos por el patrón.
 
+*Párrafo adicionado DOF 30-11-2012*
+
 ##### Artículo 102.
 
 Las prestaciones en especie deberán ser apropiadas al uso personal del trabajador y de su familia y razonablemente proporcionadas al monto del salario que se pague en efectivo.
@@ -919,6 +1069,8 @@ Las prestaciones en especie deberán ser apropiadas al uso personal del trabajad
 ##### Artículo 103.
 
 Los almacenes y tiendas en que se expenda ropa, comestibles y artículos para el hogar, podrán crearse por convenio entre los trabajadores y los patrones, de una o varias empresas, de conformidad con las normas siguientes:
+
+*Párrafo reformado DOF 09-01-1974*
 
 I. La adquisición de las mercancías será libre sin que pueda ejercerse coacción sobre los trabajadores;
 
@@ -935,6 +1087,8 @@ El Instituto del Fondo Nacional para el Consumo de los Trabajadores, conforme a 
 I. Otorgar crédito a los trabajadores, procurando las mejores condiciones de mercado; y
 
 II. Facilitar el acceso de los trabajadores a los servicios financieros que promuevan su ahorro y la consolidación de su patrimonio.
+
+*Artículo adicionado DOF 09-01-1974. Reformado DOF 02-07-1976, 30-11-2012*
 
 ##### Artículo 104.
 
@@ -964,11 +1118,17 @@ El pago deberá efectuarse en día laborable, fijado por convenio entre el traba
 
 Los descuentos en los salarios de los trabajadores, están prohibidos salvo en los casos y con los requisitos siguientes:
 
+*Párrafo reformado DOF 09-01-1974*
+
 I. Pago de deudas contraídas con el patrón por anticipo de salarios, pagos hechos con exceso al trabajador, errores, pérdidas, averías o adquisición de artículos producidos por la empresa o establecimiento. La cantidad exigible en ningún caso podrá ser mayor del importe de los salarios de un mes y el descuento será al que convengan el trabajador y el patrón, sin que pueda ser mayor del treinta por ciento del excedente del salario mínimo;
 
 II. Pago de la renta a que se refiere el artículo 151 que no podrá exceder del quince por ciento del salario.
 
+*Fracción reformada DOF 24-04-1972*
+
 III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados a la adquisición, construcción, reparación, ampliación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Asimismo, a aquellos trabajadores que se les haya otorgado un crédito para la adquisición de viviendas ubicadas en conjuntos habitacionales financiados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores se les descontará el 1% del salario a que se refiere el artículo 143 de esta Ley, que se destinará a cubrir los gastos que se eroguen por concepto de administración, operación y mantenimiento del conjunto habitacional de que se trate. Estos descuentos deberán haber sido aceptados libremente por el trabajador.
+
+*Fracción reformada DOF 24-04-1972, 07-01-1982*
 
 IV. Pago de cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, siempre que los trabajadores manifiesten expresa y libremente su conformidad y que no sean mayores del treinta por ciento del excedente del salario mínimo;
 
@@ -976,9 +1136,13 @@ V. Pago de pensiones alimenticias en favor de acreedores alimentarios, decretado
 
 En caso de que el trabajador deje de prestar sus servicios en el centro de trabajo, el patrón deberá informar a la autoridad jurisdiccional competente y los acreedores alimentarios tal circunstancia, dentro de los cinco días hábiles siguientes a la fecha de la terminación de la relación laboral;
 
+*Fracción reformada DOF 30-11-2012*
+
 VI. Pago de las cuotas sindicales ordinarias previstas en los estatutos de los sindicatos.
 
 VII. Pago de abonos para cubrir créditos garantizados por el Instituto a que se refiere el artículo 103 Bis de esta Ley, destinados a la adquisición de bienes de consumo, o al pago de servicios. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario.
+
+*Fracción adicionada DOF 09-01-1974. Reformada DOF 30-11-2012*
 
 ##### Artículo 111.
 
@@ -1038,11 +1202,17 @@ Los trabajadores no podrán poner en conocimiento de terceras personas los datos
 
 II. Dentro de los treinta días siguientes, el sindicato titular del contrato colectivo o la mayoría de los trabajadores de la empresa, podrá formular ante la Secretaría de Hacienda y Crédito Público las observaciones que juzgue convenientes, la que tendrá la obligación de responder por escrito, una vez que concluyan los procedimientos de fiscalización de acuerdo a los plazos que establece el Código Fiscal de la Federación, respecto de cada una de ellas;
 
+*Fracción reformada DOF 30-11-2012*
+
 III. La resolución definitiva dictada por la misma Secretaría no podrá ser recurrida por los trabajadores; y
 
 IV. Dentro de los treinta días siguientes a la resolución dictada por la Secretaría de Hacienda y Crédito Público, el patrón dará cumplimiento a la misma independientemente de que la impugne. Si como resultado de la impugnación variara a su favor el sentido de la resolución, los pagos hechos podrán deducirse de las utilidades correspondientes a los trabajadores en el siguiente ejercicio.
 
 Lo anterior, a excepción de que el patrón hubiese obtenido de la Junta de Conciliación y Arbitraje, la suspensión del reparto adicional de utilidades.
+
+*Párrafo adicionado DOF 30-11-2012*
+
+*Fracción adicionada DOF 02-07-1976*
 
 ##### Artículo 122.
 
@@ -1051,6 +1221,8 @@ El reparto de utilidades entre los trabajadores deberá efectuarse dentro de los
 Cuando la Secretaría de Hacienda y Crédito Público aumente el monto de la utilidad gravable, sin haber mediado objeción de los trabajadores o haber sido ésta resuelta, el reparto adicional se hará dentro de los sesenta días siguientes a la fecha en que se notifique la resolución. Sólo en el caso de que ésta fuera impugnada por el patrón, se suspenderá el pago del reparto adicional hasta que la resolución quede firme, garantizándose el interés de los trabajadores.
 
 El importe de las utilidades no reclamadas en el año en que sean exigibles, se agregará a la utilidad repartible del año siguiente.
+
+*Artículo reformado DOF 02-07-1976*
 
 ##### Artículo 123.
 
@@ -1090,6 +1262,8 @@ V. El Instituto Mexicano del Seguro Social y las instituciones públicas descent
 
 VI. Las empresas que tengan un capital menor del que fije la Secretaría del Trabajo y Previsión Social por ramas de la industria, previa consulta con la Secretaría de Economía. La resolución podrá revisarse total o parcialmente, cuando existan circunstancias económicas importantes que lo justifiquen.
 
+*Fracción reformada DOF 09-04-2012*
+
 ##### Artículo 127.
 
 El derecho de los trabajadores a participar en el reparto de utilidades se ajustará a las normas siguientes
@@ -1098,11 +1272,15 @@ I. Los directores, administradores y gerentes generales de las empresas no parti
 
 II. Los demás trabajadores de confianza participarán en las utilidades de las empresas, pero si el salario que perciben es mayor del que corresponda al trabajador sindicalizado de más alto salario dentro de la empresa, o a falta de esté al trabajador de planta con la misma característica, se considerará este salario aumentado en un veinte por ciento, como salario máximo.
 
+*Fracción reformada DOF 02-07-1976*
+
 III. El monto de la participación de los trabajadores al servicio de personas cuyos ingresos deriven exclusivamente de su trabajo, y el de los que se dediquen al cuidado de bienes que produzcan rentas o al cobro de créditos y sus intereses, no podrá exceder de un mes de salario;
 
 IV. Las madres trabajadoras, durante los períodos pre y postnatales, y los trabajadores víctimas de un riesgo de trabajo durante el período de incapacidad temporal, serán considerados como trabajadores en servicio activo;
 
 IV Bis. Los trabajadores del establecimiento de una empresa forman parte de ella para efectos de la participación de los trabajadores en las utilidades;
+
+*Fracción adicionada DOF 30-11-2012*
 
 V. En la industria de la construcción, después de determinar qué trabajadores tienen derecho a participar en el reparto, la Comisión a que se refiere el artículo 125 adoptará las medidas que juzgue conveniente para su citación;
 
@@ -1166,17 +1344,29 @@ XIV.- Hacer por su cuenta, cuando empleen más de cien y menos de mil trabajador
 
 XV.- Proporcionar capacitación y adiestramiento a sus trabajadores, en los términos del Capítulo III Bis de este Título.
 
+*Fracción reformada DOF 28-04-1978*
+
 XVI. Instalar y operar las fábricas, talleres, oficinas, locales y demás lugares en que deban ejecutarse las labores, de acuerdo con las disposiciones establecidas en el reglamento y las normas oficiales mexicanas en materia de seguridad, salud y medio ambiente de trabajo, a efecto de prevenir accidentes y enfermedades laborales. Asimismo, deberán adoptar las medidas preventivas y correctivas que determine la autoridad laboral;
+
+*Fracción reformada DOF 28-04-1978, 30-11-2012*
 
 XVI Bis. Contar, en los centros de trabajo que tengan más de 50 trabajadores, con instalaciones adecuadas para el acceso y desarrollo de actividades de las personas con discapacidad;
 
+*Fracción adicionada DOF 30-11-2012*
+
 XVII. Cumplir el reglamento y las normas oficiales mexicanas en materia de seguridad, salud y medio ambiente de trabajo, así como disponer en todo tiempo de los medicamentos y materiales de curación indispensables para prestar oportuna y eficazmente los primeros auxilios;
 
+*Fracción reformada DOF 28-04-1978, 30-11-2012*
+
 XVIII. Fijar visiblemente y difundir en los lugares donde se preste el trabajo, las disposiciones conducentes de los reglamentos y las normas oficiales mexicanas en materia de seguridad, salud y medio ambiente de trabajo, así como el texto íntegro del o los contratos colectivos de trabajo que rijan en la empresa; asimismo, se deberá difundir a los trabajadores la información sobre los riesgos y peligros a los que están expuestos;
+
+*Fracción reformada DOF 28-04-1978, 30-11-2012*
 
 XIX.- Proporcionar a sus trabajadores los medicamentos profilácticos que determine la autoridad sanitaria en los lugares donde existan enfermedades tropicales o endémicas, o cuando exista peligro de epidemia;
 
 XIX Bis. Cumplir con las disposiciones que en caso de emergencia sanitaria fije la autoridad competente, así como proporcionar a sus trabajadores los elementos que señale dicha autoridad, para prevenir enfermedades en caso de declaratoria de contingencia sanitaria;
+
+*Fracción adicionada DOF 30-11-2012*
 
 XX.- Reservar, cuando la población fija de un centro rural de trabajo exceda de doscientos habitantes, un espacio de terreno no menor de cinco mil metros cuadrados para el establecimiento de mercados públicos, edificios para los servicios municipales y centros recreativos, siempre que dicho centro de trabajo esté a una distancia no menor de cinco kilómetros de la población más próxima;
 
@@ -1188,25 +1378,41 @@ XXIII.- Hacer las deducciones de las cuotas para la constitución y fomento de s
 
 XXIII Bis. Hacer las deducciones y pagos correspondientes a las pensiones alimenticias previstas en la fracción V del artículo 110 y colaborar al efecto con la autoridad jurisdiccional competente;
 
+*Fracción adicionada DOF 30-11-2012*
+
 XXIV.- Permitir la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento para cerciorarse del cumplimiento de las normas de trabajo y darles los informes que a ese efecto sean indispensables, cuando lo soliciten. Los patrones podrán exigir a los inspectores o comisionados que les muestren sus credenciales y les den a conocer las instrucciones que tengan; y
 
 XXV.- Contribuir al fomento de las actividades culturales y del deporte entre sus trabajadores y proporcionarles los equipos y útiles indispensables.
 
 XXVI. Hacer las deducciones previstas en las fracciones IV del artículo 97 y VII del artículo 110, y enterar los descuentos a la institución bancaria acreedora, o en su caso, al Instituto del Fondo Nacional para el Consumo de los Trabajadores. Esta obligación no convierte al patrón en deudor solidario del crédito que se haya concedido al trabajador;
 
+*Fracción adicionada DOF 09-01-1974. Fe de erratas DOF 10-01-1974. Reformada DOF 30-11-2012*
+
 XXVI Bis. Afiliar al centro de trabajo al Instituto del Fondo Nacional para el Consumo de los Trabajadores, a efecto de que los trabajadores puedan ser sujetos del crédito que proporciona dicha entidad. La afiliación será gratuita para el patrón;
+
+*Fracción adicionada DOF 30-11-2012*
 
 XXVII.- Proporcionar a las mujeres embarazadas la protección que establezcan los reglamentos.
 
+*Fracción adicionada DOF 31-12-1974*
+
 XXVII Bis. Otorgar permiso de paternidad de cinco días laborables con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos y de igual manera en el caso de la adopción de un infante; y
 
+*Fracción adicionada DOF 30-11-2012*
+
 XXVIII.- Participar en la integración y funcionamiento de las Comisiones que deban formarse en cada centro de trabajo, de acuerdo con lo establecido por esta Ley.
+
+*Fracción adicionada DOF 28-04-1978*
 
 ##### Artículo 133.
 
 Queda prohibido a los patrones o a sus representantes:
 
+*Párrafo reformado DOF 30-11-2012*
+
 I. Negarse a aceptar trabajadores por razón de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otro criterio que pueda dar lugar a un acto discriminatorio;
+
+*Fracción reformada DOF 31-12-1974, 30-11-2012*
 
 II.- Exigir que los trabajadores compren sus artículos de consumo en tienda o lugar determinado;
 
@@ -1216,25 +1422,39 @@ IV.- Obligar a los trabajadores por coacción o por cualquier otro medio, a afil
 
 V. Intervenir en cualquier forma en el régimen interno del sindicato, impedir su formación o el desarrollo de la actividad sindical, mediante represalias implícitas o explícitas contra los trabajadores;
 
+*Fracción reformada DOF 30-11-2012*
+
 VI.- Hacer o autorizar colectas o suscripciones en los establecimientos y lugares de trabajo;
 
 VII.- Ejecutar cualquier acto que restrinja a los trabajadores los derechos que les otorgan las leyes;
 
 VIII.- Hacer propaganda política o religiosa dentro del establecimiento;
 
-IX- Emplear el sistema de poner en el índice a los trabajadores que se separen o sean separados del trabajo para que no se les vuelva a dar ocupación;
+IX.- Emplear el sistema de poner en el índice a los trabajadores que se separen o sean separados del trabajo para que no se les vuelva a dar ocupación;
 
 X. Portar armas en el interior de los establecimientos ubicados dentro de las poblaciones;
 
+*Fracción reformada DOF 30-11-2012*
+
 XI. Presentarse en los establecimientos en estado de embriaguez o bajo la influencia de un narcótico o droga enervante;
+
+*Fracción reformada DOF 30-11-2012*
 
 XII. Realizar actos de hostigamiento y/o acoso sexual contra cualquier persona en el lugar de trabajo;
 
+*Fracción adicionada DOF 30-11-2012*
+
 XIII. Permitir o tolerar actos de hostigamiento y/o acoso sexual en el centro de trabajo;
+
+*Fracción adicionada DOF 30-11-2012*
 
 XIV. Exigir la presentación de certificados médicos de no embarazo para el ingreso, permanencia o ascenso en el empleo; y
 
+*Fracción adicionada DOF 30-11-2012*
+
 XV. Despedir a una trabajadora o coaccionarla directa o indirectamente para que renuncie por estar embarazada, por cambio de estado civil o por tener el cuidado de hijos menores.
+
+*Fracción adicionada DOF 30-11-2012*
 
 ### CAPITULO II · Obligaciones de los trabajadores
 
@@ -1245,6 +1465,8 @@ Son obligaciones de los trabajadores:
 I.- Cumplir las disposiciones de las normas de trabajo que les sean aplicables;
 
 II. Observar las disposiciones contenidas en el reglamento y las normas oficiales mexicanas en materia de seguridad, salud y medio ambiente de trabajo, así como las que indiquen los patrones para su seguridad y protección personal;
+
+*Fracción reformada DOF 30-11-2012*
 
 III.- Desempeñar el servicio bajo la dirección del patrón o de su representante, a cuya autoridad estarán subordinados en todo lo concerniente al trabajo;
 
@@ -1290,9 +1512,15 @@ VIII. Hacer colectas en el establecimiento o lugar de trabajo;
 
 IX. Usar los útiles y herramientas suministrados por el patrón, para objeto distinto de aquél a que están destinados;
 
+*Fracción reformada DOF 30-11-2012*
+
 X. Hacer cualquier clase de propaganda en las horas de trabajo, dentro del establecimiento; y
 
+*Fracción reformada DOF 30-11-2012*
+
 XI. Acosar sexualmente a cualquier persona o realizar actos inmorales en los lugares de trabajo.
+
+*Fracción adicionada DOF 30-11-2012*
 
 ### CAPITULO III · Habitaciones para los trabajadores
 
@@ -1300,21 +1528,31 @@ XI. Acosar sexualmente a cualquier persona o realizar actos inmorales en los lug
 
 Toda empresa agrícola, industrial, minera o de cualquier otra clase de trabajo, está obligada a proporcionar a los trabajadores habitaciones cómodas e higiénicas. Para dar cumplimiento a esta obligación, las empresas deberán aportar al Fondo Nacional de la Vivienda el cinco por ciento sobre los salarios de los trabajadores a su servicio.
 
+*Artículo reformado DOF 24-04-1972, 07-01-1982*
+
 ##### Artículo 137.
 
 El Fondo Nacional de la Vivienda tendrá por objeto crear sistemas de financiamiento que permitan a los trabajadores obtener crédito barato y suficiente para adquirir en propiedad habitaciones cómodas e higiénicas, para la construcción, reparación, o mejoras de sus casas habitación y para el pago de pasivos adquiridos por estos conceptos.
+
+*Artículo reformado DOF 24-04-1972*
 
 ##### Artículo 138.
 
 Los recursos del Fondo Nacional de la Vivienda serán administrados por un organismo integrado en forma tripartita por representantes del Gobierno Federal, de los trabajadores y de los patrones.
 
+*Artículo reformado DOF 24-04-1972*
+
 ##### Artículo 139.
 
 La ley que cree dicho organismo regulará los procedimientos y formas conforme a los cuales los trabajadores podrán adquirir en propiedad habitaciones y obtener los créditos a que se refiere el artículo 137.
 
+*Artículo reformado DOF 24-04-1972*
+
 ##### Artículo 140.
 
 El organismo a que se refieren los artículos 138 y 139, tendrá a su cargo la coordinación y el financiamiento de los programas de construcción de casas habitación destinadas a ser adquiridas en propiedad por los trabajadores.
+
+*Artículo reformado DOF 24-04-1972*
 
 ##### Artículo 141.
 
@@ -1322,15 +1560,21 @@ Las aportaciones al Fondo Nacional de la Vivienda son gastos de previsión socia
 
 I. En los casos de incapacidad total permanente, de incapacidad parcial permanente, cuando ésta sea del 50% o más; de invalidez definitiva, en los términos de la Ley del Seguro Social; de jubilación; o de muerte del trabajador, se entregará el total de los depósitos constituidos, a él o sus beneficiarios, con una cantidad adicional igual a dichos depósitos, en los términos de la Ley, a que se refiere el artículo 139;
 
+*Fracción reformada DOF 13-01-1986*
+
 II. Cuando el trabajador deje de estar sujeto a una relación de trabajo y cuente con 50 o más años de edad, tendrá derecho a que se le haga entrega del total de los depósitos que se hubieren hecho a su favor, en los términos de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
 III. En caso de que el trabajador hubiere recibido crédito del Instituto, las cantidades a que tuviere derecho en los términos de las fracciones anteriores, se aplicarán a la amortización del crédito, salvo en los casos de incapacidad total permanente o de muerte, en los términos del artículo 145 si después de hacer la aplicación de dichas cantidades a la amortización del crédito quedare saldo a favor del trabajador se le entregará a éste el monto correspondiente.
 
 Para la devolución de los depósitos y cantidades adicionales bastará que la solicitud por escrito se acompañe con las pruebas pertinentes.
 
+*Artículo reformado DOF 24-04-1972, 07-01-1982, 30-12-1983*
+
 ##### Artículo 142.
 
 Cuando una empresa se componga de varios establecimientos, la obligación a que se refiere el Artículo 136 de esta ley se extiende a cada uno de ellos y a la empresa en su conjunto.
+
+*Artículo reformado DOF 24-04-1972*
 
 ##### Artículo 143.
 
@@ -1350,9 +1594,13 @@ f) Los pagos por tiempo extraordinario, salvo cuando este tipo de servicios est�
 
 g) Las cuotas al Instituto Mexicano del Seguro Social a cargo del trabajador que cubran las empresas.
 
+*Artículo reformado DOF 24-04-1972, 07-01-1982*
+
 ##### Artículo 144.
 
 Se tendrá como salario máximo para el pago de las aportaciones el equivalente a diez veces el salario mínimo general del área geográfica de aplicación que corresponda.
+
+*Artículo reformado DOF 24-04-1972, 21-01-1988*
 
 ##### Artículo 145.
 
@@ -1362,9 +1610,13 @@ Para tales efectos, se entenderá por incapacidad total permanente la pérdida d
 
 Tratándose de los casos de incapacidad parcial permanente, cuando ésta sea del 50% o más, o invalidez definitiva, se liberará al trabajador acreditado del adeudo, los gravámenes o limitaciones de dominio a favor del Instituto, siempre y cuando no sea sujeto de una nueva relación de trabajo por un período mínimo de dos años, lapso durante el cual gozará de una prórroga sin causa de intereses, para el pago de su crédito. La existencia de cualquiera de estos supuestos deberá comprobarse ante el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dentro del mes siguiente a la fecha en que se determinen.
 
+*Artículo reformado DOF 24-04-1972, 13-01-1986*
+
 ##### Artículo 146.
 
-Los patrones no estarán obligados a pagar las aportaciones a que se refiere el Artículo 136 de esta Ley por lo que toca a los trabajadores domésticos.
+Los patrones no estarán obligados a pagar las aportaciones a que se refiere el Artículo 136 de esta ley por lo que toca a los trabajadores domésticos.
+
+*Artículo reformado DOF 24-04-1972*
 
 ##### Artículo 147.
 
@@ -1374,9 +1626,13 @@ I. Los deportistas profesionales y
 
 II. Los trabajadores a domicilio.
 
+*Artículo reformado DOF 24-04-1972*
+
 ##### Artículo 148.
 
 El Ejecutivo Federal podrá establecer modalidades para facilitar la aportación de las empresas que tengan un capital o un ingreso inferior a los mínimos que el propio Ejecutivo determine. Estas resoluciones podrán revisarse total o parcialmente cuando a su juicio existan circunstancias que lo justifiquen.
+
+*Artículo reformado DOF 24-04-1972*
 
 ##### Artículo 149.
 
@@ -1386,9 +1642,13 @@ Al efectuar la aplicación de recursos, se distribuirán equitativamente entre l
 
 Para el otorgamiento individual de los créditos se procederá en caso necesario conforme a un sistema de sorteos, en los términos que establezca la ley a que se refiere el artículo 139.
 
+*Artículo reformado DOF 24-04-1972*
+
 ##### Artículo 150.
 
 Cuando las empresas proporcionen a sus trabajadores casa en comodato o arrendamiento no están exentas de contribuir al Fondo Nacional de la Vivienda, en los términos del artículo 136. Tampoco quedarán exentas de esta aportación respecto de aquellos trabajadores que hayan sido favorecidos por créditos del fondo.
+
+*Artículo reformado DOF 24-04-1972*
 
 ##### Artículo 151.
 
@@ -1398,19 +1658,21 @@ I. Las empresas están obligadas a mantenerlas en condiciones de habitabilidad y
 
 II. Los trabajadores tienen las obligaciones siguientes:
 
-a) Pagar las rentas.
+a). Pagar las rentas.
 
-b) Cuidar de la habitación como si fuera propia.
+b). Cuidar de la habitación como si fuera propia.
 
-c) Poner en conocimiento de la empresa los defectos o deterioros que observen.
+c). Poner en conocimiento de la empresa los defectos o deterioros que observen.
 
-d) Desocupar las habitaciones a la terminación de las relaciones de trabajo dentro de un término de cuarenta y cinco días y
+d). Desocupar las habitaciones a la terminación de las relaciones de trabajo dentro de un término de cuarenta y cinco días y
 
 III. Está prohibido a los trabajadores:
 
-a) Usar la habitación para fines distintos de los señalados en este capítulo.
+a). Usar la habitación para fines distintos de los señalados en este capítulo.
 
-b) Subarrendar las habitaciones.
+b). Subarrendar las habitaciones.
+
+*Artículo reformado DOF 24-04-1972*
 
 ##### Artículo 152.
 
@@ -1421,6 +1683,8 @@ Los trabajadores tendrán derecho a ejercitar ante las Juntas de Conciliación y
 Las empresas tendrán derecho a ejercitar ante las Juntas de Conciliación y Arbitraje, las acciones que les correspondan en contra de los trabajadores por incumplimiento de las obligaciones que les impone este capítulo.
 
 ### Capítulo III BIS · De la Productividad, Formación y Capacitación de los Trabajadores
+
+*Capítulo adicionado DOF 28-04-1978. Denominación reformada DOF 30-11-2012*
 
 ##### Artículo 153-A.
 
@@ -1434,11 +1698,15 @@ Los cursos y programas de capacitación o adiestramiento, así como los programa
 
 La capacitación o adiestramiento a que se refiere este artículo y demás relativos, deberá impartirse al trabajador durante las horas de su jornada de trabajo; salvo que, atendiendo a la naturaleza de los servicios, patrón y trabajador convengan que podrá impartirse de otra manera; así como en el caso en que el trabajador desee capacitarse en una actividad distinta a la de la ocupación que desempeñe, en cuyo supuesto, la capacitación se realizará fuera de la jornada de trabajo.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
+
 ##### Artículo 153-B.
 
 La capacitación tendrá por objeto preparar a los trabajadores de nueva contratación y a los demás interesados en ocupar las vacantes o puestos de nueva creación.
 
 Podrá formar parte de los programas de capacitación el apoyo que el patrón preste a los trabajadores para iniciar, continuar o completar ciclos escolares de los niveles básicos, medio o superior.
+
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
 
 ##### Artículo 153-C.
 
@@ -1452,6 +1720,8 @@ III. Incrementar la productividad; y
 
 IV. En general mejorar el nivel educativo, la competencia laboral y las habilidades de los trabajadores.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
+
 ##### Artículo 153-D.
 
 Los trabajadores a quienes se imparta capacitación o adiestramiento están obligados a:
@@ -1461,6 +1731,8 @@ I. Asistir puntualmente a los cursos, sesiones de grupo y demás actividades que
 II. Atender las indicaciones de las personas que impartan la capacitación o adiestramiento, y cumplir con los programas respectivos; y
 
 III. Presentar los exámenes de evaluación de conocimientos y de aptitud o de competencia laboral que sean requeridos.
+
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
 
 ##### Artículo 153-E.
 
@@ -1478,13 +1750,19 @@ V. Resolver las objeciones que, en su caso, presenten los trabajadores con motiv
 
 Para el caso de las micro y pequeñas empresas, que son aquellas que cuentan con hasta 50 trabajadores, la Secretaría del Trabajo y Previsión Social y la Secretaría de Economía estarán obligadas a incentivar su productividad mediante la dotación de los programas a que se refiere el artículo 153-J, así como la capacitación relacionada con los mismos. Para tal efecto, con el apoyo de las instituciones académicas relacionadas con los temas de los programas referidos, convocarán en razón de su rama, sector, entidad federativa o región a los micro y pequeños empresarios, a los trabajadores y sindicatos que laboran en dichas empresas.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
+
 ##### Artículo 153-F.
 
 Las autoridades laborales cuidarán que las Comisiones Mixtas de Capacitación, Adiestramiento y Productividad se integren y funcionen oportuna y normalmente, vigilando el cumplimiento de sus obligaciones.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
+
 ##### Artículo 153-F Bis.
 
 Los patrones deberán conservar a disposición de la Secretaría del Trabajo y Previsión Social y la Secretaría de Economía, los planes y programas de capacitación, adiestramiento y productividad que se haya acordado establecer, o en su caso, las modificaciones que se hayan convenido acerca de planes y programas ya implantados.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 153-G.
 
@@ -1500,6 +1778,8 @@ El registro concedido en los términos de este artículo podrá ser revocado cua
 
 En el procedimiento de revocación, el afectado podrá ofrecer pruebas y alegar lo que a su derecho convenga.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
+
 ##### Artículo 153-H.
 
 Los planes y programas de capacitación y adiestramiento se elaborarán dentro de los sesenta días hábiles siguientes a que inicien las operaciones en el centro de trabajo y deberán cumplir los requisitos siguientes:
@@ -1514,11 +1794,15 @@ IV. Señalar el procedimiento de selección, a través del cual se establecerá 
 
 V. Deberán basarse en normas técnicas de competencia laboral, si las hubiere para los puestos de trabajo de que se trate.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
+
 ##### Artículo 153-I.
 
 Se entiende por productividad, para efectos de esta Ley, el resultado de optimizar los factores humanos, materiales, financieros, tecnológicos y organizacionales que concurren en la empresa, en la rama o en el sector para la elaboración de bienes o la prestación de servicios, con el fin de promover a nivel sectorial, estatal, regional, nacional e internacional, y acorde con el mercado al que tiene acceso, su competitividad y sustentabilidad, mejorar su capacidad, su tecnología y su organización, e incrementar los ingresos, el bienestar de los trabajadores y distribuir equitativamente sus beneficios.
 
 Al establecimiento de los acuerdos y sistemas para medir e incrementar la productividad, concurrirán los patrones, trabajadores, sindicatos, gobiernos y academia.
+
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
 
 ##### Artículo 153-J.
 
@@ -1545,6 +1829,8 @@ IX. Implementar sistemas que permitan determinar en forma y monto apropiados los
 X. Las demás que se acuerden y se consideren pertinentes.
 
 Los programas establecidos en este artículo podrán formularse respecto de varias empresas, por actividad o servicio, una o varias ramas industriales o de servicios, por entidades federativas, región o a nivel nacional.
+
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
 
 ##### Artículo 153-K.
 
@@ -1576,11 +1862,15 @@ XI. Emitir opinión y sugerir el destino y aplicación de recursos presupuestale
 
 XII. Las demás que se establezcan en esta y otras disposiciones normativas.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-12-1983, 30-11-2012*
+
 ##### Artículo 153-L.
 
 El Titular del Ejecutivo Federal fijará las bases para determinar la forma de designación de los miembros de la Comisión Nacional de Productividad, así como las relativas a su organización y funcionamiento. Sujetándose a los principios de representatividad e inclusión en su integración.
 
 En la toma de decisiones de la Comisión Nacional de Productividad se privilegiará el consenso.
+
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
 
 ##### Artículo 153-M.
 
@@ -1588,19 +1878,27 @@ En los contratos colectivos deberán incluirse cláusulas relativas a la obligac
 
 Además, podrá consignarse en los propios contratos el procedimiento conforme al cual el patrón capacitará y adiestrará a quienes pretendan ingresar a laborar en la empresa, tomando en cuenta, en su caso, la cláusula de admisión.
 
+*Artículo adicionado DOF 28-04-1978*
+
 ##### Artículo 153-N.
 
 Para su funcionamiento la Comisión Nacional de Productividad establecerá subcomisiones sectoriales, por rama de actividad, estatales y regionales.
 
 Las subcomisiones elaborarán para el ámbito del respectivo sector, rama de actividad, entidad federativa o región los programas que establece el artículo 153-J de esta Ley.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
+
 ##### Artículo 153-O.
 
 (Se deroga).
 
+*Artículo adicionado DOF 28-04-1978. Derogado DOF 30-11-2012*
+
 ##### Artículo 153-P.
 
 (Se deroga).
+
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-12-1983. Derogado DOF 30-11-2012*
 
 ##### Artículo 153-Q.
 
@@ -1608,17 +1906,25 @@ A nivel de las entidades federativas y el Distrito Federal se establecerán Comi
 
 Será aplicable a las Comisiones Estatales de Productividad, en el ámbito de las entidades federativas, lo establecido en los artículos 153-I, 153-J, 153-K, 153-L, 153-N y demás relativos.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-12-1983, 30-11-2012*
+
 ##### Artículo 153-R.
 
 (Se deroga).
+
+*Artículo adicionado DOF 28-04-1978. Derogado DOF 30-11-2012*
 
 ##### Artículo 153-S.
 
 Cuando el patrón no dé cumplimiento a la obligación de conservar a disposición de la Secretaría del Trabajo y Previsión Social los planes y programas de capacitación y adiestramiento, en los términos del artículo 153-N, o cuando dichos planes y programas no se lleven a la práctica, será sancionado conforme a lo dispuesto en esta Ley, sin perjuicio de que, en cualquiera de los dos casos, la propia Secretaría adopte las medidas pertinentes para que el patrón cumpla con la obligación de que se trata.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
+
 ##### Artículo 153-T.
 
 Los trabajadores que hayan sido aprobados en los exámenes de capacitación y adiestramiento en los términos de este Capítulo, tendrán derecho a que la entidad instructora les expida las constancias respectivas, mismas que, autentificadas por la Comisión Mixta de Capacitación y Adiestramiento de la Empresa, se harán del conocimiento de la Secretaría del Trabajo y Previsión Social, por conducto del correspondiente Comité Nacional o, a falta de éste, a través de las autoridades del trabajo a fin de que la propia Secretaría las registre y las tome en cuenta al formular el padrón de trabajadores capacitados que corresponda, en los términos de la fracción IV del artículo 539.
+
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-12-1983*
 
 ##### Artículo 153-U.
 
@@ -1626,21 +1932,35 @@ Cuando implantado un programa de capacitación, un trabajador se niegue a recibi
 
 En este último caso, se extenderá a dicho trabajador la constancia de competencias o de habilidades laborales.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-12-1983. Fe de erratas DOF 13-04-1984. Reformado DOF 30-11-2012*
+
 ##### Artículo 153-V.
 
 La constancia de competencias o de habilidades laborales es el documento con el cual el trabajador acreditará haber llevado y aprobado un curso de capacitación.
 
+*Párrafo reformado DOF 30-11-2012*
+
 Las empresas están obligadas a enviar a la Secretaría del Trabajo y Previsión Social para su registro y control, listas de las constancias que se hayan expedido a sus trabajadores.
 
+*Párrafo reformado DOF 30-12-1983*
+
 Las constancias de que se trata surtirán plenos efectos, para fines de ascenso, dentro de la empresa en que se haya proporcionado la capacitación o adiestramiento.
+
+*Reforma DOF 30-11-2012: Derogó del artículo el entonces párrafo cuarto*
+
+*Artículo adicionado DOF 28-04-1978*
 
 ##### Artículo 153-W.
 
 Los certificados, diplomas, títulos o grados que expidan el Estado, sus organismos descentralizados o los particulares con reconocimiento de validez oficial de estudios, a quienes hayan concluido un tipo de educación con carácter terminal, serán inscritos en los registros de que trata el artículo 539, fracción IV, cuando el puesto y categoría correspondientes figuren en el Catálogo Nacional de Ocupaciones o sean similares a los incluidos en él.
 
+*Artículo adicionado DOF 28-04-1978*
+
 ##### Artículo 153-X.
 
 Los trabajadores y patrones tendrán derecho a ejercitar ante las Juntas de Conciliación y Arbitraje las acciones individuales y colectivas que deriven de la obligación de capacitación o adiestramiento impuesta en este Capítulo.
+
+*Artículo adicionado DOF 28-04-1978*
 
 ### CAPITULO IV · Derechos de preferencia, antigüedad y ascenso
 
@@ -1648,21 +1968,31 @@ Los trabajadores y patrones tendrán derecho a ejercitar ante las Juntas de Conc
 
 Los patrones estarán obligados a preferir, en igualdad de circunstancias, a los trabajadores mexicanos respecto de quienes no lo sean, a quienes les hayan servido satisfactoriamente por mayor tiempo, a quienes no teniendo ninguna otra fuente de ingreso económico tengan a su cargo una familia, a los que hayan terminado su educación básica obligatoria, a los capacitados respecto de los que no lo sean, a los que tengan mayor aptitud y conocimientos para realizar un trabajo y a los sindicalizados respecto de quienes no lo estén.
 
+*Párrafo reformado DOF 30-11-2012*
+
 Si existe contrato colectivo y éste contiene cláusula de admisión, la preferencia para ocupar las vacantes o puestos de nueva creación se regirá por lo que disponga el contrato colectivo y el estatuto sindical.
 
 Se entiende por sindicalizado a todo trabajador que se encuentre agremiado a cualquier organización sindical legalmente constituida.
+
+*Artículo reformado DOF 31-12-1974, 02-07-1976*
 
 ##### Artículo 155.
 
 Los trabajadores que se encuentren en los casos del artículo anterior y que aspiren a un puesto vacante o de nueva creación, deberán presentar una solicitud a la empresa o establecimiento indicando su domicilio y nacionalidad, si tienen a su cargo una familia y quienes dependen económicamente de ellos si prestaron servicio con anterioridad y por qué tiempo, la naturaleza del trabajo que desempeñaron y la denominación del sindicato a que pertenezcan, a fin de que sean llamados al ocurrir alguna vacante o crearse algún puesto nuevo; o presentarse a la empresa o establecimiento al momento de ocurrir la vacante o de crearse el puesto, comprobando la causa en que funden su solicitud.
 
+*Artículo reformado DOF 31-12-1974*
+
 ##### Artículo 156.
 
 De no existir contrato colectivo o no contener el celebrado la cláusula de admisión, serán aplicables las disposiciones contenidas en el primer párrafo del artículo 154, a los trabajadores que habitualmente, sin tener el carácter de trabajadores de planta, prestan servicios en una empresa o establecimiento, supliendo las vacantes transitorias o temporales y a los que desempeñen trabajos extraordinarios o para obra determinada, que no constituyan una actividad normal o permanente de la empresa.
 
+*Artículo reformado DOF 02-07-1976*
+
 ##### Artículo 157.
 
 El incumplimiento de las obligaciones contenidas en los artículos 154 y 156 da derecho al trabajador para solicitar ante la Junta de Conciliación y Arbitraje, a su elección, que se le otorgue el puesto correspondiente o se le indemnice con el importe de tres meses de salario. Tendrá además derecho a que se le paguen los salarios e intereses, en su caso, a que se refiere el párrafo segundo del artículo 48.
+
+*Artículo reformado DOF 30-11-2012*
 
 ##### Artículo 158.
 
@@ -1673,6 +2003,8 @@ Una comisión integrada con representantes de los trabajadores y del patrón for
 ##### Artículo 159.
 
 Las vacantes definitivas, las provisionales con duración mayor de treinta días y los puestos de nueva creación, serán cubiertos por el trabajador que tenga la categoría o rango inmediato inferior, así como mayor capacitación, con mayor antigüedad, demuestre mayor aptitud, acredite mayor productividad y sea apto para el puesto.
+
+*Artículo reformado DOF 31-12-1974, 28-04-1978, 30-11-2012*
 
 ##### Artículo 160.
 
@@ -1702,6 +2034,8 @@ b) Si el número de trabajadores que se retire excede del diez por ciento, se pa
 
 c) Si el retiro se efectúa al mismo tiempo por un número de trabajadores mayor del porcentaje mencionado, se cubrirá la prima a los que tengan mayor antigüedad y podrá diferirse para el año siguiente el pago de la que corresponda a los restantes trabajadores;
 
+*Fe de erratas al inciso DOF 05-06-1970*
+
 V. En caso de muerte del trabajador, cualquiera que sea su antigüedad, la prima que corresponda se pagará a las personas mencionadas en el artículo 501; y
 
 VI. La prima de antigüedad a que se refiere este artículo se cubrirá a los trabajadores o a sus beneficiarios, independientemente de cualquier otra prestación que les corresponda.
@@ -1714,11 +2048,19 @@ La atribución de los derechos al nombre y a la propiedad y explotación de las 
 
 I. El inventor tendrá derecho a que su nombre figure como autor de la invención;
 
+*Fe de erratas a la fracción DOF 30-04-1970*
+
 II. Cuando el trabajador se dedique a trabajos de investigación o de perfeccionamiento de los procedimientos utilizados en la empresa, por cuenta de ésta la propiedad de la invención y el derecho a la explotación de la patente corresponderán al patrón. El inventor, independientemente del salario que hubiese percibido, tendrá derecho a una compensación complementaria, que se fijará por convenio de las partes o por la Junta de Conciliación y Arbitraje cuando la importancia de la invención y los beneficios que puedan reportar al patrón no guarden proporción con el salario percibido por el inventor; y
+
+*Fe de erratas a la fracción DOF 30-04-1970*
 
 III. En cualquier otro caso, la propiedad de la invención corresponderá a la persona o personas que la realizaron, pero el patrón tendrá un derecho preferente, en igualdad de circunstancias, al uso exclusivo o a la adquisición de la invención y de las correspondientes patentes.
 
 ## TITULO QUINTO · Trabajo de las Mujeres
+
+*Denominación del Título reformada DOF 31-12-1974*
+
+*Reforma DOF 31-12-1974: Suprimió de este Título los entonces Capítulos I “Trabajo de las Mujeres” y II “Trabajo de los Menores”*
 
 ##### Artículo 164.
 
@@ -1732,9 +2074,13 @@ Las modalidades que se consignan en este capítulo tienen como propósito fundam
 
 Cuando se ponga en peligro la salud de la mujer, o la del producto, ya sea durante el estado de gestación o el de lactancia y sin que sufra perjuicio en su salario, prestaciones y derechos, no se podrá utilizar su trabajo en labores insalubres o peligrosas, trabajo nocturno industrial, en establecimientos comerciales o de servicio después de las diez de la noche, así como en horas extraordinarias.
 
+*Artículo reformado DOF 31-12-1974*
+
 ##### Artículo 167.
 
 Para los efectos de este título, son labores peligrosas o insalubres las que, por la naturaleza del trabajo, por las condiciones físicas, químicas y biológicas del medio en que se presta, o por la composición de la materia prima que se utilice, son capaces de actuar sobre la vida y la salud física y mental de la mujer en estado de gestación, o del producto.
+
+*Párrafo reformado DOF 31-12-1974*
 
 Los reglamentos que se expidan determinarán los trabajos que quedan comprendidos en la definición anterior.
 
@@ -1744,9 +2090,13 @@ En caso de que las autoridades competentes emitan una declaratoria de contingenc
 
 Cuando con motivo de la declaratoria de contingencia sanitaria se ordene la suspensión general de labores, a las mujeres en periodos de gestación o de lactancia les será aplicable lo dispuesto por el artículo 429, fracción IV de esta Ley.
 
+*Artículo derogado DOF 31-12-1974. Adicionado DOF 30-11-2012*
+
 ##### Artículo 169.
 
 (Se deroga).
+
+*Artículo derogado DOF 31-12-1974*
 
 ##### Artículo 170.
 
@@ -1754,15 +2104,23 @@ Las madres trabajadoras tendrán los siguientes derechos:
 
 I. Durante el período del embarazo, no realizarán trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación, tales como levantar, tirar o empujar grandes pesos, que produzcan trepidación, estar de pie durante largo tiempo o que actúen o puedan alterar su estado psíquico y nervioso;
 
+*Fracción reformada DOF 31-12-1974. Fe de erratas DOF 09-01-1975*
+
 II. Disfrutarán de un descanso de seis semanas anteriores y seis posteriores al parto. A solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda o, en su caso, del servicio de salud que otorgue el patrón, tomando en cuenta la opinión del patrón y la naturaleza del trabajo que desempeñe, se podrá transferir hasta cuatro de las seis semanas de descanso previas al parto para después del mismo. En caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta ocho semanas posteriores al parto, previa presentación del certificado médico correspondiente.
 
 En caso de que se presente autorización de médicos particulares, ésta deberá contener el nombre y número de cédula profesional de quien los expida, la fecha y el estado médico de la trabajadora.
 
+*Fracción reformada DOF 30-11-2012*
+
 II Bis. En caso de adopción de un infante disfrutarán de un descanso de seis semanas con goce de sueldo, posteriores al día en que lo reciban;
+
+*Fracción adicionada DOF 30-11-2012*
 
 III. Los períodos de descanso a que se refiere la fracción anterior se prorrogarán por el tiempo necesario en el caso de que se encuentren imposibilitadas para trabajar a causa del embarazo o del parto;
 
 IV. En el período de lactancia hasta por el término máximo de seis meses, tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, en lugar adecuado e higiénico que designe la empresa, o bien, cuando esto no sea posible, previo acuerdo con el patrón se reducirá en una hora su jornada de trabajo durante el período señalado;
+
+*Fracción reformada DOF 30-11-2012*
 
 V. Durante los períodos de descanso a que se refiere la fracción II, percibirán su salario íntegro. En los casos de prórroga mencionados en la fracción III, tendrán derecho al cincuenta por ciento de su salario por un período no mayor de sesenta días;
 
@@ -1780,19 +2138,27 @@ En los establecimientos en que trabajen mujeres, el patrón debe mantener un nú
 
 ## TITULO QUINTO BIS · Trabajo de los Menores
 
+*Título adicionado DOF 31-12-1974*
+
 ##### Artículo 173.
 
 El trabajo de los menores queda sujeto a vigilancia y protección especiales de las autoridades del trabajo tanto federales como locales.
 
 La Secretaría del Trabajo y Previsión Social en coordinación con las autoridades del trabajo en las entidades federativas, desarrollarán programas que permitan identificar y erradicar el trabajo infantil.
 
+*Artículo reformado DOF 30-11-2012*
+
 ##### Artículo 174.
 
-Los mayores de catorce y menores de dieciséis años, independientemente de contar con la autorización de Ley para trabajar, deberán obtener un certificado médico que acredite su aptitud para el trabajo y someterse a los exámenes médicos que periódicamente ordenen las autoridades laborales correspondientes. Sin estos requisitos, ningún patrón podrá utilizar sus servicios.
+Los mayores de quince y menores de dieciocho años, deberán obtener un certificado médico que acredite su aptitud para el trabajo y someterse a los exámenes médicos que periódicamente ordenen las autoridades laborales correspondientes. Sin estos requisitos, ningún patrón podrá utilizar sus servicios.
+
+*Artículo reformado DOF 30-11-2012, 12-06-2015*
 
 ##### Artículo 175.
 
-Queda prohibida la utilización del trabajo de los menores:
+Queda prohibida la utilización del trabajo de los menores de dieciocho años:
+
+*Párrafo reformado DOF 12-06-2015*
 
 I. En establecimientos no industriales después de las diez de la noche;
 
@@ -1800,27 +2166,39 @@ II. En expendios de bebidas embriagantes de consumo inmediato, cantinas o tabern
 
 III. En trabajos susceptibles de afectar su moralidad o buenas costumbres; y
 
-IV. En labores peligrosas o insalubres que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se presta, o por la composición de la materia prima que se utiliza, son capaces de actuar sobre la vida, el desarrollo y la salud física y mental de los menores.
+IV. En labores peligrosas o insalubres que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se presta, o por la composición de la materia prima que se utiliza, son capaces de actuar sobre la vida, el desarrollo y la salud física y mental de los menores, en términos de lo previsto en el artículo 176 de esta Ley.
 
-En caso de declaratoria de contingencia sanitaria y siempre que así lo determine la autoridad competente, no podrá utilizarse el trabajo de menores de dieciséis años. Los trabajadores que se encuentren en este supuesto, no sufrirán perjuicio en su salario, prestaciones y derechos.
+*Fracción reformada DOF 12-06-2015*
 
-Cuando con motivo de la declaratoria de contingencia sanitaria se ordene la suspensión general de labores, a los menores de dieciséis años les será aplicable lo dispuesto por el artículo 429, fracción IV de esta Ley.
+En caso de declaratoria de contingencia sanitaria y siempre que así lo determine la autoridad competente, no podrá utilizarse el trabajo de menores de dieciocho años. Los trabajadores que se encuentren en este supuesto, no sufrirán perjuicio en su salario, prestaciones y derechos.
+
+*Párrafo reformado DOF 12-06-2015*
+
+Cuando con motivo de la declaratoria de contingencia sanitaria se ordene la suspensión general de labores, a los menores de dieciocho años les será aplicable lo dispuesto por el artículo 429, fracción IV de esta Ley.
+
+*Párrafo reformado DOF 12-06-2015*
+
+*Artículo reformado DOF 30-11-2012*
 
 ##### Artículo 175 Bis.
 
-Para los efectos de este capítulo, no se considerará trabajo las actividades que bajo la supervisión, el cuidado y la responsabilidad de los padres, tutores o quienes ejerzan la patria potestad, realicen los menores de catorce años relacionadas con la creación artística, el desarrollo científico, deportivo o de talento, la ejecución musical o la interpretación artística en cualquiera de sus manifestaciones, cuando se sujeten a las siguientes reglas:
+Para los efectos de este capítulo, no se considerará trabajo las actividades que bajo la supervisión, el cuidado y la responsabilidad de los padres, tutores o quienes ejerzan la patria potestad, realicen los menores de quince años relacionadas con la creación artística, el desarrollo científico, deportivo o de talento, la ejecución musical o la interpretación artística en cualquiera de sus manifestaciones, cuando se sujeten a las siguientes reglas:
+
+*Párrafo reformado DOF 12-06-2015*
 
 a) La relación establecida con el solicitante deberá constar por escrito y contendrá el consentimiento expreso que en nombre del menor manifiesten los padres, tutores o quienes ejerzan la patria potestad, así como la incorporación del compromiso que asuma el solicitante de respetar a favor del mismo menor los derechos que la Constitución, los convenios internacionales y las leyes federales y locales reconozcan a favor de la niñez;
 
 b) Las actividades que realice el menor no podrán interferir con su educación, esparcimiento y recreación en los términos que establezca el derecho aplicable, tampoco implicarán riesgo para su integridad o salud y en todo caso, incentivarán el desarrollo de sus habilidades y talentos; y
 
-c) Las contraprestaciones que reciba el menor por las actividades que realice, nunca serán menores a las que por concepto de salario recibiría un mayor de catorce y menor de dieciséis años.
+c) Las contraprestaciones que reciba el menor por las actividades que realice nunca serán menores a las que por concepto de salario recibiría un mayor de quince y menor de dieciocho años.
+
+*Inciso reformado DOF 12-06-2015*
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 176.
 
-Para los efectos del artículo 175, además de lo que dispongan las Leyes, reglamentos y normas aplicables, se considerarán como labores peligrosas o insalubres, las siguientes:
-
-A. Tratándose de menores de catorce a dieciséis años de edad, aquellos que impliquen:
+Para los efectos del artículo 175, además de lo que dispongan las Leyes, reglamentos y normas aplicables, se considerarán, como labores peligrosas o insalubres, las que impliquen:
 
 I. Exposición a:
 
@@ -1834,43 +2212,47 @@ I. Exposición a:
 
 II. Labores:
 
-1\. De rescate, salvamento y brigadas contra siniestros.
+1\. Nocturnas industriales o el trabajo después de las veintidós horas.
 
-2\. En altura o espacios confinados.
+2\. De rescate, salvamento y brigadas contra siniestros.
 
-3\. En las cuales se operen equipos y procesos críticos donde se manejen sustancias químicas peligrosas que puedan ocasionar accidentes mayores.
+3\. En altura o espacios confinados.
 
-4\. De soldadura y corte.
+4\. En las cuales se operen equipos y procesos críticos donde se manejen sustancias químicas peligrosas que puedan ocasionar accidentes mayores.
 
-5\. En condiciones climáticas extremas en campo abierto, que los expongan a deshidratación, golpe de calor, hipotermia o congelación.
+5\. De soldadura y corte.
 
-6\. En vialidades con amplio volumen de tránsito vehicular (vías primarias).
+6\. En condiciones climáticas extremas en campo abierto, que los expongan a deshidratación, golpe de calor, hipotermia o congelación.
 
-7\. Agrícolas, forestales, de aserrado, silvícolas, de caza y pesca.
+7\. En vialidades con amplio volumen de tránsito vehicular (vías primarias).
 
-8\. Productivas de las industrias gasera, del cemento, minera, del hierro y el acero, petrolera y nuclear.
+8\. Agrícolas, forestales, de aserrado, silvícolas, de caza y pesca.
 
-9\. Productivas de las industrias ladrillera, vidriera, cerámica y cerera.
+9\. Productivas de las industrias gasera, del cemento, minera, del hierro y el acero, petrolera y nuclear.
 
-10\. Productivas de la industria tabacalera.
+10\. Productivas de las industrias ladrillera, vidriera, cerámica y cerera.
 
-11\. Relacionadas con la generación, transmisión y distribución de electricidad y el mantenimiento de instalaciones eléctricas.
+11\. Productivas de la industria tabacalera.
 
-12\. En obras de construcción.
+12\. Relacionadas con la generación, transmisión y distribución de electricidad y el mantenimiento de instalaciones eléctricas.
 
-13\. Que tengan responsabilidad directa sobre el cuidado de personas o la custodia de bienes y valores.
+13\. En obras de construcción.
 
-14\. Con alto grado de dificultad; en apremio de tiempo; que demandan alta responsabilidad, o que requieren de concentración y atención sostenidas.
+14\. Que tengan responsabilidad directa sobre el cuidado de personas o la custodia de bienes y valores.
 
-15\. Relativas a la operación, revisión, mantenimiento y pruebas de recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas.
+15\. Con alto grado de dificultad; en apremio de tiempo; que demandan alta responsabilidad, o que requieren de concentración y atención sostenidas.
 
-16\. En buques.
+16\. Relativas a la operación, revisión, mantenimiento y pruebas de recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas.
 
-17\. Submarinas y subterráneas.
+17\. En buques.
 
-18\. Trabajos ambulantes, salvo autorización especial de la Inspección de Trabajo.
+18\. En minas.
 
-III. Esfuerzo físico moderado y pesado; cargas superiores a los siete kilogramos; posturas forzadas, o con movimientos repetitivos por períodos prolongados, que alteren su sistema músculo-esquelético.
+19\. Submarinas y subterráneas.
+
+20\. Trabajos ambulantes, salvo autorización especial de la Inspección de Trabajo.
+
+III. Esfuerzo físico moderado y pesado; cargas superiores a los siete kilogramos; posturas forzadas, o con movimientos repetitivos por períodos prolongados, que alteren su sistema musculo-esquelético.
 
 IV. Manejo, transporte, almacenamiento o despacho de sustancias químicas peligrosas.
 
@@ -1880,21 +2262,9 @@ VI. Manejo de vehículos motorizados, incluido su mantenimiento mecánico y elé
 
 VII. Uso de herramientas manuales punzo cortantes.
 
-B. Tratándose de menores de dieciocho años de edad, aquellos que impliquen:
+Las actividades previstas en este artículo, para los menores de dieciocho años y mayores de dieciséis años de edad, se sujetarán a los términos y condiciones consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las leyes y los Tratados Internacionales de los que el Estado Mexicano sea parte.
 
-I. Trabajos nocturnos industriales.
-
-II. Exposición a:
-
-a. Fauna peligrosa o flora nociva.
-
-b. Radiaciones ionizantes.
-
-III. Actividades en calidad de pañoleros y fogoneros en buques.
-
-IV. Manejo, transporte, almacenamiento o despacho de sustancias químicas peligrosas.
-
-V. Trabajos en minas.
+*Artículo reformado DOF 30-11-2012, 12-06-2015*
 
 ##### Artículo 177.
 
@@ -1902,25 +2272,39 @@ La jornada de trabajo de los menores de dieciséis años no podrá exceder de se
 
 ##### Artículo 178.
 
-Queda prohibida la utilización del trabajo de los menores de dieciséis años en horas extraordinarias y en los días domingos y de descanso obligatorio. En caso de violación de esta prohibición, las horas extraordinarias se pagarán con un doscientos por ciento más del salario que corresponda a las horas de la jornada, y el salario de los días domingos y de descanso obligatorio, de conformidad con lo dispuesto en los artículos 73 y 75.
+Queda prohibida la utilización del trabajo de los menores de dieciocho años, en horas extraordinarias y en los días domingos y de descanso obligatorio. En caso de violación de esta prohibición, las horas extraordinarias se pagarán con un doscientos por ciento más del salario que corresponda a las horas de la jornada, y el salario de los días domingos y de descanso obligatorio, de conformidad con lo dispuesto en los artículos 73 y 75.
+
+*Artículo reformado DOF 12-06-2015*
 
 ##### Artículo 179.
 
-Los menores de dieciséis años disfrutarán de un período anual de vacaciones pagadas de dieciocho días laborables, por lo menos.
+Los menores de dieciocho años, disfrutarán de un período anual de vacaciones pagadas de dieciocho días laborables, por lo menos.
+
+*Artículo reformado DOF 12-06-2015*
 
 ##### Artículo 180.
 
-Los patrones que tengan a su servicio menores de dieciséis años están obligados a:
+Los patrones que tengan a su servicio menores de dieciocho años, están obligados a:
+
+*Párrafo reformado DOF 12-06-2015*
 
 I. Exigir que se les exhiban los certificados médicos que acrediten que están aptos para el trabajo;
 
-II. Llevar un registro de inspección especial, con indicación de la fecha de su nacimiento, clase de trabajo, horario, salario y demás condiciones generales de trabajo;
+II. Llevar y tener a disposición de la autoridad competente, registros y documentación comprobatoria, en donde se indique el nombre y apellidos, la fecha de nacimiento o la edad de los menores de dieciocho años empleados por ellos, clase de trabajo, horario, salario y demás condiciones generales de trabajo; así mismo, dichos registros deberán incluir la información correspondiente de aquéllos que reciban orientación, capacitación o formación profesional en sus empresas.
+
+*Fracción reformada DOF 12-06-2015*
 
 III. Distribuir el trabajo a fin de que dispongan del tiempo necesario para cumplir sus programas escolares;
 
+*Fracción reformada DOF 28-04-1978*
+
 IV. Proporcionarles capacitación y adiestramiento en los términos de esta Ley; y,
 
+*Fracción adicionada DOF 28-04-1978*
+
 V. Proporcionar a las autoridades del trabajo los informes que soliciten.
+
+*Fracción reformada y recorrida DOF 28-04-1978*
 
 ## TITULO SEXTO · Trabajos Especiales
 
@@ -1968,13 +2352,17 @@ Están sujetos a las disposiciones de este capítulo, los capitanes y oficiales 
 
 Los trabajadores de los buques deberán tener la calidad de mexicanos por nacimiento que no adquieran otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
 
+*Artículo reformado DOF 23-01-1998*
+
 ##### Artículo 190.
 
 Los capitanes, entendiéndose como tales a quienes ejercen el mando directo de un buque, tienen con respecto a los demás trabajadores la calidad de representantes del patrón.
 
 ##### Artículo 191.
 
-Queda prohibido el trabajo a que se refiere este capítulo a los menores de quince años y el de los menores de dieciocho en calidad de pañoleros o fogoneros.
+Queda prohibido el trabajo a que se refiere este capítulo a los menores de dieciséis años y el de los menores de dieciocho en calidad de pañoleros o fogoneros.
+
+*Artículo reformado DOF 12-06-2015*
 
 ##### Artículo 192.
 
@@ -2174,6 +2562,8 @@ Las disposiciones de este capítulo se aplican al trabajo de las tripulaciones d
 
 Los tripulantes deben tener la calidad de mexicanos por nacimiento que no adquieran otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
 
+*Artículo reformado DOF 23-01-1998*
+
 ##### Artículo 217.
 
 Las relaciones de trabajo a que se refiere este capítulo se regirán por las leyes mexicanas, independientemente del lugar en donde vayan a prestarse los servicios.
@@ -2195,6 +2585,8 @@ IV. Los sobrecargos.
 Serán considerados representantes del patrón, por la naturaleza de las funciones que desempeñan, los gerentes de operación o superintendentes de vuelos, jefes de adiestramiento, jefes de pilotos, pilotos instructores o asesores, y cualesquiera otros funcionarios que aun cuando tengan diversas denominaciones de cargos, realicen funciones análogas a las anteriores.
 
 Los titulares de las categorías citadas serán designados por el patrón y podrán figurar como pilotos al mando, sin perjuicio de los derechos correspondientes de los pilotos de planta, siempre y cuando reúnan los requisitos que la Ley de Vías Generales de Comunicación y sus reglamentos, consignen al respecto.
+
+*Fe de erratas al párrafo DOF 30-04-1970*
 
 ##### Artículo 220.
 
@@ -2232,9 +2624,13 @@ Cuando las necesidades del servicio o las características de las rutas en opera
 
 Los tripulantes no podrán interrumpir un servicio de vuelo durante su trayecto, por vencimiento de la jornada de trabajo. En caso de que alcancen el límite de su jornada durante el vuelo o en un aeropuerto que no sea el de destino final, tendrán la obligación de terminarlo si no requiere más de tres horas. Si requiere mayor tiempo, serán relevados o suspenderán el vuelo en el aeropuerto más próximo del trayecto.
 
+*Fe de erratas al artículo DOF 30-04-1970*
+
 ##### Artículo 229.
 
 Cuando se use equipo a reacción podrá reducirse la duración del tiempo total de servicios señalado en este capítulo.
+
+*Fe de erratas al artículo DOF 05-06-1970*
 
 ##### Artículo 230.
 
@@ -2512,7 +2908,9 @@ En los contratos colectivos se determinarán las maniobras objeto de los mismos,
 
 ##### Artículo 267.
 
-No podrá utilizarse el trabajo de los menores de dieciséis años.
+No podrá utilizarse el trabajo de los menores de dieciocho años.
+
+*Artículo reformado DOF 12-06-2015*
 
 ##### Artículo 268.
 
@@ -2588,19 +2986,27 @@ Alcanzado el monto del fondo, no se harán nuevas aportaciones, salvo para repon
 
 Trabajadores del campo son los que ejecutan las labores propias de las explotaciones agrícolas, ganaderas, acuícolas, forestales o mixtas, al servicio de un patrón.
 
+*Párrafo reformado DOF 30-11-2012*
+
 Los trabajadores en las explotaciones industriales forestales se regirán por las disposiciones generales de esta ley.
 
 Los trabajadores del campo pueden ser permanentes, eventuales o estacionales.
 
+*Párrafo adicionado DOF 30-11-2012*
+
 ##### Artículo 279 Bis.
 
 Trabajador eventual del campo es aquél que, sin ser permanente ni estacional, desempeña actividades ocasionales en el medio rural, que pueden ser por obra y tiempo determinado, de acuerdo a lo establecido en la presente Ley.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 279 Ter.
 
 Los trabajadores estacionales del campo o jornaleros son aquellas personas físicas que son contratadas para laborar en explotaciones agrícolas, ganaderas, forestales, acuícolas o mixtas, únicamente en determinadas épocas del año, para realizar actividades relacionadas o que van desde la preparación de la tierra, hasta la preparación de los productos para su primera enajenación, ya sea que sean producidos a cielo abierto, en invernadero o de alguna otra manera protegidos, sin que se afecte su estado natural; así como otras de análoga naturaleza agrícola, ganadera, forestal, acuícola o mixta. Puede ser contratada por uno o más patrones durante un año, por periodos que en ningún caso podrán ser superiores a veintisiete semanas por cada patrón.
 
 No se considerarán trabajadores estacionales del campo, los que laboren en empresas agrícolas, ganaderas, forestales, acuícolas o mixtas que adquieran productos del campo, para realizar actividades de empaque, re empaque, exposición, venta o para su transformación a través de algún proceso que modifique su estado natural.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 280.
 
@@ -2609,6 +3015,8 @@ El trabajador estacional o eventual del campo que labore en forma continua por u
 El patrón llevará un registro especial de los trabajadores eventuales y estacionales que contrate cada año y exhibirlo ante las autoridades del trabajo cuando sea requerido para ello.
 
 Al final de la estación o del ciclo agrícola, el patrón deberá pagar al trabajador las partes proporcionales que correspondan por concepto de vacaciones, prima vacacional, aguinaldo y cualquier otra prestación a la que tenga derecho, y deberá entregar una constancia a cada trabajador en la que se señalen los días laborados y los salarios totales devengados.
+
+*Artículo reformado DOF 30-11-2012*
 
 ##### Artículo 281.
 
@@ -2620,6 +3028,8 @@ Si existieren contratos de aparcería, el propietario del predio y el aparcero s
 
 Las condiciones de trabajo se redactarán por escrito, observándose lo dispuesto en el artículo 25 y demás relativos de esta Ley.
 
+*Artículo reformado DOF 30-11-2012*
+
 ##### Artículo 283.
 
 Los patrones tienen las obligaciones especiales siguientes:
@@ -2628,17 +3038,29 @@ I. Pagar los salarios precisamente en el lugar donde preste el trabajador sus se
 
 II. Suministrar gratuitamente a los trabajadores habitaciones adecuadas e higiénicas, proporcionales al número de familiares o dependientes económicos que los acompañen y, en su caso, un predio individual o colectivo, para la cría de animales de corral;
 
+*Fracción reformada DOF 30-11-2012*
+
 III. Mantener las habitaciones en buen estado, haciendo en su caso las reparaciones necesarias y convenientes;
+
+*Fracción reformada DOF 30-11-2012*
 
 IV. Proporcionar a los trabajadores agua potable y servicios sanitarios durante la jornada de trabajo;
 
+*Fracción adicionada DOF 30-11-2012*
+
 V. Mantener en el lugar de trabajo los medicamentos y material de curación, así como los antídotos necesarios, a fin de proporcionar primeros auxilios a los trabajadores, a sus familiares o dependientes económicos que los acompañen, así como adiestrar personal que los preste;
 
+*Fracción reformada y recorrida DOF 30-11-2012*
+
 VI. Proporcionar a los trabajadores y a sus familiares que los acompañen asistencia médica o trasladarlos al lugar más próximo en el que existan servicios médicos. También tendrán las obligaciones a que se refiere el artículo 504, fracción II;
+
+*Fracción reformada y recorrida DOF 30-11-2012*
 
 VII. Proporcionar gratuitamente al trabajador, a sus familiares o dependientes económicos que los acompañen medicamentos y material de curación en los casos de enfermedades tropicales, endémicas y propias de la región y pagar a los trabajadores que resulten incapacitados, el setenta y cinco por ciento de los salarios hasta por noventa días. Los trabajadores estacionales disfrutarán de esta prestación por el tiempo que dure la relación laboral.
 
 Los trabajadores estacionales también deberán contar con un seguro de vida para sus traslados desde sus lugares de origen a los centros de trabajo y posteriormente a su retorno;
+
+*Fracción reformada y recorrida DOF 30-11-2012*
 
 VIII. Permitir a los trabajadores dentro del predio:
 
@@ -2650,17 +3072,29 @@ c) El libre tránsito por los caminos y veredas establecidos, siempre que no sea
 
 d) Celebrar en los lugares acostumbrados sus fiestas regionales.
 
+*Fracción reformada y recorrida DOF 30-11-2012*
+
 IX. Fomentar la creación de cooperativas de consumo entre los trabajadores;
+
+*Fracción adicionada DOF 30-11-2012*
 
 X. Fomentar la alfabetización entre los trabajadores y sus familiares.
 
 El Estado garantizará en todo momento, el acceso a la educación básica de los hijos de los trabajadores estacionales del campo o jornaleros. La Secretaría de Educación Pública, reconocerá los estudios que en un mismo ciclo escolar, realicen los hijos de los trabajadores estacionales del campo o jornaleros tanto en sus lugares de origen como en sus centros de trabajo;
 
+*Fracción adicionada DOF 30-11-2012*
+
 XI. Proporcionar a los trabajadores en forma gratuita, transporte cómodo y seguro de las zonas habitacionales a los lugares de trabajo y viceversa. El patrón podrá emplear sus propios medios o pagar el servicio para que el trabajador haga uso de un trasporte público adecuado;
+
+*Fracción adicionada DOF 30-11-2012*
 
 XII. Utilizar los servicios de un intérprete cuando los trabajadores no hablen español; y
 
+*Fracción adicionada DOF 30-11-2012*
+
 XIII. Brindar servicios de guardería a los hijos de los trabajadores.
+
+*Fracción adicionada DOF 30-11-2012*
 
 ##### Artículo 284.
 
@@ -2672,11 +3106,15 @@ II. Impedir la entrada a los vendedores de mercancías o cobrarles alguna cuota;
 
 III. Impedir a los trabajadores la crianza de animales de corral en el predio individual o colectivo destinado a tal fin, a menos que ésta perjudique los cultivos o cualquier otra actividad que se realice en las propias instalaciones del centro de trabajo.
 
+*Fracción reformada DOF 30-11-2012*
+
 ### CAPITULO IX · Agentes de comercio y otros semejantes
 
 ##### Artículo 285.
 
 Los agentes de comercio, de seguros, los vendedores, viajantes, propagandistas o impulsores de ventas y otros semejantes, son trabajadores de la empresa o empresas a las que presten sus servicios, cuando su actividad sea permanente, salvo que no ejecuten personalmente el trabajo o que únicamente intervengan en operaciones aisladas.
+
+*Artículo reformado DOF 30-11-2012*
 
 ##### Artículo 286.
 
@@ -2826,7 +3264,11 @@ Trabajo a domicilio es el que se ejecuta habitualmente para un patrón, en el do
 
 Será considerado como trabajo a domicilio el que se realiza a distancia utilizando tecnologías de la información y la comunicación.
 
+*Párrafo adicionado DOF 30-11-2012*
+
 Si el trabajo se ejecuta en condiciones distintas de las señaladas en este artículo se regirá por las disposiciones generales de esta Ley.
+
+*Párrafo reformado DOF 30-11-2012*
 
 ##### Artículo 312.
 
@@ -2898,6 +3340,8 @@ La falta de libreta no priva al trabajador de los derechos que le correspondan d
 
 La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos profesionales de los diferentes trabajos a domicilio, debiendo tomar en consideración, entre otras, las circunstancias siguientes:
 
+*Párrafo reformado DOF 21-01-1988*
+
 I. La naturaleza y calidad de los trabajos:
 
 II. El tiempo promedio para la elaboración de los productos;
@@ -2907,6 +3351,8 @@ III. Los salarios y prestaciones percibidos por los trabajadores de establecimie
 IV. Los precios corrientes en el mercado de los productos del trabajo a domicilio.
 
 Los libros a que se refiere el artículo 320 estarán permanentemente a disposición de la Comisión Nacional de los Salarios Mínimos.
+
+*Párrafo reformado DOF 21-01-1988*
 
 ##### Artículo 323.
 
@@ -2925,6 +3371,8 @@ III. Recibir oportunamente el trabajo y pagar los salarios en la forma y fechas 
 IV. Hacer constar en la libreta de cada trabajador, al momento de recibir el trabajo, las pérdidas o deficiencias que resulten, no pudiendo hacerse ninguna reclamación posterior; y
 
 V. Proporcionar a los Inspectores y a la Comisión Nacional de los Salarios Mínimos los informes que le soliciten.
+
+*Fracción reformada DOF 21-01-1988*
 
 ##### Artículo 325.
 
@@ -2972,6 +3420,8 @@ VI. Practicar visitas en los locales donde se ejecute el trabajo, para vigilar q
 
 VII. Informar a la Comisión Nacional de los Salarios Mínimos las diferencias de salarios que adviertan, en relación con los que se paguen a trabajadores que ejecuten trabajos similares.
 
+*Fracción reformada DOF 21-01-1988*
+
 ### CAPITULO XIII · Trabajadores domésticos
 
 ##### Artículo 331.
@@ -2990,6 +3440,8 @@ II. Los porteros y veladores de los establecimientos señalados en la fracción 
 
 Los trabajadores domésticos que habitan en el hogar donde prestan sus servicios deberán disfrutar de un descanso mínimo diario nocturno de nueve horas consecutivas, además de un descanso mínimo diario de tres horas entre las actividades matutinas y vespertinas.
 
+*Artículo reformado DOF 30-11-2012*
+
 ##### Artículo 334.
 
 Salvo lo expresamente pactado, la retribución del doméstico comprende, además del pago en efectivo, los alimentos y la habitación. Para los efectos de esta Ley, los alimentos y habitación se estimarán equivalentes al 50% del salario que se pague en efectivo.
@@ -2998,11 +3450,15 @@ Salvo lo expresamente pactado, la retribución del doméstico comprende, además
 
 La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos profesionales que deberán pagarse a estos trabajadores.
 
+*Artículo reformado DOF 21-01-1988*
+
 ##### Artículo 336.
 
 Los trabajadores domésticos tienen derecho a un descanso semanal de día y medio ininterrumpido, preferiblemente en sábado y domingo.
 
 Mediante acuerdo entre las partes podrá acordarse la acumulación de los medios días en periodos de dos semanas, pero habrá de disfrutarse de un día completo de descanso en cada semana.
+
+*Artículo reformado DOF 21-01-1988, 30-11-2012*
 
 ##### Artículo 337.
 
@@ -3011,6 +3467,8 @@ Los patrones tienen las obligaciones especiales siguientes:
 I. Guardar consideración al trabajador doméstico, absteniéndose de todo mal trato de palabra o de obra;
 
 II. Proporcionar al trabajador habitación cómoda e higiénica, alimentación sana y suficiente y condiciones de trabajo que aseguren la vida y la salud; y
+
+*Fracción reformada DOF 30-11-2012*
 
 III. El patrón deberá cooperar para la instrucción general del trabajador doméstico, de conformidad con las normas que dicten las autoridades correspondientes.
 
@@ -3050,13 +3508,19 @@ El patrón podrá dar por terminada la relación de trabajo sin responsabilidad,
 
 ### Capitulo XIII Bis · De Los Trabajadores en Minas
 
+*Capítulo adicionado DOF 30-11-2012*
+
 ##### Artículo 343-A.
 
 Las disposiciones de este capítulo son aplicables en todas las minas de carbón de la República Mexicana, y a todos sus desarrollos mineros en cualquiera de sus etapas mineras en que se encuentre, ya sea, prospección, preparación, exploración y explotación, independientemente del tipo de exploración y explotación de que se trate, ya sean, minas subterráneas, minas de arrastre, tajos a cielo abierto, tiros inclinados y verticales, así como la extracción en cualquiera de sus modalidades, llevada a cabo en forma artesanal, mismas que, para los efectos de esta Ley, son consideradas centros de trabajo.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 343-B.
 
 Todo centro de trabajo debe contar con un sistema de gestión de seguridad y salud en el trabajo y con un responsable de su funcionamiento, designado por el patrón, en los términos que establezca la normatividad aplicable.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 343-C.
 
@@ -3082,6 +3546,8 @@ IX. No contratar o permitir que se contrate a menores de 18 años.
 
 Los operadores de las concesiones que amparen los lotes mineros, en los cuales se ubiquen los centros de trabajo a que se refiere este Capítulo, deberán cerciorarse de que el patrón cumpla con sus obligaciones. Los operadores de las concesiones mineras serán subsidiariamente responsables, en caso de que ocurra un suceso en donde uno o más trabajadores sufran incapacidad permanente parcial o total, o la muerte, derivada de dicho suceso.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 343-D.
 
 Los trabajadores podrán negarse a prestar sus servicios, siempre y cuando la Comisión Mixta de Seguridad e Higiene confirme que:
@@ -3098,6 +3564,8 @@ Enterada la Inspección del Trabajo, por cualquier medio o forma, de que existe 
 
 En caso de que un patrón se niegue a recibir a la autoridad laboral, ésta podrá solicitar el auxilio de la fuerza pública, Federal, Estatal o Municipal, según sea el caso, para ingresar al centro de trabajo y cumplir con sus funciones de vigilancia del cumplimiento de la normatividad laboral. La Inspección del Trabajo deberá notificar esta circunstancia a la autoridad minera para que ésta proceda a la suspensión de obras y trabajos mineros en los términos de la Ley de la materia.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 343-E.
 
 A los responsables y encargados directos de la operación y supervisión de los trabajos y desarrollos mineros, que dolosamente o negligentemente omitan implementar las medidas de seguridad previstas en la normatividad, y que hayan sido previamente identificados por escrito en dictamen fundado y motivado de la autoridad competente, se les aplicarán las penas siguientes:
@@ -3105,6 +3573,8 @@ A los responsables y encargados directos de la operación y supervisión de los 
 I. Multa de hasta 2,000 veces el salario mínimo general vigente en el Distrito Federal, cuando por su omisión se produzca un riesgo de trabajo, que genere a uno o varios trabajadores una incapacidad permanente parcial.
 
 II. Multa de hasta 3,500 veces el salario mínimo general vigente en el Distrito Federal, cuando por su omisión se produzca un riesgo de trabajo, que genere a uno o varios trabajadores una incapacidad permanente total.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ### CAPITULO XIV · Trabajo en hoteles, restaurantes, bares y otros establecimientos análogos
 
@@ -3115,6 +3585,8 @@ Las disposiciones de este capítulo se aplican a los trabajadores en hoteles, ca
 ##### Artículo 345.
 
 La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos profesionales que deberán pagarse a estos trabajadores.
+
+*Artículo reformado DOF 21-01-1988*
 
 ##### Artículo 346.
 
@@ -3158,7 +3630,9 @@ No se aplican a los talleres familiares las disposiciones de esta Ley, con excep
 
 La Inspección del Trabajo vigilará el cumplimiento de las normas a que se refiere el artículo anterior.
 
-### CAPITULO XVI · Trabajos de médicos residentes en período de adiestramiento en una especialidad
+### CAPITULO XVI · Trabajos de Médicos Residentes en Período de Adiestramiento en una Especialidad
+
+*Capítulo adicionado DOF 30-12-1977*
 
 ##### Artículo 353-A.
 
@@ -3168,11 +3642,17 @@ I. Médico Residente: El profesional de la medicina con Título legalmente exped
 
 II. Unidad Médica Receptora de Residentes: El establecimiento hospitalario en el cual se pueden cumplir las residencias, que para los efectos de la Ley General de Salud, exige la especialización de los profesionales de la medicina; y
 
+*Fracción reformada DOF 30-11-2012*
+
 III. Residencia: El conjunto de actividades que deba cumplir un Médico Residente en período de adiestramiento; para realizar estudios y prácticas de postrado, respecto de la disciplina de la salud a que pretenda dedicarse, dentro de una Unidad Médica Receptora de Residentes, durante el tiempo y conforme a los requisitos que señalen las disposiciones académicas respectivas.
+
+*Artículo adicionado DOF 30-12-1977*
 
 ##### Artículo 353-B.
 
 Las relaciones laborales entre los Médicos Residentes y la persona moral o física de quien dependa la Unidad Médica Receptora de Residentes, se regirán por las disposiciones de este Capítulo y por las estipulaciones contenidas en el contrato respectivo, en cuanto no las contradigan.
+
+*Artículo adicionado DOF 30-12-1977*
 
 ##### Artículo 353-C.
 
@@ -3181,6 +3661,8 @@ Son derechos especiales de los Médicos Residentes, que deberán consignarse en 
 I. Disfrutar de las prestaciones que sean necesarias para el cumplimiento de la Residencia;
 
 II. Ejercer su Residencia hasta concluir su especialidad, siempre y cuando cumplan con los requisitos que establece este Capítulo.
+
+*Artículo adicionado DOF 30-12-1977*
 
 ##### Artículo 353-D.
 
@@ -3198,9 +3680,13 @@ V. Permanecer en la Unidad Médica Receptora de Residentes, en los términos del
 
 VI. Someterse y aprobar los exámenes periódicos de evaluación de conocimientos y destreza adquiridos, de acuerdo a las disposiciones académicas y normas administrativas de la Unidad correspondiente.
 
+*Artículo adicionado DOF 30-12-1977*
+
 ##### Artículo 353-E.
 
 Dentro del tiempo que el Médico Residente debe permanecer en la Unidad Médica Receptora de Residentes, conforme a las disposiciones docentes respectivas, quedan incluidos, la jornada laboral junto al adiestramiento en la especialidad, tanto en relación con pacientes como en las demás formas de estudio o práctica, y los períodos para disfrutar de reposo e ingerir alimentos.
+
+*Artículo adicionado DOF 30-12-1977*
 
 ##### Artículo 353-F.
 
@@ -3208,15 +3694,19 @@ La relación de trabajo será por tiempo determinado, no menor de un año ni may
 
 En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de esta ley.
 
+*Artículo adicionado DOF 30-12-1977*
+
 ##### Artículo 353-G.
 
 Son causas especiales de rescisión de la relación de trabajo, sin responsabilidad para el patrón, además de la que establece el artículo 47, las siguientes:
 
 I. El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353.D;
 
-II. La violación de las normas técnicas o administrativas necesarias para el funcionamiento de la Unidad Médica Receptora de Residentes en la que se efectúe la residencia; y
+II. La violación de las normas técnicas o administrativas necesarias para el funcionamiento de la Unidad Médica Receptora de Residentes en la que se efectúe la residencia;
 
 III. La comisión de faltas a las normas de conducta propias de la profesión médica, consignados en el Reglamento Interior de Trabajo de la Unidad Médica Receptora de Residentes.
+
+*Artículo adicionado DOF 30-12-1977*
 
 ##### Artículo 353-H.
 
@@ -3226,19 +3716,29 @@ I. La conclusión del Programa de Especialización;
 
 II. La supresión académica de estudios en la Especialidad en la rama de la Medicina que interesa al Médico Residente.
 
+*Artículo adicionado DOF 30-12-1977*
+
 ##### Artículo 353-I.
 
 Las disposiciones de este Capítulo no serán aplicables a aquellas personas que exclusivamente reciben cursos de capacitación o adiestramiento, como parte de su formación profesional, en las instituciones de salud.
 
-### CAPITULO XVII · Trabajo en las universidades e instituciones de educación superior autónomas por ley
+*Artículo adicionado DOF 30-12-1977*
+
+### CAPITULO XVII · Trabajo en las Universidades e Instituciones de Educación Superior Autónomas por Ley
+
+*Capítulo adicionado DOF 20-10-1980*
 
 ##### Artículo 353-J.
 
 Las disposiciones de este Capítulo se aplican a las relaciones de trabajo entre los trabajadores administrativos y académicos y las universidades e instituciones de educación superior autónomas por ley y tienen por objeto conseguir el equilibrio y la justicia social en las relaciones de trabajo, de tal modo que concuerden con la autonomía, la libertad de cátedra e investigación y los fines propios de estas instituciones.
 
+*Artículo adicionado DOF 20-10-1980*
+
 ##### Artículo 353-K.
 
 Trabajador académico es la persona física que presta servicios de docencia o investigación a las universidades o instituciones a las que se refiere este Capítulo, conforme a los planes y programas establecidos por las mismas, Trabajador administrativo es la persona física que presta servicios no académicos a tales universidades o instituciones.
+
+*Artículo adicionado DOF 20-10-1980*
 
 ##### Artículo 353-L.
 
@@ -3246,13 +3746,19 @@ Corresponde exclusivamente a las universidades o instituciones autónomas por le
 
 Para que un trabajador académico pueda considerarse sujeto a una relación laboral por tiempo indeterminado, además de que la tarea que realice tenga ese carácter, es necesario que sea aprobado en la evaluación académica que efectúe el órgano competente conforme a los requisitos y procedimientos que las propias universidades o instituciones establezcan.
 
+*Artículo adicionado DOF 20-10-1980*
+
 ##### Artículo 353-M.
 
 El Trabajador académico podrá ser contratado por jornada completa o media jornada. Los trabajadores académicos dedicados exclusivamente a la docencia podrán ser contratados por hora clase.
 
+*Artículo adicionado DOF 20-10-1980*
+
 ##### Artículo 353-N.
 
 No es violatorio del principio de igualdad de salarios la fijación de salarios distintos para trabajo igual si éste corresponde a diferentes categorías académicas.
+
+*Artículo adicionado DOF 20-10-1980*
 
 ##### Artículo 353-Ñ.
 
@@ -3264,13 +3770,19 @@ II. De personal administrativo, o
 
 III. De institución si comprende a ambos tipos de trabajadores.
 
+*Artículo adicionado DOF 20-10-1980*
+
 ##### Artículo 353-O.
 
 Los sindicatos a que se refiere el artículo anterior deberán registrarse en la Secretaría del Trabajo y Previsión Social o en la Junta de Conciliación y Arbitraje que corresponda, según sea federal o local la ley que creó a la universidad o institución de que se trate.
 
+*Artículo adicionado DOF 20-10-1980*
+
 ##### Artículo 353-P.
 
 Para los efectos de la contratación colectiva entre las universidades e instituciones y sus correspondientes sindicatos, se seguirán las reglas fijadas en el Artículo 388. Para tal efecto el sindicato de institución recibirá el tratamiento de sindicato de empresa y los sindicatos de personal académico o de personal administrativo tendrán el tratamiento de sindicato gremial.
+
+*Artículo adicionado DOF 20-10-1980*
 
 ##### Artículo 353-Q.
 
@@ -3278,23 +3790,33 @@ En los contratos colectivos las disposiciones relativas a los trabajadores acad�
 
 En ningún caso estos contratos podrán establecer para el personal académico la admisión exclusiva o la separación por expulsión a que se refiere el Artículo 395.
 
+*Artículo adicionado DOF 20-10-1980*
+
 ##### Artículo 353-R.
 
 En el procedimiento de huelga el aviso para la suspensión de labores deberá darse por lo menos con diez días de anticipación a la fecha señalada para suspender el trabajo.
 
 Además de los casos previstos por el Artículo 935, antes de la suspensión de los trabajos, las partes o en su defecto la Junta de Conciliación y Arbitraje, con audiencia de aquéllas, fijarán el número indispensable de trabajadores que deban continuar trabajando para que sigan ejecutándose las labores cuya suspensión pueda perjudicar irreparablemente la buena marcha de una investigación o un experimento en curso.
 
+*Artículo adicionado DOF 20-10-1980*
+
 ##### Artículo 353-S.
 
 En las Juntas de Conciliación y Arbitraje, funcionarán Juntas Especiales que conocerán de los asuntos laborales de las universidades e instituciones de educación superior autónomas por Ley y se integrarán con el presidente respectivo, el representante de cada universidad o institución y el representante de sus trabajadores académicos o administrativos que corresponda.
+
+*Artículo adicionado DOF 20-10-1980. Reformado DOF 30-11-2012*
 
 ##### Artículo 353-T.
 
 Para los efectos del artículo anterior, la autoridad competente expedirá la convocatoria respectiva, estableciendo en ella que cada universidad o institución nombrará su representante, y que deberán celebrarse sendas convenciones para la elección de representantes de los correspondientes trabajadores académicos o administrativos.
 
+*Artículo adicionado DOF 20-10-1980*
+
 ##### Artículo 353-U.
 
 Los trabajadores de las universidades e instituciones a las que se refiere este Capítulo disfrutarán de sistemas de seguridad social en los términos de sus leyes orgánicas, o conforme a los acuerdos que con base en ellas se celebren. Estas prestaciones nunca podrán ser inferiores a los mínimos establecidos por la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
+
+*Artículo adicionado DOF 20-10-1980*
 
 ## TITULO SEPTIMO · Relaciones Colectivas de Trabajo
 
@@ -3319,6 +3841,8 @@ Sindicato es la asociación de trabajadores o patrones, constituida para el estu
 Los trabajadores y los patrones tienen el derecho de constituir sindicatos, sin necesidad de autorización previa.
 
 Cualquier injerencia indebida será sancionada en los términos que disponga la Ley.
+
+*Párrafo adicionado DOF 30-11-2012*
 
 ##### Artículo 358.
 
@@ -3354,7 +3878,9 @@ II. Nacionales, los formados por patrones de una o varias ramas de actividades d
 
 ##### Artículo 362.
 
-Pueden formar parte de los sindicatos los trabajadores mayores de catorce años.
+Pueden formar parte de los sindicatos, los trabajadores mayores de quince años.
+
+*Artículo reformado DOF 12-06-2015*
 
 ##### Artículo 363.
 
@@ -3367,6 +3893,8 @@ Los sindicatos deberán constituirse con veinte trabajadores en servicio activo 
 ##### Artículo 364 Bis.
 
 En el registro de los sindicatos se deberán observar los principios de legalidad, transparencia, certeza, gratuidad, inmediatez, imparcialidad y respeto a la libertad, autonomía, equidad y democracia sindical.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 365.
 
@@ -3406,6 +3934,8 @@ VII. Central obrera a la que pertenecen, en su caso.
 
 La actualización de los índices se deberá hacer cada tres meses.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 366.
 
 El registro podrá negarse únicamente:
@@ -3416,9 +3946,13 @@ II. Si no se constituyó con el número de miembros fijado en el artículo 364; 
 
 III. Si no se exhiben los documentos a que se refiere el artículo 365.
 
+*Fracción reformada DOF 30-11-2012*
+
 Satisfechos los requisitos que se establecen para el registro de los sindicatos, ninguna de las autoridades correspondientes podrá negarlo.
 
 Si la autoridad ante la que se presentó la solicitud de registro, no resuelve dentro de un término de sesenta días naturales, los solicitantes podrán requerirla para que dicte resolución, y si no lo hace dentro de los tres días siguientes a la presentación de la solicitud, se tendrá por hecho el registro para todos los efectos legales, quedando obligada la autoridad, dentro de los tres días siguientes, a expedir la constancia respectiva.
+
+*Párrafo reformado DOF 30-11-2012*
 
 ##### Artículo 367.
 
@@ -3427,6 +3961,8 @@ La Secretaría del Trabajo y Previsión Social, una vez que haya registrado un s
 ##### Artículo 368.
 
 El registro del sindicato y de su directiva, otorgado por la Secretaría del Trabajo y Previsión Social o por las Juntas Locales de Conciliación y Arbitraje, produce efectos ante todas las autoridades.
+
+*Fe de erratas al artículo DOF 05-06-1970*
 
 ##### Artículo 369.
 
@@ -3478,7 +4014,11 @@ VIII. Forma de convocar a asamblea, época de celebración de las ordinarias y q
 
 Las resoluciones deberán adoptarse por el cincuenta y uno por ciento del total de los miembros del sindicato o de la sección, por lo menos;
 
+*Fe de erratas al párrafo DOF 30-04-1970*
+
 IX. Procedimiento para la elección de la directiva y número de miembros, salvaguardando el libre ejercicio del voto con las modalidades que acuerde la asamblea general; de votación indirecta y secreta o votación directa y secreta;
+
+*Fracción reformada DOF 30-11-2012*
 
 X. Período de duración de la directiva;
 
@@ -3490,17 +4030,25 @@ XIII. Época de presentación de cuentas y sanciones a sus directivos en caso de
 
 Para tales efectos, se deberán establecer instancias y procedimientos internos que aseguren la resolución de controversias entre los agremiados, con motivo de la gestión de los fondos sindicales.
 
+*Fracción reformada DOF 30-11-2012*
+
 XIV. Normas para la liquidación del patrimonio sindical; y
 
 XV. Las demás normas que apruebe la asamblea.
 
 ##### Artículo 372.
 
-No podrán formar parte de la directiva de los sindicatos:
+No podrán formar parte de la directiva de los sindicatos los trabajadores extranjeros.
 
-I. Los trabajadores menores de dieciséis años; y
+*Párrafo reformado DOF 12-06-2015*
 
-II. Los extranjeros.
+I. Se deroga.
+
+*Fracción derogada DOF 12-06-2015*
+
+II. Se deroga.
+
+*Fracción derogada DOF 12-06-2015*
 
 ##### Artículo 373.
 
@@ -3515,6 +4063,8 @@ En caso de que los trabajadores no hubieren recibido la información sobre la ad
 De no existir dichos procedimientos o si agotados éstos, no se proporciona la información o las aclaraciones correspondientes, podrán tramitar ante la Junta de Conciliación y Arbitraje que corresponda, el cumplimiento de dichas obligaciones.
 
 El ejercicio de las acciones a que se refiere el párrafo anterior, por ningún motivo implicará la pérdida de derechos sindicales, ni será causa para la expulsión o separación del trabajador inconforme.
+
+*Artículo reformado DOF 30-11-2012*
 
 ##### Artículo 374.
 
@@ -3547,6 +4097,8 @@ II. Comunicar a la autoridad ante la que estén registrados, dentro de un térmi
 III. Informar a la misma autoridad cada tres meses, por lo menos, de las altas y bajas de sus miembros.
 
 Las obligaciones a que se refiere este artículo podrán ser cumplidas a través de medios electrónicos, en los términos que determinen las autoridades correspondientes.
+
+*Párrafo adicionado DOF 30-11-2012*
 
 ##### Artículo 378.
 
@@ -3654,19 +4206,31 @@ V. Los días de descanso y vacaciones;
 
 VI. El monto de los salarios;
 
+*Fracción reformada DOF 28-04-1978*
+
 VII. Las cláusulas relativas a la capacitación o adiestramiento de los trabajadores en la empresa o establecimientos que comprenda;
+
+*Fracción adicionada DOF 28-04-1978*
 
 VIII. Disposiciones sobre la capacitación o adiestramiento inicial que se deba impartir a quienes vayan a ingresar a laborar a la empresa o establecimiento;
 
+*Fracción adicionada DOF 28-04-1978*
+
 IX. Las bases sobre la integración y funcionamiento de las Comisiones que deban integrarse de acuerdo con esta Ley; y,
 
+*Fracción adicionada DOF 28-04-1978*
+
 X. Las demás estipulaciones que convengan las partes.
+
+*Fracción recorrida DOF 28-04-1978*
 
 ##### Artículo 391 Bis.
 
 Las Juntas de Conciliación y Arbitraje harán pública, para consulta de cualquier persona, la información de los contratos colectivos de trabajo que se encuentren depositados ante las mismas. Asimismo, deberán expedir copias de dichos documentos, en términos de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de las leyes que regulen el acceso a la información gubernamental de las entidades federativas, según corresponda.
 
 De preferencia, el texto íntegro de las versiones públicas de los contratos colectivos de trabajo deberá estar disponible en forma gratuita en los sitios de Internet de las Juntas de Conciliación y Arbitraje.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 392.
 
@@ -3683,6 +4247,8 @@ El contrato colectivo no podrá concertarse en condiciones menos favorables para
 ##### Artículo 395.
 
 En el contrato colectivo, podrá establecerse que el patrón admitirá exclusivamente como trabajadores a quienes sean miembros del sindicato contratante. Esta cláusula y cualesquiera otras que establezcan privilegios en su favor, no podrán aplicarse en perjuicio de los trabajadores que no formen parte del sindicato y que ya presten sus servicios en la empresa o establecimiento con anterioridad a la fecha en que el sindicato solicite la celebración o revisión del contrato colectivo y la inclusión en él de la cláusula de exclusión.
+
+*Reforma DOF 30-11-2012: Derogó del artículo el entonces párrafo segundo*
 
 ##### Artículo 396.
 
@@ -3719,6 +4285,8 @@ Para el cómputo de este término se atenderá a lo establecido en el contrato y
 Sin perjuicio de lo que establece el Artículo 399, los contratos colectivos serán revisables cada año en lo que se refiere a los salarios en efectivo por cuota diaria.
 
 La solicitud de esta revisión deberá hacerse por lo menos treinta días antes del cumplimiento de un año transcurrido desde la celebración, revisión o prórroga del contrato colectivo.
+
+*Artículo adicionado DOF 30-09-1974*
 
 ##### Artículo 400.
 
@@ -3760,6 +4328,8 @@ Pueden solicitar la celebración de un contrato-ley los sindicatos que represent
 
 La solicitud se presentará a la Secretaría del Trabajo y Previsión Social, si se refiere a dos o más Entidades Federativas o a industrias de jurisdicción federal, o al Gobernador del Estado o Territorio o al Jefe de Gobierno del Distrito Federal, si se trata de industrias de jurisdicción local.
 
+*Artículo reformado DOF 09-04-2012*
+
 ##### Artículo 408.
 
 Los solicitantes justificarán que satisfacen el requisito de mayoría mencionado en el artículo 406.
@@ -3768,6 +4338,8 @@ Los solicitantes justificarán que satisfacen el requisito de mayoría mencionad
 
 La Secretaría del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe del Gobierno del Distrito Federal, después de verificar el requisito de mayoría, si a su juicio es oportuna y benéfica para la industria la celebración del contrato-ley, convocará a una convención a los sindicatos de trabajadores y a los patrones que puedan resultar afectados.
 
+*Artículo reformado DOF 09-04-2012*
+
 ##### Artículo 410.
 
 La convocatoria se publicará en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa y en los periódicos o por los medios que se juzguen adecuados y señalará el lugar donde haya de celebrarse la convención y la fecha y hora de la reunión inaugural. La fecha de la reunión será señalada dentro de un plazo no menor de treinta días.
@@ -3775,6 +4347,8 @@ La convocatoria se publicará en el Diario Oficial de la Federación o en el per
 ##### Artículo 411.
 
 La convención será presidida por el Secretario del Trabajo y Previsión Social, o por el Gobernador del Estado o Territorio o por el Jefe del Gobierno del Distrito Federal, o por el representante que al efecto designen.
+
+*Párrafo reformado DOF 09-04-2012*
 
 La convención formulará su reglamento e integrará las comisiones que juzgue conveniente.
 
@@ -3790,9 +4364,15 @@ III. Su duración, que no podrá exceder de dos años;
 
 IV. Las condiciones de trabajo señaladas en el artículo 391, fracciones IV, V, VI y IX;
 
+*Fracción reformada DOF 28-04-1978*
+
 V. Las reglas conforme a las cuales se formularán los planes y programas para la implantación de la capacitación y el adiestramiento en la rama de la industria de que se trate; y,
 
+*Fracción adicionada DOF 28-04-1978*
+
 VI. Las demás estipulaciones que convengan las partes.
+
+*Fracción recorrida DOF 28-04-1978*
 
 ##### Artículo 413.
 
@@ -3809,6 +4389,8 @@ Aprobado el convenio en los términos del párrafo anterior, el Presidente de la
 Si el contrato colectivo ha sido celebrado por una mayoría de dos terceras partes de los trabajadores sindicalizados de determinada rama de la industria, en una o varias Entidades Federativas, en una o varias zonas económicas, o en todo el territorio nacional, podrá ser elevado a la categoría de contrato-ley, previo cumplimiento de los requisitos siguientes:
 
 I. La solicitud deberá presentarse por los sindicatos de trabajadores o por los patrones ante la Secretaría del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe de Gobierno del Distrito Federal, de conformidad con lo dispuesto en el artículo 407;
+
+*Fracción reformada DOF 09-04-2012*
 
 II. Los sindicatos de trabajadores y los patrones comprobarán que satisfacen el requisito de mayoría señalado en el artículo 406;
 
@@ -3844,15 +4426,21 @@ I. Podrán solicitar la revisión los sindicatos de trabajadores o los patrones 
 
 II. La solicitud se presentará a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o Territorio o al Jefe de Gobierno del Distrito Federal, noventa días antes del vencimiento del contrato-ley, por lo menos;
 
+*Fracción reformada DOF 09-04-2012*
+
 III. La autoridad que reciba la solicitud, después de verificar el requisito de mayoría, convocará a los sindicatos de trabajadores y a los patrones afectados a una convención, que se regirá por lo dispuesto en el artículo 411; y
 
 IV. Si los sindicatos de trabajadores y los patrones llegan a un convenio, la Secretaría del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe de Gobierno del Distrito Federal, ordenará su publicación en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa. Las reformas surtirán efectos a partir del día de su publicación, salvo que la convención señale una fecha distinta.
+
+*Fracción reformada DOF 09-04-2012*
 
 ##### Artículo 419 Bis.
 
 Los contratos-ley serán revisables cada año en lo que se refiere a los salarios en efectivo por cuota diaria.
 
 La solicitud de esta revisión deberá hacerse por lo menos sesenta días antes del cumplimiento de un año transcurrido desde la fecha en que surta efectos la celebración, revisión o prórroga del contrato-ley.
+
+*Artículo adicionado DOF 30-09-1974*
 
 ##### Artículo 420.
 
@@ -3892,6 +4480,8 @@ VI. Normas para prevenir los riesgos de trabajo e instrucciones para prestar los
 
 VII. Labores insalubres y peligrosas que no deben desempeñar los menores y la protección que deben tener las trabajadoras embarazadas;
 
+*Fracción reformada DOF 31-12-1974*
+
 VIII. Tiempo y forma en que los trabajadores deben someterse a los exámenes médicos, previos o periódicos, y a las medidas profilácticas que dicten las autoridades;
 
 IX. Permisos y licencias;
@@ -3917,6 +4507,8 @@ IV. Los trabajadores o el patrón, en cualquier tiempo, podrán solicitar de la 
 Las Juntas de Conciliación y Arbitraje harán pública, para consulta de cualquier persona, la información de los reglamentos interiores de trabajo que se encuentren depositados ante las mismas. Asimismo, deberán expedir copias de dichos documentos, en términos de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de las leyes que regulen el acceso a la información gubernamental de las entidades federativas, según corresponda.
 
 De preferencia, el texto íntegro de las versiones públicas de los reglamentos interiores de trabajo deberá estar disponible en forma gratuita en los sitios de Internet de las Juntas de Conciliación y Arbitraje.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 425.
 
@@ -3952,7 +4544,11 @@ V. La falta de fondos y la imposibilidad de obtenerlos para la prosecución norm
 
 VI. La falta de ministración por parte del Estado de las cantidades que se haya obligado a entregar a las empresas con las que hubiese contratado trabajos o servicios, siempre que aquéllas sean indispensables; y
 
+*Fracción reformada DOF 30-11-2012*
+
 VII. La suspensión de labores o trabajos, que declare la autoridad sanitaria competente, en los casos de contingencia sanitaria.
+
+*Fracción adicionada DOF 30-11-2012*
 
 ##### Artículo 428.
 
@@ -3964,15 +4560,23 @@ En los casos señalados en el artículo 427, se observarán las normas siguiente
 
 I. Si se trata de la fracción I, el patrón o su representante, dará aviso de la suspensión a la Junta de Conciliación y Arbitraje, para que ésta, previo el procedimiento consignado en el artículo 892 y siguientes, la apruebe o desapruebe;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Si se trata de las fracciones III a V, el patrón, previamente a la suspensión, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones para conflictos colectivos de naturaleza económica; y
 
 III. Si se trata de las fracciones II y VI, el patrón, previamente a la suspensión, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones contenidas en el artículo 892 y siguientes.
 
+*Fracción reformada DOF 30-11-2012*
+
 IV. Si se trata de la fracción VII, el patrón no requerirá aprobación o autorización de la Junta de Conciliación y Arbitraje y estará obligado a pagar a sus trabajadores una indemnización equivalente a un día de salario mínimo general vigente, por cada día que dure la suspensión, sin que pueda exceder de un mes.
+
+*Fracción adicionada DOF 30-11-2012*
 
 ##### Artículo 430.
 
 La Junta de Conciliación y Arbitraje, con excepción de los casos a que se refiere la fracción VII del artículo 427, al sancionar o autorizar la suspensión, fijará la indemnización que deba pagarse a los trabajadores, tomando en consideración, entre otras circunstancias, el tiempo probable de suspensión de los trabajos y la posibilidad de que encuentren nueva ocupación, sin que pueda exceder del importe de un mes de salario.
+
+*Artículo reformado DOF 30-11-2012*
 
 ##### Artículo 431.
 
@@ -3985,6 +4589,8 @@ El patrón deberá anunciar con toda oportunidad la fecha de reanudación de los
 Si el patrón no cumple las obligaciones consignadas en el párrafo anterior, los trabajadores podrán ejercitar las acciones a que se refiere el artículo 48.
 
 Lo establecido en el presente artículo no será aplicable en el caso a que se refiere la fracción VII del artículo 427. En este supuesto, los trabajadores estarán obligados a reanudar sus labores tan pronto concluya la contingencia.
+
+*Párrafo adicionado DOF 30-11-2012*
 
 ### CAPITULO VIII · Terminación colectiva de las relaciones de trabajo
 
@@ -4012,7 +4618,11 @@ En los casos señalados en el artículo anterior, se observarán las normas sigu
 
 I. Si se trata de las fracciones I y V, se dará aviso de la terminación a la Junta de Conciliación y Arbitraje, para que ésta, previo el procedimiento consignado en el artículo 892 y siguientes, la apruebe o desapruebe;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Si se trata de la fracción III, el patrón, previamente a la terminación, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones contenidas en el artículo 892 y siguientes; y
+
+*Fracción reformada DOF 30-11-2012*
 
 III. Si se trata de la fracción II, el patrón, previamente a la terminación, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones para conflictos colectivos de naturaleza económica.
 
@@ -4033,6 +4643,8 @@ Lo dispuesto en el párrafo anterior es aplicable, en el caso de que se reanuden
 ##### Artículo 439.
 
 Cuando se trate de la implantación de maquinaria o de procedimientos de trabajo nuevos, que traiga como consecuencia la reducción de personal, a falta de convenio, el patrón deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con lo dispuesto en el artículo 892 y siguientes. Los trabajadores reajustados tendrán derecho a una indemnización de cuatro meses de salario, más veinte días por cada año de servicios prestados o la cantidad estipulada en los contratos de trabajo si fuese mayor y a la prima de antigüedad a que se refiere el artículo 162.
+
+*Artículo reformado DOF 30-11-2012*
 
 ## TITULO OCTAVO · Huelgas
 
@@ -4104,6 +4716,8 @@ VI. Apoyar una huelga que tenga por objeto alguno de los enumerados en las fracc
 
 VII. Exigir la revisión de los salarios contractuales a que se refieren los artículo 399 bis y 419 bis.
 
+*Fracción adicionada DOF 30-09-1974*
+
 ##### Artículo 451.
 
 Para suspender los trabajos se requiere:
@@ -4118,29 +4732,43 @@ III. Que se cumplan previamente los requisitos señalados en el artículo siguie
 
 (Se deroga).
 
+*Artículo derogado DOF 04-01-1980*
+
 ##### Artículo 453.
 
 (Se deroga).
+
+*Artículo derogado DOF 04-01-1980*
 
 ##### Artículo 454.
 
 (Se deroga).
 
+*Artículo derogado DOF 04-01-1980*
+
 ##### Artículo 455.
 
 (Se deroga).
+
+*Artículo derogado DOF 04-01-1980*
 
 ##### Artículo 456.
 
 (Se deroga).
 
+*Artículo derogado DOF 04-01-1980*
+
 ##### Artículo 457.
 
 (Se deroga).
 
+*Artículo derogado DOF 04-01-1980*
+
 ##### Artículo 458.
 
 (Se deroga).
+
+*Artículo derogado DOF 04-01-1980*
 
 ##### Artículo 459.
 
@@ -4158,25 +4786,37 @@ No podrá declararse la inexistencia de una huelga por causas distintas a las se
 
 (Se deroga).
 
+*Artículo derogado DOF 04-01-1980*
+
 ##### Artículo 461.
 
 (Se deroga).
+
+*Artículo derogado DOF 04-01-1980*
 
 ##### Artículo 462.
 
 (Se deroga).
 
+*Artículo derogado DOF 04-01-1980*
+
 ##### Artículo 463.
 
 (Se deroga).
+
+*Artículo derogado DOF 04-01-1980*
 
 ##### Artículo 464.
 
 (Se deroga).
 
+*Artículo derogado DOF 04-01-1980*
+
 ##### Artículo 465.
 
 (Se deroga).
+
+*Artículo derogado DOF 04-01-1980*
 
 ##### Artículo 466.
 
@@ -4190,9 +4830,13 @@ II. En los hospitales, sanatorios, clínicas y demás establecimientos análogos
 
 (Se deroga).
 
+*Artículo derogado DOF 04-01-1980*
+
 ##### Artículo 468.
 
 (Se deroga).
+
+*Artículo derogado DOF 04-01-1980*
 
 ##### Artículo 469.
 
@@ -4210,9 +4854,13 @@ IV. Por laudo de la Junta de Conciliación y Arbitraje si los trabajadores huelg
 
 (Se deroga).
 
+*Artículo derogado DOF 04-01-1980*
+
 ##### Artículo 471.
 
 (Se deroga).
+
+*Artículo derogado DOF 04-01-1980*
 
 ## TITULO NOVENO · Riesgos de Trabajo
 
@@ -4240,9 +4888,13 @@ El patrón es responsable de la seguridad e higiene y de la prevención de los r
 
 Es obligación de los trabajadores observar las medidas preventivas de seguridad e higiene que establecen los reglamentos y las normas oficiales mexicanas expedidas por las autoridades competentes, así como las que indiquen los patrones para la prevención de riesgos de trabajo.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 476.
 
 Serán consideradas en todo caso enfermedades de trabajo las que determine esta Ley y, en su caso, la actualización que realice la Secretaría del Trabajo y Previsión Social.
+
+*Artículo reformado DOF 30-11-2012*
 
 ##### Artículo 477.
 
@@ -4294,6 +4946,8 @@ La cantidad que se tome como base para el pago de las indemnizaciones no podrá 
 
 Para determinar las indemnizaciones a que se refiere este título, si el salario que percibe el trabajador excede del doble del salario mínimo del área geográfica de aplicación a que corresponda el lugar de prestación del trabajo, se considerará esa cantidad como salario máximo. Si el trabajo se presta en lugares de diferentes áreas geográficas de aplicación, el salario máximo será el doble del promedio de los salarios mínimos respectivos.
 
+*Artículo reformado DOF 21-01-1988*
+
 ##### Artículo 487.
 
 Los trabajadores que sufran un riesgo de trabajo tendrán derecho a:
@@ -4339,6 +4993,8 @@ III. Que el accidente sea causado por imprudencia o negligencia de algún compa�
 En los casos de falta inexcusable del patrón, la indemnización podrá aumentarse hasta en un veinticinco por ciento, a juicio de la Junta de Conciliación y Arbitraje. Hay falta inexcusable del patrón:
 
 I. Si no cumple las disposiciones legales, reglamentarias y las contenidas en las normas oficiales mexicanas en materia de seguridad, salud y medio ambiente de trabajo;
+
+*Fracción reformada DOF 30-11-2012*
 
 II. Si habiéndose realizado accidentes anteriores, no adopta las medidas adecuadas para evitar su repetición;
 
@@ -4400,13 +5056,19 @@ II. El pago de la cantidad que fija el artículo 502.
 
 Tendrán derecho a recibir indemnización en los casos de muerte:
 
+*Párrafo reformado DOF 31-12-1974*
+
 I. La viuda, o el viudo que hubiese dependido económicamente de la trabajadora y que tenga una incapacidad de cincuenta por ciento o más, y los hijos menores de dieciséis años y los mayores de esta edad si tienen una incapacidad de cincuenta por ciento o más;
 
 II. Los ascendientes concurrirán con las personas mencionadas en la fracción anterior, a menos que se pruebe que no dependían económicamente del trabajador;
 
 III. A falta de cónyuge supérstite, concurrirá con las personas señaladas en las dos fracciones anteriores, la persona con quien el trabajador vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hubieran permanecido libres de matrimonio durante el concubinato.
 
+*Fracción reformada DOF 31-12-1974, 31-12-1975*
+
 IV. A falta de cónyuge supérstite, hijos y ascendientes, las personas que dependían económicamente del trabajador concurrirán con la persona que reúna los requisitos señalados en la fracción anterior, en la proporción en que cada una dependía de él; y
+
+*Fracción reformada DOF 31-12-1974, 31-12-1975*
 
 V. A falta de las personas mencionadas en las fracciones anteriores, el Instituto Mexicano del Seguro Social.
 
@@ -4414,17 +5076,27 @@ V. A falta de las personas mencionadas en las fracciones anteriores, el Institut
 
 En caso de muerte del trabajador, la indemnización que corresponda a las personas a que se refiere el artículo anterior será la cantidad equivalente al importe de cinco mil días de salario, sin deducir la indemnización que percibió el trabajador durante el tiempo en que estuvo sometido al régimen de incapacidad temporal.
 
+*Artículo reformado DOF 30-11-2012*
+
 ##### Artículo 503.
 
 Para el pago de la indemnización en los casos de muerte por riesgo de trabajo, se observarán las normas siguientes:
 
 I. El Inspector del Trabajo que reciba el aviso de la muerte, o la Junta de Conciliación y Arbitraje ante la que se reclame el pago de la indemnización, mandará practicar dentro de las veinticuatro horas siguientes una investigación encaminada a averiguar qué personas dependían económicamente del trabajador y ordenará se fije un aviso en lugar visible del establecimiento donde prestaba sus servicios, convocando a los beneficiarios para que comparezcan ante la Junta de Conciliación y Arbitraje, dentro de un término de treinta días, a ejercitar sus derechos;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Si la residencia del trabajador en el lugar de su muerte era menor de seis meses, se girará exhorto a la Junta de Conciliación y Arbitraje o al Inspector del Trabajo del lugar de la última residencia, a fin de que se practique la investigación y se fije el aviso mencionado en la fracción anterior;
+
+*Fracción reformada DOF 30-11-2012*
 
 III. La Junta de Conciliación y Arbitraje o el inspector del Trabajo, independientemente del aviso a que se refiere la fracción I, podrán emplear los medios publicitarios que juzguen conveniente para convocar a los beneficiarios;
 
+*Fracción reformada DOF 30-11-2012*
+
 IV. El Inspector del Trabajo, concluida la investigación, remitirá el expediente a la Junta de Conciliación y Arbitraje;
+
+*Fracción reformada DOF 30-11-2012*
 
 V. Satisfechos los requisitos señalados en las fracciones que anteceden y comprobada la naturaleza del riesgo, la Junta de Conciliación y Arbitraje, con audiencia de las partes, dictará resolución, determinando qué personas tienen derecho a la indemnización;
 
@@ -4446,6 +5118,8 @@ IV. Previo acuerdo con los trabajadores, podrán los patrones celebrar contratos
 
 V. Dar aviso escrito o por medios electrónicos a la Secretaría del Trabajo y Previsión Social, al Inspector del Trabajo y a la Junta de Conciliación y Arbitraje, dentro de las 72 horas siguientes, de los accidentes que ocurran, proporcionando los siguientes datos y elementos:
 
+*Párrafo reformado DOF 30-11-2012*
+
 a) Nombre y domicilio de la empresa;
 
 b) Nombre y domicilio del trabajador; así como su puesto o categoría y el monto de su salario;
@@ -4458,13 +5132,23 @@ e) Lugar en que se presta o haya prestado atención médica al accidentado.
 
 La Secretaría del Trabajo y Previsión Social y el Instituto Mexicano del Seguro Social deberán intercambiar información en forma permanente respecto de los avisos de accidentes de trabajo que presenten los patrones, así como otros datos estadísticos que resulten necesarios para el ejercicio de sus respectivas facultades legales; y
 
+*Párrafo adicionado DOF 30-11-2012*
+
+*Fracción reformada DOF 28-04-1978*
+
 VI. Tan pronto se tenga conocimiento de la muerte de un trabajador por riesgos de trabajo, dar aviso escrito a las autoridades que menciona la fracción anterior, proporcionando, además de los datos y elementos que señala dicha fracción, el nombre y domicilio de las personas que pudieran tener derecho a la indemnización correspondiente.
 
+*Fracción reformada DOF 28-04-1978*
+
 VII. (Se deroga).
+
+*Fe de erratas a la fracción DOF 30-04-1970. Derogada DOF 28-04-1978*
 
 ##### Artículo 505.
 
 Los médicos de las empresas serán designados por los patrones. Los trabajadores podrán oponerse a la designación, exponiendo las razones en que se funden. En caso de que las partes no lleguen a un acuerdo, resolverá la Junta de Conciliación y Arbitraje.
+
+*Fe de erratas al artículo DOF 30-04-1970*
 
 ##### Artículo 506.
 
@@ -4477,6 +5161,8 @@ II. Al terminar la atención médica, a certificar si el trabajador está capaci
 III. A emitir opinión sobre el grado de incapacidad; y
 
 IV. En caso de muerte, a expedir certificado de defunción.
+
+*Fe de erratas a la fracción DOF 30-04-1970*
 
 ##### Artículo 507.
 
@@ -4512,6 +5198,8 @@ III. Colaborar con los trabajadores y el patrón en la difusión de las normas s
 
 En los reglamentos de esta Ley y en los instructivos que las autoridades laborales expidan con base en ellos, se fijarán las medidas necesarias para prevenir los riesgos de trabajo y lograr que éste se preste en condiciones que aseguren la vida y la salud de los trabajadores.
 
+*Artículo reformado DOF 28-04-1978*
+
 ##### Artículo 512-A.
 
 Con el objeto de coadyuvar en el diseño de la política nacional en materia de seguridad, salud y medio ambiente de trabajo, proponer reformas y adiciones al reglamento y a las normas oficiales mexicanas en la materia, así como estudiar y recomendar medidas preventivas para abatir los riesgos en los centros de trabajo, se organizará la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo.
@@ -4520,23 +5208,37 @@ Dicha comisión se integrará por representantes de las Secretarías del Trabajo
 
 La Comisión deberá mantener comunicación permanente con las autoridades de protección civil, a efecto de diseñar las acciones que contribuyan a reducir o eliminar la pérdida de vidas, la afectación de la planta productiva, la destrucción de bienes materiales, el daño a la naturaleza y la interrupción de las funciones esenciales de la sociedad, ante la eventualidad de un desastre provocado por agentes naturales o humanos.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
+
 ##### Artículo 512-B.
 
 En cada entidad federativa se constituirá una Comisión Consultiva Estatal de Seguridad y Salud en el Trabajo, cuya finalidad será la de coadyuvar en la definición de la política estatal en materia de seguridad, salud y medio ambiente de trabajo, proponer reformas y adiciones al reglamento y a las normas oficiales mexicanas en la materia, así como estudiar y proponer medidas preventivas para abatir los riesgos en los centros de trabajo establecidos en su jurisdicción.
 
+*Párrafo reformado DOF 30-11-2012*
+
 Dichas Comisiones Consultivas Estatales serán presididas por los Ejecutivos Estatales y el Jefe de Gobierno del Distrito Federal y en su integración participarán representantes de las Secretarías del Trabajo y Previsión Social; de Salud; de Gobernación, y de Medio Ambiente y Recursos Naturales; del Instituto Mexicano del Seguro Social; así como los que designen las organizaciones de trabajadores y de patrones a las que convoquen.
 
+*Párrafo reformado DOF 30-11-2012*
+
 El representante de la Secretaría del Trabajo y Previsión Social ante la Comisión Consultiva Estatal respectiva, fungirá como Secretario de la misma.
+
+*Artículo adicionado DOF 28-04-1978*
 
 ##### Artículo 512-C.
 
 La organización de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo y la de las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad y Salud en el Trabajo, serán señaladas en el reglamento que se expida en materia de seguridad, salud y medio ambiente de trabajo.
 
+*Párrafo reformado DOF 30-11-2012*
+
 El funcionamiento interno de dichas Comisiones, se fijará en el Reglamento Interior que cada Comisión expida.
+
+*Artículo adicionado DOF 28-04-1978*
 
 ##### Artículo 512-D.
 
 Los patrones deberán efectuar las modificaciones que ordenen las autoridades del trabajo a fin de ajustar sus establecimientos, instalaciones o equipos a las disposiciones de esta Ley, de sus reglamentos o de las normas oficiales mexicanas en materia de seguridad y salud en el trabajo que expidan las autoridades competentes. Si transcurrido el plazo que se les conceda para tal efecto, no se han efectuado las modificaciones, la Secretaría del Trabajo y Previsión Social procederá a sancionar al patrón infractor, con apercibimiento de sanción mayor en caso de no cumplir la orden dentro del nuevo plazo que se le otorgue.
+
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012*
 
 ##### Artículo 512-D Bis.
 
@@ -4544,27 +5246,41 @@ Para el caso de la restricción de acceso o limitación en la operación en las 
 
 Dentro del plazo a que se refiere el párrafo anterior, el patrón podrá manifestar a la Secretaría lo que a su derecho convenga y ofrecer las pruebas que estime pertinentes, lo que será tomado en cuenta por la autoridad al momento de resolver.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 512-D Ter.
 
 En el caso de que las autoridades sanitarias competentes hubieren determinado la suspensión de labores con motivo de una declaratoria de contingencia sanitaria, la Secretaría del Trabajo y Previsión Social ordenará medidas necesarias para evitar afectaciones a la salud de los trabajadores, sin perjuicio de la imposición de las sanciones que correspondan y del ejercicio de las facultades de otras autoridades.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 512-E.
 
 La Secretaría del Trabajo y Previsión Social establecerá la coordinación necesaria con la Secretaría de Salud y con el Instituto Mexicano del Seguro Social para la elaboración de programas y el desarrollo de campañas tendientes a prevenir accidentes y enfermedades de trabajo.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 09-04-2012*
+
 ##### Artículo 512-F.
 
 Las autoridades de las entidades federativas auxiliarán a las del orden federal en la promoción, aplicación y vigilancia del cumplimiento de las normas de seguridad, salud y medio ambiente de trabajo, cuando se trate de empresas o establecimientos que, en los demás aspectos derivados de las relaciones laborales, estén sujetos a la jurisdicción local.
 
+*Párrafo reformado DOF 30-11-2012*
+
 Dicho auxilio será prestado en los términos de los artículos 527-A y 529.
+
+*Artículo adicionado DOF 28-04-1978*
 
 ##### Artículo 512-G.
 
 En el supuesto de que los centros de trabajo se encuentren regulados por Leyes o normas especializadas en materia de seguridad y salud, cuya vigilancia corresponda a otras autoridades distintas a las laborales, la Secretaría del Trabajo y Previsión Social o las autoridades del trabajo de las entidades federativas, según el ámbito de competencia, serán auxiliares de aquéllas.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 513.
 
 La Secretaría del Trabajo y Previsión Social, previa opinión de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo, actualizará las tablas de enfermedades de trabajo y de evaluación de las incapacidades permanentes resultante de los riesgos de trabajo, mismas que se publicarán en el Diario Oficial de la Federación y serán de observancia general en todo el territorio nacional.
+
+*Párrafo reformado DOF 30-11-2012*
 
 TABLA DE ENFERMEDADES DE TRABAJO
 
@@ -5260,9 +5976,13 @@ Las tablas a que se refiere el artículo anterior serán revisadas cada vez que 
 
 En todo caso la Secretaría del Trabajo y Previsión Social y la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo deberán tomar en cuenta el progreso y los avances de la medicina del trabajo y para tal efecto podrán auxiliarse de los técnicos y médicos especialistas que para ello se requiera, informando al Poder Legislativo.
 
+*Fe de erratas al artículo DOF 30-04-1970, 05-06-1970. Reformado DOF 30-11-2012*
+
 ##### Artículo 515.
 
 La Secretaría del Trabajo y Previsión Social realizará las investigaciones y estudios necesarios, a fin de que el Presidente de la República pueda iniciar ante el Poder Legislativo la adecuación periódica de las tablas a que se refieren los artículos 513 y 514 al progreso de la Medicina del Trabajo.
+
+*Artículo reformado DOF 30-11-2012*
 
 ## TITULO · DECIMO
 
@@ -5316,6 +6036,8 @@ La prescripción se interrumpe:
 
 I. Por la sola presentación de la demanda o de cualquiera promoción ante la Junta de Conciliación y Arbitraje, independientemente de la fecha de la notificación. No es obstáculo para la interrupción que la Junta sea incompetente; y
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Si la persona a cuyo favor corre la prescripción reconoce el derecho de aquella contra quien prescribe, de palabra, por escrito o por hechos indudables.
 
 ##### Artículo 522.
@@ -5342,13 +6064,19 @@ IV. A la Procuraduría de la Defensa del Trabajo;
 
 V. Al Servicio Nacional de Empleo;
 
+*Fracción reformada DOF 28-04-1978, 30-11-2012*
+
 VI. A la Inspección del Trabajo;
 
 VII. A la Comisión Nacional de los Salarios Mínimos;
 
+*Fracción reformada DOF 21-01-1988*
+
 VIII. A la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas;
 
 IX. Se deroga;
+
+*Fracción derogada DOF 30-11-2012*
 
 X. A la Junta Federal de Conciliación y Arbitraje;
 
@@ -5364,13 +6092,19 @@ La Secretaría del Trabajo y Previsión Social y los Departamentos y Direcciones
 
 (Se deroga).
 
+*Artículo derogado DOF 30-11-2012*
+
 ##### Artículo 525 Bis.
 
 Las Juntas Federal y Locales de Conciliación y Arbitraje establecerán, con sujeción a las disposiciones presupuestales aplicables, un Servicio Profesional de Carrera para el ingreso, promoción, permanencia, evaluación de desempeño, separación y retiro de sus servidores públicos.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 526.
 
 Compete a la Secretaría de Hacienda y Crédito Público, la intervención que le señala el Título Tercero, Capítulo VIII, y a la Secretaría de Educación Pública, la vigilancia del cumplimiento de las obligaciones que esta Ley impone a los patrones en materia educativa e intervenir coordinadamente con la Secretaría del Trabajo y Previsión Social, en la capacitación y adiestramiento de los trabajadores, de acuerdo con lo dispuesto en el Capítulo IV de este Título.
+
+*Artículo reformado DOF 28-04-1978*
 
 ### CAPITULO II · Competencia constitucional de las autoridades del trabajo
 
@@ -5379,6 +6113,8 @@ Compete a la Secretaría de Hacienda y Crédito Público, la intervención que l
 La aplicación de las normas de trabajo corresponde a las autoridades federales, cuando se trate de:
 
 I. Ramas industriales y de servicios:
+
+*Párrafo reformado DOF 30-11-2012*
 
 1\. Textil;
 
@@ -5420,9 +6156,15 @@ I. Ramas industriales y de servicios:
 
 20\. Vidriera, exclusivamente por lo que toca a la fabricación de vidrio plano, liso o labrado o de envases de vidrio;
 
+*Numeral reformado DOF 30-11-2012*
+
 21\. Tabacalera, que comprende el beneficio o fabricación de productos de tabaco; y
 
+*Numeral reformado DOF 30-11-2012*
+
 22\. Servicios de banca y crédito.
+
+*Numeral adicionado DOF 30-11-2012*
 
 II. Empresas:
 
@@ -5430,17 +6172,25 @@ II. Empresas:
 
 2\. Aquellas que actúen en virtud de un contrato, o concesión federal y las industrias que les sean conexas. Para los efectos de esta disposición, se considera que actúan bajo concesión federal aquellas empresas que tengan por objeto la administración y explotación de servicios públicos o bienes del Estado en forma regular y continua, para la satisfacción del interés colectivo, a través de cualquier acto administrativo emitido por el gobierno federal, y
 
+*Numeral reformado DOF 30-11-2012*
+
 3\. Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
 
 También corresponderá a las autoridades federales la aplicación de las normas de trabajo en los asuntos relativos a conflictos que afecten a dos o más Entidades Federativas; contratos colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa; y, obligaciones patronales en las materias de capacitación y adiestramiento de sus trabajadores y de seguridad e higiene en los centros de trabajo.
+
+*Artículo reformado DOF 07-02-1975, 28-04-1978*
 
 ##### Artículo 527-A.
 
 En la aplicación de las normas de trabajo referentes a la capacitación y adiestramiento de los trabajadores y las relativas a seguridad e higiene en el trabajo, las autoridades de la Federación serán auxiliadas por las locales, tratándose de empresas o establecimientos que, en los demás aspectos derivados de las relaciones laborales, estén sujetos a la jurisdicción de estas últimas.
 
+*Artículo adicionado DOF 28-04-1978*
+
 ##### Artículo 528.
 
 Para los efectos del punto 2 de la fracción II del artículo 527, son empresas conexas las relacionadas permanente y directamente para la elaboración de productos determinados o para la prestación unitaria de servicios.
+
+*Artículo reformado DOF 28-04-1978*
 
 ##### Artículo 529.
 
@@ -5452,15 +6202,23 @@ I. Poner a disposición de las Dependencias del Ejecutivo Federal competentes pa
 
 II. Participar en la integración y funcionamiento del respectivo Consejo Consultivo Estatal del Servicio Nacional de Empleo;
 
+*Fracción reformada DOF 30-11-2012*
+
 III. Participar en la integración y funcionamiento de la correspondiente Comisión Consultiva Estatal de Seguridad y Salud en el Trabajo;
+
+*Fracción reformada DOF 30-11-2012*
 
 IV. Reportar a la Secretaría del Trabajo y Previsión Social las violaciones que cometan los patrones en materia de seguridad e higiene y de capacitación y adiestramiento e intervenir en la ejecución de las medidas que se adopten para sancionar tales violaciones y para corregir las irregularidades en las empresas o establecimientos sujetos a jurisdicción local;
 
 V. Coadyuvar con los correspondientes Comités Nacionales de Productividad y Capacitación;
 
+*Fracción reformada DOF 30-11-2012*
+
 VI. Auxiliar en la realización de los trámites relativos a constancias de habilidades laborales; y,
 
 VII. Previa determinación general o solicitud específica de las autoridades federales, adoptar aquellas otras medidas que resulten necesarias para auxiliarlas en los aspectos concernientes a tal determinación o solicitud.
+
+*Artículo reformado DOF 28-04-1978*
 
 ### CAPITULO III · Procuraduría de la defensa del trabajo
 
@@ -5480,9 +6238,13 @@ Para el desarrollo de sus funciones, la Procuraduría de la Defensa del Trabajo 
 
 Si el solicitante del servicio es quien no asiste a la junta de avenimiento o conciliatoria, se le tendrá por desistido de su petición sin responsabilidad para la Procuraduría, salvo que acredite que existió causa justificada para no comparecer.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 531.
 
 La Procuraduría de la Defensa del Trabajo se integrará con un Procurador General y con el número de Procuradores Auxiliares que se juzgue necesario para la defensa de los intereses de los trabajadores. Los nombramientos se harán por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe de Gobierno del Distrito Federal.
+
+*Artículo reformado DOF 23-12-1974, 09-04-2012*
 
 ##### Artículo 532.
 
@@ -5496,15 +6258,21 @@ III. Haberse distinguido en estudios de derecho del trabajo y de la seguridad so
 
 IV. No ser ministro de culto; y
 
+*Fracción reformada DOF 30-11-2012*
+
 V. No haber sido condenado por delito intencional sancionado con pena corporal.
 
 ##### Artículo 533.
 
 Los Procuradores Auxiliares deberán satisfacer los requisitos señalados en las fracciones I, IV y V del artículo anterior y tener título de abogado o licenciado en derecho y haber obtenido la patente para ejercer la profesión.
 
+*Artículo reformado DOF 30-11-2012*
+
 ##### Artículo 533 Bis.
 
 El personal jurídico de la Procuraduría está impedido para actuar como apoderado, asesor o abogado patrono en asuntos particulares en materia de trabajo, en tanto sean servidores públicos al servicio de ésta.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 534.
 
@@ -5519,6 +6287,8 @@ Las Autoridades están obligadas a proporcionar a la Procuraduría de la Defensa
 Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Procuraduría de la Defensa del Trabajo.
 
 ### Capítulo IV · Del Servicio Nacional de Empleo
+
+*Denominación del Capítulo reformada DOF 28-04-1978, 30-11-2012*
 
 ##### Artículo 537.
 
@@ -5538,13 +6308,19 @@ VI. Diseñar, conducir y evaluar programas específicos para generar oportunidad
 
 VII. Coordinar con las autoridades competentes el régimen de normalización y certificación de competencia laboral.
 
+*Artículo reformado DOF 28-04-1978, 30-11-2012*
+
 ##### Artículo 538.
 
 El Servicio Nacional de Empleo estará a cargo de la Secretaría del Trabajo y Previsión Social, por conducto de las unidades administrativas de la misma, a las que competan las funciones correspondientes, en los términos de su Reglamento Interior.
 
+*Artículo reformado DOF 28-04-1978, 30-12-1983, 30-11-2012*
+
 ##### Artículo 539.
 
 De conformidad con lo que dispone el artículo que antecede y para los efectos del 537, a la Secretaría del Trabajo y Previsión Social corresponden las siguientes actividades:
+
+*Párrafo reformado DOF 30-12-1983*
 
 I. En materia de promoción de empleos:
 
@@ -5552,21 +6328,35 @@ a) Practicar estudios para determinar las causas del desempleo y del subempleo d
 
 b) Analizar permanentemente el mercado de trabajo, a través de la generación y procesamiento de información que dé seguimiento a la dinámica del empleo, desempleo y subempleo en el país;
 
+*Inciso reformado DOF 30-11-2012*
+
 c) Formular y actualizar permanentemente el Sistema Nacional de Ocupaciones, en coordinación con la Secretaría de Educación Pública y demás autoridades competentes;
+
+*Inciso reformado DOF 30-11-2012*
 
 d) Promover la articulación entre los actores del mercado de trabajo para mejorar las oportunidades de empleo;
 
+*Inciso reformado DOF 30-11-2012*
+
 e) Elaborar informes y formular programas para impulsar la ocupación en el país, así como procurar su ejecución;
 
+*Inciso reformado DOF 30-11-2012*
+
 f) Orientar la formación profesional hacia las áreas con mayor demanda de mano de obra;
+
+*Inciso reformado DOF 30-11-2012*
 
 g) Proponer la celebración de convenios en materia de empleo, entre la Federación y las Entidades Federativas; y,
 
 h) En general, realizar todas las que las Leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
 
+*Inciso reformado DOF 30-11-2012*
+
 II. En materia de colocación de trabajadores:
 
 a) Orientar a los buscadores de empleo hacia las vacantes ofertadas por los empleadores con base a su formación y aptitudes;
+
+*Inciso reformado DOF 30-11-2012*
 
 b) Autorizar y registrar, en su caso, el funcionamiento de agencias privadas que se dediquen a la colocación de personas;
 
@@ -5574,27 +6364,43 @@ c) Vigilar que las entidades privadas a que alude el inciso anterior, cumplan la
 
 d) Intervenir, en coordinación con las Secretarías de Gobernación, Economía y Relaciones Exteriores, dentro del ámbito de sus respectivas competencias, en la contratación de los nacionales que vayan a prestar sus servicios al extranjero;
 
+*Inciso reformado DOF 30-11-2012*
+
 e) Proponer la celebración de convenios en materia de colocación de trabajadores, entre la Federación y las Entidades Federativas; y,
 
 f) En general, realizar todas las que las Leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
+
+*Inciso reformado DOF 30-11-2012*
 
 III. En materia de capacitación o adiestramiento de trabajadores:
 
 a) (Se deroga).
 
+*Inciso derogado DOF 30-11-2012*
+
 b) Emitir Convocatorias para formar Comités Nacionales de Capacitación, Adiestramiento y Productividad en las ramas industriales o actividades en que lo juzgue conveniente, así como fijar las bases relativas a la integración y el funcionamiento de dichos comités;
+
+*Inciso reformado DOF 30-11-2012*
 
 c) Estudiar y, en su caso, sugerir, en relación con cada rama industrial o actividad, la expedición de criterios generales idóneos para los planes y programas de capacitación y adiestramiento, oyendo la opinión del Comité Nacional de Capacitación, Adiestramiento y Productividad que corresponda;
 
+*Inciso reformado DOF 30-11-2012*
+
 d) Autorizar y registrar, en los términos del artículo 153-C, a las instituciones, escuelas u organismos especializados, así como a los instructores independientes que deseen impartir formación, capacitación o adiestramiento a los trabajadores; supervisar su correcto desempeño; y, en su caso, revocar la autorización y cancelar el registro concedido;
 
+*Inciso reformado DOF 30-11-2012*
+
 e) (Se deroga).
+
+*Inciso derogado DOF 30-11-2012*
 
 f) Estudiar y sugerir el establecimiento de sistemas generales que permitan, capacitar o adiestrar a los trabajadores, conforme al procedimiento de adhesión, convencional a que se refiere el artículo 153-B;
 
 g) Dictaminar sobre las sanciones que deban imponerse por infracciones a las normas contenidas en el Capítulo III Bis del Título Cuarto;
 
 h) Establecer coordinación con la Secretaría de Educación Pública para sugerir, promover y organizar planes o programas sobre capacitación y adiestramiento para el trabajo y, en su caso, para la expedición de certificados, conforme a lo dispuesto en esta Ley, en los ordenamientos educativos y demás disposiciones en vigor; e
+
+*Inciso reformado DOF 30-11-2012*
 
 i) En general, realizar todas aquéllas que las leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
 
@@ -5606,23 +6412,41 @@ b) En general, realizar todas aquéllas que las leyes y reglamentos confieran a 
 
 V. En materia de vinculación de la formación laboral y profesional con la demanda estratégica del sector productivo, proponer e instrumentar mecanismos para vincular la formación profesional con aquellas áreas prioritarias para el desarrollo regional y nacional, así como con aquellas que presenten índices superiores de demanda.
 
+*Fracción adicionada DOF 30-11-2012*
+
 VI. En materia de normalización y certificación de competencia laboral, conjuntamente con la Secretaría de Educación Pública y demás autoridades federales competentes:
 
 a) Determinar los lineamientos generales aplicables en toda la República para la definición de aquellos conocimientos, habilidades o destrezas susceptibles de certificación, así como de los procedimientos de evaluación correspondientes. Para la fijación de dichos lineamientos, se establecerán procedimientos que permitan considerar las necesidades, propuestas y opiniones de los diversos sectores productivos; y
 
 b) Establecer un régimen de certificación, aplicable a toda la República, conforme al cual sea posible acreditar conocimientos, habilidades o destrezas, intermedios o terminales, de manera parcial y acumulativa, que requiere un individuo para la ejecución de una actividad productiva, independientemente de la forma en que hayan sido adquiridos.
 
+*Fracción adicionada DOF 30-11-2012*
+
+*Artículo reformado DOF 28-04-1978*
+
 ##### Artículo 539-A.
 
 Para el cumplimiento de sus funciones, en relación con las empresas o establecimientos que pertenezcan a ramas industriales o actividades de jurisdicción federal, la Secretaría del Trabajo y Previsión Social será asesorada por un Consejo Consultivo del Servicio Nacional de Empleo, integrado por representantes del sector público, de las organizaciones nacionales de trabajadores y de las organizaciones nacionales de patrones, a razón de cinco miembros por cada uno de ellos, con sus respectivos suplentes.
 
+*Fe de erratas al párrafo DOF 13-04-1984. Reformado DOF 30-11-2012*
+
 Por el Sector Público participarán sendos representantes de la Secretaría del Trabajo y Previsión Social; de la Secretaría de Educación Pública; de la Secretaría de Economía, de la Secretaría de Energía, y del Instituto Mexicano del Seguro Social.
+
+*Párrafo reformado DOF 09-04-2012*
 
 Los representantes de las organizaciones obreras y de los patrones serán designados conforme a las bases que expida la Secretaría del Trabajo y Previsión Social.
 
+*Párrafo reformado DOF 30-11-2012*
+
 El Secretario del Trabajo y Previsión Social podrá invitar a participar en el Consejo Consultivo del Servicio Nacional de Empleo, con derecho a voz pero sin voto, a cinco personas que por su trayectoria y experiencia puedan hacer aportaciones en la materia.
 
+*Párrafo adicionado DOF 30-11-2012*
+
 El Consejo Consultivo será presidido por el Secretario del Trabajo y Previsión Social, fungirá como secretario del mismo el funcionario que determine el titular de la propia Secretaría y su funcionamiento se regirá por el reglamento que expida el propio Consejo.
+
+*Párrafo reformado DOF 30-11-2012*
+
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-12-1983*
 
 ##### Artículo 539-B.
 
@@ -5636,23 +6460,33 @@ El Secretario del Trabajo y Previsión Social y el Gobernador de la Entidad Fede
 
 Los Consejos Consultivos se sujetarán en lo que se refiere a su funcionamiento interno, al reglamento que al efecto expida cada uno de ellos.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-12-1983. Fe de erratas DOF 13-04-1984. Reformado DOF 30-11-2012*
+
 ##### Artículo 539-C.
 
 Las autoridades laborales estatales auxiliarán a la Secretaría del Trabajo y Previsión Social, para el desempeño de sus funciones, de acuerdo a lo que establecen los artículos 527-A y 529.
+
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-12-1983*
 
 ##### Artículo 539-D.
 
 El servicio para la colocación de los trabajadores será invariablemente gratuito para ellos y será proporcionado, según el régimen de aplicación de esta Ley, por la Secretaría del Trabajo y Previsión Social o por los órganos competentes de las Entidades Federativas, de conformidad con lo establecido por la fracción II del artículo 539, en ambos casos.
 
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-12-1983*
+
 ##### Artículo 539-E.
 
 Podrán participar en la prestación del servicio a que se refiere el artículo anterior, otras dependencias oficiales, instituciones docentes, organizaciones sindicales o patronales, instituciones de beneficencia y demás asociaciones civiles que no persigan fines de lucro. En estos casos, lo harán del conocimiento de la Secretaría del Trabajo y Previsión Social para fines de registro y control y para que esté en posibilidad de coordinar las acciones en esta materia.
+
+*Artículo adicionado DOF 28-04-1978. Reformado DOF 30-12-1983*
 
 ##### Artículo 539-F.
 
 Las autorizaciones para el funcionamiento de agencias de colocaciones, con fines lucrativos, sólo podrán otorgarse excepcionalmente, para la contratación de trabajadores que deban realizar trabajos especiales.
 
 Dichas autorizaciones se otorgarán previa solicitud del interesado, cuando a juicio de la Secretaría del Trabajo y Previsión Social se justifique la prestación del servicio por particulares y una vez que se satisfagan los requisitos que al efecto se señalen. En estos casos, de acuerdo con lo establecido en el artículo 539-D, el servicio deberá ser gratuito para los trabajadores y las tarifas conforme a las cuales se presten, deberán ser previamente fijadas por la Secretaría del Trabajo y Previsión Social.
+
+*Artículo adicionado DOF 28-04-1978*
 
 ### CAPITULO V · Inspección del trabajo
 
@@ -5686,9 +6520,13 @@ V. Sugerir se corrijan las violaciones a las condiciones de trabajo;
 
 VI. Disponer que se eliminen los defectos comprobados en las instalaciones y métodos de trabajo cuando constituyan una violación de las normas de trabajo o un peligro para la seguridad o salud de los trabajadores;
 
+*Fracción reformada DOF 30-11-2012*
+
 VI Bis. Ordenar, previa consulta con la Dirección General de Inspección Federal del Trabajo, la adopción de las medidas de seguridad de aplicación inmediata en caso de peligro inminente para la vida, la salud o la integridad de las personas. En este caso, si así son autorizados, los Inspectores deberán decretar la restricción de acceso o limitar la operación en las áreas de riesgo detectadas. En este supuesto, deberán dar copia de la determinación al patrón para los efectos legales procedentes.
 
 Dentro de las 24 horas siguientes, los Inspectores del Trabajo, bajo su más estricta responsabilidad, harán llegar un informe detallado por escrito a la Secretaría del Trabajo y Previsión Social, con copia del mismo al patrón.
+
+*Fracción adicionada DOF 30-11-2012*
 
 VII. Examinar las substancias y materiales utilizados en las empresas y establecimientos cuando se trate de trabajos peligrosos; y
 
@@ -5736,11 +6574,15 @@ I. Ser mexicano, mayor de edad, y estar en pleno ejercicio de sus derechos;
 
 II. Haber terminado el bachillerato o sus equivalentes;
 
+*Fracción reformada DOF 30-11-2012*
+
 III. No pertenecer a las organizaciones de trabajadores o de patrones;
 
 IV. Demostrar conocimientos suficientes de derecho del trabajo y de la seguridad social y tener la preparación técnica necesaria para el ejercicio de sus funciones;
 
 V. No ser ministro de culto; y
+
+*Fracción reformada DOF 30-11-2012*
 
 VI. No haber sido condenado por delito intencional sancionado con pena corporal.
 
@@ -5759,6 +6601,8 @@ IV. Recibir directa o indirectamente cualquier dádiva de los trabajadores o de 
 V. No cumplir las órdenes recibidas de su superior jerárquico; y
 
 VI. No denunciar al Ministerio Público, al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que omita el pago o haya dejado de pagar el salario mínimo general a un trabajador a su servicio.
+
+*Fracción adicionada DOF 24-12-1974*
 
 ##### Artículo 548.
 
@@ -5780,11 +6624,13 @@ II. El Director General podrá imponer las sanciones señaladas en el artículo 
 
 III. Cuando a juicio del Director General la sanción aplicable sea la destitución, dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o Territorio o al Jefe de Gobierno del Distrito Federal, para su decisión.
 
+*Fracción reformada DOF 09-04-2012*
+
 ##### Artículo 550.
 
 Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Inspección del Trabajo.
 
-### CAPITULO VI · Comisión nacional de los salarios mínimos
+### CAPITULO VI · Comisión Nacional de los Salarios Mínimos
 
 ##### Artículo 551.
 
@@ -5802,11 +6648,15 @@ III. Haberse distinguido en estudios de derecho del trabajo y económicos;
 
 IV. No ser ministro de culto; y
 
+*Fracción reformada DOF 30-11-2012*
+
 V. No haber sido condenado por delito intencional sancionado con pena corporal.
 
 ##### Artículo 553.
 
 El Presidente de la Comisión Nacional de los Salarios Mínimos tiene los deberes y atribuciones siguientes:
+
+*Párrafo reformado DOF 21-01-1988*
 
 I. Someter al Consejo de Representantes el plan anual de trabajo preparado por la Dirección Técnica;
 
@@ -5818,7 +6668,11 @@ IV. Citar y presidir las sesiones del Consejo de Representantes;
 
 V. Disponer la organización y vigilar el funcionamiento de las Comisiones Consultivas de la Comisión Nacional;
 
+*Fracción reformada DOF 21-01-1988*
+
 VI. Presidir los trabajos de las Comisiones Consultivas o designar, en su caso, a quienes deban presidirlos;
+
+*Fracción reformada DOF 21-01-1988*
 
 VII. Los demás que le confieran las leyes.
 
@@ -5842,6 +6696,8 @@ II. Poseer título legalmente expedido de licenciado en derecho o en economía;
 
 III. No ser ministro de culto; y
 
+*Fracción reformada DOF 30-11-2012*
+
 IV. No haber sido condenados por delito intencional sancionado con pena corporal.
 
 ##### Artículo 556.
@@ -5851,6 +6707,8 @@ Los representantes de los trabajadores y de los patrones deberán satisfacer los
 I. Ser mexicanos, mayores de veinticinco años y estar en pleno ejercicio de sus derechos;
 
 II. No ser ministro de culto; y
+
+*Fracción reformada DOF 30-11-2012*
 
 III. No haber sido condenados por delito intencional sancionado con pena corporal.
 
@@ -5864,17 +6722,29 @@ II. Aprobar anualmente el plan de trabajo de la Dirección Técnica;
 
 III. Conocer el dictamen formulado por la Dirección Técnica y dictar resolución en la que se determinen o modifiquen las áreas geográficas en las que regirán los salarios mínimos. La resolución se publicará en el Diario Oficial de la Federación;
 
+*Fracción reformada DOF 21-01-1988*
+
 IV. Practicar y realizar directamente las investigaciones y estudios que juzgue conveniente y solicitar de la Dirección Técnica que efectúe investigaciones y estudios complementarios;
+
+*Fracción reformada DOF 21-01-1988*
 
 V. Designar una o varias comisiones o técnicos para que practiquen investigaciones o realicen estudios especiales;
 
 VI. Aprobar la creación de comisiones consultivas de la Comisión Nacional y determinar las bases para su integración y funcionamiento.
 
+*Fracción reformada DOF 21-01-1988*
+
 VII. Conocer las opiniones que formulen las comisiones consultivas al término de sus trabajos;
+
+*Fracción reformada DOF 21-01-1988*
 
 VIII. Fijar los salarios mínimos generales y profesionales; y
 
+*Fracción reformada DOF 21-01-1988*
+
 IX. Los demás que le confieran las leyes.
+
+*Fracción adicionada DOF 21-01-1988*
 
 ##### Artículo 558.
 
@@ -5900,6 +6770,8 @@ II. Poseer título legalmente expedido de licenciado en derecho o en economía;
 
 III. No ser ministro de culto; y
 
+*Fracción reformada DOF 30-11-2012*
+
 IV. No haber sido condenados por delito intencional sancionado con pena corporal.
 
 ##### Artículo 561.
@@ -5921,6 +6793,8 @@ VI. Resolver, previa orden del Presidente, las consultas que se le formulen en r
 VII. Apoyar los trabajos técnicos e investigaciones de las Comisiones Consultivas; y
 
 VIII. Los demás que le confieran las leyes.
+
+*Artículo reformado DOF 30-09-1974, 21-01-1988*
 
 ##### Artículo 562.
 
@@ -5948,6 +6822,8 @@ IV. Recibir y considerar los estudios, informes y sugerencias que le presenten l
 
 V. Preparar un informe de las investigaciones y estudios que hubiese efectuado y de los presentados por los trabajadores y los patrones y someterlo a la consideración del Consejo de Representantes.
 
+*Artículo reformado DOF 21-01-1988*
+
 ##### Artículo 563.
 
 El Director Técnico tiene los deberes y atribuciones siguientes:
@@ -5960,13 +6836,21 @@ III. Actuar como Secretario del Consejo de Representantes; y
 
 IV. Disponer, previo acuerdo con el Presidente de la Comisión Nacional, la integración oportuna de los Secretariados Técnicos de las Comisiones Consultivas; y
 
+*Fracción adicionada DOF 21-01-1988*
+
 V. Los demás que le confieran las leyes.
 
-### CAPITULO VII · Comisiones consultivas de la comisión nacional de los salarios mínimos
+*Fracción recorrida DOF 21-01-1988*
+
+### CAPITULO VII · Comisiones Consultivas de la Comisión Nacional de los Salarios Mínimos
+
+*Denominación del Capítulo reformada DOF 21-01-1988*
 
 ##### Artículo 564.
 
 El Presidente de la Comisión Nacional determinará, en cada caso, las bases de organización y funcionamiento de las Comisiones Consultivas.
+
+*Artículo reformado DOF 21-01-1988*
 
 ##### Artículo 565.
 
@@ -5980,9 +6864,13 @@ III. Con los asesores técnicos y especialistas que se considere conveniente, de
 
 IV. Con un Secretariado Técnico.
 
+*Artículo reformado DOF 21-01-1988*
+
 ##### Artículo 566.
 
 Los representantes de los trabajadores y de los patrones deberán satisfacer los requisitos señalados en el artículo 556.
+
+*Artículo reformado DOF 21-01-1988*
 
 ##### Artículo 567.
 
@@ -6006,6 +6894,8 @@ VIII. Emitir un informe con las opiniones y recomendaciones que juzgue pertinent
 
 IX. Los demás que les confieran las leyes.
 
+*Artículo reformado DOF 21-01-1988*
+
 ##### Artículo 568.
 
 El Presidente de la Comisión Consultiva tendrá los deberes y atribuciones siguientes:
@@ -6019,6 +6909,8 @@ III. Informar periódicamente al Presidente de la Comisión Nacional, en su caso
 IV. Presentar al Consejo de Representantes por conducto del Presidente de la Comisión Nacional los resultados de los trabajos de la Comisión Consultiva; y
 
 V. Los demás que le confieran las leyes.
+
+*Artículo reformado DOF 21-01-1988*
 
 ##### Artículo 569.
 
@@ -6038,7 +6930,11 @@ VI. Preparar un informe final que deberá contener los resultados de las investi
 
 VII. Los demás que le confieran las leyes.
 
-### CAPITULO VIII · Procedimiento ante la comisión nacional de los salarios mínimos
+*Artículo reformado DOF 21-01-1988*
+
+### CAPITULO VIII · Procedimiento ante la Comisión Nacional de los Salarios Mínimos
+
+*Denominación del Capítulo reformada DOF 21-01-1988*
 
 ##### Artículo 570.
 
@@ -6056,6 +6952,8 @@ b) La solicitud contendrá una exposición de los fundamentos que la justifiquen
 
 c) El Secretario del Trabajo y Previsión Social, dentro de los cinco días siguientes a la fecha en que reciba la solicitud correspondiente y previa certificación de la mayoría a que se refiere el inciso a) de este artículo, la hará llegar al Presidente de la Comisión Nacional de los Salarios Mínimos con los estudios y documentos que la acompañen.
 
+*Artículo reformado DOF 30-09-1974, 31-12-1982, 21-01-1988*
+
 ##### Artículo 571.
 
 En la fijación de los salarios mínimos a que se refiere el primer párrafo del artículo 570 se observarán las normas siguientes:
@@ -6070,9 +6968,13 @@ IV. La Comisión Nacional expresará en su resolución los fundamentos que la ju
 
 V. Dictada la resolución, el Presidente de la Comisión ordenará su publicación en el Diario Oficial de la Federación la que deberá hacerse a más tardar el treinta y uno de Diciembre.
 
+*Artículo reformado DOF 30-09-1974, 31-12-1982, 21-01-1988*
+
 ##### Artículo 572.
 
 (Se deroga).
+
+*Artículo derogado DOF 21-01-1988*
 
 ##### Artículo 573.
 
@@ -6088,11 +6990,17 @@ IV. La resolución de la Comisión Nacional establecerá la fecha en que deba in
 
 V. El Presidente de la Comisión Nacional de los Salarios Mínimos ordenará la publicación de la Resolución en el Diario Oficial de la Federación dentro de los tres días siguientes a la fecha en que se haya emitido
 
+*Artículo reformado DOF 30-09-1974, 31-12-1982, 21-01-1988*
+
 ##### Artículo 574.
 
 En los procedimientos a que se refiere este Capítulo se observarán las normas siguientes:
 
+*Párrafo reformado DOF 21-01-1988*
+
 I. Para que pueda sesionar el Consejo de Representantes de la Comisión Nacional será necesario que ocurra el cincuenta y uno por ciento del total de sus miembros, por lo menos;
+
+*Fracción reformada DOF 21-01-1988*
 
 II. Si uno o más representantes de los trabajadores o de los patrones deja de concurrir a alguna sesión, se llamará a los suplentes, si éstos no concurren a la sesión para la que fueron llamados, el Presidente de la Comisión dará cuenta al Secretario del Trabajo y Previsión Social para que haga la designación de la persona o personas que deban integrar la Comisión en sustitución de los faltistas;
 
@@ -6258,59 +7166,89 @@ En los procedimientos a que se refiere este capítulo se observarán las normas 
 
 ### CAPITULO X · Juntas federales de conciliación
 
+*Capítulo derogado DOF 30-11-2012*
+
 ##### Artículo 591.
 
 (Se deroga).
+
+*Artículo derogado DOF 30-11-2012*
 
 ##### Artículo 592.
 
 (Se deroga).
 
+*Artículo derogado DOF 30-11-2012*
+
 ##### Artículo 593.
 
 (Se deroga).
+
+*Artículo derogado DOF 30-11-2012*
 
 ##### Artículo 594.
 
 (Se deroga).
 
+*Artículo derogado DOF 30-11-2012*
+
 ##### Artículo 595.
 
 (Se deroga).
+
+*Artículo derogado DOF 30-11-2012*
 
 ##### Artículo 596.
 
 (Se deroga).
 
+*Artículo derogado DOF 30-11-2012*
+
 ##### Artículo 597.
 
 (Se deroga).
+
+*Artículo derogado DOF 30-11-2012*
 
 ##### Artículo 598.
 
 (Se deroga).
 
+*Artículo derogado DOF 30-11-2012*
+
 ##### Artículo 599.
 
 (Se deroga).
+
+*Artículo derogado DOF 30-11-2012*
 
 ##### Artículo 600.
 
 (Se deroga).
 
+*Artículo reformado DOF 24-12-1974, 02-07-1976. Derogado DOF 30-11-2012*
+
 ### CAPITULO XI · Juntas locales de conciliación
+
+*Capítulo derogado DOF 30-11-2012*
 
 ##### Artículo 601.
 
 (Se deroga).
 
+*Artículo reformado DOF 23-12-1974. Derogado DOF 30-11-2012*
+
 ##### Artículo 602.
 
 (Se deroga).
 
+*Artículo derogado DOF 30-11-2012*
+
 ##### Artículo 603.
 
 (Se deroga).
+
+*Artículo derogado DOF 30-11-2012*
 
 ### CAPITULO XII · Junta federal de conciliación y arbitraje
 
@@ -6318,15 +7256,23 @@ En los procedimientos a que se refiere este capítulo se observarán las normas 
 
 Corresponden a la Junta Federal de Conciliación y Arbitraje, en el ámbito de su competencia, el conocimiento y la resolución de los conflictos de trabajo que se susciten entre trabajadores y patrones, sólo entre aquéllos o sólo entre éstos, derivados de las relaciones de trabajo o de hechos relacionados con ellas.
 
+*Artículo reformado DOF 30-11-2012*
+
 ##### Artículo 605.
 
 La Junta se integrará con un representante del Gobierno y con representantes de los trabajadores y de los patrones designados por ramas de la industria o de otras actividades, de conformidad con la clasificación y convocatoria que expida la Secretaría del Trabajo y Previsión Social.
 
 Habrá un secretario general de acuerdos y, de ser necesario, otros secretarios generales y secretarios auxiliares, según se juzgue conveniente, de conformidad con lo que disponga el Reglamento Interior de la Junta.
 
+*Párrafo reformado DOF 30-11-2012*
+
 La designación y separación del personal jurídico de la Junta se realizará conforme a los reglamentos que apruebe el Pleno en materia del servicio profesional de carrera y de evaluación del desempeño de los Presidentes de las Juntas Especiales.
 
+*Párrafo adicionado DOF 30-11-2012*
+
 El Presidente de la Junta será responsable del cumplimiento estricto de este precepto y de las disposiciones aplicables.
+
+*Párrafo adicionado DOF 30-11-2012*
 
 ##### Artículo 605 Bis.
 
@@ -6340,19 +7286,27 @@ Los secretarios generales, vigilarán la tramitación de los procedimientos de s
 
 En el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje se establecerán las competencias y responsabilidades respectivas.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 606.
 
 La Junta funcionará en Pleno o en Juntas Especiales, de conformidad con la clasificación de las ramas de la industria y de las actividades a que se refiere el artículo 605.
 
+*Párrafo reformado DOF 30-11-2012*
+
 La Secretaría del Trabajo y Previsión Social, cuando lo requieran las necesidades del trabajo y del capital, podrá establecer Juntas Especiales, fijando el lugar de su residencia y su competencia territorial.
 
 Las Juntas Especiales establecidas fuera de la capital de la República conforme al párrafo anterior, quedarán integradas en su funcionamiento y régimen jurídico a la Junta Federal de Conciliación y Arbitraje, correspondiéndoles el conocimiento y resolución de los conflictos de trabajo en todas las ramas de la industria y actividades de la competencia federal, comprendidas en la jurisdicción territorial que se les asigne, con excepción de los conflictos colectivos,\_ sin perjuicio del derecho del trabajador, cuando así convenga a sus intereses, a concurrir directamente a la Junta Federal de Conciliación y Arbitraje.
+
+*Párrafo adicionado DOF 02-07-1976*
 
 ##### Artículo 607.
 
 El Pleno se integrará con el Presidente de la Junta y con todos los representantes de los trabajadores y de los patrones ante las Juntas Especiales del Distrito Federal.
 
 Las resoluciones y sesiones del Pleno se regirán por lo establecido en el artículo 615 de esta Ley.
+
+*Artículo reformado DOF 30-11-2012*
 
 ##### Artículo 608.
 
@@ -6370,17 +7324,29 @@ II. Con los respectivos representantes de los trabajadores y de los patrones.
 
 Durante la tramitación de los juicios, hasta formular el proyecto de laudo a que se refieren los artículos 885 y 916 de esta Ley, el Presidente de la Junta Federal de Conciliación y Arbitraje y los de las Juntas Especiales podrán ser sustituidos por auxiliares, pero intervendrán personalmente en la votación de las resoluciones siguientes:
 
+*Párrafo reformado DOF 30-11-2012*
+
 I. Competencia;
 
 II. Personalidad;
 
+*Fracción adicionada DOF 30-11-2012*
+
 III. Nulidad de actuaciones;
+
+*Fracción recorrida DOF 30-11-2012*
 
 IV. Sustitución de patrón;
 
+*Fracción reformada y recorrida DOF 30-11-2012*
+
 V. En los casos del artículo 772 de esta Ley; y
 
+*Fracción reformada y recorrida DOF 30-11-2012*
+
 VI. Cuando se trate de conflictos colectivos de naturaleza económica, en la que designe perito y en la que ordene la práctica de diligencias a que se refiere el artículo 913.
+
+*Fracción reformada y recorrida DOF 30-11-2012*
 
 ##### Artículo 611.
 
@@ -6404,6 +7370,8 @@ VI. Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 Las percepciones del Presidente de la Junta Federal de Conciliación y Arbitraje se fijarán anualmente, con sujeción a las disposiciones legales aplicables.
 
+*Artículo reformado DOF 23-01-1998, 30-11-2012*
+
 ##### Artículo 613.
 
 El Presidente de la Junta será substituido en sus faltas temporales y en las definitivas, entre tanto se hace nuevo nombramiento, por el Secretario General de mayor antigüedad.
@@ -6412,7 +7380,11 @@ El Presidente de la Junta será substituido en sus faltas temporales y en las de
 
 El Pleno de la Junta Federal de Conciliación y Arbitraje tiene las facultades y obligaciones siguientes:
 
+*Párrafo reformado DOF 30-11-2012*
+
 I. Expedir el Reglamento Interior y los reglamentos del servicio profesional de carrera y el de evaluación del desempeño de los Presidentes de las Juntas Especiales;
+
+*Fracción reformada DOF 30-11-2012*
 
 II. Conocer y resolver los conflictos de trabajo cuando afecten a la totalidad de las ramas de la industria y de las actividades representadas en la Junta;
 
@@ -6422,6 +7394,8 @@ IV. Uniformar los criterios de resolución de la Junta, cuando las Juntas Especi
 
 V. (Se deroga).
 
+*Fracción derogada DOF 30-11-2012*
+
 VI. Informar a la Secretaría del Trabajo y Previsión Social de las deficiencias que observe en el funcionamiento de la Junta y sugerir las medidas que convenga dictar para corregirlas; y
 
 VII. Las demás que le confieran las leyes.
@@ -6430,19 +7404,31 @@ VII. Las demás que le confieran las leyes.
 
 Para uniformar el criterio de resolución de las Juntas Especiales, se observarán las normas siguientes:
 
+*Párrafo reformado DOF 30-11-2012*
+
 I. El Pleno se reunirá en sesión especial, no pudiendo ocuparse de ningún otro asunto;
 
 II. Para que pueda sesionar el Pleno, se requiere la presencia de la mayoría de los representantes de los trabajadores y de los patrones, respectivamente;
 
+*Fracción reformada DOF 30-11-2012*
+
 III. Los Presidentes de las Juntas Especiales en el Distrito Federal, serán citados a la sesión y tendrán voz informativa. Los representantes de los trabajadores y patrones y los Presidentes de las Juntas Especiales radicadas fuera del Distrito Federal podrán participar como invitados en las sesiones; o bien, formular sus propuestas por escrito, las que se incluirán en el orden del día que corresponda;
 
+*Fracción reformada DOF 30-11-2012*
+
 IV. Las resoluciones del Pleno deberán ser aprobadas por la mitad más uno de sus miembros presentes;
+
+*Fracción reformada DOF 30-11-2012*
 
 V. Las decisiones del Pleno que uniformen el criterio de resolución serán obligatorias para todas las Juntas Especiales;
 
 VI. Las mismas resoluciones podrán revisarse en cualquier tiempo a solicitud de cincuenta y uno por ciento de los representantes de los trabajadores o de los patrones, de cincuenta y uno por ciento de los Presidentes de las Juntas Especiales o del Presidente de la Junta; y
 
+*Fracción reformada DOF 30-11-2012*
+
 VII. El Pleno publicará un boletín cada tres meses, por lo menos, con el criterio uniformado y con los laudos del Pleno y de las Juntas Especiales que juzgue conveniente.
+
+*Fracción reformada DOF 30-11-2012*
 
 ##### Artículo 616.
 
@@ -6451,6 +7437,8 @@ Las Juntas Especiales tienen las facultades y obligaciones siguientes:
 I. Conocer y resolver los conflictos de trabajo que se susciten en las ramas de la industria o de las actividades representadas en ellas;
 
 II. (Se deroga).
+
+*Fracción derogada DOF 30-11-2012*
 
 III. Practicar la investigación y dictar las resoluciones a que se refiere el artículo 503;
 
@@ -6466,6 +7454,8 @@ VI. Las demás que le confieran las leyes.
 
 El Presidente de la Junta Federal de Conciliación y Arbitraje tiene las facultades y obligaciones siguientes:
 
+*Párrafo reformado DOF 30-11-2012*
+
 I. Cuidar del orden y de la disciplina del personal de la Junta;
 
 II. Presidir el Pleno;
@@ -6480,11 +7470,19 @@ VI. Cumplimentar los exhortos o turnarlos a los Presidentes de las Juntas Especi
 
 VII. Rendir los informes en los amparos que se interpongan contra los laudos y las resoluciones dictados por el Pleno y por las Juntas Especiales que presida;
 
+*Fracción reformada DOF 30-11-2012*
+
 VIII. Conocer y resolver de las providencias cautelares que se promuevan en los conflictos colectivos;
+
+*Fracción adicionada DOF 30-11-2012*
 
 IX. Someter al Pleno los reglamentos del servicio profesional de carrera y el de evaluación del desempeño de los Presidentes de las Juntas Especiales; y
 
+*Fracción adicionada DOF 30-11-2012*
+
 X. Las demás que le confieran las Leyes.
+
+*Fracción reformada y recorrida DOF 30-11-2012*
 
 ##### Artículo 618.
 
@@ -6493,6 +7491,8 @@ Los Presidentes de las Juntas Especiales tienen las obligaciones y facultades si
 I. Cuidar del orden y de la disciplina del personal de la Junta Especial;
 
 II. Ordenar la ejecución de los laudos dictados por la Junta Especial;
+
+*Fracción reformada DOF 30-11-2012*
 
 III. Conocer y resolver las providencias cautelares;
 
@@ -6506,7 +7506,11 @@ VII. Informar al Presidente de la Junta de las deficiencias que observen en su f
 
 VIII. Cumplir y aprobar satisfactoriamente los procedimientos de evaluación de desempeño que se establezcan conforme a lo dispuesto en el reglamento respectivo; y
 
+*Fracción adicionada DOF 30-11-2012*
+
 IX. Las demás que les confieran las Leyes.
+
+*Fracción reformada y recorrida DOF 30-11-2012*
 
 ##### Artículo 619.
 
@@ -6514,7 +7518,11 @@ Los Secretarios Generales de la Junta tienen las facultades y obligaciones sigui
 
 I. Coordinar la integración y manejo de los archivos de la Junta que les competan;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Dar fe de las actuaciones de la Junta en el ámbito de su competencia; y
+
+*Fracción reformada DOF 30-11-2012*
 
 III. Las demás que les confiera esta Ley.
 
@@ -6524,6 +7532,8 @@ Para el funcionamiento del Pleno y de las Juntas Especiales se observarán las n
 
 I. En el Pleno se requiere la presencia del Presidente de la Junta y de la mayoría de los representantes de los trabajadores y de los patrones, respectivamente. En caso de empate, el Presidente tendrá voto de calidad;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. En las Juntas Especiales se observarán las normas siguientes:
 
 a) Durante la tramitación de los conflictos individuales y de los colectivos de naturaleza jurídica, bastará la presencia de su Presidente o del Auxiliar, quien llevará adelante la audiencia, hasta su terminación.
@@ -6532,6 +7542,8 @@ Si están presentes uno o varios de los representantes, las resoluciones se toma
 
 Si no está presente ninguno de los representantes, el Presidente o el Auxiliar dictará las resoluciones que procedan, salvo que se trate de las que versen sobre personalidad, competencia, aceptación de pruebas, desistimiento de la acción a que se refiere el artículo 773 y sustitución de patrón. El mismo Presidente acordará que se cite a los representantes a una audiencia para la resolución de dichas cuestiones y, si ninguno concurre, dictará la resolución que proceda.
 
+*Párrafo reformado DOF 30-11-2012*
+
 b) La audiencia de discusión y votación del laudo se regirá por lo dispuesto en la fracción siguiente.
 
 c) Cuando se trate de conflictos colectivos de naturaleza económica, además del Presidente se requiere la presencia de uno de los representantes, por lo menos.
@@ -6539,6 +7551,8 @@ c) Cuando se trate de conflictos colectivos de naturaleza económica, además de
 d) En los casos de empate, el voto del o de los representantes ausentes se sumará al del Presidente o al del Auxiliar;
 
 III. Para la audiencia de discusión y votación del laudo, será necesaria la presencia del Presidente o del Presidente especial y de cincuenta por ciento de los representantes de los trabajadores y de los patrones, por lo menos. Si concurre menos de cincuenta por ciento, el Presidente señalará nuevo día y hora para que se celebre la audiencia; si tampoco se reúne la mayoría, se citará a los suplentes, quedando excluidos los faltistas del conocimiento del negocio. Si tampoco concurren los suplentes, el Presidente de la Junta o el de la Junta Especial dará cuenta al Secretario del Trabajo y Previsión Social para que designe a las personas que los sustituyan. En caso de empate, el Presidente tendrá voto de calidad.
+
+*Fracción reformada DOF 30-11-2012*
 
 ### CAPITULO XIII · Juntas locales de conciliación y arbitraje
 
@@ -6550,15 +7564,23 @@ Las Juntas Locales de Conciliación y Arbitraje funcionarán en cada una de las 
 
 El Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, cuando lo requieran las necesidades del trabajo y del capital, podrá establecer una o más Juntas de Conciliación y Arbitraje fijando el lugar de su residencia y su competencia territorial.
 
+*Artículo reformado DOF 23-12-1974, 09-04-2012*
+
 ##### Artículo 623.
 
 El Pleno se integrará con el Presidente de la Junta y con los representantes de los trabajadores y de los patrones.
 
+*Párrafo adicionado DOF 30-11-2012*
+
 La integración y funcionamiento de las Juntas Locales de Conciliación y Arbitraje se regirán por las disposiciones contenidas en el capítulo anterior. Las facultades del Presidente de la República y del Secretario del Trabajo y Previsión Social se ejercerán por los Gobernadores de los Estados y en el caso del Distrito Federal, por el propio Presidente de la República y por el Jefe de Gobierno del Distrito Federal, respectivamente.
+
+*Artículo reformado DOF 23-12-1974, 09-04-2012*
 
 ##### Artículo 624.
 
 Las percepciones de los Presidentes de las Juntas de Conciliación y Arbitraje de los Estados y del Distrito Federal se fijarán anualmente, con sujeción a las disposiciones legales aplicables.
+
+*Artículo reformado DOF 30-11-2012*
 
 ## TITULO · DOCE
 
@@ -6568,7 +7590,11 @@ Personal Jurídico de las Juntas de Conciliación y Arbitraje
 
 El personal de las Juntas de Conciliación y Arbitraje se compondrá de actuarios, secretarios, funcionarios conciliadores, auxiliares, secretarios auxiliares, secretarios generales y Presidentes de Junta Especial.
 
+*Párrafo reformado DOF 30-11-2012*
+
 La Secretaría del Trabajo y Previsión Social, los Gobernadores de las Entidades Federativas y el Jefe de Gobierno del Distrito Federal, determinarán el número de personas de que deba componerse cada Junta.
+
+*Párrafo reformado DOF 09-04-2012*
 
 ##### Artículo 626.
 
@@ -6578,11 +7604,19 @@ I. Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
 
 II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
+*Fracción adicionada DOF 30-11-2012*
+
 III. Haberse distinguido en estudios de derecho del trabajo;
+
+*Fracción reformada y recorrida DOF 30-11-2012*
 
 IV. No ser ministro de culto; y
 
+*Fracción reformada y recorrida DOF 30-11-2012*
+
 V. Gozar de buena reputación y no haber sido condenados por delito intencional sancionado con pena corporal.
+
+*Fracción reformada y recorrida DOF 30-11-2012*
 
 ##### Artículo 627.
 
@@ -6592,15 +7626,25 @@ I. Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
 
 II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
+*Fracción reformada DOF 30-11-2012*
+
 III. Haberse distinguido en estudios de derecho del trabajo;
+
+*Fracción adicionada DOF 30-11-2012*
 
 IV. No ser ministro de culto; y
 
+*Fracción reformada y recorrida DOF 30-11-2012*
+
 V. Gozar de buena reputación y no haber sido condenados por delito intencional sancionado con pena corporal.
+
+*Fracción reformada y recorrida DOF 30-11-2012*
 
 ##### Artículo 627-A.
 
 El servicio público de conciliación se prestará a través de servidores públicos especializados en la función conciliatoria, denominados funcionarios conciliadores; los integrantes de las Juntas o por su personal jurídico.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 627-B.
 
@@ -6616,9 +7660,13 @@ IV. No ser ministro de culto; y
 
 V. No haber sido condenados por delito intencional sancionado con pena privativa de la libertad.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 627-C.
 
 Durante todo el procedimiento y hasta antes de dictarse los laudos, las Juntas tendrán la obligación de promover que las partes resuelvan los conflictos mediante la conciliación. Los convenios a que lleguen, en su caso, una vez ratificados y aprobados por aquéllas, producirán los efectos jurídicos inherentes a los laudos ejecutoriados.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 628.
 
@@ -6628,35 +7676,55 @@ I. Ser mexicanos, mayores de veinticinco años y estar en pleno ejercicio de sus
 
 II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
 
+*Fracción reformada DOF 30-11-2012*
+
 III. Tener tres años de ejercicio profesional en materia laboral, posteriores a la obtención del título de abogado o licenciado en derecho, y haberse distinguido en estudios de derecho del trabajo;
+
+*Fracción reformada DOF 30-11-2012*
 
 IV. No ser ministro de culto; y
 
+*Fracción reformada DOF 30-11-2012*
+
 V. Gozar de buena reputación y no haber sido condenados por delito intencional sancionado con pena corporal.
+
+*Fracción reformada DOF 30-11-2012*
 
 ##### Artículo 629.
 
 Los secretarios generales deberán satisfacer los requisitos señalados en las fracciones I, II, IV y V del artículo anterior, tener cinco años de ejercicio profesional en materia laboral, posteriores a la obtención del título de abogado o licenciado en derecho, haberse distinguido en estudios de derecho del trabajo y experiencia mínima de un año como servidor público en el ámbito del sector laboral.
 
+*Artículo reformado DOF 30-11-2012*
+
 ##### Artículo 630.
 
 Los Presidentes de las Juntas Especiales y los secretarios auxiliares, deberán satisfacer los requisitos señalados en el artículo anterior.
+
+*Artículo reformado DOF 30-11-2012*
 
 ##### Artículo 631.
 
 Las percepciones de los Presidentes de las Juntas Especiales de la Federal de Conciliación y Arbitraje se fijarán anualmente, con sujeción a las disposiciones presupuestales aplicables.
 
+*Artículo reformado DOF 30-11-2012*
+
 ##### Artículo 632.
 
 El personal jurídico de las Juntas no podrá actuar como apoderado, asesor o abogado patrono en asuntos de trabajo.
+
+*Artículo reformado DOF 30-11-2012*
 
 ##### Artículo 633.
 
 Los Presidentes de las Juntas Especiales serán nombrados cada seis años por el Secretario del Trabajo y Previsión Social, por el Gobernador de Estado o por el Jefe de Gobierno del Distrito Federal.
 
+*Artículo reformado DOF 23-12-1974, 09-04-2012*
+
 ##### Artículo 634.
 
 Los nombramientos de los Secretarios Generales y Secretarios Auxiliares serán considerados de libre designación, en atención a las funciones y necesidades propias del puesto.
+
+*Artículo reformado DOF 30-11-2012*
 
 ##### Artículo 635.
 
@@ -6672,7 +7740,11 @@ En la imposición de las sanciones a que se refiere el artículo anterior se obs
 
 I. El Presidente de la Junta practicará una investigación con audiencia del interesado e impondrá la sanción que corresponda a los actuarios, secretarios, auxiliares y funcionarios conciliadores; y
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Cuando se trate de los secretarios generales, secretarios auxiliares y Presidentes de las Juntas Especiales, el Presidente de la Junta dará cuenta al Secretario del Trabajo y Previsión Social, al gobernador del estado o al Jefe de Gobierno del Distrito Federal, quienes, después de oír al interesado, dictarán la resolución correspondiente.
+
+*Fracción reformada DOF 23-12-1974, 09-04-2012, 30-11-2012*
 
 ##### Artículo 638.
 
@@ -6744,6 +7816,8 @@ VI. No dar cuenta a las Juntas de Conciliación y Arbitraje de su adscripción s
 
 VII. Las demás que establezcan las Leyes.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 642.
 
 Son faltas especiales de los Auxiliares:
@@ -6756,13 +7830,23 @@ III. Votar una resolución notoriamente ilegal o injusta;
 
 IV. Dejar de engrosar los laudos dentro del término señalado en esta Ley;
 
+*Fracción adicionada DOF 30-11-2012*
+
 V. Engrosar los laudos en términos distintos de los consignados en la votación;
+
+*Fracción adicionada DOF 30-11-2012*
 
 VI. Dejar de dictar los acuerdos respectivos dentro de los términos señalados en esta Ley;
 
+*Fracción adicionada DOF 30-11-2012*
+
 VII. Abstenerse de informar oportunamente al Presidente de la Junta Especial acerca de la conducta irregular o delictuosa de alguno de los representantes de los trabajadores o de los patrones; y
 
+*Fracción reformada y recorrida DOF 30-11-2012*
+
 VIII. Las demás que establezcan las Leyes.
+
+*Fracción reformada y recorrida DOF 30-11-2012*
 
 ##### Artículo 643.
 
@@ -6770,23 +7854,39 @@ Son faltas especiales de los Presidentes de las Juntas Especiales:
 
 I. Los casos señalados en las fracciones I, II, III y VI del artículo anterior,
 
+*Fracción reformada DOF 30-11-2012*
+
 II. No proveer oportunamente a la ejecución de los laudos;
 
 III. No informar oportunamente al Presidente de la Junta acerca de la conducta irregular o delictuosa de alguno de los representantes de los trabajadores o de los patrones ante la Junta Especial que presidan;
 
+*Fracción reformada DOF 30-11-2012*
+
 IV. No denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir a uno o varios de sus trabajadores;
+
+*Fracción adicionada DOF 24-12-1974. Reformada DOF 30-11-2012*
 
 V. Abstenerse de cumplir con los procesos, métodos y mecanismos de evaluación del desempeño, así como de las obligaciones previstas en los Reglamentos que expida el Pleno de la Junta; y
 
+*Fracción adicionada DOF 30-11-2012*
+
 VI. Las demás que establezcan las Leyes.
+
+*Fracción recorrida DOF 24-12-1974. Reformada y recorrida DOF 30-11-2012*
 
 ##### Artículo 644.
 
 Son causas generales de destitución de los actuarios, secretarios, funcionarios conciliadores, auxiliares, secretarios generales, secretarios auxiliares y Presidentes de las Juntas Especiales:
 
+*Párrafo reformado DOF 30-11-2012*
+
 I. Violar la prohibición del artículo 632 de esta Ley;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Dejar de asistir por más de tres días consecutivos a sus labores sin causa justificada; ausentarse con frecuencia durante las horas de trabajo, e incumplir reiteradamente las obligaciones inherentes al cargo;
+
+*Fracción reformada DOF 30-11-2012*
 
 III. Recibir directa o indirectamente cualquier dádiva de las partes; y
 
@@ -6804,7 +7904,11 @@ a) No dar cuenta a las Juntas de Conciliación y Arbitraje de su adscripción so
 
 b) Conocer de un negocio para el que se encuentren impedidos de conformidad con las disposiciones de esta Ley;
 
+*Fracción adicionada DOF 30-11-2012*
+
 III. De los secretarios: dar fe de hechos falsos y alterar sustancial o dolosamente los hechos en la redacción de las actas que autoricen;
+
+*Fracción reformada y recorrida DOF 30-11-2012*
 
 IV. De los auxiliares:
 
@@ -6813,6 +7917,8 @@ a) Conocer de algún negocio para el que se encuentren impedidos.
 b) Votar una resolución o formular un dictamen notoriamente ilegal o injusto.
 
 c) Retener o retardar indebidamente la tramitación de un expediente; y
+
+*Fracción reformada y recorrida DOF 30-11-2012*
 
 V. De los Secretarios Generales, Secretarios Auxiliares y Presidentes de las Juntas Especiales:
 
@@ -6824,9 +7930,13 @@ c) No proveer oportunamente a la ejecución de los laudos.
 
 d) Los casos señalados en el artículo 643, fracción V de esta Ley.
 
+*Fracción reformada y recorrida DOF 30-11-2012*
+
 ##### Artículo 646.
 
 La destitución del cargo del personal jurídico de las Juntas Especiales se decretará por la autoridad que hubiese hecho el nombramiento.
+
+*Artículo reformado DOF 30-11-2012*
 
 ##### Artículo 647.
 
@@ -6842,6 +7952,8 @@ Representantes de los Trabajadores y de los Patrones
 
 Los representantes de los trabajadores y de los patrones en las Juntas serán elegidos en convenciones, que se organizarán y funcionarán cada seis años de conformidad con las disposiciones de este Capítulo.
 
+*Artículo reformado DOF 30-11-2012*
+
 ##### Artículo 649.
 
 Se celebrarán tantas convenciones como Juntas Especiales deban funcionar en la Junta de Conciliación y Arbitraje.
@@ -6849,6 +7961,8 @@ Se celebrarán tantas convenciones como Juntas Especiales deban funcionar en la 
 ##### Artículo 650.
 
 El día primero de octubre del año par que corresponda, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, publicarán en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa y en uno de los periódicos de mayor circulación, la convocatoria para la elección de representantes.
+
+*Artículo reformado DOF 23-12-1974, 09-04-2012*
 
 ##### Artículo 651.
 
@@ -6924,6 +8038,8 @@ III. Nombres del patrón o patrones, domicilio y rama de la industria o activida
 
 Los padrones se presentarán a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe de Gobierno del Distrito Federal, el día 20 de octubre del año de la Convocatoria a más tardar.
 
+*Artículo reformado DOF 23-12-1974, 09-04-2012*
+
 ##### Artículo 657.
 
 Los Inspectores del Trabajo comprobarán y certificarán la exactitud de los padrones.
@@ -6937,6 +8053,8 @@ La autoridad registradora certificará, con vista de los datos del Inspector del
 ##### Artículo 659.
 
 Las convenciones se celebrarán el día cinco de diciembre de los años pares que correspondan, en las capitales de la República, de los Estados, o en el lugar de residencia de la Junta.
+
+*Artículo reformado DOF 23-12-1974*
 
 ##### Artículo 660.
 
@@ -6952,6 +8070,8 @@ IV. Los delegados y los patrones independientes, tendrán en las convenciones un
 
 V. Las convenciones serán instaladas por el Secretario del Trabajo y Previsión Social, por el Gobernador del Estado o por el Jefe de Gobierno del Distrito Federal o por la persona que éstos designen;
 
+*Fracción reformada DOF 23-12-1974, 09-04-2012*
+
 VI. Instalada la convención, se procederá al registro de credenciales y a la elección de la mesa directiva, que se integrará con un Presidente, dos Secretarios y dos Vocales. Tomarán parte en la elección, con el número de votos que les corresponda, los delegados y los patrones independientes cuyas credenciales hubiesen quedado registradas. El cómputo se hará por dos de las personas asistentes, designadas especialmente;
 
 VII. Instalada la Mesa Directiva, se procederá a la revisión de las credenciales, dándoles lectura en voz alta. Las convenciones sólo podrán desechar las que no reúnan los requisitos señalados en los artículo 652 y 653, o cuando se compruebe que los electores no pertenecen a la rama de la industria o de las actividades representadas en la convención;
@@ -6960,9 +8080,13 @@ VIII. Aprobadas las credenciales se procederá a la elección de los representan
 
 IX. Concluida la elección, se levantará un acta; un ejemplar se depositará en el archivo de la Junta, otro se remitirá a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o Territorios o al Jefe de Gobierno del Distrito Federal, y dos se entregarán a los representantes electos, propietario o suplente, a fin de que les sirvan de credencial.
 
+*Fracción reformada DOF 23-12-1974, 09-04-2012*
+
 ##### Artículo 661.
 
 Si ningún delegado o patrón independiente concurre a la convención o ésta no hace la elección de representantes el día cinco de diciembre, se entenderá que los interesados delegan la facultad en el Secretario del Trabajo y Previsión Social, en el Gobernador del Estado o en el Jefe de Gobierno del Distrito Federal.
+
+*Artículo reformado DOF 23-12-1974, 09-04-2012*
 
 ##### Artículo 662.
 
@@ -6972,9 +8096,13 @@ Los representantes electos, provistos de sus credenciales, se presentarán desde
 
 El primer día hábil del mes de enero siguiente, el Secretario del Trabajo y Previsión Social, El Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, tomarán a los representantes electos la protesta legal y después de exhortarlos para que administren una justicia pronta y expedita, declararán constituida la Junta Federal o Local de Conciliación y Arbitraje y la de Conciliación Permanente.
 
+*Artículo reformado DOF 23-12-1974, 09-04-2012*
+
 ##### Artículo 664.
 
 En la designación de los representantes de los trabajadores y de los patrones en las Juntas Especiales establecidas fuera de la capital de la República, se observarán las disposiciones de este Capítulo, con las modalidades siguientes:
+
+*Párrafo reformado DOF 02-07-1976, 30-11-2012*
 
 I. La convocatoria indicará la competencia territorial de la Junta;
 
@@ -7006,6 +8134,8 @@ Los representantes de los trabajadores y de los patrones durarán en su encargo 
 
 El Secretario del Trabajo y Previsión Social, los Gobernadores de los Estados y el Jefe de Gobierno del Distrito Federal, conocerán de las renuncias de los representantes, aceptándolas o desechándolas, previa calificación de la causa.
 
+*Artículo reformado DOF 23-12-1974, 09-04-2012*
+
 ##### Artículo 669.
 
 El cargo de representante es revocable de conformidad con las normas siguientes:
@@ -7014,6 +8144,8 @@ I. Podrán solicitar la revocación las dos terceras partes de los trabajadores 
 
 II. La solicitud se presentará al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe de Gobierno del Distrito Federal;
 
+*Fracción reformada DOF 23-12-1974, 09-04-2012*
+
 III. La autoridad que reciba la solicitud, después de verificar el requisito de la mayoría, hará la declaratoria correspondiente y llamará al suplente, a fin de que rinda la protesta legal; y
 
 IV. A falta de suplente o cuando la revocación del nombramiento le afecte, al hacerse la solicitud de revocación, deberán señalarse los nombres de los substitutos.
@@ -7021,6 +8153,8 @@ IV. A falta de suplente o cuando la revocación del nombramiento le afecte, al h
 ##### Artículo 670.
 
 Las faltas temporales o definitivas de los representantes serán cubiertas por los suplentes. A falta de éstos o si llamados por el Presidente de la Junta no se presentan dentro de los diez días siguientes al requerimiento, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, hará la designación del substituto, que deberá recaer en un trabajador o patrón.
+
+*Artículo reformado DOF 23-12-1974, 09-04-2012*
 
 ##### Artículo 671.
 
@@ -7074,6 +8208,8 @@ Las sanciones a los representantes de los trabajadores y de los patrones se impo
 
 I. Con un representante del Secretario del Trabajo y Previsión Social, del Gobernador del Estado o del Jefe de Gobierno del Distrito Federal, y
 
+*Fracción reformada DOF 23-12-1974, 09-04-2012*
+
 II. Con un representante propietario de los trabajadores y otro de los patrones, y sus respectivos suplentes, elegidos cada seis años en las convenciones a que se refiere este capítulo.
 
 ##### Artículo 675.
@@ -7092,11 +8228,15 @@ V. El acusado podrá ofrecer las pruebas que juzgue conveniente; y
 
 VI. Terminada la recepción de las pruebas, el Jurado escuchará los alegatos y dictará resolución, comunicándola, si fuese condenatoria, a la Autoridad a la que corresponda decretar la destitución.
 
-### CAPITULO II · Representantes de los trabajadores y de los patrones en la comisión nacional de los salarios mínimos y en las comisiones consultivas
+### CAPITULO II · Representantes de los Trabajadores y de los Patrones en la Comisión Nacional de los Salarios Mínimos y en las Comisiones Consultivas
+
+*Denominación del Capítulo reformada DOF 21-01-1988*
 
 ##### Artículo 676.
 
 Son aplicables a la elección de representantes de los trabajadores y de los patrones en la Comisión Nacional de los Salarios Mínimos, las disposiciones contenidas en el Capítulo anterior, con las modalidades de los Artículos siguientes.
+
+*Artículo reformado DOF 21-01-1988*
 
 ##### Artículo 677.
 
@@ -7116,17 +8256,25 @@ IV. El lugar y la fecha de presentación de los documentos a que se refiere la f
 
 V. El local y la hora en que deban celebrarse las convenciones.
 
+*Artículo reformado DOF 21-01-1988*
+
 ##### Artículo 679.
 
 Las Convenciones se celebrarán el día 25 del mes de junio del año impar que corresponda, en la Capital de la República.
+
+*Artículo reformado DOF 21-01-1988*
 
 ##### Artículo 680.
 
 Para la elección de representantes en la Comisión Nacional se celebrarán una Convención de trabajadores y otra de patrones por cada uno de los grupos en que se hubiesen distribuido las ramas de la actividad económica.
 
+*Artículo reformado DOF 21-01-1988*
+
 ##### Artículo 681.
 
 Tienen derecho a participar en la elección los sindicatos de trabajadores y de patrones y los patrones independientes. Los representantes ante la Comisión Nacional serán elegidos por la totalidad de los trabajadores sindicalizados y patrones de la República con derecho a voto.
+
+*Artículo reformado DOF 21-01-1988*
 
 ##### Artículo 682.
 
@@ -7145,6 +8293,8 @@ III. El número de representantes de los trabajadores y de los patrones ante la 
 IV. El término para la designación de representantes, los requisitos que deberán cumplir en cada caso y el lugar que se determine para la notificación de las designaciones; y
 
 V. El lugar y fecha en el que se iniciarán formalmente los trabajos de la Comisión Consultiva.
+
+*Artículo adicionado DOF 21-01-1988*
 
 ### CAPITULO III · Representantes de los trabajadores y de los patrones en la comisión nacional para la participación de los trabajadores en las utilidades de las empresas
 
@@ -7166,13 +8316,19 @@ III. El lugar, fecha y hora en que deban celebrarse las convenciones.
 
 Derecho Procesal del Trabajo
 
-### CAPITULO I · Principios procesales
+### CAPITULO I · Principios Procesales
+
+*Denominación del Capítulo reformada DOF 04-01-1980*
 
 ##### Artículo 685.
 
 El proceso del derecho del trabajo será público, gratuito, inmediato, predominantemente oral y conciliatorio y se iniciará a instancia de parte. Las Juntas tendrán la obligación de tomar las medidas necesarias para lograr la mayor economía, concentración y sencillez del proceso.
 
+*Párrafo reformado DOF 30-11-2012*
+
 Cuando la demanda del trabajador sea incompleta, en cuanto a que no comprenda todas las prestaciones que de acuerdo con esta Ley deriven de la acción intentada o procedente, conforme a los hechos expuestos por el trabajador, la Junta, en el momento de admitir la demanda, subsanará ésta. Lo anterior sin perjuicio de que cuando la demanda sea obscura o vaga se proceda en los términos previstos en el artículo 873 de esta Ley.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 686.
 
@@ -7180,19 +8336,29 @@ El proceso del derecho del trabajo y los procedimientos paraprocesales, se susta
 
 Las Juntas ordenarán que se corrija cualquier irregularidad u omisión que notaren en la sustanciación del proceso, para el efecto de regularizar el procedimiento, sin que ello implique que puedan revocar sus propias resoluciones, según lo dispone el artículo 848 de la presente Ley.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 687.
 
 En las comparecencias, escritos, promociones o alegaciones, no se exigirá forma determinada; pero las partes deberán precisar los puntos petitorios.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 688.
 
 Las autoridades administrativas y las judiciales están obligadas, en la esfera de sus respectivas competencias, a auxiliar a las Juntas de Conciliación y Arbitraje; si se negaren a ello, serán responsables en los términos de las Leyes aplicables al caso. Las Juntas se auxiliarán entre sí en el ejercicio de sus funciones.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ### Capítulo II · De la Capacidad, Personalidad y Legitimación
+
+*Capítulo reubicado y denominación reformada DOF 04-01-1980. Denominación reformada DOF 30-11-2012*
 
 ##### Artículo 689.
 
 Son partes en el proceso del trabajo, las personas físicas o morales que acrediten su interés jurídico en el proceso y ejerciten acciones u opongan excepciones.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 690.
 
@@ -7200,11 +8366,17 @@ Las personas que puedan ser afectadas por la resolución que se pronuncie en un 
 
 Los terceros interesados en un juicio podrán comparecer o ser llamados a éste hasta antes de la celebración de la audiencia de ofrecimiento y admisión de pruebas, para manifestar lo que a su derecho convenga. La Junta, con suspensión del procedimiento y citación de las partes, dictará acuerdo señalando día y hora para la celebración de la audiencia respectiva, la que deberá celebrarse dentro de los diez días hábiles siguientes a la fecha de la comparecencia o llamamiento del tercero, notificando personalmente al mismo el acuerdo señalado con cinco días hábiles de anticipación.
 
+*Párrafo adicionado DOF 30-11-2012*
+
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 691.
 
 Los menores trabajadores tienen capacidad para comparecer a juicio sin necesidad de autorización alguna; pero, en caso de no estar asesorados en juicio, la Junta solicitará la intervención de la Procuraduría de la Defensa del Trabajo para tal efecto. Tratándose de menores de 16 años, la Procuraduría de la Defensa del Trabajo les designará un representante cuando no lo tuvieren.
 
 Lo previsto en el párrafo anterior se aplicará también tratándose de presuntos beneficiarios de algún trabajador fallecido.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 692.
 
@@ -7216,25 +8388,39 @@ I. Cuando el compareciente actúe como apoderado de persona física, podrá hace
 
 II. Los abogados patronos o asesores legales de las partes, sean o no apoderados de éstas, deberán acreditar ser abogados o licenciados en derecho con cédula profesional o personas que cuenten con carta de pasante vigente expedida por la autoridad competente para ejercer dicha profesión. Sólo se podrá autorizar a otras personas para oír notificaciones y recibir documentos, pero éstas no podrán comparecer en las audiencias ni efectuar promoción alguna;
 
+*Fracción reformada DOF 30-11-2012*
+
 III. Cuando el compareciente actúe como apoderado de persona moral, podrá acreditar su personalidad mediante testimonio notarial o carta poder otorgada ante dos testigos, previa comprobación de que quien le otorga el poder está legalmente autorizado para ello; y
 
 IV. Los representantes de los sindicatos acreditarán su personalidad con la certificación que les extienda la autoridad registradora correspondiente, de haber quedado inscrita la directiva del sindicato. También podrán comparecer por conducto de apoderado legal, quien en todos los casos deberá ser abogado, licenciado en derecho o pasante.
+
+*Fracción reformada DOF 30-11-2012*
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 693.
 
 Las Juntas podrán tener por acreditada la personalidad de los representantes de los trabajadores o sindicatos, federaciones y confederaciones sin sujetarse a las reglas del artículo anterior, siempre que de los documentos exhibidos lleguen al convencimiento de que, efectivamente, se representa a la parte interesada.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 694.
 
 Los trabajadores, los patrones y las organizaciones sindicales, podrán otorgar poder mediante simple comparecencia, previa identificación, ante las Juntas del lugar de su residencia, para que los representen ante cualquier autoridad del trabajo; la personalidad se acreditará con la copia certificada que se expida de la misma.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 695.
 
 Los representantes o apoderados podrán acreditar su personalidad conforme a los lineamientos anteriores, en cada uno de los juicios en que comparezcan, exhibiendo copia simple fotostática para su cotejo con el documento original o certificado por autoridad, el cual les será devuelto de inmediato, quedando en autos la copia debidamente certificada.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 696.
 
 El poder que otorgue el trabajador para ser representado en juicio, se entenderá conferido para demandar todas las prestaciones principales y accesorias que correspondan, aunque no se exprese en el mismo.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 697.
 
@@ -7244,7 +8430,11 @@ Si se trata de las partes actoras, el nombramiento de representante común deber
 
 El representante común tendrá los derechos, obligaciones y responsabilidad inherentes a un mandatario judicial.
 
-### CAPITULO III · De las competencias
+*Artículo reformado DOF 04-01-1980*
+
+### CAPITULO III · De las Competencias
+
+*Capítulo reubicado y denominación reformada DOF 04-01-1980*
 
 ##### Artículo 698.
 
@@ -7252,17 +8442,25 @@ Será competencia de las Juntas Locales de Conciliación y de Conciliación y Ar
 
 La Junta Federal de Conciliación y Arbitraje conocerá de los conflictos de trabajo cuando se trate de las ramas industriales, empresas o materias contenidas en los artículos 123, apartado A, fracción XXXI, de la Constitución Política y 527 de esta Ley.
 
+*Párrafo reformado DOF 30-11-2012*
+
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 699.
 
 Cuando en los conflictos a que se refiere el párrafo primero del artículo que antecede, se ejerciten en la misma demanda acciones relacionadas con obligaciones en materia de capacitación y adiestramiento o de seguridad e higiene, el conocimiento de estas materias será de la competencia de la Junta Especial de la Federal de Conciliación y Arbitraje, de acuerdo a su jurisdicción.
 
 En el supuesto previsto en el párrafo anterior, la Junta Local, al admitir la demanda, ordenará se saque copia de la misma y de los documentos presentados por el actor, las que remitirá inmediatamente a la Junta Federal para la sustanciación y resolución, exclusivamente, de las cuestiones sobre capacitación y adiestramiento, y de seguridad e higiene, en los términos señalados en esta Ley.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 700.
 
 La competencia por razón del territorio se rige por las normas siguientes:
 
 I. (Se deroga).
+
+*Fracción derogada DOF 30-11-2012*
 
 II. En los conflictos individuales, el actor puede escoger entre:
 
@@ -7272,21 +8470,29 @@ b) La Junta del domicilio del demandado.
 
 c) La Junta del lugar de prestación de los servicios; si éstos se prestaron en varios lugares, será la Junta del último de ellos.
 
+*Fracción reformada DOF 30-11-2012*
+
 III. En los conflictos colectivos de jurisdicción federal, la Junta Federal de Conciliación y Arbitraje, en los términos del artículo 606 de esta Ley; en los conflictos colectivos de jurisdicción local, la del lugar en que esté ubicada la empresa o establecimiento;
 
 IV. Cuando se trate de la cancelación del registro de un sindicato, la Junta del lugar donde se hizo;
 
-V. En los conflictos entre patrones o trabajadores entre si, la Junta del domicilio del demandado; y
+V. En los conflictos entre patrones o trabajadores entre sí, la Junta del domicilio del demandado; y
 
 VI. Cuando el demandado sea un sindicato, la Junta del domicilio del mismo.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 701.
 
 Las Juntas de Conciliación y Arbitraje de oficio deberán declararse incompetentes en cualquier estado del proceso, hasta antes de la audiencia de desahogo de pruebas, cuando existan en el expediente datos que lo justifiquen. Si la Junta se declara incompetente, con citación de las partes, remitirá de inmediato el expediente a la Junta o al tribunal que estime competente; si ésta o aquél, al recibir el expediente, se declara a su vez incompetente, remitirá de inmediato el expediente a la autoridad que debe decidir la competencia, en los términos del artículo 705 de esta Ley.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 702.
 
 No se considerará excepción de incompetencia la defensa consistente en la negativa de la relación de trabajo.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 703.
 
@@ -7294,9 +8500,13 @@ Las cuestiones de competencia, en materia de trabajo, sólo pueden promoverse po
 
 La declinatoria deberá oponerse al iniciarse el período de demanda y excepciones en la audiencia respectiva, acompañando los elementos en que se funde; en ese momento, la Junta después de oír a las partes y recibir las pruebas que estime convenientes, las que deberán referirse exclusivamente a la cuestión de incompetencia, dictará en el acto resolución.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 704.
 
 Cuando una Junta Especial considere que el conflicto de que conoce, es de la competencia de otra de la misma Junta, con citación de las partes, se declarará incompetente y remitirá los autos a la Junta Especial que estime competente. Si ésta al recibir el expediente se declara a su vez incompetente, lo remitirá a la autoridad que deba decidir la cuestión de competencia, para que ésta determine cuál es la Junta Especial que debe continuar conociendo del conflicto.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 705.
 
@@ -7304,9 +8514,15 @@ Las competencias se decidirán:
 
 I. Por el Presidente de la Junta Federal de Conciliación y Arbitraje, cuando se trate de las Juntas Especiales de la misma, entre sí;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Por el Presidente de la Junta Local de Conciliación y Arbitraje, cuando se trate de Juntas Especiales de la misma entidad federativa; y
 
+*Fracción reformada DOF 30-11-2012*
+
 III. Por las instancias correspondientes del Poder Judicial de la Federación, cuando se suscite entre:
+
+*Párrafo reformado DOF 30-11-2012*
 
 a) Juntas Locales o Federales de Conciliación y Arbitraje y el Tribunal Federal de Conciliación y Arbitraje.
 
@@ -7316,11 +8532,17 @@ c) Juntas Locales de Conciliación y Arbitraje de diversas Entidades Federativas
 
 d) Juntas Locales o Federales de Conciliación y Arbitraje y otro órgano jurisdiccional.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 706.
 
 Será nulo todo lo actuado ante la Junta incompetente, salvo el acto de admisión de la demanda y lo dispuesto en los artículos 704 y 928 fracción V de esta Ley o, en su caso, cuando se haya celebrado convenio que ponga fin al negocio, en el período de conciliación.
 
-### CAPITULO IV · De los impedimentos y excusas
+*Artículo reformado DOF 04-01-1980*
+
+### CAPITULO IV · De los Impedimentos y Excusas
+
+*Capítulo reubicado y denominación reformada DOF 04-01-1980*
 
 ##### Artículo 707.
 
@@ -7342,9 +8564,13 @@ VII. Sea tutor o curador, o haber estado bajo la tutela o curatela de las partes
 
 VIII. Sea deudor, acreedor, heredero o legatario de cualquiera de las partes o de sus representantes.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 708.
 
 Los representantes del Gobierno, de los trabajadores o de los patrones ante las Juntas, y los auxiliares, no son recusables, pero deberán excusarse de conocer de los juicios en que intervengan, cuando se encuentren comprendidos en alguno de los supuestos a que se refiere el artículo anterior. De no hacerlo incurrirán en la responsabilidad a que se refiere esta Ley.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 709.
 
@@ -7356,11 +8582,15 @@ a) El Presidente de la Junta, cuando se trate del Presidente de una Junta Especi
 
 b) El Secretario del Trabajo y Previsión Social, tratándose del Presidente de la Junta Federal y el Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, cuando se trate del Presidente de la Junta Local.
 
+*Inciso reformado DOF 09-04-2012*
+
 II. La excusa se deberá promover por escrito y bajo protesta de decir verdad, ante las autoridades señaladas en la fracción anterior, dentro de las 48 horas siguientes a la en que se tenga conocimiento del impedimento. Al solicitarse se acompañarán las pruebas que lo justifiquen;
 
 III. La autoridad que decida sobre la excusa, tan pronto la reciba, resolverá de plano con los elementos que tenga para ello o podrá señalar día y hora para que comparezca ante ella el interesado, para que después de oírlo y recibir pruebas de inmediato dicte resolución; y
 
 IV. Si la excusa es declarada improcedente, la autoridad competente podrá sancionar, al que se excusó, con amonestación o suspensión del cargo hasta por ocho días y en caso de reincidencia en el mismo asunto, será destituido.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 710.
 
@@ -7378,11 +8608,17 @@ d) Los representantes de los trabajadores y de los patrones por sus respectivos 
 
 Independientemente de la sustitución, el funcionario impedido será sancionado, en los términos previstos en la fracción IV del artículo 709 de esta Ley.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 711.
 
 El procedimiento no se suspenderá mientras se tramite la denuncia de impedimento.
 
-### CAPITULO V · De la actuación de las juntas
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
+### CAPITULO V · De la Actuación de las Juntas
+
+*Capítulo reubicado y denominación reformada DOF 04-01-1980*
 
 ##### Artículo 712.
 
@@ -7390,41 +8626,61 @@ Cuando el trabajador ignore el nombre del patrón o la denominación o razón so
 
 La sola presentación de la demanda en los términos del párrafo anterior interrumpe la prescripción respecto de quien resulte ser el patrón del trabajador.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 713.
 
 En las audiencias que se celebren se requerirá de la presencia física de las partes o de sus representantes o apoderados, salvo disposición en contrario de la Ley.
+
+*Fe de erratas al artículo DOF 05-06-1970. Reformado DOF 04-01-1980*
 
 ##### Artículo 714.
 
 Las actuaciones de las Juntas deben practicarse en días y horas hábiles, bajo pena de nulidad, siempre que esta Ley no disponga otra cosa.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 715.
 
 Son días hábiles todos los del año con excepción de los sábados y domingos, los de descanso obligatorio, los festivos que señale el calendario oficial y aquéllos en que la Junta suspenda sus labores.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 716.
 
 Son horas hábiles las comprendidas entre las siete y las diecinueve horas, salvo el procedimiento de huelga, en el que todos los días y horas son hábiles.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 717.
 
 Los Presidentes de las Juntas, los de las Juntas Especiales y los Auxiliares, pueden habilitar los días y horas inhábiles para que se practiquen diligencias, cuando haya causa justificada, expresando concreta y claramente cual es ésta, así como las diligencias que hayan de practicarse.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 718.
 
 La audiencia o diligencia que se inicie en día y hora hábil podrá continuarse hasta su terminación, sin suspenderla y sin necesidad de habilitación expresa. En caso de que se suspenda deberá continuarse el siguiente día hábil; la Junta hará constar en autos la razón de la suspensión.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 719.
 
 Cuando en la fecha señalada no se llevare a cabo la práctica de alguna diligencia, la Junta hará constar en autos la razón por la cual no se practicó y señalará en el mismo acuerdo, el día y hora para que tenga lugar la misma.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 720.
 
 Las audiencias serán públicas. La Junta podrá ordenar, de oficio o a instancia de parte, que sean a puerta cerrada, cuando lo exija el mejor despacho de los negocios, la moral o las buenas costumbres.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 721.
 
 Todas las actuaciones procesales serán autorizadas por el Secretario, excepción hecha de las diligencias encomendadas a otros funcionarios; lo actuado en las audiencias se hará constar en actas, las que deberán ser firmadas por las personas que en ellas intervinieron, quieran y sepan hacerlo. Cuando algún integrante de la Junta omitiere firmar las actas de las diligencias en las que estuvo presente se entenderá que está conforme con ellas. De las actas de las audiencias se entregará copia autógrafa a cada una de las partes comparecientes.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 722.
 
@@ -7432,9 +8688,13 @@ Las declaraciones que rindan las partes, sus apoderados o cualquier persona ante
 
 Las declaraciones de peritos en derecho, serán rendidas bajo protesta de decir verdad, sin que se requiera apercibimiento alguno.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 723.
 
 La Junta, conforme a lo establecido en esta Ley, está obligada a expedir a la parte solicitante, copia certificada de cualquier documento o constancia que obre en el expediente. También deberá certificar la copia fotostática que exhiban las partes de algún documento o constancia que aparezca en autos, previo cotejo que se haga con el original.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 724.
 
@@ -7442,35 +8702,53 @@ El Pleno de la Junta Federal de Conciliación y Arbitraje o el de las Juntas Loc
 
 También podrá acordar que los expedientes concluidos de manera definitiva sean dados de baja previa certificación de la microfilmación de los mismos o de su conservación a través de cualquier otro procedimiento técnico científico que permita su consulta.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 725.
 
 En caso de extravío o desaparición del expediente o de alguna constancia, el Secretario, previo informe del archivista, certificará la existencia anterior y la falta posterior del expediente o de las actuaciones. La Junta, de oficio o a petición de parte, lo hará del conocimiento de las partes; procederá a practicar las investigaciones del caso y a tramitar de inmediato la reposición de los autos, en forma incidental.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 726.
 
 En el caso del artículo anterior, la Junta señalará, dentro de las setenta y dos horas siguientes, día y hora para que tenga lugar una audiencia en la que las partes deberán aportar todos los elementos, constancias y copias que obren en su poder. La Junta podrá ordenar se practiquen aquellas actuaciones y diligencias necesarias para reponer los autos, teniendo en cuenta, en su caso, lo dispuesto por el artículo 724 de esta Ley.
 
+*Artículo reformado DOF 02-07-1976, 04-01-1980*
+
 ##### Artículo 727.
 
 La Junta, de oficio, hará la denuncia correspondiente ante el Ministerio Público competente de la desaparición del expediente o actuación, acompañando copia de las actas y demás diligencias practicadas con dicho motivo.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 728.
 
 Los Presidentes de las Juntas y los Auxiliares, podrán imponer correcciones disciplinarias, para mantener el buen orden en el desarrollo de las audiencias o diligencias, y exigir que se les guarde el respeto y la consideración debidos.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 729.
 
 Las correcciones disciplinarias que pueden imponerse son:
+
+*Párrafo reformado DOF 30-11-2012*
 
 I. Amonestación;
 
 II. Multa, que no podrá exceder de 100 veces del salario mínimo general vigente en el Distrito Federal en el tiempo en que se cometa la violación. Tratándose de trabajadores, la multa no podrá exceder del importe de su jornal o salario en un día. Para los efectos de este artículo, no se considera trabajadores a los apoderados; y
 
+*Fracción reformada DOF 30-11-2012*
+
 III. Expulsión del local de la Junta; la persona que se resista a cumplir la orden, será desalojada del local con el auxilio de la fuerza pública.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 730.
 
 Cuando los hechos que motiven la imposición de una corrección disciplinaria, puedan constituir la comisión de un delito, la Junta levantará un acta circunstanciada y la turnará al Ministerio Público, para los efectos conducentes.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 731.
 
@@ -7480,41 +8758,63 @@ Los medios de apremio que pueden emplearse son:
 
 I. Multa, que no podrá exceder de 100 veces el salario mínimo general vigente en el Distrito Federal en el tiempo en que se cometió el desacato. Tratándose de trabajadores, la multa no podrá exceder del importe de su jornal o salario de un día. Para los efectos de este artículo, no se considerará trabajadores a los apoderados;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Presentación de la persona con auxilio de la fuerza pública; y
 
 III. Arresto hasta por treinta y seis horas.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 732.
 
 Las correcciones disciplinarias y medios de apremio se impondrán de plano, sin substanciación alguna, y deberán estar fundadas y motivadas. Podrán ser impugnadas en los términos señalados en esta Ley.
 
-### CAPITULO VI · De los términos procesales
+*Artículo reformado DOF 04-01-1980*
+
+### CAPITULO VI · De los Términos Procesales
+
+*Capítulo reubicado y denominación reformada DOF 04-01-1980*
 
 ##### Artículo 733.
 
 Los términos comenzarán a correr el día siguiente al en que surta efecto la notificación y se contará en ellos el día del vencimiento.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 734.
 
 En los términos no se computarán los días en que en la Junta deje de actuar conforme al calendario de labores aprobado por el Pleno, así como cuando por caso fortuito o de fuerza mayor no puedan llevarse a cabo actuaciones. Los avisos de suspensión de labores se publicarán en el boletín laboral o en los estrados, en su caso.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 735.
 
 Cuando la realización o práctica de algún acto procesal o el ejercicio de un derecho, no tengan fijado un término, éste será el de tres días hábiles.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 736.
 
 Para computar los términos, los meses se regularán por el de treinta días naturales; y los días hábiles se consideraran de veinticuatro horas naturales, contados de las veinticuatro a las veinticuatro horas, salvo disposición contraria en esta Ley.
+
+*Artículo reformado DOF 04-01-1980. Fe de erratas DOF 30-01-1980*
 
 ##### Artículo 737.
 
 Cuando el domicilio de la persona demandada se encuentre fuera del lugar de residencia de la Junta, ésta ampliará el término de que se trate, en función de la distancia, a razón de un día por cada 200 kilómetros, de 3 a 12 días, tomando en cuenta los medios de transporte y las vías generales de comunicación existentes.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 738.
 
 Transcurridos los términos fijados a las partes, se tendrá por perdido su derecho que debieron ejercitar, sin necesidad de acusar rebeldía.
 
-### CAPITULO VII · De las notificaciones
+*Artículo reformado DOF 04-01-1980*
+
+### CAPITULO VII · De las Notificaciones
+
+*Capítulo reubicado y denominación reformada DOF 04-01-1980*
 
 ##### Artículo 739.
 
@@ -7522,17 +8822,29 @@ Las partes, en su primera comparecencia o escrito, deberán señalar domicilio d
 
 Asimismo, deberán señalar el domicilio del demandado para recibir notificaciones, o el último lugar donde el trabajador prestó sus servicios. La notificación es personal y se diligenciará conforme a lo dispuesto en el artículo 743.
 
+*Párrafo reformado DOF 30-11-2012*
+
 La persona que comparezca como tercero interesado en un juicio, deberá señalar domicilio dentro del lugar de residencia de la Junta para recibir notificaciones; si no lo hace, se estará a lo dispuesto en la parte final del primer párrafo de este artículo.
 
+*Párrafo adicionado DOF 30-11-2012*
+
 En caso de que las partes señalen terceros interesados, deberán indicar en su promoción inicial el domicilio de éstos para recibir notificaciones.
+
+*Párrafo adicionado DOF 30-11-2012*
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 740.
 
 Cuando en la demanda no se haya expresado el nombre del patrón o de la empresa en que trabaja o trabajó el trabajador, la notificación personal de la misma se sujetará al procedimiento establecido en el artículo 743 de esta Ley en lo conducente, debiendo cerciorarse el actuario de que el lugar donde efectúa la notificación es precisamente el indicado por el demandante, y la notificación se entenderá hecha al patrón, aunque al hacerla se ignore el nombre del mismo.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 741.
 
 Las notificaciones personales se harán en el domicilio señalado en autos, hasta en tanto no se designe nueva casa o local para ello; y las que se realicen en estas condiciones, surtirán plenamente sus efectos.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 742.
 
@@ -7560,7 +8872,11 @@ X. El auto por el que se ordena la reposición de actuaciones;
 
 XI. En los casos a que se refieren los artículos 772 y 774 de esta Ley; y
 
+*Fracción reformada DOF 30-11-2012*
+
 XII. En casos urgentes o cuando concurran circunstancias especiales a juicio de la Junta.
+
+*Fe de erratas al artículo DOF 30-04-1970. Reformado DOF 23-12-1974, 04-01-1980*
 
 ##### Artículo 743.
 
@@ -7570,9 +8886,13 @@ I. El actuario se cerciorará de que la persona que deba ser notificada, habita,
 
 II. Si está presente el interesado o su representante, el actuario notificará la resolución, entregando copia de la misma; si se trata de persona moral, el actuario se asegurará de que la persona con quien entiende la diligencia es representante o apoderado legal de aquélla;
 
+*Fracción reformada DOF 30-11-2012*
+
 III. Si no está presente el interesado o su representante, se le dejará citatorio para que lo espere al día siguiente, a una hora determinada;
 
 IV. Si no obstante el citatorio, no está presente el interesado o su representante, la notificación se hará a cualquier persona mayor de edad que se encuentre en la casa o local; y si estuvieren estos cerrados, se fijará una copia de la resolución en la puerta de entrada;
+
+*Fracción reformada DOF 30-11-2012*
 
 V. Si en la casa o local designado para hacer la notificación se negare el interesado, su representante o la persona con quien se entienda la diligencia, a recibir la notificación, ésta se hará por instructivo que se fijará en la puerta de la misma, adjuntando una copia de la resolución; y
 
@@ -7580,15 +8900,21 @@ VI. En el caso del artículo 712 de esta Ley, el actuario se cerciorará de que 
 
 En todos los casos a que se refiere este artículo, el actuario asentará razón en autos, señalando con claridad los elementos de convicción en que se apoye.
 
+*Fe de erratas al artículo DOF 05-06-1970. Reformado DOF 04-01-1980*
+
 ##### Artículo 744.
 
 Las ulteriores notificaciones personales se harán al interesado o persona autorizada para ello, el mismo día en que se dicte la resolución si concurre al local de la Junta o en el domicilio que hubiese designado y si no se hallare presente, se le dejará una copia de la resolución autorizada por el Actuario; si la casa o local está cerrado, se fijará la copia en la puerta de entrada o en el lugar de trabajo.
 
 El actuario asentará razón en autos.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 745.
 
 El Pleno de las Juntas Federal y Locales de Conciliación y Arbitraje, podrá acordar la publicación de un boletín que contenga la lista de las notificaciones que no sean personales.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 746.
 
@@ -7598,6 +8924,8 @@ El Secretario hará constar en autos la fecha de la publicación respectiva y fi
 
 Las listas de notificaciones deberán ser autorizadas y selladas en su fecha por el Secretario. La publicación de las notificaciones contendrá la fecha, el número del expediente y los nombres de las partes en los juicios de que se trate.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 747.
 
 Las notificaciones surtirán sus efectos de la manera siguiente:
@@ -7606,17 +8934,25 @@ I. Las personales: el día y hora en que se practiquen, contándose de momento a
 
 II. Las demás; al día siguiente al de su publicación en el Boletín o en los estrados de la Junta.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 748.
 
 Las notificaciones deberán hacerse en horas hábiles con una anticipación de veinticuatro horas, por lo menos, del día y hora en que deba efectuarse la diligencia, salvo disposición en contrario de la Ley.
+
+*Artículo reformado DOF 02-07-1976, 04-01-1980*
 
 ##### Artículo 749.
 
 Las notificaciones hechas al apoderado o a las personas expresamente autorizadas legalmente por las partes, acreditadas ante la Junta, surtirán los mismos efectos que si se hubiesen hecho a ellas.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 750.
 
 Las notificaciones, citaciones o emplazamientos deberán realizarse dentro de los cinco días siguientes a su fecha, salvo cuando expresamente en la resolución o en la Ley exista disposición en contrario.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 751.
 
@@ -7632,21 +8968,31 @@ IV. El nombre y domicilio de la persona o personas que deban ser notificadas; y
 
 V. Copia autorizada de la resolución que se anexará a la cédula.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 752.
 
 Son nulas las notificaciones que no se practiquen de conformidad a lo dispuesto en este Capítulo.
 
-### CAPITULO VIII · De los exhortos y despachos
+*Artículo reformado DOF 04-01-1980*
+
+### CAPITULO VIII · De los Exhortos y Despachos
+
+*Capítulo reubicado y denominación reformada DOF 04-01-1980*
 
 ##### Artículo 753.
 
 Las diligencias que no puedan practicarse en el lugar de residencia de la Junta que conozca del juicio deberán encomendarse por medio de exhorto al Presidente de la Junta de Conciliación y Arbitraje o al de las Especiales del domicilio en que deban practicarse; y, de no haberlas en dicho lugar, a la autoridad más próxima al lugar que corresponda dentro de la República Mexicana.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 754.
 
 Las diligencias que se practiquen en el extranjero, únicamente se autorizarán cuando se demuestre que son indispensables para probar los hechos fundamentales de la demanda o de su contestación.
 
 En el caso a que se refiere el párrafo anterior, se librará el despacho correspondiente, tomando en cuenta lo dispuesto en los tratados o convenios internacionales.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 755.
 
@@ -7656,21 +9002,31 @@ I. Los despachos serán remitidos por vía diplomática, al lugar de residencia 
 
 II. No será necesaria la legalización de firmas, si las leyes o prácticas del país a donde se libre el despacho, no establecen ese requisito.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 756.
 
 En los exhortos que deban ser diligenciados dentro de la República Mexicana, no se requiere la legalización de firmas de la autoridad que los expida.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 757.
 
 La Junta deberá expedir los exhortos y despachos, al día siguiente de aquél en que surta sus efectos la resolución que los ordene.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 758.
 
 Los exhortos y despachos que reciban las autoridades a que se refiere el artículo 753, se proveerán dentro de las setenta y dos horas siguientes a su recepción y se deberán diligenciar dentro de los cinco días siguientes, salvo en los casos en que por la naturaleza de lo que haya de practicarse, exija necesariamente mayor tiempo; en este caso, la autoridad requerida fijará el que crea conveniente sin que el término fijado pueda exceder de quince días.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 759.
 
 Cuando se demore el cumplimiento de un exhorto, se recordará de oficio o a instancia de parte, a la autoridad exhortada; si a pesar del recordatorio continúa la demora, la autoridad exhortante lo pondrá en conocimiento del superior inmediato del exhortado.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 760.
 
@@ -7678,11 +9034,17 @@ La Junta a solicitud de parte, podrá entregar el exhorto y sus anexos al oferen
 
 El oferente devolverá el exhorto diligenciado bajo su más estricta responsabilidad a la exhortante.
 
-### CAPITULO IX · De los incidentes
+*Artículo reformado DOF 04-01-1980*
+
+### CAPITULO IX · De los Incidentes
+
+*Capítulo reubicado y denominación reformada DOF 04-01-1980*
 
 ##### Artículo 761.
 
 Los incidentes se tramitarán dentro del expediente principal donde se promueve, salvo los casos previstos en esta Ley.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 762.
 
@@ -7698,6 +9060,8 @@ IV. Acumulación; y
 
 V. Excusas.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 763.
 
 Cuando en una audiencia o diligencia se promueva incidente de falta de personalidad, se sustanciará de inmediato oyendo a las partes y se resolverá, continuándose el procedimiento.
@@ -7706,15 +9070,23 @@ En los demás casos a que se refiere el artículo anterior, se señalará día y
 
 Los incidentes que no tengan señalada una tramitación especial en esta Ley se resolverán de plano oyendo a las partes.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 764.
 
 Si en autos consta que una persona se manifiesta sabedora de una resolución, la notificación mal hecha u omitida surtirá sus efectos como si estuviese hecha conforme a la Ley. En este caso, el incidente de nulidad que se promueva será desechado de plano.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 765.
 
 (Se deroga).
 
-### CAPITULO X · De la acumulación
+*Artículo reformado DOF 04-01-1980. Derogado DOF 30-11-2012*
+
+### CAPITULO X · De la Acumulación
+
+*Capítulo reubicado y denominación reformada DOF 04-01-1980*
 
 ##### Artículo 766.
 
@@ -7728,13 +9100,19 @@ III. Cuando se trate de juicios promovidos por diversos actores contra el mismo 
 
 IV. En todos aquellos casos, que por su propia naturaleza las prestaciones reclamadas o los hechos que las motivaron, puedan originar resoluciones contradictorias.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 767.
 
 Si se declara procedente la acumulación, el juicio o juicios más recientes, se acumularán al más antiguo.
 
+*Fe de erratas al artículo DOF 05-06-1970. Reformado DOF 04-01-1980*
+
 ##### Artículo 768.
 
 Las demandas presentadas en relación con las obligaciones patronales en materia de capacitación y adiestramiento de los trabajadores y seguridad e higiene en los centros de trabajo, no serán acumulables a ninguna otra acción. Si cualquiera de estas acciones se ejercita conjuntamente con otras derivadas de la misma relación de trabajo, se estará a lo dispuesto en el artículo 699.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 769.
 
@@ -7744,13 +9122,19 @@ I. En el caso de la fracción I, del artículo 766, no surtirá efecto alguno lo
 
 II. En los casos previstos por las fracciones II, III y IV del artículo 766, los conflictos se resolverán por la misma Junta en una sola resolución.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 770.
 
 Para la tramitación y resolución de la acumulación, se observarán las normas contenidas en los artículos 761 al 765.
 
 Será competente para conocer de la acumulación la Junta de Conciliación y Arbitraje que hubiere prevenido; observándose en lo conducente, lo dispuesto en el Capítulo III de este Título.
 
-### CAPITULO XI · De la continuación del proceso y de la caducidad
+*Artículo reformado DOF 02-07-1976, 04-01-1980*
+
+### CAPITULO XI · De la Continuación del Proceso y de la Caducidad
+
+*Capítulo adicionado DOF 04-01-1980*
 
 ##### Artículo 771.
 
@@ -7758,11 +9142,17 @@ Los Presidentes de las Juntas y los Auxiliares cuidarán, bajo su más estricta 
 
 En caso de no cumplir lo anterior, se harán acreedores a las sanciones que establezcan las Leyes de responsabilidades administrativas de los servidores públicos.
 
+*Párrafo adicionado DOF 30-11-2012*
+
+*Artículo reformado DOF 02-07-1976, 04-01-1980*
+
 ##### Artículo 772.
 
 Cuando, para continuar el trámite del juicio en los términos del artículo que antecede, sea necesaria promoción del trabajador y éste no la haya efectuado dentro de un lapso de cuarenta y cinco días naturales, el Presidente de la Junta deberá ordenar que se le requiera personalmente para que la presente, apercibiéndolo de que, de no hacerlo, operará la caducidad a que se refiere el artículo siguiente.
 
 Si el trabajador está patrocinado por un Procurador del Trabajo, la Junta notificará el acuerdo de que se trata al trabajador y a la Procuraduría de la Defensa del Trabajo, para los efectos correspondientes. Si no estuviera patrocinado por la Procuraduría, se le hará saber a ésta el acuerdo, para el efecto de que intervenga ante el trabajador y le precise las consecuencias legales de la falta de promoción, así como para que le brinde asesoría legal en caso de que el trabajador se la requiera.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 773.
 
@@ -7770,13 +9160,19 @@ La Junta, a petición de parte, tendrá por desistida de la acción intentada a 
 
 Para los efectos del párrafo anterior, la Junta citará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia del desistimiento, dictará resolución.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 774.
 
 En caso de muerte del trabajador, mientras tanto comparecen a juicio sus beneficiarios, la Junta hará la solicitud al Procurador de la Defensa del Trabajo, en los términos y para los efectos a que se refiere el artículo 772 de esta Ley.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 774 Bis.
 
 En cualquier estado del procedimiento, las partes podrán, mediante la conciliación, celebrar un convenio que ponga fin al juicio; asimismo, el demandado podrá allanarse en todo o en parte a lo reclamado. En el primer supuesto, se dará por terminado el juicio; en el segundo, se continuará el procedimiento por lo pendiente.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 775.
 
@@ -7784,9 +9180,15 @@ El Procurador Auxiliar tendrá las facultades y responsabilidades de un mandatar
 
 Reunidos los requisitos a que se refieren los artículos que anteceden, cesará la representación del procurador auxiliar en el juicio en que intervino.
 
-### CAPITULO XII · De las pruebas
+*Artículo reformado DOF 04-01-1980*
+
+### CAPITULO XII · De las Pruebas
+
+*Capítulo adicionado DOF 04-01-1980*
 
 #### Sección Primera · Reglas Generales
+
+*Sección adicionada DOF 04-01-1980*
 
 ##### Artículo 776.
 
@@ -7808,33 +9210,51 @@ VII. Instrumental de actuaciones; y
 
 VIII. Fotografías, cintas cinematográficas, registros dactiloscópicos, grabaciones de audio y de video, o las distintas tecnologías de la información y la comunicación, tales como sistemas informáticos, medios electrónicos ópticos, fax, correo electrónico, documento digital, firma electrónica o contraseña y, en general, los medios aportados por los descubrimientos de la ciencia.
 
+*Fracción reformada DOF 30-11-2012*
+
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 777.
 
 Las pruebas deben referirse a los hechos controvertidos cuando no hayan sido confesados por las partes.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 778.
 
 Las pruebas deberán ofrecerse en la misma audiencia, salvo que se refieran a hechos supervenientes o que tengan por fin probar las tachas que se hagan valer en contra de los testigos.
 
+*Artículo reformado DOF 04-01-1980. Fe de erratas DOF 30-01-1980*
+
 ##### Artículo 779.
 
 La Junta desechará aquellas pruebas que no tengan relación con la litis planteada o resulten inútiles o intrascendentes, expresando el motivo de ello.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 780.
 
 Las pruebas se ofrecerán acompañadas de todos los elementos necesarios para su desahogo.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 781.
 
 Las partes podrán interrogar libremente a las personas que intervengan en el desahogo de las pruebas sobre los hechos controvertidos, hacerse mutuamente las preguntas que juzguen convenientes, y examinar los documentos y objetos que se exhiban.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 782.
 
 La Junta podrá ordenar con citación de las partes, el examen de documentos, objetos y lugares, su reconocimiento por actuarios o peritos y, en general, practicar las diligencias que juzgue conveniente para el esclarecimiento de la verdad y requerirá a las partes para que exhiban los documentos y objetos de que se trate.
 
+*Artículo reformado DOF 24-04-1972, 04-01-1980*
+
 ##### Artículo 783.
 
 Toda autoridad o persona ajena al juicio que tenga documentos en su poder que puedan contribuir al esclarecimiento de la verdad deberá aportarlos, a más tardar en la audiencia de ofrecimiento y admisión de pruebas o, hasta antes del cierre de la instrucción, cuando le sean requeridos por la Junta de Conciliación y Arbitraje.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 784.
 
@@ -7850,13 +9270,21 @@ IV. Causa de rescisión de la relación de trabajo;
 
 V. Terminación de la relación o contrato de trabajo para obra o tiempo determinado, en los términos de los artículos 37, fracción I, y 53, fracción III, de esta Ley;
 
+*Fracción reformada DOF 30-11-2012*
+
 VI. Constancia de haber dado aviso por escrito al trabajador o a la Junta de Conciliación y Arbitraje de la fecha y la causa de su despido;
+
+*Fracción reformada DOF 30-11-2012*
 
 VII. El contrato de trabajo;
 
 VIII. Jornada de trabajo ordinaria y extraordinaria, cuando ésta no exceda de nueve horas semanales;
 
+*Fracción reformada DOF 30-11-2012*
+
 IX. Pagos de días de descanso y obligatorios, así como del aguinaldo;
+
+*Fracción reformada DOF 30-11-2012*
 
 X. Disfrute y pago de las vacaciones;
 
@@ -7868,7 +9296,13 @@ XIII. Pago de la participación de los trabajadores en las utilidades de las emp
 
 XIV. Incorporación y aportaciones al Instituto Mexicano del Seguro Social; al Fondo Nacional de la Vivienda y al Sistema de Ahorro para el Retiro.
 
+*Fracción reformada DOF 30-11-2012*
+
 La pérdida o destrucción de los documentos señalados en este artículo, por caso fortuito o fuerza mayor, no releva al patrón de probar su dicho por otros medios.
+
+*Párrafo adicionado DOF 30-11-2012*
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 785.
 
@@ -7876,7 +9310,11 @@ Si alguna persona está imposibilitada por enfermedad u otra causa a concurrir a
 
 Los certificados médicos deberán contener el nombre y número de cédula profesional de quien los expida, la fecha y el estado patológico que impide la comparecencia del citado. Los certificados médicos expedidos por instituciones públicas de seguridad social no requieren ser ratificados.
 
+*Artículo reformado DOF 04-01-1980. Fe de erratas DOF 30-01-1980. Reformado DOF 30-11-2012*
+
 #### Sección Segunda · De la Confesional
+
+*Sección adicionada DOF 04-01-1980*
 
 ##### Artículo 786.
 
@@ -7886,17 +9324,25 @@ Tratándose de personas morales, la confesional puede desahogarse por conducto d
 
 Los sindicatos u organizaciones de trabajadores o patrones absolverán posiciones por conducto de su secretario general o integrante de la representación estatutariamente autorizada o por apoderado con facultades expresas.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 787.
 
 Las partes podrán también solicitar que se cite a absolver posiciones personalmente a los directores, administradores, gerentes y, en general, a las personas que ejerzan funciones de dirección y administración, en la empresa o establecimiento, así como a los miembros de la directiva de los sindicatos, cuando los hechos que dieron origen al conflicto les sean propios y se les hayan atribuido en la demanda o contestación, o bien que por razones de sus funciones les deban ser conocidos.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 788.
 
 La Junta ordenará se cite a los absolventes personalmente o por conducto de sus apoderados, apercibiéndolos de que si no concurren el día y hora señalados, se les tendrá por confesos de las posiciones que se les articulen.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 789.
 
 Si la persona citada para absolver posiciones, no concurre en la fecha y hora señalada, se hará efectivo el apercibimiento a que se refiere el artículo anterior y se le declarará confesa de las posiciones que se hubieren articulado y calificado de legales.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 790.
 
@@ -7906,7 +9352,11 @@ I. Las posiciones podrán formularse en forma oral o por escrito, que exhiba la 
 
 II. Las posiciones se formularán libremente, pero deberán concretarse a los hechos controvertidos; no deberán ser insidiosas o inútiles. Son insidiosas las posiciones que tiendan a ofuscar la inteligencia del que ha de responder, para obtener una confesión contraria a la verdad; son inútiles aquellas que versan sobre hechos que hayan sido previamente confesados o que no están en contradicción con alguna prueba o hecho fehaciente que conste en autos o sobre los que no exista controversia;
 
+*Fe de erratas a la fracción DOF 30-01-1980*
+
 III. El absolvente deberá identificarse con cualquier documento oficial y, bajo protesta de decir verdad, responder por sí mismo sin asistencia. No podrá valerse de borrador de respuestas, pero sí se le permitirá que consulte notas o apuntes si la Junta, después de conocerlos, resuelve que son necesarios para auxiliar su memoria;
+
+*Fracción reformada DOF 30-11-2012*
 
 IV. Cuando las posiciones se formulen oralmente, se harán constar textualmente en el acta respectiva; cuando sean formuladas por escrito, éste se mandará agregar a los autos y deberá ser firmado por el articulante y el absolvente;
 
@@ -7916,15 +9366,21 @@ VI. El absolvente contestará las posiciones afirmando o negando; pudiendo agreg
 
 VII. Si el absolvente se niega a responder o sus respuestas son evasivas, la Junta de oficio o a instancia de parte, lo apercibirá en el acto de tenerlo por confeso si persiste en ello.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 791.
 
 Si la persona que deba absolver posiciones tiene su residencia fuera del lugar donde se encuentre la Junta, ésta librará exhorto, acompañando, en sobre cerrado y sellado, el pliego de posiciones previamente calificado; del que deberá sacarse una copia que se guardará en el secreto de la Junta.
 
 La Junta exhortada recibirá la confesional en los términos en que se lo solicite la Junta exhortante.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 792.
 
 Se tendrán por confesión expresa y espontánea, las afirmaciones contenidas en las posiciones que formule el articulante.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 793.
 
@@ -7932,11 +9388,17 @@ Cuando la persona a quien se señale para absolver posiciones sobre hechos propi
 
 Si la persona citada no concurre el día y hora señalados, la Junta lo hará presentar mediante el uso de la fuerza pública.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 794.
 
 Se tendrán por confesión expresa y espontánea de las partes, sin necesidad de ser ofrecida como prueba, las manifestaciones contenidas en las constancias y las actuaciones del juicio.
 
-#### Sección Tercera · De las Documentales
+*Artículo reformado DOF 04-01-1980*
+
+#### Sección Tercera · De las documentales
+
+*Sección adicionada DOF 04-01-1980*
 
 ##### Artículo 795.
 
@@ -7944,21 +9406,31 @@ Son documentos públicos aquellos cuya formulación está encomendada por la Ley
 
 Los documentos públicos expedidos por las autoridades de la Federación, de los Estados, del Distrito Federal o de los municipios, harán fe en el juicio sin necesidad de legalización.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 796.
 
 Son documentos privados los que no reúnen las condiciones previstas por el artículo anterior.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 797.
 
 Los originales de los documentos privados se presentarán por la parte oferente que los tenga en su poder; si éstos se objetan en cuanto a contenido y firma se dejarán en autos hasta su perfeccionamiento; en caso de no ser objetados, la oferente podrá solicitar la devolución del original, previa copia certificada en autos.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 798.
 
 Si el documento privado consiste en copia simple o fotostática se podrá solicitar, en caso de ser objetado, la compulsa o cotejo con el original; para este efecto, la parte oferente deberá precisar el lugar donde el documento original se encuentre.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 799.
 
 Si el documento original sobre el que deba practicarse el cotejo o compulsa se encuentra en poder de un tercero, éste estará obligado a exhibirlo.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 800.
 
@@ -7966,9 +9438,13 @@ Cuando un documento que provenga de tercero ajeno al juicio, resulta impugnado, 
 
 La contraparte podrá formular las preguntas en relación con los hechos contenidos en el documento.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 801.
 
 Los interesados presentarán los originales de los documentos privados y, cuando formen parte de un libro, expediente o legajo, exhibirán copia para que se compulse la parte que señalen, indicando el lugar en donde éstos se encuentren.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 802.
 
@@ -7976,11 +9452,17 @@ Se reputa autor de un documento privado al que lo suscribe.
 
 Se entiende por suscripción de un escrito la colocación al pie o al margen del mismo de la firma autógrafa de su autor o de su huella digital, como expresión de la voluntad de hacerlo suyo.
 
+*Párrafo reformado DOF 30-11-2012*
+
 La suscripción hace plena fe de la formulación del documento por cuenta del suscriptor cuando sea ratificado en su contenido y firma o huella digital; excepto en los casos en que el contenido no se repute proveniente del autor, circunstancia que deberá justificarse con prueba idónea y del señalado en el artículo 33 de esta Ley.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 803.
 
 Cada parte exhibirá los documentos u objetos que ofrezca como prueba para que obren en autos. Si se trata de informes, o copias, que deba expedir alguna autoridad, la Junta deberá solicitarlos directamente.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 804.
 
@@ -7994,17 +9476,27 @@ III. Controles de asistencia, cuando se lleven en el centro de trabajo;
 
 IV. Comprobantes de pago de participación de utilidades, de vacaciones y de aguinaldos, así como las primas a que se refiere esta Ley, y pagos, aportaciones y cuotas de seguridad social; y
 
+*Fracción reformada DOF 30-11-2012*
+
 V. Los demás que señalen las leyes.
 
 Los documentos señalados en la fracción I deberán conservarse mientras dure la relación laboral y hasta un año después; los señalados en las fracciones II, III y IV, durante el último año y un año después de que se extinga la relación laboral; y los mencionados en la fracción V, conforme lo señalen las Leyes que los rijan.
+
+*Párrafo reformado DOF 30-11-2012*
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 805.
 
 El incumplimiento a lo dispuesto por el artículo anterior, establecerá la presunción de ser ciertos los hechos que el actor exprese en su demanda, en relación con tales documentos, salvo la prueba en contrario.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 806.
 
 Siempre que uno de los litigantes pida copia o testimonio de un documento, pieza o expediente que obre en las oficinas públicas, la parte contraria tendrá derecho de que, a su costa, se adicione con lo que crea conducente del mismo documento, pieza o expediente.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 807.
 
@@ -8014,21 +9506,31 @@ Los documentos existentes en lugar distinto del de la residencia de la Junta, qu
 
 Para que proceda la compulsa o cotejo, deberá exhibirse en la audiencia de ofrecimiento de pruebas, copia del documento que por este medio deba ser perfeccionado.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 808.
 
 Para que hagan fe en la República, los documentos procedentes del extranjero deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares, en los términos que establezcan las Leyes relativas o los tratados internacionales.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 809.
 
 Los documentos que se presenten en idioma extranjero deberán acompañarse de su traducción; la Junta de oficio nombrará inmediatamente traductor oficial, el cual presentará y ratificará, bajo protesta de decir verdad, la traducción que haga dentro del término de cinco días, que podrá ser ampliado por la Junta, cuando a su juicio se justifique.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 810.
 
 Las copias hacen presumir la existencia de los originales, conforme a las reglas procedentes; pero si se pone en duda su exactitud, deberá ordenarse su cotejo con los originales de que se tomaron, siempre y cuando así se haya ofrecido.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 811.
 
 Si se objeta la autenticidad de algún documento en cuanto a contenido, firma o huella digital; las partes podrán ofrecer pruebas con respecto a las objeciones, las que se recibirán, si fueren procedentes, en la audiencia de desahogo de pruebas a que se refiere el artículo 884 de esta Ley.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 812.
 
@@ -8036,9 +9538,13 @@ Cuando los documentos públicos contengan declaraciones o manifestaciones hechas
 
 Las declaraciones o manifestaciones de que se trate prueban contra quienes las hicieron o asistieron al acto en que fueron hechas, y se manifestaron conformes con ellas.
 
+*Artículo reformado DOF 04-01-1980*
+
 #### Sección · Cuarta
 
 De la Testimonial
+
+*Sección adicionada DOF 04-01-1980*
 
 ##### Artículo 813.
 
@@ -8046,15 +9552,27 @@ La parte que ofrezca prueba testimonial deberá cumplir con los requisitos sigui
 
 I. Los testigos deberán ofrecerse en relación con los hechos controvertidos que se pretendan probar con su testimonio, hasta un máximo de cinco testigos para cada hecho, en el entendido de que para su desahogo se estará a lo dispuesto en la fracción X del artículo 815 de esta Ley;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Indicará los nombres de los testigos; cuando exista impedimento para presentarlos directamente, podrá solicitar a la Junta que los cite, señalando la causa o los motivos justificados que se lo impidan, en cuyo caso deberá proporcionar sus domicilios y, de resultar éstos incorrectos, quedará a cargo del oferente su presentación;
+
+*Fracción reformada DOF 30-11-2012*
 
 III. Si el testigo radica fuera del lugar de residencia de la Junta, el oferente deberá al ofrecer la prueba, acompañar interrogatorio por escrito, al tenor del cual deberá ser examinado el testigo; de no hacerlo, se declarará desierta. Asimismo, exhibirá copias del interrogatorio, las que se pondrán a disposición de las demás partes, para que dentro del término de tres días presenten su pliego de repreguntas en sobre cerrado; y
 
+*Fe de erratas a la fracción DOF 30-01-1980*
+
 IV. Cuando el testigo sea servidor público de mando superior, a juicio de la Junta, podrá rendir su declaración por medio de oficio, observándose lo dispuesto en este artículo en lo que sea aplicable.
+
+*Fracción reformada DOF 30-11-2012*
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 814.
 
 La Junta, en el caso de la fracción II del artículo anterior, ordenará que se cite al testigo para que rinda su declaración en la hora y día que al efecto se señale, con el apercibimiento de ser presentado por medio de la fuerza pública.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 815.
 
@@ -8064,31 +9582,53 @@ I. El oferente de la prueba presentará directamente a sus testigos, salvo lo di
 
 II. El testigo deberá identificarse ante la Junta en los términos de lo dispuesto en la fracción IV del artículo 884 de esta Ley;
 
+*Fracción reformada DOF 30-11-2012*
+
 III. Los testigos serán examinados por separado, en el orden en que fueran ofrecidos. Los interrogatorios se formularán oralmente, salvo lo dispuesto en las fracciones III y IV del artículo 813 de esta Ley;
 
 IV. Después de tomar al testigo la protesta de conducirse con verdad y de advertirle de las penas en que incurren los testigos falsos, se harán constar el nombre, edad, estado civil, domicilio, ocupación y lugar en que se trabaja y a continuación se procederá a tomar su declaración;
+
+*Fracción reformada DOF 30-11-2012*
 
 V. Las partes formularán las preguntas en forma verbal y directamente. La Junta admitirá aquellas que tengan relación directa con el asunto de que se trata y que no se hayan hecho con anterioridad al mismo testigo, o lleven implícita la contestación;
 
 VI. Primero interrogará al oferente de la prueba y posteriormente a las demás partes. La Junta, cuando lo estime pertinente, examinará directamente al testigo;
 
+*Fracción reformada DOF 30-11-2012*
+
 VII. Las preguntas y las respuestas se harán constar en autos, escribiéndose textualmente unas y otras;
+
+*Fracción reformada DOF 30-11-2012*
 
 VIII. Los testigos están obligados a dar la razón de su dicho, y la Junta deberá solicitarla, respecto de las respuestas que no la lleven ya en sí;
 
+*Fracción reformada DOF 30-11-2012*
+
 IX. El testigo, enterado de su declaración, firmará al margen de las hojas que la contengan y así se hará constar por el secretario; si no sabe o no puede leer o firmar la declaración, le será leída por el secretario e imprimirá su huella digital y, una vez ratificada, no podrá variarse en la sustancia ni en la redacción;
+
+*Fracción reformada DOF 30-11-2012*
 
 X. Sólo se recibirá la declaración de tres testigos por cada hecho que se pretenda probar; en el caso que se presentaran más de tres testigos, el oferente de la prueba designará entre ellos quiénes la desahogarán; y
 
+*Fracción adicionada DOF 30-11-2012*
+
 XI. El desahogo de esta prueba será indivisible, salvo que alguno de los testigos radique fuera del lugar de residencia de la Junta y que la prueba tenga que desahogarse por exhorto, en cuyo caso la Junta adoptará las medidas pertinentes para que los otros testigos no tengan conocimiento previo de las declaraciones desahogadas.
+
+*Fracción adicionada DOF 30-11-2012*
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 816.
 
 Si el testigo no habla el idioma español, rendirá su declaración por medio de intérprete, que será nombrado por la Junta, el que protestará su fiel desempeño. Cuando el testigo lo pidiere, además de asentarse su declaración en español, deberá escribirse en su propio idioma, por él o por el intérprete.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 817.
 
 La Junta, al girar el exhorto para desahogar la prueba testimonial, acompañará los interrogatorios con las preguntas y las repreguntas calificadas, a cuyo tenor deberá desahogarse la prueba, sin que las partes puedan ampliarlos, e indicará a la autoridad exhortada los nombres de las personas que tienen facultad para intervenir en la diligencia.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 818.
 
@@ -8096,9 +9636,13 @@ Las objeciones o tachas a los testigos se formularán oralmente al concluir el d
 
 Cuando se objetare de falso a un testigo, la Junta recibirá las pruebas en la audiencia de desahogo de pruebas a que se refiere el artículo 884 de esta Ley.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 819.
 
 Al testigo que dejare de concurrir a la audiencia, no obstante haber sido citado legalmente, se le hará efectivo el apercibimiento decretado, y la Junta dictará las medidas necesarias para que comparezca a rendir su declaración, el día y hora señalados.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 820.
 
@@ -8110,23 +9654,35 @@ II. La declaración no se encuentre en oposición con otras pruebas que obren en
 
 III. Concurran en el testigo circunstancias que sean garantía de veracidad.
 
+*Artículo reformado DOF 04-01-1980*
+
 #### Sección Quinta · De la Pericial
+
+*Sección adicionada DOF 04-01-1980*
 
 ##### Artículo 821.
 
 La prueba pericial versará sobre cuestiones relativas a alguna ciencia, técnica, o arte.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 822.
 
 Los peritos deben tener conocimiento en la ciencia, técnica, o arte sobre el cual debe versar su dictamen; si la profesión o el arte estuvieren legalmente reglamentados, los peritos deberán acreditar estar autorizados conforme a la Ley.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 823.
 
 La prueba pericial deberá ofrecerse indicando la materia sobre la que deba versar, exhibiendo el cuestionario respectivo, con copia para cada una de las partes. La omisión del cuestionario dará lugar a que la Junta no admita la prueba.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 824.
 
 La Junta nombrará los peritos que correspondan al trabajador, cuando éste lo solicite.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 825.
 
@@ -8138,9 +9694,15 @@ II. Los peritos protestarán de desempeñar su cargo con arreglo a la Ley e inme
 
 III. El día señalado para que tenga verificativo la audiencia respectiva, el o los peritos que concurran a la misma rendirán su dictamen. Si alguno no concurriera a la audiencia, sin causa justificada a juicio de la Junta, se señalará nueva fecha para que lo rinda, dictando la Junta las medidas para que comparezca;
 
+*Fracción reformada DOF 30-11-2012*
+
 IV. Las partes y los miembros de la Junta podrán hacer a los peritos las preguntas que juzguen convenientes; y
 
+*Fracción reformada DOF 30-11-2012*
+
 V. En caso de existir discrepancia en los dictámenes, la Junta designará un perito tercero.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 826.
 
@@ -8148,19 +9710,29 @@ El perito tercero en discordia que designe la Junta debe excusarse dentro de las
 
 La Junta calificará de plano la excusa y, declarada procedente, se nombrará nuevo perito.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 826 Bis.
 
 Cuando el dictamen rendido por un perito sea notoriamente falso, tendencioso o inexacto, la Junta dará vista al Ministerio Público para que determine si existe la comisión de un delito.
 
+*Artículo adicionado DOF 30-11-2012*
+
 #### Sección Sexta · De la Inspección
+
+*Sección adicionada DOF 04-01-1980*
 
 ##### Artículo 827.
 
 La parte que ofrezca la inspección deberá precisar el objeto materia de la misma; el lugar donde debe practicarse; los períodos que abarcará y los objetos y documentos que deben ser examinados. Al ofrecerse la prueba, deberá hacerse en sentido afirmativo, fijando los hechos o cuestiones que se pretenden acreditar con la misma.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 828.
 
 Admitida la prueba de inspección por la Junta, señalará día, hora y lugar para su desahogo; si los documentos y objetos obran en poder de alguna de las partes, la Junta la apercibirá de que, en caso de no exhibirlos, se tendrán por ciertos presuntivamente los hechos que tratan de probarse, siempre que se trate de los documentos a que se refiere el artículo 804 de esta Ley. Si los documentos y objetos se encuentran en poder de personas ajenas a la controversia, se aplicarán los medios de apremio que procedan.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 829.
 
@@ -8174,45 +9746,69 @@ III. Las partes y sus apoderados pueden concurrir a la diligencia de inspección
 
 IV. De la diligencia se levantará acta circunstanciada, que firmarán los que en ella intervengan y la cual se agregará al expediente, previa razón en autos.
 
+*Artículo reformado DOF 04-01-1980*
+
 #### Sección Séptima · De la Presuncional
+
+*Sección adicionada DOF 04-01-1980*
 
 ##### Artículo 830.
 
 Presunción es la consecuencia que la Ley o la Junta deducen de un hecho conocido para averiguar la verdad de otro desconocido.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 831.
 
 Hay presunción legal cuando la Ley la establece expresamente; hay presunción humana cuando de un hecho debidamente probado se deduce otro que es consecuencia de aquél.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 832.
 
 El que tiene a su favor una presunción legal, sólo está obligado a probar el hecho en que la funda.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 833.
 
 Las presunciones legales y humanas, admiten prueba en contrario.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 834.
 
 Las partes al ofrecer la prueba presuncional, indicarán en qué consiste y lo que se acredita con ella.
 
+*Artículo reformado DOF 04-01-1980*
+
 #### Sección Octava · De la Instrumental
+
+*Sección adicionada DOF 04-01-1980*
 
 ##### Artículo 835.
 
 La instrumental es el conjunto de actuaciones que obren en el expediente, formado con motivo del juicio.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 836.
 
 La Junta estará obligada a tomar en cuenta las actuaciones que obren en el expediente del juicio.
 
+*Artículo reformado DOF 04-01-1980*
+
 #### Sección Novena · De los Elementos Aportados por los Avances de la Ciencia.
+
+*Sección adicionada DOF 30-11-2012*
 
 ##### Artículo 836-A.
 
 En el caso de que las partes ofrezcan como prueba, las señaladas en la fracción VIII del artículo 776, el oferente deberá proporcionar a la Junta los instrumentos, aparatos o elementos necesarios para que pueda apreciarse el contenido de los registros y reproducirse los sonidos e imágenes, por el tiempo indispensable para su desahogo.
 
 En caso de que el oferente justifique debidamente su impedimento para proporcionar dichos elementos, la Junta lo proveerá.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 836-B.
 
@@ -8252,6 +9848,8 @@ o) Número de identificación personal (NIP): la contraseña que se utiliza en l
 
 p) Sistema de información: conjunto de elementos tecnológicos para generar, enviar, recibir, almacenar o procesar información.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 836-C.
 
 La parte que ofrezca algún documento digital o cualquier medio electrónico, deberá cumplir con lo siguiente:
@@ -8259,6 +9857,8 @@ La parte que ofrezca algún documento digital o cualquier medio electrónico, de
 I. Presentar una impresión o copia del documento digital; y
 
 II. Acompañar los datos mínimos para la localización del documento digital, en el medio electrónico en que aquél se encuentre.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 836-D.
 
@@ -8280,7 +9880,11 @@ V. Las partes y los miembros de la Junta podrán hacer al o a los peritos design
 
 Para el desahogo de la prueba a que se refiere este artículo, la Junta en todo momento podrá asistirse de elementos humanos y tecnológicos necesarios para mejor proveer.
 
-### CAPITULO XIII · De las resoluciones laborales
+*Artículo adicionado DOF 30-11-2012*
+
+### CAPITULO XIII · De las Resoluciones Laborales
+
+*Capítulo adicionado DOF 04-01-1980*
 
 ##### Artículo 837.
 
@@ -8292,13 +9896,19 @@ II. Autos incidentales o resoluciones interlocutorias: cuando resuelvan dentro o
 
 III. Laudos: cuando decidan sobre el fondo del conflicto.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 838.
 
 La Junta dictará sus resoluciones en el acto en que concluya la diligencia respectiva o dentro de las cuarenta y ocho horas siguientes a aquellas en la que reciba promociones por escrito, salvo disposición en contrario de esta Ley.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 839.
 
 Las resoluciones de las Juntas deberán ser firmadas por los integrantes de ellas y por el secretario el día en que las voten, en los términos del artículo 620 de esta Ley.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 840.
 
@@ -8310,29 +9920,45 @@ II. Nombres y domicilios de las partes y de sus representantes;
 
 III. Extracto de la demanda y su contestación; réplica y contrarréplica y, en su caso, de la reconvención y contestación a la misma, que deberá contener con claridad y concisión las peticiones de las partes y los hechos controvertidos;
 
+*Fracción reformada DOF 30-11-2012*
+
 IV. Enumeración de las pruebas admitidas y desahogadas y su apreciación en conciencia, señalando los hechos que deban considerarse probados;
+
+*Fracción reformada DOF 30-11-2012*
 
 V. Extracto de los alegatos;
 
 VI. Las razones legales o de equidad, la jurisprudencia y doctrina que les sirva de fundamento; y
 
+*Fracción reformada DOF 30-11-2012*
+
 VII. Los puntos resolutivos.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 841.
 
 Los laudos se dictarán a verdad sabida y buena fe guardada, y apreciando los hechos en conciencia, sin necesidad de sujetarse a reglas o formulismos sobre estimación de las pruebas, pero las Juntas de Conciliación y Arbitraje están obligadas a estudiar pormenorizadamente las rendidas, haciendo la valoración de las mismas. Asimismo, expresarán los motivos y fundamentos legales en que se apoyan.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 842.
 
-Los laudos deben ser claros, precisos y congruentes con la demanda, contestación, \_y demás pretensiones deducidas en el juicio oportunamente.
+Los laudos deben ser claros, precisos y congruentes con la demanda, contestación, y demás pretensiones deducidas en el juicio oportunamente.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 843.
 
 En los laudos, cuando se trate de prestaciones económicas, se determinará el salario que sirva de base a la condena; cuantificándose el importe de la prestación se señalarán las medidas con arreglo a las cuales deberá cumplirse con la resolución. Sólo por excepción, podrá ordenarse que se abra incidente de liquidación.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 844.
 
 Cuando la condena sea de cantidad líquida, se establecerán en el propio laudo, sin necesidad de incidente, las bases con arreglo a las cuales deberá cumplimentarse.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 845.
 
@@ -8348,9 +9974,15 @@ a) Si después del requerimiento insisten en su negativa, quedarán excluidos de
 
 b) Si los suplentes no se presentan a la Junta dentro del término que se les señale, que no podrá ser mayor de tres días, o se niegan a votar el laudo, el Presidente de la Junta o de la Junta Especial dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe de Gobierno del Distrito Federal, para que designen las personas que los substituyan; en caso de empate, se entenderá que los ausentes sumarán su voto al del Presidente.
 
+*Inciso reformado DOF 09-04-2012*
+
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 846.
 
 Si votada una resolución uno o más de los representantes ante la Junta, se niegan a firmarla, serán requeridos en el mismo acto por el Secretario y, si insiste en su negativa previa certificación del mismo Secretario, la resolución producirá sus efectos legales, sin perjuicio de las responsabilidades en que hayan incurrido los omisos.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 847.
 
@@ -8358,17 +9990,25 @@ Una vez notificado el laudo, cualquiera de las partes, dentro del término de tr
 
 La interposición de la aclaración, no interrumpe el término para la impugnación del laudo.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 848.
 
 Las resoluciones de las Juntas no admiten ningún recurso. Las Juntas no pueden revocar sus resoluciones.
 
 Las partes pueden exigir la responsabilidad en que incurran los miembros de la Junta.
 
-### CAPITULO XIV · De la revisión de los actos de ejecución
+*Artículo reformado DOF 04-01-1980*
+
+### CAPITULO XIV · De la Revisión de los Actos de Ejecución
+
+*Capítulo adicionado DOF 04-01-1980*
 
 ##### Artículo 849.
 
 Contra actos de los presidentes, actuarios o funcionarios, legalmente habilitados, en ejecución de los laudos, convenios, de las resoluciones que ponen fin a las tercerías y de los dictados en las providencias cautelares, procede la revisión.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 850.
 
@@ -8380,9 +10020,13 @@ II. El Presidente de la Junta o el de la Junta Especial correspondiente, cuando 
 
 III. La Junta de Conciliación y Arbitraje con la participación del Secretario General de Acuerdos, cuando se trate de actos del Presidente de ésta o cuando se trate de un conflicto que afecte dos o más ramas de la industria.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 851.
 
 La revisión deberá presentarse por escrito ante la autoridad competente, dentro de los tres días siguientes al en que se tenga conocimiento del acto que se impugne.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 852.
 
@@ -8396,9 +10040,13 @@ III. Se citará a una audiencia de pruebas y alegatos, dentro de los diez días 
 
 Declarada procedente la revisión, se modificará el acto que la originó en los términos que procedan y se aplicarán las sanciones disciplinarias a los responsables, conforme lo señalan los artículos 637 al 647 de esta Ley.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 853.
 
 Procede la reclamación contra las medidas de apremio que impongan los Presidentes de las Juntas Especiales y de las de Conciliación y Arbitraje, así como de los auxiliares de éstas.
+
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
 
 ##### Artículo 854.
 
@@ -8410,17 +10058,27 @@ II. Al admitirse la reclamación se solicitará al funcionario que haya dictado 
 
 III. La Junta citará a una audiencia, que deberá llevarse a cabo durante los diez días siguientes de aquél en que se admitió la reclamación, para recibir y admitir pruebas y dictar resolución.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 855.
 
 De resultar procedente la reclamación, se modificará en lo que procede la medida de apremio y se aplicará al funcionario responsable la sanción que previene el artículo 672 de esta Ley.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 856.
 
 Los Presidentes de las Juntas podrán imponer a la parte que promueva la revisión o la reclamación en forma notoriamente improcedente una multa de hasta 100 veces el salario mínimo general que rija en el Distrito Federal en el tiempo en que se presentaron.
 
+*Párrafo reformado DOF 30-11-2012*
+
 Se entenderá que es notoriamente improcedente cuando a juicio de su Presidente, según el caso, aparezca que se promueva con el propósito de demorar o entorpecer la administración de justicia.
 
-### CAPITULO XV · De las providencias cautelares
+*Artículo reformado DOF 04-01-1980*
+
+### CAPITULO XV · De las Providencias Cautelares
+
+*Capítulo adicionado DOF 04-01-1980*
 
 ##### Artículo 857.
 
@@ -8430,33 +10088,55 @@ I. Arraigo, cuando haya temor de que se ausente u oculte la persona contra quien
 
 II. Embargo precautorio, cuando sea necesario asegurar los bienes de una persona, empresa o establecimiento.
 
+*Fracción reformada DOF 30-11-2012*
+
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 858.
 
 Las providencias cautelares podrán ser solicitadas al presentar la demanda, o posteriormente, ya sea que se formulen por escrito o en comparecencia. En el primer caso, se tramitarán previamente al emplazamiento y en el segundo, por cuerda separada. En ningún caso, se pondrá la solicitud en conocimiento de la persona contra quien se pida la providencia.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 859.
 
 El arraigo se decretará de plano y su efecto consistirá en prevenir al demandado que no se ausente del lugar de su residencia, sin dejar representante legítimo, suficientemente instruido y expensado.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 860.
 
 La persona que quebrante el arraigo decretado, será responsable del delito de desobediencia a un mandato de autoridad. Para este efecto, el Presidente de la Junta hará la denuncia respectiva ante el Ministerio Público respectivo.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 861.
 
 Para decretar un embargo precautorio, se observarán las normas siguientes:
 
+*Párrafo reformado DOF 30-11-2012*
+
 I. El solicitante determinará el monto de lo demandado y rendirá las pruebas que juzgue conveniente para acreditar la necesidad de la medida;
 
 II. El Presidente de la Junta, tomando en consideración las circunstancias del caso y las pruebas rendidas, dentro de las veinticuatro horas siguientes a aquella en que se le solicite, podrá decretar el embargo precautorio si, a su juicio, es necesaria la providencia;
 
+*Fracción reformada DOF 30-11-2012*
+
 III. El auto que ordene el embargo determinará el monto por el cual deba practicarse; y
 
+*Fracción reformada DOF 30-11-2012*
+
 IV. El Presidente de la Junta dictará las medidas a que se sujetará el embargo, a efecto de que no se suspenda o dificulte el desarrollo de las actividades de la empresa o establecimiento.
+
+*Fracción reformada DOF 30-11-2012*
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 862.
 
 En el caso de la fracción II del artículo anterior, se considerará necesaria la providencia, cuando el solicitante compruebe que el demandado tiene diferentes juicios o reclamaciones ante autoridades judiciales o administrativas promovidos por terceros en su contra, y que por su cuantía, a criterio del Presidente, exista el riesgo de insolvencia.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 863.
 
@@ -8464,45 +10144,69 @@ La providencia se llevará a cabo aún cuando no esté presente la persona contr
 
 Tratándose de inmuebles, a petición del interesado, la Junta solicitará la inscripción del embargo precautorio en el Registro Público de la Propiedad.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 864.
 
 Si el demandado constituye depósito u otorga fianza bastante, no se llevará a cabo la providencia cautelar o se levantará la que se haya decretado.
 
-### CAPITULO XVI · Procedimientos ante las juntas de conciliación
+*Artículo reformado DOF 04-01-1980*
+
+### CAPITULO XVI · Procedimientos Ante las Juntas de Conciliación
+
+*Capítulo adicionado DOF 04-01-1980. Derogado DOF 30-11-2012*
 
 ##### Artículo 865.
 
 (Se deroga).
 
+*Artículo reformado DOF 04-01-1980. Derogado DOF 30-11-2012*
+
 ##### Artículo 866.
 
 (Se deroga).
+
+*Artículo reformado DOF 04-01-1980. Derogado DOF 30-11-2012*
 
 ##### Artículo 867.
 
 (Se deroga).
 
+*Artículo reformado DOF 04-01-1980. Derogado DOF 30-11-2012*
+
 ##### Artículo 868.
 
 (Se deroga).
+
+*Artículo reformado DOF 04-01-1980. Derogado DOF 30-11-2012*
 
 ##### Artículo 869.
 
 (Se deroga).
 
-### CAPITULO XVII · Procedimiento ordinario ante las juntas de conciliación y arbitraje
+*Artículo reformado DOF 04-01-1980. Derogado DOF 30-11-2012*
+
+### CAPITULO XVII · Procedimiento Ordinario Ante las Juntas de Conciliación y Arbitraje
+
+*Capítulo adicionado DOF 04-01-1980*
 
 ##### Artículo 870.
 
 Las disposiciones de este Capítulo rigen la tramitación y resolución de los conflictos individuales y colectivos de naturaleza jurídica que no tengan una tramitación especial en esta Ley.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 871.
 
 El procedimiento se iniciará con la presentación del escrito de demanda, ante la Oficialía de Partes o la Unidad Receptora de la Junta competente, la cual lo turnará al Pleno o a la Junta Especial que corresponda, el mismo día antes de que concluyan las labores de la Junta.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 872.
 
 La demanda se formulará por escrito, acompañando tantas copias de la misma, como demandados haya. El actor en su escrito inicial de demanda expresará los hechos en que funde sus peticiones, pudiendo acompañar las pruebas que considere pertinentes, para demostrar sus pretensiones.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 873.
 
@@ -8510,23 +10214,37 @@ La Junta, dentro de las veinticuatro horas siguientes, contadas a partir del mom
 
 Cuando el actor sea el trabajador o sus beneficiarios, la Junta, en caso de que notare alguna irregularidad en el escrito de demanda o que estuviere ejercitando acciones contradictorias o no hubiere precisado el salario base de la acción, en el acuerdo le señalará los defectos u omisiones en que haya incurrido y la prevendrá para que los subsane dentro de un término de tres días. Dicho acuerdo deberá notificarse personalmente al actor.
 
+*Artículo reformado DOF 04-01-1980, 30-11-2012*
+
 ##### Artículo 874.
 
 La falta de notificación de alguno o de todos los demandados, obliga a la Junta a señalar de oficio nuevo día y hora para la celebración de la audiencia, salvo que las partes concurran a la misma o cuando el actor se desista de las acciones intentadas en contra de los demandados que no hayan sido notificados.
 
 Las partes que comparecieren a la audiencia, quedarán notificadas de la nueva fecha para su celebración, a las que fueron notificadas y no concurrieron, se les notificará por boletín o en estrados de la Junta; y las que no fueron notificadas se les hará personalmente.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 875.
 
 La audiencia a que se refiere el artículo 873 constará de dos etapas:
+
+*Párrafo reformado DOF 30-11-2012*
 
 a) De conciliación;
 
 b) De demanda y excepciones;
 
+*Inciso reformado DOF 30-11-2012*
+
 c) (Se deroga).
 
+*Inciso derogado DOF 30-11-2012*
+
 La audiencia se iniciará con la comparecencia de las partes que concurran a la misma; las que estén ausentes podrán intervenir en el momento en que se presenten, siempre que la Junta no haya tomado el acuerdo de las peticiones formuladas en la etapa correspondiente.
+
+*Párrafo reformado DOF 30-11-2012*
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 876.
 
@@ -8534,19 +10252,31 @@ La etapa conciliatoria se desarrollará en la siguiente forma:
 
 I. Las partes comparecerán personalmente a la Junta y podrán ser asistidas por sus abogados patronos, asesores o apoderados. Si se trata de personas morales, el representante o apoderado deberá tener facultades para asumir una solución conciliatoria que obligue a su representada;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. La Junta, por conducto del funcionario conciliador o de su personal jurídico, intervendrá para la celebración de pláticas entre las partes y las exhortará para que procuren llegar a un arreglo conciliatorio. Les propondrá opciones de solución justas y equitativas que, a su juicio, sean adecuadas para dar por terminada la controversia;
+
+*Fracción reformada DOF 30-11-2012*
 
 III. Si las partes llegaren a un acuerdo, se dará por terminado el conflicto. El convenio respectivo, aprobado por la Junta, producirá todos los efectos jurídicos inherentes a un laudo;
 
 IV. (Se deroga).
 
+*Fracción derogada DOF 30-11-2012*
+
 V. La Junta, por conducto del funcionario conciliador o de su personal jurídico, procurará, sin entorpecer el procedimiento y estando en contacto personal con las partes y hasta antes de que se declare cerrada la instrucción, que lleguen a un acuerdo conciliatorio, insistiendo siempre en opciones de solución justas y equitativas para ambas; si las partes no llegan a un acuerdo se les tendrá por inconformes, pasando a la etapa de demanda y excepciones; y
 
+*Fracción reformada DOF 30-11-2012*
+
 VI. De no haber concurrido las partes a la conciliación, se les tendrá por inconformes con todo arreglo y deberán presentarse personalmente a la etapa de demanda y excepciones.
+
+*Artículo reformado DOF 28-04-1978, 04-01-1980*
 
 ##### Artículo 877.
 
 (Se deroga).
+
+*Artículo reformado DOF 28-04-1978, 04-01-1980. Derogado DOF 30-11-2012*
 
 ##### Artículo 878.
 
@@ -8554,9 +10284,13 @@ La etapa de demanda y excepciones, se desarrollará conforme a las normas siguie
 
 I. El Presidente o el funcionario conciliador y demás personal jurídico de la Junta exhortará nuevamente a las partes para que resuelvan el conflicto mediante un arreglo conciliatorio y, si éstas persistieran en su actitud, dará la palabra al actor para la exposición de su demanda;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Si el actor es el trabajador o sus beneficiarios y no cumple los requisitos omitidos o no subsana las irregularidades que se le hayan indicado en el planteamiento de las adiciones a la demanda, la Junta lo prevendrá para que lo haga en ese momento.
 
 El actor expondrá su demanda, ratificándola, aclarándola o modificándola, precisando los puntos petitorios. En caso de modificación, aclaración o enderezamiento de la demanda, cuando el actor sea el trabajador o sus beneficiarios, podrá hacerlo por una sola vez en esta etapa. Tratándose de aclaración o modificación de la demanda, la Junta, a petición del demandado, señalará nueva fecha, dentro del término de diez días, para la continuación de la audiencia a fin de que pueda contestar la demanda en su totalidad; en caso de enderezamiento, la Junta procederá de igual forma, pero de oficio;
+
+*Fe de erratas a la fracción DOF 30-01-1980. Reformada DOF 30-11-2012*
 
 III. Expuesta la demanda por el actor, el demandado procederá en su caso, a dar contestación a la demanda oralmente o por escrito. En este último caso estará obligado a entregar copia simple al actor de su contestación; si no lo hace, la Junta la expedirá a costa del demandado;
 
@@ -8564,39 +10298,63 @@ IV. En su contestación opondrá el demandado sus excepciones y defensas, debien
 
 V. La excepción de incompetencia no exime al demandado de contestar la demanda en la misma audiencia y, si no lo hace y la Junta se declara competente, se tendrá por contestada en sentido afirmativo la demanda;
 
+*Fracción reformada DOF 30-11-2012*
+
 VI. Las partes podrán por una sola vez, replicar y contrarreplicar brevemente, asentándose en actas sus alegaciones si lo solicitaren;
 
 VII. Si el demandado reconviene al actor, éste procederá a contestar de inmediato; o bien, a solicitud del mismo, la Junta acordará la suspensión de la audiencia, señalando para su continuación una fecha dentro de los diez días siguientes; y
 
+*Fracción reformada DOF 30-11-2012*
+
 VIII. Al concluir el periodo de demanda y excepciones, se citará a la audiencia de ofrecimiento y admisión de pruebas, que tendrá verificativo dentro de los diez días siguientes. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción turnándose los autos a resolución.
+
+*Fracción reformada DOF 30-11-2012*
+
+*Artículo reformado DOF 24-12-1974, 28-04-1978, 04-01-1980*
 
 ##### Artículo 879.
 
 La audiencia de conciliación, demanda y excepciones se llevará a cabo, aún cuando no concurran las partes.
 
+*Párrafo reformado DOF 30-11-2012*
+
 Si el actor no comparece al período de demanda y excepciones, se tendrá por reproducida en vía de demanda su comparecencia o escrito inicial.
 
 Si el demandado no concurre, la demanda se tendrá por contestada en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas, demuestre que el actor no era trabajador o patrón, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
+
+*Artículo reformado DOF 28-04-1978, 04-01-1980*
 
 ##### Artículo 880.
 
 La audiencia de ofrecimiento y admisión de pruebas se desarrollará conforme a lo dispuesto en el último párrafo del artículo 875 de esta Ley y de acuerdo con las normas siguientes:
 
+*Párrafo reformado DOF 30-11-2012*
+
 I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos. Inmediatamente después el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte y aquel a su vez podrá objetar las del demandado;
 
 II. Las partes podrán ofrecer nuevas pruebas, siempre que se relacionen con las ofrecidas por la contraparte, así como las que tiendan a justificar sus objeciones a las mismas, en tanto no se haya cerrado la audiencia, y por una sola vez;
+
+*Fe de erratas a la fracción DOF 30-01-1980. Reformada DOF 30-11-2012*
 
 III. Las partes deberán ofrecer sus pruebas, observando las disposiciones del Capítulo XII de este Título; y
 
 IV. Concluido el ofrecimiento, la Junta resolverá inmediatamente sobre las pruebas que admita y las que deseche. En caso contrario, la Junta se podrá reservar para resolver dentro de los cinco días siguientes.
 
+*Fracción reformada DOF 30-11-2012*
+
+*Artículo reformado DOF 28-04-1978, 04-01-1980*
+
 ##### Artículo 881.
 
 Concluida la etapa de ofrecimiento y admisión de pruebas, solamente se admitirán las que se refieren a hechos supervenientes o de tachas.
 
+*Artículo reformado DOF 28-04-1978, 04-01-1980*
+
 ##### Artículo 882.
 
 (Se deroga).
+
+*Artículo reformado DOF 28-04-1978, 04-01-1980. Derogado DOF 30-11-2012*
 
 ##### Artículo 883.
 
@@ -8604,13 +10362,19 @@ La Junta, en el mismo acuerdo en que admita las pruebas, señalará día y hora 
 
 Cuando, por la naturaleza de las pruebas admitidas, la Junta considere que no es posible desahogarlas en una sola audiencia, en el mismo acuerdo señalará los días y horas en que deberán desahogarse, aunque no guarden el orden en que fueron ofrecidas, procurando que se reciban primero las del actor y después las del demandado. Este periodo no deberá exceder de treinta días.
 
+*Artículo reformado DOF 28-04-1978, 04-01-1980, 30-11-2012*
+
 ##### Artículo 884.
 
 La audiencia de desahogo de pruebas se llevará a cabo conforme a las siguientes normas:
 
 I. Abierta la audiencia, se procederá a desahogar todas las pruebas que se encuentren debidamente preparadas, procurando que sean primero las del actor e inmediatamente las del demandado o, en su caso, las que hubieren sido señaladas para desahogarse en su fecha;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Si alguna de las pruebas admitidas no estuviere debidamente preparada, se señalará nuevo día y hora para su desahogo dentro de los diez días siguientes, haciéndose uso de los medios de apremio;
+
+*Fracción reformada DOF 30-11-2012*
 
 III. Si las pruebas por desahogar son únicamente copias o documentos que deban remitir autoridades o terceros, la Junta los requerirá en los siguientes términos:
 
@@ -8618,15 +10382,27 @@ a) Si se tratare de autoridades, la Junta las requerirá para que envíen dichos
 
 b) Si se trata de terceros, la Junta dictará las medidas de apremio correspondientes, hasta que se logre la presentación de las copias o documentos respectivos;
 
+*Fracción reformada DOF 30-11-2012*
+
 IV. La Junta deberá requerir a la persona que comparezca a desahogar la prueba correspondiente para que se identifique con cualquier documento oficial; y, si no lo hiciere en el momento de la audiencia, se le concederán tres días para ello, apercibiéndola de que, en caso contrario, se dejará sin efectos la declaración correspondiente; y
 
+*Fracción adicionada DOF 30-11-2012*
+
 V. Al concluir el desahogo de las pruebas, la Junta concederá a las partes un término de dos días para que presenten sus alegatos por escrito.
+
+*Fracción reformada y recorrida DOF 30-11-2012*
+
+*Artículo reformado DOF 28-04-1978, 04-01-1980*
 
 ##### Artículo 885.
 
 Al concluir el desahogo de las pruebas, formulados los alegatos de las partes y previa certificación del secretario de que ya no quedan pruebas por desahogar, se dará vista a las partes por el término de tres días para que expresen su conformidad con dicha certificación, bajo el apercibimiento de que si transcurrido el término señalado no lo hicieren y hubiere pruebas por desahogar, se les tendrá por desistidos de las mismas para todos los efectos legales y se procederá conforme a lo que dispone el párrafo siguiente. En caso de que las partes, al desahogar la vista señalada, acrediten que alguna o algunas pruebas ofrecidas no se desahogaron, la Junta, con citación de las mismas, señalará dentro de los ocho días siguientes día y hora para su desahogo. Desahogadas las pruebas pendientes, las partes formularán alegatos dentro de las veinticuatro horas siguientes.
 
+*Párrafo reformado DOF 30-11-2012*
+
 Hecho lo anterior, el auxiliar, de oficio, declarará cerrada la instrucción y, dentro de los diez días siguientes, formulará por escrito el proyecto de laudo, que deberá contener los elementos que se señalan en el artículo 840 de esta Ley.
+
+*Párrafo adicionado DOF 30-11-2012*
 
 I. Un extracto de la demanda y de la contestación, réplica y contrarréplica; y en su caso, de la reconvención y contestación de la misma;
 
@@ -8638,6 +10414,8 @@ IV. Las consideraciones que fundadas y motivadas se deriven, en su caso, de lo a
 
 V. Los puntos resolutivos.
 
+*Artículo reformado DOF 28-04-1978, 04-01-1980*
+
 ##### Artículo 886.
 
 Del proyecto de laudo se entregará copia a cada uno de los integrantes de la Junta.
@@ -8646,19 +10424,29 @@ Dentro de los cinco días hábiles siguientes a aquel en que se hubiere recibido
 
 La Junta, con citación de las partes, señalará, en su caso, día y hora para el desahogo, dentro de un término de ocho días, de las pruebas que no se llevaron a cabo o para la práctica de las diligencias solicitadas.
 
+*Artículo reformado DOF 28-04-1978, 04-01-1980, 30-11-2012*
+
 ##### Artículo 887.
 
 Transcurrido el término a que se refiere el artículo anterior, concedido a los integrantes de la Junta, o en su caso, desahogadas las diligencias que en este término se hubiesen solicitado, el Presidente de la Junta citará a los miembros de la misma, para la discusión y votación, que deberá efectuarse dentro de los diez días siguientes al en que hayan concluido el término fijado o el desahogo de las diligencias respectivas.
+
+*Artículo reformado DOF 23-12-1974, 28-04-1978, 04-01-1980*
 
 ##### Artículo 888.
 
 La discusión y votación del proyecto de laudo se llevarán a cabo en sesión de la Junta, certificando el secretario la presencia de los participantes que concurran a la votación, de conformidad con las normas siguientes:
 
+*Párrafo reformado DOF 30-11-2012*
+
 I. Se dará lectura al proyecto de resolución y a los alegatos y a las observaciones formulados por las partes;
+
+*Fracción reformada DOF 30-11-2012*
 
 II. El Presidente pondrá a discusión el negocio con el resultado de las diligencias practicadas; y
 
 III. Terminada la discusión, se procederá a la votación, y el Presidente declarará el resultado.
+
+*Artículo reformado DOF 04-01-1980*
 
 ##### Artículo 889.
 
@@ -8666,27 +10454,41 @@ Si el proyecto de resolución fuere aprobado, sin adiciones ni modificaciones, s
 
 Si al proyecto se le hicieran modificaciones o adiciones, se ordenará al secretario que de inmediato redacte el laudo, de acuerdo con lo aprobado. En este caso, el resultado se hará constar en acta.
 
+*Artículo reformado DOF 04-01-1980*
+
 ##### Artículo 890.
 
 Engrosado el laudo, el Secretario recogerá, en su caso, las firmas de los miembros de la Junta que votaron en el negocio y, una vez recabadas, turnará el expediente al actuario, para que de inmediato notifique personalmente el laudo a las partes.
+
+*Artículo reformado DOF 24-12-1974, 04-01-1980*
 
 ##### Artículo 891.
 
 Si la Junta estima que alguna de las partes obró con dolo o mala fe, podrá imponerle en el laudo una multa, en los términos de lo dispuesto en la fracción II del artículo 729 de esta Ley.
 
-### CAPITULO XVIII · De los procedimientos especiales
+*Artículo adicionado DOF 24-12-1974. Reformado DOF 28-04-1978, 04-01-1980, 30-11-2012*
+
+### CAPITULO XVIII · De los Procedimientos Especiales
+
+*Capítulo adicionado DOF 04-01-1980*
 
 ##### Artículo 892.
 
 Las disposiciones de este Capítulo rigen la tramitación de los conflictos que se susciten con motivo de la aplicación de los artículos 5o. fracción III; 28, fracción III; 151; 153, fracción X; 158; 162; 204, fracción IX; 209, fracción V; 210; 236, fracciones II y III; 389; 418; 425, fracción IV; 427 fracciones I, II y VI; 434, fracciones I, III y V; 439; 503 y 505 de esta Ley y los conflictos que tengan por objeto el cobro de prestaciones que no excedan del importe de tres meses de salarios.
 
+*Artículo adicionado DOF 04-01-1980. Fe de erratas DOF 30-01-1980*
+
 ##### Artículo 893.
 
 El procedimiento se iniciará con la presentación del escrito de demanda, en el cual el actor podrá ofrecer sus pruebas ante la Junta competente, la cual con diez días de anticipación, citará a una audiencia de conciliación, demanda y excepciones, pruebas y resolución, la que deberá efectuarse dentro de los quince días hábiles siguientes a la fecha en que se haya presentado la demanda o al concluir las investigaciones a que se refiere el artículo 503 de esta Ley.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 894.
 
 La Junta, al citar al demandando, lo apercibirá que de no concurrir a la audiencia a que se refiere el artículo siguiente, dará por admitidas las peticiones de la parte actora, salvo que sean contrarias a lo dispuesto por la Ley.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 895.
 
@@ -8700,27 +10502,41 @@ III. Si se ofrece el recuento de los trabajadores, se observarán las disposicio
 
 IV. Concluida la recepción de las pruebas, la Junta oirá los alegatos y dictará resolución.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 896.
 
 Si no concurre el actor o promovente a la audiencia, se tendrá por reproducido su escrito o comparecencia inicial, y en su caso, por ofrecidas las pruebas que hubiere acompañado. Si se trata de la aplicación del artículo 503 de esta Ley, la Junta, dictará su resolución tomando en cuenta los alegatos y pruebas aportadas por las personas que ejercitaron derechos derivados de las prestaciones que generó el trabajador fallecido.
+
+*Fe de erratas al párrafo DOF 30-01-1980*
 
 Cuando se controvierta el derecho de los presuntos beneficiarios, se suspenderá la audiencia y se señalará su reanudación dentro de los quince días siguientes, a fin de que las partes puedan ofrecer y aportar las pruebas relacionadas con los puntos controvertidos.
 
 Si no concurren las demás partes, se hará efectivo el apercibimiento a que se refiere el artículo 894 de esta Ley.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 897.
 
 Para la tramitación y resolución de los conflictos a que se refiere este Capítulo, la Junta se integrará con el Auxiliar, salvo los casos de los artículos 389; 418; 424, fracción IV; 427, fracciones II, III y VI; 434, fracciones I, III y V; y 439, de esta Ley, en los que deberá intervenir el Presidente de la Junta o el de la Junta Especial.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 898.
 
 La Junta, para los efectos del artículo 503 de esta Ley, solicitará al patrón le proporcione los nombres y domicilios de los beneficiarios registrados ante él y en las instituciones oficiales; podrá además ordenar la práctica de cualquier diligencia, o emplear los medios de comunicación que estime pertinente, para convocar a todas las personas que dependían económicamente del trabajador fallecido a ejercer sus derechos ante la Junta.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 899.
 
 En los procedimientos especiales se observarán las disposiciones de los Capítulos XII y XVII de este Título, en lo que sean aplicables.
 
+*Artículo adicionado DOF 04-01-1980*
+
 #### Sección Primera · Conflictos Individuales de Seguridad Social
+
+*Sección adicionada DOF 30-11-2012*
 
 ##### Artículo 899-A.
 
@@ -8729,6 +10545,8 @@ Los conflictos individuales de seguridad social son los que tienen por objeto re
 La competencia para conocer de estos conflictos, por razón de territorio corresponderá a la Junta Especial de la Federal de Conciliación y Arbitraje del lugar en el que se encuentre la clínica del Instituto Mexicano del Seguro Social a la cual se encuentren adscritos los asegurados o sus beneficiarios.
 
 En caso de que se demanden únicamente prestaciones relacionadas con la devolución de fondos para el retiro y vivienda, corresponderá la competencia a la Junta Especial de la Federal de Conciliación y Arbitraje de la entidad federativa donde se encuentre el último centro de trabajo del derechohabiente.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 899-B.
 
@@ -8741,6 +10559,8 @@ II. Los trabajadores que sean titulares de derechos derivados del Fondo Nacional
 III. Los titulares de las cuentas individuales del Sistema de Ahorro para el Retiro de los trabajadores sujetos a esta Ley o sus beneficiarios; y
 
 IV. Los trabajadores a quienes les resulten aplicables los contratos colectivos de trabajo o contratos-Ley que contengan beneficios en materia de seguridad social.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 899-C.
 
@@ -8764,6 +10584,8 @@ VIII. Las demás pruebas que juzgue conveniente para acreditar sus pretensiones;
 
 IX. Las copias necesarias de la demanda y sus anexos, para correr traslado a la contraparte.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 899-D.
 
 Los organismos de seguridad social, conforme a lo dispuesto por el artículo 784 deberán exhibir los documentos que, de acuerdo con las Leyes, tienen la obligación legal de expedir y conservar, bajo el apercibimiento de que de no presentarlos, se presumirán ciertos los hechos alegados por el promovente. En todo caso, corresponde a los organismos de seguridad social, probar su dicho cuando exista controversia sobre:
@@ -8783,6 +10605,8 @@ VI. Otorgamiento de pensiones o indemnizaciones;
 VII. Vigencia de derechos; y
 
 VIII. Pagos parciales otorgados a los asegurados.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 899-E.
 
@@ -8830,6 +10654,8 @@ La Junta podrá requerir a las autoridades, instituciones públicas y organismos
 
 En la ejecución del laudo las partes podrán convenir las modalidades de su cumplimiento.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 899-F.
 
 Los peritos médicos que intervengan en los conflictos vinculados con la calificación y valuación de riesgos de trabajo y enfermedades generales, deberán estar inscritos en el registro de la Junta Federal de Conciliación y Arbitraje.
@@ -8848,25 +10674,37 @@ V. Observar lo dispuesto por el artículo 707 de esta Ley, así como las disposi
 
 Si durante el lapso de seis meses los peritos médicos incumplen en más de tres ocasiones, con la presentación oportuna de los dictámenes médicos que le sean requeridos, sin que medie causa justificada, a juicio del Presidente de la Junta Federal de Conciliación y Arbitraje será dado de baja del registro de peritos médicos y no podrá reingresar sino transcurridos dos años, contados a partir de la fecha de la baja.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 899-G.
 
 La Junta Federal de Conciliación y Arbitraje integrará un cuerpo de peritos médicos especializados en medicina del trabajo, para lo cual las instituciones públicas que presten servicios de salud, deberán designar a los peritos médicos que les sean solicitados por la Junta, en los términos del Reglamento correspondiente.
 
-### CAPITULO XIX · Procedimientos de los conflictos colectivos de naturaleza económica
+*Artículo adicionado DOF 30-11-2012*
+
+### CAPITULO XIX · Procedimientos de los Conflictos Colectivos de Naturaleza Económica
+
+*Capítulo adicionado DOF 04-01-1980*
 
 ##### Artículo 900.
 
 Los conflictos colectivos de naturaleza económica, son aquéllos cuyo planteamiento tiene por objeto la modificación o implantación de nuevas condiciones de trabajo, o bien, la suspensión o terminación de las relaciones colectivas de trabajo, salvo que la presente Ley señale otro procedimiento.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 901.
 
 En la tramitación de los conflictos a que se refiere este Capítulo, las Juntas deberán procurar, ante todo, que las partes lleguen a un convenio. A este fin, podrán intentar la conciliación en cualquier estado del procedimiento, siempre que no se haya dictado la resolución que ponga fin al conflicto.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 902.
 
 El ejercicio del derecho de huelga suspende la tramitación de los conflictos colectivos de naturaleza económica, pendientes ante la Junta de Conciliación y Arbitraje y la de las solicitudes que se presenten, salvo que los trabajadores manifiesten por escrito, estar de acuerdo en someter el conflicto a la decisión de la Junta.
 
 No es aplicable lo dispuesto en el párrafo anterior, cuando la huelga tenga por objeto lo señalado en el artículo 450, fracción VI.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 903.
 
@@ -8878,9 +10716,13 @@ II. Exposición de los hechos y causas que dieron origen al conflicto; y
 
 III. Las pretensiones del promovente, expresando claramente lo que se pide.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 904.
 
 El promovente, según el caso, deberá acompañar a la demanda lo siguiente:
+
+*Fe de erratas al párrafo DOF 30-01-1980*
 
 I. Los documentos públicos o privados que tiendan a comprobar la situación económica de la empresa o establecimiento y la necesidad de las medidas que se solicitan;
 
@@ -8892,9 +10734,13 @@ IV. Las pruebas que juzgue conveniente para acreditar sus pretensiones; y
 
 V. Las copias necesarias de la demanda y sus anexos, para correr traslado a la contraparte.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 905.
 
 La Junta, inmediatamente después de recibir la demanda, citará a las partes a una audiencia que deberá efectuarse dentro de los cinco días siguientes.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 906.
 
@@ -8916,6 +10762,8 @@ VII. La Junta, dentro de la misma audiencia, designará tres peritos, por lo men
 
 VIII. Los trabajadores y los patrones podrán designar dos comisiones integradas con el número de personas que determine la Junta, para que acompañen a los peritos en la investigación y les indiquen las observaciones y sugestiones que juzguen conveniente.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 907.
 
 Los peritos designados por la Junta deberán satisfacer los requisitos siguientes:
@@ -8926,9 +10774,13 @@ II. Estar legalmente autorizados y capacitados para ejercer la técnica, ciencia
 
 III. No haber sido condenados por delito intencional.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 908.
 
 Las partes, dentro de los primeros diez días del término a que se refiere la fracción VII del artículo 906, podrán presentar directamente a los peritos, o por conducto de la Junta o a través de la Comisión, las observaciones, informes, estudios y demás elementos que puedan contribuir a la determinación de las causas que dieron origen al conflicto, para que sean tomados en cuenta por los peritos, en sus dictámenes.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 909.
 
@@ -8940,6 +10792,8 @@ II. Practicar toda clase de inspecciones en la empresa o establecimiento y revis
 
 III. Examinar a las partes y a las personas relacionadas con los trabajadores o con la empresa, que juzguen conveniente.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 910.
 
 El dictamen de los peritos deberá contener, por lo menos:
@@ -8949,6 +10803,8 @@ I. Los hechos y causas que dieron origen al conflicto;
 II. La relación entre el costo de la vida por familia y los salarios que perciban los trabajadores;
 
 III. Los salarios medios que se paguen en empresa o establecimientos de la misma rama de la industria y las condiciones generales de trabajo que rijan en ellos;
+
+*Fe de erratas a la fracción DOF 30-01-1980*
 
 IV. Las condiciones económicas de la empresa o empresas o del establecimiento o establecimientos;
 
@@ -8960,11 +10816,15 @@ VII. Los índices estadísticos que tiendan a precisar la economía nacional; y
 
 VIII. La forma en que, según su parecer, pueda solucionarse el conflicto.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 911.
 
 El dictamen de los peritos se agregará al expediente y se entregará una copia a cada una de las partes.
 
 El Secretario asentará razón en autos del día y hora en que hizo entrega de las copias a las partes, o de la negativa de éstas para recibirlas.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 912.
 
@@ -8972,17 +10832,25 @@ Las partes, dentro de las setenta y dos horas de haber recibido copia del dictam
 
 La Junta, si se formulan objeciones al dictamen, citará a una audiencia a la que deberán concurrir los peritos para contestar las preguntas que les formulen las partes y en relación con los peritajes que rindieron; se podrán ofrecer pruebas, para que tengan por objeto comprobar la falsedad de los hechos y consideraciones contenidas en el dictamen.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 913.
 
 La Junta tiene las más amplias facultades para practicar las diligencias que juzgue convenientes, a fin de completar, aclarar o precisar las cuestiones analizadas por los peritos, así como para solicitar nuevos informes a las autoridades, instituciones y particulares a que se refiere el artículo 909, fracción I de este Capítulo, interrogar a los peritos o pedirles algún dictamen complementario o designar comisiones para que practiquen o realicen investigaciones o estudios especiales.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 914.
 
 Las autoridades, las instituciones y los particulares a que se refieren los artículos que anteceden, están obligadas a proporcionar los informes, contestar los cuestionarios y rendir las declaraciones que se les soliciten.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 915.
 
 Desahogadas las pruebas, la Junta concederá a las partes un término de setenta y dos horas para que formulen sus alegatos, por escrito, apercibidas que en caso de no hacerlo, se les tendrá por perdido su derecho.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 916.
 
@@ -8998,19 +10866,29 @@ IV. Un extracto de los alegatos; y
 
 V. Señalará los motivos y fundamentos que puedan servir para la solución del conflicto.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 917.
 
 El dictamen se agregará al expediente y se entregará una copia a cada uno de los representantes de los trabajadores y de los patrones, ante la Junta. El Secretario asentará razón en autos del día y hora en que se hizo entrega de las copias o su negativa para recibirlos.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 918.
 
 El Presidente de la Junta citará para la audiencia de discusión y votación, que deberá efectuarse dentro de los diez días siguientes al en que sean entregadas a los representantes las copias del dictamen, y se celebrará conforme a las reglas establecidas en el artículo 888 de esta Ley.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 919.
 
 La Junta, a fin de conseguir el equilibrio y la justicia social en las relaciones entre los trabajadores y patrones, en su resolución podrá aumentar o disminuir el personal, la jornada, la semana de trabajo, los salarios y, en general, modificar las condiciones de trabajo de la empresa o establecimiento, sin que en ningún caso pueda reducir los derechos mínimos consignados en las leyes.
 
-### CAPITULO XX · Procedimiento de huelga
+*Artículo adicionado DOF 04-01-1980*
+
+### CAPITULO XX · Procedimiento de Huelga
+
+*Capítulo adicionado DOF 04-01-1980*
 
 ##### Artículo 920.
 
@@ -9022,19 +10900,27 @@ II. Se presentará por duplicado a la Junta de Conciliación y Arbitraje. Si la 
 
 III. El aviso para la suspensión de las labores deberá darse, por lo menos, con seis días de anticipación a la fecha señalada para suspender el trabajo y con diez días de anticipación cuando se trate de servicios públicos, observándose las disposiciones legales de esta Ley. El término se contará a partir del día y hora en que el patrón quede notificado.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 921.
 
 El Presidente de la Junta de Conciliación y Arbitraje o las autoridades mencionadas en la fracción II del artículo anterior, bajo su más estricta responsabilidad harán llegar al patrón la copia del escrito de emplazamiento dentro de las cuarenta y ocho horas siguientes a la de su recibo.
 
 La notificación producirá el efecto de constituir al patrón, por todo el término del aviso, en depositario de la empresa o establecimiento afectado por la huelga, con las atribuciones y responsabilidades inherentes al cargo.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 922.
 
 El patrón, dentro de las cuarenta y ocho horas siguientes a la de la notificación, deberá presentar su contestación por escrito ante la Junta de Conciliación y Arbitraje.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 923.
 
 No se dará trámite al escrito de emplazamiento de huelga cuando éste no sea formulado conforme a los requisitos del artículo 920 o sea presentado por un sindicato que no sea el titular del contrato colectivo de trabajo, o el administrador del contrato ley, o cuando se pretenda exigir la firma de un contrato colectivo, no obstante existir ya uno depositado en la Junta de Conciliación y Arbitraje competente. El Presidente de la Junta, antes de iniciar el trámite de cualquier emplazamiento a huelga, deberá cerciorarse de lo anterior, ordenar la certificación correspondiente y notificarle por escrito la resolución al promovente.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 924.
 
@@ -9050,13 +10936,19 @@ IV. Los demás créditos fiscales.
 
 Siempre serán preferentes los derechos de los trabajadores, sobre los créditos a que se refieran las fracciones II, III y IV de este precepto, y en todo caso las actuaciones relativas a los casos de excepción señaladas en las fracciones anteriores, se practicarán sin afectar el procedimiento de huelga.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 925.
 
 Para los efectos de este Capítulo, se entiende por servicios públicos los de comunicaciones y transportes, los de luz y energía eléctrica, los de limpia, los de aprovechamiento y distribución de aguas destinadas al servicio de las poblaciones, los de gas, los sanitarios, los de hospitales, los de cementerios y los de alimentación, cuando se refieran a artículos de primera necesidad, siempre que en este último caso se afecte alguna rama completa del servicio.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 926.
 
 La Junta de Conciliación y Arbitraje citará a las partes a una audiencia de conciliación, en la que procurará avenirlas, sin hacer declaración que prejuzgue sobre la existencia o inexistencia, justificación o injustificación de la huelga. Esta audiencia sólo podrá diferirse a petición de los trabajadores y por una sola vez.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 927.
 
@@ -9069,6 +10961,8 @@ II. Si los trabajadores no concurren a la audiencia de conciliación, no correr�
 III. El Presidente de la Junta podrá emplear los medios de apremio para obligar al patrón a que concurra a la audiencia de conciliación; y
 
 IV. Los efectos del aviso a que se refiere el artículo 920 fracción II de la presente Ley, no se suspenderán por la audiencia de conciliación ni por la rebeldía del patrón para concurrir a ella.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 928.
 
@@ -9092,13 +10986,17 @@ IV. No serán denunciables en los términos del artículo 710 de esta Ley, los m
 
 V. No podrá promoverse cuestión alguna de competencia. Si la Junta una vez hecho el emplazamiento al patrón, observa que el asunto no es de su competencia, hará la declaratoria correspondiente.
 
-Los trabajadores dispondrán de un término de veinticuatro horas para designar la Junta que consideren competente, a fin de que se \_le remita el expediente. Las actuaciones conservarán su validez, pero el término para la suspensión de las labores correrá a partir de la fecha en que la Junta designada competente notifique al patrón haber recibido el expediente; lo que se hará saber a las partes en la resolución de incompetencia.
+Los trabajadores dispondrán de un término de veinticuatro horas para designar la Junta que consideren competente, a fin de que se le remita el expediente. Las actuaciones conservarán su validez, pero el término para la suspensión de las labores correrá a partir de la fecha en que la Junta designada competente notifique al patrón haber recibido el expediente; lo que se hará saber a las partes en la resolución de incompetencia.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 929.
 
 Los trabajadores y los patrones de la empresa o establecimiento afectado, o terceros interesados, podrán solicitar de la Junta de Conciliación y Arbitraje, dentro de las setenta y dos horas siguientes a la suspensión del trabajo, declare la inexistencia de la huelga por las causas señaladas en el artículo 459 o por no haber cumplido los requisitos establecidos en el artículo 920 de esta Ley.
 
 Si no se solicita la declaración de inexistencia, la huelga será considerada existente para todos los efectos legales.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 930.
 
@@ -9116,6 +11014,8 @@ V. Concluida la recepción de las pruebas, la Junta, dentro de las veinticuatro 
 
 VI. Para la resolución de inexistencia, se citará a los representantes de los trabajadores y de los patrones para que integren la Junta. La resolución se dictará por los que concurran, y en caso de empate, se sumarán al del Presidente los \_votos de los ausentes.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 931.
 
 Si se ofrece como prueba el recuento de los trabajadores, se observarán las normas siguientes:
@@ -9130,6 +11030,8 @@ IV. No se computarán los votos de los trabajadores de confianza, ni los de los 
 
 V. Las objeciones a los trabajadores que concurran al recuento, deberán hacerse en el acto mismo de la diligencia, en cuyo caso la Junta citará a una audiencia de ofrecimiento y rendición de pruebas.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 932.
 
 Si la Junta declara la inexistencia legal del estado de huelga:
@@ -9142,27 +11044,39 @@ III. Declarará que el patrón no ha incurrido en responsabilidad y que de no pr
 
 IV. Dictará las medidas que juzgue convenientes para que pueda reanudarse el trabajo.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 933.
 
 En el procedimiento de calificación de ilicitud de la huelga, se observarán las normas contenidas en el artículo 930 de esta Ley.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 934.
 
 Si la Junta de Conciliación y Arbitraje declara que la huelga es ilícita, se darán por terminadas las relaciones de trabajo de los huelguistas.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 935.
 
 Antes de la suspensión de los trabajos, la Junta de Conciliación y Arbitraje, con audiencia de las partes, fijará el número indispensable de trabajadores que deberá continuar trabajando para que sigan ejecutándose las labores, cuya suspensión perjudique gravemente la seguridad y conservación de los locales, maquinaria y materias primas o la reanudación de los trabajos. Para este efecto, la Junta podrá ordenar la práctica de las diligencias que juzgue conveniente.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 936.
 
 Si los huelguistas se niegan a prestar los servicios mencionados en los artículos 466 y 935 de esta Ley, el patrón podrá utilizar otros trabajadores. La Junta, en caso necesario, solicitará el auxilio de la fuerza pública, a fin de que puedan prestarse dichos servicios.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 937.
 
 Si el conflicto motivo de la huelga se somete por los trabajadores a la decisión de la Junta, se seguirá el procedimiento ordinario o el procedimiento para conflictos colectivos de naturaleza económica, según el caso.
 
 Si la Junta declara en el laudo que los motivos de la huelga son imputables al patrón, condenará a éste a la satisfacción de las peticiones de los trabajadores en cuanto sean procedentes, y al pago de los salarios correspondientes a los días que hubiese durado la huelga. En ningún caso será condenado el patrón al pago de los salarios de los trabajadores que hubiesen declarado una huelga en los términos del artículo 450 fracción VI de esta Ley.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 938.
 
@@ -9176,47 +11090,73 @@ III. Si el escrito se presenta ante la Junta de Conciliación y Arbitraje, el Pr
 
 IV. Si el escrito se presenta ante las otras autoridades a que se refiere la fracción I, éstas, bajo su más estricta responsabilidad, harán llegar directamente a los patrones la copia del escrito de emplazamiento, dentro de las veinticuatro horas siguientes a la de su recibo. Una vez hecho el emplazamiento, remitirán el expediente a la Junta de Conciliación y Arbitraje dentro del mismo término de veinticuatro horas.
 
+*Artículo adicionado DOF 04-01-1980*
+
 TITULO QUINCE
 
 Procedimientos de Ejecución
 
+*Título reubicado y denominación reformada DOF 04-01-1980*
+
 ### CAPITULO I
 
+*Capítulo reubicado y denominación suprimida DOF 04-01-1980*
+
 #### Sección Primera · Disposiciones Generales
+
+*Sección adicionada DOF 04-01-1980*
 
 ##### Artículo 939.
 
 Las disposiciones de este Título rigen la ejecución de los laudos dictados por las Juntas de Conciliación y Arbitraje. Son también aplicables a los laudos arbitrales, a las resoluciones dictadas en los conflictos colectivos de naturaleza económica y a los convenios celebrados ante las Juntas.
 
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
+
 ##### Artículo 940.
 
 La ejecución de los laudos a que se refiere el artículo anterior corresponde a los Presidentes de las Juntas de Conciliación y Arbitraje y a los de las Juntas Especiales, a cuyo fin dictarán las medidas necesarias para que la ejecución sea pronta y expedita.
+
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
 
 ##### Artículo 941.
 
 Cuando el laudo deba ser ejecutado por el Presidente de otra Junta, se le dirigirá exhorto con las inserciones necesarias y se le facultará para hacer uso de los medios de apremio, en caso de oposición a la diligencia de ejecución.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 942.
 
 El Presidente exhortado no podrá conocer de las excepciones que opongan las partes.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 943.
 
 Si al cumplimentar un exhorto, se opone algún tercero que no hubiese sido oído por el Presidente exhortante, se suspenderá la cumplimentación del exhorto, previa fianza que otorgue para garantizar el monto de la cantidad por la que se despachó ejecución y de los daños y perjuicios que puedan causarse. Otorgada la fianza, se devolverá el exhorto al Presidente exhortante.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 944.
 
 Los gastos que se originen en la ejecución de los laudos, serán a cargo de la parte que no cumpla.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 945.
 
 Los laudos deben cumplirse dentro de los quince días siguientes al día en que surta efectos la notificación.
 
+*Párrafo reformado DOF 30-11-2012*
+
 Las partes pueden convenir en las modalidades de su cumplimiento.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 946.
 
 La ejecución deberá despacharse para el cumplimiento de un derecho o el pago de cantidad líquida, expresamente señalados en el laudo, entendiéndose por ésta, la cuantificada en el mismo.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 947.
 
@@ -9230,21 +11170,33 @@ III. Procederá a fijar la responsabilidad que resulte al patrón del conflicto,
 
 IV. Además, condenará al pago de los salarios vencidos e intereses, en su caso, conforme a lo establecido en el artículo 48, así como al pago de la prima de antigüedad, en los términos del artículo 162.
 
-Las disposiciones contenidas en este artículo no son aplicables en los casos de las acciones consignadas en el artículo 123, fracción XXII, apartado A de la Constitución.
+*Fracción reformada DOF 30-11-2012*
+
+Las disposiciones contenidas en este artículo no son aplicables en los casos de las acciones consignadas en el artículo 123, fracción XXII, apartado “A” de la Constitución.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 948.
 
 Si la negativa a aceptar el laudo pronunciado por la Junta fuere de los trabajadores se dará por terminada la relación de trabajo, de conformidad con lo dispuesto por el artículo 519 fracción III, último párrafo de esta Ley.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 949.
 
 Siempre que en ejecución de un laudo deba entregarse una suma de dinero o el cumplimiento de un derecho al trabajador, el Presidente cuidará que se le otorgue personalmente. En caso de que la parte demandada radique fuera del lugar de residencia de la Junta, se girará exhorto al Presidente de la Junta de Conciliación y Arbitraje o al Juez más próximo a su domicilio para que se cumplimente la ejecución del laudo.
 
-#### Sección Segunda · Del Procedimiento del Embargo
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
+
+#### Sección Segunda · Del procedimiento del embargo
+
+*Sección adicionada DOF 04-01-1980*
 
 ##### Artículo 950.
 
 Transcurrido el término señalado en el artículo 945, el Presidente, a petición de la parte que obtuvo, dictará auto de requerimiento y embargo.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 951.
 
@@ -9261,6 +11213,8 @@ IV. El Actuario podrá, en caso necesario, sin autorización previa, solicitar e
 V. Si ninguna persona está presente, el actuario practicará el embargo y fijará copia autorizada de la diligencia en la puerta de entrada del local en que se hubiere practicado; y
 
 VI. El Actuario, bajo su responsabilidad, embargará únicamente los bienes necesarios para garantizar el monto de la condena, de sus intereses y de los gastos de ejecución.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 952.
 
@@ -9284,45 +11238,67 @@ VII. Los derechos de uso y de habitación; y
 
 VIII. Las servidumbres, a no ser que se embargue el fundo, a cuyo favor estén constituidas.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 953.
 
 Las diligencias de embargo no pueden suspenderse. El actuario resolverá las cuestiones que se susciten.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 954.
 
 El Actuario, tomando en consideración lo que expongan las partes, determinará los bienes que deban ser objeto del embargo, prefiriendo los que sean de más fácil realización.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 955.
 
 Cuando el embargo deba recaer en bienes que se encuentren fuera del lugar donde se practique la diligencia, el Actuario se trasladará al local donde manifieste la parte que obtuvo que se encuentran y previa identificación de los bienes, practicará el embargo.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 956.
 
 Si los bienes embargados fuesen dinero o créditos realizables en el acto, el Actuario trabará embargo y los pondrá a disposición del Presidente de la Junta, quien deberá resolver de inmediato sobre el pago del actor.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 957.
 
 Si los bienes embargados son muebles, se pondrán en depósito de la persona, que bajo su responsabilidad designe la parte que obtuvo. El depositario debe informar al Presidente ejecutor del lugar en que quedarán los bienes embargados bajo su custodia. La parte que obtuvo podrá solicitar el cambio de depositario.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 958.
 
 Si lo bienes embargados son créditos, frutos o productos, se notificará al deudor o inquilino, que el importe del pago lo haga al Presidente ejecutor, apercibido de doble pago en caso de desobediencia.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 959.
 
 El Actuario requerirá al demandando a fin de que le exhiba los documentos y contratos respectivos, para que en el acta conste y dé fe de las condiciones estipuladas en los mismos.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 960.
 
 Si llega a asegurarse un título de crédito, se designará un depositario que lo conserve en guarda, quien estará obligado a hacer todo lo necesario para que no se altere ni menoscabe el derecho que el Título represente y a intentar todas las acciones y los recursos que la Ley concede para hacer efectivo el crédito, quedando sujeto, además, a las obligaciones que impongan las Leyes a los depositarios.
 
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
+
 ##### Artículo 961.
 
 Si el crédito fuese litigioso, se notificará el embargo a la autoridad que conozca del juicio respectivo, y el nombre del depositario, a fin de que éste pueda desempeñar las obligaciones que le impone la parte final del artículo anterior.
 
+*Artículo adicionado DOF 04-01-1980. Fe de erratas DOF 30-01-1980*
+
 ##### Artículo 962.
 
 Si los bienes embargados fueren inmuebles, el Presidente ejecutor, bajo su responsabilidad, ordenará, dentro de las 24 horas siguientes, la inscripción en el Registro Público de la Propiedad.
+
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
 
 ##### Artículo 963.
 
@@ -9344,6 +11320,8 @@ VII. Rendir cuentas mensuales de su gestión y entregar el remanente en un bille
 
 El depositario que falte al cumplimiento de las obligaciones señaladas en este artículo, será acreedor a las sanciones previstas en las leyes respectivas.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 964.
 
 Si el embargo recae en una empresa o establecimiento, se observarán las normas siguientes:
@@ -9358,6 +11336,8 @@ II. Si el depositario considera que la administración no se hace convenientemen
 
 III. Siempre que el depositario sea un tercero, otorgará fianza ante el Presidente Ejecutor, por la suma que se determine y rendirá cuenta de su gestión en los términos y forma que señale el mismo.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 965.
 
 El actor puede pedir la ampliación del embargo:
@@ -9366,7 +11346,13 @@ I. Cuando no basten los bienes embargados para cubrir las cantidades por las que
 
 II. Cuando se promueva una tercería y se haya dictado auto admisorio.
 
+*Fracción reformada DOF 30-11-2012*
+
 El Presidente ejecutor podrá decretar la ampliación si, a su juicio, concurren las circunstancias a que se refieren las fracciones anteriores, sin ponerlo en conocimiento del demandado.
+
+*Párrafo reformado DOF 30-11-2012*
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 966.
 
@@ -9376,19 +11362,27 @@ I. Si se practican en ejecución de créditos de trabajo, se pagará en el orden
 
 II. El embargo practicado en ejecución de un crédito de trabajo, aun cuando sea posterior, es preferente sobre los practicados por autoridades distintas de la Junta de Conciliación y Arbitraje siempre que dicho embargo se practique antes que quede fincado el remate.
 
+*Párrafo reformado DOF 30-11-2012*
+
 Cuando el Presidente Ejecutor tenga conocimiento de la existencia de un embargo, hará saber a la autoridad que lo practicó, que los bienes embargados quedan afectos al pago preferente del crédito de trabajo y continuará los procedimientos de ejecución hasta efectuar el pago. El saldo líquido que resulte después de hacer el pago, se pondrá a disposición de la autoridad que hubiese practicado el embargo.
 
 Las cuestiones de preferencia que se susciten, se tramitarán y resolverán por la Junta que conozca del negocio, con exclusión de cualquiera otra autoridad; y
 
 III. El que haya reembargado puede continuar la ejecución del laudo o convenio, pero rematados los bienes, se pagará al primer embargante el importe de su crédito, salvo el caso de preferencia de derechos.
 
+*Artículo adicionado DOF 04-01-1980*
+
 #### Sección Tercera · Remates
+
+*Sección adicionada DOF 04-01-1980*
 
 ##### Artículo 967.
 
 Concluidas las diligencias de embargo, se procederá al remate de los bienes, de conformidad con las normas contenidas en este Capítulo.
 
 Antes de fincarse el remate o declararse la adjudicación, podrá el demandado liberar los bienes embargados, pagando de inmediato y en efectivo el importe de las cantidades fijadas en el laudo y los gastos de ejecución.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 968.
 
@@ -9398,19 +11392,31 @@ A. Si los bienes embargados son muebles:
 
 I. Se efectuará su avalúo por la persona que designe el Presidente ejecutor; en los casos en que el Presidente ejecutor se percate de que el avalúo de los bienes es notoriamente inferior o superior a su valor, podrá ordenar la práctica de otro, razonando los motivos por los cuales considera que el avalúo no corresponde al valor del bien;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Servirá de base para el remate el monto del avalúo; y
 
 III. El remate se anunciará en el boletín laboral o en los estrados de la Junta, en su caso y en el palacio municipal o en la oficina de gobierno que designe el Presidente ejecutor.
+
+*Fracción reformada DOF 30-11-2012*
 
 B. Si los bienes embargados son inmuebles:
 
 I. Se tomará como avalúo el de un perito valuador legalmente autorizado, que será designado por el Presidente de la Junta y en su caso, se procederá conforme a lo dispuesto por la fracción I del apartado A de este artículo;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. El embargante exhibirá certificado de gravámenes expedido por el Registro Público de la Propiedad, de 10 años anteriores a la fecha en que ordenó el remate. Si en autos obrare ya otro certificado, se pedirá al Registro sólo el relativo al periodo o periodos que aquél no abarque; y
+
+*Fracción reformada DOF 30-11-2012*
 
 III. El proveído que ordene el remate se publicará, por una sola vez, en el boletín laboral o en los estrados de la Junta, en su caso y se fijará, por una sola vez, en la Tesorería de cada entidad federativa y en el periódico de mayor circulación del lugar en que se encuentren ubicados los bienes, convocando postores.
 
+*Fracción reformada DOF 30-11-2012*
+
 Se citará personalmente a los acreedores que aparezcan en el certificado de gravámenes, a efecto de que hagan valer sus derechos.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 969.
 
@@ -9418,15 +11424,27 @@ Si los bienes embargados son una empresa o establecimiento se observará el proc
 
 I. Se efectuará un avalúo por perito que se solicitará por el Presidente de la Junta a Nacional Financiera, SNC, o a alguna otra institución oficial;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Servirá de base para el remate el monto de avalúo;
+
+*Fe de erratas a la fracción DOF 30-01-1980*
 
 III. Es aplicable lo dispuesto en la fracción III del apartado A del artículo anterior, referente a muebles; y
 
+*Fracción reformada DOF 30-11-2012*
+
 IV. Si la empresa o establecimiento se integra con bienes inmuebles, se recabará el certificado de gravámenes a que se refiere la fracción II del apartado B del artículo anterior.
+
+*Fe de erratas a la fracción DOF 30-01-1980*
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 970.
 
 Postura legal es la que cubre las dos terceras partes del avalúo. La persona que concurra como postor deberá presentar por escrito su postura y exhibir en un billete de depósito de Nacional Financiera, SNC, el importe de 10 por ciento de su puja.
+
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
 
 ##### Artículo 971.
 
@@ -9444,17 +11462,25 @@ V. El actor podrá concurrir a la almoneda como postor, presentando por escrito 
 
 VI. El Presidente declarará fincado el remate a favor del mejor postor.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 972.
 
 La diligencia de remate no puede suspenderse. El Presidente de la Junta resolverá de inmediato las cuestiones que planteen las partes interesadas.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 973.
 
 Si no se presentan postores, podrá el actor pedir se le adjudiquen los bienes por el precio de su postura, o solicitar la celebración de nuevas almonedas con deducción de un veinte por ciento en cada una de ellas. Las almonedas subsecuentes se celebrarán dentro de los treinta días siguientes a la fecha de la anterior.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 974.
 
 El adjudicatario exhibirá dentro de los tres días siguientes, el importe total de su postura, apercibido de que de no hacerlo, la cantidad exhibida quedará en favor del actor; y el Presidente señalará nueva fecha para la celebración de la almoneda.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 975.
 
@@ -9472,17 +11498,27 @@ c) La escritura deberá firmarla el anterior propietario, dentro de los cinco d�
 
 III. Firmada la escritura, se pondrá al adquirente en posesión del inmueble.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ### CAPITULO II · Procedimiento de las tercerías y preferencias de crédito
 
-#### Sección Primera · De las Tercerías
+*Capítulo reubicado y denominación reformada DOF 04-01-1980*
+
+#### Sección Primera · De las tercerías
+
+*Sección adicionada DOF 04-01-1980*
 
 ##### Artículo 976.
 
 Las tercerías pueden ser excluyentes de dominio o de preferencia. Las primeras tienen por objeto conseguir el levantamiento del embargo practicado en bienes de propiedad de terceros; las segundas obtener que se pague preferentemente un crédito con el producto de los bienes embargados.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 977.
 
 Las tercerías se tramitarán y resolverán por el Pleno o por la Junta Especial que conozca del juicio principal, sustanciándose en forma incidental, conforme a las normas siguientes:
+
+*Párrafo reformado DOF 30-11-2012*
 
 I. La tercería se interpondrá por escrito, acompañando el título en que se funde y las pruebas pertinentes;
 
@@ -9494,19 +11530,29 @@ IV. Las tercerías no suspenden la tramitación del procedimiento. La tercería 
 
 V. Si se declara procedente la tercería, la Junta ordenará el levantamiento del embargo y, en su caso, ordenará se pague el crédito declarado preferente.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 978.
 
 El tercerista podrá presentar la demanda ante la autoridad exhortada que practicó el embargo, debiendo designar domicilio en el lugar de residencia de la Junta exhortante, para que se le hagan las notificaciones personales; si no hace la designación, todas las notificaciones se le harán por boletín o por estrados.
 
 La autoridad exhortada, al devolver el exhorto, remitirá la demanda de tercería.
 
-#### Sección Segunda · De la Preferencia de Créditos
+*Artículo adicionado DOF 04-01-1980*
+
+#### Sección Segunda · De la preferencia de créditos
+
+*Sección adicionada DOF 04-01-1980*
 
 ##### Artículo 979.
 
 Cuando exista un conflicto individual o colectivo, los trabajadores podrán solicitar a la Junta, para los efectos del artículo 113, que prevenga a la autoridad jurisdiccional o administrativa ante la que se tramiten juicios en los que se pretendan hacer efectivos créditos contra el patrón para que, antes de llevar a cabo el remate o la adjudicación de los bienes embargados, les notifique para garantizar el derecho preferente que la Ley les concede en dicha disposición.
 
+*Párrafo reformado DOF 30-11-2012*
+
 Si resultan insuficientes los bienes embargados para cubrir los créditos de todos los trabajadores, se harán a prorrata dejando a salvo sus derechos.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 980.
 
@@ -9518,17 +11564,25 @@ II. Si el juicio se tramita ante la autoridad judicial, la Junta la prevendrá h
 
 III. Tratándose de créditos fiscales, cuotas que se adeuden al Instituto Mexicano del Seguro Social, o aportación al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, bastará con que la Junta remita oficio a la autoridad que corresponda, indicándole la existencia de juicios laborales, cuyas prestaciones están pendientes de cubrirse, para que antes de adjudicar o rematar los bienes del patrón se proceda conforme al artículo anterior.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 981.
 
 Cuando en los juicios seguidos ante la Junta se haya dictado laudo por cantidad líquida o se haya efectuado la liquidación correspondiente, la Junta lo hará saber a la autoridad judicial o administrativa que haya sido prevenida, en los términos del artículo anterior, remitiéndole copia certificada del laudo, a fin de que se tome en cuenta el mismo al aplicar el producto de los bienes rematados o adjudicados.
 
 Si el patrón antes del remate hubiese hecho pago para librar sus bienes, deberá cubrirse con éste el importe de los créditos laborales en que se hubiese hecho la prevención.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ### CAPITULO III · Procedimientos paraprocesales o voluntarios
+
+*Capítulo reubicado y denominación reformada DOF 04-01-1980*
 
 ##### Artículo 982.
 
 Se tramitarán conforme a las disposiciones de este Capítulo, todos aquellos asuntos que, por mandato de la Ley, por su naturaleza o a solicitud de parte interesada, requieran la intervención de la Junta, sin que esté promovido jurisdiccionalmente conflicto alguno entre partes determinadas.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 983.
 
@@ -9536,15 +11590,21 @@ En los procedimientos a que se refiere este Capítulo, el trabajador, sindicato 
 
 La Junta acordará dentro de las veinticuatro horas siguientes sobre lo solicitado y, en su caso, señalará día y hora para llevar a cabo la diligencia y ordenará, en su caso, la citación de las personas cuya declaración se pretende.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 984.
 
 Cuando por disposición de la Ley o de alguna autoridad o por acuerdo de las partes, se tenga que otorgar depósito o fianza, podrá el interesado o interesados concurrir ante el Presidente de la Junta o de la Junta Especial, el cual la recibirá y, en su caso, lo comunicará a la parte interesada.
 
 La cancelación de la fianza o la devolución del depósito, también podrá tramitarse ante el Presidente de la Junta o de la Junta Especial quien acordará de inmediato con citación del beneficiario y previa comprobación de que cumplió las obligaciones que garantiza la fianza o el depósito, autorizará su cancelación o devolución.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 985.
 
 Cuando la Secretaría de Hacienda y Crédito Público, sin haber mediado objeción de los trabajadores, modifique el ingreso global gravable declarado por el causante, y éste haya impugnado dicha resolución, podrá solicitar a la Junta de Conciliación y Arbitraje, dentro de los 3 días siguientes a aquel en que haya presentado la impugnación correspondiente, la suspensión del reparto adicional de utilidades a los trabajadores, para lo cual adjuntará:
+
+*Párrafo reformado DOF 30-11-2012*
 
 I. La garantía que otorgue en favor de los trabajadores que será por:
 
@@ -9554,13 +11614,21 @@ b) Los intereses legales computados por un año.
 
 II. Copia de la resolución dictada por la Secretaría de Hacienda y Crédito Público; y
 
+*Fracción reformada DOF 30-11-2012*
+
 III. El nombre y domicilio de los representantes de los trabajadores sindicalizados, no sindicalizados y de confianza.
+
+*Fracción adicionada DOF 30-11-2012*
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 986.
 
 La Junta al recibir el escrito del patrón examinará que reúna los requisitos señalados en el artículo anterior, en cuyo caso inmediatamente correrá traslado a los representantes de los trabajadores, para que dentro de 3 días manifiesten lo que a su derecho convenga; transcurrido el plazo acordará lo conducente.
 
 Si la solicitud del patrón no reúne los requisitos legales, la Junta la desechará de plano.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 987.
 
@@ -9570,27 +11638,41 @@ En los convenios en que se dé por terminada la relación de trabajo deberá des
 
 Los convenios celebrados en los términos de este artículo serán aprobados por la Junta de Conciliación y Arbitraje competente, cuando no afecten derechos de los trabajadores, y tendrán efectos definitivos, por lo que se elevarán a la categoría de laudo ejecutoriado.
 
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
+
 ##### Artículo 988.
 
-Los trabajadores mayores de catorce años, pero menores de dieciséis, que no hayan terminado su educación obligatoria, podrán ocurrir ante la Junta de Conciliación y Arbitraje competente solicitando autorización para trabajar, y acompañarán los documentos que estimen convenientes, para establecer la compatibilidad entre los estudios y el trabajo.
+Los trabajadores mayores de quince años, pero menores de dieciocho, que no hayan terminado su educación básica obligatoria, podrán ocurrir ante la Junta de Conciliación y Arbitraje competente solicitando autorización para trabajar, y acompañarán los documentos que estimen convenientes, para establecer la compatibilidad entre los estudios y el trabajo.
+
+*Párrafo reformado DOF 12-06-2015*
 
 La Junta de Conciliación y Arbitraje, inmediatamente de recibida la solicitud, acordará lo conducente.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 989.
 
 Los trabajadores podrán solicitar, por conducto de la Junta de Conciliación y Arbitraje correspondiente, que el patrón les expida constancia escrita que contenga el número de días trabajados y el salario percibido, en los términos señalados por el artículo 132 fracción VII de esta Ley.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 990.
 
 El trabajador o sus beneficiarios que deban recibir alguna cantidad de dinero en virtud de convenio o liquidación, podrán concurrir personalmente a la Junta correspondiente.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 991.
 
 En los casos de rescisión previstos en el artículo 47, el patrón podrá acudir ante la Junta de Conciliación y Arbitraje competente a solicitar que se notifique al trabajador el aviso a que el citado precepto se refiere, por los medios indicados en el mismo. La Junta, dentro de los cinco días siguientes al recibo de la promoción, deberá proceder a la notificación.
 
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
+
 ## TITULO · DIECISEIS
 
 Responsabilidades y Sanciones
+
+*Título reubicado DOF 04-01-1980*
 
 ##### Artículo 992.
 
@@ -9618,9 +11700,13 @@ Cuando en un solo acto u omisión se afecten a varios trabajadores, se impondrá
 
 Cuando la multa se aplique a un trabajador, ésta no podrá exceder al importe señalado en el artículo 21 Constitucional.
 
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
+
 ##### Artículo 993.
 
 Al patrón que no cumpla las normas que determinan el porcentaje o la utilización exclusiva de trabajadores mexicanos en las empresas o establecimientos se le impondrá una multa por el equivalente de 250 a 2500 veces el salario mínimo general.
+
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
 
 ##### Artículo 994.
 
@@ -9640,13 +11726,19 @@ VI. De 250 a 5000 veces el salario mínimo general, al patrón que cometa cualqu
 
 VII. De 250 a 2500 veces el salario mínimo general, al patrón que viole las prohibiciones contenidas en el artículo 133, fracciones II, IV, V, VI y VII, y 357 segundo párrafo.
 
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
+
 ##### Artículo 995.
 
 Al patrón que viole las prohibiciones contenidas en el artículo 133 fracciones XIV y XV, y las normas que rigen el trabajo de las mujeres y de los menores, se le impondrá una multa equivalente de 50 a 2500 veces el salario mínimo general.
 
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
+
 ##### Artículo 995 Bis.
 
-Al patrón que infrinja lo dispuesto en el artículo 22 Bis, primer párrafo de esta Ley, se le castigará con prisión de 1 a 4 años y multa de 250 a 5000 veces el salario mínimo general.
+Al patrón que infrinja lo dispuesto en el artículo 23, primer párrafo de esta Ley, se le castigará con prisión de 1 a 4 años y multa de 250 a 5000 veces el salario mínimo general.
+
+*Artículo adicionado DOF 30-11-2012. Reformado DOF 12-06-2015*
 
 ##### Artículo 996.
 
@@ -9656,35 +11748,53 @@ I. De 50 a 500 veces el salario mínimo general, si no cumple las disposiciones 
 
 II. De 50 a 2500 veces el salario mínimo general, al que no cumpla la obligación señalada en el artículo 204, fracción IX.
 
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
+
 ##### Artículo 997.
 
 Al patrón que viole las normas protectoras del trabajo del campo y del trabajo a domicilio, se le impondrá multa por el equivalente de 250 a 2500 veces el salario mínimo general.
+
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
 
 ##### Artículo 998.
 
 Al patrón que no facilite al trabajador doméstico que carezca de instrucción, la asistencia a una escuela primaria, se le impondrá multa por el equivalente de 50 a 250 veces el salario mínimo general.
 
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
+
 ##### Artículo 999.
 
 Al patrón que viole las normas protectoras del trabajo en hoteles, restaurantes, bares y otros establecimientos semejantes, se le impondrá multa por el equivalente de 50 a 2500 veces el salario mínimo general.
+
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
 
 ##### Artículo 1000.
 
 El incumplimiento de las normas relativas a la remuneración de los trabajos, duración de la jornada y descansos, contenidas en un contrato Ley, o en un contrato colectivo de trabajo, se sancionará con multa por el equivalente de 250 a 5000 veces el salario mínimo general.
 
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
+
 ##### Artículo 1001.
 
 Al patrón que viole las normas contenidas en el Reglamento Interior de Trabajo, se le impondrá multa por el equivalente de 50 a 500 veces el salario mínimo general.
+
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
 
 ##### Artículo 1002.
 
 Por violaciones a las normas de trabajo no sancionadas en este Capítulo o en alguna otra disposición de esta Ley, se impondrá al infractor multa por el equivalente de 50 a 5000 veces el salario mínimo general.
 
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
+
 ##### Artículo 1003.
 
-Los trabajadores, los patrones y los sindicatos, federaciones y confederaciones de unos y otros, podrán denunciar ante las autoridades del Trabajo las violaciones a las normas del trabajo.
+Los trabajadores, los patrones y los sindicatos, federaciones y confederaciones de unos y otros, podrán denunciar ante las autoridades del trabajo las violaciones a las normas del trabajo.
 
 Los Presidentes de las Juntas Especiales y los Inspectores del Trabajo, tienen la obligación de denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar o pague a sus trabajadores cantidades inferiores a las señaladas como salario mínimo general.
+
+*Párrafo reformado DOF 30-11-2012*
+
+*Artículo adicionado DOF 04-01-1980*
 
 ##### Artículo 1004.
 
@@ -9692,49 +11802,79 @@ Al patrón de cualquier negociación industrial, agrícola, minera, comercial o 
 
 I. Con prisión de seis meses a tres años y multa que equivalga hasta 800 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión no exceda del importe de un mes de salario mínimo general del área geográfica de aplicación correspondiente;
 
+*Fracción reformada DOF 30-11-2012*
+
 II. Con prisión de seis meses a tres años y multa que equivalga hasta 1600 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión sea mayor al importe de un mes, pero no exceda de tres meses de salario mínimo general del área geográfica de aplicación correspondiente; y
 
+*Fracción reformada DOF 30-11-2012*
+
 III. Con prisión de seis meses a cuatro años y multa que equivalga hasta 3200 veces el salario mínimo general, conforme a lo establecido por el artículo 992, si la omisión excede a los tres meses de salario mínimo general del área geográfica de aplicación correspondiente.
+
+*Fracción reformada DOF 30-11-2012*
+
+*Reforma DOF 30-11-2012: Derogó del artículo el entonces párrafo segundo*
+
+*Artículo adicionado DOF 04-01-1980. Fe de erratas DOF 30-01-1980. Reformado DOF 21-01-1988*
 
 ##### Artículo 1004-A.
 
 Al patrón que no permita la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento, se le aplicará una multa de 250 a 5000 veces el salario mínimo general.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 1004-B.
 
 El incumplimiento de las obligaciones a que se refiere el artículo 15-B de la Ley, se sancionará con multa por el equivalente de 250 a 2500 veces el salario mínimo general.
+
+*Artículo adicionado DOF 30-11-2012*
 
 ##### Artículo 1004-C.
 
 A quien utilice el régimen de subcontratación de personal en forma dolosa, en términos del artículo 15-D de esta Ley, se le impondrá multa por el equivalente de 250 a 5000 veces el salario mínimo general.
 
+*Artículo adicionado DOF 30-11-2012*
+
 ##### Artículo 1005.
 
 Al Procurador de la Defensa del Trabajo o al apoderado o representante del trabajador, se les impondrá sanción de seis meses a tres años de prisión y multa de 125 a 1250 veces el salario mínimo general vigente en el Distrito Federal en los casos siguientes:
+
+*Párrafo reformado DOF 30-11-2012*
 
 I. Cuando sin causa justificada se abstengan de concurrir a dos o más audiencias; y
 
 II. Cuando sin causa justificada se abstengan de promover en el juicio durante el lapso de tres meses.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 1006.
 
 A todo el que presente documentos o testigos falsos se le impondrá una pena de seis meses a cuatro años y multa de 125 a 1900 veces el salario mínimo general vigente en el Distrito Federal. Tratándose de trabajadores, la multa será el salario que reciba el trabajador en una semana.
+
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012*
 
 ##### Artículo 1007.
 
 Las penas consignadas en el artículo anterior, se aplicarán sin perjuicio de la responsabilidad que por daños y perjuicios le resultaren al apoderado o representante.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 1008.
 
 Las sanciones administrativas de que trata este Capítulo serán impuestas, en su caso, por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe de Gobierno del Distrito Federal, quienes podrán delegar el ejercicio de esta facultad en los funcionarios subordinados que estimen conveniente, mediante acuerdo que se publique en el periódico oficial que corresponda.
+
+*Artículo adicionado DOF 04-01-1980. Reformado DOF 09-04-2012*
 
 ##### Artículo 1009.
 
 La autoridad, después de oír al interesado, impondrá la sanción correspondiente.
 
+*Artículo adicionado DOF 04-01-1980*
+
 ##### Artículo 1010.
 
 Las sanciones se harán efectivas por las autoridades que designen las leyes.
+
+*Artículo adicionado DOF 04-01-1980*
 
 ## TRANSITORIOS
 
@@ -9790,11 +11930,15 @@ III. El Presidente de la Comisión Nacional de los Salarios Mínimos convocará 
 
 IV. El Presidente de la Comisión Nacional de los Salarios Mínimos enviará al Diario Oficial de la Federación, para su publicación, la resolución del Consejo de Representantes que contenga los salarios mínimos que correspondan al aumento establecido.
 
+*Artículo adicionado DOF 22-10-1982*
+
 México, D. F., 2 de diciembre de 1969. Luis L. León Uranga, S. P.- Joaquín Gamboa Pascoe, D. P.- Arturo Moguel Esponda, S. S.- Alberto Briseño Ruiz, D. S.- Rúbricas.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos sesenta y nueve.- Gustavo Díaz Ordaz.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Salomón González Blanco.- Rúbrica.- El Subsecretario de Gobernación, Encargado del Despacho, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Antonio Carrillo Flores.- Rúbrica.- El Secretario de la Defensa Nacional, Marcelino García Barragán.- Rúbrica.- El Secretario de Marina, Antonio Vázquez del Mercado.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.- El Secretario del Patrimonio Nacional, Manuel Franco López.- Rúbrica.- El Secretario de Industria y Comercio, Octaviano Campos Salas.- Rúbrica.- El Secretario de Agricultura y Ganadería, Juan Gil Preciado. - Rúbrica.- El Secretario de Comunicaciones y Transportes, José Antonio Padilla Segura.- Rúbrica.- El Secretario de Obras Públicas, Gilberto Valenzuela.- Rúbrica.- El Secretario de Recursos Hidráulicos, José Hernández Terán.- Rúbrica. -El Secretario de Educación Pública, Agustín Yañez.- Rúbrica.- El Secretario de Salubridad y Asistencia, Salvador Aceves Parra.- Rúbrica.- El Secretario de la Presidencia, Emilio Martínez Manautou.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Norberto Aguirre Palancares.- Rúbrica.- El Jefe del Departamento de Turismo, Agustín Salvat.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Alfonso Corona del Rosal.- Rúbrica.
 
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
+
+A partir de 1998
 
 ### DECRETO por el que se reforman diversos ordenamientos legales.
 
@@ -9899,3 +12043,19 @@ Los peritos médicos en materia de medicina del trabajo contarán con un periodo
 México, D.F., a 13 de noviembre de 2012.- Dip. Jesus Murillo Karam, Presidente.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de noviembre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforman y derogan diversas disposiciones de la Ley Federal del Trabajo, en materia de trabajo de menores.
+
+*Publicado en el Diario Oficial de la Federación el 12 de junio de 2015*
+
+**Artículo Único.-** Se reforman los artículos 5o., fracciones I y IV; 22; 22 Bis; 23; 174; 175, primer, segundo y tercer párrafos y fracción IV; 175 Bis, primer párrafo e inciso c); 176; 178; 179, 180, primer párrafo y fracción II; 191, 267; 362; 372, primer párrafo; 988, primer párrafo y 995 Bis; y se derogan las fracciones I y II del artículo 372 de la Ley Federal del Trabajo, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 30 de abril de 2015.- Dip. Julio César Moreno Rivera, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Luis Antonio González Roldán, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de junio de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
