@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2015-02-11
-articles: 62
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_110215.doc
-archived: https://web.archive.org/web/20150315091220/http://www.diputados.gob.mx/LeyesBiblio/doc/153_110215.doc
-source_sha256: 598f027f1d99444dc50198151aca279370c36544d612839fca8a5831c4224bce
-retrieved: 2015-03-15
+last_reform_dof: 2015-12-30
+articles: 63
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_30dic15.doc
+archived: https://web.archive.org/web/20160328112850/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_30dic15.doc
+source_sha256: 58a4591ae96d052f88a431137901ade0028b6d9bf085cfba39916de0ac5cbd59
+retrieved: 2016-03-28
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,11 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 27-01-2015
+Últimas reformas publicadas DOF 30-12-2015
 
-Declaratoria de Invalidez de artículos por Sentencia de la SCJN DOF 11-02-2015
-
-> Nota de vigencia: Las reformas a los artículos 26; 31, fracciones XII, XIX, XXI, XXIV y XXV; y 50; las adiciones de los artículos 31, con las fracciones XXII, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXIV; y el 44; así como la derogación del artículo 37, publicadas mediante decreto en el DOF 02-01-2013, entrarán en vigor de conformidad con lo establecido por el artículo segundo transitorio de dicho decreto.
+> Nota de vigencia: Las reformas a los artículos 26; 31, fracciones XII, XXI, XXIV y XXV; y 50; las adiciones de los artículos 31, con las fracciones XXII, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXIV; y el 44; así como la derogación del artículo 37, publicadas mediante decreto en el DOF 02-01-2013, entrarán en vigor de conformidad con lo establecido por el artículo segundo transitorio de dicho decreto.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -222,39 +220,41 @@ Cuando alguna Secretaría de Estado o la Oficina de la Presidencia de la Repúbl
 
 Para el despacho de los asuntos del orden administrativo, el Poder Ejecutivo de la Unión contará con las siguientes dependencias:
 
-Secretaría de Gobernación
+Secretaría de Gobernación;
 
-Secretaría de Relaciones Exteriores
+Secretaría de Relaciones Exteriores;
 
-Secretaría de la Defensa Nacional
+Secretaría de la Defensa Nacional;
 
-Secretaría de Marina
+Secretaría de Marina;
 
-Secretaría de Hacienda y Crédito Público
+Secretaría de Hacienda y Crédito Público;
 
-Secretaría de Desarrollo Social
+Secretaría de Desarrollo Social;
 
-Secretaría de Medio Ambiente y Recursos Naturales
+Secretaría de Medio Ambiente y Recursos Naturales;
 
-Secretaría de Energía
+Secretaría de Energía;
 
-Secretaría de Economía
+Secretaría de Economía;
 
-Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación
+Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-Secretaría de Comunicaciones y Transportes
+Secretaría de Comunicaciones y Transportes;
 
-Secretaría de Educación Pública
+Secretaría de Educación Pública;
 
-Secretaría de Salud
+Secretaría de Salud;
 
-Secretaría del Trabajo y Previsión Social
+Secretaría del Trabajo y Previsión Social;
 
-Secretaría de Desarrollo Agrario, Territorial y Urbano
+Secretaría de Desarrollo Agrario, Territorial y Urbano;
 
-Secretaría de Turismo
+Secretaría de Cultura;
 
-Consejería Jurídica del Ejecutivo Federal
+Secretaría de Turismo, y
+
+Consejería Jurídica del Ejecutivo Federal.
 
 #### Artículo 27.
 
@@ -280,13 +280,17 @@ IX. Conducir las relaciones del Gobierno Federal con el Tribunal Federal de Conc
 
 X. Conducir la política interior que competa al Ejecutivo y no se atribuya expresamente a otra dependencia así como fomentar el desarrollo político; contribuir al fortalecimiento de las instituciones democráticas; promover la activa participación ciudadana, salvo en materia electoral; favorecer las condiciones que permitan la construcción de acuerdos políticos y consensos sociales para que, en los términos de la Constitución y de las leyes, se mantengan las condiciones de unidad nacional, cohesión social, fortalecimiento de las instituciones de gobierno y gobernabilidad democrática;
 
+X Bis. Diseñar, instrumentar, desarrollar, proponer, fomentar y publicitar programas y herramientas institucionales para la asesoría, capacitación y formación permanente de los integrantes de los ayuntamientos, así como de los funcionarios y empleados municipales en su carácter de depositarios de funciones y servicios públicos, con el fin de contribuir de manera efectiva a la profesionalización de los gobiernos locales y el desarrollo institucional de los municipios mexicanos;
+
 XI. Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del país; coordinar en vinculación con las organizaciones de la sociedad civil, trabajos y tareas de promoción y defensa de los derechos humanos y dar seguimiento a la atención de las recomendaciones que emitan los organismos competentes en dicha materia; así como dictar las medidas administrativas necesarias para tal efecto;
 
 XII. Formular y ejecutar las políticas, programas y acciones tendientes a garantizar la seguridad pública de la Nación y de sus habitantes; proponer al Ejecutivo Federal la política criminal y las medidas que garanticen la congruencia de ésta entre las dependencias de la Administración Pública Federal; [comparecer cada seis meses ante las comisiones de Gobernación y de Seguridad Pública del Senado para presentar la política criminal y darle seguimiento cuando ésta se apruebe o se modifique]; coadyuvar a la prevención del delito; ejercer el mando sobre la fuerza pública para proteger a la población ante todo tipo de amenazas y riesgos, con plena sujeción a los derechos humanos y libertades fundamentales; salvaguardar la integridad y los derechos de las personas; así como preservar las libertades, el orden y la paz públicos;
 
-*Nota: Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015 (En la porción normativa*
+*Nota: Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015, publicada por segunda*
 
-que indica “comparecer cada seis meses ante las comisiones de Gobernación y de Seguridad Pública del Senado para presentar la política criminal y darle seguimiento cuando ésta se apruebe o se modifique”)
+ocasión DOF 19-03-2015 (En la porción normativa que indica “comparecer cada seis meses ante las comisiones de Gobernación y
+
+de Seguridad Pública del Senado para presentar la política criminal y darle seguimiento cuando ésta se apruebe o se modifique”)
 
 XIII. Presidir el Consejo Nacional de Seguridad Pública en ausencia del Presidente de la República;
 
@@ -326,11 +330,11 @@ XXIX. Coordinar y establecer mecanismos para contar oportunamente con la informa
 
 XXX. Informar al Poder Legislativo Federal sobre los asuntos de su competencia en materia de seguridad nacional, [a través de comparecencia de su titular cada seis meses ante la Comisión Bicamaral prevista en el artículo 56 de la Ley de Seguridad Nacional];
 
-*Nota: Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015 (En la porción normativa*
+*Nota: Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015, publicada por segunda*
 
-que indica “a través de comparecencia de su titular cada seis meses ante la Comisión Bicamaral prevista en el artículo 56 de la Ley de
+ocasión DOF 19-03-2015 (En la porción normativa que indica “a través de comparecencia de su titular cada seis meses ante la
 
-Seguridad Nacional”)
+Comisión Bicamaral prevista en el artículo 56 de la Ley de Seguridad Nacional”)
 
 XXXI. Otorgar las autorizaciones a empresas que presten servicios privados de seguridad en dos o más entidades federativas, supervisar su funcionamiento e informar periódicamente al Sistema Nacional de Seguridad Pública sobre el ejercicio de esta atribución;
 
@@ -362,9 +366,9 @@ En el ejercicio de las facultades a que se refieren las fracciones XII, XIII Bis
 
 [El Comisionado Nacional de Seguridad y] el Secretario Ejecutivo del Sistema Nacional de Seguridad Pública serán nombrados por el Titular del Poder Ejecutivo Federal con la ratificación del Senado de la República.
 
-*Nota: Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015 (En la porción normativa*
+*Nota: Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015, publicada por segunda*
 
-que indica “El Comisionado Nacional de Seguridad y”)
+ocasión DOF 19-03-2015 (En la porción normativa que indica “El Comisionado Nacional de Seguridad y”)
 
 #### Artículo 28.
 
@@ -626,9 +630,9 @@ XII. Promover la construcción de obras de infraestructura y equipamiento para f
 
 XIII. Asegurar la adecuada distribución, comercialización y abastecimiento de los productos de consumo básico de la población de escasos recursos, con la intervención que corresponde a la Secretaría de Economía así como a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; bajo principios que eviten el uso o aprovechamiento indebido y ajenos a los objetivos institucionales;
 
-XIV. (Se deroga)
+XIV. Formular, conducir y evaluar la política de fomento y desarrollo del sector social de la economía;
 
-XV. (Se deroga)
+XV. Fomentar la organización y constitución de toda clase de sociedades cooperativas, cuyo objeto sea la producción industrial, la distribución o el consumo, y
 
 XVI. Los demás que le fijen expresamente las leyes y reglamentos.
 
@@ -844,7 +848,7 @@ VIII.- Regular, orientar y estimular las medidas de protección al consumidor;
 
 IX.- Participar con las Secretarías de Desarrollo Social, de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y de Medio Ambiente y Recursos Naturales, en la distribución y comercialización de productos y el abastecimiento de los consumos básicos de la población;
 
-X.- Fomentar la organización y constitución de toda clase de sociedades cooperativas, cuyo objeto sea la producción industrial, la distribución o el consumo;
+X. Se deroga.
 
 X bis. Coordinar y ejecutar la política nacional para crear y apoyar empresas que asocien a grupos de escasos recursos en áreas urbanas a través de las acciones de planeación, programación, concertación, coordinación, evaluación; de aplicación, recuperación y revolvencia de recursos para ser destinados a los mismos fines; así como de asistencia técnica y de otros medios que se requieran para ese propósito, previa calificación, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
 
@@ -1042,7 +1046,7 @@ e) La enseñanza superior y profesional.
 
 f) La enseñanza deportiva y militar, y la cultura física en general;
 
-II.- Organizar y desarrollar la educación artística que se imparta en las escuelas e institutos oficiales, incorporados o reconocidos para la enseñanza y difusión de las bellas artes y de las artes populares;
+II. Organizar y desarrollar la educación artística, en coordinación con la Secretaría de Cultura, que se imparta en las escuelas e institutos oficiales, incorporados o reconocidos para la enseñanza y difusión de las bellas artes y de las artes populares;
 
 III.- Crear y mantener las escuelas oficiales en el Distrito Federal, excluidas las que dependen de otras dependencias;
 
@@ -1056,33 +1060,33 @@ VII.- Organizar, administrar y enriquecer sistemáticamente las bibliotecas gene
 
 VIII.- Promover la creación de institutos de investigación científica y técnica, y el establecimiento de laboratorios, observatorios, planetarios y demás centros que requiera el desarrollo de la educación primaria, secundaria, normal, técnica y superior; orientar, en coordinación con las dependencias competentes del Gobierno Federal y con las entidades públicas y privadas el desarrollo de la investigación científica y tecnológica;
 
-IX.- Patrocinar la realización de congresos, asambleas y reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, educativo y artístico;
+IX. Patrocinar la realización de congresos, asambleas y reuniones, eventos, competencias y concursos de carácter científico, técnico y educativo;
 
-X.- Fomentar las relaciones de orden cultural con los países extranjeros, con la colaboración de la Secretaría de Relaciones Exteriores;
+X. Derogada.
 
 XI.- Mantener al corriente el escalafón del magisterio y el seguro del maestro, y crear un sistema de compensaciones y estímulos para el profesorado; atendiendo a las directrices que emita la Secretaría de Hacienda y Crédito Público sobre el sistema general de administración y desarrollo de personal;
 
-XII.- Organizar, controlar y mantener al corriente el registro de la propiedad literaria y artística;
+XII. Derogada.
 
 XIII.- Otorgar becas para que los estudiantes de nacionalidad mexicana puedan realizar investigaciones o completar ciclos de estudios en el extranjero;
 
-XIV.- Estimular el desarrollo del teatro en el país y organizar concursos para autores, actores y escenógrafos y en general promover su mejoramiento;
+XIV. Derogada.
 
 XV.- Revalidar estudios y títulos, y conceder autorización para el ejercicio de las capacidades que acrediten;
 
 XVI.- Vigilar, con auxilio de las asociaciones de profesionistas, el correcto ejercicio de las profesiones;
 
-XVII.- Organizar misiones culturales;
+XVII. Derogada.
 
-XVIII.- Formular el catálogo del patrimonio histórico nacional;
+XVIII. Derogada.
 
-XIX.- Formular y manejar el catálogo de los monumentos nacionales;
+XIX. Derogada.
 
-XX.- Organizar, sostener y administrar museos históricos, arqueológicos y artísticos, pinacotecas y galerías, a efecto de cuidar la integridad, mantenimiento y conservación de tesoros históricos y artísticos del patrimonio cultural del país;
+XX. Derogada.
 
-XXI.- Conservar, proteger y mantener los monumentos arqueológicos, históricos y artísticos que conforman el patrimonio cultural de la Nación, atendiendo las disposiciones legales en la materia;
+XXI. Derogada.
 
-XXII.- Organizar exposiciones artísticas, ferias, certámenes, concursos, audiciones, representaciones teatrales y exhibiciones cinematográficas de interés cultural;
+XXII. Derogada.
 
 XXIII.- Determinar y organizar la participación oficial del país en competencias deportivas internacionales, organizar desfiles atléticos y todo género de eventos deportivos, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno Federal;
 
@@ -1094,13 +1098,13 @@ XXVI.- (Se deroga).
 
 XXVII. Organizar, promover y supervisar programas de capacitación y adiestramiento en coordinación con las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y de los Municipios, las entidades públicas y privadas, así como los fideicomisos creados con tal propósito. A este fin organizará, igualmente, servicios de educación básica para adultos y sistemas de orientación vocacional de enseñanza abierta y de acreditación de estudios;
 
-XXVIII.- Orientar las actividades artísticas, culturales, recreativas y deportivas que realice el sector público federal;
+XXVIII. Orientar las actividades recreativas y deportivas que realice el sector público federal;
 
-XXIX.- Establecer los criterios educativos y culturales en la producción cinematográfica, de radio y televisión y en la industria editorial;
+XXIX. Establecer los criterios educativos en la producción cinematográfica, de radio y televisión y en la industria editorial;
 
 XXX.- Organizar y promover acciones tendientes al pleno desarrollo de la juventud y a su incorporación a las tareas nacionales, estableciendo para ello sistemas de servicio social, centro de estudio, programas de recreación y de atención a los problemas de los jóvenes. Crear y organizar a este fin sistemas de enseñanza especial para niños, adolescentes y jóvenes que lo requieran, y
 
-XXX Bis. Promover la producción cinematográfica, de radio y televisión y de la industria editorial, con apego a lo dispuesto por el artículo 3o. constitucional cuando se trate de cuestiones educativas; dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, con exclusión de las que dependan de otras Secretarías de Estado; y
+XXX Bis. Promover la producción cinematográfica, de radio y televisión y de la industria editorial, con apego a lo dispuesto por el artículo 3o. constitucional cuando se trate de cuestiones educativas y dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, con exclusión de las que dependan de otras Secretarías de Estado. Aquellas estaciones de radio que incorporen en su programación contenido cultural deberán tomar en consideración las directrices que en esta materia le proponga la Secretaría de Cultura, y
 
 XXXI. Los demás que le fijen expresamente las leyes y reglamentos.
 
@@ -1259,6 +1263,62 @@ XXI. Aportar diagnósticos y estudios al Consejo Nacional de Población en mater
 XXII. Ejercitar el derecho de expropiación por causa de utilidad pública en aquellos casos no encomendados a otra dependencia; y
 
 XXIII. Los demás que le fijen expresamente las leyes y reglamentos.
+
+#### Artículo 41 Bis.
+
+A la Secretaría de Cultura corresponde el despacho de los siguientes asuntos:
+
+I. Elaborar y conducir la política nacional en materia de cultura con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal;
+
+II. Conservar, proteger y mantener los monumentos arqueológicos, históricos y artísticos que conforman el patrimonio cultural de la Nación;
+
+III. Conducir la elaboración del Programa Nacional de Cultura, de conformidad con las disposiciones jurídicas aplicables, así como su implementación y evaluación;
+
+IV. Coordinar, conforme a las disposiciones jurídicas aplicables, las acciones que realizan las unidades administrativas e instituciones públicas pertenecientes a la Administración Pública Federal centralizada y paraestatal en materias de:
+
+a) Investigación científica sobre Antropología e Historia relacionada principalmente con la población del país y con la conservación y restauración del patrimonio cultural, arqueológico e histórico, así como el paleontológico; la protección, conservación, restauración y recuperación de ese patrimonio y la promoción y difusión de dichas materias, y
+
+b) Cultivo, fomento, estímulo, creación, educación profesional, artística y literaria, investigación y difusión de las bellas artes en las ramas de la música, las artes plásticas, las artes dramáticas y la danza, las bellas letras en todos sus géneros y la arquitectura;
+
+V. Organizar y administrar bibliotecas públicas y museos, exposiciones artísticas, congresos y otros eventos de interés cultural;
+
+VI. Proponer programas de educación artística a la Secretaría de Educación Pública, que se impartan en las escuelas e institutos oficiales, incorporados o reconocidos para la enseñanza y difusión de las bellas artes y de las artes populares;
+
+VII. Diseñar estrategias, mecanismos e instrumentos, así como fomentar la elaboración de programas, proyectos y acciones para promover y difundir la cultura, la historia y las artes, así como impulsar la formación de nuevos públicos, en un marco de participación corresponsable de los sectores público, social y privado;
+
+VIII. Promover los medios para la difusión y desarrollo de la cultura, atendiendo la diversidad cultural en todas sus manifestaciones y expresiones;
+
+IX. Planear, dirigir y coordinar las tareas relacionadas con las lenguas indígenas, así como fomentar su conservación;
+
+X. Promover e impulsar la investigación, conservación y promoción de la historia, las tradiciones y el arte popular;
+
+XI. Fomentar las relaciones de orden cultural con otros países; facilitar la celebración de convenios de intercambio de educandos en las especialidades de las artes y la cultura universal; y definir la proyección de la cultura mexicana en el ámbito internacional, tanto bilateral como multilateral, con la colaboración de la Secretaría de Relaciones Exteriores;
+
+XII. Promover la producción cinematográfica, de radio y televisión y en la industria editorial temas de interés cultural y artístico y de aquéllas tendientes al mejoramiento cultural y la propiedad del idioma nacional, así como diseñar, promover y proponer directrices culturales y artísticos en dichas producciones;
+
+XIII. Dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, que transmitan programación con contenido preponderantemente cultural, con exclusión de las que dependan de otras dependencias;
+
+XIV. Estimular el desarrollo y mejoramiento del teatro en el país, así como organizar concursos para autores, actores y escenógrafos;
+
+XV. Otorgar becas para que los estudiantes de nacionalidad mexicana puedan realizar investigaciones o completar ciclos de estudios relacionados con las artes en el extranjero;
+
+XVI. Promover e impulsar, en coordinación con otras dependencias, el uso de las tecnologías de la información y comunicación para la difusión y desarrollo de la cultura, así como de los bienes y servicios culturales que presta el Estado, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa, conforme a las disposiciones aplicables;
+
+XVII. Ejercer todas las atribuciones que la Ley General de Bienes Nacionales y la Ley Federal sobre Monumentos Arqueológicos, Artísticos e Históricos establecen respecto de monumentos arqueológicos, artísticos e históricos, así como respecto de las zonas de monumentos arqueológicos, artísticos e históricos;
+
+XVIII. Organizar, controlar y mantener actualizado el registro de la propiedad literaria y artística, así como ejercer las facultades en materia de derechos de autor y conexos de conformidad con lo dispuesto en la Ley Federal del Derecho de Autor;
+
+XIX. Formular el catálogo del patrimonio histórico nacional;
+
+XX. Formular y manejar el catálogo de los monumentos nacionales;
+
+XXI. Organizar, sostener y administrar museos históricos, arqueológicos y artísticos, pinacotecas y galerías, a efecto de cuidar la integridad, mantenimiento y conservación de tesoros históricos y artísticos del patrimonio cultural del país;
+
+XXII. Establecer Consejos Asesores, de carácter interinstitucional, en los que también podrán participar especialistas en las materias competencia de la Secretaría;
+
+XXIII. Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, nacionales e internacionales, en asuntos de su competencia, y
+
+XXIV. Los demás que le fijen expresamente las leyes y reglamentos.
 
 #### Artículo 42.
 
@@ -2370,7 +2430,9 @@ La Secretaría de Comunicaciones y Transportes y el Instituto Federal de Telecom
 
 Los concesionarios y permisionarios de televisión radiodifundida estarán obligados a realizar todas las inversiones e instalaciones necesarias para transitar a la televisión digital terrestre a más tardar el 31 de diciembre de 2015. El Instituto Federal de Telecomunicaciones vigilará el debido cumplimiento de la obligación citada.
 
-En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, los actuales permisionarios que operen estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales de UHF, no se encuentren transmitiendo señales de televisión digital terrestre, y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general, en tanto los permisionarios inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo.
+Aquellos permisionarios o concesionarios de uso público o social, incluyendo las comunitarias e indígenas, que presten el servicio de radiodifusión que no estén en condiciones de iniciar transmisiones digitales al 31 de diciembre de 2015, deberán, con antelación a esa fecha, dar aviso al Instituto Federal de Telecomunicaciones, en los términos previstos en el artículo 157 de la Ley Federal de Telecomunicaciones y Radiodifusión a efecto de que se les autorice la suspensión temporal de sus transmisiones o, en su caso, reduzcan su potencia radiada aparente para que les sea aplicable el programa de continuidad al que se refiere el párrafo siguiente de este artículo. Los plazos que autorice el Instituto en ningún caso excederán del 31 de diciembre de 2016.
+
+En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
 
 Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
 
@@ -2603,3 +2665,229 @@ El señor Ministro Presidente Silva Meza declaró que el asunto se resolvió en 
 El Ministro Presidente de la Suprema Corte de Justicia de la Nación: Juan N. Silva Meza.- Rúbrica.- El Ministro Ponente: Alfredo Gutiérrez Ortiz Mena.- Rúbrica.- El Secretario General de Acuerdos en Funciones, Marco Antonio Cepeda Anaya.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta fotocopia constante de treinta y cinco fojas útiles, concuerda fiel y exactamente con la sentencia de veintitrés de octubre de dos mil catorce, dictada por el Tribunal Pleno en la acción de inconstitucionalidad 1/2013. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- México, Distrito Federal, a veintisiete de enero de dos mil quince.- Rúbrica.
+
+### SENTENCIA dictada por el Tribunal Pleno en la Acción de Inconstitucionalidad 1/2013, promovida por los Diputados y Diputadas integrantes de la Sexagésima Segunda Legislatura del Congreso de la Unión; así como el Voto Aclaratorio formulado por el Ministro José Ramón Cossío Díaz.
+
+*Publicada en el Diario Oficial de la Federación el 19 de marzo de 2015*
+
+ACCIÓN DE INCONSTITUCIONALIDAD 1/2013
+
+PROMOVENTES: DIPUTADOS Y DIPUTADAS INTEGRANTES DE LA SEXAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DE LA UNIÓN
+
+PONENTE: MINISTRO ALFREDO GUTIÉRREZ ORTIZ MENA
+
+SECRETARIO: MIGUEL ANTONIO NÚÑEZ VALADEZ
+
+México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación correspondiente al día veintitrés de octubre de dos mil catorce, por el que se emite la siguiente:
+
+SENTENCIA
+
+Mediante la que se resuelve la acción de inconstitucionalidad 1/2013, promovida por diversos diputados y diputadas federales de la Sexagésima Segunda Legislatura del Congreso de la Unión en contra de diversos preceptos de la Ley Orgánica de la Administración Pública Federal.
+
+I A VIII. ………
+
+IX. EFECTOS DE LA SENTENCIA
+
+118\. Atendiendo a lo dispuesto por el artículo 73, en relación con el 45, ambos de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, que señalan:
+
+**Artículo 73.** Las sentencias se regirán por lo dispuesto en los artículos 41, 43, 44 y 45 de esta ley.”
+
+**Artículo 45.** Las sentencias producirán sus efectos a partir de la fecha que determine la Suprema Corte de Justicia de la Nación.
+
+La declaración de invalidez de las sentencias no tendrá efectos retroactivos, salvo en materia penal, en la que regirán los principios generales y disposiciones legales aplicables de esta materia.
+
+119\. La declaratoria de invalidez de las citadas porciones normativas del artículo 27, fracciones XII, XXX y último párrafo, de la Ley Orgánica de la Administración Pública Federal tienen efectos generales y surtirán su vigencia a partir de la publicación de esta sentencia en el Diario Oficial de la Federación.
+
+120\. En suma, por lo expuesto y fundado,
+
+SE RESUELVE:
+
+**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+
+**SEGUNDO.** Se desestima la presente acción de inconstitucionalidad en relación con el artículo 27, párrafo último, de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que dice “el Secretario Ejecutivo del Sistema Nacional de Seguridad”.
+
+**TERCERO.** Se reconoce la validez de la fracción XVI del artículo 27 de la Ley Orgánica de la Administración Pública Federal, en la porción normativa impugnada que dice “en los términos que establece el párrafo final de este artículo”, en términos del apartado VII de la presente sentencia.
+
+**CUARTO.** Se declara la invalidez de la fracción XII del artículo 27 de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que señala “comparecer cada seis meses ante las comisiones de Gobernación y de Seguridad Pública del Senado para presentar la política criminal y darle seguimiento cuando ésta se apruebe o se modifique”; y de la fracción XXX del mismo artículo, en la porción normativa que establece “a través de comparecencia de su titular cada seis meses ante la Comisión Bicamaral prevista en el artículo 56 de la Ley de Seguridad Nacional”, en términos del apartado VIII de la presente sentencia.
+
+**QUINTO.** Se declara la invalidez de la porción normativa del párrafo último del artículo 27 de la Ley Orgánica de la Administración Pública Federal que indica: “El Comisionado Nacional de Seguridad y” en términos del apartado VII de la presente sentencia.
+
+**SEXTO.** Publíquese esta sentencia en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+Notifíquese haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
+
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+
+En relación con el punto resolutivo primero:
+
+Se aprobó por unanimidad de diez votos de las Ministras y los Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas, Pérez Dayán y Presidente Silva Meza, respecto de los apartados I, II, III, IV, V y VI relativos, respectivamente, a los antecedentes y trámite de la demanda, a la competencia, a la oportunidad, a la legitimación, a las causas de improcedencia y a la delimitación de la materia de estudio.
+
+En relación con el punto resolutivo segundo:
+
+Se expresó una mayoría de siete votos de la Ministra y los Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo y Aguilar Morales, respecto de la propuesta del apartado VII, consistente en declarar la invalidez del artículo 27, párrafo último, de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que señala “el Secretario Ejecutivo del Sistema Nacional de Seguridad”. La Ministra Sánchez Cordero de García Villegas y los Ministros Pérez Dayán y Presidente Silva Meza votaron en contra. La Ministra y los Ministros Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea y Aguilar Morales reservaron su derecho de formular sendos votos concurrentes. La señora Ministra Sánchez Cordero de García Villegas reservó su derecho de formular voto particular.
+
+Dado el resultado obtenido, el Tribunal Pleno determinó desestimar el planteamiento anterior al no alcanzar una mayoría calificada, con fundamento en lo dispuesto en los artículos 105, fracción II, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos y 72 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
+
+En relación con el punto resolutivo tercero:
+
+Se aprobó por unanimidad de diez votos de las Ministras y los Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas, Pérez Dayán y Presidente Silva Meza, respecto de la propuesta del apartado VII, consistente en reconocer la validez del artículo 27, fracción XVI, de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que indica “en los términos que establece el párrafo final de este artículo”.
+
+En relación con el punto resolutivo cuarto:
+
+Se aprobó por unanimidad de diez votos de las Ministras y los Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas, Pérez Dayán y Presidente Silva Meza, respecto de la propuesta del apartado VIII consistente en, por un lado, declarar la invalidez del artículo 27, fracción XII, de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que indica “comparecer cada seis meses ante las comisiones de Gobernación y de Seguridad Pública del Senado para presentar la política criminal y darle seguimiento cuando ésta se apruebe o se modifique” y, por otro lado, declarar la invalidez del artículo 27, fracción XXX, de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que cita “a través de comparecencia de su titular cada seis meses ante la Comisión Bicamaral prevista en el artículo 56 de la Ley de Seguridad Nacional”.
+
+En relación con el punto resolutivo quinto:
+
+Se aprobó por mayoría de ocho votos de las Ministras y los Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales y Sánchez Cordero de García Villegas, respecto de la propuesta del apartado VII, consistente en declarar la invalidez del artículo 27, párrafo último, de la Ley Orgánica de la Administración Pública Federal, en la porción normativa que señala “El Comisionado Nacional de Seguridad y”. Los señores Ministros Pérez Dayán y Presidente Silva Meza votaron en contra. La Ministra y los Ministros Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea y Aguilar Morales reservaron su derecho de formular sendos votos concurrentes.
+
+En relación con el punto resolutivo sexto:
+
+Se aprobó por unanimidad de diez votos de las Ministras y los Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas, Pérez Dayán y Presidente Silva Meza.
+
+El señor Ministro Sergio A. Valls Hernández no asistió a las sesiones de veintiuno y veintitrés de octubre de dos mil catorce por licencia concedida.
+
+El señor Ministro Presidente Silva Meza declaró que el asunto se resolvió en los términos precisados. Doy fe.
+
+El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Juan N. Silva Meza.- Rúbrica.- El Ponente, Ministro Alfredo Gutiérrez Ortiz Mena.- Rúbrica.- El Secretario General de Acuerdos en Funciones, Marco Antonio Cepeda Anaya.- Rúbrica.
+
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta fotocopia constante de treinta y cinco fojas útiles, concuerda fiel y exactamente con la sentencia de veintitrés de octubre de dos mil catorce, dictada por el Tribunal Pleno en la acción de inconstitucionalidad 1/2013. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- México, Distrito Federal, a cuatro de marzo de dos mil quince.- Rúbrica.
+
+### DECRETO por el que se adiciona una fracción X Bis al artículo 27 de la Ley Orgánica de la Administración Pública Federal.
+
+*Publicado en el Diario Oficial de la Federación el 13 de mayo de 2015*
+
+**Artículo Único.-** Se adiciona una fracción X Bis al artículo 27 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 25 de marzo de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Julio César Moreno Rivera, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a siete de mayo de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.
+
+*Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015*
+
+**ARTÍCULO PRIMERO.-** Se REFORMAN los artículos 26; 38, fracciones II, IX, XXVIII, XXIX y XXX Bis; se ADICIONA el artículo 41 Bis, y se DEROGAN las fracciones X, XII, XIV, XVII, XVIII, XIX, XX, XXI y XXII del artículo 38 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+………..
+
+**TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+**TERCERO.** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+**CUARTO.** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+**QUINTO.** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+**SEXTO.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+**SÉPTIMO.** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+**OCTAVO.** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+**NOVENO.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+**DÉCIMO.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo Décimo Noveno Transitorio del Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión, publicado el 14 de julio de 2014.
+
+*Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2015*
+
+**ARTÍCULO ÚNICO.-** Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el actual párrafo séptimo del artículo Décimo Noveno Transitorio del “DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+
+**Tercero.** A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+México, D. F., a 9 de diciembre de 2015.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman la denominación y diversas disposiciones de la Ley de la Economía Social y Solidaria, reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, y se adicionan las fracciones XIV y XV al artículo 32 y se deroga la fracción X del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
+
+*Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2015*
+
+**Artículo Segundo.** Se adicionan las fracciones XIV y XV al artículo 32 y se deroga la fracción X del artículo 34 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el primero de enero del año dos mil dieciséis, sin perjuicio de lo señalado en las siguientes disposiciones transitorias.
+
+**Segundo.** El Ejecutivo Federal, a más tardar a los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias correspondientes.
+
+**Tercero.** El Acuerdo de organización y funcionamiento del Instituto Nacional de la Economía Social publicado el 22 de julio de 2013 en el Diario Oficial de la Federación, continuará aplicándose en lo que no se oponga a este Decreto, hasta que la Secretaría de Desarrollo Social emita el nuevo Acuerdo. En tanto ello sucede, dicha Secretaría resolverá respecto de aquello que no se encuentre previsto.
+
+**Cuarto.** Los oficiales mayores de la secretarías de Desarrollo Social y de Economía, con la participación que corresponda al Instituto Nacional de la Economía Social y el apoyo de la Secretaría de Hacienda y Crédito Público, realizarán todas las acciones administrativas para dar cumplimiento a lo establecido en el presente Decreto, mismas que deberán estar concluidas a más tardar en el plazo a que se refiere el transitorio Segundo de este Decreto.
+
+**Quinto.** Los derechos laborales de los trabajadores del Instituto Nacional de la Economía Social no se verán afectados con motivo de la entrada en vigor de este Decreto.
+
+En caso de que la Secretaría de Desarrollo Social determine, con base en las prioridades de gasto público del ejercicio fiscal de que se trate, así como en las necesidades y funciones del Instituto Nacional de la Economía Social, que se deben realizar modificaciones a la estructura orgánica de éste, los derechos laborales de los trabajadores deberán ser respetados conforme a la Ley.
+
+**Sexto.** En el plazo referido en el transitorio segundo de este Decreto, la Secretaría de Desarrollo Social emitirá las reglas de operación, que contendrán al menos lo siguiente:
+
+a) Para la consolidación empresarial y el desarrollo de organismos del sector social de la economía que cumplan con los requisitos establecidos en las propias reglas de operación recibirán los apoyos del Instituto.
+
+b) Los beneficiarios de los programas que actualmente opera la Secretaría correspondientes y que se incorporen a los programas operados por el Instituto, serán sujetos de las reglas de operación del programa de fomento a la economía social y deberán cumplir con los criterios vigentes de elegibilidad y requisitos para ser beneficiarios de los programas operados por el Instituto.
+
+c) Los mecanismos de evaluación y transparencia sobre los resultados de los programas a cargo del Instituto y el padrón de beneficiarios a través de las disposiciones aplicables.
+
+Con la finalidad de verificar el cumplimiento de las políticas públicas de fomento y apoyo, el Consejo Nacional de Evaluación de la Política de Desarrollo Social realizará la evaluación de los programas a cargo de la Secretaría de Desarrollo Social, y los remitirá a la Cámara de Diputados, en los términos que establece la Ley de la Economía Social y Solidaria Reglamentaria del párrafo octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía.
+
+México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Contabilidad Gubernamental y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+*Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2015*
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Consejo Nacional de Armonización Contable, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, emitirá las reglas de operación que deberán cumplir las entidades federativas para la integración y funcionamiento de sus consejos de armonización contable.
+
+**Tercero.** Las entidades federativas deberán instalar sus consejos de armonización contable a más tardar a los treinta días naturales siguientes a la emisión de las reglas a que se refiere el artículo transitorio anterior.
+
+**Cuarto.** En la fecha a que se refiere el transitorio Primero del presente Decreto, entrará en vigor la modificación prevista a la fracción XIX del artículo 31 de la Ley Orgánica de la Administración Pública Federal, establecida en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013.
+
+**Quinto.** El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+**Sexto.** Derivado de lo previsto en el presente Decreto, los trámites que se hayan iniciado ante la Secretaría de la Función Pública serán concluidos por la Secretaría de Hacienda y Crédito Público.
+
+Las secretarías de Hacienda y Crédito Público y de la Función Pública realizarán las acciones que correspondan en el ámbito administrativo para que, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público reciba los asuntos en trámite, a fin de dar cumplimiento a lo previsto en el párrafo anterior.
+
+Las erogaciones que, en su caso, realicen las dependencias a que se refiere el párrafo anterior en cumplimiento a este Decreto, se cubrirán con cargo a sus respectivos presupuestos aprobados para el ejercicio fiscal correspondiente.
+
+**Séptimo.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+México, D.F., a 14 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
