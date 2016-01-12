@@ -3,12 +3,12 @@ title: Código Nacional de Procedimientos Penales
 abbreviation: CNPP
 slug: cnpp
 published_dof: 2014-03-05
-last_reform_dof: 2014-12-29
+last_reform_dof: 2016-01-12
 articles: 490
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_291214.doc
-archived: https://web.archive.org/web/20150315094139/http://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_291214.doc
-source_sha256: c9335e01f18bfae3ca83f5fb9075acc94d19fa76b27183f19580c4c1bd52a0cd
-retrieved: 2015-03-15
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_120116.doc
+archived: https://web.archive.org/web/20160221053739/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_120116.doc
+source_sha256: f8ddd4681a0ebc9a3e4949017d2338fb570008600994cd04e2e1c531ca9adac6
+retrieved: 2016-02-21
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 ---
 
@@ -16,7 +16,7 @@ reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 
 Nuevo Código publicado en el Diario Oficial de la Federación el 5 de marzo de 2014
 
-Última reforma publicada DOF 29-12-2014
+Última reforma publicada DOF 12-01-2016
 
 > Nota de vigencia: El presente Código entrará en vigor de conformidad con lo que establece el Artículo Segundo Transitorio del mismo:
 >
@@ -2825,9 +2825,15 @@ Ni el aseguramiento de bienes ni su conversión a numerario implican que éstos 
 
 ###### Artículo 235.
 
-Aseguramiento de narcóticos y productos relacionados con delitos de propiedad intelectual y derechos de autor
+Aseguramiento de narcóticos y productos relacionados con delitos de propiedad intelectual, derechos de autor e hidrocarburos.
+
+*Encabezado del artículo reformado DOF 12-01-2016*
 
 Cuando se aseguren narcóticos previstos en cualquier disposición, productos relacionados con delitos de propiedad intelectual y derechos de autor o bienes que impliquen un alto costo o peligrosidad por su conservación, si esta medida es procedente, el Ministerio Público ordenará su destrucción, previa autorización o intervención de las autoridades correspondientes, debiendo previamente fotografiarlos o videograbarlos, así como levantar un acta en la que se haga constar la naturaleza, peso, cantidad o volumen y demás características de éstos, debiéndose recabar muestras del mismo para que obren en los registros de la investigación que al efecto se inicie.
+
+Cuando se aseguren hidrocarburos, petrolíferos o petroquímicos y demás activos, se pondrán a disposición del Ministerio Público de la Federación, quien sin dilación alguna procederá a su entrega a los asignatarios, contratistas o permisionarios, o a quien resulte procedente, quienes estarán obligados a recibirlos en los mismos términos, para su destino final, previa inspección en la que se determinará la naturaleza, volumen y demás características de éstos; conservando muestras representativas para la elaboración de los dictámenes periciales que hayan de producirse en la carpeta de investigación y en proceso, según sea el caso.
+
+*Párrafo adicionado DOF 12-01-2016*
 
 ###### Artículo 236.
 
@@ -2886,6 +2892,18 @@ El Ministerio Público o a solicitud de la Policía podrá ordenar la suspensió
 Efectos del aseguramiento en actividades lícitas
 
 El aseguramiento no será causa para el cierre o suspensión de actividades de empresas, negociaciones o establecimientos con actividades lícitas.
+
+Tratándose de los delitos que refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, el Ministerio Público de la Federación, asegurará el establecimiento mercantil o empresa prestadora del servicio e inmediatamente notificará al Servicio de Administración y Enajenación de Bienes con la finalidad de que el establecimiento mercantil o empresa asegurada le sea transferida.
+
+*Párrafo adicionado DOF 12-01-2016*
+
+Previo a que la empresa sea transferida al Servicio de Administración y Enajenación de Bienes, se retirará el producto ilícito de los contenedores del establecimiento o empresa y se suministrarán los hidrocarburos lícitos con el objeto de continuar las actividades, siempre y cuando la empresa cuente con los recursos para la compra del producto; suministro que se llevará a cabo una vez que la empresa haya sido transferida al Servicio de Administración y Enajenación de Bienes para su administración.
+
+*Párrafo adicionado DOF 12-01-2016*
+
+En caso de que el establecimiento o empresa prestadora del servicio corresponda a un franquiciatario o permisionario, el aseguramiento constituirá causa justa para que el franquiciante pueda dar por terminados los contratos respectivos en términos de la Ley de la Propiedad Industrial, y tratándose del permisionario, el otorgante del permiso pueda revocarlo. Para lo anterior, previamente la autoridad ministerial o judicial deberá determinar su destino.
+
+*Párrafo adicionado DOF 12-01-2016*
 
 ###### Artículo 244.
 
@@ -5522,3 +5540,33 @@ Dentro de los sesenta días siguientes a la publicación de este Decreto en el D
 México, D.F., a 2 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se expide la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Federal contra la Delincuencia Organizada; de la Ley Federal de Extinción de Dominio, reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; del Código Fiscal de la Federación y del Código Nacional de Procedimientos Penales.
+
+*Publicado en el Diario Oficial de la Federación el 12 de enero de 2016*
+
+**ARTÍCULO SÉPTIMO.** Se reforma el encabezado del artículo 235; y se adicionan un segundo párrafo al artículo 235; un segundo, tercer y cuarto párrafos al artículo 243 del Código Nacional de Procedimientos Penales, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
+
+**Tercero.-** A partir de la entrada en vigor de este Decreto, para el caso en que la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos contemple una descripción legal de una conducta delictiva que en el anterior Código Penal Federal o Código Fiscal de la Federación se contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+**Cuarto.-** Las sanciones pecuniarias previstas en la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos deberán adecuarse, en su caso, a la unidad de medida y actualización equivalente que por ley se prevea en el sistema penal mexicano.
+
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
+
+México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
