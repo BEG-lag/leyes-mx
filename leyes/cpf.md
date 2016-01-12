@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2014-07-14
+last_reform_dof: 2016-01-12
 articles: 528
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_140714.doc
-archived: https://web.archive.org/web/20150315234936/http://www.diputados.gob.mx/LeyesBiblio/doc/9_140714.doc
-source_sha256: 561c171ed7c29f4a83b3f0028d9a0ce94e522fd82622ff3d4a230d34fa568a98
-retrieved: 2015-03-15
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_120116.doc
+archived: https://web.archive.org/web/20160221051707/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_120116.doc
+source_sha256: 718951fc96f7ebe26f8b93e8d1b56858d5cf1671c695605581e7ab431ae16192
+retrieved: 2016-02-21
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 14-07-2014
+Última reforma publicada DOF 12-01-2016
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -1328,6 +1328,8 @@ Se impondrá pena de dos a veinte años de prisión y multa de mil a cincuenta m
 
 Se aplicará pena de seis meses a cinco años de prisión y multa hasta de cinco mil pesos, al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
 
+Las sanciones a que se refiere el primer párrafo de este artículo se aumentarán hasta en una mitad, cuando los actos de sabotaje se realicen en los ductos, equipos, instalaciones o activos, de asignatarios, contratistas, permisionarios o distribuidores a que se refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
+
 #### CAPITULO VIII · Conspiración
 
 ##### Artículo 141.
@@ -2394,9 +2396,9 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de dos años
 
 Cometen el delito de cohecho:
 
-I.- El servidor público que por sí, o por interpósita persona solicite o reciba indebidamente para sí o para otro, dinero o cualquiera otra dádiva, o acepte una promesa, para hacer o dejar de hacer algo justo o injusto relacionado con sus funciones, y
+I. El servidor público que por sí, o por interpósita persona solicite o reciba indebidamente para sí o para otro, dinero o cualquiera otra dádiva, o acepte una promesa, para hacer o dejar de realizar un acto relacionado con sus funciones inherentes a su empleo, cargo o comisión, y
 
-II.- El que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva a alguna de las personas que se mencionan en la fracción anterior, para que cualquier servidor público haga u omita un acto justo o injusto relacionado con sus funciones.
+II. El que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva a alguna de las personas que se mencionan en la fracción anterior, para que cualquier servidor público haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión.
 
 Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
 
@@ -2412,9 +2414,9 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 Se impondrán las penas previstas en el artículo anterior al que con el propósito de obtener o retener para sí o para otra persona ventajas indebidas en el desarrollo o conducción de transacciones comerciales internacionales, ofrezca, prometa o dé, por sí o por interpósita persona, dinero o cualquiera otra dádiva, ya sea en bienes o servicios:
 
-I.- A un servidor público extranjero o a un tercero que éste determine, para que dicho servidor público gestione o se abstenga de gestionar la tramitación o resolución de asuntos relacionados con las funciones inherentes a su empleo, cargo o comisión;
+I. A un servidor público extranjero, en su beneficio o el de un tercero, para que dicho servidor público gestione o se abstenga de gestionar la tramitación o resolución de asuntos relacionados con las funciones inherentes a su empleo, cargo o comisión;
 
-II.- A un servidor público extranjero, o a un tercero que éste determine, para que dicho servidor público lleve a cabo la tramitación o resolución de cualquier asunto que se encuentre fuera del ámbito de las funciones inherentes a su empleo, cargo o comisión, o
+II. A un servidor público extranjero, en su beneficio o el de un tercero, para que dicho servidor público gestione la tramitación o resolución de cualquier asunto que se encuentre fuera del ámbito de las funciones inherentes a su empleo, cargo o comisión, o
 
 III. A cualquier persona para que acuda ante un servidor público extranjero y le requiera o le proponga llevar a cabo la tramitación o resolución de cualquier asunto relacionado con las funciones inherentes al empleo, cargo o comisión de este último.
 
@@ -2690,6 +2692,8 @@ IV.- Al que falsifique los punzones, matrices, planchas o cualquier otro objeto 
 
 V.- Al que falsifique las marcas de inspección de pesas y medidas.
 
+La pena que corresponda por el delito previsto en la fracción I, se aumentará hasta en una mitad, cuando se falsifiquen sellos de asignatarios, contratistas, permisionarios o distribuidores a que se refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
+
 ##### Artículo 242.
 
 Se impondrán prisión de tres meses a tres años y multa de veinte a mil pesos:
@@ -2721,6 +2725,8 @@ Se impondrá prisión de uno a cinco años y multa de doscientos a dos mil pesos
 El delito de falsificación se castigará, tratándose de documentos públicos, con prisión de cuatro a ocho años y de doscientos a trescientos sesenta días multa. En el caso de documentos privados, con prisión de seis meses a cinco años y de ciento ochenta a trescientos sesenta días multa.
 
 Si quien realiza la falsificación es un servidor público, la pena de que se trate, se aumentará hasta en una mitad más.
+
+La pena que corresponda por el delito previsto en el primer párrafo, se aumentará hasta en una mitad, cuando se falsifiquen documentos de asignatarios, contratistas, permisionarios o distribuidores a que se refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
 
 ##### Artículo 244.
 
@@ -2912,7 +2918,7 @@ h).- Distraer, para usos distintos mercancías que hayan sido surtidas para un f
 
 i).- Impedir o tratar de impedir la generación, conducción, transformación, distribución o venta de energía eléctrica de servicio público.
 
-j).- Interrumpir o interferir intencionalmente la producción, o el servicio de almacenamiento o distribución de gas natural, artificial o licuado de petróleo.
+j) Se deroga.
 
 II.- Envasar o empacar las mercancías destinadas para la venta, en cantidad inferior a la indicada como contenido neto y fuera de la respectiva tolerancia o sin indicar en los envases o empaques el precio máximo oficial de venta al público, cuando se tenga la obligación de hacerlo.
 
@@ -2952,11 +2958,9 @@ Si el que entregue los insumos referidos, fuere el productor que los recibió de
 
 VI.- A los funcionarios o empleados de cualquiera entidad o dependencia pública que entreguen estos insumos a quienes no tengan derecho a recibirlos; o que indebidamente nieguen o retarden la entrega a quienes tienen derecho a recibirlos, se harán acreedores a las sanciones del artículo 253.
 
-VII. Al que sin derecho y sin consentimiento de la persona que legalmente pueda autorizarlo, sustraiga o aproveche hidrocarburos o sus derivados, de los equipos o instalaciones de la industria petrolera a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, distintos a los previstos en la fracción IV del artículo 368 Quáter de este Código, cualquiera que sea su estado físico; o realice cualquier sustracción o alteración de dichos equipos o instalaciones.
+VII.- Se deroga.
 
-La sanción que corresponda se aumentará en una mitad cuando se realice en los ductos o sus instalaciones afectos a la industria petrolera o cuando el responsable sea o haya sido trabajador o servidor público de dicha industria.
-
-VIII. A quien de manera dolosa altere los instrumentos de medición utilizados para enajenar o suministrar hidrocarburos refinados, procesados o sus derivados. En este caso la sanción que corresponda se aumentará hasta en una mitad cuando el responsable sea o haya sido trabajador o servidor público de la industria petrolera, y
+VIII.- Se deroga.
 
 IX. Al que sin derecho realice cualquier sustracción o alteración de equipos o instalaciones del servicio público de energía eléctrica.
 
@@ -3802,27 +3806,7 @@ Al que comercialice en forma habitual objetos robados, a sabiendas de esta circu
 
 ##### Artículo 368 Quáter.
 
-Se sancionará a quien:
-
-I. Posea o resguarde de manera ilícita petróleo crudo o hidrocarburos refinados, procesados o sus derivados.
-
-Cuando la cantidad sea menor de 300 litros y hasta 300 litros, con pena de prisión de seis meses a dos años y de cien a quinientos días multa.
-
-Cuando la cantidad sea mayor de 300 litros pero menor de 1 000 litros, con pena de prisión de dos a cuatro años y de quinientos a mil días multa.
-
-En caso de que la cantidad sea igual o mayor a 1 000 litros, con pena de prisión de cuatro a diez años y de mil a doce mil días multa.
-
-No se aplicará la pena prevista en el segundo párrafo de esta fracción, siempre que se trate de la posesión de hidrocarburos refinados, procesados o sus derivados hasta por la cantidad de 300 litros, cuando el sujeto activo detente la posesión de estos productos con fines de consumo para actividades agropecuarias o pesqueras lícitas dentro de su comunidad.
-
-II. Enajene o suministre gasolinas o diesel con conocimiento de que está entregando una cantidad inferior desde 1.5 por ciento a la cantidad que aparezca registrada por los instrumentos de medición que se emplean para su enajenación o suministro con pena de prisión de tres a seis años y de quinientos a mil días multa.
-
-III. Enajene o suministre gas licuado de petróleo mediante estación de Gas L.P., para carburación, con conocimiento de que está entregando una cantidad inferior desde 3.0 por ciento a la cantidad que aparezca registrada por los instrumentos de medición que se emplean para su enajenación o suministro con una pena de prisión de tres a seis años y de quinientos a mil días multa.
-
-IV. Sustraiga o aproveche petróleo crudo o hidrocarburos refinados, procesados o sus derivados de ductos, equipos o instalaciones de Petróleos Mexicanos, sus organismos subsidiarios o empresas filiales con pena de prisión de ocho a doce años y de mil a doce mil días multa.
-
-Las sanciones que correspondan en este artículo se aumentarán hasta en una mitad cuando el responsable sea o haya sido trabajador o servidor público de la industria petrolera.
-
-Las penas que correspondan por los delitos previstos en este artículo, se aumentarán en una mitad más para el trabajador o servidor público que, con motivo de su trabajo, suministre información de las instalaciones, del equipo o de la operación de la industria que resulte útil o pueda auxiliar a la comisión de los delitos de referencia.
+Se deroga.
 
 ##### Artículo 368 Quinquies.
 
@@ -5929,7 +5913,9 @@ La Secretaría de Comunicaciones y Transportes y el Instituto Federal de Telecom
 
 Los concesionarios y permisionarios de televisión radiodifundida estarán obligados a realizar todas las inversiones e instalaciones necesarias para transitar a la televisión digital terrestre a más tardar el 31 de diciembre de 2015. El Instituto Federal de Telecomunicaciones vigilará el debido cumplimiento de la obligación citada.
 
-En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, los actuales permisionarios que operen estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales de UHF, no se encuentren transmitiendo señales de televisión digital terrestre, y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general, en tanto los permisionarios inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo.
+Aquellos permisionarios o concesionarios de uso público o social, incluyendo las comunitarias e indígenas, que presten el servicio de radiodifusión que no estén en condiciones de iniciar transmisiones digitales al 31 de diciembre de 2015, deberán, con antelación a esa fecha, dar aviso al Instituto Federal de Telecomunicaciones, en los términos previstos en el artículo 157 de la Ley Federal de Telecomunicaciones y Radiodifusión a efecto de que se les autorice la suspensión temporal de sus transmisiones o, en su caso, reduzcan su potencia radiada aparente para que les sea aplicable el programa de continuidad al que se refiere el párrafo siguiente de este artículo. Los plazos que autorice el Instituto en ningún caso excederán del 31 de diciembre de 2016.
+
+En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
 
 Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
 
@@ -6020,3 +6006,73 @@ En caso de que exista impedimento técnico, legal o económico para que Telecomu
 México, D.F., a 08 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de julio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 222 y 222 Bis del Código Penal Federal y el artículo 13 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
+
+*Publicado en el Diario Oficial de la Federación el 12 de marzo de 2015*
+
+**Artículo Primero.** Se reforma el artículo 222 del Código Penal Federal, para quedar como sigue:
+
+………
+
+**Artículo Segundo.** Se reforma el artículo 222 Bis del Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Artículo Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 5 de febrero de 2015.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Fernando Bribiesca Sahagún, Secretario.- Sen. Lucero Saldaña Pérez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de marzo de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo Décimo Noveno Transitorio del Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión, publicado el 14 de julio de 2014.
+
+*Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2015*
+
+**ARTÍCULO ÚNICO.-** Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el actual párrafo séptimo del artículo Décimo Noveno Transitorio del “DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+
+**Tercero.** A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+México, D. F., a 9 de diciembre de 2015.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se expide la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Federal contra la Delincuencia Organizada; de la Ley Federal de Extinción de Dominio, reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; del Código Fiscal de la Federación y del Código Nacional de Procedimientos Penales.
+
+*Publicado en el Diario Oficial de la Federación el 12 de enero de 2016*
+
+**ARTÍCULO TERCERO.** Se adicionan un tercer párrafo al artículo 140; un último párrafo al artículo 241 y un tercer párrafo al artículo 243, y se derogan el inciso j) de la fracción I del artículo 253; las fracciones VII y VIII del artículo 254, y el artículo 368 Quáter del Código Penal Federal, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
+
+**Tercero.-** A partir de la entrada en vigor de este Decreto, para el caso en que la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos contemple una descripción legal de una conducta delictiva que en el anterior Código Penal Federal o Código Fiscal de la Federación se contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+**Cuarto.-** Las sanciones pecuniarias previstas en la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos deberán adecuarse, en su caso, a la unidad de medida y actualización equivalente que por ley se prevea en el sistema penal mexicano.
+
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
+
+México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
