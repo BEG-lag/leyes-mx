@@ -3,12 +3,12 @@ title: Ley Federal del Derecho de Autor
 abbreviation: LFDA
 slug: lfda
 published_dof: 1996-12-24
-last_reform_dof: 2015-03-17
+last_reform_dof: 2016-01-13
 articles: 244
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/122_170315.doc
-archived: https://web.archive.org/web/20150514150313/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122_170315.doc
-source_sha256: e8970a0ea3fb5947873724b68cc7c13406b8748d87a830939071ca7c277ccfcc
-retrieved: 2015-05-14
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/122_130116.doc
+archived: https://web.archive.org/web/20160221054744/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122_130116.doc
+source_sha256: fcac19d41cfd6f423b484c1d0a66c9e9225a969ff1e419bcf101beb548ad86f9
+retrieved: 2016-02-21
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfda.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 17-03-2015
+Última reforma publicada DOF 13-01-2016
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1100,7 +1100,9 @@ Los derechos de los organismos de radiodifusión a los que se refiere este Capí
 
 #### Artículo 147.
 
-Se considera de utilidad pública la publicación o traducción de obras literarias o artísticas necesarias para el adelanto de la ciencia, la cultura y la educación nacionales. Cuando no sea posible obtener el consentimiento del titular de los derechos patrimoniales correspondientes, y mediante el pago de una remuneración compensatoria, el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, de oficio o a petición de parte, podrá autorizar la publicación o traducción mencionada. Lo anterior será sin perjuicio de los tratados internacionales sobre derechos de autor y derechos conexos suscritos y aprobados por México.
+Se considera de utilidad pública la publicación o traducción de obras literarias o artísticas necesarias para el adelanto de la ciencia, la cultura y la educación nacionales. Cuando no sea posible obtener el consentimiento del titular de los derechos patrimoniales correspondientes, y mediante el pago de una remuneración compensatoria, el Ejecutivo Federal, por conducto de la Secretaría de Cultura, de oficio o a petición de parte, podrá autorizar la publicación o traducción mencionada. Lo anterior será sin perjuicio de los tratados internacionales sobre derechos de autor y derechos conexos suscritos y aprobados por México.
+
+*Artículo reformado DOF 17-12-2015*
 
 ### Capítulo II · De la Limitación a los Derechos Patrimoniales
 
@@ -1656,7 +1658,9 @@ Previa denuncia de por lo menos el diez por ciento de los miembros el Instituto 
 
 #### Artículo 208.
 
-El Instituto Nacional del Derecho de Autor, autoridad administrativa en materia de derechos de autor y derechos conexos, es un órgano desconcentrado de la Secretaría de Educación Pública.
+El Instituto Nacional del Derecho de Autor es un órgano administrativo desconcentrado de la Secretaría de Cultura y será la autoridad administrativa en materia de derechos de autor y derechos conexos.
+
+*Artículo reformado DOF 17-12-2015*
 
 #### Artículo 209.
 
@@ -1690,7 +1694,9 @@ V. Las demás que le correspondan en los términos de la presente Ley, sus regla
 
 #### Artículo 211.
 
-El Instituto estará a cargo de un Director General que será nombrado y removido por el Ejecutivo Federal, por conducto del Secretario de Educación Pública, con las facultades previstas en la presente Ley, en sus reglamentos y demás disposiciones aplicables.
+El Instituto estará a cargo de un Director General que será nombrado y removido por el Secretario de Cultura, con las facultades previstas en la presente Ley, en sus reglamentos y demás disposiciones jurídicas aplicables.
+
+*Artículo reformado DOF 17-12-2015*
 
 #### Artículo 212.
 
@@ -1900,9 +1906,9 @@ I. Comunicar o utilizar públicamente una obra protegida por cualquier medio, y 
 
 II. Utilizar la imagen de una persona sin su autorización o la de sus causahabientes;
 
-III. Producir, reproducir, almacenar, distribuir, transportar o comercializar copias de obras, fonogramas, videogramas o libros, protegidos por los derechos de autor o por los derechos conexos, sin la autorización de los respectivos titulares en los términos de esta ley;
+III. Fijar, producir, reproducir, almacenar, distribuir, transportar o comercializar copias de obras, obras cinematográficas y demás obras audiovisuales, fonogramas, videogramas o libros, protegidos por los derechos de autor o por los derechos conexos, sin la autorización de los respectivo titulares en los términos de esta Ley;
 
-*Fracción reformada DOF 19-05-1997*
+*Fracción reformada DOF 19-05-1997, 13-01-2016*
 
 IV. Ofrecer en venta, almacenar, transportar o poner en circulación obras protegidas por esta Ley que hayan sido deformadas, modificadas o mutiladas sin autorización del titular del derecho de autor;
 
@@ -2218,7 +2224,13 @@ La Secretaría de Comunicaciones y Transportes y el Instituto Federal de Telecom
 
 Los concesionarios y permisionarios de televisión radiodifundida estarán obligados a realizar todas las inversiones e instalaciones necesarias para transitar a la televisión digital terrestre a más tardar el 31 de diciembre de 2015. El Instituto Federal de Telecomunicaciones vigilará el debido cumplimiento de la obligación citada.
 
-En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, los actuales permisionarios que operen estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales de UHF, no se encuentren transmitiendo señales de televisión digital terrestre, y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general, en tanto los permisionarios inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo.
+Aquellos permisionarios o concesionarios de uso público o social, incluyendo las comunitarias e indígenas, que presten el servicio de radiodifusión que no estén en condiciones de iniciar transmisiones digitales al 31 de diciembre de 2015, deberán, con antelación a esa fecha, dar aviso al Instituto Federal de Telecomunicaciones, en los términos previstos en el artículo 157 de la Ley Federal de Telecomunicaciones y Radiodifusión a efecto de que se les autorice la suspensión temporal de sus transmisiones o, en su caso, reduzcan su potencia radiada aparente para que les sea aplicable el programa de continuidad al que se refiere el párrafo siguiente de este artículo. Los plazos que autorice el Instituto en ningún caso excederán del 31 de diciembre de 2016.
+
+*Párrafo adicionado DOF 18-12-2015*
+
+En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
+
+*Párrafo reformado DOF 18-12-2015*
 
 Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
 
@@ -2325,3 +2337,79 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 10 de febrero de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Francisca Elena Corrales Corrales, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de marzo de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.
+
+*Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015*
+
+**ARTÍCULO DÉCIMO TERCERO.-** Se REFORMAN los artículos 147, 208 y 211 de la Ley Federal del Derecho de Autor, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+**TERCERO.** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+**CUARTO.** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+**QUINTO.** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+**SEXTO.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+**SÉPTIMO.** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+**OCTAVO.** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+**NOVENO.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+**DÉCIMO.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo Décimo Noveno Transitorio del Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión, publicado el 14 de julio de 2014.
+
+*Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2015*
+
+**ARTÍCULO ÚNICO.-** Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el actual párrafo séptimo del artículo Décimo Noveno Transitorio del “DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+
+**Tercero.** A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+México, D. F., a 9 de diciembre de 2015.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción III del artículo 231 de la Ley Federal del Derecho de Autor.
+
+*Publicado en el Diario Oficial de la Federación el 13 de enero de 2016*
+
+**Artículo Único.-** Se reforma la fracción III del artículo 231 de la Ley Federal del Derecho de Autor, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 14 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
