@@ -3,12 +3,12 @@ title: Ley de Aguas Nacionales
 abbreviation: LAN
 slug: lan
 published_dof: 1992-12-01
-last_reform_dof: 2014-08-11
+last_reform_dof: 2016-03-24
 articles: 193
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/16_110814.doc
-archived: https://web.archive.org/web/20150315091459/http://www.diputados.gob.mx/LeyesBiblio/doc/16_110814.doc
-source_sha256: b3c7c2955e1db2281c6ddde2025f30aae386a165f20e1ae0b2a92baa7bb6d499
-retrieved: 2015-03-15
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/16_240316.doc
+archived: https://web.archive.org/web/20181105063857/http://www.diputados.gob.mx:80/LeyesBiblio/doc/16_240316.doc
+source_sha256: 92fcb33454e16d6dad51ffa3bee994e4e3224180bf7add19660b5ff7880ea8ca
+retrieved: 2018-11-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lan.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de diciembre d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 11-08-2014
+Última reforma publicada DOF 24-03-2016
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -65,6 +65,10 @@ V. "Aguas marinas": Se refiere a las aguas en zonas marinas;
 VI. "Aguas Residuales": Las aguas de composición variada provenientes de las descargas de usos público urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y en general, de cualquier uso, así como la mezcla de ellas;
 
 VII. "Aprovechamiento": Aplicación del agua en actividades que no impliquen consumo de la misma;
+
+VII Bis. “Aprovechamiento de Paso”: Aquel realizado en cualquier actividad que no implique consumo de volúmenes de agua, y sus alteraciones no excedan los parámetros que establezcan las normas oficiales mexicanas;
+
+*Fracción adicionada DOF 24-03-2016*
 
 VIII. "Asignación": Título que otorga el Ejecutivo Federal, a través de "la Comisión" o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para realizar la explotación, uso o aprovechamiento de las aguas nacionales, a los municipios, a los estados o al Distrito Federal, destinadas a los servicios de agua con carácter público urbano o doméstico;
 
@@ -182,7 +186,9 @@ LV. "Uso Consuntivo": El volumen de agua de una calidad determinada que se consu
 
 LVI. "Uso Doméstico": La aplicación de agua nacional para el uso particular de las personas y del hogar, riego de sus jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos que no constituya una actividad lucrativa, en términos del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
-LVII. "Uso en acuacultura": La aplicación de aguas nacionales para el cultivo, reproducción y desarrollo de cualquier especie de la fauna y flora acuáticas;
+LVII. “Uso en Acuacultura”: El aprovechamiento de paso de aguas nacionales en el conjunto de actividades dirigidas a la reproducción controlada, pre engorda y engorda de especies de la fauna y flora realizadas en instalaciones en aguas nacionales, por medio de técnicas de cría o cultivo, que sean susceptibles de explotación comercial, ornamental o recreativa;
+
+*Fracción reformada DOF 24-03-2016*
 
 LVIII. "Uso industrial": La aplicación de aguas nacionales en fábricas o empresas que realicen la extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como el agua que se utiliza en parques industriales, calderas, dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aun en estado de vapor, que sea usada para la generación de energía eléctrica o para cualquier otro uso o aprovechamiento de transformación;
 
@@ -3559,29 +3565,55 @@ Para su debida observancia, cumplimiento y difusión, se publicará en el Diario
 
 1\. Doméstico;
 
+*Numeral reformado DOF 24-03-2016*
+
 2\. Público urbano;
+
+*Numeral reformado DOF 24-03-2016*
 
 3\. Pecuario;
 
+*Numeral reformado DOF 24-03-2016*
+
 4\. Agrícola;
 
-5\. Uso para la conservación ecológica o uso ambiental;
+*Numeral reformado DOF 24-03-2016*
 
-6\. Generación de energía eléctrica para servicio público;
+5\. Acuacultura;
 
-7\. Industrial;
+*Numeral reformado DOF 24-03-2016*
 
-8\. Acuacultura;
+6\. Usos para la conservación ecológica o uso ambiental;
+
+*Numeral reformado DOF 24-03-2016*
+
+7\. Generación de energía eléctrica para servicio público;
+
+*Numeral reformado DOF 24-03-2016*
+
+8\. Industrial;
+
+*Numeral reformado DOF 24-03-2016*
 
 9\. Generación de energía eléctrica para servicio privado;
 
+*Numeral reformado DOF 24-03-2016*
+
 10\. Lavado y entarquinamiento de terrenos;
 
-11\. Uso para turismo, recreación y fines terapéuticos;
+*Numeral reformado DOF 24-03-2016*
+
+11\. Usos para turismo, recreación y fines terapéuticos;
+
+*Numeral reformado DOF 24-03-2016*
 
 12\. Uso múltiple, y
 
+*Numeral reformado DOF 24-03-2016*
+
 13\. Otros.
+
+*Numeral reformado DOF 24-03-2016*
 
 Lo anterior se aplicará sin perjuicio de lo dispuesto en el Artículo 29 BIS 5 y en el Título Quinto, de esta Ley.
 
@@ -3676,3 +3708,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 5 de agosto de 2014.- Dip. José González Morfín, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Aguas Nacionales.
+
+*Publicado en el Diario Oficial de la Federación el 24 de marzo de 2016*
+
+**Artículo Único.-** Se reforma la fracción LVII del artículo 3 y se adiciona una fracción VII Bis al artículo 3; y se reforman los numerales del Artículo Décimo Quinto Transitorio del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Aguas Nacionales, publicado en el Diario Oficial de la Federación el 29 de abril de 2004”, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 25 de febrero de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. César Octavio Pedroza Gaitán, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintidós de marzo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
