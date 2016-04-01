@@ -3,12 +3,12 @@ title: Ley de Ingresos sobre Hidrocarburos
 abbreviation: LIH
 slug: lih
 published_dof: 2014-08-11
-last_reform_dof: null
+last_reform_dof: 2016-04-01
 articles: 64
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_110814.doc
-archived: https://web.archive.org/web/20150315110912/http://www.diputados.gob.mx/LeyesBiblio/doc/LIH_110814.doc
-source_sha256: ec9cca53291a453d9c4514cc5f5d87bc05fc58e87fb9804b2cffafa93677df3b
-retrieved: 2015-03-15
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_010416.doc
+archived: https://web.archive.org/web/20160430033019/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LIH_010416.doc
+source_sha256: 6e9f17ca75692bb3a8e755d3f1bc5cfabf9c1f27dc6bf5f3c2340af61a722ae4
+retrieved: 2016-04-30
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lih.htm
 ---
 
@@ -18,7 +18,7 @@ TEXTO VIGENTE
 
 Nueva Ley publicada en el Diario Oficial de la Federación el 11 de agosto de 2014
 
-> Nota de vigencia: Lo dispuesto en el Título Tercero de esta Ley entrará en vigor el 1 de enero de 2015.
+Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 01-04-2016
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -751,8 +751,8 @@ El Asignatario estará obligado al pago mensual del derecho de exploración de h
 
 |   |   |
 |---|---|
-| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,150 pesos por kilómetro cuadrado |
-| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 2,750 pesos por kilómetro cuadrado |
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,175.42 pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada DOF 01-04-2016 |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 2,810.78 pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada DOF 01-04-2016 |
 
 Las cuotas del derecho de exploración de hidrocarburos se actualizarán cada año en el mes de enero, de acuerdo a la variación en el Índice Nacional de Precios al Consumidor en el año inmediato anterior.
 
@@ -882,9 +882,13 @@ Están obligados al pago del impuesto por la actividad de exploración y extracc
 
 El impuesto por la actividad de exploración y extracción de hidrocarburos se calculará mensualmente aplicando por cada kilómetro cuadrado que comprenda el Área Contractual o el Área de Asignación, las siguientes cuotas:
 
-I. Durante la fase de exploración 1,500 pesos, y
+I. Durante la fase de exploración 1,533.15 pesos, y
 
-II. Durante la fase de extracción 6,000 pesos.
+Cantidad de la fracción actualizada DOF 01-04-2016
+
+II. Durante la fase de extracción 6,132.60 pesos.
+
+Cantidad de la fracción actualizada DOF 01-04-2016
 
 Para los efectos de este artículo, la Fase de Exploración comprende desde la formalización del Contrato o de la Asignación hasta el inicio de la Fase de Extracción, la cual comprende del inicio de las actividades destinadas a la producción comercial de Hidrocarburos hasta que concluye la vigencia del Contrato o de la Asignación.
 
@@ -1083,3 +1087,34 @@ Los recursos que se entreguen a las entidades federativas y municipios en térmi
 México, D.F., a 5 de agosto de 2014.- Dip. José González Morfín, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
+
+### PRIMERA Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2016 y sus anexos 1-A, 23 y 27.
+
+*Publicada en el Diario Oficial de la Federación el 1 de abril de 2016*
+
+Anexo 27 de la Resolución Miscelánea Fiscal para 2016
+
+Contenido
+
+Cuotas actualizadas del Derecho de Exploración de Hidrocarburos y del Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos que establece la Ley de Ingresos sobre Hidrocarburos y su Reglamento vigentes a partir del 1 de enero de 2016
+
+I. Conforme a la regla 10.20., se dan a conocer las cuotas actualizadas del Derecho de Exploración de Hidrocarburos y del Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos previstos en la Ley de Ingresos sobre Hidrocarburos y su Reglamento, establecidas en los artículos que se precisan en dicha regla, aplicables a partir del 1 de enero de 2016.
+
+**Artículo 45.-**
+
+|   |   |
+|---|---|
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,175.42 pesos por kilómetro cuadrado |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 2,810.78 pesos por kilómetro cuadrado |
+
+**Artículo 55.-**
+
+I. Durante la fase de exploración 1,533.15 pesos, y
+
+II. Durante la fase de extracción 6,132.60 pesos.
+
+Atentamente.
+
+Ciudad de México, 29 de marzo de 2016.- Por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, publicado en el Diario Oficial de la Federación el 24 de agosto de 2015, en vigor a partir del 22 de noviembre del mismo año, firma en suplencia el Administrador General Jurídico, Jaime Eusebio Flores Carrasco.- Rúbrica.
