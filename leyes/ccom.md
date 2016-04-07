@@ -3,12 +3,12 @@ title: Código de Comercio
 abbreviation: CCom
 slug: ccom
 published_dof: 1889-10-07
-last_reform_dof: 2014-12-26
-articles: 1616
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/3_261214.doc
-archived: https://web.archive.org/web/20150316022345/http://www.diputados.gob.mx/LeyesBiblio/doc/3_261214.doc
-source_sha256: 2154d110290eb5853b7e579a08131b0c9b41222ca7e18269e1ee8c88e7a54707
-retrieved: 2015-03-16
+last_reform_dof: 2016-04-07
+articles: 1623
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/3_070416.doc
+archived: https://web.archive.org/web/20160429001436/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3_070416.doc
+source_sha256: fba7f639fc551bea1e93d7a3f55672ca0b460c90806a761615c711fb76135e0f
+retrieved: 2016-04-29
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccom.htm
 ---
 
@@ -18,9 +18,7 @@ Nuevo Código publicado en el Diario Oficial de la Federación del 7 de octubre 
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 13-06-2014
-
-Cantidades actualizadas por Acuerdo DOF 26-12-2014
+Última reforma publicada DOF 07-04-2016
 
 El Presidente de la República se ha servido dirigirme el decreto que sigue:
 
@@ -480,7 +478,11 @@ E) Incluirá los sistemas de control y verificación internos necesarios para im
 
 ###### Artículo 34.
 
-Cualquiera que sea el sistema de registro que se emplee, se deberán llevar debidamente encuadernados, empastados y foliados el libro mayor y, en el caso de las personas morales, el libro o los libros de actas. La encuadernación de estos libros podrá hacerse a posteriori, dentro de los tres meses siguientes al cierre del ejercicio; sin perjuicio de los requisitos especiales que establezcan las leyes y reglamentos fiscales para los registros y documentos que tengan relación con las obligaciones fiscales del comerciante.
+Cualquiera que sea el sistema de registro que se emplee, los comerciantes deberán llevar un libro mayor y, en el caso de las personas morales, el libro o los libros de actas; sin perjuicio de los requisitos especiales que establezcan las leyes y reglamentos fiscales para los registros y documentos que tengan relación con las obligaciones fiscales del comerciante.
+
+Los comerciantes podrán optar por conservar el libro mayor y sus libros de actas en formato impreso, o en medios electrónicos, ópticos o de cualquier otra tecnología, siempre y cuando, en estos últimos medios se observe lo establecido en la norma oficial mexicana sobre digitalización y conservación de mensajes de datos que para tal efecto emita la Secretaría.
+
+Tratándose de medios impresos, los libros deberán estar encuadernados, empastados y foliados. La encuadernación de estos libros podrá hacerse a posteriori, dentro de los tres meses siguientes al cierre del ejercicio.
 
 ###### Artículo 35.
 
@@ -496,7 +498,7 @@ Todos los registros a que se refiere este capítulo deberán llevarse en castell
 
 ###### Artículo 38.
 
-El comerciante deberá conservar, debidamente archivados, los comprobantes originales de sus operaciones, de tal manera que puedan relacionarse con dichas operaciones y con el registro que de ellas se haga, y deberá conservarlos por un plazo mínimo de diez años.
+El comerciante deberá conservar, debidamente archivados, los comprobantes originales de sus operaciones, en formato impreso, o en medios electrónicos, ópticos o de cualquier otra tecnología, siempre y cuando, en estos últimos medios, se observe lo establecido en la norma oficial mexicana sobre digitalización y conservación de mensajes de datos que para tal efecto emita la Secretaría, de tal manera que puedan relacionarse con dichas operaciones y con el registro que de ellas se haga, y deberá conservarlos por un plazo mínimo de diez años.
 
 ###### Artículo 39.
 
@@ -531,6 +533,10 @@ Si los libros se hallaren fuera de la residencia del tribunal que decrete su exh
 ###### Artículo 46.
 
 Todo comerciante está obligado a conservar los libros, registros y documentos de su negocio por un plazo mínimo de diez años. Los herederos de un comerciante tienen la misma obligación.
+
+###### Artículo 46 bis.
+
+Los comerciantes podrán realizar la conservación o digitalización de toda o parte de la documentación relacionada con sus negocios, en formato impreso, o en medios electrónicos, ópticos o de cualquier otra tecnología, siempre y cuando, en estos últimos medios, se observe lo establecido en la norma oficial mexicana sobre digitalización y conservación de mensajes de datos que para tal efecto emita la Secretaría.
 
 #### CAPITULO IV · De la Correspondencia
 
@@ -802,6 +808,8 @@ Datos de Creación de Firma Electrónica: Son los datos únicos, como códigos o
 
 Destinatario: La persona designada por el Emisor para recibir el Mensaje de Datos, pero que no esté actuando a título de Intermediario con respecto a dicho Mensaje.
 
+Digitalización: Migración de documentos impresos a mensaje de datos, de acuerdo con lo dispuesto en la norma oficial mexicana sobre digitalización y conservación de mensajes de datos que para tal efecto emita la Secretaría.
+
 Emisor: Toda persona que, al tenor del Mensaje de Datos, haya actuado a nombre propio o en cuyo nombre se haya enviado o generado ese mensaje antes de ser archivado, si éste es el caso, pero que no haya actuado a título de Intermediario.
 
 Firma Electrónica: Los datos en forma electrónica consignados en un Mensaje de Datos, o adjuntados o lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar al Firmante en relación con el Mensaje de Datos e indicar que el Firmante aprueba la información contenida en el Mensaje de Datos, y que produce los mismos efectos jurídicos que la firma autógrafa, siendo admisible como prueba en juicio.
@@ -818,9 +826,11 @@ Mensaje de Datos: La información generada, enviada, recibida o archivada por me
 
 Parte que Confía: La persona que, siendo o no el Destinatario, actúa sobre la base de un Certificado o de una Firma Electrónica.
 
-Prestador de Servicios de Certificación: La persona o institución pública que preste servicios relacionados con Firmas Electrónicas y que expide los Certificados, en su caso.
+Prestador de Servicios de Certificación: La persona o institución pública que preste servicios relacionados con firmas electrónicas, expide los certificados o presta servicios relacionados como la conservación de mensajes de datos, el sellado digital de tiempo y la digitalización de documentos impresos, en los términos que se establezca en la norma oficial mexicana sobre digitalización y conservación de mensajes de datos que para tal efecto emita la Secretaría.
 
 Secretaría: Se entenderá la Secretaría de Economía.
+
+Sello Digital de Tiempo: El registro que prueba que un dato existía antes de la fecha y hora de emisión del citado Sello, en los términos que se establezca en la norma oficial mexicana sobre digitalización y conservación de mensajes de datos que para tal efecto emita la Secretaría.
 
 Sistema de Información: Se entenderá todo sistema utilizado para generar, enviar, recibir, archivar o procesar de alguna otra forma Mensajes de Datos.
 
@@ -828,7 +838,7 @@ Titular del Certificado: Se entenderá a la persona a cuyo favor fue expedido el
 
 ###### Artículo 89 bis.
 
-No se negarán efectos jurídicos, validez o fuerza obligatoria a cualquier tipo de información por la sola razón de que esté contenida en un Mensaje de Datos.
+No se negarán efectos jurídicos, validez o fuerza obligatoria a cualquier tipo de información por la sola razón de que esté contenida en un Mensaje de Datos. Por tanto, dichos mensajes podrán ser utilizados como medio probatorio en cualquier diligencia ante autoridad legalmente reconocida, y surtirán los mismos efectos jurídicos que la documentación impresa, siempre y cuando los mensajes de datos se ajusten a las disposiciones de este Código y a los lineamientos normativos correspondientes.
 
 ###### Artículo 90.
 
@@ -926,6 +936,52 @@ Conforme al artículo 90, siempre que se entienda que el Mensaje de Datos provie
 
 Se presume que cada Mensaje de Datos recibido es un Mensaje de Datos diferente, salvo que el Destinatario sepa, o debiera saber, de haber actuado con la debida diligencia, o de haber aplicado algún método previamente acordado, que el nuevo Mensaje de Datos era un duplicado.
 
+#### CAPÍTULO I BIS · De la Digitalización
+
+###### Artículo 95 bis 1.
+
+Para el caso de los servicios de digitalización se estará a lo siguiente:
+
+a. En todo caso, los documentos podrán ser digitalizados en el formato que determine el comerciante.
+
+b. Una vez concluida la digitalización del documento, deberá acompañarse al mismo, así como a cada uno de los anexos que en su caso se generen, la firma electrónica avanzada del comerciante, y del prestador de servicios de certificación que ejecutó las actividades de digitalización, en caso de que así haya sido.
+
+c. Cuando un prestador de servicios de certificación realice la digitalización de un documento, habrá presunción legal sobre el adecuado cumplimiento de las disposiciones legales y normativas relativas a dicho proceso, salvo prueba en contrario.
+
+d. La información que en virtud de acuerdos contractuales quede en poder de un prestador de servicios de certificación, se regirá por lo dispuesto en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
+
+e. En todo caso, el prestador de servicios de certificación que ejecutó las actividades de digitalización deberá mantener la confidencialidad de la información, salvo por mandato judicial.
+
+###### Artículo 95 bis 2.
+
+En materia de conservación de mensajes de datos, será responsabilidad estricta del comerciante mantenerlos bajo su control, acceso y resguardo directo, a fin de que su ulterior consulta pueda llevarse a cabo en cualquier momento.
+
+###### Artículo 95 bis 3.
+
+En el caso de documentos digitalizados o almacenados por prestadores de servicios de certificación, se necesitará que éstos cuenten con acreditación para realizar sus actividades a que hace referencia el artículo 102 de este Código.
+
+###### Artículo 95 bis 4.
+
+En caso que los servicios de digitalización sean contratados a un prestador de servicios de certificación, éste presumirá la buena fe del contratante, así como la legitimidad de los documentos que le son confiados a digitalizar, limitándose a reflejarlos fiel e íntegramente en los medios electrónicos que le sean solicitados, bajo las penas en que incurren aquellos que cometen delitos en materia de falsificación de documentos.
+
+Contra la entrega de la información digitalizada y su correspondiente cotejo, el contratante deberá firmar una cláusula de satisfacción del servicio prestado, y proceder a adjuntar su firma electrónica avanzada a la información.
+
+Si el contratante no adjunta su firma electrónica avanzada a la información digitalizada, ésta no podrá surtir efecto legal alguno, y será de carácter meramente informativo.
+
+Asimismo, el prestador de servicios deberá implementar el mecanismo tecnológico necesario, a fin de que, una vez digitalizado y entregado el documento electrónico a satisfacción del cliente, éste no pueda ser modificado, alterado, enmendado o corregido de modo alguno, en los términos que se establezca en la norma oficial mexicana sobre digitalización y conservación de mensajes de datos que para tal efecto emita la Secretaría.
+
+###### Artículo 95 bis 5.
+
+Se presumirá que aquellos prestadores de servicios de certificación que ofrezcan el servicio de almacenamiento de mensajes de datos, cuentan con los medios tecnológicos suficientes para garantizar razonablemente a los contratantes que la información bajo su control podrá ser ulteriormente consultada en cualquier tiempo, a no ser que existan causas demostradas de fuerza mayor o que no sean imputables al Prestador de Servicios autorizado.
+
+###### Artículo 95 bis 6.
+
+Para los efectos de este Título, la Secretaría tendrá las siguientes facultades:
+
+I. Expedir y revocar las acreditaciones como Prestadores de Servicios de Certificación a que se refieren los artículos 95 Bis 3, 100 y 102 de este Código, y
+
+II. Podrá verificar en cualquier tiempo el adecuado desarrollo de las operaciones de los prestadores de servicios de certificación.
+
 #### CAPITULO II · De las Firmas
 
 ###### Artículo 96.
@@ -982,31 +1038,39 @@ II. Las personas morales de carácter privado, y
 
 III. Las instituciones públicas, conforme a las leyes que les son aplicables.
 
-La facultad de expedir Certificados no conlleva fe pública por sí misma, así los notarios y corredores públicos podrán llevar a cabo certificaciones que impliquen o no la fe pública, en documentos en papel, archivos electrónicos, o en cualquier otro medio o sustancia en el que pueda incluirse información.
+Las facultades de expedir certificados o de prestar servicios relacionados, como la conservación de mensajes de datos, el sellado digital de tiempo, o la digitalización de documentos impresos, así como fungir en calidad de tercero legalmente autorizado conforme a lo que se establezca en la norma oficial mexicana, no conllevan fe pública por sí misma, así, los notarios y corredores públicos podrán llevar a cabo certificaciones que impliquen o no la fe pública, en documentos en papel o mensajes de datos.
+
+Quien aspire a obtener la acreditación como prestador de servicios de certificación, podrá solicitarla respecto de uno o más servicios, a su conveniencia.
 
 ###### Artículo 101.
 
-Los Prestadores de Servicios de Certificación a los que se refiere la fracción II del artículo anterior, contendrán en su objeto social las actividades siguientes:
+Los prestadores de servicios de certificación a los que se refiere la fracción II del artículo anterior, contendrán en su objeto social las actividades siguientes, según corresponda y de acuerdo con el servicio que pretenda ofrecer:
 
 I. Verificar la identidad de los usuarios y su vinculación con los medios de identificación electrónica;
 
 II. Comprobar la integridad y suficiencia del Mensaje de Datos del solicitante y verificar la Firma Electrónica de quien realiza la verificación;
 
-III. Llevar a cabo registros de los elementos de identificación de los Firmantes y de aquella información con la que haya verificado el cumplimiento de fiabilidad de las Firmas Electrónicas Avanzadas y emitir el Certificado, y
+III. Llevar a cabo registros de los elementos de identificación de los Firmantes y de aquella información con la que haya verificado el cumplimiento de fiabilidad de las Firmas Electrónicas Avanzadas y emitir el Certificado;
 
-IV. Cualquier otra actividad no incompatible con las anteriores.
+IV. Expedir sellos digitales de tiempo para asuntos del orden comercial;
+
+V. Emitir constancias de conservación de mensajes de datos;
+
+VI. Prestar servicios de digitalización de documentos, y
+
+VII. Cualquier otra actividad no incompatible con las anteriores.
 
 ###### Artículo 102.
 
-Los Prestadores de Servicios de Certificación que hayan obtenido la acreditación de la Secretaría deberán notificar a ésta la iniciación de la prestación de servicios de certificación dentro de los 45 días naturales siguientes al comienzo de dicha actividad.
+Los Prestadores de Servicios de Certificación que hayan obtenido la acreditación de la Secretaría deberán notificar a ésta la iniciación de la prestación de los servicios a que hayan sido autorizados, dentro de los 45 días naturales siguientes al comienzo de dicha actividad.
 
-A) Para que las personas indicadas en el artículo 100 puedan ser Prestadores de Servicios de Certificación, se requiere acreditación de la Secretaría, la cual no podrá ser negada si el solicitante cumple los siguientes requisitos, en el entendido de que la Secretaría podrá requerir a los Prestadores de Servicios de Certificación que comprueben la subsistencia del cumplimento de los mismos:
+A) Para que las personas indicadas en el artículo 100 puedan ser Prestadores de Servicios de Certificación, se requiere acreditación de la Secretaría, la cual podrá otorgarse para autorizar la prestación de uno o varios servicios, a elección del solicitante, y no podrá ser negada si éste cumple los siguientes requisitos, en el entendido de que la Secretaría podrá requerir a los Prestadores de Servicios de Certificación que comprueben la subsistencia del cumplimento de los mismos:
 
-I. Solicitar a la Secretaría la acreditación como Prestador de Servicios de Certificación;
+I. Solicitar a la Secretaría la acreditación como Prestador de Servicios de Certificación y, en su caso, de los servicios relacionados, como la conservación de mensajes de datos, el sellado digital de tiempo, y la digitalización de documentos;
 
-II. Contar con los elementos humanos, materiales, económicos y tecnológicos requeridos para prestar el servicio, a efecto de garantizar la seguridad de la información y su confidencialidad;
+II. Contar con los elementos humanos, materiales, económicos y tecnológicos requeridos para prestar los servicios, a efecto de garantizar la seguridad de la información y su confidencialidad;
 
-III. Contar con procedimientos definidos y específicos para la tramitación del Certificado, y medidas que garanticen la seriedad de los Certificados emitidos, la conservación y consulta de los registros;
+III. Contar con procedimientos definidos y específicos para la prestación de los servicios, y medidas que garanticen la seriedad de los Certificados, la conservación y consulta de los registros, si es el caso;
 
 IV. Quienes operen o tengan acceso a los sistemas de certificación de los Prestadores de Servicios de Certificación no podrán haber sido condenados por delito contra el patrimonio de las personas o que haya merecido pena privativa de la libertad, ni que por cualquier motivo hayan sido inhabilitados para el ejercicio de su profesión, para desempeñar un puesto en el servicio público, en el sistema financiero o para ejercer el comercio;
 
@@ -1088,7 +1152,7 @@ I. La indicación de que se expiden como tales;
 
 II. El código de identificación único del Certificado;
 
-III. La identificación del Prestador de Servicios de Certificación que expide el Certificado, razón social, su domicilio, dirección de correo electrónico, en su caso, y los datos de acreditación ante la Secretaría;
+III. La identificación del Prestador de Servicios de Certificación que expide el Certificado, razón social, su nombre de dominio de Internet, dirección de correo electrónico, en su caso, y los datos de acreditación ante la Secretaría;
 
 IV. Nombre del titular del Certificado;
 
@@ -1116,7 +1180,7 @@ V. Resolución judicial o de autoridad competente que lo ordene.
 
 ###### Artículo 110.
 
-El Prestador de Servicios de Certificación que incumpla con las obligaciones que se le imponen en el presente Capítulo, previa garantía de audiencia, y mediante resolución debidamente fundada y motivada, tomando en cuenta la gravedad de la situación y reincidencia, podrá ser sancionado por la Secretaría con suspensión temporal o definitiva de sus funciones. Este procedimiento tendrá lugar conforme a la Ley Federal de Procedimiento Administrativo.
+El Prestador de Servicios de Certificación que incumpla con las obligaciones que se le imponen en este Código, el reglamento o la norma oficial mexicana sobre digitalización y conservación de mensajes de datos que para tal efecto emita la Secretaría, previa garantía de audiencia, y mediante resolución debidamente fundada y motivada, tomando en cuenta la gravedad de la situación y reincidencia, podrá ser sancionado por la Secretaría con suspensión temporal o definitiva de sus funciones. Este procedimiento tendrá lugar conforme a la Ley Federal de Procedimiento Administrativo.
 
 ###### Artículo 111.
 
@@ -1301,10 +1365,6 @@ Cuando, sin perjuicio de lo dispuesto en los párrafos anteriores, las partes ac
 (Se deroga).
 
 ###### Artículo 153.
-
-(Se deroga).
-
-#### CAPITULO IV · De la Sociedad en Comandita Simple
 
 (Se deroga).
 
@@ -5602,7 +5662,7 @@ Para hacer cumplir sus determinaciones el juez puede emplear cualquiera de las s
 
 I. Amonestación;
 
-II. Multa hasta de \$6,747.17, monto que se actualizará en términos del artículo 1253, fracción VI;
+II. Multa hasta de \$6,896.29, monto que se actualizará en términos del artículo 1253, fracción VI;
 
 III. El uso de la fuerza pública y rompimiento de cerraduras si fuere necesaria, y
 
@@ -6904,7 +6964,7 @@ V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten su
 
 VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.
 
-En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de \$3,373.59 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
+En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de \$3,448.14 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
 Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dicho monto y el mes de noviembre del año en cuestión.
 
@@ -7424,7 +7484,7 @@ La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sól
 
 ###### Artículo 1339.
 
-Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a \$562,264.43 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
+Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a \$574,690.47 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
 
 Corresponderá a la Secretaría de Economía actualizar cada año por inflación el monto expresado en pesos en el párrafo anterior y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
@@ -7448,7 +7508,7 @@ Los asuntos de cuantía indeterminada siempre serán apelables.
 
 ###### Artículo 1340.
 
-La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a \$562,264.43 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
+La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a \$574,690.47 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
 
 ###### Artículo 1341.
 
@@ -8046,7 +8106,7 @@ VI. La citación para audiencia de juicio.
 
 ###### Artículo 1390 Bis 33.
 
-La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a \$2,249.06, ni superior a \$5,622.64, monto que se actualizará en los términos del artículo 1253 fracción VI de este Código.
+La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a \$2,298.76, ni superior a \$5,746.90, monto que se actualizará en los términos del artículo 1253 fracción VI de este Código.
 
 ###### Artículo 1390 Bis 34.
 
@@ -9863,3 +9923,69 @@ e) Artículo 1390 Bis 33: de \$2,249.06 (Dos mil doscientos cuarenta y nueve pes
 **ÚNICO.-** El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 17 de diciembre de 2014.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.
+
+### ACUERDO para la actualización de los montos establecidos en los artículos 1067 Bis fracción II; 1253 fracción VI; 1339, 1340 y 1390 Bis 33 del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2015*
+
+Acuerdo
+
+**PRIMERO.-** Los montos actualizados correspondientes a los artículos 1067 Bis fracción II; 1253 fracción VI; 1339; 1340 y 1390 Bis 33 del Código de Comercio, son los siguientes:
+
+a) Artículo 1067 Bis, fracción II: \$6,896.29 (Seis mil ochocientos noventa y seis pesos 29/100 M.N.).
+
+b) Artículo 1253, fracción VI: \$3,448.14 (Tres mil cuatrocientos cuarenta y ocho pesos 14/100 M.N.).
+
+c) Artículo 1339: \$574,690.47 (Quinientos sesenta y cuatro mil seiscientos noventa pesos 47/100 M.N.).
+
+d) Artículo 1340: \$574,690.47 (Quinientos sesenta y cuatro mil seiscientos noventa pesos 47/100 M.N.).
+
+e) Artículo 1390 Bis 33: de \$2,298.76 (Dos mil doscientos noventa y ocho pesos 76/100 M.N. a \$5,746.90 (Cinco mil setecientos cuarenta y seis pesos 90/100 M.N.).
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 11 de diciembre de 2015.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.
+
+### ACUERDO que modifica al diverso para la actualización de los montos establecidos en los artículos 1067 Bis fracción II; 1253 fracción VI; 1339, 1340 y 1390 Bis 33 del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 7 de marzo de 2016*
+
+**Único.-** Se reforman los incisos c) y d) del punto Primero del Acuerdo para la actualización de los montos establecidos en los artículos 1067 Bis fracción II; 1253 fracción VI; 1339, 1340 y 1390 Bis 33 del Código de Comercio, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2015, para quedar como sigue:
+
+“PRIMERO.- …
+
+a) y b) …
+
+c) Artículo 1339: \$574,690.47 (Quinientos setenta y cuatro mil seiscientos noventa pesos 47/100 M.N.).
+
+d) Artículo 1340: \$574,690.47 (Quinientos setenta y cuatro mil seiscientos noventa pesos 47/100 M.N.).
+
+e) …”
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** Para el caso de los asuntos que hayan sido tramitados en el lapso de tiempo contado a partir de la entrada en vigor del Acuerdo publicado el 24 de diciembre de 2015 y la entrada en vigor del presente Acuerdo, para la determinación del monto se deberá tener por considerado el señalado en letra.
+
+Ciudad de México, a 19 de febrero de 2016.- Con fundamento en el artículo 54 primer párrafo del Reglamento Interior de la Secretaría de Economía y en ausencia del Secretario de Economía, firma la Subsecretaria de Competitividad y Normatividad, María del Rocío Ruiz Chávez.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código de Comercio y del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 7 de abril de 2016*
+
+**Artículo Primero.-** SE REFORMAN los artículos 34 y 38; la definición del concepto prestador de servicios de certificación contenido en el párrafo tercero del artículo 89; el artículo 89 bis; el segundo párrafo del artículo 100; el primer párrafo, el apartado A y sus fracciones I, II y III del artículo 102; la fracción III del artículo 108 y, el artículo 110; SE INCORPORAN las definiciones “digitalización” y “sello digital de tiempo” al párrafo tercero del artículo 89; SE ADICIONAN un artículo 46 bis; un CAPÍTULO I Bis denominado “De la Digitalización”, con los artículos 95 bis 1, 95 bis 2, 95 bis 3, 95 bis 4, 95 bis 5, y 95 bis 6, al TÍTULO SEGUNDO; un tercer párrafo al artículo 100 y, las fracciones IV, V, VI al artículo 101, pasando la fracción IV actual a ser la fracción VII, del Código de Comercio para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La Secretaría expedirá, en un plazo de 360 días naturales, contados a partir de la entrada en vigor del presente Decreto, los lineamientos de carácter general que sean necesarios, a fin de establecer los procedimientos que hagan tecnológica y operativamente viable la implementación de las presentes reformas.
+
+Ciudad de México, a 3 de marzo de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a cinco de abril de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
