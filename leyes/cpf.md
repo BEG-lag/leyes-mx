@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2016-01-12
+last_reform_dof: 2016-04-07
 articles: 528
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_120116.doc
-archived: https://web.archive.org/web/20160221051707/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_120116.doc
-source_sha256: 718951fc96f7ebe26f8b93e8d1b56858d5cf1671c695605581e7ab431ae16192
-retrieved: 2016-02-21
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_070416.doc
+archived: https://web.archive.org/web/20160430030821/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_070416.doc
+source_sha256: 9bb91476ba524640dad06ab208bb9b93c1c19ca86d285e396c5f32b1852ced4e
+retrieved: 2016-04-30
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 12-01-2016
+Última reforma publicada DOF 07-04-2016
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -2776,9 +2776,11 @@ IV.- El médico que certifique falsamente que una persona tiene una enfermedad u
 
 V.- El que haga uso de una certificación verdadera expedida para otro, como si lo hubiere sido en su favor, o altere la que a él se le expidió;
 
-VI.- Los encargados del servicio telegráfico, telefónico o de radio que supongan o falsifiquen un despacho de esa clase, y
+VI.- Los encargados del servicio telegráfico, telefónico o de radio que supongan o falsifiquen un despacho de esa clase;
 
-VII.- El que a sabiendas hiciere uso de un documento falso o de copia, transcripción o testimonio del mismo, sea público o privado.
+VII.- El prestador de servicios de certificación que realice actividades sin contar con la respectiva acreditación, en los términos establecidos por el Código de Comercio y demás disposiciones aplicables, y
+
+VIII.- El que a sabiendas hiciere uso de un documento falso o de copia, transcripción o testimonio del mismo, sea público o privado.
 
 #### CAPITULO V · Falsedad en declaraciones judiciales y en informes dados a una autoridad
 
@@ -6076,3 +6078,21 @@ III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sen
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código de Comercio y del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 7 de abril de 2016*
+
+**Artículo Segundo.-** Se adiciona una fracción VII, recorriéndose la actual VII a ser VIII, al artículo 246 del Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La Secretaría expedirá, en un plazo de 360 días naturales, contados a partir de la entrada en vigor del presente Decreto, los lineamientos de carácter general que sean necesarios, a fin de establecer los procedimientos que hagan tecnológica y operativamente viable la implementación de las presentes reformas.
+
+Ciudad de México, a 3 de marzo de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a cinco de abril de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
