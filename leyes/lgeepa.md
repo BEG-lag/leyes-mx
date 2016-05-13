@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2015-01-09
+last_reform_dof: 2016-05-13
 articles: 264
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/148_090115.doc
-archived: https://web.archive.org/web/20160328112838/http://www.diputados.gob.mx:80/LeyesBiblio/doc/148_090115.doc
-source_sha256: f41fe9a27be4c84dabafd4bc1b00446601b19778fdd357cf6978499d1c6a4c65
-retrieved: 2016-03-28
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/148_130516.doc
+archived: https://web.archive.org/web/20160606054606/http://www.diputados.gob.mx:80/LeyesBiblio/doc/148_130516.doc
+source_sha256: 434a1d80e12529a73e24ac74694d7fa67a80bb045b3402951fa8bcfb1a42fd33
+retrieved: 2016-06-06
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-01-2015
+Última reforma publicada DOF 13-05-2016
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1172,9 +1172,9 @@ Los Estados y el Distrito Federal podrán establecer sistemas de autorregulació
 
 ##### ARTÍCULO 39.
 
-Las autoridades competentes promoverán la incorporación de contenidos ecológicos, conocimientos, valores y competencias, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
+Las autoridades competentes promoverán la incorporación de contenidos ecológicos, desarrollo sustentable, mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático, protección del ambiente, conocimientos, valores y competencias, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
 
-*Párrafo reformado DOF 07-01-2000*
+*Párrafo reformado DOF 07-01-2000, 13-05-2016*
 
 Asimismo, propiciarán la participación comprometida de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica, y la socialización de proyectos de desarrollo sustentable.
 
@@ -4373,3 +4373,19 @@ Los ejemplares de vida silvestre incluidos en las bases de datos a que hace refe
 México, D.F., a 11 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Lucero Saldaña Pérez, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a ocho de enero de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el primer párrafo del artículo 39 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 13 de mayo de 2016*
+
+**Artículo Único.-** Se reforma el primer párrafo del artículo 39 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 14 de abril de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Ramón Bañales Arambula, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a once de mayo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
