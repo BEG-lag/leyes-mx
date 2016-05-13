@@ -3,12 +3,12 @@ title: Ley Federal de Protección al Consumidor
 abbreviation: LFPC
 slug: lfpc
 published_dof: 1992-12-24
-last_reform_dof: 2015-12-30
+last_reform_dof: 2016-05-13
 articles: 185
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/113_301215.doc
-archived: https://web.archive.org/web/20160221054739/http://www.diputados.gob.mx:80/LeyesBiblio/doc/113_301215.doc
-source_sha256: 316c9f0e861d893fd93db5a20689a4fb5249bdb260f2c743111111aa751da23f
-retrieved: 2016-02-21
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/113_130516.doc
+archived: https://web.archive.org/web/20160606055628/http://www.diputados.gob.mx:80/LeyesBiblio/doc/113_130516.doc
+source_sha256: 3724ebd36314875a7ce3f180d4f2f6563b8f2a534986e6e4b4f8af38853accfa
+retrieved: 2016-06-06
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 04-06-2014
-
-Actualización de montos de operaciones y multas por Acuerdo DOF 30-12-2015
+Última reforma publicada DOF 13-05-2016
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
@@ -538,13 +536,19 @@ Para la elaboración de sus planes y programas de trabajo, la Procuraduría llev
 
 #### ARTÍCULO 32.
 
-La información o publicidad relativa a bienes, productos o servicios que se difundan por cualquier medio o forma, deberán ser veraces, comprobables y exentos de textos, diálogos, sonidos, imágenes, marcas, denominaciones de origen y otras descripciones que induzcan o puedan inducir a error o confusión por engañosas o abusivas.
+La información o publicidad relativa a bienes, productos o servicios que se difundan por cualquier medio o forma, deberán ser veraces, comprobables, claros y exentos de textos, diálogos, sonidos, imágenes, marcas, denominaciones de origen y otras descripciones que induzcan o puedan inducir a error o confusión por engañosas o abusivas.
+
+*Párrafo reformado DOF 13-05-2016*
 
 Para los efectos de esta ley, se entiende por información o publicidad engañosa o abusiva aquella que refiere características o información relacionadas con algún bien, producto o servicio que pudiendo o no ser verdaderas, inducen a error o confusión al consumidor por la forma inexacta, falsa, exagerada, parcial, artificiosa o tendenciosa en que se presenta.
 
 La información o publicidad que compare productos o servicios, sean de una misma marca o de distinta, no podrá ser engañosa o abusiva en términos de lo dispuesto en el párrafo anterior.
 
 La Procuraduría podrá emitir lineamientos para el análisis y verificación de dicha información o publicidad a fin de evitar que se induzca a error o confusión al consumidor, considerando el contexto temporal en que se difunde, el momento en que se transmite respecto de otros contenidos difundidos en el mismo medio y las circunstancias económicas o especiales del mercado.
+
+En el análisis y verificación de la información o publicidad, la Procuraduría comprobará que la misma sea veraz, comprobable, clara y apegada a esta Ley y a las demás disposiciones aplicables.
+
+*Párrafo adicionado DOF 13-05-2016*
 
 *Artículo reformado DOF 04-02-2004, 15-12-2011*
 
@@ -3099,3 +3103,19 @@ Para efectuar el pago de las cantidades que resulten de la actualización, para 
 Atentamente
 
 México, Distrito Federal, a 15 de diciembre de 2015.- La Procuradora Federal del Consumidor, Lorena Martínez Rodríguez.- Rúbrica.
+
+### DECRETO por el que se reforma el primer párrafo y se adiciona un quinto párrafo al artículo 32 de la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 13 de mayo de 2016*
+
+**Artículo Único.** Se reforma el primer párrafo y se adiciona un quinto párrafo al artículo 32 de la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 12 de abril de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a once de mayo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
