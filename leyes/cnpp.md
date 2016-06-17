@@ -3,12 +3,12 @@ title: Código Nacional de Procedimientos Penales
 abbreviation: CNPP
 slug: cnpp
 published_dof: 2014-03-05
-last_reform_dof: 2016-01-12
+last_reform_dof: 2016-06-17
 articles: 490
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_120116.doc
-archived: https://web.archive.org/web/20160221053739/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_120116.doc
-source_sha256: f8ddd4681a0ebc9a3e4949017d2338fb570008600994cd04e2e1c531ca9adac6
-retrieved: 2016-02-21
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_170616.doc
+archived: https://web.archive.org/web/20160717110345/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_170616.doc
+source_sha256: ced005ef30e08aac1a00f6fa0b9e9430de53445b45c2c1ed9a66c015ec084f5e
+retrieved: 2016-07-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 ---
 
@@ -16,16 +16,7 @@ reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 
 Nuevo Código publicado en el Diario Oficial de la Federación el 5 de marzo de 2014
 
-Última reforma publicada DOF 12-01-2016
-
-> Nota de vigencia: El presente Código entrará en vigor de conformidad con lo que establece el Artículo Segundo Transitorio del mismo:
->
-> “ARTÍCULO SEGUNDO. Vigencia
-> Este Código entrará en vigor a nivel federal gradualmente en los términos previstos en la Declaratoria que al efecto emita el Congreso de la Unión previa solicitud conjunta del Poder Judicial de la Federación, la Secretaría de Gobernación y de la Procuraduría General de la República, sin que pueda exceder del 18 de junio de 2016.
->
-> En el caso de las Entidades federativas y del Distrito Federal, el presente Código entrará en vigor en cada una de ellas en los términos que establezca la Declaratoria que al efecto emita el órgano legislativo correspondiente, previa solicitud de la autoridad encargada de la implementación del Sistema de Justicia Penal Acusatorio en cada una de ellas.
->
-> En todos los casos, entre la Declaratoria a que se hace referencia en los párrafos anteriores y la entrada en vigor del presente Código deberán mediar sesenta días naturales.”
+Última reforma publicada DOF 17-06-2016
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -277,7 +268,9 @@ Será competente para conocer de un asunto un Órgano jurisdiccional distinto al
 
 Lo anterior es igualmente aplicable para los casos en que por las mismas razones la autoridad judicial, a petición de parte, estime necesario trasladar a un imputado a algún centro de reclusión de máxima seguridad, en el que será competente el Órgano jurisdiccional del lugar en que se ubique dicho centro.
 
-Con el objeto de que los procesados por delitos federales puedan cumplir su medida cautelar en los centros o establecimientos penitenciarios más cercanos a su domicilio, las entidades federativas deberán aceptar internarlos en los centros o establecimientos penitenciarios locales con el fin de propiciar su debido proceso, salvo la regla prevista en el párrafo anterior y en los casos en que sean procedentes medidas especiales de seguridad no disponibles en dichos centros o establecimientos.
+Con el objeto de que los procesados por delitos federales puedan cumplir su medida cautelar en los centros penitenciarios más cercanos al lugar en el que se desarrolla su procedimiento, las entidades federativas deberán aceptar internarlos en los centros penitenciarios locales con el fin de llevar a cabo su debido proceso, salvo la regla prevista en el párrafo anterior y en los casos en que sean procedentes medidas especiales de seguridad no disponibles en dichos centros.
+
+*Párrafo reformado DOF 17-06-2016*
 
 ###### Artículo 23.
 
@@ -563,6 +556,10 @@ El Órgano jurisdiccional autorizará la expedición de copias de los contenidos
 
 Utilización de medios electrónicos
 
+Durante todo el proceso penal, se podrán utilizar los medios electrónicos en todas las actuaciones para facilitar su operación, incluyendo el informe policial; así como también podrán instrumentar, para la presentación de denuncias o querellas en línea que permitan su seguimiento.
+
+*Párrafo adicionado DOF 17-06-2016*
+
 La videoconferencia en tiempo real u otras formas de comunicación que se produzcan con nuevas tecnologías podrán ser utilizadas para la recepción y transmisión de medios de prueba y la realización de actos procesales, siempre y cuando se garantice previamente la identidad de los sujetos que intervengan en dicho acto.
 
 #### CAPÍTULO II · AUDIENCIAS
@@ -831,7 +828,9 @@ Las autoridades exhortadas o requeridas remitirán las diligencias o actos proce
 
 Exhortos de tribunales extranjeros
 
-Las solicitudes que provengan de tribunales extranjeros deberán ser tramitadas de conformidad con el Título VIII del presente Código.
+Las solicitudes que provengan de tribunales extranjeros, deberán ser tramitadas de conformidad con el Título XI del presente Código.
+
+*Párrafo reformado DOF 17-06-2016*
 
 Toda solicitud que se reciba del extranjero en idioma distinto del español deberá acompañarse de su traducción.
 
@@ -1061,15 +1060,23 @@ Se entenderá que el acto se ha saneado cuando, no obstante la irregularidad, ha
 
 Convalidación
 
-Los actos ejecutados con inobservancia de las formalidades previstas en este Código que afectan al Ministerio Público o a la víctima u ofendido quedarán convalidados cuando:
+Los actos ejecutados con inobservancia de las formalidades previstas en este Código que afectan al Ministerio Público, la víctima u ofendido o el imputado, quedarán convalidados cuando:
+
+*Párrafo reformado DOF 17-06-2016*
 
 I. Las partes hayan aceptado, expresa o tácitamente, los efectos del acto;
 
-II. Ninguna de las partes hayan solicitado su saneamiento mientras se realiza el acto, y
+II. Ninguna de las partes hayan solicitado su saneamiento en los términos previstos en este Código, o
+
+*Fracción reformada DOF 17-06-2016*
 
 III. Dentro de las veinticuatro horas siguientes de haberse realizado el acto, la parte que no hubiere estado presente o participado en él no solicita su saneamiento. En caso de que por las especiales circunstancias del caso no hubiera sido posible advertir en forma oportuna el defecto en la realización del acto procesal, el interesado deberá solicitar en forma justificada el saneamiento del acto, dentro de las veinticuatro horas siguientes a que haya tenido conocimiento del mismo.
 
-También quedarán convalidados los defectos de carácter procesal que no afecten derechos fundamentales del imputado, cuando éste o su Defensor no hayan solicitado su saneamiento dentro de las veinticuatro horas después de advertirlo.
+Lo anterior, siempre y cuando no se afecten derechos fundamentales del imputado o la víctima
+
+u ofendido.
+
+*Párrafo reformado DOF 17-06-2016*
 
 ###### Artículo 101.
 
@@ -1289,7 +1296,7 @@ Además, se denominará acusado a la persona contra quien se ha formulado acusac
 
 ###### Artículo 113.
 
-Derechos del imputado
+Derechos del Imputado
 
 El imputado tendrá los siguientes derechos:
 
@@ -1307,7 +1314,9 @@ VI. A no ser sometido en ningún momento del procedimiento a técnicas ni métod
 
 VII. A solicitar ante la autoridad judicial la modificación de la medida cautelar que se le haya impuesto, en los casos en que se encuentre en prisión preventiva, en los supuestos señalados por este Código;
 
-VIII. A tener acceso él y su defensa a los registros de la investigación, así como a obtener copia gratuita de los mismos, en términos del artículo 217 de este Código;
+VIII. A tener acceso él y su defensa, salvo las excepciones previstas en la ley, a los registros de la investigación, así como a obtener copia gratuita, registro fotográfico o electrónico de los mismos, en términos de los artículos 218 y 219 de este Código.
+
+*Fracción reformada DOF 17-06-2016*
 
 IX. A que se le reciban los medios pertinentes de prueba que ofrezca, concediéndosele el tiempo necesario para tal efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite y que no pueda presentar directamente, en términos de lo establecido por este Código;
 
@@ -1433,7 +1442,9 @@ En ambos casos se otorgará un término que no excederá de diez días para que 
 
 Nombramiento del Defensor público
 
-Cuando el imputado no pueda o se niegue a designar un Defensor particular, el Ministerio Público o el Órgano jurisdiccional, en su caso, le nombrarán un Defensor público que lleve la representación de la defensa desde el primer acto en que intervenga.
+Cuando el imputado no pueda o se niegue a designar un Defensor particular, el Ministerio Público solicitará a la autoridad competente se nombre un Defensor público; si es ante el Órgano jurisdiccional éste designará al defensor público, que lleve la representación de la defensa desde el primer acto en que intervenga. Será responsabilidad del defensor la oportuna comparecencia.
+
+*Artículo reformado DOF 17-06-2016*
 
 ###### Artículo 123.
 
@@ -1635,11 +1646,17 @@ La queja y su procedencia
 
 Procederá queja en contra del juzgador de primera instancia por no realizar un acto procesal dentro del plazo señalado por este Código. La queja podrá ser promovida por cualquier parte del procedimiento y se tramitará sin perjuicio de las otras consecuencias legales que tenga la omisión del juzgador.
 
-A partir de que se advierta la omisión del acto procesal, la queja podrá interponerse ante el Consejo. Éste deberá tramitarla y resolverla en un plazo no mayor a tres días.
+La queja será interpuesta ante el Órgano jurisdiccional omiso; éste tiene un plazo de veinticuatro horas para subsanar dicha omisión, o bien, realizar un informe breve y conciso sobre las razones por las cuales no se ha verificado el acto procesal o la formalidad exigidos por la norma omitida y remitir el recurso y dicho informe al Órgano jurisdiccional competente.
 
-A partir de que se recibió la queja por el Órgano jurisdiccional, éste tiene un plazo de veinticuatro horas para subsanar dicha omisión, o bien, realizar un informe breve y conciso sobre las razones por las cuales no se ha verificado el acto procesal o la formalidad exigidos por la norma omitida y remitir el recurso y dicho informe al Consejo.
+*Párrafo reformado DOF 17-06-2016*
 
-El Consejo tendrá cuarenta y ocho horas para resolver si dicha omisión se ha verificado. En ese caso, el Consejo ordenará la realización del acto omitido y apercibirá al Órgano jurisdiccional de las imposiciones de las sanciones previstas por la Ley Orgánica respectiva en caso de incumplimiento. En ningún caso, el Consejo podrá ordenar al Órgano jurisdiccional los términos y las condiciones en que deberá subsanarse la omisión, debiéndose limitar su resolución a que se realice el acto omitido.
+La autoridad jurisdiccional competente tramitará y resolverá en un plazo no mayor a tres días en los términos de las disposiciones aplicables.
+
+*Párrafo reformado DOF 17-06-2016*
+
+En ningún caso, el Órgano jurisdiccional competente para resolver la queja podrá ordenar al Órgano Jurisdiccional omiso los términos y las condiciones en que deberá subsanarse la omisión, debiéndose limitar su resolución a que se realice el acto omitido.
+
+*Párrafo reformado DOF 17-06-2016*
 
 #### CAPÍTULO VIII · AUXILIARES DE LAS PARTES
 
@@ -1759,7 +1776,17 @@ Las solicitudes se formularán por cualquier medio que garantice su autenticidad
 
 Resolución sobre solicitud de orden de aprehensión o comparecencia
 
-El Juez de control, dentro de un plazo máximo de veinticuatro horas siguientes a que se haya recibido la solicitud de orden de aprehensión o de comparecencia, resolverá en audiencia exclusivamente con la presencia del Ministerio Público, o a través del sistema informático con la debida secrecía y se pronunciará sobre cada uno de los elementos planteados en la solicitud.
+El Juez de control resolverá la solicitud de orden de aprehensión o comparecencia en audiencia, o a través del sistema informático; en ambos casos con la debida secrecía, y se pronunciará sobre cada uno de los elementos planteados en la solicitud.
+
+*Párrafo reformado DOF 17-06-2016*
+
+En el primer supuesto, la solicitud deberá ser resuelta en la misma audiencia, que se fijará dentro de las veinticuatro horas a partir de la solicitud, exclusivamente con la presencia del Ministerio Público.
+
+*Párrafo adicionado DOF 17-06-2016*
+
+En el segundo supuesto, dentro de un plazo máximo de veinticuatro horas, siguientes al momento en que se haya recibido la solicitud.
+
+*Párrafo adicionado DOF 17-06-2016*
 
 En caso de que la solicitud de orden de aprehensión o comparecencia no reúna alguno de los requisitos exigibles, el Juez de control prevendrá en la misma audiencia o por el sistema informático al Ministerio Público para que haga las precisiones o aclaraciones correspondientes, ante lo cual el Juez de control podrá dar una clasificación jurídica distinta a los hechos que se planteen o a la participación que tuvo el imputado en los mismos. No se concederá la orden de aprehensión cuando el Juez de control considere que los hechos que señale el Ministerio Público en su solicitud resulten no constitutivos de delito.
 
@@ -1869,7 +1896,9 @@ Para los efectos de este artículo, el término medio aritmético es el cociente
 
 Asistencia consular
 
-En el caso de que el detenido sea extranjero, se le hará saber sin demora y se le garantizará su derecho a recibir asistencia consular, por lo que se le permitirá comunicarse a las embajadas o consulados de los países respecto de los que sea nacional; el Juez de control deberá notificar a las propias embajadas o consulados la detención de dicha persona, registrando constancia de ello.
+En el caso de que el detenido sea extranjero, el Ministerio Público le hará saber sin demora y le garantizará su derecho a recibir asistencia consular, por lo que se le permitirá comunicarse a las Embajadas o Consulados del país respecto de los que sea nacional; y deberá notificar a las propias Embajadas o Consulados la detención de dicha persona, registrando constancia de ello, salvo que el imputado acompañado de su Defensor expresamente solicite que no se realice esta notificación.
+
+*Párrafo reformado DOF 17-06-2016*
 
 El Ministerio Público y la Policía deberán informar a quien lo solicite, previa identificación, si un extranjero está detenido y, en su caso, la autoridad a cuya disposición se encuentre y el motivo.
 
@@ -1915,7 +1944,9 @@ I. Formulada la imputación, el propio imputado se acoja al término constitucio
 
 II. Se haya vinculado a proceso al imputado.
 
-En caso de que el Ministerio Público solicite la prisión preventiva durante el plazo constitucional, dicha cuestión deberá resolverse antes del dictado del auto de vinculación a proceso. Para tal efecto, las partes podrán ofrecer aquellos medios de prueba pertinentes para analizar la procedencia de la medida solicitada, siempre y cuando la misma sea susceptible de ser desahogada en las siguientes veinticuatro horas.
+En caso de que el Ministerio Público, la víctima, el asesor jurídico, u ofendido, solicite una medida cautelar durante el plazo constitucional, dicha cuestión deberá resolverse inmediatamente después de formulada la imputación. Para tal efecto, las partes podrán ofrecer aquellos medios de prueba pertinentes para analizar la procedencia de la medida solicitada, siempre y cuando la misma sea susceptible de ser desahogada en las siguientes veinticuatro horas.
+
+*Párrafo reformado DOF 17-06-2016*
 
 ###### Artículo 155.
 
@@ -2037,7 +2068,9 @@ Aplicación de la prisión preventiva
 
 Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva. La prisión preventiva será ordenada conforme a los términos y las condiciones de este Código.
 
-La prisión preventiva no podrá exceder de un año, salvo que su prolongación se deba al ejercicio del derecho de defensa del imputado. Si cumplido este término no se ha dictado sentencia, el imputado será puesto en libertad de inmediato mientras se sigue el proceso, sin que ello obste para imponer otras medidas cautelares.
+La prisión preventiva no podrá exceder del tiempo que como máximo de pena fije la ley al delito que motivare el proceso y en ningún caso será superior a dos años, salvo que su prolongación se deba al ejercicio del derecho de defensa del imputado. Si cumplido este término no se ha pronunciado sentencia, el imputado será puesto en libertad de inmediato mientras se sigue el proceso, sin que ello obste para imponer otras medidas cautelares.
+
+*Párrafo reformado DOF 17-06-2016*
 
 ###### Artículo 166.
 
@@ -2171,11 +2204,25 @@ Incumplimiento del imputado de las medidas cautelares
 
 Cuando el supervisor de la medida cautelar detecte un incumplimiento de una medida cautelar distinta a la garantía económica o de prisión preventiva, deberá informar a las partes de forma inmediata a efecto de que en su caso puedan solicitar la revisión de la medida cautelar.
 
-El Ministerio Público que reciba el reporte de la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso, deberá solicitar audiencia para revisión de la medida cautelar impuesta en el plazo más breve posible.
+El Ministerio Público que reciba el reporte de la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso, deberá solicitar audiencia para revisión de la medida cautelar impuesta en el plazo más breve posible y en su caso, solicite la comparecencia del imputado o una orden de aprehensión.
 
-En el caso de que al imputado se le haya impuesto como medida cautelar una garantía económica y, exhibida ésta sea citado para comparecer ante el juez e incumpla la cita, se requerirá al garante para que presente al imputado en un plazo no mayor a ocho días, advertidos, el garante y el imputado, de que si no lo hicieren o no justificaren la incomparecencia, se hará efectiva la garantía a favor del Fondo de Ayuda, Asistencia y Reparación Integral.
+*Párrafo reformado DOF 17-06-2016*
 
-En caso de que el imputado incumpla con la medida cautelar impuesta, distinta a la prisión preventiva o garantía económica, la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso deberá informar al Ministerio Público para que, en su caso, solicite al Juez de control la comparecencia del imputado.
+En caso que el imputado notificado por cualquier medio no comparezca injustificadamente a la audiencia a la que fue citado, el Ministerio Público deberá solicitar la orden de aprehensión o comparecencia.
+
+*Párrafo adicionado DOF 17-06-2016*
+
+La justificación de la inasistencia por parte del imputado deberá presentarse a más tardar al momento de la audiencia.
+
+*Párrafo adicionado DOF 17-06-2016*
+
+En el caso de que al imputado se le haya impuesto como medida cautelar una garantía económica y, exhibida ésta sea citado para comparecer ante el juez e incumpla la cita, se requerirá al garante para que presente al imputado en un plazo no mayor a ocho días, advertidos, el garante y el imputado, de que si no lo hicieren o no justificaren la incomparecencia, se hará efectiva la garantía a favor del Fondo de Ayuda, Asistencia y Reparación Integral o sus equivalentes en las entidades federativas, previstos en la Ley General de Víctimas.
+
+*Párrafo reformado DOF 17-06-2016*
+
+Si el imputado es sorprendido infringiendo una medida cautelar de las establecidas en las fracciones V, VII, VIII, IX, XII y XIII del artículo 155 de este Código, el supervisor de la medida cautelar deberá dar aviso inmediatamente y por cualquier medio, al Juez de control quien con la misma inmediatez ordenará su arresto con fundamento en el inciso d), fracción II del artículo 104 de este Código, para que dentro de la duración de este sea llevado ante él en audiencia con las partes, con el fin de que se revise la medida cautelar; siempre y cuando se le haya apercibido que de incumplir con la medida cautelar se le impondría dicha medida de apremio.
+
+*Párrafo reformado DOF 17-06-2016*
 
 ###### Artículo 175.
 
@@ -2195,9 +2242,13 @@ III. El imputado se someta a la ejecución de la pena o la garantía no deba eje
 
 ###### Artículo 176.
 
-Objeto
+Naturaleza y objeto
 
-Proporcionar a las partes información sobre la evaluación de riesgos que representa el imputado y el seguimiento de las medidas cautelares y de la suspensión condicional del proceso.
+La Autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso, tendrá por objeto realizar la evaluación de riesgo del imputado, así como llevar a cabo el seguimiento de las medidas cautelares y de la suspensión condicional del proceso, en caso de que no sea una institución de seguridad pública se podrá auxiliar de la instancia policial correspondiente para el desarrollo de sus funciones.
+
+Esta autoridad deberá proporcionar a las partes información sobre la evaluación de riesgos que representa el imputado y el seguimiento de las medidas cautelares y de la suspensión condicional del proceso que le soliciten.
+
+*Artículo reformado DOF 17-06-2016*
 
 ###### Artículo 177.
 
@@ -2325,13 +2376,13 @@ II. Delitos culposos, o
 
 III. Delitos patrimoniales cometidos sin violencia sobre las personas.
 
-No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a delitos dolosos, salvo que hayan transcurrido dos años de haber dado cumplimiento al último acuerdo reparatorio, o se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas.
+No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a los mismos delitos dolosos, tampoco procederán cuando se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas.
 
-*Párrafo reformado DOF 29-12-2014*
+*Párrafo reformado DOF 29-12-2014, 17-06-2016*
 
-Tampoco serán procedentes en caso de que el imputado haya incumplido previamente un acuerdo reparatorio, salvo que haya sido absuelto o cuando hayan transcurrido cinco años desde dicho incumplimiento.
+Tampoco serán procedentes en caso de que el imputado haya incumplido previamente un acuerdo reparatorio, salvo que haya sido absuelto.
 
-*Párrafo adicionado DOF 29-12-2014*
+*Párrafo adicionado DOF 29-12-2014. Reformado DOF 17-06-2016*
 
 ###### Artículo 188.
 
@@ -2383,11 +2434,21 @@ Procedencia
 
 La suspensión condicional del proceso, a solicitud del imputado o del Ministerio Público con acuerdo de aquél, procederá en los casos en que se cubran los requisitos siguientes:
 
-I. Que el auto de vinculación a proceso del imputado se haya dictado por un delito cuya media aritmética de la pena de prisión no exceda de cinco años, y
+I. Que el auto de vinculación a proceso del imputado se haya dictado por un delito cuya media aritmética de la pena de prisión no exceda de cinco años;
 
-II. Que no exista oposición fundada de la víctima u ofendido.
+*Fracción reformada DOF 17-06-2016*
 
-Quedan exceptuados de suspensión condicional del proceso los casos en que el imputado en forma previa haya incumplido una suspensión condicional del proceso, salvo que hayan transcurrido cinco años desde el cumplimiento de la resolución a la primera suspensión condicional del proceso, en cualquier fuero del ámbito local o federal.
+II. Que no exista oposición fundada de la víctima y ofendido, y
+
+*Fracción reformada DOF 17-06-2016*
+
+III. Que hayan transcurrido dos años desde el cumplimiento o cinco años desde el incumplimiento, de una suspensión condicional anterior, en su caso.
+
+*Fracción adicionada DOF 17-06-2016*
+
+Lo señalado en la fracción III del presente artículo, no procederá cuando el imputado haya sido absuelto en dicho procedimiento.
+
+*Párrafo reformado DOF 17-06-2016*
 
 ###### Artículo 193.
 
@@ -2447,7 +2508,9 @@ La víctima u ofendido serán citados a la audiencia en la fecha que señale el 
 
 En su resolución, el Juez de control fijará las condiciones bajo las cuales se suspende el proceso o se rechaza la solicitud y aprobará el plan de reparación propuesto, mismo que podrá ser modificado por el Juez de control en la audiencia. La sola falta de recursos del imputado no podrá ser utilizada como razón suficiente para rechazar la suspensión condicional del proceso.
 
-La información que se genere como producto de los acuerdos reparatorios no podrá ser utilizada en perjuicio de las partes dentro del proceso penal.
+La información que se genere como producto de la suspensión condicional del proceso no podrá ser utilizada en caso de continuar el proceso penal.
+
+*Párrafo reformado DOF 17-06-2016*
 
 ###### Artículo 197.
 
@@ -2659,9 +2722,17 @@ El registro de cada actuación deberá contener por lo menos la indicación de l
 
 Reserva de los actos de investigación
 
-En la investigación inicial, los registros de ésta, así como todos los documentos, independientemente de su contenido o naturaleza, los objetos, los registros de voz e imágenes o cosas que le estén relacionados, son estrictamente reservados. El imputado y su Defensor podrán tener acceso a ellos cuando se encuentre detenido, o sea citado para comparecer como imputado, y se pretenda recibir su entrevista. A partir de este momento ya no podrán mantenerse en reserva los registros para no afectar el derecho de defensa del imputado.
+Los registros de la investigación, así como todos los documentos, independientemente de su contenido o naturaleza, los objetos, los registros de voz e imágenes o cosas que le estén relacionados, son estrictamente reservados, por lo que únicamente las partes, podrán tener acceso a los mismos, con las limitaciones establecidas en este Código y demás disposiciones aplicables.
 
-En ningún caso la reserva de los registros podrá hacerse valer una vez dictado el auto de vinculación a proceso, salvo lo previsto en este Código o en las leyes especiales.
+La víctima u ofendido y su Asesor Jurídico podrán tener acceso a los registros de la investigación en cualquier momento.
+
+El imputado y su defensor podrán tener acceso a ellos cuando se encuentre detenido, sea citado para comparecer como imputado o sea sujeto de un acto de molestia y se pretenda recibir su entrevista, a partir de este momento ya no podrán mantenerse en reserva los registros para el imputado o su Defensor a fin de no afectar su derecho de defensa. Para los efectos de este párrafo, se entenderá como acto de molestia lo dispuesto en el artículo 266 de este Código.
+
+En ningún caso la reserva de los registros podrá hacerse valer en perjuicio del imputado y su Defensor, una vez dictado el auto de vinculación a proceso, salvo lo previsto en este Código o en las leyes especiales.
+
+Para efectos de acceso a la información pública gubernamental, el Ministerio Público únicamente deberá proporcionar una versión pública de las determinaciones de no ejercicio de la acción penal, archivo temporal o de aplicación de un criterio de oportunidad, siempre que haya transcurrido un plazo igual al de prescripción de los delitos de que se trate, de conformidad con lo dispuesto en el Código Penal Federal o estatal correspondiente, sin que pueda ser menor de tres años, ni mayor de doce años, contado a partir de que dicha determinación haya quedado firme.
+
+*Artículo reformado DOF 17-06-2016*
 
 ###### Artículo 219.
 
@@ -2700,6 +2771,10 @@ Deber de denunciar
 Toda persona a quien le conste que se ha cometido un hecho probablemente constitutivo de un delito está obligada a denunciarlo ante el Ministerio Público y en caso de urgencia ante cualquier agente de la Policía.
 
 Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la ley señale como delito, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a los imputados, si hubieren sido detenidos en flagrancia. Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones correspondientes.
+
+Cuando el ejercicio de las funciones públicas a que se refiere el párrafo anterior, correspondan a la coadyuvancia con las autoridades responsables de la seguridad pública, además de cumplir con lo previsto en dicho párrafo, la intervención de los servidores públicos respectivos deberá limitarse a preservar el lugar de los hechos hasta el arribo de las autoridades competentes y, en su caso, adoptar las medidas a su alcance para que se brinde atención médica de urgencia a los heridos si los hubiere, así como poner a disposición de la autoridad a los detenidos por conducto o en coordinación con la policía.
+
+*Párrafo adicionado DOF 17-06-2016*
 
 No estarán obligados a denunciar quienes al momento de la comisión del delito detenten el carácter de tutor, curador, pupilo, cónyuge, concubina o concubinario, conviviente del imputado, los parientes por consanguinidad o por afinidad en la línea recta ascendente o descendente hasta el cuarto grado y en la colateral por consanguinidad o afinidad, hasta el segundo grado inclusive.
 
@@ -2991,9 +3066,17 @@ VIII. El reconocimiento de personas;
 
 IX. La entrega vigilada y las operaciones encubiertas, en el marco de una investigación y en los términos que establezcan los protocolos emitidos para tal efecto por el Procurador;
 
-X. La entrevista a testigos, y
+X. La entrevista de testigos;
 
-XI. Las demás en las que expresamente no se prevea control judicial.
+*Fracción reformada DOF 17-06-2016*
+
+XI. Recompensas, en términos de los acuerdos que para tal efecto emite el Procurador, y
+
+*Fracción adicionada DOF 17-06-2016*
+
+XII. Las demás en las que expresamente no se prevea control judicial.
+
+*Fracción recorrida DOF 17-06-2016*
 
 En los casos de la fracción IX, dichas actuaciones deberán ser autorizadas por el Procurador o por el servidor público en quien éste delegue dicha facultad.
 
@@ -3035,13 +3118,19 @@ El Ministerio Público podrá archivar temporalmente aquellas investigaciones en
 
 No ejercicio de la acción
 
-Antes de la audiencia inicial, el Ministerio Público podrá decretar el no ejercicio de la acción penal cuando de los antecedentes del caso le permitan concluir que en el caso concreto se actualiza alguna de las causales de sobreseimiento previstas en este Código.
+Antes de la audiencia inicial, el Ministerio Público previa autorización del Procurador o del servidor público en quien se delegue la facultad, podrá decretar el no ejercicio de la acción penal cuando de los antecedentes del caso le permitan concluir que en el caso concreto se actualiza alguna de las causales de sobreseimiento previstas en este Código.
+
+La determinación de no ejercicio de la acción penal, para los casos del artículo 327 del presente Código, inhibe una nueva persecución penal por los mismos hechos respecto del indiciado, salvo que sea por diversos hechos o en contra de diferente persona.
+
+*Artículo reformado DOF 17-06-2016*
 
 ###### Artículo 256.
 
 Casos en que operan los criterios de oportunidad
 
-Iniciada la investigación y previo análisis objetivo de los datos que consten en la misma, conforme a las disposiciones normativas de cada Procuraduría, el Ministerio Público ponderará el ejercicio de la acción penal sobre la base de criterios de oportunidad, siempre que, en su caso, se hayan reparado o garantizado los daños causados a la víctima u ofendido o ésta manifieste su falta de interés jurídico en dicha reparación de lo cual deberá dejarse constancia.
+Iniciada la investigación y previo análisis objetivo de los datos que consten en la misma, conforme a las disposiciones normativas de cada Procuraduría, el Ministerio Público, podrá abstenerse de ejercer la acción penal con base en la aplicación de criterios de oportunidad, siempre que, en su caso, se hayan reparado o garantizado los daños causados a la víctima u ofendido.
+
+*Párrafo reformado DOF 17-06-2016*
 
 La aplicación de los criterios de oportunidad será procedente en cualquiera de los siguientes supuestos:
 
@@ -3051,13 +3140,21 @@ II. Se trate de delitos de contenido patrimonial cometidos sin violencia sobre l
 
 III. Cuando el imputado haya sufrido como consecuencia directa del hecho delictivo un daño físico o psicoemocional grave, o cuando el imputado haya contraído una enfermedad terminal que torne notoriamente innecesaria o desproporcional la aplicación de una pena;
 
-IV. La pena o medida de seguridad que pudiera imponerse por el hecho delictivo carezca de importancia en consideración a la pena o medida de seguridad ya impuesta al inculpado por otro delito, o la que podría aplicarse al mismo por otros delitos o bien, por la pena que previamente se le haya impuesto o podría llegar a imponérsele en virtud de diverso proceso tramitado en otro fuero;
+IV. La pena o medida de seguridad que pudiera imponerse por el hecho delictivo que carezca de importancia en consideración a la pena o medida de seguridad ya impuesta o a la que podría imponerse por otro delito por el que esté siendo procesado con independencia del fuero;
 
-V. Cuando el imputado aporte información esencial para la persecución de un delito más grave del que se le imputa, la información que proporcione derive en la detención de un imputado diverso y se comprometa a comparecer en juicio. En estos supuestos, los efectos del criterio de oportunidad se suspenderán hasta en tanto el imputado beneficiado comparezca a rendir su declaración en la audiencia de juicio;
+*Fracción reformada DOF 17-06-2016*
 
-VI. Cuando la afectación al bien jurídico tutelado resulte poco significativa, y
+V. Cuando el imputado aporte información esencial y eficaz para la persecución de un delito más grave del que se le imputa, y se comprometa a comparecer en juicio;
 
-VII. Cuando la continuidad del proceso o la aplicación de la pena sea irrelevante para los fines preventivos de la política criminal.
+*Fracción reformada DOF 17-06-2016*
+
+VI. Cuando, a razón de las causas o circunstancias que rodean la comisión de la conducta punible, resulte desproporcionada o irrazonable la persecución penal.
+
+*Fracción reformada DOF 17-06-2016*
+
+VII. Se deroga.
+
+*Fracción derogada DOF 17-06-2016*
 
 No podrá aplicarse el criterio de oportunidad en los casos de delitos contra el libre desarrollo de la personalidad, de violencia familiar ni en los casos de delitos fiscales o aquellos que afecten gravemente el interés público.
 
@@ -3073,9 +3170,13 @@ Efectos del criterio de oportunidad
 
 La aplicación de los criterios de oportunidad extinguirá la acción penal con respecto al autor o partícipe en cuyo beneficio se dispuso la aplicación de dicho criterio. Si la decisión del Ministerio Público se sustentara en alguno de los supuestos de procedibilidad establecidos en las fracciones I y II del artículo anterior, sus efectos se extenderán a todos los imputados que reúnan las mismas condiciones.
 
-No obstante, en el caso de la fracción IV del artículo anterior, se suspenderá el ejercicio de la acción penal en relación con los hechos o las personas en cuyo favor se aplicó el criterio de oportunidad, hasta quince días naturales después de que quede firme la declaración judicial de extinción penal, momento en que el Juez de control, a solicitud del agente del Ministerio Público, deberá resolver definitivamente sobre el cese de esa persecución.
+En el caso de la fracción V del artículo anterior, se suspenderá el ejercicio de la acción penal, así como el plazo de la prescripción de la acción penal, hasta en tanto el imputado comparezca a rendir su testimonio en el procedimiento respecto del que aportó información, momento a partir del cual, el agente del Ministerio Público contará con quince días para resolver definitivamente sobre la procedencia de la extinción de la acción penal.
 
-En el supuesto a que se refiere la fracción IV del artículo anterior, se suspenderá el plazo de la prescripción de la acción penal.
+*Párrafo reformado DOF 17-06-2016*
+
+En el supuesto a que se refiere la fracción V del artículo anterior, se suspenderá el plazo de la prescripción de la acción penal.
+
+*Párrafo reformado DOF 17-06-2016*
 
 ###### Artículo 258.
 
@@ -3385,11 +3486,19 @@ Los motivos que determinaron la inspección sin orden judicial constarán detall
 
 Intervención de las comunicaciones privadas
 
-Cuando en la investigación el Ministerio Público considere necesaria la intervención de comunicaciones privadas el Titular de la Procuraduría General de la República o los servidores públicos facultados en términos de su ley orgánica, así como los Procuradores de las Entidades federativas, podrán solicitar al Juez federal de control competente, por cualquier medio, la autorización para practicar la intervención, expresando el objeto y necesidad de la misma.
+Cuando en la investigación el Ministerio Público considere necesaria la intervención de comunicaciones privadas, el Titular de la Procuraduría General de la República, o en quienes éste delegue esta facultad, así como los Procuradores de las entidades federativas, podrán solicitar al Juez federal de control competente, por cualquier medio, la autorización para practicar la intervención, expresando el objeto y necesidad de la misma.
 
-La intervención de comunicaciones privadas, abarca todo un sistema de comunicación, o programas que sean fruto de la evolución tecnológica, que permitan el intercambio de datos, informaciones, audio, video, mensajes, así como archivos electrónicos, que graben, conserven el contenido de las conversaciones o registren datos que identifiquen la comunicación, las cuales se pueden presentar en tiempo real o con posterioridad al momento en que se produce el proceso comunicativo.
+*Párrafo reformado DOF 17-06-2016*
+
+La intervención de comunicaciones privadas, abarca todo sistema de comunicación, o programas que sean resultado de la evolución tecnológica, que permitan el intercambio de datos, informaciones, audio, video, mensajes, así como archivos electrónicos que graben, conserven el contenido de las conversaciones o registren datos que identifiquen la comunicación, los cuales se pueden presentar en tiempo real.
+
+*Párrafo reformado DOF 17-06-2016*
 
 La solicitud deberá ser resuelta por la autoridad judicial de manera inmediata, por cualquier medio que garantice su autenticidad, o en audiencia privada con la sola comparecencia del Ministerio Público, en un plazo que no exceda de las seis horas siguientes a que la haya recibido.
+
+También se requerirá autorización judicial en los casos de extracción de información, la cual consiste en la obtención de comunicaciones privadas, datos de identificación de las comunicaciones; así como la información, documentos, archivos de texto, audio, imagen o video contenidos en cualquier dispositivo, accesorio, aparato electrónico, equipo informático, aparato de almacenamiento y todo aquello que pueda contener información, incluyendo la almacenada en las plataformas o centros de datos remotos vinculados con éstos.
+
+*Párrafo adicionado DOF 17-06-2016*
 
 Si la resolución se registra por medios diversos al escrito, los puntos resolutivos de la autorización deberán transcribirse y entregarse al Ministerio Público.
 
@@ -3477,11 +3586,25 @@ Quienes participen en alguna intervención de comunicaciones privadas deberán o
 
 ###### Artículo 303.
 
-Localización geográfica en tiempo real
+Localización geográfica en tiempo real y solicitud de entrega de datos conservados
 
-Cuando exista denuncia o querella, y bajo su más estricta responsabilidad, el Procurador, o el servidor público en quien se delegue la facultad, solicitará a los concesionarios o permisionarios o comercializadoras del servicio de telecomunicaciones o comunicación vía satélite, la localización geográfica en tiempo real de los equipos de comunicación móvil asociados a una línea que se encuentren relacionados con los hechos que se investigan en términos de las disposiciones aplicables.
+Cuando el Ministerio Público considere necesaria la localización geográfica en tiempo real o entrega de datos conservados por los concesionarios de telecomunicaciones, los autorizados o proveedores de servicios de aplicaciones y contenidos de los equipos de comunicación móvil asociados a una línea que se encuentra relacionada con los hechos que se investigan, el Procurador, o el servidor público en quien se delegue la facultad, podrá solicitar al Juez de control del fuero correspondiente en su caso, por cualquier medio, requiera a los concesionarios de telecomunicaciones, los autorizados o proveedores de servicios de aplicaciones y contenidos, para que proporcionen con la oportunidad y suficiencia necesaria a la autoridad investigadora, la información solicitada para el inmediato desahogo de dichos actos de investigación. Los datos conservados a que refiere este párrafo se destruirán en caso de que no constituyan medio de prueba idóneo o pertinente.
 
-Asimismo se les podrá requerir la conservación inmediata de datos contenidos en redes, sistemas o equipos de informática, hasta por un tiempo máximo de noventa días en los casos de delitos relacionados o cometidos con medios informáticos.
+En la solicitud se expresarán los equipos de comunicación móvil relacionados con los hechos que se investigan, señalando los motivos e indicios que sustentan la necesidad de la localización geográfica en tiempo real o la entrega de los datos conservados, su duración y, en su caso, la denominación de la empresa autorizada o proveedora del servicio de telecomunicaciones a través del cual se operan las líneas, números o aparatos que serán objeto de la medida.
+
+La petición deberá ser resuelta por la autoridad judicial de manera inmediata por cualquier medio que garantice su autenticidad, o en audiencia privada con la sola comparecencia del Ministerio Público.
+
+Si la resolución se emite o registra por medios diversos al escrito, los puntos resolutivos de la orden deberán transcribirse y entregarse al Ministerio Público.
+
+En caso de que el Juez de control niegue la orden de localización geográfica en tiempo real o la entrega de los datos conservados, el Ministerio Público podrá subsanar las deficiencias y solicitar nuevamente la orden o podrá apelar la decisión. En este caso la apelación debe ser resuelta en un plazo no mayor de doce horas a partir de que se interponga.
+
+Excepcionalmente, cuando esté en peligro la integridad física o la vida de una persona o se encuentre en riesgo el objeto del delito, así como en hechos relacionados con la privación ilegal de la libertad, secuestro, extorsión o delincuencia organizada, el Procurador, o el servidor público en quien se delegue la facultad, bajo su más estricta responsabilidad, ordenará directamente la localización geográfica en tiempo real o la entrega de los datos conservados a los concesionarios de telecomunicaciones, los autorizados o proveedores de servicios de aplicaciones y contenidos, quienes deberán atenderla de inmediato y con la suficiencia necesaria. A partir de que se haya cumplimentado el requerimiento, el Ministerio Público deberá informar al Juez de control competente por cualquier medio que garantice su autenticidad, dentro del plazo de cuarenta y ocho horas, a efecto de que ratifique parcial o totalmente de manera inmediata la subsistencia de la medida, sin perjuicio de que el Ministerio Público continúe con su actuación.
+
+Cuando el Juez de control no ratifique la medida a que hace referencia el párrafo anterior, la información obtenida no podrá ser incorporada al procedimiento penal.
+
+Asimismo el Procurador, o el servidor público en quien se delegue la facultad podrá requerir a los sujetos obligados que establece la Ley Federal de Telecomunicaciones y Radiodifusión, la conservación inmediata de datos contenidos en redes, sistemas o equipos de informática, hasta por un tiempo máximo de noventa días, lo cual deberá realizarse de forma inmediata. La solicitud y entrega de los datos contenidos en redes, sistemas o equipos de informática se llevará a cabo de conformidad por lo previsto por este artículo. Lo anterior sin menoscabo de las obligaciones previstas en materia de conservación de información para las concesionarias y autorizados de telecomunicaciones en términos del artículo 190, fracción II de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+*Artículo reformado DOF 17-06-2016*
 
 #### CAPÍTULO III · PRUEBA ANTICIPADA
 
@@ -3529,7 +3652,9 @@ Audiencia inicial
 
 En la audiencia inicial se informarán al imputado sus derechos constitucionales y legales, si no se le hubiese informado de los mismos con anterioridad, se realizará el control de legalidad de la detención si correspondiere, se formulará la imputación, se dará la oportunidad de declarar al imputado, se resolverá sobre las solicitudes de vinculación a proceso y medidas cautelares y se definirá el plazo para el cierre de la investigación.
 
-En caso de que el Ministerio Público solicite la procedencia de prisión preventiva dicha cuestión deberá ser resuelta antes de que se dicte el auto de vinculación a proceso.
+En caso de que el Ministerio Público o la víctima u ofendido solicite la procedencia de una medida cautelar, dicha cuestión deberá ser resuelta antes de que se dicte la suspensión de la audiencia inicial.
+
+*Párrafo reformado DOF 17-06-2016*
 
 A esta audiencia deberá concurrir el Ministerio Público, el imputado y su Defensor. La víctima u ofendido o su Asesor jurídico, podrán asistir si así lo desean, pero su presencia no será requisito de validez de la audiencia.
 
@@ -3541,9 +3666,15 @@ Inmediatamente después de que el imputado detenido en flagrancia o caso urgente
 
 El Ministerio Público deberá justificar las razones de la detención y el Juez de control procederá a calificarla, examinará el cumplimiento del plazo constitucional de retención y los requisitos de procedibilidad, ratificándola en caso de encontrarse ajustada a derecho o decretando la libertad en los términos previstos en este Código.
 
-Ratificada la detención en flagrancia o caso urgente, y cuando se hubiere ejecutado una orden de aprehensión, el imputado permanecerá detenido durante el desarrollo de la audiencia inicial, hasta en tanto no se resuelva si será o no sometido a prisión preventiva, sin perjuicio de lo dispuesto en el artículo anterior.
+Ratificada la detención en flagrancia, caso urgente, y cuando se hubiere ejecutado una orden de aprehensión, el imputado permanecerá detenido durante el desarrollo de la audiencia inicial, hasta en tanto no se resuelva si será o no sometido a una medida cautelar.
+
+*Párrafo reformado DOF 17-06-2016*
 
 En caso de que al inicio de la audiencia el agente del Ministerio Público no esté presente, el Juez de control declarará en receso la audiencia hasta por una hora y ordenará a la administración del Poder Judicial para que se comunique con el superior jerárquico de aquél, con el propósito de que lo haga comparecer o lo sustituya. Concluido el receso sin obtener respuesta, se procederá a la inmediata liberación del detenido.
+
+La omisión del Ministerio Público o de su superior jerárquico, al párrafo precedente los hará incurrir en las responsabilidades de conformidad con las disposiciones aplicables.
+
+*Párrafo adicionado DOF 17-06-2016*
 
 ###### Artículo 309.
 
@@ -3553,7 +3684,9 @@ La formulación de la imputación es la comunicación que el Ministerio Público
 
 En el caso de detenidos en flagrancia o caso urgente, después que el Juez de control califique de legal la detención, el Ministerio Público deberá formular la imputación, acto seguido solicitará la vinculación del imputado a proceso sin perjuicio del plazo constitucional que pueda invocar el imputado o su Defensor.
 
-En el caso de que, como medida cautelar, el Ministerio Público solicite la prisión preventiva y el imputado se haya acogido al plazo constitucional, el debate sobre medidas cautelares sucederá previo a la suspensión de la audiencia.
+En el caso de que el Ministerio Público o la víctima u ofendido o el Asesor jurídico solicite una medida cautelar y el imputado se haya acogido al plazo constitucional, el debate sobre medidas cautelares sucederá previo a la suspensión de la audiencia.
+
+*Párrafo reformado DOF 17-06-2016*
 
 El imputado no podrá negarse a proporcionar su completa identidad, debiendo responder las preguntas que se le dirijan con respecto a ésta y se le exhortará para que se conduzca con verdad.
 
@@ -3599,21 +3732,29 @@ El Juez de control cuestionará al imputado si desea que se resuelva sobre su vi
 
 Si el imputado manifestó su deseo de que se resuelva sobre su vinculación a proceso dentro del plazo de setenta y dos horas o solicita la ampliación de dicho plazo, el Juez deberá señalar fecha para la celebración de la audiencia de vinculación a proceso dentro de dicho plazo o su prórroga.
 
-La audiencia de vinculación a proceso deberá celebrarse, según sea el caso, dentro de las setenta y dos o ciento cuarenta y cuatro horas siguientes a que el imputado detenido fue puesto a su disposición o que el imputado compareció a la audiencia de formulación de la imputación. Si el imputado requiere del auxilio judicial para citar testigos o peritos a la audiencia de vinculación a proceso, deberá solicitar dicho auxilio al menos con cuarenta y ocho horas de anticipación a la hora y fecha señaladas para la celebración de la audiencia. En caso contrario, deberá presentar sus medios de prueba a la audiencia de vinculación a proceso.
+La audiencia de vinculación a proceso deberá celebrarse, según sea el caso, dentro de las setenta y dos o ciento cuarenta y cuatro horas siguientes a que el imputado detenido fue puesto a su disposición o que el imputado compareció a la audiencia de formulación de la imputación.
+
+*Párrafo reformado DOF 17-06-2016*
 
 El Juez de control deberá informar a la autoridad responsable del establecimiento en el que se encuentre internado el imputado si al resolverse su situación jurídica además se le impuso como medida cautelar la prisión preventiva o si se solicita la duplicidad del plazo constitucional. Si transcurrido el plazo constitucional el Juez de control no informa a la autoridad responsable, ésta deberá llamar su atención sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, deberá poner al imputado en libertad.
 
 ###### Artículo 314.
 
-Incorporación de medios de prueba en el plazo constitucional o su ampliación
+Incorporación de datos y medios de prueba en el plazo constitucional o su ampliación
 
-El imputado o su Defensor podrán, en el plazo constitucional o su ampliación, solicitar el desahogo de medios de prueba que consideren necesarios ante el Juez de control.
+El imputado o su Defensor podrán, durante el plazo constitucional o su ampliación, presentar los datos de prueba que consideren necesarios ante el Juez de control.
+
+Exclusivamente en el caso de delitos que ameriten la imposición de la medida cautelar de prisión preventiva oficiosa u otra personal, de conformidad con lo previsto en este Código, el Juez de control podrá admitir el desahogo de medios de prueba ofrecidos por el imputado o su Defensor, cuando, al inicio de la audiencia o su continuación, justifiquen que ello resulta pertinente.
+
+*Artículo reformado DOF 17-06-2016*
 
 ###### Artículo 315.
 
 Continuación de la audiencia inicial
 
-La continuación de la audiencia inicial comenzará, en su caso, con el desahogo de los medios de prueba que el imputado hubiese ofrecido o presentado en la misma. Para tal efecto, se seguirán en lo conducente las reglas previstas para el desahogo de pruebas en la audiencia de debate de juicio oral. Desahogada la prueba, si la hubo, se le concederá la palabra en primer término al Ministerio Público y luego al imputado. Agotado el debate, el Juez resolverá sobre la vinculación o no del imputado a proceso.
+La continuación de la audiencia inicial comenzará con la presentación de los datos de prueba aportados por las partes o, en su caso, con el desahogo de los medios de prueba que hubiese ofrecido y justificado el imputado o su defensor en términos del artículo 314 de este Código. Para tal efecto, se seguirán en lo conducente las reglas previstas para el desahogo de pruebas en la audiencia de debate de juicio oral. Desahogada la prueba, si la hubo, se le concederá la palabra en primer término al Ministerio Público, al asesor jurídico de la víctima y luego al imputado. Agotado el debate, el Juez resolverá sobre la vinculación o no del imputado a proceso.
+
+*Párrafo reformado DOF 17-06-2016*
 
 En casos de extrema complejidad, el Juez de control podrá decretar un receso que no podrá exceder de dos horas, antes de resolver sobre la situación jurídica del imputado.
 
@@ -3665,7 +3806,9 @@ El auto de no vinculación a proceso no impide que el Ministerio Público contin
 
 Valor de las actuaciones
 
-Los antecedentes de la investigación y elementos de convicción desahogados en la audiencia de vinculación a proceso, que sirvan como base para el dictado del auto de vinculación a proceso y de las medidas cautelares, carecen de valor probatorio para fundar la sentencia, salvo las excepciones expresas previstas por este Código.
+Los antecedentes de la investigación y elementos de convicción aportados y desahogados, en su caso, en la audiencia de vinculación a proceso, que sirvan como base para el dictado del auto de vinculación a proceso y de las medidas cautelares, carecen de valor probatorio para fundar la sentencia, salvo las excepciones expresas previstas por este Código.
+
+*Artículo reformado DOF 17-06-2016*
 
 ###### Artículo 321.
 
@@ -3857,21 +4000,25 @@ Si el Ministerio Público o, en su caso, la víctima u ofendido ofrecieran como 
 
 ###### Artículo 336.
 
-Actuación de la víctima u ofendido
+Notificación de la Acusación
 
-Una vez presentada la acusación, el Juez de control ordenará su notificación a las partes al día siguiente. Al acusado y su Defensor, a la víctima u ofendido por conducto de su Asesor jurídico, se les entregará copia de la acusación. Para estar en condiciones de señalar fecha de audiencia intermedia, el Ministerio Público deberá poner a disposición de las demás partes todos los antecedentes acumulados durante la investigación.
+Una vez presentada la acusación, el Juez de control ordenará su notificación a las partes al día siguiente. Con dicha notificación se les entregará copia de la acusación.
+
+*Artículo reformado DOF 17-06-2016*
 
 ###### Artículo 337.
 
 Descubrimiento probatorio
 
-El descubrimiento probatorio a cargo del Ministerio Público, consiste en la entrega material a la defensa, de copia de los registros de la investigación, como del acceso que debe dar a la defensa respecto de las evidencias materiales recabadas durante la investigación. La entrega de las copias solicitadas y el acceso a las evidencias materiales referidas, deberá efectuarlo el Ministerio Público inmediatamente que le sea solicitado por la defensa. Por su parte, el descubrimiento probatorio a cargo de la defensa, consiste en la entrega material al Ministerio Público de copia de los registros con los que cuente y que pretenda ofrecerlos como medios de prueba para ser desahogados en juicio. La defensa sólo estará obligada a descubrir aquellos medios de prueba que pretenda llevar a juicio como prueba.
+El descubrimiento probatorio consiste en la obligación de las partes de darse a conocer entre ellas en el proceso, los medios de prueba que pretendan ofrecer en la audiencia de juicio. En el caso del Ministerio Público, el descubrimiento comprende el acceso y copia a todos los registros de la investigación, así como a los lugares y objetos relacionados con ella, incluso de aquellos elementos que no pretenda ofrecer como medio de prueba en el juicio. En el caso del imputado o su defensor, consiste en entregar materialmente copia de los registros al Ministerio Público a su costa, y acceso a las evidencias materiales que ofrecerá en la audiencia intermedia, lo cual deberá realizarse en los términos de este Código.
 
-Para los efectos de este artículo se entenderá por registros de la investigación, todos los documentos que integren la carpeta de investigación, así como fotografías, videos con o sin audio, grabaciones de voz, informes periciales y pruebas periciales que obren en cualquier tipo de soporte o archivo electrónico. Con el objeto de obtener copia de registros que obren en soportes electrónicos, la defensa proporcionará al Ministerio Público los medios necesarios para ello.
+El Ministerio Público deberá cumplir con esta obligación de manera continua a partir de los momentos establecidos en el párrafo tercero del artículo 218 de este Código, así como permitir el acceso del imputado o su Defensor a los nuevos elementos que surjan en el curso de la investigación, salvo las excepciones previstas en este Código.
 
-Tratándose del acceso a las evidencias materiales que obren en la carpeta de investigación, ello implicará el derecho de la defensa de obtener imágenes fotografiadas o videofilmadas de las mismas, así como la práctica de pericias a cargo de peritos de la defensa, o a petición de la misma si no los hubiere, la práctica de pericias a cargo de peritos oficiales sobre dichas evidencias.
+La víctima u ofendido, el asesor jurídico y el acusado o su Defensor, deberán descubrir los medios de prueba que pretendan ofrecer en la audiencia del juicio, en los plazos establecidos en los artículos 338 y 340, respectivamente, para lo cual, deberán entregar materialmente copia de los registros y acceso a los medios de prueba, con costo a cargo del Ministerio Público. Tratándose de la prueba pericial, se deberá entregar el informe respectivo al momento de descubrir los medios de prueba a cargo de cada una de las partes, salvo que se justifique que aún no cuenta con ellos, caso en el cual, deberá descubrirlos a más tardar tres días antes del inicio de la audiencia intermedia.
 
-El Ministerio Público deberá efectuar en favor de la defensa su descubrimiento en un plazo de cinco días, contados a partir de que se hubieren satisfecho los supuestos previstos en el artículo 335. Lo anterior sin perjuicio de la obligación del Ministerio Público de dar acceso al imputado y su Defensor del contenido de la carpeta de investigación cuando así lo soliciten.
+En caso que el acusado o su defensor, requiera más tiempo para preparar el descubrimiento o su caso, podrá solicitar al Juez de control, antes de celebrarse la audiencia intermedia o en la misma audiencia, le conceda un plazo razonable y justificado para tales efectos.
+
+*Artículo reformado DOF 17-06-2016*
 
 ###### Artículo 338.
 
@@ -3883,7 +4030,9 @@ I. Constituirse como coadyuvantes en el proceso;
 
 II. Señalar los vicios formales de la acusación y requerir su corrección;
 
-III. Ofrecer los medios de prueba que estime necesarios para complementar la acusación del Ministerio Público debiendo hacerlo de su conocimiento por conducto del juez. En tal caso, el Ministerio Público, a más tardar dentro del plazo de veinticuatro horas a partir de que haya recibido el ofrecimiento de medios de prueba de la víctima, deberá comunicarlo al imputado o a su Defensor para que comparezcan ante su presencia en un plazo que no deberá exceder de cuarenta y ocho horas contadas a partir del día siguiente de haberse efectuado la notificación, a tomar conocimiento de ello y, en su caso, para que de así convenir a sus intereses, soliciten la expedición de copia de los mismos y/o su acceso según lo que proceda. La entrega de las copias respectivas y del acceso en su caso a las evidencias materiales, deberá hacerse inmediatamente así sea solicitado por la defensa. Una vez que el Ministerio Público entregue copia al imputado o a su defensa de dichos registros y/o les dé acceso a ellos y, siempre y cuando la defensa no haya solicitado dentro de los tres días siguientes a que ello aconteciere que se dé acceso a sus peritos para la toma de fotografías, videos o práctica de alguna pericial y notificará a la defensa el cierre del descubrimiento probatorio. En caso que la defensa haya solicitado el acceso con peritos a los medios probatorios ofrecidos por la víctima u ofendido dentro del plazo señalado, contará con un nuevo plazo de tres días contados a partir del día siguiente de su solicitud para presentarlos ante el Ministerio Público, a fin de que en presencia del mismo lleven a cabo la toma de fotografías o videos o muestras en su caso, o la práctica de pericia respectiva, hecho lo cual, el Ministerio Público hará constar en la carpeta de investigación el cierre del descubrimiento probatorio a su cargo notificándolo a la defensa para los efectos del artículo 340.
+III. Ofrecer los medios de prueba que estime necesarios para complementar la acusación del Ministerio Público, de lo cual se deberá notificar al acusado;
+
+*Fracción reformada DOF 17-06-2016*
 
 IV. Solicitar el pago de la reparación del daño y cuantificar su monto.
 
@@ -3901,23 +4050,39 @@ Si se trata de varias víctimas u ofendidos podrán nombrar un representante com
 
 Actuación del imputado en la fase escrita de la etapa intermedia
 
-Dentro de los diez días siguientes a la notificación de la solicitud de coadyuvancia de la víctima u ofendido, el acusado o su Defensor, mediante escrito dirigido al Ministerio Público, o bien en audiencia intermedia:
+Dentro de los diez días siguientes a que fenezca el plazo para la solicitud de coadyuvancia de la víctima u ofendido, el acusado o su Defensor, mediante escrito dirigido al Juez de control, podrán:
 
-I. Podrán señalar vicios formales del escrito de acusación y pronunciarse sobre las observaciones del coadyuvante y si lo consideran pertinente, requerir su corrección. No obstante, la defensa tendrá la misma oportunidad en la audiencia intermedia;
+*Párrafo reformado DOF 17-06-2016*
 
-II. Podrá solicitar la acumulación o separación de acusaciones, o
+I. Señalar vicios formales del escrito de acusación y pronunciarse sobre las observaciones del coadyuvante y si lo consideran pertinente, requerir su corrección. No obstante, el acusado o su Defensor podrán señalarlo en la audiencia intermedia;
 
-III. Podrá manifestarse sobre los acuerdos probatorios.
+*Fracción reformada DOF 17-06-2016*
 
-Deberá descubrir los medios de prueba que pretenda desahogar en juicio para tal efecto, a partir de este momento y hasta en un plazo máximo de diez días deberá entregar física y materialmente a las demás partes dichos medios de prueba, con salvedad del informe pericial el cual deberá ser entregado a más tardar el día de la celebración de la audiencia intermedia, sin perjuicio de que se anuncie en este momento.
+II. Ofrecer los medios de prueba que pretenda se desahoguen en el juicio;
 
-El escrito del acusado o su Defensor se notificará al Ministerio Público y al coadyuvante dentro de las veinticuatro horas siguientes a su comparecencia.
+*Fracción adicionada DOF 17-06-2016*
+
+III. Solicitar la acumulación o separación de acusaciones, y
+
+*Fracción reformada y recorrida DOF 17-06-2016*
+
+IV. Manifestarse sobre los acuerdos probatorios.
+
+*Fracción reformada y recorrida DOF 17-06-2016*
+
+El escrito del acusado o su Defensor se notificará al Ministerio Público y al coadyuvante dentro de las veinticuatro horas siguientes a su presentación.
+
+*Párrafo reformado DOF 17-06-2016*
+
+*Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo segundo*
 
 ###### Artículo 341.
 
 Citación a la audiencia
 
-El Juez de control señalará fecha para que se lleve a cabo la audiencia intermedia, la cual deberá tener lugar en un plazo que no podrá ser menor a diez ni exceder de veinte días a partir de que fenezca el plazo establecido en el artículo anterior para el descubrimiento probatorio de la defensa.
+El Juez de control, en el mismo auto en que tenga por presentada la acusación del Ministerio Público, señalará fecha para que se lleve a cabo la audiencia intermedia, la cual deberá tener lugar en un plazo que no podrá ser menor a treinta ni exceder de cuarenta días naturales a partir de presentada la acusación.
+
+*Párrafo reformado DOF 17-06-2016*
 
 Previa celebración de la audiencia intermedia, el Juez de control podrá, por una sola ocasión y a solicitud de la defensa, diferir, hasta por diez días, la celebración de la audiencia intermedia. Para tal efecto, la defensa deberá exponer las razones por las cuales ha requerido dicho diferimiento.
 
@@ -3991,7 +4156,9 @@ Auto de apertura a juicio
 
 Antes de finalizar la audiencia, el Juez de control dictará el auto de apertura de juicio que deberá indicar:
 
-I. El Tribunal de enjuiciamiento competente para celebrar la audiencia de juicio, así como la fecha y hora fijadas para la audiencia;
+I. El Tribunal de enjuiciamiento competente para celebrar la audiencia de juicio;
+
+*Fracción reformada DOF 17-06-2016*
 
 II. La individualización de los acusados;
 
@@ -4025,7 +4192,9 @@ El juicio es la etapa de decisión de las cuestiones esenciales del proceso. Se 
 
 Fecha, lugar, integración y citaciones
 
-En el auto de apertura a juicio oral se deberá establecer la fecha para la celebración de la audiencia de debate, la que deberá tener lugar no antes de veinte ni después de sesenta días naturales contados a partir de su emisión. Se citará oportunamente a todas las partes para asistir al debate. El acusado deberá ser citado, por lo menos con siete días de anticipación al comienzo de la audiencia.
+El Tribunal de enjuiciamiento una vez que reciba el auto de apertura a juicio oral deberá establecer la fecha para la celebración de la audiencia de debate, la que deberá tener lugar no antes de veinte ni después de sesenta días naturales contados a partir de la emisión del auto de apertura a juicio. Se citará oportunamente a todas las partes para asistir al debate. El acusado deberá ser citado, por lo menos con siete días de anticipación al comienzo de la audiencia.
+
+*Artículo reformado DOF 17-06-2016*
 
 ###### Artículo 350.
 
@@ -4099,7 +4268,9 @@ Si el infractor fuere el Ministerio Público, el acusado, su Defensor, la vícti
 
 En caso de que a pesar de las medidas adoptadas no se pudiera reestablecer el orden, quien preside la audiencia la suspenderá hasta en tanto se encuentren reunidas las condiciones que permitan continuar con su curso normal.
 
-El Tribunal de enjuiciamiento podrá ordenar el arresto hasta por quince días ante la contumacia de las obligaciones procesales de testigos o peritos que atenten contra el principio de continuidad, como lo pueden ser sus incomparecencias injustificadas a audiencia o aquellos actos que impidan que las pruebas puedan desahogarse en tiempo y forma.
+El Tribunal de enjuiciamiento podrá ordenar el arresto hasta por treinta y seis horas ante la contumacia de las obligaciones procesales de las personas que intervienen en un proceso penal que atenten contra el principio de continuidad, derivado de sus incomparecencias injustificadas a audiencia o aquellos actos que impidan que las pruebas puedan desahogarse en tiempo y forma.
+
+*Párrafo reformado DOF 17-06-2016*
 
 #### CAPÍTULO IV · DISPOSICIONES GENERALES SOBRE LA PRUEBA
 
@@ -4125,7 +4296,9 @@ La prueba que hubiere de servir de base a la sentencia deberá desahogarse duran
 
 Valoración de la prueba
 
-El Tribunal de enjuiciamiento deberá hacer referencia en la motivación que realice, de todas las pruebas desahogadas, incluso de aquellas que se hayan desestimado, indicando las razones que se tuvieron para hacerlo. La motivación permitirá la expresión del razonamiento utilizado para alcanzar las conclusiones contenidas en la resolución jurisdiccional. Sólo se podrá condenar al acusado si se llega a la convicción de su culpabilidad más allá de toda duda razonable. En caso de duda razonable, el Tribunal de enjuiciamiento absolverá al imputado.
+El Tribunal de enjuiciamiento valorará la prueba de manera libre y lógica, deberá hacer referencia en la motivación que realice, de todas las pruebas desahogadas, incluso de aquellas que se hayan desestimado, indicando las razones que se tuvieron para hacerlo. La motivación permitirá la expresión del razonamiento utilizado para alcanzar las conclusiones contenidas en la resolución jurisdiccional. Sólo se podrá condenar al acusado si se llega a la convicción de su culpabilidad más allá de toda duda razonable. En caso de duda razonable, el Tribunal de enjuiciamiento absolverá al imputado.
+
+*Artículo reformado DOF 17-06-2016*
 
 ##### SECCIÓN I · Prueba testimonial
 
@@ -4259,7 +4432,7 @@ Toda pregunta deberá formularse de manera oral y versará sobre un hecho espec�
 
 Las preguntas sugestivas sólo se permitirán a la contraparte de quien ofreció al testigo, en contrainterrogatorio.
 
-Las partes sólo podrán hacer preguntas a los testigos, peritos o al acusado, respecto de lo declarado por ellos previamente en la investigación cuando conste en los registros, de lo declarado en juicio, cuando tengan como finalidad acreditar su dicho, o cuando se pretenda ofrecer prueba de refutación respecto de hechos propios que resulten pertinentes para la materia de juicio.
+*Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo tercero*
 
 ###### Artículo 374.
 
@@ -4701,41 +4874,107 @@ Se excluyen de lo anterior, los delitos previstos para prisión preventiva ofici
 
 ###### Artículo 421.
 
-Ejercicio de la acción penal
+Ejercicio de la acción penal y responsabilidad penal autónoma
 
-Cuando algún miembro o representante de una persona jurídica, con excepción de las instituciones estatales, cometa un hecho delictivo con los medios que para tal objeto le proporcione dicha persona jurídica, de modo que resulte cometido a nombre, bajo el amparo o en beneficio de aquélla, el Ministerio Público ejercerá acción penal en contra de ésta sólo si también ha ejercido acción penal en contra de la persona física que deba responder por el delito cometido.
+Las personas jurídicas serán penalmente responsables, de los delitos cometidos a su nombre, por su cuenta, en su beneficio o a través de los medios que ellas proporcionen, cuando se haya determinado que además existió inobservancia del debido control en su organización. Lo anterior con independencia de la responsabilidad penal en que puedan incurrir sus representantes o administradores de hecho o de derecho.
+
+El Ministerio Público podrá ejercer la acción penal en contra de las personas jurídicas con excepción de las instituciones estatales, independientemente de la acción penal que pudiera ejercer contra las personas físicas involucradas en el delito cometido.
+
+No se extinguirá la responsabilidad penal de las personas jurídicas cuando se transformen, fusionen, absorban o escindan. En estos casos, el traslado de la pena podrá graduarse atendiendo a la relación que se guarde con la persona jurídica originariamente responsable del delito.
+
+La responsabilidad penal de la persona jurídica tampoco se extinguirá mediante su disolución aparente, cuando continúe su actividad económica y se mantenga la identidad sustancial de sus clientes, proveedores, empleados, o de la parte más relevante de todos ellos.
+
+Las causas de exclusión del delito o de extinción de la acción penal, que pudieran concurrir en alguna de las personas físicas involucradas, no afectará el procedimiento contra las personas jurídicas, salvo en los casos en que la persona física y la persona jurídica hayan cometido o participado en los mismos hechos y estos no hayan sido considerados como aquellos que la ley señala como delito, por una resolución judicial previa. Tampoco podrá afectar el procedimiento el hecho de que alguna persona física involucrada se sustraiga de la acción de la justicia.
+
+Las personas jurídicas serán penalmente responsables únicamente por la comisión de los delitos previstos en el catálogo dispuesto en la legislación penal de la federación y de las entidades federativas.
+
+*Artículo reformado DOF 17-06-2016*
 
 ###### Artículo 422.
 
-Investigación
+Consecuencias jurídicas
 
-Cuando el Ministerio Público tenga conocimiento de la posible comisión de un delito en los que se encuentre involucrada alguna persona jurídica, en los términos previstos en el artículo anterior iniciará la investigación correspondiente.
+A las personas jurídicas, con personalidad jurídica propia, se les podrá aplicar una o varias de las siguientes sanciones:
 
-En caso de que durante la investigación se ejecute el aseguramiento de bienes y sea necesario que alguna de las personas físicas a que se refiere el anterior artículo deba acudir ante el Ministerio Público, éste dará vista al representante de la persona jurídica a efecto de hacerle saber sus derechos y manifieste lo que a su derecho convenga.
+I. Sanción pecuniaria o multa;
 
-En ningún caso el representante de la persona jurídica que tenga el carácter de imputado podrá representarla.
+II. Decomiso de instrumentos, objetos o productos del delito;
+
+III. Publicación de la sentencia;
+
+IV. Disolución, o
+
+V. Las demás que expresamente determinen las leyes penales conforme a los principios establecidos en el presente artículo.
+
+Para los efectos de la individualización de las sanciones anteriores, el Órgano jurisdiccional deberá tomar en consideración lo establecido en el artículo 410 de este ordenamiento y el grado de culpabilidad correspondiente de conformidad con los aspectos siguientes:
+
+a) La magnitud de la inobservancia del debido control en su organización y la exigibilidad de conducirse conforme a la norma;
+
+b) El monto de dinero involucrado en la comisión del hecho delictivo, en su caso;
+
+c) La naturaleza jurídica y el volumen de negocios anual de la persona moral;
+
+d) El puesto que ocupaban, en la estructura de la persona jurídica, la persona o las personas físicas involucradas en la comisión del delito;
+
+e) El grado de sujeción y cumplimiento de las disposiciones legales y reglamentarias, y
+
+f) El interés público de las consecuencias sociales y económicas o, en su caso, los daños que pudiera causar a la sociedad, la imposición de la pena.
+
+Para la imposición de la sanción relativa a la disolución, el órgano jurisdiccional deberá ponderar además de lo previsto en este artículo, que la imposición de dicha sanción sea necesaria para garantizar la seguridad pública o nacional, evitar que se ponga en riesgo la economía nacional o la salud pública o que con ella se haga cesar la comisión de delitos.
+
+Las personas jurídicas, con o sin personalidad jurídica propia, que hayan cometido o participado en la comisión de un hecho típico y antijurídico, podrá imponérseles una o varias de las siguientes consecuencias jurídicas:
+
+I. Suspensión de sus actividades;
+
+II. Clausura de sus locales o establecimientos;
+
+III. Prohibición de realizar en el futuro las actividades en cuyo ejercicio se haya cometido o participado en su comisión;
+
+IV. Inhabilitación temporal consistente en la suspensión de derechos para participar de manera directa o por interpósita persona en procedimientos de contratación del sector público;
+
+V. Intervención judicial para salvaguardar los derechos de los trabajadores o de los acreedores, o
+
+VI. Amonestación pública.
+
+En este caso el Órgano jurisdiccional deberá individualizar las consecuencias jurídicas establecidas en este apartado, conforme a lo dispuesto en el presente artículo y a lo previsto en el artículo 410 de este Código.
+
+*Artículo reformado DOF 17-06-2016*
 
 ###### Artículo 423.
 
 Formulación de la imputación y vinculación a proceso
 
-En la audiencia inicial llevada a cabo para formular imputación a la persona física, se darán a conocer al representante de la persona jurídica, asistido por el Defensor, los cargos que se formulen en contra de su representado, para que dicho representante o su Defensor manifiesten lo que a su derecho convenga.
+Cuando el Ministerio Público tenga conocimiento de la posible comisión de un delito en los que se encuentre involucrada alguna persona jurídica, en los términos previstos en este Código, iniciará la investigación correspondiente.
+
+En caso de que durante la investigación se ejecute el aseguramiento de bienes el Ministerio Público, dará vista al representante de la persona jurídica a efecto de hacerle saber sus derechos y manifieste lo que a su derecho convenga.
+
+Para los efectos de este Capítulo, el Órgano jurisdiccional podrá dictar como medidas cautelares la suspensión de las actividades, la clausura temporal de los locales o establecimientos, así como la intervención judicial.
+
+En la audiencia inicial llevada a cabo para formular imputación a la persona física, se darán a conocer, en su caso, al representante de la persona jurídica, asistido por el Defensor, los cargos que se formulen en contra de su representado, para que dicho representante o su Defensor manifiesten lo que a su derecho convenga.
 
 El representante de la persona jurídica, asistido por el Defensor designado, podrá participar en todos los actos del procedimiento. En tal virtud se les notificarán todos los actos que tengan derecho a conocer, se les citarán a las audiencias, podrán ofrecer medios de prueba, desahogar pruebas, promover incidentes, formular alegatos e interponer los recursos procedentes en contra de las resoluciones que a la persona jurídica perjudiquen.
 
-La autoridad judicial dictará auto por el que determine si la persona jurídica de que se trate debe o no estar vinculada a proceso.
+En ningún caso el representante de la persona jurídica que tenga el carácter de imputado podrá representarla.
+
+En su caso el Órgano jurisdiccional podrá vincular a proceso a la persona jurídica.
+
+*Artículo reformado DOF 17-06-2016*
 
 ###### Artículo 424.
 
 Formas de terminación anticipada
 
-Durante el proceso, para determinar la responsabilidad penal de la persona jurídica, se podrán aplicar las formas anticipadas de terminación del proceso y en lo conducente, los procedimientos especiales previstos en este Código.
+Durante el proceso, para determinar la responsabilidad penal de las personas jurídicas a que se refiere este Capítulo, se podrán aplicar las soluciones alternas y las formas anticipadas de terminación del proceso y, en lo conducente los procedimientos especiales previstos en este Código.
+
+*Artículo reformado DOF 17-06-2016*
 
 ###### Artículo 425.
 
 Sentencias
 
-En la sentencia que se dicte, el Tribunal de enjuiciamiento resolverá lo pertinente a la persona física imputada y a la persona jurídica, imponiendo a ésta, en su caso, la sanción procedente.
+En la sentencia que se dicte el Órgano jurisdiccional resolverá lo pertinente a la persona física imputada, con independencia a la responsabilidad penal de la persona jurídica, imponiendo la sanción procedente.
+
+*Párrafo reformado DOF 17-06-2016*
 
 En lo no previsto por este Capítulo, se aplicarán en lo que sea compatible, las reglas del procedimiento ordinario previstas en este Código.
 
@@ -5078,6 +5317,10 @@ Este tipo de información o documentación sólo servirá como indicio a la auto
 Reglas generales
 
 Las resoluciones judiciales podrán ser recurridas sólo por los medios y en los casos expresamente establecidos en este Código.
+
+Para efectos de su impugnación, se entenderán como resoluciones judiciales, las emitidas oralmente o por escrito.
+
+*Párrafo adicionado DOF 17-06-2016*
 
 El derecho de recurrir corresponderá tan sólo a quien le sea expresamente otorgado y pueda resultar afectado por la resolución.
 
@@ -5459,9 +5702,11 @@ En todos los casos, entre la Declaratoria a que se hace referencia en los párra
 
 **ARTÍCULO TERCERO.** Abrogación
 
-El Código Federal de Procedimientos Penales publicado en el Diario Oficial de la Federación el 30 de agosto de 1934, y los de las respectivas entidades federativas vigentes a la entrada en vigor del presente Decreto, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del presente Código, quedarán abrogados, sin embargo respecto a los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+El Código Federal de Procedimientos Penales publicado en el Diario Oficial de la Federación el 30 de agosto de 1934, y los de las respectivas entidades federativas vigentes a la entrada en vigor del presente Decreto, quedarán abrogados para efectos de su aplicación en los procedimientos penales que se inicien a partir de la entrada en vigor del presente Código, sin embargo respecto a los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
 
-Toda mención en otras leyes u ordenamientos al Código Federal de Procedimientos Penales o a los códigos de procedimientos penales de las entidades federativas que por virtud del presente Decreto se abrogan, se entenderá referida al presente Código.
+En consecuencia el presente Código será aplicable para los procedimientos penales que se inicien a partir de su entrada en vigor, con independencia de que los hechos hayan sucedido con anterioridad a la entrada en vigor del mismo.
+
+*Artículo reformado DOF 17-06-2016*
 
 **ARTÍCULO CUARTO.** Derogación tácita de preceptos incompatibles
 
@@ -5570,3 +5815,33 @@ III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sen
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Nacional de Procedimientos Penales; del Código Penal Federal; de la Ley General del Sistema Nacional de Seguridad Pública; de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Defensoría Pública, del Código Fiscal de la Federación y de la Ley de Instituciones de Crédito.
+
+*Publicado en el Diario Oficial de la Federación el 17 de junio de 2016*
+
+**Artículo Primero.-** Se reforman los artículos 22, tercer párrafo; 78, primer párrafo; 100, primer y último párrafos y fracción II; 113, fracción VIII; 122; 135, segundo, tercero y cuarto párrafos; 143, primer párrafo, 151, primer párrafo; 154, último párrafo; 165, segundo párrafo; 174, segundo, tercero y cuarto párrafos; 176, primer párrafo y su epígrafe; 187, último párrafo; 192, fracciones I y II y último párrafo; 196, tercer párrafo; 218; 251, fracción X; 255, primer párrafo; 256, primer párrafo y fracciones IV, V y VI del segundo párrafo; 257, segundo y tercer párrafos; 291, primer y segundo párrafos; 303, primero y segundo párrafos y su epígrafe; 307, segundo párrafo; 308, tercer párrafo; 309, tercer párrafo; 313, cuarto párrafo; 314, primer párrafo y su epígrafe; 315, primer párrafo; 320; 336 y su epígrafe; 337; 338, fracción III; 340, primer y tercer párrafos y fracciones I, II y III; 341, primer párrafo; 347, fracción I; 349; 355, último párrafo; 359; 421 y su epígrafe; 422 y su epígrafe; 423; 424; 425, primer párrafo; y el primer párrafo del ARTÍCULO TERCERO TRANSITORIO del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014; se adicionan un primer párrafo al artículo 51, recorriéndose en su orden el subsecuente; segundo y tercer párrafos al artículo 143, recorriéndose en su orden los subsecuentes; un tercer párrafo al artículo 165; un tercer y cuarto párrafos al artículo 174, recorriéndose en su orden los subsecuentes; un primer párrafo al artículo 176, recorriéndose en su orden el subsecuente; se adiciona un último párrafo al artículo 187; una fracción III al artículo 192; un segundo y tercer párrafos, recorriéndose en su orden el subsecuente, así como un último párrafo al artículo 218; un tercer párrafo al artículo 222, recorriéndose en su orden el subsecuente; una fracción XI al artículo 251, recorriéndose en su orden las subsecuentes; un segundo párrafo al artículo 255; un cuarto párrafo, recorriéndose en su orden los subsecuentes, al artículo 291; un segundo, tercer, cuarto, quinto, sexto y séptimo párrafos al artículo 303, recorriéndose en su orden los subsecuentes; un quinto párrafo al artículo 308; un segundo párrafo al artículo 314; una fracción II al artículo 340, recorriéndose en su orden los subsecuentes; un primer párrafo, recorriéndose en su orden el actual primer párrafo para ser segundo párrafo, un tercero, cuarto, quinto y sexto párrafos al artículo 421; las fracciones I, II, III, IV y V al primer párrafo, los incisos a) a f) al segundo párrafo, las fracciones I, II, III, IV, V, VI al tercer párrafo y un cuarto párrafo al artículo 422; un tercer, cuarto, quinto, sexto y séptimo párrafos al artículo 423; un segundo párrafo al artículo 456, recorriéndose en su orden los subsecuentes; un segundo párrafo al ARTÍCULO TERCERO TRANSITORIO; se derogan la fracción VII del segundo párrafo del artículo 256; el segundo párrafo del artículo 340; el actual tercer párrafo del artículo 373; el tercer párrafo del artículo 423 y el segundo párrafo al ARTÍCULO TERCERO TRANSITORIO del Código Nacional de Procedimientos Penales, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
+
+**Segundo.-** Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los artículos 21 en su fracción X, 50 Bis y 158 de la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor en términos de lo previsto por el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+**Tercero.-** Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+
+Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas cautelares y de la suspensión condicional del proceso de la Federación y de las entidades federativas, se deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.
+
+**Cuarto.-** Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
+
+**Quinto.-** Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
+
+**Sexto.-** La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
+
+Ciudad de México, a 15 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Verónica Delgadillo García, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
