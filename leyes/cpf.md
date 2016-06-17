@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2016-04-07
-articles: 528
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_070416.doc
-archived: https://web.archive.org/web/20160430030821/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_070416.doc
-source_sha256: 9bb91476ba524640dad06ab208bb9b93c1c19ca86d285e396c5f32b1852ced4e
-retrieved: 2016-04-30
+last_reform_dof: 2016-06-17
+articles: 529
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_170616.doc
+archived: https://web.archive.org/web/20160716233153/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_170616.doc
+source_sha256: 01b912d26b3c894da75ba3962824f685651567284619ad367ffe049f941f73e1
+retrieved: 2016-07-16
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,9 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 07-04-2016
+Última reforma publicada DOF 17-06-2016
+
+> Disposición derogatoria: De conformidad con el párrafo primero del Artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -96,7 +98,7 @@ En los delitos de resultado material también será atribuible el resultado típ
 
 El delito es:
 
-I.- Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos;
+I. Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos los elementos de la descripción penal;
 
 II.- Permanente o continuo, cuando la consumación se prolonga en el tiempo, y
 
@@ -119,6 +121,106 @@ La responsabilidad penal no pasa de la persona y bienes de los delincuentes, exc
 ##### Artículo 11.
 
 Cuando algún miembro o representante de una persona jurídica, o de una sociedad, corporación o empresa de cualquiera clase, con excepción de las instituciones del Estado, cometa un delito con los medios que para tal objeto las mismas entidades le proporcionen, de modo que resulte cometido a nombre o bajo el amparo de la representación social o en beneficio de ella, el juez podrá, en los casos exclusivamente especificados por la ley, decretar en la sentencia la suspensión de la agrupación o su disolución, cuando lo estime necesario para la seguridad pública.
+
+##### Artículo 11 Bis.
+
+Para los efectos de lo previsto en el Título X, Capítulo II, del Código Nacional de Procedimientos Penales, a las personas jurídicas podrán imponérseles algunas o varias de las consecuencias jurídicas cuando hayan intervenido en la comisión de los siguientes delitos:
+
+A. De los previstos en el presente Código:
+
+I. Terrorismo, previsto en los artículos 139 al 139 Ter y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter;
+
+II. Uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el artículo 172 Bis;
+
+III. Contra la salud, previsto en los artículos 194 y 195, párrafo primero;
+
+IV. Corrupción de personas menores de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 201;
+
+V. Tráfico de influencia previsto en el artículo 221;
+
+VI. Cohecho, previsto en los artículos 222, fracción II, y 222 bis;
+
+VII. Falsificación y alteración de moneda, previstos en los artículos 234, 236 y 237;
+
+VIII. Contra el consumo y riqueza nacionales, prevista en el artículo 254;
+
+IX. Tráfico de menores o de personas que no tienen capacidad para comprender el significado del hecho, previsto en el artículo 366 Ter;
+
+X. Comercialización habitual de objetos robados, previsto en el artículo 368 Ter;
+
+XI. Robo de vehículos, previsto en el artículo 376 Bis y posesión, comercio, tráfico de vehículos robados y demás comportamientos previstos en el artículo 377;
+
+XII. Fraude, previsto en el artículo 388;
+
+XIII. Encubrimiento, previsto en el artículo 400;
+
+XIV. Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis;
+
+XV. Contra el ambiente, previsto en los artículos 414, 415, 416, 418, 419 y 420;
+
+XVI. En materia de derechos de autor, previsto en el artículo 424 Bis;
+
+B. De los delitos establecidos en los siguientes ordenamientos:
+
+I. Acopio y tráfico de armas, previstos en los artículos 83 Bis y 84, de la Ley Federal de Armas de Fuego y Explosivos;
+
+II. Tráfico de personas, previsto en el artículo 159, de la Ley de Migración;
+
+III. Tráfico de órganos, previsto en los artículos 461, 462 y 462 Bis, de la Ley General de Salud;
+
+IV. Trata de personas, previsto en los artículos 10 al 38 de la Ley General para Prevenir, Sancionar y Erradicar los delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+
+V. Introducción clandestina de armas de fuego que no están reservadas al uso exclusivo del Ejército, Armada o Fuerza Aérea, previsto en el artículo 84 Bis, de la Ley Federal de Armas de Fuego y Explosivos;
+
+VI. De la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los previstos en los artículos 9, 10, 11 y 15;
+
+VII. Contrabando y su equiparable, previstos en los artículos 102 y 105 del Código Fiscal de la Federación;
+
+VIII. Defraudación Fiscal y su equiparable, previstos en los artículos 108 y 109, del Código Fiscal de la Federación;
+
+IX. De la Ley de la Propiedad Industrial, los delitos previstos en el artículo 223;
+
+X. De la Ley de Instituciones de Crédito, los previstos en los artículos 111; 111 Bis; 112; 112 Bis; 112 Ter; 112 Quáter; 112 Quintus; 113 Bis y 113 Bis 3;
+
+XI. De la Ley General de Títulos y Operaciones de Crédito, los previstos en los artículos 432, 433 y 434;
+
+XII. De la Ley General de Organizaciones y Actividades Auxiliares del Crédito, los previstos en los artículos 96; 97; 98; 99; 100 y 101;
+
+XIII. De la Ley del Mercado de Valores, los previstos en los artículos 373; 374; 375; 376; 381; 382; 383 y 385;
+
+XIV. De la Ley de los Sistemas de Ahorro para el Retiro, los previstos en los artículos 103; 104 cuando el monto de la disposición de los fondos, valores o documentos que manejen de los trabajadores con motivo de su objeto, exceda de trescientos cincuenta mil días de salario mínimo general vigente en el Distrito Federal; 105; 106 y 107 Bis 1;
+
+XV. De la Ley de Fondos de Inversión, los previstos en los artículos 88 y 90;
+
+XVI. De la Ley de Uniones de Crédito, los previstos en los artículos 121; 122; 125; 126 y 128;
+
+XVII. De la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, los previstos en los artículos 110; 111; 112; 114 y 116;
+
+XVIII. De la Ley de Ahorro y Crédito Popular, los previstos en los artículos 136 Bis 7; 137; 138; 140 y 142;
+
+XIX. De la Ley de Concursos Mercantiles, los previstos en los artículos 117 y 271;
+
+XX. Los previstos en el artículo 49 de la Ley Federal para el Control de Sustancias Químicas Susceptibles de desvío para la fabricación de Armas Químicas;
+
+XXI. Los previstos en los artículos 8, 9, 14, 15, 16 y 18 de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, y
+
+XXII. En los demás casos expresamente previstos en la legislación aplicable.
+
+Para los efectos del artículo 422 del Código Nacional de Procedimientos Penales, se estará a los siguientes límites de punibilidad para las consecuencias jurídicas de las personas jurídicas:
+
+a) Suspensión de actividades, por un plazo de entre seis meses a seis años.
+
+b) Clausura de locales y establecimientos, por un plazo de entre seis meses a seis años.
+
+c) Prohibición de realizar en el futuro las actividades en cuyo ejercicio se haya cometido o participado en su comisión, por un plazo de entre seis meses a diez años.
+
+d) Inhabilitación temporal consistente en la suspensión de derechos para participar de manera directa o por interpósita persona en procedimientos de contratación o celebrar contratos regulados por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como por la Ley de Obras Públicas y Servicios relacionados con las mismas, por un plazo de entre seis meses a seis años.
+
+e) Intervención judicial para salvaguardar los derechos de los trabajadores o de los acreedores en un plazo de entre seis meses a seis años.
+
+La intervención judicial podrá afectar a la totalidad de la organización o limitarse a alguna de sus instalaciones, secciones o unidades de negocio. Se determinará exactamente el alcance de la intervención y quién se hará cargo de la misma, así como los plazos en que deberán realizarse los informes de seguimiento para el órgano judicial. La intervención judicial se podrá modificar o suspender en todo momento previo informe del interventor y del Ministerio Público. El interventor tendrá derecho a acceder a todas las instalaciones y locales de la empresa o persona jurídica, así como a recibir cuanta información estime necesaria para el ejercicio de sus funciones. La legislación aplicable determinará los aspectos relacionados con las funciones del interventor y su retribución respectiva.
+
+En todos los supuestos previstos en el artículo 422 del Código Nacional de Procedimientos Penales, las sanciones podrán atenuarse hasta en una cuarta parte, si con anterioridad al hecho que se les imputa, las personas jurídicas contaban con un órgano de control permanente, encargado de verificar el cumplimiento de las disposiciones legales aplicables para darle seguimiento a las políticas internas de prevención delictiva y que hayan realizado antes o después del hecho que se les imputa, la disminución del daño provocado por el hecho típico.
 
 #### CAPITULO II · Tentativa
 
@@ -212,7 +314,7 @@ X.- El resultado típico se produce por caso fortuito.
 
 ##### Artículo 16.
 
-Al que se exceda en los casos de defensa legítima, estado de necesidad, cumplimiento de un deber o ejercicio de un derecho a que se refieren las fracciones IV, V, VI del artículo 15, se le impondrá la pena del delito culposo.
+En los casos de exceso de legítima defensa o exceso en cualquier otra causa de justificación se impondrá la cuarta parte de la sanción correspondiente al delito de que se trate, quedando subsistente la imputación a título doloso.
 
 ##### Artículo 17.
 
@@ -300,11 +402,11 @@ Y las demás que fijen las leyes.
 
 ##### Artículo 25.
 
-La prisión consiste en la privación de la libertad corporal. Su duración será de tres días a sesenta años, y sólo podrá imponerse una pena adicional al límite máximo cuando se cometa un nuevo delito en reclusión. Se extinguirá en las colonias penitenciarias, establecimientos o lugares que al efecto señalen las leyes o la autoridad ejecutora de las penas, ajustándose a la resolución judicial respectiva.
+La prisión consiste en la pena privativa de libertad personal. Su duración será de tres días a sesenta años, y sólo podrá imponerse una pena adicional al límite máximo cuando se cometa un nuevo delito en reclusión. Se extinguirá en los centros penitenciarios, de conformidad con la legislación de la materia y ajustándose a la resolución judicial respectiva.
 
-La privación de libertad preventiva se computará para el cumplimiento de la pena impuesta así como de las que pudieran imponerse en otras causas, aunque hayan tenido por objeto hechos anteriores al ingreso a prisión. En este caso, las penas se compurgarán en forma simultánea.
+La medida cautelar de prisión preventiva se computará para el cumplimiento de la pena impuesta así como de las que pudieran imponerse en otras causas, aunque hayan tenido por objeto hechos anteriores al ingreso a prisión. En este caso, las penas se compurgarán en forma simultánea.
 
-El límite máximo de la duración de la pena de privación de la libertad hasta por 60 años contemplada en el presente artículo, no aplicará para los delitos que se sancionen con lo estipulado en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, cuya duración máxima será la que marque dicha Ley.
+El límite máximo de la duración de la pena privativa de la libertad hasta por sesenta años contemplada en el presente artículo, no aplicará para los delitos que se sancionen con lo estipulado en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, cuya duración máxima será la que marque dicha ley.
 
 ##### Artículo 26.
 
@@ -314,7 +416,7 @@ Los procesados sujetos a prisión preventiva y los reos políticos, serán reclu
 
 ##### Artículo 27.
 
-El tratamiento en libertad de imputables consiste en la aplicación de las medidas laborales, educativas y curativas, en su caso, autorizadas por la ley y conducentes a la readaptación social del sentenciado, bajo la orientación y cuidado de la autoridad ejecutora. Su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
+El tratamiento en libertad de imputables consistente en la aplicación de las medidas laborales, educativas y curativas, en su caso, autorizadas por la ley y conducentes a la reinserción social del sentenciado, bajo la orientación y cuidado de la autoridad ejecutora. Su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
 
 La semilibertad implica alternación de períodos de privación de la libertad y de tratamiento en libertad. Se aplicará, según las circunstancias del caso, del siguiente modo: externación durante la semana de trabajo o educativa, con reclusión de fin de semana, salida de fin de semana, con reclusión durante el resto de ésta; o salida diurna, con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión sustituida.
 
@@ -326,7 +428,7 @@ Cada día de prisión será sustituido por una jornada de trabajo en favor de la
 
 La extensión de la jornada de trabajo será fijada por el juez tomando en cuenta las circunstancias del caso.
 
-Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante para el condenado.
+Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante para el sentenciado.
 
 #### CAPITULO IV · Confinamiento
 
@@ -350,7 +452,7 @@ Cada jornada de trabajo saldará un día multa. Cuando no sea posible o convenie
 
 Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Estado la exigirá mediante el procedimiento económico coactivo.
 
-En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo prestado en favor de la comunidad, o al tiempo de prisión que el reo hubiere cumplido tratándose de la multa sustitutiva de la pena privativa de libertad, caso en el cual la equivalencia será a razón de un día multa por un día de prisión.
+En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo prestado en favor de la comunidad, o al tiempo de prisión que el sentenciado hubiere cumplido tratándose de la multa sustitutiva de la pena privativa de libertad, caso en el cual la equivalencia será a razón de un día multa por un día de prisión.
 
 ##### Artículo 30.
 
@@ -416,13 +518,13 @@ La obligación de pagar la sanción pecuniaria es preferente con respecto a cual
 
 ##### Artículo 34.
 
-La reparación del daño proveniente de delito que deba ser hecha por el delincuente tiene el carácter de pena pública y se exigirá de oficio por el Ministerio Público. El ofendido o sus derechohabientes podrán aportar al Ministerio Público o al juez en su caso, los datos y pruebas que tengan para demostrar la procedencia y monto de dicha reparación, en los términos que prevenga el Código de Procedimientos Penales.
+La reparación del daño proveniente del delito que deba ser hecha por el imputado, acusado y sentenciado, tiene el carácter de pena pública y se exigirá de oficio por el Ministerio Público. La víctima, el asesor jurídico y el ofendido o sus derechohabientes podrán aportar al Ministerio Público o al Órgano jurisdiccional en su caso, los datos de prueba que tengan para demostrar la procedencia y monto de dicha reparación, en los términos que prevenga el Código Nacional de Procedimientos Penales.
 
 El incumplimiento por parte de las autoridades de la obligación a que se refiere el párrafo anterior, será sancionado con multa de treinta a cuarenta días de salario mínimo.
 
 Cuando dicha reparación deba exigirse a tercero, tendrá el carácter de responsabilidad civil y se tramitará en forma de incidente, en los términos que fije el propio Código de Procedimientos Penales.
 
-Quien se considere con derecho a la reparación del daño, que no pueda obtener ante el juez penal, en virtud de no ejercicio de la acción por parte del Ministerio Público, sobreseimiento o sentencia absolutoria, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
+Quien se considere con derecho a la reparación del daño, que no pueda obtener ante el Órgano jurisdiccional, en virtud del no ejercicio de la acción o la abstención de investigar por parte del Ministerio Público, sobreseimiento o sentencia absolutoria, podrá recurrir a la vía civil o administrativa en los términos de la legislación correspondiente.
 
 ##### Artículo 35.
 
@@ -432,9 +534,7 @@ Si no se logra hacer efectivo todo el importe de la sanción pecuniaria, se cubr
 
 Si la parte ofendida renunciare a la reparación, el importe de ésta se aplicará al Estado.
 
-Los depósitos que garanticen la libertad caucional se aplicarán como pago preventivo a la reparación del daño cuando el inculpado se substraiga a la acción de la justicia.
-
-Al mandarse hacer efectivos tales depósitos, se prevendrá a la autoridad ejecutora que conserve su importe a disposición del tribunal, para que se haga su aplicación conforme a lo dispuesto en los párrafos anteriores de este artículo.
+En el caso de que se haya impuesto una providencia precautoria para garantizar la reparación del daño, ésta se hará efectiva a favor de la víctima u ofendido cuando la sentencia que condene a reparar el daño cause ejecutoria.
 
 ##### Artículo 36.
 
@@ -446,7 +546,7 @@ La reparación del daño se mandará hacer efectiva, en la misma forma que la mu
 
 ##### Artículo 38.
 
-Si no alcanza a cubrirse la responsabilidad pecuniaria con los bienes del responsable o con el producto de su trabajo en la prisión, el reo liberado seguirá sujeto a la obligación de pagar la parte que falte.
+Si no alcanza a cubrirse la responsabilidad pecuniaria con los bienes del responsable o con el producto de su trabajo en la prisión, el sentenciado liberado seguirá sujeto a la obligación de pagar la parte que falte.
 
 ##### Artículo 39.
 
@@ -458,9 +558,11 @@ La autoridad a quien corresponda el cobro de la multa podrá fijar plazos para e
 
 ##### Artículo 40.
 
-Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito, se decomisarán cuando el delito sea intencional. Si pertenecen a un tercero, sólo se decomisarán cuando el tercero que los tenga en su poder o los haya adquirido bajo cualquier título, esté en alguno de los supuestos a los que se refiere el artículo 400 de este Código, independientemente de la naturaleza jurídica de dicho tercero propietario o poseedor y de la relación que aquel tenga con el delincuente, en su caso. Las autoridades competentes procederán al inmediato aseguramiento de los bienes que podrían ser materia del decomiso, durante la averiguación o en el proceso. Se actuará en los términos previstos por este párrafo cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
+El Órgano jurisdiccional mediante sentencia en el proceso penal correspondiente, podrá decretar el decomiso de bienes que sean instrumentos, objetos o productos del delito, con excepción de los que hayan causado abandono en los términos de las disposiciones aplicables o respecto de aquellos sobre los cuales haya resuelto la declaratoria de extinción de dominio.
 
-Si los instrumentos o cosas decomisados son sustancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo, en los términos previstos por el Código de Procedimientos Penales, pero aquélla, cuando lo estime conveniente, podrá determinar su conservación para fines de docencia o investigación. Respecto de los instrumentos del delito, o cosas que sean objeto o producto de él, la autoridad competente determinará su destino, según su utilidad, para beneficio de la procuración e impartición de Justicia, o su inutilización si fuere el caso, de conformidad con las disposiciones aplicables.
+En caso de que el producto, los instrumentos u objetos del hecho delictivo hayan desaparecido o no se localicen por causa atribuible al imputado o sentenciado, se podrá decretar el decomiso de bienes propiedad del o de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a dicho producto, sin menoscabo de las disposiciones aplicables en materia de extinción de dominio.
+
+Si pertenecen a un tercero, sólo se decomisarán cuando el tercero que los tenga en su poder o los haya adquirido bajo cualquier título, esté en alguno de los supuestos a los que se refieren los artículos 139 Quáter, 400 o 400 bis de este Código, independientemente de la naturaleza jurídica de dicho tercero propietario o poseedor y de la relación que aquel tenga con el imputado o sentenciado, en su caso. Las autoridades competentes procederán al inmediato aseguramiento de los bienes que podrían ser materia del decomiso, durante el procedimiento. Se actuará en los términos previstos por este párrafo cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
 
 ##### Artículo 41.
 
@@ -530,7 +632,7 @@ Si el delito por el que se impuso la publicación de sentencia, fue cometido por
 
 Cuando la sentencia determine restricción de libertad o derechos, o suspensión condicional de la ejecución de la sentencia, el juez dispondrá la vigilancia de la autoridad sobre el sentenciado, que tendrá la misma duración que la correspondiente a la sanción impuesta.
 
-La vigilancia consistirá en ejercer sobre el sentenciado observación y orientación de su conducta por personal especializado dependiente de la autoridad ejecutora, para la readaptación social del reo y la protección de la comunidad.
+La vigilancia consistirá en ejercer sobre el sentenciado observación y orientación de su conducta por personal especializado dependiente de la autoridad ejecutora, para la reinserción social.
 
 ### TITULO TERCERO · Aplicación de las Sanciones
 
@@ -576,19 +678,17 @@ Son aplicables las que se funden en circunstancias objetivas, si los demás suje
 
 ##### Artículo 55.
 
-Cuando la orden de aprehensión se dicte en contra de una persona mayor de 70 años de edad, el juez podrá ordenar que la prisión preventiva se lleve a cabo en el domicilio del indiciado bajo las medidas de seguridad que procedan de acuerdo con la representación social.
+En el caso de que el imputado sea una persona mayor de setenta años de edad o afectada por una enfermedad grave o terminal, el Órgano jurisdiccional podrá ordenar que la prisión preventiva se ejecute en el domicilio de la persona imputada o, de ser el caso, en un centro médico o geriátrico, bajo las medidas cautelares que procedan, en todo caso la valoración por parte del juez se apoyará en dictámenes de peritos. La revisión de la medida cautelar podrá ser promovida por las partes quienes además ofrecerán pruebas para dicho efecto.
 
-No gozarán de esta prerrogativa quienes a criterio del juez puedan sustraerse de la acción de la justicia o manifiesten una conducta que revele su peligrosidad social, ni los inculpados por las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+De igual forma, procederá lo previsto en el párrafo anterior, cuando se trate de mujeres embarazadas, o de madres durante la lactancia.
 
-En todo caso la valoración por parte del juez se apoyará en dictámenes de peritos.
+No gozarán de la prerrogativa prevista en los dos párrafos anteriores, quienes sean imputados por los delitos que ameriten prisión preventiva oficiosa o a criterio del Juez de control puedan sustraerse de la acción de la justicia o manifiesten una conducta que haga presumible su riesgo social ni los imputados por las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Una vez dictada la sentencia ejecutoriada, la pena podrá ser sustituida por una medida de seguridad, a juicio del juez o tribunal que la imponga de oficio o a petición de parte, cuando por haber sufrido el sujeto activo consecuencias graves en su persona, o por su senilidad o su precario estado de salud, fuere notoriamente innecesario que se compurgue dicha pena, a excepción de los sentenciados por las conductas previstas en el artículo 9 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, que en todo caso deberán cumplir la pena impuesta.
 
-En los casos de senilidad o precario estado de salud, el juez se apoyará siempre en dictámenes de peritos.
-
 ##### Artículo 56.
 
-Cuando entre la comisión de un delito y la extinción de la pena o medida de seguridad entrare en vigor una nueva ley, se estará a lo dispuesto en la más favorable al inculpado o sentenciado. La autoridad que esté conociendo del asunto o ejecutando la sanción aplicará de oficio la ley más favorable. Cuando el reo hubiese sido sentenciado al término mínimo o al término máximo de la pena prevista y la reforma disminuya dicho término, se estará a la ley más favorable. Cuando el sujeto hubiese sido sentenciado a una pena entre el término mínimo y el término máximo, se estará a la reducción que resulte en el término medio aritmético conforme a la nueva norma.
+La autoridad jurisdiccional competente aplicará de oficio la ley más favorable. Cuando el sujeto hubiese sido sentenciado al término mínimo o al término máximo de la pena prevista y la reforma disminuya dicho término, se estará a la ley más favorable. Cuando el sujeto hubiese sido sentenciado a una pena entre el término mínimo y el término máximo, se estará a la reducción que resulte en el término medio aritmético conforme a la nueva norma.
 
 ##### Artículo 57.
 
@@ -654,11 +754,11 @@ En los casos de tentativa punible de delito grave así calificado por la ley, la
 
 ##### Artículo 64.
 
-En caso de concurso ideal, se aplicará la pena correspondiente al delito que merezca la mayor, que se aumentará hasta una mitad del máximo de su duración, sin que pueda exceder de las máximas señaladas en el Título Segundo del Libro Primero, con excepción de los casos en que uno de los delitos por los que exista concurso ideal sea de los contemplados en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, supuesto en el cual se aplicarán las reglas de concurso real.
+En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, siempre que las sanciones aplicables sean de la misma naturaleza; cuando sean de diversa naturaleza, podrán imponerse las consecuencias jurídicas señaladas para los restantes delitos, con excepción de los casos en que uno de los delitos por los que exista concurso ideal sea de los contemplados en la Ley General para Prevenir y Sancionar los delitos en materia de Secuestro, y la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, ambas reglamentarias de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, supuestos en los cuales se aplicarán las reglas de concurso real.
 
-En caso de concurso real, se impondrán las penas previstas para cada uno de los delitos cometidos, sin que exceda de las máximas señaladas en el Título Segundo del Libro Primero. Si las penas se impusieran en el mismo proceso o en distintos, pero si los hechos resultan conexos, o similares, o derivado uno del otro, en todo caso las penas deberán contarse desde el momento en que se privó de libertad por el primer delito.
+En caso de concurso real, se impondrá la sanción del delito más grave, la cual podrá aumentarse con las penas que la ley contempla para cada uno de los delitos restantes, sin que exceda de las máximas señaladas en el Título Segundo del Libro Primero. Si las penas se impusieran en el mismo proceso o en distintos, pero si los hechos resultan conexos o similares, o derivado uno del otro, en todo caso las penas deberán contarse desde el momento en que se privó de libertad por el primer delito.
 
-En caso de delito continuado, se aumentará de una mitad hasta las dos terceras partes de la pena que la ley prevea para el delito cometido, sin que exceda del máximo señalado en el Título Segundo del Libro Primero.
+En caso de delito continuado, se aumentará la sanción penal hasta en una mitad de la correspondiente al máximo del delito cometido, sin que exceda del máximo señalado en el Título Segundo del Libro Primero.
 
 ##### Artículo 64 Bis.
 
@@ -668,7 +768,7 @@ En los casos previstos por las fracciones VI, VII y VIII del artículo 13, se im
 
 La reincidencia a que se refiere el artículo 20 será tomada en cuenta para la individualización judicial de la pena, así como para el otorgamiento o no de los beneficios o de los sustitutivos penales que la ley prevé.
 
-En caso de que el inculpado por algún delito doloso calificado por la ley como grave, fuese reincidente por dos ocasiones por delitos de dicha naturaleza, la sanción que corresponda por el nuevo delito cometido se incrementará en dos terceras partes y hasta en un tanto más de la pena máxima prevista para éste, sin que exceda del máximo señalado en el Título Segundo del Libro Primero.
+En caso de que el imputado por algún delito doloso calificado por la ley como grave o que amerite prisión preventiva oficiosa, según corresponda, fuese reincidente por delitos de dicha naturaleza, la sanción aplicable por el nuevo delito cometido se incrementará en dos terceras partes y hasta en un tanto más de la pena máxima prevista para éste, sin que exceda del máximo señalado en el Título Segundo del Libro Primero.
 
 ##### Artículo 66.
 
@@ -716,7 +816,7 @@ La sustitución no podrá aplicarse a quien anteriormente hubiere sido condenado
 
 El juez dejará sin efecto la sustitución y ordenará que se ejecute la pena de prisión impuesta, cuando el sentenciado no cumpla con las condiciones que le fueran señaladas para tal efecto, salvo que el juzgador estime conveniente apercibirlo de que si se incurre en nueva falta, se hará efectiva la sanción sustituida o cuando al sentenciado se le condene por otro delito. Si el nuevo delito es culposo, el juez resolverá si se debe aplicar la pena sustituida.
 
-En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual el reo hubiera cumplido la sanción sustitutiva.
+En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual el sentenciado hubiera cumplido la sanción sustitutiva.
 
 ##### Artículo 72.
 
@@ -732,17 +832,19 @@ II.- Si fuere la de confinamiento, se conmutará por multa, a razón de un día 
 
 ##### Artículo 74.
 
-El reo que considere que al dictarse sentencia reunía las condiciones para el disfrute de la sustitución o conmutación de la sanción y que por inadvertencia de su parte o del juzgador no le hubiera sido otorgada, podrá promover ante éste que se le conceda, abriéndose el incidente respectivo en los términos de la fracción X del artículo 90.
+El sentenciado que considere que al dictarse sentencia reunía las condiciones para el disfrute de la sustitución o conmutación de la sanción y que por inadvertencia de su parte o del juzgador no le hubiera sido otorgada, podrá promover ante éste que se le conceda, abriéndose el incidente respectivo en los términos de la fracción X del artículo 90.
 
 En todo caso en que proceda la substitución o la conmutación de la pena, al hacerse el cálculo de la sanción substitutiva se disminuirá además de lo establecido en el último párrafo del artículo 29 de este Código, el tiempo durante el cual el sentenciado sufrió prisión preventiva.
 
 ##### Artículo 75.
 
-Cuando el reo acredite plenamente que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta por ser incompatible con su edad, sexo, salud o constitución física, la Dirección General de Servicios Coordinados de Prevención y Readaptación Social podrá modificar aquélla, siempre que la modificación no sea esencial.
+Cuando el sentenciado acredite plenamente que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta por ser incompatible con su edad, sexo, salud o constitución física, el Juez de Ejecución podrá modificar aquélla, siempre que la modificación
+
+no sea esencial.
 
 ##### Artículo 76.
 
-Para la procedencia de la substitución y la conmutación, se exigirá al condenado la reparación del daño o la garantía que señale el juez para asegurar su pago, en el plazo que se le fije.
+Para la procedencia de la sustitución y la conmutación, se exigirá al sentenciado la reparación del daño o la garantía que señale el Órgano jurisdiccional para asegurar su pago, en el plazo que se le fije.
 
 ### TITULO · CUARTO
 
@@ -750,7 +852,7 @@ Para la procedencia de la substitución y la conmutación, se exigirá al conden
 
 ##### Artículo 77.
 
-Corresponde al Ejecutivo Federal la ejecución de las sanciones con consulta del órgano técnico que señale la ley.
+Corresponde a la autoridad jurisdiccional la imposición de las penas, su modificación y duración; asimismo, al Ejecutivo Federal la administración penitenciaria.
 
 ##### Artículo 78.
 
@@ -850,7 +952,7 @@ El condenado cuya libertad preparatoria sea revocada deberá cumplir el resto de
 
 ##### Artículo 87.
 
-Los sentenciados que disfruten de libertad preparatoria, concedida por la autoridad judicial, quedarán bajo el cuidado y vigilancia del Órgano Administrativo Desconcentrado Prevención y Readaptación Social, de la Secretaría de Seguridad Pública y de aquellas autoridades que participen en la fase de ejecución de sentencias, con el auxilio de la Policía Federal Preventiva.
+Los sentenciados que disfruten de libertad preparatoria, concedida por la autoridad jurisdiccional, quedarán bajo la supervisión y vigilancia de la autoridad que al efecto determine la legislación en la materia aplicable.
 
 ##### Artículo 88.
 
@@ -912,15 +1014,15 @@ X.- El reo que considere que al dictarse sentencia reunía las condiciones fijad
 
 ##### Artículo 90 Bis.
 
-El Órgano Administrativo Desconcentrado Prevención y Readaptación Social, de la Secretaría de Seguridad Pública y aquellas autoridades que participen en la fase de ejecución de sentencias remitirán un informe al Sistema Nacional de Seguridad Pública en forma periódica en el que especificará el número de sentenciados del orden federal, las penas impuestas, el número de expedientes beneficiados con libertad anticipada o condena condicional, y el número de acciones de la autoridad para supervisar su debida ejecución.
+Se deroga.
 
-### TITULO QUINTO · Extinción de la Responsabilidad Penal
+### TITULO QUINTO · De las Causas de Extinción de la Acción Penal
 
-#### CAPITULO I · Muerte del delincuente
+#### CAPITULO I · Muerte del imputado o sentenciado
 
 ##### Artículo 91.
 
-La muerte del delincuente extingue la acción penal, así como las sanciones que se le hubieren impuesto, a excepción de la reparación del daño, y la de decomiso de los instrumentos con que se cometió el delito y de las cosas que sean efecto u objeto de él.
+La muerte del imputado extingue la acción penal, así como las sanciones que se le hubieren impuesto, a excepción de la reparación del daño, providencias precautorias, aseguramiento y la de decomiso de los instrumentos, objetos o productos del delito así como los bienes cuyo valor equivalga a dicho producto de conformidad con lo previsto en el artículo 40 de este Código.
 
 #### CAPITULO II · Amnistía
 
@@ -938,7 +1040,7 @@ Lo dispuesto en el párrafo anterior es igualmente aplicable a los delitos que s
 
 Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al responsable del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorga.
 
-El perdón sólo beneficia al inculpado en cuyo favor se otorga, a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses o derechos, caso en el cual beneficiará a todos los inculpados y al encubridor.
+El perdón solo beneficia al imputado en cuyo favor se otorga, a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses o derechos, caso en el cual beneficiará a todos los imputados y al encubridor.
 
 #### CAPITULO IV · Reconocimiento de inocencia e indulto
 
@@ -956,7 +1058,7 @@ Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento 
 
 ##### Artículo 97.
 
-Cuando la conducta observada por el sentenciado refleje un alto grado de readaptación social y su liberación no represente un peligro para la tranquilidad y seguridad publicas, conforme al dictamen del órgano ejecutor de la sanción y no se trate de sentenciado por traición a la Patria, espionaje, terrorismo, sabotaje, genocidio, delitos contra la salud, violación, delito intencional contra la vida y secuestro, ni de reincidente por delito intencional, se le podrá conceder indulto por el Ejecutivo Federal, en uso de facultades discrecionales, expresando sus razones y fundamentos en los casos siguientes:
+Cuando la conducta observada por el sentenciado refleje un alto grado de reinserción social y su liberación no represente un riesgo para la tranquilidad y seguridad públicas, conforme al dictamen del órgano ejecutor de la sanción y no se trate de sentenciado por traición a la Patria, espionaje, terrorismo, sabotaje, genocidio, delitos contra la salud, violación, delito intencional contra la vida y secuestro, desaparición forzada, tortura y trata de personas, ni de reincidente por delito intencional, se le podrá conceder indulto por el Ejecutivo Federal, en uso de facultades discrecionales, expresando sus razones y fundamentos en los casos siguientes:
 
 I.- Por los delitos de carácter político a que alude el artículo 144 de este Código;
 
@@ -978,7 +1080,7 @@ El indulto en ningún caso extinguirá la obligación de reparar el daño causad
 
 ##### Artículo 99.
 
-La rehabilitación tiene por objeto reintegrar al condenado en los derechos civiles, políticos o de familia que había perdido en virtud de sentencia dictada en un proceso o en cuyo ejercicio estuviere suspenso.
+La rehabilitación tiene por objeto reintegrar al sentenciado en los derechos civiles, políticos o de familia que había perdido en virtud de sentencia dictada en un proceso o en cuyo ejercicio estuviere en suspenso.
 
 #### CAPITULO VI · Prescripción
 
@@ -990,9 +1092,9 @@ Por la prescripción se extinguen la acción penal y las sanciones, conforme a l
 
 La prescripción es personal y para ella bastará el simple transcurso del tiempo señalado por la ley.
 
-Los plazos para la prescripción se duplicarán respecto de quienes se encuentren fuera del territorio nacional, si por esta circunstancia no es posible integrar una averiguación previa, concluir un proceso o ejecutar una sanción.
+Los plazos para la prescripción se duplicarán respecto de quienes se encuentren fuera del territorio nacional, si por esta circunstancia no es posible realizar una investigación, concluir un proceso o ejecutar una sanción.
 
-La prescripción producirá su efecto, aunque no la alegue como excepción el acusado. Los jueces la suplirán de oficio en todo caso, tan luego como tengan conocimiento de ella, sea cual fuere el estado del proceso.
+La prescripción producirá su efecto, aunque no la alegue como excepción el imputado, acusado y sentenciado. El órgano jurisdiccional la suplirá de oficio en todo caso, tan luego como tengan conocimiento de ella, sea cual fuere el estado del procedimiento.
 
 ##### Artículo 102.
 
@@ -1046,11 +1148,11 @@ Cuando para ejercitar o continuar la acción penal sea necesaria una resolución
 
 ##### Artículo 110.
 
-La prescripción de las acciones se interrumpirá por las actuaciones que se practiquen en averiguación del delito y de los delincuentes, aunque por ignorarse quiénes sean éstos no se practiquen las diligencias contra persona determinada.
+La prescripción de las acciones se interrumpirá por las actuaciones que se practiquen en la investigación y de los imputados, aunque por ignorarse quienes sean estos no se practiquen las diligencias contra persona determinada.
 
 Si se dejare de actuar, la prescripción empezará a correr de nuevo desde el día siguiente al de la última diligencia.
 
-La prescripción de las acciones se interrumpirá también por el requerimiento de auxilio en la investigación del delito o del delincuente, por las diligencias que se practiquen para obtener la extradición internacional, y por el requerimiento de entrega del inculpado que formalmente haga el Ministerio Público de una entidad federativa al de otra donde aquél se refugie, se localice o se encuentre detenido por el mismo o por otro delito. En el primer caso también causarán la interrupción las actuaciones que practique la autoridad requerida y en el segundo subsistirá la interrupción hasta en tanto la autoridad requerida niegue la entrega o en tanto desaparezca la situación legal del detenido, que dé motivo al aplazamiento de su entrega.
+La prescripción de las acciones se interrumpirá también por el requerimiento de auxilio en la investigación del delito o de quien lo haya cometido o participado en su comisión, por las diligencias que se practiquen para obtener la extradición internacional, y por el requerimiento de entrega del imputado que formalmente haga el Ministerio Público de una entidad federativa al de otra donde aquel se refugie, se localice o se encuentre detenido por el mismo o por otro delito. En el primer caso también causarán la interrupción las actuaciones que practique la autoridad requerida y en el segundo subsistirá la interrupción hasta en tanto la autoridad requerida niegue la entrega o en tanto desaparezca la situación legal del detenido, que dé motivo al aplazamiento de su entrega.
 
 La interrupción de la prescripción de la acción penal, sólo podrá ampliar hasta una mitad los plazos señalados en los artículos 105, 106 y 107 de este Código.
 
@@ -1070,11 +1172,11 @@ Salvo que la ley disponga otra cosa, la pena privativa de libertad prescribirá 
 
 ##### Artículo 114.
 
-Cuando el reo hubiere extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena y una cuarta parte más, pero no podrá ser menor de un año.
+Cuando el sentenciado hubiere extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena y una cuarta parte más, pero no podrá ser menor de un año.
 
 ##### Artículo 115.
 
-La prescripción de la sanción privativa de libertad sólo se interrumpe aprehendiendo al reo, aunque la aprehensión se ejecute por otro delito diverso, o por la formal solicitud de entrega que el Ministerio Público de una entidad federativa haga al de otra en que aquél se encuentre detenido, en cuyo caso subsistirá la interrupción hasta en tanto la autoridad requerida niegue dicha entrega o desaparezca la situación legal del detenido que motive aplazar el cumplimiento de lo solicitado.
+La prescripción de la sanción privativa de libertad solo se interrumpe aprehendiendo al imputado aunque la aprehensión se ejecute por otro delito diverso, o por la formal solicitud de entrega que el Ministerio Público de una entidad federativa haga al de otra en que aquél se encuentre detenido, en cuyo caso subsistirá la interrupción hasta en tanto la autoridad requerida niegue dicha entrega o desaparezca la situación legal del detenido que motive aplazar el cumplimiento de lo solicitado.
 
 La prescripción de las demás sanciones se interrumpirá por cualquier acto de autoridad competente para hacerlas efectivas. También se interrumpirá la prescripción de la pena de reparación del daño o de otras de carácter pecuniario, por las promociones que el ofendido o persona a cuyo favor se haya decretado dicha reparación haga ante la autoridad fiscal correspondiente y por las actuaciones que esa autoridad realice para ejecutarlas, así como por el inicio de juicio ejecutivo ante autoridad civil usando como título la sentencia condenatoria correspondiente.
 
@@ -1084,7 +1186,7 @@ La prescripción de las demás sanciones se interrumpirá por cualquier acto de 
 
 La pena y la medida de seguridad se extinguen, con todos sus efectos, por cumplimiento de aquéllas o de las sanciones por las que hubiesen sido sustituidas o conmutadas. Asimismo, la sanción que se hubiese suspendido se extinguirá por el cumplimiento de los requisitos establecidos al otorgarla, en los términos y dentro de los plazos legalmente aplicables.
 
-#### CAPITULO VIII · Vigencia y aplicación de una nueva ley más favorable
+#### CAPITULO VIII · Supresión del tipo penal
 
 ##### Artículo 117.
 
@@ -2168,6 +2270,8 @@ Al que sin autorización conozca o copie información contenida en sistemas o eq
 
 A quien sin autorización conozca, obtenga, copie o utilice información contenida en cualquier sistema, equipo o medio de almacenamiento informáticos de seguridad pública, protegido por algún medio de seguridad, se le impondrá pena de cuatro a diez años de prisión y multa de quinientos a mil días de salario mínimo general vigente en el Distrito Federal. Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, destitución e inhabilitación de cuatro a diez años para desempeñarse en otro empleo, puesto, cargo o comisión pública.
 
+Las sanciones anteriores se duplicarán cuando la conducta obstruya, entorpezca, obstaculice, limite o imposibilite la procuración o impartición de justicia, o recaiga sobre los registros relacionados con un procedimiento penal resguardados por las autoridades competentes.
+
 ##### Artículo 211 bis 3.
 
 Al que estando autorizado para acceder a sistemas y equipos de informática del Estado, indebidamente modifique, destruya o provoque pérdida de información que contengan, se le impondrán de dos a ocho años de prisión y de trescientos a novecientos días multa.
@@ -2488,31 +2592,31 @@ VII.- Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a
 
 VIII.- Retardar o entorpecer maliciosamente o por negligencia la administración de justicia;
 
-IX.- Abstenerse injustificadamente de hacer la consignación que corresponda de una persona que se encuentre detenida a su disposición como probable responsable de algún delito, cuando ésta sea procedente conforme a la Constitución y a las leyes de la materia, en los casos en que la ley les imponga esa obligación; o ejercitar la acción penal cuando no preceda denuncia, acusación o querella;
+IX. Abstenerse injustificadamente de ejercer la acción penal que corresponda de una persona que se encuentre detenida a su disposición como imputado de algún delito, cuando esta sea procedente conforme a la Constitución y a la leyes de la materia, en los casos en que la ley les imponga esa obligación; o ejercitar la acción penal cuando no proceda denuncia, acusación o querella;
 
-X. Detener a un individuo durante la averiguación previa fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado en la Constitución;
+X. Detener a un individuo durante la investigación fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado en la Constitución;
 
-XI.- No otorgar, cuando se solicite, la libertad caucional, si procede legalmente;
+XI. Se deroga.
 
-XII.- Obligar al inculpado a declarar, usando la incomunicación, intimidación o tortura;
+XII. Obligar al imputado a declarar, usando la incomunicación, intimidación o tortura;
 
-XIII.- No tomar al inculpado su declaración preparatoria dentro de las cuarenta y ocho horas siguientes a su consignación sin causa justificada, u ocultar el nombre del acusador, la naturaleza y causa de la imputación o el delito que se le atribuye;
+XIII. Se deroga.
 
-XIV.- Prolongar la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el proceso;
+XIV. Prolongar la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el procedimiento;
 
 XV.- Imponer gabelas o contribuciones en cualesquiera lugares de detención o internamiento;
 
-XVI.- Demorar injustificadamente el cumplimiento de las providencias judiciales, en las que se ordene poner en libertad a un detenido;
+XVI. Demorar injustificadamente el cumplimiento de las resoluciones judiciales, en las que se ordene poner en libertad a un detenido;
 
-XVII.- No dictar auto de formal prisión o de libertad de un detenido, dentro de las setenta y dos horas siguientes a que lo pongan a su disposición, a no ser que el inculpado haya solicitado ampliación del plazo, caso en el cual se estará al nuevo plazo;
+XVII. No resolver la vinculación a proceso, dentro de las setenta y dos horas siguientes a que lo ponga a su disposición, a no ser que el imputado haya solicitado ampliación del plazo, caso en el cual se estará al nuevo plazo;
 
 XVIII.- Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
 
-XIX.- Abrir un proceso penal contra un servidor público, con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley;
+XIX. Abrir procedimiento penal contra un servidor público, con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley;
 
 XX.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o en casos en que no preceda denuncia, acusación o querella; o realizar la aprehensión sin poner al detenido a disposición del juez en el término señalado por el párrafo tercero del artículo 16 de la Constitución;
 
-XXI.- A los encargados o empleados de lugares de reclusión o internamiento que cobren cualquier cantidad a los interinos o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
+XXI. A los encargados o empleados de los centros penitenciarios que cobren cualquier cantidad a los imputados, sentenciados o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
 
 XXII.- Rematar, en favor de ellos mismos, por sí o por interpósita persona, los bienes objeto de un remate en cuyo juicio hubieren intervenido;
 
@@ -2524,27 +2628,35 @@ XXV.- Nombrar síndico o interventor en un concurso o quiebra, a una persona que
 
 XXVI.- Permitir, fuera de los casos previstos por la ley, la salida temporal de las personas que están recluidas.
 
-XXVII.- No ordenar la libertad de un procesado, decretando su sujeción a proceso, cuando sea acusado por delito o modalidad que tenga señalada pena no privativa de libertad o alternativa;
+XXVII. No ordenar la libertad de un imputado, decretando su vinculación a proceso, cuando sea acusado por delito o modalidad que tenga señalada pena no privativa de libertad o alternativa;
 
-XXVIII.- Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una averiguación previa o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean confidenciales, y
+XXVIII. Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una investigación o en un procedimiento penal y que por disposición de la ley o resolución de la autoridad judicial, sean confidenciales, y
 
 XXIX. Se deroga.
 
-XXX. Retener al detenido sin cumplir con los requisitos que establece la Constitución y las leyes respectivas;
+XXX. Retener al imputado sin cumplir con los requisitos que establece la Constitución y las leyes respectivas;
 
-XXXI. Alterar, destruir, perder o perturbar ilícitamente el lugar de los hechos; los indicios, huellas o vestigios del hecho delictuoso o los instrumentos, objetos o productos del delito;
+XXXI. Alterar, modificar, ocultar, destruir, perder o perturbar el lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos o productos relacionados con un hecho delictivo o el procedimiento de cadena de custodia;
 
-XXXII. Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que el inculpado se sustraiga a la acción de la justicia;
+XXXII. Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que el imputado se sustraiga a la acción de la justicia;
 
 XXXIII. Obligue a una persona o a su representante a otorgar el perdón en los delitos que se persiguen por querella; y
 
 XXXIV. Obligue a una persona a renunciar a su cargo o empleo para evitar responder a acusaciones de acoso, hostigamiento o para ocultar violaciones a la Ley Federal del Trabajo.
 
+XXXV. A quien ejerciendo funciones de supervisor de libertad o con motivo de ellas hiciere amenazas, hostigue o ejerza violencia en contra de la persona procesada, sentenciada, su familia y posesiones;
+
+XXXVI. A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes de la persona procesada, sentenciada o su familia;
+
+XXXVII. A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución.
+
 A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV, XXVI, XXXIII y XXXIV, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa.
 
-A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI y XXXII, se le impondrá pena de prisión de cuatro a diez años y de mil a dos mil días multa.
+A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI, XXXII, XXXV, XXXVI y XXXVII, se le impondrá pena de prisión de cuatro a diez años y de mil a dos mil días multa.
 
 En todos los delitos previstos en este Capítulo, además de las penas de prisión y multa previstas, el servidor público será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
+
+En caso de tratarse de particulares realizando funciones propias del supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
 
 #### CAPITULO II · Ejercicio indebido del propio derecho
 
@@ -6096,3 +6208,111 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 3 de marzo de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a cinco de abril de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se expide la Ley Nacional de Ejecución Penal; se adicionan las fracciones XXXV, XXXVI y XXXVII y un quinto párrafo, y se reforma el tercer párrafo del artículo 225 del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 16 de junio de 2016*
+
+**Artículo Primero.** Se expide la Ley Nacional de Ejecución Penal.
+
+………
+
+**TRANSITORIOS**
+
+**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Para los efectos señalados en el párrafo tercero del artículo segundo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008, se declara que la presente legislación recoge el sistema procesal penal acusatorio y entrará en vigor de acuerdo a los artículos transitorios siguientes.
+
+**Segundo.** Las fracciones III y X y el párrafo séptimo del artículo 10; los artículos 26 y 27, fracción II del artículo 28; fracción VII del artículo 108; los artículos 146, 147, 148, 149, 150 y 151 entrarán en vigor a partir de un año de la publicación de la presente Ley o al día siguiente de la publicación de la Declaratoria que al efecto emitan el Congreso de la Unión o las legislaturas de las entidades federativas en el ámbito de sus competencias, sin que pueda exceder del 30 de noviembre de 2017.
+
+Los artículos 31, 32, 33, 34, 35, 36, 59, 60, 61, 75, 77, 78, 80, 82, 83, 86, 91, 92, 93, 94, 95, 96, 97, 98, 99, 128, 136, 145, 153, 165, 166, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 192, 193, 194, 195, 200, 201, 202, 203, 204, 205, 206 y 207 entrarán en vigor a más tardar dos años después de la publicación de la presente Ley o al día siguiente de la publicación de la Declaratoria que al efecto emitan el Congreso de la Unión o las legislaturas de las entidades federativas en el ámbito de sus competencias, sin que pueda exceder del 30 de noviembre de 2018.
+
+En el orden Federal, el Congreso de la Unión emitirá la Declaratoria, previa solicitud conjunta del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal o la instancia que, en su caso, quede encargada de coordinar la consolidación del Sistema de Justicia Penal, y la Conferencia Nacional del Sistema Penitenciario.
+
+En el caso de las entidades federativas, el órgano legislativo correspondiente, emitirá la Declaratoria previa solicitud de la autoridad encargada de la implementación del Sistema de Justicia Penal en cada una de ellas.
+
+En las entidades federativas donde esté vigente el nuevo Sistema de Justicia Penal, el órgano legislativo correspondiente deberá emitir dentro de los siguientes diez días el anexo a la Declaratoria para el inicio de vigencia de la presente Ley.
+
+**Tercero.** A partir de la entrada en vigor de la presente Ley, quedarán abrogadas la Ley que Establece las Normas Mínimas Sobre Readaptación Social de Sentenciados y las que regulan la ejecución de sanciones penales en las entidades federativas.
+
+Los procedimientos que se encuentren en trámite a la entrada en vigor del presente ordenamiento, continuarán con su sustanciación de conformidad con la legislación aplicable al inicio de los mismos, debiendo aplicar los mecanismos de control jurisdiccional previstos en la presente Ley, de acuerdo con el principio pro persona establecido en el artículo 1o. Constitucional.
+
+A partir de la entrada en vigor de la presente Ley, se derogan todas las disposiciones normativas que contravengan la misma.
+
+**Cuarto.** A partir de la entrada en vigor de la presente Ley, se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución.
+
+Las entidades federativas deberán adecuar su legislación a efecto de derogar las normas relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución, en el ámbito de sus respectivas competencias.
+
+Las entidades federativas deberán legislar en sus códigos penales sobre las responsabilidades de los supervisores de libertad.
+
+**Quinto.** En un plazo que no exceda de ciento ochenta días naturales después de publicado el presente Decreto, la Federación y las entidades federativas deberán publicar las reformas a sus leyes que resulten necesarias para la implementación de esta Ley, así como lo dispuesto en el artículo 92, fracción V en materia de seguridad social.
+
+A la entrada en vigor de la presente Ley, en aquellos lugares donde se determine su inicio, tanto en el ámbito federal como local, se deberá contar con las disposiciones administrativas de carácter general correspondientes, pudiendo preverse la homologación de criterios metodológicos, técnicos y procedimentales, para lo cual podrán coordinarse las autoridades involucradas.
+
+**Sexto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para el Poder Judicial de la Federación, las dependencias y entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos para el presente ejercicio fiscal y los subsecuentes.
+
+Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
+
+**Séptimo.** El Consejo de la Judicatura Federal, el Instituto Federal de la Defensoría Pública, la Procuraduría General de la República, la Secretaría de Gobernación, la Secretaría del Trabajo y Previsión Social, la Secretaría de Economía, la Secretaría de Educación Pública, la Secretaría de Cultura, la Secretaría de Desarrollo Social, la Secretaría de Salud, la Comisión Nacional de Cultura Física y Deporte, la Comisión Ejecutiva de Atención a Víctimas y toda dependencia o entidad de la Administración Pública Federal y sus equivalentes en las entidades federativas a las que se confieran responsabilidades directas o indirectas en esta Ley, deberán prever en sus programas la adecuada y correcta implementación, y deberán establecer dentro de los proyectos de presupuesto respectivos, las partidas necesarias para atender la ejecución de esos programas, las obras de infraestructura, la contratación de personal, la capacitación y todos los demás requerimientos necesarios para cumplir los objetivos de la presente Ley.
+
+**Octavo.** El Consejo de Coordinación para la Implementación del Sistema de Justicia Penal constituirá un Comité para la Implementación, Evaluación y Seguimiento del Sistema de Ejecución Penal que estará presidido por la Conferencia Nacional del Sistema Penitenciario, el cual rendirá un informe semestral al Consejo de Coordinación. Lo anterior con la finalidad de coordinar, coadyuvar y apoyar a las autoridades federales y a las entidades federativas cuando así lo soliciten.
+
+La Autoridad Penitenciaria contará con un plazo de cuatro años, a partir de la publicación de este Decreto, para capacitar, adecuar los establecimientos penitenciarios y su capacidad instalada, equipar, desarrollar tecnologías de la información y comunicaciones, así como adecuar su estructura organizacional. Todo ello de conformidad con los planes de actividades registrados ante el Comité al que se refiere el párrafo anterior.
+
+El Consejo de Coordinación presentará anualmente ante las Cámaras del Congreso de la Unión, un informe anual del seguimiento a la implementación del Sistema de Ejecución Penal.
+
+**Noveno.** Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional del Sistema Penitenciario deberá emitir un Acuerdo General en el que se establezca un régimen gradual por virtud del cual las Autoridades Penitenciarias, en el ámbito de su competencias, destinarán espacios especiales de reclusión, dentro de los establecimientos penitenciarios, para los sentenciados por los delitos de delincuencia organizada y secuestro, previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, así como aquellas personas privadas de la libertad que requieran medidas especiales de seguridad.
+
+**Décimo.** A partir de la entrada en vigor del presente Decreto, podrán acceder, de manera inmediata y sin tener que satisfacer los requisitos establecidos en las fracciones IV y VII del artículo 141 de la presente Ley, al beneficio de libertad anticipada todas las personas que hayan sido sentenciadas con penas privativas de la libertad por la comisión de los siguientes delitos:
+
+I. La comisión del delito de robo cuyo valor de lo robado no exceda de 80 veces la Unidad de Medida y Actualización, y cuando en la comisión del delito no haya mediado ningún tipo de violencia, o
+
+II. La comisión del delito de posesión sin fines de comercio o suministro, de Cannabis Sativa, Indica o Marihuana, contemplado en el artículo 477 de la Ley General de Salud, en cualquiera de sus formas, derivados o preparaciones, y cuando en la comisión del delito no haya mediado ningún tipo de violencia, ni la concurrencia de más delitos.
+
+Para tal efecto, la autoridad jurisdiccional requerirá a la Autoridad Penitenciaria el informe sobre el cumplimiento de los requisitos a que alude el párrafo anterior.
+
+**Décimo Primero.** Los procuradores o fiscales generales de la Federación y de las entidades federativas, en su ámbito de competencia respectivo, podrán solicitar ante la autoridad jurisdiccional competente, la aplicación de los beneficios de libertad anticipada referidos en el artículo transitorio décimo. Asimismo, las autoridades judiciales competentes sustanciarán el procedimiento respectivo de manera oficiosa o a solicitud de la persona a quien aplique dicho beneficio.
+
+**Décimo Segundo.** El Poder Judicial de la Federación y los poderes judiciales de las entidades federativas emitirán acuerdos generales, para determinar la competencia territorial de excepción de los juzgados de ejecución con la finalidad de conocer de los diversos asuntos en razón de seguridad y medidas especiales, en tanto entra en vigor la Ley; para lo cual podrá suscribir los convenios correspondientes con las instancias operadoras del Sistema de Justicia Penal.
+
+**Artículo Segundo.-** Se adicionan las fracciones XXXV, XXXVI y XXXVII y un quinto párrafo, y se reforma el tercer párrafo del artículo 225 del Código Penal Federal, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 14 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Juan Manuel Celis Aguirre, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Nacional de Procedimientos Penales; del Código Penal Federal; de la Ley General del Sistema Nacional de Seguridad Pública; de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Defensoría Pública, del Código Fiscal de la Federación y de la Ley de Instituciones de Crédito.
+
+*Publicado en el Diario Oficial de la Federación el 17 de junio de 2016*
+
+**Artículo Segundo.-** Se reforman los artículos 7o., fracción I del tercer párrafo; 16; 25; 27, primer y último párrafos; 29, último párrafo; 34, primer y último párrafos; 35, cuarto párrafo; 38; 40; 50 Bis, primer párrafo; 55, primero y tercer párrafos; 56; 64; 65, segundo párrafo; 71, segundo párrafo; 74, primer párrafo; 75; 76; 77; 87; la denominación del Título Quinto, Capítulo I del Libro Primero; 91; 93, cuarto párrafo; 97, primer párrafo; 99; 101, segundo y tercer párrafos; 110, primer y tercer párrafos; 114; 115, primer párrafo; la denominación del Capítulo VIII del Título Quinto del Libro Primero; 225, fracciones IX, X, XII, XIV, XVI, XVII, XIX, XXI, XXVII, XXVIII, XXX, XXXI y XXXII; se adicionan los artículos 11 Bis; un segundo párrafo al artículo 55, recorriéndose en su orden los subsecuentes; un cuarto párrafo al artículo 211 Bis 2; se derogan el quinto párrafo del artículo 35; el cuarto y sexto párrafos del artículo 55; el artículo 90 Bis y las fracciones XI y XIII del artículo 225, del Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
+
+**Segundo.-** Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los artículos 21 en su fracción X, 50 Bis y 158 de la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor en términos de lo previsto por el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+**Tercero.-** Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+
+Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas cautelares y de la suspensión condicional del proceso de la Federación y de las entidades federativas, se deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.
+
+**Cuarto.-** Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
+
+**Quinto.-** Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
+
+**Sexto.-** La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
+
+Ciudad de México, a 15 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Verónica Delgadillo García, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
