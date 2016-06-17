@@ -3,12 +3,12 @@ title: Código Fiscal de la Federación
 abbreviation: CFF
 slug: cff
 published_dof: 1981-12-31
-last_reform_dof: 2016-01-12
+last_reform_dof: 2016-06-17
 articles: 383
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/8_120116.doc
-archived: https://web.archive.org/web/20160328034459/http://www.diputados.gob.mx:80/LeyesBiblio/doc/8_120116.doc
-source_sha256: d2f1994de126c22049e3993a01b71aa30c6ed6dccec80e2b551307b8da72fd50
-retrieved: 2016-03-28
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/8_170616.doc
+archived: https://web.archive.org/web/20160716233148/http://www.diputados.gob.mx:80/LeyesBiblio/doc/8_170616.doc
+source_sha256: 94aff00609a3f1012775d717a1d6ad986b61097d4f901609e9a2ed4c1440a38a
+retrieved: 2016-07-16
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm
 ---
 
@@ -18,9 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 31 de diciembr
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 12-01-2016
-
-Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 12-01-2016
+Última reforma publicada DOF 17-06-2016
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1707,7 +1705,7 @@ VI.- Practicar u ordenar se practique avalúo o verificación física de toda cl
 
 VII.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones.
 
-VIII.- Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la Ley relativa concede a las actas de la policía judicial; y la Secretaría de Hacienda y Crédito Público, a través de los abogados hacendarios que designe, será coadyuvante del ministerio público federal, en los términos del Código Federal de Procedimientos Penales.
+VIII. Se deroga.
 
 IX. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones.
 
@@ -3267,21 +3265,29 @@ Al contador público que cometa las infracciones a que se refiere el artículo 9
 
 ##### Artículo 92.
 
+La Secretaría de Hacienda y Crédito Público tendrá el carácter de víctima u ofendida en los procedimientos penales y juicios relacionados con delitos previstos en este Código. Los abogados hacendarios podrán actuar como asesores jurídicos dentro de dichos procedimientos.
+
 Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente la Secretaría de Hacienda y Crédito Público:
 
 I. Formule querella, tratándose de los previstos en los artículos 105, 108, 109, 110, 111, 112 y 114, independientemente del estado en que se encuentre el procedimiento administrativo que en su caso se tenga iniciado.
 
-II. Declare que el Fisco Federal ha sufrido o pudo sufrir perjuicio en los establecidos en los artículos 102 y 115.
+II. Declare que el Fisco Federal ha sufrido o pudo sufrir perjuicio en lo establecido en los artículos 102, 103 y 115.
 
 III. Formule la declaratoria correspondiente, en los casos de contrabando de mercancías por las que no deban pagarse impuestos y requieran permiso de autoridad competente, o de mercancías de tráfico prohibido.
 
 En los demás casos no previstos en las fracciones anteriores bastará la denuncia de los hechos ante el Ministerio Público Federal.
 
-Los procesos por los delitos fiscales a que se refieren las tres fracciones de este artículo se sobreserán a petición de la Secretaría de Hacienda y Crédito Público, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público Federal formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+Los procesos por los delitos fiscales a que se refieren las tres fracciones de este artículo se sobreseerán a petición de la Secretaría de Hacienda y Crédito Público, cuando los imputados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien esos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público Federal y el asesor jurídico formulen el alegato de clausura, y surtirá efectos respecto de las personas a que la misma se refiera.
+
+La Secretaría de Hacienda y Crédito Público, con el fin de formular ante el Ministerio Público el requisito de procedibilidad que corresponda, podrá allegarse de los datos necesarios para documentar hechos probablemente constitutivos de delitos fiscales.
 
 En los delitos fiscales en que sea necesaria querella o declaratoria de perjuicio y el daño o el perjuicio sea cuantificable, la Secretaría de Hacienda y Crédito Público hará la cuantificación correspondiente en la propia declaratoria o querella. La citada cuantificación sólo surtirá efectos en el procedimiento penal. Para conceder la libertad provisional, excepto tratándose de los delitos graves previstos en este Código, para efectos de lo previsto en el artículo 194 del Código Federal de Procedimientos Penales, el monto de la caución que fije la autoridad judicial comprenderá, en su caso, la suma de la cuantificación antes mencionada y las contribuciones adeudadas, incluyendo actualización y recargos que hubiera determinado la autoridad fiscal a la fecha en que se promueva la libertad provisional. La caución que se otorgue en los términos de este párrafo, no sustituye a la garantía del interés fiscal.
 
-En caso de que el inculpado hubiera pagado o garantizado el interés fiscal a entera satisfacción de la Secretaría de Hacienda y Crédito Público, la autoridad judicial, a solicitud del inculpado, podrá reducir hasta en un 50% el monto de la caución, siempre que existan motivos o razones que justifiquen dicha reducción.
+Al resolver sobre las providencias precautorias la autoridad competente tomará como base la cuantificación anterior, adicionando la actualización y recargos que haya determinado la autoridad fiscal a la fecha de que se ordene la providencia. En caso de que el imputado no cuente con bienes suficientes para satisfacer la providencia precautoria, el juez fijará en todos los casos una medida cautelar consistente en garantía económica por el mismo monto que correspondería a la providencia precautoria. En el caso de que al imputado se le haya impuesto como medida cautelar una garantía económica y, exhibida esta sea citado para comparecer ante el juez e incumpla la cita, se requerirá al garante para que presente al imputado en un plazo no mayor a ocho días, advertidos, el garante y el imputado, de que si no lo hicieren o no justificaren la incomparecencia, se hará efectiva a favor del Fisco Federal.
+
+Para efectos de la condena a la reparación del daño, la autoridad competente deberá considerar la cuantificación referida en este artículo, incluyendo la actualización y los recargos que hubiere determinado la autoridad fiscal a la fecha en la que se dicte dicha condena.
+
+En caso de que el imputado hubiera pagado el interés fiscal a entera satisfacción de la Secretaría de Hacienda y Crédito Público, la autoridad judicial, a solicitud del imputado, podrá considerar dicho pago para efecto de la determinación de providencias precautorias, la imposición o modificación de las medidas cautelares.
 
 Se consideran mercancías los productos, artículos y cualesquier otros bienes, aun cuando las leyes los consideren inalienables o irreductibles a propiedad particular.
 
@@ -3323,7 +3329,7 @@ Es responsable de encubrimiento en los delitos fiscales quien, sin previo acuerd
 
 I. Con ánimo de lucro adquiera, reciba, traslade u oculte el objeto del delito a sabiendas de que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o ayude a otro a los mismos fines.
 
-II. Ayude en cualquier forma al inculpado a eludir las investigaciones de la autoridad o a sustraerse de la acción de ésta, u oculte, altere, destruya o haga desaparecer las huellas, pruebas o instrumentos del delito o asegure para el inculpado el objeto o provecho del mismo.
+II. Ayude en cualquier forma al imputado para eludir las investigaciones de la autoridad o sustraerse de la acción de esta u oculte, altere, destruya, o haga desaparecer los indicios, evidencia, vestigios, objetos, instrumentos o productos del hecho delictivo o asegure para el imputado el objeto o provecho del mismo.
 
 El encubrimiento a que se refiere este Artículo se sancionará con prisión de tres meses a seis años.
 
@@ -3370,8 +3376,6 @@ III. De importación o exportación prohibida.
 También comete delito de contrabando quien interne mercancías extranjeras procedentes de las zonas libres al resto del país en cualquiera de los casos anteriores, así como quien las extraiga de los recintos fiscales o fiscalizados sin que le hayan sido entregados legalmente por las autoridades o por las personas autorizadas para ello.
 
 No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de \$155,610.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
-
-No se formulará declaratoria de perjuicio, a que se refiere la fracción II del artículo 92 de este Código, si quien encontrándose en los supuestos previstos en las fracciones XI, XII, XIII, XV, XVII y XVIII del artículo 103 de este Código, cumple con sus obligaciones fiscales y de comercio exterior y, en su caso, entera espontáneamente, con sus recargos y actualización, el monto de la contribución o cuotas compensatorias omitidas o del beneficio indebido antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales y de comercio exterior.
 
 ##### Artículo 103.
 
@@ -3420,6 +3424,8 @@ No se presumirá que existe delito de contrabando, si el valor de la mercancía 
 XX. Declare inexactamente la descripción o clasificación arancelaria de las mercancías, cuando con ello se omita el pago de contribuciones y cuotas compensatorias, salvo cuando el agente o apoderado aduanal hubiesen cumplido estrictamente con todas las obligaciones que les imponen las normas en materia aduanera y de comercio exterior.
 
 Para los efectos de las fracciones XV y XVI de este artículo, no será responsable el agente o apoderado aduanal, si la comisión del delito se originó por la omisión del importador de presentar al agente o apoderado aduanal la constancia de que cumplió con la obligación de presentar al Registro Federal de Contribuyentes los avisos correspondientes a una fusión, escisión o cambio de denominación social que hubiera realizado, así como cuando la comisión del delito se origine respecto de mercancías cuyo plazo de importación temporal hubiera vencido.
+
+No se formulará declaratoria de perjuicio, a que se refiere la fracción II del artículo 92 de este Código, si quien encontrándose en los supuestos previstos en las fracciones XI, XII, XIII, XV, XVII y XVIII de este artículo, cumple con sus obligaciones fiscales y de comercio exterior y, en su caso, entera espontáneamente, con sus recargos y actualización, el monto de la contribución o cuotas compensatorias omitidas o del beneficio indebido antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales y del comercio exterior.
 
 ##### Artículo 104.
 
@@ -7112,3 +7118,33 @@ A. Cantidades actualizadas establecidas en el Código.
 Atentamente.
 
 Ciudad de México a 14 de diciembre de 2015.- El Jefe del Servicio de Administración Tributaria, Aristóteles Núñez Sánchez.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Nacional de Procedimientos Penales; del Código Penal Federal; de la Ley General del Sistema Nacional de Seguridad Pública; de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Defensoría Pública, del Código Fiscal de la Federación y de la Ley de Instituciones de Crédito.
+
+*Publicado en el Diario Oficial de la Federación el 17 de junio de 2016*
+
+**Artículo Noveno.-** Se reforman los artículos 92; y 96, fracción II. Se adiciona un último párrafo al artículo 103. Se derogan la fracción VIII, del artículo 42 y el último párrafo del artículo 102 del Código Fiscal de la Federación, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
+
+**Segundo.-** Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los artículos 21 en su fracción X, 50 Bis y 158 de la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor en términos de lo previsto por el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+**Tercero.-** Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+
+Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas cautelares y de la suspensión condicional del proceso de la Federación y de las entidades federativas, se deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.
+
+**Cuarto.-** Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
+
+**Quinto.-** Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
+
+**Sexto.-** La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
+
+Ciudad de México, a 15 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Verónica Delgadillo García, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
