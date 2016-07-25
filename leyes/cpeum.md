@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2016-01-29
+last_reform_dof: 2016-07-25
 articles: 136
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_29ene16.doc
-archived: https://web.archive.org/web/20160212163437/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_29ene16.doc
-source_sha256: 8ae610754ad2ece96e2139e1b8a56200c44e93e26e4549dc68ec618d85a4cc98
-retrieved: 2016-02-12
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_250716.doc
+archived: https://web.archive.org/web/20160806182501/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_250716.doc
+source_sha256: b016fdf23558235026c8f2b496631e2fbe13992f4afe6a778ac371b1a58a72c0
+retrieved: 2016-08-06
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 29-01-2016
+Última reforma publicada DOF 25-07-2016
 
 > Notas de vigencia:
 > Relativas al Decreto en materia política-electoral publicado en el DOF 10-02-2014:
@@ -2387,6 +2387,10 @@ XXIX-V. Para expedir la ley general que distribuya competencias entre los órden
 XXIX-W. Para expedir leyes en materia de responsabilidad hacendaria que tengan por objeto el manejo sostenible de las finanzas públicas en la Federación, los Estados, Municipios y el Distrito Federal, con base en el principio establecido en el párrafo segundo del artículo 25;
 
 *Fracción adicionada DOF 26-05-2015*
+
+XXIX-X. Para expedir la ley general que establezca la concurrencia de la federación, las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de las víctimas.
+
+*Fracción adicionada DOF 25-07-2016*
 
 XXX. Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
 
@@ -7551,3 +7555,19 @@ Las competencias de las Alcaldías, a que se refiere el presente artículo Trans
 SALÓN DE SESIONES DE LA COMISIÓN PERMANENTE DEL HONORABLE CONGRESO DE LA UNIÓN.- México, D.F., a 20 de enero de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Dip. Carlos Gerardo Hermosillo Arteaga, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de enero de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se adiciona la fracción XXIX-X al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 25 de julio de 2016*
+
+**ARTÍCULO ÚNICO.-** Se adiciona la fracción XXIX-X al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 29 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Genoveva Huerta Villegas, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de julio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
