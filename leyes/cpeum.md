@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2016-07-25
+last_reform_dof: 2016-08-15
 articles: 136
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_250716.doc
-archived: https://web.archive.org/web/20160806182501/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_250716.doc
-source_sha256: b016fdf23558235026c8f2b496631e2fbe13992f4afe6a778ac371b1a58a72c0
-retrieved: 2016-08-06
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_150816.doc
+archived: https://web.archive.org/web/20161109030525/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_150816.doc
+source_sha256: de83bfde4109968e24a55612bf89d4d926bbc2c10e59866eaee1aaa2f35d4633
+retrieved: 2016-11-09
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,17 +18,14 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 25-07-2016
+Última reforma publicada DOF 15-08-2016
 
 > Notas de vigencia:
 > Relativas al Decreto en materia política-electoral publicado en el DOF 10-02-2014:
-> Las reformas, adiciones y derogaciones a los artículos 35, 41, 54, 55, 99, 105 fracción II inciso f), 110, 111 y 116 fracción IV, entrarán en vigor con base en lo que establece el Artículo Cuarto Transitorio de dicho Decreto.
 > La reforma al artículo 59 será aplicable a los diputados y senadores que sean electos a partir del proceso electoral de 2018, de conformidad con lo que estipula el Artículo Décimo Primero Transitorio del Decreto.
 > Las reformas, adiciones y derogaciones a los artículos 69, párrafo tercero; 74, fracciones III y VII; 76, fracciones II y XI; 89, fracción II, párrafos segundo y tercero, y fracción XVII, entrarán en vigor el 1 de diciembre de 2018, como lo establece el Artículo Décimo Segundo Transitorio del Decreto.
 > Las reformas a los artículos 65; 74, fracción IV y 83, entrarán en vigor el 1 de diciembre de 2018, de conformidad con lo que señala el Artículo Décimo Quinto Transitorio del Decreto en mención.
-> Las reformas, adiciones y derogaciones a los artículos 28; 29, párrafo primero; 69, párrafo segundo; 76, fracciones II y XII; 78, fracción V; 82, fracción VI; 84; 89, fracción IX; 90; 93, párrafo segundo; 95; 102, Apartado A; 105, fracciones II, incisos c) e i) y III; 107; 110, 111; 116, fracción IX y 119, párrafo primero, entrarán en vigor de conformidad con lo establecido en el Artículo Décimo Sexto Transitorio del Decreto.
->
-> Las reformas, adiciones y derogaciones a los artículos 79, 108, 109, 113, 114, 116, fracción V y 122, BASE QUINTA, publicadas por Decreto DOF 27-05-2015, en materia de combate a la corrupción, entrarán en vigor de conformidad con lo que establecen los Artículos Segundo y Quinto Transitorios de dicho Decreto.
+> Las reformas, adiciones y derogaciones a los artículos 28; 29, párrafo primero; 69, párrafo segundo; 76, fracciones II y XII; 78, fracción V; 82, fracción VI; 84; 89, fracción IX; 90; 93, párrafo segundo; 95; 102, Apartado A; 105, fracciones II, incisos c) e i) y III; 107; 110, 111; 116, fracción IX y 119, párrafo primero, entrarán en vigor cuando el Congreso de la Unión emita la declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General de la República, de conformidad con lo establecido en el Artículo Décimo Sexto Transitorio del Decreto.
 >
 > Las reformas al primer párrafo del Apartado B del artículo 123 y la Base XI del Apartado A del artículo 122 relativas al régimen jurídico de las relaciones de trabajo entre la Ciudad de México y sus trabajadores, publicadas por Decreto DOF 29-01-2016, en materia de la reforma política de la Ciudad de México, entrarán en vigor a partir del 1 de enero de 2020.
 
@@ -442,7 +439,9 @@ Los habitantes de los Estados Unidos Mexicanos tienen derecho a poseer armas en 
 
 Toda persona tiene derecho para entrar en la República, salir de ella, viajar por su territorio y mudar de residencia, sin necesidad de carta de seguridad, pasaporte, salvoconducto u otros requisitos semejantes. El ejercicio de este derecho estará subordinado a las facultades de la autoridad judicial, en los casos de responsabilidad criminal o civil, y a las de la autoridad administrativa, por lo que toca a las limitaciones que impongan las leyes sobre emigración, inmigración y salubridad general de la República, o sobre extranjeros perniciosos residentes en el país.
 
-En caso de persecución, por motivos de orden político, toda persona tiene derecho de solicitar asilo; por causas de carácter humanitario se recibirá refugio. La ley regulará sus procedencias y excepciones.
+Toda persona tiene derecho a buscar y recibir asilo. El reconocimiento de la condición de refugiado y el otorgamiento de asilo político, se realizarán de conformidad con los tratados internacionales. La ley regulará sus procedencias y excepciones.
+
+*Párrafo reformado DOF 15-08-2016*
 
 *Artículo reformado DOF 10-06-2011*
 
@@ -7571,3 +7570,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 29 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Genoveva Huerta Villegas, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de julio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el párrafo segundo del artículo 11 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 15 de agosto de 2016*
+
+**ARTÍCULO ÚNICO.-** Se reforma el párrafo segundo del artículo 11 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 13 de julio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Genoveva Huerta Villegas, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a doce de agosto de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
