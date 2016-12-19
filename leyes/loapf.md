@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2016-07-18
+last_reform_dof: 2016-12-19
 articles: 63
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_180716.doc
-archived: https://web.archive.org/web/20160806131824/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_180716.doc
-source_sha256: 8107dc3d519cb65b6576d28f4551aa466b4c22b856134c99bebe158456c337ba
-retrieved: 2016-08-06
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_191216.doc
+archived: https://web.archive.org/web/20170516201439/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_191216.doc
+source_sha256: 4e916a512c853e9e523496f84fac25bc042a59c18abfd4e5f8e69ce5947bcaee
+retrieved: 2017-05-16
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 18-07-2016
+Última reforma publicada DOF 19-12-2016
+
+> Nota de vigencia: Las reformas a los artículos 30, fracciones V y XX, y 36, fracciones I, XVII y XVIII; y las adiciones de las fracciones VII Ter y VII Quáter al artículo 30, publicadas en el DOF 19-12-2016, entrarán en vigor el 17 de junio de 2017.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -42,6 +44,8 @@ La presente Ley establece las bases de organización de la Administración Públ
 
 La Oficina de la Presidencia de la República, las Secretarías de Estado, la Consejería Jurídica del Ejecutivo Federal y los Órganos Reguladores Coordinados integran la Administración Pública Centralizada.
 
+*Párrafo reformado DOF 28-12-1994, 15-05-1996, 09-04-2012, 02-01-2013, 11-08-2014*
+
 Los organismos descentralizados, las empresas de participación estatal, las instituciones nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y de fianzas y los fideicomisos, componen la administración pública paraestatal.
 
 #### Artículo 2o.
@@ -50,9 +54,17 @@ En el ejercicio de sus atribuciones y para el despacho de los negocios del orden
 
 I. Secretarías de Estado;
 
+*Fracción reformada DOF 09-04-2012, 11-08-2014*
+
 II. Consejería Jurídica, y
 
+*Fracción derogada DOF 09-04-2012. Adicionada DOF 11-08-2014*
+
 III. Órganos Reguladores Coordinados en Materia Energética a que hace referencia el artículo 28, párrafo octavo, de la Constitución.
+
+*Fracción reformada DOF 11-08-2014*
+
+*Artículo reformado DOF 15-05-1996*
 
 #### Artículo 3o.
 
@@ -72,13 +84,19 @@ Para ser Consejero Jurídico se deben cumplir los mismos requisitos que para ser
 
 A la Consejería Jurídica del Ejecutivo Federal le serán aplicables las disposiciones sobre presupuesto, contabilidad y gasto público federal, así como las demás que rigen a las dependencias del Ejecutivo Federal. En el reglamento interior de la Consejería se determinarán las atribuciones de las unidades administrativas, así como la forma de cubrir las ausencias y delegar facultades.
 
+*Artículo derogado DOF 28-12-1994. Adicionado DOF 15-05-1996*
+
 #### Artículo 5o.
 
 (Se deroga).
 
+*Artículo derogado DOF 04-12-1997*
+
 #### Artículo 6o.
 
 Para los efectos del Artículo 29 de la Constitución Política de los Estados Unidos Mexicanos, el Presidente de la República acordará con todos los Secretarios de Estado y el Procurador General de la República.
+
+*Artículo reformado DOF 04-01-1982, 29-12-1982, 09-04-2012*
 
 #### Artículo 7o.
 
@@ -86,37 +104,57 @@ El Presidente de la República podrá convocar, directamente o a través del Sec
 
 El Jefe de la Oficina de la Presidencia de la República podrá ser convocado a las reuniones de gabinete, por acuerdo del Presidente.
 
+*Artículo reformado DOF 29-12-1982, 09-04-2012, 02-01-2013*
+
 #### Artículo 8o.
 
 El Presidente de los Estados Unidos Mexicanos contará con el apoyo directo de la Oficina de la Presidencia de la República para sus tareas y para el seguimiento permanente de las políticas públicas y su evaluación periódica, con el objeto de aportar elementos para la toma de decisiones, sin perjuicio de las atribuciones que ejercen las dependencias y entidades de la Administración Pública Federal en el ámbito de sus respectivas competencias. El Presidente designará al Jefe de dicha Oficina.
 
 La Oficina de la Presidencia de la República contará con las unidades de apoyo técnico y estructura que el Presidente determine, de acuerdo con el presupuesto asignado a dicha Oficina.
 
+*Artículo reformado DOF 29-12-1982, 30-11-2000, 02-01-2013*
+
 #### Artículo 9o.
 
 Las dependencias y entidades de la Administración Pública Centralizada y Paraestatal conducirán sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades de la planeación nacional del desarrollo, establezca el Ejecutivo Federal.
+
+*Artículo reformado DOF 04-01-1982, 29-12-1982*
 
 ## TITULO SEGUNDO · De la Administración Pública Centralizada
 
 ### CAPITULO I · De las Secretarías de Estado
 
+*Denominación del Capítulo reformada DOF 09-04-2012*
+
 #### Artículo 10.
 
 Las Secretarías de Estado tendrán igual rango y entre ellas no habrá, por lo tanto, preeminencia alguna. Sin perjuicio de lo anterior, por acuerdo del Presidente de la República, la Secretaría de Gobernación coordinará las acciones de la Administración Pública Federal para cumplir sus acuerdos y órdenes.
+
+*Artículo reformado DOF 09-04-2012, 02-01-2013*
 
 #### Artículo 11.
 
 Los titulares de las Secretarías de Estado ejercerán las funciones de su competencia por acuerdo del Presidente de la República.
 
+*Artículo reformado DOF 09-04-2012*
+
 #### Artículo 12.
 
 Cada Secretaría de Estado formulará, respecto de los asuntos de su competencia; los proyectos de leyes, reglamentos, decretos, acuerdos, y órdenes del Presidente de la República.
+
+*Artículo reformado DOF 09-04-2012*
 
 #### Artículo 13.
 
 Los reglamentos, decretos y acuerdos expedidos por el Presidente de la República deberán, para su validez y observancia constitucionales, ir firmados por el Secretario de Estado respectivo y, cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
 
+*Párrafo reformado DOF 09-04-2012, 02-01-2013*
+
 Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso de la Unión, sólo se requerirá el refrendo del titular de la Secretaría de Gobernación.
+
+*Párrafo adicionado DOF 26-12-1985*
+
+*Artículo reformado DOF 04-01-1982*
 
 #### Artículo 14.
 
@@ -124,21 +162,33 @@ Al frente de cada Secretaría habrá un Secretario de Estado, quien para el desp
 
 En los juicios de amparo, el Presidente de la República podrá ser representado por el titular de la dependencia a que corresponde el asunto, según la distribución de competencias. Los recursos administrativos promovidos contra actos de los Secretarios de Estado serán resueltos dentro del ámbito de su Secretaría en los términos de los ordenamientos legales aplicables.
 
+*Párrafo reformado DOF 15-05-1996*
+
 #### Artículo 15.
 
 (Derogado)
+
+*Artículo derogado DOF 09-04-2012*
 
 #### Artículo 16.
 
 Corresponde originalmente a los titulares de las Secretarías de Estado el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los funcionarios a que se refiere el artículo 14 de esta Ley, cualesquiera de sus facultades, excepto aquéllas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas precisamente por dichos titulares.
 
+*Párrafo reformado DOF 09-04-2012, 02-01-2013*
+
 Los propios titulares de las Secretarías de Estado también podrán adscribir orgánicamente las unidades administrativas establecidas en el reglamento interior respectivo, a las Subsecretarías, Oficialía Mayor, y a las otras unidades de nivel administrativo equivalente que se precisen en el mismo reglamento interior.
 
+*Párrafo adicionado DOF 30-12-1983. Reformado DOF 09-04-2012*
+
 Los acuerdos por los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Diario Oficial de la Federación.
+
+*Párrafo adicionado DOF 30-12-1983*
 
 #### Artículo 17.
 
 Para la más eficaz atención y eficiente despacho de los asuntos de su competencia, las Secretarías de Estado podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
+
+*Artículo reformado DOF 09-04-2012*
 
 #### Artículo 17 Bis.
 
@@ -176,21 +226,31 @@ c) Incluir en toda la documentación y en la difusión del programa, la leyenda 
 
 d) Realizar acciones de orientación y difusión con los beneficiarios para garantizar la transparencia y evitar cualquier manipulación política del programa.
 
+*Artículo adicionado DOF 01-10-2007*
+
 #### Artículo 18.
 
 En el reglamento interior de cada una de las Secretarías de Estado que será expedido por el Presidente de la República, se determinarán las atribuciones de sus unidades administrativas, así como la forma en que los titulares podrán ser suplidos en sus ausencias.
+
+*Artículo reformado DOF 09-04-2012*
 
 #### Artículo 19.
 
 El titular de cada Secretaría de Estado expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados. Los manuales de organización general deberán publicarse en el Diario Oficial de la Federación, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opera la Secretaría de la Función Pública. En cada una de las dependencias y entidades de la Administración Pública Federal, se mantendrán al corriente los escalafones de los trabajadores, y se establecerán los sistemas de estímulos y recompensas que determinen la ley y las condiciones generales de trabajo respectivas.
 
+*Artículo reformado DOF 09-04-2012, 18-07-2016*
+
 #### Artículo 20.
 
 Las Secretarías de Estado establecerán sus correspondientes servicios de apoyo administrativo en materia de planeación, programación, presupuesto, informática y estadística, recursos humanos, recursos materiales, contabilidad, fiscalización, archivos y los demás que sean necesarios, en los términos que fije el Ejecutivo Federal.
 
+*Artículo reformado DOF 09-04-2012*
+
 #### Artículo 21.
 
 El presidente de la República podrá constituir comisiones intersecretariales, para el despacho de asuntos en que deban intervenir varias Secretarías de Estado.
+
+*Párrafo reformado DOF 09-04-2012*
 
 Las entidades de la administración pública paraestatal podrán integrarse a dichas comisiones, cuando se trate de asuntos relacionados con su objeto.
 
@@ -200,19 +260,29 @@ Las comisiones podrán ser transitorias o permanentes y serán presididas por qu
 
 El Presidente de los Estados Unidos Mexicanos podrá celebrar convenios de coordinación de acciones con los Gobiernos Estatales, y con su participación, en los casos necesarios, con los Municipios, satisfaciendo las formalidades legales que en cada caso procedan, a fin de favorecer el desarrollo integral de las propias entidades federativas.
 
+*Artículo reformado DOF 29-12-1982*
+
 #### Artículo 23.
 
 Los Secretarios de Estado, una vez abierto el período de sesiones ordinarias, darán cuenta al Congreso de la Unión del estado que guarden sus respectivos ramos y deberán informar, además, cuando cualquiera de las Cámaras los cite en los casos en que se discuta una ley o se estudie un negocio concerniente a sus actividades. Esta última obligación será extensiva a los directores de los organismos descentralizados y de las empresas de participación estatal mayoritaria.
+
+*Artículo reformado DOF 09-04-2012*
 
 #### Artículo 24.
 
 En casos extraordinarios o cuando exista duda sobre la competencia de alguna Secretaría de Estado para conocer de un asunto determinado, el presidente de la República resolverá, por conducto de la Secretaría de Gobernación, a qué dependencia corresponde el despacho del mismo.
 
+*Artículo reformado DOF 09-04-2012*
+
 #### Artículo 25.
 
 Cuando alguna Secretaría de Estado o la Oficina de la Presidencia de la República necesite informes, datos o la cooperación técnica de cualquier otra dependencia para el cumplimiento de sus atribuciones, ésta tendrá la obligación de proporcionarlos, atendiendo en lo correspondiente a lo que determine la Secretaría de Gobernación.
 
+*Artículo reformado DOF 29-12-1982, 09-04-2012, 02-01-2013*
+
 ### CAPITULO II · De la Competencia de las Secretarías de Estado y Consejería Jurídica del Ejecutivo Federal
+
+*Denominación del Capítulo reformada DOF 15-05-1996, 09-04-2012*
 
 #### Artículo 26.
 
@@ -256,6 +326,10 @@ Secretaría de Turismo, y
 
 Consejería Jurídica del Ejecutivo Federal.
 
+*Artículo reformado DOF 04-01-1982, 29-12-1982, 21-01-1985, 21-02-1992, 25-05-1992, 28-12-1994, 15-05-1996, 04-12-1997. Aclaración DOF*
+
+11-02-1998. Reformado DOF 30-11-2000, 10-04-2003, 02-01-2013, 17-12-2015, 18-07-2016
+
 #### Artículo 27.
 
 A la Secretaría de Gobernación corresponde el despacho de los siguientes asuntos:
@@ -263,6 +337,8 @@ A la Secretaría de Gobernación corresponde el despacho de los siguientes asunt
 I. Coordinar, por acuerdo del Presidente de la República, a los Secretarios de Estado y demás funcionarios de la Administración Pública Federal para garantizar el cumplimiento de las órdenes y acuerdos del Titular del Ejecutivo Federal. Para tal efecto, convocará por acuerdo del Presidente de la República a las reuniones de gabinete; acordará con los titulares de las Secretarías de Estado, órganos desconcentrados y entidades paraestatales las acciones necesarias para dicho cumplimiento, y requerirá a los mismos los informes correspondientes;
 
 II. Presentar ante el Congreso de la Unión las iniciativas de ley o decreto del Ejecutivo; y en su caso, comunicar el señalamiento formal del Presidente de la República del carácter preferente de hasta dos de las iniciativas que se hubieren presentado en periodos anteriores cuando estén pendientes de dictamen;
+
+*Fracción reformada DOF 20-05-2014*
 
 III. Administrar el Diario Oficial de la Federación y publicar las leyes y decretos del Congreso de la Unión, de alguna de las dos Cámaras o la Comisión Permanente, así como los reglamentos que expida el Presidente de la República, en términos de lo dispuesto en la fracción I del artículo 89 constitucional y el inciso B del artículo 72 constitucional, y las resoluciones y disposiciones que por ley deban publicarse en dicho medio de difusión oficial;
 
@@ -282,19 +358,19 @@ X. Conducir la política interior que competa al Ejecutivo y no se atribuya expr
 
 X Bis. Diseñar, instrumentar, desarrollar, proponer, fomentar y publicitar programas y herramientas institucionales para la asesoría, capacitación y formación permanente de los integrantes de los ayuntamientos, así como de los funcionarios y empleados municipales en su carácter de depositarios de funciones y servicios públicos, con el fin de contribuir de manera efectiva a la profesionalización de los gobiernos locales y el desarrollo institucional de los municipios mexicanos;
 
+*Fracción adicionada DOF 13-05-2015*
+
 XI. Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del país; coordinar en vinculación con las organizaciones de la sociedad civil, trabajos y tareas de promoción y defensa de los derechos humanos y dar seguimiento a la atención de las recomendaciones que emitan los organismos competentes en dicha materia; así como dictar las medidas administrativas necesarias para tal efecto;
 
 XII. Formular y ejecutar las políticas, programas y acciones tendientes a garantizar la seguridad pública de la Nación y de sus habitantes; proponer al Ejecutivo Federal la política criminal y las medidas que garanticen la congruencia de ésta entre las dependencias de la Administración Pública Federal; [comparecer cada seis meses ante las comisiones de Gobernación y de Seguridad Pública del Senado para presentar la política criminal y darle seguimiento cuando ésta se apruebe o se modifique]; coadyuvar a la prevención del delito; ejercer el mando sobre la fuerza pública para proteger a la población ante todo tipo de amenazas y riesgos, con plena sujeción a los derechos humanos y libertades fundamentales; salvaguardar la integridad y los derechos de las personas; así como preservar las libertades, el orden y la paz públicos;
 
-*Nota: Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015, publicada por segunda*
-
-ocasión DOF 19-03-2015 (En la porción normativa que indica “comparecer cada seis meses ante las comisiones de Gobernación y
-
-de Seguridad Pública del Senado para presentar la política criminal y darle seguimiento cuando ésta se apruebe o se modifique”)
+*Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015, publicada por segunda ocasión DOF 19-03-2015 (En la porción normativa que indica “comparecer cada seis meses ante las comisiones de Gobernación y de Seguridad Pública del Senado para presentar la política criminal y darle seguimiento cuando ésta se apruebe o se modifique”)*
 
 XIII. Presidir el Consejo Nacional de Seguridad Pública en ausencia del Presidente de la República;
 
 XIII bis. Proponer acciones tendientes a asegurar la coordinación entre la Federación, el Distrito Federal, los Estados y los Municipios en el ámbito del Sistema Nacional de Seguridad Pública; proponer al Consejo Nacional de Seguridad Pública las políticas y lineamientos en materia de Carrera Policial, el Programa Rector para la Profesionalización Policial, los criterios para establecer academias e institutos para ello, el desarrollo de programas de coordinación académica y los lineamientos para la aplicación de los procedimientos en materia del régimen disciplinario policial; participar, de acuerdo con la ley de la materia, de planes y programas de Profesionalización para las Instituciones Policiales; y coordinar las acciones para la vigilancia y protección de las Instalaciones Estratégicas, en términos de ley;
+
+*Fracción publicada con numeración “XIII bis” en la reforma íntegra de este artículo DOF 02-01-2013*
 
 XIV. Presidir la Conferencia Nacional de Secretarios de Seguridad Pública, nombrar y remover a su Secretario Técnico y designar tanto a quien presidirá, como a quien fungirá como Secretario Técnico de la Conferencia Nacional del Sistema Penitenciario, en el marco del Sistema Nacional de Seguridad Pública;
 
@@ -330,11 +406,7 @@ XXIX. Coordinar y establecer mecanismos para contar oportunamente con la informa
 
 XXX. Informar al Poder Legislativo Federal sobre los asuntos de su competencia en materia de seguridad nacional, [a través de comparecencia de su titular cada seis meses ante la Comisión Bicamaral prevista en el artículo 56 de la Ley de Seguridad Nacional];
 
-*Nota: Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015, publicada por segunda*
-
-ocasión DOF 19-03-2015 (En la porción normativa que indica “a través de comparecencia de su titular cada seis meses ante la
-
-Comisión Bicamaral prevista en el artículo 56 de la Ley de Seguridad Nacional”)
+*Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015, publicada por segunda ocasión DOF 19-03-2015 (En la porción normativa que indica “a través de comparecencia de su titular cada seis meses ante la Comisión Bicamaral prevista en el artículo 56 de la Ley de Seguridad Nacional”)*
 
 XXXI. Otorgar las autorizaciones a empresas que presten servicios privados de seguridad en dos o más entidades federativas, supervisar su funcionamiento e informar periódicamente al Sistema Nacional de Seguridad Pública sobre el ejercicio de esta atribución;
 
@@ -366,9 +438,11 @@ En el ejercicio de las facultades a que se refieren las fracciones XII, XIII Bis
 
 [El Comisionado Nacional de Seguridad y] el Secretario Ejecutivo del Sistema Nacional de Seguridad Pública serán nombrados por el Titular del Poder Ejecutivo Federal con la ratificación del Senado de la República.
 
-*Nota: Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015, publicada por segunda*
+*Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015, publicada por segunda ocasión DOF 19-03-2015 (En la porción normativa que indica “El Comisionado Nacional de Seguridad y”)*
 
-ocasión DOF 19-03-2015 (En la porción normativa que indica “El Comisionado Nacional de Seguridad y”)
+*Artículo reformado DOF 31-12-1980, 04-01-1982, 29-12-1982, 28-12-1994, 04-01-1999, 18-05-1999, 30-11-2000, 02-06-2006, 09-04-2012,*
+
+02-01-2013
 
 #### Artículo 28.
 
@@ -376,17 +450,27 @@ A la Secretaría de Relaciones Exteriores corresponde el despacho de los siguien
 
 I.- Promover, propiciar y asegurar la coordinación de acciones en el exterior de las dependencias y entidades de la Administración Pública Federal; y sin afectar el ejercicio de las atribuciones que a cada una de ellas corresponda, conducir la política exterior, para lo cual intervendrá en toda clase de tratados, acuerdos y convenciones en los que el país sea parte;
 
+*Fracción reformada DOF 29-12-1982*
+
 II.- Dirigir el servicio exterior en sus aspectos diplomático y consular en los términos de la Ley del Servicio Exterior Mexicano y, por conducto de los agentes del mismo servicio, velar en el extranjero por el buen nombre de México; impartir protección a los mexicanos; cobrar derechos consulares y otros impuestos; ejercer funciones notariales, de Registro Civil, de auxilio judicial y las demás funciones federales que señalan las Leyes, y adquirir, administrar y conservar las propiedades de la Nación en el extranjero;
+
+*Fracción reformada DOF 04-01-1982*
 
 II A.- Coadyuvar a la promoción comercial y turística del país a través de sus embajadas y consulados.
 
+*Fracción adicionada DOF 19-12-1995*
+
 II B.- Capacitar a los miembros del Servicio Exterior Mexicano en las áreas comercial y turística, para que puedan cumplir con las responsabilidades derivadas de lo dispuesto en la fracción anterior.
+
+*Fracción adicionada DOF 19-12-1995*
 
 III.- Intervenir en lo relativo a comisiones, congresos, conferencias y exposiciones internacionales, y participar en los organismos e institutos internacionales de que el Gobierno mexicano forme parte;
 
 IV.- Intervenir en las cuestiones relacionadas con los límites territoriales del país y aguas internacionales;
 
 V.- Conceder a los extranjeros las licencias y autorizaciones que requieran conforme a las Leyes para adquirir el dominio de las Tierras, aguas y sus accesiones en la República Mexicana; obtener concesiones y celebrar contratos, intervenir en la explotación de Recursos Naturales o los permisos para adquirir bienes inmuebles o derechos sobre ellos;
+
+*Fracción reformada DOF 04-01-1982, 15-12-2011*
 
 VI.- Llevar el registro de las operaciones realizadas conforme a la fracción anterior;
 
@@ -438,6 +522,8 @@ XV.- Inspeccionar los servicios del Ejército y de la Fuerza Aérea;
 
 XVI.- Intervenir en la expedición de licencias para la portación de armas de fuego, con objeto de que no incluya las armas prohibidas expresamente por la ley y aquellas que la Nación reserve para el uso exclusivo del Ejército, Armada y Guardia Nacional, con excepción de lo consignado en la fracción XVIII del artículo 30 bis, así como vigilar y expedir permisos para el comercio, transporte y almacenamiento de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
 
+*Fracción reformada DOF 30-11-2000*
+
 XVII.- Intervenir en la importación y exportación de toda clase de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
 
 XVIII.- Intervenir en el otorgamiento de permisos para expediciones o exploraciones científicas extranjeras o internacionales en el territorio nacional;
@@ -464,21 +550,37 @@ b. Vigilancia de las zonas marinas mexicanas, sin perjuicio de las atribuciones 
 
 c. Las medidas y competencias que le otorguen los ordenamientos legales y los instrumentos internacionales de los que México sea parte, en la Zona Contigua y en la Zona Económica Exclusiva.
 
-V.- Ejercer la autoridad en las zonas marinas mexicanas en materia de:
+*Fracción reformada DOF 04-05-2006*
 
-a) Cumplimento del orden jurídico nacional;
+V.- Ejercer la autoridad en las zonas marinas mexicanas, en las materias siguientes:
 
-b) Búsqueda y rescate para la salvaguarda de la vida humana en la mar;
+a) Cumplimiento del orden jurídico nacional en las materias de su competencia;
+
+b) Seguridad marítima, salvamento en caso de accidentes o incidentes de embarcaciones y búsqueda y rescate para salvaguardar la vida humana en la mar y el control de tráfico marítimo;
 
 c) Vertimiento de desechos y otras materias al mar distintas al de aguas residuales, y
 
-d) Protección marítima y portuaria en coordinación con la Secretaría de Comunicaciones y Transportes, en los términos que fijan los tratados internacionales y las leyes de la materia;
+d) Protección marítima y portuaria, en los términos que fijan los tratados internacionales y las leyes de la materia, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Federal;
+
+*Fracción reformada DOF 04-05-2006, 26-12-2013, 19-12-2016*
 
 VI.- Dirigir la educación pública naval;
 
 VII.- Ejercer funciones de policía marítima para mantener el estado de derecho en las zonas marinas mexicanas;
 
+*Fracción reformada DOF 04-05-2006*
+
 VII Bis.- Establecer y dirigir el Servicio de Búsqueda y Rescate para la salvaguarda de la vida humana en la mar;
+
+*Fracción adicionada DOF 04-05-2006. Reformada DOF 26-12-2013*
+
+VII Ter.- Regular, vigilar la seguridad de la navegación y la vida humana en el mar y supervisar a la marina mercante;
+
+*Fracción adicionada DOF 19-12-2016*
+
+VII Quáter.- Administrar y operar el señalamiento marítimo, así como proporcionar los servicios de información y seguridad para la navegación marítima;
+
+*Fracción adicionada DOF 19-12-2016*
 
 VIII.- Inspeccionar los servicios de la Armada;
 
@@ -488,39 +590,65 @@ X.- Establecer y administrar los almacenes y estaciones de combustibles y lubric
 
 XI.- Ejecutar los trabajos hidrográficos de las costas, islas, puertos y vías navegables, así como organizar el archivo de cartas marítimas y las estadísticas relativas;
 
+*Fracción reformada DOF 04-05-2006*
+
 XII.- Intervenir en el otorgamiento de permisos para expediciones o exploraciones científicas, extranjeras o internacionales en aguas nacionales;
 
 XIII.- Intervenir en la administración de la justicia militar;
 
 XIV.- Construir, mantener y operar astilleros, diques, varaderos, dragas, unidades y establecimientos navales y aeronavales, para el cumplimiento de la misión de la Armada de México, así como prestar servicios en el ámbito de su competencia que coadyuven al desarrollo marítimo nacional, de conformidad con las disposiciones aplicables y en concordancia con las políticas y programas que para dicho desarrollo determine la Secretaría de Comunicaciones y Transportes y las demás dependencias que tengan relación con el mismo;
 
+*Fracción reformada DOF 04-05-2006*
+
 XV.- Emitir opinión con fines de seguridad nacional en los proyectos de construcción de toda clase de vías generales de comunicación por agua y sus partes, relacionados con la ingeniería portuaria marítima y señalamiento marino;
+
+*Fracción reformada DOF 04-05-2006*
 
 XVI.- Organizar y prestar los servicios de sanidad naval;
 
 XVII.- Programar, fomentar, desarrollar y ejecutar, sin perjuicio de las atribuciones que correspondan a otras dependencias, los trabajos de investigación científica y tecnológica en las ciencias marítimas, creando los institutos de investigación necesarios;
 
+*Fracción reformada DOF 04-05-2006*
+
 XVIII.- Integrar el archivo de información oceanográfica nacional, y
 
 XIX.- Celebrar acuerdos en el ámbito de su competencia con otras dependencias e instituciones nacionales o extranjeras, en los términos de los tratados internacionales y conforme a la legislación vigente;
 
-XX.- Ejercer acciones para llevar a cabo la defensa y seguridad nacionales en el ámbito de su responsabilidad, así como coordinar con las autoridades competentes nacionales el control del tráfico marítimo cuando las circunstancias así lo lleguen a requerir, de acuerdo con los instrumentos jurídicos internacionales y la legislación nacional;
+*Fracción adicionada DOF 04-05-2006*
+
+XX.- Ejercer acciones para llevar a cabo la defensa y seguridad nacionales en el ámbito de su responsabilidad, en términos de las disposiciones jurídicas aplicables;
+
+*Fracción adicionada DOF 04-05-2006. Reformada DOF 19-12-2016*
 
 XXI.- Participar y llevar a cabo las acciones que le corresponden dentro del marco del sistema nacional de protección civil para la prevención, auxilio, recuperación y apoyo a la población en situaciones de desastre;
 
+*Fracción adicionada DOF 04-05-2006*
+
 XXII.- Adquirir, diseñar y fabricar armamento, municiones, vestuario, y toda clase de medios navales e ingenios materiales, así como intervenir en la importación y exportación de éstos, cuando, sean de uso exclusivo de la Secretaría de Marina-Armada de México;
+
+*Fracción adicionada DOF 04-05-2006*
 
 XXIII.- Prestar los servicios auxiliares que requiera la Armada, así como los servicios de apoyo a otras dependencias federales, de las entidades federativas y de los municipios que lo soliciten o cuando así lo señale el titular del Ejecutivo Federal;
 
+*Fracción adicionada DOF 04-05-2006*
+
 XXIV.- Intervenir, en el ámbito de su responsabilidad, en la protección y conservación del medio ambiente marino sin perjuicio de las atribuciones que correspondan a otras dependencias;
+
+*Fracción adicionada DOF 04-05-2006*
 
 XXV.- Inspeccionar, patrullar y llevar a cabo labores de reconocimiento y vigilancia para preservar, las Áreas Naturales Protegidas, en coordinación con las autoridades competentes y de conformidad con las disposiciones aplicables, y
 
+*Fracción adicionada DOF 04-05-2006*
+
 XXVI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+*Fracción reformada y recorrida DOF 04-05-2006*
 
 #### Artículo 30 Bis.
 
 (Se deroga)
+
+*Artículo adicionado DOF 30-11-2000. Reformado DOF 24-04-2006, 14-06-2012, 27-12-2012. Derogado DOF 02-01-2013*
 
 #### Artículo 31.
 
@@ -530,25 +658,41 @@ I.- Proyectar y coordinar la planeación nacional del desarrollo y elaborar, con
 
 II.- Proyectar y calcular los ingresos de la federación, del Gobierno del Distrito Federal y de las entidades paraestatales, considerando las necesidades del gasto público federal, la utilización razonable del crédito público y la sanidad financiera de la administración pública federal;
 
+*Fracción reformada DOF 09-04-2012*
+
 III.- Estudiar y formular los proyectos de leyes y disposiciones fiscales y de las leyes de ingresos de la federación y del Gobierno del Distrito Federal;
+
+*Fracción reformada DOF 09-04-2012*
 
 IV.- (Se deroga).
 
+*Fracción derogada DOF 23-12-1993*
+
 V.- Manejar la deuda pública de la federación y del Gobierno del Distrito Federal;
+
+*Fracción reformada DOF 09-04-2012*
 
 VI.- Realizar o autorizar todas las operaciones en que se haga uso del crédito público;
 
 VII.- Planear, coordinar, evaluar y vigilar el sistema bancario del país que comprende al Banco Central, a la Banca Nacional de Desarrollo y las demás instituciones encargadas de prestar el servicio de banca y crédito;
 
+> Nota: De conformidad con el Artículo Décimo Octavo Transitorio de la Ley del Banco de México, publicada en el DOF 23-12-1993: “Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal”.
+
 VIII.- Ejercer las atribuciones que le señalen las leyes en materia de seguros, fianzas, valores y de organizaciones y actividades auxiliares del crédito;
+
+*Fracción reformada DOF 25-05-1992*
 
 IX.- Determinar los criterios y montos globales de los estímulos fiscales, escuchando para ello a las dependencias responsables de los sectores correspondientes y administrar su aplicación en los casos en que lo competa a otra Secretaría;
 
 X. Establecer y revisar los precios y tarifas de los bienes y servicios de la administración pública federal, o bien, las bases para fijarlos, escuchando a la Secretaría de Economía y con la participación de las dependencias que correspondan;
 
+*Fracción reformada DOF 08-12-2005*
+
 XI.- Cobrar los impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos federales en los términos de las leyes aplicables y vigilar y asegurar el cumplimiento de las disposiciones fiscales;
 
 XII. Organizar y dirigir los servicios aduanales y de inspección;
+
+*Fracción reformada DOF 04-01-1999, 02-01-2013, 18-07-2016*
 
 XIII.- Representar el interés de la Federación en controversias fiscales;
 
@@ -556,43 +700,79 @@ XIV.- Proyectar y calcular los egresos del Gobierno Federal y de la administraci
 
 XV. Formular el programa del gasto público federal y el proyecto de Presupuesto de Egresos de la Federación y presentarlos a la consideración del Presidente de la República;
 
+*Fracción reformada DOF 01-10-2007*
+
 XVI. Normar, autorizar y evaluar los programas de inversión pública de la administración pública federal;
 
+*Fracción reformada DOF 01-10-2007*
+
 XVII. Llevar a cabo las tramitaciones y registros que requiera el control y la evaluación del ejercicio del gasto público federal y de los programas y presupuestos de egresos, así como presidir las instancias de coordinación que establezca el Ejecutivo Federal para dar seguimiento al gasto público y sus resultados;
+
+*Fracción reformada DOF 01-10-2007*
 
 XVIII.- Formular la Cuenta Anual de la Hacienda Pública Federal;
 
 XIX. Coordinar la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales, así como concertar con las dependencias y entidades de la Administración Pública Federal la validación de los indicadores estratégicos, en los términos de las disposiciones aplicables;
 
+*Fracción reformada DOF 10-04-2003, 01-10-2007, 02-01-2013*
+
 XX.- Fijar los lineamientos que se deben seguir en la elaboración de la documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
 
 XXI. Establecer normas, políticas y lineamientos en materia de desincorporación de activos de la Administración Pública Federal;
 
+*Fracción reformada DOF 28-12-1994, 02-01-2013, 18-07-2016*
+
 XXII. (Se deroga)
+
+*Fracción derogada DOF 28-12-1994. Adicionada DOF 02-01-2013. Derogada DOF 18-07-2016*
 
 XXIII.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
 
 XXIV. Ejercer el control presupuestario de los servicios personales y establecer normas y lineamientos en materia de control del gasto en ese rubro;
 
+*Fracción derogada DOF 25-05-1992. Adicionada DOF 28-12-1994. Reformada DOF 10-04-2003, 02-01-2013, 18-07-2016*
+
 XXV. (Se deroga)
+
+*Fracción reformada DOF 02-01-2013. Derogada DOF 18-07-2016*
 
 XXVI. (Se deroga)
 
+*Fracción adicionada DOF 02-01-2013. Derogada DOF 18-07-2016*
+
 XXVII. (Se deroga)
+
+*Fracción adicionada DOF 02-01-2013. Derogada DOF 18-07-2016*
 
 XXVIII. (Se deroga)
 
+*Fracción adicionada DOF 02-01-2013. Derogada DOF 18-07-2016*
+
 XXIX. Conducir la política inmobiliaria de la Administración Pública Federal, salvo por lo que se refiere a las playas, zona federal marítimo terrestre, terrenos ganados al mar o cualquier depósito de aguas marítimas y demás zonas federales; administrar los inmuebles de propiedad federal cuando no estén asignados a alguna dependencia o entidad, así como llevar el registro público de la propiedad inmobiliaria federal y el inventario general correspondiente;
+
+*Fracción adicionada DOF 02-01-2013. Reformada DOF 18-07-2016*
 
 XXX. Regular la adquisición, arrendamiento, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Federal y, en su caso, representar el interés de la Federación; expedir las normas y procedimientos para la formulación de inventarios, para la realización y actualización de los avalúos sobre dichos bienes, así como expedir normas técnicas, autorizar y, en su caso, proyectar, construir, rehabilitar, conservar o administrar, directamente o a través de terceros, los edificios públicos y, en general, los bienes inmuebles de la Federación;
 
+*Fracción adicionada DOF 02-01-2013. Reformada DOF 18-07-2016*
+
 XXXI. (Se deroga)
+
+*Fracción adicionada DOF 02-01-2013. Derogada DOF 18-07-2016*
 
 XXXII. (Se deroga)
 
+*Fracción adicionada DOF 02-01-2013. Derogada DOF 18-07-2016*
+
 XXXIII. Reivindicar los bienes propiedad de la Nación, en los términos de las disposiciones aplicables; y
 
+*Fracción adicionada DOF 02-01-2013. Reformada DOF 18-07-2016*
+
 XXXIV. Los demás que le atribuyan expresamente las leyes y reglamentos.
+
+*Fracción adicionada DOF 02-01-2013. Reformada DOF 18-07-2016*
+
+*Artículo reformado DOF 08-12-1978, 29-12-1982, 30-12-1983, 21-02-1992*
 
 #### Artículo 32.
 
@@ -606,79 +786,153 @@ b) Atención específica a las necesidades de los sectores sociales más desprot
 
 c) Atención a los derechos de la niñez; de la juventud; de los adultos mayores, y de las personas con discapacidad;
 
+*Fracción reformada DOF 28-12-1994, 02-01-2013*
+
 II. Formular, conducir y evaluar la política general de desarrollo social para el combate efectivo a la pobreza;
+
+*Fracción reformada DOF 02-01-2013*
 
 III.- Coordinar las acciones que incidan en el combate a la pobreza fomentando un mejor nivel de vida, en lo que el Ejecutivo Federal convenga con los gobiernos estatales y municipales, buscando en todo momento propiciar la simplificación de los procedimientos y el establecimiento de medidas de seguimiento y control;
 
+*Fracción reformada DOF 28-12-1994*
+
 IV. Fomentar las actividades realizadas por organizaciones de la sociedad civil;
+
+*Fracción reformada DOF 28-12-1994, 02-01-2013*
 
 V. Evaluar la aplicación de las transferencias de fondos a entidades federativas y municipios, y de los sectores social y privado, que se deriven de las acciones e inversiones convenidas en los términos de este artículo;
 
+*Fracción reformada DOF 02-01-2013*
+
 VI. Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos de las áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales y, con la participación de los sectores social y privado;
+
+*Fracción reformada DOF 21-05-2003*
 
 VII. Impulsar políticas y dar seguimiento a los programas de inclusión social y protección de los derechos de niñas, niños y adolescentes, en coordinación con las dependencias y entidades de la Administración Pública Federal, así como de los diferentes niveles de gobierno;
 
+*Fracción derogada DOF 21-05-2003. Adicionada DOF 02-01-2013*
+
 VIII. Elaborar políticas públicas y dar seguimiento a los programas de apoyo e inclusión de los jóvenes a la vida social participativa y productiva;
+
+*Fracción reformada DOF 28-12-1994. Derogada DOF 30-11-2000. Adicionada DOF 02-01-2013*
 
 IX. Impulsar las políticas públicas y dar seguimiento a los programas de inclusión y atención de los adultos mayores y sus derechos;
 
+*Fracción reformada DOF 02-01-2013*
+
 X. Fomentar las políticas públicas y dar seguimiento a los programas que garanticen la plenitud de los derechos de las personas con discapacidad;
+
+*Fracción reformada DOF 28-12-1994, 30-11-2000, 02-01-2013*
 
 XI. Impulsar a través del Sistema Nacional de Asistencia Social Pública y Privada políticas públicas en materia de asistencia social e integración familiar, en coordinación con el Sistema Nacional para el Desarrollo Integral de la Familia;
 
+*Fracción reformada DOF 02-01-2013*
+
 XII. Promover la construcción de obras de infraestructura y equipamiento para fortalecer el desarrollo e inclusión social, en coordinación con los gobiernos de las entidades federativas y municipales y con la participación de los sectores social y privado;
+
+*Fracción reformada DOF 02-01-2013*
 
 XIII. Asegurar la adecuada distribución, comercialización y abastecimiento de los productos de consumo básico de la población de escasos recursos, con la intervención que corresponde a la Secretaría de Economía así como a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; bajo principios que eviten el uso o aprovechamiento indebido y ajenos a los objetivos institucionales;
 
+*Fracción reformada DOF 30-11-2000, 02-01-2013*
+
 XIV. Formular, conducir y evaluar la política de fomento y desarrollo del sector social de la economía;
+
+*Fracción reformada DOF 28-12-1994. Derogada DOF 02-01-2013. Adicionada DOF 30-12-2015*
 
 XV. Fomentar la organización y constitución de toda clase de sociedades cooperativas, cuyo objeto sea la producción industrial, la distribución o el consumo, y
 
+*Fracción reformada DOF 28-12-1994. Derogada DOF 02-01-2013. Adicionada DOF 30-12-2015*
+
 XVI. Los demás que le fijen expresamente las leyes y reglamentos.
+
+*Fracción reformada DOF 28-12-1994, 30-11-2000, 02-01-2013*
 
 XVII. (Se deroga)
 
+*Fracción reformada DOF 28-12-1994. Derogada DOF 02-01-2013*
+
 XVIII. (Se deroga).
+
+*Fracción derogada DOF 28-12-1994*
 
 XIX. (Se deroga).
 
+*Fracción derogada DOF 28-12-1994*
+
 XX. (Se deroga).
+
+*Fracción derogada DOF 28-12-1994*
 
 XXI. (Se deroga).
 
+*Fracción derogada DOF 28-12-1994*
+
 XXII. (Se deroga).
+
+*Fracción derogada DOF 28-12-1994*
 
 XXIII. (Se deroga).
 
+*Fracción derogada DOF 28-12-1994*
+
 XXIV. (Se deroga).
+
+*Fracción derogada DOF 28-12-1994*
 
 XXV. (Se deroga).
 
+*Fracción derogada DOF 28-12-1994*
+
 XXVI. (Se deroga).
+
+*Fracción derogada DOF 28-12-1994*
 
 XXVII. (Se deroga).
 
+*Fracción derogada DOF 28-12-1994*
+
 XXVIII. (Se deroga).
+
+*Fracción derogada DOF 28-12-1994*
 
 XXIX. (Se deroga).
 
+*Fracción derogada DOF 28-12-1994*
+
 XXX. (Se deroga).
+
+*Fracción derogada DOF 28-12-1994*
 
 XXXI. (Se deroga).
 
+*Fracción derogada DOF 28-12-1994*
+
 XXXII. (Se deroga).
+
+*Fracción derogada DOF 28-12-1994*
 
 XXXIII. (Se deroga).
 
+*Fracción derogada DOF 28-12-1994*
+
+*Artículo reformado DOF 08-12-1978, 31-12-1980, 04-01-1982, 29-12-1982. Derogado DOF 21-02-1992. Adicionado DOF 25-05-1992*
+
 #### Artículo 32 Bis.
 
-A la Secretaría de Medio Ambiente y Recursos Naturales, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Medio Ambiente y Recursos Naturales corresponde el despacho de los siguientes asuntos:
+
+*Párrafo reformado DOF 30-11-2000, 25-02-2003*
 
 I. Fomentar la protección, restauración y conservación de los ecosistemas y recursos naturales y bienes y servicios ambientales, con el fin de propiciar su aprovechamiento y desarrollo sustentable;
 
 II. Formular y conducir la política nacional en materia de recursos naturales, siempre que no estén encomendados expresamente a otra dependencia; así como en materia de ecología, saneamiento ambiental, agua, regulación ambiental del desarrollo urbano y de la actividad pesquera, con la participación que corresponda a otras dependencias y entidades;
 
+*Fracción reformada DOF 30-11-2000*
+
 III. Administrar y regular el uso y promover el aprovechamiento sustentable de los recursos naturales que correspondan a la Federación, con excepción de los hidrocarburos y los minerales radioactivos;
+
+*Fracción reformada DOF 11-08-2014*
 
 IV. Establecer, con la participación que corresponda a otras dependencias y a las autoridades estatales y municipales, normas oficiales mexicanas sobre la preservación y restauración de la calidad del medio ambiente; sobre los ecosistemas naturales; sobre el aprovechamiento sustentable de los recursos naturales y de la flora y fauna silvestre, terrestre y acuática; sobre descargas de aguas residuales, y en materia minera; y sobre materiales peligrosos y residuos sólidos y peligrosos;
 
@@ -700,7 +954,11 @@ XII. Elaborar, promover y difundir las tecnologías y formas de uso requeridas p
 
 XIII. Fomentar y realizar programas de restauración ecológica, con la cooperación de las autoridades federales, estatales y municipales, en coordinación, en su caso, con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y demás dependencias y entidades de la administración pública federal;
 
+*Fracción reformada DOF 30-11-2000, 25-02-2003*
+
 XIV. Evaluar la calidad del ambiente y establecer y promover el sistema de información ambiental, que incluirá los sistemas de monitoreo atmosférico, de suelos y de cuerpos de agua de jurisdicción federal, y los inventarios de recursos naturales y de población de fauna silvestre, con la cooperación de las autoridades federales, estatales y municipales, las instituciones de investigación y educación superior, y las dependencias y entidades que correspondan;
+
+*Fracción reformada DOF 25-02-2003*
 
 XV. Desarrollar y promover metodologías y procedimientos de valuación económica del capital natural y de los bienes y servicios ambientales que éste presta, y cooperar con dependencias y entidades para desarrollar un sistema integrado de contabilidad ambiental y económica;
 
@@ -710,9 +968,13 @@ XVII. Promover la participación social y de la comunidad científica en la form
 
 XVIII. Llevar el registro y cuidar la conservación de los árboles históricos y notables del país;
 
+*Fracción reformada DOF 25-02-2003*
+
 XIX. Proponer, y en su caso resolver sobre el establecimiento y levantamiento de vedas forestales, de caza y pesca, de conformidad con la legislación aplicable, y establecer el calendario cinegético y el de aves canoras y de ornato;
 
 XX. Imponer, con la participación que corresponda a otras dependencia y entidades, las restricciones que establezcan las disposiciones aplicables sobre la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del o destinadas al extranjero, y promover ante la Secretaría de Economía el establecimiento de medidas de regulación o restricción a su importación o exportación, cuando se requiera para su conservación y aprovechamiento;
+
+*Fracción reformada DOF 30-11-2000, 25-02-2003*
 
 XXI. Dirigir los estudios, trabajos y servicios meteorológicos, climatológicos, hidrológicos y geohidrológicos, así como el sistema meteorológico nacional, y participar en los convenios internacionales sobre la materia;
 
@@ -724,6 +986,8 @@ XXIV. Administrar, controlar y reglamentar el aprovechamiento de cuencas hidráu
 
 XXV. Estudiar, proyectar, construir y conservar, con la participación que corresponda a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, las obras de riego, desecación, drenaje, defensa y mejoramiento de terrenos y las de pequeña irrigación, de acuerdo con los programas formulados y que competa realizar al Gobierno Federal, por sí o en cooperación con las autoridades estatales y municipales o de particulares;
 
+*Fracción reformada DOF 30-11-2000*
+
 XXVI. Regular y vigilar la conservación de las corrientes, lagos y lagunas de jurisdicción federal, en la protección de cuencas alimentadoras y las obras de corrección torrencial;
 
 XXVII. Manejar el sistema hidrológico del Valle de México;
@@ -732,31 +996,55 @@ XXVIII. Controlar los ríos y demás corrientes y ejecutar las obras de defensa 
 
 XXIX. Organizar y manejar la explotación de los sistemas nacionales de riego, con la intervención de los usuarios, en los términos que lo determinen las leyes, en coordinación, en su caso, con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
+*Fracción reformada DOF 30-11-2000*
+
 XXX. Ejecutar las obras hidráulicas que deriven de tratados internacionales;
 
 XXXI. Intervenir, en su caso, en la dotación de agua a los centros de población e industrias; fomentar y apoyar técnicamente el desarrollo de los sistemas de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales que realicen las autoridades locales, así como programar, proyectar, construir, administrar, operar y conservar por sí, o mediante el otorgamiento de la asignación o concesión que en su caso se requiera, o en los términos del convenio que se celebre, las obras y servicios de captación, potabilización, tratamiento de aguas residuales, conducción y suministro de aguas de jurisdicción federal;
 
 XXXII. Establecer los mecanismos necesarios para implementar la coordinación y colaboración con la Agencia Nacional de Seguridad Industrial y de Protección al Ambiente del Sector Hidrocarburos y solicitar a dicha Agencia el apoyo técnico que requiera;
 
+*Fracción derogada DOF 30-11-2000. Adicionada DOF 11-08-2014*
+
 XXXIII. Participar con la Secretaría de Hacienda y Crédito Público en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
 
+*Fracción derogada DOF 30-11-2000. Adicionada DOF 11-08-2014*
+
 XXXIV. Elaborar y aplicar en coordinación con las secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Salud; de Comunicaciones y Transportes; de Economía; de Turismo; de Desarrollo Social; de Gobernación; de Marina; de Energía; de Educación Pública; de Hacienda y Crédito Público; de Desarrollo Agrario, Territorial y Urbano, y de Relaciones Exteriores, las políticas públicas encaminadas al cumplimiento de las acciones de mitigación y adaptación que señala la Ley General de Cambio Climático;
+
+*Fracción derogada DOF 30-11-2000. Adicionada DOF 11-08-2014*
 
 XXXV. Participar con la Secretaría de Hacienda y Crédito Público, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
 
 XXXVI. (Se deroga).
 
+*Fracción derogada DOF 30-11-2000*
+
 XXXVII. (Se deroga).
+
+*Fracción derogada DOF 30-11-2000*
 
 XXXVIII. (Se deroga).
 
+*Fracción derogada DOF 30-11-2000*
+
 XXXIX. Otorgar contratos, concesiones, licencias, permisos, autorizaciones, asignaciones, y reconocer derechos, según corresponda, en materia de aguas, forestal, ecológica, explotación de la flora y fauna silvestres, y sobre playas, zona federal marítimo terrestre y terrenos ganados al mar;
+
+*Fracción reformada DOF 30-11-2000*
 
 XL. Diseñar y operar, con la participación que corresponda a otras dependencias y entidades, la adopción de instrumentos económicos para la protección, restauración y conservación del medio ambiente;
 
+*Fracción reformada DOF 05-12-2013*
+
 XLI. Se deroga.
 
+*Fracción adicionada DOF 05-12-2013. Derogada DOF 11-08-2014*
+
 XLII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+*Fracción reformada y recorrida DOF 05-12-2013*
+
+*Artículo adicionado DOF 29-12-1982. Reformado y reenumerado (32-Bis pasa a 32) DOF 21-02-1992. Reenumerado (32 pasa a 32 Bis) DOF 25-05-1992. Reformado DOF 28-12-1994*
 
 #### Artículo 33.
 
@@ -764,9 +1052,15 @@ A la Secretaría de Energía corresponde el despacho de los siguientes asuntos:
 
 I. Establecer, conducir y coordinar la política energética del país, así como supervisar su cumplimiento con prioridad en la seguridad y diversificación energéticas, el ahorro de energía y la protección del medio ambiente, para lo cual podrá, entre otras acciones y en términos de las disposiciones aplicables, coordinar, realizar y promover programas, proyectos, estudios e investigaciones sobre las materias de su competencia;
 
+*Fracción reformada DOF 11-08-2014*
+
 II. Ejercer los derechos de la Nación en materia de petróleo y todos los carburos de hidrógeno sólidos, líquidos y gaseosos; de minerales radioactivos; así como respecto del aprovechamiento de los bienes y recursos naturales que se requieran para generar, transmitir, distribuir, comercializar y abastecer energía eléctrica;
 
+*Fracción reformada DOF 11-08-2014*
+
 III. Conducir y supervisar la generación de energía nuclear;
+
+*Fracción reformada DOF 11-08-2014*
 
 IV. Promover que la participación de los particulares en las actividades del sector sea en los términos de la legislación y de las disposiciones aplicables;
 
@@ -774,61 +1068,111 @@ V. Llevar a cabo la planeación energética a mediano y largo plazos, así como 
 
 La planeación energética deberá atender los siguientes criterios: la soberanía y la seguridad energéticas, el mejoramiento de la productividad energética, la restitución de reservas de hidrocarburos, la diversificación de las fuentes de combustibles, la reducción progresiva de impactos ambientales de la producción y consumo de energía, la mayor participación de las energías renovables en el balance energético nacional, la satisfacción de las necesidades energéticas básicas de la población, el ahorro de energía y la mayor eficiencia de su producción y uso, el fortalecimiento de las empresas productivas del Estado del sector energético, y el apoyo a la investigación y el desarrollo tecnológico nacionales en materia energética;
 
+*Fracción reformada DOF 11-08-2014*
+
 VI. Elaborar y publicar anualmente un informe pormenorizado que permita conocer el desempeño y las tendencias del sector eléctrico nacional;
+
+*Fracción reformada DOF 11-08-2014*
 
 VII. En materia de la industria de hidrocarburos: otorgar y revocar asignaciones a que se refiere el artículo 27 Constitucional; establecer los lineamientos técnicos que deberán observarse en el proceso de licitación; el diseño técnico de los contratos; establecer las áreas que podrán ser objeto de asignaciones y contratos; así como adjudicar asignaciones y otorgar permisos para el tratamiento y refinación del petróleo, y procesamiento de gas natural;
 
+*Fracción reformada DOF 11-08-2014*
+
 VIII. Establecer mecanismos de coordinación con el Centro Nacional de Control de Energía y el Centro Nacional de Control del Gas Natural, que propicie que las acciones de estos organismos sean compatibles con los programas sectoriales;
 
+*Fracción reformada DOF 11-08-2014*
+
 IX. Otorgar, negar, modificar y revocar asignaciones y contratos para exploración y extracción de minerales radiactivos;
+
+*Fracción reformada DOF 11-08-2014*
 
 X. Promover el ahorro de energía, regular y, en su caso, expedir normas oficiales mexicanas sobre eficiencia energética, así como realizar y apoyar estudios e investigaciones sobre ahorro de energía, estructuras, costos, proyectos, mercados, precios y tarifas, activos, procedimientos, reglas, normas y demás aspectos relacionados;
 
 XI. Regular y promover el desarrollo y uso de fuentes de energía alternas a los hidrocarburos, así como energías renovables y proponer, en su caso, los estímulos correspondientes;
 
+*Fracción reformada DOF 11-08-2014*
+
 XII. Regular y en su caso, expedir normas oficiales mexicanas sobre producción, comercialización, compraventa, condiciones de calidad, suministro de energía y demás aspectos que promuevan la modernización, eficiencia y desarrollo del sector, así como controlar y vigilar su debido cumplimiento;
 
 XIII. Regular y, en su caso, expedir normas oficiales mexicanas en materia de seguridad nuclear y salvaguardias, incluyendo lo relativo al uso, producción, explotación, aprovechamiento, transportación, enajenación, importación y exportación de materiales radioactivos, así como controlar y vigilar su debido cumplimiento;
 
+*Fracción reformada DOF 11-08-2014*
+
 XIV. Llevar el registro geotérmico;
+
+*Fracción reformada DOF 11-08-2014*
 
 XV. Establecer la regulación en materia de registros de reconocimiento, permisos de exploración, o concesiones, según sea el caso para la explotación de áreas con potencial geotérmico, y supervisar su debido cumplimiento;
 
+*Fracción reformada DOF 11-08-2014*
+
 XVI. Proponer al Titular del Ejecutivo Federal el establecimiento de zonas de salvaguarda de hidrocarburos;
+
+*Fracción reformada DOF 11-08-2014*
 
 XVII. Proponer al Titular del Ejecutivo Federal la plataforma anual de producción de petróleo y de gas, con base en las reservas probadas y los recursos disponibles, dando prioridad a la seguridad energética del país;
 
+*Fracción reformada DOF 11-08-2014*
+
 XVIII. Establecer la política de restitución de reservas de hidrocarburos, así como la relativa en materia de geotermia;
 
+*Fracción reformada DOF 11-08-2014*
+
 XIX. Regular y, en su caso, expedir normas oficiales mexicanas a través de la Comisión Nacional de Seguridad Nuclear y Salvaguardias, en lo correspondiente a sus facultades, así como supervisar su debido cumplimiento;
+
+*Fracción reformada DOF 11-08-2014*
 
 XX. Registrar y dar a conocer, con base en la información proporcionada por la Comisión Nacional de Hidrocarburos, las reservas de hidrocarburos, conforme a los estudios de evaluación y de cuantificación, así como a las certificaciones correspondientes;
 
 XXI. Requerir la información necesaria para el desarrollo de sus funciones, a órganos desconcentrados, órganos reguladores coordinados, entidades paraestatales y empresas del sector y, en general, a toda persona física o moral que realice cualquiera de las actividades a que se refieren la Ley de Hidrocarburos, la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear y la Ley de la Industria Eléctrica;
 
+*Fracción reformada DOF 11-08-2014*
+
 XXII. Realizar visitas de inspección y verificación a las instalaciones de las entidades paraestatales con actividades en el sector y, en general, a toda persona física o moral que realice cualquiera de las actividades principales, auxiliares o conexas, a que se refieren las leyes señaladas en la fracción anterior;
+
+*Fracción reformada DOF 11-08-2014*
 
 XXIII. Participar en foros internacionales respecto de las materias competencia de la Secretaría, con la intervención que corresponda a la Secretaría de Relaciones Exteriores y proponer a ésta la celebración de convenios y tratados internacionales en tales materias; y, asimismo, participar en la concertación y el seguimiento de la ejecución de los acuerdos internacionales en materia de explotación de yacimientos transfronterizos de hidrocarburos de los que el Estado mexicano sea parte;
 
 XXIV. Iniciar, tramitar y resolver procedimientos administrativos e imponer las sanciones que correspondan, en términos de las disposiciones aplicables;
 
+*Fracción reformada DOF 11-08-2014*
+
 XXV. Fomentar y vigilar un adecuado suministro de los combustibles en el territorio nacional;
+
+*Fracción reformada DOF 11-08-2014*
 
 XXVI. Revisar y, en su caso, autorizar las reglas de operación del Mercado Eléctrico Mayorista y emitir disposiciones administrativas de carácter general que permitan su vigilancia;
 
+*Fracción adicionada DOF 11-08-2014*
+
 XXVII. Establecer los términos de estricta separación legal que se requieren para fomentar el acceso abierto y la operación eficiente del sector eléctrico y vigilar su cumplimiento;
+
+*Fracción adicionada DOF 11-08-2014*
 
 XXVIII. Verificar el cumplimiento de la regulación que emita para la industria eléctrica y demás disposiciones administrativas aplicables, realizar visitas de verificación y requerir a las personas físicas y morales con actividades en el sector, la información que permita conocer el desempeño de la industria eléctrica y dictar las medidas que resulten aplicables, conforme a la Ley de la Industria Eléctrica;
 
+*Fracción adicionada DOF 11-08-2014*
+
 XXIX. Fijar la política de eficiencia energética de la industria eléctrica y la política para establecer nuevas centrales eléctricas tendientes a satisfacer las necesidades del país y a dicha política de eficiencia energética de la industria eléctrica, así como establecer los requerimientos obligatorios en materia de energías limpias para la generación eléctrica;
+
+*Fracción adicionada DOF 11-08-2014*
 
 XXX. Establecer los términos y condiciones obligatorios de cobertura para el suministro eléctrico en las comunidades rurales y zonas urbanas marginadas, y proponer los mecanismos para dirigir recursos económicos a este fin, y
 
+*Fracción adicionada DOF 11-08-2014*
+
 XXXI. Los demás que le encomienden expresamente las leyes y reglamentos.
+
+*Fracción adicionada DOF 11-08-2014*
+
+*Fe de erratas al artículo DOF 02-02-1977. Reformado DOF 29-12-1982, 28-12-1994, 28-11-2008*
 
 #### Artículo 34.
 
 A la Secretaría de Economía corresponde el despacho de los siguientes asuntos:
+
+*Párrafo reformado DOF 28-12-1994, 19-12-1995, 30-11-2000*
 
 I.- Formular y conducir las políticas generales de industria, comercio exterior, interior, abasto y precios del país; con excepción de los precios de bienes y servicios de la Administración Pública Federal;
 
@@ -836,33 +1180,55 @@ II.- Regular, promover y vigilar la comercialización, distribución y consumo d
 
 III.- Establecer la Política de industrialización, distribución y consumo de los productos agrícolas, ganaderos, forestales, minerales y pesqueros, en coordinación con las dependencias competentes;
 
+*Fracción reformada DOF 22-07-1991*
+
 IV.- Fomentar, en coordinación con la Secretaría de Relaciones Exteriores, el comercio exterior del país.
 
-V.- Estudiar, proyectar y determinar los aranceles y fijar los precios oficiales, escuchando la opinión de la Secretaría de Hacienda y Crédito Público; estudiar y determinar las restricciones para los Artículos de importación y exportación, y participar con la mencionada Secretaría en la fijación de los criterios generales para el establecimiento de los estímulos al comercio exterior;
+*Fracción reformada DOF 19-12-1995*
+
+V.- Estudiar, proyectar y determinar los aranceles y fijar los precios oficiales, escuchando la opinión de la Secretaría de Hacienda y Crédito Público; estudiar y determinar las restricciones para los artículos de importación y exportación, y participar con la mencionada Secretaría en la fijación de los criterios generales para el establecimiento de los estímulos al comercio exterior;
 
 VI.- Estudiar y determinar mediante reglas generales, conforme a los montos globales establecidos por la Secretaría de Hacienda y Crédito Público, los estímulos fiscales necesarios para el fomento industrial, el comercio interior y exterior y el abasto, incluyendo los subsidios sobre impuestos de importación, y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
+*Fracción reformada DOF 30-12-1983*
+
 VII.- Establecer la política de precios, y con el auxilio y participación de las autoridades locales, vigilar su estricto cumplimiento, particularmente en lo que se refiere a artículos de consumo y uso popular, y establecer las tarifas para la prestación de aquellos servicios de interés público que considere necesarios, con la exclusión de los precios y tarifas de los bienes y servicios de la Administración Pública Federal; y definir el uso preferente que deba darse a determinadas mercancías;
+
+> Nota: De conformidad con el Artículo Tercero del Decreto por el que se reforma y adiciona la Ley Federal de Protección al Consumidor, publicado en el DOF 04-01-1989: “Se derogan exclusivamente las facultades en materia de inspección y vigilancia, de precios o tarifas, así como la de sancionar en los casos de incumplimiento, que confiere el Artículo 34, fracción VII, de la Ley Orgánica de la Administración Pública Federal a la Secretaría de Comercio y Fomento Industrial” (reformada la denominación de Secretaría de Comercio y Fomento Industrial por Secretaría de Economía, mediante DOF 30-11-2000).
 
 VIII.- Regular, orientar y estimular las medidas de protección al consumidor;
 
 IX.- Participar con las Secretarías de Desarrollo Social, de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y de Medio Ambiente y Recursos Naturales, en la distribución y comercialización de productos y el abastecimiento de los consumos básicos de la población;
 
+*Fracción reformada DOF 22-07-1991, 28-12-1994, 30-11-2000*
+
 X. Se deroga.
+
+*Fracción derogada DOF 30-12-2015*
 
 X bis. Coordinar y ejecutar la política nacional para crear y apoyar empresas que asocien a grupos de escasos recursos en áreas urbanas a través de las acciones de planeación, programación, concertación, coordinación, evaluación; de aplicación, recuperación y revolvencia de recursos para ser destinados a los mismos fines; así como de asistencia técnica y de otros medios que se requieran para ese propósito, previa calificación, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
 
+*Fracción adicionada DOF 30-11-2000*
+
 XI.- Coordinar y dirigir con la colaboración de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, el Sistema Nacional para el Abasto, con el fin de asegurar la adecuada distribución y comercialización de productos y el abastecimiento de los consumos básicos de la población;
+
+*Fracción reformada DOF 30-11-2000*
 
 XII.- Normar y registrar la propiedad industrial y mercantil; así como regular y orientar la inversión extranjera y la transferencia de tecnología;
 
 XII bis.- Autorizar el uso o modificación de denominación o razón social de sociedades mercantiles o civiles;
 
+*Fracción adicionada DOF 15-12-2011*
+
 XIII.- Establecer y vigilar las normas de calidad, pesas y medidas necesarias para la actividad comercial; así como las normas y especificaciones industriales;
 
 XIV.- Regular y vigilar, de conformidad con las disposiciones aplicables, la prestación del servicio registral mercantil a nivel federal, así como promover y apoyar el adecuado funcionamiento de los registros públicos locales;
 
+*Fracción reformada DOF 28-12-1994*
+
 XV. Fomentar el desarrollo del pequeño comercio rural y urbano, así como promover el desarrollo de lonjas, centros y sistemas comerciales de carácter regional o nacional en coordinación con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+
+*Fracción reformada DOF 28-12-1994, 30-11-2000*
 
 XVI.- Impulsar, en coordinación con las dependencias centrales o entidades del sector paraestatal que tengan relación con las actividades específicas de que se trate, la producción de aquellos bienes y servicios que se consideren fundamentales para la regulación de los precios;
 
@@ -876,35 +1242,61 @@ XX.- Asesorar a la iniciativa privada en el establecimiento de nuevas industrias
 
 XXI.- Fomentar, regular y promover el desarrollo de la industria de transformación e intervenir en el suministro de energía eléctrica a usuarios y en la distribución de gas;
 
+*Fracción reformada DOF 30-12-1983*
+
 XXII.- Fomentar, estimular y organizar la producción económica del artesanado, de las artes populares y de las industrias familiares;
 
 XXIII.- Promover, orientar, fomentar y estimular la industria nacional;
 
 XXIV.- Promover, orientar, fomentar y estimular el desarrollo de la industria pequeña y mediana y regular la organización de productores industriales;
 
+*Fracción reformada DOF 22-07-1991*
+
 XXIV bis.- Organizar, unificar e implementar el sistema informático que establecerá expedientes electrónicos empresariales con la finalidad de simplificar los trámites que los interesados realizan ante la administración pública federal centralizada y paraestatal;
+
+*Fracción adicionada DOF 15-12-2011*
 
 XXV.- Promover y, en su caso, organizar la investigación técnico-industrial, y
 
 XXVI.- Registrar los precios de mercancías, arrendamientos de bienes muebles y contratación de servicios, que regirán para el sector público; dictaminar los contratos o pedidos respectivos; autorizar las compras del sector público en el país de bienes de procedencia extranjera, así como, conjuntamente con la Secretaría de Hacienda y Crédito Público, autorizar las bases de las convocatorias para realizar concursos internacionales, y
 
+*Fracción adicionada DOF 30-12-1983. Reformada DOF 21-02-1992*
+
 XXVII.- Formular y conducir la política nacional en materia minera;
+
+*Fracción recorrida DOF 30-12-1983. Reformada DOF 28-12-1994*
 
 XXVIII. Fomentar el aprovechamiento de los recursos minerales y llevar el catastro minero, y regular la explotación de salinas ubicadas en terrenos de propiedad nacional y en las formadas directamente por las aguas del mar;
 
+*Fracción adicionada DOF 28-12-1994*
+
 XXIX. Otorgar contratos, concesiones, asignaciones, permisos, autorizaciones y asignaciones en materia minera, en los términos de la legislación correspondiente, y
+
+*Fracción adicionada DOF 28-12-1994*
 
 XXX. Impulsar la reubicación de la industria de zonas urbanas con graves problemas demográficos y ambientales, en coordinación con las Entidades Federativas, para que se facilite su traslado con infraestructura industrial, y
 
+*Fracción adicionada DOF 10-06-2005*
+
 XXXI. Determinar y operar el sistema electrónico en el que deberán realizarse las publicaciones que establezcan las leyes mercantiles;
+
+*Fracción adicionada DOF 13-06-2014*
 
 XXXII. Establecer, junto con la Secretaría de Energía, la política nacional de fomento a las compras de proveedores nacionales en los sectores de hidrocarburos y electricidad,
 
+*Fracción adicionada DOF 11-08-2014*
+
 XXXIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+*Fracción adicionada DOF 28-12-1994. Recorrida DOF 10-06-2005, 13-06-2014, 11-08-2014*
+
+*Artículo reformado DOF 08-12-1978, 04-01-1982, 29-12-1982*
 
 #### Artículo 35.
 
 A la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación corresponde el despacho de los siguientes asuntos:
+
+*Párrafo reformado DOF 30-11-2000*
 
 I. Formular, conducir y evaluar la política general de desarrollo rural, a fin de elevar el nivel de vida de las familias que habitan en el campo, en coordinación con las dependencias competentes;
 
@@ -913,6 +1305,8 @@ II. Promover el empleo en el medio rural, así como establecer programas y accio
 III. Integrar e impulsar proyectos de inversión que permitan canalizar, productivamente, recursos públicos y privados al gasto social en el sector rural; coordinar y ejecutar la política nacional para crear y apoyar empresas que asocien a grupos de productores rurales a través de las acciones de planeación, programación, concertación, coordinación; de aplicación, recuperación y revolvencia de recursos, para ser destinados a los mismos fines; así como de asistencia técnica y de otros medios que se requieran para ese propósito, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
 
 IV. Vigilar el cumplimiento y aplicar la normatividad en materia de sanidad animal y vegetal; fomentar los programas y elaborar normas oficiales de sanidad animal y vegetal; atender, coordinar, supervisar y evaluar las campañas de sanidad, así como otorgar las certificaciones relativas al ámbito de su competencia;
+
+*Fracción reformada DOF 08-12-2005*
 
 V. Procesar y difundir la información estadística y geográfica referente a la oferta y la demanda de productos relacionados con actividades del sector rural;
 
@@ -924,11 +1318,15 @@ VIII. Formular dirigir y supervisar los programas y actividades relacionados con
 
 IX. Promover el desarrollo de la infraestructura industrial y comercial de la producción agropecuaria, en coordinación con la Secretaría de Economía;
 
+*Fracción reformada DOF 08-12-2005*
+
 X. Promover la integración de asociaciones rurales;
 
 XI. Elaborar, actualizar y difundir un banco de proyectos y oportunidades de inversión en el sector rural;
 
 XII. Participar junto con la Secretaría de Medio Ambiente y Recursos Naturales en la conservación de los suelos agrícolas, pastizales y bosques, y aplicar las técnicas y procedimientos conducentes;
+
+*Fracción reformada DOF 30-11-2000*
 
 XIII. Fomentar y organizar la producción económica del artesanado, de las artes populares y de las industrias familiares del sector rural, con la participación que corresponda a otras dependencias o entidades;
 
@@ -944,7 +1342,11 @@ XVIII. Participar con la Secretaría de Hacienda y Crédito Público en la deter
 
 XIX. Programar y proponer, con la participación que corresponde a la Secretaría de Medio Ambiente y Recursos Naturales, la construcción de pequeñas obras de irrigación; y proyectar, ejecutar y conservar bordos, canales, tajos, abrevaderos y jagüeyes que competa realizar al Gobierno Federal por sí o en cooperación con los gobiernos de los estados, los municipios o los particulares;
 
+*Fracción reformada DOF 30-11-2000*
+
 XX. Participar, junto con la Secretaría de Medio Ambiente y Recursos Naturales, en la promoción de plantaciones forestales, de acuerdo con los programas formulados y que competa realizar al Gobierno Federal, por sí o en cooperación con los gobiernos de los estados, municipios o de particulares;
+
+*Fracción reformada DOF 30-11-2000*
 
 XXI. Fomentar la actividad pesquera a través de una entidad pública que tendrá a su cargo las siguientes atribuciones:
 
@@ -962,19 +1364,33 @@ f) Promover la creación de las zonas portuarias, así como su conservación y m
 
 g) Promover, en coordinación con la Secretaría de Economía, el consumo humano de productos pesqueros, asegurar el abasto y la distribución de dichos productos y de materia prima a la industria nacional; y
 
+*Fracción reformada DOF 30-11-2000*
+
 XXII. Los demás que expresamente le atribuyan las leyes y reglamentos;
+
+*Fracción adicionada DOF 30-11-2000*
+
+*Artículo reformado DOF 29-12-1982, 22-07-1991, 25-05-1992, 28-12-1994*
 
 #### Artículo 36.
 
 A la Secretaría de Comunicaciones y Transportes corresponde el despacho de los siguientes asuntos:
 
-I.- Formular y conducir las políticas y programas para el desarrollo del transporte y las comunicaciones de acuerdo a las necesidades del país;
+I.- Formular y conducir las políticas y programas para el desarrollo del transporte, con la intervención que las leyes otorgan a la Secretaría de Marina respecto al transporte por agua, así como de las comunicaciones, de acuerdo a las necesidades del país;
+
+*Fracción reformada DOF 19-12-2016*
 
 I Bis.- Elaborar y conducir las políticas de telecomunicaciones y radiodifusión del Gobierno Federal;
 
+*Fracción adicionada DOF 14-07-2014*
+
 II.- Regular, inspeccionar y vigilar los servicios públicos de correos y telégrafos y sus servicios diversos;
 
+*Fracción reformada DOF 24-12-1986, 14-07-2014*
+
 III.- Se deroga.
+
+*Fracción derogada DOF 14-07-2014*
 
 IV.- Otorgar concesiones y permisos para establecer y operar servicios aéreos en el territorio nacional, fomentar, regular y vigilar su funcionamiento y operación, así como negociar convenios para la prestación de servicios aéreos internacionales;
 
@@ -990,6 +1406,8 @@ IX.- Otorgar concesiones y permisos para la explotación de servicios de autotra
 
 X.- (Se deroga).
 
+*Fracción derogada DOF 04-01-1999*
+
 XI.- Participar en los convenios para la construcción y explotación de los puentes internacionales;
 
 XII.- Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes y las tarifas para el cobro de los mismos, así como otorgar concesiones y permisos y fijar las tarifas y reglas de aplicación de todas las maniobras y servicios marítimos, portuarios, auxiliares y conexos relacionados con los transportes o las comunicaciones; y participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes;
@@ -1000,11 +1418,17 @@ XIV.- Regular, promover y organizar la marina mercante;
 
 XV.- Establecer los requisitos que deban satisfacer el personal técnico de la aviación civil, marina mercante, servicios públicos de transporte terrestre, así como conceder las licencias y autorizaciones respectivas;
 
+*Fracción reformada DOF 14-07-2014*
+
 XVI.- Regular las comunicaciones y transportes por agua;
 
-XVII. Inspeccionar los servicios de la marina mercante, así como coordinarse con la Secretaría de Marina en la aplicación de las medidas en materia de Protección Marítima y Portuaria;
+XVII.- Participar con la Secretaría de Marina en la aplicación de las medidas en materia de seguridad y protección marítima;
 
-XVIII.- Construir, reconstruir y conservar las obras marítimas, portuarias y de dragado, instalar el señalamiento marítimo y proporcionar los servicios de información y seguridad para la navegación marítima;
+*Fracción reformada DOF 26-12-2013, 19-12-2016*
+
+XVIII.- Construir, reconstruir y conservar las obras marítimas, portuarias y de dragado;
+
+*Fracción reformada DOF 19-12-2016*
 
 XIX.- Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones por agua; así como coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación para su eficiente operación y funcionamiento, salvo los asignados a la Secretaría de Marina;
 
@@ -1020,9 +1444,13 @@ XXIV.- Otorgar concesiones o permisos para construir las obras que le correspond
 
 XXV.- Cuidar de los aspectos ecológicos y los relativos a la planeación del desarrollo urbano, en los derechos de vía de las vías federales de comunicación;
 
+*Fracción reformada DOF 25-05-1992*
+
 XXVI.- Promover y, en su caso, organizar la capacitación, investigación y el desarrollo tecnológico en materia de comunicaciones y transportes, y
 
 XXVII.- Los demás que expresamente le fijen las leyes y reglamentos.
+
+*Artículo reformado DOF 29-12-1982*
 
 #### Artículo 37.
 
@@ -1088,6 +1516,10 @@ XXIX. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 El nombramiento del Secretario de la Función Pública que somete el Presidente de la República a ratificación del Senado de la República, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley General de Responsabilidades Administrativas.
 
+*Artículo reformado DOF 04-01-1982, 29-12-1982. Derogado DOF 25-05-1992. Adicionado DOF 28-12-1994. Reformado DOF 24-12-1996,*
+
+30-11-2000, 13-03-2002, 10-04-2003, 01-10-2007, 09-04-2012. Derogado DOF 02-01-2013. Adicionado DOF 18-07-2016
+
 #### Artículo 38.
 
 A la Secretaría de Educación Pública corresponde el despacho de los siguientes asuntos:
@@ -1102,11 +1534,15 @@ c) La enseñanza técnica, industrial, comercial y de artes y oficios, incluida 
 
 d) La enseñanza agrícola, con la cooperación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
+*Inciso reformado DOF 30-11-2000*
+
 e) La enseñanza superior y profesional.
 
 f) La enseñanza deportiva y militar, y la cultura física en general;
 
 II. Organizar y desarrollar la educación artística, en coordinación con la Secretaría de Cultura, que se imparta en las escuelas e institutos oficiales, incorporados o reconocidos para la enseñanza y difusión de las bellas artes y de las artes populares;
+
+*Fracción reformada DOF 17-12-2015*
 
 III.- Crear y mantener las escuelas oficiales en el Distrito Federal, excluidas las que dependen de otras dependencias;
 
@@ -1122,15 +1558,25 @@ VIII.- Promover la creación de institutos de investigación científica y técn
 
 IX. Patrocinar la realización de congresos, asambleas y reuniones, eventos, competencias y concursos de carácter científico, técnico y educativo;
 
+*Fracción reformada DOF 17-12-2015*
+
 X. Derogada.
+
+*Fracción derogada DOF 17-12-2015*
 
 XI.- Mantener al corriente el escalafón del magisterio y el seguro del maestro, y crear un sistema de compensaciones y estímulos para el profesorado; atendiendo a las directrices que emita la Secretaría de Hacienda y Crédito Público sobre el sistema general de administración y desarrollo de personal;
 
+*Fracción reformada DOF 29-12-1982, 21-02-1992*
+
 XII. Derogada.
+
+*Fracción derogada DOF 17-12-2015*
 
 XIII.- Otorgar becas para que los estudiantes de nacionalidad mexicana puedan realizar investigaciones o completar ciclos de estudios en el extranjero;
 
 XIV. Derogada.
+
+*Fracción derogada DOF 17-12-2015*
 
 XV.- Revalidar estudios y títulos, y conceder autorización para el ejercicio de las capacidades que acrediten;
 
@@ -1138,15 +1584,27 @@ XVI.- Vigilar, con auxilio de las asociaciones de profesionistas, el correcto ej
 
 XVII. Derogada.
 
+*Fracción derogada DOF 17-12-2015*
+
 XVIII. Derogada.
+
+*Fracción derogada DOF 17-12-2015*
 
 XIX. Derogada.
 
+*Fracción derogada DOF 17-12-2015*
+
 XX. Derogada.
+
+*Fracción derogada DOF 17-12-2015*
 
 XXI. Derogada.
 
+*Fracción reformada DOF 28-12-1994. Derogada DOF 17-12-2015*
+
 XXII. Derogada.
+
+*Fracción derogada DOF 17-12-2015*
 
 XXIII.- Determinar y organizar la participación oficial del país en competencias deportivas internacionales, organizar desfiles atléticos y todo género de eventos deportivos, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno Federal;
 
@@ -1154,17 +1612,29 @@ XXIV.- Cooperar en las tareas que desempeñe la Confederación Deportiva y mante
 
 XXV.- Formular normas y programas, y ejecutar acciones para promover la educación física, el deporte para todos, el deporte estudiantil y el deporte selectivo; promover y en su caso, organizar la formación y capacitación de instructores, entrenadores, profesores y licenciados en especialidades de cultura física y deporte; fomentar los estudios de posgrado y la investigación de las ciencias del deporte; así como la creación de esquemas de financiamiento al deporte con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal;
 
+*Fracción derogada DOF 25-05-1992. Adicionada DOF 28-12-1994*
+
 XXVI.- (Se deroga).
+
+*Fracción derogada DOF 25-05-1992*
 
 XXVII. Organizar, promover y supervisar programas de capacitación y adiestramiento en coordinación con las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y de los Municipios, las entidades públicas y privadas, así como los fideicomisos creados con tal propósito. A este fin organizará, igualmente, servicios de educación básica para adultos y sistemas de orientación vocacional de enseñanza abierta y de acreditación de estudios;
 
+*Fracción reformada DOF 27-01-2015*
+
 XXVIII. Orientar las actividades recreativas y deportivas que realice el sector público federal;
 
+*Fracción reformada DOF 17-12-2015*
+
 XXIX. Establecer los criterios educativos en la producción cinematográfica, de radio y televisión y en la industria editorial;
+
+*Fracción reformada DOF 29-12-1982, 17-12-2015*
 
 XXX.- Organizar y promover acciones tendientes al pleno desarrollo de la juventud y a su incorporación a las tareas nacionales, estableciendo para ello sistemas de servicio social, centro de estudio, programas de recreación y de atención a los problemas de los jóvenes. Crear y organizar a este fin sistemas de enseñanza especial para niños, adolescentes y jóvenes que lo requieran, y
 
 XXX Bis. Promover la producción cinematográfica, de radio y televisión y de la industria editorial, con apego a lo dispuesto por el artículo 3o. constitucional cuando se trate de cuestiones educativas y dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, con exclusión de las que dependan de otras Secretarías de Estado. Aquellas estaciones de radio que incorporen en su programación contenido cultural deberán tomar en consideración las directrices que en esta materia le proponga la Secretaría de Cultura, y
+
+*Fracción adicionada DOF 30-11-2000. Reformada DOF 09-04-2012, 17-12-2015*
 
 XXXI. Los demás que le fijen expresamente las leyes y reglamentos.
 
@@ -1172,11 +1642,19 @@ XXXI. Los demás que le fijen expresamente las leyes y reglamentos.
 
 A la Secretaría de Salud, corresponde el despacho de los siguientes asuntos:
 
+*Párrafo reformado DOF 21-01-1985*
+
 I.- Establecer y conducir la política nacional en materia de asistencia social, servicios médicos y salubridad general, con excepción de lo relativo al saneamiento del ambiente; y coordinar los programas de servicios a la salud de la Administración Pública Federal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen.
+
+*Fracción reformada DOF 29-12-1982*
 
 II.- Crear y administrar establecimientos de salubridad, de asistencia pública y de terapia social en cualquier lugar del territorio nacional y organizar la asistencia pública en el Distrito Federal;
 
+*Fracción reformada DOF 29-12-1982*
+
 III.- Aplicar a la Asistencia Pública los fondos que le proporcionen la Lotería Nacional y los Pronósticos para la Asistencia Pública; y administrar el patrimonio de la Beneficencia Pública en el Distrito Federal, en los términos de las disposiciones legales aplicables, a fin de apoyar los programas de servicios de salud;
+
+*Fracción reformada DOF 21-01-1985*
 
 IV.- Organizar y vigilar las instituciones de beneficencia privada, en los términos de las leyes relativas, e integrar sus patronatos, respetando la voluntad de los fundadores;
 
@@ -1186,9 +1664,15 @@ VI.- Planear, normar, coordinar y evaluar el Sistema Nacional de Salud y proveer
 
 Asimismo, propiciará y coordinará la participación de los sectores social y privado en dicho Sistema Nacional de Salud y determinará las políticas y acciones de inducción y concertación correspondientes;
 
+*Fracción derogada DOF 29-12-1982. Adicionada DOF 21-01-1985*
+
 VII.- Planear, normar y controlar los servicios de atención médica, salud pública, asistencia social y regulación sanitaria que correspondan al Sistema Nacional de Salud;
 
+*Fracción reformada DOF 29-12-1982, 21-01-1985*
+
 VIII.- Dictar las normas técnicas a que quedará sujeta la prestación de servicios de salud en las materias de Salubridad General, incluyendo las de Asistencia Social, por parte de los Sectores Público, Social y Privado, y verificar su cumplimiento;
+
+*Fracción reformada DOF 21-01-1985*
 
 IX.- Organizar y administrar servicios sanitarios generales en toda la República;
 
@@ -1216,27 +1700,39 @@ XX.- Prestar los servicios de su competencia, directamente o en coordinación co
 
 XXI.- Actuar como autoridad sanitaria, ejercer las facultades en materia de salubridad general que las leyes le confieren al Ejecutivo Federal, vigilar el cumplimiento de la Ley General de Salud, sus reglamentos y demás disposiciones aplicables y ejercer la acción extraordinaria en materia de Salubridad General;
 
+*Fracción reformada DOF 29-12-1982, 21-01-1985*
+
 XXII.- Establecer las normas que deben orientar los servicios de asistencia social que presten las dependencias y entidades federales y proveer a su cumplimiento, y
+
+*Fracción adicionada DOF 29-12-1982*
 
 XXIII.- Establecer y ejecutar con la participación que corresponda a otras dependencias asistenciales, públicas y privadas, planes y programas para la asistencia, prevención, atención y tratamiento a los discapacitados;
 
+*Fracción adicionada DOF 28-12-1994*
+
 XXIV.- Las demás que le fijen expresamente las leyes y reglamentos.
+
+*Fracción recorrida DOF 29-12-1982. Reformada y recorrida DOF 28-12-1994*
 
 #### Artículo 40.
 
 A la Secretaría del Trabajo y Previsión Social corresponde el despacho de los siguientes asuntos:
 
-I.- Vigilar la observancia y aplicación de las disposiciones relativas contenidas en el Artículo 123 y demás de la Constitución Federal, en la Ley Federal del Trabajo y en sus reglamentos;
+I.- Vigilar la observancia y aplicación de las disposiciones relativas contenidas en el artículo 123 y demás de la Constitución Federal, en la Ley Federal del Trabajo y en sus reglamentos;
 
 II.- Procurar el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales relativas;
 
 III.- Intervenir en los contratos de trabajo de los nacionales que vayan a prestar sus servicios en el extranjero, en cooperación con las Secretarías de Gobernación, de Economía y de Relaciones Exteriores;
+
+*Fracción reformada DOF 30-11-2000*
 
 IV.- Coordinar la formulación y promulgación de los contratos-ley de trabajo;
 
 V.- Promover el incremento de la productividad del trabajo;
 
 VI.- Promover el desarrollo de la capacitación y el adiestramiento en y para el trabajo, así como realizar investigaciones, prestar servicios de asesoría e impartir cursos de capacitación que para incrementar la productividad en el trabajo requieran los sectores productivos del país, en coordinación con la Secretaría de Educación Pública;
+
+*Fracción reformada DOF 30-12-1983*
 
 VII.- Establecer y dirigir el servicio nacional de empleo y vigilar su funcionamiento;
 
@@ -1256,13 +1752,21 @@ XIV.- Participar en los congresos y reuniones internacionales de trabajo, de acu
 
 XV.- Llevar las estadísticas generales correspondientes a la materia del trabajo, de acuerdo con las disposiciones que establezca la Secretaría de Hacienda y Crédito Público;
 
+*Fracción reformada DOF 21-02-1992*
+
 XVI.- Establecer la política y coordinar los servicios de seguridad social de la Administración Pública Federal, así como intervenir en los asuntos relacionados con el seguro social en los términos de la Ley;
 
 XVII.- Estudiar y proyectar planes para impulsar la ocupación en el país;
 
 XVIII.- Promover la cultura y recreación entre los trabajadores y sus familias, y
 
+*Fracción adicionada DOF 30-12-1983*
+
 XIX.- Los demás que le fijen expresamente las leyes y reglamentos.
+
+*Fracción recorrida DOF 30-12-1983*
+
+*Artículo reformado DOF 29-12-1982*
 
 #### Artículo 41.
 
@@ -1324,6 +1828,8 @@ XXII. Ejercitar el derecho de expropiación por causa de utilidad pública en aq
 
 XXIII. Los demás que le fijen expresamente las leyes y reglamentos.
 
+*Artículo reformado DOF 29-12-1982, 30-11-2000, 02-01-2013*
+
 #### Artículo 41 Bis.
 
 A la Secretaría de Cultura corresponde el despacho de los siguientes asuntos:
@@ -1380,6 +1886,8 @@ XXIII. Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás
 
 XXIV. Los demás que le fijen expresamente las leyes y reglamentos.
 
+*Artículo adicionado DOF 17-12-2015*
+
 #### Artículo 42.
 
 A la Secretaría de Turismo corresponde el despacho de los siguientes asuntos:
@@ -1387,6 +1895,8 @@ A la Secretaría de Turismo corresponde el despacho de los siguientes asuntos:
 I.- Formular y conducir la política de desarrollo de la actividad turística nacional;
 
 II.- Promover, en coordinación con las entidades federativas, las zonas de desarrollo turístico nacional y formular en forma conjunta con la Secretaría de Medio Ambiente y Recursos Naturales la declaratoria respectiva;
+
+*Fracción reformada DOF 30-11-2000*
 
 III.- Participar con voz y voto en las comisiones Consultiva de Tarifas y la Técnica Consultiva de Vías Generales de Comunicación;
 
@@ -1396,11 +1906,17 @@ V.- Promover y opinar el otorgamiento de facilidades y franquicias a los prestad
 
 VI. Participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de los precios y tarifas de los bienes y servicios turísticos a cargo de la Administración Pública Federal, tomando en cuenta las leyes, reglamentos y demás disposiciones que regulan las facultades de las dependencias y entidades;
 
+*Fracción reformada DOF 17-06-2009*
+
 VII. Se Deroga.
+
+*Fracción derogada DOF 17-06-2009*
 
 VIII.- Estimular la formación de asociaciones, comités y patronatos de carácter público, privado o mixto, de naturaleza turística;
 
 IX.- Emitir opinión ante la Secretaría de Economía, en aquellos casos en que la inversión extranjera concurra en proyectos de desarrollo turísticos o en el establecimiento de servicios turísticos;
+
+*Fracción reformada DOF 30-11-2000*
 
 X.- Regular, orientar y estimular las medidas de protección al turismo, y vigilar su cumplimiento, en coordinación con las dependencias y entidades de la Administración Pública Federal y con las autoridades estatales y municipales;
 
@@ -1418,6 +1934,8 @@ XVI.- Autorizar los reglamentos interiores de los establecimientos de servicios 
 
 XVII.- Llevar la estadística en materia de turismo, de acuerdo con las disposiciones que establezca la Secretaría de Hacienda y Crédito Público;
 
+*Fracción reformada DOF 21-02-1992*
+
 XVIII.- Promover y apoyar la coordinación de los prestadores de servicios turísticos;
 
 XIX.- Proyectar, promover y apoyar el desarrollo de la infraestructura turística y estimular la participación de los sectores social y privado;
@@ -1425,6 +1943,8 @@ XIX.- Proyectar, promover y apoyar el desarrollo de la infraestructura turístic
 XX.- Fijar e imponer, de acuerdo a las leyes y reglamentos, el tipo y monto de las sanciones por el incumplimiento y violación de las disposiciones en materia turística, y
 
 XXI.- Los demás que le fijen expresamente las leyes y reglamentos.
+
+*Artículo reformado DOF 29-12-1982*
 
 #### Artículo 43.
 
@@ -1452,9 +1972,17 @@ IX.- Prestar apoyo y asesoría en materia técnico jurídica a las entidades fed
 
 X. Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios en que el titular del Ejecutivo Federal intervenga con cualquier carácter. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
 
+*Fracción reformada DOF 02-04-2013*
+
 XI. Ejercer, cuando así se lo haya solicitado algún Secretario de Estado, y atendiendo a las leyes reglamentarias y a los acuerdos generales que al efecto emita el Presidente de la República, la facultad a que se refiere el noveno párrafo del artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, solicitando al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, y
 
+*Fracción adicionada DOF 02-04-2013*
+
 XII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+*Fracción recorrida DOF 02-04-2013*
+
+*Artículo reformado DOF 04-01-1982, 29-12-1982, 22-07-1991, 25-05-1992. Derogado DOF 28-12-1994. Adicionado DOF 15-05-1996*
 
 #### Artículo 43 Bis.
 
@@ -1462,11 +1990,15 @@ Las dependencias de la Administración Pública Federal enviarán a la Consejer�
 
 Las demás dependencias y entidades de la Administración Pública Federal proporcionarán oportunamente a la Consejería Jurídica del Ejecutivo Federal la información y apoyo que requiera para el cumplimiento de sus funciones.
 
+*Artículo adicionado DOF 15-05-1996*
+
 #### Artículo 43 Ter.
 
 La Administración Pública Centralizada contará con Órganos Reguladores Coordinados en Materia Energética, con personalidad jurídica propia y autonomía técnica y de gestión. Serán creados por ley, misma que establecerá su competencia así como los mecanismos de coordinación con la Secretaría de Energía.
 
 Los Órganos Reguladores Coordinados en Materia Energética se regirán por las disposiciones aplicables a la Administración Pública Centralizada y el régimen especial que, en su caso, prevea la ley que los regula.
+
+*Artículo adicionado DOF 11-08-2014*
 
 #### Artículo 44.
 
@@ -1484,6 +2016,8 @@ Con base en dichos informes, así como de las recomendaciones y las bases y prin
 
 Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
 
+*Artículo derogado DOF 04-12-1997. Adicionado DOF 02-01-2013. Reformado DOF 18-07-2016*
+
 ## TITULO TERCERO · De la Administración Pública Paraestatal
 
 ### CAPITULO UNICO · De la Administración Pública Paraestatal
@@ -1491,6 +2025,8 @@ Conforme a lo dispuesto en las leyes en la materia, así como en las bases y pri
 #### Artículo 45.
 
 Son organismos descentralizados las entidades creadas por ley o decreto del Congreso de la Unión o por decreto del Ejecutivo Federal, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten.
+
+*Artículo reformado DOF 14-05-1986*
 
 #### Artículo 46.
 
@@ -1508,27 +2044,39 @@ C) Que al Gobierno Federal corresponda la facultad de nombrar a la mayoría de l
 
 Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles así como las asociaciones civiles en las que la mayoría de los asociados sean dependencias o entidades de la Administración Pública Federal o servidores Públicos Federales que participen en razón de sus cargos o alguna o varias de ellas se obliguen a realizar o realicen las aportaciones económicas preponderantes.
 
+*Artículo reformado DOF 04-01-1982, 30-12-1983, 14-05-1986*
+
 #### Artículo 47.
 
-Los fideicomisos públicos a que se refiere el Artículo 3o., fracción III, de esta Ley, son aquellos que el gobierno federal o alguna de las demás entidades paraestatales constituyen, con el propósito de auxiliar al Ejecutivo Federal en las atribuciones del Estado para impulsar las áreas prioritarias del desarrollo, que cuenten con una estructura orgánica análoga a las otras entidades y que tengan comités técnicos.
+Los fideicomisos públicos a que se refiere el artículo 3o., fracción III, de esta Ley, son aquellos que el gobierno federal o alguna de las demás entidades paraestatales constituyen, con el propósito de auxiliar al Ejecutivo Federal en las atribuciones del Estado para impulsar las áreas prioritarias del desarrollo, que cuenten con una estructura orgánica análoga a las otras entidades y que tengan comités técnicos.
 
 En los fideicomisos constituidos por el gobierno federal, la Secretaría de Hacienda y Crédito Público fungirá como fideicomitente único de la Administración Pública Centralizada.
+
+*Párrafo reformado DOF 21-02-1992*
+
+*Artículo reformado DOF 14-05-1986*
 
 #### Artículo 48.
 
 A fin de que se pueda llevar a efecto la intervención que, conforme a las leyes, corresponde al Ejecutivo Federal en la operación de las entidades de la Administración Pública Paraestatal, el Presidente de la República las agrupará por sectores definidos, considerando el objeto de cada una de dichas entidades en relación con la esfera de competencia que ésta y otras leyes atribuyen a las Secretarías de Estado.
 
+*Artículo reformado DOF 29-12-1982, 14-05-1986, 09-04-2012*
+
 #### Artículo 49.
 
-La intervención a que se refiere el Artículo anterior se realizará a través de la dependencia que corresponda según el agrupamiento que por sectores haya realizado el propio Ejecutivo, la cual fungirá como coordinadora del sector respectivo.
+La intervención a que se refiere el artículo anterior se realizará a través de la dependencia que corresponda según el agrupamiento que por sectores haya realizado el propio Ejecutivo, la cual fungirá como coordinadora del sector respectivo.
 
 Corresponde a los coordinadores de sector coordinar la programación y presupuestación, conocer la operación, evaluar los resultados y participar en los órganos de gobierno de las entidades agrupadas en el sector a su cargo, conforme a lo dispuesto en las leyes.
 
 Atendiendo a la naturaleza de las actividades de dichas entidades, el titular de la dependencia coordinadora podrá agruparlas en subsectores, cuando así convenga para facilitar su coordinación y dar congruencia al funcionamiento de las citadas entidades.
 
+*Artículo reformado DOF 04-01-1982, 14-05-1986*
+
 #### Artículo 49 Bis.
 
 (Se deroga).
+
+*Artículo adicionado DOF 30-12-1983. Fe de erratas DOF 18-04-1984. Derogado DOF 14-05-1986*
 
 #### Artículo 50.
 
@@ -1536,29 +2084,43 @@ Las relaciones entre el Ejecutivo Federal y las entidades paraestatales, para fi
 
 Las Secretarías de Hacienda y Crédito Público y de la Función Pública emitirán los criterios para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
 
+*Artículo reformado DOF 29-12-1982, 14-05-1986, 21-02-1992, 02-01-2013, 18-07-2016*
+
 #### Artículo 51.
 
 (Se deroga).
+
+*Artículo reformado DOF 29-12-1982. Derogado DOF 14-05-1986*
 
 #### Artículo 52.
 
 (Se deroga).
 
+*Artículo reformado DOF 29-12-1982. Derogado DOF 14-05-1986*
+
 #### Artículo 53.
 
 (Se deroga).
+
+*Artículo derogado DOF 14-05-1986*
 
 #### Artículo 54.
 
 (Se deroga).
 
+*Artículo derogado DOF 14-05-1986*
+
 #### Artículo 55.
 
 (Se deroga).
 
+*Artículo adicionado DOF 29-12-1982. Derogado DOF 14-05-1986*
+
 #### Artículo 56.
 
 (Se deroga).
+
+*Artículo adicionado DOF 29-12-1982. Derogado DOF 14-05-1986*
 
 ## TRANSITORIOS
 
@@ -1579,6 +2141,8 @@ México, D.F., a 22 de diciembre de 1976.- Hilda Anderson Nevarez de Rojas, S. P
 En Cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veinticuatro días del mes de diciembre de mil novecientos setenta y seis.- José López Portillo. - Rúbrica.-El Secretario de Gobernación, Jesús Reyes Heroles.-Rúbrica.
 
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
+
+A partir de 1993
 
 ### LEY del Banco de México.
 
@@ -2176,6 +2740,8 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 **PRIMERO.** El presente Decreto entrará en vigor una vez que haya entrado en vigor el Código Nacional de Procedimientos Penales en la Federación, en todas las Entidades Federativas y del Distrito Federal, en los términos previstos en la declaratoria a que hace referencia el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, sin que pueda exceder del 18 de junio de 2016.
 
+*Artículo reformado DOF 24-12-2014*
+
 **SEGUNDO.** Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
 
 **TERCERO.** Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Federal y las autoridades federales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
@@ -2209,6 +2775,8 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 **Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 **Segundo.-** (Se deroga)
+
+*Artículo derogado DOF 18-07-2016*
 
 **Tercero.-** El Titular del Poder Ejecutivo Federal deberá expedir la reforma a los reglamentos interiores de las Secretarías de Estado afectadas por el presente Decreto, así como de la Oficina de la Presidencia de la República, en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
@@ -2494,7 +3062,11 @@ Los concesionarios y permisionarios de televisión radiodifundida estarán oblig
 
 Aquellos permisionarios o concesionarios de uso público o social, incluyendo las comunitarias e indígenas, que presten el servicio de radiodifusión que no estén en condiciones de iniciar transmisiones digitales al 31 de diciembre de 2015, deberán, con antelación a esa fecha, dar aviso al Instituto Federal de Telecomunicaciones, en los términos previstos en el artículo 157 de la Ley Federal de Telecomunicaciones y Radiodifusión a efecto de que se les autorice la suspensión temporal de sus transmisiones o, en su caso, reduzcan su potencia radiada aparente para que les sea aplicable el programa de continuidad al que se refiere el párrafo siguiente de este artículo. Los plazos que autorice el Instituto en ningún caso excederán del 31 de diciembre de 2016.
 
+*Párrafo adicionado DOF 18-12-2015*
+
 En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
+
+*Párrafo reformado DOF 18-12-2015*
 
 Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
 
@@ -2987,3 +3559,37 @@ Los programas aprobados en el Presupuesto de Egresos de la Federación para el e
 Ciudad de México, a 17 de junio de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de julio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley de Puertos.
+
+*Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016*
+
+**Artículo Primero.-** Se reforman los artículos 30, fracciones V y XX, y 36, fracciones I, XVII y XVIII; y se adicionan las fracciones VII Ter y VII Quáter al artículo 30 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Artículo Primero.-** El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+**Artículo Segundo.-** En tanto el Ejecutivo Federal expida las modificaciones a las disposiciones reglamentarias y administrativas que sean necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se opongan, las disposiciones emitidas con anterioridad a la entrada en vigor de este ordenamiento.
+
+**Artículo Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
+
+**Artículo Cuarto.-** Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes para la ejecución de las funciones que por virtud de este Decreto cambian a la Secretaría de Marina, se transferirán a ésta a más tardar en la fecha de entrada en vigor del mismo.
+
+Las secretarías de Marina y de Comunicaciones y Transportes determinarán la distribución de los recursos humanos que se encuentren adscritos a las capitanías de puerto, atendiendo a las atribuciones que se les confieren conforme al presente Decreto.
+
+Los oficiales mayores de las secretarías de Comunicaciones y Transportes y de Marina serán responsables del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la Administración Pública Federal.
+
+**Artículo Quinto.-** Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la Ley.
+
+**Artículo Sexto.-** Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionan con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última dependencia.
+
+**Artículo Séptimo.-** Dentro del plazo de noventa días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Comunicaciones y Transportes, a través de las Administraciones Portuarias Integrales, dispondrá de instalaciones y recursos materiales, para habilitar las oficinas de servicios a la Marina Mercante, en donde determine la propia Secretaría.
+
+**Artículo Octavo.-** Las menciones a la Secretaría de Comunicaciones y Transportes en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de las atribuciones que se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
+
+Ciudad de México, a 14 de diciembre de 2016.- Sen. Pablo Escudero Morales, Presidente.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Lorena Cuellar Cisneros, Secretaria.- Dip. Raúl Domínguez Rex, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
