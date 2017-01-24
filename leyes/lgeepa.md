@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2016-05-13
+last_reform_dof: 2017-01-24
 articles: 264
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/148_130516.doc
-archived: https://web.archive.org/web/20160606054606/http://www.diputados.gob.mx:80/LeyesBiblio/doc/148_130516.doc
-source_sha256: 434a1d80e12529a73e24ac74694d7fa67a80bb045b3402951fa8bcfb1a42fd33
-retrieved: 2016-06-06
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/148_240117.doc
+archived: https://web.archive.org/web/20170519004806/http://www.diputados.gob.mx:80/LeyesBiblio/doc/148_240117.doc
+source_sha256: 2997aae3ab90d8ddf5dd0f3e039c433633d19c89ef34792f7f961e0cb2787bb7
+retrieved: 2017-05-19
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 13-05-2016
+Última reforma publicada DOF 24-01-2017
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -2034,13 +2034,25 @@ Los ingresos que la Federación perciba por concepto del otorgamiento de permiso
 
 ##### ARTÍCULO 87 BIS 2.
 
-El Gobierno Federal, los gobiernos de los Estados, del Distrito Federal y de los Municipios, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
+El Gobierno Federal, los gobiernos de los Estados, de la Ciudad de México y de los Municipios, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
 
-Corresponde al Gobierno Federal expedir las normas oficiales mexicanas que determinen los principios básicos de trato digno y respetuoso previsto por esta Ley, que incluyen condiciones de cautiverio, exhibición, transporte, alimentación, explotación, entrenamiento, manutención y sacrificio de los animales, así como vigilar su cumplimiento.
+La regulación sobre trato digno y respetuoso se formulará con base a los siguientes principios básicos:
 
-*Párrafo reformado DOF 09-01-2015*
+I. Suministrar a los animales agua y alimento suficientes, a efecto de mantenerlos sanos y con una nutrición adecuada;
 
-*Artículo adicionado DOF 13-12-1996. Reformado DOF 05-11-2013*
+II. Proporcionar a los animales un ambiente adecuado para su descanso, movimiento y estancia, de acuerdo a cada tipo de especie;
+
+III. Suministrar a los animales atención médica preventiva y en caso de enfermedad brindar tratamiento médico expedito avalado por un médico veterinario;
+
+IV. Permitir a los animales la expresión de su comportamiento natural, y
+
+V. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie.
+
+Asimismo, en el ámbito de sus respectivas competencias, establecerán la prohibición de organizar, inducir o provocar peleas de perros, determinando las sanciones correspondientes.
+
+Corresponde al Gobierno Federal expedir las normas oficiales mexicanas que determinen los principios básicos de trato digno y respetuoso previsto por esta Ley, que incluyen condiciones de captura, cautiverio, comercialización, cuarentena, entrenamiento, exhibición, explotación, manutención, transporte, y sacrificio de los animales, así como vigilar su cumplimiento.
+
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 05-11-2013, 09-01-2015, 24-01-2017*
 
 ## TÍTULO TERCERO · Aprovechamiento Sustentable de los Elementos Naturales
 
@@ -4389,3 +4401,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 14 de abril de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Ramón Bañales Arambula, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a once de mayo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 87 Bis 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 24 de enero de 2017*
+
+**Artículo Único.-** Se reforma el artículo 87 Bis 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas competencias, deberán adecuar la legislación en un plazo no mayor a 360 días siguientes al día de su publicación en el Diario Oficial de la Federación, para dar cumplimiento al presente Decreto.
+
+Ciudad de México, a 14 de diciembre de 2016.- Sen. Pablo Escudero Morales, Presidente.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Lorena Cuellar Cisneros, Secretaria.- Dip. Raúl Domínguez Rex, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintitrés de enero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
