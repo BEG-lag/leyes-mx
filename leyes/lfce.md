@@ -3,20 +3,22 @@ title: Ley Federal de Competencia Económica
 abbreviation: LFCE
 slug: lfce
 published_dof: 2014-05-23
-last_reform_dof: null
-articles: 140
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/LFCE.doc
-archived: https://web.archive.org/web/20150315084519/http://www.diputados.gob.mx/LeyesBiblio/doc/LFCE.doc
-source_sha256: bde22abe3f44490ee6ff5c5313c98cf2539e55fb96a148744a568b4d322510bb
-retrieved: 2015-03-15
+last_reform_dof: 2017-01-27
+articles: 138
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LFCE_270117.doc
+archived: https://web.archive.org/web/20181105065431/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LFCE_270117.doc
+source_sha256: af93f3317c81bd4ce83c76440bc926a78073b9af9945a81f7d70c7e60dd40354
+retrieved: 2018-11-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfce.htm
 ---
 
 # LEY FEDERAL DE COMPETENCIA ECONÓMICA
 
+Nueva Ley publicada en el Diario Oficial de la Federación el 23 de mayo de 2014
+
 TEXTO VIGENTE
 
-Nueva Ley publicada en el Diario Oficial de la Federación el 23 de mayo de 2014
+Última reforma publicada DOF 27-01-2017
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -62,7 +64,9 @@ V. Comisión: La Comisión Federal de Competencia Económica;
 
 VI. Comisionado: Cada uno de los siete integrantes del Pleno de la Comisión;
 
-VII. Contraloría: La Contraloría Interna de la Comisión;
+VII. Órgano Interno de Control: El Órgano Interno de Control de la Comisión;
+
+*Fracción reformada DOF 27-01-2017*
 
 VIII. Disposiciones Regulatorias: Las disposiciones administrativas de carácter general que la Comisión podrá emitir para el cumplimiento de su función regulatoria conforme a lo establecido en la fracción IV del párrafo vigésimo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -350,13 +354,17 @@ V. Convocar y conducir las sesiones del Pleno;
 
 VI. Ejecutar los acuerdos y resoluciones adoptados por el Pleno;
 
-VII. Dar cuenta al Comité de Evaluación previsto en el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y a la Cámara de Diputados, de las vacantes que se produzcan en el Pleno o en la Contraloría, según corresponda, a efectos de su nombramiento;
+VII. Dar cuenta al Comité de Evaluación previsto en el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y a la Cámara de Diputados, de las vacantes que se produzcan en el Pleno o en el Órgano Interno de Control, según corresponda, a efectos de su nombramiento;
+
+*Fracción reformada DOF 27-01-2017*
 
 VIII. Proponer anualmente al Pleno el anteproyecto de presupuesto de la Comisión para su aprobación y remitirlo, una vez aprobado, a la Secretaría de Hacienda y Crédito Público para su inclusión en el proyecto de decreto de presupuesto de egresos de la federación;
 
 IX. Presentar para aprobación del Pleno, dentro del mes de enero de cada año, el proyecto del programa anual de trabajo de la Comisión y trimestralmente los proyectos de informes de actividades;
 
-X. Recibir del Contralor Interno los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la Comisión y hacerlos del conocimiento del Pleno;
+X. Recibir del titular del Órgano Interno de Control los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la Comisión y hacerlos del conocimiento del Pleno;
+
+*Fracción reformada DOF 27-01-2017*
 
 XI. Someter a consideración del Pleno cualquier asunto competencia de la Comisión, y
 
@@ -392,7 +400,9 @@ VII. Someter a sabiendas, a la consideración del Pleno, información falsa o al
 
 VIII. No excusarse de conocer y votar los asuntos en que tenga algún interés directo o indirecto.
 
-La Contraloría, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, notificará inmediatamente y sin demora a la Cámara de Senadores del Congreso de la Unión.
+El Órgano Interno de Control, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, notificará inmediatamente y sin demora a la Cámara de Senadores del Congreso de la Unión.
+
+*Párrafo reformado DOF 27-01-2017*
 
 En estos casos, la Cámara de Senadores resolverá sobre la remoción, conforme al siguiente procedimiento:
 
@@ -438,7 +448,9 @@ De cada entrevista se llevará un registro que al menos deberá contener el luga
 
 Esta información deberá publicarse en el sitio de Internet de la Comisión.
 
-Las entrevistas serán grabadas y almacenadas en medios electrónicos, ópticos o de cualquier otra tecnología, manteniéndose como información reservada, salvo para las otras partes en el procedimiento en forma de juicio, los demás Comisionados, el Contralor Interno y el Senado de la República en caso de que esté sustanciando un procedimiento de remoción de un Comisionado. La grabación de cada entrevista deberá estar a disposición de los demás Comisionados.
+Las entrevistas serán grabadas y almacenadas en medios electrónicos, ópticos o de cualquier otra tecnología, manteniéndose como información reservada, salvo para las otras partes en el procedimiento en forma de juicio, los demás Comisionados, el titular del Órgano Interno de Control y el Senado de la República en caso de que esté sustanciando un procedimiento de remoción de un Comisionado. La grabación de cada entrevista deberá estar a disposición de los demás Comisionados.
+
+*Párrafo reformado DOF 27-01-2017*
 
 Los Comisionados no podrán ser recusados por las manifestaciones que realicen durante las entrevistas, salvo que de éstas se advierta que se vulnera el principio de imparcialidad. En su caso, la recusación deberá ser calificada por el Pleno.
 
@@ -544,7 +556,9 @@ En el desempeño de su encargo, el titular de la Autoridad Investigadora será i
 
 ###### Artículo 34.
 
-Cuando las quejas o denuncias se presenten en contra del titular de la Autoridad Investigadora, la Contraloría resolverá lo conducente únicamente cuando el trámite de los casos a los que se refieran las denuncias o quejas haya finalizado.
+Cuando las quejas o denuncias se presenten en contra del titular de la Autoridad Investigadora, el Órgano Interno de Control resolverá lo conducente únicamente cuando el trámite de los casos a los que se refieran las denuncias haya finalizado.
+
+*Artículo reformado DOF 27-01-2017*
 
 ###### Artículo 35.
 
@@ -568,31 +582,43 @@ Para efectos de lo anterior, el titular de la Autoridad Investigadora estará im
 
 En caso de impedimento del titular de la Autoridad Investigadora para conocer de un asunto, dicho titular será suplido por el servidor público que señale el estatuto orgánico de la Comisión.
 
-### TÍTULO IV · DE LA CONTRALORÍA INTERNA DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
+### TÍTULO IV · DEL ÓRGANO INTERNO DE CONTROL DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
+
+*Denominación del Título reformada DOF 27-01-2017*
 
 #### Capítulo I · De su Integración y Funcionamiento
 
 ###### Artículo 37.
 
-La Contraloría es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo la fiscalización de los ingresos y egresos de la Comisión, así como del régimen de responsabilidades de los servidores públicos.
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Comisión y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
-La Contraloría, su titular y el personal adscrito a la misma, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones en materia de libre concurrencia y competencia económica que esta Ley y las demás disposiciones aplicables confieren a los servidores públicos de la Comisión.
+El Órgano Interno de Control, su titular y el personal adscrito al mismo, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones en materia de libre concurrencia y competencia económica que esta Ley y las demás disposiciones aplicables confieren a los servidores públicos de la Comisión.
+
+*Artículo reformado DOF 27-01-2017*
 
 ###### Artículo 38.
 
-La Contraloría tendrá un titular que la representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto, el que se determinará en el estatuto orgánico de la Comisión.
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto, el que se determinará en el estatuto orgánico de la Comisión.
+
+*Artículo reformado DOF 27-01-2017*
 
 #### Capítulo II · De sus Atribuciones
 
 ###### Artículo 39.
 
-La Contraloría tendrá las siguientes atribuciones:
+El Órgano Interno de Control tendrá las siguientes atribuciones:
 
-I. Fijar los procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos de la Comisión;
+*Párrafo reformado DOF 27-01-2017*
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas;
+
+*Fracción reformada DOF 27-01-2017*
 
 II. Verificar que el ejercicio de gasto de la Comisión se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
 
-III. Formular pliegos de observaciones en materia administrativa, así como fincar directamente a los responsables las indemnizaciones y sanciones correspondientes, previo procedimiento de responsabilidades conforme a la Ley;
+III. Se deroga.
+
+*Fracción derogada DOF 27-01-2017*
 
 IV. Presentar al Pleno de la Comisión los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la Comisión;
 
@@ -602,43 +628,69 @@ VI. Promover ante las instancias correspondientes, las acciones administrativas 
 
 VII. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión;
 
-VIII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine la propia Contraloría;
+VIII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el Órgano Interno de Control;
+
+*Fracción reformada DOF 27-01-2017*
 
 IX. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Comisión, empleando la metodología que determine;
 
-X. Recibir quejas o denuncias directamente relacionadas con el uso y disposición de los ingresos y recursos de la Comisión por parte de los servidores públicos de la misma y desahogar los procedimientos a que haya lugar;
+X. Recibir quejas y denuncias conforme a las leyes aplicables;
 
-XI. Instruir, desahogar y resolver los procedimientos administrativos en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos respecto de las quejas que se presenten en contra de los servidores públicos de la Comisión;
+*Fracción reformada DOF 27-01-2017*
 
-XII. Dictar medidas preventivas para la corrección de las posibles irregularidades administrativas que se detecten durante el trámite de las quejas y denuncias y, en su caso, dictar las medidas para su corrección o remedio inmediato cuando se compruebe la existencia de la infracción motivo de la queja o denuncia;
+XI. Se deroga
+
+*Fracción derogada DOF 27-01-2017*
+
+XII. Se deroga
+
+*Fracción derogada DOF 27-01-2017*
 
 XIII. Solicitar la información y efectuar visitas a las áreas y órganos de la Comisión para el cumplimento de sus funciones;
 
-XIV. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en los términos de las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas, y sus Reglamentos;
+XIV. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas;
 
-XV. Integrar y mantener actualizado el registro de los servidores públicos de la Comisión que hayan sido sancionados por la Contraloría;
+*Fracción reformada DOF 27-01-2017*
+
+XV. Se deroga.
+
+*Fracción derogada DOF 27-01-2017*
 
 XVI. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión de mandos medios y superiores, en los términos de la normativa aplicable;
 
-XVII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que la Contraloría forme parte, e intervenir en los actos que se deriven de los mismos;
+XVII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
 
-XVIII. Llevar el registro, seguimiento y evaluación de la situación patrimonial de los servidores públicos de la Comisión; así como emitir los procedimientos, formatos, medios magnéticos y electrónicos, conforme los cuales se presentarán las declaraciones de situación patrimonial, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+*Fracción reformada DOF 27-01-2017*
 
-XIX. Integrar y administrar el registro a que se refiere el artículo 45 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+XVIII. Se deroga.
 
-XX. Tramitar y resolver los recursos que se promuevan en contra de las resoluciones que emita en ejercicio de sus facultades, en los términos establecidos en las leyes y ordenamientos aplicables;
+*Fracción derogada DOF 27-01-2017*
 
-XXI. Llevar a cabo la defensa jurídica en los juicios que se promuevan en contra de sus resoluciones, en los términos que las Leyes aplicables señalen;
+XIX. Se deroga
+
+*Fracción derogada DOF 27-01-2017*
+
+XX. Se deroga
+
+*Fracción derogada DOF 27-01-2017*
+
+XXI. Se deroga
+
+*Fracción derogada DOF 27-01-2017*
 
 XXII. Atender las solicitudes de los diferentes órganos de la Comisión en los asuntos de su competencia;
 
 XXIII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
 
-XXIV. Formular el anteproyecto de presupuesto de la Contraloría;
+XXIV. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
+
+*Fracción reformada DOF 27-01-2017*
 
 XXV. Presentar al Pleno de la Comisión los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Comisionado Presidente;
 
-XXVI. Presentar al Pleno de la Comisión los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones a los servidores públicos de la Comisión, y
+XXVI. Presentar al Pleno de la Comisión los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
+
+*Fracción reformada DOF 27-01-2017*
 
 XXVII. Las demás que le confieran otros ordenamientos.
 
@@ -646,75 +698,97 @@ XXVII. Las demás que le confieran otros ordenamientos.
 
 ###### Artículo 40.
 
-El titular de la Contraloría será designado por la Cámara de Diputados del Congreso de la Unión, con el voto de las dos terceras partes de sus miembros presentes.
+El titular del Órgano Interno de Control será designado por la Cámara de Diputados del Congreso de la Unión, con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+*Artículo reformado DOF 27-01-2017*
 
 ###### Artículo 41.
 
-El titular de la Contraloría deberá reunir los siguientes requisitos:
+El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+*Párrafo reformado DOF 27-01-2017*
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
+
+*Fracción reformada DOF 27-01-2017*
 
 II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
 
-III. Contar al momento de su designación con experiencia profesional de al menos cinco años en el control o fiscalización de recursos;
+III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
 
-IV. Contar con reconocida solvencia moral;
+*Fracción reformada DOF 27-01-2017*
 
-V. Poseer al día de su designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura en derecho, contaduría pública u otro relacionado en forma directa con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
+IV. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
 
-VI. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión, o haber fungido como consultor o auditor externo de la Comisión en lo individual durante ese periodo, y
+*Fracción reformada DOF 27-01-2017*
 
-VII. No haber ocupado ningún cargo o haber fungido como representante legal de Agentes Económicos que hayan estado sujetos a alguno de los procedimientos previstos en esta Ley, en los últimos cuatro años previo a su nombramiento.
+V. Contar con reconocida solvencia moral;
+
+*Fracción reformada DOF 27-01-2017*
+
+VI. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión, o haber fungido como consultor o auditor externo de la Comisión en lo individual durante ese periodo o haber prestado los servicios referidos a un agente regulado por la legislación correspondiente a la Comisión;
+
+*Fracción reformada DOF 27-01-2017*
+
+VII. No haber ocupado ningún cargo directivo o haber representado de cualquier forma los intereses regulados por la legislación correspondiente a la Comisión, durante los cuatro años previos a su nombramiento;
+
+*Fracción reformada DOF 27-01-2017*
+
+VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+*Fracción adicionada DOF 27-01-2017*
+
+IX. No haber sido Secretario de Estado, Procurador General de la República o de Justicia de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
+
+*Fracción adicionada DOF 27-01-2017*
 
 ###### Artículo 42.
 
-El titular de la Contraloría durará en su encargo cuatro años y podrá ser reelecto por una sola vez; tendrá un nivel jerárquico equivalente al del titular de la Autoridad Investigadora y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior de la Federación a que se refiere el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
+El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 
-Concluido su encargo, por un plazo equivalente a una tercera parte del tiempo en que haya ejercido su función, el titular de la Contraloría no podrá desempeñarse como consejero, administrador, director, gerente, directivo, ejecutivo, agente, representante o apoderado de un Agente Económico que haya estado sujeto a alguno de los procedimientos sancionatorios previstos en esta Ley en el tiempo en que duró su encargo.
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica de la Comisión, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior de la Federación a que se refiere el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Concluido su encargo, por un plazo equivalente a una tercera parte del tiempo en que haya ejercido su función, el titular del Órgano Interno de Control no podrá desempeñarse como consejero, administrador, director, gerente, directivo, ejecutivo, agente, representante o apoderado de un Agente Económico que haya estado sujeto a alguno de los procedimientos sancionatorios previstos en esta Ley en el tiempo en que duró su encargo.
+
+El titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades a la Comisión, del cual marcará copia a la Cámara de Diputados.
+
+*Artículo reformado DOF 27-01-2017*
 
 ###### Artículo 43.
 
-En el desempeño de su cargo, el titular de la Contraloría se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia.
+En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas.
 
-#### Capítulo IV · De la Responsabilidad del Titular de la Contraloría
+*Artículo reformado DOF 27-01-2017*
+
+#### Capítulo IV · De la Responsabilidad del Titular del Órgano Interno de Control
+
+*Denominación del Capítulo reformada DOF 27-01-2017*
 
 ###### Artículo 44.
 
-Cuando las quejas o denuncias se presenten en contra del titular de la Contraloría, la Cámara de Diputados del Congreso de la Unión resolverá sobre la aplicación de las sanciones que correspondan, incluida entre éstas la destitución, conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos mediante el siguiente procedimiento:
+El titular del Órgano Interno de Control de la Comisión será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
 
-I. La Cámara de Diputados del Congreso de la Unión acordará la creación de una Comisión Especial en términos de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, que fungirá como instructora en el procedimiento;
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Comisión, serán sancionados por el titular del Órgano Interno de Control o el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas.
 
-II. La Comisión Especial citará al titular de la Contraloría a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de responsabilidad en los términos de esta Ley, y demás disposiciones aplicables. En la notificación deberá expresarse el lugar, día y hora en que tendrá verificativo la audiencia; los actos u omisiones que se le imputen, y el derecho de éste a comparecer asistido de un defensor. La notificación a que se refiere esta fracción se practicará de manera personal. Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días;
-
-III. Concluida la audiencia, se concederá al titular de la Contraloría un plazo de cinco días para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y
-
-IV. Desahogadas las pruebas que fueren admitidas, la Comisión Especial dentro de los cuarenta y cinco días siguientes someterá el dictamen con proyecto de resolución al Pleno de la Cámara de Diputados.
-
-La remoción requerirá del voto de las dos terceras partes de los miembros presentes en la sesión. La Mesa Directiva será la encargada de notificar la resolución correspondiente y ejecutar las sanciones.
+*Artículo reformado DOF 27-01-2017*
 
 ###### Artículo 45.
 
-El titular de la Contraloría podrá ser destituido por las siguientes causas graves de responsabilidad administrativa:
+El titular del Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos de la Comisión, de conformidad con la Ley General del Sistema Nacional Anticorrupción y la Ley General de Responsabilidades Administrativas.
 
-I. Utilizar en beneficio propio o de terceros la documentación e Información Confidencial en los términos de la presente Ley y de la legislación en la materia;
-
-II. Dejar, sin causa justificada, de fincar responsabilidades o aplicar sanciones pecuniarias, en el ámbito de su competencia, cuando esté debidamente comprobada la responsabilidad e identificado el responsable como consecuencia de las revisiones e investigaciones que realice en el ejercicio de sus atribuciones;
-
-III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su encargo tenga a su cuidado o custodia o que exista en la Contraloría con motivo del ejercicio de sus atribuciones;
-
-IV. Conducirse con parcialidad en los procedimientos de supervisión e imposición de sanciones, y
-
-V. Notificar a sabiendas, al Senado de la República, información falsa o alterada respecto de una causa de remoción de los Comisionados.
+*Artículo reformado DOF 27-01-2017*
 
 #### Capítulo V · De las Prohibiciones
 
 ###### Artículo 46.
 
-El titular de la Contraloría se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes. Asimismo, estará impedido y deberá excusarse inmediatamente de conocer asuntos en los que existan una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad.
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
 
-Para efectos de lo anterior, el titular de la Contraloría estará impedido para conocer de un asunto cuando se actualice alguno de los casos de impedimento previstos en esta Ley para los Comisionados.
+Para efectos de lo anterior, el titular del Órgano Interno de Control estará impedido para conocer de un asunto cuando se actualice alguno de los casos de impedimento previstos en esta Ley para los Comisionados.
 
-En caso de impedimento del titular de la Contraloría para conocer de un asunto, dicho titular será suplido por el servidor público con el segundo nivel de mayor jerarquía de la Contraloría, de conformidad con lo establecido en el estatuto orgánico de la Comisión.
+En caso de impedimento del titular del Órgano Interno de Control para conocer de un asunto, dicho titular será suplido por el servidor público con el segundo nivel de mayor jerarquía del Órgano Interno de Control, de conformidad con lo establecido en el estatuto orgánico de la Comisión.
+
+*Artículo reformado DOF 27-01-2017*
 
 ### TÍTULO V · DE LA ADMINISTRACIÓN DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
@@ -768,7 +842,9 @@ II. Desempeño de la Comisión en relación con sus objetivos y metas estratégi
 
 III. Un resumen de las opiniones emitidas por la Comisión, así como de las consultas planteadas ante ésta;
 
-IV. Reporte del gasto correspondiente al ejercicio inmediato anterior, incluyendo las observaciones relevantes que, en su caso, haya formulado la Contraloría, y
+IV. Reporte del gasto correspondiente al ejercicio inmediato anterior, incluyendo las observaciones relevantes que, en su caso, haya formulado el Órgano Interno de Control, y
+
+*Fracción reformada DOF 27-01-2017*
 
 V. Reporte, resumen, justificación y efectos de los procedimientos y resoluciones emitidas de conformidad con el artículo 94 de esta Ley.
 
@@ -2044,33 +2120,7 @@ III. Publicado el informe al que se refiere la fracción anterior, la Comisión 
 
 Las directrices, guías, lineamientos y criterios técnicos referidos en este artículo, deberán revisarse por lo menos cada cinco años, de conformidad con lo señalado en el artículo 12, fracción XXII, de esta Ley.
 
-ARTÍCULO SEGUNDO.- Se reforma el artículo 254 bis y se adiciona un artículo 254 bis 1 al Código Penal Federal, para quedar como sigue:
-
-###### Artículo 254 bis.
-
-Se sancionará con prisión de cinco a diez años y con mil a diez mil días de multa, a quien celebre, ordene o ejecute contratos, convenios, arreglos o combinaciones entre agentes económicos competidores entre sí, cuyo objeto o efecto sea cualquiera de los siguientes:
-
-I. Fijar, elevar, concertar o manipular el precio de venta o compra de bienes o servicios al que son ofrecidos o demandados en los mercados;
-
-II. Establecer la obligación de no producir, procesar, distribuir, comercializar o adquirir sino solamente una cantidad restringida o limitada de bienes o la prestación o transacción de un número, volumen o frecuencia restringidos o limitados de servicios;
-
-III. Dividir, distribuir, asignar o imponer porciones o segmentos de un mercado actual o potencial de bienes y servicios, mediante clientela, proveedores, tiempos o espacios determinados o determinables;
-
-IV. Establecer, concertar o coordinar posturas o la abstención en las licitaciones, concursos, subastas o almonedas, y
-
-V. Intercambiar información con alguno de los objetos o efectos a que se refieren las anteriores fracciones.
-
-El delito previsto en este artículo se perseguirá por querella de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, según corresponda, la cual sólo podrá formularse con el dictamen de probable responsabilidad, en los términos de lo dispuesto en la Ley Federal de Competencia Económica.
-
-No existirá responsabilidad penal para los agentes económicos que se acojan al beneficio a que se refiere el artículo 103 de la Ley Federal de Competencia Económica, previa resolución de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones que determine que cumple con los términos establecidos en dicha disposición y las demás aplicables.
-
-Los procesos seguidos por este delito se podrán sobreseer a petición del Pleno de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, cuando los procesados cumplan las sanciones administrativas impuestas y, además se cumplan los requisitos previstos en los criterios técnicos emitidos por la Comisión Federal de Competencia Económica o el Instituto Federal de Telecomunicaciones.
-
-La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad a que se refiere el primer párrafo de este artículo.
-
-###### Artículo 254 bis 1.
-
-Se sancionará con prisión de uno a tres años y con quinientos a cinco mil días de multa, a quien por sí o por interpósita persona, en la práctica de una visita de verificación, por cualquier medio altere, destruya o perturbe de forma total o parcial documentos, imágenes o archivos electrónicos que contengan información o datos, con el objeto de desviar, obstaculizar o impedir la investigación de un posible hecho delictuoso o la práctica de la diligencia administrativa.
+ARTÍCULO SEGUNDO.- ……….
 
 ## TRANSITORIOS
 
@@ -2093,3 +2143,35 @@ Los procedimientos que se encuentren en trámite a la entrada en vigor del prese
 México, D.F., a 29 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley Federal de Telecomunicaciones y Radiodifusión, de la Ley del Sistema Nacional de Información Estadística y Geográfica, de la Ley General de Instituciones y Procedimientos Electorales, de la Ley del Instituto Nacional para la Evaluación de la Educación, de la Ley Federal de Transparencia y Acceso a la Información Pública, y de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 27 de enero de 2017*
+
+**Artículo Primero.** Se reforman los artículos 3, fracción VII; 20, fracciones VII y X; 23, párrafo segundo; 25, párrafo quinto; 34; la denominación del Título IV para quedar como "Del Órgano Interno de Control de la Comisión Federal de Competencia Económica"; 37; 38; 39, primer párrafo, fracciones I, VIII, X, XIV, XVII, XXIV y XXVI; 40; 41, primer párrafo, fracciones I, III, IV, V, VI, VII, VIII y IX; 42; 43; la denominación del Capítulo IV del Título IV "De la Responsabilidad del Titular del Órgano Interno de Control"; 44; 45; 46; 49, fracción IV; y se derogan las fracciones III, XI, XII, XV, XVIII, XIX, XX y XXI del artículo 39 de la Ley Federal de Competencia Económica, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+**Tercero.** Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+**Cuarto.** Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+
+**Quinto.** Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+**Sexto.** Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+**Séptimo.** El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
+
+Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de enero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
