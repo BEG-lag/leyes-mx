@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2016-08-15
+last_reform_dof: 2017-02-24
 articles: 136
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_150816.doc
-archived: https://web.archive.org/web/20161109030525/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_150816.doc
-source_sha256: de83bfde4109968e24a55612bf89d4d926bbc2c10e59866eaee1aaa2f35d4633
-retrieved: 2016-11-09
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_240217.doc
+archived: https://web.archive.org/web/20170516212557/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_240217.doc
+source_sha256: ded0c574319b63a473fa4d521821d62741e88514d4868951194c5b831ade70a3
+retrieved: 2017-05-16
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 15-08-2016
+Última reforma publicada DOF 24-02-2017
 
 > Notas de vigencia:
 > Relativas al Decreto en materia política-electoral publicado en el DOF 10-02-2014:
@@ -782,6 +782,10 @@ La ley establecerá los mecanismos que faciliten la organización y la expansió
 La ley alentará y protegerá la actividad económica que realicen los particulares y proveerá las condiciones para que el desenvolvimiento del sector privado contribuya al desarrollo económico nacional, promoviendo la competitividad e implementando una política nacional para el desarrollo industrial sustentable que incluya vertientes sectoriales y regionales, en los términos que establece esta Constitución.
 
 *Párrafo reformado DOF 05-06-2013, 20-12-2013*
+
+A fin de contribuir al cumplimiento de los objetivos señalados en los párrafos primero, sexto y noveno de este artículo, las autoridades de todos los órdenes de gobierno, en el ámbito de su competencia, deberán implementar políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establezca la ley general en la materia.
+
+*Párrafo adicionado DOF 05-02-2017*
 
 *Artículo reformado DOF 03-02-1983*
 
@@ -2207,9 +2211,9 @@ Las leyes generales contemplarán también la distribución de competencias y la
 
 b) La legislación que establezca los delitos y las faltas contra la Federación y las penas y sanciones que por ellos deban imponerse; así como legislar en materia de delincuencia organizada;
 
-c) La legislación única en materia procedimental penal, de mecanismos alternativos de solución de controversias, de ejecución de penas y de justicia penal para adolescentes, que regirá en la República en el orden federal y en el fuero común.
+c) La legislación única en materia procedimental penal, de mecanismos alternativos de solución de controversias en materia penal, de ejecución de penas y de justicia penal para adolescentes, que regirá en la República en el orden federal y en el fuero común.
 
-*Inciso reformado DOF 02-07-2015*
+*Inciso reformado DOF 02-07-2015, 05-02-2017*
 
 Las autoridades federales podrán conocer de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales o delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta.
 
@@ -2280,6 +2284,10 @@ g) Producción y consumo de cerveza.
 Las entidades federativas participarán en el rendimiento de estas contribuciones especiales, en la proporción que la ley secundaria federal determine. Las legislaturas locales fijarán el porcentaje correspondiente a los Municipios, en sus ingresos por concepto del impuesto sobre energía eléctrica.
 
 *Fracción recorrida (antes fracción XXXI) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Fracción reformada DOF 24-10-1942*
+
+XXIX-A. Para expedir la ley general que establezca los principios y bases en materia de mecanismos alternativos de solución de controversias, con excepción de la materia penal;
+
+*Fracción adicionada DOF 05-02-2017*
 
 XXIX-B. Para legislar sobre las características y uso de la Bandera, Escudo e Himno Nacionales.
 
@@ -2363,9 +2371,9 @@ XXIX-Q. Para legislar sobre iniciativa ciudadana y consultas populares.
 
 *Fracción adicionada DOF 09-08-2012*
 
-XXIX-R.- Para expedir la ley general que armonice y homologue la organización y el funcionamiento de los registros públicos inmobiliarios y de personas morales de las entidades federativas y los catastros municipales;
+XXIX-R. Para expedir las leyes generales que armonicen y homologuen la organización y el funcionamiento de los registros civiles, los registros públicos inmobiliarios y de personas morales de las entidades federativas y los catastros municipales;
 
-*Fracción adicionada DOF 27-12-2013*
+*Fracción adicionada DOF 27-12-2013. Reformada DOF 05-02-2017*
 
 XXIX-S. Para expedir las leyes generales reglamentarias que desarrollen los principios y bases en materia de transparencia gubernamental, acceso a la información y protección de datos personales en posesión de las autoridades, entidades, órganos y organismos gubernamentales de todos los niveles de gobierno.
 
@@ -2390,6 +2398,14 @@ XXIX-W. Para expedir leyes en materia de responsabilidad hacendaria que tengan p
 XXIX-X. Para expedir la ley general que establezca la concurrencia de la federación, las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de las víctimas.
 
 *Fracción adicionada DOF 25-07-2016*
+
+XXIX-Y. Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de sus respectivas competencias, en materia de mejora regulatoria;
+
+*Fracción adicionada DOF 05-02-2017*
+
+XXIX-Z. Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de su respectiva competencia, en materia de justicia cívica e itinerante, y
+
+*Fracción adicionada DOF 05-02-2017*
 
 XXX. Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
 
@@ -3509,7 +3525,9 @@ c) En materia civil, cuando se reclamen sentencias definitivas dictadas en juici
 
 En los juicios civiles del orden federal las sentencias podrán ser reclamadas en amparo por cualquiera de las partes, incluso por la Federación, en defensa de sus intereses patrimoniales, y
 
-d) En materia laboral, cuando se reclamen laudos dictados por las Juntas Locales o la Federal de Conciliación y Arbitraje, o por el Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado;
+d) En materia laboral, cuando se reclamen resoluciones o sentencias definitivas que pongan fin al juicio dictadas por los tribunales laborales locales o federales o laudos del Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y sus homólogos en las entidades federativas;
+
+*Inciso reformado DOF 24-02-2017*
 
 La Suprema Corte de Justicia, de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, del Fiscal General de la República, en los asuntos en que el Ministerio Público de la Federación sea parte, o del Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, podrá conocer de los amparos directos que por su interés y trascendencia así lo ameriten.
 
@@ -4437,21 +4455,51 @@ XVI. Tanto los obreros como los empresarios tendrán derecho para coaligarse en 
 
 XVII. Las leyes reconocerán como un derecho de los obreros y de los patronos, las huelgas y los paros.
 
-XVIII. Las huelgas serán lícitas cuando tengan por objeto conseguir el equilibrio entre los diversos factores de la producción, armonizando los derechos del trabajo con los del capital. En los servicios públicos será obligatorio para los trabajadores dar aviso, con diez días de anticipación, a la Junta de Conciliación y Arbitraje, de la fecha señalada para la suspensión del trabajo. Las huelgas serán consideradas como ilícitas únicamente cuando la mayoría de los huelguistas ejerciera actos violentos contra las personas o las propiedades, o en caso de guerra, cuando aquéllos pertenezcan a los establecimientos y servicios que dependan del Gobierno.
+XVIII. Las huelgas serán lícitas cuando tengan por objeto conseguir el equilibrio entre los diversos factores de la producción, armonizando los derechos del trabajo con los del capital. En los servicios públicos será obligatorio para los trabajadores dar aviso, con diez días de anticipación, a los tribunales laborales, de la fecha señalada para la suspensión del trabajo. Las huelgas serán consideradas como ilícitas únicamente cuando la mayoría de los huelguistas ejerciera actos violentos contra las personas o las propiedades, o en caso de guerra, cuando aquéllos pertenezcan a los establecimientos y servicios que dependan del Gobierno.
 
-*Fracción reformada DOF 31-12-1938*
+Cuando se trate de obtener la celebración de un contrato colectivo de trabajo se deberá acreditar que se cuenta con la representación de los trabajadores.
 
-XIX. Los paros serán lícitos únicamente cuando el exceso de producción haga necesario suspender el trabajo para mantener los precios en un límite costeable, previa aprobación de la Junta de Conciliación y Arbitraje.
+*Fracción reformada DOF 31-12-1938, 24-02-2017*
 
-XX. Las diferencias o los conflictos entre el capital y el trabajo, se sujetarán a la decisión de una Junta de Conciliación y Arbitraje, formada por igual número de representantes de los obreros y de los patronos, y uno del Gobierno.
+XIX. Los paros serán lícitos únicamente cuando el exceso de producción haga necesario suspender el trabajo para mantener los precios en un límite costeable, previa aprobación de los tribunales laborales.
 
-XXI. Si el patrono se negare a someter sus diferencias al arbitraje o a aceptar el laudo pronunciado por la Junta, se dará por terminado el contrato de trabajo y quedará abligado (sic DOF 21-11-1962) a indemnizar al obrero con el importe de tres meses de salario, además de la responsabilidad que le resulte del conflicto. Esta disposición no será aplicable en los casos de las acciones consignadas en la fracción siguiente. Si la negativa fuere de los trabajadores, se dará por terminado el contrato de trabajo.
+*Fracción reformada DOF 24-02-2017*
 
-*Fracción reformada DOF 21-11-1962*
+XX. La resolución de las diferencias o los conflictos entre trabajadores y patrones estará a cargo de los tribunales laborales del Poder Judicial de la Federación o de las entidades federativas, cuyos integrantes serán designados atendiendo a lo dispuesto en los artículos 94, 97, 116 fracción III, y 122 Apartado A, fracción IV de esta Constitución, según corresponda, y deberán contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+
+Antes de acudir a los tribunales laborales, los trabajadores y patrones deberán asistir a la instancia conciliatoria correspondiente. En el orden local, la función conciliatoria estará a cargo de los Centros de Conciliación, especializados e imparciales que se instituyan en las entidades federativas. Dichos centros tendrán personalidad jurídica y patrimonio propios. Contarán con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirán por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en las leyes locales.
+
+La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria, con fecha y hora debidamente fijadas de manera expedita. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto. La ley establecerá las reglas para que los convenios laborales adquieran condición de cosa juzgada, así como para su ejecución.
+
+En el orden federal, la función conciliatoria estará a cargo de un organismo descentralizado. Al organismo descentralizado le corresponderá además, el registro de todos los contratos colectivos de trabajo y las organizaciones sindicales, así como todos los procesos administrativos relacionados.
+
+El organismo descentralizado a que se refiere el párrafo anterior contará con personalidad jurídica y patrimonio propios, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en la ley de la materia.
+
+Para la designación del titular del organismo descentralizado a que se refiere el párrafo anterior, el Ejecutivo Federal someterá una terna a consideración de la Cámara de Senadores, la cual previa comparecencia de las personas propuestas, realizará la designación correspondiente. La designación se hará por el voto de las dos terceras partes de los integrantes de la Cámara de Senadores presentes, dentro del improrrogable plazo de treinta días. Si la Cámara de Senadores no resolviere dentro de dicho plazo, ocupará el cargo aquél que, dentro de dicha terna, designe el Ejecutivo Federal.
+
+En caso de que la Cámara de Senadores rechace la totalidad de la terna propuesta, el Ejecutivo Federal someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Ejecutivo Federal.
+
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; y que goce de buena reputación y no haya sido condenado por delito doloso. Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por períodos de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo. Sólo podrá ser removido por causa grave en los términos del Título IV de esta Constitución y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
+
+*Fracción reformada DOF 24-02-2017*
+
+XXI. Si el patrono se negare a someter sus diferencias al arbitraje o a cumplir con la resolución, se dará por terminado el contrato de trabajo y quedará obligado a indemnizar al obrero con el importe de tres meses de salario, además de la responsabilidad que le resulte del conflicto. Esta disposición no será aplicable en los casos de las acciones consignadas en la fracción siguiente. Si la negativa fuere de los trabajadores, se dará por terminado el contrato de trabajo.
+
+*Fracción reformada DOF 21-11-1962, 24-02-2017*
 
 XXII. El patrono que despida a un obrero sin causa justificada o por haber ingresado a una asociación o sindicato, o por haber tomado parte en una huelga lícita, estará obligado, a elección del trabajador, a cumplir el contrato o a indemnizarlo con el importe de tres meses de salario. La Ley determinará los casos en que el patrono podrá ser eximido de la obligación de cumplir el contrato, mediante el pago de una indemnización. Igualmente tendrá la obligación de indemnizar al trabajador con el importe de tres meses de salario, cuando se retire del servicio por falta de probidad del patrono o por recibir de él malos tratamientos, ya sea en su persona o en la de su cónyuge, padres, hijos o hermanos. El patrono no podrá eximirse de esta responsabilidad, cuando los malos tratamientos provengan de dependientes o familiares que obren con el consentimieto (sic DOF 21-11-1962) o tolerancia de él.
 
 *Fracción reformada DOF 21-11-1962*
+
+XXII Bis. Los procedimientos y requisitos que establezca la ley para asegurar la libertad de negociación colectiva y los legítimos intereses de trabajadores y patrones, deberán garantizar, entre otros, los siguientes principios:
+
+a) Representatividad de las organizaciones sindicales, y
+
+b) Certeza en la firma, registro y depósito de los contratos colectivos de trabajo.
+
+Para la resolución de conflictos entre sindicatos, la solicitud de celebración de un contrato colectivo de trabajo y la elección de dirigentes, el voto de los trabajadores será personal, libre y secreto. La ley garantizará el cumplimiento de estos principios. Con base en lo anterior, para la elección de dirigentes, los estatutos sindicales podrán, de conformidad con lo dispuesto en la ley, fijar modalidades procedimentales aplicables a los respectivos procesos.
+
+*Fracción adicionada DOF 24-02-2017*
 
 XXIII. Los créditos en favor de los trabajadores por salario o sueldos devengados en el último año, y por indemnizaciones, tendrán preferencia sobre cualquiera otros en los casos de concurso o de quiebra.
 
@@ -4469,7 +4517,9 @@ XXVII. Serán condiciones nulas y no obligarán a los contrayentes, aunque se ex
 
 a) Las que estipulen una jornada inhumana por lo notoriamente excesiva, dada la índole del trabajo.
 
-b) Las que fijen un salario que no sea remunerador a juicio de las Juntas de Conciliación y Arbitraje.
+b) Las que fijen un salario que no sea remunerador a juicio de los tribunales laborales.
+
+*Inciso reformado DOF 24-02-2017*
 
 c) Las que estipulen un plazo mayor de una semana para la percepción del jornal.
 
@@ -4555,7 +4605,21 @@ b) Empresas:
 
 3\. Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
 
-También será competencia exclusiva de las autoridades federales, la aplicación de las disposiciones de trabajo en los asuntos relativos a conflictos que afecten a dos o más Entidades Federativas; contratos colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa; obligaciones patronales en materia educativa, en los términos de Ley; y respecto a las obligaciones de los patrones en materia de capacitación y adiestramiento de sus trabajadores, así como de seguridad e higiene en los centros de trabajo, para lo cual, las autoridades federales contarán con el auxilio de las estatales, cuando se trate de ramas o actividades de jurisdicción local, en los términos de la ley reglamentaria correspondiente.
+c) Materias:
+
+1\. El registro de todos los contratos colectivos de trabajo y las organizaciones sindicales, así como todos los procesos administrativos relacionados;
+
+2\. La aplicación de las disposiciones de trabajo en los asuntos relativos a conflictos que afecten a dos o más entidades federativas;
+
+3\. Contratos colectivos que hayan sido declarados obligatorios en más de una entidad federativa;
+
+4\. Obligaciones patronales en materia educativa, en los términos de ley, y
+
+5\. Obligaciones de los patrones en materia de capacitación y adiestramiento de sus trabajadores, así como de seguridad e higiene en los centros de trabajo, para lo cual, las autoridades federales contarán con el auxilio de las estatales, cuando se trate de ramas o actividades de jurisdicción local, en los términos de la ley correspondiente.
+
+*Inciso adicionado DOF 24-02-2017*
+
+*Reforma DOF 24-02-2017: Derogó de la fracción el entonces párrafo segundo*
 
 *Fracción adicionada DOF 18-11-1942. Reformada DOF 21-11-1962, 06-02-1975. Fe de erratas DOF 17-03-1975. Reformada DOF 09-01-1978*
 
@@ -7586,3 +7650,79 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 13 de julio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Genoveva Huerta Villegas, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a doce de agosto de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se declaran reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mecanismos Alternativos de Solución de Controversias, Mejora Regulatoria, Justicia Cívica e Itinerante y Registros Civiles.
+
+*Publicado en el Diario Oficial de la Federación el 5 de febrero de 2017*
+
+**Artículo Único.-** Se reforman las fracciones XXI, inciso c) y XXIX-R del artículo 73 y se adicionan un último párrafo al artículo 25 y las fracciones XXIX-A, XXIX-Y y XXIX-Z al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** En un plazo que no excederá de 180 días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión expedirá las leyes generales a que se refieren las fracciones XXIX-A, XXIX-R, XXIX-Y y XXIX-Z de esta Constitución.
+
+**Tercero.-** La ley general en materia de registros civiles a que se refiere la fracción XXIX-R del artículo 73 de esta Constitución deberá prever, al menos: la obligación de trabajar con formatos accesibles de inscripción; la estandarización de actas a nivel nacional; medidas de seguridad física y electrónica; la posibilidad de realizar trámites con firmas digitales; de realizar consultas y emisiones vía remota; el diseño de mecanismos alternos para la atención de comunidades indígenas y grupos en situación de especial vulnerabilidad y marginación; mecanismos homologados de captura de datos; simplificación de procedimientos de corrección, rectificación y aclaración de actas.
+
+Los documentos expedidos con antelación a la entrada en vigor de la ley a que se refiere el segundo transitorio del presente Decreto, continuarán siendo válidos conforme a las disposiciones vigentes al momento de su expedición. Asimismo, los procedimientos iniciados y las resoluciones emitidas con fundamento en dichas disposiciones deberán concluirse y ejecutarse, respectivamente, conforme a las mismas.
+
+**Cuarto.-** La legislación federal y local en materia de mecanismos alternativos de solución de controversias continuará vigente hasta en tanto entre en vigor la legislación a que se refiere el presente Decreto, por lo que los procedimientos iniciados y las sentencias emitidas con fundamento en las mismas, deberán concluirse y ejecutarse, conforme a lo previsto en aquéllas.
+
+**Quinto.-** La legislación en materia de mecanismos alternativos de solución de controversias de la federación y de las entidades federativas deberá ajustarse a lo previsto en la ley general que emita el Congreso de la Unión conforme al artículo 73, fracción XXIX-A de esta Constitución.
+
+**Sexto.-** La ley general en materia de mejora regulatoria a que se refiere el artículo 73, fracción XXIX-Y de esta Constitución deberá considerar al menos, lo siguiente:
+
+a) Un catálogo nacional de regulaciones, trámites y servicios federales, locales y municipales con el objetivo de generar seguridad jurídica a los particulares.
+
+b) Establecer la obligación para las autoridades de facilitar los trámites y la obtención de servicios mediante el uso de las tecnologías de la información, de conformidad con su disponibilidad presupuestaria.
+
+c) La inscripción en el catálogo será obligatoria para todas las autoridades en los términos en que la misma disponga.
+
+**Séptimo.-** La ley general en materia de justicia cívica e itinerante a que se refiere el artículo 73, fracción XXIX-Z de esta Constitución deberá considerar, al menos lo siguiente:
+
+a) Los principios a los que deberán sujetarse las autoridades para que la justicia itinerante sea accesible y disponible a los ciudadanos;
+
+b) Las bases para la organización y funcionamiento de la justicia cívica en las entidades federativas, y
+
+c) Los mecanismos de acceso a la justicia cívica e itinerante y la obligación de las autoridades de cumplir con los principios previstos por la ley.
+
+Las legislaturas de las entidades federativas proveerán de los recursos necesarios para cumplir con lo dispuesto en el presente artículo transitorio.
+
+Ciudad de México, a 2 de febrero de 2017.- Sen. Pablo Escudero Morales, Presidente.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Itzel Sarahí Ríos de la Mora, Secretaria.- Dip. Raúl Domínguez Rex, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Ciudad de Querétaro, a cinco de febrero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral.
+
+*Publicado en el Diario Oficial de la Federación el 24 de febrero de 2017*
+
+**Artículo Único.-** Se reforman el inciso d) de la fracción V del artículo 107; las fracciones XVIII, XIX, XX, XXI y el inciso b) de la fracción XXVII del artículo 123; se adicionan la fracción XXII Bis y el inciso c) a la fracción XXXI del Apartado A del artículo 123, y se elimina el último párrafo de la fracción XXXI del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Congreso de la Unión y las legislaturas de las entidades federativas deberán realizar las adecuaciones legislativas que correspondan para dar cumplimiento a lo previsto en el presente Decreto, dentro del año siguiente a la entrada en vigor del mismo.
+
+**Tercero.** En tanto se instituyen e inician operaciones los tribunales laborales, los Centros de Conciliación y el organismo descentralizado a que se refiere el presente Decreto, de conformidad con el transitorio anterior, las Juntas de Conciliación y Arbitraje y, en su caso, la Secretaría del Trabajo y Previsión Social o las autoridades locales laborales, continuarán atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de los contratos colectivos de trabajo y de organizaciones sindicales.
+
+Los Tribunales Colegiados de Circuito del Poder Judicial de la Federación continuarán conociendo de los amparos interpuestos en contra de los laudos emitidos por las referidas Juntas en términos de lo previsto por la fracción V del artículo 107 de esta Constitución.
+
+Los asuntos que estuvieran en trámite al momento de iniciar sus funciones los tribunales laborales, los Centros de Conciliación y el organismo descentralizado a que se refiere el presente Decreto, serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
+
+**Cuarto.** Dentro del plazo a que se refiere el artículo segundo transitorio de este Decreto, el Ejecutivo Federal someterá a la Cámara de Senadores la terna para la designación del titular del organismo descentralizado que se encargará de atender los asuntos relacionados con el registro de contratos colectivos de trabajo y organizaciones sindicales.
+
+**Quinto.** En cualquier caso, los derechos de los trabajadores que tienen a su cargo la atención de los asuntos a que se refiere el primer párrafo del artículo tercero transitorio, se respetarán conforme a la ley.
+
+**Sexto.** Las autoridades competentes y las Juntas de Conciliación y Arbitraje deberán transferir los procedimientos, expedientes y documentación que, en el ámbito de sus respectivas competencias, tengan bajo su atención o resguardo a los tribunales laborales y a los Centros de Conciliación que se encargarán de resolver las diferencias y los conflictos entre patrones y trabajadores.
+
+Asimismo, las autoridades competentes y las Juntas de Conciliación y Arbitraje deberán transferir los expedientes y documentación que, en el ámbito de sus respectivas competencias tengan bajo su atención o resguardo, al organismo descentralizado que se encargará de atender los asuntos relacionados con el registro de contratos colectivos de trabajo y organizaciones sindicales.
+
+Ciudad de México, a 8 de febrero de 2017.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintitrés de febrero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
