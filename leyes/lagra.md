@@ -3,12 +3,12 @@ title: Ley Agraria
 abbreviation: LAgra
 slug: lagra
 published_dof: 1992-02-26
-last_reform_dof: 2012-04-09
+last_reform_dof: 2017-03-27
 articles: 200
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc
-archived: https://web.archive.org/web/20130626020227/http://www.diputados.gob.mx/LeyesBiblio/doc/13.doc
-source_sha256: 0114165771cd0c6ded3da2f1a1e7f42b5b25e8330831e1655af6b813d1d938a9
-retrieved: 2013-06-26
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/13_270317.doc
+archived: https://web.archive.org/web/20170518230626/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13_270317.doc
+source_sha256: 838edfbebf6369ecee0670c35343b89a4c140567b21f5a437b2ef26fccd0ee4e
+retrieved: 2017-05-18
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lagra.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 26 de febrero de 1
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-04-2012
+Últimas reformas publicadas DOF 27-03-2017
 
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -308,6 +308,10 @@ IV. Las demás que señalen la ley y el reglamento interno del ejido.
 
 Los miembros del comisariado y del consejo de vigilancia, así como sus suplentes, serán electos en asamblea. El voto será secreto y el escrutinio público e inmediato. En caso de que la votación se empate, se repetirá ésta y si volviere a empatarse se asignarán los puestos por sorteo entre los individuos que hubiesen obtenido el mismo número de votos.
 
+Las candidaturas a puestos de elección que integran el comisariado ejidal y el consejo de vigilancia, deberán integrarse por no más del sesenta por ciento de candidatos de un mismo género, pudiendo aspirar a cualquiera de los puestos indistintamente. Para las comisiones y secretarios auxiliares con que cuenta el comisariado ejidal, se procurará la integración de las mujeres.
+
+*Párrafo adicionado DOF 19-12-2016*
+
 ##### Artículo 38.
 
 Para ser miembro de un comisariado o del consejo de vigilancia se requiere ser ejidatario del núcleo de población de que se trate, haber trabajado en el ejido durante los últimos seis meses, estar en pleno goce de sus derechos y no haber sido sentenciado por delito intencional que amerite pena privativa de libertad. Asimismo, deberá trabajar en el ejido mientras dure su encargo.
@@ -520,7 +524,11 @@ En cada ejido la asamblea podrá resolver sobre el deslinde de las superficies q
 
 ##### Artículo 71.
 
-La asamblea podrá reservar igualmente una superficie en la extensión que determine, localizada de preferencia en las mejores tierras colindantes con la zona de urbanización, que será destinada al establecimiento de una granja agropecuaria o de industrias rurales aprovechadas por las mujeres mayores de dieciséis años del núcleo de población. En esta unidad se podrán integrar instalaciones destinadas específicamente al servicio y protección de la mujer campesina.
+La asamblea podrá reservar igualmente una superficie en la extensión que determine, localizada de preferencia en las mejores tierras colindantes con la zona de urbanización, que será destinada al establecimiento de la unidad agrícola industrial de la mujer, la cual deberá ser aprovechada por las mujeres mayores de dieciséis años del núcleo de población.
+
+En esta unidad se podrán integrar instalaciones destinadas específicamente al servicio y protección de la mujer campesina, su objeto será la realización y coordinación de actividades productivas, de asistencia mutua, aprovechamiento de recursos, comercialización o cualquier otra actividad que promueva el desarrollo económico y social de las mujeres dentro del núcleo agrario.
+
+*Artículo reformado DOF 27-03-2017*
 
 ##### Artículo 72.
 
@@ -592,7 +600,9 @@ Para la validez de la enajenación se requiere:
 
 a) La manifestación de conformidad por escrito de las partes ante dos testigos, ratificada ante fedatario público;
 
-b) La notificación por escrito al cónyuge, concubina o concubinario y los hijos del enajenante, quienes, en ese orden, gozarán del derecho del tanto, el cual deberán ejercer dentro del término de treinta días naturales contados a partir de la notificación a cuyo vencimiento caducará tal derecho. Será aceptable para este efecto la renuncia expresada por escrito ante dos testigos e inscrita en el Registro Agrario Nacional, y
+b) La notificación por escrito al cónyuge, concubina o concubinario y los hijos del enajenante, quienes, en ese orden, gozarán del derecho del tanto, el cual deberán ejercer dentro del término de treinta días naturales contados a partir de la notificación a cuyo vencimiento caducará tal derecho. Será aceptable para este efecto la renuncia expresada por escrito ante dos testigos e inscrita en el Registro Agrario Nacional. En caso de que se desconozca el domicilio o ubicación de las personas que gozan del derecho del tanto, se procederá en términos de lo dispuesto por el párrafo tercero del artículo 84 de esta Ley, y
+
+*Inciso reformado DOF 19-12-2016*
 
 c) Dar aviso por escrito al comisariado ejidal.
 
@@ -802,6 +812,10 @@ Los ejidos y comunidades, de igual forma podrán establecer empresas para el apr
 
 Las empresas a que se refieren los dos párrafos anteriores podrán adoptar cualquiera de las formas asociativas previstas por la ley.
 
+Las mujeres pertenecientes a un núcleo agrario sin importar el carácter que tengan dentro del mismo, podrán organizarse como Unidad Agrícola Industrial de la Mujer y éstas a su vez en uniones, cumpliendo con los requisitos que señala el presente Título. La denominación social irá seguida de las palabras Unidad Agrícola Industrial de la Mujer o su abreviatura, UAIM.
+
+*Párrafo adicionado DOF 27-03-2017*
+
 ##### Artículo 109.
 
 Los estatutos de la unión deberán contener lo siguiente: denominación, domicilio y duración; objetivos; capital y régimen de responsabilidad; lista de los miembros y normas para su admisión, separación, exclusión, derechos y obligaciones; órganos de autoridad y vigilancia; normas de funcionamiento; ejercicio y balances; fondos, reservas y reparto de utilidades, así como las normas para su disolución y liquidación.
@@ -860,7 +874,9 @@ La Secretaría de Hacienda y Crédito Público, considerando las personas que pr
 
 ##### Artículo 115.
 
-Para los efectos del párrafo tercero y la fracción XV del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, se consideran latifundios las superficies de tierras agrícolas, ganaderas o forestales que, siendo propiedad de un solo individuo, excedan los límites de la pequeña propiedad.
+En los Estados Unidos Mexicanos, quedan prohibidos los latifundios considerándose como tales a las superficies de tierras agrícolas, ganaderas o forestales que, siendo propiedad de un solo individuo, excedan los límites de la pequeña propiedad.
+
+*Artículo reformado DOF 19-12-2016*
 
 ##### Artículo 116.
 
@@ -1256,7 +1272,9 @@ Los tribunales agrarios, además, conocerán en la vía de jurisdicción volunta
 
 ##### Artículo 166.
 
-Los tribunales agrarios proveerán las diligencias precautorias necesarias para proteger a los interesados. Asimismo, podrán acordar la suspensión del acto de autoridad en materia agraria que pudiere afectarlos en tanto se resuelve en definitiva. La suspensión se regulará aplicando en lo conducente lo dispuesto en el Libro Primero, Título Segundo, Capítulo III de la Ley de Amparo.
+Los tribunales agrarios proveerán las diligencias precautorias necesarias para proteger a los interesados. Asimismo, podrán acordar la suspensión del acto de autoridad en materia agraria que pudiere afectarlos en tanto se resuelve en definitiva. La suspensión se regulará aplicando en lo conducente lo dispuesto en el Título Segundo, Capítulo I, Sección Tercera, primera parte, de la Ley de Amparo.
+
+*Párrafo reformado DOF 19-12-2016*
 
 En la aplicación de las disposiciones de ese ordenamiento para efectos de la suspensión del acto de autoridad en materia agraria, los tribunales agrarios considerarán las condiciones socioeconómicas de los interesados para el establecimiento de la garantía inherente a la reparación del daño e indemnización que pudiere causarse con la suspensión, si la sentencia no fuere favorable para el quejoso.
 
@@ -1398,9 +1416,9 @@ IV. El magistrado podrá hacer libremente las preguntas que juzgue oportunas a c
 
 V. Si el demandado no compareciere o se rehusara a contestar las preguntas que se le hagan, el tribunal podrá tener por ciertas las afirmaciones de la otra parte, salvo cuando se demuestre que no compareció por caso fortuito o fuerza mayor a juicio del propio tribunal; y
 
-VI.- En cualquier estado de la audiencia y en todo caso antes de pronunciar el fallo, el tribunal exhortará a las partes a una composición amigable. Si se lograra la aveniencia, se dará por terminado el juicio y se suscribirá el convenio respectivo, el que una vez calificado y, en su caso, aprobado por el tribunal, tendrá el carácter de sentencia. En caso contrario, el tribunal oirá los alegatos de las partes, para lo cual concederá el tiempo necesario a cada una y en seguida pronunciará su fallo en presencia de ellas de una manera clara y sencilla.
+VI.- En cualquier estado de la audiencia y en todo caso antes de pronunciar el fallo, el tribunal exhortará a las partes a una composición amigable. Si se lograra la avenencia, se dará por terminado el juicio y se suscribirá el convenio respectivo, el cual deberá cumplir con los principios de exhaustividad, congruencia y equidad, el que una vez calificado y, en su caso, aprobado por el tribunal, tendrá el carácter de sentencia ejecutoriada. En caso contrario, el tribunal oirá los alegatos de las partes, para lo cual concederá el tiempo necesario a cada una y en seguida pronunciará su fallo en presencia de ellas de una manera clara y sencilla.
 
-*Fracción reformada DOF 09-07-1993*
+*Fracción reformada DOF 09-07-1993, 27-03-2017*
 
 En caso de que la audiencia no estuviere presidida por el magistrado, lo actuado en ella no producirá efecto jurídico alguno.
 
@@ -1649,3 +1667,99 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se adiciona un segundo párrafo al artículo 37 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016*
+
+**Artículo Único.-** Se adiciona un segundo párrafo al artículo 37 de la Ley Agraria, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 10 de noviembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el primer párrafo del artículo 166 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016*
+
+**Artículo Único.-** Se reforma el primer párrafo del artículo 166 de la Ley Agraria, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 10 de noviembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 115 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016*
+
+**Artículo Único.** Se reforma el artículo 115 de la Ley Agraria, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 10 de noviembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Raúl Domínguez Rex, Secretario.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el inciso b) del artículo 80 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016*
+
+**Artículo Único.-** Se reforma el inciso b) del artículo 80 de la Ley Agraria, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 10 de noviembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 71 y se adiciona un octavo párrafo al artículo 108 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 27 de marzo de 2017*
+
+**Artículo Único.** Se reforma el artículo 71 y se adiciona un octavo párrafo al artículo 108 de la Ley Agraria, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 2 de febrero de 2017.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de marzo de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción VI del artículo 185 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 27 de marzo de 2017*
+
+**Artículo Único.-** Se reforma la fracción VI del artículo 185 de la Ley Agraria, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 2 de febrero de 2017.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de marzo de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
