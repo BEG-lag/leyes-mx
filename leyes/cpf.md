@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2016-07-18
+last_reform_dof: 2017-04-07
 articles: 530
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_180716.doc
-archived: https://web.archive.org/web/20160806131841/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_180716.doc
-source_sha256: b8b89764c23cf092a580ee0bbb6d3a57fdb93568c9f088b9d23cccee38377018
-retrieved: 2016-08-06
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_070417.doc
+archived: https://web.archive.org/web/20170518224845/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_070417.doc
+source_sha256: cc8675174d8bba744d9445d14e293f90d6b52e73f5d2d603d6f5ac686098a68c
+retrieved: 2017-05-18
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 18-07-2016
+Última reforma publicada DOF 07-04-2017
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 >
@@ -1589,7 +1589,7 @@ Si quien propicie la evasión fuese servidor público, se le incrementará la pe
 
 ##### Artículo 151.
 
-El artículo anterior no comprende a los ascendientes, descendientes, cónyuge o hermanos del prófugo, ni a sus parientes por afinidad hasta el segundo grado, pues están exentos de toda sanción, excepto el caso de que hayan proporcionado la fuga por medio de la violencia en las personas o fuerza en las cosas.
+Se deroga.
 
 ##### Artículo 152.
 
@@ -1597,11 +1597,11 @@ Al que favorezca al mismo tiempo, o en un solo acto, la evasión de varias perso
 
 ##### Artículo 153.
 
-Si la reaprehensión del prófugo se lograre por gestiones del responsable de la evasión, se aplicarán a éste de diez a ciento ochenta jornadas de trabajo en favor de la comunidad, según la gravedad del delito imputado al preso o detenido.
+Si la reaprehensión del prófugo se lograre por gestiones del responsable de la evasión, se aplicarán a éste de diez a ciento ochenta jornadas de trabajo en favor de la comunidad, según la gravedad del delito imputado al preso o detenido, salvo lo dispuesto por el artículo 150, segundo párrafo.
 
 ##### Artículo 154.
 
-Al preso que se fugue no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos o ejerciere violencia en las personas, en cuyo caso la pena aplicable será de seis meses a tres años de prisión.
+A la persona privada de su libertad que se fugue, se le impondrán de seis meses a tres años de prisión, esta pena se incrementará en un tercio cuando la persona obre de concierto con otra u otras personas privadas de su libertad y se fugue alguna de ellas o ejerciere violencia en las personas.
 
 #### CAPITULO II · Quebrantamiento de sanción
 
@@ -4605,7 +4605,7 @@ I. Capture, dañe o prive de la vida a algún ejemplar de tortuga o mamífero ma
 
 II. Capture, transforme, acopie, transporte o dañe ejemplares de especies acuáticas declaradas en veda;
 
-II Bis.- De manera dolosa capture, transforme, acopie, transporte, destruya o comercie con las especies acuáticas denominadas abulón y langosta, dentro o fuera de los periodos de veda, sin contar con la autorización que corresponda, en cantidad que exceda 10 kilogramos de peso y cuando las conductas a que se refiere la presente fracción se cometan por una asociación delictuosa, en los términos del artículo 164 de este Código, se estará a lo dispuesto en el artículo 194 del Código Federal de Procedimientos Penales.
+II Bis. De manera dolosa capture, transforme, acopie, transporte, destruya o comercie con las especies acuáticas denominadas abulón, camarón, pepino de mar y langosta, dentro o fuera de los periodos de veda, sin contar con la autorización que corresponda, en cantidad que exceda 10 kilogramos de peso.
 
 III. Realice actividades de caza, pesca o captura con un medio no permitido, de algún ejemplar de una especie de fauna silvestre, o ponga en riesgo la viabilidad biológica de una población o especie silvestres;
 
@@ -6409,3 +6409,35 @@ Los procedimientos iniciados antes de la vigencia de dicha ley continuarán su s
 Ciudad de México, a 17 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. César Octavio Pedroza Gaitán, Secretario.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de julio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 153 y 154, y se deroga el artículo 151 del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 27 de marzo de 2017*
+
+**Artículo Único.-** Se reforman los artículos 153 y 154, y se deroga el artículo 151 del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 2 de febrero de 2017.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de marzo de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 420 del Código Penal Federal y se adiciona el artículo 2o. de la Ley Federal contra la Delincuencia Organizada.
+
+*Publicado en el Diario Oficial de la Federación el 7 de abril de 2017*
+
+**Artículo Primero.-** Se reforma el primer párrafo y la fracción II Bis del artículo 420 del Código Penal Federal, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 21 de febrero de 2017.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de abril de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
