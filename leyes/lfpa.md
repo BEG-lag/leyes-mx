@@ -3,12 +3,12 @@ title: Ley Federal de Procedimiento Administrativo
 abbreviation: LFPA
 slug: lfpa
 published_dof: 1994-08-04
-last_reform_dof: 2012-04-09
+last_reform_dof: 2017-05-02
 articles: 119
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/112.doc
-archived: https://web.archive.org/web/20130626005117/http://www.diputados.gob.mx/LeyesBiblio/doc/112.doc
-source_sha256: 565887fc41670d990338911b57c6834e1607353900eb37cf47d74727cd2ee2f2
-retrieved: 2013-06-26
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/112_020517.doc
+archived: https://web.archive.org/web/20170517101121/http://www.diputados.gob.mx:80/LeyesBiblio/doc/112_020517.doc
+source_sha256: 63f4d171c5469d7155e0c3d3eddcc4bd5bef01e0cfa89acdd64dcca9ca4ad4af
+retrieved: 2017-05-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpa.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 4 de agosto de 199
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-04-2012
+Última reforma publicada DOF 02-05-2017
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -380,9 +380,9 @@ Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de inf
 
 I. Personalmente con quien deba entenderse la diligencia, en el domicilio del interesado;
 
-II. Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo. También podrá realizarse mediante telefax, medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos, y
+II. Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo. También podrá realizarse mediante telefax, medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos, en el caso de comunicaciones electrónicas certificadas, deberán realizarse conforme a los requisitos previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio, y
 
-*Fracción reformada DOF 30-05-2000*
+*Fracción reformada DOF 30-05-2000, 02-05-2017*
 
 III. Por edicto, cuando se desconozca el domicilio del interesado o en su caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal.
 
@@ -1265,3 +1265,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 35, fracción II de la Ley Federal de Procedimiento Administrativo y se reforman y adicionan diversas disposiciones de los artículos 90 Bis, 91 y 92 del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 2 de mayo de 2017*
+
+**Artículo Primero.-** Se reforma la fracción II del artículo 35 de la Ley Federal de Procedimiento Administrativo, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+Ciudad de México, a 14 de marzo de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de abril de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
