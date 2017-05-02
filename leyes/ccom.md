@@ -3,12 +3,12 @@ title: Código de Comercio
 abbreviation: CCom
 slug: ccom
 published_dof: 1889-10-07
-last_reform_dof: 2016-04-07
-articles: 1623
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/3_070416.doc
-archived: https://web.archive.org/web/20160429001436/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3_070416.doc
-source_sha256: fba7f639fc551bea1e93d7a3f55672ca0b460c90806a761615c711fb76135e0f
-retrieved: 2016-04-29
+last_reform_dof: 2017-05-02
+articles: 1640
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/3_020517.doc
+archived: https://web.archive.org/web/20170518231908/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3_020517.doc
+source_sha256: 254cc20980598042d32c7c9f6e1052c2307212faf4e3f908e3debce582600c0f
+retrieved: 2017-05-18
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccom.htm
 ---
 
@@ -18,7 +18,9 @@ Nuevo Código publicado en el Diario Oficial de la Federación del 7 de octubre 
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 07-04-2016
+Última reforma publicada DOF 02-05-2017
+
+> Nota de Vigencia: La adición al Libro Quinto del Título Especial Bis denominado “Del Juicio Ejecutivo Mercantil Oral”, con los artículos 1390 Ter al 1390 Ter 15, publicada en el DOF 25-01-2017, entrará en vigor el 25 de enero de 2018.
 
 El Presidente de la República se ha servido dirigirme el decreto que sigue:
 
@@ -864,7 +866,7 @@ I. A partir del momento en que el Destinatario o la Parte que Confía, haya sido
 
 II. A partir del momento en que el Destinatario o la Parte que Confía, tenga conocimiento, o debiere tenerlo, de haber actuado con la debida diligencia o aplicado algún método convenido, que el Mensaje de Datos no provenía del Emisor.
 
-Salvo prueba en contrario y sin perjuicio del uso de cualquier otro método de verificación de la identidad del Emisor, se presumirá que se actuó con la debida diligencia si el método que usó el Destinatario o la Parte que Confía cumple con los requisitos establecidos en este Código para la verificación de la fiabilidad de las Firmas Electrónicas.
+Salvo prueba en contrario y sin perjuicio del uso de cualquier otro método de verificación de la identidad del Emisor, se presumirá que se actuó con la debida diligencia si el método que usó el Destinatario o la Parte que Confía cumple con los requisitos establecidos en este Código para la verificación de la fiabilidad de las Firmas Electrónicas. Cuando se acuerde el uso de comunicaciones electrónicas certificadas, éstas deberán realizarse conforme a los requisitos previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio.
 
 ###### Artículo 91.
 
@@ -877,6 +879,8 @@ II. De enviarse el Mensaje de Datos a un Sistema de Información del Destinatari
 III. Si el Destinatario no ha designado un Sistema de Información, la recepción tendrá lugar cuando el Mensaje de Datos ingrese a un Sistema de Información del Destinatario.
 
 Lo dispuesto en este artículo será aplicable aun cuando el Sistema de Información esté ubicado en un lugar distinto de donde se tenga por recibido el Mensaje de Datos conforme al artículo 94.
+
+Cuando se acuerde el uso de comunicaciones electrónicas certificadas, éstas deberán realizarse conforme a los requisitos previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio.
 
 ###### Artículo 91 bis.
 
@@ -903,6 +907,8 @@ b) No se haya recibido el acuse de recibo en el plazo solicitado o acordado o, e
 El Emisor podrá dar aviso al Destinatario de que no ha recibido el acuse de recibo solicitado o acordado y fijar un nuevo plazo razonable para su recepción, contado a partir del momento de este aviso. Cuando el Emisor reciba acuse de recibo del Destinatario, se presumirá que éste ha recibido el Mensaje de Datos correspondiente;
 
 IV. Cuando en el acuse de recibo se indique que el Mensaje de Datos recibido cumple con los requisitos técnicos convenidos o establecidos en ley, se presumirá que ello es así.
+
+V. Cuando se acuerde el uso de comunicaciones electrónicas certificadas, éstas deberán realizarse conforme a los requisitos previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio.
 
 ###### Artículo 93.
 
@@ -5616,7 +5622,7 @@ Salvo disposición legal en contrario o que se trate de pruebas supervenientes, 
 
 IV. Además de lo señalado en la fracción III, con la demanda y contestación se acompañarán todos los documentos que las partes tengan en su poder y que deban de servir como pruebas de su parte; y, los que presentaren después, con violación de este precepto, no le serán admitidos, salvo que se trate de pruebas supervenientes, y
 
-V. Copia simple o fotostática siempre que sean legibles a simple vista, tanto del escrito de demanda como de los demás documentos referidos, incluyendo la de los que se exhiban como prueba según los párrafos precedentes para correr traslado a la contraria.
+V. Copia simple o fotostática siempre que sean legibles a simple vista, tanto del escrito de demanda como de los demás documentos referidos, incluyendo la de los que se exhiban como prueba según los párrafos procedentes para correr traslado a la contraria; así como del Registro Federal de Contribuyentes (RFC), de la Clave Única de Registro de Población (CURP) tratándose de personas físicas, en ambos casos cuando exista obligación legal para encontrarse inscrito en dichos registros, y de la identificación oficial del actor o demandado.
 
 Lo dispuesto en la fracción anterior, se observará también respecto de los escritos en que se oponga la excepción de compensación o se promueva reconvención o algún incidente.
 
@@ -5662,7 +5668,7 @@ Para hacer cumplir sus determinaciones el juez puede emplear cualquiera de las s
 
 I. Amonestación;
 
-II. Multa hasta de \$6,896.29, monto que se actualizará en términos del artículo 1253, fracción VI;
+II. Multa hasta de \$7,124.55, monto que se actualizará en términos del artículo 1253, fracción VI;
 
 III. El uso de la fuerza pública y rompimiento de cerraduras si fuere necesaria, y
 
@@ -5691,6 +5697,18 @@ IV. Por edictos que se hagan ostensibles en los sitios públicos de costumbre o 
 V. Por correo certificado, y
 
 VI. Por telégrafo certificado.
+
+###### Artículo 1068 Bis.
+
+El emplazamiento se entenderá con el interesado, su representante, mandatario o procurador, entregando cédula en la que se hará constar la fecha y la hora en que se entregue; la clase de procedimiento, el nombre y apellidos de las partes, en su caso la denominación o razón social, el juez o tribunal que manda practicar la diligencia; transcripción de la determinación que se manda notificar y el nombre y apellidos de la persona a quien se entrega, levantándose acta de la diligencia, a la que se agregará copia de la cédula entregada en la que se procurará recabar la firma de aquel con quien se hubiera entendido la actuación.
+
+El notificador se identificará ante la persona con la que entienda la diligencia; requiriendo a ésta para que a su vez se identifique, asentando su resultado, así como los medios por los que se cerciore de ser el domicilio del buscado, pudiendo pedir la exhibición de documentos que lo acrediten, precisándolos en caso de su presentación, así como aquellos signos exteriores del inmueble que puedan servir de comprobación de haber acudido al domicilio señalado como el del buscado, y las demás manifestaciones que haga la persona con quien se entienda el emplazamiento en cuanto a su relación laboral, de parentesco, de negocios, de habitación o cualquier otra existente con el interesado.
+
+La cédula se entregará a los parientes, empleados o domésticos del interesado o a cualquier otra persona que viva en el domicilio señalado, en caso de no encontrarse el buscado; después de que el notificador se haya cerciorado de que ahí lo tiene la persona que debe ser notificada; se expondrán en todo caso los medios por los cuales el notificador se haya cerciorado de que ahí tiene su domicilio la persona buscada.
+
+Además de la cédula, se entregará copia simple de la demanda debidamente cotejada y sellada más, en su caso, copias simples de los demás documentos que el actor haya exhibido con su demanda.
+
+El actor podrá acompañar al actuario a efectuar el emplazamiento.
 
 ###### Artículo 1069.
 
@@ -5812,7 +5830,7 @@ Cuando se trate de la primera notificación, y ésta deba de hacerse en otro lug
 
 En ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales, salvo los casos de excepción que se señalen por la ley.
 
-La caducidad de la instancia operará de pleno derecho, sea porque se decrete de oficio o a petición de parte, cualquiera que sea el estado del juicio, desde el primer auto que se dicte en el mismo y hasta la citación para oír sentencia, en aquellos casos en que concurran las siguientes circunstancias:
+La caducidad de la instancia operará de pleno derecho, por lo cual es de orden público, irrenunciable y no puede ser materia de convenios entre las partes. Tal declaración podrá ser de oficio, o a petición de parte, cualquiera que sea el estado del juicio, desde el primer auto que se dicte en el mismo y hasta la citación para oír sentencia, en aquellos casos en que concurran las siguientes circunstancias:
 
 a).- Que hayan transcurrido 120 días contados a partir del día siguiente a aquel en que surtió efectos la notificación de la última resolución judicial dictada, y
 
@@ -5824,9 +5842,9 @@ I. Extingue la instancia pero no la acción, convirtiendo en ineficaces las actu
 
 II. Se exceptúa de la ineficacia señalada, las resoluciones firmes de las excepciones procesales que regirán en cualquier juicio que se promoviera. De igual manera las pruebas rendidas en el proceso que se haya declarado caduco podrán invocarse de oficio, o por las partes, en el nuevo proceso que se promueva;
 
-III. La caducidad de la segunda instancia deja firmes las resoluciones apeladas;
+III. La caducidad de la segunda instancia surge si dentro del lapso de 60 días hábiles, contados a partir de la notificación de la última determinación judicial, ninguna de las partes impulsa el procedimiento. El efecto de tal caducidad es declarar firmes las resoluciones o determinaciones materia de apelación;
 
-IV. La caducidad de los incidentes sólo afectará las actuaciones del mismo, sin comprender la instancia principal, aunque haya quedado en suspenso por la resolución de aquél, si transcurren sesenta días;
+IV. La caducidad de los incidentes sólo afectará las actuaciones del mismo, sin comprender la instancia principal, aunque haya quedado en suspenso por la resolución de aquél, si transcurren treinta días hábiles;
 
 V. No ha lugar a la caducidad en los juicios universales de concurso, pero si en aquéllos que se tramiten en forma independiente aunque estén relacionados o surjan de los primeros;
 
@@ -5860,7 +5878,7 @@ II. Nueve días para interponer el recurso de apelación contra sentencia defini
 
 III. Tres días para desahogar la vista que se les dé a las partes en toda clase de incidentes que no tengan tramitación especial;
 
-IV. Tres años para la ejecución de sentencias en juicios ejecutivos y demás especiales que se prevean en las leyes mercantiles y de los convenios judiciales celebrados en ellos;
+IV. Tres años para la ejecución de sentencias en juicios ejecutivos, juicios orales y demás especiales que se prevean en las leyes mercantiles y de los convenios judiciales celebrados en ellos;
 
 V. Cinco años para la ejecución de sentencias en juicios ordinarios y de los convenios judiciales celebrados en ellos, y
 
@@ -6180,7 +6198,7 @@ La excepción de litispendencia procede cuando un juez conoce ya de un juicio en
 
 El que la oponga debe señalar precisamente el juzgado donde se tramita el primer juicio, acompañando copia autorizada de las constancias que tenga en su poder, o solicitando la inspección de los autos. En este último supuesto la inspección deberá practicarse por el secretario, en el caso de que se trate de juzgados radicados en la misma población dentro del plazo de tres días, a quien de no hacerla en ese término se le impondrá una multa del equivalente al importe de un día de su salario.
 
-Si se declara procedente, se remitirán los autos al juzgado que previno en el conocimiento del negocio, cuando ambos jueces se encuentren dentro de la jurisdicción del mismo tribunal de apelación para que se acumulen y se tramiten como uno decidiéndose en una sola sentencia.
+Si se declara procedente, se dará por concluido el segundo procedimiento.
 
 El que oponga la litispendencia por existir un primer juicio ante juzgado que no se encuentre en la misma población, o que no pertenezca a la misma jurisdicción de apelación, sólo podrá acreditarla con las copias autorizadas o certificadas de la demanda y contestación formuladas en el juicio anterior, que deberá ofrecer y exhibir en la audiencia incidental de pruebas y alegatos y sentencia. En este caso, declarada procedente la litispendencia, se dará por concluido el segundo procedimiento.
 
@@ -6964,7 +6982,7 @@ V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten su
 
 VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.
 
-En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de \$3,448.14 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
+En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de \$3,562.28 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
 Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dicho monto y el mes de noviembre del año en cuestión.
 
@@ -7436,7 +7454,7 @@ Cuando hubiere condena de frutos, intereses, daños o perjuicios, se fijará su 
 
 ###### Artículo 1331.
 
-El recurso de aclaración de sentencia solo procede respecto de las definitivas.
+La aclaración de sentencia procede respecto de las definitivas e interlocutorias, dictadas tanto en primera como en segunda instancia.
 
 ###### Artículo 1332.
 
@@ -7444,7 +7462,9 @@ El juez, al aclarar las cláusulas o palabras contradictorias, ambiguas u oscura
 
 ###### Artículo 1333.
 
-La interposición del recurso de aclaración de sentencia, interrumpe el término señalado para la apelación.
+La aclaración de sentencia debe pedirse por escrito dentro de los tres días siguientes en el que haya surtido efectos la notificación de la resolución que se pretenda aclarar. El juez resolverá sobre la aclaración de la sentencia en un plazo máximo de tres días.
+
+La interposición de la aclaración interrumpe el término señalado para la apelación.
 
 #### CAPITULO XXIV · De la Revocación y Reposición
 
@@ -7484,7 +7504,7 @@ La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sól
 
 ###### Artículo 1339.
 
-Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a \$574,690.47 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
+Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a \$593,712.73 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
 
 Corresponderá a la Secretaría de Economía actualizar cada año por inflación el monto expresado en pesos en el párrafo anterior y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
@@ -7508,7 +7528,7 @@ Los asuntos de cuantía indeterminada siempre serán apelables.
 
 ###### Artículo 1340.
 
-La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a \$574,690.47 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
+La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a \$593,712.73 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
 
 ###### Artículo 1341.
 
@@ -7662,7 +7682,7 @@ Son incidentes las cuestiones que se promueven en un juicio y tienen relación i
 
 ###### Artículo 1350.
 
-Los incidentes se substanciarán por cuerda separada, sin que suspendan el trámite del juicio en lo principal.
+Los incidentes se substanciarán en la misma pieza de autos, sin que suspendan el trámite del juicio en lo principal.
 
 ###### Artículo 1351.
 
@@ -7786,9 +7806,37 @@ También se tramitarán en este juicio, a elección del demandado, las contienda
 
 ###### Artículo 1378.
 
-En el escrito de demanda el actor deberá mencionar los documentos públicos y privados que tengan relación con dicha demanda, así como si los tiene o no a su disposición debiendo exhibir los que posea, y acreditar haber solicitado los que no tengan en los términos del artículo 1061. De igual manera, proporcionará los nombres y apellidos de los testigos que hayan presenciado los hechos contenidos en la demanda, y las copias simples prevenidas en el artículo 1061. Admitida la demanda se emplazará al demandado para que produzca su contestación dentro del término de quince días.
+La demanda deberá reunir los requisitos siguientes:
+
+I. El juez ante el que se promueve;
+
+II. El nombre y apellidos, denominación o razón social del actor, el domicilio que señale para oír y recibir notificaciones, su Registro Federal de Contribuyentes (RFC), su Clave Única de Registro de Población (CURP) tratándose de personas físicas, en ambos casos cuando exista obligación legal para encontrarse inscritos en dichos registros, y la clave de su identificación oficial;
+
+III. El nombre y apellidos, denominación o razón social del demandado y su domicilio;
+
+IV. El objeto u objetos que se reclamen con sus accesorios;
+
+V. Los hechos en que el actor funde su petición en los cuales precisará los documentos públicos o privados que tengan relación con cada hecho, así como si los tiene a su disposición. De igual manera proporcionará los nombres y apellidos de los testigos que hayan presenciado los hechos relativos.
+
+Asimismo, debe numerar y narrar los hechos, exponiéndolos sucintamente con claridad y precisión;
+
+VI. Los fundamentos de derecho y la clase de acción procurando citar los preceptos legales o principios jurídicos aplicables;
+
+VII. El valor de lo demandado;
+
+VIII. El ofrecimiento de las pruebas que el actor pretenda rendir en el juicio, y
+
+IX. La firma del actor o de su representante legítimo. Si éstos no supieren o no pudieren firmar, pondrán su huella digital, firmando otra persona en su nombre y a su ruego, indicando estas circunstancias.
+
+Respecto al requisito mencionado en la fracción V el actor deberá mencionar los documentos públicos y privados que tengan relación con dicha demanda, así como si los tiene o no a su disposición debiendo exhibir los que posea, y acreditar haber solicitado los que no tengan en los términos del artículo 1061. De igual manera, proporcionará los nombres y apellidos de los testigos que hayan presenciado los hechos contenidos en la demanda, y las copias simples prevenidas en el artículo 1061. Admitida la demanda se emplazará al demandado para que produzca su contestación dentro del término de quince días.
 
 Con el escrito de contestación a la demanda se dará vista al actor, para que manifieste lo que a su derecho convenga dentro del término de tres días y para que mencione a los testigos que hayan presenciado los hechos, y los documentos relacionados con los hechos de la contestación de demanda.
+
+El escrito de contestación se formulará ajustándose a los términos previstos en este artículo para la demanda.
+
+El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el juez, ésta se notificará personalmente a la parte actora para que la conteste en un plazo de nueve días. Del escrito de contestación a la reconvención, se dará vista a la parte contraria por el término de tres días para que mencione a los testigos que hayan presenciado los hechos, y los documentos relacionados con los hechos de la contestación a la reconvención.
+
+El juicio principal y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia.
 
 ###### Artículo 1379.
 
@@ -7796,9 +7844,11 @@ Las excepciones que tenga el demandado, cualquiera que sea su naturaleza, se har
 
 ###### Artículo 1380.
 
-En la contestación a la demanda, en los juicios ordinarios, deberá proponerse la reconvención en los casos en que proceda. De la reconvención se dará traslado a la parte contraria para que la conteste dentro del término de nueve días, y con dicha contestación se dará vista el reconveniente para los mismos fines que se indican en el último párrafo del artículo 1378 de este Código.
+Si la demanda fuere obscura o irregular, o no cumpliera con alguno de los requisitos precisados en el artículo 1378, el juez señalará, con toda precisión, en qué consisten los defectos de la misma, en el proveído que al efecto se dicte, lo que se hará por una sola ocasión.
 
-El juicio principal y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia.
+El actor deberá cumplir con la prevención que haga el juez, en un plazo máximo de tres días, contados a partir del día siguiente a aquel en que surta efectos la notificación y, en caso de no hacerlo, transcurrido el término, el juez la desechará precisando los puntos de la prevención que no fueron atendidos y pondrá a disposición del interesado todos los documentos originales y copias simples que se hayan exhibido, con excepción de la demanda con la que se haya formado el expediente respectivo.
+
+No podrá desestimarse la demanda si quien la presenta manifiesta bajo protesta de decir verdad que carece del Registro Federal de Contribuyentes (RFC), de la Clave Única de Registro de Población (CURP), porque no esté obligado a la inscripción en los padrones correspondientes.
 
 ###### Artículo 1381.
 
@@ -7870,7 +7920,7 @@ Del Juicio Oral Mercantil
 
 ###### Artículo 1390 Bis.
 
-Se tramitarán en este juicio todas las contiendas cuya suerte principal sea inferior a la que establece el artículo 1339 para que un juicio sea apelable, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de interposición de la demanda.
+Se tramitarán en este juicio todas las contiendas mercantiles sin limitación de cuantía.
 
 Contra las resoluciones pronunciadas en el juicio oral mercantil no procederá recurso ordinario alguno.
 
@@ -7883,6 +7933,10 @@ Si las partes estimaren que la sentencia definitiva contiene omisiones, cláusul
 ###### Artículo 1390 Bis 1.
 
 No se sustanciarán en este juicio aquellos de tramitación especial establecidos en el presente Código y en otras leyes, ni los de cuantía indeterminada.
+
+Tratándose de acciones personales en donde no se reclame una prestación económica, la competencia por cuantía la determinará el valor del negocio materia de la controversia.
+
+Los medios preparatorios a juicio y las providencias precautorias se tramitarán en términos de los Capítulos X y XI, respectivamente, del Título Primero, Libro Quinto de este Código.
 
 ###### Artículo 1390 Bis 2.
 
@@ -7908,13 +7962,19 @@ Las diligencias de desahogo de pruebas que deban verificarse fuera del juzgado, 
 
 ###### Artículo 1390 Bis 6.
 
-La nulidad de una actuación deberá reclamarse en la audiencia subsecuente, bajo pena de quedar validada de pleno derecho. La producida en la audiencia de juicio deberá reclamarse durante ésta hasta antes de que el juez pronuncie la sentencia definitiva. La del emplazamiento, por su parte, podrá reclamarse en cualquier momento.
+La nulidad de una actuación deberá reclamarse en la audiencia subsecuente, bajo pena de quedar validada de pleno derecho. La producida en la audiencia de juicio deberá reclamarse durante ésta hasta antes de que el juez pronuncie la sentencia definitiva. La del emplazamiento, por su parte, podrá reclamarse en cualquier momento hasta antes de que se dicte sentencia definitiva.
+
+Si la nulidad del emplazamiento se promueve hasta antes de la audiencia preliminar, se hará de manera escrita, con vista a la contraria por el término de tres días y se citará para audiencia especial, en la que se desahogarán las pruebas que en su caso se hayan admitido, y se dictará la sentencia correspondiente. Si se promueven pruebas, deberán ofrecerse en los escritos respectivos, fijando los puntos sobre los que versen. Si las pruebas no tienen relación con los puntos cuestionados incidentalmente, o si éstos son puramente de derecho, el tribunal deberá desecharlas. Igual regla se seguirá para la nulidad promovida en audiencia.
+
+La nulidad del emplazamiento que se promueva durante las audiencias preliminar o de juicio se realizará de manera oral y la parte contraria la contestará en igual forma y de no hacerlo se tendrá por precluído su derecho. Si se ofrecen pruebas y de ser procedente su admisión, el Juez ordenará su desahogo de ser posible en la misma audiencia o en su defecto, citará a las partes para audiencia especial.
+
+Desahogadas las pruebas admitidas o cuando las partes no ofrezcan pruebas, o las que propongan no se admitan, el juez escuchará los alegatos de las partes en el orden que determine y sin mayores trámites, dictará la resolución interlocutoria si fuera posible; en caso contrario, citará a las partes para dictarla también en audiencia, dentro del término de tres días.
 
 ###### Artículo 1390 Bis 7.
 
 La recusación del juez será admisible hasta antes de la calificación sobre la admisibilidad de las pruebas en la audiencia preliminar.
 
-Se interpondrá ante el juez, expresándose con claridad y precisión la causa en que se funde, quien remitirá de inmediato testimonio de las actuaciones respectivas al Tribunal Superior para su resolución.
+Se interpondrá ante el juez, expresándose con claridad y precisión la causa en que se funde, quien remitirá de inmediato testimonio de las actuaciones respectivas al Tribunal Superior para su resolución, quien la substanciará conforme a las reglas previstas en el Capítulo IX, Título Primero, Libro Quinto de este Código.
 
 Si la recusación se declara fundada, será nulo lo actuado a partir del momento en que se interpuso la recusación.
 
@@ -7924,13 +7984,13 @@ En todo lo no previsto regirán las reglas generales de este Código, en cuanto 
 
 ###### Artículo 1390 Bis 9.
 
-Las promociones de las partes deberán formularse oralmente durante las audiencias, con excepción de las señaladas en el artículo 1390 Bis 13 de este Código.
+Las promociones de las partes deberán formularse oralmente durante las audiencias, con excepción de las señaladas en los artículos 1390 Bis 6 y 1390 Bis 13 de este Código.
 
 Los tribunales no admitirán promociones frívolas o improcedentes, y deberán desecharse de plano, debiendo fundamentar y motivar su decisión.
 
 ###### Artículo 1390 Bis 10.
 
-En el juicio oral únicamente será notificado personalmente el emplazamiento. Las demás determinaciones se notificarán a las partes conforme a las reglas de las notificaciones no personales.
+En el juicio únicamente será notificado personalmente el emplazamiento y el auto que admita la reconvención. Las demás determinaciones se notificarán a las partes conforme a las reglas de las notificaciones no personales.
 
 #### CAPÍTULO II · Del Procedimiento Oral
 
@@ -8000,11 +8060,11 @@ El juez examinará, escrupulosamente y bajo su más estricta responsabilidad, si
 
 El escrito de contestación se formulará ajustándose a los términos previstos para la demanda. Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, salvo las supervenientes. Del escrito de contestación se dará vista a la parte actora por el término de 3 días para que desahogue la vista de la misma.
 
-###### Artículo 1390 bis 18.
+###### Artículo 1390 Bis 18.
 
 El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el juez, ésta se notificará personalmente a la parte actora para que la conteste en un plazo de nueve días. Del escrito de contestación a la reconvención, se dará vista a la parte contraria por el término de tres días para que desahogue la vista de la misma. Si no se admite, el juez publicará únicamente un acuerdo para enterar a la parte que la solicitó sobre la reserva del derecho.
 
-Si en la reconvención se reclama, por concepto de suerte principal, una cantidad superior a la que sea competencia del juicio oral en términos del artículo 1390 bis, se reservará el derecho del actor en la reconvención para que lo haga valer ante el Juez que resulte competente.
+Si la demanda reconvencional fuere obscura o irregular, el juez señalará, con toda precisión, en qué consisten los defectos de la misma en el proveído que al efecto se dicte, lo que se hará por una sola ocasión y el promovente deberá cumplir con tal prevención en un plazo máximo de tres días, contados a partir del día siguiente a aquel en que surta efectos la notificación y, en caso de no hacerlo, transcurrido el término, el juez la desechará precisando los puntos de la prevención que no fueron atendidos y pondrá a disposición del interesado todos los documentos originales y copias simples que se hayan exhibido con la reconvención a excepción de la demanda con la que se interponga.
 
 Lo anterior, salvo que la acción de reconvención provenga de la misma causa que la acción principal, supuesto en el cual cesará de inmediato el juicio para que se continúe en la vía correspondiente.
 
@@ -8015,6 +8075,8 @@ El demandado podrá allanarse a la demanda; en este caso el juez citará a las p
 ###### Artículo 1390 Bis 20.
 
 Desahogada la vista de la contestación a la demanda y, en su caso, de la contestación a la reconvención, o transcurridos los plazos para ello, el juez señalará de inmediato la fecha y hora para la celebración de la audiencia preliminar, la que deberá fijarse dentro de los diez días siguientes.
+
+En el mismo auto, el juez admitirá, en su caso, las pruebas que fuesen ofrecidas en relación con las excepciones procesales opuestas, para que se rindan a más tardar en la audiencia preliminar. En caso de no desahogarse las pruebas en la audiencia, se declararán desiertas por causa imputable al oferente.
 
 ##### SECCIÓN SEGUNDA · De las Audiencias
 
@@ -8036,7 +8098,7 @@ El juez contará con las más amplias facultades disciplinarias para mantener el
 
 ###### Artículo 1390 Bis 24.
 
-El juez determinará el inicio y la conclusión de cada una de las etapas de la audiencia, precluyendo los derechos procesales que debieron ejercitarse en cada una de ellas.
+El juez determinará el inicio y la conclusión de cada una de las etapas de la audiencia, con lo que quedan precluídos los derechos procesales que debieron ejercitarse en cada una de ellas.
 
 La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentre, sin perjuicio de la facultad del juez en materia de conciliación y/o mediación.
 
@@ -8044,9 +8106,11 @@ Una vez que los testigos, peritos o partes concluyan su intervención, a petici�
 
 ###### Artículo 1390 Bis 25.
 
-Durante el desarrollo de las audiencias, de estimarlo necesario, el juez podrá decretar recesos.
+Las audiencias se suspenden por receso, diferimiento o por actualizarse cualquiera de los supuestos previstos en el artículo 1076, fracción VI, de este Código.
 
-Cuando una audiencia no logre concluirse en la fecha señalada para su celebración, el juez podrá suspenderla o diferirla, y deberá fijarse, en el acto, la fecha y hora de su reanudación, salvo que ello resultare materialmente imposible, y ordenar su reanudación cuando resulte pertinente.
+Durante el desarrollo de las audiencias, de estimarlo necesario, el juez podrá decretar recesos, con el fin de realizar determinados actos relacionados con el asunto que se substancia, fijando al momento la hora de reanudación de la audiencia.
+
+Cuando una audiencia no logre concluirse en la fecha señalada para su celebración, el juez podrá diferirla, y deberá fijarse, en el acto, la fecha y hora de su reanudación, salvo que ello resultare materialmente imposible, y ordenar su reanudación cuando resulte pertinente.
 
 ###### Artículo 1390 Bis 26.
 
@@ -8076,7 +8140,7 @@ El secretario del juzgado deberá certificar el medio en donde se encuentre regi
 
 Se podrá solicitar copia simple o certificada de las actas o copia en medio electrónico de los registros que obren en el procedimiento, la que deberá ser certificada en los términos del artículo anterior a costa del litigante y previo el pago correspondiente.
 
-Tratándose de copias simples, el juzgado debe expedir sin demora alguna aquéllas que se le soliciten, bastando que la parte interesada lo realice verbalmente.
+Tratándose de copias simples, el juzgado debe expedir a costa del solicitante, sin demora alguna, aquéllas que se le soliciten, bastando que la parte interesada lo realice verbalmente.
 
 ###### Artículo 1390 Bis 30.
 
@@ -8106,7 +8170,7 @@ VI. La citación para audiencia de juicio.
 
 ###### Artículo 1390 Bis 33.
 
-La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a \$2,298.76, ni superior a \$5,746.90, monto que se actualizará en los términos del artículo 1253 fracción VI de este Código.
+La audiencia preliminar se llevará a cabo con o sin asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a \$2,000.00, ni superior a \$6,477.08, monto que se actualizará en los términos del artículo 1253, fracción VI de este Código.
 
 ###### Artículo 1390 Bis 34.
 
@@ -8120,7 +8184,7 @@ Las partes no podrán invocar, en ninguna etapa procesal, antecedente alguno rel
 
 ###### Artículo 1390 Bis 36.
 
-Durante la audiencia, las partes podrán solicitar conjuntamente al juez la fijación de acuerdos sobre hechos no controvertidos.
+Durante la audiencia, las partes podrán solicitar conjuntamente al juez la fijación de acuerdos sobre hechos no controvertidos, los que tendrán como fin establecer qué acontecimientos de la litis están fuera del debate, a efecto de que las pruebas sólo se dirijan a hechos en litigio.
 
 ###### Artículo 1390 Bis 37.
 
@@ -8130,7 +8194,9 @@ En caso de que las partes no lleguen a un acuerdo probatorio, el juez procederá
 
 La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás, pruebas que les hayan sido admitidas; y sólo de estimarlo necesario, el juez, en auxilio del oferente, expedirá los oficios o citaciones y realizará el nombramiento del perito tercero en discordia, en el entendido de que serán puestos a disposición de la parte oferente los oficios y citaciones respectivas, a afecto de que preparen sus pruebas y éstas se desahoguen en la audiencia de juicio.
 
-En el mismo proveído, el juez fijará fecha para la celebración de la audiencia de juicio, misma que deberá celebrarse dentro del lapso de diez a cuarenta días.
+En el mismo proveído, el juez fijará la fecha para la celebración de la audiencia de juicio, misma que deberá celebrarse dentro del plazo de cuarenta días siguientes a la emisión de dicho auto.
+
+Si en la audiencia preliminar sólo se admiten pruebas documentales que no requieran ser preparadas para su desahogo, se podrá concentrar la audiencia de juicio en la preliminar, para desahogar las documentales respectivas y dictar la sentencia definitiva en la misma audiencia.
 
 ##### SECCIÓN · CUARTA
 
@@ -8142,23 +8208,23 @@ Abierta la audiencia se procederá al desahogo de las pruebas que se encuentren 
 
 En la audiencia sólo se concederá el uso de la palabra, por una vez, a cada una de las partes para formular sus alegatos.
 
-Enseguida, se declarara el asunto visto y citará las partes para la continuación de la audiencia dentro del término de diez días siguientes, en la que se dictará la sentencia correspondiente.
+Enseguida, se declarará el asunto visto y se dictará de inmediato la resolución correspondiente.
 
 ###### Artículo 1390 Bis 39.
 
-El juez expondrá oralmente y de forma breve, los fundamentos de hecho y de derecho que motivaron su sentencia y leerá únicamente los puntos resolutivos. Acto seguido quedará a disposición de las partes copia de la sentencia que se pronuncie, por escrito.
+El juez expondrá oralmente y de forma breve, los fundamentos de hecho y de derecho que motivaron su sentencia y leerá únicamente los puntos resolutivos. Acto seguido quedará a disposición de las partes copia de la sentencia que se pronuncie, por escrito, para que estén en posibilidad de solicitar en un plazo máximo de sesenta minutos la aclaración de la misma en términos del último párrafo del artículo 1390 Bis.
 
-En caso de que en la fecha y hora fijada para esta audiencia no asistiere al juzgado persona alguna, se dispensará la lectura de la misma.
+En caso de que en la fecha y hora fijada para esta audiencia no asistiere al juzgado ninguna de las partes, se hará constar que la copia de la sentencia queda a disposición de las partes, siendo innecesario la exposición oral y lectura de los fundamentos de hecho y de derecho que motivaron la sentencia, así como de los respectivos puntos resolutivos.
 
 #### CAPÍTULO III · De los Incidentes
 
 ###### Artículo 1390 Bis 40.
 
-Los incidentes que no tengan tramitación especial sólo podrán promoverse oralmente en las audiencias y no suspenderán éstas. La parte contraria contestará oralmente en la audiencia y, de no hacerlo, se tendrá por precluido su derecho.
+Los incidentes deberán promoverse oralmente en las audiencias y no las suspenderán. Se exceptúan los incidentes relativos a la impugnación de documento o de nulidad del emplazamiento, mismos que se substanciarán en la forma que más adelante se precisa. La parte contraria contestará oralmente en la audiencia y, de no hacerlo, se tendrá por precluído su derecho.
 
-Tratándose de una cuestión que requiera prueba y de ser procedente su admisión, el juez ordenará su desahogo en audiencia especial o dentro de alguna de las audiencias del procedimiento, en la cual escuchará los alegatos de las partes, en el orden que determine. Enseguida se dictará la resolución, si fuera posible; en caso contrario, citará a las partes para dictarla dentro del término de tres días.
+Tratándose de una cuestión que requiera prueba y de ser procedente su admisión, el juez ordenará su desahogo en audiencia especial o dentro de alguna de las audiencias del procedimiento, en la cual escuchará los alegatos de las partes, en el orden que determine. Enseguida se dictará la resolución, si fuera posible; en caso contrario, citará a las partes para dictarla en audiencia dentro del término de tres días.
 
-Cuando las partes no ofrezcan pruebas o las que propongan no se admitan, el juez, sin mayores trámites, dictará la resolución correspondiente, si fuera posible; en caso contrario, citará a las partes para dictarla dentro del término de tres días.
+Cuando las partes no ofrezcan pruebas o las que propongan no se admitan, el juez, sin mayores trámites, dictará la resolución correspondiente, si fuera posible; en caso contrario, citará a las partes para dictarla en audiencia dentro del término de tres días.
 
 Si en la audiencia de juicio no pudiere concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia, resolviendo la incidencia previamente al dictado de la sentencia definitiva.
 
@@ -8170,17 +8236,17 @@ Si en la audiencia de juicio no pudiere concluirse una cuestión incidental, el 
 
 La prueba confesional en este juicio se desahogará conforme a las siguientes reglas:
 
-I. El oferente de la prueba podrá pedir que la contraparte se presente a declarar, conforme a las posiciones que en el acto de la diligencia se le formulen, pudiendo exhibir el pliego cerrado que las contenga hasta antes de la audiencia, para los efectos señalados en la fracción III;
+I. La oferente de la prueba podrá pedir que la contraparte se presente a declarar sobre los interrogatorios que, en el acto de la audiencia se formulen;
 
-II. Las posiciones serán formuladas en forma oral por el oferente, sin más limitación de que éstas se refieran a hechos propios del declarante y que sean objeto del debate. El juez, simultáneamente a su formulación, calificará las posiciones, declarando improcedentes aquellas que lo fueren; y,
+II. Los interrogatorios podrán formularse libremente sin más limitación que las preguntas se refieran a hechos propios del declarante que sean objeto del debate. El juez, en el acto de la audiencia, calificará las preguntas que se formulen oralmente y el declarante dará respuesta a aquellas calificadas de legales, y
 
-III. Previo el apercibimiento correspondiente, en caso de que la persona que deba declarar no asista sin justa causa o no conteste las preguntas que se le formulen y que sean calificadas de legales, de oficio se le declarará confeso. Solamente en el primer caso, el juez procederá a la apertura del pliego para los efectos antes señalados.
+III. Previo el apercibimiento correspondiente, en caso de que la persona que deba declarar no asista sin justa causa o no conteste las preguntas que se le formulen, de oficio se hará efectivo el apercibimiento y se tendrán por ciertos los hechos que la contraparte pretenda acreditar con esta probanza, salvo prueba en contrario.
 
 ##### SECCIÓN SEGUNDA · Testimonial
 
 ###### Artículo 1390 Bis 42.
 
-Las partes tendrán la obligación de presentar sus propios testigos, para cuyo efecto se les entregarán las cédulas de notificación. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad y pedirán que se les cite. El juez ordenará la citación con el apercibimiento de que, en caso de desobediencia, se les aplicarán y se les hará comparecer mediante el uso de los medios de apremio señalados en las fracciones III y IV del artículo 1067 Bis de este Código.
+Las partes tendrán la obligación de presentar a sus testigos, para cuyo efecto se les entregarán las cédulas de notificación. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad y pedirán que se les cite. El juez ordenará la citación con el apercibimiento que, en caso de desobediencia, se les aplicarán y se les hará comparecer mediante el uso de los medios de apremio señalados en las fracciones III y IV del artículo 1067 Bis de este Código.
 
 Cuando la citación deba ser realizada por el juez, ésta se hará mediante cédula por lo menos con dos días de anticipación al día en que deban declarar, sin contar el día en que se verifique la diligencia de notificación, el día siguiente hábil en que surta efectos la misma, ni el señalado para recibir la declaración. Si el testigo citado de esta forma no asistiere a rendir su declaración en la audiencia programada, el juez le hará efectivo el apercibimiento realizado y reprogramará su desahogo. En este caso, podrá suspenderse la audiencia.
 
@@ -8200,7 +8266,13 @@ Los registros del juicio oral, cualquiera que sea el medio, serán instrumentos 
 
 Los documentos que presenten las partes podrán ser objetados en cuanto su alcance y valor probatorio, durante la etapa de admisión de pruebas en la audiencia preliminar. Los presentados con posterioridad deberán serlo durante la audiencia en que se ofrezcan.
 
-La impugnación de falsedad de un documento puede hacerse desde la contestación de la demanda y hasta la etapa de admisión de pruebas en la Audiencia Preliminar tratándose de los documentos presentados hasta entonces; los documentos presentados con posterioridad deberán impugnarse durante la audiencia en que se admitan.
+La impugnación de falsedad de un documento, tratándose de los exhibidos junto con la demanda, se opondrá mediante excepción, simultáneamente en la contestación y nunca después, a no ser que fueren supervenientes. Al momento de su interposición se deberán ofrecer las pruebas que se estimen pertinentes, además de la prueba pericial, con lo que se dará vista a la contraria, para que manifieste lo que a su derecho convenga y designe perito de su parte, reservándose su admisión en la audiencia preliminar; sin que haya lugar a la impugnación en la vía incidental.
+
+Tratándose de documentos exhibidos por la parte demandada junto con su contestación a la demanda, o bien, de documentos exhibidos por cualquiera de las partes con posterioridad a los escritos que fijan la litis, la impugnación se hará de forma oral en vía incidental en la audiencia en que éstos se admitan.
+
+La preparación y desahogo de la prueba pericial correspondiente, se hará en términos de los artículos 1390 Bis 46, 1390 Bis 47 y 1390 Bis 48 de este Código.
+
+Si con la impugnación no se ofreciere la prueba pericial correspondiente o no se cumpliere con cualquiera de los requisitos necesarios para su admisión a trámite, se desechará de plano por el juzgador.
 
 ##### SECCIÓN · CUARTA
 
@@ -8208,25 +8280,27 @@ Pericial
 
 ###### Artículo 1390 Bis 46.
 
-Si se ofrece la prueba pericial en la demanda o en la reconvención, la contraparte, al presentar su contestación, deberá designar el perito de su parte, proporcionando el nombre, apellidos y domicilio de éste, y proponer la ampliación de otros puntos y cuestiones, además de los formulados por el oferente, para que los peritos dictaminen.
+Al ofrecer la prueba pericial las partes deberán reunir los siguientes requisitos: señalarán con toda precisión la ciencia, arte, técnica, oficio o industria sobre la cual deba practicarse la prueba; los puntos sobre los que versará y las cuestiones que se deben resolver en la pericial, así como los datos de la cédula profesional o documento que acredite la calidad técnica, artística o industrial del perito que se proponga, nombre, apellidos y domicilio de éste, con la correspondiente relación de tal prueba con los hechos controvertidos. Si falta cualquiera de los requisitos anteriores, el juez desechará de plano la prueba en cuestión.
 
-En el caso de que la prueba pericial se ofrezca al contestar la demanda o al contestar la reconvención, la contraria, al presentar el escrito en el que desahogue la vista de éstas, deberá designar el perito de su parte en la misma forma que el párrafo anterior.
+Si se ofrece la prueba pericial en la demanda o en la reconvención, la contraparte, al presentar su contestación, deberá designar el perito de su parte, proporcionando los requisitos establecidos en el párrafo anterior, y proponer la ampliación de otros puntos y cuestiones, además de los formulados por el oferente, para que los peritos dictaminen.
 
-De estar debidamente ofrecida, el juez la admitirá en la etapa correspondiente, quedando obligadas las partes a que sus peritos dentro del plazo de diez días acepten el cargo y exhiban el dictamen respectivo, salvo que existiera causa bastante por la que tuviere que modificarse la fecha de inicio del plazo originalmente concedido.
+En caso de que la prueba pericial se ofrezca al contestar la demanda o al contestar la reconvención, la contraria, al presentar el escrito en el que desahogue la vista de ésta, deberá designar el perito de su parte en los términos establecidos en este artículo.
+
+De estar debidamente ofrecida, el juez la admitirá en la etapa correspondiente, quedando obligadas las partes a que sus peritos en la audiencia de juicio exhiban el dictamen respectivo.
 
 ###### Artículo 1390 Bis 47.
 
-En caso de que alguno de los peritos de las partes no acepte el cargo ni exhiba su dictamen dentro del plazo señalado por el juez, precluirá el derecho para hacerlo y, en consecuencia, la prueba quedará desahogada con el dictamen que se tenga por rendido. En el supuesto de que ninguno de los peritos acepte el cargo ni exhiba su dictamen en el plazo señalado, se declarará desierta la prueba.
+En caso de que alguno de los peritos de las partes no exhiba su dictamen en la audiencia correspondiente, precluirá el derecho de las partes para hacerlo y, en consecuencia, la prueba quedará desahogada con el dictamen que se tenga por rendido. En el supuesto de que ninguno de los peritos exhiba su dictamen en la audiencia respectiva, se declarará desierta la prueba.
 
 Cuando los dictámenes exhibidos resulten sustancialmente contradictorios de tal modo que el Juez considere que no es posible encontrar conclusiones que le aporten elementos de convicción, podrá designar un perito tercero en discordia. A este perito deberá notificársele para que dentro del plazo de tres días, presente escrito en el que acepte el cargo conferido y proteste su fiel y legal desempeño; asimismo señalará el monto de sus honorarios, en los términos de la legislación local correspondiente o, en su defecto, los que determine, mismos que deben ser autorizados por el Juez, y serán cubiertos por ambas partes en igual proporción.
 
-El perito tercero en discordia deberá rendir su peritaje precisamente en la audiencia de juicio, y su incumplimiento dará lugar a que el juez le imponga como sanción pecuniaria, en favor de las partes y de manera proporcional a cada una de ellas, el importe de una cantidad igual a la que cotizó por sus servicios al aceptar y protestar el cargo. En el mismo acto, el juez dictará proveído de ejecución en contra de dicho perito tercero en discordia, además de hacerla saber al Consejo de la Judicatura Federal o de la entidad federativa de que se trate, o a la presidencia del tribunal, según corresponda, a la asociación, colegio de profesionistas o institución que lo hubiera propuesto por así haberlo solicitado el juez, para los efectos correspondientes, independientemente de las sanciones administrativas y legales a que haya lugar.
+El perito tercero en discordia deberá rendir su peritaje precisamente en la audiencia que corresponda, y su incumplimiento dará lugar a que el juez le imponga como sanción pecuniaria, en favor de las partes y de manera proporcional a cada una de ellas, el importe de una cantidad igual a la que cotizó por sus servicios. En el mismo acto, el juez dictará proveído de ejecución en contra de dicho perito tercero en discordia, además de hacerla saber al Consejo de la Judicatura Federal o de la entidad federativa de que se trate, o a la presidencia del tribunal, según corresponda, a la asociación, colegio de profesionistas o institución que lo hubiera propuesto por así haberlo solicitado el juez, para los efectos correspondientes, independientemente de las sanciones administrativas y legales a que haya lugar.
 
 En el supuesto del párrafo anterior, el Juez designará otro perito tercero en discordia y, de ser necesario, suspenderá la audiencia para el desahogo de la prueba en cuestión.
 
 ###### Artículo 1390 Bis 48.
 
-Los peritos asistirán a la audiencia respectiva con el fin de exponer verbalmente las conclusiones de sus dictámenes, a efecto de que se desahogue la prueba con los exhibidos y respondan las preguntas que el juez o las partes les formulen, debiendo acreditar, en la misma audiencia y bajo su responsabilidad, su calidad científica, técnica, artística o industrial para el que fueron propuestos, con el original o copia certificada de su cédula profesional o el documento respectivo. En caso de no asistir los peritos designados por las partes, se tendrá por no rendido su dictamen y de no presentarse el perito tercero en discordia se le impondrá una sanción pecuniaria equivalente a la cantidad que cotizó por sus servicios, en favor de las partes, en igual proporción.
+Los peritos asistirán a la audiencia respectiva con el fin de exponer verbalmente las conclusiones de sus dictámenes, a efecto de que se desahogue la prueba con los exhibidos y respondan las preguntas que el juez o las partes les formulen, debiendo acreditar, en la misma audiencia y bajo su responsabilidad, su calidad científica, técnica, artística o industrial para el que fueron propuestos, con el original o copia certificada de su cédula profesional o el documento respectivo. En caso de que no justifique su calidad de perito, o de no asistir los peritos designados por las partes, se tendrá por no rendido su dictamen y la ausencia injustificada del perito tercero en discordia dará lugar a que se le imponga una sanción pecuniaria equivalente a la cantidad que cotizó por sus servicios, en favor de las partes, en igual proporción.
 
 ##### SECCIÓN QUINTA · Prueba Superveniente
 
@@ -8245,6 +8319,102 @@ Cuando alguna de las partes tenga conocimiento de una prueba documental superven
 ###### Artículo 1390 Bis 50.
 
 La ejecución de los convenios celebrados ante los Jueces de Proceso Oral y de las resoluciones dictadas por éstos, se hará en términos del Capítulo XXVII, del Título primero, del Libro Quinto de este Código.
+
+TÍTULO ESPECIAL BIS
+
+Del Juicio Ejecutivo Mercantil Oral
+
+#### Capítulo I · Disposiciones Generales
+
+###### Artículo 1390 Ter.
+
+El procedimiento ejecutivo a que se refiere este Título tiene lugar cuando la demanda se funda en uno de los documentos que traigan aparejada ejecución previstos en el artículo 1391.
+
+###### Artículo 1390 Ter 1.
+
+La vía indicada en el artículo que antecede procede siempre y cuando el valor de la suerte principal sea igual o superior a la cantidad a la que establece el artículo 1339 para que un juicio sea apelable y hasta cuatro millones de pesos 00/100 moneda nacional, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de interposición de la demanda, debiendo actualizarse dichas cantidades anualmente.
+
+Corresponderá a la Secretaría de Economía actualizar cada año por inflación los montos expresados en pesos en el párrafo anterior y publicarlos en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
+
+Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dichos montos y el mes de noviembre del año en cuestión.
+
+###### Artículo 1390 Ter 2.
+
+Contra las resoluciones pronunciadas en este juicio no se dará recurso ordinario alguno.
+
+No obstante, las partes podrán solicitar al juez, de manera verbal en las audiencias, que subsane las omisiones o irregularidades que se llegasen a presentar en la substanciación del juicio oral, para el sólo efecto de regularizar el procedimiento.
+
+Asimismo, el juez podrá ordenar que se subsane toda omisión que notare, para el sólo efecto de regularizar el procedimiento.
+
+Si las partes estimaren que la sentencia definitiva contiene omisiones, cláusulas o palabras contradictorias, ambiguas u oscuras, podrán solicitar de manera verbal dentro de la audiencia en que se dicte, la aclaración o adición a la resolución, sin que con ello se pueda variar la substancia de la resolución.
+
+###### Artículo 1390 Ter 3.
+
+En el juicio ejecutivo mercantil oral se observarán los principios que contempla el artículo 1390 Bis 2 y se tramitará conforme a las reglas previstas en los artículos 1390 Bis 3; 1390 Bis 4; 1390 Bis 5; 1390 Bis 6; 1390 Bis 7; 1390 Bis 8; 1390 Bis 9; 1390 Bis 10; 1390 Bis 12 y 1390 Bis 13, salvo lo relativo a la reconvención que es incompatible con este juicio.
+
+#### CAPÍTULO II · Del Procedimiento Ejecutivo Mercantil Oral
+
+##### SECCIÓN PRIMERA · Fijación de la Litis
+
+###### Artículo 1390 Ter 4.
+
+La demanda deberá presentarse en los términos señalados en el artículo 1390 Bis 11.
+
+###### Artículo 1390 Ter 5.
+
+Presentada por el actor su demanda, se dictará auto, con efectos de mandamiento en forma, para que el demandado sea requerido de pago, y no haciéndolo se proceda al embargo de acuerdo a las reglas previstas en los artículos 1392, 1393, 1394, 1395 y 1396.
+
+###### Artículo 1390 Ter 6.
+
+Dentro de los ocho días siguientes al requerimiento de pago, al embargo, en su caso, y al emplazamiento, el demandado deberá contestar la demanda, refiriéndose concretamente a cada hecho, oponiendo las excepciones que se prevén en los artículos 1397, 1398 y 1403; y conforme a las reglas previstas en los artículos 1390 Bis 16, 1390 Bis 20, 1399 y 1400, salvo lo relativo a la reconvención que es incompatible con este juicio.
+
+###### Artículo 1390 Ter 7.
+
+El escrito de contestación se formulará ajustándose a los términos previstos para la demanda.
+
+Del escrito de contestación se dará vista a la parte actora por el término de tres días para que la desahogue.
+
+###### Artículo 1390 Ter 8.
+
+Si el demandado se allanare a la demanda y solicitare término de gracia para el pago y cumplimiento de lo reclamado, el juez dará vista a la actora para que dentro de tres días manifieste lo que a su derecho convenga, debiendo el juez resolver de acuerdo a las proposiciones de las partes en la audiencia de juicio que tendrá verificativo en un plazo no mayor de diez días en la que se dictará la sentencia respectiva.
+
+###### Artículo 1390 Ter 9.
+
+Si se tratare de cartas de porte, se atenderá a lo que dispone el artículo 583.
+
+##### SECCIÓN SEGUNDA · De las Audiencias
+
+###### Artículo 1390 Ter 10.
+
+Las audiencias se desarrollarán conforme a las reglas generales previstas para el Juicio Oral Mercantil en términos de la Sección Segunda, del Capítulo II, del Título Especial de este Código.
+
+###### Artículo 1390 Ter 11.
+
+La audiencia preliminar se sustanciará conforme a las reglas previstas en la Sección Tercera, del Capítulo II, del Título Especial de este Código.
+
+###### Artículo 1390 Ter 12.
+
+La audiencia de juicio se sustanciará conforme a las reglas previstas en la Sección Cuarta, del Capítulo II, del Título Especial de este Código.
+
+#### CAPÍTULO III · De los Incidentes
+
+###### Artículo 1390 Ter 13.
+
+Los incidentes se tramitarán conforme a las reglas previstas en el Capítulo III del Título Especial de este Código.
+
+#### CAPÍTULO IV · De las Pruebas
+
+###### Artículo 1390 Ter 14.
+
+El desahogo de las pruebas se hará conforme a las reglas previstas en el Capítulo IV del Título Especial de este Código, salvo lo relativo a la reconvención que es incompatible con este juicio.
+
+#### CAPÍTULO V · De la Ejecución
+
+##### SECCIÓN PRIMERA
+
+###### Artículo 1390 Ter 15.
+
+La ejecución de los convenios celebrados ante los jueces de Proceso Oral y de las resoluciones dictadas por éstos conforme a este Título, se hará en lo conducente en los términos previstos para la ejecución de los juicios ejecutivos reguladas en el Título Tercero, así como a lo dispuesto en el Título Primero, del Libro Quinto de este Código.
 
 ### TITULO TERCERO · De los Juicios Ejecutivos
 
@@ -8350,7 +8520,7 @@ En los escritos de demanda, contestación y desahogo de vista de ésta, las part
 
 Si los testigos no se hubieren mencionado con sus nombres y apellidos en los escritos que fijan la litis, el juez no podrá admitirlas aunque se ofrezcan por las partes posteriormente, salvo que importen excepción superveniente.
 
-Desahogada la vista o transcurrido el plazo para hacerlo, el juez admitirá y mandará preparar las pruebas que procedan, de acuerdo con el Código Federal de Procedimientos Civiles, abriendo el juicio a desahogo de pruebas, hasta por un término de quince días, dentro de los cuales deberán realizarse todas las diligencias necesarias para su desahogo, señalando las fechas necesarias para su recepción.
+Desahogada la vista o transcurrido el plazo para hacerlo, el juez admitirá y mandará preparar las pruebas que procedan, de acuerdo con los Capítulos XII al XIX, del Título Primero, Libro Quinto de este Código, abriendo el juicio a desahogo de pruebas, hasta por un término de quince días, dentro de los cuales deberán realizarse todas las diligencias necesarias para su desahogo, señalando las fechas necesarias para su recepción.
 
 Las pruebas que se reciban fuera del término concedido por el juez, o su prórroga si la hubiere decretado, serán bajo la responsabilidad de éste, quien sin embargo, podrá mandarlas concluir en una sola audiencia indiferible que se celebrará dentro de los diez días siguientes.
 
@@ -8392,11 +8562,13 @@ Si el demandado se allanare a la demanda y solicitare término de gracia para el
 
 ###### Artículo 1406.
 
-Concluido el término de prueba, se pasará al período de alegatos, el que será de dos días comunes para las partes.
+En la audiencia en la que se desahogue la última de las pruebas, el tribunal dispondrá que las partes aleguen por sí o por sus abogados o apoderados, primero el actor y luego el demandado; procurando la mayor brevedad y concisión.
+
+Los alegatos siempre serán verbales. Concluida la etapa de alegatos se citará para sentencia. Queda prohibida la práctica de dictar alegatos a la hora de la diligencia.
 
 ###### Artículo 1407.
 
-Presentados los alegatos o transcurrido el término para hacerlo, previa citación y dentro del término de ocho días, se pronunciará la sentencia.
+La sentencia se pronunciará dentro del plazo de ocho días, posteriores a la citación.
 
 ###### Artículo 1407 bis.
 
@@ -9989,3 +10161,71 @@ Ciudad de México, a 19 de febrero de 2016.- Con fundamento en el artículo 54 p
 Ciudad de México, a 3 de marzo de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a cinco de abril de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### ACUERDO para la actualización de los montos establecidos en los artículos 1067 Bis fracción II, 1253 fracción VI, 1339, 1340 y 1390 Bis 33 del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2016*
+
+**ÚNICO.-** Los montos actualizados correspondientes a los artículos 1067 Bis fracción II; 1253 fracción VI; 1339; 1340 y 1390 Bis 33 del Código de Comercio, son los siguientes:
+
+a) Artículo 1067 Bis fracción II: \$7,124.55 (Siete mil ciento veinticuatro pesos 55/100 M.N.).
+
+b) Artículo 1253 fracción VI: \$3,562.28 (Tres mil quinientos sesenta y dos pesos 28/100 M.N.).
+
+c) Artículo 1339: \$593,712.73 (Quinientos noventa y tres mil setecientos doce pesos 73/100 M.N.).
+
+d) Artículo 1340: \$593,712.73 (Quinientos noventa y tres mil setecientos doce pesos 73/100 M.N.).
+
+e) Artículo 1390 Bis 33: de \$2,374.85 (Dos mil trescientos setenta y cuatro pesos 85/100 M.N.) a \$5,937.13 (Cinco mil novecientos treinta y siete pesos 13/100 M.N.).
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 16 de diciembre de 2016.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles.
+
+*Publicado en el Diario Oficial de la Federación el 25 de enero de 2017*
+
+**Artículo Único.-** Se reforman los artículos 1061, fracción V; 1076, segundo párrafo, fracciones III y IV; 1079, fracción IV; 1123, tercer párrafo; 1331; 1333; 1350; 1378; 1380; 1390 Bis, primer párrafo; 1390 Bis 6; 1390 Bis 7, segundo párrafo; 1390 Bis 9, primer párrafo; 1390 Bis 10; 1390 Bis 18, segundo párrafo; 1390 Bis 24, primer párrafo; 1390 Bis 25; 1390 Bis 29, segundo párrafo; 1390 Bis 33; 1390 Bis 36; 1390 Bis 37, cuarto párrafo; 1390 Bis 38, tercer párrafo; 1390 Bis 39; 1390 Bis 40; 1390 Bis 41; 1390 Bis 42, primer párrafo; 1390 Bis 45, segundo párrafo; 1390 Bis 46; 1390 Bis 47, primer y tercer párrafos; 1390 Bis 48; 1401, tercer párrafo; 1406; 1407. Se adicionan un artículo 1068 Bis; 1390 Bis 1, con un segundo y tercer párrafos; 1390 Bis 20, con un segundo párrafo; 1390 Bis 37, con un quinto párrafo; 1390 Bis 45, con un tercer, cuarto y quinto párrafos; y al Libro Quinto, el Título Especial Bis denominado “Del Juicio Ejecutivo Mercantil Oral”, con los artículos 1390 Ter al 1390 Ter 15 del Código de Comercio, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Las disposiciones previstas en el Título Especial Bis denominado “Del Juicio Ejecutivo Mercantil Oral” del Libro Quinto, entrarán en vigor a los doce meses después de su publicación en el Diario Oficial de la Federación.
+
+**Tercero.-** A partir del año siguiente al de la entrada en vigor del presente Decreto, en los juicios orales mercantiles previstos en el artículo 1390 Bis, se tramitarán todas las contiendas mercantiles cuyo monto sea menor a \$1,000,000.00 por concepto de suerte principal, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
+
+Si en el mismo periodo, la reconvención se reclama, por concepto de suerte principal, una cantidad superior a la prevista en el párrafo que antecede, se reservará el derecho del actor en la reconvención para que lo haga valer ante el juez que resulte competente.
+
+**Cuarto.-** A partir del segundo año siguiente al de la entrada en vigor del presente Decreto, en los juicios orales mercantiles previstos en el artículo 1390 Bis se tramitarán todas las contiendas mercantiles cuyo monto sea menor a \$1,500,000.00 por concepto de suerte principal, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
+
+Si en el mismo periodo, la reconvención se reclama, por concepto de suerte principal, una cantidad superior a la prevista en el párrafo que antecede, se reservará el derecho del actor en la reconvención para que lo haga valer ante el juez que resulte competente.
+
+**Quinto.-** A partir del tercer año siguiente al de la entrada en vigor del presente Decreto, en los juicios orales mercantiles previstos en el artículo 1390 Bis se tramitarán todas las contiendas mercantiles sin limitación de cuantía.
+
+Ciudad de México, a 6 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de enero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 35, fracción II de la Ley Federal de Procedimiento Administrativo y se reforman y adicionan diversas disposiciones de los artículos 90 Bis, 91 y 92 del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 2 de mayo de 2017*
+
+**Artículo Segundo.-** Se reforma el artículo 90 Bis, último párrafo, y se adicionan un último párrafo al artículo 91 y una fracción V al artículo 92 del Código de Comercio, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+Ciudad de México, a 14 de marzo de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de abril de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
