@@ -3,12 +3,12 @@ title: Código Fiscal de la Federación
 abbreviation: CFF
 slug: cff
 published_dof: 1981-12-31
-last_reform_dof: 2017-01-27
+last_reform_dof: 2017-05-16
 articles: 391
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/8_270117.doc
-archived: https://web.archive.org/web/20170329054257/http://www.diputados.gob.mx:80/LeyesBiblio/doc/8_270117.doc
-source_sha256: edfcadb1c339697f59124d849d973b65ffc2c596302fc326473dfc1c1cef9747
-retrieved: 2017-03-29
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/8_160517.doc
+archived: https://web.archive.org/web/20170622021250/http://www.diputados.gob.mx/LeyesBiblio/doc/8_160517.doc
+source_sha256: 062ae548e3bc6c45b038de3ac965207147fe21becd231346c4077ede17243a47
+retrieved: 2017-06-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm
 ---
 
@@ -20,7 +20,7 @@ TEXTO VIGENTE
 
 Última reforma publicada DOF 27-01-2017
 
-> Nota de vigencia: La adición de los párrafos cuarto y quinto del artículo 29-A, publicada en el DOF 30-11-2016, entrará en vigor el 1 de mayo de 2017.
+Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 16-05-2017
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -668,7 +668,7 @@ Para determinar las contribuciones al comercio exterior, así como para pagar aq
 
 La equivalencia del peso mexicano con monedas extranjeras distintas al dólar de los Estado Unidos de América que regirá para efectos fiscales, se calculará multiplicando el tipo de cambio a que se refiere el párrafo tercero del presente artículo, por el equivalente en dólares de la moneda de que se trate, de acuerdo con la tabla que mensualmente publique el Banco México durante la primera semana del mes inmediato siguiente a aquél al que corresponda.
 
-Se aceptará como medio de pago de las contribuciones y aprovechamientos, los cheques del mismo banco en que se efectúe el pago, la transferencia electrónica de fondos a favor de la Tesorería de la Federación, así como las tarjetas de crédito y débito, de conformidad con las reglas de carácter general que expida el Servicio de Administración Tributaria. Los contribuyentes personas físicas que realicen actividades empresariales y que en el ejercicio inmediato anterior hubiesen obtenido ingresos inferiores a \$1,750,000.00, así como las personas físicas que no realicen actividades empresariales y que hubiesen obtenido en dicho ejercicio ingresos inferiores a \$300,000.00, efectuarán el pago de sus contribuciones en efectivo, transferencia electrónica de fondos a favor de la Tesorería de la Federación, tarjetas de crédito y débito o cheques personales del mismo banco, siempre que en este último caso, se cumplan las condiciones que al efecto establezca el Reglamento de este Código. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de la Tesorería de la Federación, se realiza por las instituciones de crédito, en forma electrónica.
+Se aceptará como medio de pago de las contribuciones y aprovechamientos, los cheques del mismo banco en que se efectúe el pago, la transferencia electrónica de fondos a favor de la Tesorería de la Federación, así como las tarjetas de crédito y débito, de conformidad con las reglas de carácter general que expida el Servicio de Administración Tributaria. Los contribuyentes personas físicas que realicen actividades empresariales y que en el ejercicio inmediato anterior hubiesen obtenido ingresos inferiores a \$1,924,820.00, así como las personas físicas que no realicen actividades empresariales y que hubiesen obtenido en dicho ejercicio ingresos inferiores a \$329,970.00, efectuarán el pago de sus contribuciones en efectivo, transferencia electrónica de fondos a favor de la Tesorería de la Federación, tarjetas de crédito y débito o cheques personales del mismo banco, siempre que en este último caso, se cumplan las condiciones que al efecto establezca el Reglamento de este Código. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de la Tesorería de la Federación, se realiza por las instituciones de crédito, en forma electrónica.
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes del adeudo principal, a los accesorios en el siguiente orden:
 
@@ -841,7 +841,7 @@ Las autoridades fiscales efectuarán la devolución mediante depósito en la cue
 
 ##### Artículo 22-C.
 
-Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a \$12,860.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
+Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a \$14,140.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
 
 ##### Artículo 22-D.
 
@@ -1243,7 +1243,7 @@ Para los efectos de este artículo, una vez que las autoridades fiscales hayan i
 
 ##### Artículo 32-A.
 
-Las personas físicas con actividades empresariales y las personas morales, que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a \$100,000,000.00, que el valor de su activo determinado en los términos de las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, sea superior a \$79,000,000.00 o que por lo menos trescientos de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior, podrán optar por dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado. No podrán ejercer la opción a que se refiere este artículo las entidades paraestatales de la Administración Pública Federal.
+Las personas físicas con actividades empresariales y las personas morales, que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a \$109,990,000.00, que el valor de su activo determinado en los términos de las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, sea superior a \$86,892,100.00 o que por lo menos trescientos de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior, podrán optar por dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado. No podrán ejercer la opción a que se refiere este artículo las entidades paraestatales de la Administración Pública Federal.
 
 Los contribuyentes que opten por hacer dictaminar sus estados financieros a que se refiere el párrafo anterior, lo manifestarán al presentar la declaración del ejercicio del impuesto sobre la renta que corresponda al ejercicio por el que se ejerza la opción. Esta opción deberá ejercerse dentro del plazo que las disposiciones legales establezcan para la presentación de la declaración del ejercicio del impuesto sobre la renta. No se dará efecto legal alguno al ejercicio de la opción fuera del plazo mencionado.
 
@@ -1401,7 +1401,7 @@ La información a que se refiere el párrafo anterior se deberá presentar a má
 
 Los contribuyentes que a continuación se señalan deberán presentar ante las autoridades fiscales, como parte de la declaración del ejercicio, la información sobre su situación fiscal, utilizando los medios y formatos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.
 
-I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a \$644,599,005.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
+I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a \$708,898,920.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
 
 El monto de la cantidad establecida en el párrafo anterior se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúe el cálculo, de conformidad con el procedimiento a que se refiere el artículo 17-A de este Código.
 
@@ -2249,7 +2249,7 @@ III. Que los depósitos en la cuenta bancaria del contribuyente que no correspon
 
 Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación.
 
-También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a \$1,285,670.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
+También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a \$1,414,110.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
 
 No se aplicará lo dispuesto en el párrafo anterior cuando, antes de que la autoridad inicie el ejercicio de sus facultades de comprobación, el contribuyente informe al Servicio de Administración Tributaria de los depósitos realizados, cubriendo todos los requisitos que dicho órgano desconcentrado establezca mediante reglas de carácter general.
 
@@ -2755,7 +2755,7 @@ A quien cometa las infracciones relacionadas con el Registro Federal de Contribu
 
 I. De \$3,080.00 a \$9,250.00, a las comprendidas en las fracciones I, II y VI.
 
-II. De \$3,420.00 a \$6,830.00, a la comprendida en la fracción III. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de \$1,140.00 a \$2,280.00.
+II. De \$3,760.00 a \$7,510.00, a la comprendida en la fracción III. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de \$1,250.00 a \$2,510.00.
 
 III. Para la señalada en la fracción IV:
 
@@ -2907,9 +2907,9 @@ VIII. Para la señalada en la fracción VIII, la multa será de \$58,540.00 a \$
 
 IX. De \$9,250.00 a \$30,850.00, para la establecida en la fracción IX.
 
-X. De \$8,940.00 a \$16,750.00, para la establecida en la fracción X.
+X. De \$9,830.00 a \$18,420.00, para la establecida en la fracción X.
 
-XI. De \$104,580.00 a \$139,450.00, para la establecida en la fracción XI, por cada sociedad integrada no incluida en la solicitud de autorización para determinar el resultado fiscal integrado o no incorporada al régimen opcional para grupos de sociedades.
+XI. De \$115,030.00 a \$153,380.00, para la establecida en la fracción XI, por cada sociedad integrada no incluida en la solicitud de autorización para determinar el resultado fiscal integrado o no incorporada al régimen opcional para grupos de sociedades.
 
 XII. De \$40,110.00 a \$61,730.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
 
@@ -2919,7 +2919,7 @@ XIV. De \$9,250.00 a \$21,590.00, para la establecida en la fracción XIV.
 
 XV. De \$77,160.00 a \$154,300.00, para la establecida en la fracción XV.
 
-XVI. De \$9,920.00 a \$19,840.00, a la establecida en la fracción XVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
+XVI. De \$10,910.00 a \$21,820.00, a la establecida en la fracción XVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
 XVII. De \$68,590.00 a \$137,190.00, para la establecida en la fracción XVII.
 
@@ -2939,7 +2939,7 @@ XXIV. De \$4,670.00 a \$9,340.00, por cada constancia no proporcionada, para la 
 
 XXV. De \$31,120.00 a \$54,470.00, para la establecida en la fracción XXV. En el caso de reincidencia, la sanción consistirá en la clausura del establecimiento del contribuyente, por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-XXVI. De \$9,430.00 a \$18,860.00, a la establecida en la fracción XXVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
+XXVI. De \$10,370.00 a \$20,740.00, a la establecida en la fracción XXVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
 XXVII. De \$10,600.00 a \$21,210.00, a la establecida en la fracción XXVII.
 
@@ -3023,19 +3023,19 @@ IV. Para el supuesto de la fracción VII, las siguientes, según corresponda:
 
 a) De \$13,570.00 a \$77,580.00. En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar preventivamente el establecimiento del contribuyente por un plazo de tres a quince días; para determinar dicho plazo, se tomará en consideración lo previsto por el artículo 75 de este Código.
 
-b) De \$1,210.00 a \$2,410.00 tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta. En caso de reincidencia, adicionalmente las autoridades fiscales podrán aplicar la clausura preventiva a que se refiere el inciso anterior.
+b) De \$1,330.00 a \$2,650.00 tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta. En caso de reincidencia, adicionalmente las autoridades fiscales podrán aplicar la clausura preventiva a que se refiere el inciso anterior.
 
-c) De \$12,070.00 a \$69,000.00 tratándose de contribuyentes que cuenten con la autorización para recibir donativos deducibles a que se refieren los artículos 79, 82, 83 y 84 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según corresponda. En caso de reincidencia, además se revocará la autorización para recibir donativos deducibles.
+c) De \$13,280.00 a \$75,890.00 tratándose de contribuyentes que cuenten con la autorización para recibir donativos deducibles a que se refieren los artículos 79, 82, 83 y 84 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según corresponda. En caso de reincidencia, además se revocará la autorización para recibir donativos deducibles.
 
 V. De \$820.00 a \$10,750.00, a la señalada en la fracción VI.
 
-VI. De \$13,570.00 a \$77,600.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de \$1,360.00 a \$2,710.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+VI. De \$14,930.00 a \$85,350.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de \$1,500.00 a \$2,980.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 VII. (Se deroga).
 
 VIII. De \$6,170.00 a \$30,850.00, a la comprendida en la fracción XIII.
 
-IX. De \$10,980.00 a \$109,790.00 a la comprendida en la fracción X.
+IX. De \$12,080.00 a \$120,760.00 a la comprendida en la fracción X.
 
 X. De tres a cinco veces el monto o valor señalado en el comprobante fiscal digital por Internet que ampare el donativo, a la comprendida en la fracción XI.
 
@@ -3047,9 +3047,9 @@ XIII. De \$1,550.00 a \$4,670.00, a la señalada en la fracción XV, por cada op
 
 XIV. (Se deroga).
 
-XV. De \$10,980.00 a \$109,790.00 a la comprendida en la fracción XVII.
+XV. De \$12,080.00 a \$120,760.00 a la comprendida en la fracción XVII.
 
-XVI. De \$12,070.00 a \$69,000.00, a la señalada en la fracción XVIII.
+XVI. De \$13,280.00 a \$75,890.00, a la señalada en la fracción XVIII.
 
 ##### Artículo 84-A.
 
@@ -3101,15 +3101,15 @@ VI. De \$22,310.00 a \$66,960.00, a la establecida en la fracción VI.
 
 VII. De \$80.00 a \$160.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de \$314,280.00 a \$628,560.00, por no proporcionar la información, a las señaladas en la fracción VII.
 
-VIII. De \$253,030.00 a \$281,150.00, a las establecidas en las fracciones VIII, IX y X.
+VIII. De \$278,310.00 a \$309,240.00, a las establecidas en las fracciones VIII, IX y X.
 
-IX. De \$253,030.00 a \$281,150.00, a las establecidas en la fracción XI.
+IX. De \$278,310.00 a \$309,240.00, a las establecidas en la fracción XI.
 
-X. De \$50,000.00 a \$60,000.00, a la establecida en la fracción XIV.
+X. De \$54,990.00 a \$65,990.00, a la establecida en la fracción XIV.
 
-XI. De \$225,000.00 a \$500,000.00, a la establecida en la fracción XII.
+XI. De \$247,480.00 a \$549,950.00, a la establecida en la fracción XII.
 
-XII. De \$4,650.00 a \$69,650.00, a la establecida en la fracción XIII.
+XII. De \$5,110.00 a \$76,610.00, a la establecida en la fracción XIII.
 
 ##### Artículo 84-C.
 
@@ -3197,7 +3197,7 @@ V. No acreditar que los marbetes o precintos fueron adquiridos legalmente.
 
 A quienes cometan las infracciones señaladas en el artículo 86-A de este Código, se impondrán las siguientes multas:
 
-I. De \$50.00 a \$100.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido, o bien, por cada marbete o precinto falso o alterado.
+I. De \$50.00 a \$110.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido, o bien, por cada marbete o precinto falso o alterado.
 
 II. De \$30.00 a \$110.00, a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
 
@@ -3205,7 +3205,7 @@ III. De \$20.00 a \$50.00, a la comprendida en la fracción III, por cada envase
 
 IV. De \$30.00 a \$100.00, a la comprendida en la fracción IV, por cada envase vacío no destruido.
 
-V. De \$400.00 a \$600.00, por cada marbete o precinto que haya sido adquirido ilegalmente.
+V. De \$440.00 a \$660.00, por cada marbete o precinto que haya sido adquirido ilegalmente.
 
 En caso de reincidencia, la sanción consistirá en la clausura del establecimiento del contribuyente o poseedor de los bienes a que se refiere el artículo 86-A, por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
@@ -3241,9 +3241,9 @@ II. No permitir a las autoridades fiscales la realización de las verificaciones
 
 A quienes cometan las infracciones señaladas en el artículo 86-G, primer párrafo, se les impondrá una multa de \$10.00 a \$20.00 por cada cajetilla de cigarros que no contenga impreso el código de seguridad a que se refiere el artículo 19, fracción XXII de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción I de este Código, se les impondrá una multa de \$20,000.00 a \$300,000.00 cada vez que no proporcionen o no pongan a disposición de las autoridades fiscales la información, documentación o dispositivos, que permitan constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios, respectivamente.
+A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción I de este Código, se les impondrá una multa de \$22,000.00 a \$329,970.00 cada vez que no proporcionen o no pongan a disposición de las autoridades fiscales la información, documentación o dispositivos, que permitan constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios, respectivamente.
 
-A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción II de este Código, se les impondrá una multa de \$20,000.00 a \$300,000.00, por cada vez que no permitan la realización de las verificaciones en los establecimientos o domicilios de los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, así como de los proveedores autorizados de servicios de impresión de códigos de seguridad, o bien en cualquier lugar en donde se encuentren los mecanismos o sistemas de impresión del referido código de seguridad, a efecto de constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios.
+A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción II de este Código, se les impondrá una multa de \$22,000.00 a \$329,970.00, por cada vez que no permitan la realización de las verificaciones en los establecimientos o domicilios de los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, así como de los proveedores autorizados de servicios de impresión de códigos de seguridad, o bien en cualquier lugar en donde se encuentren los mecanismos o sistemas de impresión del referido código de seguridad, a efecto de constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios.
 
 En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar el establecimiento del infractor por un plazo de 15 días, para ello, la autoridad fiscal notificará al contribuyente dentro de un plazo de veinte días contados a partir de la reincidencia, para que dentro de los diez días siguientes manifieste lo que a su derecho convenga, ya que en caso de no hacerlo o no desvirtuarse los hechos u omisiones que se le atribuyen, se procederá a la clausura.
 
@@ -7348,3 +7348,21 @@ En el caso de que se cumplan los requisitos de procedencia señalados en los art
 Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de enero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### ANEXOS 1, 1-A, 5, 7, 14, 15 y 16-A de la Primera Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2017, publicada el 15 de mayo de 2017.
+
+*Publicados en el Diario Oficial de la Federación el 16 de mayo de 2017*
+
+Anexo 5 de la Resolución Miscelánea Fiscal para 2017
+
+A. Cantidades actualizadas establecidas en el Código.
+
+> Nota: Se actualizan diversas cantidades establecidas en los artículos 20, 22-C, 32-H, 59, 80, 82, 84, 84-B, 86-B y 86-H del Código Fiscal de la Federación.
+
+B. Compilación de cantidades establecidas en el Código vigente.
+
+> Nota: Se compilan diversas cantidades establecidas en los artículos 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 86-H, 86-J, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+
+……….
+
+Ciudad de México, 04 de mayo de 2017.- El Jefe del Servicio de Administración Tributaria, Osvaldo Antonio Santín Quiroz.- Rúbrica.
