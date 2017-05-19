@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2016-12-19
+last_reform_dof: 2017-05-19
 articles: 63
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_191216.doc
-archived: https://web.archive.org/web/20170516201439/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_191216.doc
-source_sha256: 4e916a512c853e9e523496f84fac25bc042a59c18abfd4e5f8e69ce5947bcaee
-retrieved: 2017-05-16
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_190517.doc
+archived: https://web.archive.org/web/20170622024319/http://www.diputados.gob.mx/LeyesBiblio/doc/153_190517.doc
+source_sha256: f1c4adadee026721b183b783fe652c305de93e921c95e5a1f1504b1cda2f5dd8
+retrieved: 2017-06-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 19-12-2016
-
-> Nota de vigencia: Las reformas a los artículos 30, fracciones V y XX, y 36, fracciones I, XVII y XVIII; y las adiciones de las fracciones VII Ter y VII Quáter al artículo 30, publicadas en el DOF 19-12-2016, entrarán en vigor el 17 de junio de 2017.
+Última reforma publicada DOF 19-05-2017
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -546,7 +544,11 @@ IV.- Ejercer:
 
 a. La soberanía en el mar territorial, su espacio aéreo y costas del territorio;
 
-b. Vigilancia de las zonas marinas mexicanas, sin perjuicio de las atribuciones que correspondan a otras dependencias, y
+b. Vigilancia, visita, inspección u otras acciones previstas en las disposiciones jurídicas aplicables en las zonas marinas mexicanas, costas y recintos portuarios, sin perjuicio de las atribuciones que correspondan a otras dependencias.
+
+Cuando en ejercicio de estas funciones, se presente la posible comisión de un hecho que la ley señale como delito, se pondrá a disposición ante la autoridad competente a las personas, objetos, instrumentos y productos relacionados al mismo, y
+
+*Inciso reformado DOF 19-05-2017*
 
 c. Las medidas y competencias que le otorguen los ordenamientos legales y los instrumentos internacionales de los que México sea parte, en la Zona Contigua y en la Zona Económica Exclusiva.
 
@@ -566,9 +568,9 @@ d) Protección marítima y portuaria, en los términos que fijan los tratados in
 
 VI.- Dirigir la educación pública naval;
 
-VII.- Ejercer funciones de policía marítima para mantener el estado de derecho en las zonas marinas mexicanas;
+VII.- Mantener el estado de derecho en las zonas marinas mexicanas, costas y recintos portuarios, ejerciendo funciones de guardia costera a través de la Armada;
 
-*Fracción reformada DOF 04-05-2006*
+*Fracción reformada DOF 04-05-2006, 19-05-2017*
 
 VII Bis.- Establecer y dirigir el Servicio de Búsqueda y Rescate para la salvaguarda de la vida humana en la mar;
 
@@ -3593,3 +3595,21 @@ Los oficiales mayores de las secretarías de Comunicaciones y Transportes y de M
 Ciudad de México, a 14 de diciembre de 2016.- Sen. Pablo Escudero Morales, Presidente.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Lorena Cuellar Cisneros, Secretaria.- Dip. Raúl Domínguez Rex, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan los artículos 30 de la Ley Orgánica de la Administración Pública Federal y 2 de la Ley Orgánica de la Armada de México.
+
+*Publicado en el Diario Oficial de la Federación el 19 de mayo de 2017*
+
+**Artículo Primero.-** Se reforman el inciso b, de la fracción IV, y la fracción VII y se adiciona un segundo párrafo al inciso b del artículo 30 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor de este Decreto.
+
+Ciudad de México, a 27 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a diecinueve de mayo de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
