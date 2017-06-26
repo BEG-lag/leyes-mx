@@ -3,12 +3,12 @@ title: Ley Federal de Protección al Consumidor
 abbreviation: LFPC
 slug: lfpc
 published_dof: 1992-12-24
-last_reform_dof: 2016-12-28
-articles: 185
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/113_281216.doc
-archived: https://web.archive.org/web/20170518233202/http://www.diputados.gob.mx:80/LeyesBiblio/doc/113_281216.doc
-source_sha256: b38cb2296b2410799de1d6d174bf6b3084319ec3d71d47e6a046c2ac6a124190
-retrieved: 2017-05-18
+last_reform_dof: 2017-06-26
+articles: 187
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/113_260617.doc
+archived: https://web.archive.org/web/20170709032929/http://www.diputados.gob.mx:80/LeyesBiblio/doc/113_260617.doc
+source_sha256: 6e1663f6b541db5a0e4b86c4048ed12e9851c85e2cc25544e13e29b318916149
+retrieved: 2017-07-09
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 13-05-2016
-
-Actualización de montos de operaciones y multas por Acuerdo DOF 28-12-2016
+Última reforma publicada DOF 26-06-2017
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
@@ -1017,6 +1015,22 @@ IV. Tipo de bien o bienes empeñados y el importe de los montos empeñados.
 En los casos en que se presuma la comisión de un delito, a solicitud del Ministerio Público las prendas empeñadas podrán quedar en calidad de depósito en la casa de empeño sin que se pueda disponer de ellas de forma alguna, hasta en tanto no se concluya la averiguación previa. Si concluida ésta el Ministerio Público determina que existen elementos para ejercer la acción penal, la custodia de las prendas quedará sujeta a lo que en su oportunidad dicte la autoridad competente. En caso de determinar que no existen elementos para ejercer la acción penal, el Ministerio Público competente notificará a la casa de empeño para liberar el mencionado depósito.
 
 *Artículo adicionado DOF 16-01-2013*
+
+#### ARTÍCULO 65 TER.
+
+Sin perjuicio de los derechos de los pasajeros establecidos en la Ley de Aviación Civil y en el contrato de transporte de pasajeros a que se refiere dicha ley, los permisionarios o concesionarios en su calidad de proveedores, deberán publicar a través de medios electrónicos o físicos, en el área de abordaje y en los módulos de atención al pasajero las causas o razones por las que los vuelos se vean demorados y poner a disposición de los consumidores toda la información relativa para la presentación de quejas o denuncias, en cada una de las terminales en donde operen, de conformidad con los lineamientos que establezca la Procuraduría.
+
+*Artículo adicionado DOF 26-06-2017*
+
+#### ARTÍCULO 65 Ter 1.
+
+Las disposiciones relativas a derechos de los pasajeros contenidas en la Ley de Aviación Civil, son de obligatorio cumplimiento por parte de los concesionarios o permisionarios, así como de su personal y de las agencias de viaje a cargo de las ventas de pasajes, reservas y chequeo en mostradores.
+
+Los permisionarios y concesionarios, en su calidad de proveedores, deberán informar a los consumidores, al momento de la compra del boleto y en los módulos de atención al pasajero, acerca de los términos y condiciones del servicio contratado, las políticas de compensación, así como el listado de los derechos de los pasajeros contenidos en la Ley de Aviación Civil, debiendo tener dicho listado en los puntos de atención, en los mostradores, en las centrales de reserva; así como también, a bordo de las aeronaves un ejemplar en el bolsillo de cada una de las sillas de pasajeros, o en su defecto incluir información suficiente sobre sus derechos en medios impresos con que cuenten abordo.
+
+De la misma manera, el concesionario o permisionario deberá publicar los derechos de los pasajeros de forma constante en la página de Internet del concesionario o permisionario, y la agencia de viajes, a través de un vínculo, enlace o ventana especial principal.
+
+*Artículo adicionado DOF 26-06-2017*
 
 ## Capítulo VII · De las operaciones a crédito
 
@@ -3153,3 +3167,19 @@ Para efectuar el pago de las cantidades que resulten de la actualización, para 
 Atentamente
 
 Ciudad de México, a 14 de diciembre de 2016.- El Procurador Federal del Consumidor, Ernesto Javier Nemer Álvarez.- Rúbrica.
+
+### DECRETO por el que se adicionan los artículos 65 Ter y 65 Ter 1 a la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 26 de junio de 2017*
+
+**Artículo Único.-** Se adicionan los artículos 65 Ter y 65 Ter 1 a la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 27 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
