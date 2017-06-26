@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2017-04-07
-articles: 530
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_070417.doc
-archived: https://web.archive.org/web/20170518224845/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_070417.doc
-source_sha256: cc8675174d8bba744d9445d14e293f90d6b52e73f5d2d603d6f5ac686098a68c
-retrieved: 2017-05-18
+last_reform_dof: 2017-06-26
+articles: 534
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_260617.doc
+archived: https://web.archive.org/web/20170709032749/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_260617.doc
+source_sha256: fb16d56c658609e5e282f962227b434fa7b913e800e96241e56455032d3de6a6
+retrieved: 2017-07-09
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 07-04-2017
+Última reforma publicada DOF 26-06-2017
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 >
@@ -944,6 +944,8 @@ II. Delitos en Materia de Trata de Personas contenidos en el Título Segundo de 
 III. Los que incurran en segunda reincidencia de delito doloso o sean considerados delincuentes habituales.
 
 IV. Los sentenciados por las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, salvo las previstas en los artículos 9, 10, 11, 17 y 18.
+
+V. Los sentenciados por el delito de Tortura.
 
 Tratándose de los delitos comprendidos en el Titulo Décimo de este Código, la libertad preparatoria solo se concederá cuando se satisfaga la reparación del daño a que se refiere la fracción III del artículo 30 o se otorgue caución que la garantice.
 
@@ -2009,6 +2011,8 @@ Si en las conductas descritas en los dos párrafos anteriores no concurren las c
 
 Si el delito fuere cometido por servidor público de alguna corporación policial, se le impondrá, además la destitución del empleo, cargo o comisión públicos y se le inhabilitará de uno a cinco años para desempeñar otro, y si el delito lo cometiere un miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, se le impondrá, además de la pena de prisión señalada, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a cinco años para desempeñar cargo o comisión públicos.
 
+La siembra, cultivo o cosecha de plantas de marihuana no será punible cuando estas actividades se lleven a cabo con fines médicos y científicos en los términos y condiciones de la autorización que para tal efecto emita el Ejecutivo Federal.
+
 ##### Artículo 199.
 
 El Ministerio Público o la autoridad judicial del conocimiento, tan pronto conozca que una persona relacionada con algún procedimiento por los delitos previstos en los artículos 195 o 195 bis, es farmacodependiente, deberá informar de inmediato y, en su caso, dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda.
@@ -2381,7 +2385,7 @@ Cometen el delito de abuso de autoridad los servidores públicos que incurran en
 
 I.- Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
 
-II.- Cuando ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima o la vejare o la insultare;
+II. Derogado.
 
 III.- Cuando indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
 
@@ -2403,17 +2407,17 @@ XI.- Cuando autorice o contrate a quien se encuentre inhabilitado por resolució
 
 XII.- Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
 
-XIII.- Obligar al inculpado a declarar, usando la incomunicación, la intimidación, la tortura o tratos crueles, inhumanos o degradantes;
+XIII. Derogado.
 
 XIV.- Obligar a declarar a las personas que se mencionan en el artículo 243 Bis, del Código Federal de Procedimientos Penales, acerca de la información obtenida con motivo del desempeño de su actividad.
 
-XV. Omitir el registro de la detención correspondiente o dilatar injustificadamente poner al detenido a disposición de la autoridad correspondiente, y
+XV. Omitir realizar el registro inmediato de la detención correspondiente, falsear el Reporte Administrativo de Detención correspondiente, omitir actualizarlo debidamente o dilatar injustificadamente poner al detenido bajo la custodia de la autoridad correspondiente; y
 
 XVI. Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad.
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión y de cincuenta hasta cien días multa. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
 
-Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIII, XIV, XV y XVI, se le impondrá de dos a nueve años de prisión y de setenta hasta ciento cincuenta días multa.
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIV, XV y XVI, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
 #### CAPITULO III BIS · Desaparición forzada de personas
 
@@ -2659,7 +2663,7 @@ X.- Detener a un individuo fuera de los casos señalados por la ley, o retenerlo
 
 XI. Se deroga.
 
-XII. Obligar al imputado a declarar, usando la incomunicación, intimidación o tortura;
+XII. Derogado.
 
 XIII.- Ocultar al imputado el nombre de quien le acusa, salvo en los casos previstos por la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio conforme a lo que establece el Código Nacional de Procedimientos Penales;
 
@@ -3389,7 +3393,7 @@ II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutila
 
 Delitos Contra la Paz y Seguridad de las Personas
 
-#### CAPITULO I · Amenazas
+#### CAPITULO I · Amenazas y Cobranza Extrajudicial Ilegal
 
 ##### Artículo 282.
 
@@ -3422,6 +3426,16 @@ Al que no otorgare la caución de no ofender, se le impondrá prisión de tres d
 Si el amenazador cumple su amenaza se acumularán la sanción de ésta y la del delito que resulte.
 
 Si el amenazador exigió que el amenazado cometiera un delito, a la sanción de la amenaza se acumulará la que le corresponda por su participación en el delito que resulte.
+
+##### Artículo 284 Bis.
+
+Se sancionará de uno a cuatro años de prisión y multa de cincuenta mil a trescientos mil pesos a quien lleve a cabo la actividad de cobranza extrajudicial ilegal.
+
+Si utiliza además documentos o sellos falsos, la pena y la sanción económica aumentarán una mitad.
+
+Si incurre en usurpación de funciones o de profesión, se aplicarán las reglas del concurso de delitos señalado en el Código Penal Federal.
+
+Se entiende por cobranza extrajudicial ilegal el uso de la violencia o la intimidación ilícitos, ya sea personalmente o a través de cualquier medio, para requerir el pago de una deuda derivada de actividades reguladas en leyes federales, incluyendo créditos o financiamientos que hayan sido otorgados originalmente por personas dedicadas habitual y profesionalmente a esta actividad, con independencia del tenedor de los derechos de cobro al momento de llevar a cabo la cobranza. No se considerará como intimidación ilícita informar aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de iniciar acciones legales en contra del deudor, aval, obligado solidario o cualquier tercero relacionado a éstos cuando éstas sean jurídicamente posibles.
 
 #### CAPITULO II · Allanamiento de morada
 
@@ -4123,7 +4137,25 @@ En los supuestos a que se refieren las fracciones VII, VIII, IX, X, XVI y XVII, 
 
 ##### Artículo 381 Bis.
 
-Sin perjuicio de las sanciones que de acuerdo con los artículos 370, 371 y 372 deben imponerse, se aplicarán de tres días a diez años de prisión al que robe en edificios, viviendas, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construidos, así como en aquellos lugares o establecimientos destinados a actividades comerciales. En los mismos términos se sancionará al que robe en campo abierto o paraje solitario una o más cabezas de ganado mayor. Cuando el robo se realice sobre una o más cabezas de ganado menor, además de lo dispuesto en los artículos 370, 371 y 372, se impondrán hasta las dos terceras partes de la pena comprendida en este artículo.
+Sin perjuicio de las sanciones que de acuerdo con los artículos 370, 371 y 372 deben imponerse, se aplicarán de tres días a diez años de prisión al que robe en edificios, viviendas, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén construidos, así como en aquellos lugares o establecimientos destinados a actividades comerciales.
+
+##### Artículo 381 Ter.
+
+Comete el delito de abigeato, quien por sí o por interpósita persona se apodere de una o más cabezas de ganado, sin consentimiento de quien legalmente pueda disponer de ellas.
+
+Se considerará ganado, para los efectos de este delito, a las especies: bovina, caballar, asnal, mular, ovina, caprina, porcina o de una o más colonias de abejas en un apiario; así como aquél domesticado, bravo, de pezuña, ganado mayor o ganado menor, independientemente de la actividad típica del animal.
+
+Por tal delito, se impondrán de dos a diez años de prisión.
+
+Se equiparará al delito de abigeato y se sancionará con la misma pena que éste, el sacrificio de ganado sin el consentimiento de quien legalmente pueda otorgarlo.
+
+##### Artículo 381 Quater.
+
+El delito de abigeato se considera calificado y se aumentará la pena hasta en una mitad, cuando sea cometido por quien tenga una relación laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado.
+
+De igual manera se impondrá la pena establecida en el párrafo anterior, cuando el delito se ejecute mediante violencia física o moral, o bien cuando lo comenta un servidor público.
+
+Cuando la conducta a que se refiere este artículo se cometa por una asociación delictuosa, banda o pandilla, se sancionará en términos de los artículos 164 o 164 Bis, según corresponda.
 
 #### CAPITULO II · Abuso de confianza
 
@@ -4596,6 +4628,26 @@ La pena de prisión deberá aumentarse hasta en tres años más y la pena econó
 A quien ilícitamente transporte, comercie, acopie, almacene o transforme madera en rollo, astillas, carbón vegetal, así como cualquier otro recurso forestal maderable, o tierra procedente de suelos forestales en cantidades superiores a cuatro metros cúbicos o, en su caso, a su equivalente en madera aserrada, se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa. La misma pena se aplicará aun cuando la cantidad sea inferior a cuatro metros cúbicos, si se trata de conductas reiteradas que alcancen en su conjunto esta cantidad.
 
 La pena privativa de la libertad a la que se hace referencia en el párrafo anterior se incrementará hasta en tres años más de prisión y la pena económica hasta en mil días multa, cuando los recursos forestales maderables provengan de un área natural protegida.
+
+##### Artículo 419 Bis.
+
+Se impondrá pena de seis meses a cinco años de prisión y el equivalente de doscientos a dos mil días multa a quien:
+
+I. Críe o entrene a un perro con el propósito de hacerlo participar en cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros para fines recreativos, de entretenimiento o de cualquier otra índole;
+
+II. Posea, transporte, compre o venda perros con el fin de involucrarlos en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros;
+
+III. Organice, promueva, anuncie, patrocine o venda entradas para asistir a espectáculos que impliquen peleas de perros;
+
+IV. Posea o administre una propiedad en la que se realicen peleas de perros con conocimiento de dicha actividad;
+
+V. Ocasione que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
+
+VI. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
+
+La sanción a que se hace mención en el párrafo anterior, se incrementará en una mitad cuando se trate de servidores públicos.
+
+Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
 
 ##### Artículo 420.
 
@@ -6441,3 +6493,149 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 21 de febrero de 2017.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de abril de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Salud y del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 19 de junio de 2017*
+
+**Artículo Segundo.-** Se adiciona un último párrafo al artículo 198 del Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** A partir de la entrada en vigor del presente Decreto, la Secretaría de Salud reforzará los programas y acciones a que hace referencia el Capítulo IV, del Título Décimo Primero de la Ley General de Salud, con énfasis en la prevención, tratamiento, rehabilitación, reinserción social y control del consumo de cannabis sativa, índica y americana o marihuana y sus derivados, por parte de niñas, niños y adolescentes, así como el tratamiento de las personas con adicción a dichos narcóticos.
+
+**Tercero.-** El Consejo de Salubridad General, a partir de los resultados de la investigación nacional, deberá conocer el valor terapéutico o medicinal que lleve a la producción de los fármacos que se deriven de la cannabis sativa, índica y americana o marihuana y sus derivados, para garantizar la salud de los pacientes.
+
+**Cuarto.-** La Secretaría de Salud tendrá 180 días a partir de la entrada en vigor del presente Decreto, para armonizar los reglamentos y normatividad en el uso terapéutico del TETRAHIDROCANNABINOL de los siguiente isómeros: ∆6a (10a), ∆6a (7), ∆7, ∆8, ∆9, ∆10, ∆9 (11) y sus variantes estereoquímicas.
+
+Ciudad de México, a 28 de abril de 2017.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Raúl Domínguez Rex, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se adiciona el artículo 419 Bis al Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 22 de junio de 2017*
+
+**Artículo Único.** Se adiciona el artículo 419 Bis al Código Penal Federal, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 25 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Itzel Sarahí Ríos de la Mora, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el encabezado de Capítulo I del Título Decimoctavo y se adiciona el artículo 284 Bis al Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 22 de junio de 2017*
+
+**Artículo Único.-** Se reforma el encabezado de Capítulo I del Título Decimoctavo y se adiciona el artículo 284 Bis al Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 26 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 381 Bis y se adicionan los artículos 381 Ter y 381 Quáter al Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 23 de junio de 2017*
+
+**Artículo Único.** Se reforma el artículo 381 Bis y se adicionan los artículos 381 Ter y 381 Quáter al Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** A partir de la entrada en vigor de este Decreto, respecto de la descripción legal de la conducta delictiva contenida en los artículos 381 Ter y 381 Quater del Código Penal Federal, que en el artículo 381 Bis se contemplaba como delito y que por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establece, se estará a lo siguiente:
+
+I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y
+
+III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+Ciudad de México, a 27 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se expide la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; y se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley del Sistema Nacional de Seguridad Pública y de la Ley de Extradición Internacional.
+
+*Publicado en el Diario Oficial de la Federación el 26 de junio de 2017*
+
+**ARTÍCULO SEGUNDO.-** Se adiciona la fracción V al artículo 85 y se reforma la fracción XV del artículo 215; y se derogan las fracciones II y XIII del Artículo 215, así como la fracción XII del artículo 225, del Código Penal Federal, para quedar como siguen:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario Oficial de la Federación el 27 de diciembre de 1991.
+
+Los procedimientos iniciados por hechos que ocurran a partir de la entrada en vigor de la presente Ley, se seguirán conforme a lo establecido en el Código Nacional de Procedimientos Penales y en la presente Ley.
+
+Los procedimientos iniciados antes de la vigencia de la presente ley continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Aquellas personas, sentenciadas o procesadas, cuyas pruebas presentadas en su contra, carezcan de valor probatorio, por haber sido obtenidas directamente a través de tortura y de cualquier otra violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.
+
+**Tercero.** En un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la legislatura de cada entidad federativa deberá armonizar su marco jurídico de conformidad con el mismo.
+
+**Cuarto.** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán adoptar y publicar los protocolos y criterios a que se refiere la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
+
+**Quinto.** La Procuraduría General de la República contará con un plazo de ciento ochenta días siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Nacional para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y contar con la infraestructura tecnológica necesaria para operar el Registro Nacional del Delito de Tortura.
+
+Dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, las procuradurías y fiscalías de las entidades federativas deberán poner en marcha sus registros correspondientes.
+
+**Sexto.** La Federación y las entidades federativas contarán con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar sus Fiscalías Especiales para la investigación del delito de tortura, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente.
+
+**Séptimo.** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán iniciar los programas de capacitación continua de sus servidores públicos conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
+
+**Octavo.** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones y en un periodo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberán realizar las gestiones necesarias y llevar a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las Instituciones de Procuración de Justicia la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley.
+
+**Noveno.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de los Derechos Humanos deberá instalar formalmente el Mecanismo Nacional de Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, y expedir las bases para su operación y funcionamiento en la sesión ordinaria inmediata a la instalación.
+
+De la misma manera, dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, deberán expedir los lineamientos de carácter general que determinen las modalidades y procedimientos que deberán seguir durante las visitas.
+
+La persona titular del Mecanismo Nacional de Prevención realizará el nombramiento del Director Ejecutivo dentro de los noventa días siguientes a la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+La elección de los integrantes del Comité Técnico a que se refiere la fracción II del artículo 73 de esta Ley, se hará por única ocasión, atendiendo a la gradualidad siguiente:
+
+De las cuatro personas expertas elegidas, dos durarán en su encargo dos años y las otras dos durarán cuatro años, situación que será definida por el Senado conforme a la votación por mayoría; lo anterior para que exista sustitución escalonada en la integración del Comité Técnico, por lo que a partir de que concluya el periodo de dos años de los integrantes elegidos para dicho periodo, quienes los sustituyan serán elegidos en los términos de la ley por cuatro años.
+
+El Titular Presidente del Comité Técnico del Mecanismo Nacional de Prevención, durará en su encargo, mientras dure su encargo como Presidente de la Comisión Nacional de los Derechos Humanos.
+
+**Décimo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes. Así mismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuesta les necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
+
+**Décimo Primero.** Las erogaciones que se generen con motivo de la operación del Mecanismo Nacional de Prevención de la Tortura para la Comisión Nacional de los Derechos Humanos, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
+
+**Décimo Segundo.** Las legislaturas de los estados y el órgano legislativo de la Ciudad de México, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les competen en términos del presente Decreto.
+
+**Décimo Tercero.** En las entidades federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas de la entidad federativa deberán brindar la atención a las Víctimas conforme a lo establecido en el Título Sexto de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+Asimismo, de conformidad con el artículo 79 de la Ley General de Víctimas, será competente la Comisión Ejecutiva de Atención a Víctimas para dar cumplimiento a lo establecido en el párrafo anterior. En el supuesto establecido en el párrafo primero de este artículo, la solicitud a que se refiere la fracción I del artículo 91 de la Ley deberá ser suscrita por el Secretario de Gobierno de la entidad federativa, correspondiente.
+
+**Décimo Cuarto.** Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del presente Decreto, la Procuraduría General de la República comience a operar el Registro Nacional del Delito de Tortura, la Comisión Ejecutiva y las Instituciones de Procuración de Justicia, podrán suscribir convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho Registro.
+
+**Décimo Quinto.** En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas deberá llevar a cabo los actos necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
+
+**Décimo Sexto.** A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo de ciento ochenta días contados a partir de su entrada en vigor.
+
+Ciudad de México, a 26 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
