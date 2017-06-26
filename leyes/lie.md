@@ -3,12 +3,12 @@ title: Ley de Inversión Extranjera
 abbreviation: LIE
 slug: lie
 published_dof: 1993-12-27
-last_reform_dof: 2015-12-18
+last_reform_dof: 2017-06-26
 articles: 42
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/44_181215.doc
-archived: https://web.archive.org/web/20160221053656/http://www.diputados.gob.mx:80/LeyesBiblio/doc/44_181215.doc
-source_sha256: 4e7f5f753ba9b4a0dd11bccc6b113595db4488ae2241b409b139bdcde77f38f2
-retrieved: 2016-02-21
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/44_260617.doc
+archived: https://web.archive.org/web/20170708213635/http://www.diputados.gob.mx:80/LeyesBiblio/doc/44_260617.doc
+source_sha256: f2bbbe31f793e6b8b94c2ffa386eeb433d0c0a0afc9f95a80f00bbc08024e08f
+retrieved: 2017-07-08
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lie.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 27 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 18-12-2015
+Última reforma publicada DOF 26-06-2017
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -160,13 +160,9 @@ I.- Hasta el 10% en:
 
 Sociedades cooperativas de producción;
 
-II.- Hasta el 25% en:
+II.- Se deroga.
 
-a) Transporte aéreo nacional;
-
-b) Transporte en aerotaxi; y
-
-c) Transporte aéreo especializado;
+*Fracción derogada DOF 26-06-2017*
 
 III.- Hasta el 49% en:
 
@@ -244,11 +240,17 @@ u) Servicios portuarios de pilotaje a las embarcaciones para realizar operacione
 
 v) Sociedades navieras dedicadas a la explotación comercial de embarcaciones para la navegación interior y de cabotaje, con excepción de cruceros turísticos y la explotación de dragas y artefactos navales para la construcción, conservación y operación portuaria;
 
-w) Suministro de combustibles y lubricantes para embarcaciones y aeronaves y equipo ferroviario, y
+w) Suministro de combustibles y lubricantes para embarcaciones y aeronaves y equipo ferroviario;
 
-x) Radiodifusión. Dentro de este máximo de inversión extranjera se estará a la reciprocidad que exista en el país en el que se encuentre constituido el inversionista o el agente económico que controle en última instancia a éste, directa o indirectamente.
+*Inciso reformado DOF 26-06-2017*
 
-*Inciso reformado DOF 14-07-2014*
+x) Radiodifusión. Dentro de este máximo de inversión extranjera se estará a la reciprocidad que exista en el país en el que se encuentre constituido el inversionista o el agente económico que controle en última instancia a éste, directa o indirectamente, y
+
+*Inciso reformado DOF 14-07-2014, 26-06-2017*
+
+y) Servicio de transporte aéreo nacional regular y no regular; servicio de transporte aéreo internacional no regular en la modalidad de taxi aéreo; y, servicio de transporte aéreo especializado.
+
+*Inciso adicionado DOF 26-06-2017*
 
 *Fracción reformada DOF 24-12-1996*
 
@@ -1447,3 +1449,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D. F., a 9 de diciembre de 2015.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se adiciona un inciso y) a la fracción III del artículo 7o., y se deroga la fracción II del artículo 7o. de la Ley de Inversión Extranjera.
+
+*Publicado en el Diario Oficial de la Federación el 26 de junio de 2017*
+
+**Artículo Único.-** Se adiciona un inciso y) a la fracción III del artículo 7o., y se deroga la fracción II del artículo 7o. de la Ley de Inversión Extranjera, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 27 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
