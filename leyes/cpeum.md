@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2017-02-24
+last_reform_dof: 2017-09-15
 articles: 136
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_240217.doc
-archived: https://web.archive.org/web/20170516212557/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_240217.doc
-source_sha256: ded0c574319b63a473fa4d521821d62741e88514d4868951194c5b831ade70a3
-retrieved: 2017-05-16
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_150917.doc
+archived: https://web.archive.org/web/20170921042021/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_150917.doc
+source_sha256: 6d0bc72236cf8cead650bad531ce89398796802ec9b170bb3ee84ef83a9f8586
+retrieved: 2017-09-21
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 24-02-2017
+Última reforma publicada DOF 15-09-2017
 
 > Notas de vigencia:
 > Relativas al Decreto en materia política-electoral publicado en el DOF 10-02-2014:
@@ -477,7 +477,9 @@ No se autoriza la celebración de tratados para la extradición de reos polític
 
 ##### Artículo 16.
 
-Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo.
+
+*Párrafo reformado DOF 15-09-2017*
 
 Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros.
 
@@ -524,6 +526,10 @@ En tiempo de paz ningún miembro del Ejército podrá alojarse en casa particula
 Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
 
 Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+
+Siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales.
+
+*Párrafo adicionado DOF 15-09-2017*
 
 El Congreso de la Unión expedirá las leyes que regulen las acciones colectivas. Tales leyes determinarán las materias de aplicación, los procedimientos judiciales y los mecanismos de reparación del daño. Los jueces federales conocerán de forma exclusiva sobre estos procedimientos y mecanismos.
 
@@ -2407,9 +2413,13 @@ XXIX-Z. Para expedir la ley general que establezca los principios y bases a los 
 
 *Fracción adicionada DOF 05-02-2017*
 
-XXX. Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
+XXX. Para expedir la legislación única en materia procesal civil y familiar;
 
-*Fracción adicionada DOF 24-10-1942*
+*Fracción adicionada DOF 15-09-2017*
+
+XXXI. Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
+
+*Fracción adicionada DOF 24-10-1942. Recorrida DOF 15-09-2017*
 
 *Reforma DOF 20-08-1928: Eliminó del artículo las entonces fracciones XXV y XXVI*
 
@@ -7726,3 +7736,27 @@ Asimismo, las autoridades competentes y las Juntas de Conciliación y Arbitraje 
 Ciudad de México, a 8 de febrero de 2017.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintitrés de febrero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan los artículos 16, 17 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Cotidiana (Solución de Fondo del Conflicto y Competencia Legislativa sobre Procedimientos Civiles y Familiares).
+
+*Publicado en el Diario Oficial de la Federación el 15 de septiembre de 2017*
+
+**Artículo Único.-** Se reforma el primer párrafo del artículo 16; y se adicionan un párrafo tercero, recorriéndose en su orden los actuales párrafos tercero, cuarto, quinto, sexto, séptimo y octavo al artículo 17; y la fracción XXX, recorriéndose en su orden la actual XXX para quedar como XXXI al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el transitorio siguiente.
+
+**SEGUNDO.** La reforma del primer párrafo del artículo 16 y la adición de un nuevo tercer párrafo al artículo 17 constitucional entrarán en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación. Para tal efecto, y en los casos en que se requiera, el Congreso de la Unión y las Legislaturas de las entidades federativas deberán adecuar a las modificaciones en cuestión, respectivamente, las leyes generales y las leyes federales, así como las leyes de las entidades federativas.
+
+**TERCERO.** Las Legislaturas de las entidades federativas deberán llevar a cabo las reformas a sus constituciones para adecuarlas al contenido del presente Decreto en un plazo que no excederá de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto.
+
+**CUARTO.** El Congreso de la Unión deberá expedir la legislación procedimental a que hace referencia la fracción XXX del artículo 73 constitucional adicionado mediante el presente Decreto, en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+
+**QUINTO.** La legislación procesal civil y familiar de la Federación y de las entidades federativas continuará vigente hasta en tanto entre en vigor la legislación a que se refiere la fracción XXX del artículo 73 constitucional, adicionada mediante el presente Decreto, y de conformidad con el régimen transitorio que la misma prevea. Los procedimientos iniciados y las sentencias emitidas con fundamento en la legislación procesal civil federal y la legislación procesal civil y familiar de las entidades federativas deberán concluirse y ejecutarse, respectivamente, conforme a la misma.
+
+Ciudad de México, a 23 de agosto de 2017.- Sen. Pablo Escudero Morales, Presidente.- Sen. Laura Angélica Rojas Hernández, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de septiembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
