@@ -3,12 +3,12 @@ title: Código Fiscal de la Federación
 abbreviation: CFF
 slug: cff
 published_dof: 1981-12-31
-last_reform_dof: 2017-05-16
+last_reform_dof: 2017-12-29
 articles: 391
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/8_160517.doc
-archived: https://web.archive.org/web/20170622021250/http://www.diputados.gob.mx/LeyesBiblio/doc/8_160517.doc
-source_sha256: 062ae548e3bc6c45b038de3ac965207147fe21becd231346c4077ede17243a47
-retrieved: 2017-06-22
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/8_291217.doc
+archived: https://web.archive.org/web/20180412224603/http://www.diputados.gob.mx:80/LeyesBiblio/doc/8_291217.doc
+source_sha256: 4be22c77cba8c6dbccc094d957acc4de4b54e5f8f9fe2fcd153b8338b0758efd
+retrieved: 2018-04-12
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm
 ---
 
@@ -20,7 +20,7 @@ TEXTO VIGENTE
 
 Última reforma publicada DOF 27-01-2017
 
-Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 16-05-2017
+Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 29-12-2017
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1401,7 +1401,7 @@ La información a que se refiere el párrafo anterior se deberá presentar a má
 
 Los contribuyentes que a continuación se señalan deberán presentar ante las autoridades fiscales, como parte de la declaración del ejercicio, la información sobre su situación fiscal, utilizando los medios y formatos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.
 
-I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a \$708,898,920.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
+I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a \$755,898,920.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
 
 El monto de la cantidad establecida en el párrafo anterior se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúe el cálculo, de conformidad con el procedimiento a que se refiere el artículo 17-A de este Código.
 
@@ -2753,21 +2753,21 @@ IX. No verificar que la clave del registro federal de contribuyentes aparezca en
 
 A quien cometa las infracciones relacionadas con el Registro Federal de Contribuyentes a que se refiere el artículo 79, se impondrán las siguientes multas:
 
-I. De \$3,080.00 a \$9,250.00, a las comprendidas en las fracciones I, II y VI.
+I. De \$3,470.00 a \$10,410.00, a las comprendidas en las fracciones I, II y VI.
 
 II. De \$3,760.00 a \$7,510.00, a la comprendida en la fracción III. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de \$1,250.00 a \$2,510.00.
 
 III. Para la señalada en la fracción IV:
 
-a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y \$6,560.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de \$2,620.00 ni mayor de \$6,560.00.
+a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y \$7,390.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de \$2,950.00 ni mayor de \$7,390.00.
 
-b) De \$800.00 a \$1,830.00, en los demás documentos.
+b) De \$900.00 a \$2,060.00, en los demás documentos.
 
-IV. De \$15,430.00 a \$30,850.00, para la establecida en la fracción V.
+IV. De \$17,370.00 a \$34,730.00, para la establecida en la fracción V.
 
-V. De \$3,060.00 a \$9,220.00, a la comprendida en la fracción VII.
+V. De \$3,450.00 a \$10,380.00, a la comprendida en la fracción VII.
 
-VI. De \$15,350.00 a \$30,700.00, a las comprendidas en las fracciones VIII y IX.
+VI. De \$17,280.00 a \$34,570.00, a las comprendidas en las fracciones VIII y IX.
 
 ##### Artículo 81.
 
@@ -2867,103 +2867,103 @@ A quien cometa las infracciones relacionadas con la obligación de presentar dec
 
 I. Para la señalada en la fracción I:
 
-a) De \$1,240.00 a \$15,430.00, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso.
+a) De \$1,400.00 a \$17,370.00, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso.
 
-b) De \$1,240.00 a \$30,850.00, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
+b) De \$1,400.00 a \$34,730.00, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
 
-c) De \$11,840.00 a \$23,660.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
+c) De \$13,330.00 a \$26,640.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
 
-d) De \$12,640.00 a \$25,300.00, por no presentar las declaraciones en los medios electrónicos estando obligado a ello, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los plazos señalados en los mismos.
+d) De \$14,230.00 a \$28,490.00, por no presentar las declaraciones en los medios electrónicos estando obligado a ello, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los plazos señalados en los mismos.
 
-e) De \$1,270.00 a \$4,050.00, en los demás documentos.
+e) De \$1,430.00 a \$4,560.00, en los demás documentos.
 
 II. Respecto de la señalada en la fracción II:
 
-a) De \$920.00 a \$3,080.00, por no poner el nombre o domicilio o ponerlos equivocadamente, por cada uno.
+a) De \$1,040.00 a \$3,470.00, por no poner el nombre o domicilio o ponerlos equivocadamente, por cada uno.
 
-b) De \$30.00 a \$80.00, por cada dato no asentado o asentado incorrectamente en la relación de clientes y proveedores contenidas en las formas oficiales.
+b) De \$30.00 a \$90.00, por cada dato no asentado o asentado incorrectamente en la relación de clientes y proveedores contenidas en las formas oficiales.
 
-c) De \$170.00 a \$300.00, por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
+c) De \$190.00 a \$340.00, por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
 
-d) De \$620.00 a \$1,540.00, por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
+d) De \$700.00 a \$1,730.00, por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
 
-e) De \$3,780.00 a \$12,640.00, por presentar medios electrónicos que contengan declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales.
+e) De \$4,260.00 a \$14,230.00, por presentar medios electrónicos que contengan declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales.
 
-f) De \$1,120.00 a \$3,350.00, por no presentar firmadas las declaraciones por el contribuyente o por el representante legal debidamente acreditado.
+f) De \$1,260.00 a \$3,770.00, por no presentar firmadas las declaraciones por el contribuyente o por el representante legal debidamente acreditado.
 
-g) De \$560.00 a \$1,520.00, en los demás casos.
+g) De \$630.00 a \$1,710.00, en los demás casos.
 
-III. De \$1,240.00 a \$30,850.00, tratándose de la señalada en la fracción III, por cada requerimiento.
+III. De \$1,400.00 a \$34,730.00, tratándose de la señalada en la fracción III, por cada requerimiento.
 
-IV. De \$15,430.00 a \$30,850.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de \$1,540.00 a \$9,250.00.
+IV. De \$17,370.00 a \$34,730.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de \$1,730.00 a \$10,410.00.
 
-V. Para la señalada en la fracción V, la multa será de \$10,600.00 a \$21,210.00.
+V. Para la señalada en la fracción V, la multa será de \$11,930.00 a \$23,880.00.
 
-VI. Para la señalada en la fracción VI la multa será de \$3,080.00 a \$9,250.00.
+VI. Para la señalada en la fracción VI la multa será de \$3,470.00 a \$10,410.00.
 
-VII. De \$760.00 a \$7,780.00, para la establecida en la fracción VII.
+VII. De \$860.00 a \$8,760.00, para la establecida en la fracción VII.
 
-VIII. Para la señalada en la fracción VIII, la multa será de \$58,540.00 a \$175,610.00.
+VIII. Para la señalada en la fracción VIII, la multa será de \$65,910.00 a \$197,720.00.
 
-IX. De \$9,250.00 a \$30,850.00, para la establecida en la fracción IX.
+IX. De \$10,410.00 a \$34,730.00, para la establecida en la fracción IX.
 
 X. De \$9,830.00 a \$18,420.00, para la establecida en la fracción X.
 
 XI. De \$115,030.00 a \$153,380.00, para la establecida en la fracción XI, por cada sociedad integrada no incluida en la solicitud de autorización para determinar el resultado fiscal integrado o no incorporada al régimen opcional para grupos de sociedades.
 
-XII. De \$40,110.00 a \$61,730.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
+XII. De \$45,160.00 a \$69,500.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
 
-XIII. De \$9,250.00 a \$30,850.00, para la establecida en la fracción XIII.
+XIII. De \$10,410.00 a \$34,730.00, para la establecida en la fracción XIII.
 
-XIV. De \$9,250.00 a \$21,590.00, para la establecida en la fracción XIV.
+XIV. De \$10,410.00 a \$24,310.00, para la establecida en la fracción XIV.
 
-XV. De \$77,160.00 a \$154,300.00, para la establecida en la fracción XV.
+XV. De \$86,870.00 a \$173,730.00, para la establecida en la fracción XV.
 
 XVI. De \$10,910.00 a \$21,820.00, a la establecida en la fracción XVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
-XVII. De \$68,590.00 a \$137,190.00, para la establecida en la fracción XVII.
+XVII. De \$77,230.00 a \$154,460.00, para la establecida en la fracción XVII.
 
-XVIII. De \$8,750.00 a \$14,570.00, para la establecida en la fracción XVIII.
+XVIII. De \$9,850.00 a \$16,400.00, para la establecida en la fracción XVIII.
 
-XIX. De \$14,570.00 a \$29,160.00, para la establecida en la fracción XIX.
+XIX. De \$16,400.00 a \$32,830.00, para la establecida en la fracción XIX.
 
-XX. De \$4,670.00 a \$9,340.00, para la establecida en la fracción XX.
+XX. De \$5,260.00 a \$10,520.00, para la establecida en la fracción XX.
 
-XXI. De \$111,610.00 a \$223,240.00, para la establecida en la fracción XXI.
+XXI. De \$125,660.00 a \$251,350.00, para la establecida en la fracción XXI.
 
-XXII. De \$4,670.00 a \$9,340.00, por cada informe no proporcionado a los contribuyentes, para la establecida en la fracción XXII.
+XXII. De \$5,260.00 a \$10,520.00, por cada informe no proporcionado a los contribuyentes, para la establecida en la fracción XXII.
 
-XXIII. De \$13,390.00 a \$24,550.00, a la establecida en la fracción XXIII.
+XXIII. De \$15,080.00 a \$27,640.00, a la establecida en la fracción XXIII.
 
-XXIV. De \$4,670.00 a \$9,340.00, por cada constancia no proporcionada, para la establecida en la fracción XXIV.
+XXIV. De \$5,260.00 a \$10,520.00, por cada constancia no proporcionada, para la establecida en la fracción XXIV.
 
-XXV. De \$31,120.00 a \$54,470.00, para la establecida en la fracción XXV. En el caso de reincidencia, la sanción consistirá en la clausura del establecimiento del contribuyente, por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+XXV. De \$35,040.00 a \$61,330.00, para la establecida en la fracción XXV. En el caso de reincidencia, la sanción consistirá en la clausura del establecimiento del contribuyente, por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 XXVI. De \$10,370.00 a \$20,740.00, a la establecida en la fracción XXVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
-XXVII. De \$10,600.00 a \$21,210.00, a la establecida en la fracción XXVII.
+XXVII. De \$11,930.00 a \$23,880.00, a la establecida en la fracción XXVII.
 
-XXVIII. De \$640.00 a \$970.00, a la establecida en la fracción XXVIII.
+XXVIII. De \$720.00 a \$1,090.00, a la establecida en la fracción XXVIII.
 
-XXIX. De \$42,950.00 a \$214,760.00, a la establecida en la fracción XXIX. En caso de reincidencia la multa será de \$85,900.00 a \$429,520.00, por cada requerimiento que se formule.
+XXIX. De \$48,360.00 a \$241,800.00, a la establecida en la fracción XXIX. En caso de reincidencia la multa será de \$96,710.00 a \$483,600.00, por cada requerimiento que se formule.
 
-XXX. De \$140,540.00 a \$200,090.00, a la establecida en la fracción XXX.
+XXX. De \$158,230.00 a \$225,280.00, a la establecida en la fracción XXX.
 
-XXXI. De \$140,540.00 a \$200,090.00, a la establecida en la fracción XXXI.
+XXXI. De \$158,230.00 a \$225,280.00, a la establecida en la fracción XXXI.
 
 XXXII. (Se deroga).
 
 XXXIII. (Se deroga)
 
-XXXIV. De \$18,610.00 a \$31,010.00 por cada solicitud no atendida, para la señalada en la fracción XXXIV.
+XXXIV. De \$20,500.00 a \$34,160.00 por cada solicitud no atendida, para la señalada en la fracción XXXIV.
 
 XXXV. (Se deroga).
 
 XXXVI. De \$80,000.00 a \$100,000.00 a la establecida en las fracciones XXXVI, XXXVII, XXXVIII, XLII y XLIV, y, en su caso, la cancelación de la autorización para recibir donativos deducibles.
 
-XXXVII. De \$140,540.00 a \$200,090.00, para la establecida en la fracción XL.
+XXXVII. De \$154,800.00 a \$220,400.00, para la establecida en la fracción XL.
 
-XXXVIII. Respecto de las señaladas en la fracción XLI de \$5,000.00 a \$15,000.00, por no ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria, como lo prevé el artículo 28, fracción IV del Código, dentro de los plazos establecidos en las disposiciones fiscales estando obligado a ello; ingresarla a través de archivos con alteraciones que impidan su lectura; no ingresarla de conformidad con las reglas de carácter general emitidas para tal efecto, o no cumplir con los requerimientos de información o de documentación formulados por las autoridades fiscales en esta materia.
+XXXVIII. Respecto de las señaladas en la fracción XLI de \$5,510.00 a \$16,520.00, por no ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria, como lo prevé el artículo 28, fracción IV del Código, dentro de los plazos establecidos en las disposiciones fiscales estando obligado a ello; ingresarla a través de archivos con alteraciones que impidan su lectura; no ingresarla de conformidad con las reglas de carácter general emitidas para tal efecto, o no cumplir con los requerimientos de información o de documentación formulados por las autoridades fiscales en esta materia.
 
 XXXIX. De \$140,540.00 a \$200,090.00 a la establecida en la fracción XXXIX.
 
@@ -3013,37 +3013,37 @@ XVIII. No demostrar la existencia de las operaciones amparadas por los comproban
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el Artículo 83, se impondrán las siguientes sanciones:
 
-I. De \$1,350.00 a \$13,450.00, a la comprendida en la fracción I.
+I. De \$1,520.00 a \$15,140.00, a la comprendida en la fracción I.
 
-II. De \$290.00 a \$6,720.00, a las establecidas en las fracciones II y III.
+II. De \$330.00 a \$7,570.00, a las establecidas en las fracciones II y III.
 
-III. De \$290.00 a \$5,390.00, a la señalada en la fracción IV.
+III. De \$330.00 a \$6,070.00, a la señalada en la fracción IV.
 
 IV. Para el supuesto de la fracción VII, las siguientes, según corresponda:
 
-a) De \$13,570.00 a \$77,580.00. En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar preventivamente el establecimiento del contribuyente por un plazo de tres a quince días; para determinar dicho plazo, se tomará en consideración lo previsto por el artículo 75 de este Código.
+a) De \$15,280.00 a \$87,350.00. En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar preventivamente el establecimiento del contribuyente por un plazo de tres a quince días; para determinar dicho plazo, se tomará en consideración lo previsto por el artículo 75 de este Código.
 
 b) De \$1,330.00 a \$2,650.00 tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta. En caso de reincidencia, adicionalmente las autoridades fiscales podrán aplicar la clausura preventiva a que se refiere el inciso anterior.
 
 c) De \$13,280.00 a \$75,890.00 tratándose de contribuyentes que cuenten con la autorización para recibir donativos deducibles a que se refieren los artículos 79, 82, 83 y 84 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según corresponda. En caso de reincidencia, además se revocará la autorización para recibir donativos deducibles.
 
-V. De \$820.00 a \$10,750.00, a la señalada en la fracción VI.
+V. De \$920.00 a \$12,100.00, a la señalada en la fracción VI.
 
 VI. De \$14,930.00 a \$85,350.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de \$1,500.00 a \$2,980.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 VII. (Se deroga).
 
-VIII. De \$6,170.00 a \$30,850.00, a la comprendida en la fracción XIII.
+VIII. De \$6,950.00 a \$34,730.00, a la comprendida en la fracción XIII.
 
 IX. De \$12,080.00 a \$120,760.00 a la comprendida en la fracción X.
 
 X. De tres a cinco veces el monto o valor señalado en el comprobante fiscal digital por Internet que ampare el donativo, a la comprendida en la fracción XI.
 
-XI. De \$600.00 a \$11,720.00, a la comprendida en la fracción XII.
+XI. De \$680.00 a \$13,200.00, a la comprendida en la fracción XII.
 
 XII. (Se deroga)
 
-XIII. De \$1,550.00 a \$4,670.00, a la señalada en la fracción XV, por cada operación no identificada en contabilidad.
+XIII. De \$1,750.00 a \$5,260.00, a la señalada en la fracción XV, por cada operación no identificada en contabilidad.
 
 XIV. (Se deroga).
 
@@ -3087,19 +3087,19 @@ XIV. No proporcionar la información a que se refiere el artículo 32-E de este 
 
 A quien cometa las infracciones relacionadas con las entidades financieras o sociedades cooperativas de ahorro y préstamo a que se refiere el artículo 84-A de este Código, se le impondrán las siguientes multas:
 
-I. De \$290.00 a \$13,450.00, a la comprendida en la fracción I.
+I. De \$330.00 a \$15,140.00, a la comprendida en la fracción I.
 
 II. Por el 20% del valor del cheque a la establecida en la fracción II.
 
-III. De \$30.00 a \$ 70.00, por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
+III. De \$30.00 a \$80.00, por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
 
-IV. De \$446,470.00 a \$892,930.00, a la establecida en la fracción IV.
+IV. De \$502,680.00 a \$1,005,350.00, a la establecida en la fracción IV.
 
-V. De \$5,860.00 a \$87,790.00, a la establecida en la fracción V.
+V. De \$6,600.00 a \$98,840.00, a la establecida en la fracción V.
 
-VI. De \$22,310.00 a \$66,960.00, a la establecida en la fracción VI.
+VI. De \$25,120.00 a \$75,390.00, a la establecida en la fracción VI.
 
-VII. De \$80.00 a \$160.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de \$314,280.00 a \$628,560.00, por no proporcionar la información, a las señaladas en la fracción VII.
+VII. De \$90.00 a \$180.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de \$353,850.00 a \$707,700.00, por no proporcionar la información, a las señaladas en la fracción VII.
 
 VIII. De \$278,310.00 a \$309,240.00, a las establecidas en las fracciones VIII, IX y X.
 
@@ -3117,7 +3117,7 @@ Son infracciones de los usuarios de los servicios, así como de los cuentahabien
 
 ##### Artículo 84-D.
 
-A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de \$380.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de \$1,140.00 por cada una de las mismas.
+A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de \$430.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de \$1,280.00 por cada una de las mismas.
 
 ##### Artículo 84-E.
 
@@ -3125,7 +3125,7 @@ Se considera infracción en la que pueden incurrir las empresas de factoraje fin
 
 ##### Artículo 84-F.
 
-De \$5,860.00 a \$58,540.00, a quien cometa la infracción a que se refiere el artículo 84-E.
+De \$6,600.00 a \$65,910.00, a quien cometa la infracción a que se refiere el artículo 84-E.
 
 ##### Artículo 84-G.
 
@@ -3133,7 +3133,7 @@ Se considera infracción en la que pueden incurrir las casas de bolsa, el no pro
 
 ##### Artículo 84-H.
 
-A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G de este Código se le impondrá una multa de \$4,590.00 a \$9,190.00 por cada informe no proporcionado.
+A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G de este Código se le impondrá una multa de \$5,060.00 a \$10,120.00 por cada informe no proporcionado.
 
 ##### Artículo 84-I.
 
@@ -3141,7 +3141,7 @@ Se considera infracción en la que pueden incurrir las personas que emitan tarje
 
 ##### Artículo 84-J.
 
-A las personas morales que cometan la infracción a que se refiere el artículo 84-I de este Código, se les impondrá una multa de \$80.00 a \$160.00 por cada estado de cuenta no emitido en términos del artículo 32-E de este Código.
+A las personas morales que cometan la infracción a que se refiere el artículo 84-I de este Código, se les impondrá una multa de \$90.00 a \$180.00 por cada estado de cuenta no emitido en términos del artículo 32-E de este Código.
 
 ##### Artículo 84-K.
 
@@ -3149,7 +3149,7 @@ Se considera infracción en la que pueden incurrir las personas morales a que se
 
 ##### Artículo 84-L.
 
-A las personas morales a que se refiere el artículo 84-I de este Código, que cometan la infracción a que se refiere el artículo 84-K de este Código se les impondrá una multa de \$314,280.00 a \$628,560.00, por no proporcionar la información del estado de cuenta que se haya requerido.
+A las personas morales a que se refiere el artículo 84-I de este Código, que cometan la infracción a que se refiere el artículo 84-K de este Código se les impondrá una multa de \$353,850.00 a \$707,700.00, por no proporcionar la información del estado de cuenta que se haya requerido.
 
 ##### Artículo 85.
 
@@ -3169,15 +3169,15 @@ V. Declarar falsamente que cumplen los requisitos que se señalan en el artícul
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el Artículo 85, se impondrán las siguientes multas;
 
-I. De \$15,430.00 a \$46,290.00, a la comprendida en la fracción I.
+I. De \$17,370.00 a \$52,120.00, a la comprendida en la fracción I.
 
-II. De \$1,350.00 a \$55,710.00, a la establecida en la fracción II.
+II. De \$1,520.00 a \$62,720.00, a la establecida en la fracción II.
 
-III. De \$2,920.00 a \$73,180.00, a la establecida en la fracción III.
+III. De \$3,290.00 a \$82,390.00, a la establecida en la fracción III.
 
-IV. De \$117,940.00 a \$157,250.00, a la comprendida en la fracción IV.
+IV. De \$132,790.00 a \$177,050.00, a la comprendida en la fracción IV.
 
-V. De \$6,690.00 a \$11,150.00, sin perjuicio de las demás sanciones que procedan, a la establecida en la fracción V.
+V. De \$7,530.00 a \$12,550.00, sin perjuicio de las demás sanciones que procedan, a la establecida en la fracción V.
 
 ##### Artículo 86-A.
 
@@ -3199,11 +3199,11 @@ A quienes cometan las infracciones señaladas en el artículo 86-A de este Códi
 
 I. De \$50.00 a \$110.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido, o bien, por cada marbete o precinto falso o alterado.
 
-II. De \$30.00 a \$110.00, a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
+II. De \$30.00 a \$120.00, a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
 
 III. De \$20.00 a \$50.00, a la comprendida en la fracción III, por cada envase o recipiente que carezca de marbete o precinto, según se trate, o bien por cada marbete o precinto falso o alterado.
 
-IV. De \$30.00 a \$100.00, a la comprendida en la fracción IV, por cada envase vacío no destruido.
+IV. De \$30.00 a \$110.00, a la comprendida en la fracción IV, por cada envase vacío no destruido.
 
 V. De \$440.00 a \$660.00, por cada marbete o precinto que haya sido adquirido ilegalmente.
 
@@ -3225,7 +3225,7 @@ Asimismo, son infracciones de los productores o envasadores de bebidas alcohóli
 
 ##### Artículo 86-F.
 
-A quienes cometan las infracciones señaladas en el artículo 86-E de este Código, se les impondrá una multa de \$43,730.00 a \$102,040.00. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+A quienes cometan las infracciones señaladas en el artículo 86-E de este Código, se les impondrá una multa de \$49,240.00 a \$114,890.00. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 ##### Artículo 86-G.
 
@@ -3273,7 +3273,7 @@ V. Revelar a terceros, en contravención a lo dispuesto por el artículo 69 de e
 
 ##### Artículo 88.
 
-Se sancionará con una multa de \$117,940.00 a \$157,250.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87.
+Se sancionará con una multa de \$132,790.00 a \$177,050.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87.
 
 ##### Artículo 89.
 
@@ -3289,7 +3289,7 @@ No se incurrirá en la infracción a que se refiere la fracción primera de este
 
 ##### Artículo 90.
 
-Se sancionará con una multa de \$49,210.00 a \$77,350.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89 de este Código.
+Se sancionará con una multa de \$54,200.00 a \$85,200.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89 de este Código.
 
 En los supuestos señalados en la fracción I del artículo citado, se considerará como agravante que la asesoría, el consejo o la prestación de servicios sea diversa a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código. En este caso, la multa se aumentará de un 10% a un 20% del monto de la contribución omitida, sin que dicho aumento exceda del doble de los honorarios cobrados por la asesoría, el consejo o la prestación de servicios.
 
@@ -3297,7 +3297,7 @@ No se incurrirá en la agravante a que se refiere el párrafo anterior, cuando s
 
 ##### Artículo 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de \$290.00 a \$2,820.00.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de \$330.00 a \$3,180.00.
 
 ##### Artículo 91-A.
 
@@ -3431,7 +3431,7 @@ III. De importación o exportación prohibida.
 
 También comete delito de contrabando quien interne mercancías extranjeras procedentes de las zonas libres al resto del país en cualquiera de los casos anteriores, así como quien las extraiga de los recintos fiscales o fiscalizados sin que le hayan sido entregados legalmente por las autoridades o por las personas autorizadas para ello.
 
-No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de \$155,610.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
+No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de \$175,200.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
 
 ##### Artículo 103.
 
@@ -3487,9 +3487,9 @@ No se formulará declaratoria de perjuicio, a que se refiere la fracción II del
 
 El delito de contrabando se sancionará con pena de prisión:
 
-I. De tres meses a cinco años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta \$1,104,530.00, respectivamente o, en su caso, la suma de ambas es de hasta de \$1,656,780.00.
+I. De tres meses a cinco años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta \$1,243,590.00, respectivamente o, en su caso, la suma de ambas es de hasta de \$1,865,370.00.
 
-II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de \$1,104,530.00, respectivamente o, en su caso, la suma de ambas excede de \$1,656,780.00.
+II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de \$1,243,590.00, respectivamente o, en su caso, la suma de ambas excede de \$1,865,370.00.
 
 III. De tres a nueve años, cuando se trate de mercancías cuyo tráfico haya sido prohibido por el Ejecutivo Federal en uso de las facultades señaladas en el segundo párrafo del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -3595,11 +3595,11 @@ El delito de defraudación fiscal y el delito previsto en el artículo 400 Bis d
 
 El delito de defraudación fiscal se sancionará con las penas siguientes:
 
-I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de \$1,540,350.00.
+I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de \$1,734,280.00.
 
-II. Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de \$1,540,350.00 pero no de \$2,310,520.00.
+II. Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de \$1,734,280.00 pero no de \$2,601,410.00.
 
-III. Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor de \$2,310,520.00.
+III. Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor de \$2,601,410.00.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -3691,7 +3691,7 @@ No se formulará querella, si quien encontrándose en los supuestos anteriores s
 
 ##### Artículo 112.
 
-Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de \$137,770.00; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de \$155,120.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
 
@@ -3721,7 +3721,7 @@ Se impondrá sanción de uno a seis años de prisión, al servidor público que 
 
 ##### Artículo 115.
 
-Se impondrá sanción de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de \$59,040.00; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de \$66,470.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 La misma pena se impondrá a quien dolosamente destruya o deteriore dichas mercancías.
 
@@ -4419,9 +4419,9 @@ II. Por la de embargo, incluyendo los señalados en los Artículos 41, fracción
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a \$380.00, se cobrará esta cantidad en vez del 2% del crédito.
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a \$430.00, se cobrará esta cantidad en vez del 2% del crédito.
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de \$59,540.00.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de \$67,040.00.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 41, fracción II y 141, fracción V, de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles enajenados o adjudicados a favor de la Federación en los términos de lo previsto por el artículo 191 de este Código, y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen a los bienes que sean objeto de remate.
 
@@ -7366,3 +7366,19 @@ B. Compilación de cantidades establecidas en el Código vigente.
 ……….
 
 Ciudad de México, 04 de mayo de 2017.- El Jefe del Servicio de Administración Tributaria, Osvaldo Antonio Santín Quiroz.- Rúbrica.
+
+### ANEXOS 1, 3, 5, 6, 7, 8, 11, 17, 18, 23, 25, 25 Bis, 27, 28 y 29 de la Resolución Miscelánea Fiscal para 2018, publicada el 22 de diciembre de 2017.
+
+*Publicados en el Diario Oficial de la Federación el 29 de diciembre de 2017*
+
+Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2017
+
+A. Cantidades actualizadas establecidas en el Código.
+
+> Nota: Se actualizan diversas cantidades establecidas en los artículos 32-H, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+
+………
+
+Atentamente,
+
+Ciudad de México, 15 de diciembre de 2017.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria vigente, firma el Administrador General Jurídico, Jaime Eusebio Flores Carrasco.- Rúbrica.
