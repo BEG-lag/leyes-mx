@@ -3,12 +3,12 @@ title: Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constituci
 abbreviation: LAmp
 slug: lamp
 published_dof: 2013-04-02
-last_reform_dof: 2016-06-17
+last_reform_dof: 2018-01-19
 articles: 271
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_170616.doc
-archived: https://web.archive.org/web/20160717111614/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LAmp_170616.doc
-source_sha256: b84730d76bdf8da99d331e8a3113af38aed9cb2fe7ee441398b7eab07a707e05
-retrieved: 2016-07-17
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_190118.doc
+archived: https://web.archive.org/web/20180204235537/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LAmp_190118.doc
+source_sha256: cfc72e9466fec92b6b6f576b6081fdaad79e161b9ac3fc8ac9ed9d944ee5c590
+retrieved: 2018-02-04
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lamp.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 2 de abril de 2013
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 17-06-2016
+Última reforma publicada DOF 19-01-2018
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -238,7 +238,9 @@ Los plazos a que se refiere el artículo anterior se computarán a partir del d�
 
 ###### Artículo 19.
 
-Son días hábiles para la promoción, substanciación y resolución de los juicios de amparo todos los del año, con excepción de los sábados y domingos, uno de enero, cinco de febrero, veintiuno de marzo, uno y cinco de mayo, dieciséis de septiembre, doce de octubre, veinte de noviembre y veinticinco de diciembre, así como aquellos en que se suspendan las labores en el órgano jurisdiccional ante el cual se tramite el juicio de amparo, o cuando no pueda funcionar por causa de fuerza mayor.
+Son días hábiles para la promoción, substanciación y resolución de los juicios de amparo todos los del año, con excepción de los sábados y domingos, uno de enero, cinco de febrero, veintiuno de marzo, uno y cinco de mayo, catorce y dieciséis de septiembre, doce de octubre, veinte de noviembre y veinticinco de diciembre, así como aquellos en que se suspendan las labores en el órgano jurisdiccional ante el cual se tramite el juicio de amparo, o cuando no pueda funcionar por causa de fuerza mayor.
+
+*Artículo reformado DOF 19-01-2018*
 
 ###### Artículo 20.
 
@@ -2947,3 +2949,19 @@ Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autor
 Ciudad de México, a 15 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Verónica Delgadillo García, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 19 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos y 163 de la Ley Orgánica del Poder Judicial de la Federación.
+
+*Publicado en el Diario Oficial de la Federación el 19 de enero de 2018*
+
+**Artículo Primero.-** Se reforma el artículo 19 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 23 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de enero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
