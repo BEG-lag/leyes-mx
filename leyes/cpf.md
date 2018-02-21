@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2017-11-17
-articles: 535
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_171117.doc
-archived: https://web.archive.org/web/20171208144133/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_171117.doc
-source_sha256: bd34737b4f3efbac7b35f1d82b80b4948c79d432443eec04366b0cabf9aeb351
-retrieved: 2017-12-08
+last_reform_dof: 2018-02-21
+articles: 537
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_210218.doc
+archived: https://web.archive.org/web/20180304173520/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_210218.doc
+source_sha256: 822da1eef46d6bc2d381e7b4f52f21054dd9bcfb6fde3c01f631284dd773805f
+retrieved: 2018-03-04
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 17-11-2017
+Última reforma publicada DOF 21-02-2018
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 >
@@ -4057,6 +4057,22 @@ Cuando el objeto robado sea un vehículo automotor terrestre que sea objeto de r
 
 La pena prevista en el párrafo anterior se aumentará en una mitad, cuando en el robo participe algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o ejecución de penas y, además se le aplicará destitución e inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos por un tiempo igual al de la pena de prisión impuesta.
 
+##### Artículo 376 Ter.
+
+A quien cometa el delito de robo en contra de personas que presten o utilicen por sí o por un tercero los servicios de autotransporte federal de carga, pasajeros, turismo o transporte privado, se le impondrá una pena de 6 a 12 años de prisión, cuando el objeto del robo sea las mercancías y de 2 a 7 años de prisión, cuando se trate únicamente de equipaje o valores de turistas o pasajeros, en cualquier lugar durante el trayecto del viaje, con independencia del valor de lo robado.
+
+Cuando el objeto del robo sea el vehículo automotor se aplicará lo dispuesto en los artículos 376 Bis y 377 de este Código, sin perjuicio de que se acumulen las penas que correspondan por otras conductas ilícitas que concurran en la realización del delito, incluidas las previstas en el párrafo primero del presente artículo.
+
+Cuando la conducta a que se refiere este artículo se cometa por una asociación delictuosa, banda o pandilla, se sancionará en términos de los artículos 164 o 164 Bis, según corresponda.
+
+##### Artículo 376 Quáter.
+
+Además de la pena que le corresponda conforme al primer párrafo del artículo anterior, se aplicarán las previstas en este artículo en los casos siguientes:
+
+I.- La pena de prisión se aumentará en un tercio cuando exista apoderamiento del remolque o semirremolque y sea utilizado para cometer otro ilícito, y
+
+II.- La pena de prisión se aumentará en una mitad cuando, a sabiendas de sus funciones el servidor público, cometa o participe en el robo y este tenga o desempeñe funciones de prevención, investigación, persecución del delito o ejecución de penas, con independencia de la sanción penal, se le inhabilitará para desempeñar cualquier empleo, cargo o comisión pública por un tiempo igual al de la pena de prisión impuesta.
+
 ##### Artículo 377.
 
 Se sancionará con pena de cinco a quince años de prisión y hasta mil días multa, al que a sabiendas y con independencia de las penas que le correspondan por la comisión de otros delitos:
@@ -4093,7 +4109,7 @@ Al que se le imputare el hecho de haber tomado una cosa ajena sin consentimiento
 
 ##### Artículo 381.
 
-Además de la pena que le corresponda conforme a los artículos 370 y 371, se aplicarán al delincuente las penas previstas en este artículo, en los casos siguientes:
+Además de la pena que le corresponda conforme a los artículos 370, 371 y el primer párrafo del artículo 376 Ter, se aplicarán al delincuente las penas previstas en este artículo, en los casos siguientes:
 
 I.- Cuando se cometa el delito en un lugar cerrado.
 
@@ -4121,7 +4137,7 @@ XI.- Cuando se trate de partes de vehículos estacionados en la vía pública o 
 
 XII.- Cuando se realicen sobre embarcaciones o cosas que se encuentren en ellas;
 
-XIII.- Cuando se comete sobre equipaje o valores de viajeros en cualquier lugar durante el transcurso del viaje;
+XIII.- (Se deroga)
 
 XIV.- Cuando se trate de expedientes o documentos de protocolo, oficina o archivos públicos, de documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, con afectación de alguna función pública. Si el delito lo comete el servidor público de la oficina en que se encuentre el expediente o documento, se le impondrá además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, de seis meses a tres años;
 
@@ -4131,7 +4147,7 @@ XVI. Cuando se cometa en caminos o carreteras, y
 
 XVII. Cuando el objeto de apoderamiento sean vías, sus partes o equipo ferroviario, los bienes, valores o mercancías que se transporten por este medio.
 
-En los supuestos a que se refieren las fracciones I, II, III, IV, V, VI, XI, XII, XIII, XIV y XV, hasta cinco años de prisión.
+En los supuestos a que se refieren las fracciones I, II, III, IV, V, VI, XI, XII, XIV y XV, hasta cinco años de prisión.
 
 En los supuestos a que se refieren las fracciones VII, VIII, IX, X, XVI y XVII, de dos a siete años de prisión.
 
@@ -6757,3 +6773,19 @@ Asimismo, las Entidades Federativas deberán realizar las previsiones y adecuaci
 Ciudad de México, a 12 de octubre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de noviembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal y de la Ley Orgánica del Poder Judicial de la Federación, en materia de Delitos Carreteros.
+
+*Publicado en el Diario Oficial de la Federación el 21 de febrero de 2018*
+
+**Artículo Primero.-** Se reforma el artículo 381, primer y segundo párrafos; se adicionan los artículos 376 Ter y 376 Quáter, y se deroga la fracción XIII del artículo 381 del Código Penal Federal, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 15 de diciembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de febrero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
