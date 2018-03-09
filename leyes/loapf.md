@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2017-05-19
+last_reform_dof: 2018-03-09
 articles: 63
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_190517.doc
-archived: https://web.archive.org/web/20170622024319/http://www.diputados.gob.mx/LeyesBiblio/doc/153_190517.doc
-source_sha256: f1c4adadee026721b183b783fe652c305de93e921c95e5a1f1504b1cda2f5dd8
-retrieved: 2017-06-22
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_090318.doc
+archived: https://web.archive.org/web/20180324170921/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_090318.doc
+source_sha256: 39f51bdf3e5ee0672f83e25071b7a1f641aa7bbd34093928053c9026a623a301
+retrieved: 2018-03-24
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 19-05-2017
+Última reforma publicada DOF 09-03-2018
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -424,7 +424,9 @@ XXXVIII. Regular, autorizar y vigilar el juego, las apuestas, las loterías y ri
 
 XXXIX. Formular, regular y conducir la política de comunicación social del Gobierno Federal y las relaciones con los medios masivos de información, así como orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las dependencias del Sector Público Federal;
 
-XL. Vigilar que las publicaciones impresas y las transmisiones de radio y televisión, así como las películas cinematográficas, se mantengan dentro de los límites del respeto a la vida privada, a la paz y moral pública y a la dignidad personal, y no ataquen los derechos de terceros, ni provoquen la comisión de algún delito o perturben el orden público;
+XL. Vigilar que las publicaciones impresas y las transmisiones de radio y televisión, así como las películas cinematográficas y los videojuegos, se mantengan dentro de los límites del respeto a la vida privada, a la paz y a la moral pública, a la dignidad personal y al interés superior de la niñez, y no ataquen los derechos de terceros, ni provoquen la comisión de algún delito o perturben el orden público;
+
+*Fracción reformada DOF 09-03-2018*
 
 XLI. Impulsar las políticas públicas y dar seguimiento a los programas que refuercen la inclusión social y la igualdad, mediante estrategias y acciones que contribuyan a prevenir y eliminar la discriminación;
 
@@ -3613,3 +3615,25 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 27 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a diecinueve de mayo de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+*Publicado en el Diario Oficial de la Federación el 9 de marzo 2018*
+
+**Artículo Primero.-** Se reforma la fracción XL del artículo 27 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+………..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
+
+**Tercero.** La Secretaría de Gobernación, en un plazo de ciento ochenta días a partir de la entrada en vigor de las modificaciones reglamentarias que refiere el artículo transitorio anterior, deberá expedir los lineamientos previstos en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+**Cuarto.** Durante los periodos referidos en los artículos segundo y tercero transitorios del presente Decreto, los distribuidores, comercializadores y arrendadores de videojuegos deberán tomar las medidas necesarias para que los videojuegos clasificados como exclusivos para adultos, de conformidad con los criterios de clasificación internacionales, no sean vendidos o arrendados a personas que no acrediten su mayoría de edad en términos de lo dispuesto en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+Ciudad de México, a 14 de diciembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ernestina Godoy Ramos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de febrero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
