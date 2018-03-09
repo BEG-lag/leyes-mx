@@ -3,12 +3,12 @@ title: Código Civil Federal
 abbreviation: CCF
 slug: ccf
 published_dof: 1928-05-26
-last_reform_dof: 2018-01-19
+last_reform_dof: 2018-03-09
 articles: 3102
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/2_190118.doc
-archived: https://web.archive.org/web/20180205020608/http://www.diputados.gob.mx:80/LeyesBiblio/doc/2_190118.doc
-source_sha256: 630e7ff28dfba81a05f2249320b34e93c4c511defc346c72098f0b0fb37d5fbc
-retrieved: 2018-02-05
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/2_090318.doc
+archived: https://web.archive.org/web/20181105064557/http://www.diputados.gob.mx:80/LeyesBiblio/doc/2_090318.doc
+source_sha256: 984792228f522b8f766d8ffe974396744c3c2328795b513955ea4e599191c89d
+retrieved: 2018-11-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccf.htm
 ---
 
@@ -20,7 +20,7 @@ los días 26 de mayo, 14 de julio, 3 y 31 de agosto de 1928
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 19-01-2018
+Última reforma publicada DOF 09-03-2018
 
 El C. Presidente Constitucional de la República se ha servido dirigirme el decreto que sigue:
 
@@ -369,6 +369,8 @@ El acta de nacimiento se levantará con asistencia de dos testigos. Contendrá e
 Si el nacimiento ocurriere en un establecimiento de reclusión, el Juez del Registro Civil deberá asentar como domicilio del nacido, el Distrito Federal.
 
 En los casos de los artículo 60 y 77 de este Código el Juez pondrá el apellido paterno de los progenitores o los dos apellidos del que lo reconozca.
+
+En todos los casos que se requiera, el juez del Registro Civil está obligado a registrar en el acta de nacimiento el nombre solicitado, con estricto apego a las formas orales, funcionales y simbólicas de comunicación pertenecientes a las lenguas indígenas.
 
 ###### Artículo 59.
 
@@ -16025,3 +16027,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 23 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de enero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se adiciona un cuarto párrafo al artículo 58 del Código Civil Federal.
+
+*Publicado en el Diario Oficial de la Federación el 9 de marzo de 2018*
+
+**Artículo Único.-** Se adiciona un cuarto párrafo al artículo 58 del Código Civil Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Las Legislaturas Locales de todos los Estados que conforman la República Mexicana deberán ajustar su legislación civil o familiar, según sea el caso, conforme al presente Decreto, en un término no mayor a 120 días hábiles posteriores a su entrada en vigor.
+
+Ciudad de México, a 14 de diciembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dos de marzo de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
