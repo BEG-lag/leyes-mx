@@ -3,12 +3,12 @@ title: Código de Comercio
 abbreviation: CCom
 slug: ccom
 published_dof: 1889-10-07
-last_reform_dof: 2017-12-26
-articles: 1640
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/3_261217.doc
-archived: https://web.archive.org/web/20180127234119/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3_261217.doc
-source_sha256: 20581891b5f93940febaf97c1d2e204a7b15decccb921576485f662dd58899c9
-retrieved: 2018-01-27
+last_reform_dof: 2018-03-28
+articles: 1641
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/3_280318.doc
+archived: https://web.archive.org/web/20181105064629/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3_280318.doc
+source_sha256: 090417dc7c88e6f5e1bbb4b08b4b5adf4652d83ca07fd5601acc94e76d77c9bf
+retrieved: 2018-11-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccom.htm
 ---
 
@@ -18,9 +18,7 @@ Nuevo Código publicado en el Diario Oficial de la Federación del 7 de octubre 
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 02-05-2017
-
-Cantidades actualizadas por Acuerdo DOF 26-12-2017
+Última reforma publicada DOF 28-03-2018
 
 El Presidente de la República se ha servido dirigirme el decreto que sigue:
 
@@ -1962,7 +1960,9 @@ En las operaciones hechas por el comisionista, con violación o con exceso del e
 
 El comisionista estará obligado a dar oportunamente noticia a su comitente, de todos los hechos o circunstancias que puedan determinarle a revocar o modificar el encargo. Asimismo debe dársela sin demora, de la ejecución de dicho encargo.
 
-Artículo 29l.- El comisionista deberá observar lo establecido en las leyes y reglamentos respecto a la negociación que se le hubiere confiado, y será responsable de los resultados de su contravención ú omisión. Si los contraviniere en virtud de órdenes expresas del comitente, las responsabilidades a que haya lugar pesarán sobre ambos.
+###### Artículo 291.
+
+El comisionista deberá observar lo establecido en las leyes y reglamentos respecto a la negociación que se le hubiere confiado, y será responsable de los resultados de su contravención ú omisión. Si los contraviniere en virtud de órdenes expresas del comitente, las responsabilidades a que haya lugar pesarán sobre ambos.
 
 ###### Artículo 292.
 
@@ -9110,7 +9110,7 @@ El tribunal arbitral no podrá cobrar honorarios adicionales por la interpretaci
 
 ###### Artículo 1456.
 
-Una vez constituido, el tribunal arbitral podrá requerir a cada una de las partes que deposite una suma igual, por concepto de anticipo de honorarios del tribunal arbitral, gastos de viaje y demás expensas de los árbitros, y del costo de asesoría paricial o de cualquier otra asistencia requerida por el tribunal arbitral.
+Una vez constituido, el tribunal arbitral podrá requerir a cada una de las partes que deposite una suma igual, por concepto de anticipo de honorarios del tribunal arbitral, gastos de viaje y demás expensas de los árbitros, y del costo de asesoría pericial o de cualquier otra asistencia requerida por el tribunal arbitral.
 
 En el curso de las actuaciones, el tribunal arbitral podrá requerir depósitos adicionales de las partes.
 
@@ -10196,17 +10196,21 @@ Ciudad de México, a 16 de diciembre de 2016.- El Secretario de Economía, Ildef
 
 **Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-**Segundo.-** Las disposiciones previstas en el Título Especial Bis denominado “Del Juicio Ejecutivo Mercantil Oral” del Libro Quinto, entrarán en vigor a los doce meses después de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las disposiciones previstas en el Título Especial Bis denominado “Del Juicio Ejecutivo Mercantil Oral” del Libro Quinto, serán aplicables a los asuntos en los que el valor de la suerte principal sea igual o superior a la cantidad que establece el artículo 1339 para que un juicio sea apelable y hasta \$650,000.00, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de interposición de la demanda.
 
-**Tercero.-** A partir del año siguiente al de la entrada en vigor del presente Decreto, en los juicios orales mercantiles previstos en el artículo 1390 Bis, se tramitarán todas las contiendas mercantiles cuyo monto sea menor a \$1,000,000.00 por concepto de suerte principal, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
+A partir del 26 de enero de 2019, en los juicios ejecutivos mercantiles orales a que se refiere el párrafo anterior, se tramitarán todas las contiendas mercantiles cuyo monto por concepto de suerte principal sea igual o superior a la cantidad que establece el artículo 1339 para que un juicio sea apelable y hasta \$1,000,000.00, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
+
+A partir del 26 de enero de 2020, en los juicios ejecutivos mercantiles orales a que se refiere el presente transitorio, se tramitarán todas las contiendas mercantiles cuyo monto sea igual o superior a la cantidad que establece el artículo 1339 para que un juicio sea apelable y hasta \$4,000,000.00, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
+
+**Tercero.-** En los juicios orales mercantiles previstos en el artículo 1390 Bis, se tramitarán todas las contiendas mercantiles cuyo monto sea hasta \$650,000.00 por concepto de suerte principal, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
 
 Si en el mismo periodo, la reconvención se reclama, por concepto de suerte principal, una cantidad superior a la prevista en el párrafo que antecede, se reservará el derecho del actor en la reconvención para que lo haga valer ante el juez que resulte competente.
 
-**Cuarto.-** A partir del segundo año siguiente al de la entrada en vigor del presente Decreto, en los juicios orales mercantiles previstos en el artículo 1390 Bis se tramitarán todas las contiendas mercantiles cuyo monto sea menor a \$1,500,000.00 por concepto de suerte principal, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
+**Cuarto.-** A partir del 26 de enero de 2019, en los juicios orales mercantiles previstos en el artículo 1390 Bis se tramitarán todas las contiendas mercantiles cuyo monto sea hasta \$1,000,000.00 por concepto de suerte principal, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
 
 Si en el mismo periodo, la reconvención se reclama, por concepto de suerte principal, una cantidad superior a la prevista en el párrafo que antecede, se reservará el derecho del actor en la reconvención para que lo haga valer ante el juez que resulte competente.
 
-**Quinto.-** A partir del tercer año siguiente al de la entrada en vigor del presente Decreto, en los juicios orales mercantiles previstos en el artículo 1390 Bis se tramitarán todas las contiendas mercantiles sin limitación de cuantía.
+**Quinto.-** A partir del 26 de enero de 2020, en los juicios orales mercantiles previstos en el artículo 1390 Bis se tramitarán todas las contiendas mercantiles sin limitación de cuantía.
 
 Ciudad de México, a 6 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
@@ -10251,3 +10255,21 @@ e) Artículo 1390 Bis 33: de \$2,132.60 (Dos mil ciento treinta y dos 60/100 M.N
 **ÚNICO. -** El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Ciudad de México, a 15 de diciembre de 2017.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos Transitorios Segundo; primer párrafo del artículo Tercero; primer párrafo del artículo Cuarto, y artículo Quinto; se adicionan los párrafos segundo y tercero al artículo Segundo Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles”, publicado en el Diario Oficial de la Federación el 25 de enero de 2017.
+
+*Publicado en el Diario Oficial de la Federación el 28 de marzo de 2018*
+
+**Artículo Único.-** Se reforman los artículos Transitorios Segundo; primer párrafo del artículo Tercero; primer párrafo del artículo Cuarto, y artículo Quinto; se adicionan los párrafos segundo y tercero al artículo Segundo Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles”, publicado en el Diario Oficial de la Federación el 25 de enero de 2017, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Los asuntos cuya demanda haya sido admitida a partir del 25 de enero de 2018 y hasta la entrada en vigor del presente Decreto, se tramitarán conforme a las leyes aplicables en ese momento.
+
+Ciudad de México, a 6 de marzo de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiséis de marzo de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
