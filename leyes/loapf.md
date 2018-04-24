@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2018-03-09
+last_reform_dof: 2018-04-24
 articles: 63
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_090318.doc
-archived: https://web.archive.org/web/20180324170921/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_090318.doc
-source_sha256: 39f51bdf3e5ee0672f83e25071b7a1f641aa7bbd34093928053c9026a623a301
-retrieved: 2018-03-24
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_240418.doc
+archived: https://web.archive.org/web/20180613185615/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_240418.doc
+source_sha256: a01d8778cdda14a1c5985d8a2ede4c2ba37d3ad93ede77b943b2411ecd6736bc
+retrieved: 2018-06-13
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-03-2018
+Última reforma publicada DOF 24-04-2018
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -1864,7 +1864,9 @@ X. Promover e impulsar la investigación, conservación y promoción de la histo
 
 XI. Fomentar las relaciones de orden cultural con otros países; facilitar la celebración de convenios de intercambio de educandos en las especialidades de las artes y la cultura universal; y definir la proyección de la cultura mexicana en el ámbito internacional, tanto bilateral como multilateral, con la colaboración de la Secretaría de Relaciones Exteriores;
 
-XII. Promover la producción cinematográfica, de radio y televisión y en la industria editorial temas de interés cultural y artístico y de aquéllas tendientes al mejoramiento cultural y la propiedad del idioma nacional, así como diseñar, promover y proponer directrices culturales y artísticos en dichas producciones;
+XII. Promover la producción cinematográfica, de radio y televisión y en la industria editorial temas de interés cultural y artístico y de aquéllas tendientes al mejoramiento cultural y la propiedad de las lenguas nacionales, así como diseñar, promover y proponer directrices culturales y artísticos en dichas producciones;
+
+*Fracción reformada DOF 24-04-2018*
 
 XIII. Dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, que transmitan programación con contenido preponderantemente cultural, con exclusión de las que dependan de otras dependencias;
 
@@ -3637,3 +3639,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 14 de diciembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ernestina Godoy Ramos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de febrero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción XII del artículo 41 Bis de la Ley Orgánica de la Administración Pública Federal.
+
+*Publicado en el Diario Oficial de la Federación el 24 de abril 2018*
+
+**Artículo Único.-** Se reforma la fracción XII del artículo 41 Bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 22 de febrero de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a diecisiete de abril de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
