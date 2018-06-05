@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2018-01-19
+last_reform_dof: 2018-06-05
 articles: 264
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/148_190118.doc
-archived: https://web.archive.org/web/20180304171519/http://www.diputados.gob.mx:80/LeyesBiblio/doc/148_190118.doc
-source_sha256: 5f2bf1619e3f8ad62ba83d45afa0bdd54dc12c07aa4810694ba29a29f1f24390
-retrieved: 2018-03-04
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/148_050618.doc
+archived: https://web.archive.org/web/20181105063019/http://www.diputados.gob.mx:80/LeyesBiblio/doc/148_050618.doc
+source_sha256: 4b5768f4d49ca41794e693d750b69bc4753c9bbf93182a5ba9522540751b428d
+retrieved: 2018-11-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 19-01-2018
+Última reforma publicada DOF 05-06-2018
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -123,6 +123,12 @@ XI.- Desarrollo Sustentable: El proceso evaluable mediante criterios e indicador
 XII.- Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
 XIII.- Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+
+XIII Bis.- Ecosistemas costeros: Las playas, las dunas costeras, los acantilados, franjas intermareales; los humedales costeros tales como las lagunas interdunarias, las lagunas costeras, los esteros, las marismas, los pantanos, las ciénegas, los manglares, los petenes, los oasis, los cenotes, los pastizales, los palmares y las selvas inundables; los arrecifes de coral; los ecosistemas formados por comunidades de macroalgas y de pastos marinos, fondos marinos o bentos y las costas rocosas. Estos se caracterizan porque se localizan en la zona costera pudiendo comprender porciones marinas, acuáticas y/o terrestres; que abarcan en el mar a partir de una profundidad de menos de 200 metros, hasta 100 km tierra adentro o 50 m de elevación.
+
+La Secretaría, en colaboración con las entidades federativas y los municipios, determinará la zona costera nacional tomando en consideración las interacciones fisiográficas y biológicas particulares de la zona que se trate y la publicará en el Diario Oficial de la Federación mediante Acuerdo.
+
+*Fracción adicionada DOF 23-04-2018*
 
 XIV.- Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
@@ -454,7 +460,9 @@ f) Cambios de uso de suelo de áreas forestales, así como en selvas y zonas ár
 
 g) Desarrollos inmobiliarios que afecten los ecosistemas costeros,
 
-h) Obras y actividades en humedales, manglares, lagunas, ríos, lagos y esteros conectados con el mar, así como en sus litorales o zonas federales, e
+h) Obras y actividades en humedales, ecosistemas costeros, lagunas, ríos, lagos y esteros conectados con el mar, así como en sus litorales o zonas federales, e
+
+*Inciso reformado DOF 23-04-2018*
 
 i) Obras en áreas naturales protegidas de competencia de la Federación y actividades que por su naturaleza puedan causar desequilibrios ecológicos graves; así como actividades que pongan en riesgo el ecosistema.
 
@@ -534,7 +542,7 @@ Las autoridades ambientales de la Federación y de las entidades federativas int
 
 ### CAPÍTULO III · Política Ambiental
 
-*Denominación del Capítulo reformada DOF 13-12-1996 (reubicado)*
+*Capítulo reubicado con denominación reformada DOF 13-12-1996*
 
 ##### ARTÍCULO 15.
 
@@ -598,7 +606,7 @@ Las entidades federativas y los municipios en el ámbito de sus competencias, ob
 
 ### CAPÍTULO IV · Instrumentos de la Política Ambiental
 
-*Denominación del Capítulo reformada DOF 13-12-1996 (reubicado)*
+*Capítulo reubicado con denominación reformada DOF 13-12-1996*
 
 #### SECCIÓN I · Planeación Ambiental
 
@@ -940,7 +948,9 @@ VIII.- Parques industriales donde se prevea la realización de actividades altam
 
 IX.- Desarrollos inmobiliarios que afecten los ecosistemas costeros;
 
-X.- Obras y actividades en humedales, manglares, lagunas, ríos, lagos y esteros conectados con el mar, así como en sus litorales o zonas federales;
+X.- Obras y actividades en humedales, ecosistemas costeros, lagunas, ríos, lagos y esteros conectados con el mar, así como en sus litorales o zonas federales. En el caso de actividades pesqueras, acuícolas o agropecuarias se estará a lo dispuesto por la fracción XII de este artículo;
+
+*Fracción reformada DOF 23-04-2018*
 
 XI. Obras y actividades en áreas naturales protegidas de competencia de la Federación;
 
@@ -1238,7 +1248,7 @@ Se deroga.
 
 Se deroga.
 
-*Capítulo derogado DOF 13-12-1996*
+*Capítulo reubicado y derogado DOF 13-12-1996*
 
 ## TÍTULO SEGUNDO · Biodiversidad
 
@@ -2344,9 +2354,11 @@ La Secretaría promoverá ante la Secretaría de Agricultura, Ganadería, Desarr
 
 ##### ARTÍCULO 105.
 
-En los estímulos fiscales que se otorguen a las actividades forestales, deberán considerarse criterios ecológicos de manera que se promuevan el desarrollo y fomento integral de la actividad forestal, el establecimiento y ampliación de plantaciones forestales y las obras para la protección de suelos forestales, en los términos de esta Ley y de la Ley Forestal.
+En los estímulos fiscales y otros apoyos económicos que se otorguen a las actividades forestales deberán considerarse criterios ecológicos de manera que se promuevan el desarrollo y fomento integral de la actividad forestal, el establecimiento y ampliación de plantaciones forestales y las obras para la protección de suelos forestales, en los términos de esta Ley y de la Ley General de Desarrollo Forestal Sustentable.
 
-*Artículo reformado DOF 13-12-1996*
+Los apoyos que se otorguen a las actividades agropecuarias tendrán que ser compatibles con la protección de los suelos forestales, de manera que no se realice el cambio de uso de suelo de forestal a agrícola o pecuario.
+
+*Artículo reformado DOF 13-12-1996, 05-06-2018*
 
 ##### ARTÍCULO 106.
 
@@ -4489,3 +4501,39 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 23 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de enero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 23 de abril de 2018*
+
+**Artículo Único.-** Se reforma el inciso h) de la fracción III del artículo 11 y la fracción X del artículo 28; y se adiciona una fracción XIII Bis al artículo 3o. de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 27 de febrero de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Marco Antonio Aguilar Yunes, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a diecisiete de abril de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se abroga la Ley General de Desarrollo Forestal Sustentable, publicada en el Diario Oficial de la Federación, el 25 de febrero de 2003, se expide la Ley General de Desarrollo Forestal Sustentable; y se reforma el primer párrafo al artículo 105 y se adiciona un segundo párrafo al mismo artículo de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 5 de junio de 2018*
+
+**Artículo Segundo.** Se reforma el primer párrafo y se adiciona un segundo párrafo al artículo 105 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……..
+
+Transitorios de la Ley General del Equilibrio Ecológico y la Protección al Ambiente
+
+**Primero.** La presente Ley entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Los programas sujetos a reglas de operación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y de la Comisión Nacional Forestal para el ejercicio fiscal 2018 y subsecuentes, deberán observar lo dispuesto en el presente Decreto.
+
+**Tercero.** Las erogaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto para la Secretaría de Medio Ambiente y Recursos Naturales, y para la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, se cubrirán con los recursos que apruebe la H. Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
+
+Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Verónica Bermúdez Torres, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a cinco de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
