@@ -3,12 +3,12 @@ title: Ley General de Sociedades Mercantiles
 abbreviation: LGSM
 slug: lgsm
 published_dof: 1934-08-04
-last_reform_dof: 2018-01-24
+last_reform_dof: 2018-06-14
 articles: 277
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/144_240118.doc
-archived: https://web.archive.org/web/20180304211048/http://www.diputados.gob.mx:80/LeyesBiblio/doc/144_240118.doc
-source_sha256: 2b47527e7babaaa67f983f1958c0a8306d9c4f7aa3875679068af1d70828dca8
-retrieved: 2018-03-04
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/144_140618.doc
+archived: https://web.archive.org/web/20190711030835/http://www.diputados.gob.mx:80/LeyesBiblio/doc/144_140618.doc
+source_sha256: 8a269637ba97f129b1b88b667d492629ba7175a6e044c669db1392fab66bdd86
+retrieved: 2019-07-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 4 de agosto de 193
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 24-01-2018
-
-> Nota de vigencia: Las reformas a los artículos 232, párrafos segundo, tercero y cuarto; 236, párrafo segundo; 238, párrafo primero; y 242, segundo párrafo de la fracción V; y las adiciones de una fracción VI, al artículo 229; un segundo párrafo al artículo 237; un tercer párrafo al artículo 238; un segundo párrafo al artículo 240; un segundo párrafo al artículo 241; un segundo párrafo al artículo 242; un segundo párrafo al artículo 245; un segundo párrafo al artículo 246; un segundo párrafo al artículo 247; y los artículos 249 Bis y 249 Bis 1, publicadas en el DOF 24-01-2018, entrarán en vigor el 25 de julio de 2018.
+Última reforma publicada DOF 14-06-2018
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -526,6 +524,10 @@ Los socios tendrán, en proporción a sus partes sociales, preferencia para susc
 
 La sociedad llevará un libro especial de los socios, en el cual se inscribirá el nombre y el domicilio de cada uno, con indicación de sus aportaciones, y la transmisión de las partes sociales. Esta no surtirá efectos respecto de terceros sino después de la inscripción.
 
+De la inscripción a que se refiere el párrafo anterior deberá publicarse un aviso en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio y las disposiciones para su operación.
+
+*Párrafo adicionado DOF 14-06-2018*
+
 Cualquiera persona que compruebe un interés legítimo tendrá la facultad de consultar este libro, que estará al cuidado de los administradores, quienes responderán personal y solidariamente de su existencia regular y de la exactitud de sus datos.
 
 #### Artículo 74.
@@ -868,7 +870,7 @@ Cuando así lo prevenga el contrato social, podrán emitirse en favor de las per
 
 #### Artículo 115.
 
-Se prohibe a las sociedades anónimas emitir acciones por una suma menor de su valor nominal.
+Se prohíbe a las sociedades anónimas emitir acciones por una suma menor de su valor nominal.
 
 #### Artículo 116.
 
@@ -987,6 +989,14 @@ IV.- (Se deroga).
 #### Artículo 129.
 
 La sociedad considerará como dueño de las acciones a quien aparezca inscrito como tal en el registro a que se refiere el artículo anterior. A este efecto, la sociedad deberá inscribir en dicho registro, a petición de cualquier titular, las transmisiones que se efectúen.
+
+De la inscripción a que se refiere el párrafo anterior deberá publicarse un aviso en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio y las disposiciones para su operación.
+
+*Párrafo adicionado DOF 14-06-2018*
+
+La Secretaría se asegurará que el nombre, nacionalidad y el domicilio del accionista contenido en el aviso se mantenga confidencial, excepto en los casos en que la información sea solicitada por autoridades judiciales o administrativas cuando ésta sea necesaria para el ejercicio de sus atribuciones en términos de la legislación correspondiente.
+
+*Párrafo adicionado DOF 14-06-2018*
 
 *Artículo reformado DOF 30-12-1982*
 
@@ -2357,3 +2367,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 12 de diciembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de enero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se adicionan diversas disposiciones de la Ley General de Sociedades Mercantiles.
+
+*Publicado en el Diario Oficial de la Federación el 14 de junio de 2018*
+
+**Artículo Único.-** Se adicionan un párrafo segundo y el actual párrafo segundo pasa a ser el párrafo tercero del artículo 73; un segundo y tercer párrafos al artículo 129, de la Ley General de Sociedades Mercantiles, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor a los seis meses contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Sofía del Sagrario De León Maza, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
