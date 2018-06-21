@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2018-03-09
-articles: 537
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_090318.doc
-archived: https://web.archive.org/web/20180324170958/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_090318.doc
-source_sha256: 41f6053ee3c925bd37d41db909f436bf280eaa1a1350ae1db759fb18ccd9d3f0
-retrieved: 2018-03-24
+last_reform_dof: 2018-06-21
+articles: 539
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_210618.doc
+archived: https://web.archive.org/web/20181105065142/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_210618.doc
+source_sha256: 50a895c6a50c0e0d688e4ccfb329760abf0b88b1d28370beacb3fc74e391b12d
+retrieved: 2018-11-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,16 +18,15 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-03-2018
+Últimas reformas publicadas DOF 21-06-2018
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 >
-> Nota de Vigencia: Las siguientes reformas, adiciones y derogaciones, publicadas por Decreto DOF 18-07-2016, entrarán en vigor de conformidad con lo que establece el artículo Primero Transitorio de dicho Decreto:
+> Nota de Vigencia: Las siguientes reformas, adiciones y derogaciones, publicadas por Decreto DOF 18-07-2016, entrarán en vigor “a partir del nombramiento que el Senado de la República realice del Titular de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción”, de conformidad con lo que establece el artículo Primero Transitorio de dicho Decreto:
+>
 > Reformas: el párrafo primero y el inciso e) del artículo 201; la denominación al Título Décimo; el párrafo primero del artículo 212; el artículo 213; el artículo 213 Bis; la denominación del Capítulo II del Título Décimo; el párrafo primero y su fracción III, los párrafos segundo y tercero del artículo 214; las fracciones VI, IX, XI, XIII y los párrafos segundo y tercero del artículo 215; los párrafos primero y segundo del artículo 216; la denominación del Capítulo V del Título Décimo; el párrafo primero, la fracción I y los incisos B), C), D), la fracción III y el párrafo tercero del artículo 217; los párrafos tercero y cuarto del artículo 218; la fracción I y el párrafo segundo del artículo 219; la fracción I y los párrafos tercero y cuarto del artículo 220; el párrafo segundo del artículo 221; las fracciones I, II y los párrafos cuarto y quinto del artículo 222; las fracciones I, II, III y los párrafos tercero y cuarto del artículo 223; los párrafos primero, segundo, quinto, sexto y séptimo del artículo 224; las fracciones VI, X, XIII, XVII, XX, XXIV, XXVIII y XXXII del artículo 225.
 > Adiciones: un párrafo tercero con las fracciones I, II, un párrafo cuarto, un quinto párrafo con las fracciones I, II, III y IV, un sexto y un séptimo párrafos al artículo 212; un inciso E) a la fracción I, una fracción I Bis con los incisos A) y B) y un párrafo segundo al artículo 217; un artículo 217 Bis; una fracción IV al artículo 221; una fracción III con los incisos a, b y un párrafo segundo al artículo 222; un párrafo tercero al artículo 224.
 > Derogación: el cuarto párrafo del artículo 225.
->
-> Nota de Vigencia: De conformidad con el artículo Tercero Transitorio del Decreto DOF 18-07-2016, la fracción XIII del artículo 215 de este Código quedará derogada una vez que entre en vigencia la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes que establece el inciso a) de la fracción XXI del artículo 73 constitucional.
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -209,7 +208,7 @@ XIX. De la Ley de Concursos Mercantiles, los previstos en los artículos 117 y 2
 
 XX. Los previstos en el artículo 49 de la Ley Federal para el Control de Sustancias Químicas Susceptibles de desvío para la fabricación de Armas Químicas;
 
-XXI. Los previstos en los artículos 8, 9, 14, 15, 16 y 18 de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, y
+XXI. Los previstos en los artículos 8, 9, 10, 12, 13, 14, 15, 16, 17, 18 y 19 de la Ley Federal para Prevenir y Sancionar los Delitos en Materia de Hidrocarburos.
 
 XXII. En los demás casos expresamente previstos en la legislación aplicable.
 
@@ -1485,7 +1484,7 @@ I.- Los que, perteneciendo a la tripulación de una nave mercante mexicana, de o
 
 II.- Los que, yendo a bordo de una embarcación, se apoderen de ella y la entreguen voluntariamente a un pirata, y
 
-III.- Los corsarios que, en caso de guerra entre dos o más naciones, hagan el curso sin carta de marca o patente de ninguna de ellas, o con patente de dos o más beligerantes, o con patente de uno de ellos, pero practicando actos de depredación contra buques de la República o de otra nación para hostilizar a la cual no estuvieren autorizados. Estas disposiciones deberán igualmente aplicarse en lo conducente a las aeronaves.
+III.- Se deroga.
 
 ##### Artículo 147.
 
@@ -2061,6 +2060,14 @@ Además de las penas señaladas en el párrafo anterior, se impondrá al respons
 
 Los delitos previstos en este capítulo serán perseguibles de oficio, a excepción de los que se señalen por querella de parte ofendida.
 
+### TÍTULO SÉPTIMO BIS · DELITOS CONTRA LA INDEMNIDAD DE PRIVACIDAD DE LA INFORMACIÓN SEXUAL
+
+#### CAPÍTULO I · Comunicación de Contenido Sexual con Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen la Capacidad para Resistirlo
+
+##### Artículo 199 Septies.
+
+Se impondrá de cuatro a ocho años de prisión y multa de cuatrocientos a mil días multa a quien haciendo uso de medios de radiodifusión, telecomunicaciones, informáticos o cualquier otro medio de transmisión de datos, contacte a una persona menor de dieciocho años de edad, a quien no tenga capacidad de comprender el significado del hecho o a persona que no tenga capacidad para resistirlo y le requiera imágenes, audio o video de actividades sexuales explícitas, actos de connotación sexual, o le solicite un encuentro sexual.
+
 ### TITULO OCTAVO · DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD.
 
 #### CAPÍTULO I · Corrupción de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
@@ -2197,7 +2204,9 @@ En todos los casos el juez acordará las medidas pertinentes para que se le proh
 
 #### CAPITULO VI · Lenocinio y Trata de Personas.
 
-Artículo. 206.- El lenocinio se sancionará con prisión de dos a nueve años y de cincuenta a quinientos días multa.
+##### Artículo 206.
+
+El lenocinio se sancionará con prisión de dos a nueve años y de cincuenta a quinientos días multa.
 
 ##### Artículo 206 BIS.
 
@@ -3203,7 +3212,7 @@ Delitos contra la Libertad y el Normal Desarrollo Psicosexual
 
 ##### Artículo 259 Bis.
 
-Al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de cuarenta días multa. Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, se le destituirá de su cargo.
+Al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de ochocientos días multa. Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de las penas señaladas, se le destituirá del cargo y se le podrá inhabilitar para ocupar cualquier otro cargo público hasta por un año.
 
 Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
 
@@ -3276,6 +3285,8 @@ II.- El delito fuere cometido por un ascendiente contra su descendiente, éste c
 III.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión;
 
 IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada.
+
+V. El delito fuere cometido previa suministración de estupefacientes o psicotrópicos a la víctima, en contra de su voluntad o sin su conocimiento.
 
 #### CAPITULO II · (Se deroga).
 
@@ -4165,7 +4176,7 @@ Por tal delito, se impondrán de dos a diez años de prisión.
 
 Se equiparará al delito de abigeato y se sancionará con la misma pena que éste, el sacrificio de ganado sin el consentimiento de quien legalmente pueda otorgarlo.
 
-##### Artículo 381 Quater.
+##### Artículo 381 Quáter.
 
 El delito de abigeato se considera calificado y se aumentará la pena hasta en una mitad, cuando sea cometido por quien tenga una relación laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado.
 
@@ -4709,7 +4720,7 @@ Para efectos de este artículo, se entenderá como organismo genéticamente modi
 
 Delitos contra la gestión ambiental
 
-##### Artículo 420 Quater.
+##### Artículo 420 Quáter.
 
 Se impondrá pena de uno a cuatro años de prisión y de trescientos a tres mil días multa, a quien:
 
@@ -6028,6 +6039,8 @@ Los concesionarios de radiodifusión y de televisión o audio restringidos no po
 
 Tratándose de concesiones de espectro radioeléctrico, no podrán modificarse en cuanto al plazo de la concesión, la cobertura autorizada y la cantidad de Megahertz concesionados, ni modificar las condiciones de hacer o no hacer previstas en el título de concesión de origen y que hubieren sido determinantes para el otorgamiento de la concesión.
 
+Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas con anterioridad a la fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
+
 **OCTAVO.** Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la concesión única podrán consolidar sus títulos en una sola concesión.
@@ -6805,3 +6818,79 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 14 de diciembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de febrero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación, de la Ley Aduanera, del Código Penal Federal y de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
+
+*Publicado en el Diario Oficial de la Federación 1 de junio de 2018*
+
+**ARTÍCULO TERCERO.-** Se reforma el artículo 11 Bis, apartado B, fracción XXI del Código Penal Federal, para quedar como sigue:
+
+……..
+
+**TRANSITORIOS**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las salvedades previstas en los siguientes transitorios.
+
+**Segundo.** Las reformas a los artículos 28, fracción I; 81, fracción XXV; 82, fracción XXV; la derogación del artículo 111, fracción VII, y la adición del artículo 111 Bis, del Código Fiscal de la Federación, entrarán en vigor a los 30 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+**Tercero.** Las obligaciones derivadas de la reforma al artículo 28, fracción I, apartado B del Código Fiscal de la Federación, deberán cumplirse una vez que surtan efectos las autorizaciones que emita el Servicio de Administración Tributaria en términos de dicho precepto. Para tales efectos, el Servicio de Administración Tributaria dará a conocer en su página de Internet el momento en que surtan efectos las autorizaciones referidas. Las reglas de carácter general a que se refiere la citada disposición, deberán emitirse a más tardar 90 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Para efectos de la emisión de las reglas relativas a los controles volumétricos y los dictámenes emitidos por los laboratorios de prueba o ensayo a que se refiere el artículo 28, fracción I, apartado B, segundo párrafo del Código Fiscal de la Federación, el Servicio de Administración Tributaria deberá coordinarse con la Comisión Reguladora de Energía.
+
+**Cuarto.** A partir de la entrada en vigor del presente Decreto, quedan sin efecto las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera.
+
+**Quinto.** Para efectos de lo dispuesto en el artículo 22 de la Ley del Impuesto sobre la Renta vigente o de los artículos correlativos en las leyes vigentes con anterioridad a dicha ley, los contribuyentes que estuvieron a lo dispuesto en la fracción VIII del artículo segundo de las disposiciones transitorias del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015, deberán considerar en la determinación del costo comprobado de adquisición de acciones que se enajenan, el monto de las pérdidas fiscales que hayan considerado en la determinación del crédito a que se refiere la citada fracción VIII.
+
+Ciudad de México, a 17 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Mariana Arámbula Meléndez, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a quince de mayo de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se reforma el primer párrafo del artículo 259 Bis; se adiciona un Título Séptimo BIS con un Capítulo I; un artículo 199 Septies; y una fracción V al artículo 266 Bis del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación 15 de junio de 2018*
+
+**Artículo Único.** Se reforma el primer párrafo del artículo 259 Bis; se adiciona un Título Séptimo BIS con un Capítulo I; un artículo 199 Septies; y una fracción V al artículo 266 Bis del Código Penal Federal, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Mariana Arámbula Meléndez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se adiciona un tercer párrafo al Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014.
+
+*Publicado en el Diario Oficial de la Federación el 15 de junio de 2018*
+
+**Artículo Único.-** Se adiciona un tercer párrafo al Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
+
+Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Mariana Arámbula Meléndez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se reforman y derogan diversas disposiciones del Código de Justicia Militar, del Código Militar de Procedimientos Penales, del Código Penal Federal y de la Ley para Conservar la Neutralidad del País.
+
+*Publicado en el Diario Oficial de la Federación el 21 de junio de 2018*
+
+**Artículo Tercero.-** Se deroga la fracción III del artículo 146 del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
