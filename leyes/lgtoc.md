@@ -3,12 +3,12 @@ title: Ley General de Títulos y Operaciones de Crédito
 abbreviation: LGTOC
 slug: lgtoc
 published_dof: 1932-08-27
-last_reform_dof: 2014-06-13
+last_reform_dof: 2018-06-22
 articles: 462
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/145_130614.doc
-archived: https://web.archive.org/web/20170518230947/http://www.diputados.gob.mx:80/LeyesBiblio/doc/145_130614.doc
-source_sha256: e8b223f643d6cc242ed67050fa0bbe59098cad89620b7e53ebe53f160fc374f8
-retrieved: 2017-05-18
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/145_220618.doc
+archived: https://web.archive.org/web/20181105063009/http://www.diputados.gob.mx:80/LeyesBiblio/doc/145_220618.doc
+source_sha256: c20c67aa7a6d4772334dd4bd9987103d5e2b4a500de716911b5b5728c66d18ff
+retrieved: 2018-11-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgtoc.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 27 de agosto de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 13-06-2014
+Última reforma publicada DOF 22-06-2018
 
 Al margen un sello que dice: Poder Ejecutivo Federal.-Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -106,7 +106,13 @@ IX.- Las que se funden en la cancelación del título, o en la suspensión de su
 
 X.- Las de prescripción y caducidad y las que se basen en la falta de las demás condiciones necesarias para el ejercicio de la acción;
 
-XI.- Las personales que tenga el demandado contra el actor.
+XI.- Las personales que tenga el demandado contra el actor, y
+
+*Fracción reformada DOF 22-06-2018*
+
+XII.- La Declaración Especial de Ausencia de quién firmó, en los términos que la legislación especial en la materia establezca.
+
+*Fracción adicionada DOF 22-06-2018*
 
 ##### Artículo 9o.
 
@@ -2896,7 +2902,7 @@ El derecho otorgado al deudor para vender o transferir, en el curso ordinario de
 
 No obstante que el deudor dé en prenda sin transmisión de posesión a su acreedor todos los bienes muebles que utilice para la realización de sus actividades preponderantes, el deudor podrá dar en garantía a otros acreedores, en los términos previstos en esta Sección Séptima, los bienes que adquiera con los recursos del crédito que le otorguen los nuevos acreedores.
 
-En este supuesto, el primer acreedor seguirá teniendo preferencia para el pago de su crédito sobre todos los bienes muebles que el deudor le haya dado en prenda sin transmisión de posesión, frente a cualquier . acreedor, con excepción de los bienes adquiridos por el deudor con los recursos que le proporcione el nuevo acreedor, los cuales podrán servir de garantía a este último y asegurar su preferencia en el pago, respecto a cualquier otro acreedor del deudor, incluyendo al primer acreedor.
+En este supuesto, el primer acreedor seguirá teniendo preferencia para el pago de su crédito sobre todos los bienes muebles que el deudor le haya dado en prenda sin transmisión de posesión, frente a cualquier acreedor, con excepción de los bienes adquiridos por el deudor con los recursos que le proporcione el nuevo acreedor, los cuales podrán servir de garantía a este último y asegurar su preferencia en el pago, respecto a cualquier otro acreedor del deudor, incluyendo al primer acreedor.
 
 La excepción a que se refiere este artículo, sólo procederá tratándose de bienes muebles que puedan distinguirse del resto de los bienes muebles que el deudor haya dado en prenda al primer acreedor.
 
@@ -4301,3 +4307,23 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 México, D.F., a 29 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se expide la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas, y se reforman diversas disposiciones de la Ley Federal del Trabajo; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley General de Títulos y Operaciones de Crédito; de la Ley de Instituciones de Crédito y de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 22 de junio de 2018*
+
+**ARTÍCULO SEXTO.-** Se adiciona una fracción XII al artículo 8o. de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
+
+**TERCERO.** Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
+
+Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ernestina Godoy Ramos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
