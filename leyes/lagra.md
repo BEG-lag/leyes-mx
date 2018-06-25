@@ -3,12 +3,12 @@ title: Ley Agraria
 abbreviation: LAgra
 slug: lagra
 published_dof: 1992-02-26
-last_reform_dof: 2017-03-27
-articles: 200
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/13_270317.doc
-archived: https://web.archive.org/web/20170518230626/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13_270317.doc
-source_sha256: 838edfbebf6369ecee0670c35343b89a4c140567b21f5a437b2ef26fccd0ee4e
-retrieved: 2017-05-18
+last_reform_dof: 2018-06-25
+articles: 201
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/13_250618.doc
+archived: https://web.archive.org/web/20181105062943/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13_250618.doc
+source_sha256: 2c32c4f938ad97201f485007841d9f3bf2211944735d34ffce1667e93aba7afa
+retrieved: 2018-11-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lagra.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 26 de febrero de 1
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 27-03-2017
+Última reforma publicada DOF 25-06-2018
 
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -159,6 +159,12 @@ I. Por la cesión legal de sus derechos parcelarios y comunes;
 II. Por renuncia a sus derechos, en cuyo caso se entenderán cedidos en favor del núcleo de población;
 
 III. Por prescripción negativa, en su caso, cuando otra persona adquiera sus derechos en los términos del artículo 48 de esta ley.
+
+##### Artículo 20 Bis.
+
+Cuando el ejidatario o el avecindado sea declarado ausente, en los términos de la legislación especial en la materia, se procederá conforme a lo establecido en el artículo 18 de esta Ley. La desaparición en ningún caso podrá ser causal para perder la condición de ejidatario o avecindado.
+
+*Artículo adicionado DOF 22-06-2018*
 
 #### Sección Tercera · De los Organos del Ejido
 
@@ -712,7 +718,11 @@ Los predios objeto de la expropiación sólo podrán ser ocupados mediante el pa
 
 ##### Artículo 95.
 
-Queda prohibido autorizar la ocupación previa de tierras aduciendo que, respecto de las mismas, se tramita expediente de expropiación, a menos que los ejidatarios afectados o la asamblea, si se trata de tierras comunes, aprueben dicha ocupación.
+Queda prohibido autorizar la ocupación previa de tierras aduciendo que, respecto de las mismas, se tramita expediente de expropiación, a menos que los ejidatarios afectados o la asamblea, si se trata de tierras comunes, aprueben dicha ocupación, para lo cual deberá mediar convenio en el que se plasmen los acuerdos y compromisos a que habrán de obligarse ambas partes.
+
+Para la formalización del convenio aludido en el párrafo anterior, deberá intervenir la Procuraduría Agraria, quien además solicitará su inscripción en el Registro Agrario Nacional.
+
+*Artículo reformado DOF 25-06-2018*
 
 ##### Artículo 96.
 
@@ -1763,3 +1773,39 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 2 de febrero de 2017.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de marzo de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se expide la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas, y se reforman diversas disposiciones de la Ley Federal del Trabajo; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley General de Títulos y Operaciones de Crédito; de la Ley de Instituciones de Crédito y de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 22 de junio de 2018*
+
+**ARTÍCULO OCTAVO.-** Por el que se adiciona un artículo 20 Bis de Ley Agraria, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
+
+**TERCERO.** Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
+
+Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ernestina Godoy Ramos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 95 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 25 de junio de 2018*
+
+**Artículo Único.-** Se reforma el artículo 95 de la Ley Agraria, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 25 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
