@@ -3,12 +3,12 @@ title: Código Nacional de Procedimientos Penales
 abbreviation: CNPP
 slug: cnpp
 published_dof: 2014-03-05
-last_reform_dof: 2016-06-17
+last_reform_dof: 2018-06-25
 articles: 490
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_170616.doc
-archived: https://web.archive.org/web/20160717110345/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_170616.doc
-source_sha256: ced005ef30e08aac1a00f6fa0b9e9430de53445b45c2c1ed9a66c015ec084f5e
-retrieved: 2016-07-17
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_250618.doc
+archived: https://web.archive.org/web/20181126040815/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_250618.doc
+source_sha256: 72a4ce5d36d8508af0b42f61458a211c56e58337baffa1e22188957261aa26e6
+retrieved: 2018-11-26
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 ---
 
@@ -17,6 +17,8 @@ reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 Nuevo Código publicado en el Diario Oficial de la Federación el 5 de marzo de 2014
 
 Última reforma publicada DOF 17-06-2016
+
+Declaración de invalidez de artículos por Sentencia de la SCJN DOF 25-06-2018
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -2960,7 +2962,9 @@ Cuando se aseguren armas de fuego o explosivos se hará del conocimiento de la S
 
 Aseguramiento de bienes o derechos relacionados con operaciones financieras
 
-El Ministerio Público o a solicitud de la Policía podrá ordenar la suspensión, o el aseguramiento de cuentas, títulos de crédito y en general cualquier bien o derecho relativos a operaciones que las instituciones financieras establecidas en el país celebren con sus clientes y dará aviso inmediato a la autoridad encargada de la administración de los bienes asegurados y a las autoridades competentes, quienes tomarán las medidas necesarias para evitar que los titulares respectivos realicen cualquier acto contrario al aseguramiento.
+[El Ministerio Público o a solicitud de la Policía podrá ordenar la suspensión, o el aseguramiento de cuentas, títulos de crédito y en general cualquier bien o derecho relativos a operaciones que las instituciones financieras establecidas en el país celebren con sus clientes y dará aviso inmediato a la autoridad encargada de la administración de los bienes asegurados y a las autoridades competentes, quienes tomarán las medidas necesarias para evitar que los titulares respectivos realicen cualquier acto contrario al aseguramiento.]
+
+*Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 25-06-2018*
 
 ###### Artículo 243.
 
@@ -3032,7 +3036,9 @@ Cuando se determine por la autoridad competente la devolución de los bienes que
 
 Aseguramiento por valor equivalente
 
-En caso de que el producto, los instrumentos u objetos del hecho delictivo hayan desaparecido o no se localicen por causa atribuible al imputado, el Ministerio Público decretará o solicitará al Órgano jurisdiccional correspondiente el embargo precautorio, el aseguramiento y, en su caso, el decomiso de bienes propiedad del o de los imputados, así como de aquellos respecto de los cuales se conduzcan como dueños, cuyo valor equivalga a dicho producto, sin menoscabo de las disposiciones aplicables en materia de extinción de dominio.
+En caso de que el producto, los instrumentos u objetos del hecho delictivo hayan desaparecido o no se localicen por causa atribuible al imputado, el Ministerio Público [decretará o] solicitará al Órgano jurisdiccional correspondiente el embargo precautorio, el aseguramiento y, en su caso, el decomiso de bienes propiedad del o de los imputados, así como de aquellos respecto de los cuales se conduzcan como dueños, cuyo valor equivalga a dicho producto, sin menoscabo de las disposiciones aplicables en materia de extinción de dominio.
+
+*Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 25-06-2018 (En la porción normativa que indica “decretará o”)*
 
 ###### Artículo 250.
 
@@ -5845,3 +5851,51 @@ Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autor
 Ciudad de México, a 15 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Verónica Delgadillo García, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 10/2014 y su acumulada 11/2014, así como los Votos Particular del Ministro Javier Laynez Potisek, Concurrente del Ministro Presidente Luis María Aguilar Morales, así como Particulares y Concurrentes de los Ministros Alfredo Gutiérrez Ortiz Mena y Arturo Zaldívar Lelo de Larrea.
+
+*Publicada en el Diario Oficial de la Federación el 25 de junio de 2018*
+
+ACCIÓN DE INCONSTITUCIONALIDAD 10/2014
+
+Y SU ACUMULADA 11/2014
+
+PROMOVENTES: COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS E INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS
+
+PONENTE: MINISTRO JAVIER LAYNEZ POTISEK
+
+SECRETARIOS: RON SNIPELISKI NISCHLI Y JOSÉ OMAR HERNÁNDEZ SALGADO
+
+COLABORÓ: ANA MARÍA CASTRO DOSAL
+
+Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al veintidós de marzo de dos mil dieciocho, emite la siguiente
+
+SENTENCIA
+
+Mediante la que se resuelven las acciones de inconstitucionalidad 10/2014 promovida por la Comisión Nacional de los Derechos Humanos y su acumulada 11/2014 presentada por el Instituto Federal de Acceso a la Información y Protección de Datos, en contra de diversas disposiciones del Código Nacional de Procedimientos Penales.
+
+………
+
+VIII. RESOLUTIVOS
+
+375\. En virtud de lo anterior, se resuelve:
+
+**PRIMERO.** Son procedentes y parcialmente fundadas las acciones de inconstitucionalidad 10/2014 y 11/2014, promovidas por la Comisión Nacional de los Derechos Humanos y el Instituto Federal de Acceso a la Información y Protección de Datos, respectivamente.
+
+**SEGUNDO.** Se desestima en la acción de inconstitucionalidad 10/2014, respecto del artículo 434, párrafo último, en la porción normativa “pero jamás para las ofrecidas por los imputados o sus defensas, aún cuando sean aceptadas o acordadas favorablemente por las autoridades judiciales”, del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el cinco de marzo de dos mil catorce, en los términos precisados en el apartado VI, subapartado 9, de esta sentencia.
+
+**TERCERO.** Se reconoce la validez de los artículos 132, fracción VII, 147, párrafo tercero, 148, 153, párrafo primero, 155, fracción XIII, 251, fracciones III y V, 266, 268 y 434, párrafo último, –con la salvedad precisada en el punto resolutivo segundo–, del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el cinco de marzo de dos mil catorce, conforme a las consideraciones plasmadas en el apartado VI, subapartados 1, 2, 6, 7 y 9 de esta sentencia.
+
+**CUARTO.** Se declara la invalidez de los artículos 242, 249, en la porción normativa “decretará o”, 303, párrafo primero, y 355, párrafo último, del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el cinco de marzo de dos mil catorce; las cuales surtirán sus efectos a partir de la publicación de esta sentencia en el Diario Oficial de la Federación; en términos del apartado VI, subapartados 3, 4, 5 y 8, y conforme a los efectos precisados en el diverso apartado VII de este fallo.
+
+**QUINTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+
+……….
+
+Firman los señores Ministros Presidente y el Ponente con el Secretario General de Acuerdos que da fe.
+
+El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Luis María Aguilar Morales.- Rúbrica.- El Ponente, Ministro Javier Laynez Potisek.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
+
+LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta fotocopia constante de noventa y cinco fojas útiles, concuerda fiel y exactamente con el original de la sentencia del veintidós de marzo de dos mil dieciocho, dictada por el Tribunal Pleno en la acción de inconstitucionalidad 10/2014 y su acumulada 11/2014. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a catorce de junio de dos mil dieciocho.- Rúbrica.
