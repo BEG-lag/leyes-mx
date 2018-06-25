@@ -3,12 +3,12 @@ title: Ley Federal de Protección al Consumidor
 abbreviation: LFPC
 slug: lfpc
 published_dof: 1992-12-24
-last_reform_dof: 2018-01-11
+last_reform_dof: 2018-06-25
 articles: 190
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/113_110118.doc
-archived: https://web.archive.org/web/20180424205635/http://www.diputados.gob.mx/LeyesBiblio/doc/113_110118.doc
-source_sha256: 1f1af1b7bcf42e48f3def1d91aedf86ff47f56f2fb0755c9f7ef94bd64eed09d
-retrieved: 2018-04-24
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/113_250618.doc
+archived: https://web.archive.org/web/20181105062814/http://www.diputados.gob.mx:80/LeyesBiblio/doc/113_250618.doc
+source_sha256: 6a65766acc38662e79276337bb3386197ec02cf838748126ab54d20ebc46d80b
+retrieved: 2018-11-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 11-01-2018
+Última reforma publicada DOF 25-06-2018
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
@@ -3366,9 +3366,13 @@ Ciudad de México, a 12 de diciembre de 2017.- El Procurador Federal del Consumi
 
 **Tercero.-** Las sanciones pecuniarias que se hayan impuesto antes de la entrada en vigor del presente Decreto, se regirán por las disposiciones vigentes en el momento de su determinación.
 
-**Cuarto.-** El procedimiento administrativo de ejecución a que hace referencia el artículo 134 Bis entrará en vigor a los 180 días siguientes, contados a partir de que se encuentre vigente el presente Decreto.
+**Cuarto.-** El procedimiento administrativo de ejecución a que hace referencia el artículo 134 Bis entrará en vigor a los 18 meses siguientes, contados a partir de que se encuentre vigente el presente Decreto.
 
-**Quinto.-** El Titular del Ejecutivo Federal deberá realizar la expedición y reforma a los Reglamentos correspondientes dentro de los 180 días siguientes a la publicación del presente Decreto.
+*Artículo reformado DOF 25-06-2018*
+
+**Quinto.-** El Titular del Ejecutivo Federal deberá realizar la expedición y reforma a los Reglamentos correspondientes dentro de los 18 meses siguientes a la publicación del presente Decreto.
+
+*Artículo reformado DOF 25-06-2018*
 
 **Sexto.-** El Titular de la Procuraduría Federal del Consumidor deberá adecuar el Estatuto Orgánico del organismo descentralizado dentro de los 180 días siguientes a la publicación a la reforma del Reglamento de la Procuraduría Federal del Consumidor.
 
@@ -3381,3 +3385,19 @@ Ciudad de México, a 12 de diciembre de 2017.- El Procurador Federal del Consumi
 Ciudad de México, a 14 de noviembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a nueve de enero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos Cuarto y Quinto Transitorios del “Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Protección al Consumidor”, publicado en el Diario Oficial de la Federación el 11 de enero de 2018.
+
+*Publicado en el Diario Oficial de la Federación el 25 de junio de 2018*
+
+**Artículo Único.-** Se reforman los artículos Cuarto y Quinto Transitorios, del “Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Protección al Consumidor”, publicado en el Diario Oficial de la Federación el 11 de enero de 2018, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
