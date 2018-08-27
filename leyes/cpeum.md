@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2017-09-15
+last_reform_dof: 2018-08-27
 articles: 136
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_150917.doc
-archived: https://web.archive.org/web/20170921042021/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_150917.doc
-source_sha256: 6d0bc72236cf8cead650bad531ce89398796802ec9b170bb3ee84ef83a9f8586
-retrieved: 2017-09-21
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_270818.doc
+archived: https://web.archive.org/web/20180921201533/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_270818.doc
+source_sha256: a27ecd12b91a3e939c442d3fd8b27c0ed19a91637c9c5115815aa13ef2ecee8d
+retrieved: 2018-09-21
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,11 +18,10 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 15-09-2017
+Última reforma publicada DOF 27-08-2018
 
 > Notas de vigencia:
 > Relativas al Decreto en materia política-electoral publicado en el DOF 10-02-2014:
-> La reforma al artículo 59 será aplicable a los diputados y senadores que sean electos a partir del proceso electoral de 2018, de conformidad con lo que estipula el Artículo Décimo Primero Transitorio del Decreto.
 > Las reformas, adiciones y derogaciones a los artículos 69, párrafo tercero; 74, fracciones III y VII; 76, fracciones II y XI; 89, fracción II, párrafos segundo y tercero, y fracción XVII, entrarán en vigor el 1 de diciembre de 2018, como lo establece el Artículo Décimo Segundo Transitorio del Decreto.
 > Las reformas a los artículos 65; 74, fracción IV y 83, entrarán en vigor el 1 de diciembre de 2018, de conformidad con lo que señala el Artículo Décimo Quinto Transitorio del Decreto en mención.
 > Las reformas, adiciones y derogaciones a los artículos 28; 29, párrafo primero; 69, párrafo segundo; 76, fracciones II y XII; 78, fracción V; 82, fracción VI; 84; 89, fracción IX; 90; 93, párrafo segundo; 95; 102, Apartado A; 105, fracciones II, incisos c) e i) y III; 107; 110, 111; 116, fracción IX y 119, párrafo primero, entrarán en vigor cuando el Congreso de la Unión emita la declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General de la República, de conformidad con lo establecido en el Artículo Décimo Sexto Transitorio del Decreto.
@@ -7125,7 +7124,13 @@ Los magistrados a que se refiere el párrafo anterior serán elegibles para un n
 
 **DÉCIMO SEXTO.-** Las adiciones, reformas y derogaciones que se hacen a los artículos 28; 29, párrafo primero; 69, párrafo segundo; 76, fracciones II, por lo que se refiere a la supresión de la ratificación del Procurador General de la República por el Senado y XII; 78, fracción V; 82, fracción VI; 84; 89, fracción IX; 90; 93, párrafo segundo; 95; 102, Apartado A; 105, fracciones II, incisos c) e i) y III; 107; 110 y 111 por lo que se refiere al Fiscal General de la República; 116, fracción IX y 119, párrafo primero de esta Constitución, entrarán en vigor en la misma fecha en que lo hagan las normas secundarias que expida el Congreso de la Unión necesarias por virtud de las adiciones, reformas y derogaciones a que se refiere el presente Transitorio, siempre que se haga por el propio Congreso la declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General de la República.
 
-El Procurador General de la República que se encuentre en funciones al momento de expedirse la declaratoria a que se refiere el párrafo anterior, quedará designado por virtud de este Decreto Fiscal General de la República por el tiempo que establece el artículo 102, Apartado A, de esta Constitución, sin perjuicio del procedimiento de remoción previsto en la fracción IV de dicho artículo.
+Una vez realizada la declaratoria a que se refiere el párrafo anterior, la Cámara de Senadores iniciará de forma inmediata el procedimiento previsto en el Apartado A del artículo 102 de esta Constitución para la designación del Fiscal General de la República. Si la Cámara de Senadores no estuviere reunida, la Comisión Permanente la convocará inmediatamente a sesión extraordinaria.
+
+*Párrafo adicionado DOF 27-08-2018*
+
+El Procurador General de la República que se encuentre en funciones al momento de expedirse la declaratoria a que se refiere el párrafo primero de este artículo, continuará en su encargo hasta en tanto el Senado designe al Fiscal General de la República.
+
+*Párrafo reformado DOF 27-08-2018*
 
 **DÉCIMO SÉPTIMO.-** Una vez que entren en vigor las disposiciones de este Decreto referidas en el Transitorio anterior, se procederá de la siguiente forma:
 
@@ -7760,3 +7765,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 23 de agosto de 2017.- Sen. Pablo Escudero Morales, Presidente.- Sen. Laura Angélica Rojas Hernández, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de septiembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo Décimo Sexto Transitorio del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral”, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014.
+
+*Publicado en el Diario Oficial de la Federación el 27 de agosto de 2018*
+
+**Artículo Único.-** Se reforma el actual segundo párrafo y se adiciona un segundo párrafo, pasando el actual segundo a ser tercero, al artículo Décimo Sexto Transitorio del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral”, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 15 de agosto de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. María Gloria Hernández Madrid, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de agosto de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
