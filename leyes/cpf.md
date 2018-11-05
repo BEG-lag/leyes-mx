@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2018-06-21
-articles: 539
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_210618.doc
-archived: https://web.archive.org/web/20181105065142/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_210618.doc
-source_sha256: 50a895c6a50c0e0d688e4ccfb329760abf0b88b1d28370beacb3fc74e391b12d
-retrieved: 2018-11-05
+last_reform_dof: 2018-11-05
+articles: 540
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_051118.doc
+archived: https://web.archive.org/web/20181220173530/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_051118.doc
+source_sha256: 28179341df86be3bd212929967e42d292437ca4c6c976daac5c6884ae4839535
+retrieved: 2018-12-20
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 21-06-2018
+Última reforma publicada DOF 05-11-2018
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 >
@@ -2324,7 +2324,7 @@ Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando l
 
 ### TITULO · DECIMO
 
-Delitos por hechos de corrupción
+Delitos Cometidos por Servidores Públicos
 
 #### CAPITULO I
 
@@ -2497,6 +2497,28 @@ I.- Genere y utilice información falsa o alterada, respecto de los rendimientos
 II.- Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
 
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días multa.
+
+#### CAPÍTULO V BIS · Del pago y recibo indebido de remuneraciones de los servidores públicos
+
+Artículo 217 Bis (sic DOF 05-11-2018). Además de las responsabilidades administrativa y política, incurre en el delito de remuneración ilícita:
+
+I. El servidor público que apruebe o refrende el pago, o que suscriba el comprobante, cheque, nómina u orden de pago, de una remuneración, retribución, jubilación, pensión, haber de retiro, liquidación por servicios prestados, préstamo o crédito, no autorizado de conformidad con lo dispuesto en la presente Ley;
+
+II. Quien reciba un pago indebido en los términos de la fracción anterior sin realizar el reporte dentro del plazo señalado en el artículo 5 de la presente Ley, excepto quien forme parte del personal de base y supernumerario de las entidades públicas que no tenga puesto de mando medio o superior, así como el personal de tropa y clases de las fuerzas armadas.
+
+##### Artículo 217 Ter.
+
+Por la comisión del delito señalado en el artículo precedente se impondrán las siguientes penas:
+
+I. Si el beneficio otorgado u obtenido en contravención de las disposiciones de esta Ley no excede del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito;
+
+II. Si el beneficio otorgado u obtenido en contravención de las disposiciones de esta Ley excede el equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito pero no es mayor que el equivalente a mil veces dicha unidad, se impondrán de seis meses a tres años de prisión y multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito;
+
+III. Si el beneficio otorgado u obtenido en contravención de las disposiciones de esta Ley excede el equivalente a mil veces pero no es mayor que el equivalente a tres mil veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de tres a cinco años de prisión y multa de trescientas a mil veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, y
+
+IV. Si el beneficio otorgado u obtenido en contravención de las disposiciones de esta Ley excede el equivalente a tres mil veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de cinco a catorce años de prisión y multa de quinientas a tres mil veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito.
+
+Se impondrá también la destitución y la inhabilitación para desempeñar otro cargo, empleo o comisión públicos de seis meses a catorce años.
 
 #### CAPITULO VI · Concusión
 
@@ -6894,3 +6916,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se expide la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos y se adiciona el Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 5 de noviembre de 2018*
+
+**Artículo Segundo.-** Se adiciona un Capítulo V Bis al Título Décimo, Libro Segundo, del Código Penal Federal, con la denominación “Del pago y recibo indebido de remuneraciones de los servidores públicos”, con los artículos 217 Bis y 217 Ter, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Al momento de la entrada en vigor de la presente Ley quedan sin efectos todas las disposiciones contrarias a la misma.
+
+Ciudad de México, a 13 de septiembre de 2018.
+
+Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares Guadalupe Vázquez Alatorre, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas.
