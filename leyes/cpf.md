@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2018-11-05
-articles: 540
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_051118.doc
-archived: https://web.archive.org/web/20181220173530/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_051118.doc
-source_sha256: 28179341df86be3bd212929967e42d292437ca4c6c976daac5c6884ae4839535
-retrieved: 2018-12-20
+last_reform_dof: 2019-04-12
+articles: 541
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_120419.doc
+archived: https://web.archive.org/web/20190711024018/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_120419.doc
+source_sha256: 2167ce42baced8ba46cd2c98172ab8c4698ab6752e1b4502ceddcc5d41acb86d
+retrieved: 2019-07-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 05-11-2018
+Última reforma publicada DOF 12-04-2019
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 >
@@ -2324,7 +2324,7 @@ Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando l
 
 ### TITULO · DECIMO
 
-Delitos Cometidos por Servidores Públicos
+Delitos por hechos de corrupción
 
 #### CAPITULO I
 
@@ -2500,23 +2500,25 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 #### CAPÍTULO V BIS · Del pago y recibo indebido de remuneraciones de los servidores públicos
 
-Artículo 217 Bis (sic DOF 05-11-2018). Además de las responsabilidades administrativa y política, incurre en el delito de remuneración ilícita:
-
-I. El servidor público que apruebe o refrende el pago, o que suscriba el comprobante, cheque, nómina u orden de pago, de una remuneración, retribución, jubilación, pensión, haber de retiro, liquidación por servicios prestados, préstamo o crédito, no autorizado de conformidad con lo dispuesto en la presente Ley;
-
-II. Quien reciba un pago indebido en los términos de la fracción anterior sin realizar el reporte dentro del plazo señalado en el artículo 5 de la presente Ley, excepto quien forme parte del personal de base y supernumerario de las entidades públicas que no tenga puesto de mando medio o superior, así como el personal de tropa y clases de las fuerzas armadas.
-
 ##### Artículo 217 Ter.
+
+Además de las responsabilidades administrativa y política, incurre en el delito de remuneración ilícita:
+
+I. El servidor público que apruebe o refrende el pago, o que suscriba el comprobante, cheque, nómina u orden de pago, de una remuneración, retribución, jubilación, pensión, haber de retiro, liquidación por servicios prestados, préstamo o crédito, no autorizado de conformidad con lo dispuesto en la Ley Federal de Remuneraciones de los Servidores Públicos;
+
+II. Quien reciba un pago indebido en los términos de la fracción anterior sin realizar el reporte dentro del plazo señalado en el artículo 5 de la Ley Federal de Remuneraciones de los Servidores Públicos, teniendo conocimiento de la ilicitud del acto, excepto cuando forme parte del personal de base y supernumerario de las entidades públicas que no tenga puesto de mando medio o superior, así como el personal de tropa y clases de las fuerzas armadas, o en los casos considerados por el mismo artículo 5 de la mencionada Ley como falta administrativa no grave.
+
+##### Artículo 217 Quáter.
 
 Por la comisión del delito señalado en el artículo precedente se impondrán las siguientes penas:
 
-I. Si el beneficio otorgado u obtenido en contravención de las disposiciones de esta Ley no excede del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito;
+I. Si el beneficio indebidamente otorgado no excede del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito;
 
-II. Si el beneficio otorgado u obtenido en contravención de las disposiciones de esta Ley excede el equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito pero no es mayor que el equivalente a mil veces dicha unidad, se impondrán de seis meses a tres años de prisión y multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito;
+II. Si el beneficio indebidamente otorgado excede el equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, pero no es mayor que el equivalente a dos mil veces dicha unidad, se impondrán de seis meses a tres años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito;
 
-III. Si el beneficio otorgado u obtenido en contravención de las disposiciones de esta Ley excede el equivalente a mil veces pero no es mayor que el equivalente a tres mil veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de tres a cinco años de prisión y multa de trescientas a mil veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, y
+III. Si el beneficio indebidamente otorgado excede el equivalente a dos mil veces, pero no es mayor que el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres a cinco años de prisión y multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, y
 
-IV. Si el beneficio otorgado u obtenido en contravención de las disposiciones de esta Ley excede el equivalente a tres mil veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de cinco a catorce años de prisión y multa de quinientas a tres mil veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito.
+IV. Si el beneficio indebidamente otorgado excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de cinco a doce años de prisión y multa de quinientas a tres mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito.
 
 Se impondrá también la destitución y la inhabilitación para desempeñar otro cargo, empleo o comisión públicos de seis meses a catorce años.
 
@@ -6934,3 +6936,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 13 de septiembre de 2018.
 
 Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares Guadalupe Vázquez Alatorre, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Remuneraciones de los Servidores Públicos, reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, del Código Penal Federal y de la Ley General de Responsabilidades Administrativas.
+
+*Publicado en el Diario Oficial de la Federación el 12 de abril de 2019*
+
+**Artículo Segundo.-** Se reforman la denominación del Título Décimo del Libro Segundo; el numeral del artículo 217 Bis correspondiente al Capítulo V Bis, para pasar a ser 217 Ter, del mismo Capítulo, y sus fracciones I y II; así como el numeral del artículo 217 Ter del Capítulo V Bis, para pasar a ser 217 Quáter, y sus fracciones I, II, III y IV del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Quedan derogadas todas disposiciones que se opongan al contenido del presente Decreto.
+
+Ciudad de México, a 5 de marzo de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
