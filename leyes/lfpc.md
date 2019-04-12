@@ -3,12 +3,12 @@ title: Ley Federal de Protección al Consumidor
 abbreviation: LFPC
 slug: lfpc
 published_dof: 1992-12-24
-last_reform_dof: 2018-12-28
+last_reform_dof: 2019-04-12
 articles: 190
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/113_281218.doc
-archived: https://web.archive.org/web/20190203112317/http://www.diputados.gob.mx:80/LeyesBiblio/doc/113_281218.doc
-source_sha256: efc4bd378ed8358e5e18840df289f580f0fd72aa29714b0edaa0a9890d364913
-retrieved: 2019-02-03
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/113_120419.doc
+archived: https://web.archive.org/web/20190711020741/http://www.diputados.gob.mx:80/LeyesBiblio/doc/113_120419.doc
+source_sha256: 756159ecdb931a106fc25bb4c97d8fb21f63b4c48bdc0e8990a143c301951d35
+retrieved: 2019-07-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 25-06-2018
-
-Actualización de montos de operaciones y multas por Acuerdo DOF 28-12-2018
+Última reforma publicada DOF 12-04-2019
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
@@ -1515,6 +1513,10 @@ III. Si el bien reparado no queda en estado adecuado para su uso o destino, dent
 IV. En los demás casos previstos por esta ley.
 
 *Fracción adicionada DOF 04-02-2004*
+
+Cuando aplique la devolución de la cantidad pagada, ésta se efectuará utilizando la misma forma de pago con la que se realizó la compra, pudiendo hacerse por una forma de pago distinta si el consumidor lo acepta al momento en que se efectúe la devolución.
+
+*Párrafo adicionado DOF 12-04-2019*
 
 En los casos de aparatos, unidades y bienes que por sus características ameriten conocimientos técnicos, se estará al juicio de peritos o a la verificación en laboratorios debidamente acreditados.
 
@@ -3439,3 +3441,19 @@ Para efectuar el pago de las cantidades que resulten de la actualización, para 
 **ÚNICO.-** El presente Acuerdo entrará en vigor el 1 de enero de 2019.
 
 Ciudad de México, a 14 de diciembre de 2018.- El Procurador Federal del Consumidor, Francisco Ricardo Sheffield Padilla.- Rúbrica.
+
+### DECRETO por el que se adiciona el artículo 92 de la Ley Federal de Protección al Consumidor.
+
+*Publicado en el Diario Oficial de la Federación el 12 de abril de 2019*
+
+**Artículo Único.** Se adiciona un párrafo segundo, recorriéndose los subsecuentes en su orden, al artículo 92 de la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 28 de febrero de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Mariana Dunyaska García Rojas, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
