@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2018-11-30
+last_reform_dof: 2019-05-14
 articles: 64
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_301118.doc
-archived: https://web.archive.org/web/20181220172956/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_301118.doc
-source_sha256: fd36656cfafcf3c7c3ff5c9b2e2cde6e5ef830a587e9001d0867ec263e6a96f6
-retrieved: 2018-12-20
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_140519.doc
+archived: https://web.archive.org/web/20190711020818/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_140519.doc
+source_sha256: db5d65b26780023d0e930adb58cf76f0236dcf4daa3dec56ccabf714e7f0e2ff
+retrieved: 2019-07-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 30-11-2018
+Última reforma publicada DOF 14-05-2019
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -1922,7 +1922,9 @@ XXII. Los demás que le fijen expresamente las leyes y reglamentos.
 
 #### Artículo 41.
 
-A la Secretaría de Desarrollo Agrario, Territorial y Urbano corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Agrario, Territorial y Urbano, corresponde el despacho de los siguientes asuntos:
+
+*Párrafo reformado DOF 14-05-2019*
 
 I. Elaborar y conducir las políticas de vivienda, ordenamiento territorial, desarrollo agrario y urbano, así como promover y coordinar con las entidades federativas, municipios y en su caso las alcaldías de la Ciudad de México, la elaboración de lineamientos para regular:
 
@@ -1988,7 +1990,9 @@ XVIII. Proyectar y coordinar, con la participación que corresponda a los gobier
 
 XIX. Elaborar los programas regionales y especiales que le señale el Ejecutivo Federal, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Federal y los gobiernos de las entidades federativas y municipales, así como autorizar las acciones e inversiones convenidas en el marco de lo dispuesto en la fracción que antecede, en coordinación con la Secretaría de Hacienda y Crédito Público;
 
-XX. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, en coordinación con los gobiernos estatales y municipales y con la participación de los sectores social y privado;
+XX. Promover y ejecutar la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, en coordinación con los gobiernos estatales y municipales y con la participación de los sectores social y privado;
+
+*Fracción reformada DOF 14-05-2019*
 
 XXI. Aportar diagnósticos y estudios al Consejo Nacional de Población en materia de crecimiento demográfico y su impacto en el ámbito territorial;
 
@@ -2198,9 +2202,9 @@ VIII.- Participar, junto con las demás dependencias competentes, en la actualiz
 
 IX.- Prestar apoyo y asesoría en materia técnico jurídica a las entidades federativas que lo soliciten, sin perjuicio de la competencia de otras dependencias;
 
-X. Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios en que el titular del Ejecutivo Federal intervenga con cualquier carácter. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
+X. Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios y procedimientos en que el titular del Ejecutivo Federal intervenga con cualquier carácter. En el caso de los juicios y procedimientos, la Consejería Jurídica del Ejecutivo Federal podrá determinar la dependencia en la que recaerá la representación para la defensa de la Federación. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
 
-*Fracción reformada DOF 02-04-2013*
+*Fracción reformada DOF 02-04-2013, 12-04-2019*
 
 XI. Ejercer, cuando así se lo haya solicitado algún Secretario de Estado, y atendiendo a las leyes reglamentarias y a los acuerdos generales que al efecto emita el Presidente de la República, la facultad a que se refiere el noveno párrafo del artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, solicitando al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, y
 
@@ -3983,3 +3987,35 @@ La Secretaría de Hacienda y Crédito Público establecerá los lineamientos y d
 Ciudad de México, a 27 de noviembre de 2018.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de noviembre de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción X del artículo 43 de la Ley Orgánica de la Administración Pública Federal.
+
+*Publicado en el Diario Oficial de la Federación el 12 de abril de 2019*
+
+**Artículo Único.** Se reforma la fracción X del artículo 43 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 21 de marzo de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 11 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción XX del artículo 41 de la Ley Orgánica de la Administración Pública Federal y la fracción IX del artículo 8 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.
+
+*Publicado en el Diario Oficial de la Federación el 14 de mayo de 2019*
+
+**Artículo Primero.-** Se reforma la fracción XX del artículo 41 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 30 de abril de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de mayo de dos mil diecinueve.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
