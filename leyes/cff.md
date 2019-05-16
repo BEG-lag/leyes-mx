@@ -3,12 +3,12 @@ title: Código Fiscal de la Federación
 abbreviation: CFF
 slug: cff
 published_dof: 1981-12-31
-last_reform_dof: 2018-12-24
-articles: 394
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/8_241218.doc
-archived: https://web.archive.org/web/20190203101627/http://www.diputados.gob.mx:80/LeyesBiblio/doc/8_241218.doc
-source_sha256: f477d210fb02af6797160dfdd8aa9cb71139fc03a40dc4c53f2b01213395eac1
-retrieved: 2019-02-03
+last_reform_dof: 2019-05-16
+articles: 395
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/8_160519.doc
+archived: https://web.archive.org/web/20190711023959/http://www.diputados.gob.mx:80/LeyesBiblio/doc/8_160519.doc
+source_sha256: a3c12404ff209375295779d9e0dd5b8eff75629aaaaaef30dc2ce1cfde9727cc
+retrieved: 2019-07-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm
 ---
 
@@ -18,9 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 31 de diciembr
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 25-06-2018
-
-Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 24-12-2018
+Última reforma publicada DOF 16-05-2019
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -3817,7 +3815,11 @@ I. Altere o destruya los aparatos de control, sellos o marcas oficiales colocado
 
 II. Altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras, o al que tenga en su poder marbetes o precintos sin haberlos adquirido legalmente o los enajene, sin estar autorizado para ello.
 
-III. Expida, adquiera o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
+III. Adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
+
+##### Artículo 113 Bis.
+
+Se impondrá sanción de tres a seis años de prisión, al que expida o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
 
 ##### Artículo 114.
 
@@ -7556,3 +7558,21 @@ A. Cantidades actualizadas establecidas en el Código.
 Atentamente.
 
 Ciudad de México, a 17 de diciembre de 2018.- La Jefa del Servicio de Administración Tributaria, Ana Margarita Ríos Farjat.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción III del artículo 113 y se adiciona un artículo 113 Bis del Código Fiscal de la Federación.
+
+*Publicado en el Diario Oficial de la Federación el 16 de mayo de 2019*
+
+**Artículo Único.-** Se reforma la fracción III del artículo 113 y se adiciona un artículo 113 Bis del Código Fiscal de la Federación, para quedar como sigue:
+
+…….
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se derogan las disposiciones que se opongan al presente Decreto.
+
+Ciudad de México, a 8 de abril de 2019.- Sen. Marti Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vazquez Alatorre, Secretaria.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de mayo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
