@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2018-08-27
+last_reform_dof: 2019-06-06
 articles: 136
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_270818.doc
-archived: https://web.archive.org/web/20180921201533/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_270818.doc
-source_sha256: a27ecd12b91a3e939c442d3fd8b27c0ed19a91637c9c5115815aa13ef2ecee8d
-retrieved: 2018-09-21
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_060619.doc
+archived: https://web.archive.org/web/20190711031003/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_060619.doc
+source_sha256: e470c2721f4a84b06a3119fccd10de1fbe10625369f1329ffec5c4d82855a172
+retrieved: 2019-07-11
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,15 +18,9 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 27-08-2018
+Última reforma publicada DOF 06-06-2019
 
-> Notas de vigencia:
-> Relativas al Decreto en materia política-electoral publicado en el DOF 10-02-2014:
-> Las reformas, adiciones y derogaciones a los artículos 69, párrafo tercero; 74, fracciones III y VII; 76, fracciones II y XI; 89, fracción II, párrafos segundo y tercero, y fracción XVII, entrarán en vigor el 1 de diciembre de 2018, como lo establece el Artículo Décimo Segundo Transitorio del Decreto.
-> Las reformas a los artículos 65; 74, fracción IV y 83, entrarán en vigor el 1 de diciembre de 2018, de conformidad con lo que señala el Artículo Décimo Quinto Transitorio del Decreto en mención.
-> Las reformas, adiciones y derogaciones a los artículos 28; 29, párrafo primero; 69, párrafo segundo; 76, fracciones II y XII; 78, fracción V; 82, fracción VI; 84; 89, fracción IX; 90; 93, párrafo segundo; 95; 102, Apartado A; 105, fracciones II, incisos c) e i) y III; 107; 110, 111; 116, fracción IX y 119, párrafo primero, entrarán en vigor cuando el Congreso de la Unión emita la declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General de la República, de conformidad con lo establecido en el Artículo Décimo Sexto Transitorio del Decreto.
->
-> Las reformas al primer párrafo del Apartado B del artículo 123 y la Base XI del Apartado A del artículo 122 relativas al régimen jurídico de las relaciones de trabajo entre la Ciudad de México y sus trabajadores, publicadas por Decreto DOF 29-01-2016, en materia de la reforma política de la Ciudad de México, entrarán en vigor a partir del 1 de enero de 2020.
+> Nota de vigencia: Las reformas al primer párrafo del Apartado B del artículo 123 y la Base XI del Apartado A del artículo 122 relativas al régimen jurídico de las relaciones de trabajo entre la Ciudad de México y sus trabajadores, publicadas por Decreto DOF 29-01-2016, en materia de la reforma política de la Ciudad de México, entrarán en vigor a partir del 1 de enero de 2020.
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -92,7 +86,9 @@ V. Conservar y mejorar el hábitat y preservar la integridad de sus tierras en l
 
 VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en esta Constitución y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de esta Constitución. Para estos efectos las comunidades podrán asociarse en términos de ley.
 
-VII. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos.
+VII. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos, observando el principio de paridad de género conforme a las normas aplicables.
+
+*Párrafo reformado DOF 06-06-2019*
 
 Las constituciones y leyes de las entidades federativas reconocerán y regularán estos derechos en los municipios, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas.
 
@@ -134,17 +130,53 @@ Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus 
 
 ##### Artículo 3o.
 
-Toda persona tiene derecho a recibir educación. El Estado -Federación, Estados, Ciudad de México y Municipios-, impartirá educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias.
+Toda persona tiene derecho a la educación. El Estado -Federación, Estados, Ciudad de México y Municipios- impartirá y garantizará la educación inicial, preescolar, primaria, secundaria, media superior y superior. La educación inicial, preescolar, primaria y secundaria, conforman la educación básica; ésta y la media superior serán obligatorias, la educación superior lo será en términos de la fracción X del presente artículo. La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
 
-*Fe de erratas al párrafo DOF 09-03-1993. Párrafo reformado DOF 12-11-2002, 09-02-2012, 29-01-2016*
+*Fe de erratas al párrafo DOF 09-03-1993. Reformado DOF 12-11-2002, 09-02-2012, 29-01-2016, 15-05-2019*
 
-La educación que imparta el Estado tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
+Corresponde al Estado la rectoría de la educación, la impartida por éste, además de obligatoria, será universal, inclusiva, pública, gratuita y laica.
 
-*Párrafo reformado DOF 10-06-2011*
+*Párrafo adicionado DOF 15-05-2019*
 
-El Estado garantizará la calidad en la educación obligatoria de manera que los materiales y métodos educativos, la organización escolar, la infraestructura educativa y la idoneidad de los docentes y los directivos garanticen el máximo logro de aprendizaje de los educandos.
+Párrafo tercero. Se deroga.
 
-*Párrafo adicionado DOF 26-02-2013*
+*Párrafo adicionado DOF 26-02-2013. Derogado DOF 15-05-2019*
+
+La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje.
+
+*Párrafo reformado DOF 10-06-2011. Reformado y reubicado (antes párrafo segundo) DOF 15-05-2019*
+
+El Estado priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, se reconoce su contribución a la trasformación social. Tendrán derecho de acceder a un sistema integral de formación, de capacitación y de actualización retroalimentado por evaluaciones diagnósticas, para cumplir los objetivos y propósitos del Sistema Educativo Nacional.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+La ley establecerá las disposiciones del Sistema para la Carrera de las Maestras y los Maestros en sus funciones docente, directiva o de supervisión. Corresponderá a la Federación su rectoría y, en coordinación con las entidades federativas, su implementación, conforme a los criterios de la educación previstos en este artículo.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+La admisión, promoción y reconocimiento del personal que ejerza la función docente, directiva o de supervisión, se realizará a través de procesos de selección a los que concurran los aspirantes en igualdad de condiciones y establecidos en la ley prevista en el párrafo anterior, los cuales serán públicos, transparentes, equitativos e imparciales y considerarán los conocimientos, aptitudes y experiencia necesarios para el aprendizaje y el desarrollo integral de los educandos. Los nombramientos derivados de estos procesos sólo se otorgarán en términos de dicha ley. Lo dispuesto en este párrafo en ningún caso afectará la permanencia de las maestras y los maestros en el servicio. A las instituciones a las que se refiere la fracción VII de este artículo no les serán aplicables estas disposiciones.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+El Estado fortalecerá a las instituciones públicas de formación docente, de manera especial a las escuelas normales, en los términos que disponga la ley.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza aprendizaje. El Estado garantizará que los materiales didácticos, la infraestructura educativa, su mantenimiento y las condiciones del entorno, sean idóneos y contribuyan a los fines de la educación.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+A fin de dar cumplimiento a lo dispuesto en la fracción II de este artículo, el Ejecutivo Federal determinará los principios rectores y objetivos de la educación inicial, así como los planes y programas de estudio de la educación básica y normal en toda la República; para tal efecto, considerará la opinión de los gobiernos de las entidades federativas y de diversos actores sociales involucrados en la educación, así como el contenido de los proyectos y programas educativos que contemplen las realidades y contextos, regionales y locales.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, la lecto-escritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente, entre otras.
+
+*Párrafo adicionado DOF 15-05-2019*
 
 I. Garantizada por el artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa;
 
@@ -158,29 +190,57 @@ b) Será nacional, en cuanto –sin hostilidades ni exclusivismos– atenderá a
 
 *Inciso reformado DOF 26-02-2013*
 
-c) Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos, y
+c) Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la naturaleza, la diversidad cultural, la dignidad de la persona, la integridad de las familias, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 
-*Inciso reformado DOF 09-02-2012, 26-02-2013*
+*Inciso reformado DOF 09-02-2012, 26-02-2013, 15-05-2019*
 
-d) Será de calidad, con base en el mejoramiento constante y el máximo logro académico de los educandos;
+d) Se deroga.
 
-*Inciso adicionado DOF 26-02-2013*
+*Inciso adicionado DOF 26-02-2013. Derogado DOF 15-05-2019*
 
-III. Para dar pleno cumplimiento a lo dispuesto en el segundo párrafo de la fracción II, el Ejecutivo Federal determinará los planes y programas de estudio de la educación preescolar, primaria, secundaria y normal para toda la República. Para tales efectos, el Ejecutivo Federal considerará la opinión de los gobiernos de las entidades federativas, así como de los diversos sectores sociales involucrados en la educación, los maestros y los padres de familia en los términos que la ley señale. Adicionalmente, el ingreso al servicio docente y la promoción a cargos con funciones de dirección o de supervisión en la educación básica y media superior que imparta el Estado, se llevarán a cabo mediante concursos de oposición que garanticen la idoneidad de los conocimientos y capacidades que correspondan. La ley reglamentaria fijará los criterios, los términos y condiciones de la evaluación obligatoria para el ingreso, la promoción, el reconocimiento y la permanencia en el servicio profesional con pleno respeto a los derechos constitucionales de los trabajadores de la educación. Serán nulos todos los ingresos y promociones que no sean otorgados conforme a la ley. Lo dispuesto en este párrafo no será aplicable a las instituciones a las que se refiere la fracción VII de este artículo;
+e) Será equitativo, para lo cual el Estado implementará medidas que favorezcan el ejercicio pleno del derecho a la educación de las personas y combatan las desigualdades socioeconómicas, regionales y de género en el acceso, tránsito y permanencia en los servicios educativos.
 
-*Fracción reformada DOF 12-11-2002, 26-02-2013, 29-01-2016*
+En las escuelas de educación básica de alta marginación, se impulsarán acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario. Asimismo, se respaldará a estudiantes en vulnerabilidad social, mediante el establecimiento de políticas incluyentes y transversales.
+
+En educación para personas adultas, se aplicarán estrategias que aseguren su derecho a ingresar a las instituciones educativas en sus distintos tipos y modalidades.
+
+En los pueblos y comunidades indígenas se impartirá educación plurilingüe e intercultural basada en el respeto, promoción y preservación del patrimonio histórico y cultural;
+
+*Inciso adicionado DOF 15-05-2019*
+
+f) Será inclusivo, al tomar en cuenta las diversas capacidades, circunstancias y necesidades de los educandos. Con base en el principio de accesibilidad se realizarán ajustes razonables y se implementarán medidas específicas con el objetivo de eliminar las barreras para el aprendizaje y la participación;
+
+*Inciso adicionado DOF 15-05-2019*
+
+g) Será intercultural, al promover la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social;
+
+*Inciso adicionado DOF 15-05-2019*
+
+h) Será integral, educará para la vida, con el objeto de desarrollar en las personas capacidades cognitivas, socioemocionales y físicas que les permitan alcanzar su bienestar, e
+
+*Inciso adicionado DOF 15-05-2019*
+
+i) Será de excelencia, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad;
+
+*Inciso adicionado DOF 15-05-2019*
+
+III. Se deroga.
+
+*Fracción reformada DOF 12-11-2002, 26-02-2013, 29-01-2016. Derogada DOF 15-05-2019*
 
 IV. Toda la educación que el Estado imparta será gratuita;
 
-V. Además de impartir la educación preescolar, primaria, secundaria y media superior, señaladas en el primer párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos –incluyendo la educación inicial y a la educación superior– necesarios para el desarrollo de la nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura;
+V. Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará la investigación e innovación científica, humanística y tecnológica, y garantizará el acceso abierto a la información que derive de ella, para lo cual deberá proveer recursos y estímulos suficientes, conforme a las bases de coordinación, vinculación y participación que establezcan las leyes en la materia; además alentará el fortalecimiento y difusión de nuestra cultura;
 
-*Fracción reformada DOF 12-11-2002, 09-02-2012*
+*Fracción reformada DOF 12-11-2002, 09-02-2012, 15-05-2019*
 
-VI. Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación preescolar, primaria, secundaria y normal, los particulares deberán:
+VI. Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación inicial, preescolar, primaria, secundaria y normal, los particulares deberán:
 
-*Párrafo reformado DOF 12-11-2002*
+*Párrafo reformado DOF 12-11-2002, 15-05-2019*
 
-a) Impartir la educación con apego a los mismos fines y criterios que establecen el segundo párrafo y la fracción II, así como cumplir los planes y programas a que se refiere la fracción III, y
+a) Impartir la educación con apego a los mismos fines y criterios que establece el párrafo cuarto, y la fracción II, así como cumplir los planes y programas a que se refieren los párrafos décimo primero y décimo segundo, y
+
+*Inciso reformado DOF 15-05-2019*
 
 b) Obtener previamente, en cada caso, la autorización expresa del poder público, en los términos que establezca la ley;
 
@@ -188,37 +248,51 @@ VII. Las universidades y las demás instituciones de educación superior a las q
 
 *Fracción reformada DOF 26-02-2013*
 
-VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, las entidades federativas y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan, y
+VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, las entidades federativas y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan;
 
-*Fracción reformada DOF 26-02-2013, 29-01-2016*
+*Fracción reformada DOF 26-02-2013, 29-01-2016, 15-05-2019*
 
-IX. Para garantizar la prestación de servicios educativos de calidad, se crea el Sistema Nacional de Evaluación Educativa. La coordinación de dicho sistema estará a cargo del Instituto Nacional para la Evaluación de la Educación. El Instituto Nacional para la Evaluación de la Educación será un organismo público autónomo, con personalidad jurídica y patrimonio propio. Corresponderá al Instituto evaluar la calidad, el desempeño y resultados del sistema educativo nacional en la educación preescolar, primaria, secundaria y media superior. Para ello deberá:
+IX. Para contribuir al cumplimiento de los objetivos de este artículo, se crea el Sistema Nacional de Mejora Continua de la Educación, que será coordinado por un organismo público descentralizado, con autonomía técnica, operativa, presupuestaria, de decisión y de gestión, con personalidad jurídica y patrimonio propios, no sectorizado, al que le corresponderá:
 
-a) Diseñar y realizar las mediciones que correspondan a componentes, procesos o resultados del sistema;
+a) Realizar estudios, investigaciones especializadas y evaluaciones diagnósticas, formativas e integrales del Sistema Educativo Nacional;
 
-b) Expedir los lineamientos a los que se sujetarán las autoridades educativas federal y locales para llevar a cabo las funciones de evaluación que les corresponden, y
+b) Determinar indicadores de resultados de la mejora continua de la educación;
 
-c) Generar y difundir información y, con base en ésta, emitir directrices que sean relevantes para contribuir a las decisiones tendientes a mejorar la calidad de la educación y su equidad, como factor esencial en la búsqueda de la igualdad social.
+c) Establecer los criterios que deben cumplir las instancias evaluadoras para los procesos valorativos, cualitativos, continuos y formativos de la mejora continua de la educación;
 
-La Junta de Gobierno será el órgano de dirección del Instituto y estará compuesta por cinco integrantes. El Ejecutivo Federal someterá una terna a consideración de la Cámara de Senadores, la cual, con previa comparecencia de las personas propuestas, designará al integrante que deba cubrir la vacante. La designación se hará por el voto de las dos terceras partes de los integrantes de la Cámara de Senadores presentes o, durante los recesos de esta, de la Comisión Permanente, dentro del improrrogable plazo de treinta días. Si la Cámara de Senadores no resolviere dentro de dicho plazo, ocupará el cargo de integrante de la Junta de Gobierno aquel que, dentro de dicha terna, designe el Ejecutivo Federal.
+d) Emitir lineamientos relacionados con el desarrollo del magisterio, el desempeño escolar, los resultados de aprendizaje; así como de la mejora de las escuelas, organización y profesionalización de la gestión escolar;
 
-En caso de que la Cámara de Senadores rechace la totalidad de la terna propuesta, el Ejecutivo Federal someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuera rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Ejecutivo Federal.
+e) Proponer mecanismos de coordinación entre las autoridades educativas federal y de las entidades federativas para la atención de las necesidades de las personas en la materia;
 
-Los integrantes de la Junta de Gobierno deberán ser personas con capacidad y experiencia en las materias de la competencia del Instituto y cumplir los requisitos que establezca la ley, desempeñarán su encargo por períodos de siete años en forma escalonada y podrán ser reelectos por una sola ocasión. Los integrantes no podrán durar en su encargo más de catorce años. En caso de falta absoluta de alguno de ellos, el sustituto será nombrado para concluir el periodo respectivo. Sólo podrán ser removidos por causa grave en los términos del Título IV de esta Constitución y no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del Instituto y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
+f) Sugerir elementos que contribuyan a la mejora de los objetivos de la educación inicial, de los planes y programas de estudio de educación básica y media superior, así como para la educación inclusiva y de adultos, y
 
-La Junta de Gobierno de manera colegiada nombrará a quien la presida, con voto mayoritario de tres de sus integrantes quien desempeñará dicho cargo por el tiempo que establezca la ley.
+g) Generar y difundir información que contribuya a la mejora continua del Sistema Educativo Nacional.
 
-La ley establecerá las reglas para la organización y funcionamiento del Instituto, el cual regirá sus actividades con apego a los principios de independencia, transparencia, objetividad, pertinencia, diversidad e inclusión.
+La ley establecerá las reglas para la organización y funcionamiento del organismo para la mejora continua de la educación, el cual regirá sus actividades con apego a los principios de independencia, transparencia, objetividad, pertinencia, diversidad e inclusión. Definirá también los mecanismos y acciones necesarios que le permitan una eficaz colaboración y coordinación con las autoridades educativas federal y locales para el cumplimiento de sus respectivas funciones.
 
-La ley establecerá los mecanismos y acciones necesarios que permitan al Instituto y a las autoridades educativas federal y locales una eficaz colaboración y coordinación para el mejor cumplimiento de sus respectivas funciones.
+El organismo contará con una Junta Directiva, un Consejo Técnico de Educación y un Consejo Ciudadano.
 
-*Fracción adicionada DOF 26-02-2013*
+La Junta Directiva será la responsable de la conducción, planeación, programación, organización y coordinación de los trabajos del organismo al que se refiere este artículo. Se integrará por cinco personas que durarán en su encargo siete años en forma escalonada y serán nombradas por la Cámara de Senadores, con el voto de las dos terceras partes de sus integrantes. El Presidente de la Junta Directiva será nombrado por sus integrantes y presidirá el Consejo Técnico de Educación.
+
+El Consejo Técnico de Educación asesorará a la Junta Directiva en los términos que determine la ley, estará integrado por siete personas que durarán en el encargo cinco años en forma escalonada. Serán nombradas por la Cámara de Senadores, con el voto de las dos terceras partes de sus integrantes. En su composición se procurará la diversidad y representación de los tipos y modalidades educativos, así como la paridad de género. En caso de falta absoluta de alguno de sus integrantes, la persona sustituta será nombrada para concluir el periodo respectivo.
+
+Las personas que integren la Junta Directiva y el Consejo Técnico de Educación, deberán ser especialistas en investigación, política educativa, temas pedagógicos o tener experiencia docente en cualquier tipo o modalidad educativa; además acreditar el grado académico de su especialidad y experiencia, no haber sido dirigente de algún partido político o candidato a ocupar un cargo de elección popular en los cuatro años anteriores a la designación y cumplir con los requisitos que establezca la ley. Sólo podrán ser removidos por causa grave en los términos del Título Cuarto de esta Constitución.
+
+El organismo al que se refiere esta fracción, contará con un Consejo Ciudadano honorífico, integrado por representantes de los sectores involucrados en materia educativa. La ley determinará las atribuciones, organización y funcionamiento de dicho Consejo, y
+
+*Fracción adicionada DOF 26-02-2013. Reformada DOF 15-05-2019*
+
+X. La obligatoriedad de la educación superior corresponde al Estado. Las autoridades federal y locales establecerán políticas para fomentar la inclusión, permanencia y continuidad, en términos que la ley señale. Asimismo, proporcionarán medios de acceso a este tipo educativo para las personas que cumplan con los requisitos dispuestos por las instituciones públicas.
+
+*Fracción adicionada DOF 15-05-2019*
 
 *Artículo reformado DOF 13-12-1934, 30-12-1946, 09-06-1980, 28-01-1992, 05-03-1993*
 
 ##### Artículo 4o.
 
-El varón y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
+La mujer y el hombre son iguales ante la ley. Ésta protegerá la organización y el desarrollo de la familia.
+
+*Párrafo reformado DOF 06-06-2019*
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
 
@@ -266,9 +340,9 @@ Toda persona tiene derecho a la cultura física y a la práctica del deporte. Co
 
 *Párrafo adicionado DOF 12-10-2011*
 
-*Artículo reformado DOF 31-12-1974*
-
 *Reforma DOF 14-08-2001: Derogó del artículo el entonces párrafo primero (antes adicionado por DOF 28-01-1992)*
+
+*Artículo reformado DOF 31-12-1974*
 
 ##### Artículo 5o.
 
@@ -430,9 +504,9 @@ No se considerará ilegal, y no podrá ser disuelta una asamblea o reunión que 
 
 ##### Artículo 10.
 
-Los habitantes de los Estados Unidos Mexicanos tienen derecho a poseer armas en su domicilio, para su seguridad y legítima defensa, con excepción de las prohibidas por la Ley Federal y de las reservadas para el uso exclusivo del Ejército, Armada, Fuerza Aérea y Guardia Nacional. La ley federal determinará los casos, condiciones, requisitos y lugares en que se podrá autorizar a los habitantes la portación de armas.
+Los habitantes de los Estados Unidos Mexicanos tienen derecho a poseer armas en su domicilio, para su seguridad y legítima defensa, con excepción de las prohibidas por la Ley Federal y de las reservadas para el uso exclusivo de la Fuerza Armada permanente y los cuerpos de reserva. La ley federal determinará los casos, condiciones, requisitos y lugares en que se podrá autorizar a los habitantes la portación de armas.
 
-*Artículo reformado DOF 22-10-1971*
+*Artículo reformado DOF 22-10-1971, 26-03-2019*
 
 ##### Artículo 11.
 
@@ -490,7 +564,9 @@ No podrá librarse orden de aprehensión sino por la autoridad judicial y sin qu
 
 La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la ley penal.
 
-Cualquier persona puede detener al indiciado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención.
+Cualquier persona puede detener al indiciado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad civil más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención.
+
+*Párrafo reformado DOF 26-03-2019*
 
 Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
 
@@ -580,9 +656,9 @@ Para la reclusión preventiva y la ejecución de sentencias en materia de delinc
 
 Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de delincuencia organizada, homicidio doloso, violación, secuestro, trata de personas, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud.
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva oficiosamente, en los casos de abuso o violencia sexual contra menores, delincuencia organizada, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad, y de la salud.
 
-*Párrafo reformado DOF 14-07-2011*
+*Párrafo reformado DOF 14-07-2011, 12-04-2019*
 
 La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso.
 
@@ -696,17 +772,21 @@ El Ministerio Público podrá considerar criterios de oportunidad para el ejerci
 
 El Ejecutivo Federal podrá, con la aprobación del Senado en cada caso, reconocer la jurisdicción de la Corte Penal Internacional.
 
-La seguridad pública es una función a cargo de la Federación, las entidades federativas y los Municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en esta Constitución.
+La seguridad pública es una función del Estado a cargo de la Federación, las entidades federativas y los Municipios, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en esta Constitución y las leyes en la materia. La seguridad pública comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en esta Constitución.
 
-*Párrafo reformado DOF 29-01-2016*
+*Párrafo reformado DOF 29-01-2016, 26-03-2019*
 
-Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales de los tres órdenes de gobierno deberán coordinarse entre sí para cumplir los objetivos de la seguridad pública y conformarán el Sistema Nacional de Seguridad Pública, que estará sujeto a las siguientes bases mínimas:
+Las instituciones de seguridad pública, incluyendo la Guardia Nacional, serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales de los tres órdenes de gobierno deberán coordinarse entre sí para cumplir los fines de la seguridad pública y conformarán el Sistema Nacional de Seguridad Pública, que estará sujeto a las siguientes bases mínimas:
+
+*Párrafo reformado DOF 26-03-2019*
 
 a) La regulación de la selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes de las instituciones de seguridad pública. La operación y desarrollo de estas acciones será competencia de la Federación, las entidades federativas y los Municipios en el ámbito de sus respectivas atribuciones.
 
 *Inciso reformado DOF 29-01-2016*
 
-b) El establecimiento de las bases de datos criminalísticos y de personal para las instituciones de seguridad pública. Ninguna persona podrá ingresar a las instituciones de seguridad pública si no ha sido debidamente certificado y registrado en el sistema.
+b) El establecimiento de un sistema nacional de información en seguridad pública a cargo de la Federación al que ésta, las entidades federativas y los Municipios, a través de las dependencias responsables de la seguridad pública, proporcionarán la información de que dispongan en la materia, conforme a la ley. El sistema contendrá también las bases de datos criminalísticos y de personal para las instituciones de seguridad pública. Ninguna persona podrá ingresar a las instituciones de seguridad pública si no ha sido debidamente certificada y registrada en el sistema.
+
+*Inciso reformado DOF 26-03-2019*
 
 c) La formulación de políticas públicas tendientes a prevenir la comisión de delitos.
 
@@ -714,29 +794,39 @@ d) Se determinará la participación de la comunidad que coadyuvará, entre otro
 
 e) Los fondos de ayuda federal para la seguridad pública, a nivel nacional serán aportados a las entidades federativas y municipios para ser destinados exclusivamente a estos fines.
 
+La Federación contará con una institución policial de carácter civil denominada Guardia Nacional, cuyos fines son los señalados en el párrafo noveno de este artículo, la coordinación y colaboración con las entidades federativas y Municipios, así como la salvaguarda de los bienes y recursos de la Nación.
+
+*Párrafo adicionado DOF 26-03-2019*
+
+La ley determinará la estructura orgánica y de dirección de la Guardia Nacional, que estará adscrita a la secretaría del ramo de seguridad pública, que formulará la Estrategia Nacional de Seguridad Pública, los respectivos programas, políticas y acciones.
+
+*Párrafo adicionado DOF 26-03-2019*
+
+La formación y el desempeño de los integrantes de la Guardia Nacional y de las demás instituciones policiales se regirán por una doctrina policial fundada en el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, al imperio de la ley, al mando superior, y en lo conducente a la perspectiva de género.
+
+*Párrafo adicionado DOF 26-03-2019*
+
 *Artículo reformado DOF 03-02-1983, 31-12-1994, 03-07-1996, 20-06-2005, 18-06-2008*
 
 ##### Artículo 22.
 
 Quedan prohibidas las penas de muerte, de mutilación, de infamia, la marca, los azotes, los palos, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales. Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado.
 
-No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos del artículo 109, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción de dominio se establecerá un procedimiento que se regirá por las siguientes reglas:
+No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete la autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos del artículo 109, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni de aquellos bienes cuyo dominio se declare extinto en sentencia.
 
-I. Será jurisdiccional y autónomo del de materia penal;
+*Párrafo reformado DOF 27-05-2015, 14-03-2019*
 
-II. Procederá en los casos de delincuencia organizada, delitos contra la salud, secuestro, robo de vehículos, trata de personas y enriquecimiento ilícito, respecto de los bienes siguientes:
+La acción de extinción de dominio se ejercitará por el Ministerio Público a través de un procedimiento jurisdiccional de naturaleza civil y autónomo del penal. Las autoridades competentes de los distintos órdenes de gobierno le prestarán auxilio en el cumplimiento de esta función. La ley establecerá los mecanismos para que las autoridades administren los bienes sujetos al proceso de extinción de dominio, incluidos sus productos, rendimientos, frutos y accesorios, para que la autoridad lleve a cabo su disposición, uso, usufructo, enajenación y monetización, atendiendo al interés público, y defina con criterios de oportunidad el destino y, en su caso, la destrucción de los mismos.
 
-*Párrafo reformado DOF 27-05-2015*
+*Párrafo adicionado DOF 14-03-2019*
 
-a) Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
+Será procedente sobre bienes de carácter patrimonial cuya legítima procedencia no pueda acreditarse y se encuentren relacionados con las investigaciones derivadas de hechos de corrupción, encubrimiento, delitos cometidos por servidores públicos, delincuencia organizada, robo de vehículos, recursos de procedencia ilícita, delitos contra la salud, secuestro, extorsión, trata de personas y delitos en materia de hidrocarburos, petrolíferos y petroquímicos.
 
-b) Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior.
+*Párrafo adicionado DOF 14-03-2019*
 
-c) Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
+A toda persona que se considere afectada, se le deberá garantizar el acceso a los medios de defensa adecuados para demostrar la procedencia legítima del bien sujeto al procedimiento.
 
-d) Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales o de delincuencia organizada, y el acusado por estos delitos se comporte como dueño.
-
-III. Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
+*Párrafo adicionado DOF 14-03-2019*
 
 *Artículo reformado DOF 28-12-1982, 03-07-1996, 08-03-1999, 09-12-2005, 18-06-2008*
 
@@ -1228,13 +1318,15 @@ II. La mujer o el varón extranjeros que contraigan matrimonio con varón o con 
 
 Son obligaciones de los mexicanos:
 
-I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria, secundaria, media superior y reciban la militar, en los términos que establezca la ley.
+I. Ser responsables de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas, para recibir la educación obligatoria y, en su caso, reciban la militar, en los términos que establezca la ley, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo;
 
-*Fracción reformada DOF 05-03-1993, 12-11-2002, 09-02-2012*
+*Fracción reformada DOF 05-03-1993, 12-11-2002, 09-02-2012, 15-05-2019*
 
 II. Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas, y conocedores de la disciplina militar.
 
-III. Alistarse y servir en la Guardia Nacional, conforme a la ley orgánica respectiva, para asegurar y defender la independencia, el territorio, el honor, los derechos e intereses de la Patria, así como la tranquilidad y el orden interior; y
+III. Alistarse y servir en los cuerpos de reserva, conforme a la ley, para asegurar y defender la independencia, el territorio, el honor, los derechos e intereses de la Patria, y
+
+*Fracción reformada DOF 26-03-2019*
 
 IV. Contribuir para los gastos públicos, así de la Federación, como de los Estados, de la Ciudad de México y del Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes.
 
@@ -1282,23 +1374,23 @@ II. Tener un modo honesto de vivir.
 
 ##### Artículo 35.
 
-Son derechos del ciudadano:
+Son derechos de la ciudadanía:
 
-*Párrafo reformado DOF 09-08-2012*
+*Párrafo reformado DOF 09-08-2012, 06-06-2019*
 
 I. Votar en las elecciones populares;
 
-II. Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
+II. Poder ser votada en condiciones de paridad para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos y candidatas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y las ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 
-*Fracción reformada DOF 09-08-2012*
+*Fracción reformada DOF 09-08-2012, 06-06-2019*
 
 III. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del país;
 
 *Fracción reformada DOF 06-04-1990, 22-08-1996*
 
-IV. Tomar las armas en el Ejército o Guardia Nacional, para la defensa de la República y de sus instituciones, en los términos que prescriben las leyes;
+IV. Tomar las armas en la Fuerza Armada permanente o en los cuerpos de reserva, para la defensa de la República y de sus instituciones, en los términos que prescriben las leyes;
 
-*Fracción reformada DOF 09-08-2012*
+*Fracción reformada DOF 09-08-2012, 26-03-2019*
 
 V. Ejercer en toda clase de negocios el derecho de petición.
 
@@ -1350,7 +1442,9 @@ La organización y el funcionamiento permanente del Registro Nacional de Ciudada
 
 *Fracción reformada DOF 06-04-1990*
 
-II. Alistarse en la Guardia Nacional;
+II. Formar parte de los cuerpos de reserva en términos de ley;
+
+*Fracción reformada DOF 26-03-2019*
 
 III. Votar en las elecciones y en las consultas populares, en los términos que señale la ley;
 
@@ -1440,15 +1534,19 @@ El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los cas
 
 *Párrafo reformado DOF 29-01-2016*
 
+La ley determinará las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho del Poder Ejecutivo Federal y sus equivalentes en las entidades federativas. En la integración de los organismos autónomos se observará el mismo principio.
+
+*Párrafo adicionado DOF 06-06-2019*
+
 La renovación de los poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-I. Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su intervención en el proceso electoral y los derechos, obligaciones y prerrogativas que les corresponden.
+I. Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su intervención en el proceso electoral y los derechos, obligaciones y prerrogativas que les corresponden. En la postulación de sus candidaturas, se observará el principio de paridad de género.
 
-*Párrafo reformado DOF 10-02-2014*
+*Párrafo reformado DOF 10-02-2014, 06-06-2019*
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre los géneros, en candidaturas a legisladores federales y locales. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de los órganos de representación política, y como organizaciones ciudadanas, hacer posible su acceso al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como con las reglas que marque la ley electoral para garantizar la paridad de género, en las candidaturas a los distintos cargos de elección popular. Sólo los ciudadanos y ciudadanas podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-*Párrafo reformado DOF 10-02-2014*
+*Párrafo reformado DOF 10-02-2014, 06-06-2019*
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la ley.
 
@@ -1782,21 +1880,17 @@ La Cámara de Diputados se compondrá de representantes de la Nación, electos e
 
 ##### Artículo 52.
 
-La Cámara de Diputados estará integrada por 300 diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y 200 diputados que serán electos según el principio de representación proporcional, mediante el Sistema de Listas Regionales, votadas en circunscripcionales (sic DOF 15-12-1986) plurinominales.
+La Cámara de Diputados estará integrada por 300 diputadas y diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, así como por 200 diputadas y diputados que serán electos según el principio de representación proporcional, mediante el Sistema de Listas Regionales, votadas en circunscripciones plurinominales.
 
-*Artículo reformado DOF 20-08-1928, 30-12-1942, 11-06-1951, 20-12-1960, 14-02-1972, 08-10-1974, 06-12-1977, 15-12-1986*
+*Artículo reformado DOF 20-08-1928, 30-12-1942, 11-06-1951, 20-12-1960, 14-02-1972, 08-10-1974, 06-12-1977, 15-12-1986, 06-06-2019*
 
 ##### Artículo 53.
 
-La demarcación territorial de los 300 distritos electorales uninominales será la que resulte de dividir la población total del país entre los distritos señalados. La distribución de los distritos electorales uninominales entre las entidades federativas se hará teniendo en cuenta el último censo general de población, sin que en ningún caso la representación de una entidad federativa pueda ser menor de dos diputados de mayoría.
+La demarcación territorial de los 300 distritos electorales uninominales será la que resulte de dividir la población total del país entre los distritos señalados. La distribución de los distritos electorales uninominales entre las entidades federativas se hará teniendo en cuenta el último censo general de población, sin que en ningún caso la representación de una entidad federativa pueda ser menor de dos diputados o diputadas de mayoría.
 
-*Párrafo reformado DOF 29-01-2016*
+Para la elección de los 200 diputados y diputadas según el principio de representación proporcional y el Sistema de Listas Regionales, se constituirán cinco circunscripciones electorales plurinominales en el país conformadas de acuerdo con el principio de paridad, y encabezadas alternadamente entre mujeres y hombres cada periodo electivo. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
 
-Para la elección de los 200 diputados según el principio de representación proporcional y el Sistema de Listas Regionales, se constituirán cinco circunscripciones electorales plurinominales en el país. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
-
-*Párrafo reformado DOF 15-12-1986*
-
-*Artículo reformado DOF 06-12-1977*
+*Artículo reformado DOF 06-12-1977, 15-12-1986, 29-01-2016, 06-06-2019*
 
 ##### Artículo 54.
 
@@ -1880,11 +1974,13 @@ VII. No estar comprendido en alguna de las incapacidades que señala el artícul
 
 ##### Artículo 56.
 
-La Cámara de Senadores se integrará por ciento veintiocho senadores, de los cuales, en cada Estado y en la Ciudad de México, dos serán elegidos según el principio de votación mayoritaria relativa y uno será asignado a la primera minoría. Para estos efectos, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos. La senaduría de primera minoría le será asignada a la fórmula de candidatos que encabece la lista del partido político que, por sí mismo, haya ocupado el segundo lugar en número de votos en la entidad de que se trate.
+La Cámara de Senadores se integrará por ciento veintiocho senadoras y senadores, de los cuales, en cada Estado y en la Ciudad de México, dos serán elegidos según el principio de votación mayoritaria relativa y uno será asignado a la primera minoría. Para estos efectos, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos. La senaduría de primera minoría le será asignada a la fórmula de candidaturas que encabece la lista del partido político que, por sí mismo, haya ocupado el segundo lugar en número de votos en la entidad de que se trate.
 
-*Párrafo reformado DOF 29-01-2016*
+*Párrafo reformado DOF 29-01-2016, 06-06-2019*
 
-Los treinta y dos senadores restantes serán elegidos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción plurinominal nacional. La ley establecerá las reglas y fórmulas para estos efectos.
+Las treinta y dos senadurías restantes serán elegidas según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción plurinominal nacional, conformadas de acuerdo con el principio de paridad, y encabezadas alternadamente entre mujeres y hombres cada periodo electivo. La ley establecerá las reglas y fórmulas para estos efectos.
+
+*Párrafo reformado DOF 06-06-2019*
 
 La Cámara de Senadores se renovará en su totalidad cada seis años.
 
@@ -2132,9 +2228,7 @@ V. Para cambiar la residencia de los Supremos Poderes de la Federación.
 
 VI. Derogada;
 
-*Fracción reformada DOF 20-08-1928 (2 reformas), 15-12-1934, 14-12-1940, 21-09-1944, 19-02-1951. Fe de erratas DOF 14-03-1951.*
-
-Reformada DOF 08-10-1974, 06-12-1977, 28-12-1982, 10-08-1987, 06-04-1990, 25-10-1993. Derogada DOF 22-08-1996
+*Fracción reformada DOF 20-08-1928 (2 reformas), 15-12-1934, 14-12-1940, 21-09-1944, 19-02-1951. Fe de erratas DOF 14-03-1951. Reformada DOF 08-10-1974, 06-12-1977, 28-12-1982, 10-08-1987, 06-04-1990, 25-10-1993. Derogada DOF 22-08-1996*
 
 VII. Para imponer las contribuciones necesarias a cubrir el Presupuesto.
 
@@ -2156,9 +2250,7 @@ IX. Para impedir que en el comercio entre entidades federativas se establezcan r
 
 X. Para legislar en toda la República sobre hidrocarburos, minería, sustancias químicas, explosivos, pirotecnia, industria cinematográfica, comercio, juegos con apuestas y sorteos, intermediación y servicios financieros, energía eléctrica y nuclear y para expedir las leyes del trabajo reglamentarias del artículo 123;
 
-*Fracción reformada DOF 06-09-1929, 27-04-1933, 18-01-1934, 18-01-1935, 14-12-1940, 24-10-1942, 18-11-1942, 29-12-1947,*
-
-06-02-1975, 17-11-1982, 20-08-1993, 20-07-2007
+*Fracción reformada DOF 06-09-1929, 27-04-1933, 18-01-1934, 18-01-1935, 14-12-1940, 24-10-1942, 18-11-1942, 29-12-1947, 06-02-1975, 17-11-1982, 20-08-1993, 20-07-2007*
 
 XI. Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -2172,9 +2264,9 @@ XIV. Para levantar y sostener a las instituciones armadas de la Unión, a saber:
 
 *Fracción reformada DOF 10-02-1944*
 
-XV. Para dar reglamentos con objeto de organizar, armar y disciplinar la Guardia Nacional, reservándose los ciudadanos que la formen, el nombramiento respectivo de jefes y oficiales, y a las entidades federativas la facultad de instruirla conforme a la disciplina prescrita por dichos reglamentos.
+XV. Derogada.
 
-*Fracción reformada DOF 29-01-2016*
+*Fracción reformada DOF 29-01-2016. Derogada DOF 26-03-2019*
 
 XVI. Para dictar leyes sobre nacionalidad, condición jurídica de los extranjeros, ciudadanía, naturalización, colonización, emigración e inmigración y salubridad general de la República.
 
@@ -2228,25 +2320,21 @@ En las materias concurrentes previstas en esta Constitución, las leyes federale
 
 XXII. Para conceder amnistías por delitos cuyo conocimiento pertenezca a los tribunales de la Federación.
 
-XXIII. Para expedir leyes que establezcan las bases de coordinación entre la Federación, las entidades federativas y los Municipios, así como para establecer y organizar a las instituciones de seguridad pública en materia federal, de conformidad con lo establecido en el artículo 21 de esta Constitución.
+XXIII. Para expedir leyes que, con respeto a los derechos humanos, establezcan las bases de coordinación entre la Federación, las entidades federativas y los Municipios; organicen la Guardia Nacional y las demás instituciones de seguridad pública en materia federal, de conformidad con lo establecido en el artículo 21 de esta Constitución; así como la Ley Nacional sobre el Uso de la Fuerza, y la Ley Nacional del Registro de Detenciones;
 
-*Fracción derogada DOF 06-12-1977. Adicionada DOF 31-12-1994. Reformada DOF 18-06-2008, 29-01-2016*
+*Fracción derogada DOF 06-12-1977. Adicionada DOF 31-12-1994. Reformada DOF 18-06-2008, 29-01-2016, 26-03-2019*
 
 XXIV. Para expedir las leyes que regulen la organización y facultades de la Auditoría Superior de la Federación y las demás que normen la gestión, control y evaluación de los Poderes de la Unión y de los entes públicos federales; así como para expedir la ley general que establezca las bases de coordinación del Sistema Nacional Anticorrupción a que se refiere el artículo 113 de esta Constitución;
 
 *Fracción reformada DOF 30-07-1999, 27-05-2015*
 
-XXV. Para establecer el Servicio Profesional docente en términos del artículo 3o. de esta Constitución; establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, las entidades federativas y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República, y para asegurar el cumplimiento de los fines de la educación y su mejora continua en un marco de inclusión y diversidad. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República. Para legislar en materia de derechos de autor y otras figuras de la propiedad intelectual relacionadas con la misma;
+XXV. De establecer el Sistema para la Carrera de las Maestras y los Maestros, en términos del artículo 3o. de esta Constitución; establecer, organizar y sostener en toda la República escuelas rurales, elementales, media superiores, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, las entidades federativas y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República, y para asegurar el cumplimiento de los fines de la educación y su mejora continua en un marco de inclusión y diversidad. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República. Para legislar en materia de derechos de autor y otras figuras de la propiedad intelectual relacionadas con la misma;
 
-*Fracción reformada DOF 08-07-1921. Recorrida (antes fracción XXVII) por derogación de fracciones XXV y XXVI DOF 20-08-1928.*
-
-Reformada DOF 13-12-1934, 13-01-1966, 21-09-2000, 30-04-2009, 26-02-2013, 29-01-2016
+*Fracción reformada DOF 08-07-1921. Recorrida (antes fracción XXVII) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Reformada DOF 13-12-1934, 13-01-1966, 21-09-2000, 30-04-2009, 26-02-2013, 29-01-2016, 15-05-2019*
 
 XXVI. Para conceder licencia al Presidente de la República y para constituirse en Colegio Electoral y designar al ciudadano que deba substituir al Presidente de la República, ya sea con el carácter de interino o substituto, en los términos de los artículos 84 y 85 de esta Constitución;
 
-*Fracción recorrida (antes fracción XXVIII) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Reformada DOF 29-04-1933,*
-
-09-08-2012
+*Fracción recorrida (antes fracción XXVIII) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Reformada DOF 29-04-1933, 09-08-2012*
 
 XXVII. Para aceptar la renuncia del cargo de Presidente de la República.
 
@@ -2254,9 +2342,7 @@ XXVII. Para aceptar la renuncia del cargo de Presidente de la República.
 
 XXVIII. Para expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos y egresos, así como patrimonial, para la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, a fin de garantizar su armonización a nivel nacional;
 
-*Fracción recorrida (antes fracción XXX) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Derogada DOF 06-12-1977.*
-
-Adicionada DOF 07-05-2008. Reformada DOF 29-01-2016
+*Fracción recorrida (antes fracción XXX) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Derogada DOF 06-12-1977. Adicionada DOF 07-05-2008. Reformada DOF 29-01-2016*
 
 XXIX. Para establecer contribuciones:
 
@@ -2310,9 +2396,9 @@ XXIX-E. Para expedir leyes para la programación, promoción, concertación y ej
 
 *Fracción adicionada DOF 03-02-1983*
 
-XXIX-F. Para expedir leyes tendientes a la promoción de la inversión mexicana, la regulación de la inversión extranjera, la transferencia de tecnología y la generación, difusión y aplicación de los conocimientos científicos y tecnológicos que requiere el desarrollo nacional.
+XXIX-F. Para expedir leyes tendientes a la promoción de la inversión mexicana, la regulación de la inversión extranjera, la transferencia de tecnología y la generación, difusión y aplicación de los conocimientos científicos y tecnológicos que requiere el desarrollo nacional. Asimismo, para legislar en materia de ciencia, tecnología e innovación, estableciendo bases generales de coordinación entre la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, así como la participación de los sectores social y privado, con el objeto de consolidar el Sistema Nacional de Ciencia, Tecnología e Innovación;
 
-*Fracción adicionada DOF 03-02-1983*
+*Fracción adicionada DOF 03-02-1983. Reformada DOF 15-05-2019*
 
 XXIX-G. Para expedir leyes que establezcan la concurrencia del Gobierno Federal, de los gobiernos de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico.
 
@@ -2412,9 +2498,9 @@ XXIX-Z. Para expedir la ley general que establezca los principios y bases a los 
 
 *Fracción adicionada DOF 05-02-2017*
 
-XXX. Para expedir la legislación única en materia procesal civil y familiar;
+XXX. Para expedir la legislación única en materia procesal civil y familiar, así como sobre extinción de dominio en los términos del artículo 22 de esta Constitución, y
 
-*Fracción adicionada DOF 15-09-2017*
+*Fracción adicionada DOF 15-09-2017. Reformada DOF 14-03-2019*
 
 XXXI. Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
 
@@ -2458,9 +2544,7 @@ Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ing
 
 *Fracción reformada DOF 06-12-1977*
 
-*Reforma DOF 07-05-2008: Derogó de esta fracción los entonces párrafos quinto, sexto (antes reformado por DOF 30-07-1999)*
-
-y séptimo (antes reformado por DOF 17-03-1987)
+*Reforma DOF 07-05-2008: Derogó de esta fracción los entonces párrafos quinto, sexto (antes reformado por DOF 30-07-1999) y séptimo (antes reformado por DOF 17-03-1987)*
 
 V. Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 111 de esta Constitución.
 
@@ -2528,9 +2612,9 @@ II. Ratificar los nombramientos que el mismo funcionario haga de los Secretarios
 
 III. Autorizarlo también para que pueda permitir la salida de tropas nacionales fuera de los límites del País, el paso de tropas extranjeras por el territorio nacional y la estación de escuadras de otra potencia, por más de un mes, en aguas mexicanas.
 
-IV. Dar su consentimiento para que el Presidente de la República pueda disponer de la Guardia Nacional fuera de sus respectivas entidades federativas, fijando la fuerza necesaria.
+IV. Analizar y aprobar el informe anual que el Ejecutivo Federal le presente sobre las actividades de la Guardia Nacional;
 
-*Fracción reformada DOF 08-10-1974, 29-01-2016*
+*Fracción reformada DOF 08-10-1974, 29-01-2016, 26-03-2019*
 
 V. Declarar, cuando hayan desaparecido todos los poderes constitucionales de una entidad federativa, que es llegado el caso de nombrarle un titular del poder ejecutivo provisional, quien convocará a elecciones conforme a las leyes constitucionales de la entidad federativa. El nombramiento del titular del poder ejecutivo local se hará por el Senado a propuesta en terna del Presidente de la República con aprobación de las dos terceras partes de los miembros presentes, y en los recesos, por la Comisión Permanente, conforme a las mismas reglas. El funcionario así nombrado, no podrá ser electo titular del poder ejecutivo en las elecciones que se verifiquen en virtud de la convocatoria que él expidiere. Esta disposición regirá siempre que las constituciones de las entidades federativas no prevean el caso.
 
@@ -2560,9 +2644,9 @@ X. Autorizar mediante decreto aprobado por el voto de las dos terceras partes de
 
 *Fracción adicionada DOF 08-12-2005*
 
-XI. Aprobar la Estrategia Nacional de Seguridad Pública en el plazo que disponga la ley. En caso de que el Senado no se pronuncie en dicho plazo, ésta se entenderá aprobada;
+XI. Analizar y aprobar la Estrategia Nacional de Seguridad Pública, en el plazo que disponga la ley, previa comparecencia del titular de la secretaría del ramo. En caso de que el Senado no se pronuncie en dicho plazo, ésta se entenderá aprobada;
 
-*Fracción adicionada DOF 08-12-2005. Derogada DOF 15-10-2012. Adicionada DOF 10-02-2014*
+*Fracción adicionada DOF 08-12-2005. Derogada DOF 15-10-2012. Adicionada DOF 10-02-2014. Reformada DOF 26-03-2019*
 
 XII. Nombrar a los comisionados del organismo garante que establece el artículo 6o. de esta Constitución, en los términos establecidos por la misma y las disposiciones previstas en la ley; y
 
@@ -2598,7 +2682,9 @@ Durante los recesos del Congreso de la Unión habrá una Comisión Permanente co
 
 La Comisión Permanente, además de las atribuciones que expresamente le confiere esta Constitución, tendrá las siguientes:
 
-I. Prestar su consentimiento para el uso de la Guardia Nacional en los casos de que habla el artículo 76 fracción IV;
+I. Derogada.
+
+*Fracción derogada DOF 26-03-2019*
 
 II. Recibir, en su caso, la protesta del Presidente de la República;
 
@@ -2710,9 +2796,7 @@ Los Poderes de la Unión, las entidades federativas y las demás entidades fisca
 
 El Poder Ejecutivo Federal aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo.
 
-*Artículo reformado DOF 24-11-1923, 20-08-1928, 29-04-1933, 21-10-1966, 06-07-1971, 08-10-1974, 08-02-1985, 10-08-1987,*
-
-25-10-1993, 31-12-1994, 30-07-1999
+*Artículo reformado DOF 24-11-1923, 20-08-1928, 29-04-1933, 21-10-1966, 06-07-1971, 08-10-1974, 08-02-1985, 10-08-1987, 25-10-1993, 31-12-1994, 30-07-1999*
 
 ### Capítulo III · Del Poder Ejecutivo
 
@@ -2858,7 +2942,9 @@ VI. Preservar la seguridad nacional, en los términos de la ley respectiva, y di
 
 *Fracción reformada DOF 10-02-1944, 05-04-2004*
 
-VII. Disponer de la Guardia Nacional para los mismos objetos, en los términos que previene la fracción IV del artículo 76.
+VII. Disponer de la Guardia Nacional en los términos que señale la ley;
+
+*Fracción reformada DOF 26-03-2019*
 
 VIII. Declarar la guerra en nombre de los Estados Unidos Mexicanos, previa ley del Congreso de la Unión.
 
@@ -2970,9 +3056,9 @@ La administración, vigilancia y disciplina del Poder Judicial de la Federación
 
 *Párrafo adicionado DOF 11-06-1999*
 
-La Suprema Corte de Justicia de la Nación se compondrá de once Ministros y funcionará en Pleno o en Salas.
+La Suprema Corte de Justicia de la Nación se compondrá de once integrantes, Ministras y Ministros, y funcionará en Pleno o en Salas.
 
-*Párrafo reformado DOF 31-12-1994*
+*Párrafo reformado DOF 31-12-1994, 06-06-2019*
 
 En los términos que la ley disponga las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público.
 
@@ -2987,6 +3073,10 @@ El Consejo de la Judicatura Federal determinará el número, división en circui
 Asimismo, mediante acuerdos generales establecerá Plenos de Circuito, atendiendo al número y especialización de los Tribunales Colegiados que pertenezcan a cada Circuito. Las leyes determinarán su integración y funcionamiento.
 
 *Párrafo adicionado DOF 06-06-2011*
+
+La ley establecerá la forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
+
+*Párrafo adicionado DOF 06-06-2019*
 
 El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la Corte, así como remitir a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los asuntos, aquéllos en los que hubiera establecido jurisprudencia o los que, conforme a los referidos acuerdos, la propia Corte determine para una mejor impartición de justicia. Dichos acuerdos surtirán efectos después de publicados.
 
@@ -3012,9 +3102,7 @@ Ninguna persona que haya sido ministro podrá ser nombrada para un nuevo periodo
 
 *Párrafo adicionado DOF 31-12-1994. Reformado DOF 06-06-2011*
 
-*Artículo reformado DOF 20-08-1928, 15-12-1934, 21-09-1944, 19-02-1951. Fe de erratas DOF 14-03-1951. Reformado DOF 25-10-1967,*
-
-28-12-1982, 10-08-1987
+*Artículo reformado DOF 20-08-1928, 15-12-1934, 21-09-1944, 19-02-1951. Fe de erratas DOF 14-03-1951. Reformado DOF 25-10-1967, 28-12-1982, 10-08-1987*
 
 ##### Artículo 95.
 
@@ -3802,9 +3890,9 @@ Los estados adoptarán, para su régimen interior, la forma de gobierno republic
 
 *Párrafo reformado DOF 10-02-2014*
 
-I. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de regidores y síndicos que la ley determine. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
+I. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
-*Párrafo reformado DOF 23-12-1999*
+*Párrafo reformado DOF 23-12-1999, 06-06-2019*
 
 Las Constituciones de los estados deberán establecer la elección consecutiva para el mismo cargo de presidentes municipales, regidores y síndicos, por un período adicional, siempre y cuando el periodo del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
@@ -4362,9 +4450,7 @@ c) La proyección conjunta y coordinada del desarrollo de las zonas conurbadas y
 
 D. Las prohibiciones y limitaciones que esta Constitución establece para los Estados aplicarán a la Ciudad de México.
 
-*Artículo reformado DOF 25-10-1993, 31-12-1994. Fe de erratas al artículo DOF 03-01-1995. Artículo reformado DOF 22-08-1996,*
-
-13-11-2007, 07-05-2008, 24-08-2009, 27-04-2010, 09-08-2012, 27-12-2013, 07-02-2014, 10-02-2014, 27-05-2015, 29-01-2016
+*Artículo reformado DOF 25-10-1993, 31-12-1994. Fe de erratas DOF 03-01-1995. Reformado DOF 22-08-1996, 13-11-2007, 07-05-2008, 24-08-2009, 27-04-2010, 09-08-2012, 27-12-2013, 07-02-2014, 10-02-2014, 27-05-2015, 29-01-2016*
 
 ## Título Sexto · Del Trabajo y de la Previsión Social
 
@@ -4864,9 +4950,7 @@ Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto
 
 La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso de la Unión, por el voto de las dos terceras partes de los individuos presentes, acuerden las reformas o adiciones, y que éstas sean aprobadas por la mayoría de las legislaturas de los Estados y de la Ciudad de México.
 
-*Párrafo reformado (se suprime la última oración, la cual se reforma y adiciona para quedar como segundo párrafo) DOF 21-10-1966.*
-
-*Reformado DOF 29-01-2016*
+*Párrafo reformado (se suprime la última oración, la cual se reforma y adiciona para quedar como segundo párrafo) DOF 21-10-1966. Reformado DOF 29-01-2016*
 
 El Congreso de la Unión o la Comisión Permanente en su caso, harán el cómputo de los votos de las Legislaturas y la declaración de haber sido aprobadas las adiciones o reformas.
 
@@ -7781,3 +7865,301 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 15 de agosto de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. María Gloria Hernández Madrid, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de agosto de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se reforman el artículo 22 y la fracción XXX del artículo 73, de la Constitución Política de los Estados Unidos Mexicanos, en materia de Extinción de Dominio.
+
+*Publicado en el Diario Oficial de la Federación el 14 de marzo de 2019*
+
+**Artículo Único.-** Se reforman los artículos 22, segundo párrafo y 73, fracción XXX, y se adicionan un tercer, cuarto y quinto párrafos al artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Congreso de la Unión, en un plazo de 180 días posteriores al inicio de vigencia de este Decreto expedirá la legislación nacional única en materia de extinción de dominio.
+
+**Tercero.** La Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política los Estados Unidos Mexicanos, así como la legislación respectiva del ámbito local, seguirán en vigor hasta en tanto el Congreso de la Unión expida la legislación nacional única en materia de extinción de dominio que ordena el presente Decreto.
+
+**Cuarto.** Los procesos en materia de extinción de dominio iniciados con fundamento en la legislación federal y local referida en el artículo transitorio anterior, así como las sentencias dictadas con base en las mismas, no se verán afectados por la entrada en vigor del presente Decreto, y deberán concluirse y ejecutarse conforme al orden constitucional y legal vigente al momento de su inicio.
+
+Ciudad de México, a 7 de marzo de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Lizeth Sánchez García, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de marzo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional.
+
+*Publicado en el Diario Oficial de la Federación el 26 de marzo de 2019*
+
+**Artículo Único.-** Se reforman los artículos 10; 16, párrafo quinto; 21, párrafos noveno, décimo y su inciso b); 31, fracción III; 35, fracción IV; 36, fracción II; 73, fracción XXIII; 76, fracciones IV y XI, y 89, fracción VII; se adicionan los párrafos décimo primero, décimo segundo y décimo tercero al artículo 21; y se derogan la fracción XV del artículo 73, y la fracción I del artículo 78 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+El Congreso de la Unión dentro de los 60 días naturales siguientes a la entrada en vigor de este Decreto, expedirá la Ley de la Guardia Nacional y hará las adecuaciones legales conducentes.
+
+Asimismo, expedirá las leyes nacionales que reglamenten el uso de la fuerza y del registro de detenciones dentro de los 90 días naturales siguientes a la entrada en vigor de este Decreto.
+
+**Segundo.** La Guardia Nacional se constituirá a la entrada en vigor del presente Decreto con los elementos de la Policía Federal, la Policía Militar y la Policía Naval que determine en acuerdos de carácter general el Presidente de la República. En tanto se expide la ley respectiva, la Guardia Nacional asumirá los objetivos, atribuciones y obligaciones previstas en los artículos 2 y 8 de la Ley de la Policía Federal, con la gradualidad que se requiera para asegurar la continuidad de operaciones y la transferencia de recursos humanos, materiales y financieros que correspondan. De igual forma, el Ejecutivo Federal dispondrá lo necesario para la incorporación de los elementos de las policías Militar y Naval a la Guardia Nacional y designará al titular del órgano de mando superior y a los integrantes de la instancia de coordinación operativa interinstitucional formada por representantes de las secretarías del ramo de seguridad, de la Defensa Nacional y de Marina.
+
+**Tercero.** Los elementos de las policías Militar y Naval, así como otros elementos de mando y servicios de apoyo de la Fuerza Armada permanente, que sean asignados a la Guardia Nacional, conservarán su rango y prestaciones; la ley garantizará que cuando un elemento sea reasignado a su cuerpo de origen, ello se realice respetando los derechos con que contaba al momento de ser asignado a aquélla, así como el reconocimiento del tiempo de servicio en la misma, para efectos de su antigüedad. Lo anterior será aplicable, en lo conducente, a los elementos de la Policía Federal que sean adscritos a la Guardia Nacional.
+
+**Cuarto.** Al expedir las leyes a que se refiere la fracción XXIII del artículo 73 de esta Constitución, el Congreso de la Unión estará a lo siguiente:
+
+I. Las reformas a la Ley General del Sistema Nacional de Seguridad Pública deberán contemplar, al menos, los siguientes elementos:
+
+1\. La normativa sobre la formación y actuación de las instituciones de policía encargadas de la seguridad pública en términos de la doctrina policial civil establecida en el artículo 21 de esta Constitución, y
+
+2\. La regulación del sistema nacional de información en seguridad pública a que se refiere el inciso b) del párrafo décimo del artículo 21 constitucional.
+
+II. La Ley de la Guardia Nacional contendrá, al menos, los siguientes elementos:
+
+1\. Los supuestos para la coordinación y colaboración de la Guardia Nacional con las instituciones de seguridad pública de las entidades federativas y de los Municipios;
+
+2\. Las reglas para determinar las aportaciones de las entidades federativas y Municipios cuando soliciten la colaboración de la Guardia Nacional para la atención de tareas de seguridad pública de competencia local;
+
+3\. Lo relativo a la estructura jerárquica, regímenes de disciplina que incluya faltas, delitos y sanciones a la disciplina policial, responsabilidades y servicios, ascensos, prestaciones, ingreso, educación, capacitación, profesionalización y el cumplimiento de las responsabilidades y tareas que puedan homologarse, en lo conducente a las disposiciones aplicables en el ámbito de la Fuerza Armada permanente;
+
+4\. Los criterios de evaluación del desempeño de sus integrantes;
+
+5\. La regulación sobre la disposición, posesión, portación y uso de armas de fuego, atendiendo los estándares y mejores prácticas internacionales;
+
+6\. Las hipótesis para la delimitación de la actuación de sus integrantes;
+
+7\. Los requisitos que deberán cumplir sus integrantes, conforme a las leyes aplicables, y
+
+8\. Los componentes mínimos del informe anual a que se refiere la fracción IV del artículo 76 de esta Constitución.
+
+III. La Ley Nacional sobre el Uso de la Fuerza establecerá, por lo menos, las siguientes previsiones:
+
+1\. La finalidad, alcance y definición del uso de la fuerza pública;
+
+2\. Los sujetos obligados al cumplimiento del ordenamiento y los derechos y obligaciones de los integrantes de instituciones con atribuciones para llevar a cabo el ejercicio de la fuerza pública;
+
+3\. La sujeción del uso de la fuerza a los principios de legalidad, necesidad, proporcionalidad, racionalidad y oportunidad;
+
+4\. La previsión del adiestramiento en medios, métodos, técnicas y tácticas del uso de la fuerza mediante el control físico, el empleo de armas incapacitantes, no letales y de armas letales;
+
+5\. Los niveles para el uso de la fuerza pública por los servidores públicos en el ejercicio de sus atribuciones para hacer cumplir la ley;
+
+6\. La distinción y regulación de las armas e instrumentos incapacitantes, no letales y letales;
+
+7\. Las reglas sobre la portación y uso de armas de fuego entre los integrantes de instituciones con atribuciones para llevar a cabo el ejercicio de la fuerza pública, así como sus responsabilidades
+
+y sanciones;
+
+8\. Las previsiones de actuación de los integrantes de instituciones con atribuciones para llevar a cabo el ejercicio de la fuerza pública, con relación a personas detenidas, bajo su custodia o en manifestaciones públicas;
+
+9\. Las normas para la presentación de informes de los servidores públicos que hagan uso de armas de fuego en el desempeño de sus funciones, así como para su sistematización y archivo, y
+
+10\. Las reglas básicas de adiestramiento y gestión profesional del uso de la fuerza pública.
+
+IV. La Ley Nacional del Registro de Detenciones incorporará, al menos, las siguientes previsiones:
+
+1\. Las características del Registro y los principios que rigen su conformación, uso y conservación;
+
+2\. El momento de realizar el registro de la persona dentro del procedimiento de detención;
+
+3\. El tratamiento de los datos personales de la persona detenida, en términos de las leyes en la materia;
+
+4\. Los criterios para clasificar la información como reservada o confidencial;
+
+5\. Las personas autorizadas para acceder a la base de datos del Registro y los niveles de acceso;
+
+6\. Las atribuciones de los servidores públicos que desempeñen funciones en el Registro y sus responsabilidades en la recepción, administración y seguridad de la información, y
+
+7\. La actuación que deberá desplegar el Registro y su personal en caso de ocurrir hechos que pongan en riesgo o vulneren su base de datos.
+
+**Quinto.** Durante los cinco años siguientes a la entrada en vigor del presente Decreto, en tanto la Guardia Nacional desarrolla su estructura, capacidades e implantación territorial, el Presidente de la República podrá disponer de la Fuerza Armada permanente en tareas de seguridad pública de manera extraordinaria, regulada, fiscalizada, subordinada y complementaria.
+
+El Ejecutivo Federal incluirá un apartado sobre el uso de la facultad anterior en la presentación del informe a que se hace referencia en la fracción IV del artículo 76.
+
+**Sexto.** Durante el periodo a que se refiere el artículo anterior, para la conformación y funcionamiento de la Guardia Nacional, las secretarías de los ramos de Defensa Nacional y de Marina participarán, conforme a la ley, con la del ramo de seguridad, para el establecimiento de su estructura jerárquica, sus regímenes de disciplina, de cumplimiento de responsabilidades y tareas, y de servicios, así como para la instrumentación de las normas de ingreso, educación, capacitación, profesionalización, ascensos y prestaciones, que podrán estar homologados en lo conducente, a las disposiciones aplicables en el ámbito de la Fuerza Armada permanente.
+
+**Séptimo.** Los Ejecutivos de las entidades federativas presentarán ante el Consejo Nacional de Seguridad Pública, en un plazo que no podrá exceder de 180 días a partir de la entrada en vigor del presente Decreto, el diagnóstico y el programa para el fortalecimiento del estado de fuerza y las capacidades institucionales de sus respectivos cuerpos policiales estatales y municipales.
+
+Para la ejecución del programa, se establecerán las previsiones necesarias en los presupuestos de Egresos de la Federación y de las entidades federativas, sobre la base de la corresponsabilidad a partir del ejercicio fiscal de 2020.
+
+Un año después de haberse emitido el programa referido, el Ejecutivo local enviará anualmente a la Legislatura de la entidad federativa correspondiente y al Consejo Nacional de Seguridad Pública, la evaluación integral del mismo con el informe sobre los avances en los objetivos señalados y su cumplimiento en un horizonte de seis años. Los resultados de la evaluación serán considerados para el ajuste del programa y su calendario de ejecución, por los órganos correspondientes.
+
+Ciudad de México, a 14 de marzo de 2019.- Sen. Marti Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vazquez Alatorre, Secretaria.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 22 de marzo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se declara reformado el Artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.
+
+*Publicado en el Diario Oficial de la Federación el 12 de abril de 2019*
+
+**Artículo Único.-** Se reforma el segundo párrafo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Para los efectos a que se refiere el párrafo segundo del artículo 19, materia de este Decreto, el Congreso de la Unión, en un lapso de 90 días siguientes a la publicación en el Diario Oficial de la Federación, deberá realizar las adecuaciones normativas necesarias para incluir en el artículo 167 del Código Nacional de Procedimientos Penales, y demás ordenamientos correspondientes las hipótesis delictivas a que se refiere el artículo 19.
+
+**Tercero.** Entrando en vigor el presente Decreto, los delitos en materia de corrupción tratándose de aquellos correspondientes a enriquecimiento ilícito y ejercicio abusivo de funciones, entrarán en vigor a partir del nombramiento que realice el Titular de la Fiscalía General de la República respecto de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción.
+
+**Cuarto.** La prisión preventiva oficiosa, deberá evaluarse para determinar la continuidad de su aplicación, a partir de los cinco años cumplidos de la vigencia del presente Decreto.
+
+En el lapso señalado en el párrafo anterior, se deberá evaluar conforme a los criterios del Sistema Nacional de Seguridad Pública, la eficacia de esta medida cautelar, y la eficiencia del sistema penal acusatorio, mediante informes emitidos, por el gobierno federal y los gobiernos de las entidades federativas, tomando en cuenta a los poderes judiciales respectivos, así como a las fiscalías o procuradurías correspondientes, y organismos de protección de los derechos humanos, y que deberá contener, al menos, los siguientes elementos:
+
+1\. Desempeño eficaz de las Unidades Estatales de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso;
+
+2\. Eficacia de las medidas cautelares aplicadas;
+
+3\. Creación y desempeño de instancias de atención integral de víctimas;
+
+4\. Implementación de sistemas de información criminal y de judicialización;
+
+5\. Resultado de la aplicación de Mecanismos Alternativos de Solución de Controversias en Materia Penal, y
+
+6\. Los avances de la implementación de elementos críticos como la capacitación de los operadores de los poderes judiciales y del Ministerio Público, policía de investigación, policía preventiva, peritos, entre otros.
+
+Los parámetros para la medición de la eficacia en la implementación de los elementos críticos serán dispuestos por la ley correspondiente.
+
+**Quinto.** La aplicación de las normas relativas al artículo 19 en los supuestos delictivos materia del presente Decreto, se harán conforme a lo dispuesto en el artículo 14 de la Constitución.
+
+Ciudad de México, a 4 de abril de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 11 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa.
+
+*Publicado en el Diario Oficial de la Federación el 15 de mayo de 2019*
+
+**Artículo Único.** Se reforman los párrafos primero y actual segundo, recorriéndose en su numeración para ser el cuarto, las fracciones II, inciso c), V, VI, párrafo primero y su inciso a), y IX del artículo 3o., la fracción I del artículo 31 y las fracciones XXV y XXIX-F del artículo 73; se adicionan los párrafos segundo, quinto, sexto, séptimo, octavo, noveno, décimo, décimo primero y décimo segundo, a la fracción II los incisos e), f), g), h), e i) y la fracción X del artículo 3o.; y se derogan el párrafo tercero, el inciso d) de la fracción II y la fracción III del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** A partir de la entrada en vigor de este Decreto se abroga la Ley General del Servicio Profesional Docente, se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.
+
+Hasta en tanto el Congreso de la Unión expida la ley en materia del Sistema para la Carrera de las Maestras y los Maestros, queda suspendida cualquier evaluación y permanecerán vigentes las disposiciones que facultan a la actual Coordinación Nacional del Servicio Profesional Docente de la Secretaría de Educación Pública, para proveer las medidas necesarias y dar cumplimiento a los procesos derivados del Servicio Profesional Docente.
+
+En la aplicación de este Decreto se respetarán los derechos adquiridos de las maestras y los maestros, los cuales no podrán ser restringidos o afectados de manera retroactiva con las disposiciones de nueva creación.
+
+**Tercero.** Quedan sin efectos los actos referidos a la aplicación de la Ley General del Servicio Profesional Docente que afectaron la permanencia de las maestras y los maestros en el servicio.
+
+**Cuarto.** A partir de la entrada en vigor de este Decreto se abroga la Ley del Instituto Nacional para la Evaluación de la Educación, se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.
+
+**Quinto.** El Congreso de la Unión deberá expedir la Ley del organismo al que se refiere la fracción IX del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema para la Carrera de las Maestras y los Maestros, a más tardar en un plazo de 120 días a partir de la publicación del presente Decreto.
+
+**Sexto.** El Congreso de la Unión deberá expedir las Leyes Generales en materia de Educación Superior y de Ciencia, Tecnología e Innovación a más tardar en el año 2020.
+
+**Séptimo.** El Congreso de la Unión deberá realizar las reformas a la legislación secundaria correspondiente, a más tardar en un plazo de 120 días a partir de la publicación de este Decreto.
+
+**Octavo.** Las legislaturas de los Estados, en el ámbito de su competencia, tendrán el plazo de un año para armonizar el marco jurídico en la materia, conforme a este Decreto.
+
+**Noveno.** Para la integración de la primera Junta Directiva del organismo al que se refiere la fracción IX del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Cámara de Senadores designará a sus cinco integrantes en un plazo de 30 días naturales contados a partir de la entrada en vigor de este Decreto, con una prórroga de hasta 15 días naturales.
+
+Con el fin de asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, éstos se harán por los periodos siguientes:
+
+1\) Dos nombramientos por un periodo de cinco años;
+
+2\) Dos nombramientos por un periodo de seis años, y
+
+3\) Un nombramiento por un periodo de siete años.
+
+En la integración del Consejo Técnico de Educación, la Cámara de Senadores designará a sus siete miembros en un plazo máximo de 60 días naturales contados a partir de la entrada en vigor de este Decreto. Cuatro de ellos deberán ser representantes de los diversos tipos y modalidades de la educación.
+
+Para asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, éstos se harán por los periodos siguientes:
+
+1\) Tres nombramientos por un periodo de tres años;
+
+2\) Tres nombramientos por un periodo de cuatro años, y
+
+3\) Un nombramiento por un periodo de cinco años.
+
+Para la designación de los integrantes de la Junta Directiva y del Consejo Técnico, el Senado de la República emitirá convocatoria pública a fin de que las instituciones educativas, organismos de la sociedad civil organizada y sociedad en general presenten propuestas. La Junta de Coordinación Política acordará los procedimientos para su elección.
+
+La Junta Directiva y el Consejo Técnico de Educación asumirán sus funciones para ejercer las facultades que le otorga este Decreto, una vez que entre en vigor la legislación del organismo para la mejora continua de la educación, que expida el Congreso de la Unión.
+
+**Décimo.** Las asignaciones presupuestales, así como los recursos humanos, financieros y materiales con que cuenta el Instituto Nacional para la Evaluación de la Educación, formarán parte del organismo al que se refiere el artículo 3o., fracción IX, de la Constitución Política de los Estados Unidos Mexicanos.
+
+Una vez constituida la Junta Directiva, será la encargada de dar cumplimiento a esta disposición, con independencia de las atribuciones que correspondan en este proceso a otras autoridades, además realizará todas aquellas para el funcionamiento del organismo.
+
+Hasta la designación de la Junta Directiva que realice la Cámara de Senadores en los términos del Artículo Noveno Transitorio, se nombrará como Coordinador de Administración a quien fungía como titular de la Unidad de Administración del Instituto Nacional para la Evaluación de la Educación, quien dispondrá las medidas administrativas y financieras para el funcionamiento del mismo, para lo cual tendrá las siguientes atribuciones:
+
+I. Administrar y controlar los recursos humanos, presupuesto, recursos financieros, bienes y servicios, servicios tecnológicos, asuntos jurídicos y mejora de la gestión del organismo;
+
+II. Dar seguimiento a los procesos de planeación y programación, así como su implementación, con la participación de las unidades administrativas;
+
+III. Dar continuidad a las disposiciones que rijan las relaciones laborales y llevar a cabo los procesos de reclutamiento, selección, nómina y remuneraciones, servicios y capacitación al personal;
+
+IV. Supervisar las acciones para el desarrollo y seguimiento de los procesos de adquisición, almacenamiento, distribución, control y mantenimiento de los recursos materiales, así como de los servicios generales del Instituto;
+
+V. Suscribir los instrumentos jurídicos en materia de administración del Instituto;
+
+VI. Dirigir las estrategias de tecnologías de la información del organismo y el desarrollo de herramientas informáticas y sistemas de comunicación y tecnológicos, así como la prestación de servicios informáticos y de soporte técnico, con la participación de las unidades administrativas;
+
+VII. Establecer las estrategias para representar legalmente al organismo en toda clase de juicios, procedimientos administrativos e investigaciones ante los tribunales y otras autoridades;
+
+VIII. Coordinar la atención y vigilancia del cumplimiento de las disposiciones en materia de transparencia y acceso a la información pública, y
+
+IX. Determinar las acciones para atender las auditorías de las instancias fiscalizadoras, en coordinación con las unidades administrativas.
+
+En un plazo de 15 días a partir de la vigencia de este Decreto, el Coordinador de Administración deberá publicar en el Diario Oficial de la Federación un informe acerca de la situación del Instituto que incluya el balance financiero correspondiente.
+
+Los derechos laborales de los servidores públicos del actual Instituto Nacional para la Evaluación de la Educación se respetarán conforme a la ley.
+
+El acervo de información estadística, indicadores, estudios, bases de datos, informes y cualquier otro documento publicado o por publicar elaborado o en posesión del Instituto Nacional para la Evaluación de la Educación es patrimonio público y deberá ser puesto a disposición de la ciudadanía en un portal público, accesible, con la debida protección de datos personales y de fácil manejo en un plazo de 90 días a partir de la publicación de este Decreto.
+
+**Décimo Primero.** Para la integración de los planes y programas a los que se refiere el artículo 3o. en su párrafo décimo primero, el Ejecutivo Federal considerará el carácter local, contextual y situacional del proceso de enseñanza aprendizaje.
+
+En el caso de las escuelas normales, la ley respectiva en materia de educación superior, establecerá los criterios para su desarrollo institucional y regional, la actualización de sus planes y programas de estudio para promover la superación académica y contribuir a la mejora de la educación, así como el mejoramiento de su infraestructura y equipamiento.
+
+Para dar cumplimiento a lo establecido en el párrafo noveno del artículo 3o., el Ejecutivo Federal, en un plazo no mayor a 180 días contados a partir de la entrada en vigor de las presentes disposiciones, definirá una Estrategia Nacional de Mejora de las Escuelas Normales, la cual establecerá acciones para su fortalecimiento.
+
+**Décimo Segundo.** Para atender la educación inicial referida en el artículo 3o., el Ejecutivo Federal, en un plazo no mayor a 180 días contados a partir de su entrada en vigor de estas disposiciones, definirá una Estrategia Nacional de Atención a la Primera Infancia, en la cual se determinará la gradualidad de su impartición y financiamiento.
+
+**Décimo Tercero.** La Autoridad Educativa Federal mantendrá sus facultades y atribuciones correspondientes para la impartición de la educación inicial, básica, incluyendo la indígena, especial, así como la normal y demás para la formación de maestros de educación básica, en el ámbito de la Ciudad de México, mientras se lleve a cabo la descentralización de los servicios educativos y la transferencia de los recursos humanos, materiales y presupuestales, conforme al Acuerdo que celebre la Federación y el Gobierno de la Ciudad de México.
+
+**Décimo Cuarto.** La legislación secundaria, en los aspectos que así lo ameriten, determinará la gradualidad para la implementación de lo contenido en este Decreto y, la Cámara de Diputados anualmente, en el Presupuesto de Egresos de la Federación, aprobará las previsiones presupuestarias necesarias para el cumplimento progresivo de las mismas.
+
+La Cámara de Diputados, en el Presupuesto de Egresos de la Federación que corresponda, aprobará los recursos necesarios para dar cumplimiento a lo establecido en la fracción V del artículo 3o. Constitucional.
+
+**Décimo Quinto.** Para dar cumplimiento al principio de obligatoriedad de la educación superior, se incluirán los recursos necesarios en los presupuestos federal, de las entidades federativas y de los municipios, en términos de las fracciones VIII y X del artículo 3o. de esta Constitución; adicionalmente, se establecerá un fondo federal especial que asegure a largo plazo los recursos económicos necesarios para garantizar la obligatoriedad de los servicios a que se refiere este artículo, así como la plurianualidad de la infraestructura.
+
+**Décimo Sexto.** Con la entrada en vigor de las presentes disposiciones, los derechos laborales de los trabajadores al servicio de la educación, se regirán por el artículo 123 Constitucional Apartado B. Con fundamento en este Decreto, la admisión, promoción y reconocimiento se regirán por la Ley Reglamentaria del Sistema para la Carrera de las Maestras y los Maestros, prevaleciendo siempre la rectoría del Estado.
+
+**Décimo Séptimo.** La ley secundaria definirá que, dentro de los consejos técnicos escolares, se integrará un Comité de Planeación y Evaluación para formular un programa de mejora continua que contemple, de manera integral, la infraestructura, el equipamiento, el avance de los planes y programas educativos, la formación y prácticas docentes, la carga administrativa, la asistencia de los educandos, el aprovechamiento académico, el desempeño de las autoridades educativas y los contextos socioculturales. Dichos programas tendrán un carácter multianual, definirán objetivos y metas, los cuales serán evaluados por el referido Comité.
+
+**Décimo Octavo.** Con la finalidad de dar cumplimiento a lo dispuesto en el artículo 3o., fracción II, inciso f), el Ejecutivo Federal, en un plazo no mayor a 180 días contados a partir de la entrada en vigor de las presentes disposiciones, definirá una Estrategia Nacional de Inclusión Educativa, la cual establecerá acciones y etapas para su cumplimiento progresivo. La educación especial en sus diferentes modalidades se impartirá en situaciones excepcionales.
+
+Ciudad de México, a 15 de mayo de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Sen. Mónica Fernández Balboa, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de mayo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros.
+
+*Publicado en el Diario Oficial de la Federación el 6 de junio de 2019*
+
+**ARTÍCULO ÚNICO.** Se reforman: la fracción VII del apartado A del artículo 2; el párrafo primero del artículo 4; el párrafo primero y la fracción II del artículo 35; los párrafos primero y segundo de la fracción I del artículo 41; el artículo 52; los párrafos primero y segundo del artículo 53; los párrafos primero y segundo del artículo 56; el tercer párrafo del artículo 94; el párrafo primero de la fracción I del artículo 115. Se adicionan: un segundo párrafo, recorriéndose los subsecuentes al artículo 41; un párrafo octavo, recorriendo los subsecuentes, al artículo 94, todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** El Congreso de la Unión deberá, en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el principio de paridad de género establecido en esta Constitución, en los términos del segundo párrafo del artículo 41.
+
+**TERCERO.-** La observancia del principio de paridad de género a que se refiere el artículo 41, será aplicable a quiénes tomen posesión de su encargo, a partir del proceso electoral federal o local siguiente a la entrada en vigor del presente Decreto, según corresponda.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+**CUARTO.-** Las legislaturas de las entidades federativas, en el ámbito de su competencia, deberán realizar las reformas correspondientes en su legislación, para procurar la observancia del principio de paridad de género en los términos del artículo 41.
+
+Ciudad de México, a 05 de junio de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Sen. Mónica Fernández Balboa, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de junio de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
