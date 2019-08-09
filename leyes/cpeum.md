@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2019-06-06
+last_reform_dof: 2019-08-09
 articles: 136
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_060619.doc
-archived: https://web.archive.org/web/20190711031003/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_060619.doc
-source_sha256: e470c2721f4a84b06a3119fccd10de1fbe10625369f1329ffec5c4d82855a172
-retrieved: 2019-07-11
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_090819.doc
+archived: https://web.archive.org/web/20190828161604/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_090819.doc
+source_sha256: a350dbc7ea287eb251353cf4f84d3e6533cccb516ded9b58e076220ccf6a4500
+retrieved: 2019-08-28
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 06-06-2019
+Última reforma publicada DOF 09-08-2019
 
 > Nota de vigencia: Las reformas al primer párrafo del Apartado B del artículo 123 y la Base XI del Apartado A del artículo 122 relativas al régimen jurídico de las relaciones de trabajo entre la Ciudad de México y sus trabajadores, publicadas por Decreto DOF 29-01-2016, en materia de la reforma política de la Ciudad de México, entrarán en vigor a partir del 1 de enero de 2020.
 
@@ -125,6 +125,10 @@ IX. Consultar a los pueblos indígenas en la elaboración del Plan Nacional de D
 Para garantizar el cumplimiento de las obligaciones señaladas en este apartado, la Cámara de Diputados del Congreso de la Unión, las legislaturas de las entidades federativas y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
 
 Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
+
+C. Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural de la Nación. Tendrán en lo conducente los derechos señalados en los apartados anteriores del presente artículo en los términos que establezcan las leyes, a fin de garantizar su libre determinación, autonomía, desarrollo e inclusión social.
+
+*Apartado adicionado DOF 09-08-2019*
 
 *Artículo reformado DOF 14-08-2001*
 
@@ -8163,3 +8167,19 @@ Por lo que hace a las autoridades que no se renuevan mediante procesos electoral
 Ciudad de México, a 05 de junio de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Sen. Mónica Fernández Balboa, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de junio de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se adiciona un apartado C al artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 9 de agosto de 2019*
+
+**Artículo Único.-** Se adiciona un apartado C al artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 31 de julio de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Sen. Mónica Fernández Balboa, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de agosto de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
