@@ -3,12 +3,12 @@ title: Código Nacional de Procedimientos Penales
 abbreviation: CNPP
 slug: cnpp
 published_dof: 2014-03-05
-last_reform_dof: 2018-06-25
+last_reform_dof: 2019-08-09
 articles: 490
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_250618.doc
-archived: https://web.archive.org/web/20181126040815/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_250618.doc
-source_sha256: 72a4ce5d36d8508af0b42f61458a211c56e58337baffa1e22188957261aa26e6
-retrieved: 2018-11-26
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_090819.doc
+archived: https://web.archive.org/web/20191012071410/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_090819.doc
+source_sha256: 08174ad6ededaad499657cbe1e003f035ce303057bbfa51c645c830c855c9db8
+retrieved: 2019-10-12
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 ---
 
@@ -16,9 +16,7 @@ reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 
 Nuevo Código publicado en el Diario Oficial de la Federación el 5 de marzo de 2014
 
-Última reforma publicada DOF 17-06-2016
-
-Declaración de invalidez de artículos por Sentencia de la SCJN DOF 25-06-2018
+Última reforma publicada DOF 09-08-2019
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -2846,7 +2844,9 @@ I. El Ministerio Público, o la Policía en auxilio de éste, deberá elaborar u
 
 II. La Policía deberá tomar las providencias necesarias para la debida preservación del lugar de los hechos o del hallazgo y de los indicios, huellas, o vestigios del hecho delictivo, así como de los instrumentos, objetos o productos del delito asegurados, y
 
-III. Los bienes asegurados y el inventario correspondiente se pondrán a la brevedad a disposición de la autoridad competente, de conformidad con las disposiciones aplicables.
+III. Los bienes asegurados y el inventario correspondiente se pondrán a la brevedad a disposición de la autoridad competente, de conformidad con las disposiciones aplicables. Se deberá informar si los bienes asegurados son indicio, evidencia física, objeto, instrumento o producto del hecho delictivo.
+
+*Fracción reformada DOF 09-08-2019*
 
 ###### Artículo 231.
 
@@ -2854,7 +2854,9 @@ Notificación del aseguramiento y abandono
 
 El Ministerio Público deberá notificar al interesado o a su representante legal el aseguramiento del objeto, instrumento o producto del delito, dentro de los sesenta días naturales siguientes a su ejecución, entregando o poniendo a su disposición, según sea el caso, una copia del registro de aseguramiento, para que manifieste lo que a su derecho convenga.
 
-Cuando se desconozca la identidad o domicilio del interesado, la notificación se hará por dos edictos que se publicarán en el Diario Oficial de la Federación o su equivalente, medio de difusión oficial en la Entidad federativa y en un periódico de circulación nacional o estatal, según corresponda, con un intervalo de diez días hábiles entre cada publicación. En la notificación se apercibirá al interesado o a su representante legal para que se abstenga de ejercer actos de dominio sobre los bienes asegurados y se le apercibirá que de no manifestar lo que a su derecho convenga, en un término de noventa días naturales siguientes al de la notificación, los bienes causarán abandono a favor de la Procuraduría o de las Entidades federativas, según corresponda.
+Cuando se desconozca la identidad o domicilio del interesado, la notificación se hará por dos edictos que se publicarán en el Diario Oficial de la Federación o su equivalente, en el medio de difusión oficial en la Entidad federativa que corresponda y en un periódico de circulación nacional o estatal, según corresponda, con un intervalo de diez días hábiles entre cada publicación. En la notificación se apercibirá al interesado o a su representante legal para que se abstenga de ejercer actos de dominio sobre los bienes asegurados y se le apercibirá que de no manifestar lo que a su derecho convenga, en un término de noventa días naturales siguientes al de la notificación, los bienes causarán abandono a favor del Gobierno Federal o de la Entidad federativa de que se trate, según corresponda.
+
+*Párrafo reformado DOF 09-08-2019*
 
 Transcurrido dicho plazo sin que ninguna persona se haya presentado a deducir derechos sobre los bienes asegurados, el Ministerio Público solicitará al Juez de control que declare el abandono de los bienes y éste citará al interesado, a la víctima u ofendido y al Ministerio Público a una audiencia dentro de los diez días siguientes a la solicitud a que se refiere el párrafo anterior.
 
@@ -2868,7 +2870,9 @@ III. Al interesado de manera personal y cuando se desconozca su domicilio o iden
 
 El Juez de control, al resolver sobre el abandono, verificará que la notificación realizada al interesado haya cumplido con las formalidades que prevé este Código; que haya transcurrido el plazo correspondiente y que no se haya presentado persona alguna ante el Ministerio Público a deducir derechos sobre los bienes asegurados o que éstos no hayan sido reconocidos o que no se hubieren cubierto los requerimientos legales.
 
-La declaratoria de abandono será notificada, en su caso, a la autoridad competente que tenga los bienes bajo su administración para efecto de que sean destinados a la Procuraduría, previa enajenación y liquidación que prevé la legislación aplicable.
+La declaratoria de abandono será notificada, en su caso, a la autoridad competente que tenga los bienes bajo su administración para efecto de que sean destinados al Gobierno Federal o de la Entidad federativa que corresponda, en términos de las disposiciones aplicables.
+
+*Párrafo reformado DOF 09-08-2019*
 
 ###### Artículo 232.
 
@@ -2952,6 +2956,10 @@ Aseguramiento de vehículos
 
 En caso de que se presente alguno de los supuestos anteriores, el Ministerio Público podrá ordenar el aseguramiento y resguardo del vehículo hasta en tanto se esclarecen los hechos, sujeto a la aprobación judicial en términos de lo previsto por este Código.
 
+En la aprobación judicial se determinará si los bienes asegurados son indicio, evidencia física, objeto, instrumento o producto del hecho delictivo, determinando su conservación o su administración, en términos de las disposiciones aplicables.
+
+*Párrafo adicionado DOF 09-08-2019*
+
 ###### Artículo 241.
 
 Aseguramiento de armas de fuego o explosivos
@@ -3002,6 +3010,10 @@ I. Cuando el Ministerio Público resuelva el no ejercicio de la acción penal, l
 
 II. Cuando la autoridad judicial levante el aseguramiento o no decrete el decomiso, de conformidad con las disposiciones aplicables.
 
+La devolución se realizará en el estado físico de conservación que conforme a su naturaleza adquiera el bien, o el valor del mismo.
+
+*Párrafo adicionado DOF 09-08-2019*
+
 ###### Artículo 246.
 
 Entrega de bienes
@@ -3010,7 +3022,9 @@ Las autoridades deberán devolver a la persona que acredite o demuestre derechos
 
 Esta devolución podrá ordenarse en depósito provisional y al poseedor se le podrá imponer la obligación de exhibirlos cuando se le requiera.
 
-Dentro de los treinta días siguientes a la notificación del acuerdo de devolución, la autoridad judicial o el Ministerio Público notificarán su resolución al interesado o al representante legal, para que dentro de los diez días siguientes a dicha notificación se presente a recogerlos, bajo el apercibimiento que de no hacerlo, los bienes causarán abandono a favor de la Procuraduría o de las Entidades federativas, según corresponda y se procederá en los términos previstos en este Código.
+Dentro de los treinta días siguientes a la notificación del acuerdo de devolución, la autoridad judicial o el Ministerio Público notificarán su resolución al interesado o al representante legal, para que dentro de los diez días siguientes a dicha notificación se presente a recogerlos, bajo el apercibimiento que de no hacerlo, los bienes causarán abandono a favor del Gobierno Federal o de la Entidad federativa de que se trate, según corresponda y se procederá en los términos previstos en este Código.
+
+*Párrafo reformado DOF 09-08-2019*
 
 Cuando se haya hecho constar el aseguramiento de los bienes en los registros públicos, la autoridad que haya ordenado su devolución ordenará su cancelación.
 
@@ -3020,6 +3034,10 @@ Devolución de bienes asegurados
 
 La devolución de los bienes asegurados incluirá la entrega de los frutos que, en su caso, hubieren generado.
 
+Previo a la instrucción de devolución, el Ministerio Público deberá revisar que los bienes no hayan causado abandono en los términos establecidos por este Código.
+
+*Párrafo adicionado DOF 09-08-2019*
+
 La devolución de numerario comprenderá la entrega del principal y, en su caso, de sus rendimientos durante el tiempo en que haya sido administrado, a la tasa que cubra la Tesorería de la Federación o la instancia correspondiente en las Entidades federativas por los depósitos a la vista que reciba.
 
 La autoridad que haya administrado empresas, negociaciones o establecimientos, al devolverlas rendirá cuentas de la administración que hubiere realizado a la persona que tenga derecho a ello, y le entregará los documentos, objetos, numerario y, en general, todo aquello que haya comprendido la administración.
@@ -3028,9 +3046,11 @@ Previo a la recepción de los bienes por parte del interesado, se dará oportuni
 
 ###### Artículo 248.
 
-Bienes que hubieren sido enajenados o sobre los que exista imposibilidad de devolver
+Bienes que hubieren sido convertidos a numerario o sobre los que exista imposibilidad de devolver
 
-Cuando se determine por la autoridad competente la devolución de los bienes que hubieren sido enajenados o haya imposibilidad para devolverlos, deberá cubrirse a la persona que tenga la titularidad del derecho de devolución el valor de los mismos, de conformidad con la legislación aplicable.
+Cuando se determine por la autoridad competente la devolución de los bienes que hubieren sido convertidos a numerario o haya imposibilidad para devolverlos, deberá cubrirse a la persona que tenga la titularidad del derecho de devolución el valor de los mismos, de conformidad con la legislación aplicable.
+
+*Artículo reformado DOF 09-08-2019*
 
 ###### Artículo 249.
 
@@ -3046,7 +3066,13 @@ Decomiso
 
 La autoridad judicial mediante sentencia en el proceso penal correspondiente, podrá decretar el decomiso de bienes, con excepción de los que hayan causado abandono en los términos de este Código o respecto de aquellos sobre los cuales haya resuelto la declaratoria de extinción de dominio.
 
-El numerario decomisado y los recursos que se obtengan por la enajenación de los bienes decomisados, una vez satisfecha la reparación a la víctima, serán entregados en partes iguales al Poder Judicial, a la Procuraduría, a la Secretaría de Salud y al fondo previsto en la Ley General de Víctimas.
+Cuando se haya hecho constar el aseguramiento de los bienes en los registros públicos, la autoridad que haya ordenado su decomiso solicitará la inscripción de la sentencia.
+
+*Párrafo adicionado DOF 09-08-2019*
+
+El numerario decomisado y los recursos que se obtengan por la enajenación de los bienes decomisados, una vez satisfecha la reparación a la víctima, y descontado el porcentaje por concepto de gastos indirectos de operación a que refiere la Ley de Ingresos de la Federación, del ejercicio fiscal que corresponda, a favor del Instituto de Administración de Bienes y Activos, serán entregados en partes iguales al Poder Judicial de la Federación, a la Fiscalía General de la República, al fondo previsto en la Ley General de Víctimas y al financiamiento de programas sociales conforme a los objetivos establecidos en el Plan Nacional de Desarrollo, u otras políticas públicas prioritarias, conforme lo determine el Gabinete Social de la Presidencia de la República a que se refiere la Ley Orgánica de la Administración Pública Federal a través de la instancia designada para tal efecto. Para el caso del reparto del producto de la extinción de dominio en el fuero común, serán entregados en las mismas proporciones a las instancias equivalentes existentes en cada Entidad federativa.
+
+*Párrafo reformado DOF 09-08-2019*
 
 ###### Artículo 251.
 
@@ -5899,3 +5925,45 @@ Firman los señores Ministros Presidente y el Ponente con el Secretario General 
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Luis María Aguilar Morales.- Rúbrica.- El Ponente, Ministro Javier Laynez Potisek.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
 
 LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta fotocopia constante de noventa y cinco fojas útiles, concuerda fiel y exactamente con el original de la sentencia del veintidós de marzo de dos mil dieciocho, dictada por el Tribunal Pleno en la acción de inconstitucionalidad 10/2014 y su acumulada 11/2014. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a catorce de junio de dos mil dieciocho.- Rúbrica.
+
+### DECRETO por el que se expide la Ley Nacional de Extinción de Dominio, y se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal.
+
+*Publicado en el Diario Oficial de la Federación el 9 de agosto de 2019*
+
+**Artículo Segundo.** Se reforman la fracción III, del artículo 230; los párrafos segundo y sexto, del artículo 231; el párrafo tercero, del artículo 246; el artículo 248 y su epígrafe; el actual párrafo segundo, del artículo 250; y se adicionan un párrafo segundo, al artículo 240; un párrafo segundo, al artículo 245; un párrafo segundo, recorriéndose en su orden los siguientes párrafos, del artículo 247; y un párrafo segundo, recorriéndose el actual segundo párrafo para ser tercero, al artículo 250, del Código Nacional de Procedimientos Penales, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidades Federativas, y se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
+
+**Tercero.** En un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, las Legislaturas de las Entidades Federativas deberán armonizar su legislación respectiva con el presente Decreto.
+
+**Cuarto.** Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio; las sentencias dictadas con base en los ordenamientos que dejarán de tener vigencia a la entrada del presente Decreto surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la presente Ley.
+
+**Quinto.** Los recursos que actualmente administra el Servicio de Administración y Enajenación de Bienes en materia de extinción de dominio y aquellos que eventualmente reciba con motivo del inicio de la acción en términos de la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos que se abroga, continuarán bajo su administración y serán destinados a la cuenta especial a que se refiere el artículo 239 de la Ley Nacional de Extinción de Dominio, previa constitución del diez por ciento de estos recursos para el Fondo de Reserva a que se refiere el diverso 237, de dicho ordenamiento nacional.
+
+El producto de la venta de los Bienes en proceso de extinción o que hayan sido declarados extintos conforme a los procedimientos de la legislación vigente aplicable.
+
+Los recursos destinados o pendientes de destinarse al Fondo a que se refiere el artículo Segundo Transitorio del Decreto por el que se expide la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; y se reforma y adiciona la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el veintinueve de mayo de dos mil nueve, serán transferidos a la cuenta especial.
+
+**Sexto.** El presente Decreto será aplicable para los procedimientos de preparación de la acción de extinción de dominio que se inicien a partir de su entrada en vigor, con independencia de que los supuestos para su procedencia hayan sucedido con anterioridad, siempre y cuando no se haya ejercido la acción de extinción de dominio.
+
+**Séptimo.** Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto de Administración de Bienes y Activos, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto de Administración de Bienes y Activos a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+
+**Octavo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+**Noveno.** El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal, aplicando similares términos para el fuero común; debiendo utilizarse para el desahogo de las audiencias a que se refiere la Ley Nacional de Extinción de Dominio las salas existentes en los Centros de Justicia Federales y en los centros de justicia respectivos de las Entidades Federativas, en las que actualmente se desahogan las audiencias con la característica de oralidad.
+
+**Décimo.** El titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las adecuaciones correspondientes a las disposiciones reglamentarias respectivas.
+
+**Décimo Primero.** El Gabinete Social de la Presidencia de la República, por conducto de su Secretaría Técnica expedirá en los noventa días naturales posteriores a la entrada en vigor del presente Decreto, su reglamento interior.
+
+**Décimo Segundo.** Dentro del año siguiente a la entrada en vigor de la Ley Nacional de Extinción de Dominio, la persona titular de la Fiscalía General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico en materia de extinción de dominio. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales y de la Ley Nacional de Extinción de Dominio para su óptimo funcionamiento. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
+
+Ciudad de México, a 25 de julio de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. María de los Dolores Padierna Luna, Vicepresidenta en funciones de Presidente.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de agosto de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
