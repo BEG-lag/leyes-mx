@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2019-05-14
-articles: 64
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_140519.doc
-archived: https://web.archive.org/web/20190711020818/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_140519.doc
-source_sha256: db5d65b26780023d0e930adb58cf76f0236dcf4daa3dec56ccabf714e7f0e2ff
-retrieved: 2019-07-11
+last_reform_dof: 2019-08-09
+articles: 67
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_090819.doc
+archived: https://web.archive.org/web/20191113035213/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_090819.doc
+source_sha256: 33f17b9eed4638b91dad658595166d796ee69ddedaef2cc98eee9fb78212969d
+retrieved: 2019-11-13
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 14-05-2019
+Última reforma publicada DOF 09-08-2019
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -520,7 +520,7 @@ I.- Organizar, administrar y preparar al Ejército y la Fuerza Aérea;
 
 II.- Organizar y preparar el servicio militar nacional;
 
-III.- Organizar las reservas del Ejército y de la Fuerza Aérea,\_e impartirles la instrucción técnica militar correspondiente;
+III.- Organizar las reservas del Ejército y de la Fuerza Aérea, e impartirles la instrucción técnica militar correspondiente;
 
 IV.- Manejar el activo del Ejército y la Fuerza Aérea, de la Guardia Nacional al Servicio de la Federación y los contingentes armados que no constituyan la guardia nacional de los Estados;
 
@@ -946,13 +946,25 @@ XX. Coordinar, en conjunto con la Coordinación General de Programas para el Des
 
 *Fracción derogada DOF 28-12-1994. Adicionada DOF 30-11-2018*
 
-XXI. Integrar, mantener y actualizar un sistema de información con los padrones de beneficiarios de programas sociales de la Administración Pública Federal, así como depurar sus duplicidades, y
+XXI. Integrar, mantener y actualizar un sistema de información con los padrones de beneficiarios de programas sociales de la Administración Pública Federal, así como depurar sus duplicidades;
 
-*Fracción derogada DOF 28-12-1994. Adicionada DOF 30-11-2018*
+*Fracción derogada DOF 28-12-1994. Adicionada DOF 30-11-2018. Reformada DOF 09-08-2019*
 
-XXII. Las demás que le encomienden expresamente las leyes y reglamentos.
+XXII. Encabezar la Secretaría Ejecutiva del Gabinete Social de la Presidencia de la República en los términos de la Ley Nacional de Extinción de Dominio;
 
-*Fracción derogada DOF 28-12-1994. Adicionada DOF 30-11-2018*
+*Fracción adicionada DOF 09-08-2019*
+
+XXIII. Ejecutar y dar seguimiento a los acuerdos tomados por el Gabinete Social de la Presidencia de la República, así como convocar a las personas titulares de las entidades que lo conforman a reuniones ordinarias;
+
+*Fracción adicionada DOF 09-08-2019*
+
+XXIV. Coordinarse con la persona Titular de la Secretaría Técnica para elaborar y entregar un informe anual al Congreso de la Unión sobre la transferencia, asignación y destino de los Bienes a los que se refiere la Ley Nacional de Extinción de Dominio, así como de las actividades y reuniones del Gabinete Social de la Presidencia de la República, y
+
+*Fracción adicionada DOF 09-08-2019*
+
+XXV. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+*Fracción derogada DOF 28-12-1994. Adicionada DOF 30-11-2018. Recorrida DOF 09-08-2019*
 
 *Reforma DOF 30-11-2018: Suprimió del artículo las entonces fracciones XXIII a XXXIII (antes derogadas DOF 28-12-1994)*
 
@@ -2251,6 +2263,78 @@ Con base en dichos informes, así como de las recomendaciones y las bases y prin
 Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
 
 *Artículo derogado DOF 04-12-1997. Adicionado DOF 02-01-2013. Reformado DOF 18-07-2016*
+
+### CAPÍTULO III · Del Gabinete Social de la Presidencia de la República
+
+*Capítulo adicionado DOF 09-08-2019*
+
+#### Artículo 44 Bis.
+
+El Gabinete Social de la Presidencia de la República es la instancia colegiada de formulación y coordinación de la asignación y transferencia de los bienes a los que se refiere el párrafo cuarto del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como los bienes asegurados y decomisados en los procedimientos penales federales, el cual estará integrado por:
+
+I. La persona Titular del Ejecutivo Federal, quien lo presidirá;
+
+II. La persona Titular de la Secretaría de Bienestar, quien encabezará la Secretaría Ejecutiva;
+
+III. La persona Titular de la Secretaría de Gobernación;
+
+IV. La persona Titular de la Secretaría de Hacienda y Crédito Público;
+
+V. La persona Titular de la Secretaría de Educación Pública;
+
+VI. La persona Titular de la Secretaría de Salud;
+
+VII. La persona Titular de la Dirección General del Instituto de Administración de Bienes y Activos, quien encabezará la Secretaría Técnica;
+
+VIII. La persona Titular de la Dirección General del Instituto Mexicano del Seguro Social;
+
+IX. La persona Titular de la Dirección General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+X. La persona Titular del Sistema Nacional para el Desarrollo Integral de la Familia, y
+
+XI. La persona Titular de la Comisión Nacional contra las Adicciones.
+
+Los integrantes del Gabinete Social de la Presidencia de la República no podrán nombrar suplente. En caso de ausencia del Presidente de los Estados Unidos Mexicanos, la persona Titular de la Secretaria Ejecutiva presidirá la reunión.
+
+Podrán ser invitados otros secretarios de Estado o personas titulares de Entidades Paraestatales a las sesiones de este Gabinete.
+
+*Artículo adicionado DOF 09-08-2019*
+
+#### Artículo 44 Ter.
+
+El Gabinete Social de la Presidencia de la República tendrá a su cargo las atribuciones siguientes:
+
+I. Proponer, definir y supervisar las pautas, criterios, planes, programas, proyectos y acciones institucionales e interinstitucionales, mediante los cuales se determine la pertinencia de la asignación o transferencia de un bien extinto, relacionado o vinculado con los hechos ilícitos a los que se refiere el párrafo cuarto del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como de los bienes asegurados, abandonados o decomisados en los procedimientos penales federales para un fin de interés público;
+
+II. Recabar información de los bienes extintos, relacionados o vinculados con los hechos ilícitos a los que se refiere el párrafo cuarto del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos sujetos a asignación o transferencia, así como de los bienes asegurados o decomisados en los procedimientos penales federales, respecto de sus características, las necesidades de la región, la coyuntura política y social que rodea al bien en cuestión y demás características relevantes necesarias para la determinación de su destino o, en su caso, destrucción.
+
+Para efectos de lo anterior, la autoridad administradora a la que se refiere la Ley Nacional de Extinción de Dominio, elaborará una relación de los bienes extintos, relacionados o vinculados con los hechos ilícitos a los que se refiere el párrafo cuarto, del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como de los bienes asegurados y decomisados en los procedimientos penales federales, que podrán ser susceptibles de asignación de conformidad con sus características, así como propuestas para su mejor aprovechamiento en favor del interés público.
+
+Determinar el destino de los bienes extintos, relacionados o vinculados con los hechos ilícitos a los que se refiere el párrafo cuarto, del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y de los bienes asegurados y decomisados en los procedimientos penales federales, al pago de las erogaciones derivadas de la ejecución de programas sociales, conforme a los objetivos establecidos en el Plan Nacional de Desarrollo u otras políticas prioritarias;
+
+III. Establecer mecanismos de asignación conforme a las características del bien y el contexto social en que se encuentre, tomando en consideración criterios de seguridad, utilidad y justicia; los Bienes que no sean asignados por la instancia colegiada, deberán ser monetizados por la autoridad administradora y el producto de la venta se administrará en la cuenta especial a que se refiere el artículo 239 de la Ley Nacional de Extinción de Dominio;
+
+IV. Ejecutar y vigilar el cumplimiento de los convenios que se celebren con las entidades federativas, municipios, demarcaciones territoriales de la Ciudad de México o instituciones a las que se asignen Bienes cuyo dominio se declare extinto en sentencia;
+
+V. Llevar un registro de los Bienes, cuyo dominio se declare extinto en sentencia, así como de los recursos obtenidos por la enajenación de los bienes asegurados y decomisados en los procedimientos penales federales que serán transferidos, en el que se señale sus características y propósitos, mismo que deberá publicarse en la página de Internet del Gabinete Social de la Presidencia de la República;
+
+VI. Generar, en el ámbito de su competencia, versiones públicas de las transferencias y resoluciones tomadas en torno a los bienes extintos, relacionados o vinculados con los hechos ilícitos a los que se refiere el párrafo cuarto, del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como de los recursos obtenidos por la enajenación de los bienes asegurados y decomisados en los procedimientos penales federales;
+
+VII. Coordinarse con la autoridad administradora a la que se refiere la Ley Nacional de Extinción de Dominio, así como con las dependencias y entidades de la Administración Pública Federal o de las entidades federativas que sean destinatarias de Bienes cuyo dominio se declare extinto en sentencia, a efecto de hacer más eficiente la administración y destino de los Bienes que conforman la cuenta especial a que se refiere el artículo 239 de la Ley Nacional de Extinción de Dominio, y
+
+VIII. Expedir y modificar su Reglamento Interior por conducto de su Secretaría Técnica.
+
+*Artículo adicionado DOF 09-08-2019*
+
+#### Artículo 44 Quáter.
+
+El Gabinete Social de la Presidencia de la República podrá celebrar reuniones ordinarias y extraordinarias, a saber:
+
+I. Las reuniones ordinarias deberán celebrarse por lo menos una vez cada tres meses, mismas que serán convocadas por la persona Titular de la Secretaría Ejecutiva, y
+
+II. Las reuniones extraordinarias se convocarán en cualquier momento por el Titular del Ejecutivo Federal.
+
+*Artículo adicionado DOF 09-08-2019*
 
 ## TITULO TERCERO · De la Administración Pública Paraestatal
 
@@ -4019,3 +4103,45 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 30 de abril de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de mayo de dos mil diecinueve.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se expide la Ley Nacional de Extinción de Dominio, y se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal.
+
+*Publicado en el Diario Oficial de la Federación el 9 de agosto de 2019*
+
+**Artículo Quinto.** Se adicionan las fracciones XXII, XXIII y XXIV, pasando la actual XII a ser XXV, al artículo 32 y un Capítulo III al Título Segundo, denominado “Del Gabinete Social de la Presidencia de la República”, con los artículos 44 Bis, 44 Ter y 44 Quáter, a la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidades Federativas, y se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
+
+**Tercero.** En un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, las Legislaturas de las Entidades Federativas deberán armonizar su legislación respectiva con el presente Decreto.
+
+**Cuarto.** Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio; las sentencias dictadas con base en los ordenamientos que dejarán de tener vigencia a la entrada del presente Decreto surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la presente Ley.
+
+**Quinto.** Los recursos que actualmente administra el Servicio de Administración y Enajenación de Bienes en materia de extinción de dominio y aquellos que eventualmente reciba con motivo del inicio de la acción en términos de la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos que se abroga, continuarán bajo su administración y serán destinados a la cuenta especial a que se refiere el artículo 239 de la Ley Nacional de Extinción de Dominio, previa constitución del diez por ciento de estos recursos para el Fondo de Reserva a que se refiere el diverso 237, de dicho ordenamiento nacional.
+
+El producto de la venta de los Bienes en proceso de extinción o que hayan sido declarados extintos conforme a los procedimientos de la legislación vigente aplicable.
+
+Los recursos destinados o pendientes de destinarse al Fondo a que se refiere el artículo Segundo Transitorio del Decreto por el que se expide la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; y se reforma y adiciona la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el veintinueve de mayo de dos mil nueve, serán transferidos a la cuenta especial.
+
+**Sexto.** El presente Decreto será aplicable para los procedimientos de preparación de la acción de extinción de dominio que se inicien a partir de su entrada en vigor, con independencia de que los supuestos para su procedencia hayan sucedido con anterioridad, siempre y cuando no se haya ejercido la acción de extinción de dominio.
+
+**Séptimo.** Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto de Administración de Bienes y Activos, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto de Administración de Bienes y Activos a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+
+**Octavo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+**Noveno.** El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal, aplicando similares términos para el fuero común; debiendo utilizarse para el desahogo de las audiencias a que se refiere la Ley Nacional de Extinción de Dominio las salas existentes en los Centros de Justicia Federales y en los centros de justicia respectivos de las Entidades Federativas, en las que actualmente se desahogan las audiencias con la característica de oralidad.
+
+**Décimo.** El titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las adecuaciones correspondientes a las disposiciones reglamentarias respectivas.
+
+**Décimo Primero.** El Gabinete Social de la Presidencia de la República, por conducto de su Secretaría Técnica expedirá en los noventa días naturales posteriores a la entrada en vigor del presente Decreto, su reglamento interior.
+
+**Décimo Segundo.** Dentro del año siguiente a la entrada en vigor de la Ley Nacional de Extinción de Dominio, la persona titular de la Fiscalía General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico en materia de extinción de dominio. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales y de la Ley Nacional de Extinción de Dominio para su óptimo funcionamiento. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
+
+Ciudad de México, a 25 de julio de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. María de los Dolores Padierna Luna, Vicepresidenta en funciones de Presidente.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de agosto de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
