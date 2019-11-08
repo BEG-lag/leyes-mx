@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2019-04-12
+last_reform_dof: 2019-11-08
 articles: 541
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_120419.doc
-archived: https://web.archive.org/web/20190711024018/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_120419.doc
-source_sha256: 2167ce42baced8ba46cd2c98172ab8c4698ab6752e1b4502ceddcc5d41acb86d
-retrieved: 2019-07-11
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_081119.doc
+archived: https://web.archive.org/web/20191221201453/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_081119.doc
+source_sha256: b38170acabebf3da3d487043b74663815162886b123980aa42682f42e9d81b47
+retrieved: 2019-12-21
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,9 +18,11 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 12-04-2019
+Última reforma publicada DOF 08-11-2019
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
+>
+> Nota de Vigencia: La adición de una fracción VIII Bis al Apartado B del artículo 11 Bis, publicada en el DOF 08-11-2019, entrará en vigor el 1 de enero de 2020.
 >
 > Nota de Vigencia: Las siguientes reformas, adiciones y derogaciones, publicadas por Decreto DOF 18-07-2016, entrarán en vigor “a partir del nombramiento que el Senado de la República realice del Titular de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción”, de conformidad con lo que establece el artículo Primero Transitorio de dicho Decreto:
 >
@@ -106,6 +108,8 @@ El delito es:
 
 I. Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos los elementos de la descripción penal;
 
+*Fracción reformada DOF 17-06-2016*
+
 II.- Permanente o continuo, cuando la consumación se prolonga en el tiempo, y
 
 III.- Continuado, cuando con unidad de propósito delictivo, pluralidad de conductas y unidad de sujeto pasivo, se viola el mismo precepto legal.
@@ -184,6 +188,10 @@ VII. Contrabando y su equiparable, previstos en los artículos 102 y 105 del Có
 
 VIII. Defraudación Fiscal y su equiparable, previstos en los artículos 108 y 109, del Código Fiscal de la Federación;
 
+VIII Bis. Del Código Fiscal de la Federación, el delito previsto en el artículo 113 Bis;
+
+*Fracción adicionada DOF 08-11-2019*
+
 IX. De la Ley de la Propiedad Industrial, los delitos previstos en el artículo 223;
 
 X. De la Ley de Instituciones de Crédito, los previstos en los artículos 111; 111 Bis; 112; 112 Bis; 112 Ter; 112 Quáter; 112 Quintus; 113 Bis y 113 Bis 3;
@@ -210,6 +218,8 @@ XX. Los previstos en el artículo 49 de la Ley Federal para el Control de Sustan
 
 XXI. Los previstos en los artículos 8, 9, 10, 12, 13, 14, 15, 16, 17, 18 y 19 de la Ley Federal para Prevenir y Sancionar los Delitos en Materia de Hidrocarburos.
 
+*Fracción reformada DOF 01-06-2018*
+
 XXII. En los demás casos expresamente previstos en la legislación aplicable.
 
 Para los efectos del artículo 422 del Código Nacional de Procedimientos Penales, se estará a los siguientes límites de punibilidad para las consecuencias jurídicas de las personas jurídicas:
@@ -227,6 +237,8 @@ e) Intervención judicial para salvaguardar los derechos de los trabajadores o d
 La intervención judicial podrá afectar a la totalidad de la organización o limitarse a alguna de sus instalaciones, secciones o unidades de negocio. Se determinará exactamente el alcance de la intervención y quién se hará cargo de la misma, así como los plazos en que deberán realizarse los informes de seguimiento para el órgano judicial. La intervención judicial se podrá modificar o suspender en todo momento previo informe del interventor y del Ministerio Público. El interventor tendrá derecho a acceder a todas las instalaciones y locales de la empresa o persona jurídica, así como a recibir cuanta información estime necesaria para el ejercicio de sus funciones. La legislación aplicable determinará los aspectos relacionados con las funciones del interventor y su retribución respectiva.
 
 En todos los supuestos previstos en el artículo 422 del Código Nacional de Procedimientos Penales, las sanciones podrán atenuarse hasta en una cuarta parte, si con anterioridad al hecho que se les imputa, las personas jurídicas contaban con un órgano de control permanente, encargado de verificar el cumplimiento de las disposiciones legales aplicables para darle seguimiento a las políticas internas de prevención delictiva y que hayan realizado antes o después del hecho que se les imputa, la disminución del daño provocado por el hecho típico.
+
+*Artículo adicionado DOF 17-06-2016*
 
 #### CAPITULO II · Tentativa
 
@@ -413,6 +425,8 @@ La prisión consiste en la pena privativa de libertad personal. Su duración ser
 La medida cautelar de prisión preventiva se computará para el cumplimiento de la pena impuesta así como de las que pudieran imponerse en otras causas, aunque hayan tenido por objeto hechos anteriores al ingreso a prisión. En este caso, las penas se compurgarán en forma simultánea.
 
 El límite máximo de la duración de la pena de privación de la libertad hasta por 60 años contemplada en el presente artículo no es aplicable para los delitos que se sancionen de conformidad con lo estipulado en otras leyes.
+
+*Párrafo reformado DOF 17-11-2017*
 
 ##### Artículo 26.
 
@@ -945,6 +959,8 @@ III. Los que incurran en segunda reincidencia de delito doloso o sean considerad
 IV. Los sentenciados por las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, salvo las previstas en los artículos 9, 10, 11, 17 y 18.
 
 V. Los sentenciados por el delito de Tortura.
+
+*Fracción adicionada DOF 26-06-2017*
 
 Tratándose de los delitos comprendidos en el Titulo Décimo de este Código, la libertad preparatoria solo se concederá cuando se satisfaga la reparación del daño a que se refiere la fracción III del artículo 30 o se otorgue caución que la garantice.
 
@@ -1486,6 +1502,8 @@ II.- Los que, yendo a bordo de una embarcación, se apoderen de ella y la entreg
 
 III.- Se deroga.
 
+*Fracción derogada DOF 21-06-2018*
+
 ##### Artículo 147.
 
 Se impondrán de quince a treinta años de prisión y decomiso de la nave, a los que pertenezcan a una tripulación pirata.
@@ -1548,6 +1566,8 @@ Por tal delito se impondrán de veinte a cuarenta años de prisión y multa de q
 
 Si con idéntico propósito se llevaren a cabo ataques a la integridad corporal o a la salud de los miembros de dichas comunidades o se trasladaren de ellas a otros grupos menores de dieciocho años, empleando para ello la violencia física o moral, la sanción será de cinco a veinte años de prisión y multa de dos mil a siete mil pesos.
 
+*Párrafo reformado DOF 09-03-2018*
+
 Se aplicarán las mismas sanciones señaladas en el párrafo anterior, a quien con igual propósito someta intencionalmente al grupo a condiciones de existencia que hayan de acarrear su destrucción física, total o parcial.
 
 En caso de que los responsables de dichos delitos fueran gobernantes, funcionarios o empleados públicos y las cometieren en ejercicio de sus funciones o con motivo de ellas, además de las sanciones establecidas en este artículo se les aplicarán las penas señaladas en el artículo 15 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
@@ -1592,6 +1612,8 @@ Si quien propicie la evasión fuese servidor público, se le incrementará la pe
 
 Se deroga.
 
+*Artículo derogado DOF 27-03-2017*
+
 ##### Artículo 152.
 
 Al que favorezca al mismo tiempo, o en un solo acto, la evasión de varias personas privadas de libertad por la autoridad competente, se le impondrá hasta una mitad más de las sanciones privativas de libertad señaladas en el artículo 150, según corresponda.
@@ -1600,9 +1622,13 @@ Al que favorezca al mismo tiempo, o en un solo acto, la evasión de varias perso
 
 Si la reaprehensión del prófugo se lograre por gestiones del responsable de la evasión, se aplicarán a éste de diez a ciento ochenta jornadas de trabajo en favor de la comunidad, según la gravedad del delito imputado al preso o detenido, salvo lo dispuesto por el artículo 150, segundo párrafo.
 
+*Artículo reformado DOF 27-03-2017*
+
 ##### Artículo 154.
 
 A la persona privada de su libertad que se fugue, se le impondrán de seis meses a tres años de prisión, esta pena se incrementará en un tercio cuando la persona obre de concierto con otra u otras personas privadas de su libertad y se fugue alguna de ellas o ejerciere violencia en las personas.
+
+*Artículo reformado DOF 27-03-2017*
 
 #### CAPITULO II · Quebrantamiento de sanción
 
@@ -2012,6 +2038,8 @@ Si el delito fuere cometido por servidor público de alguna corporación policia
 
 La siembra, cultivo o cosecha de plantas de marihuana no será punible cuando estas actividades se lleven a cabo con fines médicos y científicos en los términos y condiciones de la autorización que para tal efecto emita el Ejecutivo Federal.
 
+*Párrafo adicionado DOF 19-06-2017*
+
 ##### Artículo 199.
 
 El Ministerio Público o la autoridad judicial del conocimiento, tan pronto conozca que una persona relacionada con algún procedimiento por los delitos previstos en los artículos 195 o 195 bis, es farmacodependiente, deberá informar de inmediato y, en su caso, dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda.
@@ -2062,11 +2090,17 @@ Los delitos previstos en este capítulo serán perseguibles de oficio, a excepci
 
 ### TÍTULO SÉPTIMO BIS · DELITOS CONTRA LA INDEMNIDAD DE PRIVACIDAD DE LA INFORMACIÓN SEXUAL
 
+*Título adicionado DOF 15-06-2018*
+
 #### CAPÍTULO I · Comunicación de Contenido Sexual con Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen la Capacidad para Resistirlo
+
+*Capítulo adicionado DOF 15-06-2018*
 
 ##### Artículo 199 Septies.
 
 Se impondrá de cuatro a ocho años de prisión y multa de cuatrocientos a mil días multa a quien haciendo uso de medios de radiodifusión, telecomunicaciones, informáticos o cualquier otro medio de transmisión de datos, contacte a una persona menor de dieciocho años de edad, a quien no tenga capacidad de comprender el significado del hecho o a persona que no tenga capacidad para resistirlo y le requiera imágenes, audio o video de actividades sexuales explícitas, actos de connotación sexual, o le solicite un encuentro sexual.
+
+*Artículo adicionado DOF 15-06-2018*
 
 ### TITULO OCTAVO · DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD.
 
@@ -2082,6 +2116,8 @@ No se entenderá como material pornográfico o nocivo, aquel que signifique o te
 
 Comete el delito de corrupción de menores, quien obligue, induzca, facilite o procure a una o varias personas menores de 18 años de edad o una o varias personas que no tienen capacidad para comprender el significado del hecho o una o varias personas que no tienen capacidad para resistirlo a realizar cualquiera de los siguientes actos:
 
+*Párrafo reformado DOF 18-07-2016*
+
 a) Consumo habitual de bebidas alcohólicas;
 
 b) Consumo de sustancias tóxicas o al consumo de alguno de los narcóticos a que se refiere el párrafo primero del artículo 193 de este Código o a la fármaco dependencia;
@@ -2091,6 +2127,8 @@ c) Mendicidad con fines de explotación;
 d) Comisión de algún delito;
 
 e) Formar parte de una asociación delictuosa; o
+
+*Inciso reformado DOF 18-07-2016*
 
 f) Realizar actos de exhibicionismo corporal o sexuales simulados o no, con fin lascivo o sexual.
 
@@ -2326,11 +2364,15 @@ Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando l
 
 Delitos por hechos de corrupción
 
+*Denominación del Título reformada DOF 18-07-2016, 05-11-2018, 12-04-2019*
+
 #### CAPITULO I
 
 ##### Artículo 212.
 
 Para los efectos de este Título y el subsecuente, es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal centralizada o en la del Distrito Federal, organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, empresas productivas del Estado, en los órganos constitucionales autónomos, en el Congreso de la Unión, o en el Poder Judicial Federal, o que manejen recursos económicos federales. Las disposiciones contenidas en el presente Título, son aplicables a los Gobernadores de los Estados, a los Diputados, a las Legislaturas Locales y a los Magistrados de los Tribunales de Justicia Locales, por la comisión de los delitos previstos en este Título, en materia federal.
+
+*Párrafo reformado DOF 18-07-2016*
 
 Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Título o el subsecuente.
 
@@ -2340,7 +2382,11 @@ I.- Será por un plazo de uno hasta diez años cuando no exista daño o perjuici
 
 II.- Será por un plazo de diez a veinte años si dicho monto excede el límite señalado en la fracción anterior.
 
+*Párrafo con fracciones adicionado DOF 18-07-2016*
+
 Para efectos de lo anterior, el juez deberá considerar, en caso de que el responsable tenga el carácter de servidor público, además de lo previsto en el artículo 213 de este Código, los elementos del empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
+
+*Párrafo adicionado DOF 18-07-2016*
 
 Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
 
@@ -2352,29 +2398,45 @@ III.- Las condiciones exteriores y los medios de ejecución, y
 
 IV.- El monto del beneficio que haya obtenido el responsable.
 
+*Párrafo con fracciones adicionado DOF 18-07-2016*
+
 Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
 
+*Párrafo adicionado DOF 18-07-2016*
+
 Cuando los delitos a que se refieren los artículos 214, 217, 221, 222, 223 y 224, del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento este sujeto a ratificación de alguna de las Cámaras del Congreso de la Unión, las penas previstas serán aumentadas hasta en un tercio.
+
+*Párrafo adicionado DOF 18-07-2016*
 
 ##### Artículo 213.
 
 Para la individualización de las sanciones previstas en este Título, el juez tomará en cuenta, en su caso, el nivel jerárquico del servidor público y el grado de responsabilidad del encargo, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
 
+*Artículo reformado DOF 18-07-2016*
+
 ##### Artículo 213-Bis.
 
 Cuando los delitos a que se refieren los artículos 215, 219 y 222 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, aduanera o migratoria, las penas previstas serán aumentadas hasta en una mitad.
 
+*Artículo reformado DOF 18-07-2016*
+
 #### CAPITULO II · Ejercicio ilícito de servicio público
+
+*Denominación del Capítulo reformada DOF 18-07-2016*
 
 ##### Artículo 214.
 
 Comete el delito de ejercicio ilícito de servicio público, el servidor público que:
+
+*Párrafo reformado DOF 18-07-2016*
 
 I.- Ejerza las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima, o sin satisfacer todos los requisitos legales.
 
 II.- Continúe ejerciendo las funciones de un empleo, cargo o comisión después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido.
 
 III.- Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la administración pública federal centralizada, organismos descentralizados, empresa de participación estatal mayoritaria, asociaciones y sociedades asimiladas a éstas y fideicomisos públicos, de empresas productivas del Estado, de órganos constitucionales autónomos, del Congreso de la Unión o del Poder Judicial, por cualquier acto u omisión y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades.
+
+*Fracción reformada DOF 18-07-2016*
 
 IV.- Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
 
@@ -2384,7 +2446,11 @@ VI.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar
 
 Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión y de treinta a cien días multa.
 
+*Párrafo reformado DOF 18-07-2016*
+
 Al infractor de las fracciones III, IV, V y VI se le impondrán de dos a siete años de prisión y de treinta a ciento cincuenta días multa.
+
+*Párrafo reformado DOF 18-07-2016*
 
 #### CAPITULO III · Abuso de autoridad
 
@@ -2396,6 +2462,8 @@ I.- Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro
 
 II. Derogado.
 
+*Fracción derogada DOF 26-06-2017*
+
 III.- Cuando indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
 
 IV.- Cuando estando encargado de administrar justicia, bajo cualquier pretexto, aunque sea el de obscuridad o silencio de la ley, se niegue injustificadamente a despachar un negocio pendiente ante él, dentro de los términos establecidos por la ley;
@@ -2404,49 +2472,73 @@ V. Cuando el encargado o elemento de una fuerza pública, requerido legalmente p
 
 VI.- Cuando estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos, o centros de arraigo que, sin los requisitos legales, reciba como presa, detenida, arrestada, arraigada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
 
+*Fracción reformada DOF 18-07-2016*
+
 VII.- Cuando teniendo conocimiento de una privación ilegal de la libertad no la denunciase inmediatamente a la autoridad competente o no la haga cesar, también inmediatamente, si esto estuviere en sus atribuciones;
 
 VIII.- Cuando haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga de ellos indebidamente.
 
 IX.- Obtenga, exija o solicite sin derecho alguno o causa legítima, para sí o para cualquier otra persona, parte del sueldo o remuneración de uno o más de sus subalternos, dádivas u otros bienes o servicios;
 
+*Fracción reformada DOF 18-07-2016*
+
 X.- Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se les nombró, o no se cumplirá el contrato otorgado;
 
 XI.- Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, o para participar en adquisiciones, arrendamientos, servicios u obras públicas, siempre que lo haga con conocimiento de tal situación;
+
+*Fracción reformada DOF 18-07-2016*
 
 XII.- Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
 
 XIII. Derogado.
 
+*Fracción reformada DOF 18-07-2016. Derogada DOF 26-06-2017*
+
 XIV.- Obligar a declarar a las personas que se mencionan en el artículo 243 Bis, del Código Federal de Procedimientos Penales, acerca de la información obtenida con motivo del desempeño de su actividad.
 
 XV. Omitir realizar el registro inmediato de la detención correspondiente, falsear el Reporte Administrativo de Detención correspondiente, omitir actualizarlo debidamente o dilatar injustificadamente poner al detenido bajo la custodia de la autoridad correspondiente; y
+
+*Fracción reformada DOF 26-06-2017*
 
 XVI. Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad.
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión y de cincuenta hasta cien días multa. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
 
+*Párrafo reformado DOF 18-07-2016*
+
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIV, XV y XVI, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
+
+*Párrafo reformado DOF 18-07-2016, 26-06-2017*
 
 #### CAPITULO III BIS · Desaparición forzada de personas
 
 (Derogado)
 
+*Capítulo derogado DOF 17-11-2017*
+
 ##### Artículo 215-A.
 
 Derogado.
+
+*Artículo derogado DOF 17-11-2017*
 
 ##### Artículo 215-B.
 
 Derogado.
 
+*Artículo derogado DOF 17-11-2017*
+
 ##### Artículo 215-C.
 
 Derogado.
 
+*Artículo derogado DOF 17-11-2017*
+
 ##### Artículo 215-D.
 
 Derogado.
+
+*Artículo derogado DOF 17-11-2017*
 
 #### CAPITULO IV · Coalición de servidores públicos
 
@@ -2456,23 +2548,39 @@ Cometen el delito de coalición de servidores públicos, los que teniendo tal ca
 
 Al que cometa el delito de coalición de servidores públicos se le impondrán de dos años a siete años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
 
+*Artículo reformado DOF 18-07-2016*
+
 #### CAPITULO V · Uso ilícito de atribuciones y facultades
+
+*Denominación del Capítulo reformada DOF 18-07-2016*
 
 ##### Artículo 217.
 
 Comete el delito de uso ilícito de atribuciones y facultades:
 
+*Párrafo reformado DOF 18-07-2016*
+
 I.- El servidor público que ilícitamente:
+
+*Párrafo reformado DOF 18-07-2016*
 
 A) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio de la Federación;
 
 B) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico;
 
+*Inciso reformado DOF 18-07-2016*
+
 C) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Federal;
+
+*Inciso reformado DOF 18-07-2016*
 
 D) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos;
 
+*Inciso reformado DOF 18-07-2016*
+
 E) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos.
+
+*Inciso adicionado DOF 18-07-2016*
 
 I. bis.- El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
 
@@ -2480,13 +2588,21 @@ A) Niegue el otorgamiento o contratación de las operaciones a que hacen referen
 
 B) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación.
 
+*Fracción con incisos adicionada DOF 18-07-2016*
+
 II.- Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen referencia la fracción anterior o sea parte en las mismas, y
 
 III.- El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
 
+*Fracción reformada DOF 18-07-2016*
+
 Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
 
+*Párrafo adicionado DOF 18-07-2016*
+
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y de treinta a ciento cincuenta días multa.
+
+*Párrafo reformado DOF 18-07-2016*
 
 ##### Artículo 217 Bis.
 
@@ -2498,7 +2614,11 @@ II.- Cuando estando legalmente obligado a entregar a una autoridad información 
 
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días multa.
 
+*Artículo adicionado DOF 18-07-2016*
+
 #### CAPÍTULO V BIS · Del pago y recibo indebido de remuneraciones de los servidores públicos
+
+*Capítulo adicionado DOF 05-11-2018*
 
 ##### Artículo 217 Ter.
 
@@ -2507,6 +2627,8 @@ Además de las responsabilidades administrativa y política, incurre en el delit
 I. El servidor público que apruebe o refrende el pago, o que suscriba el comprobante, cheque, nómina u orden de pago, de una remuneración, retribución, jubilación, pensión, haber de retiro, liquidación por servicios prestados, préstamo o crédito, no autorizado de conformidad con lo dispuesto en la Ley Federal de Remuneraciones de los Servidores Públicos;
 
 II. Quien reciba un pago indebido en los términos de la fracción anterior sin realizar el reporte dentro del plazo señalado en el artículo 5 de la Ley Federal de Remuneraciones de los Servidores Públicos, teniendo conocimiento de la ilicitud del acto, excepto cuando forme parte del personal de base y supernumerario de las entidades públicas que no tenga puesto de mando medio o superior, así como el personal de tropa y clases de las fuerzas armadas, o en los casos considerados por el mismo artículo 5 de la mencionada Ley como falta administrativa no grave.
+
+*Artículo adicionado DOF 05-11-2018. Artículo y numeral reformado (antes artículo 217 Bis) DOF 12-04-2019*
 
 ##### Artículo 217 Quáter.
 
@@ -2522,6 +2644,8 @@ IV. Si el beneficio indebidamente otorgado excede el equivalente a cinco mil vec
 
 Se impondrá también la destitución y la inhabilitación para desempeñar otro cargo, empleo o comisión públicos de seis meses a catorce años.
 
+*Artículo adicionado DOF 05-11-2018. Artículo y numeral reformado (antes artículo 217 Ter) DOF 12-04-2019*
+
 #### CAPITULO VI · Concusión
 
 ##### Artículo 218.
@@ -2532,7 +2656,11 @@ Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
 
 Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
 
+*Párrafo reformado DOF 18-07-2016*
+
 Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y multa de cien a ciento cincuenta días multa.
+
+*Párrafo reformado DOF 18-07-2016*
 
 #### CAPITULO VII · Intimidación
 
@@ -2542,9 +2670,13 @@ Comete el delito de intimidación:
 
 I.- El servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley General de Responsabilidades Administrativas, y
 
+*Fracción reformada DOF 18-07-2016*
+
 II.- El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
 
 Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y de treinta a cien días multa.
+
+*Párrafo reformado DOF 18-07-2016*
 
 #### CAPITULO VIII · Ejercicio abusivo de funciones
 
@@ -2554,13 +2686,19 @@ Comete el delito de ejercicio abusivo de funciones:
 
 I.- El servidor público que en el desempeño de su empleo, cargo o comisión, ilícitamente otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte;
 
+*Fracción reformada DOF 18-07-2016*
+
 II.- El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o a alguna de las personas mencionadas en la primera fracción.
 
 Al que cometa el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
 
 Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
 
+*Párrafo reformado DOF 18-07-2016*
+
 Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de cien a ciento cincuenta días multa.
+
+*Párrafo reformado DOF 18-07-2016*
 
 #### CAPITULO IX · Tráfico de Influencia
 
@@ -2576,7 +2714,11 @@ III.- El servidor público que por sí, o por interpósita persona indebidamente
 
 IV.- Al particular que, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
 
+*Fracción adicionada DOF 18-07-2016*
+
 Al que cometa el delito de tráfico de influencia, se le impondrán de dos años a seis años de prisión y de treinta a cien días multa.
+
+*Párrafo reformado DOF 18-07-2016*
 
 #### CAPITULO X · Cohecho
 
@@ -2586,7 +2728,11 @@ Cometen el delito de cohecho:
 
 I.- El servidor público que por sí, o por interpósita persona solicite o reciba ilícitamente para sí o para otro, dinero o cualquier beneficio, o acepte una promesa, para hacer o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión;
 
+*Fracción reformada DOF 18-07-2016*
+
 II.- El que dé, prometa o entregue cualquier beneficio a alguna de las personas que se mencionan en el artículo 212 de este Código, para que haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión, y
+
+*Fracción reformada DOF 18-07-2016*
 
 III.- El legislador federal que, en el ejercicio de sus funciones o atribuciones, y en el marco del proceso de aprobación del presupuesto de egresos respectivo, gestione o solicite:
 
@@ -2594,13 +2740,21 @@ a) La asignación de recursos a favor de un ente público, exigiendo u obteniend
 
 b) El otorgamiento de contratos de obra pública o de servicios a favor de determinadas personas físicas o morales.
 
+*Fracción con incisos adicionada DOF 18-07-2016*
+
 Se aplicará la misma pena a cualquier persona que gestione, solicite a nombre o en representación del legislador federal las asignaciones de recursos u otorgamiento de contratos a que se refieren los incisos a) y b) de este artículo.
+
+*Párrafo adicionado DOF 18-07-2016*
 
 Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
 
 Cuando la cantidad o el valor de la dádiva, de los bienes o la promesa no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
 
+*Párrafo reformado DOF 18-07-2016*
+
 Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos a catorce años de prisión y de cien a ciento cincuenta días multa.
+
+*Párrafo reformado DOF 18-07-2016*
 
 En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
 
@@ -2628,9 +2782,15 @@ Comete el delito de peculado:
 
 I.- Todo servidor público que para su beneficio o el de una tercera persona física o moral, distraiga de su objeto dinero, valores, fincas o cualquier otra cosa perteneciente al Estado o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito, en posesión o por otra causa;
 
+*Fracción reformada DOF 18-07-2016*
+
 II.- El servidor público que ilícitamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona;
 
+*Fracción reformada DOF 18-07-2016*
+
 III.- Cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades, y
+
+*Fracción reformada DOF 18-07-2016*
 
 IV.- Cualquier persona que sin tener el carácter de servidor público federal y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos federales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
 
@@ -2638,7 +2798,11 @@ Al que cometa el delito de peculado se le impondrán las siguientes sanciones:
 
 Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
 
+*Párrafo reformado DOF 18-07-2016*
+
 Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión y de cien a ciento cincuenta días multa.
+
+*Párrafo reformado DOF 18-07-2016*
 
 Cuando los recursos materia del peculado sean aportaciones federales para los fines de seguridad pública se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
 
@@ -2648,17 +2812,29 @@ Cuando los recursos materia del peculado sean aportaciones federales para los fi
 
 Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
 
+*Párrafo reformado DOF 18-07-2016*
+
 Para efectos del párrafo anterior, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que el servidor público acredite que éstos los obtuvieron por sí mismos.
 
+*Párrafo reformado DOF 18-07-2016*
+
 No será enriquecimiento ilícito en caso de que el aumento del patrimonio sea producto de una conducta que encuadre en otra hipótesis del presente Título. En este caso se aplicará la hipótesis y la sanción correspondiente, sin que dé lugar al concurso de delitos.
+
+*Párrafo adicionado DOF 18-07-2016*
 
 Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
 
 Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar.
 
+*Párrafo reformado DOF 18-07-2016*
+
 Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
 
+*Párrafo reformado DOF 18-07-2016*
+
 Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta días multa.
+
+*Párrafo reformado DOF 18-07-2016*
 
 ### TITULO · DECIMOPRIMERO
 
@@ -2682,6 +2858,8 @@ V.- No cumplir una disposición que legalmente se les comunique por su superior 
 
 VI.- Dictar, a sabiendas, una resolución de fondo o una sentencia definitiva que sean ilícitas por violar algún precepto terminante de la ley, o ser contrarias a las actuaciones seguidas en juicio u omitir dictar una resolución de trámite, de fondo o una sentencia definitiva lícita, dentro de los términos dispuestos en la ley;
 
+*Fracción reformada DOF 18-07-2016*
+
 VII.- Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a alguien una ventaja indebidos;
 
 VIII.- Retardar o entorpecer maliciosamente o por negligencia la administración de justicia;
@@ -2690,11 +2868,17 @@ IX. Abstenerse injustificadamente de ejercer la acción penal que corresponda de
 
 X.- Detener a un individuo fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado en la Constitución;
 
+*Fracción reformada DOF 18-07-2016*
+
 XI. Se deroga.
 
 XII. Derogado.
 
+*Fracción derogada DOF 26-06-2017*
+
 XIII.- Ocultar al imputado el nombre de quien le acusa, salvo en los casos previstos por la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio conforme a lo que establece el Código Nacional de Procedimientos Penales;
+
+*Fracción reformada DOF 18-07-2016*
 
 XIV. Prolongar la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el procedimiento;
 
@@ -2704,11 +2888,15 @@ XVI. Demorar injustificadamente el cumplimiento de las resoluciones judiciales, 
 
 XVII.- No dictar auto de vinculación al proceso o de libertad de un detenido, dentro de las setenta y dos horas siguientes a que lo pongan a su disposición, a no ser que el inculpado haya solicitado ampliación del plazo, caso en el cual se estará al nuevo plazo;
 
+*Fracción reformada DOF 18-07-2016*
+
 XVIII.- Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
 
 XIX. Abrir procedimiento penal contra un servidor público, con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley;
 
 XX.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o en casos en que no preceda denuncia, acusación o querella; o realizar la aprehensión sin poner al detenido a disposición del juez en el término señalado por el artículo 16 de la Constitución;
+
+*Fracción reformada DOF 18-07-2016*
 
 XXI. A los encargados o empleados de los centros penitenciarios que cobren cualquier cantidad a los imputados, sentenciados o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
 
@@ -2718,6 +2906,8 @@ XXIII.- Admitir o nombrar un depositario o entregar a éste los bienes secuestra
 
 XXIV.- Advertir al demandado, ilícitamente, respecto de la providencia de embargo decretada en su contra;
 
+*Fracción reformada DOF 18-07-2016*
+
 XXV.- Nombrar síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligada con él por negocios de interés común; y
 
 XXVI.- Permitir, fuera de los casos previstos por la ley, la salida temporal de las personas que están recluidas.
@@ -2726,6 +2916,8 @@ XXVII. No ordenar la libertad de un imputado, decretando su vinculación a proce
 
 XXVIII.- Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una carpeta de investigación o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales;
 
+*Fracción reformada DOF 18-07-2016*
+
 XXIX. Se deroga.
 
 XXX. Retener al imputado sin cumplir con los requisitos que establece la Constitución y las leyes respectivas;
@@ -2733,6 +2925,8 @@ XXX. Retener al imputado sin cumplir con los requisitos que establece la Constit
 XXXI. Alterar, modificar, ocultar, destruir, perder o perturbar el lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos o productos relacionados con un hecho delictivo o el procedimiento de cadena de custodia;
 
 XXXII.- Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que el imputado se sustraiga a la acción de la justicia;
+
+*Fracción reformada DOF 18-07-2016*
 
 XXXIII. Obligue a una persona o a su representante a otorgar el perdón en los delitos que se persiguen por querella; y
 
@@ -2746,9 +2940,15 @@ XXXVII. A quien ejerciendo funciones de supervisor de libertad falsee informes o
 
 A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV, XXVI, XXXIII y XXXIV, se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien días multa.
 
+*Párrafo reformado DOF 18-07-2016*
+
 A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI, XXXII, XXXV, XXXVI y XXXVII se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta días multa.
 
+*Párrafo reformado DOF 18-07-2016*
+
 En caso de tratarse de particulares realizando funciones propias del supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
+
+*Reforma DOF 18-07-2016: Derogó del artículo el entonces párrafo cuarto*
 
 #### CAPITULO II · Ejercicio indebido del propio derecho
 
@@ -3238,6 +3438,8 @@ Delitos contra la Libertad y el Normal Desarrollo Psicosexual
 
 Al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de ochocientos días multa. Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de las penas señaladas, se le destituirá del cargo y se le podrá inhabilitar para ocupar cualquier otro cargo público hasta por un año.
 
+*Párrafo reformado DOF 15-06-2018*
+
 Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
 
 Sólo se procederá contra el hostigador, a petición de parte ofendida.
@@ -3311,6 +3513,8 @@ III.- El delito fuere cometido por quien desempeñe un cargo o empleo público o
 IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada.
 
 V. El delito fuere cometido previa suministración de estupefacientes o psicotrópicos a la víctima, en contra de su voluntad o sin su conocimiento.
+
+*Fracción adicionada DOF 15-06-2018*
 
 #### CAPITULO II · (Se deroga).
 
@@ -3416,6 +3620,8 @@ III.- Al que exhume un cadáver sin los requisitos legales o con violación de d
 
 Se impondrá pena de cinco a ocho años de prisión y de quinientos a mil días multa, a quien incinere, sepulte, desintegre o destruya total o parcial el cadáver o restos humanos de una persona no identificada, sin autorización de las autoridades competentes en la materia.
 
+*Artículo adicionado DOF 17-11-2017*
+
 ##### Artículo 281.
 
 Se impondrá de uno a cinco años de prisión:
@@ -3429,6 +3635,8 @@ II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutila
 Delitos Contra la Paz y Seguridad de las Personas
 
 #### CAPITULO I · Amenazas y Cobranza Extrajudicial Ilegal
+
+*Denominación del Capítulo reformada DOF 22-06-2017*
 
 ##### Artículo 282.
 
@@ -3471,6 +3679,8 @@ Si utiliza además documentos o sellos falsos, la pena y la sanción económica 
 Si incurre en usurpación de funciones o de profesión, se aplicarán las reglas del concurso de delitos señalado en el Código Penal Federal.
 
 Se entiende por cobranza extrajudicial ilegal el uso de la violencia o la intimidación ilícitos, ya sea personalmente o a través de cualquier medio, para requerir el pago de una deuda derivada de actividades reguladas en leyes federales, incluyendo créditos o financiamientos que hayan sido otorgados originalmente por personas dedicadas habitual y profesionalmente a esta actividad, con independencia del tenedor de los derechos de cobro al momento de llevar a cabo la cobranza. No se considerará como intimidación ilícita informar aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de iniciar acciones legales en contra del deudor, aval, obligado solidario o cualquier tercero relacionado a éstos cuando éstas sean jurídicamente posibles.
+
+*Artículo adicionado DOF 22-06-2017*
 
 #### CAPITULO II · Allanamiento de morada
 
@@ -4100,6 +4310,8 @@ Cuando el objeto del robo sea el vehículo automotor se aplicará lo dispuesto e
 
 Cuando la conducta a que se refiere este artículo se cometa por una asociación delictuosa, banda o pandilla, se sancionará en términos de los artículos 164 o 164 Bis, según corresponda.
 
+*Artículo adicionado DOF 21-02-2018*
+
 ##### Artículo 376 Quáter.
 
 Además de la pena que le corresponda conforme al primer párrafo del artículo anterior, se aplicarán las previstas en este artículo en los casos siguientes:
@@ -4107,6 +4319,8 @@ Además de la pena que le corresponda conforme al primer párrafo del artículo 
 I.- La pena de prisión se aumentará en un tercio cuando exista apoderamiento del remolque o semirremolque y sea utilizado para cometer otro ilícito, y
 
 II.- La pena de prisión se aumentará en una mitad cuando, a sabiendas de sus funciones el servidor público, cometa o participe en el robo y este tenga o desempeñe funciones de prevención, investigación, persecución del delito o ejecución de penas, con independencia de la sanción penal, se le inhabilitará para desempeñar cualquier empleo, cargo o comisión pública por un tiempo igual al de la pena de prisión impuesta.
+
+*Artículo adicionado DOF 21-02-2018*
 
 ##### Artículo 377.
 
@@ -4146,6 +4360,8 @@ Al que se le imputare el hecho de haber tomado una cosa ajena sin consentimiento
 
 Además de la pena que le corresponda conforme a los artículos 370, 371 y el primer párrafo del artículo 376 Ter, se aplicarán al delincuente las penas previstas en este artículo, en los casos siguientes:
 
+*Párrafo reformado DOF 21-02-2018*
+
 I.- Cuando se cometa el delito en un lugar cerrado.
 
 II.- Cuando lo cometa un dependiente o un doméstico contra su patrón o alguno de la familia de éste, en cualquier parte que lo cometa.
@@ -4174,6 +4390,8 @@ XII.- Cuando se realicen sobre embarcaciones o cosas que se encuentren en ellas;
 
 XIII.- (Se deroga)
 
+*Fracción derogada DOF 21-02-2018*
+
 XIV.- Cuando se trate de expedientes o documentos de protocolo, oficina o archivos públicos, de documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, con afectación de alguna función pública. Si el delito lo comete el servidor público de la oficina en que se encuentre el expediente o documento, se le impondrá además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, de seis meses a tres años;
 
 XV. Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad;
@@ -4184,11 +4402,15 @@ XVII. Cuando el objeto de apoderamiento sean vías, sus partes o equipo ferrovia
 
 En los supuestos a que se refieren las fracciones I, II, III, IV, V, VI, XI, XII, XIV y XV, hasta cinco años de prisión.
 
+*Párrafo reformado DOF 21-02-2018*
+
 En los supuestos a que se refieren las fracciones VII, VIII, IX, X, XVI y XVII, de dos a siete años de prisión.
 
 ##### Artículo 381 Bis.
 
 Sin perjuicio de las sanciones que de acuerdo con los artículos 370, 371 y 372 deben imponerse, se aplicarán de tres días a diez años de prisión al que robe en edificios, viviendas, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén construidos, así como en aquellos lugares o establecimientos destinados a actividades comerciales.
+
+*Artículo reformado DOF 23-06-2017*
 
 ##### Artículo 381 Ter.
 
@@ -4200,6 +4422,8 @@ Por tal delito, se impondrán de dos a diez años de prisión.
 
 Se equiparará al delito de abigeato y se sancionará con la misma pena que éste, el sacrificio de ganado sin el consentimiento de quien legalmente pueda otorgarlo.
 
+*Artículo adicionado DOF 23-06-2017*
+
 ##### Artículo 381 Quáter.
 
 El delito de abigeato se considera calificado y se aumentará la pena hasta en una mitad, cuando sea cometido por quien tenga una relación laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado.
@@ -4207,6 +4431,8 @@ El delito de abigeato se considera calificado y se aumentará la pena hasta en u
 De igual manera se impondrá la pena establecida en el párrafo anterior, cuando el delito se ejecute mediante violencia física o moral, o bien cuando lo comenta un servidor público.
 
 Cuando la conducta a que se refiere este artículo se cometa por una asociación delictuosa, banda o pandilla, se sancionará en términos de los artículos 164 o 164 Bis, según corresponda.
+
+*Artículo adicionado DOF 23-06-2017*
 
 #### CAPITULO II · Abuso de confianza
 
@@ -4700,6 +4926,8 @@ La sanción a que se hace mención en el párrafo anterior, se incrementará en 
 
 Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
 
+*Artículo adicionado DOF 22-06-2017*
+
 ##### Artículo 420.
 
 Se impondrá pena de uno a nueve años de prisión y por el equivalente de trescientos a tres mil días multa, a quien ilícitamente:
@@ -4709,6 +4937,8 @@ I. Capture, dañe o prive de la vida a algún ejemplar de tortuga o mamífero ma
 II. Capture, transforme, acopie, transporte o dañe ejemplares de especies acuáticas declaradas en veda;
 
 II Bis. De manera dolosa capture, transforme, acopie, transporte, destruya o comercie con las especies acuáticas denominadas abulón, camarón, pepino de mar y langosta, dentro o fuera de los periodos de veda, sin contar con la autorización que corresponda, en cantidad que exceda 10 kilogramos de peso.
+
+*Fracción reformada DOF 07-04-2017*
 
 III. Realice actividades de caza, pesca o captura con un medio no permitido, de algún ejemplar de una especie de fauna silvestre, o ponga en riesgo la viabilidad biológica de una población o especie silvestres;
 
@@ -4898,6 +5128,1024 @@ TABLA 4
 | máx 2 grs | máx 2.5 grs | máx 5 grs | máx 150 mgs | máx 150 mgs | 10 meses a<br>1 año 4 meses | 1 año a<br>1 años 6 meses | 1 año 3 meses a<br>1 año 9 meses | 1 año 9 meses a<br>2 años 3 meses |  | 2-4 grs | 2.5-5 grs | 5-20 grs | 150-300 mgs | 150-300 mgs | 1 año 4 meses a<br>1 año 9 meses | 1 año 6 meses a<br>2 años | 1 año 9 meses a<br>2 años 3 meses | 2 años 3 meses a<br>2 años 9 meses |  | 4-8 grs | 5-10 grs | 20-50 grs | 300-500 mgs | 300-500 mgs | 1 año 9 meses a<br>2 años 9 meses | 2 años a<br>3 años 1 mes | 2 años 3 meses a<br>3 años 5 meses | 2 años 9 meses a<br>4 años 3 meses |  | 8- 16 grs | 10-20 grs | 50-100 grs | 500 mgs-1 gr | 500 mgs-1 gr | 2 años 9 meses a<br>4 años 3 meses | 3 años 1 meses a<br>4 años 9 meses | 3 años 5 meses a<br>5 años 3 meses | 4 años 3 meses a<br>6 años 6 meses |  |
 
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
+
+### DECRETO que reforma el Código Penal vigente.
+
+*Publicado en el Diario Oficial de la Federación el 12 de mayo de 1938*
+
+**ARTICULO 1°.-** Se derogan la fracción II del artículo 24 y los artículos 27, 70, 71 y 72 del Código Penal vigente.
+
+**ARTICULO 2°.-** Se reforman los artículos 25, 65, 66 y 255 del propio Código Penal, para quedar como sigue:
+
+……….
+
+**ARTICULO 4°.-** Esta Ley entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial".
+
+### DECRETO que adiciona el artículo 361 de la Ley Aduanal. (Contrabando de armas y municiones).
+
+*Publicado en el Diario Oficial de la Federación el 10 de noviembre de 1939*
+
+**ARTICULO 2°.-** Se deroga, en cuanto se oponga al presente ordenamiento, el artículo 162 del Código Penal y demás disposiciones incompatibles con este Decreto.
+
+### DECRETO que reforma el Código Penal.
+
+*Publicado en el Diario Oficial de la Federación el 14 de febrero de 1940*
+
+**ARTICULO PRIMERO.-** Se reforma el Título Séptimo del Libro Segundo del Código Penal, para quedar como sigue:
+
+……….
+
+**ARTICULO SEGUNDO.-** Se modifica el rubro del Capítulo I del Título Octavo del Código Penal, para quedar como sigue:
+
+……….
+
+**ARTICULO TERCERO.-** Se reforma y adiciona el artículo 200 del Código Penal, para quedar como sigue:
+
+……….
+
+**ARTICULO CUARTO.-** Se reforma y adiciona el artículo 207 del Código Penal, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**ARTICULO 1°.-** Este Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
+
+**ARTICULO 2°.-** Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
+
+### DECRETO que reforma el Código Penal.
+
+*Publicado en el Diario Oficial de la Federación el 14 de noviembre de 1941*
+
+**ARTICULO PRIMERO.-** Se reforma el artículo 129 del Código Penal vigente, para quedar como sigue:
+
+……….
+
+**ARTICULO SEGUNDO.-** Se suprime el Capítulo Segundo, Título Segundo del Libro Segundo del Código Penal, el artículo 145, y se adiciona dicho Título Segundo con el Capítulo III (delitos de disolución social) , para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** Las presentes reformas y adiciones entrarán en vigor desde el día de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO derogando el que adiciona el artículo 361 de la Ley Aduanal. (Contrabando de armas y municiones).
+
+*Publicado en el Diario Oficial de la Federación el 27 de diciembre de 1941*
+
+**ARTICULO 2°.-** Continua vigente, sin restricción alguna, el artículo 162 del Código Penal y las demás disposiciones que resultaban incompatibles con el mencionado Decreto.
+
+### LEY de Prevenciones Generales relativa a la suspensión de garantías individuales.
+
+*Publicado en el Diario Oficial de la Federación el 13 de junio de 1942*
+
+**ARTICULO 12.-** La restricción de las garantías de los artículos 16, 19 y 20, es aplicable únicamente a los delitos del orden federal comprendidos en el Libro Segundo, Títulos I a VI y Título IX del Código Penal Federal, así como los enumerados en el Decreto de 30 de octubre de 1941, que reformó el Código Penal y los que se creen en la legislación de emergencia.
+
+**TRANSITORIOS**
+
+1°.- La presente ley entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO que modifica varios artículos del Código Penal para el Distrito y Territorios Federales en materia de fuero común y para toda la República en materia de fuero federal.
+
+*Publicado en el Diario Oficial de la Federación el 24 de marzo de 1944*
+
+**ARTICULO PRIMERO.-** Se modifican en los siguientes términos los artículos del Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común y para toda la República en Materia de Fuero Federal:
+
+………
+
+**TRANSITORIO**
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial".
+
+### DECRETO que reforma los artículos 24, 60 y 61 del Código Penal, en lo relativo a medidas de seguridad y pequeñas por delitos de imprudencia.
+
+*Publicado en el Diario Oficial de la Federación el 10 de febrero de 1945*
+
+**ARTICULO UNICO.-** Se reforman los artículos 24, 60 y 61 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** El presente Decreto entrará en vigor tres días después del de la fecha de su publicación en el "Diario Oficial".
+
+### DECRETO que reforma el artículo 40 del Código Penal para el Distrito y Territorios Federales en materia del fuero común.
+
+*Publicado en el Diario Oficial de la Federación el 8 de mayo de 1945*
+
+**ARTICULO UNICO.-** Se reforma el artículo 40 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** El presente Decreto entrará en vigor tres días después de la fecha en que se haya publicado en el "Diario Oficial".
+
+### DECRETO que declara Ley de Emergencia el capítulo 1º, título 7º, libro 2º, del Código Penal para el Distrito y Territorios Federales y Federal en toda la República en materia de este fuero relativo a la tenencia y tráfico de enervantes.
+
+*Publicado en el Diario Oficial de la Federación el 12 de mayo de 1945*
+
+**ARTICULO PRIMERO.-** En tanto dure la suspensión de garantías individuales vigente en la República se declara ley de emergencia el Capítulo 1°, Título 7°, Libro 2°, del Código Penal para el Distrito y Territorios Federales y Federal en toda la República en materia de este fuero, relativo a la tenencia y tráfico de enervantes.
+
+**TRANSITORIO**
+
+El presente Decreto surtirá sus efectos a partir de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO que levanta la suspensión de garantías decretada 1º de junio de 1942, y restablece el orden constitucional, ratificando y declarando vigentes las disposiciones que el mismo especifica.
+
+*Publicado en el Diario Oficial de la Federación el 28 de diciembre de 1945*
+
+**ARTICULO 1°.-** A partir del día primero de octubre se levanta la suspensión de garantías decretada el primero de junio de 1942 y se restablece, por lo tanto, el orden constitucional en toda plenitud.
+
+**TRANSITORIOS**
+
+**ARTICULO 1°.-** La presente ley entrará en vigor el día primero de octubre del año en curso.
+
+**ARTICULO 2°.-** Esta ley deroga a las disposiciones legales y reglamentarias que de cualquier modo se le opongan.
+
+**ARTICULO 3°.-** El Ejecutivo de la Unión dictará las disposiciones reglamentarias para la ejecución de la presente ley.
+
+### LEY que reforma el Código Penal para el Distrito y Territorios Federales en materia del Fuero Común, y para toda la República en materia del Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 9 de marzo de 1946*
+
+**ARTICULO UNICO.-** Se reforma el Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial".
+
+*Fe de erratas DOF 16-07-1946*
+
+### DECRETO que reforma el artículo 85 del Código Penal para el Distrito y Territorios Federales.
+
+*Publicado en el Diario Oficial de la Federación el 9 de marzo de 1946*
+
+**ARTICULO 1°.-** Se reforma el artículo 85 del Código Penal para el Distrito y Territorios Federales, para quedar como sigue:
+
+……….
+
+**ARTICULO 2°.-** Se suprime la fracción V del artículo 366 y en su lugar se adiciona el siguiente párrafo:
+
+………
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** Este Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO por el cual se reforma el artículo 250 del Código Penal Vigente
+
+*Publicado en el Diario Oficial de la Federación el 30 de enero de 1947*
+
+**ARTICULO UNICO.-** Se modifica el artículo 250 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común, y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO que reforma y adiciona los artículos 193, 194 y 197 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 14 de noviembre de 1947*
+
+**ARTICULO UNICO.-** Se reforman y adicionan los artículos 193, 194 y 197 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** Estas reformas entrarán en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación, y desde esa misma fecha quedan derogadas las disposiciones legales que se opongan a las presentes, pero deberán continuar aplicándose para los hechos ejecutados durante su vigencia.
+
+### DECRETO que reforma el Código Penal para el Distrito y Territorios Federales en materia del fuero común y para toda la República en materia del fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 5 de enero de 1948*
+
+**ARTICULO 1°.-** Se deroga el inciso 2° del artículo 24 y los artículos 27, 70 y 71 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+
+……….
+
+**ARTICULO 2°.-** Se reforman los artículos 25, 66 y 255 del mismo Código, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**ARTICULO PRIMERO.-** Esta Ley entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+**ARTICULO SEGUNDO.-** En todos los casos en que el Código Penal u otras leyes señalen la pena de relegación, se aplicará la de prisión.
+
+### DECRETO que reforma diversos artículos del Código Penal.
+
+*Publicado en el Diario Oficial de la Federación el 15 de enero de 1951*
+
+**ARTICULO UNICO.-** Se reforman los artículos 40, 41, 61, 62, 63, 111, 112, 124 fracciones I, IV y V; 125, 126, 127, 129, 130, 132, 134 fracción II; 135, 137, 142, 144, 145, 160 fracción I; 162, 166, 171, 203, 246 fracción VII; 255, 280, 297, 308, 320, 366 fracción V; 370, 371 y 382; y se adiciona el articulo 167 con la fracción VIII, del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+Aclaración DOF 31-05-1956
+
+### DECRETO que reforma el artículo 253 del Código Penal para el Distrito y Territorios Federales y para toda la República en Materia del Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1952*
+
+**ARTICULO UNICO.-** Se reforma el artículo 253 del Código Penal para el Distrito y Territorios Federales y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO que reforma y adiciona el Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 5 de enero de 1955*
+
+**ARTICULO UNICO.-** Se adiciona y reforma el Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**UNICO.-** Esta reforma entrará en vigor el día siguiente de su publicación en el "Diario Oficial".
+
+### DECRETO que reforma el artículo 64 del Código Penal, para el Distrito y Territorios Federales en materia de Fuero Común y para toda la República en materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 19 de diciembre de 1964*
+
+**ARTICULO UNICO.-** Se reforma el artículo 64 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**UNICO.-** La presente reforma entrará en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO que reforma el artículo 41 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 13 de enero de 1965*
+
+**ARTICULO UNICO.-** Se reforma el artículo 41 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**UNICO.-** Esta reforma entrará en vigor tres días después a la de su publicación en el "Diario Oficial" de la Federación.
+
+### REFORMAS al Código Penal para el Distrito y Territorios Federal.
+
+*Publicado en el Diario Oficial de la Federación el 14 de enero de 1966*
+
+**ARTICULO PRIMERO.-** Se reforma la denominación del Título Octavo y del Capítulo I del Código Penal para el Distrito y Territorios Federales y el artículo 200 del propio Código, para quedar como sigue:
+
+………..
+
+**ARTICULO SEGUNDO.-** Se reforma el artículo 201 y se adiciona un párrafo segundo al artículo 202 del Código Penal, para quedar como sigue:
+
+………..
+
+**ARTICULO TERCERO.-** Se deroga el artículo 205 del Código Penal.
+
+**ARTICULO CUARTO.-** Se reforma el artículo 208 del Código Penal, para quedar como sigue:
+
+………..
+
+**ARTICULO QUINTO.-** Se reforma el artículo 85, para quedar como sigue:
+
+………..
+
+**TRANSITORIO**
+
+**UNICO.-** Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+### ADICIONES al Código Penal para el Distrito y Territorios Federales.
+
+*Publicado en el Diario Oficial de la Federación el 20 de enero de 1967*
+
+**ARTICULO PRIMERO.-** Se adiciona el artículo 381 Bis del Código Penal para el Distrito y Territorios Federales, para quedar como sigue:
+
+………..
+
+**ARTICULO SEGUNDO.-** Se adiciona el Capítulo III del Título Decimo Tercero del Libro Segundo del Código Penal para el Distrito y Territorios Federales, con un artículo 242 Bis, para quedar como sigue:
+
+………..
+
+**ARTICULO TERCERO.-** Se adiciona con una fracción sexta el artículo 400 del Código Penal, para quedar como sigue:
+
+………..
+
+**ARTICULO CUARTO.-** Se adiciona el artículo 400 Bis del Código Penal, para quedar como sigue:
+
+………..
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** La presente reforma entrará en vigor a los tres días de su publicación en el "Diario Oficial" de la Federación.
+
+### REFORMAS al Código Penal en sus Artículos 265 y 266.
+
+*Publicado en el Diario Oficial de la Federación el 20 de enero de 1967*
+
+**ARTICULO PRIMERO.-** Se reforman los artículos 265 y 266 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+
+………..
+
+**ARTICULO SEGUNDO.-** Se adiciona el Capitulo I del Titulo Decimoquinto del Libro Segundo del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal con un artículo 266 bis, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+### SE ADICIONA el Código Penal con un Título Cuarto de su Libro Segundo.
+
+*Publicado en el Diario Oficial de la Federación el 20 de enero de 1967*
+
+**ARTICULO UNICO.-** Se adiciona el Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal con un Título Cuarto de su Libro Segundo, para quedar como sigue:
+
+**TRANSITORIO**
+
+**UNICO.-** Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO que reforma los Artículos 15, 85, 193, 194, 195, 196, 197, 198, 199, 201, 306, 309 y 387; modificación del nombre de Capítulo Primero, Título Séptimo, Libro Segundo; y adición del Artículo 164 Bis del Código Penal para el Distrito y Territorios Federales en materia de Fuero Común y para toda la República en materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 8 de marzo de 1968*
+
+**ARTICULO PRIMERO.-** Se reforma la fracción II del artículo 15 del Código Penal para el Distrito y Territorios Federales, en materia de Fuero Común y en toda la República en materia de Fuero Federal, para quedar como sigue:
+
+……….
+
+**ARTICULO SEGUNDO.-** Se adiciona el artículo 85 del citado Código Penal, para quedar como sigue:
+
+……….
+
+**ARTICULO TERCERO.-** Se adiciona el Código Penal, motivo de este Decreto, con el artículo 164 Bis, siguiente:
+
+……….
+
+**ARTICULO CUARTO.-** Se modifica el nombre del Capítulo Primero del Título Séptimo, del Libro Segundo del referido Código Penal, para quedar como sigue:
+
+……….
+
+**ARTICULO QUINTO.-** Se reforman y adicionan los artículos 193, 194, 195, 196, 197, 198 y 199 del Código Penal de referencia, para que queden en la forma siguiente:
+
+……….
+
+**ARTICULO SEXTO.-** Se reforma el segundo párrafo del artículo 201 del Código Penal motivo del presente Decreto, para quedar como sigue:
+
+……….
+
+**ARTICULO SEPTIMO.-** Se reforma y adiciona el artículo 306 del citado Código Penal, para quedar como sigue:
+
+……….
+
+**ARTICULO OCTAVO.-** Se reforma el artículo 309 del citado Código Penal, para quedar como sigue:
+
+……….
+
+**ARTICULO NOVENO.-** Se adiciona el artículo 387 del citado Código Penal con las fracciones XIX y XX, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**ARTICULO PRIMERO.-** El presente Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+
+**ARTICULO SEGUNDO.-** Se derogan todas las disposiciones legales que se opongan a las presentes reformas y adiciones.
+
+### DECRETO que adiciona con un tercer párrafo el artículo 170 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1968*
+
+**ARTICULO UNICO.-** Se adiciona con un tercer párrafo el artículo 170 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, como sigue:
+
+……….
+
+**TRANSITORIO:**
+
+**ARTICULO UNICO.-** El presente Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO que reforma el artículo 311 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 18 de febrero de 1969*
+
+**ARTICULO UNICO.-** Se reforma el artículo 311 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+### REFORMAS al Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común y para toda la República en Materia Federal y al Código Federal de Procedimiento Penales.
+
+*Publicado en el Diario Oficial de la Federación el 29 de julio de 1970*
+
+**ARTICULO PRIMERO.-** Se derogan los Títulos Primero y Segundo del Libro Segundo del Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común y para toda la República en Materia Federal; se establece un nuevo Título que ser el Primero, con el rubro de "Delitos contra la Seguridad de la Nación", y se cambian los números de los Títulos Tercero, "Delitos contra el Derecho Internacional", y el Cuarto, "Delitos contra la Humanidad" del propio Libro Segundo que pasan a ser, respectivamente, los Títulos Segundo y Tercero.
+
+**ARTICULO SEGUNDO.-** Se reforma el rubro del Título Vigésimoprimero del Libro Segundo, se suprime el del Capítulo Unico del mismo Título y se reforman los artículos 364 y 366 del Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+
+………..
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO que reforma diversos artículos del Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 19 de marzo de 1971*
+
+**ARTICULO UNICO.-** Se reforman los artículos 62, 74 a 76, 81 a 87 y 90 del Código Penal para el Distrito y Territorios Federales en materia de fuero común y para toda la República en materia de fuero federal, para quedar como sigue:
+
+………
+
+**ARTICULOS TRANSITORIOS**
+
+**ARTICULO 1o.-** Estas reformas entrarán en vigor 60 días después de su publicación en el "Diario Oficial" de la Federación.
+
+**ARTICULO 2o.-** Las solicitudes y los procedimientos sobre libertad preparatoria y condena condicional que se encuentren pendientes al iniciarse la vigencia de estas reformas, se resolverán en los términos previstos por las mismas.
+
+**ARTICULO 3o.-** Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+
+*Fe de erratas DOF 07-05-1971*
+
+### DECRETO por el que se adiciona el Código Penal para el Distrito y Territorios Federales en materia de Fuero Común y para toda la República, en materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 11 de enero de 1972*
+
+**ARTICULO UNICO.-** Se adiciona el Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, con el artículo 389 Bis para quedar como sigue:
+
+……..
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** El presente Decreto entrará en vigor a los tres días de su publicación en el "Diario Oficial" de la Federación.
+
+### LEY que crea los Consejos Tutelares para Menores Infractores del Distrito y Territorios Federales.
+
+*Publicado en el Diario Oficial de la Federación el 2 de agosto de 1974*
+
+**DISPOSICIONES TRANSITORIAS**
+
+**ARTICULO 1o.** Transitorio.- La presente Ley entrará en vigor a los treinta días de su publicación en el "Diario Oficial", y a partir de la misma fecha quedarán derogados los artículos 119 a 122 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal, de 13 de agosto de 1931, sólo por lo que se refiere al Distrito y Territorios Federales, la Ley Orgánica y Normas de Procedimiento de los Tribunales de Menores y sus Instituciones Auxiliares en el Distrito y Territorios Federales, de 22 de abril de 1941 y las demás disposiciones que se opongan al presente Ordenamiento.
+
+**ARTICULO 2o.** Transitorio.- El primer turno entre los Consejeros para los efectos de la instrucción del procedimiento se establecerá según el orden cronológico de su nombramiento.
+
+**ARTICULO 3o.** Transitorio.- Los Consejeros que se nombren al entrar en vigor la presente Ley, en los términos del artículo 5o., durarán en su encargo hasta el 31 de diciembre de 1976.
+
+**ARTICULO 4o.** Transitorio.- Se sujetarán a las previsiones de esta Ley tanto los procedimientos que se estén desarrollando al iniciarse su vigencia como las medidas impuestas con anterioridad a la misma, que se hallen en proceso de ejecución.
+
+**ARTICULO 5o.** Transitorio.- Mientras se establezcan los Consejos Auxiliares, conocerán de las faltas a los reglamentos de policía y buen gobierno los jueces Calificadores y el Consejo Tutelar de los demás casos señalados en el artículo 48.
+
+### DECRETO por el que se reforman diversas leyes para concordarlas con el Decreto que reformó el artículo 43 y demás relativos, de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1974*
+
+**ARTICULO CUADRAGESIMO CUARTO.-** Se reforma el nombre y los artículos 1o.; 41; 132, fracción III; y 259 del Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+……..
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO de Reformas al Código Penal para Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal; al Código Sanitario de los Estados Unidos Mexicanos, en relación con estupefacientes y psicotrópicos y al Artículo 41 del Primer Ordenamiento.
+
+*Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1974*
+
+**ARTICULO PRIMERO.-** Se modifica la denominación del Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal, para quedar como sigue: Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal.
+
+**ARTICULO SEGUNDO.-** Se reforman el inciso 3 del artículo 24, el artículo 41, el inciso c) de la fracción III del artículo 84 y el inciso d) de la fracción II del artículo 90 del Código Penal para el Distrito en materia de fuero común, y para toda la República en materia de fuero federal, para quedar como sigue:
+
+………
+
+**ARTICULO TERCERO.-** Se modifica el nombre del Capítulo I del Titulo Séptimo del Libro Segundo del citado Código Penal, para quedar como sigue:
+
+………
+
+**ARTICULO CUARTO.-** Se reforman los artículos 193, 194, 195, 196, 197, 198, 199 y los párrafos segundo y tercero del artículo 201 del propio ordenamiento, para quedar como sigue:
+
+………
+
+**TRANSITORIOS:**
+
+**ARTICULO PRIMERO.-** El presente Decreto entrará en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
+
+**ARTICULO SEGUNDO.-** Se derogan todas las disposiciones legales que se opongan a las presentes reformas.
+
+**ARTICULO TERCERO.-** Los hechos ejecutados durante la vigencia de las disposiciones del Código Penal para el Distrito en materia de fuero común, y para toda la República en materia de fuero federal, y del Código Sanitario de los Estados Unidos Mexicanos, que se reforman, modifican y derogan por el presente Decreto, continuarán rigiéndose por aquéllas.
+
+**ARTICULO CUARTO.-** Por lo que hace al Código Federal de Procedimientos Penales, todos los asuntos que estén tramitándose al comenzar a regir este Decreto, se sujetarán a sus disposiciones.
+
+### DECRETO de Reformas al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1975*
+
+**ARTICULO UNICO.-** Se reforman los artículos 370, 375, 382, 386 fracciones I, II y III, 389, y se deroga el artículo 388 del Código Penal para el Distrito Federa en materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO que reforma a los artículos 336 y 337 del Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 26 de diciembre de 1977*
+
+**ARTICULO UNICO.-** Se modifican los artículos 336 y 337 del Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+……..
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** Estas reformas entrarán en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO de reformas al Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, en sus artículos 85, 194, 195, 196, 197 y 198.
+
+*Publicado en el Diario Oficial de la Federación el 8 de diciembre de 1978*
+
+**ARTICULO UNICO.-** Se reforman los artículos 85, 194, 195, 196, 197 y 198 del Código Penal para el Distrito Federal en materia del fuero común y para toda la República en materia del fuero federal, para quedar como sigue:
+
+……..
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** La presente Ley entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO de Reformas a los Artículos 253 y 254, y Derogación del 253 Bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 5 de diciembre de 1979*
+
+**ARTICULO PRIMERO.-** Se reforma el artículo 253 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar en los términos siguientes:
+
+………
+
+**ARTICULO SEGUNDO.-** Se deroga el artículo 253 Bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+**ARTICULO TERCERO.-** Se reforma el artículo 254 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar en los siguientes términos:
+
+………
+
+**TRANSITORIO**
+
+**UNICO.-** Este Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO de reformas a los artículos 219, 220 y derogación del 221, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 3 de enero de 1980*
+
+**ARTICULO PRIMERO.-** Se reforman los artículos 219 y 220 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**ARTICULO SEGUNDO.-** Se deroga el artículo 221 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO de reforma de la fracción I del artículo 383 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 3 de enero de 1980*
+
+**ARTICULO UNICO.** Se reforma la fracción I del artículo 383 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para que se adicione en los siguientes términos:
+
+………
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** La presente reforma entrará en vigor el día siguiente al de su publicación en el "Diario Oficial".
+
+### DECRETO de reformas al artículo 389 del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 7 de enero de 1980*
+
+**ARTICULO UNICO.-** Se reforma el artículo 389 del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**UNICO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO por el que se adiciona el Artículo 254 del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1980*
+
+**ARTICULO UNICO.-** Se adicionan las fracciones V y VI al Artículo 254 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en materia de Fuero Federal, para quedar en los siguientes términos:
+
+……..
+
+**TRANSITORIO**
+
+**UNICO.-** Este decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+### DECRETO por el que se reforman los artículos 39, 369, 370, 375, 382 y 386 del Código Penal para el Distrito Federal en Materia de Fuero Común y Para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 29 de diciembre de 1981*
+
+**ARTICULO PRIMERO.-** Se reforman los artículos 39, 369, 370, 375, 382 y 386 del Código Penal para el Distrito Federal en Materia Común y para toda la República en Materia Federal, para quedar como sigue:
+
+……..
+
+**ARTICULO SEGUNDO.-** Se adiciona el Título Vigésimo segundo del Código Penal para el Distrito Federal en Materia Común y para toda la República en Materia Federal con nuevo Artículo que quedará bajo el numeral 369 Bis, cuyo texto es el siguiente:
+
+……..
+
+**TRANSITORIOS**
+
+**ARTICULO 1o.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**ARTICULO 2o.-** Respecto a las personas que se encuentren procesadas o sentenciadas el día que entre en vigor el presente Decreto se estará a lo dispuesto en el Artículo 56 del propio Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.
+
+*Fe de erratas DOF 13-01-1982*
+
+*Fe de erratas a la fe de erratas DOF 15-01-1982*
+
+### DECRETO por el que se reforma y adiciona el Artículo 167 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 11 de enero de 1982*
+
+**ARTICULO UNICO.-** Se reforma y adiciona el artículo 167 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal para quedar en los siguientes términos:
+
+……..
+
+**TRANSITORIO**
+
+**UNICO.-** Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+### DECRETO de reformas al Código Penal para el Distrito Federal en materia de fuero común y para toda la República en materia del fuero federal.
+
+*Publicado en el Diario Oficial de la Federación el 5 de enero de 1983*
+
+**ARTICULO UNICO.-** Se reforman y adicionan diversas disposiciones del Código Penal para el Distrito Federal en materia de fuero común y para toda la República en materia de fuero Federal, para quedar como sigue (artículos 24, 30, 52, 85, 90, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223 y 224):
+
+………..
+
+**TRANSITORIOS**
+
+**ARTICULO PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**ARTICULO SEGUNDO.-** Por lo que respecta a las declaraciones sobre situación patrimonial efectuadas con anterioridad a la vigencia de la Ley Federal de Responsabilidades de los Servidores Públicos, se estará a lo dispuesto en las normas vigentes en el momento de formularse dicha declaración.
+
+### DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 13 de enero de 1984*
+
+**ARTICULO PRIMERO.-** Se reforman los artículos 7o., 8o., 9o., 13, 15, 16, 18, 19, 24, 27, 29, 30, 31, 33, 34, 39, 40, 41, 43, 44, 52, 54, 55, 60, 62, 64, 67, 68, 69, 70, 71, 72, 73, 74, 93, 96, 98, 101, 102, 160, 205, 225, 226, 228, 230, 265, 267, 268, 269, 281, 289, 295, 366, 381, 381 bis, 387, 388 y 390 del Código Penal Para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**ARTICULO SEGUNDO.-** Se adicionan los artículos 50 bis, 59 bis, 64 bis, 118 bis, 276 bis, 336 bis, 366 bis y 399 bis al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, en los siguientes términos:
+
+………
+
+**ARTICULO TERCERO.-** Se adicionan en el Libro Primero los Capítulos XI al Título Segundo, VII al Título Quinto y los Capítulos II al Título Décimo Primero, V al Título Décimo Quinto y III bis al Título Vigésimo Segundo, en el Libro Segundo, del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**ARTICULO CUARTO.-** Se modifican las denominaciones, en el Libro Primero, del Capítulo V del Título Primero, de los capítulos III y VI, del Título Segundo; de los capítulos II, IV y V, del Título Tercero, y de los capítulos III y IV del Titulo Quinto, y del Libro Segundo las del Capítulo III, del Título Octavo, y del Capítulo I, del Título Décimo Segundo, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal para quedar como sigue:
+
+………
+
+**ARTICULO QUINTO.-** Se derogan los artículos 58, 264, 294, 377, 378 y 385 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+**TRANSITORIOS**
+
+**ARTICULO PRIMERO.-** El presente Decreto entrará en vigor a los 90 días de su publicación en el Diario Oficial de la Federación.
+
+**ARTICULO SEGUNDO.-** Respecto a las personas que se encuentren procesadas o sentenciadas el día en que entre en vigor el presente Decreto, se estará a lo dispuesto en el artículo 56 del propio Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+**ARTICULO TERCERO.-** Para la imposición de multas bajo el sistema de días multa a que se refiere el artículo 29 del Código Penal, reformado en los términos del presente Decreto, el juez se ajustará a las siguientes reglas:
+
+I.- Cuando se imponga multa en pesos, la conversión respectiva se hará tomando en cuenta el máximo de la multa fijada por la ley, con las correspondientes que a continuación se indican: cuando el máximo sea de quinientos pesos, por un día multa; si excede de esta cantidad, pero no de diez mil pesos, entre dos y veinte días multa; si es superior a diez mil pesos, pero no pasa de cien mil, de veintiuno a doscientos días multa; y si excede de cien mil pesos, entre doscientos uno y quinientos días multa.
+
+II.- Cuando se establezca multa sobre la base de días de salario mínimo, se convertirá a razón de un día de salario por un día multa.
+
+**ARTICULO CUARTO.-** En lo que respecta al régimen aplicable a los inimputables a que alude el Artículo 15 fracción II del Código Penal, reformado en los términos del presente decreto, se estará a lo dispuesto para enfermos mentales, en el Código Federal de Procedimientos Penales, mismo régimen que se aplicará para las infracciones del fuero común.
+
+**ARTICULO QUINTO.-** Las medidas de vigilancia de la autoridad y en cumplimiento de los substitutivos de la prisión a que alude el Código Penal, reformado en los términos del presente decreto, le competerá a la dependencia del Ejecutivo Federal, encargada de la ejecución de sanciones.
+
+**ARTICULO SEXTO.-** Para los efectos del reconocimiento de la inocencia del sujeto a que alude el Artículo 96 del Código Penal, reformado en los términos del presente decreto, se estará a lo dispuesto para el indulto necesario, tanto en el Código Federal de Procedimientos Penales, como en el Código de Procedimientos Penales para el Distrito Federal, según corresponda.
+
+### DECRETO por el que se reforma el Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 14 de enero de 1985*
+
+**ARTICULO 1.-** Se reforman los artículos 3o., 6o., 12, 51, 193, 198, 228, 262, 369 bis, 395, 399 bis, 400 y 400 bis del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**ARTICULO 2.-** Se derogan los artículos 59 257, 258, 259, 269, 391, 392, 393 y 394 del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** El presente Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+### DECRETO por el que se adiciona el artículo 166 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y modifica el rubro del Capítulo VII, Título Décimo-Tercero, Libro Segundo, del Código Penal para el Distrito Federal en materia del fuero común y para toda la República en materia del fuero federal y la fracción IV del artículo 250 del mismo código.
+
+*Publicado en el Diario Oficial de la Federación el 21 de enero de 1985*
+
+**ARTICULO SEGUNDO.-** Se modifican el rubro del Capítulo VII, Título Décimo-Tercero, Libro Segundo del Código Penal para el Distrito Federal en materia del Fuero Común y para toda la República en materia del Fuero Federal y la Fracción IV del artículo 250 del mismo ordenamiento, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**ARTICULO PRIMERO.-** El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
+
+### DECRETO por el que se reforma el Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1985*
+
+**ARTICULO PRIMERO.-** Se reforman los artículos 15, fracciones I, III, IV, V, VI, 24, inciso 8, 40, 56, 102, primer párrafo, 103, 104, 105, 106, 107, primer párrafo, 108, 109, 110, 112, 113, 114, 115, 116, 117, 118, 208 y 400, fracciones I, III y parte final del artículo, para quedar como sigue:
+
+………
+
+**ARTICULO SEGUNDO.-** Se adiciona una fracción X al artículo 244, para quedar como sigue:
+
+………
+
+**ARTICULO TERCERO.-** Se derogan la fracción IX del artículo 15 y los artículos 57, 78, 79, 80, 81, 82, 83, 88, 89, 296, 309, 344, 345, 346, 347, 348 y 349.
+
+**ARTICULO CUARTO.-** En el Libro Primero se incorporan, en los términos y con la ubicación que a continuación se indican, las denominaciones de los Capítulos VI del Título Segundo y de los Capítulos VII, VIII, IX y X del Título Quinto.
+
+**TRANSITORIOS**
+
+**ARTICULO PRIMERO.-** Las presente (sic DOF 23-12-1985) reformas, adiciones y derogaciones entrarán en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
+
+**ARTICULO SEGUNDO.-** Se concede un plazo de seis meses, a partir de la fecha de vigencia de las presentes reformas, para que las personas obligadas en los términos de la fracción I del Artículo 400, que se reforma, procedan a verificar o regularizar la situación del vehículo de que se trate.
+
+### DECRETO por el que se reforma el Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 10 de enero de 1986*
+
+**ARTICULO PRIMERO.-** Se reforman los artículos 67, 194, 198, y 199, para quedar como sigue:
+
+………
+
+**ARTICULO SEGUNDO.-** Se adiciona el Artículo 172 bis, que quedará como sigue:
+
+………
+
+**ARTICULO TERCERO.-** Las denominaciones y ubicaciones de los Capítulos V del Título Tercero del Libro Primero y I Bis del Titulo Quinto del Libro Segundo del Código Penal, quedarán en los siguientes términos:
+
+………
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** Las presentes reformas y adiciones entrarán en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+### DECRETO por el que se reforma y adiciona el Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República Mexicana en materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 17 de noviembre de 1986*
+
+**ARTICULO PRIMERO.-** Se reforman los artículos 150 y 152 del Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**ARTICULO SEGUNDO.-** Se adiciona con una fracción V y se reforma el último párrafo del artículo 214 del ordenamiento jurídico citado en el anterior numeral, para quedar como sigue:
+
+………
+
+**ARTICULO TERCERO.-** Se reforma la fracción XXVI del Artículo 225 de la misma Ley sustantiva penal invocada en el numeral anterior, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+### DECRETO por el que se reforma y adiciona el Código Penal para el Distrito Federal en Materia de Fuero Federal; el Código Federal de Procedimientos Penales, y la Ley de Vías Generales de Comunicación.
+
+*Publicado en el Diario Oficial de la Federación el 19 de noviembre de 1986*
+
+**ARTICULO 1.-** Se reforma el artículo 62 y se adiciona el 385 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** Las presentes reformas entrarán en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+### DECRETO por el que se reforma y adiciona diversas disposiciones del Código Penal para el Distrito Federal en materia de fuero común, y para toda la República en materia de fuero federal.
+
+*Publicado en el Diario Oficial de la Federación el 3 de enero de 1989*
+
+**ARTICULO PRIMERO.-** Se reforman los artículos 25; 164; 164 bis; 195; 197; 198; 201; el primer párrafo del artículo 205; 206, el primero, penúltimo y último párrafos del artículo 215; 260; 261; 265; 266; el primer párrafo del artículo 266 bis; 320; 324; 372, y el primer párrafo del artículo 266 bis; 320; 324; 372, y el primer párrafo del artículo 381 del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+……..
+
+**ARTICULO SEGUNDO.-** Se adicionan los artículos 213 bis; 315 bis; 366 con un párrafo final y 381 con las fracciones XI a XV, del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+……..
+
+**ARTICULO TERCERO.-** Se reforma la denominación del Capítulo II del Título Octavo del Libro Segundo del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+……..
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Decreto entrará en vigor el día 1o. de febrero de 1989.
+
+### DECRETO que reforma, adiciona y deroga diversas disposiciones del Código Penal para el Distrito Federal en materia de fuero común, y para toda la República en materia de fuero federal; del Código de Procedimientos Penales para el Distrito Federal y del Código Federal de Procedimientos Penales.
+
+*Publicado en el Diario Oficial de la Federación el 31 de octubre de 1989*
+
+**ARTICULO PRIMERO.** Se reforman los artículos 97 y 98 del Código Penal para el Distrito Federal en materia de fuero común y para toda la República en materia de fuero federal para quedar como sigue:
+
+……..
+
+**TRANSITORIOS**
+
+**ARTICULO PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**ARTICULO SEGUNDO.-** Se deroga el artículo 611 del Código de Procedimientos Penales para el Distrito Federal y las demás disposiciones que se opongan al presente Decreto.
+
+### CODIGO Federal de Instituciones y Procedimientos Electorales.
+
+*Publicado en el Diario Oficial de la Federación el 15 de agosto de 1990*
+
+**ARTICULO SEGUNDO.-** Se aprueba la adición del Título Vigesimocuarto al Código Penal para el Distrito Federal en materia de fuero común, y para toda la República en materia de fuero federal para quedar en los siguientes términos:
+
+……..
+
+**TRANSITORIOS**
+
+**PRIMERO.-** La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** Los artículos 409 y 410 que se adicionan entrarán en vigor al día siguiente de que se publique en el Diario Oficial de la Federación, la ley o decreto que contenga las normas relativas al Registro Nacional de Ciudadanos y a la expedición del documento que acredite la ciudadanía.
+
+*Fe de erratas DOF 06-02-1991*
+
+### DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 21 de enero de 1991*
+
+**ARTICULO PRIMERO.-** Se reforman los artículos 199 Bis, 200 Primer Párrafo, 260, 261 Primer Párrafo, 262, 263, 265 Segundo Párrafo que pasa a ser el Tercer Párrafo, 266, 266 Bis, del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**ARTICULO SEGUNDO.-** Se adicionan los Artículos 30 Bis, 200 con dos párrafos que serán penúltimo y último, 259 Bis, 265 con un Párrafo que será el segundo y 365 Bis, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**ARTICULO TERCERO.-** Se derogan los Artículos 267, 268, 270 y 271, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+**ARTICULO CUARTO.-** Se reforma la denominación de Título Decimoquinto, Libro Segundo; y del Capítulo I, del Título Decimoquinto, Libro Segundo, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**ARTICULO QUINTO.-** Se deroga la denominación del Capítulo II, Título Decimoquinto, Libro Segundo, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+**TRANSITORIO**
+
+**UNICO.-** El presente decreto entra en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
+
+### LEY para el tratamiento de Menores Infractores, para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
+
+*Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1991*
+
+**TRANSITORIOS**
+
+**PRIMERO.-** La presente Ley entrará en vigor a los sesenta días siguientes a su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** Se abroga la Ley que crea el Consejo Tutelar para Menores Infractores del Distrito Federal, publicada en el Diario Oficial de la Federación el 2 de agosto de 1974.
+
+**TERCERO.-** Se derogan los artículos 119 a 122, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; 73 a 78 de la Ley Orgánica del Poder Judicial de la Federación, y 503 del Código Federal de Procedimientos Penales; así como los artículos 673 y 674, fracciones II y X, del Código de Procedimientos Penales para el Distrito Federal, únicamente por lo que hace a menores infractores.
+
+**CUARTO.-** Los asuntos que se encuentren en trámite en la fecha en que entre en vigor esta Ley, serán turnados a las áreas competentes que corresponda conocer de los mismos, conforme a la nueva determinación de competencias.
+
+**QUINTO.-** La normatividad de los centros de diagnóstico y tratamiento, deberá expedirse dentro de los noventa días siguientes a la fecha de instalación del Consejo de Menores.
+
+**SEXTO.-** Los consejos auxiliares actualmente existentes conocerán de las faltas administrativas a los reglamentos de policía y buen gobierno en que incurran los menores, en tanto se instaure el órgano competente. Estos consejos únicamente podrán aplicar las medidas de orientación y de protección previstas en la presente Ley.
+
+**SEPTIMO.-** En tanto el Consejo de Menores no haya integrado sus servicios periciales, podrá auxiliarse con los órganos correspondientes de la Procuraduría General de la República, de la Procuraduría General de Justicia del Distrito Federal y del Tribunal Superior de Justicia del Distrito Federal.
+
+### DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Penal Para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, del Código Federal de Procedimientos Penales y del Código de Procedimientos Penales para el Distrito Federal.
+
+*Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1991*
+
+**ARTICULO PRIMERO.-** Se reforman los artículos 51 primer párrafo; 55; 70; 90 fracciones I inciso a), VI, VII Y VIII; 160 primer párrafo; 162 primer párrafo; 173 primer párrafo; 176; 178; 182; 185; 187; 194 fracción II y párrafo segundo, tercero y cuarto; 226; 243; 247 primer párrafo; 248; 249 primer párrafo; 279; 280 primer párrafo; 282 primer párrafo; 289; 336; 336 bis; 341; 380; 386 fracción I y 399-Bis; se adicionan los artículos 65 con un segundo párrafo; 74 con un segundo párrafo; 173 con un párrafo final y 282 con un párrafo final; y se derogan los artículos 171 fracción I; 177; 184; 186; 190; 255; 256; 306 y 400 fracción I tercer párrafo, del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** No será exigible el requisito de querella incorporado con motivo de las reformas a los artículos 173, 282, 341 y 399-Bis del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, en los procedimientos ya instaurados o resueltos al día en que entre en vigor el presente Decreto.
+
+**TERCERO.-** Para los efectos de los artículos 405 del Código Federal de Procedimientos Penales y 562 fracción III del Código de Procedimientos Penales para el Distrito Federal, los jueces y tribunales deberán empezar a aceptar la caución consistente en garantía prendaria, una vez que se cuente con los mecanismos administrativos que se hicieron necesarios.
+
+### DECRETO que adiciona un Artículo 254 Bis al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1991*
+
+**ARTICULO UNICO.-** Se adiciona un artículo 254 bis al Capítulo I, del Título Decimocuarto, del Libro Segundo del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+### DECRETO que modifica el Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 11 de junio de 1992*
+
+**ARTICULO PRIMERO.-** Se modifican los Capítulos I y II del Título Décimo Tercero del Libro Segundo del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar integrado el Primero por los Artículos del 234 al 238 y con la denominación de "Falsificación, alteración y destrucción de moneda", y el Segundo por los Artículos 239 y 240, bajo la denominación de "Falsificación de Títulos al Portador y Documentos de Crédito Público."
+
+**ARTICULO SEGUNDO.-** Se reforman los Artículos 234, 235, 236, 237, 238 y 240 del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+……..
+
+**TRANSITORIOS**
+
+**ARTICULO UNICO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+### DECRETO que adiciona el Artículo 123 del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 17 de julio de 1992*
+
+**ARTICULO UNICO.-** Se adiciona un tercer párrafo a la fracción II del Artículo 123 del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+.........
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+### DECRETO que reforma y adiciona diversas disposiciones del Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal; y de la Ley que establece las normas mínimas sobre readaptación social de sentenciados.
+
+*Publicado en el Diario Oficial de la Federación el 28 de diciembre de 1992*
+
+**ARTICULO PRIMERO.-** Se reforma el primer párrafo del artículo 85, del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**UNICO.-** El presente decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+### DECRETO que reforma, adiciona y deroga diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, del Código Federal de Procedimientos Penales, del Código de Procedimientos Penales para el Distrito Federal, de la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Extradición Internacional, del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, de la Ley Federal de Responsabilidades de los Servidores Públicos, de la Ley Orgánica del Tribunal Fiscal de la Federación, de la Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal, de la Ley Federal para Prevenir y Sancionar la Tortura y de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y de la Ley Orgánica del Poder Judicial de la Federación.
+
+*Publicado en el Diario Oficial de la Federación el 10 de enero de 1994*
+
+**ARTICULO PRIMERO.-** Del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se reforman los artículos: 8, 9, 12 párrafos primero y segundo, 13 primer párrafo y fracciones V, VI y VIII, 15, 16, 17, 29 párrafo segundo, 30 fracciones II y III, 32 fracción VI, 34 párrafo primero, 35 párrafo cuarto, 37, 52, 60 primero y segundo párrafo y la fracción II, 61, 62, 64 segundo párrafo, 64 bis, 65, 66, 71 párrafo primero, 85 párrafo primero, 86 fracción II, 90 inciso b) de la fracción I, y fracciones VII y VIII, 93 párrafo primero, 107 párrafo segundo, 111, 115, 153, 158 primer párrafo, 164 segundo párrafo, 170, 172 bis, 173 primer párrafo, 178, 187, 193, 194, 195, 196, 197, 198, 199, 201 párrafos primero y segundo, 209, 210, 225 fracciones IX, X, XII, XVII y XX, 228 fracción I, 231 párrafo primero, 340, 341, 247 párrafo primero y fracciones II y IV en su primer párrafo, 249 primer párrafo, 250 primer párrafo y fracciones II y IV, 284, 303, 310, 323, 368 fracción I, 388 y 390. Del mismo Código se adicionan: Un párrafo segundo al artículo 7, dos últimos párrafos al artículo 13, un párrafo cuarto al artículo 27, recorriéndose en su orden los actuales párrafos cuarto, quinto y sexto, pasando a ser los párrafos quinto, sexto y séptimo, un artículo 31 bis, un segundo párrafo al artículo 34, recorriéndose en su orden los actuales párrafos segundo y tercero pasando a ser tercero y cuarto, al artículo 35 un último párrafo, un artículo 69 bis, un segundo y quinto párrafos del artículo 93 recorriéndose los actuales párrafos segundo y tercero para ser los párrafos tercero y cuarto, un párrafo tercero y un párrafo cuarto del artículo 110, un artículo 195 bis, un artículo 196 bis, las fracciones III y IV al artículo 231, un artículo 248 bis, un segundo párrafo al artículo 286, un artículo 321 bis, un artículo 336 bis, un artículo 388 bis; y un párrafo segundo del artículo 390 y el apéndice 1; se derogan: los artículos 59 bis, la fracción VI del artículo 60, el último párrafo del artículo 70, el inciso e) de la fracción I del artículo 90, una fracción XXVII al artículo 225, 299, la fracción II del artículo 303, 311, 324, 325, 326, 327, 328, el segundo párrafo de la fracción X del artículo 387; se modifican las denominaciones de los Capítulos Segundo y Cuarto del Título Tercero del Libro Primero; Capítulo I del Título Séptimo del Libro Segundo; del Capítulo Primero del Título Decimonoveno del Libro Segundo, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
+
+**SEGUNDO.-** Con relación a los procedimientos que se sigan por delitos contra la salud, iniciados con anterioridad a la vigencia del presente decreto, continuarán en los términos de las nuevas disposiciones contenidas en ese decreto, aun cuando éstas hayan cambiado de numeración.
+
+**TERCERO.-** A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
+
+**CUARTO.-** Se derogan todas las disposiciones que se opongan al presente decreto.
+
+*Fe de erratas DOF 01-02-1994*
+
+### DECRETO por el que se reforman y adicionan diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+*Publicado en el Diario Oficial de la Federación el 25 de marzo de 1994*
+
+**ARTICULO UNICO.-** Se REFORMAN los artículos 402; el primer párrafo y las fracciones III y IV del artículo 403; el artículo 404; el primer párrafo y las fracciones IV, VII y VIII del artículo 405; el primer párrafo y la fracción V del artículo 406; el primer párrafo y las fracciones I, II, y III del artículo 407; el primer párrafo del artículo 409, y se ADICIONAN las fracciones V, VI, VII, VIII, IX, X, XI, y XII del artículo 403, las fracciones IX, X y XI, del artículo 405 y los artículos 411, 412 y 413, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+### DECRETO que reforma y adiciona diversas disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; del Código Federal de Procedimientos Penales; de la Ley Federal de Armas de Fuego y Explosivos; del Código de Procedimientos Penales para el Distrito Federal; y del Código Fiscal de la Federación.
+
+*Publicado en el Diario Oficial de la Federación el 22 de julio de 1994*
+
+**ARTICULO PRIMERO.-** Se reforma el apéndice 1 a que se refiere el artículo 195 bis del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+
+………
+
+**ARTICULOS TRANSITORIOS**
+
+**PRIMERO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** A las personas que hayan cometido un delito de los contemplados en el presente decreto, con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicadas las disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
+
+**TERCERO.-** Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+
+*Fe de erratas DOF 01-08-1994*
 
 ### DECRETO por el que se reforman, adicionan y derogan diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, del Código Fiscal de la Federación, del Código de Procedimientos Penales para el Distrito Federal y del Código Federal de Procedimientos Penales.
 
@@ -6065,6 +7313,8 @@ Tratándose de concesiones de espectro radioeléctrico, no podrán modificarse e
 
 Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas con anterioridad a la fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
 
+*Párrafo adicionado DOF 15-06-2018*
+
 **OCTAVO.** Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la concesión única podrán consolidar sus títulos en una sola concesión.
@@ -6954,3 +8204,21 @@ Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, President
 Ciudad de México, a 5 de marzo de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 8 de noviembre de 2019*
+
+**Artículo Quinto.** Se adiciona una fracción VIII Bis al Apartado B del artículo 11 Bis del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día 1o. de enero de 2020.
+
+**Segundo.** Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
+
+Ciudad de México, a 15 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
