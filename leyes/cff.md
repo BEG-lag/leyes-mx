@@ -3,12 +3,12 @@ title: Código Fiscal de la Federación
 abbreviation: CFF
 slug: cff
 published_dof: 1981-12-31
-last_reform_dof: 2019-05-16
+last_reform_dof: 2019-11-08
 articles: 395
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/8_160519.doc
-archived: https://web.archive.org/web/20190711023959/http://www.diputados.gob.mx:80/LeyesBiblio/doc/8_160519.doc
-source_sha256: a3c12404ff209375295779d9e0dd5b8eff75629aaaaaef30dc2ce1cfde9727cc
-retrieved: 2019-07-11
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/8_081119.doc
+archived: https://web.archive.org/web/20191221201446/http://www.diputados.gob.mx:80/LeyesBiblio/doc/8_081119.doc
+source_sha256: 5fd5410d3a54cf314589709a71003f7ca161ff33b5c7aecd2ebfe5466ddf8242
+retrieved: 2019-12-21
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm
 ---
 
@@ -18,7 +18,9 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 31 de diciembr
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 16-05-2019
+Última reforma publicada DOF 08-11-2019
+
+> Nota de vigencia: La reforma al artículo 113 Bis y la derogación de la fracción III del artículo 113, publicadas en el DOF 08-11-2019, entrarán en vigor el 1 de enero de 2020.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -3815,11 +3817,19 @@ I. Altere o destruya los aparatos de control, sellos o marcas oficiales colocado
 
 II. Altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras, o al que tenga en su poder marbetes o precintos sin haberlos adquirido legalmente o los enajene, sin estar autorizado para ello.
 
-III. Adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
+III. (Se deroga).
 
 ##### Artículo 113 Bis.
 
-Se impondrá sanción de tres a seis años de prisión, al que expida o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
+Se impondrá sanción de dos a nueve años de prisión, al que por sí o por interpósita persona, expida, enajene, compre o adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
+
+Será sancionado con las mismas penas, al que a sabiendas permita o publique, a través de cualquier medio, anuncios para la adquisición o enajenación de comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
+
+Cuando el delito sea cometido por un servidor público en ejercicio de sus funciones, será destituido del empleo e inhabilitado de uno a diez años para desempeñar cargo o comisión públicos, en adición a la agravante señalada en el artículo 97 de este Código.
+
+Se requerirá querella por parte de la Secretaría de Hacienda y Crédito Público, para proceder penalmente por este delito.
+
+El delito previsto en este artículo, así como el dispuesto en el artículo 400 Bis del Código Penal Federal, se podrán perseguir simultáneamente.
 
 ##### Artículo 114.
 
@@ -7576,3 +7586,21 @@ Ciudad de México, a 17 de diciembre de 2018.- La Jefa del Servicio de Administr
 Ciudad de México, a 8 de abril de 2019.- Sen. Marti Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vazquez Alatorre, Secretaria.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de mayo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 8 de noviembre de 2019*
+
+**Artículo Cuarto.** Se reforma el artículo 113 Bis y se deroga la fracción III del artículo 113 del Código Fiscal de la Federación, para quedar como sigue:
+
+…………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día 1o. de enero de 2020.
+
+**Segundo.** Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
+
+Ciudad de México, a 15 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
