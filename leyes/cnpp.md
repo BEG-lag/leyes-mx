@@ -3,12 +3,12 @@ title: Código Nacional de Procedimientos Penales
 abbreviation: CNPP
 slug: cnpp
 published_dof: 2014-03-05
-last_reform_dof: 2019-08-09
+last_reform_dof: 2019-11-08
 articles: 490
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_090819.doc
-archived: https://web.archive.org/web/20191012071410/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_090819.doc
-source_sha256: 08174ad6ededaad499657cbe1e003f035ce303057bbfa51c645c830c855c9db8
-retrieved: 2019-10-12
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_081119.doc
+archived: https://web.archive.org/web/20191206114218/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_081119.doc
+source_sha256: e819fc88864c357929e1d1c62a4b5ad38ede95b4ca474dde679f01ad5466b1c3
+retrieved: 2019-12-06
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 ---
 
@@ -16,7 +16,9 @@ reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 
 Nuevo Código publicado en el Diario Oficial de la Federación el 5 de marzo de 2014
 
-Última reforma publicada DOF 09-08-2019
+Última reforma publicada DOF 08-11-2019
+
+> Nota de vigencia: Las reformas al párrafo segundo del artículo 187; y al párrafo tercero del artículo 256; y las adiciones de un párrafo séptimo con las fracciones I, II y III, al artículo 167; y de un párrafo tercero al artículo 192, publicadas en el DOF 08-11-2019, entrarán en vigor el 1 de enero de 2020.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -2096,7 +2098,9 @@ Las leyes generales de salud, secuestro y trata de personas establecerán los su
 
 La ley en materia de delincuencia organizada establecerá los supuestos que ameriten prisión preventiva oficiosa.
 
-Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Penal Federal de la manera siguiente:
+Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Penal Federal, de la manera siguiente:
+
+*Párrafo reformado DOF 08-11-2019*
 
 I. Homicidio doloso previsto en los artículos 302 en relación al 307, 313, 315, 315 Bis, 320 y 323;
 
@@ -2119,6 +2123,16 @@ IX. Corrupción de personas menores de dieciocho años de edad o de personas que
 X. Tráfico de menores, previsto en el artículo 366 Ter;
 
 XI. Contra la salud, previsto en los artículos 194, 195, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero.
+
+Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Fiscal de la Federación, de la siguiente manera:
+
+I. Contrabando y su equiparable, de conformidad con lo dispuesto en los artículos 102 y 105, fracciones I y IV, cuando estén a las sanciones previstas en las fracciones II o III, párrafo segundo, del artículo 104, exclusivamente cuando sean calificados;
+
+II. Defraudación fiscal y su equiparable, de conformidad con lo dispuesto en los artículos 108 y 109, cuando el monto de lo defraudado supere 3 veces lo dispuesto en la fracción III del artículo 108 del Código Fiscal de la Federación, exclusivamente cuando sean calificados, y
+
+III. La expedición, venta, enajenación, compra o adquisición de comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados, de conformidad con lo dispuesto en el artículo 113 Bis del Código Fiscal de la Federación, exclusivamente cuando las cifras, cantidad o valor de los comprobantes fiscales, superen 3 veces lo establecido en la fracción III del artículo 108 del Código Fiscal de la Federación.
+
+*Párrafo con fracciones adicionado DOF 08-11-2019*
 
 El juez no impondrá la prisión preventiva oficiosa y la sustituirá por otra medida cautelar, únicamente cuando lo solicite el Ministerio Público por no resultar proporcional para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima y de los testigos o de la comunidad. Dicha solicitud deberá contar con la autorización del titular de la Procuraduría o el funcionario que en él delegue esa facultad.
 
@@ -2376,9 +2390,9 @@ II. Delitos culposos, o
 
 III. Delitos patrimoniales cometidos sin violencia sobre las personas.
 
-No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a los mismos delitos dolosos, tampoco procederán cuando se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas.
+No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a los mismos delitos dolosos, tampoco procederán cuando se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas. Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.
 
-*Párrafo reformado DOF 29-12-2014, 17-06-2016*
+*Párrafo reformado DOF 29-12-2014, 17-06-2016, 08-11-2019*
 
 Tampoco serán procedentes en caso de que el imputado haya incumplido previamente un acuerdo reparatorio, salvo que haya sido absuelto.
 
@@ -2449,6 +2463,10 @@ III. Que hayan transcurrido dos años desde el cumplimiento o cinco años desde 
 Lo señalado en la fracción III del presente artículo, no procederá cuando el imputado haya sido absuelto en dicho procedimiento.
 
 *Párrafo reformado DOF 17-06-2016*
+
+La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.
+
+*Párrafo adicionado DOF 08-11-2019*
 
 ###### Artículo 193.
 
@@ -3188,7 +3206,9 @@ VII. Se deroga.
 
 *Fracción derogada DOF 17-06-2016*
 
-No podrá aplicarse el criterio de oportunidad en los casos de delitos contra el libre desarrollo de la personalidad, de violencia familiar ni en los casos de delitos fiscales o aquellos que afecten gravemente el interés público.
+No podrá aplicarse el criterio de oportunidad en los casos de delitos contra el libre desarrollo de la personalidad, de violencia familiar ni en los casos de delitos fiscales o aquellos que afecten gravemente el interés público. Para el caso de delitos fiscales y financieros, previa autorización de la Secretaría de Hacienda y Crédito Público, a través de la Procuraduría Fiscal de la Federación, únicamente podrá ser aplicado el supuesto de la fracción V, en el caso de que el imputado aporte información fidedigna que coadyuve para la investigación y persecución del beneficiario final del mismo delito, tomando en consideración que será este último quien estará obligado a reparar el daño.
+
+*Párrafo reformado DOF 08-11-2019*
 
 El Ministerio Público aplicará los criterios de oportunidad sobre la base de razones objetivas y sin discriminación, valorando las circunstancias especiales en cada caso, de conformidad con lo dispuesto en el presente Código así como en los criterios generales que al efecto emita el Procurador o equivalente.
 
@@ -5967,3 +5987,21 @@ Los recursos destinados o pendientes de destinarse al Fondo a que se refiere el 
 Ciudad de México, a 25 de julio de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. María de los Dolores Padierna Luna, Vicepresidenta en funciones de Presidente.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de agosto de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 8 de noviembre de 2019*
+
+**Artículo Tercero.** Se reforman el párrafo segundo del artículo 187; y el párrafo tercero del artículo 256; y se adicionan un párrafo séptimo con las fracciones I, II y III, recorriéndose en su orden el subsecuente, al artículo 167; y un párrafo tercero al artículo 192 del Código Nacional de Procedimientos Penales, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día 1o. de enero de 2020.
+
+**Segundo.** Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
+
+Ciudad de México, a 15 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
