@@ -3,12 +3,12 @@ title: Ley General de Responsabilidades Administrativas
 abbreviation: LGRA
 slug: lgra
 published_dof: 2016-07-18
-last_reform_dof: 2019-04-12
-articles: 230
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA_120419.doc
-archived: https://web.archive.org/web/20190711032738/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LGRA_120419.doc
-source_sha256: 2a411da7d688f668dd005b84e28e221d3ea94e5bef84875ca657d06c21247a85
-retrieved: 2019-07-11
+last_reform_dof: 2019-11-19
+articles: 233
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA_191119.doc
+archived: https://web.archive.org/web/20191221225231/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LGRA_191119.doc
+source_sha256: 159d3cc00e8b2f9e49833b279130322edcbfa68558260b657aea5cc278a1544f
+retrieved: 2019-12-21
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgra.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 18 de julio de 201
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 12-04-2019
+Última reforma publicada DOF 19-11-2019
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -174,9 +174,29 @@ VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos
 
 VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;
 
-IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones, y
+IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones;
 
-X. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano.
+*Fracción reformada DOF 19-11-2019*
+
+X. Se abstendrán de asociarse con inversionistas, contratistas o empresarios nacionales o extranjeros, para establecer cualquier tipo de negocio privado que afecte el desempeño imparcial y objetivo en razón de intereses personales o familiares, hasta el cuarto grado por consanguinidad o afinidad;
+
+*Fracción adicionada DOF 19-11-2019*
+
+XI. Separarse legalmente de los activos e intereses económicos que afecten de manera directa el ejercicio de sus responsabilidades en el servicio público y que constituyan conflicto de intereses, de acuerdo con lo establecido en esta Ley, en forma previa a la asunción de cualquier empleo, cargo o comisión;
+
+*Fracción adicionada DOF 19-11-2019*
+
+XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado, y
+
+*Fracción adicionada DOF 19-11-2019*
+
+XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano.
+
+*Fracción recorrida DOF 19-11-2019*
+
+La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión.
+
+*Párrafo adicionado DOF 19-11-2019*
 
 #### Capítulo III · Autoridades competentes para aplicar la presente Ley
 
@@ -508,9 +528,17 @@ VI. Supervisar que los Servidores Públicos sujetos a su dirección, cumplan con
 
 VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;
 
-VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte, y
+VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
 
-IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad.
+*Fracción reformada DOF 19-11-2019*
+
+IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y
+
+*Fracción reformada DOF 19-11-2019*
+
+X. Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.
+
+*Fracción adicionada DOF 19-11-2019*
 
 Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
 
@@ -541,6 +569,10 @@ También incurrirá en cohecho, el servidor público que se abstenga de devolver
 ###### Artículo 53.
 
 Cometerá peculado el servidor público que autorice, solicite o realice actos para el uso o apropiación para sí o para las personas a las que se refiere el artículo anterior, de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.
+
+En términos de lo dispuesto por el párrafo anterior, los servidores públicos no podrán disponer del servicio de miembros de alguna corporación policiaca, seguridad pública o de las fuerzas armadas, en el ejercicio de sus funciones, para otorgar seguridad personal, salvo en los casos en que la normativa que regule su actividad lo contemple o por las circunstancias se considere necesario proveer de dicha seguridad, siempre que se encuentre debidamente justificada a juicio del titular de las propias corporaciones de seguridad y previo informe al Órgano interno de control respectivo o a la Secretaría.
+
+*Párrafo adicionado DOF 19-11-2019*
 
 ###### Artículo 54.
 
@@ -576,9 +608,21 @@ Será obligación del jefe inmediato determinar y comunicarle al servidor públi
 
 Será responsable de contratación indebida el servidor público que autorice cualquier tipo de contratación, así como la selección, nombramiento o designación, de quien se encuentre impedido por disposición legal o inhabilitado por resolución de autoridad competente para ocupar un empleo, cargo o comisión en el servicio público o inhabilitado para realizar contrataciones con los entes públicos, siempre que en el caso de las inhabilitaciones, al momento de la autorización, éstas se encuentren inscritas en el sistema nacional de servidores públicos y particulares sancionados de la Plataforma digital nacional.
 
+Incurrirá en la responsabilidad dispuesta en el párrafo anterior, el servidor público que intervenga o promueva, por sí o por interpósita persona, en la selección, nombramiento o designación de personas para el servicio público en función de intereses de negocios.
+
+*Párrafo adicionado DOF 19-11-2019*
+
 ###### Artículo 60.
 
 Incurrirá en enriquecimiento oculto u ocultamiento de Conflicto de Interés el servidor público que falte a la veracidad en la presentación de las declaraciones de situación patrimonial o de intereses, que tenga como fin ocultar, respectivamente, el incremento en su patrimonio o el uso y disfrute de bienes o servicios que no sea explicable o justificable, o un Conflicto de Interés.
+
+###### Artículo 60 Bis.
+
+Comete simulación de acto jurídico el servidor público que utilice personalidad jurídica distinta a la suya para obtener, en beneficio propio o de algún familiar hasta el cuarto grado por consanguinidad o afinidad, recursos públicos en forma contraria a la ley.
+
+Esta falta administrativa se sancionará con inhabilitación de cinco a diez años.
+
+*Artículo adicionado DOF 19-11-2019*
 
 ###### Artículo 61.
 
@@ -592,6 +636,12 @@ Será responsable de encubrimiento el servidor público que cuando en el ejercic
 
 Cometerá desacato el servidor público que, tratándose de requerimientos o resoluciones de autoridades fiscalizadoras, de control interno, judiciales, electorales o en materia de defensa de los derechos humanos o cualquier otra competente, proporcione información falsa, así como no dé respuesta alguna, retrase deliberadamente y sin justificación la entrega de la información, a pesar de que le hayan sido impuestas medidas de apremio conforme a las disposiciones aplicables.
 
+###### Artículo 63 Bis.
+
+Cometerá nepotismo el servidor público que, valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente, designe, nombre o intervenga para que se contrate como personal de confianza, de estructura, de base o por honorarios en el ente público en que ejerza sus funciones, a personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato.
+
+*Artículo adicionado DOF 19-11-2019*
+
 ###### Artículo 64.
 
 Los Servidores Públicos responsables de la investigación, substanciación y resolución de las Faltas administrativas incurrirán en obstrucción de la justicia cuando:
@@ -603,6 +653,12 @@ II. No inicien el procedimiento correspondiente ante la autoridad competente, de
 III. Revelen la identidad de un denunciante anónimo protegido bajo los preceptos establecidos en esta Ley.
 
 Para efectos de la fracción anterior, los Servidores Públicos que denuncien una Falta administrativa grave o Faltas de particulares, o sean testigos en el procedimiento, podrán solicitar medidas de protección que resulten razonables. La solicitud deberá ser evaluada y atendida de manera oportuna por el Ente público donde presta sus servicios el denunciante.
+
+###### Artículo 64 Bis.
+
+Son faltas administrativas graves las violaciones a las disposiciones sobre fideicomisos establecidas en la Ley Federal de Austeridad Republicana.
+
+*Artículo adicionado DOF 19-11-2019*
 
 #### Capítulo III · De los actos de particulares vinculados con faltas administrativas graves
 
@@ -1911,3 +1967,45 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 5 de marzo de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se expide la Ley Federal de Austeridad Republicana; y se reforman y adicionan diversas disposiciones de la Ley General de Responsabilidades Administrativas y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+*Publicado en el Diario Oficial de la Federación el 19 de noviembre de 2019*
+
+**Artículo Segundo.-** Se adicionan los artículos 7, con las fracciones X, XI y XII, recorriéndose la actual X, para quedar como XIII, y un segundo párrafo; 49, con una fracción X; 53, con un segundo párrafo; 59, con un segundo párrafo; 60 Bis; 63 Bis y 64 Bis de la Ley General de Responsabilidades Administrativas, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, ajustarán sus marcos normativos conforme a lo establecido en la Ley Federal de Austeridad Republicana.
+
+**Tercero.** Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, con el fin de dar cumplimiento a lo previsto por el artículo 9 de la Ley Federal de Austeridad Republicana, realizarán los ajustes necesarios para implementar las compras consolidadas en la adquisición de bienes y servicios, así como la contratación de obra pública y servicios relacionados con la misma de uso generalizado de los entes.
+
+**Cuarto.** Para el caso de las oficinas de representación de las dependencias y entidades de la Administración Pública Federal, éstas, en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, darán cumplimiento a lo dispuesto por el artículo 15 de la Ley Federal de Austeridad Republicana.
+
+**Quinto.** Los lineamientos a que se refiere la Ley Federal de Austeridad Republicana se expedirán en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Dichos lineamientos, entre otras cosas, establecerán las disposiciones relativas a la contratación de personal por honorarios y asesores en las dependencias de la Administración Pública Federal.
+
+La eliminación de las plazas de Dirección General Adjunta creadas a partir del ejercicio fiscal 2001, y que no cumplan con lo dispuesto en la fracción III del artículo 12 de la Ley Federal de Austeridad Republicana estará sujeta a lo previsto en el artículo transitorio segundo.
+
+**Sexto.** Se prohíbe y se cancela cualquier otro tipo de pensión que se hubiere creado exprofeso para el beneficio de los extitulares del Ejecutivo Federal.
+
+Asimismo, queda prohibida la asignación a extitulares del Ejecutivo Federal, de cualquier tipo de servidores públicos, personal civil o de las fuerzas armadas, cuyos costos sean cubiertos con recursos del Estado, así como de los bienes muebles o inmuebles que estén a su disposición y formen parte del patrimonio federal. Por lo que a partir de que esta Ley entre en vigencia, dichos recursos humanos y materiales se reintegrarán a las dependencias correspondientes.
+
+**Séptimo.** Dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, las secretarías de la Función Pública y de Hacienda y Crédito Público emitirán los Lineamientos para la operación y funcionamiento del Comité de Evaluación.
+
+La presidencia de dicho Comité estará a cargo de las secretarías de Hacienda y Crédito Público y de la Función Pública, quienes desempeñarán esta función en forma alterna por los periodos que señalen los Lineamientos a que se refiere el párrafo anterior.
+
+**Octavo.** En un plazo de hasta ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto, las Secretarías de la Función Pública y de Hacienda y Crédito Público analizarán la normatividad, las estructuras, patrimonio, objetivos, eficiencia y eficacia de los fideicomisos públicos, fondos, mandatos públicos o contratos análogos que reciban recursos públicos federales. El análisis será publicado a través de un Informe, el cual será remitido a la Cámara de Diputados. El resultado correspondiente a cada fideicomiso deberá ser tomado en cuenta por el Poder Ejecutivo Federal para la elaboración del Proyecto de Presupuesto de Egresos de la Federación correspondiente.
+
+**Noveno.** La Secretaría podrá convenir con las principales instituciones educativas especializadas en administración pública del país, convenios de colaboración para la capacitación y profesionalización del personal de los entes públicos de la Administración Pública Federal, en materia de construcción de indicadores y mejora continua de procesos que permitan identificar áreas de oportunidad para lograr un gasto austero, responsable, eficiente y eficaz.
+
+**Décimo.** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Ciudad de México, a 8 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Verónica Delgadillo García, Secretaria.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
