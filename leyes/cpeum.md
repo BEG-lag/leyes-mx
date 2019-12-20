@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2019-08-09
+last_reform_dof: 2019-12-20
 articles: 136
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_090819.doc
-archived: https://web.archive.org/web/20190828161604/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_090819.doc
-source_sha256: a350dbc7ea287eb251353cf4f84d3e6533cccb516ded9b58e076220ccf6a4500
-retrieved: 2019-08-28
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_201219.doc
+archived: https://web.archive.org/web/20200131162706/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_201219.doc
+source_sha256: d7480cf0a5a58f1d491be132dfa3b632a7c1f36374615cf2110e3ff2fad8250e
+retrieved: 2020-01-31
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,9 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-08-2019
-
-> Nota de vigencia: Las reformas al primer párrafo del Apartado B del artículo 123 y la Base XI del Apartado A del artículo 122 relativas al régimen jurídico de las relaciones de trabajo entre la Ciudad de México y sus trabajadores, publicadas por Decreto DOF 29-01-2016, en materia de la reforma política de la Ciudad de México, entrarán en vigor a partir del 1 de enero de 2020.
+Última reforma publicada DOF 20-12-2019
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -1402,11 +1400,13 @@ VI. Poder ser nombrado para cualquier empleo o comisión del servicio público, 
 
 *Fracción adicionada DOF 09-08-2012*
 
-VII. Iniciar leyes, en los términos y con los requisitos que señalen esta Constitución y la Ley del Congreso. El Instituto Nacional Electoral tendrá las facultades que en esta materia le otorgue la ley, y
+VII. Iniciar leyes, en los términos y con los requisitos que señalen esta Constitución y la Ley del Congreso. El Instituto Nacional Electoral tendrá las facultades que en esta materia le otorgue la ley;
 
-*Fracción adicionada DOF 09-08-2012. Reformada DOF 10-02-2014*
+*Fracción adicionada DOF 09-08-2012. Reformada DOF 10-02-2014, 20-12-2019*
 
-VIII. Votar en las consultas populares sobre temas de trascendencia nacional, las que se sujetarán a lo siguiente:
+VIII. Votar en las consultas populares sobre temas de trascendencia nacional o regional, las que se sujetarán a lo siguiente:
+
+*Párrafo reformado DOF 20-12-2019*
 
 1o. Serán convocadas por el Congreso de la Unión a petición de:
 
@@ -1414,19 +1414,33 @@ a) El Presidente de la República;
 
 b) El equivalente al treinta y tres por ciento de los integrantes de cualquiera de las Cámaras del Congreso de la Unión; o
 
-c) Los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores, en los términos que determine la ley.
+c) Para el caso de las consultas populares de temas de trascendencia nacional, los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores, en los términos que determine la ley.
 
-Con excepción de la hipótesis prevista en el inciso c) anterior, la petición deberá ser aprobada por la mayoría de cada Cámara del Congreso de la Unión,
+Para el caso de las consultas populares de temas de trascendencia regional competencia de la Federación, los ciudadanos de una o más entidades federativas, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores de la entidad o entidades federativas que correspondan, en los términos que determine la ley.
+
+*Inciso reformado DOF 20-12-2019*
+
+Con excepción de las hipótesis previstas en el inciso c) anterior, la petición deberá ser aprobada por la mayoría de cada Cámara del Congreso de la Unión;
+
+*Párrafo reformado DOF 20-12-2019*
 
 2o. Cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo federales y para las autoridades competentes;
 
-3o. No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por esta Constitución; los principios consagrados en el artículo 40 de la misma; la materia electoral; los ingresos y gastos del Estado; la seguridad nacional y la organización, funcionamiento y disciplina de la Fuerza Armada permanente. La Suprema Corte de Justicia de la Nación resolverá, previo a la convocatoria que realice el Congreso de la Unión, sobre la constitucionalidad de la materia de la consulta;
+3o. No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte, ni las garantías para su protección; los principios consagrados en el artículo 40 de la misma; la permanencia o continuidad en el cargo de los servidores públicos de elección popular; la materia electoral; el sistema financiero, ingresos, gastos y el Presupuesto de Egresos de la Federación; las obras de infraestructura en ejecución; la seguridad nacional y la organización, funcionamiento y disciplina de la Fuerza Armada permanente. La Suprema Corte de Justicia de la Nación resolverá, previo a la convocatoria que realice el Congreso de la Unión, sobre la constitucionalidad de la materia de la consulta;
 
-4o. El Instituto Nacional Electoral tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 1o. de la presente fracción, así como la organización, desarrollo, cómputo y declaración de resultados;
+*Apartado reformado DOF 20-12-2019*
 
-*Apartado reformado DOF 10-02-2014*
+4o. El Instituto Nacional Electoral tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 1o. de la presente fracción, así como la organización, difusión, desarrollo, cómputo y declaración de resultados.
 
-5o. La consulta popular se realizará el mismo día de la jornada electoral federal;
+El Instituto promoverá la participación de los ciudadanos en las consultas populares y será la única instancia a cargo de la difusión de las mismas. La promoción deberá ser imparcial y de ninguna manera podrá estar dirigida a influir en las preferencias de la ciudadanía, sino que deberá enfocarse en promover la discusión informada y la reflexión de los ciudadanos. Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos sobre las consultas populares.
+
+Durante el tiempo que comprende el proceso de consulta popular, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno, salvo aquellas que tengan como fin difundir campañas de información de las autoridades electorales, las relativas a los servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia;
+
+*Apartado reformado DOF 10-02-2014, 20-12-2019*
+
+5o. Las consultas populares convocadas conforme a la presente fracción, se realizarán el primer domingo de agosto;
+
+*Apartado reformado DOF 20-12-2019*
 
 6o. Las resoluciones del Instituto Nacional Electoral podrán ser impugnadas en los términos de lo dispuesto en la fracción VI del artículo 41, así como de la fracción III del artículo 99 de esta Constitución; y
 
@@ -1435,6 +1449,40 @@ Con excepción de la hipótesis prevista en el inciso c) anterior, la petición 
 7o. Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción.
 
 *Fracción adicionada DOF 09-08-2012*
+
+IX. Participar en los procesos de revocación de mandato.
+
+El que se refiere a la revocación de mandato del Presidente de la República, se llevará a cabo conforme a lo siguiente:
+
+1o. Será convocado por el Instituto Nacional Electoral a petición de los ciudadanos y ciudadanas, en un número equivalente, al menos, al tres por ciento de los inscritos en la lista nominal de electores, siempre y cuando en la solicitud correspondan a por lo menos diecisiete entidades federativas y que representen, como mínimo, el tres por ciento de la lista nominal de electores de cada una de ellas.
+
+El Instituto, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato.
+
+2o. Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional.
+
+Los ciudadanos y ciudadanas podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
+
+3o. Se realizará mediante votación libre, directa y secreta de ciudadanos y ciudadanas inscritos en la lista nominal, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales, federal o locales.
+
+4o. Para que el proceso de revocación de mandato sea válido deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores. La revocación de mandato sólo procederá por mayoría absoluta.
+
+5o. El Instituto Nacional Electoral tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato del titular del Poder Ejecutivo Federal, los cuales podrán ser impugnados ante la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, en los términos de lo dispuesto en la fracción VI del artículo 41, así como en la fracción III del artículo 99.
+
+6o. La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación realizará el cómputo final del proceso de revocación de mandato, una vez resueltas las impugnaciones que se hubieren interpuesto. En su caso, emitirá la declaratoria de revocación y se estará a lo dispuesto en el artículo 84.
+
+7o. Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato.
+
+El Instituto y los organismos públicos locales, según corresponda, promoverán la participación ciudadana y serán la única instancia a cargo de la difusión de los mismos. La promoción será objetiva, imparcial y con fines informativos.
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos y ciudadanas.
+
+Durante el tiempo que comprende el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno.
+
+Los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.
+
+8o. El Congreso de la Unión emitirá la ley reglamentaria.
+
+*Fracción con apartados adicionada DOF 20-12-2019*
 
 ##### Artículo 36.
 
@@ -1450,9 +1498,9 @@ II. Formar parte de los cuerpos de reserva en términos de ley;
 
 *Fracción reformada DOF 26-03-2019*
 
-III. Votar en las elecciones y en las consultas populares, en los términos que señale la ley;
+III. Votar en las elecciones, las consultas populares y los procesos de revocación de mandato, en los términos que señale la ley;
 
-*Fracción reformada DOF 22-08-1996, 09-08-2012*
+*Fracción reformada DOF 22-08-1996, 09-08-2012, 20-12-2019*
 
 IV. Desempeñar los cargos de elección popular de la Federación o de las entidades federativas, que en ningún caso serán gratuitos; y
 
@@ -1726,13 +1774,21 @@ b) Para los procesos electorales federales:
 
 7\. Las demás que determine la ley.
 
-El Instituto Nacional Electoral asumirá mediante convenio con las autoridades competentes de las entidades federativas que así lo soliciten, la organización de procesos electorales locales, en los términos que disponga la legislación aplicable. A petición de los partidos políticos y con cargo a sus prerrogativas, en los términos que establezca la ley, podrá organizar las elecciones de sus dirigentes.
+c) Para los procesos de revocación de mandato, en los términos del artículo 35, fracción IX, el Instituto Nacional Electoral deberá realizar aquellas funciones que correspondan para su debida implementación.
+
+*Inciso adicionado DOF 20-12-2019*
+
+El Instituto Nacional Electoral asumirá mediante convenio con las autoridades competentes de las entidades federativas que así lo soliciten la organización de procesos electorales, de consulta popular y de revocación de mandato en el ámbito de aquéllas, en los términos que disponga su Constitución y la legislación aplicable. A petición de los partidos políticos y con cargo a sus prerrogativas, en los términos que establezca la ley, podrá organizar las elecciones de sus dirigentes.
+
+*Párrafo reformado DOF 20-12-2019*
 
 La fiscalización de las finanzas de los partidos políticos y de las campañas de los candidatos estará a cargo del Consejo General del Instituto Nacional Electoral. La ley desarrollará las atribuciones del Consejo para la realización de dicha función, así como la definición de los órganos técnicos dependientes del mismo, responsables de realizar las revisiones e instruir los procedimientos para la aplicación de las sanciones correspondientes. En el cumplimiento de sus atribuciones, el Consejo General no estará limitado por los secretos bancario, fiduciario y fiscal, y contará con el apoyo de las autoridades federales y locales.
 
 En caso de que el Instituto Nacional Electoral delegue la función de fiscalización, su órgano técnico será el conducto para superar la limitación a que se refiere el párrafo anterior.
 
-Apartado C. En las entidades federativas las elecciones locales estarán a cargo de organismos públicos locales en los términos de esta Constitución, que ejercerán funciones en las siguientes materias:
+Apartado C. En las entidades federativas, las elecciones locales y, en su caso, las consultas populares y los procesos de revocación de mandato, estarán a cargo de organismos públicos locales en los términos de esta Constitución, que ejercerán funciones en las siguientes materias:
+
+*Párrafo reformado DOF 20-12-2019*
 
 1\. Derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
 
@@ -1770,7 +1826,9 @@ Apartado D. El Servicio Profesional Electoral Nacional comprende la selección, 
 
 *Fracción reformada DOF 10-02-2014*
 
-VI. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos del artículo 99 de esta Constitución.
+VI. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, incluidos los relativos a los procesos de consulta popular y de revocación de mandato, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, de consulta popular y de revocación de mandato, y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos del artículo 99 de esta Constitución.
+
+*Párrafo reformado DOF 20-12-2019*
 
 En materia electoral la interposición de los medios de impugnación, constitucionales o legales, no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
@@ -2812,9 +2870,9 @@ Se deposita el ejercicio del Supremo Poder Ejecutivo de la Unión en un solo ind
 
 ##### Artículo 81.
 
-La elección del Presidente será directa y en los términos que disponga la ley electoral.
+La elección del presidente será directa y en los términos que disponga la ley electoral. El cargo de presidente de los Estados Unidos Mexicanos puede ser revocado en los términos establecidos en esta Constitución.
 
-*Artículo original DOF 05-02-1917*
+*Artículo reformado DOF 20-12-2019*
 
 ##### Artículo 82.
 
@@ -2865,6 +2923,10 @@ Si el Congreso no estuviere en sesiones, la Comisión Permanente lo convocará i
 Cuando la falta absoluta del Presidente ocurriese en los cuatro últimos años del período respectivo, si el Congreso de la Unión se encontrase en sesiones, designará al presidente substituto que deberá concluir el período, siguiendo, en lo conducente, el mismo procedimiento que en el caso del presidente interino.
 
 Si el Congreso no estuviere reunido, la Comisión Permanente lo convocará inmediatamente a sesiones extraordinarias para que se constituya en Colegio Electoral y nombre un presidente substituto siguiendo, en lo conducente, el mismo procedimiento que en el caso del presidente interino.
+
+En caso de haberse revocado el mandato del Presidente de la República, asumirá provisionalmente la titularidad del Poder Ejecutivo quien ocupe la presidencia del Congreso; dentro de los treinta días siguientes, el Congreso nombrará a quien concluirá el período constitucional. En ese período, en lo conducente, se aplicará lo dispuesto en los párrafos primero, segundo, quinto y sexto.
+
+*Párrafo adicionado DOF 20-12-2019*
 
 *Artículo reformado DOF 24-11-1923, 29-04-1933, 09-08-2012*
 
@@ -3208,7 +3270,9 @@ Las salas Superior y regionales del Tribunal sólo podrán declarar la nulidad d
 
 La Sala Superior realizará el cómputo final de la elección de Presidente de los Estados Unidos Mexicanos, una vez resueltas las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular, en su caso, la declaración de validez de la elección y la de Presidente Electo respecto del candidato que hubiese obtenido el mayor número de votos.
 
-III. Las impugnaciones de actos y resoluciones de la autoridad electoral federal, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales;
+III. Las impugnaciones de actos y resoluciones de la autoridad electoral federal, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales, así como en materia de revocación de mandato;
+
+*Fracción reformada DOF 20-12-2019*
 
 IV. Las impugnaciones de actos o resoluciones definitivos y firmes de las autoridades competentes de las entidades federativas para organizar y calificar los comicios o resolver las controversias que surjan durante los mismos, que puedan resultar determinantes para el desarrollo del proceso respectivo o el resultado final de las elecciones. Esta vía procederá solamente cuando la reparación solicitada sea material y jurídicamente posible dentro de los plazos electorales y sea factible antes de la fecha constitucional o legalmente fijada para la instalación de los órganos o la toma de posesión de los funcionarios elegidos;
 
@@ -4062,7 +4126,9 @@ El poder público de los estados se dividirá, para su ejercicio, en Ejecutivo, 
 
 Los poderes de los Estados se organizarán conforme a la Constitución de cada uno de ellos, con sujeción a las siguientes normas:
 
-I. Los gobernadores de los Estados no podrán durar en su encargo más de seis años.
+I. Los gobernadores de los Estados no podrán durar en su encargo más de seis años y su mandato podrá ser revocado. Las Constituciones de los Estados establecerán las normas relativas a los procesos de revocación de mandato del gobernador de la entidad.
+
+*Párrafo reformado DOF 20-12-2019*
 
 La elección de los gobernadores de los Estados y de las Legislaturas Locales será directa y en los términos que dispongan las leyes electorales respectivas.
 
@@ -4364,9 +4430,15 @@ Los informes de auditoría de la entidad de fiscalización de la Ciudad de Méxi
 
 El titular de la entidad de fiscalización de la Ciudad de México será electo por las dos terceras partes de los miembros presentes de la Legislatura por un periodo no menor de siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
 
-III. El titular del Poder Ejecutivo se denominará Jefe de Gobierno de la Ciudad de México y tendrá a su cargo la administración pública de la entidad; será electo por votación universal, libre, secreta y directa, y no podrá durar en su encargo más de seis años. Quien haya ocupado la titularidad del Ejecutivo local designado o electo, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni con el carácter de interino, provisional, sustituto o encargado del despacho.
+III. El titular del Poder Ejecutivo se denominará Jefe de Gobierno de la Ciudad de México y tendrá a su cargo la administración pública de la entidad; será electo por votación universal, libre, secreta y directa, no podrá durar en su encargo más de seis años y su mandato podrá ser revocado. Quien haya ocupado la titularidad del Ejecutivo local designado o electo, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni con el carácter de interino, provisional, sustituto o encargado del despacho.
+
+*Párrafo reformado DOF 20-12-2019*
 
 La Constitución Política de la Ciudad de México establecerá las facultades del Jefe de Gobierno y los requisitos que deberá reunir quien aspire a ocupar dicho encargo.
+
+La Constitución Política de la Ciudad de México establecerá las normas relativas al proceso para la revocación de mandato del Jefe de Gobierno.
+
+*Párrafo adicionado DOF 20-12-2019*
 
 IV. El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, el Consejo de la Judicatura y los juzgados y tribunales que establezca la Constitución Política de la Ciudad de México, la que garantizará la independencia de los magistrados y jueces en el ejercicio de sus funciones. Las leyes locales establecerán las condiciones para el ingreso, formación, permanencia y especialización de quienes integren el poder Judicial.
 
@@ -8183,3 +8255,31 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 31 de julio de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Sen. Mónica Fernández Balboa, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de agosto de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Consulta Popular y Revocación de Mandato.
+
+*Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2019*
+
+**Artículo Único.** Se reforman el primer párrafo, el apartado 1o. en su inciso c) y párrafo segundo, los apartados 3o., 4o. y 5o., de la fracción VIII del artículo 35; la fracción III del artículo 36; el segundo párrafo del Apartado B de la fracción V, el primer párrafo del Apartado C, y el primer párrafo de la fracción VI, del artículo 41; el artículo 81; la fracción III del párrafo cuarto del artículo 99; el primer párrafo de la fracción I, del párrafo segundo del artículo 116; la fracción III del Apartado A, del artículo 122; se adicionan una fracción IX al artículo 35; un inciso c) al Apartado B de la fracción V del artículo 41; un párrafo séptimo al artículo 84; un tercer párrafo a la fracción III del Apartado A del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Dentro de los 180 días siguientes a la publicación de este Decreto, el Congreso de la Unión deberá expedir la ley a que se refiere el Apartado 8o. de la fracción IX del artículo 35.
+
+**Tercero.** Para efectos de la revocación de mandato a que hace referencia esta Constitución tanto a nivel federal como local, deberá entenderse como el instrumento de participación solicitado por la ciudadanía para determinar la conclusión anticipada en el desempeño del cargo a partir de la pérdida de la confianza.
+
+**Cuarto.** En el caso de solicitarse el proceso de revocación de mandato del Presidente de la República electo para el periodo constitucional 2018-2024, la solicitud de firmas comenzará durante el mes de noviembre y hasta el 15 de diciembre del año 2021. La petición correspondiente deberá presentarse dentro de los primeros quince días del mes de diciembre de 2021. En el supuesto de que la solicitud sea procedente, el Instituto Nacional Electoral emitirá la convocatoria dentro de los veinte días siguientes al vencimiento del plazo para la presentación de la solicitud. La jornada de votación será a los sesenta días de expedida la convocatoria.
+
+**Quinto.** El ejercicio de las atribuciones que esta Constitución le confiere al Instituto Nacional Electoral en materia de consultas populares y revocación de mandato, se cubrirán con base en la disponibilidad presupuestaria para el presente ejercicio y los subsecuentes.
+
+**Sexto.** Las constituciones de las entidades federativas, dentro de los dieciocho meses siguientes a la entrada en vigor del presente Decreto, deberán garantizar el derecho ciudadano a solicitar la revocación de mandato de la persona titular del Poder Ejecutivo local. La solicitud deberá plantearse durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional, por un número equivalente, al menos, al diez por ciento de la lista nominal de electores de la entidad federativa, en la mitad más uno de los municipios o alcaldías de la entidad; podrá llevarse a cabo en una sola ocasión durante el periodo constitucional, mediante votación libre, directa y secreta; será vinculante cuando la participación corresponda como mínimo al cuarenta por ciento de dicha lista y la votación sea por mayoría absoluta. La jornada de votación se efectuará en fecha posterior y no coincidente con procesos electorales o de participación ciudadana locales o federales y quien asuma el mandato del ejecutivo revocado concluirá el periodo constitucional.
+
+Las entidades federativas que hubieren incorporado la revocación de mandato del Ejecutivo local con anterioridad a este Decreto armonizarán su orden jurídico de conformidad con las presentes reformas y adiciones, sin demérito de la aplicación de la figura para los encargos iniciados durante la vigencia de dichas normas.
+
+Ciudad de México, a 28 de noviembre 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Maribel Martínez Ruiz, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 19 de diciembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
