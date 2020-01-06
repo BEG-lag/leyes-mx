@@ -3,12 +3,12 @@ title: Ley de Aguas Nacionales
 abbreviation: LAN
 slug: lan
 published_dof: 1992-12-01
-last_reform_dof: 2016-03-24
+last_reform_dof: 2020-01-06
 articles: 193
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/16_240316.doc
-archived: https://web.archive.org/web/20181105063857/http://www.diputados.gob.mx:80/LeyesBiblio/doc/16_240316.doc
-source_sha256: 92fcb33454e16d6dad51ffa3bee994e4e3224180bf7add19660b5ff7880ea8ca
-retrieved: 2018-11-05
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/16_060120.doc
+archived: https://web.archive.org/web/20200131180655/http://www.diputados.gob.mx:80/LeyesBiblio/doc/16_060120.doc
+source_sha256: 51520dbfe23b622eacfa0a1ac653a0ad70c80282fcc7168525cb7e738b5e0e17
+retrieved: 2020-01-31
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lan.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de diciembre d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 24-03-2016
+Última reforma publicada DOF 06-01-2020
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -2649,6 +2649,10 @@ V. Hacer del conocimiento de "la Autoridad del Agua" los contaminantes presentes
 
 VI. Informar a "la Autoridad del Agua" de cualquier cambio en sus procesos, cuando con ello se ocasionen modificaciones en las características o en los volúmenes de las aguas residuales contenidas en el permiso de descarga correspondiente;
 
+VI Bis. Adoptar dentro de sus procesos, la utilización de materiales biodegradables, siempre y cuando técnicamente sean viables, atendiendo a las disposiciones reglamentarias en la materia;
+
+*Fracción adicionada DOF 06-01-2020*
+
 VII. Operar y mantener por sí o por terceros las obras e instalaciones necesarias para el manejo y, en su caso, el tratamiento de las aguas residuales, así como para asegurar el control de la calidad de dichas aguas antes de su descarga a cuerpos receptores;
 
 VIII. Conservar al menos por cinco años el registro de la información sobre el monitoreo que realicen;
@@ -3303,19 +3307,21 @@ XXIV. Explotar, usar o aprovechar bienes nacionales determinados en los Artícul
 
 ##### ARTÍCULO 120.
 
-Las faltas a que se refiere el Artículo anterior serán sancionadas administrativamente por "la Autoridad del Agua" con multas que serán equivalentes a los siguientes días del salario mínimo general vigente en el Distrito Federal en el momento en que se cometa la infracción, independientemente de las sanciones estipuladas en la Ley General de Equilibrio Ecológico y la Protección al Ambiente, Ley de Bienes Nacionales y Ley Federal de Metrología y Normalización y sus reglamentos, las Normas Oficiales Mexicanas, el Código Penal Federal y demás disposiciones aplicables en la materia:
+Las faltas a que se refiere el Artículo anterior serán sancionadas administrativamente por "la Autoridad del Agua" con multas que serán equivalentes al valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometa la infracción, y en las cantidades que a continuación se expresan; lo anterior, independientemente de las sanciones estipuladas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley de Bienes Nacionales y Ley Federal de Metrología y Normalización y sus reglamentos, las Normas Oficiales Mexicanas, el Código Penal Federal y demás disposiciones aplicables en la materia:
 
-I. 200 a 1,500, en el caso de violación a las fracciones X, XI, XVI, XXI y XXII;
+*Párrafo reformado DOF 06-01-2020*
 
-*Fracción reformada DOF 08-06-2012*
+I. 260 a 1,950 Unidades de Medida y Actualización, en el caso de violación a las fracciones X, XI, XVI, XXI y XXII;
 
-II. 1,200 a 5,000, en el caso de violaciones a las fracciones I, VI, XII, XVIII y XIX, y
+*Fracción reformada DOF 08-06-2012, 06-01-2020*
 
-*Fracción reformada DOF 08-06-2012*
+II. 1,560 a 6,500 Unidades de Medida y Actualización, en el caso de violaciones a las fracciones I, VI, XII, XVIII y XIX, y
 
-III. 1,500 a 20,000, en el caso de violación a las fracciones II, III, IV, V, VII, VIII, IX, XIII, XIV, XV, XVII, XX, XXIII y XXIV.
+*Fracción reformada DOF 08-06-2012, 06-01-2020*
 
-*Fracción reformada DOF 08-06-2012*
+III. 1,950 a 26,000 Unidades de Medida y Actualización, en el caso de violación a las fracciones II, III, IV, V, VII, VIII, IX, XIII, XIV, XV, XVII, XX, XXIII y XXIV.
+
+*Fracción reformada DOF 08-06-2012, 06-01-2020*
 
 En los casos previstos en la fracción IX del Artículo anterior, los infractores perderán en favor de la Nación las obras de alumbramiento y aprovechamiento de aguas y se retendrá o conservará en depósito o custodia la maquinaria y equipo de perforación, hasta que se reparen los daños ocasionados en los términos de Ley, sin menoscabo de otras sanciones administrativas y penales aplicables.
 
@@ -3724,3 +3730,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 25 de febrero de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. César Octavio Pedroza Gaitán, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintidós de marzo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforma el primer párrafo del artículo 120 y se adiciona una fracción VI Bis al artículo 88 Bis, de la Ley de Aguas Nacionales.
+
+*Publicado en el Diario Oficial de la Federación el 6 de enero de 2020*
+
+**Artículo Único.-** Se reforma el primer párrafo y las fracciones I, II y III del artículo 120 y se adiciona una fracción VI Bis al artículo 88 BIS, de la Ley de Aguas Nacionales, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Ciudad de México, a 21 de noviembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Mónica Bautista Rodríguez, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
