@@ -3,12 +3,12 @@ title: Ley de Ingresos sobre Hidrocarburos
 abbreviation: LIH
 slug: lih
 published_dof: 2014-08-11
-last_reform_dof: 2018-12-24
+last_reform_dof: 2020-01-17
 articles: 64
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_241218.doc
-archived: https://web.archive.org/web/20190203105650/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LIH_241218.doc
-source_sha256: e496e2a4bda3940f27b4d6fc03b17b2a36b108f94c5d1db5cdae4bb5b2176faa
-retrieved: 2019-02-03
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_170120.doc
+archived: https://web.archive.org/web/20200131180742/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LIH_170120.doc
+source_sha256: b627ac123a705a181855b8e0889120c23ffb7b40d8abd87b04b2272e376de2dc
+retrieved: 2020-01-31
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lih.htm
 ---
 
@@ -18,9 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 11 de agosto de 20
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 07-12-2016
+Última reforma publicada DOF 09-12-2019
 
-Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 24-12-2018
+Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 17-01-2020
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -586,7 +586,9 @@ El registro y reconocimiento de costos, gastos, inversiones e ingresos que se re
 
 ##### Artículo 39.
 
-Los Asignatarios pagarán anualmente el derecho por la utilidad compartida aplicando una tasa del 65% a la diferencia que resulte de disminuir del valor de los Hidrocarburos extraídos durante el ejercicio fiscal de que se trate, incluyendo el consumo que de estos productos efectúe el Asignatario, así como las mermas por derramas o quema de dichos productos, las deducciones permitidas en el artículo 40 de esta Ley.
+Los Asignatarios pagarán anualmente el derecho por la utilidad compartida aplicando una tasa del 54% a la diferencia que resulte de disminuir del valor de los Hidrocarburos extraídos durante el ejercicio fiscal de que se trate, incluyendo el consumo que de estos productos efectúe el Asignatario, así como las mermas por derramas o quema de dichos productos, las deducciones permitidas en el artículo 40 de esta Ley.
+
+*Párrafo reformado DOF 09-12-2019*
 
 El derecho a que se refiere este artículo se enterará mediante declaración que se presentará ante las oficinas autorizadas a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
 
@@ -642,7 +644,9 @@ Para los efectos de las fracciones I y II de este artículo se considerará como
 
 ##### Artículo 42.
 
-A cuenta del derecho a que se refiere el artículo 39 de esta Ley se harán pagos provisionales mensuales, a más tardar el último día hábil del mes posterior a aquél a que correspondan los pagos provisionales, aplicando la tasa establecida en el primer párrafo del artículo 39 al valor de los Hidrocarburos extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, disminuyéndose de dicho valor los siguientes conceptos:
+A cuenta del derecho a que se refiere el artículo 39 de esta Ley se harán pagos provisionales mensuales, a más tardar el día 25 del mes posterior a aquél al que correspondan los pagos provisionales; cuando el mencionado día sea inhábil, el pago se deberá realizar al siguiente día hábil. Los pagos provisionales mensuales se calcularán aplicando la tasa establecida en el primer párrafo del artículo 39 al valor de los Hidrocarburos extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, disminuyéndose de dicho valor los siguientes conceptos:
+
+*Párrafo reformado DOF 09-12-2019*
 
 I. Los costos, gastos y la parte proporcional de las inversiones correspondientes al mismo periodo conforme a lo dispuesto en el artículo 40 de esta Ley, sin que excedan de los montos máximos en los siguientes términos:
 
@@ -722,7 +726,9 @@ XX. Aquéllos que no sean estrictamente indispensables para las actividades por 
 
 ##### Artículo 44.
 
-El Asignatario estará obligado a pagar mensualmente el derecho de extracción de hidrocarburos, aplicando la tasa que corresponda de conformidad con las fracciones I a III de este artículo al valor del Hidrocarburo de que se trate extraído en el mes. Las tasas se determinarán empleando los precios de los Hidrocarburos en dólares por unidad, según corresponda, conforme a lo siguiente:
+El Asignatario estará obligado a pagar mensualmente el derecho de extracción de hidrocarburos, a más tardar el día 25 del mes posterior a aquél al que corresponda el pago; cuando el mencionado día sea inhábil, el pago se deberá realizar al siguiente día hábil. El pago mensual se calculará aplicando la tasa que corresponda de conformidad con las fracciones I a III de este artículo al valor del Hidrocarburo de que se trate extraído en el mes. Las tasas se determinarán empleando los precios de los Hidrocarburos en dólares por unidad, según corresponda, conforme a lo siguiente:
+
+*Párrafo reformado DOF 09-12-2019*
 
 I. Al valor del Petróleo, se le aplicará la siguiente tasa:
 
@@ -779,10 +785,14 @@ El Asignatario estará obligado al pago mensual del derecho de exploración de h
 
 |   |   |
 |---|---|
-| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,355.82 pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada DOF 01-04-2016, 06-01-2017,<br>24-12-2018 |
-| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,242.17 pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada DOF 01-04-2016, 06-01-2017,<br>24-12-2018 |
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,396.09 pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020 |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,338.46 pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020 |
 
 Las cuotas del derecho de exploración de hidrocarburos se actualizarán cada año en el mes de enero, de acuerdo a la variación en el Índice Nacional de Precios al Consumidor en el año inmediato anterior.
+
+La declaración de pago del derecho a que se refiere el presente artículo se presentará a más tardar el día 17 del mes calendario inmediato posterior a aquél al que corresponda dicho pago.
+
+*Párrafo adicionado DOF 09-12-2019*
 
 ### CAPÍTULO IV · DE LAS OBLIGACIONES DE LOS ASIGNATARIOS
 
@@ -910,13 +920,13 @@ Están obligados al pago del impuesto por la actividad de exploración y extracc
 
 El impuesto por la actividad de exploración y extracción de hidrocarburos se calculará mensualmente aplicando por cada kilómetro cuadrado que comprenda el Área Contractual o el Área de Asignación, las siguientes cuotas:
 
-I. Durante la fase de exploración 1,768.45 pesos, y
+I. Durante la fase de exploración 1,820.97 pesos, y
 
-Cantidad de la fracción actualizada DOF 01-04-2016, 06-01-2017, 24-12-2018
+Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020
 
-II. Durante la fase de extracción 7,073.83 pesos.
+II. Durante la fase de extracción 7,283.92 pesos.
 
-Cantidad de la fracción actualizada DOF 01-04-2016, 06-01-2017, 24-12-2018
+Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020
 
 Para los efectos de este artículo, la Fase de Exploración comprende desde la formalización del Contrato o de la Asignación hasta el inicio de la Fase de Extracción, la cual comprende del inicio de las actividades destinadas a la producción comercial de Hidrocarburos hasta que concluye la vigencia del Contrato o de la Asignación.
 
@@ -928,7 +938,13 @@ No se causará el impuesto por la actividad de exploración y extracción de hid
 
 ##### Artículo 56.
 
-El contribuyente determinará el impuesto por la actividad de exploración y extracción de hidrocarburos por mes o fracción de éste, y deberá pagarlo a más tardar el día 17 del mes inmediato siguiente a aquel que corresponda el pago.
+El contribuyente determinará el impuesto por la actividad de exploración y extracción de hidrocarburos por mes o fracción de éste, y deberá pagarlo a más tardar el día 17 del mes inmediato siguiente a aquél que corresponda el pago.
+
+*Párrafo reformado DOF 09-12-2019*
+
+Cuando en la declaración de los pagos mensuales del impuesto por la actividad de exploración y extracción de hidrocarburos resulte saldo a favor del contribuyente, se podrá compensar contra los pagos posteriores del propio impuesto a cargo del contribuyente. Dicha compensación deberá realizarse conforme a lo previsto en el artículo 17-A del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga la cantidad a favor, hasta el mes en el que se realice la compensación.
+
+*Párrafo adicionado DOF 09-12-2019*
 
 Para el cumplimiento de lo dispuesto en este Título se aplicarán en lo conducente, las disposiciones fiscales y las reglas de carácter general expedidas por el Servicio de Administración Tributaria.
 
@@ -1226,3 +1242,50 @@ Atentamente.
 Ciudad de México, a 17 de diciembre de 2018.- La Jefa del Servicio de Administración Tributaria,
 
 Ana Margarita Ríos Farjat.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Ingresos sobre Hidrocarburos.
+
+*Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2019*
+
+**Artículo Único.** Se reforman los artículos 39, primer párrafo; 42, primer párrafo; 44, primer párrafo; y 56, primer párrafo, y se adicionan un tercer párrafo al artículo 45, y un segundo párrafo al artículo 56, pasando el actual segundo párrafo a ser tercer párrafo, de la Ley de Ingresos sobre Hidrocarburos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el 1 de enero de 2020.
+
+**Segundo.** Para los efectos de lo previsto en los artículos 39 y 42 de la Ley de Ingresos sobre Hidrocarburos, durante el ejercicio fiscal de 2020, los Asignatarios aplicarán la tasa de 58% en sustitución de la prevista en el citado artículo 39.
+
+Ciudad de México, a 24 de octubre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Maribel Martínez Ruiz, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de diciembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### ANEXOS 23, 25, 25-Bis y 27 de la Resolución Miscelánea Fiscal para 2020, publicada el 28 de diciembre de 2019.
+
+*Publicados en el Diario Oficial de la Federación el 17 de enero de 2020*
+
+Anexo 27 de la Resolución Miscelánea Fiscal para 2020
+
+Cuotas actualizadas del Derecho de Exploración de Hidrocarburos y del Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos que establece la Ley de Ingresos sobre Hidrocarburos y su Reglamento vigentes a partir del 1 de enero de 2020.
+
+Nota: Los textos y líneas de puntos que se utilizan en este Anexo tienen la finalidad exclusiva de orientar respecto de la ubicación de las cantidades y no crean derechos ni establecen obligaciones distintas a las contenidas en las disposiciones fiscales.
+
+I. Conforme a la regla 10.20., se dan a conocer las cuotas actualizadas del Derecho de Exploración de Hidrocarburos y del Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos previstos en la Ley de Ingresos sobre Hidrocarburos y su Reglamento, establecidas en los artículos que se precisan en dicha regla, aplicables a partir del 1 de enero de 2020.
+
+**Artículo 45.-**
+
+|   |   |
+|---|---|
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,396.09 pesos por kilómetro cuadrado |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,338.46 pesos por kilómetro cuadrado |
+
+**Artículo 55.-**
+
+I. Durante la fase de exploración 1,820.97 pesos, y
+
+II. Durante la fase de extracción 7,283.92 pesos.
+
+Atentamente,
+
+Ciudad de México, a 23 de diciembre de 2019.- En suplencia por ausencia de la Jefa del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria vigente, firma la Administradora General Jurídica, María de los Angeles Jasso Cisneros.- Rúbrica.
