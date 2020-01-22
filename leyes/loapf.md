@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2019-08-09
+last_reform_dof: 2020-01-22
 articles: 67
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_090819.doc
-archived: https://web.archive.org/web/20191113035213/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_090819.doc
-source_sha256: 33f17b9eed4638b91dad658595166d796ee69ddedaef2cc98eee9fb78212969d
-retrieved: 2019-11-13
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_220120.doc
+archived: https://web.archive.org/web/20200327142233/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_220120.doc
+source_sha256: a0171416b3efeec1bf0eafa84ccb8268e62fe5b4e4656f5016352136c41d5d16
+retrieved: 2020-03-27
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-08-2019
+Última reforma publicada DOF 22-01-2020
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -2284,7 +2284,9 @@ V. La persona Titular de la Secretaría de Educación Pública;
 
 VI. La persona Titular de la Secretaría de Salud;
 
-VII. La persona Titular de la Dirección General del Instituto de Administración de Bienes y Activos, quien encabezará la Secretaría Técnica;
+VII. La persona Titular de la Dirección General del Instituto para Devolver al Pueblo lo Robado, quien encabezará la Secretaría Técnica;
+
+*Fracción reformada DOF 22-01-2020*
 
 VIII. La persona Titular de la Dirección General del Instituto Mexicano del Seguro Social;
 
@@ -4130,7 +4132,9 @@ Los recursos destinados o pendientes de destinarse al Fondo a que se refiere el 
 
 **Sexto.** El presente Decreto será aplicable para los procedimientos de preparación de la acción de extinción de dominio que se inicien a partir de su entrada en vigor, con independencia de que los supuestos para su procedencia hayan sucedido con anterioridad, siempre y cuando no se haya ejercido la acción de extinción de dominio.
 
-**Séptimo.** Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto de Administración de Bienes y Activos, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto de Administración de Bienes y Activos a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+**Séptimo.** Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto para Devolver al Pueblo lo Robado a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+
+*Artículo reformado DOF 22-01-2020*
 
 **Octavo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 
@@ -4145,3 +4149,25 @@ Los recursos destinados o pendientes de destinarse al Fondo a que se refiere el 
 Ciudad de México, a 25 de julio de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. María de los Dolores Padierna Luna, Vicepresidenta en funciones de Presidente.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de agosto de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman la Ley Orgánica de la Administración Pública Federal, la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y, el Artículo Séptimo Transitorio del Decreto por el que se expide la Ley Nacional de Extinción de Dominio, y se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal, publicado el 9 de agosto de 2019.
+
+*Publicado en el Diario Oficial de la Federación el 22 de enero de 2020*
+
+**Artículo Primero.** Se reforma la fracción VII del artículo 44 Bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+……..
+
+**Artículo Tercero.** Se reforma el artículo Séptimo transitorio del "Decreto por el que se expide la Ley Nacional de Extinción de Dominio, y se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal", publicado en el Diario Oficial de la Federación el 9 de agosto de 2019, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
+
+Ciudad de México, a 10 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Jesús Carlos Vidal Peniche, Secretario.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
