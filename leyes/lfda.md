@@ -3,12 +3,12 @@ title: Ley Federal del Derecho de Autor
 abbreviation: LFDA
 slug: lfda
 published_dof: 1996-12-24
-last_reform_dof: 2018-06-15
+last_reform_dof: 2020-01-24
 articles: 245
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/122_150618.doc
-archived: https://web.archive.org/web/20181105062837/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122_150618.doc
-source_sha256: c1ef49df8569911c5bd91d759593a00b55b3777877babd499724bdc8de4c19f1
-retrieved: 2018-11-05
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/122_240120.doc
+archived: https://web.archive.org/web/20200327141732/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122_240120.doc
+source_sha256: 1dcf1b9dff07479a5fd2709d221e816b7371827cff375e2733a0b5518b072e61
+retrieved: 2020-03-27
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfda.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 15-06-2018
+Última reforma publicada DOF 24-01-2020
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1204,23 +1204,37 @@ El Estado Mexicano es el titular de los derechos morales sobre los símbolos pat
 
 El uso de los símbolos patrios deberá apegarse a lo establecido por la Ley sobre el Escudo, la Bandera y el Himno Nacionales.
 
-### Capítulo III · De las Culturas Populares
+### Capítulo III · De las Culturas Populares y de las Expresiones Culturales Tradicionales
+
+*Denominación del Capítulo reformada DOF 24-01-2020*
 
 #### Artículo 157.
 
-La presente Ley protege las obras literarias, artísticas, de arte popular o artesanal, así como todas las manifestaciones primigenias en sus propias lenguas, y los usos, costumbres y tradiciones de la composición pluricultural que conforman al Estado Mexicano, que no cuenten con autor identificable.
+La presente Ley protege las obras literarias, artísticas, de arte popular y artesanal, primigenias, colectivas y derivadas de las culturas populares o de las expresiones de las culturas tradicionales, de la composición pluricultural que conforman al Estado Mexicano, en las que se manifiestan elementos de la cultura e identidad de los pueblos y comunidades a que se refiere el artículo 2o. Constitucional, a quienes esta Ley reconoce la titularidad de los derechos.
+
+*Artículo reformado DOF 24-01-2020*
 
 #### Artículo 158.
 
-Las obras literarias, artística, de arte popular o artesanal; desarrolladas y perpetuadas en una comunidad o etnia originaria o arraigada en la República Mexicana, estarán protegidas por la presente Ley contra su deformación, hecha con objeto de causar demérito a la misma o perjuicio a la reputación o imagen de la comunidad o etnia a la cual pertenecen.
+Las obras a las que se refiere el artículo anterior, estarán protegidas por la presente Ley contra su explotación sin la autorización por escrito del pueblo o comunidad titular y contra su deformación, hecha con objeto de causar demérito a la misma o perjuicio a la reputación o imagen de la comunidad o pueblo al cual pertenece.
+
+*Artículo reformado DOF 24-01-2020*
 
 #### Artículo 159.
 
-Es libre la utilización de las obras literarias, artísticas, de arte popular o artesanal; protegidas por el presente capítulo, siempre que no se contravengan las disposiciones del mismo.
+Se permitirá el uso de las obras a las que se refiere el artículo 157, en los términos señalados en el Título VI de la presente Ley.
+
+*Artículo reformado DOF 24-01-2020*
 
 #### Artículo 160.
 
-En toda fijación, representación, publicación, comunicación o utilización en cualquier forma, de una obra literaria, artística, de arte popular o artesanal; protegida conforme al presente capítulo, deberá mencionarse la comunidad o etnia, o en su caso la región de la República Mexicana de la que es propia.
+En toda fijación, representación, publicación, comunicación, utilización en cualquier forma o puesta a disposición con fines de lucro; de una obra literaria y artística, de arte popular y artesanal o de las expresiones culturales tradicionales, cuando exista duda de la comunidad o pueblo a quien deba solicitarse la autorización escrita para uso o explotación, la parte interesada solicitará a la Secretaría de Cultura una consulta para identificar al titular. La consulta deberá ser realizada con el acompañamiento del Instituto Nacional de los Pueblos Indígenas, en su calidad de órgano técnico.
+
+Una vez identificada la comunidad a la que corresponda la expresión de que se trate, la Secretaría de Cultura le notificará al interesado para efecto del trámite de la autorización correspondiente. En caso de no haber titular identificado, la propia Secretaría de Cultura, con opinión técnica de la autoridad correspondiente, podrá autorizar la solicitud.
+
+En caso de controversia, ésta se resolverá de manera colegiada entre la Secretaría de Cultura, la autoridad técnica competente y las autoridades de los pueblos indígenas involucrados.
+
+*Artículo reformado DOF 24-01-2020*
 
 #### Artículo 161.
 
@@ -2473,3 +2487,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Mariana Arámbula Meléndez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones de la Ley Federal del Derecho de Autor.
+
+*Publicado en el Diario Oficial de la Federación el 24 de enero de 2020*
+
+**Artículo Único.-** Se reforman la denominación del Capítulo III denominado "De las Culturas Populares" para quedar como "De las Culturas Populares y de las Expresiones Culturales Tradicionales" del Título VII y los artículos 157, 158, 159 y 160 de la Ley Federal del Derecho de Autor, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La Secretaría de Cultura elaborará catálogos de las obras a las que se refiere el artículo 157 de la presente Ley; en el caso de las expresiones de las comunidades o pueblos indígenas, el acompañamiento técnico lo realizará el Instituto Nacional de los Pueblos Indígenas.
+
+Ciudad de México, a 11 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
