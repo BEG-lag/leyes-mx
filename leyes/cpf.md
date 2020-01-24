@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2019-11-08
-articles: 541
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_081119.doc
-archived: https://web.archive.org/web/20191221201453/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_081119.doc
-source_sha256: b38170acabebf3da3d487043b74663815162886b123980aa42682f42e9d81b47
-retrieved: 2019-12-21
+last_reform_dof: 2020-01-24
+articles: 542
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_240120.doc
+archived: https://web.archive.org/web/20200327145156/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_240120.doc
+source_sha256: fd02909f16c26710470107fcf7bfefbdcd251d2d244b49ebb4e9ec4ad2ced9be
+retrieved: 2020-03-27
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,11 +18,9 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 08-11-2019
+Última reforma publicada DOF 24-01-2020
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
->
-> Nota de Vigencia: La adición de una fracción VIII Bis al Apartado B del artículo 11 Bis, publicada en el DOF 08-11-2019, entrará en vigor el 1 de enero de 2020.
 >
 > Nota de Vigencia: Las siguientes reformas, adiciones y derogaciones, publicadas por Decreto DOF 18-07-2016, entrarán en vigor “a partir del nombramiento que el Senado de la República realice del Titular de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción”, de conformidad con lo que establece el artículo Primero Transitorio de dicho Decreto:
 >
@@ -1769,6 +1767,16 @@ Se impondrán de seis meses a dos años de prisión y de trescientos a tres mil 
 I. Descifre o decodifique señales de telecomunicaciones distintas a las de satélite portadoras de programas, o
 
 II. Transmita la propiedad, uso o goce de aparatos, instrumentos o información que permitan descifrar o decodificar señales de telecomunicaciones distintas a las de satélite portadoras de programas.
+
+##### Artículo 168 ter.
+
+Se sancionará con pena de doce a quince años de prisión, a quien fabrique, comercialice, adquiera, instale, porte, use u opere equipos que bloqueen, cancelen o anulen las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen con excepción de lo establecido en el segundo párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+Los equipos a que hace referencia el primer párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión, serán asegurados en términos de lo que establece el Código Nacional de Procedimientos Penales y posteriormente deberán ser destruidos en su totalidad.
+
+Si el delito al que se refiere el primer párrafo de este artículo, fuera cometido por servidores públicos, y sin autorización expresa escrita debidamente acreditada por su superior inmediato, se le impondrá la pena de quince a dieciocho años de prisión.
+
+*Artículo adicionado DOF 24-01-2020*
 
 ##### Artículo 169.
 
@@ -8222,3 +8230,27 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 15 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se adicionan un artículo 190 Bis a la Ley Federal de Telecomunicaciones y Radiodifusión, y un artículo 168 ter al Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 24 de enero de 2020*
+
+**Artículo Segundo.** Se adiciona un artículo 168 ter al Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Los particulares que posean aparatos o equipos que sirvan para bloquear, cancelar o anular las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen, deberán de entregar los mismos a la Secretaría de Seguridad y Protección Ciudadana, destruir o en su caso excluir del país, en un plazo de 30 días a partir de la entrada en vigor del presente Decreto.
+
+**Tercero.** La Secretaría de Seguridad y Protección Ciudadana, coordinará y supervisará la entrega-recepción por parte de particulares de todos los aparatos que tengan como finalidad bloquear, cancelar o anular las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen y procederá a su inutilización bajo los métodos que considere convenientes.
+
+**Cuarto.** Las autoridades correspondientes contarán con un término no mayor a 180 días naturales, para realizar las modificaciones a la Norma Oficial Mexicana 220-SCFI-2017, a fin de armonizarla a los contenidos del presente Decreto.
+
+**Quinto.** La Secretaría de Seguridad y Protección Ciudadana, informará anualmente del cumplimiento de las disposiciones expresas en este Decreto, a las Comisiones de Seguridad Pública del Senado de la República y de la Cámara de Diputados federales.
+
+Ciudad de México, a 11 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
