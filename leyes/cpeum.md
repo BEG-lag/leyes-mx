@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2019-12-20
+last_reform_dof: 2020-03-06
 articles: 136
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_201219.doc
-archived: https://web.archive.org/web/20200131162706/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_201219.doc
-source_sha256: d7480cf0a5a58f1d491be132dfa3b632a7c1f36374615cf2110e3ff2fad8250e
-retrieved: 2020-01-31
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_060320.doc
+archived: https://web.archive.org/web/20200327135210/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_060320.doc
+source_sha256: afae1f965e9b1d5165cf9d3047735105b87f427acf6601f3e2684807b5e25f29
+retrieved: 2020-03-27
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 20-12-2019
+Última reforma publicada DOF 06-03-2020
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -1110,7 +1110,9 @@ El desarrollo rural integral y sustentable a que se refiere el párrafo anterior
 
 ##### Artículo 28.
 
-En los Estados Unidos Mexicanos quedan prohibidos los monopolios, la (sic DOF 03-02-1983) prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a ls (sic DOF 03-02-1983) prohibiciones a título de protección a la industria.
+En los Estados Unidos Mexicanos quedan prohibidos los monopolios, las prácticas monopólicas, los estancos, las condonaciones de impuestos y las exenciones de impuestos en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a las prohibiciones a título de protección a la industria.
+
+*Párrafo reformado DOF 06-03-2020*
 
 En consecuencia, la ley castigará severamente, y las autoridades perseguirán con eficacia, toda concentración o acaparamiento en una o pocas manos de artículos de consumo necesario y que tenga por objeto obtener el alza de los precios; todo acuerdo, procedimiento o combinación de los productores, industriales, comerciantes o empresarios de servicios, que de cualquier manera hagan, para evitar la libre concurrencia o la competencia entre sí o para obligar a los consumidores a pagar precios exagerados y, en general, todo lo que constituya una ventaja exclusiva indebida a favor de una o varias personas determinadas y con perjuicio del público en general o de alguna clase social.
 
@@ -8283,3 +8285,21 @@ Las entidades federativas que hubieren incorporado la revocación de mandato del
 Ciudad de México, a 28 de noviembre 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Maribel Martínez Ruiz, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 19 de diciembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se declara reformado el primer párrafo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de condonación de impuestos.
+
+*Publicado en el Diario Oficial de la Federación el 6 de marzo de 2020*
+
+**Artículo Único.** Se reforma el primer párrafo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de su competencia, deberán armonizar el marco jurídico en la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de un año a partir de la entrada en vigor del mismo.
+
+Ciudad de México, a 25 de febrero de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de marzo de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
