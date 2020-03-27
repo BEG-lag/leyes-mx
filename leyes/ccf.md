@@ -3,12 +3,12 @@ title: Código Civil Federal
 abbreviation: CCF
 slug: ccf
 published_dof: 1928-05-26
-last_reform_dof: 2019-06-03
+last_reform_dof: 2020-03-27
 articles: 3102
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/2_030619.doc
-archived: https://web.archive.org/web/20191113045529/http://www.diputados.gob.mx:80/LeyesBiblio/doc/2_030619.doc
-source_sha256: 6fd712857096752719d80d96b5661d9ede1089492c6e528aaac797c69a6b16cf
-retrieved: 2019-11-13
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/2_270320.doc
+archived: https://web.archive.org/web/20200720020400/http://www.diputados.gob.mx:80/LeyesBiblio/doc/2_270320.doc
+source_sha256: c8563125bd2ddc1949f6caacc7e93193065419d8bed923cd6f3fcf4bb4bd02c4
+retrieved: 2020-07-20
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccf.htm
 ---
 
@@ -20,7 +20,7 @@ los días 26 de mayo, 14 de julio, 3 y 31 de agosto de 1928
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 03-06-2019
+Última reforma publicada DOF 27-03-2020
 
 El C. Presidente Constitucional de la República se ha servido dirigirme el decreto que sigue:
 
@@ -173,6 +173,10 @@ La capacidad jurídica de las personas físicas se adquiere por el nacimiento y 
 ###### Artículo 23.
 
 La minoría de edad, el estado de interdicción y demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+
+Como excepción a lo establecido en el párrafo anterior, los menores de edad, a partir de los quince años cumplidos, podrán abrir cuentas de depósito bancario de dinero en términos de la Ley de Instituciones de Crédito, sin la intervención de sus representantes y tendrán la administración de los fondos depositados en dichas cuentas con los efectos a que se refiere el artículo 435 de este Código.
+
+*Párrafo adicionado DOF 27-03-2020*
 
 *Artículo reformado DOF 23-07-1992*
 
@@ -2932,7 +2936,9 @@ Los bienes de la primera clase pertenecen en propiedad, administración y usufru
 
 ###### Artículo 430.
 
-En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponde a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto.
+En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponden a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto. Tratándose de las cuentas de depósito bancario de dinero a que se refiere el segundo párrafo del artículo 23 de este Código, la totalidad del usufructo de los fondos depositados en dichas cuentas pertenecerá al menor de edad.
+
+*Artículo reformado DOF 27-03-2020*
 
 ###### Artículo 431.
 
@@ -4146,7 +4152,9 @@ Mientras que se nombra tutor, el Juez de lo Familiar debe dictar las medidas nec
 
 ###### Artículo 635.
 
-Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 537.
+Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 537 y el segundo párrafo del artículo 23 de este Código.
+
+*Artículo reformado DOF 27-03-2020*
 
 ###### Artículo 636.
 
@@ -18091,3 +18099,29 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 30 de abril de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Mariana Dunyaska García Rojas, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de mayo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Instituciones de Crédito y del Código Civil Federal.
+
+*Publicado en el Diario Oficial de la Federación el 27 de marzo de 2020*
+
+**Artículo Segundo.** Se reforman los artículos 430 y 635, y se adiciona un segundo párrafo al artículo 23 del Código Civil Federal, para quedar como sigue:
+
+………
+
+**TRANSITORIOS**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Banco de México y, en caso de ser necesario, la Secretaría de Hacienda y Crédito Público, contarán con el plazo de 90 días naturales contados a partir del día siguiente al de publicación del presente Decreto en el Diario Oficial de la Federación, para emitir o modificar las disposiciones de carácter general necesarias para la debida implementación del presente Decreto.
+
+**Tercero.** El Congreso de la Unión contará con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones normativas a la Ley General de Títulos y Operaciones de Crédito, a la Ley para Regular las Sociedades de Información Crediticia, al Código Penal Federal y a la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes e incluir una regulación integral en la prevención e investigación del uso de recursos de procedencia ilícita.
+
+**Cuarto.** Para efectos de las cuentas a que se refiere el tercer párrafo del artículo 59 de la Ley de Instituciones de Crédito, la Secretaría de Hacienda y Crédito Público y la Comisión Nacional Bancaria y de Valores, podrán incorporar las medidas y procedimientos establecidos en el cuarto párrafo del artículo 115 de la citada ley.
+
+**Quinto.** En todo caso, las instituciones de crédito que aperturen las cuentas a que se refiere el tercer párrafo del artículo 59 de la Ley de Instituciones de Crédito que se reforma, se asegurarán que en los contratos que al efecto se celebren se establezca la obligación a cargo de la institución de dar conocimiento a los padres o tutores sobre la apertura de la cuenta y que puedan solicitar y consultar estados de cuenta y movimientos de las cuentas de depósito. La Secretaría de Hacienda y Crédito Público establecerá en las disposiciones de carácter general lo señalado en este artículo.
+
+**Sexto.** Las instituciones públicas que tengan a su cargo la ejecución de programas gubernamentales, cuyos recursos sean susceptibles de ser entregados en cuentas de depósito bancario de dinero, y entre sus beneficiarios se encuentren adolescentes a partir de los quince años cumplidos, deberán enviar a la Comisión Nacional Bancaria y de Valores en forma trimestral a partir de la entrada en vigor de este Decreto, un informe que contenga el listado de los beneficiarios en dicho rango de edad.
+
+Ciudad de México, a 10 de marzo de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
