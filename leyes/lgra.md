@@ -3,12 +3,12 @@ title: Ley General de Responsabilidades Administrativas
 abbreviation: LGRA
 slug: lgra
 published_dof: 2016-07-18
-last_reform_dof: 2019-11-19
+last_reform_dof: 2020-04-13
 articles: 233
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA_191119.doc
-archived: https://web.archive.org/web/20191221225231/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LGRA_191119.doc
-source_sha256: 159d3cc00e8b2f9e49833b279130322edcbfa68558260b657aea5cc278a1544f
-retrieved: 2019-12-21
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA_130420.doc
+archived: https://web.archive.org/web/20200720020456/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LGRA_130420.doc
+source_sha256: c6d771fe5d96d4d3bed39c9bb5da8f02630d6153e31c206e70401895868ef803
+retrieved: 2020-07-20
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgra.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 18 de julio de 201
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 19-11-2019
+Última reforma publicada DOF 13-04-2020
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -594,7 +594,9 @@ La restricción prevista en el artículo anterior será aplicable inclusive cuan
 
 ###### Artículo 57.
 
-Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público.
+Incurrirá en abuso de funciones la persona servidora o servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realiza por sí o a través de un tercero, alguna de las conductas descritas en el artículo 20 Ter, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+*Artículo reformado DOF 13-04-2020*
 
 ###### Artículo 58.
 
@@ -2009,3 +2011,21 @@ La presidencia de dicho Comité estará a cargo de las secretarías de Hacienda 
 Ciudad de México, a 8 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Verónica Delgadillo García, Secretaria.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, de la Ley General de Instituciones y Procedimientos Electorales, de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, de la Ley General de Partidos Políticos, de la Ley General en Materia de Delitos Electorales, de la Ley Orgánica de la Fiscalía General de la República, de la Ley Orgánica del Poder Judicial de la Federación y de la Ley General de Responsabilidades Administrativas.
+
+*Publicado en el Diario Oficial de la Federación el 13 de abril de 2020*
+
+**Artículo Octavo.-** Se reforma el artículo 57 de la Ley General de Responsabilidades Administrativas, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como a la disponibilidad presupuestaria de cada una de ellas para el ejercicio fiscal que corresponda, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
+
+Ciudad de México, a 18 de marzo de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de abril de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
