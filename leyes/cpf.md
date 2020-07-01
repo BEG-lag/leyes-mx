@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2020-01-24
-articles: 542
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_240120.doc
-archived: https://web.archive.org/web/20200327145156/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_240120.doc
-source_sha256: fd02909f16c26710470107fcf7bfefbdcd251d2d244b49ebb4e9ec4ad2ced9be
-retrieved: 2020-03-27
+last_reform_dof: 2020-07-01
+articles: 546
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_010720.doc
+archived: https://web.archive.org/web/20200720020412/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_010720.doc
+source_sha256: 960c07dcba4e54ec0a369619641fd049eb2fac098e3adc632ebb63cb9f45e381
+retrieved: 2020-07-20
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 24-01-2020
+Última reforma publicada DOF 01-07-2020
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 >
@@ -1764,9 +1764,17 @@ Al que, para la ejecución de los hechos de que hablan los artículos anteriores
 
 Se impondrán de seis meses a dos años de prisión y de trescientos a tres mil días multa, a quien sin derecho:
 
-I. Descifre o decodifique señales de telecomunicaciones distintas a las de satélite portadoras de programas, o
+I. Descifre o decodifique señales de telecomunicaciones distintas a las de satélite portadoras de programas;
 
-II. Transmita la propiedad, uso o goce de aparatos, instrumentos o información que permitan descifrar o decodificar señales de telecomunicaciones distintas a las de satélite portadoras de programas.
+*Fracción reformada DOF 01-07-2020*
+
+II. Transmita la propiedad, uso o goce de aparatos, instrumentos o información que permitan descifrar o decodificar señales de telecomunicaciones distintas a las de satélite portadoras de programas, o
+
+*Fracción reformada DOF 01-07-2020*
+
+III. Reciba o distribuya una señal de satélite cifrada portadora de programas originalmente codificada, sin la autorización del distribuidor legal de la señal.
+
+*Fracción adicionada DOF 01-07-2020*
 
 ##### Artículo 168 ter.
 
@@ -5052,9 +5060,17 @@ Se impondrá prisión de tres a diez años y de dos mil a veinte mil días multa
 
 I. A quien produzca, reproduzca, introduzca al país, almacene, transporte, distribuya, venda o arriende copias de obras, fonogramas, videogramas o libros, protegidos por la Ley Federal del Derecho de Autor, en forma dolosa, con fin de especulación comercial y sin la autorización que en los términos de la citada Ley deba otorgar el titular de los derechos de autor o de los derechos conexos.
 
-Igual pena se impondrá a quienes, a sabiendas, aporten o provean de cualquier forma, materias primas o insumos destinados a la producción o reproducción de obras, fonogramas, videogramas o libros a que se refiere el párrafo anterior, o
+Igual pena se impondrá a quienes, a sabiendas, aporten o provean de cualquier forma, materias primas o insumos destinados a la producción o reproducción de obras, fonogramas, videogramas o libros a que se refiere el párrafo anterior;
 
-II. A quien fabrique con fin de lucro un dispositivo o sistema cuya finalidad sea desactivar los dispositivos electrónicos de protección de un programa de computación.
+*Párrafo reformado DOF 01-07-2020*
+
+II. A quien fabrique con fin de lucro un dispositivo o sistema cuya finalidad sea desactivar los dispositivos electrónicos de protección de un programa de computación, o
+
+*Fracción reformada DOF 01-07-2020*
+
+III. A quien grabe, transmita o realice una copia total o parcial de una obra cinematográfica protegida, exhibida en una sala de cine o lugares que hagan sus veces, sin la autorización del titular del derecho de autor o derechos conexos.
+
+*Fracción adicionada DOF 01-07-2020*
 
 ##### Artículo 424 ter.
 
@@ -5070,13 +5086,55 @@ Se impondrá prisión de seis meses a dos años o de trescientos a tres mil día
 
 Se impondrá prisión de seis meses a cuatro años y de trescientos a tres mil días multa, en los casos siguientes:
 
-I. A quien fabrique, importe, venda o arriende un dispositivo o sistema para descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal, y
+I. A quien fabrique, modifique, importe, distribuya, venda o arriende un dispositivo o sistema para descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal;
 
-II. A quien realice con fines de lucro cualquier acto con la finalidad de descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal.
+*Fracción reformada DOF 01-07-2020*
+
+II. A quien realice con fines de lucro cualquier acto con la finalidad de descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal;
+
+*Fracción reformada DOF 01-07-2020*
+
+III. A quien fabrique o distribuya equipo destinado a la recepción de una señal de cable encriptada portadora de programas, sin autorización del distribuidor legítimo de dicha señal, o
+
+*Fracción adicionada DOF 01-07-2020*
+
+IV. A quien reciba o asista a otro a recibir una señal de cable encriptada portadora de programas sin la autorización del distribuidor legítimo de dicha señal.
+
+*Fracción adicionada DOF 01-07-2020*
 
 ##### Artículo 427.
 
 Se impondrá prisión de seis meses a seis años y de trescientos a tres mil días multa, a quien publique a sabiendas una obra substituyendo el nombre del autor por otro nombre.
+
+##### Artículo 427 Bis.
+
+A quien, a sabiendas y con fines de lucro eluda sin autorización cualquier medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como autores de cualquier obra protegida por derechos de autor o derechos conexos, será sancionado con una pena de prisión de seis meses a seis años y de quinientos a mil días multa.
+
+*Artículo adicionado DOF 01-07-2020*
+
+##### Artículo 427 Ter.
+
+A quien, con fines de lucro, fabrique, importe, distribuya, rente o de cualquier manera comercialice dispositivos, productos o componentes destinados a eludir una medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como los autores de cualquier obra protegida por el derecho de autor o derecho conexo, se le impondrá de seis meses a seis años de prisión y de quinientos a mil días multa.
+
+*Artículo adicionado DOF 01-07-2020*
+
+##### Artículo 427 Quáter.
+
+A quien, con fines de lucro, brinde u ofrezca servicios al público destinados principalmente a eludir una medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como los autores de cualquier obra protegida por derecho de autor o derecho conexo, se le impondrá de seis meses a seis años de prisión y de quinientos a mil días multa.
+
+*Artículo adicionado DOF 01-07-2020*
+
+##### Artículo 427 Quinquies.
+
+A quien, a sabiendas, sin autorización y con fines de lucro, suprima o altere, por sí o por medio de otro, cualquier información sobre gestión de derechos, se le impondrá de seis meses a seis años de prisión y de quinientos a mil días multa.
+
+La misma pena será impuesta a quien con fines de lucro:
+
+I. Distribuya o importe para su distribución información sobre gestión de derechos, a sabiendas de que ésta ha sido suprimida o alterada sin autorización, o
+
+II. Distribuya, importe para su distribución, transmita, comunique o ponga a disposición del público copias de las obras, interpretaciones, ejecuciones o fonogramas, a sabiendas de que la información sobre gestión de derechos ha sido suprimida o alterada sin autorización.
+
+*Artículo adicionado DOF 01-07-2020*
 
 ##### Artículo 428.
 
@@ -5084,7 +5142,9 @@ Las sanciones pecuniarias previstas en el presente título se aplicarán sin per
 
 ##### Artículo 429.
 
-Los delitos previstos en este Título se perseguirán de oficio, excepto lo previsto en los artículos 424, fracción II y 427.
+Los delitos previstos en este Título se perseguirán de oficio, excepto lo previsto en los artículos 424, fracción II, 424 Bis, fracción III y 427.
+
+*Artículo reformado DOF 01-07-2020*
 
 ## ARTICULOS TRANSITORIOS:
 
@@ -8254,3 +8314,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 11 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 1 de julio de 2020*
+
+**Artículo Único.-** Se reforman la fracción I del artículo 426 y el artículo 429; y se adicionan una fracción III al artículo 168 bis; una fracción III al artículo 424 bis; las fracciones III y IV al artículo 426 y los artículos 427 Bis, 427 Ter, 427 Quáter y 427 Quinquies al Código Penal Federal, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 30 de junio de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. M. Citlalli Hernández Mora, Secretaria.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas.”
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de julio de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
