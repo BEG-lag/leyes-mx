@@ -3,12 +3,12 @@ title: Ley Federal del Derecho de Autor
 abbreviation: LFDA
 slug: lfda
 published_dof: 1996-12-24
-last_reform_dof: 2020-01-24
-articles: 245
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/122_240120.doc
-archived: https://web.archive.org/web/20200327141732/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122_240120.doc
-source_sha256: 1dcf1b9dff07479a5fd2709d221e816b7371827cff375e2733a0b5518b072e61
-retrieved: 2020-03-27
+last_reform_dof: 2020-07-01
+articles: 257
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LFDA.doc
+archived: https://web.archive.org/web/20230602003745/https://www.diputados.gob.mx/LeyesBiblio/doc/LFDA.doc
+source_sha256: 129f851a9e81c2d41fa9eeae89a1a1356fba91e10b631771f6b824351a1d7132
+retrieved: 2023-06-02
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfda.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 24-01-2020
+Última reforma publicada DOF 01-07-2020
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -112,7 +112,9 @@ Todos los plazos establecidos para determinar la protección que otorga la prese
 
 #### Artículo 10.
 
-En lo no previsto en la presente Ley, se aplicará la legislación mercantil, el Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal y la Ley Federal del Procedimiento Administrativo.
+En lo no previsto en la presente Ley, se aplicará el Código Civil Federal, la Ley Federal de Procedimiento Administrativo, el Código Federal de Procedimientos Civiles y el Código de Comercio.
+
+*Artículo reformado DOF 01-07-2020*
 
 ## TITULO II · Del Derecho de Autor
 
@@ -198,7 +200,9 @@ I. Divulgación: El acto de hacer accesible una obra literaria y artística por 
 
 II. Publicación: La reproducción de la obra en forma tangible y su puesta a disposición del público mediante ejemplares, o su almacenamiento permanente o provisional por medios electrónicos, que permitan al público leerla o conocerla visual, táctil o auditivamente;
 
-III. Comunicación pública: Acto mediante el cual la obra se pone al alcance general, por cualquier medio o procedimiento que la difunda y que no consista en la distribución de ejemplares;
+III. Comunicación pública: Acto mediante el cual la obra se pone al alcance general, por cualquier procedimiento que la difunda y que no consista en la distribución de ejemplares, por medios alámbricos o inalámbricos, comprendida la puesta a disposición de las obras, de tal forma que los miembros del público puedan acceder a estas obras desde el lugar y en el momento que cada uno de ellos elija;
+
+*Fracción reformada DOF 01-07-2020*
 
 IV. Ejecución o representación pública: Presentación de una obra, por cualquier medio, a oyentes o espectadores sin restringirla a un grupo privado o círculo familiar. No se considera pública la ejecución o representación que se hace de la obra dentro del círculo de una escuela o una institución de asistencia pública o privada, siempre y cuando no se realice con fines de lucro;
 
@@ -208,7 +212,9 @@ VI. Reproducción: La realización de uno o varios ejemplares de una obra, de un
 
 #### Artículo 17.
 
-Las obras protegidas por esta Ley que se publiquen, deberán ostentar la expresión “Derechos Reservados”, o su abreviatura “D. R.”, seguida del símbolo ; el nombre completo y dirección del titular del derecho de autor y el año de la primera publicación. Estas menciones deberán aparecer en sitio visible. La omisión de estos requisitos no implica la pérdida de los derechos de autor, pero sujeta al licenciatario o editor responsable a las sanciones establecidas en la Ley.
+Las obras protegidas por esta Ley que se publiquen, deberán ostentar la expresión "Derechos Reservados", o su abreviatura "D. R.", seguida del símbolo © y, en su caso, el Número Internacional Normalizado que le corresponda; el nombre completo y dirección del titular del derecho de autor y el año de la primera publicación. Estas menciones deberán aparecer en sitio visible. La omisión de estos requisitos no implica la pérdida de los derechos de autor, pero sujeta al licenciatario o editor responsable a las sanciones establecidas en la Ley.
+
+*Artículo reformado DOF 01-07-2020*
 
 ### Capítulo II · De los Derechos Morales
 
@@ -284,9 +290,17 @@ II. La comunicación pública de su obra a través de cualquiera de las siguient
 
 a) La representación, recitación y ejecución pública en el caso de las obras literarias y artísticas;
 
-b) La exhibición pública por cualquier medio o procedimiento, en el caso de obras literarias y artísticas, y
+b) La exhibición pública por cualquier medio o procedimiento, en el caso de obras literarias y artísticas;
 
-c) El acceso público por medio de la telecomunicación;
+*Inciso reformado DOF 01-07-2020*
+
+c) El acceso público por medio de la telecomunicación, incluida la banda ancha e Internet, y
+
+*Inciso reformado DOF 01-07-2020*
+
+d) La puesta a disposición del público de sus obras, de tal forma que los miembros del público puedan acceder a estas obras desde el lugar y en el momento que cada uno de ellos elija.
+
+*Inciso adicionado DOF 01-07-2020*
 
 III. La transmisión pública o radiodifusión de sus obras, en cualquier modalidad, incluyendo la transmisión o retransmisión de las obras por:
 
@@ -358,7 +372,7 @@ Los actos, convenios y contratos por los cuales se transmitan derechos patrimoni
 
 #### Artículo 33.
 
-A falta de estipulación expresa, toda transmisión de derechos patrimoniales se considera por el término de 5 años. Soló podrá pactarse excepcionalmente por más de 15 años cuando la naturaleza de la obra o la magnitud de la inversión requerida así lo justifique.
+A falta de estipulación expresa, toda transmisión de derechos patrimoniales se considera por el término de 5 años. Soló (sic DOF 24-12-1996) podrá pactarse excepcionalmente por más de 15 años cuando la naturaleza de la obra o la magnitud de la inversión requerida así lo justifique.
 
 #### Artículo 34.
 
@@ -808,9 +822,17 @@ I. La reproducción permanente o provisional del programa en todo o en parte, po
 
 II. La traducción, la adaptación, el arreglo o cualquier otra modificación de un programa y la reproducción del programa resultante;
 
-III. Cualquier forma de distribución del programa o de una copia del mismo, incluido el alquiler, y
+III. Cualquier forma de distribución del programa o de una copia del mismo, incluido el alquiler;
 
-IV. La decompilación, los procesos para revertir la ingeniería de un programa de computación y el desensamblaje.
+*Fracción reformada DOF 01-07-2020*
+
+IV. La decompilación, los procesos para revertir la ingeniería de un programa de computación y el desensamblaje, y
+
+*Fracción reformada DOF 01-07-2020*
+
+V. La comunicación pública del programa, incluida la puesta a disposición pública del mismo.
+
+*Fracción adicionada DOF 01-07-2020*
 
 #### Artículo 107.
 
@@ -856,6 +878,152 @@ Las obras e interpretaciones o ejecuciones transmitidas por medios electrónicos
 
 La transmisión de obras protegidas por esta Ley mediante cable, ondas radioeléctricas, satélite u otras similares, deberán adecuarse, en lo conducente, a la legislación mexicana y respetar en todo caso y en todo tiempo las disposiciones sobre la materia.
 
+### Capítulo V · De las Medidas Tecnológicas de Protección, la Información sobre la Gestión de Derechos y los Proveedores de Servicios de Internet
+
+*Capítulo adicionado DOF 01-07-2020*
+
+#### Artículo 114 Bis.
+
+En la protección del derecho de autor y derechos conexos respectivos, se podrán implementar las medidas tecnológicas de protección efectivas y la información sobre la gestión de derechos. Para estos efectos:
+
+I. La medida tecnológica de protección efectiva es cualquier tecnología, dispositivo o componente que, en el curso normal de su operación, proteja el derecho de autor, derecho del artista intérprete o ejecutante o derecho del productor del fonograma, o que controle el acceso a una obra, a una interpretación o ejecución o a un fonograma. Nada de lo dispuesto en esta fracción, será obligatorio para las personas que se dediquen a la producción de dispositivos o componentes, incluido sus partes y su selección, para productos electrónicos, de telecomunicación o computación, siempre y cuando dichos productos no sean destinados para llevar a cabo una conducta ilícita, y
+
+II. La información sobre la gestión de derechos son los datos, aviso o códigos y, en general, la información que identifican a la obra, a su autor, a la interpretación o ejecución, al artista intérprete o ejecutante, al fonograma, al productor del fonograma y al titular de cualquier derecho sobre los mismos, o información sobre los términos y condiciones de utilización de la obra, interpretación o ejecución, y fonograma, y todo número o código que represente tal información, cuando cualquiera de estos elementos de información esté adjunta a un ejemplar o figuren en relación con la comunicación al público de los mismos.
+
+En caso de controversias relacionadas con ambas fracciones, los autores, los artistas intérpretes o ejecutantes o productores del fonograma, o titulares de derechos respectivos, podrán ejercer las acciones civiles y la reparación del daño, conforme a lo previsto en los artículos 213 y 216 bis de esta Ley, independientemente a las acciones penales y administrativas que procedan.
+
+*Artículo adicionado DOF 01-07-2020*
+
+#### Artículo 114 Ter.
+
+No constituyen violaciones a las medidas tecnológicas de protección efectiva su evasión o elusión cuando se trate de obras, interpretaciones o ejecuciones, o fonogramas, cuyos plazos de protección otorgados por esta Ley hayan expirado.
+
+*Artículo adicionado DOF 01-07-2020*
+
+#### Artículo 114 Quáter.
+
+No se considerarán como violación de la presente Ley aquellas acciones de elusión o evasión de una medida tecnológica de protección efectiva que controle el acceso a una obra, interpretación o ejecución, o fonograma protegidos por esta Ley, cuando:
+
+I. Los procesos de ingeniería inversa no infractores realizados de buena fe respecto de la copia que se haya obtenido legalmente de un programa de computación que efectivamente controle el acceso en relación con los elementos particulares de dichos programas de computación que no han estado a disposición de la persona involucrada en esa actividad, con el único propósito de lograr la interoperabilidad de un programa de computación creado independientemente con otros programas;
+
+II. La inclusión de un componente o parte del mismo, con la finalidad única de prevenir el acceso a los menores a contenidos inapropiados, en línea, de una tecnología, producto, servicio o dispositivo que por sí mismo no está prohibido;
+
+III. Las actividades realizadas por una persona de buena fe con la autorización del propietario de una computadora, sistema o red de cómputo, realizadas con el único propósito de probar, investigar o corregir la seguridad de esa computadora, sistema o red de cómputo;
+
+IV. El acceso por parte del personal de una biblioteca, archivo o una institución educativa o de investigación, cuyas actividades sean sin fines de lucro, a una obra, interpretación o ejecución, o fonograma al cual no tendrían acceso de otro modo, con el único propósito de decidir si se adquieren ejemplares de la obra, interpretación o ejecución, o fonograma;
+
+V. Las actividades no infractoras cuyo único fin sea identificar y deshabilitar la capacidad de compilar o diseminar información de datos de identificación personal no divulgada, que reflejen las actividades en línea de una persona física, de manera que no afecte la capacidad de cualquier persona de obtener acceso a una obra, interpretación o ejecución, o fonograma;
+
+VI. Las actividades llevadas a cabo por personas legalmente autorizadas en términos de la legislación aplicable, para los efectos del cumplimiento de la Ley y de salvaguardar la seguridad nacional;
+
+VII. Las actividades no infractoras realizadas por un investigador que haya obtenido legalmente una copia o muestra de una obra, interpretación o ejecución no fijada o muestra de una obra, interpretación o ejecución, o fonograma con el único propósito de identificar y analizar fallas en tecnologías para codificar y decodificar información;
+
+VIII. Las actividades realizadas sin fines de lucro por una persona con el objeto de hacer accesible una obra, interpretación o ejecución, o un fonograma, en lenguajes, sistemas y otros modos, medios y formatos especiales, para personas con discapacidad, en términos de lo dispuesto en los artículos 148, fracción VIII y 209, fracción VI de la presente Ley, y siempre y cuando se realice a partir de una copia legalmente obtenida, y
+
+IX. Cualquier otra excepción o limitación para una clase particular de obras, interpretaciones o ejecuciones, o fonogramas, cuando así lo determine el Instituto a solicitud de la parte interesada basado en evidencia.
+
+*Artículo adicionado DOF 01-07-2020*
+
+#### Artículo 114 Quinquies.
+
+No se considerará como violación a esta Ley, la conducta sancionada en el artículo 232 bis:
+
+I. Cuando la misma se realice en relación con medidas tecnológicas de protección efectivas que controlan el acceso a una obra, interpretación o ejecución, o fonograma y en virtud de las siguientes funciones:
+
+a) Las actividades realizadas por una persona sin fin de lucro, con el objeto de hacer un formato accesible de una obra, interpretación o ejecución, o un fonograma, en lenguajes, sistemas y otros modos, medios y formatos especiales para una persona con discapacidad, en términos de lo dispuesto en los artículos 148, fracción VIII y 209, fracción VI de la presente Ley, siempre y cuando se realice a partir de una copia legalmente obtenida;
+
+b) Los procesos de ingeniería inversa no infractores realizados de buena fe respecto de la copia que se haya obtenido legalmente de un programa de computación que efectivamente controle el acceso en relación con los elementos particulares de dichos programas de computación que no han estado a disposición de la persona involucrada en esa actividad, con el único propósito de lograr la interoperabilidad de un programa de computación creado independientemente con otros programas;
+
+c) Las actividades no infractoras realizadas por un investigador que haya obtenido legalmente una copia o muestra de una obra, interpretación o ejecución no fijada o muestra de una obra, interpretación o ejecución, o fonograma para identificar y analizar fallas en tecnologías para codificar y decodificar información;
+
+d) La inclusión de un componente o parte del mismo, con la finalidad única de prevenir el acceso a los menores a contenidos inapropiados, en línea, de una tecnología, producto, servicio o dispositivo que por sí mismo no está prohibido;
+
+e) Las actividades no infractoras realizadas de buena fe con la autorización del propietario de una computadora, sistema o red de cómputo, realizadas con el único propósito de probar, investigar o corregir la seguridad de esa computadora, sistema o red de cómputo, y
+
+f) Las actividades llevadas a cabo por personas legalmente autorizadas en términos de la legislación aplicable, para los efectos del cumplimiento de la Ley y de salvaguardar la seguridad nacional.
+
+II. Cuando la misma se realice en relación con medidas tecnológicas efectivas que protegen cualquier derecho de autor o derecho conexo protegido en esta Ley y en virtud de las siguientes funciones:
+
+a) Los procesos de ingeniería inversa no infractores realizados de buena fe respecto de la copia que se haya obtenido legalmente de un programa de computación que efectivamente controle el acceso en relación con los elementos particulares de dichos programas de computación que no han estado a disposición de la persona involucrada en esa actividad, con el único propósito de lograr la interoperabilidad de un programa de computación creado independientemente con otros programas, y
+
+b) Las actividades llevadas a cabo por personas legalmente autorizadas en términos de la legislación aplicable, para los efectos del cumplimiento de la Ley y de salvaguardar la seguridad nacional.
+
+*Artículo adicionado DOF 01-07-2020*
+
+#### Artículo 114 Sexies.
+
+No constituyen violaciones a la información sobre la gestión de derechos, la suspensión, alteración, modificación u omisión de dicha información, cuando sean realizadas en el desempeño de sus funciones por personas legalmente autorizadas en términos de la legislación aplicable, para los efectos del cumplimiento de la Ley y de salvaguardar la seguridad nacional.
+
+*Artículo adicionado DOF 01-07-2020*
+
+#### Artículo 114 Septies.
+
+Se consideran Proveedores de Servicios de Internet los siguientes:
+
+I. Proveedor de Acceso a Internet es aquella persona que transmite, enruta o suministra conexiones para comunicaciones digitales en línea, sin modificación de contenido, entre los puntos especificados por un usuario, del material seleccionado por el usuario, o que realiza el almacenamiento intermedio y transitorio de ese material hecho de forma automática en el curso de la transmisión, enrutamiento o suministro de conexiones para comunicaciones digitales en línea.
+
+II. Proveedor de Servicios en Línea es aquella persona que realiza alguna de las siguientes funciones:
+
+a) Almacenamiento temporal llevado a cabo mediante un proceso automático;
+
+b) Almacenamiento, a petición de un usuario, del material que se aloje en un sistema o red controlado u operado por o para un Proveedor de Servicios de Internet, o
+
+c) Direccionamiento o vinculación a usuarios a un sitio en línea mediante el uso de herramientas de búsqueda de información, incluyendo hipervínculos y directorios.
+
+*Artículo adicionado DOF 01-07-2020*
+
+#### Artículo 114 Octies.
+
+Los Proveedores de Servicios de Internet no serán responsables por los daños y perjuicios ocasionados a los titulares de derechos de autor, derechos conexos y demás titulares de algún derecho de propiedad intelectual protegido por esta Ley, por las infracciones a derechos de autor o derechos conexos que ocurran en sus redes o sistemas en línea, siempre y cuando ellos no controlen, inicien o dirijan la conducta infractora, aunque tenga lugar a través de sistemas o redes controladas u operadas por ellos o en su representación, conforme a lo siguiente:
+
+I. Los Proveedores de Acceso a Internet no serán responsables de las infracciones, así como de los datos, información, materiales y contenidos que se transmitan o almacenen en sus sistemas o redes controladas u operadas por ellos o en su representación cuando:
+
+a) No inicien la cadena de transmisión de los materiales o contenidos ni seleccionen los materiales o contenidos de la transmisión y los destinatarios, y
+
+b) Incluyan y no interfieran con medidas tecnológicas efectivas estándar, que protegen o identifican material protegido por esta Ley, que se desarrollan a través de un proceso abierto y voluntario por un amplio consenso de titulares de derecho de autor y proveedores de servicios, que están disponibles de manera razonable y no discriminatoria, y que no imponen costos sustanciales a los proveedores de servicios o cargas sustanciales en sus sistemas de redes.
+
+II. Los Proveedores de Servicios en Línea no serán responsables de las infracciones, así como de los datos, información, materiales y contenido que se encuentren almacenados o se transmitan o comuniquen a través de sus sistemas o redes controlados u operadas por ellos o en su representación, y en los casos que direccionen o vinculen a usuarios a un sitio en línea, cuando:
+
+a) De manera expedita y eficaz, remuevan, retiren, eliminen o inhabiliten el acceso a materiales o contenidos dispuestos, habilitados o transmitidos sin el consentimiento del titular del derecho de autor o derecho conexo, y que estén alojados en sus sistemas o redes, una vez que cuente con conocimiento cierto de la existencia de una presunta infracción en cualquiera de los siguientes supuestos:
+
+1\. Cuando reciba un aviso por parte del titular de los derechos de autor o derechos conexos o por alguna persona autorizada para actuar en representación del titular, en términos de la fracción III de este artículo, o
+
+2\. Cuando reciba una resolución emitida por autoridad competente que ordene el retiro, remoción, eliminación o deshabilitación del material o contenido infractor.
+
+En ambos casos se deberán tomar medidas razonables para prevenir que el mismo contenido que se reclama infractor se vuelva a subir en el sistema o red controlado y operado por el Proveedor de Servicios de Internet posteriormente al aviso de baja o a la resolución emitida por la autoridad competente.
+
+b) Si retiran, inhabilitan o suspenden unilateralmente y de buena fe, el acceso a la publicación, la difusión, comunicación pública y/o la exhibición del material o contenido, para impedir la violación de las disposiciones legales aplicables o para cumplir las obligaciones derivadas de una relación contractual o jurídica, siempre que tomen medidas razonables para notificar a la persona cuyo material se remueva o inhabilite.
+
+c) Cuenten con una política que prevea la terminación de cuentas de infractores reincidentes, la cual sea de conocimiento público de sus suscriptores;
+
+d) Incluyan y no interfieran con medidas tecnológicas efectivas estándar que protegen o identifican material protegido por esta Ley, que se desarrollan a través de un proceso abierto y voluntario por un amplio consenso de titulares de derecho de autor y proveedores de servicios, que están disponibles de manera razonable y no discriminatoria, y que no imponen costos sustanciales a los proveedores de servicios o cargas sustanciales en sus sistemas o redes, y
+
+e) Tratándose de los Proveedores de Servicios en Línea a que se refieren los incisos b) y c) de la fracción II del artículo 114 Septies, deberán, además de lo previsto en el inciso inmediato anterior, no recibir un beneficio financiero atribuible a la conducta infractora, cuando el proveedor tenga el derecho y la capacidad de controlar la conducta infractora.
+
+III. El aviso a que se refiere el inciso a), numeral 1, de la fracción anterior, deberá presentarse a través de los formularios y sistemas conforme lo señale el reglamento de la Ley, en los cuales se establecerá la información suficiente para identificar y localizar el material o contenido infractor.
+
+Dicho aviso contendrá como mínimo:
+
+1\. Señalar nombre del titular o representante legal y medio de contacto para recibir notificaciones;
+
+2\. Identificar el contenido de la infracción reclamada;
+
+3\. Manifestar el interés o derecho con respecto a los derechos de autor, y
+
+4\. Especificar los datos de la ubicación electrónica a la que se refiere la infracción reclamada.
+
+El usuario cuyo contenido sea removido, retirado, eliminado o inhabilitado por una probable conducta infractora y que considere que el Proveedor de Servicios en Línea se encuentra en un error, podrá solicitar se restaure el contenido a través de un contra-aviso, en el que deberá demostrar la titularidad o autorización con la que cuenta para ese uso específico sobre el contenido removido, retirado, eliminado o inhabilitado, o justificar su uso de acuerdo a las limitaciones o excepciones a los derechos protegidos por esta Ley.
+
+El Proveedor de Servicios en Línea que reciba un contra-aviso de acuerdo a lo establecido en el párrafo anterior, deberá informar sobre el contra-aviso a la persona quien presentó el aviso original, y habilitar el contenido objeto del contra-aviso, a menos que la persona que presentó el aviso original inicie un procedimiento judicial o administrativo, una denuncia penal o un mecanismo alterno de solución de controversias en un plazo no mayor a 15 días hábiles a partir de la fecha en el que el Proveedor de Servicios en Línea haya informado sobre el contra-aviso a la persona quien presentó el aviso original.
+
+IV. Los Proveedores de Servicios de Internet no estarán obligados a supervisar o monitorear sus sistemas o redes controladas u operadas por ellos o en su representación, para buscar activamente posibles violaciones al derecho de autor o los derechos conexos protegidos por esta Ley y que ocurran en línea.
+
+En atención a lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión, los Proveedores de Servicios de Internet podrán realizar un monitoreo proactivo para la identificación de contenidos que atenten contra la dignidad humana, tengan por objeto anular o menoscabar derechos y libertades, así como aquellos que estimulen o hagan apología de la violencia o de algún delito.
+
+V. La imposibilidad de un Proveedor de Servicios de Internet para cumplir los requisitos previstos en este artículo por sí mismo no le genera responsabilidad por daños y perjuicios por violaciones a derecho de autor y derechos conexos protegidos por esta Ley.
+
+*Artículo adicionado DOF 01-07-2020*
+
 ## TITULO V · De los Derechos Conexos
 
 ### Capítulo I · Disposiciones Generales
@@ -882,13 +1050,33 @@ Tanto el artista intérprete o el ejecutante, tiene el derecho irrenunciable a p
 
 #### Artículo 118.
 
-Los artistas intérpretes o ejecutantes tienen el derecho de oponerse a:
+Los artistas intérpretes o ejecutantes tienen el derecho de autorizar o prohibir:
 
-I. La comunicación pública de sus interpretaciones o ejecuciones;
+*Párrafo reformado DOF 01-07-2020*
 
-II. La fijación de sus interpretaciones o ejecuciones sobre una base material, y
+I. La comunicación pública, incluida la radiodifusión, de sus interpretaciones o ejecuciones no fijadas, salvo cuando dicha actuación constituya en sí una actividad transmitida por radiodifusión;
 
-III. La reproducción de la fijación de sus interpretaciones o ejecuciones.
+*Fracción reformada DOF 01-07-2020*
+
+II. La fijación de sus interpretaciones o ejecuciones sobre una base material;
+
+*Fracción reformada DOF 01-07-2020*
+
+III. La reproducción directa e indirecta de la fijación de sus interpretaciones o ejecuciones, por cualquier procedimiento o bajo cualquier forma;
+
+*Fracción reformada DOF 01-07-2020*
+
+IV. La distribución pública de sus interpretaciones o ejecuciones fijadas, así como de sus ejemplares, mediante venta u otra forma de transferencia de la propiedad de los soportes materiales que las contengan;
+
+*Fracción adicionada DOF 01-07-2020*
+
+V. La comunicación pública de sus interpretaciones o ejecuciones fijadas, a través de señales o emisiones, así como la puesta a disposición del público, ya sea de forma alámbrica o inalámbrica, de tal forma que los miembros del público puedan acceder a ellas desde el lugar y en el momento que cada uno de ellos elija; salvo que se trate de la radiodifusión o la comunicación al público, ya sea por medios alámbricos o inalámbricos, de los sonidos o representaciones de sonidos fijados en un fonograma que estén incorporados a una obra audiovisual, y
+
+*Fracción adicionada DOF 01-07-2020*
+
+VI. El arrendamiento comercial de sus interpretaciones o ejecuciones fijadas, así como de sus ejemplares, aún después de la venta o cualquier otro tipo de transferencia de la propiedad de los soportes materiales que las contengan.
+
+*Fracción adicionada DOF 01-07-2020*
 
 Estos derechos se consideran agotados una vez que el artista intérprete o ejecutante haya autorizado la incorporación de su actuación o interpretación en una fijación visual, sonora o audiovisual, siempre y cuando los usuarios que utilicen con fines de lucro dichos soportes materiales, efectúen el pago correspondiente.
 
@@ -960,7 +1148,9 @@ Fonograma es toda fijación, exclusivamente sonora, de los sonidos de una interp
 
 #### Artículo 130.
 
-Productor de fonogramas es la persona física o moral que fija por primera vez los sonidos de una ejecución u otros sonidos o la representación digital de los mismos y es responsable de la edición, reproducción y publicación de fonogramas.
+Productor de fonogramas es la persona física o moral que fija por primera vez los sonidos de una interpretación o ejecución u otros sonidos o la representación digital de los mismos y es responsable de la edición, reproducción y publicación de fonogramas.
+
+*Artículo reformado DOF 01-07-2020*
 
 #### Artículo 131.
 
@@ -970,11 +1160,25 @@ I. La reproducción directa o indirecta, total o parcial de sus fonogramas, así
 
 II. La importación de copias del fonograma hechas sin la autorización del productor;
 
-III. La distribución pública del original y de cada ejemplar del fonograma mediante venta u otra manera incluyendo su distribución a través de señales o emisiones;
+III. La distribución pública del original y de cada ejemplar del fonograma mediante venta o cualquier otra forma de alcance general;
 
-IV. La adaptación o transformación del fonograma, y
+*Fracción reformada DOF 01-07-2020*
 
-V. El arrendamiento comercial del original o de una copia del fonograma, aún después de la venta del mismo, siempre y cuando no se lo hubieren reservado los autores o los titulares de los derechos patrimoniales.
+IV. La adaptación o transformación del fonograma;
+
+*Fracción reformada DOF 01-07-2020*
+
+V. El arrendamiento comercial del original o de una copia del fonograma, aún después de la venta del mismo, siempre y cuando no se lo hubieren reservado los autores o los titulares de los derechos patrimoniales;
+
+*Fracción reformada DOF 01-07-2020*
+
+VI. La puesta a disposición del público del fonograma, de tal forma que los miembros del público puedan tener acceso a ellos desde el lugar y en el momento que cada uno de ellos elija, y
+
+*Fracción adicionada DOF 01-07-2020*
+
+VII. La comunicación pública de sus fonogramas.
+
+*Fracción adicionada DOF 01-07-2020*
 
 #### Artículo 131 bis.
 
@@ -984,7 +1188,9 @@ Los productores de fonogramas tienen el derecho a percibir una remuneración por
 
 #### Artículo 132.
 
-Los fonogramas deberán ostentar el símbolo (P) acompañado de la indicación del año en que se haya realizado la primera publicación.
+Los fonogramas deberán ostentar el símbolo (P) y, en su caso, el Número Internacional Normalizado que le corresponda; acompañado de la indicación del año en que se haya realizado la primera publicación.
+
+*Párrafo reformado DOF 01-07-2020*
 
 La omisión de estos requisitos no implica la pérdida de los derechos que correspondan al productor de fonogramas pero lo sujeta a las sanciones establecidas por la Ley.
 
@@ -1080,13 +1286,17 @@ Lo anterior, sin perjuicio de la obligación de los concesionarios de radiodifus
 
 #### Artículo 145.
 
-Deberá pagar daños y perjuicios la persona que sin la autorización del distribuidor legítimo de la señal:
+Deberá pagar daños y perjuicios la persona que sin autorización del distribuidor legítimo de la señal:
 
-I. Descifre una señal de satélite codificada portadora de programas;
+I. Manufacture, modifique, importe, exporte, venda o de otro modo distribuya un dispositivo o sistema que sirva para decodificar una señal de satélite encriptada portadora de programas;
 
-II. Reciba y distribuya una señal de satélite codificada portadora de programas que hubiese sido descifrada ilícitamente, y
+II. Reciba o distribuya una señal de satélite encriptada portadora de programas;
 
-III. Participe o coadyuve en la fabricación, importación, venta, arrendamiento o realización de cualquier acto que permita contar con un dispositivo o sistema que sea de ayuda primordial para descifrar una señal de satélite codificada, portadora de programas.
+III. Manufacture o distribuya equipo para la recepción no autorizada de señales de cable encriptadas portadoras de programas, y
+
+IV. Reciba o asista a otro recibir una señal de cable encriptada portadora de programas.
+
+*Artículo reformado DOF 01-07-2020*
 
 #### Artículo 146.
 
@@ -1130,9 +1340,11 @@ VII. Reproducción, comunicación y distribución por medio de dibujos, pinturas
 
 *Fracción reformada DOF 17-03-2015*
 
-VIII. Publicación de obra artística y literaria sin fines de lucro para personas con discapacidad.
+VIII. Publicación y representación de obra artística y literaria sin fines de lucro para personas con discapacidad.
 
-*Fracción adicionada DOF 17-03-2015*
+Las entidades autorizadas o reconocidas podrán valerse de lo dispuesto en esta fracción, bajo los términos de los tratados internacionales suscritos y aprobados por los Estados Unidos Mexicanos, para el intercambio transfronterizo de ejemplares en formatos accesibles, incluida su importación.
+
+*Fracción adicionada DOF 17-03-2015. Reformada DOF 01-07-2020*
 
 #### Artículo 149.
 
@@ -1686,9 +1898,17 @@ II. Promover la creación de obras literarias y artísticas;
 
 III. Llevar el Registro Público del Derecho de Autor;
 
-IV. Mantener actualizado su acervo histórico, y
+IV. Mantener actualizado su acervo histórico;
 
-V. Promover la cooperación internacional y el intercambio con instituciones encargadas del registro y protección del derecho de autor y derechos conexos.
+*Fracción reformada DOF 01-07-2020*
+
+V. Promover la cooperación internacional y el intercambio con instituciones encargadas del registro y protección del derecho de autor y derechos conexos, y
+
+*Fracción reformada DOF 01-07-2020*
+
+VI. Cooperar con las entidades autorizadas o reconocidas para facilitar el intercambio transfronterizo de ejemplares accesibles de obras protegidas en favor de las personas con discapacidad, en términos de los tratados internacionales suscritos y aprobados por los Estados Unidos Mexicanos.
+
+*Fracción adicionada DOF 01-07-2020*
 
 #### Artículo 210.
 
@@ -1722,11 +1942,15 @@ Si hay oposición, el Instituto hará un segundo análisis y propondrá la tarif
 
 ## TITULO XI · De los Procedimientos
 
-### Capítulo I · Del Procedimiento ante Autoridades Judiciales
+### Capítulo I · Del Procedimiento ante Autoridades Jurisdiccionales
+
+*Denominación del Capítulo reformada DOF 01-07-2020*
 
 #### Artículo 213.
 
-Los Tribunales Federales conocerán de las controversias que se susciten con motivo de la aplicación de esta Ley, pero cuando dichas controversias sólo afecten intereses particulares, podrán conocer de ellas, a elección del actor, los tribunales de los Estados y del Distrito Federal.
+Los Tribunales Federales conocerán de las controversias que se susciten con motivo de la aplicación de esta Ley, pero cuando dichas controversias sólo afecten intereses particulares, podrán conocer de ellas, a elección del actor, los tribunales de los Estados y de la Ciudad de México.
+
+*Párrafo reformado DOF 01-07-2020*
 
 Las acciones civiles que se ejerciten se fundarán, tramitarán y resolverán conforme a lo establecido en esta Ley y en sus reglamentos, siendo supletorio el Código Federal de Procedimientos Civiles ante Tribunales Federales y la legislación común ante los Tribunales del orden común.
 
@@ -1756,11 +1980,15 @@ Al menos setenta y dos horas antes de presentar la solicitud judicial, el titula
 
 #### Artículo 214.
 
-En todo juicio en que se impugne una constancia, anotación o inscripción en el registro, será parte el Instituto y sólo podrán conocer de él los tribunales federales.
+En todo juicio en que se impugne una constancia, anotación o inscripción en el registro, será parte el Instituto, y conocerá del juicio contencioso administrativo el Tribunal Federal de Justicia Administrativa.
+
+*Artículo reformado DOF 01-07-2020*
 
 #### Artículo 215.
 
-Corresponde conocer a los Tribunales de la Federación de los delitos relacionados con el derecho de autor previstos en el Título Vigésimo Sexto del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+Corresponde conocer a los Tribunales de la Federación de los delitos relacionados con el derecho de autor previstos en el Título Vigésimo Sexto del Código Penal Federal.
+
+*Párrafo reformado DOF 01-07-2020*
 
 Los titulares del derecho de autor de obras musicales, sus representantes o las sociedades de gestión colectiva a las que hayan confiado la administración de sus derechos, podrán solicitar a la autoridad judicial competente, el otorgamiento de las medidas precautorias previstas en esta Ley.
 
@@ -1798,9 +2026,9 @@ I. Se iniciará con la queja, que por escrito presente ante el Instituto quien s
 
 II. Con la queja y sus anexos se dará vista a la parte en contra de la que se interpone, para que la conteste dentro de los diez días siguientes a la notificación;
 
-III. Se citará a las partes a una junta de avenencia, apercibiéndolas que de no asistir, se les impondrá una multa de cien a ciento cincuenta días de salario mínimo general vigente en el Distrito Federal. Dicha junta se llevará a cabo dentro de los veinte días siguientes a la presentación de la queja;
+III. Se citará a las partes a una junta de avenencia, apercibiéndolas que de no asistir, se les impondrá una multa de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización. Dicha junta se llevará a cabo dentro de los veinte días siguientes a la presentación de la queja;
 
-*Fracción reformada DOF 10-06-2013*
+*Fracción reformada DOF 10-06-2013, 01-07-2020*
 
 IV. En la junta respectiva el Instituto tratará de avenir a las partes para que lleguen a un arreglo. De aceptarlo ambas partes, la junta de avenencia puede diferirse las veces que sean necesarias a fin de lograr la conciliación. El convenio firmado por las partes y el Instituto tendrá el carácter de cosa juzgada y título ejecutivo;
 
@@ -1926,11 +2154,15 @@ XIV. Las demás que se deriven de la interpretación de la presente Ley y sus re
 
 Las infracciones en materia de derechos de autor serán sancionadas por el Instituto con arreglo a lo dispuesto por la Ley Federal de Procedimiento Administrativo con multa:
 
-I. De cinco mil hasta quince mil días de salario mínimo en los casos previstos en las fracciones I, II, III, IV, XI, XII, XIII y XIV del artículo anterior, y
+I. De ocho mil hasta veintidós mil veces el valor diario de la Unidad de Medida y Actualización en los casos previstos en las fracciones I, II, III, IV, XI, XII, XIII y XIV del artículo anterior, y
 
-II. De mil hasta cinco mil días de salario mínimo en los demás casos previstos en el artículo anterior.
+II. De mil quinientos hasta ocho mil veces el valor diario de la Unidad de Medida y Actualización en los demás casos previstos en el artículo anterior.
 
-Se aplicará multa adicional de hasta quinientos días de salario mínimo por día, a quien persista en la infracción.
+Se aplicará multa adicional de hasta setecientas veces el valor diario de la Unidad de Medida y Actualización, a quien persista en la infracción.
+
+Las sanciones previstas en este Capítulo se impondrán además de la indemnización que corresponda por daños y perjuicios a los afectados, en los términos de lo dispuesto en los artículos 213 y 216 Bis de esta Ley y sin perjuicio de las sanciones penales correspondientes.
+
+*Artículo reformado DOF 01-07-2020*
 
 ### Capítulo II · De las Infracciones en Materia de Comercio
 
@@ -1938,13 +2170,15 @@ Se aplicará multa adicional de hasta quinientos días de salario mínimo por d�
 
 Constituyen infracciones en materia de comercio las siguientes conductas cuando sean realizadas con fines de lucro directo o indirecto:
 
-I. Comunicar o utilizar públicamente una obra protegida por cualquier medio, y de cualquier forma sin la autorización previa y expresa del autor, de sus legítimos herederos o del titular del derecho patrimonial de autor;
+I. Comunicar, poner a disposición o utilizar públicamente una obra protegida por cualquier medio, y de cualquier forma sin la autorización previa y expresa del autor, de sus legítimos herederos o del titular del derecho patrimonial de autor;
+
+*Fracción reformada DOF 01-07-2020*
 
 II. Utilizar la imagen de una persona sin su autorización o la de sus causahabientes;
 
-III. Fijar, producir, reproducir, almacenar, distribuir, transportar o comercializar copias de obras, obras cinematográficas y demás obras audiovisuales, fonogramas, videogramas o libros, protegidos por los derechos de autor o por los derechos conexos, sin la autorización de los respectivo titulares en los términos de esta Ley;
+III. Fijar, grabar, producir, reproducir, almacenar, distribuir, comunicar, poner a disposición, transportar o comercializar copias de obras, obras cinematográficas y demás obras audiovisuales, fonogramas, videogramas o libros, protegidos por los derechos de autor o por los derechos conexos, sin la autorización de los respectivos titulares en los términos de esta Ley;
 
-*Fracción reformada DOF 19-05-1997, 13-01-2016*
+*Fracción reformada DOF 19-05-1997, 13-01-2016, 01-07-2020*
 
 IV. Ofrecer en venta, almacenar, transportar o poner en circulación obras protegidas por esta Ley que hayan sido deformadas, modificadas o mutiladas sin autorización del titular del derecho de autor;
 
@@ -1976,6 +2210,54 @@ III. De quinientos hasta mil días de salario mínimo en los demás casos a que 
 
 Se aplicará multa adicional de hasta quinientos días de salario mínimo general vigente por día, a quien persista en la infracción.
 
+#### Artículo 232 Bis.
+
+Se impondrá multa de mil hasta veinte mil veces el valor diario de la Unidad de Medida y Actualización a quien produzca, reproduzca, fabrique, distribuya, importe, comercialice, arriende, almacene, transporte, ofrezca o ponga a disposición del público, ofrezca al público o proporcione servicios o realice cualquier otro acto que permita tener dispositivos, mecanismos, productos, componentes o sistemas que:
+
+I. Sean promocionados, publicados o comercializados con el propósito de eludir una medida tecnológica de protección efectiva;
+
+II. Sean utilizados preponderantemente para eludir cualquier medida tecnológica de protección efectiva, o
+
+III. Sean diseñados, producidos o ejecutados con el propósito de eludir cualquier medida tecnológica de protección efectiva.
+
+*Artículo adicionado DOF 01-07-2020*
+
+#### Artículo 232 Ter.
+
+Se impondrá multa de mil hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, a quien eluda una medida tecnológica de protección efectiva que controle el acceso a una obra, interpretación o ejecución, o fonograma protegido por esta Ley.
+
+*Artículo adicionado DOF 01-07-2020*
+
+#### Artículo 232 Quáter.
+
+Se impondrá una multa de mil hasta veinte mil veces el valor diario de la Unidad de Medida y Actualización, a quien sin la autorización respectiva:
+
+I. Suprima o altere la información sobre la gestión de derechos;
+
+II. Distribuya o importe para su distribución, información sobre la gestión de derechos sabiendo que esa información ha sido suprimida, alterada, modificada u omitida sin autorización, o
+
+III. Produzca, reproduzca, publique, edite, fije, comunique, transmita, distribuya, importe, comercialice, arriende, almacene, transporte, divulgue o ponga a disposición del público copias de obras, interpretaciones o ejecuciones, o fonogramas, sabiendo que la información sobre la gestión de derechos ha sido suprimida, alterada, modificada u omitida sin autorización.
+
+*Artículo adicionado DOF 01-07-2020*
+
+#### Artículo 232 Quinquies.
+
+Se impondrá una multa de mil hasta veinte mil veces el valor diario de la Unidad de Medida y Actualización:
+
+I. A quien realice una falsa declaración en un aviso o contra-aviso, que afecte a cualquier parte interesada debido a que el Proveedor de Servicios en Línea se haya apoyado en ese aviso para remover, retirar, eliminar o inhabilitar el acceso al contenido protegido por esta Ley o haya rehabilitado el acceso al contenido derivado de dicho contra-aviso;
+
+II. Al Proveedor de Servicios en Línea que no remueva, retire, elimine o inhabilite el acceso de forma expedita al contenido que ha sido objeto de un aviso por parte del titular del derecho de autor o derecho conexo o por alguna persona autorizada para actuar en representación del titular, o de autoridad competente, sin perjuicio de lo señalado en el artículo 114 Octies de esta Ley, o
+
+III. Al Proveedor de Servicios de Internet que no proporcione de manera expedita a la autoridad judicial o administrativa, previo requerimiento, la información que esté en su posesión y que identifique al presunto infractor, en los casos en que dicha información se requiera con el propósito de proteger o hacer cumplir el derecho de autor o los derechos conexos dentro de un procedimiento judicial o administrativo.
+
+*Artículo adicionado DOF 01-07-2020*
+
+#### Artículo 232 Sexies.
+
+Las infracciones previstas en los artículos 232 Bis, 232 Ter, 232 Quáter y 232 Quinquies serán sancionadas conforme al artículo 234 de esta Ley y con arreglo a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+
+*Artículo adicionado DOF 01-07-2020*
+
 #### Artículo 233.
 
 Si el infractor fuese un editor, organismo de radiodifusión, o cualquier persona física o moral que explote obras a escala comercial, la multa podrá incrementarse hasta en un cincuenta por ciento respecto de las cantidades previstas en el artículo anterior.
@@ -1996,7 +2278,9 @@ Los Tribunales Federales en cualquier caso y el Instituto Mexicano de la Propied
 
 #### Artículo 236.
 
-Para la aplicación de las sanciones a que se refiere este Título se entenderá como salario mínimo el salario mínimo general vigente en el Distrito Federal en la fecha de la comisión de la infracción.
+Para la aplicación de las sanciones a que se refiere este Título se entenderá como el valor diario de la Unidad de Medida y Actualización, el vigente en la fecha de la comisión de la infracción.
+
+*Artículo reformado DOF 01-07-2020*
 
 ### Capítulo III · De la Impugnación Administrativa
 
@@ -2505,3 +2789,23 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 11 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Derecho de Autor.
+
+*Publicado en el Diario Oficial de la Federación el 1 de julio de 2020*
+
+**Artículo Único.-** Se reforman el artículo 10; la fracción III del artículo 16; el artículo 17; el inciso c) de la fracción II del artículo 27; el párrafo primero y las fracciones I, II y III del artículo 118; el artículo 130; la fracción III del artículo 131; el párrafo primero del artículo 132; las fracciones I, II y III del artículo 145; la fracción VIII del artículo 148; se modifica la denominación del Capítulo I del Título XI para quedar como “Del Procedimiento ante Autoridades Jurisdiccionales”; el primer párrafo del artículo 213; el artículo 214; el primer párrafo del artículo 215; la fracción III del artículo 218; la fracción I y II y el párrafo segundo del artículo 230; las fracciones I y III del artículo 231; el artículo 236; se adicionan un inciso d) al artículo 27; una fracción V al artículo 106; un Capítulo V denominado “De las Medidas Tecnológicas de Protección, la Información sobre la Gestión de Derechos y los Proveedores de Servicios de Internet”, al Título IV, que comprende los artículos 114 Bis, 114 Ter, 114 Quáter, 114 Quinquies, 114 Sexies, 114 Septies y 114 Octies; las fracciones IV, V y VI al artículo 118; las fracciones VI y VII al artículo 131; una fracción IV al artículo 145; un párrafo segundo a la fracción VIII del artículo 148; una fracción VI al artículo 209; un párrafo tercero al artículo 230 y los artículos 232 Bis, 232 Ter, 232 Quáter; 232 Quinquies y 232 Sexies, de la Ley Federal del Derecho de Autor, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Ejecutivo Federal, en un plazo de 180 días a partir de la entrada en vigor del presente Decreto, llevará a cabo las adecuaciones reglamentarias necesarias para la observancia de lo dispuesto en el mismo.
+
+**Tercero.** Las acciones que, en cumplimiento a lo dispuesto en el presente Decreto, corresponda realizar a las entidades y dependencias del Poder Ejecutivo Federal, respecto de recursos humanos, financieros y materiales, se sujetarán a los presupuestos aprobados y subsecuentes, así como a las disposiciones y normas en materia de presupuesto y responsabilidad hacendaria.
+
+Ciudad de México, a 30 de junio de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. M. Citlalli Hernández Mora, Secretaria.- Dip. Lizbeth Mata Lozano, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de julio de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
