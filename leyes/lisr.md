@@ -3,12 +3,12 @@ title: Ley del Impuesto sobre la Renta
 abbreviation: LISR
 slug: lisr
 published_dof: 2013-12-11
-last_reform_dof: 2019-12-09
-articles: 218
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/LISR_091219.doc
-archived: https://web.archive.org/web/20200131180748/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LISR_091219.doc
-source_sha256: 8815c9e471077a7b3fd8d09a880032df5bca5e8ae4a3bd0629c288cfb869b7b6
-retrieved: 2020-01-31
+last_reform_dof: 2020-12-08
+articles: 220
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LISR_081220.doc
+archived: https://web.archive.org/web/20210422200511/http://www.diputados.gob.mx/LeyesBiblio/doc/LISR_081220.doc
+source_sha256: e6891e90416d1c9991b3998c09369493bb0ce27f7f922712dc5d95de8d5535dd
+retrieved: 2021-04-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lisr.htm
 ---
 
@@ -18,11 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 11 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-12-2019
+Última reforma publicada DOF 08-12-2020
 
-> Notas de vigencia:
-> La adición de la Sección III, denominada “De los ingresos por la enajenación de bienes o la prestación de servicios a través de Internet, mediante plataformas tecnológicas, aplicaciones informáticas y similares”, comprendiendo los artículos 113-A, 113-B y 113-C, al Capítulo II del Título IV, publicada en el DOF 09-12-2019, entrará en vigor a partir del 1 de junio de 2020.
-> La adición de los artículos 4-A y 205, publicada en el DOF 09-12-2019, entrará en vigor el 1 de enero de 2021.
+> Nota de vigencia: La reforma a las fracciones XI, XVII, XIX y XX del artículo 79, publicada en el DOF 08-12-2020, entrará en vigor el 1 de julio de 2021.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -754,7 +752,9 @@ d) A las personas morales a las que se refieren las fracciones VI, X, XI, XX, y 
 
 e) A las asociaciones y sociedades civiles que otorguen becas y cumplan con los requisitos del artículo 83 de esta Ley.
 
-f) A programas de escuela empresa.
+f) Se deroga.
+
+*Inciso derogado DOF 08-12-2020*
 
 El Servicio de Administración Tributaria publicará en el Diario Oficial de la Federación y dará a conocer en su página electrónica de Internet los datos de las instituciones a que se refieren los incisos b), c), d) y e) de esta fracción que reúnan los requisitos antes señalados.
 
@@ -2320,13 +2320,17 @@ i) Fomento de acciones para mejorar la economía popular.
 
 VII. Sociedades cooperativas de consumo.
 
-VIII. Organismos que conforme a la Ley agrupen a las sociedades cooperativas, ya sea de productores o de consumidores.
+VIII. Organismos que conforme a la Ley agrupen a las sociedades cooperativas, ya sea de productores o de consumidores, así como los organismos cooperativos de integración y representación a que se refiere la Ley General de Sociedades Cooperativas.
+
+*Fracción reformada DOF 08-12-2020*
 
 IX. Sociedades mutualistas y Fondos de Aseguramiento Agropecuario y Rural, que no operen con terceros, siempre que no realicen gastos para la adquisición de negocios, tales como premios, comisiones y otros semejantes.
 
 X. Sociedades o asociaciones de carácter civil que se dediquen a la enseñanza, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación, así como las instituciones creadas por decreto presidencial o por ley, cuyo objeto sea la enseñanza, siempre que sean consideradas como instituciones autorizadas para recibir donativos deducibles en términos de esta Ley.
 
-XI. Sociedades o asociaciones de carácter civil dedicadas a la investigación científica o tecnológica que se encuentren inscritas en el Registro Nacional de Instituciones Científicas y Tecnológicas.
+XI. Sociedades o asociaciones de carácter civil sin fines de lucro y autorizadas para recibir donativos deducibles en los términos de esta Ley, dedicadas a la investigación científica o tecnológica que se encuentren inscritas en el Registro Nacional de Instituciones Científicas y Tecnológicas.
+
+*Fracción reformada DOF 08-12-2020*
 
 XII. Asociaciones o sociedades civiles, organizadas sin fines de lucro y autorizadas para recibir donativos, dedicadas a las siguientes actividades:
 
@@ -2348,13 +2352,19 @@ XV. Sociedades de gestión colectiva constituidas de acuerdo con la Ley Federal 
 
 XVI. Asociaciones o sociedades civiles organizadas con fines políticos, o asociaciones religiosas constituidas de conformidad con la Ley de Asociaciones Religiosas y Culto Público.
 
-XVII. Asociaciones o sociedades civiles que otorguen becas, a que se refiere el artículo 83 de esta Ley.
+XVII. Asociaciones o sociedades civiles, organizadas sin fines de lucro y autorizadas para recibir donativos deducibles en los términos de esta Ley, que otorguen becas, a que se refiere el artículo 83 de esta Ley.
+
+*Fracción reformada DOF 08-12-2020*
 
 XVIII. Asociaciones civiles de colonos y las asociaciones civiles que se dediquen exclusivamente a la administración de un inmueble de propiedad en condominio.
 
-XIX. Las sociedades o asociaciones civiles, organizadas sin fines de lucro que se constituyan y funcionen en forma exclusiva para la realización de actividades de investigación o preservación de la flora o fauna silvestre, terrestre o acuática, dentro de las áreas geográficas definidas que señale el Servicio de Administración Tributaria mediante reglas de carácter general, así como aquellas que se constituyan y funcionen en forma exclusiva para promover entre la población la prevención y control de la contaminación del agua, del aire y del suelo, la protección al ambiente y la preservación y restauración del equilibrio ecológico.
+XIX. Las sociedades o asociaciones civiles, organizadas sin fines de lucro y autorizadas para recibir donativos deducibles en los términos de esta Ley, que se constituyan y funcionen en forma exclusiva para la realización de actividades de investigación o preservación de la flora o fauna silvestre, terrestre o acuática, dentro de las áreas geográficas definidas que señale el Servicio de Administración Tributaria mediante reglas de carácter general, así como aquellas que se constituyan y funcionen en forma exclusiva para promover entre la población la prevención y control de la contaminación del agua, del aire y del suelo, la protección al ambiente y la preservación y restauración del equilibrio ecológico.
 
-XX. Las asociaciones y sociedades civiles, sin fines de lucro, que comprueben que se dedican exclusivamente a la reproducción de especies en protección y peligro de extinción y a la conservación de su hábitat, siempre que además de cumplir con las reglas de carácter general que emita el Servicio de Administración Tributaria, se obtenga opinión previa de la Secretaría de Medio Ambiente y Recursos Naturales.
+*Fracción reformada DOF 08-12-2020*
+
+XX. Las asociaciones y sociedades civiles, sin fines de lucro y autorizadas para recibir donativos deducibles en los términos de esta Ley, que comprueben que se dedican exclusivamente a la reproducción de especies en protección y peligro de extinción y a la conservación de su hábitat, siempre que además de cumplir con las reglas de carácter general que emita el Servicio de Administración Tributaria, se obtenga opinión previa de la Secretaría de Medio Ambiente y Recursos Naturales.
+
+*Fracción reformada DOF 08-12-2020*
 
 XXI. Las sociedades de inversión especializadas de fondos para el retiro.
 
@@ -2390,9 +2400,9 @@ j) Apoyo a proyectos de productores agrícolas y de artesanos, con ingresos en e
 
 XXVI. Asociaciones Deportivas reconocidas por la Comisión Nacional del Deporte, siempre y cuando éstas sean miembros del Sistema Nacional del Deporte, en términos de la Ley General de Cultura Física y Deporte.
 
-Las personas morales a que se refieren las fracciones V, VI, VII, IX, X, XI, XIII, XVI, XVII, XVIII, XIX, XX, XXIV y XXV de este artículo, así como las personas morales y fideicomisos autorizados para recibir donativos deducibles de impuestos, y los fondos de inversión a que se refiere este Título, considerarán remanente distribuible, aun cuando no lo hayan entregado en efectivo o en bienes a sus integrantes o socios, el importe de las omisiones de ingresos o las compras no realizadas e indebidamente registradas; las erogaciones que efectúen y no sean deducibles en los términos del Título IV de esta Ley, salvo cuando dicha circunstancia se deba a que éstas no reúnen los requisitos de la fracción IV del artículo 147 de la misma; los préstamos que hagan a sus socios o integrantes, o a los cónyuges, ascendientes o descendientes en línea recta de dichos socios o integrantes salvo en el caso de préstamos a los socios o integrantes de las sociedades cooperativas de ahorro y préstamo a que se refiere la fracción XIII de este artículo. Tratándose de préstamos que en los términos de este párrafo se consideren remanente distribuible, su importe se disminuirá de los remanentes distribuibles que la persona moral distribuya a sus socios o integrantes.
+Las personas morales a que se refieren las fracciones V, VI, VII, IX, X, XI, XIII, XVI, XVII, XVIII, XIX, XX, XXIV y XXV de este artículo, así como las personas morales y fideicomisos autorizados para recibir donativos deducibles de impuestos, y los fondos de inversión a que se refiere este Título, considerarán remanente distribuible, aun cuando no lo hayan entregado en efectivo o en bienes a sus integrantes o socios, el importe de las omisiones de ingresos o las compras no realizadas e indebidamente registradas; las erogaciones que efectúen y no sean deducibles en los términos del Título IV de esta Ley; los préstamos que hagan a sus socios o integrantes, o a los cónyuges, ascendientes o descendientes en línea recta de dichos socios o integrantes salvo en el caso de préstamos a los socios o integrantes de las sociedades cooperativas de ahorro y préstamo a que se refiere la fracción XIII de este artículo. Tratándose de préstamos que en los términos de este párrafo se consideren remanente distribuible, su importe se disminuirá de los remanentes distribuibles que la persona moral distribuya a sus socios o integrantes.
 
-*Párrafo reformado DOF 18-11-2015*
+*Párrafo reformado DOF 18-11-2015, 08-12-2020*
 
 En el caso en el que se determine remanente distribuible en los términos del párrafo anterior, la persona moral de que se trate enterará como impuesto a su cargo el impuesto que resulte de aplicar sobre dicho remanente distribuible, la tasa máxima para aplicarse sobre el excedente del límite inferior que establece la tarifa contenida en el artículo 152 de esta Ley, en cuyo caso se considerará como impuesto definitivo, debiendo efectuar el entero correspondiente a más tardar en el mes de febrero del año siguiente a aquél en el que ocurra cualquiera de los supuestos a que se refiere dicho párrafo.
 
@@ -2415,6 +2425,10 @@ En el caso de que las personas morales a que se refiere este Título enajenen bi
 Las personas morales y fideicomisos autorizados para recibir donativos deducibles de impuestos podrán obtener ingresos por actividades distintas a los fines para los que fueron autorizados para recibir dichos donativos, siempre que no excedan del 10% de sus ingresos totales en el ejercicio de que se trate. No se consideran ingresos por actividades distintas a los referidos fines los que reciban por donativos; apoyos o estímulos proporcionados por la Federación, entidades federativas, o municipios; enajenación de bienes de su activo fijo o intangible; cuotas de sus integrantes; cuotas de recuperación; intereses; derechos patrimoniales derivados de la propiedad intelectual; uso o goce temporal de bienes inmuebles, o rendimientos obtenidos de acciones u otros títulos de crédito, colocados entre el gran público inversionista en los términos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria. En el caso de que sus ingresos no relacionados con los fines para los que fueron autorizadas para recibir dichos donativos excedan del límite señalado, las citadas personas morales deberán determinar el impuesto que corresponda a dicho excedente, de conformidad con lo establecido en el párrafo anterior.
 
 *Párrafo reformado DOF 30-11-2016*
+
+En el caso de que las personas a que se refiere el párrafo anterior obtengan ingresos por actividades distintas a los fines para los que fueron autorizados para recibir donativos en un porcentaje mayor al 50% del total de los ingresos del ejercicio fiscal, perderán la autorización correspondiente, lo cual determinará mediante resolución emitida y notificada por la autoridad fiscal. Si dentro de los doce meses siguientes a la pérdida de la autorización para recibir donativos deducibles del impuesto sobre la renta no se obtiene nuevamente dicha autorización, deberán destinar todo su patrimonio a otra donataria autorizada para recibir donativos deducibles.
+
+*Párrafo adicionado DOF 08-12-2020*
 
 ##### Artículo 81.
 
@@ -2448,21 +2462,31 @@ f) Las conclusiones.
 
 g) Cualquier otra información relacionada que determine el Servicio de Administración Tributaria mediante reglas de carácter general.
 
-IV. Que destinen sus activos exclusivamente a los fines propios de su objeto social, no pudiendo otorgar beneficios sobre el remanente distribuible a persona física alguna o a sus integrantes personas físicas o morales, salvo que se trate, en este último caso, de alguna de las personas morales o fideicomisos autorizados para recibir donativos deducibles de impuestos o se trate de la remuneración de servicios efectivamente recibidos.
+IV. Que destinen sus activos exclusivamente a los fines propios de su objeto social, por el cual hayan sido autorizadas para recibir donativos deducibles del impuesto sobre la renta, no pudiendo otorgar beneficios sobre el remanente distribuible a persona física alguna o a sus integrantes personas físicas o morales, salvo que se trate, en este último caso, de alguna de las personas morales o fideicomisos autorizados para recibir donativos deducibles de impuestos o se trate de la remuneración de servicios efectivamente recibidos.
+
+*Fracción reformada DOF 08-12-2020*
 
 V. Que al momento de su liquidación o cambio de residencia para efectos fiscales, destinen la totalidad de su patrimonio a entidades autorizadas para recibir donativos deducibles.
 
-En los casos de revocación de la autorización o cuando su vigencia haya concluido y no se haya obtenido nuevamente o renovado la misma dentro de los doce meses siguientes a la fecha en que surta efectos la notificación correspondiente, se deberá acreditar que los donativos recibidos fueron utilizados para los fines propios de su objeto social. Respecto de los donativos que no fueron destinados para esos fines, los deberán destinar a otras entidades autorizadas para recibir donativos deducibles.
+En los casos de revocación de la autorización o cuando su vigencia haya concluido y no se haya obtenido nuevamente o renovado la misma, dentro de los doce meses siguientes a la fecha en que ocurran dichos eventos, se deberá destinar la totalidad de su patrimonio a otras entidades autorizadas para recibir donativos deducibles del impuesto sobre la renta quienes deberán emitir el comprobante fiscal correspondiente por concepto de donativo, el cual no será deducible para efectos del impuesto sobre la renta.
 
-Las personas morales a que se refiere el párrafo anterior que continúen realizando sus actividades como instituciones organizadas sin fines de lucro, mantendrán los activos que integran su patrimonio para realizar dichas actividades y tributarán en los términos y condiciones establecidos en este Título para las no donatarias. Los recursos que se deban destinar a otras donatarias autorizadas deberán ser transmitidos dentro de los 6 meses siguientes contados a partir de que concluyó el plazo para obtener nuevamente la autorización cuando fue revocada o la renovación de la misma en el caso de conclusión de su vigencia.
+*Párrafo reformado DOF 08-12-2020*
+
+Las personas morales a que se refiere el párrafo anterior tributarán en los términos y condiciones establecidos en el Título II de esta Ley. Los recursos que se deban destinar a otras donatarias autorizadas deberán ser transmitidos dentro del plazo de 6 meses contados a partir de que concluyó el plazo para obtener nuevamente la autorización cuando fue revocada o de la conclusión de la vigencia de la autorización.
+
+*Párrafo reformado DOF 08-12-2020*
+
+Lo dispuesto en el párrafo anterior también será aplicable en caso de que a una donataria autorizada se le apruebe su solicitud de cancelación de su autorización, quien deberá destinar todo su patrimonio a otra donataria autorizada para recibir donativos deducibles del impuesto sobre la renta y ésta última deberá emitir el comprobante fiscal correspondiente por concepto de donativo, el cual no será deducible para efectos del impuesto sobre la renta.
+
+*Párrafo adicionado DOF 08-12-2020*
 
 *Fracción reformada DOF 30-11-2016*
 
-VI. Mantener a disposición del público en general la información relativa a la autorización para recibir donativos, al uso y destino que se haya dado a los donativos recibidos, así como al cumplimiento de sus obligaciones fiscales, y en su caso, la información a que se refiere la fracción II de este artículo, por el plazo y en los términos que mediante reglas de carácter general fije el Servicio de Administración Tributaria.
+VI. Mantener a disposición del público en general la información relativa a la autorización para recibir donativos, al uso y destino que se haya dado a los donativos recibidos y su patrimonio, así como al cumplimiento de sus obligaciones fiscales, y en su caso, la información a que se refiere la fracción II de este artículo, por el plazo y en los términos que mediante reglas de carácter general fije el Servicio de Administración Tributaria.
 
-En los casos en que a las personas morales con fines no lucrativos o a los fideicomisos se les haya revocado o no se les haya renovado la autorización para recibir donativos derivado del incumplimiento de la obligación de poner a disposición del público en general la información relativa al uso o destino de los donativos recibidos a que se refiere el párrafo anterior, sólo estarán en posibilidad de obtener una nueva autorización si cumplen con la citada obligación omitida, previamente a la obtención de la nueva autorización.
+En los casos en que a las personas morales con fines no lucrativos o a los fideicomisos se les haya revocado o no se les haya renovado la autorización para recibir donativos derivado del incumplimiento de la obligación de poner a disposición del público en general la información a que se refiere el párrafo anterior, deberán cumplir con la obligación a que se refiere dicho párrafo dentro del mes siguiente a aquel en que surtió efectos la notificación de la revocación o a aquél en el que se haya publicado la no renovación de la autorización, a través de los medios y formatos establecidos en las disposiciones de carácter general que para tal efecto emita la autoridad fiscal, y solo estarán en posibilidad de obtener una nueva autorización una vez que cumplan con la obligación omitida.
 
-*Párrafo adicionado DOF 30-11-2016*
+*Fracción reformada DOF 30-11-2016, 08-12-2020*
 
 VII. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de los donativos recibidos en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
 
@@ -2502,13 +2526,43 @@ La entidad autorizada para recibir donativos deducibles que reciba el patrimonio
 
 ##### Artículo 82-Ter.
 
-Las instituciones autorizadas para recibir donativos deducibles en términos del artículo 82 de esta Ley, podrán optar por sujetarse a un proceso de certificación de cumplimiento de obligaciones fiscales, de transparencia y de evaluación de impacto social. El Servicio de Administración Tributaria establecerá, mediante reglas de carácter general, facilidades administrativas para los contribuyentes que obtengan la certificación a que se refiere este párrafo.
+Se deroga.
 
-El proceso de certificación a que se refiere el párrafo anterior estará a cargo de instituciones especializadas en la materia, las cuales deberán contar con la autorización del Servicio de Administración Tributaria, quien establecerá, mediante reglas de carácter general, los requisitos y obligaciones que deberán cumplir las citadas instituciones para obtener y conservar la autorización correspondiente, así como los elementos que deberán medir y observar durante el proceso de certificación.
+*Artículo adicionado DOF 30-11-2016. Derogado DOF 08-12-2020*
 
-El Servicio de Administración Tributaria publicará en su página de Internet la lista de las instituciones especializadas autorizadas, así como de las donatarias autorizadas que cuenten con la certificación prevista en este artículo.
+##### Artículo 82-Quáter.
 
-*Artículo adicionado DOF 30-11-2016*
+Para los efectos del párrafo cuarto del artículo 82 de esta Ley, se estará a lo siguiente:
+
+A. Son causales de revocación de la autorización para recibir donativos deducibles las cuales darán inicio al procedimiento de revocación:
+
+I. Destinar su activo a fines distintos del objeto social por el que obtuvieron la autorización correspondiente, conforme a la fracción I del artículo 82 de esta Ley.
+
+II. No expedir el comprobante fiscal que ampare los donativos recibidos o expedir comprobantes fiscales de donativos deducibles para amparar cualquier otra operación distinta de la donación.
+
+III. Cuando con motivo del ejercicio de las facultades de comprobación o de los expedientes, documentos o bases de datos del Servicio de Administración Tributaria o aquellas a las que tenga acceso o tenga en su poder dicho órgano administrativo desconcentrado, se conozca la actualización de cualquier hecho que constituya incumplimiento a las obligaciones o requisitos que establezcan las disposiciones fiscales a cargo de las donatarias autorizadas.
+
+IV. Estar incluida en la lista a que se refiere el cuarto párrafo del artículo 69-B del Código Fiscal de la Federación.
+
+V. Si el o los representantes legales, socios o asociados o cualquier integrante del Consejo Directivo o de Administración de una organización civil o fideicomiso que haya sido revocada su autorización por ubicarse en el supuesto referido en la fracción anterior, dentro de los últimos cinco años, forman parte de las organizaciones civiles y fideicomisos autorizados para recibir donativos deducibles durante la vigencia de la misma.
+
+VI. Encontrarse en el supuesto establecido en el último párrafo del artículo 80 de esta Ley.
+
+Las organizaciones civiles y fideicomisos cuya autorización para recibir donativos deducibles para efectos del impuesto sobre la renta haya sido revocada por las causales a que se refieren las fracciones I a V de este apartado, no podrán obtener nuevamente la autorización para recibir donativos deducibles, hasta en tanto no corrijan el motivo por el cual fueron revocadas o en su caso paguen el impuesto sobre la renta correspondiente.
+
+En el caso de que las organizaciones civiles y fideicomisos cuya autorización para recibir donativos deducibles para efectos del impuesto sobre la renta hayan sido revocadas en una ocasión por la causal a que se refiere la fracción VI de este apartado, no podrán obtener nuevamente la autorización y deberán destinar todo su patrimonio a otra donataria autorizada para recibir donativos deducibles del impuesto sobre la renta.
+
+B. El Servicio de Administración Tributaria realizará el procedimiento de revocación de la autorización para recibir donativos deducibles del impuesto sobre la renta conforme a lo siguiente:
+
+I. Emitirá oficio a través del cual dé a conocer a la donataria autorizada la causal de revocación que se configure conforme al apartado anterior, otorgándole un plazo de diez días hábiles siguientes a aquél en el que surta efectos la notificación de dicho oficio, a fin de que manifieste ante la autoridad fiscal lo que a su derecho convenga, aportando la documentación e información que considere pertinente para desvirtuar la misma.
+
+Se admitirá toda clase de pruebas, excepto la testimonial y la confesional a cargo de las autoridades. Las pruebas se valorarán en los términos del artículo 130 del Código Fiscal de la Federación.
+
+II. Agotado el plazo a que se refiere la fracción anterior, la autoridad fiscal emitirá la resolución correspondiente en un plazo que no excederá de tres meses, contados a partir del día siguiente a aquél en que se agotó el referido plazo.
+
+III. La resolución señalada en la fracción que antecede se notificará de conformidad con las disposiciones fiscales aplicables.
+
+*Artículo adicionado DOF 08-12-2020*
 
 ##### Artículo 83.
 
@@ -2522,13 +2576,9 @@ III. Que cumplan con los requisitos a los que se refieren las fracciones II a VI
 
 ##### Artículo 84.
 
-Los programas de escuela empresa establecidos por instituciones que cuenten con autorización de la autoridad fiscal, serán contribuyentes de este impuesto y la institución que establezca el programa será responsable solidaria con la misma.
+Se deroga.
 
-Los programas mencionados podrán obtener autorización para constituirse como empresas independientes, en cuyo caso considerarán ese momento como el de inicio de actividades.
-
-El Servicio de Administración Tributaria, mediante reglas de carácter general, establecerá las obligaciones formales y la forma en que se efectuarán los pagos provisionales, en tanto dichas empresas se consideren dentro de los programas de escuela empresa.
-
-Los programas de escuela empresa a que se refiere este artículo, podrán obtener autorización para recibir donativos deducibles del impuesto sobre la renta, siempre que cumplan con los requisitos a que se refiere el artículo 82 de esta Ley, salvo lo dispuesto en la fracción I del mismo artículo.
+*Artículo derogado DOF 08-12-2020*
 
 ##### Artículo 85.
 
@@ -2893,6 +2943,10 @@ El pago del impuesto a que se refiere este artículo deberá efectuarse mediante
 Se estima que los ingresos previstos en el presente artículo los obtiene en su totalidad quien realiza el trabajo. Para los efectos de este Capítulo, los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el año de calendario en que sean cobrados.
 
 No se considerarán ingresos en bienes, los servicios de comedor y de comida proporcionados a los trabajadores ni el uso de bienes que el patrón proporcione a los trabajadores para el desempeño de las actividades propias de éstos siempre que, en este último caso, los mismos estén de acuerdo con la naturaleza del trabajo prestado.
+
+Cuando los ingresos percibidos en el ejercicio por los conceptos a que se refieren las fracciones IV, V y VI de este artículo, hayan excedido en lo individual o en su conjunto, setenta y cinco millones de pesos, no les serán aplicables las disposiciones de este Capítulo, en cuyo caso las personas físicas que los perciban deberán pagar el impuesto respectivo en los términos del capítulo que corresponda de conformidad con las disposiciones de este Título a partir del mes siguiente a la fecha en que tales ingresos excedan los referidos setenta y cinco millones de pesos. Las personas físicas que se encuentren en el supuesto establecido en este párrafo, deberán comunicar esta situación por escrito a los prestatarios o a las personas que les efectúen los pagos, para lo cual se estará a lo dispuesto en las reglas de carácter general que emita el Servicio de Administración Tributaria.
+
+*Párrafo adicionado DOF 08-12-2020*
 
 ##### Artículo 95.
 
@@ -3350,43 +3404,19 @@ Están obligados al pago del impuesto establecido en esta Sección, los contribu
 
 El impuesto a que se refiere el párrafo anterior, se pagará mediante retención que efectuarán las personas morales residentes en México o residentes en el extranjero con o sin establecimiento permanente en el país, así como las entidades o figuras jurídicas extranjeras que proporcionen, de manera directa o indirecta, el uso de las citadas plataformas tecnológicas, aplicaciones informáticas y similares.
 
-La retención se deberá efectuar sobre el total de los ingresos que efectivamente perciban las personas físicas por conducto de los citados medios a que se refiere el primer párrafo de este artículo, sin incluir el impuesto al valor agregado. Esta retención tendrá el carácter de pago provisional. Al monto total de los ingresos mencionados se le aplicarán las tasas de retención previstas en las siguientes tablas:
+La retención se deberá efectuar sobre el total de los ingresos que efectivamente perciban las personas físicas por conducto de los citados medios a que se refiere el primer párrafo de este artículo, sin incluir el impuesto al valor agregado. Esta retención tendrá el carácter de pago provisional. Al monto total de los ingresos mencionados se le aplicarán las siguientes tasas de retención:
 
-I. Tratándose de prestación de servicios de transporte terrestre de pasajeros y de entrega de bienes.
+I. Tratándose de prestación de servicios de transporte terrestre de pasajeros y de entrega de bienes la retención se hará por el 2.1%.
 
-|   |   |
-|---|---|
-| Monto del ingreso mensual | Tasa de retención |
-| Hasta \$5,500 | 2 |
-| Hasta \$15,000 | 3 |
-| Hasta \$21,000 | 4 |
-| Más de \$21,000 | 8 |
+II. Tratándose de prestación de servicios de hospedaje la retención se hará por el 4%.
 
-II. Tratándose de prestación de servicios de hospedaje.
+III. Tratándose de enajenación de bienes y prestación de servicios la retención se hará por el 1%.
 
-|   |   |
-|---|---|
-| Monto del ingreso mensual | Tasa de retención |
-| Hasta \$5,000 | 2 |
-| Hasta \$15,000 | 3 |
-| Hasta \$35,000 | 5 |
-| Más de \$35,000 | 10 |
-
-III. Tratándose de enajenación de bienes y prestación de servicios.
-
-|   |   |
-|---|---|
-| Monto del ingreso mensual | Tasa de retención |
-| Hasta \$1,500 | 0.4% |
-| Hasta \$5,000 | 0.5% |
-| Hasta \$10,000 | 0.9% |
-| Hasta \$25,000 | 1.1% |
-| Hasta \$100,000 | 2.0% |
-| Más de \$100,000 | 5.4% |
-
-Las cantidades establecidas en moneda nacional contenidas en las tablas previstas en el párrafo anterior, se actualizarán en los términos y condiciones que establece el artículo 152, último párrafo de esta Ley.
+*Párrafo con fracciones reformado DOF 08-12-2020*
 
 Cuando las personas físicas a que se refiere el primer párrafo de este artículo reciban una parte del pago de las contraprestaciones por la prestación de servicios o la enajenación de bienes directamente de los usuarios o los adquirentes de los mismos, y el total de sus ingresos, incluyendo aquellos efectivamente percibidos por conducto de las citadas plataformas, no excedan de trescientos mil pesos anuales, podrán optar por pagar el impuesto sobre la renta por dichos ingresos recibidos directamente de los usuarios de los servicios o adquirientes de bienes, aplicando las tasas de retención a que se refiere el presente artículo al total de los ingresos recibidos, incluyendo aquellos efectivamente percibidos por conducto de las citadas plataformas tecnológicas, aplicaciones informáticas y similares, y deberán acreditar el impuesto que, en su caso, les hubieran retenido en los términos del presente artículo. El impuesto que se pague en términos de este párrafo se considerará como pago definitivo.
+
+*Reforma DOF 08-12-2020: Derogó del artículo el entonces párrafo cuarto*
 
 *Artículo adicionado DOF 09-12-2019*
 
@@ -3437,6 +3467,16 @@ V. Conservar como parte de su contabilidad la documentación que demuestre que e
 Las obligaciones establecidas en las fracciones III, IV y V de este artículo, deberán cumplirse de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
 
 *Artículo adicionado DOF 09-12-2019*
+
+##### Artículo 113-D.
+
+Será aplicable la sanción prevista en el artículo 18-H BIS de la Ley del Impuesto al Valor Agregado, tratándose del incumplimiento de las obligaciones de retener y enterar el impuesto sobre la renta en los términos del artículo 113-C, fracción IV de esta Ley, en el que incurran durante tres meses consecutivos las personas morales residentes en el extranjero sin establecimiento permanente en el país, así como las entidades o figuras jurídicas extranjeras a que se refiere el artículo 113-A, segundo párrafo de esta Ley.
+
+La sanción a que se refiere el presente artículo es independiente de aquélla que corresponda de conformidad con lo dispuesto en el Código Fiscal de la Federación.
+
+Para los efectos del bloqueo temporal del acceso al servicio digital previsto en este artículo y, en su caso, para su desbloqueo, serán aplicables en lo conducente los artículos 18-H TER, 18-H QUÁTER y 18-H QUINTUS de la Ley del Impuesto al Valor Agregado, cuando las personas morales y las entidades o figuras jurídicas extranjeras a que se refiere el primer párrafo de este artículo, incumplan las obligaciones de retener y enterar el impuesto sobre la renta en los términos del artículo 113-C, fracción IV de esta Ley, durante tres meses consecutivos.
+
+*Artículo adicionado DOF 08-12-2020*
 
 ### CAPÍTULO III · DE LOS INGRESOS POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR EL USO O GOCE TEMPORAL DE BIENES INMUEBLES
 
@@ -4206,7 +4246,9 @@ d) A las personas morales a las que se refieren las fracciones VI, X, XI, XX y X
 
 e) A las asociaciones y sociedades civiles que otorguen becas y cumplan con los requisitos del artículo 83 de esta Ley.
 
-f) A programas de escuela empresa.
+f) Se deroga.
+
+*Inciso derogado DOF 08-12-2020*
 
 El Servicio de Administración Tributaria publicará en el Diario Oficial de la Federación y dará a conocer en su página electrónica de Internet los datos de las instituciones a que se refieren los incisos b), c), d) y e) de esta fracción que reúnan los requisitos antes señalados.
 
@@ -5130,7 +5172,9 @@ Las personas residentes en el país que opten por aplicar lo dispuesto en esta f
 
 Las empresas con programa de maquila que apliquen lo dispuesto en este artículo, deberán presentar anualmente ante las autoridades fiscales, a más tardar en el mes de junio del año de que se trate, declaración informativa de sus operaciones de maquila en términos de lo que establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
 
-La persona residente en el país podrá obtener una resolución particular en los términos del artículo 34-A del Código Fiscal de la Federación en la que se confirme que se cumple con los artículos 179 y 180 de esta Ley. Dicha resolución particular no será necesaria para satisfacer los requerimientos de este artículo.
+La persona residente en el país podrá obtener una resolución particular en los términos del artículo 34-A del Código Fiscal de la Federación en la que se confirme que se cumple con los artículos 179 y 180 de esta Ley.
+
+*Párrafo reformado DOF 08-12-2020*
 
 Las personas residentes en el país que hayan optado por aplicar lo dispuesto en el presente artículo quedarán exceptuadas de la obligación de presentar la declaración informativa señalada en la fracción X del artículo 76 de esta Ley, únicamente por la operación de maquila.
 
@@ -6699,3 +6743,31 @@ Las Entidades Federativas deberán participar cuando menos el 20% del incentivo 
 Ciudad de México, a 30 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Citlalli Hernández Mora, Secretaria.- Dip. Lizbeth Mata Lozano, Secretaria.- Rúbricas.”
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de diciembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto al Valor Agregado y del Código Fiscal de la Federación.
+
+*Publicado en el Diario Oficial de la Federación el 8 de diciembre de 2020*
+
+LEY DEL IMPUESTO SOBRE LA RENTA
+
+**Artículo Primero.** Se reforman los artículos 79, fracciones VIII, XI, XVII, XIX, XX y segundo párrafo; 82, fracciones IV, V, segundo y tercer párrafos, y VI; 113-A, tercer párrafo, fracciones I, II y III, y 182, tercer párrafo; se adicionan los artículos 80, con un octavo párrafo; 82, fracción V, con un cuarto párrafo, y 82-Quáter, 94, con un séptimo párrafo, y 113-D, y se derogan los artículos 27, fracción I, inciso f); 82-Ter; 84, y 151, fracción III, inciso f), de la Ley del Impuesto sobre la Renta, para quedar como sigue:
+
+……..
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE LA RENTA
+
+**Artículo Segundo.** En relación con las modificaciones a las que se refiere el artículo Primero de este Decreto, se estará a lo siguiente:
+
+I. Cuando a la fecha de su entrada en vigor las personas morales mencionadas en las fracciones XI, XVII, XIX y XX del artículo 79 de la Ley del Impuesto sobre la Renta, no cuenten con autorización para recibir donativos deducibles, a partir de esa fecha deberán tributar en los términos del Título II de la citada Ley. No obstante, deberán determinar el remanente distribuible generado al 31 de diciembre de 2020 en los términos del Título III de la Ley del Impuesto sobre la Renta vigente hasta esta última fecha, y sus socios e integrantes acumularán el remanente que las personas morales mencionadas les entreguen en efectivo o en bienes.
+
+II. La reforma a las fracciones XI, XVII, XIX y XX del artículo 79 de la Ley del Impuesto sobre la Renta entrará en vigor el 1 de julio de 2021.
+
+………
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el 1 de enero de 2021.
+
+Ciudad de México, a 5 de noviembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
