@@ -3,12 +3,12 @@ title: Código de Comercio
 abbreviation: CCom
 slug: ccom
 published_dof: 1889-10-07
-last_reform_dof: 2019-12-30
+last_reform_dof: 2020-12-24
 articles: 1641
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/3_301219.doc
-archived: https://web.archive.org/web/20200131180701/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3_301219.doc
-source_sha256: 3bfd5e02efe726eea2eda1fedb918e9fa4050ad6a486bef2744586c72bc96383
-retrieved: 2020-01-31
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/3_241220.doc
+archived: https://web.archive.org/web/20210422180343/http://www.diputados.gob.mx/LeyesBiblio/doc/3_241220.doc
+source_sha256: df962703c28d5cd78f0e20a1c5b10c6355cb60ed752edb84ba4056d0bd290fcd
+retrieved: 2021-04-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccom.htm
 ---
 
@@ -20,7 +20,7 @@ TEXTO VIGENTE
 
 Última reforma publicada DOF 28-03-2018
 
-Cantidades actualizadas por Acuerdo DOF 30-12-2019
+Cantidades actualizadas por Acuerdo DOF 24-12-2020
 
 El Presidente de la República se ha servido dirigirme el decreto que sigue:
 
@@ -7880,9 +7880,9 @@ Para hacer cumplir sus determinaciones el juez puede emplear cualquiera de las s
 
 I. Amonestación;
 
-II. Multa hasta de \$8,191.76, monto que se actualizará en términos del artículo 1253, fracción VI;
+II. Multa hasta de \$8,464.55, monto que se actualizará en términos del artículo 1253, fracción VI;
 
-Multa de la fracción actualizada DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019
+Multa de la fracción actualizada DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020
 
 III. El uso de la fuerza pública y rompimiento de cerraduras si fuere necesaria, y
 
@@ -9566,9 +9566,9 @@ V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten su
 
 VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.
 
-En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de \$4,095.88 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
+En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de \$4,232.27 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
-*Párrafo reformado DOF 30-12-2008, 09-01-2012. Multa del actualizada DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019*
+*Párrafo reformado DOF 30-12-2008, 09-01-2012. Multa del actualizada DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020*
 
 Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dicho monto y el mes de noviembre del año en cuestión.
 
@@ -10188,9 +10188,9 @@ La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sól
 
 ###### Artículo 1339.
 
-Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a \$682,646.89 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
+Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a \$705,379.03 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
 
-*Párrafo reformado DOF 09-01-2012. Cantidad actualizada DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019*
+*Párrafo reformado DOF 09-01-2012. Cantidad actualizada DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020*
 
 Corresponderá a la Secretaría de Economía actualizar cada año por inflación el monto expresado en pesos en el párrafo anterior y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
@@ -10224,9 +10224,9 @@ Los asuntos de cuantía indeterminada siempre serán apelables.
 
 ###### Artículo 1340.
 
-La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a \$682,646.89 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
+La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a \$705,379.03 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
 
-*Artículo reformado DOF 30-12-1975, 04-01-1989, 17-04-2008, 30-12-2008, 09-01-2012. Cantidad actualizada DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019*
+*Artículo reformado DOF 30-12-1975, 04-01-1989, 17-04-2008, 30-12-2008, 09-01-2012. Cantidad actualizada DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020*
 
 ###### Artículo 1341.
 
@@ -11086,9 +11086,9 @@ VI. La citación para audiencia de juicio.
 
 ###### Artículo 1390 Bis 33.
 
-La audiencia preliminar se llevará a cabo con o sin asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a \$ 2,299.59, ni superior a \$7,447.30, monto que se actualizará en los términos del artículo 1253, fracción VI de este Código.
+La audiencia preliminar se llevará a cabo con o sin asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a \$2,376.16, ni superior a \$7,695.30, monto que se actualizará en los términos del artículo 1253, fracción VI de este Código.
 
-*Artículo adicionado DOF 27-01-2011. Cantidades actualizadas DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016. Reformado DOF 25-01-2017. Cantidades actualizadas DOF 26-12-2017, 31-12-2018, 30-12-2019*
+*Artículo adicionado DOF 27-01-2011. Cantidades actualizadas DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016. Reformado DOF 25-01-2017. Cantidades actualizadas DOF 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020*
 
 ###### Artículo 1390 Bis 34.
 
@@ -14057,3 +14057,25 @@ e) Artículo 1390 Bis 33: de \$ 2,299.59 (Dos mil doscientos noventa y nueve pes
 **ÚNICO.-** El presente Acuerdo entrará en vigor el 1 de enero de 2020.
 
 Ciudad de México, a 23 de diciembre de 2019.- La Secretaria de Economía, Graciela Márquez Colín.- Rúbrica.
+
+### ACUERDO para la actualización de los montos establecidos en los artículos 1067 Bis fracción II, 1253 fracción VI, 1339, 1340 y 1390 Bis 33 del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2020*
+
+**ÚNICO.-** Los montos actualizados correspondientes a los artículos 1067 Bis fracción II; 1253 fracción VI; 1339; 1340 y 1390 Bis 33 del Código de Comercio, son los siguientes:
+
+a) Artículo 1067 Bis fracción II: \$8,464.55 (Ocho mil cuatrocientos sesenta y cuatro mil pesos 55/100 M.N.).
+
+b) Artículo 1253 fracción VI: \$4,232.27 (Cuatro mil doscientos treinta y dos pesos 27/100 M.N.).
+
+c) Artículo 1339: \$705,379.03 (Setecientos cinco mil trescientos setenta y nueve pesos 03/100 M.N.).
+
+d) Artículo 1340: \$705,379.03 (Setecientos cinco mil trescientos setenta y nueve pesos 03/100 M.N.).
+
+e) Artículo 1390 Bis 33: de \$2,376.16 (Dos mil trescientos setenta y seis pesos 16/100 M.N.) \$7,695.30 (Siete mil seiscientos noventa y cinco pesos 30/100 M.N.).
+
+**TRANSITORIO**
+
+**ÚNICO. -** El presente Acuerdo entrará en vigor el 1 de enero de 2021.
+
+Ciudad de México, a 17 de diciembre de 2020.- La Secretaria de Economía, Graciela Márquez Colín.- Rúbrica.
