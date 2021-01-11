@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2020-01-22
+last_reform_dof: 2021-01-11
 articles: 67
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_220120.doc
-archived: https://web.archive.org/web/20200327142233/http://www.diputados.gob.mx:80/LeyesBiblio/doc/153_220120.doc
-source_sha256: a0171416b3efeec1bf0eafa84ccb8268e62fe5b4e4656f5016352136c41d5d16
-retrieved: 2020-03-27
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_110121.doc
+archived: https://web.archive.org/web/20210422185857/http://www.diputados.gob.mx/LeyesBiblio/doc/153_110121.doc
+source_sha256: c0c2b7e7b2a3021210f3b15b87f7fab317833be5051fcba49f5fc326578b52f8
+retrieved: 2021-04-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 22-01-2020
+Última reforma publicada DOF 11-01-2021
+
+> Nota de vigencia: Las reformas a los artículos 30, fracciones V, incisos c) y d), VI y IX; 36, fracciones I, XII, y XV; las adiciones al artículo 30, fracciones V Bis, VI Bis, XII Bis, XII Ter, XIV Bis, XIV Ter y XIV Quáter, y la derogación al artículo 36, fracciones XIV, XVI, XVII, XVIII, XIX y XX, publicadas en el DOF 07-12-2020, entrarán en vigor el 5 de junio de 2021.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -554,9 +556,17 @@ XVII.- Intervenir en la importación y exportación de toda clase de armas de fu
 
 XVIII.- Intervenir en el otorgamiento de permisos para expediciones o exploraciones científicas extranjeras o internacionales en el territorio nacional;
 
-XIX.- Prestar los servicios auxiliares que requieran el Ejército y la Fuerza Aérea, así como los servicios civiles que a dichas fuerzas señale el Ejecutivo Federal, y
+XIX.- Prestar los servicios auxiliares que requieran el Ejército y la Fuerza Aérea, así como los servicios civiles que a dichas fuerzas señale el Ejecutivo Federal;
 
-XX.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+*Fracción reformada DOF 11-01-2021*
+
+XX.- Establecer acuerdos de colaboración con las instituciones ambientales a efecto de capacitar a los integrantes del servicio militar para la ejecución de actividades tendientes a proteger el medio ambiente, y
+
+*Fracción adicionada DOF 11-01-2021*
+
+XXI.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+
+*Fracción recorrida DOF 11-01-2021*
 
 #### Artículo 30.
 
@@ -582,19 +592,35 @@ c. Las medidas y competencias que le otorguen los ordenamientos legales y los in
 
 *Fracción reformada DOF 04-05-2006*
 
-V.- Ejercer la autoridad en las zonas marinas mexicanas, en las materias siguientes:
+V. Ejercer la Autoridad Marítima Nacional en las zonas marinas mexicanas, costas, puertos, recintos portuarios, terminales, marinas e instalaciones portuarias nacionales; así como, en su caso, aguas nacionales donde se realicen actividades de su competencia, en las materias siguientes:
+
+*Párrafo reformado DOF 07-12-2020*
 
 a) Cumplimiento del orden jurídico nacional en las materias de su competencia;
 
 b) Seguridad marítima, salvamento en caso de accidentes o incidentes de embarcaciones y búsqueda y rescate para salvaguardar la vida humana en la mar y el control de tráfico marítimo;
 
-c) Vertimiento de desechos y otras materias al mar distintas al de aguas residuales, y
+c) Prevención de la contaminación marina originada por embarcaciones o artefactos navales, así como el vertimiento de desechos y otras materias al mar distintas al de aguas residuales, y
 
-d) Protección marítima y portuaria, en los términos que fijan los tratados internacionales y las leyes de la materia, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Federal;
+*Inciso reformado DOF 07-12-2020*
+
+d) Protección marítima y portuaria, en los términos que fijan los tratados internacionales de los que el Estado mexicano es parte y la normatividad nacional en la materia, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Federal;
+
+*Inciso reformado DOF 07-12-2020*
 
 *Fracción reformada DOF 04-05-2006, 26-12-2013, 19-12-2016*
 
-VI.- Dirigir la educación pública naval;
+V Bis. Regular las comunicaciones y transportes por agua, así como formular y conducir las políticas y programas para su desarrollo, de acuerdo a las necesidades del país;
+
+*Fracción adicionada DOF 07-12-2020*
+
+VI. Dirigir la educación naval militar y la educación náutica mercante;
+
+*Fracción reformada DOF 07-12-2020*
+
+VI Bis. Regular, promover y organizar a la marina mercante, así como establecer los requisitos que deba satisfacer el personal técnico de la marina mercante y conceder las licencias y autorizaciones respectivas;
+
+*Fracción adicionada DOF 07-12-2020*
 
 VII.- Mantener el estado de derecho en las zonas marinas mexicanas, costas y recintos portuarios, ejerciendo funciones de guardia costera a través de la Armada;
 
@@ -614,7 +640,9 @@ VII Quáter.- Administrar y operar el señalamiento marítimo, así como proporc
 
 VIII.- Inspeccionar los servicios de la Armada;
 
-IX.- Construir, reconstruir y conservar las obras portuarias que requiera la Armada;
+IX. Construir, reconstruir y conservar las obras portuarias que requiera la Armada y la Secretaría de Marina, así como las obras marítimas, portuarias y de dragado que requiera el país y, en su caso, autorizarlas cuando sobrepasen sus capacidades técnicas y operativas;
+
+*Fracción reformada DOF 07-12-2020*
 
 X.- Establecer y administrar los almacenes y estaciones de combustibles y lubricantes de la Armada;
 
@@ -624,11 +652,31 @@ XI.- Ejecutar los trabajos hidrográficos de las costas, islas, puertos y vías 
 
 XII.- Intervenir en el otorgamiento de permisos para expediciones o exploraciones científicas, extranjeras o internacionales en aguas nacionales;
 
+XII Bis. Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones y transportes por agua con embarcaciones o artefactos navales;
+
+*Fracción adicionada DOF 07-12-2020*
+
+XII Ter. Coordinar la implementación de las acciones necesarias con las demás dependencias de la Administración Pública Federal, para el cumplimiento de las disposiciones nacionales e internacionales en materia marítima, en el ámbito de su competencia;
+
+*Fracción adicionada DOF 07-12-2020*
+
 XIII.- Intervenir en la administración de la justicia militar;
 
 XIV.- Construir, mantener y operar astilleros, diques, varaderos, dragas, unidades y establecimientos navales y aeronavales, para el cumplimiento de la misión de la Armada de México, así como prestar servicios en el ámbito de su competencia que coadyuven al desarrollo marítimo nacional, de conformidad con las disposiciones aplicables y en concordancia con las políticas y programas que para dicho desarrollo determine la Secretaría de Comunicaciones y Transportes y las demás dependencias que tengan relación con el mismo;
 
 *Fracción reformada DOF 04-05-2006*
+
+XIV Bis. Coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación para su eficiente operación y funcionamiento;
+
+*Fracción adicionada DOF 07-12-2020*
+
+XIV Ter. Administrar los puertos centralizados y coordinar los de la administración paraestatal, y otorgar concesiones y permisos para la ocupación de las zonas federales dentro de los recintos portuarios;
+
+*Fracción adicionada DOF 07-12-2020*
+
+XIV Quáter. Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes por agua y las tarifas para el cobro de los mismos; otorgar concesiones y permisos, y fijar las tarifas y reglas de aplicación de todas las maniobras y servicios marítimos, portuarios, auxiliares y conexos relacionados con las comunicaciones y transportes por agua; así como participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes por agua;
+
+*Fracción adicionada DOF 07-12-2020*
 
 XV.- Emitir opinión con fines de seguridad nacional en los proyectos de construcción de toda clase de vías generales de comunicación por agua y sus partes, relacionados con la ingeniería portuaria marítima y señalamiento marino;
 
@@ -1462,9 +1510,9 @@ XXIV. Los demás que expresamente le atribuyan las leyes y reglamentos.
 
 A la Secretaría de Comunicaciones y Transportes corresponde el despacho de los siguientes asuntos:
 
-I.- Formular y conducir las políticas y programas para el desarrollo del transporte, con la intervención que las leyes otorgan a la Secretaría de Marina respecto al transporte por agua, así como de las comunicaciones, de acuerdo a las necesidades del país;
+I. Formular y conducir las políticas y programas para el desarrollo de las comunicaciones y transporte terrestre y aéreo, de acuerdo a las necesidades del país;
 
-*Fracción reformada DOF 19-12-2016*
+*Fracción reformada DOF 19-12-2016, 07-12-2020*
 
 I Bis.- Elaborar y conducir las políticas de telecomunicaciones y radiodifusión del Gobierno Federal;
 
@@ -1496,29 +1544,39 @@ X.- (Se deroga).
 
 XI.- Participar en los convenios para la construcción y explotación de los puentes internacionales;
 
-XII.- Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes y las tarifas para el cobro de los mismos, así como otorgar concesiones y permisos y fijar las tarifas y reglas de aplicación de todas las maniobras y servicios marítimos, portuarios, auxiliares y conexos relacionados con los transportes o las comunicaciones; y participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes;
+XII. Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes aéreos y terrestres, y las tarifas para el cobro de los mismos, así como participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes aéreos y terrestres;
+
+*Fracción reformada DOF 07-12-2020*
 
 XIII.- Fomentar la organización de sociedades cooperativas cuyo objeto sea la prestación de servicios de comunicaciones y transportes;
 
-XIV.- Regular, promover y organizar la marina mercante;
+XIV. Se deroga.
 
-XV.- Establecer los requisitos que deban satisfacer el personal técnico de la aviación civil, marina mercante, servicios públicos de transporte terrestre, así como conceder las licencias y autorizaciones respectivas;
+*Fracción derogada DOF 07-12-2020*
 
-*Fracción reformada DOF 14-07-2014*
+XV. Establecer los requisitos que deban satisfacer el personal técnico de la aviación civil, servicios públicos de transporte terrestre, así como conceder las licencias y autorizaciones respectivas;
 
-XVI.- Regular las comunicaciones y transportes por agua;
+*Fracción reformada DOF 14-07-2014, 07-12-2020*
 
-XVII.- Participar con la Secretaría de Marina en la aplicación de las medidas en materia de seguridad y protección marítima;
+XVI. Se deroga.
 
-*Fracción reformada DOF 26-12-2013, 19-12-2016*
+*Fracción derogada DOF 07-12-2020*
 
-XVIII.- Construir, reconstruir y conservar las obras marítimas, portuarias y de dragado;
+XVII. Se deroga.
 
-*Fracción reformada DOF 19-12-2016*
+*Fracción reformada DOF 26-12-2013, 19-12-2016. Derogada DOF 07-12-2020*
 
-XIX.- Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones por agua; así como coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación para su eficiente operación y funcionamiento, salvo los asignados a la Secretaría de Marina;
+XVIII. Se deroga.
 
-XX.- Administrar los puertos centralizados y coordinar los de la administración paraestatal, y otorgar concesiones y permisos para la ocupación de las zonas federales dentro de los recintos portuarios;
+*Fracción reformada DOF 19-12-2016. Derogada DOF 07-12-2020*
+
+XIX. Se deroga.
+
+*Fracción derogada DOF 07-12-2020*
+
+XX. Se deroga.
+
+*Fracción derogada DOF 07-12-2020*
 
 XXI.- Construir y conservar los caminos y puentes federales, incluso los internacionales; así como las estaciones y centrales de autotransporte federal;
 
@@ -4171,3 +4229,55 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 10 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Jesús Carlos Vidal Peniche, Secretario.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley de Puertos.
+
+*Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2020*
+
+**Artículo Primero.** Se reforman los artículos 30, fracciones V, incisos c) y d), VI y IX; 36, fracciones I, XII, y XV; se adicionan el artículo 30, fracciones V Bis, VI Bis, XII Bis, XII Ter, XIV Bis, XIV Ter y XIV Quáter, y se deroga el artículo 36, fracciones XIV, XVI, XVII, XVIII, XIX y XX de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Ejecutivo Federal y la Secretaría de Marina, en el ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+En tanto el Ejecutivo Federal o la Secretaría de Marina expidan las modificaciones a las disposiciones reglamentarias y administrativas que sean necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se opongan, las disposiciones emitidas con anterioridad a la entrada en vigor del presente Decreto.
+
+**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
+
+**Cuarto.** Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes, respecto a la Coordinación General de Puertos y Marina Mercante, incluidas las Administraciones Portuarias Integrales y en general, todos aquellos recursos necesarios para la ejecución de las atribuciones que por virtud de este Decreto serán trasladadas a la Secretaría de Marina, tales como dragado, puertos, y educación náutica, se transferirán a esta última dependencia a más tardar en la fecha de entrada en vigor del mismo.
+
+La transferencia señalada en el párrafo anterior incluirá la administración y los recursos humanos, materiales y financieros pertenecientes al Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante, así como lo concerniente al Fideicomiso del Fondo para el Fortalecimiento a la Infraestructura Portuaria y en general todos aquellos Fideicomisos y Entidades del Sector relacionados con la transferencia de atribuciones señaladas en el presente Decreto.
+
+Las Secretarías de Comunicaciones y Transportes y de Marina serán responsables del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la administración pública federal.
+
+Las Secretarías de Hacienda y Crédito Público y de la Función Pública establecerán los lineamientos y disposiciones de carácter general que sean necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
+
+**Quinto.** Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán conforme a la legislación aplicable.
+
+**Sexto.** Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
+
+**Séptimo.** A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de la Secretaría de Comunicaciones y Transportes cuyas atribuciones se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
+
+Ciudad de México, a 28 de octubre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se adiciona una fracción XX al artículo 29 de la Ley Orgánica de la Administración Pública Federal.
+
+*Publicado en el Diario Oficial de la Federación el 11 de enero de 2021*
+
+**Artículo Único.** Se adiciona una fracción XX, recorriéndose la actual XX para pasar a ser XXI, al artículo 29 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 27 de noviembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Mónica Bautista Rodríguez, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
