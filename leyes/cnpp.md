@@ -3,12 +3,12 @@ title: Código Nacional de Procedimientos Penales
 abbreviation: CNPP
 slug: cnpp
 published_dof: 2014-03-05
-last_reform_dof: 2020-01-22
+last_reform_dof: 2021-02-19
 articles: 490
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_220120.doc
-archived: https://web.archive.org/web/20200228071112/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_220120.doc
-source_sha256: e3eec7e993f87f36a47c8744aaa2501bc3a2a17214f11447fd0e22b0846bc4f2
-retrieved: 2020-02-28
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc
+archived: https://web.archive.org/web/20230122184210/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc
+source_sha256: 2760a6738af543d021819a40b2df18ab8bd749645c53bdf32cce84258683aef7
+retrieved: 2023-01-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 ---
 
@@ -16,7 +16,9 @@ reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 
 Nuevo Código publicado en el Diario Oficial de la Federación el 5 de marzo de 2014
 
-Última reforma publicada DOF 22-01-2020
+Última reforma publicada DOF 19-02-2021
+
+Declaratoria de invalidez de artículos por Sentencia de la SCJN notificada al Congreso de la Unión para efectos legales el 25-11-2022
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -2090,11 +2092,13 @@ El Ministerio Público sólo podrá solicitar al Juez de control la prisión pre
 
 En el supuesto de que el imputado esté siendo procesado por otro delito distinto de aquel en el que se solicite la prisión preventiva, deberá analizarse si ambos procesos son susceptibles de acumulación, en cuyo caso la existencia de proceso previo no dará lugar por si sola a la procedencia de la prisión preventiva.
 
-El Juez de control en el ámbito de su competencia, ordenará la prisión preventiva oficiosamente en los casos de delincuencia organizada, homicidio doloso, violación, secuestro, trata de personas, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley contra la seguridad de la Nación, el libre desarrollo de la personalidad y de la salud.
+El Juez de control en el ámbito de su competencia, ordenará la prisión preventiva oficiosamente en los casos de abuso o violencia sexual contra menores, delincuencia organizada, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad, y de la salud.
 
-Las leyes generales de salud, secuestro y trata de personas establecerán los supuestos que ameriten prisión preventiva oficiosa.
+*Párrafo reformado DOF 19-02-2021*
 
-La ley en materia de delincuencia organizada establecerá los supuestos que ameriten prisión preventiva oficiosa.
+Las leyes generales de salud, secuestro, trata de personas, delitos electorales y desaparición forzada de personas y desaparición cometida por particulares, así como las leyes federales para prevenir y sancionar los delitos cometidos en materia de hidrocarburos, armas de fuego y explosivos, y contra la delincuencia organizada, establecerán los supuestos que ameriten prisión preventiva oficiosa de conformidad con lo dispuesto por el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Párrafo reformado DOF 19-02-2021*
 
 Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Penal Federal, de la manera siguiente:
 
@@ -2120,19 +2124,59 @@ IX. Corrupción de personas menores de dieciocho años de edad o de personas que
 
 X. Tráfico de menores, previsto en el artículo 366 Ter;
 
-XI. Contra la salud, previsto en los artículos 194, 195, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero.
+XI. Contra la salud, previsto en los artículos 194, 195, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;
 
-Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Fiscal de la Federación, de la siguiente manera:
+*Fracción reformada DOF 19-02-2021*
+
+XII. Abuso o violencia sexual contra menores, previsto en los artículos 261 en relación con el 260;
+
+*Fracción adicionada DOF 19-02-2021*
+
+XIII. Feminicidio, previsto en el artículo 325;
+
+*Fracción adicionada DOF 19-02-2021*
+
+XIV. Robo a casa habitación, previsto en el artículo 381 Bis;
+
+*Fracción adicionada DOF 19-02-2021*
+
+XV. Ejercicio abusivo de funciones, previsto en las fracciones I y II del primer párrafo del artículo 220, en relación con su cuarto párrafo;
+
+*Fracción adicionada DOF 19-02-2021*
+
+XVI. Enriquecimiento ilícito previsto en el artículo 224, en relación con su séptimo párrafo, y
+
+*Fracción adicionada DOF 19-02-2021*
+
+XVII. Robo al transporte de carga, en cualquiera de sus modalidades, previsto en los artículos 376 Ter y 381, fracción XVII.
+
+*Fracción adicionada DOF 19-02-2021*
+
+[Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Fiscal de la Federación, de la siguiente manera:
 
 I. Contrabando y su equiparable, de conformidad con lo dispuesto en los artículos 102 y 105, fracciones I y IV, cuando estén a las sanciones previstas en las fracciones II o III, párrafo segundo, del artículo 104, exclusivamente cuando sean calificados;
 
 II. Defraudación fiscal y su equiparable, de conformidad con lo dispuesto en los artículos 108 y 109, cuando el monto de lo defraudado supere 3 veces lo dispuesto en la fracción III del artículo 108 del Código Fiscal de la Federación, exclusivamente cuando sean calificados, y
 
-III. La expedición, venta, enajenación, compra o adquisición de comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados, de conformidad con lo dispuesto en el artículo 113 Bis del Código Fiscal de la Federación, exclusivamente cuando las cifras, cantidad o valor de los comprobantes fiscales, superen 3 veces lo establecido en la fracción III del artículo 108 del Código Fiscal de la Federación.
+III. La expedición, venta, enajenación, compra o adquisición de comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados, de conformidad con lo dispuesto en el artículo 113 Bis del Código Fiscal de la Federación, exclusivamente cuando las cifras, cantidad o valor de los comprobantes fiscales, superen 3 veces lo establecido en la fracción III del artículo 108 del Código Fiscal de la Federación.]
 
 *Párrafo con fracciones adicionado DOF 08-11-2019*
 
-El juez no impondrá la prisión preventiva oficiosa y la sustituirá por otra medida cautelar, únicamente cuando lo solicite el Ministerio Público por no resultar proporcional para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima y de los testigos o de la comunidad. Dicha solicitud deberá contar con la autorización del titular de la Procuraduría o el funcionario que en él delegue esa facultad.
+Párrafo con fracciones declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022
+
+El juez no impondrá la prisión preventiva oficiosa y la sustituirá por otra medida cautelar, únicamente cuando lo solicite el Ministerio Público por no resultar proporcional para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima y de los testigos o de la comunidad o bien, cuando exista voluntad de las partes para celebrar un acuerdo reparatorio de cumplimiento inmediato, siempre que se trate de alguno de los delitos en los que sea procedente dicha forma de solución alterna del procedimiento. La solicitud deberá contar con la autorización del titular de la Fiscalía o de la persona funcionaria en la cual delegue esa facultad.
+
+*Párrafo reformado DOF 19-02-2021*
+
+Si la prisión preventiva oficiosa ya hubiere sido impuesta, pero las partes manifiestan la voluntad de celebrar un acuerdo reparatorio de cumplimiento inmediato, el Ministerio Público solicitará al juez la sustitución de la medida cautelar para que las partes concreten el acuerdo con el apoyo del Órgano especializado en la materia.
+
+*Párrafo adicionado DOF 19-02-2021*
+
+En los casos en los que la víctima u ofendido y la persona imputada deseen participar en un Mecanismo Alternativo de Solución de Controversias, y no sea factible modificar la medida cautelar de prisión preventiva, por existir riesgo de que el imputado se sustraiga del procedimiento o lo obstaculice, el o la Juez de Control podrá derivar el asunto al Órgano especializado en la materia, para promover la reparación del daño y concretar el acuerdo correspondiente.
+
+*Párrafo adicionado DOF 19-02-2021*
+
+*Reforma DOF 19-02-2021: Suprimió del artículo el entonces párrafo quinto*
 
 ###### Artículo 168.
 
@@ -2388,9 +2432,11 @@ II. Delitos culposos, o
 
 III. Delitos patrimoniales cometidos sin violencia sobre las personas.
 
-No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a los mismos delitos dolosos, tampoco procederán cuando se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas. Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.
+No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a los mismos delitos dolosos, tampoco procederán cuando se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas. [Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.]
 
 *Párrafo reformado DOF 29-12-2014, 17-06-2016, 08-11-2019*
+
+Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 (En la porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”)
 
 Tampoco serán procedentes en caso de que el imputado haya incumplido previamente un acuerdo reparatorio, salvo que haya sido absuelto.
 
@@ -2462,9 +2508,11 @@ Lo señalado en la fracción III del presente artículo, no procederá cuando el
 
 *Párrafo reformado DOF 17-06-2016*
 
-La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.
+[La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.]
 
 *Párrafo adicionado DOF 08-11-2019*
+
+Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022
 
 ###### Artículo 193.
 
@@ -6023,3 +6071,77 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 10 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Jesús Carlos Vidal Peniche, Secretario.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforma y adiciona el artículo 167 del Código Nacional de Procedimientos Penales; se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Delitos Electorales, de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego y Explosivos, del Código Penal Federal, de la Ley General de Salud, de la Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación.
+
+*Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021*
+
+**Artículo Primero.-** Se reforman el artículo 167, párrafo tercero, los párrafos cuarto y quinto, que se fusionan para quedar como párrafo cuarto, recorriéndose en su orden los subsecuentes, la fracción XI del párrafo sexto que pasa a ser quinto, así como el párrafo octavo que pasa a ser séptimo, y se adicionan las fracciones XII, XIII, XIV, XV, XVI y XVII al párrafo sexto que pasa a ser quinto, así como los párrafos octavo y noveno, del Código Nacional de Procedimientos Penales, para quedar como sigue:
+
+.........
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+**Tercero.** Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+**Cuarto.** Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+**Quinto.** La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Ciudad de México, a 18 de febrero de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 19 de febrero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 130/2019 y su acumulada 136/2019, promovida por la Comisión Nacional de los Derechos Humanos y diversos integrantes de la Cámara de Senadores del Congreso de la Unión.
+
+Notificados al Congreso de la Unión para efectos legales el 25 de noviembre de 2022
+
+Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
+
+SECRETARÍA GENERAL DE ACUERDOS
+
+OFICIO NÚM. SGA/MOKM/450/2022
+
+MAESTRA CARMINA CORTÉS RODRÍGUEZ
+
+SECRETARIA DE LA SECCIÓN DE TRÁMITE
+
+DE CONTROVERSIAS CONSTITUCIONALES Y
+
+DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
+
+SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
+
+P R E S E N T E
+
+El Tribunal Pleno, en su sesión celebrada el veinticuatro de noviembre de dos mil veintidós, resolvió la acción de inconstitucionalidad 130/2019 y su acumulada 136/2019, promovida por la Comisión Nacional de los Derechos Humanos y diversos integrantes de la Cámara de Senadores del Congreso de la Unión, en los términos siguientes:
+
+“PRIMERO: Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada.
+
+**SEGUNDO.** Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal, publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoría.
+
+**TERCERO.** Se reconoce la validez del artículo 113 Bis, párrafo primero, del Código Fiscal de la Federación, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, de conformidad-con lo expuesto en el apartado VI de esta decisión.
+
+**CUARTO.** Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2°, párrafo primero, fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal, publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, las cuales surtirán sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión, en el entendido de que únicamente la invalidez de este último precepto de la Ley Federal contra la Delincuencia Organizada tendrá efectos retroactivos al uno de enero de dos mil veinte, fecha en que entró en vigor el decreto por el que fue adicionado, en atención a lo determinado en los apartados VI y VII de esta determinación.
+
+**QUINTO.** Se declara la invalidez por extensión, de los artículos 187, párrafo segundo, en su porción normativa ‘Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código’, y 192, párrafo tercero, en su porción normativa ‘La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código’, del Código Nacional de Procedimientos Penales, reformado y adicionado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con lo expuesto en los apartados VI y VII de esta sentencia.
+
+**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al titular del Poder Ejecutivo Federal.
+
+Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión privada celebrada el doce de abril de dos mil diez, le solicito que remita a esta Secretaría General de Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
+
+Atentamente
+
+Ciudad de México; 24 de noviembre de 2022
+
+LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
+
+Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el viernes 25 de noviembre de 2022 a las 12:11 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
