@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2020-07-01
+last_reform_dof: 2021-02-19
 articles: 546
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_010720.doc
-archived: https://web.archive.org/web/20200720020412/http://www.diputados.gob.mx:80/LeyesBiblio/doc/9_010720.doc
-source_sha256: 960c07dcba4e54ec0a369619641fd049eb2fac098e3adc632ebb63cb9f45e381
-retrieved: 2020-07-20
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_190221.doc
+archived: https://web.archive.org/web/20210422185607/http://www.diputados.gob.mx/LeyesBiblio/doc/9_190221.doc
+source_sha256: 3f4edb64aac5c295aff299f27e928284ff32d913132938c6b39a1d459d18f6b6
+retrieved: 2021-04-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,13 +18,13 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 01-07-2020
+Última reforma publicada DOF 19-02-2021
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 >
 > Nota de Vigencia: Las siguientes reformas, adiciones y derogaciones, publicadas por Decreto DOF 18-07-2016, entrarán en vigor “a partir del nombramiento que el Senado de la República realice del Titular de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción”, de conformidad con lo que establece el artículo Primero Transitorio de dicho Decreto:
 >
-> Reformas: el párrafo primero y el inciso e) del artículo 201; la denominación al Título Décimo; el párrafo primero del artículo 212; el artículo 213; el artículo 213 Bis; la denominación del Capítulo II del Título Décimo; el párrafo primero y su fracción III, los párrafos segundo y tercero del artículo 214; las fracciones VI, IX, XI, XIII y los párrafos segundo y tercero del artículo 215; los párrafos primero y segundo del artículo 216; la denominación del Capítulo V del Título Décimo; el párrafo primero, la fracción I y los incisos B), C), D), la fracción III y el párrafo tercero del artículo 217; los párrafos tercero y cuarto del artículo 218; la fracción I y el párrafo segundo del artículo 219; la fracción I y los párrafos tercero y cuarto del artículo 220; el párrafo segundo del artículo 221; las fracciones I, II y los párrafos cuarto y quinto del artículo 222; las fracciones I, II, III y los párrafos tercero y cuarto del artículo 223; los párrafos primero, segundo, quinto, sexto y séptimo del artículo 224; las fracciones VI, X, XIII, XVII, XX, XXIV, XXVIII y XXXII del artículo 225.
+> Reformas: el párrafo primero y el inciso e) del artículo 201; el párrafo primero del artículo 212; el artículo 213; el artículo 213 Bis; la denominación del Capítulo II del Título Décimo; el párrafo primero y su fracción III, los párrafos segundo y tercero del artículo 214; las fracciones VI, IX, XI y el párrafo segundo del artículo 215; los párrafos primero y segundo del artículo 216; la denominación del Capítulo V del Título Décimo; el párrafo primero, la fracción I y los incisos B), C), D), la fracción III y el párrafo tercero del artículo 217; los párrafos tercero y cuarto del artículo 218; la fracción I y el párrafo segundo del artículo 219; la fracción I y los párrafos tercero y cuarto del artículo 220; el párrafo segundo del artículo 221; las fracciones I, II y los párrafos cuarto y quinto del artículo 222; las fracciones I, II, III y los párrafos tercero y cuarto del artículo 223; los párrafos primero, segundo, quinto, sexto y séptimo del artículo 224; las fracciones VI, X, XIII, XVII, XX, XXIV, XXVIII y XXXII del artículo 225.
 > Adiciones: un párrafo tercero con las fracciones I, II, un párrafo cuarto, un quinto párrafo con las fracciones I, II, III y IV, un sexto y un séptimo párrafos al artículo 212; un inciso E) a la fracción I, una fracción I Bis con los incisos A) y B) y un párrafo segundo al artículo 217; un artículo 217 Bis; una fracción IV al artículo 221; una fracción III con los incisos a, b y un párrafo segundo al artículo 222; un párrafo tercero al artículo 224.
 > Derogación: el cuarto párrafo del artículo 225.
 
@@ -38,6 +38,8 @@ Que en uso de las facultades que le fueron concedidas por Decreto de 2 de enero 
 
 CÓDIGO PENAL FEDERAL
 
+*Denominación del Código reformada: DOF 23-12-1974 (antes “Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal”), DOF 31-12-1974 (antes “Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en materia de Fuero Federal”), DOF 18-05-1999 (antes “Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal”)*
+
 ## LIBRO PRIMERO
 
 ### TITULO PRELIMINAR
@@ -46,11 +48,15 @@ CÓDIGO PENAL FEDERAL
 
 Este Código se aplicará en toda la República para los delitos del orden federal.
 
+*Artículo reformado DOF 23-12-1974, 18-05-1999*
+
 ##### Artículo 2o.
 
 Se aplicará, asimismo:
 
 I. Por los delitos que se inicien, preparen o cometan en el extranjero, cuando produzcan o se pretenda que tengan efectos en el territorio de la República; o bien, por los delitos que se inicien, preparen o cometan en el extranjero, siempre que un tratado vinculativo para México prevea la obligación de extraditar o juzgar, se actualicen los requisitos previstos en el artículo 4o. de este Código y no se extradite al probable responsable al Estado que lo haya requerido, y
+
+*Fracción reformada DOF 28-06-2007*
 
 II.- Por los delitos cometidos en los consulados mexicanos o en contra de su personal, cuando no hubieren sido juzgados en el país en que se cometieron.
 
@@ -59,6 +65,8 @@ II.- Por los delitos cometidos en los consulados mexicanos o en contra de su per
 Los delitos continuos cometidos en el extranjero, que se sigan cometiendo en la República, se perseguirán con arreglo a las leyes de ésta, sean mexicanos o extranjeros los delincuentes.
 
 La misma regla se aplicará en el caso de delitos continuados.
+
+*Párrafo adicionado DOF 14-01-1985*
 
 ##### Artículo 4o.
 
@@ -92,6 +100,10 @@ Cuando una misma materia aparezca regulada por diversas disposiciones, la especi
 
 En caso de delitos cometidos en contra de niñas, niños y adolescentes siempre se procurará el interés superior de la infancia que debe prevalecer en toda aplicación de ley.
 
+*Párrafo adicionado DOF 19-08-2010*
+
+*Artículo reformado DOF 14-01-1985*
+
 ### TITULO PRIMERO · Responsabilidad Penal
 
 #### CAPITULO I · Reglas generales sobre delitos y responsabilidad
@@ -100,7 +112,9 @@ En caso de delitos cometidos en contra de niñas, niños y adolescentes siempre 
 
 Delito es el acto u omisión que sancionan las leyes penales.
 
-En los delitos de resultado material también será atribuible el resultado típico producido al que omita impedirlo, si éste tenia el deber jurídico de evitarlo. En estos casos se considerará que el resultado es consecuencia de una conducta omisiva, cuando se determine que el que omite impedirlo tenia el deber de actuar para ello, derivado de una ley, de un contrato o de su propio actuar precedente.
+En los delitos de resultado material también será atribuible el resultado típico producido al que omita impedirlo, si éste tenía el deber jurídico de evitarlo. En estos casos se considerará que el resultado es consecuencia de una conducta omisiva, cuando se determine que el que omite impedirlo tenia el deber de actuar para ello, derivado de una ley, de un contrato o de su propio actuar precedente.
+
+*Párrafo adicionado DOF 10-01-1994*
 
 El delito es:
 
@@ -112,19 +126,29 @@ II.- Permanente o continuo, cuando la consumación se prolonga en el tiempo, y
 
 III.- Continuado, cuando con unidad de propósito delictivo, pluralidad de conductas y unidad de sujeto pasivo, se viola el mismo precepto legal.
 
+*Fracción reformada DOF 13-05-1996*
+
+*Artículo reformado DOF 13-01-1984*
+
 ##### Artículo 8o.
 
 Las acciones u omisiones delictivas solamente pueden realizarse dolosa o culposamente.
+
+*Artículo reformado DOF 13-01-1984, 10-01-1994*
 
 ##### Artículo 9o.
 
 Obra dolosamente el que, conociendo los elementos del tipo penal, o previendo como posible el resultado típico, quiere o acepta la realización del hecho descrito por la ley, y
 
+*Fe de erratas al párrafo DOF 01-02-1994*
+
 Obra culposamente el que produce el resultado típico, que no previó siendo previsible o previó confiando en que no se produciría, en virtud de la violación a un deber de cuidado, que debía y podía observar según las circunstancias y condiciones personales.
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 13-01-1984, 10-01-1994*
 
 ##### Artículo 10.
 
-La responsabilidad penal no pasa de la persona y bienes de los delincuentes, excepto en los caso especificados por la ley.
+La responsabilidad penal no pasa de la persona y bienes de los delincuentes, excepto en los casos especificados por la ley.
 
 ##### Artículo 11.
 
@@ -244,15 +268,23 @@ En todos los supuestos previstos en el artículo 422 del Código Nacional de Pro
 
 Existe tentativa punible, cuando la resolución de cometer un delito se exterioriza realizando en parte o totalmente los actos ejecutivos que deberían producir el resultado, u omitiendo los que deberían evitarlo, si aquél no se consuma por causas ajenas a la voluntad del agente.
 
+*Párrafo reformado DOF 14-01-1985, 10-01-1994*
+
 Para imponer la pena de la tentativa el juez tomará en cuenta, además de lo previsto en el artículo 52, el mayor o menor grado de aproximación al momento consumativo del delito.
 
+*Párrafo reformado DOF 10-01-1994*
+
 Si el sujeto desiste espontáneamente de la ejecución o impide la consumación del delito, no se impondrá pena o medida de seguridad alguna por lo que a éste se refiere, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
+
+*Párrafo adicionado DOF 14-01-1985*
 
 #### CAPITULO III · Personas responsables de los delitos
 
 ##### Artículo 13.
 
 Son autores o partícipes del delito:
+
+*Párrafo reformado DOF 10-01-1994*
 
 I.- Los que acuerden o preparen su realización.
 
@@ -264,15 +296,27 @@ IV.- Los que lo lleven a cabo sirviéndose de otro;
 
 V.- Los que determinen dolosamente a otro a cometerlo;
 
+*Fracción reformada DOF 10-01-1994*
+
 VI.- Los que dolosamente presten ayuda o auxilien a otro para su comisión;
+
+*Fracción reformada DOF 10-01-1994*
 
 VII.- Los que con posterioridad a su ejecución auxilien al delincuente, en cumplimiento de una promesa anterior al delito y
 
-VIII.- los que sin acuerdo previo, intervengan con otros en su comisión, cuando no se pueda precisar el resultado que cada quien produjo.
+VIII.- Los que sin acuerdo previo, intervengan con otros en su comisión, cuando no se pueda precisar el resultado que cada quien produjo.
+
+*Fracción reformada DOF 10-01-1994*
 
 Los autores o partícipes a que se refiere el presente artículo responderán cada uno en la medida de su propia culpabilidad.
 
+*Párrafo adicionado DOF 10-01-1994*
+
 Para los sujetos a que se refieren las fracciones VI, VII y VIII, se aplicará la punibilidad dispuesta por el artículo 64 bis de este Código.
+
+*Párrafo adicionado DOF 10-01-1994*
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 09-03-1946, 13-01-1984*
 
 ##### Artículo 14.
 
@@ -288,6 +332,8 @@ IV.- Que no hayan estado presentes en la ejecución del nuevo delito, o que habi
 
 #### CAPITULO IV · Causas de exclusión del delito
 
+*Denominación del Capítulo reformada DOF 10-01-1994*
+
 ##### Artículo 15.
 
 El delito se excluye cuando:
@@ -295,6 +341,8 @@ El delito se excluye cuando:
 I.- El hecho se realice sin intervención de la voluntad del agente;
 
 II.- Se demuestre la inexistencia de alguno de los elementos que integran la descripción típica del delito de que se trate;
+
+*Fracción reformada DOF 18-05-1999*
 
 III.- Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
 
@@ -328,23 +376,35 @@ IX.- Atentas las circunstancias que concurren en la realización de una conducta
 
 X.- El resultado típico se produce por caso fortuito.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 05-01-1955, 08-03-1968, 13-01-1984, 23-12-1985, 10-01-1994*
+
 ##### Artículo 16.
 
 En los casos de exceso de legítima defensa o exceso en cualquier otra causa de justificación se impondrá la cuarta parte de la sanción correspondiente al delito de que se trate, quedando subsistente la imputación a título doloso.
+
+*Artículo reformado DOF 13-01-1984, 10-01-1994, 17-06-2016*
 
 ##### Artículo 17.
 
 Las causas de exclusión del delito se investigarán y resolverán de oficio o a petición de parte, en cualquier estado del procedimiento.
 
-#### CAPITULO V · Concurso de delitos
+*Artículo reformado DOF 10-01-1994*
+
+#### CAPITULO V · Concurso de Delitos
+
+*Denominación del Capítulo reformada DOF 13-01-1984*
 
 ##### Artículo 18.
 
 Existe concurso ideal, cuando con una sola conducta se cometen varios delitos. Existe concurso real, cuando con pluralidad de conductas se cometen varios delitos.
 
+*Artículo reformado DOF 13-01-1984*
+
 ##### Artículo 19.
 
 No hay concurso cuando las conductas constituyen un delito continuado.
+
+*Artículo reformado DOF 13-01-1984*
 
 #### CAPITULO VI · Reincidencia
 
@@ -378,7 +438,11 @@ Las penas y medidas de seguridad son:
 
 2.- Tratamiento en libertad, semilibertad y trabajo en favor de la comunidad.
 
+*Numeral derogado DOF 12-05-1938. Adicionado DOF 24-03-1944. Derogado DOF 05-01-1948. Adicionado DOF 13-01-1984*
+
 3.- Internamiento o tratamiento en libertad de inimputables y de quienes tengan el hábito o la necesidad de consumir estupefacientes o psicotrópicos.
+
+*Numeral reformado DOF 31-12-1974, 13-01-1984*
 
 4.- Confinamiento.
 
@@ -388,7 +452,11 @@ Las penas y medidas de seguridad son:
 
 7.- (Se deroga).
 
+*Numeral derogado DOF 13-01-1984*
+
 8.- Decomiso de instrumentos, objetos y productos del delito
+
+*Numeral reformado DOF 13-01-1984, 23-12-1985*
 
 9.- Amonestación.
 
@@ -400,9 +468,13 @@ Las penas y medidas de seguridad son:
 
 13.- Inhabilitación, destitución o suspensión de funciones o empleos.
 
+*Numeral reformado DOF 10-02-1945*
+
 14.- Publicación especial de sentencia.
 
 15.- Vigilancia de la autoridad.
+
+*Numeral reformado DOF 13-01-1984*
 
 16.- Suspensión o disolución de sociedades.
 
@@ -410,7 +482,11 @@ Las penas y medidas de seguridad son:
 
 18.- Decomiso de bienes correspondientes al enriquecimiento ilícito.
 
+*Numeral adicionado DOF 05-01-1983*
+
 19\. La colocación de dispositivos de localización y vigilancia.
+
+*Numeral adicionado DOF 30-11-2010*
 
 Y las demás que fijen las leyes.
 
@@ -426,15 +502,21 @@ El límite máximo de la duración de la pena de privación de la libertad hasta
 
 *Párrafo reformado DOF 17-11-2017*
 
+*Artículo reformado DOF 12-05-1938, 05-01-1948, 05-01-1955, 03-01-1989, 17-05-1999, 26-05-2004, 03-06-2014, 17-06-2016*
+
 ##### Artículo 26.
 
 Los procesados sujetos a prisión preventiva y los reos políticos, serán recluidos en establecimientos o departamentos especiales.
 
 #### CAPITULO III · Tratamiento en libertad, semiliberación y trabajo en favor de la comunidad
 
+*Denominación del Capítulo reformada DOF 13-01-1984*
+
 ##### Artículo 27.
 
 El tratamiento en libertad de imputables consistente en la aplicación de las medidas laborales, educativas y curativas, en su caso, autorizadas por la ley y conducentes a la reinserción social del sentenciado, bajo la orientación y cuidado de la autoridad ejecutora. Su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
+
+*Párrafo reformado DOF 17-06-2016*
 
 La semilibertad implica alternación de períodos de privación de la libertad y de tratamiento en libertad. Se aplicará, según las circunstancias del caso, del siguiente modo: externación durante la semana de trabajo o educativa, con reclusión de fin de semana, salida de fin de semana, con reclusión durante el resto de ésta; o salida diurna, con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión sustituida.
 
@@ -442,11 +524,17 @@ El trabajo en favor de la comunidad consiste en la prestación de servicios no r
 
 El trabajo en favor de la comunidad puede ser pena autónoma o sustitutivo de la prisión o de la multa.
 
+*Párrafo adicionado DOF 10-01-1994*
+
 Cada día de prisión será sustituido por una jornada de trabajo en favor de la comunidad.
 
 La extensión de la jornada de trabajo será fijada por el juez tomando en cuenta las circunstancias del caso.
 
 Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante para el sentenciado.
+
+*Párrafo reformado DOF 17-06-2016*
+
+*Artículo derogado DOF 12-05-1938. Adicionado DOF 24-03-1944. Derogado DOF 05-01-1948. Adicionado DOF 13-01-1984*
 
 #### CAPITULO IV · Confinamiento
 
@@ -462,6 +550,8 @@ La sanción pecuniaria comprende la multa y la reparación del daño.
 
 La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de mil, salvo los casos que la propia ley señale. El día multa equivale a la percepción neta diaria del sentenciado en el momento de consumar el delito, tomando en cuenta todos sus ingresos.
 
+*Párrafo reformado DOF 10-01-1994, 23-08-2005*
+
 Para los efectos de este Código, el límite inferior del día multa será el equivalente al salario mínimo diario vigente en el lugar donde se consumó el delito. Por lo que toca al delito continuado, se atenderá al salario mínimo vigente en el momento consumativo de la última conducta. Para el permanente, se considerará el salario mínimo en vigor en el momento en que cesó la consumación.
 
 Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla, total o parcialmente, por prestación del trabajo en favor de la comunidad.
@@ -471,6 +561,10 @@ Cada jornada de trabajo saldará un día multa. Cuando no sea posible o convenie
 Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Estado la exigirá mediante el procedimiento económico coactivo.
 
 En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo prestado en favor de la comunidad, o al tiempo de prisión que el sentenciado hubiere cumplido tratándose de la multa sustitutiva de la pena privativa de libertad, caso en el cual la equivalencia será a razón de un día multa por un día de prisión.
+
+*Párrafo reformado DOF 17-06-2016*
+
+*Artículo reformado DOF 13-01-1984*
 
 ##### Artículo 30.
 
@@ -492,13 +586,19 @@ VII. La disculpa pública, la aceptación de responsabilidad, así como la garan
 
 Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
 
+*Artículo reformado DOF 05-01-1983, 13-01-1984, 10-01-1994, 30-12-1997, 19-08-2010, 14-06-2012*
+
 ##### Artículo 30 Bis.
 
-Tienen derecho a la reparación del daño en el siguiente orden: 1o. El ofendido; 2o. En caso de fallecimiento del ofendido, el cónyuge supérstite o el concubinario o concubina, y los hijos menores de edad; a falta de éstos los demás descendientes, y ascendientes que dependieran económicamente de él al momento del fallecimiento.
+Tienen derecho a la reparación del daño en el siguiente orden: 1o. El ofendido; 2o. En caso de fallecimiento del ofendido, el cónyuge supérstite o el concubinario o concubina, y los hijos menores de edad; a falta de éstos los demás descendientes y ascendientes que dependieran económicamente de él al momento del fallecimiento.
+
+*Artículo adicionado DOF 21-01-1991*
 
 ##### Artículo 31.
 
 La reparación será fijada por los jueces, según el daño que sea preciso reparar, con base en las pruebas obtenidas en el proceso y la afectación causada a la víctima u ofendido del delito.
+
+*Párrafo reformado DOF 13-01-1984, 14-06-2012*
 
 Para los casos de reparación del daño causado con motivo de delitos por imprudencia, el Ejecutivo de la Unión reglamentará, sin perjuicio de la resolución que se dicte por la autoridad judicial, la forma en que, administrativamente, deba garantizarse mediante seguro especial dicha reparación.
 
@@ -509,6 +609,8 @@ En todo proceso penal, el Ministerio Público estará obligado a solicitar, de o
 El incumplimiento de esta disposición se sancionara conforme a lo dispuesto por la fracción VII y el párrafo segundo del artículo 225 de este Código.
 
 En todo momento, la víctima deberá estar informada sobre la reparación del daño.
+
+*Artículo adicionado DOF 10-01-1994. Reformado DOF 14-06-2012*
 
 ##### Artículo 32.
 
@@ -528,21 +630,35 @@ Se exceptúa de esta regla a la sociedad conyugal, pues, en todo caso, cada cón
 
 VI. Cualquier institución, asociación, organización o agrupación de carácter religioso, cultural, deportivo, educativo, recreativo o de cualquier índole, cuyos empleados, miembros, integrantes, auxiliares o ayudantes que realicen sus actividades de manera voluntaria o remunerada, y
 
+*Fracción adicionada DOF 19-08-2010*
+
 VII.- El Estado, solidariamente, por los delitos dolosos de sus servidores públicos realizados con motivo del ejercicio de sus funciones, y subsidiariamente cuando aquéllos fueren culposos.
+
+*Fracción reformada DOF 10-01-1994. Recorrida DOF 19-08-2010*
 
 ##### Artículo 33.
 
 La obligación de pagar la sanción pecuniaria es preferente con respecto a cualesquiera otras contraídas con posterioridad al delito, a excepción de las referentes a alimentos y relaciones laborales.
 
+*Artículo reformado DOF 13-01-1984*
+
 ##### Artículo 34.
 
 La reparación del daño proveniente del delito que deba ser hecha por el imputado, acusado y sentenciado, tiene el carácter de pena pública y se exigirá de oficio por el Ministerio Público. La víctima, el asesor jurídico y el ofendido o sus derechohabientes podrán aportar al Ministerio Público o al Órgano jurisdiccional en su caso, los datos de prueba que tengan para demostrar la procedencia y monto de dicha reparación, en los términos que prevenga el Código Nacional de Procedimientos Penales.
 
+*Párrafo reformado DOF 10-01-1994, 17-06-2016*
+
 El incumplimiento por parte de las autoridades de la obligación a que se refiere el párrafo anterior, será sancionado con multa de treinta a cuarenta días de salario mínimo.
+
+*Párrafo adicionado DOF 10-01-1994*
 
 Cuando dicha reparación deba exigirse a tercero, tendrá el carácter de responsabilidad civil y se tramitará en forma de incidente, en los términos que fije el propio Código de Procedimientos Penales.
 
 Quien se considere con derecho a la reparación del daño, que no pueda obtener ante el Órgano jurisdiccional, en virtud del no ejercicio de la acción o la abstención de investigar por parte del Ministerio Público, sobreseimiento o sentencia absolutoria, podrá recurrir a la vía civil o administrativa en los términos de la legislación correspondiente.
+
+*Párrafo reformado DOF 17-06-2016*
+
+*Artículo reformado DOF 13-01-1984*
 
 ##### Artículo 35.
 
@@ -554,6 +670,10 @@ Si la parte ofendida renunciare a la reparación, el importe de ésta se aplicar
 
 En el caso de que se haya impuesto una providencia precautoria para garantizar la reparación del daño, ésta se hará efectiva a favor de la víctima u ofendido cuando la sentencia que condene a reparar el daño cause ejecutoria.
 
+*Párrafo reformado DOF 10-01-1994, 17-06-2016*
+
+*Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo quinto (antes adicionado DOF 10-01-1994)*
+
 ##### Artículo 36.
 
 Cuando varias personas cometan el delito, el juez fijará la multa para cada uno de los delincuentes, según su participación en el hecho delictuoso y sus condiciones económicas; y en cuanto a la reparación del daño, la deuda se considerará como mancomunada y solidaria.
@@ -562,9 +682,13 @@ Cuando varias personas cometan el delito, el juez fijará la multa para cada uno
 
 La reparación del daño se mandará hacer efectiva, en la misma forma que la multa. Una vez que la sentencia que imponga tal reparación cauce ejecutoria, el tribunal que la haya pronunciado remitirá de inmediato copia certificada de ella a la autoridad fiscal competente y ésta, dentro de los tres días siguientes a la recepción de dicha copia, iniciará el procedimiento económico-coactivo, notificando de ello a la persona en cuyo favor se haya decretado, o a su representante legal.
 
+*Artículo reformado DOF 10-01-1994*
+
 ##### Artículo 38.
 
 Si no alcanza a cubrirse la responsabilidad pecuniaria con los bienes del responsable o con el producto de su trabajo en la prisión, el sentenciado liberado seguirá sujeto a la obligación de pagar la parte que falte.
+
+*Artículo reformado DOF 17-06-2016*
 
 ##### Artículo 39.
 
@@ -572,7 +696,11 @@ El juzgador, teniendo en cuenta el monto del daño y la situación económica de
 
 La autoridad a quien corresponda el cobro de la multa podrá fijar plazos para el pago de ésta, tomando en cuenta las circunstancias del caso.
 
-#### CAPITULO VI · Decomiso de Instrumentos, objetos y productos del delito
+*Artículo reformado DOF 29-12-1981. Fe de erratas DOF 13-01-1982. Reformado DOF 13-01-1984*
+
+#### CAPITULO VI · Decomiso de Instrumentos, Objetos y Productos del Delito
+
+*Denominación del Capítulo reformada DOF 15-01-1951, 13-01-1984, 23-12-1985*
 
 ##### Artículo 40.
 
@@ -582,11 +710,15 @@ En caso de que el producto, los instrumentos u objetos del hecho delictivo hayan
 
 Si pertenecen a un tercero, sólo se decomisarán cuando el tercero que los tenga en su poder o los haya adquirido bajo cualquier título, esté en alguno de los supuestos a los que se refieren los artículos 139 Quáter, 400 o 400 bis de este Código, independientemente de la naturaleza jurídica de dicho tercero propietario o poseedor y de la relación que aquel tenga con el imputado o sentenciado, en su caso. Las autoridades competentes procederán al inmediato aseguramiento de los bienes que podrían ser materia del decomiso, durante el procedimiento. Se actuará en los términos previstos por este párrafo cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 08-05-1945, 15-01-1951, 13-01-1984, 23-12-1985, 08-02-1999, 17-05-1999, 17-06-2016*
+
 ##### Artículo 41.
 
 Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o de las judiciales, que no hayan sido decomisados y que no sean recogidos por quien tenga derecho a ello, en un lapso de noventa días naturales, contados a partir de la notificación al interesado, se enajenarán en subasta pública y el producto de la venta se aplicará a quien tenga derecho a recibirlo. Si notificado, no se presenta dentro de los seis meses siguientes a la fecha de la notificación, el producto de la venta se destinará al mejoramiento de la administración de justicia, previas las deducciones de los gastos ocasionados.
 
 En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública, y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de seis meses a partir de la notificación que se le haga, transcurrido el cual, se aplicará al mejoramiento de la administración de justicia.
+
+*Artículo reformado DOF 15-01-1951, 13-01-1965, 23-12-1974, 31-12-1974, 13-01-1984*
 
 #### CAPITULO VII · Amonestación
 
@@ -602,9 +734,13 @@ Esta amonestación se hará en público o en lo privado, según parezca prudente
 
 El apercibimiento consiste en la conminación que el juez hace a una persona, cuando ha delinquido y se teme con fundamento que está en disposición de cometer un nuevo delito, ya sea por su actitud o por amenazas, de que en caso de cometer éste, será considerado como reincidente.
 
+*Artículo reformado DOF 13-01-1984*
+
 ##### Artículo 44.
 
 Cuando el juez estime que no es suficiente el apercibimiento exigirá además al acusado una caución de no ofender, u otra garantía adecuada, a juicio del propio juez.
+
+*Artículo reformado DOF 13-01-1984*
 
 #### CAPITULO IX · Suspensión de derechos
 
@@ -646,11 +782,17 @@ Si el delito por el que se impuso la publicación de sentencia, fue cometido por
 
 #### CAPITULO XI · Vigilancia de la autoridad
 
+*Capítulo adicionado DOF 13-01-1984*
+
 ##### Artículo 50 Bis.
 
 Cuando la sentencia determine restricción de libertad o derechos, o suspensión condicional de la ejecución de la sentencia, el juez dispondrá la vigilancia de la autoridad sobre el sentenciado, que tendrá la misma duración que la correspondiente a la sanción impuesta.
 
 La vigilancia consistirá en ejercer sobre el sentenciado observación y orientación de su conducta por personal especializado dependiente de la autoridad ejecutora, para la reinserción social.
+
+*Párrafo reformado DOF 17-06-2016*
+
+*Artículo adicionado DOF 13-01-1984*
 
 ### TITULO TERCERO · Aplicación de las Sanciones
 
@@ -660,15 +802,25 @@ La vigilancia consistirá en ejercer sobre el sentenciado observación y orienta
 
 Dentro de los límites fijados por la ley, los jueces y tribunales aplicarán las sanciones establecidas para cada delito, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del delincuente; particularmente cuando se trate de indígenas se considerarán los usos y costumbres de los pueblos y comunidades a los que pertenezcan.
 
-En los casos de los artículos 60, fracción VI, 61, 63, 64, 64-Bis y 65 y en cualesquiera otros en que este Código disponga penas en proporción a las previstas para el delito intencional consumado, la punibilidad aplicable es, para todos los efectos legales, la que resulte de la elevación o disminución, según corresponda, de los términos mínimo y máximo de la pena prevista para aquél. Cuando se trate de prisión, la pena mínima nunca será menor de tres días.
+*Párrafo reformado DOF 30-12-1991, 18-12-2002*
+
+En los casos de los artículos 60, fracción VI, 61, 63, 64, 64 bis y 65 y en cualesquiera otros en que este Código disponga penas en proporción a las previstas para el delito intencional consumado, la punibilidad aplicable es, para todos los efectos legales, la que resulte de la elevación o disminución, según corresponda, de los términos mínimo y máximo de la pena prevista para aquél. Cuando se trate de prisión, la pena mínima nunca será menor de tres días.
+
+*Párrafo adicionado DOF 14-01-1985*
 
 Cuando se cometa un delito doloso en contra de algún periodista, persona o instalación con la intención de afectar, limitar o menoscabar el derecho a la información o las libertades de expresión o de imprenta, se aumentará hasta en un tercio la pena establecida para tal delito.
 
+*Párrafo adicionado DOF 03-05-2013*
+
 En el caso anterior, se aumentará la pena hasta en una mitad cuando además el delito sea cometido por un servidor público en ejercicio de sus funciones o la víctima sea mujer y concurran razones de género en la comisión del delito, conforme a lo que establecen las leyes en la materia.
+
+*Párrafo adicionado DOF 03-05-2013*
 
 ##### Artículo 52.
 
 El juez fijará las penas y medidas de seguridad que estime justas y procedentes dentro de los límites señalados para cada delito, con base en la gravedad del ilícito, la calidad y condición específica de la víctima u ofendido y el grado de culpabilidad del agente, teniendo en cuenta:
+
+*Párrafo reformado DOF 19-08-2010*
 
 I.- La magnitud del daño causado al bien jurídico o del peligro a que hubiere sido expuesto;
 
@@ -678,11 +830,17 @@ III.- Las circunstancias de tiempo, lugar, modo u ocasión del hecho realizado;
 
 IV.- La forma y grado de intervención del agente en la comisión del delito;
 
+*Fracción reformada DOF 19-08-2010*
+
 V.- La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a algún pueblo o comunidad indígena, se tomarán en cuenta, además, sus usos y costumbres;
+
+*Fracción reformada DOF 18-12-2002*
 
 VI.- El comportamiento posterior del acusado con relación al delito cometido; y
 
 VII.- Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando sean relevantes para determinar la posibilidad de haber ajustado su conducta a las exigencias de la norma.
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 05-01-1983, 13-01-1984, 10-01-1994*
 
 ##### Artículo 53.
 
@@ -694,51 +852,87 @@ El aumento o la disminución de la pena, fundadas en las calidades, en las relac
 
 Son aplicables las que se funden en circunstancias objetivas, si los demás sujetos tienen conocimiento de ellas.
 
+*Artículo reformado DOF 13-01-1984*
+
 ##### Artículo 55.
 
 En el caso de que el imputado sea una persona mayor de setenta años de edad o afectada por una enfermedad grave o terminal, el Órgano jurisdiccional podrá ordenar que la prisión preventiva se ejecute en el domicilio de la persona imputada o, de ser el caso, en un centro médico o geriátrico, bajo las medidas cautelares que procedan, en todo caso la valoración por parte del juez se apoyará en dictámenes de peritos. La revisión de la medida cautelar podrá ser promovida por las partes quienes además ofrecerán pruebas para dicho efecto.
 
+*Párrafo reformado DOF 17-06-2016*
+
 De igual forma, procederá lo previsto en el párrafo anterior, cuando se trate de mujeres embarazadas, o de madres durante la lactancia.
+
+*Párrafo adicionado DOF 17-06-2016*
 
 No gozarán de la prerrogativa prevista en los dos párrafos anteriores, quienes sean imputados por los delitos que ameriten prisión preventiva oficiosa o a criterio del Juez de control puedan sustraerse de la acción de la justicia o manifiesten una conducta que haga presumible su riesgo social ni los imputados por las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
+*Párrafo reformado DOF 30-11-2010, 17-06-2016*
+
 Una vez dictada la sentencia ejecutoriada, la pena podrá ser sustituida por una medida de seguridad, a juicio del juez o tribunal que la imponga de oficio o a petición de parte, cuando por haber sufrido el sujeto activo consecuencias graves en su persona, o por su senilidad o su precario estado de salud, fuere notoriamente innecesario que se compurgue dicha pena, a excepción de los sentenciados por las conductas previstas en el artículo 9 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, que en todo caso deberán cumplir la pena impuesta.
+
+*Párrafo reformado DOF 30-11-2010*
+
+*Reforma DOF 17-06-2016: Derogó del artículo los entonces párrafos cuarto y sexto*
+
+*Artículo reformado DOF 13-01-1984, 30-12-1991, 26-05-2004*
 
 ##### Artículo 56.
 
 La autoridad jurisdiccional competente aplicará de oficio la ley más favorable. Cuando el sujeto hubiese sido sentenciado al término mínimo o al término máximo de la pena prevista y la reforma disminuya dicho término, se estará a la ley más favorable. Cuando el sujeto hubiese sido sentenciado a una pena entre el término mínimo y el término máximo, se estará a la reducción que resulte en el término medio aritmético conforme a la nueva norma.
 
+*Artículo reformado DOF 23-12-1985, 17-06-2016*
+
 ##### Artículo 57.
 
 (Se deroga).
+
+*Artículo derogado DOF 23-12-1985*
 
 ##### Artículo 58.
 
 (Se deroga).
 
+*Artículo derogado DOF 13-01-1984*
+
 ##### Artículo 59.
 
 (Se deroga).
 
+*Artículo derogado DOF 14-01-1985*
+
 ##### Artículo 59 Bis.
 
-(Se deroga).
+Se deroga.
+
+*Artículo adicionado DOF 13-01-1984. Derogado DOF 10-01-1994*
 
 #### CAPITULO II · Aplicación de sanciones a los delitos culposos
+
+*Denominación del Capítulo reformada DOF 13-01-1984, 10-01-1994*
 
 ##### Artículo 60.
 
 En los casos de delitos culposos se impondrá hasta la cuarta parte de las penas y medidas de seguridad asignadas por la ley al tipo básico del delito doloso, con excepción de aquéllos para los que la ley señale una pena específica. Además, se impondrá, en su caso, suspensión hasta de tres años de derechos para ejercer profesión, oficio, autorización, licencia o permiso.
 
+*Párrafo reformado DOF 13-01-1984, 10-01-1994. Fe de erratas DOF 01-02-1994. Reformado DOF 26-12-2013*
+
 Las sanciones por delitos culposos sólo se impondrán en relación con los delitos previstos en los siguientes artículos: 150, 167, fracción VI, 169, 199 Bis, 289, parte segunda, 290, 291, 292, 293, 302, 307, 323, 397, 399, 414, primer párrafo y tercero en su hipótesis de resultado, 415, fracciones I y II y último párrafo en su hipótesis de resultado, 416, 420, fracciones I, II, III y V, y 420 Bis, fracciones I, II y IV de este Código.
+
+*Párrafo adicionado DOF 10-01-1994. Fe de erratas DOF 01-02-1994. Reformado DOF 06-02-2002*
 
 Cuando a consecuencia de actos u omisiones culposos, calificados como graves, que sean imputables al personal que preste sus servicios en una empresa ferroviaria, aeronáutica, naviera o de cualesquiera otros transportes de servicio público federal o local, se caucen homicidios de dos o más personas, la pena será de cinco a veinte años de prisión, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de la misma naturaleza. Igual pena se impondrá cuando se trate de transporte de servicio escolar.
 
+*Párrafo adicionado DOF 10-01-1994. Fe de erratas DOF 01-02-1994*
+
 La calificación de la gravedad de la culpa queda al prudente arbitrio del juez, quien deberá tomar en consideración las circunstancias generales señaladas en el artículo 52, y las especiales siguientes:
+
+*Párrafo reformado DOF 10-01-1994*
 
 I.- La mayor o menor facilidad de prever y evitar el daño que resultó;
 
 II.- El deber del cuidado del inculpado que le es exigible por las circunstancias y condiciones personales que el oficio o actividad que desempeñe le impongan;
+
+*Fracción reformada DOF 10-01-1994*
 
 III.- Si el inculpado ha delinquido anteriormente en circunstancias semejantes;
 
@@ -746,11 +940,17 @@ IV.- Si tuvo tiempo para obrar con la reflexión y cuidado necesarios, y
 
 V.- El estado del equipo, vías y demás condiciones de funcionamiento mecánico, tratándose de infracciones cometidas en los servicios de empresas transportadoras, y en general, por conductores de vehículos.
 
-VI.- (Se deroga).
+VI.- Se deroga.
+
+*Fracción adicionada DOF 13-01-1984. Derogada DOF 10-01-1994*
+
+*Artículo reformado DOF 10-02-1945, 05-01-1955*
 
 ##### Artículo 61.
 
 En los casos a que se refiere la primera parte del primer párrafo del artículo anterior se exceptúa la reparación del daño. Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no privativa de libertad aprovechará esa situación al responsable de delito culposo.
+
+*Artículo reformado DOF 10-02-1945, 15-01-1951, 10-01-1994*
 
 ##### Artículo 62.
 
@@ -758,17 +958,27 @@ Cuando por culpa se ocasione un daño en propiedad ajena que no sea mayor del eq
 
 Cuando por culpa y por motivo del tránsito de vehículos se causen lesiones, cualquiera que sea su naturaleza, sólo se procederá a petición del ofendido o de su legítimo representante, siempre que el conductor no se hubiese encontrado en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquiera otra sustancia que produzca efectos similares y no se haya dejado abandonada a la víctima.
 
+*Artículo reformado DOF 24-03-1944, 15-01-1951, 05-01-1955, 19-03-1971, 13-01-1984, 19-11-1986, 10-01-1994*
+
 #### CAPITULO III · Aplicación de sanciones en caso de tentativa
 
 ##### Artículo 63.
 
 Al responsable de tentativa punible se le aplicará a juicio del juez y teniendo en consideración las prevenciones de los artículos 12 y 52, hasta las dos terceras partes de la sanción que se le debiera imponer de haberse consumado el delito que quiso realizar, salvo disposición en contrario.
 
+*Fe de erratas al párrafo DOF 01-02-1994*
+
 En los casos de tentativa en que no fuere posible determinar el daño que se pretendió causar, cuando éste fuera determinante para la correcta adecuación típica, se aplicará hasta la mitad de la sanción señalada en el párrafo anterior.
 
 En los casos de tentativa punible de delito grave así calificado por la ley, la autoridad judicial impondrá una pena de prisión que no será menor a la pena mínima y podrá llegar hasta las dos terceras partes de la sanción máxima prevista para el delito consumado.
 
+*Párrafo adicionado DOF 13-05-1996*
+
+*Artículo reformado DOF 15-01-1951, 10-01-1994*
+
 #### CAPITULO IV · Aplicación de sanciones en caso de concurso, delito continuado, complicidad, reincidencia y error vencible
+
+*Denominación del Capítulo reformada DOF 13-01-1984, 10-01-1994*
 
 ##### Artículo 64.
 
@@ -778,9 +988,13 @@ En caso de concurso real, se impondrá la sanción del delito más grave, la cua
 
 En caso de delito continuado, se aumentará la sanción penal hasta en una mitad de la correspondiente al máximo del delito cometido, sin que exceda del máximo señalado en el Título Segundo del Libro Primero.
 
+*Artículo reformado DOF 19-12-1964, 13-01-1984, 10-01-1994, 13-05-1996, 17-05-1999, 26-05-2004, 30-11-2010, 17-06-2016*
+
 ##### Artículo 64 Bis.
 
 En los casos previstos por las fracciones VI, VII y VIII del artículo 13, se impondrá como pena hasta las tres cuartas partes de la correspondiente al delito de que se trate y, en su caso, de acuerdo con la modalidad respectiva.
+
+*Artículo adicionado DOF 13-01-1984. Reformado DOF 10-01-1994*
 
 ##### Artículo 65.
 
@@ -788,11 +1002,21 @@ La reincidencia a que se refiere el artículo 20 será tomada en cuenta para la 
 
 En caso de que el imputado por algún delito doloso calificado por la ley como grave o que amerite prisión preventiva oficiosa, según corresponda, fuese reincidente por delitos de dicha naturaleza, la sanción aplicable por el nuevo delito cometido se incrementará en dos terceras partes y hasta en un tanto más de la pena máxima prevista para éste, sin que exceda del máximo señalado en el Título Segundo del Libro Primero.
 
+*Párrafo reformado DOF 17-06-2016*
+
+*Reforma DOF 17-05-1999: Derogó del artículo el entonces párrafo tercero*
+
+*Artículo reformado DOF 12-05-1938, 30-12-1991, 10-01-1994, 13-05-1996*
+
 ##### Artículo 66.
 
 En caso de que el error a que se refiere el inciso a) de la fracción VIII del artículo 15 sea vencible, se impondrá la punibilidad del delito culposo si el hecho de que se trata admite dicha forma de realización. Si el error vencible es el previsto en el inciso b) de dicha fracción, la pena será de hasta una tercera parte del delito que se trate.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 12-05-1938, 24-03-1944, 05-01-1948, 10-01-1994*
+
 #### CAPITULO V · Tratamiento de inimputables y de quienes tengan el hábito o la necesidad de consumir estupefacientes o psicotrópicos, en internamiento o en libertad
+
+*Denominación del Capítulo reformada DOF 13-01-1984, 10-01-1986*
 
 ##### Artículo 67.
 
@@ -802,19 +1026,29 @@ Si se trata de internamiento, el sujeto inimputable será internado en la instit
 
 En caso de que el sentenciado tenga el hábito o la necesidad de consumir estupefacientes o psicotrópicos, el juez ordenará también el tratamiento que proceda, por parte de la autoridad sanitaria competente o de otro servicio médico bajo la supervisión de aquélla, independientemente de la ejecución de la pena impuesta por el delito cometido.
 
+*Párrafo adicionado DOF 10-01-1986*
+
+*Artículo reformado DOF 13-01-1984*
+
 ##### Artículo 68.
 
 Las personas inimputables podrán ser entregadas por la autoridad judicial o ejecutora, en su caso, a quienes legalmente corresponda hacerse cargo de ellos, siempre que se obliguen a tomar las medidas adecuadas para su tratamiento y vigilancia, garantizando, por cualquier medio y a satisfacción de las mencionadas autoridades, el cumplimiento de las obligaciones contraídas.
 
 La autoridad ejecutora podrá resolver sobre la modificación o conclusión de la medida, en forma provisional o definitiva, considerando las necesidades del tratamiento, las que se acreditarán mediante revisiones periódicas, con la frecuencia y características del caso.
 
+*Artículo reformado DOF 13-01-1984*
+
 ##### Artículo 69.
 
 En ningún caso la medida de tratamiento impuesta por el juez penal, excederá de la duración que corresponda al máximo de la pena aplicable al delito. Si concluido este tiempo, la autoridad ejecutora considera que el sujeto continúa necesitando el tratamiento, lo pondrá a disposición de las autoridades sanitarias para que procedan conforme a las leyes aplicables.
 
+*Artículo reformado DOF 13-01-1984*
+
 ##### Artículo 69 Bis.
 
 Si la capacidad del autor, de comprender el carácter ilícito del hecho o de determinarse de acuerdo con esa comprensión, sólo se encuentra disminuida por las causas señaladas en la fracción VII del artículo 15 de este Código, a juicio del juzgador, según proceda, se le impondrá hasta dos terceras partes de la pena que correspondería al delito cometido, o la medida de seguridad a que se refiere el artículo 67 o bien ambas, en caso de ser necesario, tomando en cuenta el grado de afectación de la imputabilidad del autor.
+
+*Artículo adicionado DOF 10-01-1994*
 
 #### CAPITULO VI · Substitución y conmutación de sanciones
 
@@ -824,21 +1058,41 @@ La prisión podrá ser sustituida, a juicio del juzgador, apreciando lo dispuest
 
 I. Por trabajo en favor de la comunidad o semilibertad, cuando la pena impuesta no exceda de cuatro años;
 
+*Fracción reformada DOF 13-05-1996*
+
 II. Por tratamiento en libertad, si la prisión no excede de tres años, o
+
+*Fracción reformada DOF 13-05-1996*
 
 III. Por multa, si la prisión no excede de dos años.
 
+*Fracción reformada DOF 13-05-1996*
+
 La sustitución no podrá aplicarse a quien anteriormente hubiere sido condenado en sentencia ejecutoriada por delito doloso que se persiga de oficio. Tampoco se aplicará a quien sea condenado por algún delito de los señalados en la fracción I del artículo 85 de este Código.
+
+*Párrafo adicionado DOF 13-05-1996. Reformado DOF 31-12-1998, 17-05-1999*
+
+*Reforma DOF 10-01-1994: Derogó del artículo el entonces párrafo segundo*
+
+*Artículo derogado DOF 12-05-1938. Adicionado DOF 24-03-1944. Derogado DOF 05-01-1948. Adicionado DOF 13-01-1984. Reformado DOF 30-12-1991*
 
 ##### Artículo 71.
 
 El juez dejará sin efecto la sustitución y ordenará que se ejecute la pena de prisión impuesta, cuando el sentenciado no cumpla con las condiciones que le fueran señaladas para tal efecto, salvo que el juzgador estime conveniente apercibirlo de que si se incurre en nueva falta, se hará efectiva la sanción sustituida o cuando al sentenciado se le condene por otro delito. Si el nuevo delito es culposo, el juez resolverá si se debe aplicar la pena sustituida.
 
+*Párrafo reformado DOF 10-01-1994. Fe de erratas DOF 01-02-1994*
+
 En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual el sentenciado hubiera cumplido la sanción sustitutiva.
+
+*Párrafo reformado DOF 17-06-2016*
+
+*Artículo derogado DOF 12-05-1938. Adicionado DOF 24-03-1944. Derogado DOF 05-01-1948. Adicionado DOF 13-01-1984*
 
 ##### Artículo 72.
 
 En caso de haberse nombrado fiador para el cumplimiento de los deberes inherentes a la sustitución de sanciones, la obligación de aquél concluirá al extinguirse la pena impuesta. Cuando el fiador tenga motivos fundados para no continuar en su desempeño, los expondrá al juez, a fin de que éste, si los estima justos, prevenga al sentenciado que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, apercibido de que se hará efectiva la sanción si no lo hace. En caso de muerte o insolvencia del fiador, el sentenciado deberá poner el hecho en conocimiento del juez, para el efecto y bajo el apercibimiento que se expresan en el párrafo que precede, en los términos de la fracción VI del artículo 90.
+
+*Artículo derogado DOF 12-05-1938. Adicionado DOF 13-01-1984*
 
 ##### Artículo 73.
 
@@ -848,21 +1102,31 @@ I.- Cuando la sanción impuesta sea la de prisión, se conmutará en confinamien
 
 II.- Si fuere la de confinamiento, se conmutará por multa, a razón de un día de aquél por un día de multa.
 
+*Fracción reformada DOF 13-01-1984*
+
 ##### Artículo 74.
 
 El sentenciado que considere que al dictarse sentencia reunía las condiciones para el disfrute de la sustitución o conmutación de la sanción y que por inadvertencia de su parte o del juzgador no le hubiera sido otorgada, podrá promover ante éste que se le conceda, abriéndose el incidente respectivo en los términos de la fracción X del artículo 90.
 
+*Párrafo reformado DOF 17-06-2016*
+
 En todo caso en que proceda la substitución o la conmutación de la pena, al hacerse el cálculo de la sanción substitutiva se disminuirá además de lo establecido en el último párrafo del artículo 29 de este Código, el tiempo durante el cual el sentenciado sufrió prisión preventiva.
+
+*Párrafo adicionado DOF 30-12-1991*
+
+*Artículo reformado DOF 19-03-1971, 13-01-1984*
 
 ##### Artículo 75.
 
-Cuando el sentenciado acredite plenamente que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta por ser incompatible con su edad, sexo, salud o constitución física, el Juez de Ejecución podrá modificar aquélla, siempre que la modificación
+Cuando el sentenciado acredite plenamente que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta por ser incompatible con su edad, sexo, salud o constitución física, el Juez de Ejecución podrá modificar aquélla, siempre que la modificación no sea esencial.
 
-no sea esencial.
+*Artículo reformado DOF 19-03-1971, 17-06-2016*
 
 ##### Artículo 76.
 
 Para la procedencia de la sustitución y la conmutación, se exigirá al sentenciado la reparación del daño o la garantía que señale el Órgano jurisdiccional para asegurar su pago, en el plazo que se le fije.
+
+*Artículo reformado DOF 19-03-1971, 17-06-2016*
 
 ### TITULO · CUARTO
 
@@ -872,9 +1136,13 @@ Para la procedencia de la sustitución y la conmutación, se exigirá al sentenc
 
 Corresponde a la autoridad jurisdiccional la imposición de las penas, su modificación y duración; asimismo, al Ejecutivo Federal la administración penitenciaria.
 
+*Artículo reformado DOF 17-06-2016*
+
 ##### Artículo 78.
 
 (Se deroga).
+
+*Artículo derogado DOF 23-12-1985*
 
 #### CAPITULO II · Trabajo de los presos
 
@@ -882,21 +1150,31 @@ Corresponde a la autoridad jurisdiccional la imposición de las penas, su modifi
 
 (Se deroga).
 
+*Artículo derogado DOF 23-12-1985*
+
 ##### Artículo 80.
 
 (Se deroga).
+
+*Artículo derogado DOF 23-12-1985*
 
 ##### Artículo 81.
 
 (Se deroga).
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 19-03-1971. Derogado DOF 23-12-1985*
+
 ##### Artículo 82.
 
 (Se deroga).
 
+*Artículo reformado DOF 19-03-1971. Derogado DOF 23-12-1985*
+
 ##### Artículo 83.
 
 (Se deroga).
+
+*Artículo reformado DOF 19-03-1971. Derogado DOF 23-12-1985*
 
 #### CAPITULO III · Libertad preparatoria y retención
 
@@ -912,13 +1190,19 @@ III.- Que haya reparado o se comprometa a reparar el daño causado, sujetándose
 
 Llenados los requisitos anteriores, la autoridad competente tendrá un plazo no mayor a 30 días hábiles para conceder la libertad preparatoria o en su caso informar al interesado el resultado de su trámite, dicha libertad preparatoria estará sujeta a las siguientes condiciones:
 
+*Párrafo reformado DOF 30-06-2006*
+
 a).- Residir o, en su caso, no residir en lugar determinado, e informe a la autoridad de los cambios de su domicilio. La designación del lugar de residencia se hará conciliando la circunstancia de que el reo pueda proporcionarse trabajo en el lugar que se fije, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda;
 
 b).- Desempeñar en el plazo que la resolución determine, oficio, arte, industria o profesión lícitos, si no tuviere medios propios de subsistencia;
 
-c).- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos o sustancias que produzcan efectos similares, salvo por prescripción médica;
+c).- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes: psicotrópicos o sustancias que produzcan efectos similares, salvo por prescripción médica;
+
+*Inciso reformado DOF 31-12-1974*
 
 d).- Sujetarse a las medidas de orientación y supervisión que se le dicten y a la vigilancia de alguna persona honrada y de arraigo, que se obligue a informar sobre su conducta, presentándolo siempre que para ello fuere requerida.
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 19-03-1971*
 
 ##### Artículo 85.
 
@@ -930,13 +1214,21 @@ a) Uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el 
 
 b) Contra la salud, previsto en el artículo 194, salvo que se trate de individuos en los que concurran evidente atraso cultural, aislamiento social y extrema necesidad económica; y para la modalidad de transportación, si cumplen con los requisitos establecidos en los artículos 84 y 90, fracción I, inciso c), para lo cual deberán ser primodelincuentes, a pesar de no hallarse en los tres supuestos señalados en la excepción general de este inciso;
 
+*Inciso reformado DOF 12-06-2003*
+
 c) Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 203 y 203 bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; Pederastia, previsto en el artículo 209 Bis;
+
+*Inciso reformado DOF 27-03-2007, 27-11-2007, 19-08-2010*
 
 d) Violación, previsto en los artículos 265, 266 y 266 bis;
 
 e) Homicidio, previsto en los artículos 315, 315 Bis y 320; y feminicidio previsto en el artículo 325;
 
+*Inciso reformado DOF 14-06-2012*
+
 f) Tráfico de menores, previsto en el artículo 366 Ter.
+
+*Inciso reformado DOF 12-06-2000, 30-11-2010*
 
 g) Comercialización de objetos robados, previsto en el artículo 368 ter;
 
@@ -944,23 +1236,39 @@ h) Robo de vehículo, previsto en el artículo 376 bis;
 
 i) Robo, previsto en los artículos 371, último párrafo; 372; 381, fracciones VII, VIII, IX, X, XI y XV; y 381 Bis;
 
+*Inciso reformado DOF 26-06-2008*
+
 j) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis;
+
+*Inciso reformado DOF 26-06-2008*
 
 k) Los previstos y sancionados en los artículos 112 Bis, 112 Ter, 112 Quáter y 112 Quintus de la Ley de Instituciones de Crédito, cuando quien lo cometa forme parte de una asociación, banda o pandilla en los términos del artículo 164, o 164 Bis, o
 
+*Inciso adicionado DOF 26-06-2008*
+
 l) Los previstos y sancionados en los artículos 432, 433, 434 y 435 de la Ley General de Títulos y Operaciones de Crédito, cuando quien lo cometa forme parte de una asociación, banda o pandilla en los términos del artículo 164 o 164 Bis.
+
+*Inciso adicionado DOF 26-06-2008*
 
 II. Delitos en Materia de Trata de Personas contenidos en el Título Segundo de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
 
+*Fracción adicionada DOF 27-11-2007. Reformada DOF 14-06-2012*
+
 III. Los que incurran en segunda reincidencia de delito doloso o sean considerados delincuentes habituales.
 
+*Fracción recorrida DOF 27-11-2007*
+
 IV. Los sentenciados por las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, salvo las previstas en los artículos 9, 10, 11, 17 y 18.
+
+*Fracción adicionada DOF 30-11-2010*
 
 V. Los sentenciados por el delito de Tortura.
 
 *Fracción adicionada DOF 26-06-2017*
 
 Tratándose de los delitos comprendidos en el Titulo Décimo de este Código, la libertad preparatoria solo se concederá cuando se satisfaga la reparación del daño a que se refiere la fracción III del artículo 30 o se otorgue caución que la garantice.
+
+*Artículo reformado DOF 09-03-1946, 14-01-1966, 08-03-1968, 19-03-1971, 08-12-1978, 05-01-1983, 28-12-1992, 10-01-1994. Fe de erratas DOF 01-02-1994. Reformado DOF 17-05-1999*
 
 ##### Artículo 86.
 
@@ -972,17 +1280,25 @@ II. El liberado sea condenado por nuevo delito doloso, mediante sentencia ejecut
 
 El condenado cuya libertad preparatoria sea revocada deberá cumplir el resto de la pena en prisión, para lo cual la autoridad considerará el tiempo de cumplimiento en libertad. Los hechos que originen los nuevos procesos a que se refiere la fracción II de este artículo interrumpen los plazos para extinguir la sanción.
 
+*Artículo reformado DOF 19-03-1971, 10-01-1994, 17-05-1999*
+
 ##### Artículo 87.
 
 Los sentenciados que disfruten de libertad preparatoria, concedida por la autoridad jurisdiccional, quedarán bajo la supervisión y vigilancia de la autoridad que al efecto determine la legislación en la materia aplicable.
+
+*Artículo reformado DOF 19-03-1971, 23-01-2009, 17-06-2016*
 
 ##### Artículo 88.
 
 (Se deroga).
 
+*Artículo derogado DOF 23-12-1985*
+
 ##### Artículo 89.
 
 (Se deroga).
+
+*Artículo derogado DOF 23-12-1985*
 
 #### CAPITULO IV · Condena condicional
 
@@ -994,23 +1310,31 @@ I.- El juez o Tribunal, en su caso, al dictar sentencia de condena o en la hipó
 
 a).- Que la condena se refiera a pena de prisión que no exceda de cuatro años;
 
+*Inciso reformado DOF 30-12-1991*
+
 b) Que el sentenciado no sea reincidente por delito doloso, haya evidenciado buena conducta antes y después del hecho punible y que la condena no se refiera a alguno de los delitos señalados en la fracción I del artículo 85 de este Código, y
+
+*Inciso reformado DOF 10-01-1994, 17-05-1999*
 
 c) Que por sus antecedentes personales o modo honesto de vivir, así como por la naturaleza, modalidades y móviles del delito, se presuma que el sentenciado no volverá a delinquir.
 
-d) (Se deroga).
+*Inciso reformado DOF 17-05-1999*
 
-e) (Se deroga).
+d) Derogado.
+
+*Inciso adicionado como inciso e) DOF 05-01-1983. Derogado como inciso e) DOF 10-01-1994. Derogado como inciso d) DOF 17-05-1999*
 
 II.- Para gozar de este beneficio el sentenciado deberá:
 
 a).- Otorgar la garantía o sujetarse a las medidas que se le fijen, para asegurar su presentación ante la autoridad siempre que fuere requerido;
 
-b).- Obligarse a residir en determinado lugar del que no podrá ausentarse sin permiso de la autoridad que ejerza sobre él cuidado y vigilancia;
+b).- Obligarse a residir en determinado lugar, del que no podrá ausentarse sin permiso de la autoridad que ejerza sobre él cuidado y vigilancia;
 
 c).- Desempeñar en el plazo que se le fije, profesión, arte, oficio u ocupación lícitos;
 
-d).- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, u otras sustancias que produzcan efectos similares, salvo por prescripción médica; y
+d).- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares, salvo por prescripción médica; y
+
+*Fe de erratas al inciso DOF 07-05-1971. Reformado DOF 31-12-1974*
 
 e).- Reparar el daño causado.
 
@@ -1024,27 +1348,45 @@ V.- Los sentenciados que disfruten de los beneficios de la condena condicional q
 
 VI.- En caso de haberse nombrado fiador para el cumplimiento de las obligaciones contraídas en los términos de este artículo, la obligación de aquél concluirá seis meses después de transcurrido el término a que se refiere la fracción VII, siempre que el delincuente no diere lugar a nuevo proceso o cuando en éste se pronuncie sentencia absolutoria. Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al juez a fin de que éste, si los estima justos, prevenga al sentenciado que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, apercibido de que se hará efectiva la sanción si no lo verifica. En caso de muerte o insolvencia del fiador, estará obligado el sentenciado a poner el hecho en conocimiento del juez para el efecto y bajo el apercibimiento que se expresa en el párrafo que precede.
 
+*Fracción reformada DOF 30-12-1991*
+
 VII.- Si durante el término de duración de la pena, desde la fecha de la sentencia que cause ejecutoria el condenado no diere lugar a nuevo proceso por delito doloso que concluya con sentencia condenatoria, se considerará extinguida la sanción fijada en aquélla. En caso contrario, se hará efectiva la primera sentencia, además de la segunda, en la que el reo será consignado como reincidente sin perjuicio de lo establecido en el artículo 20 de este Código. Tratándose del delito culposo, la autoridad competente resolverá motivadamente si debe aplicarse o no la sanción suspendida;
 
+*Fracción reformada DOF 30-12-1991, 10-01-1994*
+
 VIII.- Los hechos que originen el nuevo proceso interrumpen el término a que se refiere la fracción VII tanto si se trata del delito doloso como culposo, hasta que se dicte sentencia firme;
+
+*Fracción reformada DOF 30-12-1991, 10-01-1994*
 
 IX.- En caso de falta de cumplimiento de las obligaciones contraídas por el condenado, el juez podrá hacer efectiva la sanción suspendida o amonestarlo, con el apercibimiento de que, si vuelve a faltar a alguna de las condiciones fijadas, se hará efectiva dicha sanción.
 
 X.- El reo que considere que al dictarse sentencia reunía las condiciones fijadas en este precepto y que está en aptitud de cumplir los demás requisitos que se establecen, si es por inadvertencia de su parte o de los tribunales que no obtuvo en la sentencia el otorgamiento de la condena condicional, podrá promover que se le conceda, abriendo el incidente respectivo ante el juez de la causa.
 
+*Artículo reformado DOF 19-03-1971*
+
 #### CAPITULO V · Transparencia en los beneficios de libertad anticipada o condena condicional
+
+*Capítulo adicionado DOF 23-01-2009*
 
 ##### Artículo 90 Bis.
 
 Se deroga.
 
+*Artículo adicionado DOF 23-01-2009. Derogado DOF 17-06-2016*
+
 ### TITULO QUINTO · De las Causas de Extinción de la Acción Penal
 
+*Denominación del Título reformada DOF 17-06-2016*
+
 #### CAPITULO I · Muerte del imputado o sentenciado
+
+*Denominación del Capítulo reformada DOF 17-06-2016*
 
 ##### Artículo 91.
 
 La muerte del imputado extingue la acción penal, así como las sanciones que se le hubieren impuesto, a excepción de la reparación del daño, providencias precautorias, aseguramiento y la de decomiso de los instrumentos, objetos o productos del delito así como los bienes cuyo valor equivalga a dicho producto de conformidad con lo previsto en el artículo 40 de este Código.
+
+*Artículo reformado DOF 17-06-2016*
 
 #### CAPITULO II · Amnistía
 
@@ -1052,11 +1394,15 @@ La muerte del imputado extingue la acción penal, así como las sanciones que se
 
 La amnistía extingue la acción penal y las sanciones impuestas, excepto la reparación del daño, en los términos de la ley que se dictare concediéndola, y si no se expresaren, se entenderá que la acción penal y las sanciones impuestas se extinguen con todos sus efectos, con relación a todos los responsables del delito.
 
-#### CAPITULO III · Perdón del ofendido o legitimado para otorgarlo
+#### CAPITULO III · Perdón del Ofendido o Legitimado para Otorgarlo
+
+*Denominación del Capítulo reformada DOF 13-01-1984*
 
 ##### Artículo 93.
 
 El perdón del ofendido o del legitimado para otorgarlo sólo podrá otorgarse cuando se hayan reparado la totalidad de los daños y perjuicios ocasionados por la comisión del delito, éste extingue la acción penal respecto de los delitos que se persiguen por querella, siempre que se conceda ante el Ministerio Público si éste no ha ejercitado la misma o ante el órgano jurisdiccional antes de dictarse sentencia de segunda instancia. Una vez otorgado el perdón, éste no podrá revocarse.
+
+*Párrafo reformado DOF 14-06-2012*
 
 Lo dispuesto en el párrafo anterior es igualmente aplicable a los delitos que sólo pueden ser perseguidos por declaratoria de perjuicio o por algún otro acto equivalente a la querella, siendo suficiente para la extinción de la acción penal la manifestación de quien está autorizado para ello de que el interés afectado ha sido satisfecho.
 
@@ -1064,7 +1410,13 @@ Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facul
 
 El perdón solo beneficia al imputado en cuyo favor se otorga, a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses o derechos, caso en el cual beneficiará a todos los imputados y al encubridor.
 
-#### CAPITULO IV · Reconocimiento de inocencia e indulto
+*Párrafo reformado DOF 17-06-2016*
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 13-01-1984, 10-01-1994, 04-12-2002*
+
+#### CAPITULO IV · Reconocimiento de Inocencia e Indulto
+
+*Denominación del Capítulo reformada DOF 13-01-1984*
 
 ##### Artículo 94.
 
@@ -1078,9 +1430,13 @@ No podrá concederse de la inhabilitación para ejercer una profesión o alguno 
 
 Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos previstos por el Código de Procedimientos Penales aplicable y se estará a lo dispuesto en el artículo 49 de este Código.
 
+*Artículo reformado DOF 13-01-1984*
+
 ##### Artículo 97.
 
 Cuando la conducta observada por el sentenciado refleje un alto grado de reinserción social y su liberación no represente un riesgo para la tranquilidad y seguridad públicas, conforme al dictamen del órgano ejecutor de la sanción y no se trate de sentenciado por traición a la Patria, espionaje, terrorismo, sabotaje, genocidio, delitos contra la salud, violación, delito intencional contra la vida y secuestro, desaparición forzada, tortura y trata de personas, ni de reincidente por delito intencional, se le podrá conceder indulto por el Ejecutivo Federal, en uso de facultades discrecionales, expresando sus razones y fundamentos en los casos siguientes:
+
+*Párrafo reformado DOF 17-06-2016*
 
 I.- Por los delitos de carácter político a que alude el artículo 144 de este Código;
 
@@ -1088,21 +1444,29 @@ II.- Por otros delitos cuando la conducta de los responsables haya sido determin
 
 III.- Por delitos de orden federal o común en el Distrito Federal, cuando el sentenciado haya prestado importantes servicios a la Nación, y previa solicitud.
 
+*Artículo reformado DOF 31-10-1989*
+
 ##### Artículo 97 Bis.
 
 De manera excepcional, por sí o a petición del Pleno de alguna de las Cámaras del Congreso de la Unión, el Titular del Poder Ejecutivo Federal podrá conceder el indulto, por cualquier delito del orden federal o común en el Distrito Federal, y previo dictamen del órgano ejecutor de la sanción en el que se demuestre que la persona sentenciada no representa un peligro para la tranquilidad y seguridad públicas, expresando sus razones y fundamentos, cuando existan indicios consistentes de violaciones graves a los derechos humanos de la persona sentenciada.
 
 El Ejecutivo Federal deberá cerciorarse de que la persona sentenciada haya agotado previamente todos los recursos legales nacionales.
 
+*Artículo adicionado DOF 30-10-2013*
+
 ##### Artículo 98.
 
 El indulto en ningún caso extinguirá la obligación de reparar el daño causado. El reconocimiento de la inocencia del sentenciado extingue la obligación de reparar el daño.
+
+*Artículo reformado DOF 13-01-1984, 31-10-1989*
 
 #### CAPITULO V · Rehabilitación
 
 ##### Artículo 99.
 
 La rehabilitación tiene por objeto reintegrar al sentenciado en los derechos civiles, políticos o de familia que había perdido en virtud de sentencia dictada en un proceso o en cuyo ejercicio estuviere en suspenso.
+
+*Artículo reformado DOF 17-06-2016*
 
 #### CAPITULO VI · Prescripción
 
@@ -1116,11 +1480,17 @@ La prescripción es personal y para ella bastará el simple transcurso del tiemp
 
 Los plazos para la prescripción se duplicarán respecto de quienes se encuentren fuera del territorio nacional, si por esta circunstancia no es posible realizar una investigación, concluir un proceso o ejecutar una sanción.
 
+*Párrafo adicionado DOF 13-01-1984. Reformado DOF 17-06-2016*
+
 La prescripción producirá su efecto, aunque no la alegue como excepción el imputado, acusado y sentenciado. El órgano jurisdiccional la suplirá de oficio en todo caso, tan luego como tengan conocimiento de ella, sea cual fuere el estado del procedimiento.
+
+*Párrafo reformado DOF 17-06-2016*
 
 ##### Artículo 102.
 
 Los plazos para la prescripción de la acción penal serán continuos; en ellos se considerará el delito con sus modalidades, y se contarán:
+
+*Párrafo reformado DOF 23-12-1985*
 
 I.- A partir del momento en que se consumó el delito, si fuere instantáneo;
 
@@ -1130,27 +1500,41 @@ III.- Desde el día en que se realizó la última conducta, tratándose de delit
 
 IV.- Desde la cesación de la consumación en el delito permanente.
 
+*Artículo reformado DOF 13-01-1984*
+
 ##### Artículo 103.
 
 Los plazos para la prescripción de las sanciones serán igualmente continuos y correrán desde el día siguiente a aquel en que el condenado se sustraiga a la acción de la justicia, si las sanciones son privativas o restrictivas de la libertad, y si no lo son, desde la fecha de la sentencia ejecutoria.
+
+*Artículo reformado DOF 23-12-1985*
 
 ##### Artículo 104.
 
 La acción penal prescribe en un año, si el delito sólo mereciere multa; si el delito mereciere, además de esta sanción, pena privativa de libertad o alternativa, se atenderá a la prescripción de la acción para perseguir la pena privativa de libertad; lo mismo se observará cuando corresponda imponer alguna otra sanción accesoria.
 
+*Artículo reformado DOF 23-12-1985*
+
 ##### Artículo 105.
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala la ley para el delito de que se trate, pero en ningún caso será menor de tres años.
+
+*Artículo reformado DOF 23-12-1985*
 
 ##### Artículo 106.
 
 La acción penal prescribirá en dos años, si el delito sólo mereciere destitución, suspensión, privación de derecho o inhabilitación, salvo lo previsto en otras normas.
 
+*Artículo reformado DOF 23-12-1985*
+
 ##### Artículo 107.
 
 Cuando la ley no prevenga otra cosa, la acción penal que nazca de un delito que sólo puede perseguirse por querella del ofendido o algún otro acto equivalente, prescribirá en un año, contado desde el día en que quienes puedan formular la querella o el acto equivalente, tengan conocimiento del delito y del delincuente, y en tres, fuera de esta circunstancia.
 
+*Fe de erratas al párrafo DOF 31-08-1931. Reformado DOF 23-12-1985*
+
 Pero una vez llenado el requisito de procedibilidad dentro del plazo antes mencionado, la prescripción seguirá corriendo según las reglas para los delitos perseguibles de oficio.
+
+*Fe de erratas al párrafo DOF 31-08-1931. Reformado DOF 10-01-1994*
 
 ##### Artículo 107 Bis.
 
@@ -1160,23 +1544,39 @@ En el caso de aquellas personas que no tengan la capacidad de comprender el sign
 
 En los casos de los delitos contra la libertad y el normal desarrollo psicosexual, así como los previstos en la Ley para prevenir y sancionar la Trata de Personas, que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, se observarán las reglas para la prescripción de la acción penal contenidas en este capítulo, pero el inicio del cómputo de los plazos comenzará a partir del día en que la víctima cumpla la mayoría de edad.
 
+*Párrafo adicionado DOF 14-06-2012*
+
+*Artículo adicionado DOF 19-08-2010*
+
 ##### Artículo 108.
 
 En los casos de concurso de delitos, las acciones penales que de ellos resulten, prescribirán cuando prescriba la del delito que merezca pena mayor.
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 23-12-1985*
 
 ##### Artículo 109.
 
 Cuando para ejercitar o continuar la acción penal sea necesaria una resolución previa de autoridad jurisdiccional, la prescripción comenzará a correr desde que se dicte la sentencia irrevocable.
 
+*Artículo reformado DOF 23-12-1985*
+
 ##### Artículo 110.
 
 La prescripción de las acciones se interrumpirá por las actuaciones que se practiquen en la investigación y de los imputados, aunque por ignorarse quienes sean estos no se practiquen las diligencias contra persona determinada.
+
+*Párrafo reformado DOF 17-06-2016*
 
 Si se dejare de actuar, la prescripción empezará a correr de nuevo desde el día siguiente al de la última diligencia.
 
 La prescripción de las acciones se interrumpirá también por el requerimiento de auxilio en la investigación del delito o de quien lo haya cometido o participado en su comisión, por las diligencias que se practiquen para obtener la extradición internacional, y por el requerimiento de entrega del imputado que formalmente haga el Ministerio Público de una entidad federativa al de otra donde aquel se refugie, se localice o se encuentre detenido por el mismo o por otro delito. En el primer caso también causarán la interrupción las actuaciones que practique la autoridad requerida y en el segundo subsistirá la interrupción hasta en tanto la autoridad requerida niegue la entrega o en tanto desaparezca la situación legal del detenido, que dé motivo al aplazamiento de su entrega.
 
+*Párrafo adicionado DOF 10-01-1994. Reformado DOF 17-06-2016*
+
 La interrupción de la prescripción de la acción penal, sólo podrá ampliar hasta una mitad los plazos señalados en los artículos 105, 106 y 107 de este Código.
+
+*Párrafo adicionado DOF 10-01-1994*
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 23-12-1985*
 
 ##### Artículo 111.
 
@@ -1184,71 +1584,107 @@ Las prevenciones contenidas en los dos primeros párrafos y en el primer caso de
 
 Se exceptúa de la regla anterior el plazo que el artículo 107 fija para que se satisfaga la querella u otro requisito equivalente.
 
+*Artículo reformado DOF 15-01-1951, 10-01-1994*
+
 ##### Artículo 112.
 
 Si para deducir una acción penal exigiere la ley previa declaración o resolución de alguna autoridad, las gestiones que con ese fin se practiquen, antes del término señalado en el artículo precedente, interrumpirán la prescripción.
+
+*Artículo reformado DOF 15-01-1951, 23-12-1985*
 
 ##### Artículo 113.
 
 Salvo que la ley disponga otra cosa, la pena privativa de libertad prescribirá en un tiempo igual al fijado en la condena y una cuarta parte más, pero no podrá ser inferior a tres años; la pena de multa prescribirá en un año; las demás sanciones prescribirán en un plazo igual al que deberían durar y una cuarta parte más, sin que pueda ser inferior a dos años; las que no tengan temporalidad, prescribirán en dos años. Los plazos serán contados a partir de la fecha en que cause ejecutoria la resolución.
 
+*Artículo reformado DOF 23-12-1985*
+
 ##### Artículo 114.
 
 Cuando el sentenciado hubiere extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena y una cuarta parte más, pero no podrá ser menor de un año.
+
+*Artículo reformado DOF 23-12-1985, 17-06-2016*
 
 ##### Artículo 115.
 
 La prescripción de la sanción privativa de libertad solo se interrumpe aprehendiendo al imputado aunque la aprehensión se ejecute por otro delito diverso, o por la formal solicitud de entrega que el Ministerio Público de una entidad federativa haga al de otra en que aquél se encuentre detenido, en cuyo caso subsistirá la interrupción hasta en tanto la autoridad requerida niegue dicha entrega o desaparezca la situación legal del detenido que motive aplazar el cumplimiento de lo solicitado.
 
+*Párrafo reformado DOF 17-06-2016*
+
 La prescripción de las demás sanciones se interrumpirá por cualquier acto de autoridad competente para hacerlas efectivas. También se interrumpirá la prescripción de la pena de reparación del daño o de otras de carácter pecuniario, por las promociones que el ofendido o persona a cuyo favor se haya decretado dicha reparación haga ante la autoridad fiscal correspondiente y por las actuaciones que esa autoridad realice para ejecutarlas, así como por el inicio de juicio ejecutivo ante autoridad civil usando como título la sentencia condenatoria correspondiente.
 
-#### CAPITULO VII · Cumplimiento de la pena o medida de seguridad
+*Artículo reformado DOF 23-12-1985, 10-01-1994*
+
+#### CAPITULO VII · Cumplimiento de la Pena o Medida de Seguridad
+
+*Capítulo adicionado DOF 13-01-1984. Reubicado con denominación reformada DOF 23-12-1985*
 
 ##### Artículo 116.
 
 La pena y la medida de seguridad se extinguen, con todos sus efectos, por cumplimiento de aquéllas o de las sanciones por las que hubiesen sido sustituidas o conmutadas. Asimismo, la sanción que se hubiese suspendido se extinguirá por el cumplimiento de los requisitos establecidos al otorgarla, en los términos y dentro de los plazos legalmente aplicables.
 
+*Artículo reformado DOF 23-12-1985*
+
 #### CAPITULO VIII · Supresión del tipo penal
+
+*Capítulo adicionado DOF 23-12-1985. Denominación reformada DOF 17-06-2016*
 
 ##### Artículo 117.
 
-La ley que suprime el tipo penal o lo modifique, extingue en su caso, la acción penal o la sanción correspondiente, conforme a lo dispuesto en el artículo 56.
+La ley que suprime el tipo penal o lo modifique, extingue, en su caso, la acción penal o la sanción correspondiente, conforme a lo dispuesto en el artículo 56.
 
-#### CAPITULO IX · Existencia de una sentencia anterior dictada en proceso seguido por los mismos hechos
+*Artículo reformado DOF 23-12-1985*
+
+#### CAPITULO IX · Existencia de una Sentencia Anterior Dictada en Proceso Seguido por los Mismos Hechos
+
+*Capítulo adicionado DOF 23-12-1985*
 
 ##### Artículo 118.
 
 Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en el juicio se le absuelva o se le condene. Cuando se hubiese dictado sentencia en un proceso y aparezca que existe otro en relación con la misma persona y por los mismos hechos considerados en aquél, concluirá el segundo proceso mediante resolución que dictará de oficio la autoridad que esté conociendo. Si existen dos sentencias sobre los mismos hechos, se extinguirán los efectos de la dictada en segundo término.
 
-#### CAPITULO X · Extinción de las medidas de tratamiento de inimputables
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 23-12-1985*
 
-##### Artículo 118-Bis.
+#### CAPITULO X · Extinción de las Medidas de Tratamiento de Inimputables
+
+*Capítulo adicionado DOF 23-12-1985*
+
+##### Artículo 118 Bis.
 
 Cuando el inimputable sujeto a una medida de tratamiento se encontrare prófugo y posteriormente fuera detenido, la ejecución de la medida de tratamiento se considerará extinguida si se acredita que las condiciones personales del sujeto no corresponden ya a las que hubieran dado origen a su imposición.
 
-### TITULO SEXTO · De los menores
+*Artículo adicionado DOF 13-01-1984*
 
-(Se deroga)
+### TITULO SEXTO · De los menores
 
 ##### Artículo 119.
 
 (Se deroga).
 
+*Fe de erratas al artículo DOF 31-08-1931. Parcialmente derogado DOF 02-08-1974. Derogado DOF 24-12-1991*
+
 ##### Artículo 120.
 
 (Se deroga).
+
+*Artículo parcialmente derogado DOF 02-08-1974. Derogado DOF 24-12-1991*
 
 ##### Artículo 121.
 
 (Se deroga).
 
+*Artículo parcialmente derogado DOF 02-08-1974. Derogado DOF 24-12-1991*
+
 ##### Artículo 122.
 
 (Se deroga).
 
+*Artículo parcialmente derogado DOF 02-08-1974. Derogado DOF 24-12-1991*
+
 ## LIBRO SEGUNDO
 
-### TITULO PRIMERO · Delitos Contra la Seguridad de la Nación
+### TITULO PRIMERO · Delitos contra la seguridad de la Nación
+
+*Título con denominación reformado DOF 29-07-1970*
 
 #### CAPITULO I · Traición a la Patria
 
@@ -1263,6 +1699,8 @@ II.- Tome parte en actos de hostilidad en contra de la Nación, mediante accione
 Cuando los nacionales sirvan como tropa, se impondrá pena de prisión de uno a nueve años y multa hasta de diez mil pesos;
 
 Se considerará en el supuesto previsto en el primer párrafo de esta fracción, al que prive ilegalmente de su libertad a una persona en el territorio nacional para entregarla a las autoridades de otro país o trasladarla fuera de México con tal propósito.
+
+*Párrafo adicionado DOF 17-07-1992*
 
 III.- Forme parte de grupos armados dirigidos o asesorados por extranjeros; organizados dentro o fuera del país, cuando tengan por finalidad atentar contra la independencia de la República, su soberanía, su libertad o su integridad territorial o invadir el territorio nacional, aun cuando no exista declaración de guerra;
 
@@ -1290,6 +1728,8 @@ XIV.- Acepte del invasor un empleo, cargo o comisión y dicte, acuerde o vote pr
 
 XV.- Cometa, declarada la guerra o rotas las hostilidades, sedición, motín, rebelión, terrorismo, sabotaje o conspiración.
 
+*Artículo reformado DOF 29-07-1970*
+
 ##### Artículo 124.
 
 Se aplicará la pena de prisión de cinco a veinte años y multa hasta de veinticinco mil pesos, al mexicano que:
@@ -1302,15 +1742,23 @@ III.- Acepte del invasor un empleo, cargo o comisión, o al que, en el lugar ocu
 
 IV.- Con actos no autorizados ni aprobados por el gobierno, provoque una guerra extranjera con México, o exponga a los mexicanos a sufrir por esto, vejaciones o represalias.
 
+*Artículo reformado DOF 15-01-1951, 05-01-1955, 29-07-1970*
+
 ##### Artículo 125.
 
 Se aplicará la pena de dos a doce años de prisión y multa de mil a veinte mil pesos al que incite al pueblo a que reconozca al gobierno impuesto por el invasor o a que acepte una invasión o protectorado extranjero.
+
+*Artículo reformado DOF 15-01-1951, 29-07-1970*
 
 ##### Artículo 126.
 
 Se aplicarán las mismas penas a los extranjeros que intervengan en la comisión de los delitos a que se refiere este Capítulo, con excepción de los previstos en las fracciones VI y VII del artículo 123.
 
+*Artículo reformado DOF 15-01-1951, 29-07-1970*
+
 #### CAPITULO II · Espionaje
+
+*Capítulo reubicado DOF 29-07-1970*
 
 ##### Artículo 127.
 
@@ -1320,15 +1768,23 @@ La misma pena se impondrá al extranjero que en tiempo de paz proporcione, sin a
 
 Se aplicará la pena de prisión de cinco a cuarenta años y multa hasta de cincuenta mil pesos al extranjero que, declarada la guerra o rotas las hostilidades contra México, tenga relación o inteligencia con el enemigo o le proporcione información, instrucciones o documentos o cualquier ayuda que en alguna forma perjudique o pueda perjudicar a la Nación Mexicana.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 15-01-1951, 29-07-1970*
+
 ##### Artículo 128.
 
 Se aplicará la pena de prisión de cinco a veinte años y multa hasta de cincuenta mil pesos, al mexicano que, teniendo en su poder documentos o informaciones confidenciales de un gobierno extranjero, los revele a otro gobierno, si con ello perjudica a la Nación Mexicana.
+
+*Artículo reformado DOF 29-07-1970*
 
 ##### Artículo 129.
 
 Se impondrá la pena de seis meses a cinco años de prisión y multa hasta de cinco mil pesos al que teniendo conocimiento de las actividades de un espía y de su identidad, no lo haga saber a las autoridades.
 
+*Artículo reformado DOF 14-11-1941, 15-01-1951, 05-01-1955, 29-07-1970*
+
 #### CAPITULO III · Sedición
+
+*Capítulo reubicado con denominación reformada DOF 29-07-1970*
 
 ##### Artículo 130.
 
@@ -1336,7 +1792,11 @@ Se aplicará la pena de seis meses a ocho años de prisión y multa hasta de die
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les aplicará la pena de cinco a quince años de prisión y multa hasta de veinte mil pesos.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 15-01-1951, 29-07-1970*
+
 #### CAPITULO IV · Motín
+
+*Capítulo adicionado DOF 29-07-1970*
 
 ##### Artículo 131.
 
@@ -1344,7 +1804,11 @@ Se aplicará la pena de seis meses a siete años de prisión y multa hasta de ci
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín, se les aplicará la pena de dos a diez años de prisión y multa hasta de quince mil pesos.
 
+*Artículo reformado DOF 29-07-1970*
+
 #### CAPITULO V · Rebelión
+
+*Capítulo adicionado DOF 29-07-1970*
 
 ##### Artículo 132.
 
@@ -1356,15 +1820,23 @@ II.- Reformar, destruir o impedir la integración de las instituciones constituc
 
 III.- Separar o impedir el desempeño de su cargo a alguno de los altos funcionarios de la Federación mencionados en el artículo 2o. de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación, del Distrito Federal y de los Altos Funcionarios de los Estados.
 
+*Fracción reformada DOF 23-12-1974*
+
+*Artículo reformado DOF 15-01-1951, 29-07-1970*
+
 ##### Artículo 133.
 
 Las penas señaladas en el artículo anterior se aplicarán al que residiendo en territorio ocupado por el Gobierno Federal, y sin mediar coacción física o moral, proporcione a los rebeldes, armas, municiones, dinero, víveres, medios de transporte o de comunicación o impida que las tropas del Gobierno reciban estos auxilios. Si residiere en territorio ocupado por los rebeldes, la prisión será de seis meses a cinco años.
 
 Al funcionario o empleado público de los Gobiernos Federal o Estatales, o de los Municipios, de organismos públicos descentralizados, de empresas de participación estatal, o de servicios públicos, federales o locales, que teniendo por razón de su cargo documentos o informes de interés estratégico, los proporcione a los rebeldes, se le aplicará pena de cinco a cuarenta años de prisión y multa de cinco mil a cincuenta mil pesos.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 29-07-1970*
+
 ##### Artículo 134.
 
 Se aplicará la pena de dos a veinte años de prisión y multa de cinco mil a cincuenta mil pesos a los que, no siendo militares en ejercicio, con violencia y uso de armas, atenten contra el Gobierno de alguno de los Estados de la Federación, contra sus instituciones constitucionales o para lograr la separación de su cargo de alguno de los altos funcionarios del Estado, cuando interviniendo los Poderes de la Unión en la forma prescrita por el artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, los rebeldes no depongan las armas.
+
+*Artículo reformado DOF 15-01-1951, 29-07-1970*
 
 ##### Artículo 135.
 
@@ -1380,9 +1852,13 @@ b) Mantenga relaciones con los rebeldes, para proporcionarles noticias concernie
 
 III.- Voluntariamente sirva un empleo, cargo o comisión en lugar ocupado por los rebeldes, salvo que actúe coaccionado o por razones humanitarias.
 
+*Artículo reformado DOF 15-01-1951, 29-07-1970*
+
 ##### Artículo 136.
 
 A los funcionarios o agentes del Gobierno y a los rebeldes que después del combate causen directamente o por medio de órdenes, la muerte a los prisioneros, se les aplicará pena de prisión de quince a treinta años y multa de diez mil a veinte mil pesos.
+
+*Artículo reformado DOF 29-07-1970*
 
 ##### Artículo 137.
 
@@ -1390,11 +1866,17 @@ Cuando durante una rebelión se cometan los delitos de homicidio, robo, secuestr
 
 Los rebeldes no serán responsables de los homicidios ni de las lesiones inferidas en el acto de un combate, pero de los que se causen fuera del mismo, serán responsables tanto el que los manda como el que los permita y los que inmediatamente los ejecuten.
 
+*Artículo reformado DOF 15-01-1951, 29-07-1970*
+
 ##### Artículo 138.
 
 No se aplicará pena a los que depongan las armas antes de ser tomados prisioneros, si no hubiesen cometido alguno de los delitos mencionados en el artículo anterior.
 
+*Artículo reformado DOF 29-07-1970*
+
 #### CAPITULO VI · Terrorismo
+
+*Capítulo adicionado DOF 29-07-1970*
 
 ##### Artículo 139.
 
@@ -1412,15 +1894,23 @@ II. Se genere un daño o perjuicio a la economía nacional, o
 
 III. En la comisión del delito se detenga en calidad de rehén a una persona.
 
+*Artículo reformado DOF 29-07-1970, 28-06-2007, 14-03-2014*
+
 ##### Artículo 139 Bis.
 
 Se aplicará pena de uno a nueve años de prisión y de cien a trescientos días multa, a quien encubra a un terrorista, teniendo conocimiento de sus actividades o de su identidad.
+
+*Artículo adicionado DOF 28-06-2007*
 
 ##### Artículo 139 Ter.
 
 Se aplicará pena de cinco a quince años de prisión y de doscientos a seiscientos días multa al que amenace con cometer el delito de terrorismo a que se refiere el párrafo primero del artículo 139.
 
+*Artículo adicionado DOF 28-06-2007*
+
 #### CAPÍTULO VI BIS · Del Financiamiento al Terrorismo
+
+*Capítulo adicionado DOF 14-03-2014*
 
 ##### Artículo 139 Quáter.
 
@@ -1440,27 +1930,45 @@ I. Del Código Penal Federal, los siguientes:
 
 II. De la Ley que Declara Reservas Mineras los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se obtengan Isótopos Hendibles que puedan producir Energía Nuclear, los previstos en los artículos 10 y 13.
 
+*Artículo adicionado DOF 14-03-2014*
+
 ##### Artículo 139 Quinquies.
 
 Se aplicará de uno a nueve años de prisión y de cien a trescientos días multa, a quien encubra a una persona que haya participado en los delitos previstos en el artículo 139 Quáter de este Código.
 
+*Artículo adicionado DOF 14-03-2014*
+
 #### CAPITULO VII · Sabotaje
+
+*Capítulo adicionado DOF 29-07-1970*
 
 ##### Artículo 140.
 
 Se impondrá pena de dos a veinte años de prisión y multa de mil a cincuenta mil pesos, al que dañe, destruya, perjudique o ilícitamente entorpezca vías de comunicación, servicios públicos, funciones de las dependencias del Estado, organismos públicos descentralizados, empresas de participación estatal, órganos constitucionales autónomos o sus instalaciones; plantas siderúrgicas, eléctricas o de las industrias básicas; centros de producción o distribución de artículos de consumo necesarios de armas, municiones o implementos bélicos, con el fin de trastornar la vida económica del país o afectar su capacidad de defensa.
 
+*Párrafo reformado DOF 14-07-2014*
+
 Se aplicará pena de seis meses a cinco años de prisión y multa hasta de cinco mil pesos, al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
 
 Las sanciones a que se refiere el primer párrafo de este artículo se aumentarán hasta en una mitad, cuando los actos de sabotaje se realicen en los ductos, equipos, instalaciones o activos, de asignatarios, contratistas, permisionarios o distribuidores a que se refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
 
+*Párrafo adicionado DOF 12-01-2016*
+
+*Artículo reformado DOF 29-07-1970*
+
 #### CAPITULO VIII · Conspiración
+
+*Capítulo adicionado DOF 29-07-1970*
 
 ##### Artículo 141.
 
 Se impondrá pena de uno a nueve años de prisión y multa hasta de diez mil pesos a quienes resuelvan de concierto cometer uno o varios de los delitos del presente Título y acuerden los medios de llevar a cabo su determinación.
 
+*Artículo reformado DOF 29-07-1970*
+
 #### CAPITULO IX · Disposiciones comunes para los capítulos de este Título
+
+*Capítulo adicionado DOF 29-07-1970*
 
 ##### Artículo 142.
 
@@ -1468,25 +1976,41 @@ Al que instigue, incite o invite a la ejecución de los delitos previstos en est
 
 Al que instigue, incite o invite a militares en ejercicio, a la ejecución de los delitos a que se refiere este Título, se le aplicará pena de cinco a cuarenta años de prisión, con excepción del delito de terrorismo, cuya pena será de ocho a cuarenta años de prisión y de quinientos a mil ciento cincuenta días multa.
 
+*Párrafo reformado DOF 28-06-2007*
+
+*Artículo reformado DOF 15-01-1951, 29-07-1970*
+
 ##### Artículo 143.
 
 Cuando de la comisión de los delitos a que se refiere el presente Título resultaren otros delitos, se estará a las reglas del concurso.
 
 Además de las penas señaladas en este Título, se impondrá a los responsables si fueren mexicanos, la suspensión de sus derechos políticos por un plazo hasta de diez años, que se computará a partir del cumplimiento de su condena. En los delitos comprendidos en los capítulos I y II del presente Título, se impondrá la suspensión de tales derechos, hasta por cuarenta años.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 29-07-1970*
+
 ##### Artículo 144.
 
 Se consideran delitos de carácter político los de rebelión, sedición, motín y el de conspiración para cometerlos.
+
+*Artículo reformado DOF 15-01-1951, 29-07-1970*
 
 ##### Artículo 145.
 
 Se aplicará pena de cinco a cuarenta años de prisión y de ciento veinte a mil ciento cincuenta días multa, al funcionario o empleado de los Gobiernos Federal o Estatales, o de los Municipios, de organismos públicos descentralizados, de empresas de participación estatal o de servicios públicos, federales o locales, o de órganos constitucionales autónomos, que incurran en alguno de los delitos previstos por este Título, con excepción del delito de terrorismo, cuya pena será de nueve a cuarenta y cinco años de prisión y de quinientos a mil ciento cincuenta días multa.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 14-11-1941, 15-01-1951, 29-07-1970, 28-06-2007, 14-07-2014*
+
 ##### Artículo 145-Bis.
 
 (Se deroga).
 
+*Artículo adicionado DOF 14-11-1941. Derogado (por reforma íntegra del Título Primero del Libro Segundo) DOF 29-07-1970*
+
+> Nota: Por Decreto DOF 29-07-1970 se derogó y suprimió del Libro Segundo el entonces Título Segundo “Delitos contra la seguridad interior de la Nación”, con sus Capítulos I “Rebelión”, II “Sedición y otros desórdenes públicos” y III “Delitos de disolución social” (Capítulo III antes adicionado DOF 14-11-1941). En consecuencia, se recorrieron en su orden los subsecuentes Títulos Tercero a Vigesimocuarto para pasar a ser los actuales Títulos Segundo a Vigesimotercero del Libro Segundo.
+
 ### TITULO SEGUNDO · DELITOS CONTRA EL DERECHO INTERNACIONAL
+
+*Título recorrido (antes Título Tercero) DOF 29-07-1970*
 
 #### CAPITULO I · Piratería
 
@@ -1522,7 +2046,11 @@ IV.- Todo ataque o violencia de cualquier género a los escudos, emblemas o pabe
 
 En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces podrán imponer hasta seis años de prisión.
 
+> Nota: Por Decreto DOF 20-01-1967 se suprimió el entonces Capítulo III “Violaciones de los derechos de humanidad en prisioneros, rehenes, heridos u hospitales”, debido a la adición de un Título Cuarto al Libro Segundo.
+
 #### CAPITULO III · TERRORISMO INTERNACIONAL
+
+*Capítulo adicionado DOF 28-06-2007*
 
 ##### Artículo 148 Bis.
 
@@ -1538,23 +2066,35 @@ IV. Al que acuerde o prepare en territorio mexicano un acto terrorista que se pr
 
 Para efectos de este artículo se entenderá como persona internacionalmente protegida a un jefe de Estado incluso cada uno de los miembros de un órgano colegiado cuando, de conformidad con la constitución respectiva, cumpla las funciones de jefe de Estado, un jefe de gobierno o un ministro de relaciones exteriores, así como los miembros de su familia que lo acompañen y, además, a cualquier representante, funcionario o personalidad oficial de un Estado o cualquier funcionario, personalidad oficial u otro agente de una organización intergubernamental que, en el momento y en el lugar en que se cometa un delito contra él, los miembros de su familia que habiten con él, sus locales oficiales, su residencia particular o sus medios de transporte, tenga derecho a una protección especial conforme al derecho internacional.
 
+*Artículo adicionado DOF 28-06-2007. Reformado DOF 14-03-2014*
+
 ##### Artículo 148 Ter.
 
 Se impondrá pena de cinco a diez años de prisión y de cien a trescientos días multa, a quien encubra a un terrorista, teniendo conocimiento de su identidad o de que realiza alguna de las actividades previstas en el presente capítulo.
+
+*Artículo adicionado DOF 28-06-2007*
 
 ##### Artículo 148 Quáter.
 
 Se aplicará pena de seis a doce años de prisión y de doscientos a seiscientos días multa al que amenace con cometer el delito de terrorismo a que se refieren las fracciones I a III del artículo 148 Bis.
 
-### TITULO TERCERO · Delitos Contra la Humanidad
+*Artículo adicionado DOF 28-06-2007. Reformado DOF 14-03-2014*
+
+### TITULO TERCERO · Delitos contra la humanidad
+
+*Título adicionado DOF 20-01-1967. Recorrido (antes Título Cuarto) DOF 29-07-1970*
 
 #### CAPITULO I · Violación de los deberes de humanidad
+
+*Capítulo adicionado DOF 20-01-1967*
 
 ##### Artículo 149.
 
 Al que violare los deberes de humanidad en los prisioneros y rehenes de guerra, en los heridos, o en los hospitales de sangre, se le aplicará por ese sólo hecho: prisión de tres a seis años, salvo lo dispuesto, para los casos especiales, en las leyes militares.
 
 #### CAPITULO II · Genocidio
+
+*Capítulo adicionado DOF 20-01-1967*
 
 ##### Artículo 149-Bis.
 
@@ -1570,9 +2110,15 @@ Se aplicarán las mismas sanciones señaladas en el párrafo anterior, a quien c
 
 En caso de que los responsables de dichos delitos fueran gobernantes, funcionarios o empleados públicos y las cometieren en ejercicio de sus funciones o con motivo de ellas, además de las sanciones establecidas en este artículo se les aplicarán las penas señaladas en el artículo 15 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
 
+*Artículo adicionado DOF 20-01-1967*
+
 ### Título Tercero Bis · Delitos contra la Dignidad de las Personas
 
+*Título adicionado DOF 14-06-2012*
+
 #### Capítulo Único · Discriminación
+
+*Capítulo adicionado DOF 14-06-2012*
 
 ##### Artículo 149 Ter.
 
@@ -1594,9 +2140,13 @@ Asimismo, se incrementará la pena cuando los actos discriminatorios limiten el 
 
 Este delito se perseguirá por querella.
 
+*Artículo adicionado DOF 14-06-2012*
+
 ### TITULO · CUARTO
 
-Delitos Contra la Seguridad Pública
+Delitos contra la seguridad pública
+
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Quinto) DOF 29-07-1970*
 
 #### CAPITULO I · Evasión de presos
 
@@ -1605,6 +2155,8 @@ Delitos Contra la Seguridad Pública
 Se aplicarán de seis meses a nueve años de prisión al que favoreciere la evasión de algún detenido, procesado o condenado. Si el detenido o procesado estuviese inculpado por delito o delitos contra la salud, a la persona que favoreciere su evasión se le impondrán de siete a quince años de prisión, o bien, en tratándose de la evasión de un condenado, se aumentarán hasta veinte años de prisión.
 
 Si quien propicie la evasión fuese servidor público, se le incrementará la pena en una tercera parte de las penas señaladas en este artículo, según corresponda. Además será destituido de su empleo y se le inhabilitará para obtener otro durante un período de ocho a doce años.
+
+*Artículo reformado DOF 17-11-1986*
 
 ##### Artículo 151.
 
@@ -1616,11 +2168,13 @@ Se deroga.
 
 Al que favorezca al mismo tiempo, o en un solo acto, la evasión de varias personas privadas de libertad por la autoridad competente, se le impondrá hasta una mitad más de las sanciones privativas de libertad señaladas en el artículo 150, según corresponda.
 
+*Artículo reformado DOF 17-11-1986*
+
 ##### Artículo 153.
 
 Si la reaprehensión del prófugo se lograre por gestiones del responsable de la evasión, se aplicarán a éste de diez a ciento ochenta jornadas de trabajo en favor de la comunidad, según la gravedad del delito imputado al preso o detenido, salvo lo dispuesto por el artículo 150, segundo párrafo.
 
-*Artículo reformado DOF 27-03-2017*
+*Artículo reformado DOF 10-01-1994, 27-03-2017*
 
 ##### Artículo 154.
 
@@ -1638,6 +2192,8 @@ Al reo que se fugue estando bajo alguna de las sanciones privativas de libertad,
 
 (Se deroga).
 
+*Artículo derogado DOF 25-05-2011*
+
 ##### Artículo 157.
 
 Al sentenciado a confinamiento que salga del lugar que se le haya fijado para lugar de su residencia antes de extinguirlo, se le aplicará prisión por el tiempo que le falte para extinguir el confinamiento.
@@ -1646,25 +2202,35 @@ Al sentenciado a confinamiento que salga del lugar que se le haya fijado para lu
 
 Se impondrán de quince a noventa jornadas de trabajo a favor de la comunidad:
 
+*Párrafo reformado DOF 10-01-1994*
+
 I.- Al reo sometido a vigilancia de la policía que no ministre a ésta los informes que se le pidan sobre su conducta, y
 
 II.- A aquel a quien se hubiere prohibido ir a determinado lugar o a residir en él, si violare la prohibición.
 
 Si el sentenciado lo fuere por delito grave así calificado por la ley, la sanción antes citada será de uno a cuatro años de prisión.
 
+*Párrafo adicionado DOF 13-05-1996*
+
 ##### Artículo 159.
 
 El reo suspenso en su profesión u oficio, o inhabilitado para ejercerlos, que quebrante su condena, pagará una multa de veinte a mil pesos. En caso de reincidencia, se duplicará la multa y se aplicará prisión de uno a seis años.
+
+*Fe de erratas al artículo DOF 31-08-1931*
 
 #### CAPITULO III · Armas prohibidas
 
 ##### Artículo 160.
 
-A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, se le impondrá prisión de tres meses a tres años o de 180 a 360 días multa y decomiso.
+A quien porte, fabrique, importe, venda o acopie sin un fin lícito o con la intención de agredir, instrumentos que puedan ser utilizados para el ataque o la defensa, se le impondrá prisión de uno a seis años y de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización, así como el decomiso.
+
+*Párrafo reformado DOF 30-12-1991, 19-02-2021*
 
 Los servidores públicos podrán portar las armas necesarias para el ejercicio de su cargo, sujetándose a la reglamentación de las leyes respectivas.
 
 Estos delitos, cuyo conocimiento compete al fuero común, se sancionarán sin perjuicio de lo previsto por la Ley Federal de Armas de Fuego y Explosivos, de aplicación federal en lo que conciernen a estos objetos.
+
+*Artículo reformado DOF 15-01-1951, 13-01-1984*
 
 ##### Artículo 161.
 
@@ -1674,11 +2240,17 @@ Se necesita licencia especial para portación o venta de las pistolas o revólve
 
 Se aplicará de seis meses a tres años de prisión o de 180 a 360 días multa y decomiso:
 
-I.- Al que importe, fabrique o venda las armas enumeradas en el artículo 160; o las regale o trafique con ellas;
+*Párrafo reformado DOF 15-01-1951, 30-12-1991*
+
+I.- Se deroga.
+
+*Fracción derogada DOF 19-02-2021*
 
 II.- Al que ponga a la venta pistolas o revólveres, careciendo del permiso necesario;
 
-III.- Al que porte una arma de las prohibidas en el artículo 160;
+III.- Se deroga.
+
+*Fracción derogada DOF 19-02-2021*
 
 IV.- Al que, sin un fin lícito o sin el permiso correspondiente, hiciere acopio de armas, y
 
@@ -1688,6 +2260,8 @@ En todos los casos incluidos en este artículo, además de las sanciones señala
 
 Los funcionarios y agentes de la autoridad pueden llevar las armas necesarias para el ejercicio de su cargo.
 
+Disposición derogatoria DOF 10-11-1939. Artículo restablecido por disposición de vigencia DOF 27-12-1941
+
 ##### Artículo 163.
 
 La concesión de licencias a que se refiere el artículo 161, la hará el Ejecutivo de la Unión por conducto del Departamento o Secretaría que designe, sujetándose a las prevenciones de la ley reglamentaria respectiva, y a las siguientes:
@@ -1695,6 +2269,8 @@ La concesión de licencias a que se refiere el artículo 161, la hará el Ejecut
 I.- La venta de las armas comprendidas en el artículo 161, sólo podrá hacerse por establecimientos mercantiles provistos de licencia y nunca por particulares, y
 
 II.- El que solicite licencia para portar armas deberá cumplir con los requisitos siguientes:
+
+*Fe de erratas al párrafo DOF 31-08-1931*
 
 a). Otorgar fianza por la cantidad que fije la autoridad, y
 
@@ -1706,7 +2282,13 @@ b). Comprobar la necesidad que tiene para la portación de armas y sus anteceden
 
 Al que forme parte de una asociación o banda de tres o más personas con propósito de delinquir, se le impondrá prisión de cinco a diez años y de cien a trescientos días multa.
 
+*Párrafo reformado DOF 08-02-1999*
+
 Cuando el miembro de la asociación sea o haya sido servidor público de alguna corporación policial, la pena a que se refiere el párrafo anterior se aumentará en una mitad y se impondrá, además, la destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para desempeñar otro. Si el miembro de la asociación pertenece a las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, de igual forma la pena se aumentará en una mitad y se le impondrá, además la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a cinco años para desempeñar cargo o comisión públicos.
+
+*Párrafo reformado DOF 10-01-1994*
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 03-01-1989*
 
 ##### Artículo 164 Bis.
 
@@ -1716,9 +2298,15 @@ Se entiende por pandilla, para los efectos de esta disposición, la reunión hab
 
 Cuando el miembro de la pandilla sea o haya sido servidor público de alguna corporación policiaca, la pena se aumentará hasta en dos terceras partes de las penas que le corresponda por el o los delitos cometidos y se le impondrá además, destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para desempeñar otro.
 
-### TITULO QUINTO · Delitos en Materia de Vías de Comunicación y Correspondencia
+*Artículo adicionado DOF 08-03-1968. Reformado DOF 03-01-1989*
+
+### TITULO QUINTO · Delitos en materia de vías de comunicación y de correspondencia
+
+*Fe de erratas a la denominación DOF 31-08-1931. Denominación reformada DOF 15-01-1951. Título recorrido DOF 20-01-1967. Recorrido (antes Título Sexto) DOF 29-07-1970*
 
 #### CAPITULO I · Ataques a las vías de comunicación y violación de correspondencia
+
+*Fe de erratas a la denominación del Capítulo DOF 31-08-1931. Denominación reformada DOF 15-01-1951*
 
 ##### Artículo 165.
 
@@ -1728,19 +2316,27 @@ Se llaman caminos públicos las vías de tránsito habitualmente destinadas al u
 
 Al que quite, corte o destruya las ataderas que detengan una embarcación u otro vehículo, o quite el obstáculo que impida o modere su movimiento, se le aplicará prisión de quince días a dos años si no resultare daño alguno; si se causare se aplicará además la sanción correspondiente por el delito que resulte.
 
+*Artículo reformado DOF 15-01-1951*
+
 ##### Artículo 166 Bis.
 
 A las personas que por razón de su cargo o empleo en empresas de telecomunicaciones, ilícitamente proporcionen informes acerca de las personas que hagan uso de esos medios de comunicación, se les impondrá pena de tres meses a tres años de prisión y serán destituidos de su cargo.
 
 En el caso anterior, se aumentará la pena hasta en una mitad cuando el delito sea cometido por un servidor público en ejercicio de sus funciones. Asimismo, se le impondrán, además de las penas señaladas, la destitución del empleo y se le inhabilitará de uno a diez años para desempeñar cargo o comisión públicos.
 
+*Artículo adicionado DOF 14-07-2014*
+
 ##### Artículo 167.
 
 Se impondrán de uno a cinco años de prisión y de cien a diez mil días multa:
 
+*Párrafo reformado DOF 15-01-1951. Fe de erratas DOF 31-05-1956. Reformado DOF 11-01-1982, 17-05-1999*
+
 I.- Por el solo hecho de quitar o modificar sin la debida autorización: uno o más durmientes, rieles, clavos, tornillos, planchas y demás objetos similares que los sujeten, o un cambiavías de ferrocarril de uso público;
 
 II.- Al que destruya o separe uno o más postes, aisladores, alambres, máquinas o aparatos, empleados en el servicio de telégrafos; cualquiera de los componentes de la red de telecomunicaciones, empleada en el servicio telefónico, de conmutación o de radiocomunicación, o cualquier componente de una instalación de producción de energía magnética o electromagnética o sus medios de transmisión;
+
+*Fracción reformada DOF 17-05-1999, 14-07-2014*
 
 III.- Al que, para detener los vehículos en un camino público, o impedir el paso de una locomotora, o hacer descarrilar ésta o los vagones, quite o destruya los objetos que menciona la fracción I, ponga algún estorbo, o cualquier obstáculo adecuado;
 
@@ -1750,11 +2346,19 @@ V.- Al que inundare en todo o en parte, un camino público o echare sobre él la
 
 VI.- Al que dolosamente o con fines de lucro, interrumpa o interfiera las comunicaciones, alámbricas, inalámbricas o de fibra óptica, sean telegráficas, telefónicas o satelitales, por medio de las cuales se transfieran señales de audio, de video o de datos;
 
+*Fracción reformada DOF 17-05-1999*
+
 VII. Al que destruya en todo o en parte, o paralice por otro medio de los especificados en las fracciones anteriores, una máquina empleada en un camino de hierro, o una embarcación, o destruya o deteriore un puente, un dique, una calzada o camino, o una vía;
+
+*Fracción reformada DOF 28-06-2007*
 
 VIII. Al que con objeto de perjudicar o dificultar las comunicaciones, modifique o altere el mecanismo de un vehículo haciendo que pierda potencia, velocidad o seguridad, y
 
+*Fracción adicionada DOF 15-01-1951. Reformada DOF 28-06-2007*
+
 IX. Al que difunda o transmita información falsa que en cualquier forma perjudique o pueda perjudicar la seguridad de una aeronave, de un buque o de otro tipo de vehículo de servicio público federal.
+
+*Fracción adicionada DOF 11-01-1982. Derogada DOF 07-11-1996. Adicionada DOF 28-06-2007*
 
 ##### Artículo 168.
 
@@ -1775,6 +2379,8 @@ II. Transmita la propiedad, uso o goce de aparatos, instrumentos o información 
 III. Reciba o distribuya una señal de satélite cifrada portadora de programas originalmente codificada, sin la autorización del distribuidor legal de la señal.
 
 *Fracción adicionada DOF 01-07-2020*
+
+*Artículo adicionado DOF 17-05-1999*
 
 ##### Artículo 168 ter.
 
@@ -1802,19 +2408,27 @@ Cuando se cometiere por servidor público de alguna corporación policial, cualq
 
 Para efectos de este artículo se entenderá por plataforma fija una isla artificial, instalación o estructura sujeta de manera permanente al fondo marino o a la plataforma continental con fines de exploración o explotación de recursos u otros fines de carácter económico.
 
+*Artículo reformado DOF 05-01-1955, 24-12-1968, 10-01-1994, 14-03-2014*
+
 ##### Artículo 171.
 
 Se impondrán prisión hasta de seis meses, multa hasta de cien pesos y suspensión o pérdida del derecho a usar la licencia de manejador:
 
-I.- (Se deroga).
+I.- (Se deroga)
+
+*Fracción derogada DOF 30-12-1991*
 
 II.- Al que en estado de ebriedad o bajo el influjo de drogas enervantes cometa alguna infracción a los reglamentos de tránsito y circulación al manejar vehículos de motor, independientemente de la sanción que le corresponda si causa daño a las personas o las cosas.
+
+*Artículo reformado DOF 15-01-1951*
 
 ##### Artículo 172.
 
 Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos, por un tiempo que no baje de un mes ni exceda de un año. En caso de reincidencia, la inhabilitación será definitiva.
 
-#### CAPITULO I BIS · Uso ilícito de instalaciones destinadas al tránsito aéreo
+#### CAPITULO I BIS · Uso ilícito de instalaciones destinadas al tránsito aéreo.
+
+*Capítulo adicionado DOF 10-01-1986*
 
 ##### Artículo 172 Bis.
 
@@ -1828,17 +2442,23 @@ Al que construya, instale, acondicione o ponga en operación los inmuebles e ins
 
 Las sanciones previstas en este artículo se impondrán sin perjuicio de las medidas que disponga la Ley de Vías Generales de Comunicación y de las sanciones que correspondan, en su caso, por otros delitos cometidos.
 
+*Artículo adicionado DOF 10-01-1986. Reformado DOF 10-01-1994*
+
 #### CAPITULO II · Violación de correspondencia
 
 ##### Artículo 173.
 
 Se aplicarán de tres a ciento ochenta jornadas de trabajo en favor de la comunidad:
 
+*Párrafo reformado DOF 30-12-1991, 10-01-1994*
+
 I.- Al que abra indebidamente una comunicación escrita que no esté dirigida a él, y
 
 II.- Al que indebidamente intercepte una comunicación escrita que no esté dirigida a él, aunque la conserve cerrada y no se imponga de su contenido.
 
 Los delitos previstos en este artículo se perseguirán por querella.
+
+*Párrafo adicionado DOF 30-12-1991*
 
 ##### Artículo 174.
 
@@ -1852,11 +2472,17 @@ La disposición del artículo 173 no comprende la correspondencia que circule po
 
 Al empleado de un telégrafo, estación telefónica o estación inalámbrica que conscientemente dejare de transmitir un mensaje que se le entregue con ese objeto, o de comunicar al destinatario el que recibiere de otra oficina, si causare daño, se le impondrá de quince días a un año de prisión o de 30 a 180 días multa.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 30-12-1991*
+
 ##### Artículo 177.
 
 A quien intervenga comunicaciones privadas sin mandato de autoridad judicial competente, se le aplicarán sanciones de seis a doce años de prisión y de trescientos a seiscientos días multa.
 
+*Artículo derogado DOF 30-12-1991. Adicionado DOF 07-11-1996*
+
 ### TITULO SEXTO · Delitos Contra la Autoridad
+
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Séptimo) DOF 29-07-1970*
 
 #### CAPITULO I · Desobediencia y resistencia de particulares
 
@@ -1866,6 +2492,10 @@ Al que, sin causa legítima, rehusare a prestar un servicio de interés público
 
 Al que desobedeciere el mandato de arraigo domiciliario o la prohibición de abandonar una demarcación geográfica, dictados por autoridad judicial competente, se le impondrán de seis meses a dos años de prisión y de diez a doscientos días multa.
 
+*Párrafo adicionado DOF 08-02-1999*
+
+*Artículo reformado DOF 30-12-1991, 10-01-1994*
+
 ##### Artículo 178 Bis.
 
 A la persona física o en su caso al representante de la persona moral que sea requerida por el Ministerio Público o por la autoridad competente para colaborar o aportar información para la localización geográfica, en tiempo real de los dispositivos de comunicación en términos de lo dispuesto por la Ley Federal de Telecomunicaciones y Radiodifusión, que estén relacionados con investigaciones en materia de delincuencia organizada, delitos contra la salud, secuestro, extorsión, amenazas o cualquiera de los previstos en el capítulo II del Título Noveno del Código Penal Federal y que se rehusare hacerlo de forma dolosa, se le impondrá una pena de prisión de 3 a 8 años y de cinco mil a diez mil días multa.
@@ -1873,6 +2503,8 @@ A la persona física o en su caso al representante de la persona moral que sea r
 Las mismas penas se aplicarán a la persona física, o en su caso al representante de la persona moral que de forma dolosa obstaculice, retrase sin justa causa o se rehusé a colaborar en la intervención de comunicaciones privadas, o a proporcionar información a la que estén obligados, en los términos de la legislación aplicable.
 
 Se aplicarán las mismas penas a la persona física, o en su caso al representante de la persona moral que sea requerida por las autoridades competentes, para colaborar o aportar información para la localización geográfica, en tiempo real de los dispositivos de comunicación en términos de lo dispuesto por la Ley Federal de Telecomunicaciones y Radiodifusión y que se rehusare hacerlo de forma dolosa.
+
+*Artículo adicionado DOF 17-04-2012. Reformado DOF 14-07-2014*
 
 ##### Artículo 179.
 
@@ -1882,11 +2514,15 @@ El que sin excusa legal se negare a comparecer ante la autoridad a dar su declar
 
 Se aplicarán de uno a dos años de prisión y multa de diez a mil pesos: al que, empleando la fuerza, el amago o la amenaza, se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones o resista al cumplimiento de un mandato legítimo ejecutado en forma legal.
 
+*Fe de erratas al artículo DOF 31-08-1931*
+
 ##### Artículo 180 Bis.
 
 Se aplicará de uno a dos años de prisión y de diez mil a treinta mil días multa, al que retire, modifique o inutilice, sin la debida autorización, dispositivos de localización y vigilancia.
 
 Si la conducta a que se refiere el párrafo anterior la realiza un integrante de alguna institución de seguridad pública, se aplicará de dos a cinco años de prisión, de veinte mil a cuarenta mil días multa e inhabilitación para ejercer cualquier empleo o cargo público en cualquier ámbito de gobierno hasta por veinte años.
+
+*Artículo adicionado DOF 30-11-2010*
 
 ##### Artículo 181.
 
@@ -1895,6 +2531,8 @@ Se equiparará a la resistencia y se sancionará con la misma pena que ésta, la
 ##### Artículo 182.
 
 El que debiendo ser examinado en juicio, sin que le aprovechen las excepciones establecidas por este Código o por el de Procedimientos Penales, y agotados sus medios de apremio, se niegue a otorgar la protesta de ley o a declarar, pagará de 10 a 30 días multa. En caso de reincidencia, se impondrá prisión de uno a seis meses o de 30 a 90 días multa.
+
+*Artículo reformado DOF 30-12-1991*
 
 ##### Artículo 183.
 
@@ -1906,19 +2544,27 @@ Cuando la ley autorice el empleo del apremio para hacer efectivas las determinac
 
 (Se deroga).
 
+*Artículo derogado DOF 30-12-1991*
+
 ##### Artículo 185.
 
 Cuando varias personas de común acuerdo procuren impedir la ejecución de una obra o trabajos públicos, o la de los destinados a la prestación de un servicio público, mandados a hacer con los requisitos legales por autoridad competente, o con su autorización, serán castigadas con tres meses a un año de prisión, si sólo se hiciere una simple oposición material sin violencia. En caso de existir violencia, la pena será hasta de dos años.
 
+*Artículo reformado DOF 30-12-1991, 13-05-1996*
+
 ##### Artículo 186.
 
 (Se deroga).
+
+*Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 30-12-1991*
 
 #### CAPITULO III · Quebrantamiento de sellos
 
 ##### Artículo 187.
 
 Al que quebrante los sellos puestos por orden de la autoridad pública se le aplicarán de treinta a ciento ochenta jornadas de trabajo en favor de la comunidad.
+
+*Artículo reformado DOF 30-12-1991, 10-01-1994*
 
 ##### Artículo 188.
 
@@ -1930,9 +2576,13 @@ Cuando de común acuerdo, quebrantaren las partes interesadas en un negocio civi
 
 Al que cometa un delito en contra de un servidor público o agente de la autoridad en el acto de ejercer lícitamente sus funciones o con motivo de ellas, se le aplicará de uno a seis años de prisión, además de la que le corresponda por el delito cometido.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 13-05-1996*
+
 ##### Artículo 190.
 
 (Se deroga).
+
+*Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 30-12-1991*
 
 #### CAPITULO V · Ultrajes a las insignias nacionales
 
@@ -1946,7 +2596,11 @@ Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicar�
 
 ### TITULO SEPTIMO · Delitos Contra la Salud
 
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Octavo) DOF 29-07-1970*
+
 #### CAPITULO I · De la producción, tenencia, tráfico, proselitismo y otros actos en materia de narcóticos
+
+*Capítulo adicionado DOF 14-02-1940. Capítulo declarado Ley de Emergencia DOF 12-05-1945. Declaratoria terminada DOF 28-12-1945. Denominación reformada DOF 14-11-1947, 08-03-1968, 31-12-1974, 10-01-1994*
 
 ##### Artículo 193.
 
@@ -1960,6 +2614,8 @@ Los narcóticos empleados en la comisión de los delitos a que se refiere este c
 
 Tratándose de instrumentos y vehículos utilizados para cometer los delitos considerados en este capítulo, así como de objetos y productos de esos delitos, cualquiera que sea la naturaleza de dichos bienes, se estará a lo dispuesto en los artículos 40 y 41. Para ese fin, el Ministerio Público dispondrá durante la averiguación previa el aseguramiento que corresponda y el destino procedente en apoyo a la procuración de justicia, o lo solicitará en el proceso, y promoverá el decomiso para que los bienes de que se trate o su producto se destinen a la impartición de justicia, o bien, promoverá en su caso, la suspensión y la privación de derechos agrarios o de otra índole, ante las autoridades que resulten competentes conforme a las normas aplicables.
 
+*Artículo reformado DOF 14-11-1947, 08-03-1968, 31-12-1974, 14-01-1985, 10-01-1994*
+
 ##### Artículo 194.
 
 Se impondrá prisión de diez a veinticinco años y de cien hasta quinientos días multa al que:
@@ -1970,7 +2626,11 @@ Para los efectos de esta fracción, por producir se entiende: manufacturar, fabr
 
 Por suministro se entiende la transmisión material de forma directa o indirecta, por cualquier concepto, de la tenencia de narcóticos.
 
+*Párrafo adicionado DOF 20-08-2009*
+
 El comercio y suministro de narcóticos podrán ser investigados, perseguidos y, en su caso sancionados por las autoridades del fuero común en los términos de la Ley General de Salud, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento.
+
+*Párrafo adicionado DOF 20-08-2009*
 
 II.- Introduzca o extraiga del país alguno de los narcóticos comprendidos en el artículo anterior, aunque fuere en forma momentánea o en tránsito.
 
@@ -1982,6 +2642,8 @@ IV.- Realice actos de publicidad o propaganda, para que se consuma cualesquiera 
 
 Las mismas penas previstas en este artículo y, además, privación del cargo o comisión e inhabilitación para ocupar otro hasta por cinco años, se impondrán al servidor público que, en ejercicio de sus funciones o aprovechando su cargo, permita, autorice o tolere cualesquiera de las conductas señaladas en este artículo.
 
+*Artículo reformado DOF 14-11-1947, 08-03-1968, 31-12-1974, 08-12-1978, 10-01-1986, 30-12-1991, 10-01-1994*
+
 ##### Artículo 195.
 
 Se impondrá de cinco a quince años de prisión y de cien a trescientos cincuenta días multa, al que posea alguno de los narcóticos señalados en el artículo 193, sin la autorización correspondiente a que se refiere la Ley General de Salud, siempre y cuando esa posesión sea con la finalidad de realizar alguna de las conductas previstas en el artículo 194, ambos de este código.
@@ -1989,6 +2651,8 @@ Se impondrá de cinco a quince años de prisión y de cien a trescientos cincuen
 La posesión de narcóticos podrá ser investigada, perseguida y, en su caso sancionada por las autoridades del fuero común en los términos de la Ley General de Salud, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento.
 
 Cuando el inculpado posea alguno de los narcóticos señalados en la tabla prevista en el artículo 479 de la Ley General de Salud, en cantidad igual o superior a la que resulte de multiplicar por mil las ahí referidas, se presume que la posesión tiene como objeto cometer alguna de las conductas previstas en el artículo 194 de este código.
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 08-03-1968, 31-12-1974, 08-12-1978, 03-01-1989, 10-01-1994, 20-08-2009*
 
 ##### Artículo 195 bis.
 
@@ -2003,6 +2667,8 @@ II. Peyote u hongos alucinógenos, cuando por la cantidad y circunstancias del c
 Para efectos de este capítulo se entiende por posesión: la tenencia material de narcóticos o cuando éstos están dentro del radio de acción y disponibilidad de la persona.
 
 La posesión de narcóticos podrá ser investigada, perseguida y, en su caso sancionada por las autoridades del fuero común en los términos de la Ley General de Salud, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento.
+
+*Artículo adicionado DOF 10-01-1994. Reformado DOF 20-08-2009*
 
 ##### Artículo 196.
 
@@ -2022,17 +2688,27 @@ VI.- El agente determine a otra persona a cometer algún delito de los previstos
 
 VII.- Se trate del propietario poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza y lo empleare o para realizar algunos de los delitos previstos en este capítulo o permitiere su realización por terceros. En este caso además, se clausurará en definitiva el establecimiento.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 08-03-1968, 31-12-1974, 08-12-1978, 10-01-1994*
+
 ##### Artículo 196 Bis.
 
-(Se deroga).
+Se deroga.
+
+*Artículo adicionado DOF 10-01-1994. Derogado DOF 07-11-1996*
 
 ##### Artículo 196 Ter.
 
 Se impondrán de cinco a quince años de prisión y de cien a trescientos días multa, así como decomiso de los instrumentos, objetos y productos del delito, al que desvíe o por cualquier medio contribuya a desviar precursores químicos, productos químicos esenciales o máquinas, al cultivo, extracción, producción, preparación o acondicionamiento de narcóticos en cualquier forma prohibida por la ley.
 
+*Párrafo reformado DOF 08-02-1999*
+
 La misma pena de prisión y multa, así como la inhabilitación para ocupar cualquier empleo, cargo o comisión públicos hasta por cinco años, se impondrá al servidor público que, en ejercicio de sus funciones, permita o autorice cualquiera de las conductas comprendidas en este artículo.
 
 Son precursores químicos, productos químicos esenciales y máquinas los definidos en la ley de la materia.
+
+*Párrafo reformado DOF 08-02-1999*
+
+*Artículo adicionado DOF 13-05-1996*
 
 ##### Artículo 197.
 
@@ -2041,6 +2717,8 @@ Al que, sin mediar prescripción de médico legalmente autorizado, administre a 
 Al que indebidamente suministre gratis o prescriba a un tercero, mayor de edad, algún narcótico mencionado en el artículo 193, para su uso personal e inmediato, se le impondrá de dos a seis años de prisión y de cuarenta a ciento veinte días multa. Si quien lo adquiere es menor de edad o incapaz, las penas se aumentarán hasta una mitad.
 
 Las mismas penas del párrafo anterior se impondrán al que induzca o auxilie a otro para que consuma cualesquiera de los narcóticos señalados en el artículo 193.
+
+*Artículo reformado DOF 14-11-1947, 08-03-1968, 31-12-1974, 08-12-1978, 03-01-1989, 10-01-1994*
 
 ##### Artículo 198.
 
@@ -2056,6 +2734,8 @@ La siembra, cultivo o cosecha de plantas de marihuana no será punible cuando es
 
 *Párrafo adicionado DOF 19-06-2017*
 
+*Artículo reformado DOF 08-03-1968, 31-12-1974, 08-12-1978, 14-01-1985, 10-01-1986, 03-01-1989, 10-01-1994*
+
 ##### Artículo 199.
 
 El Ministerio Público o la autoridad judicial del conocimiento, tan pronto conozca que una persona relacionada con algún procedimiento por los delitos previstos en los artículos 195 o 195 bis, es farmacodependiente, deberá informar de inmediato y, en su caso, dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda.
@@ -2064,21 +2744,31 @@ En todo centro de reclusión se prestarán servicios de rehabilitación al farma
 
 Para el otorgamiento de la condena condicional o del beneficio de la libertad preparatoria, cuando procedan, no se considerará como antecedente de mala conducta el relativo a la farmacodependencia, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
 
+*Artículo reformado DOF 08-03-1968, 31-12-1974, 10-01-1986, 10-01-1994, 20-08-2009*
+
 #### CAPITULO II · Del peligro de contagio
 
-##### Artículo 199-Bis.
+*Capítulo adicionado DOF 14-02-1940*
+
+##### Artículo 199 Bis.
 
 El que a sabiendas de que está enfermo de un mal venéreo u otra enfermedad grave en período infectante, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible, será sancionado de tres días a tres años de prisión y hasta cuarenta días de multa.
 
 Si la enfermedad padecida fuera incurable se impondrá la pena de seis meses a cinco años de prisión.
 
-Cuando se trate de cónyuges, concubinas, sólo podrá procederse por querella del ofendido.
+Cuando se trate de cónyuges, concubinarios o concubinas, sólo podrá procederse por querella del ofendido.
+
+*Artículo adicionado DOF 14-02-1940. Reformado DOF 21-01-1991*
 
 #### Capítulo III · Delitos contra los Derechos Reproductivos
+
+*Capítulo adicionado DOF 14-06-2012*
 
 ##### Artículo 199 Ter.
 
 A quien cometa el delito previsto en el artículo 466 de la Ley General de Salud con violencia, se impondrá de cinco a catorce años de prisión y hasta ciento veinte días multa.
+
+*Artículo adicionado DOF 14-06-2012*
 
 ##### Artículo 199 Quáter.
 
@@ -2092,6 +2782,8 @@ Cuando entre el activo y el pasivo exista relación de matrimonio, concubinato o
 
 Si resultan hijos a consecuencia de la comisión de alguno de los delitos previstos en los artículos anteriores, la reparación del daño comprenderá además el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil.
 
+*Artículo adicionado DOF 14-06-2012*
+
 ##### Artículo 199 Quintus.
 
 Comete el delito de esterilidad provocada quien sin el consentimiento de una persona practique en ella procedimientos quirúrgicos, químicos o de cualquier otra índole para hacerla estéril.
@@ -2100,9 +2792,13 @@ Al responsable de esterilidad provocada se le impondrán de cuatro a siete años
 
 Además de las penas señaladas en el párrafo anterior, se impondrá al responsable la suspensión del empleo o profesión por un plazo igual al de la pena de prisión impuesta hasta la inhabilitación definitiva, siempre que en virtud de su ejercicio haya resultado un daño para la víctima; o bien, en caso de que el responsable sea servidor público se le privará del empleo, cargo o comisión público que haya estado desempeñando, siempre que en virtud de su ejercicio haya cometido dicha conducta típica.
 
+*Artículo adicionado DOF 14-06-2012*
+
 ##### Artículo 199 Sextus.
 
 Los delitos previstos en este capítulo serán perseguibles de oficio, a excepción de los que se señalen por querella de parte ofendida.
+
+*Artículo adicionado DOF 14-06-2012*
 
 ### TÍTULO SÉPTIMO BIS · DELITOS CONTRA LA INDEMNIDAD DE PRIVACIDAD DE LA INFORMACIÓN SEXUAL
 
@@ -2120,13 +2816,19 @@ Se impondrá de cuatro a ocho años de prisión y multa de cuatrocientos a mil d
 
 ### TITULO OCTAVO · DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD.
 
+*Denominación reformada DOF 14-01-1966. Título recorrido DOF 20-01-1967. Recorrido (antes Título Noveno) DOF 29-07-1970. Denominación reformada DOF 27-03-2007*
+
 #### CAPÍTULO I · Corrupción de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
+
+*Denominación del Capítulo reformada DOF 14-02-1940, 14-01-1966, 27-03-2007*
 
 ##### Artículo 200.
 
 Al que comercie, distribuya, exponga, haga circular u oferte, a menores de dieciocho años de edad, libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter pornográfico, reales o simulados, sea de manera física, o a través de cualquier medio, se le impondrá de seis meses a cinco años de prisión y de trescientos a quinientos días multa.
 
 No se entenderá como material pornográfico o nocivo, aquel que signifique o tenga como fin la divulgación científica, artística o técnica, o en su caso, la educación sexual, educación sobre la función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente.
+
+*Artículo reformado DOF 14-02-1940, 14-01-1966, 21-01-1991, 27-03-2007*
 
 ##### Artículo 201.
 
@@ -2158,6 +2860,8 @@ En caso de duda, el juez solicitará dictámenes de peritos para evaluar la cond
 
 Cuando no sea posible determinar con precisión la edad de la persona o personas ofendidas, el juez solicitará los dictámenes periciales que correspondan.
 
+*Artículo reformado DOF 14-01-1966, 08-03-1968, 31-12-1974, 03-01-1989, 10-01-1994, 04-01-2000, 27-03-2007*
+
 ##### Artículo 201 BIS.
 
 Queda prohibido emplear a personas menores de dieciocho años de edad o a personas que no tienen capacidad para comprender el significado del hecho, en cantinas, tabernas, bares, antros, centros de vicio o cualquier otro lugar en donde se afecte de forma negativa su sano desarrollo físico, mental o emocional.
@@ -2168,19 +2872,29 @@ Se les impondrá la misma pena a las madres, padres, tutores o curadores que ace
 
 Para los efectos de este precepto se considerará como empleado en la cantina, taberna, bar o centro de vicio, a la persona menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole o por cualquier otro estipendio o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
+*Artículo adicionado DOF 04-01-2000. Reformado DOF 27-03-2007*
+
 ##### Artículo 201 bis 1.
 
 Se deroga
+
+*Artículo adicionado DOF 04-01-2000. Derogado DOF 27-03-2007*
 
 ##### Artículo 201 bis 2.
 
 Se deroga
 
+*Artículo adicionado DOF 04-01-2000. Derogado DOF 27-03-2007*
+
 ##### Artículo 201 bis 3.
 
 Se deroga
 
+*Artículo adicionado DOF 04-01-2000. Derogado DOF 27-03-2007*
+
 #### CAPÍTULO II · Pornografía de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
+
+*Denominación reformada DOF 03-01-1989, 04-01-2000. Capítulo reubicado con denominación reformada DOF 27-03-2007*
 
 ##### Artículo 202.
 
@@ -2190,11 +2904,17 @@ A quien fije, imprima, video grabe, fotografíe, filme o describa actos de exhib
 
 La misma pena se impondrá a quien reproduzca, almacene, distribuya, venda, compre, arriende, exponga, publicite, transmita, importe o exporte el material a que se refieren los párrafos anteriores.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 14-01-1966, 27-03-2007*
+
 ##### Artículo 202 BIS.
 
 Quien almacene, compre, arriende, el material a que se refieren los párrafos anteriores, sin fines de comercialización o distribución se le impondrán de uno a cinco años de prisión y de cien a quinientos días multa. Asimismo, estará sujeto a tratamiento psiquiátrico especializado.
 
+*Artículo adicionado DOF 27-03-2007*
+
 #### CAPÍTULO III · Turismo Sexual en contra de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
+
+*Denominación reformada DOF 13-01-1984. Capítulo reubicado con denominación reformada DOF 27-03-2007*
 
 ##### Artículo 203.
 
@@ -2202,11 +2922,17 @@ Comete el delito de turismo sexual quien promueva, publicite, invite, facilite o
 
 Al autor de este delito se le impondrá una pena de siete a doce años de prisión y de ochocientos a dos mil días multa.
 
+*Artículo reformado DOF 15-01-1951, 30-12-1997, 04-01-2000, 27-03-2007*
+
 ##### Artículo 203 BIS.
 
 A quien realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad, o con una o varias personas que no tienen capacidad para comprender el significado del hecho o con una o varias personas que no tienen capacidad para resistirlo, en virtud del turismo sexual, se le impondrá una pena de doce a dieciséis años de prisión y de dos mil a tres mil días multa, asimismo, estará sujeto al tratamiento psiquiátrico especializado.
 
+*Artículo adicionado DOF 27-03-2007*
+
 #### CAPÍTULO IV · Lenocinio de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
+
+*Capítulo reubicado con denominación reformada DOF 27-03-2007*
 
 ##### Artículo 204.
 
@@ -2220,15 +2946,23 @@ III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbu
 
 Al responsable de este delito se le impondrá prisión de ocho a quince años y de mil a dos mil quinientos días de multa, así como clausura definitiva de los establecimientos descritos en la fracción III.
 
+*Artículo reformado DOF 27-03-2007*
+
 #### CAPÍTULO V · Trata de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
+
+*Capítulo adicionado DOF 27-03-2007*
 
 ##### Artículo 205.
 
 Derogado.
 
+*Artículo derogado DOF 14-01-1966. Adicionado DOF 13-01-1984. Reformado DOF 03-01-1989, 04-01-2000, 27-03-2007. Derogado DOF 27-11-2007*
+
 ##### Artículo 205-Bis.
 
 Serán imprescriptibles las sanciones señaladas en los artículos 200, 201 y 204. Asimismo, las sanciones señaladas en dichos artículos se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
+
+*Párrafo reformado DOF 27-11-2007, 14-06-2012*
 
 a) Los que ejerzan la patria potestad, guarda o custodia;
 
@@ -2256,11 +2990,17 @@ En los casos de los incisos e), f) y h) además de las sanciones señaladas, se 
 
 En todos los casos el juez acordará las medidas pertinentes para que se le prohíba permanentemente al ofensor tener cualquier tipo de contacto o relación con la víctima.
 
+*Artículo adicionado DOF 27-03-2007*
+
 #### CAPITULO VI · Lenocinio y Trata de Personas.
+
+*Capítulo adicionado DOF 27-03-2007*
 
 ##### Artículo 206.
 
 El lenocinio se sancionará con prisión de dos a nueve años y de cincuenta a quinientos días multa.
+
+*Artículo reformado DOF 03-01-1989, 27-03-2007*
 
 ##### Artículo 206 BIS.
 
@@ -2272,25 +3012,41 @@ II.- Al que induzca o solicite a una persona para que con otra, comercie sexualm
 
 III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbulos, casas de cita o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
 
+*Artículo adicionado DOF 27-03-2007*
+
 ##### Artículo 207.
 
 Derogado.
 
+*Artículo reformado DOF 14-02-1940, 27-03-2007. Derogado DOF 27-11-2007*
+
 #### CAPÍTULO VII · Provocación de un Delito y Apología de éste o de algún Vicio y de la Omisión de impedir un Delito que atente contra el Libre Desarrollo de la Personalidad, la Dignidad Humana o la Integridad Física o Mental.
+
+*Capítulo adicionado DOF 27-03-2007*
 
 ##### Artículo 208.
 
 Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, se le aplicarán de diez a ciento ochenta jornadas de trabajo en favor de la comunidad, si el delito no se ejecutare; en caso contrario se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
+*Artículo reformado DOF 14-01-1966, 23-12-1985, 04-01-2000, 27-03-2007*
+
 ##### Artículo 209.
 
 El que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión de uno de los delitos contemplados en el Título VIII, Libro Segundo, de este Código o en la Ley Federal para Prevenir y Sancionar la Trata de Personas se le impondrá la pena de seis meses a tres años de prisión y de cincuenta a doscientos días multa.
+
+*Párrafo reformado DOF 19-08-2010*
 
 Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes para que impidan un delito de los contemplados en el párrafo anterior y de cuya próxima comisión tenga noticia.
 
 Dichas penas se impondrán a las personas relacionadas o adscritas a cualquier institución, asociación, organización o agrupación de carácter religioso, cultural, deportivo, educativo, recreativo o de cualquier índole y tengan conocimiento de la comisión de los delitos a que se refiere el primer párrafo del presente artículo, cuando no informen a la autoridad competente o protejan a la persona que lo cometa, ya sea escondiéndola, cambiándola de sede o de cualquier otra forma le brinde protección.
 
+*Párrafo adicionado DOF 19-08-2010*
+
+*Artículo reformado DOF 10-01-1994, 27-03-2007*
+
 #### CAPÍTULO VIII · Pederastia
+
+*Capítulo adicionado DOF 19-08-2010*
 
 ##### Artículo 209 Bis.
 
@@ -2306,19 +3062,29 @@ Además de las anteriores penas, el autor del delito perderá, en su caso, la pa
 
 Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado, destituido o suspendido, de su empleo público o profesión por un término igual a la pena impuesta.
 
+*Artículo adicionado DOF 19-08-2010*
+
 ##### Artículo 209 Ter.
 
 Para efecto de determinar el daño ocasionado al libre desarrollo de la personalidad de la víctima, se deberán solicitar los dictámenes necesarios para conocer su afectación. En caso de incumplimiento a la presente disposición por parte del Ministerio Público, éste será sancionado en los términos del presente Código y de la legislación aplicable.
 
 En los casos en que el sentenciado se niegue o no pueda garantizar la atención médica, psicológica o de la especialidad que requiera, el Estado deberá proporcionar esos servicios a la víctima.
 
+*Artículo adicionado DOF 19-08-2010*
+
 ### TITULO NOVENO · Revelación de secretos y acceso ilícito a sistemas y equipos de informática
 
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Décimo) DOF 29-07-1970. Denominación reformada DOF 17-05-1999*
+
 #### CAPITULO I · Revelación de secretos
+
+*Capítulo adicionado DOF 17-05-1999*
 
 ##### Artículo 210.
 
 Se impondrán de treinta a doscientas jornadas de trabajo en favor de la comunidad, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce o ha recibido con motivo de su empleo, cargo o puesto.
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 10-01-1994*
 
 ##### Artículo 211.
 
@@ -2328,13 +3094,19 @@ La sanción será de uno a cinco años, multa de cincuenta a quinientos pesos y 
 
 A quien revele, divulgue o utilice indebidamente o en perjuicio de otro, información o imágenes obtenidas en una intervención de comunicación privada, se le aplicarán sanciones de seis a doce años de prisión y de trescientos a seiscientos días multa.
 
-#### Capitulo II · Acceso ilícito a sistemas y equipos de informática
+*Artículo adicionado DOF 07-11-1996*
+
+#### CAPÍTULO II · Acceso ilícito a sistemas y equipos de informática
+
+*Capítulo adicionado DOF 17-05-1999*
 
 ##### Artículo 211 bis 1.
 
 Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistemas o equipos de informática protegidos por algún mecanismo de seguridad, se le impondrán de seis meses a dos años de prisión y de cien a trescientos días multa.
 
 Al que sin autorización conozca o copie información contenida en sistemas o equipos de informática protegidos por algún mecanismo de seguridad, se le impondrán de tres meses a un año de prisión y de cincuenta a ciento cincuenta días multa.
+
+*Artículo adicionado DOF 17-05-1999*
 
 ##### Artículo 211 bis 2.
 
@@ -2344,7 +3116,13 @@ Al que sin autorización conozca o copie información contenida en sistemas o eq
 
 A quien sin autorización conozca, obtenga, copie o utilice información contenida en cualquier sistema, equipo o medio de almacenamiento informáticos de seguridad pública, protegido por algún medio de seguridad, se le impondrá pena de cuatro a diez años de prisión y multa de quinientos a mil días de salario mínimo general vigente en el Distrito Federal. Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, destitución e inhabilitación de cuatro a diez años para desempeñarse en otro empleo, puesto, cargo o comisión pública.
 
+*Párrafo adicionado DOF 24-06-2009*
+
 Las sanciones anteriores se duplicarán cuando la conducta obstruya, entorpezca, obstaculice, limite o imposibilite la procuración o impartición de justicia, o recaiga sobre los registros relacionados con un procedimiento penal resguardados por las autoridades competentes.
+
+*Párrafo adicionado DOF 17-06-2016*
+
+*Artículo adicionado DOF 17-05-1999*
 
 ##### Artículo 211 bis 3.
 
@@ -2354,11 +3132,17 @@ Al que estando autorizado para acceder a sistemas y equipos de informática del 
 
 A quien estando autorizado para acceder a sistemas, equipos o medios de almacenamiento informáticos en materia de seguridad pública, indebidamente obtenga, copie o utilice información que contengan, se le impondrá pena de cuatro a diez años de prisión y multa de quinientos a mil días de salario mínimo general vigente en el Distrito Federal. Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, hasta una mitad más de la pena impuesta, destitución e inhabilitación por un plazo igual al de la pena resultante para desempeñarse en otro empleo, puesto, cargo o comisión pública.
 
+*Párrafo adicionado DOF 24-06-2009*
+
+*Artículo adicionado DOF 17-05-1999*
+
 ##### Artículo 211 bis 4.
 
 Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistemas o equipos de informática de las instituciones que integran el sistema financiero, protegidos por algún mecanismo de seguridad, se le impondrán de seis meses a cuatro años de prisión y de cien a seiscientos días multa.
 
 Al que sin autorización conozca o copie información contenida en sistemas o equipos de informática de las instituciones que integran el sistema financiero, protegidos por algún mecanismo de seguridad, se le impondrán de tres meses a dos años de prisión y de cincuenta a trescientos días multa.
+
+*Artículo adicionado DOF 17-05-1999*
 
 ##### Artículo 211 bis 5.
 
@@ -2368,27 +3152,35 @@ Al que estando autorizado para acceder a sistemas y equipos de informática de l
 
 Las penas previstas en este artículo se incrementarán en una mitad cuando las conductas sean cometidas por funcionarios o empleados de las instituciones que integran el sistema financiero.
 
+*Artículo adicionado DOF 17-05-1999*
+
 ##### Artículo 211 bis 6.
 
 Para los efectos de los artículos 211 Bis 4 y 211 Bis 5 anteriores, se entiende por instituciones que integran el sistema financiero, las señaladas en el artículo 400 Bis de este Código.
+
+*Artículo adicionado DOF 17-05-1999*
 
 ##### Artículo 211 bis 7.
 
 Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando la información obtenida se utilice en provecho propio o ajeno.
 
+*Artículo adicionado DOF 17-05-1999*
+
 ### TITULO · DECIMO
 
 Delitos por hechos de corrupción
 
-*Denominación del Título reformada DOF 18-07-2016, 05-11-2018, 12-04-2019*
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Decimoprimero) DOF 29-07-1970. Denominación reformada DOF 05-01-1983,*
 
-#### CAPITULO I
+18-07-2016, 05-11-2018, 12-04-2019
+
+#### CAPITULO I · Denominación del Capítulo suprimida DOF 05-01-1983
 
 ##### Artículo 212.
 
 Para los efectos de este Título y el subsecuente, es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal centralizada o en la del Distrito Federal, organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, empresas productivas del Estado, en los órganos constitucionales autónomos, en el Congreso de la Unión, o en el Poder Judicial Federal, o que manejen recursos económicos federales. Las disposiciones contenidas en el presente Título, son aplicables a los Gobernadores de los Estados, a los Diputados, a las Legislaturas Locales y a los Magistrados de los Tribunales de Justicia Locales, por la comisión de los delitos previstos en este Título, en materia federal.
 
-*Párrafo reformado DOF 18-07-2016*
+*Párrafo reformado DOF 14-07-2014, 18-07-2016*
 
 Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Título o el subsecuente.
 
@@ -2424,21 +3216,23 @@ Cuando los delitos a que se refieren los artículos 214, 217, 221, 222, 223 y 22
 
 *Párrafo adicionado DOF 18-07-2016*
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 05-01-1983*
+
 ##### Artículo 213.
 
 Para la individualización de las sanciones previstas en este Título, el juez tomará en cuenta, en su caso, el nivel jerárquico del servidor público y el grado de responsabilidad del encargo, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
 
-*Artículo reformado DOF 18-07-2016*
+*Artículo reformado DOF 05-01-1983, 18-07-2016*
 
 ##### Artículo 213-Bis.
 
 Cuando los delitos a que se refieren los artículos 215, 219 y 222 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, aduanera o migratoria, las penas previstas serán aumentadas hasta en una mitad.
 
-*Artículo reformado DOF 18-07-2016*
+*Artículo adicionado DOF 03-01-1989. Reformado DOF 18-07-2016*
 
 #### CAPITULO II · Ejercicio ilícito de servicio público
 
-*Denominación del Capítulo reformada DOF 18-07-2016*
+*Capítulo reubicado con denominación reformada DOF 05-01-1983. Denominación reformada DOF 18-07-2016*
 
 ##### Artículo 214.
 
@@ -2452,13 +3246,17 @@ II.- Continúe ejerciendo las funciones de un empleo, cargo o comisión después
 
 III.- Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la administración pública federal centralizada, organismos descentralizados, empresa de participación estatal mayoritaria, asociaciones y sociedades asimiladas a éstas y fideicomisos públicos, de empresas productivas del Estado, de órganos constitucionales autónomos, del Congreso de la Unión o del Poder Judicial, por cualquier acto u omisión y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades.
 
-*Fracción reformada DOF 18-07-2016*
+*Fracción reformada DOF 14-07-2014, 18-07-2016*
 
 IV.- Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
 
 V.- Por sí o por interpósita persona, cuando legalmente le sean requeridos, rinda informes en los que manifieste hechos o circunstancias falsos o niegue la verdad en todo o en parte sobre los mismos, y
 
+*Fracción adicionada DOF 30-06-2006*
+
 VI.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
+
+*Fracción adicionada DOF 17-11-1986. Recorrida DOF 30-06-2006*
 
 Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión y de treinta a cien días multa.
 
@@ -2466,13 +3264,19 @@ Al que cometa alguno de los delitos a que se refieren las fracciones I y II de e
 
 Al infractor de las fracciones III, IV, V y VI se le impondrán de dos a siete años de prisión y de treinta a ciento cincuenta días multa.
 
-*Párrafo reformado DOF 18-07-2016*
+*Párrafo reformado DOF 17-11-1986, 30-06-2006, 18-07-2016*
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 05-01-1983*
 
 #### CAPITULO III · Abuso de autoridad
+
+*Denominación del Capítulo reformada DOF 05-01-1983*
 
 ##### Artículo 215.
 
 Cometen el delito de abuso de autoridad los servidores públicos que incurran en alguna de las conductas siguientes:
+
+*Párrafo reformado DOF 03-01-1989*
 
 I.- Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
 
@@ -2485,6 +3289,8 @@ III.- Cuando indebidamente retarde o niegue a los particulares la protección o 
 IV.- Cuando estando encargado de administrar justicia, bajo cualquier pretexto, aunque sea el de obscuridad o silencio de la ley, se niegue injustificadamente a despachar un negocio pendiente ante él, dentro de los términos establecidos por la ley;
 
 V. Cuando el encargado o elemento de una fuerza pública, requerido legalmente por una autoridad competente para que le preste auxilio se niegue a dárselo o retrase el mismo injustificadamente. La misma previsión se aplicará tratándose de peritos.
+
+*Fracción reformada DOF 23-01-2009*
 
 VI.- Cuando estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos, o centros de arraigo que, sin los requisitos legales, reciba como presa, detenida, arrestada, arraigada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
 
@@ -2502,61 +3308,71 @@ X.- Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue emple
 
 XI.- Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, o para participar en adquisiciones, arrendamientos, servicios u obras públicas, siempre que lo haga con conocimiento de tal situación;
 
-*Fracción reformada DOF 18-07-2016*
+*Fracción reformada DOF 06-06-2006, 18-07-2016*
 
 XII.- Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
 
-XIII. Derogado.
+*Fracción reformada DOF 06-06-2006*
 
-*Fracción reformada DOF 18-07-2016. Derogada DOF 26-06-2017*
+XIII. Derogada.
+
+*Fracción adicionada DOF 06-06-2006. Reformada DOF 30-11-2010, 18-07-2016. Derogada DOF 26-06-2017*
 
 XIV.- Obligar a declarar a las personas que se mencionan en el artículo 243 Bis, del Código Federal de Procedimientos Penales, acerca de la información obtenida con motivo del desempeño de su actividad.
 
+*Fracción adicionada DOF 06-06-2006*
+
 XV. Omitir realizar el registro inmediato de la detención correspondiente, falsear el Reporte Administrativo de Detención correspondiente, omitir actualizarlo debidamente o dilatar injustificadamente poner al detenido bajo la custodia de la autoridad correspondiente; y
 
-*Fracción reformada DOF 26-06-2017*
+*Fracción adicionada DOF 23-01-2009. Reformada DOF 30-11-2010, 26-06-2017*
 
 XVI. Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad.
 
+*Fracción adicionada DOF 30-11-2010*
+
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión y de cincuenta hasta cien días multa. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
 
-*Párrafo reformado DOF 18-07-2016*
+*Párrafo reformado DOF 03-01-1989, 18-07-2016*
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIV, XV y XVI, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
-*Párrafo reformado DOF 18-07-2016, 26-06-2017*
+*Párrafo reformado DOF 03-01-1989, 06-06-2006, 23-01-2009, 30-11-2010, 18-07-2016, 26-06-2017*
+
+*Artículo reformado DOF 05-01-1983*
 
 #### CAPITULO III BIS · Desaparición forzada de personas
 
 (Derogado)
 
-*Capítulo derogado DOF 17-11-2017*
+*Capítulo adicionado DOF 01-06-2001. Derogado DOF 17-11-2017*
 
 ##### Artículo 215-A.
 
 Derogado.
 
-*Artículo derogado DOF 17-11-2017*
+*Artículo adicionado DOF 01-06-2001. Derogado DOF 17-11-2017*
 
 ##### Artículo 215-B.
 
 Derogado.
 
-*Artículo derogado DOF 17-11-2017*
+*Artículo adicionado DOF 01-06-2001. Derogado DOF 17-11-2017*
 
 ##### Artículo 215-C.
 
 Derogado.
 
-*Artículo derogado DOF 17-11-2017*
+*Artículo adicionado DOF 01-06-2001. Derogado DOF 17-11-2017*
 
 ##### Artículo 215-D.
 
 Derogado.
 
-*Artículo derogado DOF 17-11-2017*
+*Artículo adicionado DOF 01-06-2001. Derogado DOF 17-11-2017*
 
 #### CAPITULO IV · Coalición de servidores públicos
+
+*Capítulo reubicado con denominación reformada DOF 05-01-1983*
 
 ##### Artículo 216.
 
@@ -2564,11 +3380,11 @@ Cometen el delito de coalición de servidores públicos, los que teniendo tal ca
 
 Al que cometa el delito de coalición de servidores públicos se le impondrán de dos años a siete años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
 
-*Artículo reformado DOF 18-07-2016*
+*Artículo reformado DOF 05-01-1983, 18-07-2016*
 
 #### CAPITULO V · Uso ilícito de atribuciones y facultades
 
-*Denominación del Capítulo reformada DOF 18-07-2016*
+*Capítulo reubicado con denominación reformada DOF 05-01-1983. Denominación reformada DOF 18-07-2016*
 
 ##### Artículo 217.
 
@@ -2618,7 +3434,11 @@ Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas
 
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y de treinta a ciento cincuenta días multa.
 
-*Párrafo reformado DOF 18-07-2016*
+*Párrafo reformado DOF 28-05-2009, 18-07-2016*
+
+*Reforma DOF 28-05-2009: Derogó del artículo los entonces párrafos tercero y cuarto*
+
+*Artículo reformado DOF 05-01-1955, 05-01-1983*
 
 ##### Artículo 217 Bis.
 
@@ -2664,9 +3484,11 @@ Se impondrá también la destitución y la inhabilitación para desempeñar otro
 
 #### CAPITULO VI · Concusión
 
+*Capítulo adicionado DOF 05-01-1983*
+
 ##### Artículo 218.
 
-Comete el delito de concusión: el servidor público que con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la Ley.
+Comete el delito de concusión el servidor público que con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la Ley.
 
 Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
 
@@ -2678,7 +3500,11 @@ Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos d
 
 *Párrafo reformado DOF 18-07-2016*
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 05-01-1983*
+
 #### CAPITULO VII · Intimidación
+
+*Capítulo adicionado DOF 05-01-1983*
 
 ##### Artículo 219.
 
@@ -2694,7 +3520,11 @@ Al que cometa el delito de intimidación se le impondrán de dos años a nueve a
 
 *Párrafo reformado DOF 18-07-2016*
 
+*Artículo reformado DOF 03-01-1980, 05-01-1983*
+
 #### CAPITULO VIII · Ejercicio abusivo de funciones
+
+*Capítulo adicionado DOF 05-01-1983*
 
 ##### Artículo 220.
 
@@ -2716,7 +3546,11 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este ar
 
 *Párrafo reformado DOF 18-07-2016*
 
+*Artículo reformado DOF 24-03-1944, 09-03-1946. Fe de erratas DOF 16-07-1946. Reformado DOF 03-01-1980, 05-01-1983*
+
 #### CAPITULO IX · Tráfico de Influencia
+
+*Capítulo adicionado DOF 05-01-1983*
 
 ##### Artículo 221.
 
@@ -2726,7 +3560,7 @@ I.- El servidor público que por sí o por interpósita persona promueva o gesti
 
 II.- Cualquier persona que promueve la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior.
 
-III.- El servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que hace referencia la primera fracción del artículo 220 de este Código.
+III.- El servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que hace referencia la primera fracción del Artículo 220 de este Código.
 
 IV.- Al particular que, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
 
@@ -2736,7 +3570,11 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de dos años
 
 *Párrafo reformado DOF 18-07-2016*
 
+*Artículo derogado DOF 03-01-1980. Adicionado DOF 05-01-1983*
+
 #### CAPITULO X · Cohecho
+
+*Capítulo adicionado DOF 05-01-1983*
 
 ##### Artículo 222.
 
@@ -2744,11 +3582,11 @@ Cometen el delito de cohecho:
 
 I.- El servidor público que por sí, o por interpósita persona solicite o reciba ilícitamente para sí o para otro, dinero o cualquier beneficio, o acepte una promesa, para hacer o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión;
 
-*Fracción reformada DOF 18-07-2016*
+*Fracción reformada DOF 12-03-2015, 18-07-2016*
 
 II.- El que dé, prometa o entregue cualquier beneficio a alguna de las personas que se mencionan en el artículo 212 de este Código, para que haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión, y
 
-*Fracción reformada DOF 18-07-2016*
+*Fracción reformada DOF 12-03-2015, 18-07-2016*
 
 III.- El legislador federal que, en el ejercicio de sus funciones o atribuciones, y en el marco del proceso de aprobación del presupuesto de egresos respectivo, gestione o solicite:
 
@@ -2766,15 +3604,19 @@ Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
 
 Cuando la cantidad o el valor de la dádiva, de los bienes o la promesa no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
 
-*Párrafo reformado DOF 18-07-2016*
+*Párrafo reformado DOF 23-08-2005, 18-07-2016*
 
 Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos a catorce años de prisión y de cien a ciento cincuenta días multa.
 
-*Párrafo reformado DOF 18-07-2016*
+*Párrafo reformado DOF 23-08-2005, 18-07-2016*
 
 En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
 
-#### Capítulo XI · Cohecho a servidores públicos extranjeros
+*Artículo reformado DOF 05-01-1983*
+
+#### CAPÍTULO XI · Cohecho a servidores públicos extranjeros
+
+*Capítulo adicionado DOF 17-05-1999*
 
 ##### Artículo 222 bis.
 
@@ -2782,15 +3624,27 @@ Se impondrán las penas previstas en el artículo anterior al que con el propós
 
 I. A un servidor público extranjero, en su beneficio o el de un tercero, para que dicho servidor público gestione o se abstenga de gestionar la tramitación o resolución de asuntos relacionados con las funciones inherentes a su empleo, cargo o comisión;
 
+*Fracción reformada DOF 23-08-2005, 12-03-2015*
+
 II. A un servidor público extranjero, en su beneficio o el de un tercero, para que dicho servidor público gestione la tramitación o resolución de cualquier asunto que se encuentre fuera del ámbito de las funciones inherentes a su empleo, cargo o comisión, o
+
+*Fracción reformada DOF 23-08-2005, 12-03-2015*
 
 III. A cualquier persona para que acuda ante un servidor público extranjero y le requiera o le proponga llevar a cabo la tramitación o resolución de cualquier asunto relacionado con las funciones inherentes al empleo, cargo o comisión de este último.
 
 Para los efectos de este artículo se entiende por servidor público extranjero, toda persona que desempeñe un empleo, cargo o comisión en el poder legislativo, ejecutivo o judicial o en un órgano público autónomo en cualquier orden o nivel de gobierno de un Estado extranjero, sea designado o electo; cualquier persona en ejercicio de una función para una autoridad, organismo o empresa pública o de participación estatal de un país extranjero; y cualquier funcionario o agente de un organismo u organización pública internacional.
 
+*Párrafo reformado DOF 23-08-2005*
+
 Cuando alguno de los delitos comprendidos en este artículo se cometa en los supuestos a que se refiere el artículo 11 de este Código, el juez impondrá a la persona moral hasta mil días multa y podrá decretar su suspensión o disolución, tomando en consideración el grado de conocimiento de los órganos de administración respecto del cohecho en la transacción internacional y el daño causado o el beneficio obtenido por la persona moral.
 
+*Párrafo reformado DOF 23-08-2005*
+
+*Artículo adicionado DOF 17-05-1999*
+
 #### CAPITULO XII · Peculado
+
+*Capítulo adicionado DOF 05-01-1983*
 
 ##### Artículo 223.
 
@@ -2822,7 +3676,13 @@ Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda
 
 Cuando los recursos materia del peculado sean aportaciones federales para los fines de seguridad pública se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
 
+*Párrafo adicionado DOF 24-06-2009*
+
+*Artículo reformado DOF 05-01-1983*
+
 #### CAPITULO XIII · Enriquecimiento Ilícito
+
+*Capítulo adicionado DOF 05-01-1983*
 
 ##### Artículo 224.
 
@@ -2852,11 +3712,17 @@ Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalent
 
 *Párrafo reformado DOF 18-07-2016*
 
+*Artículo reformado DOF 05-01-1983*
+
 ### TITULO · DECIMOPRIMERO
 
 Delitos cometidos contra la administración de justicia
 
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Decimosegundo) DOF 29-07-1970. Denominación reformada DOF 13-01-1984*
+
 #### CAPITULO I · Delitos cometidos por los servidores públicos
+
+*Capítulo adicionado DOF 13-01-1984*
 
 ##### Artículo 225.
 
@@ -2882,39 +3748,51 @@ VIII.- Retardar o entorpecer maliciosamente o por negligencia la administración
 
 IX. Abstenerse injustificadamente de ejercer la acción penal que corresponda de una persona que se encuentre detenida a su disposición como imputado de algún delito, cuando esta sea procedente conforme a la Constitución y a la leyes de la materia, en los casos en que la ley les imponga esa obligación; o ejercitar la acción penal cuando no proceda denuncia, acusación o querella;
 
+*Fracción reformada DOF 10-01-1994, 17-06-2016*
+
 X.- Detener a un individuo fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado en la Constitución;
 
-*Fracción reformada DOF 18-07-2016*
+*Fracción reformada DOF 10-01-1994, 23-01-2009, 17-06-2016, 18-07-2016*
 
 XI. Se deroga.
 
-XII. Derogado.
+*Fracción derogada DOF 17-06-2016*
 
-*Fracción derogada DOF 26-06-2017*
+XII. Derogada.
+
+*Fracción reformada DOF 10-01-1994, 17-06-2016. Derogada DOF 26-06-2017*
 
 XIII.- Ocultar al imputado el nombre de quien le acusa, salvo en los casos previstos por la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio conforme a lo que establece el Código Nacional de Procedimientos Penales;
 
-*Fracción reformada DOF 18-07-2016*
+*Fracción derogada DOF 17-06-2016. Adicionada DOF 18-07-2016*
 
 XIV. Prolongar la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el procedimiento;
+
+*Fracción reformada DOF 17-06-2016*
 
 XV.- Imponer gabelas o contribuciones en cualesquiera lugares de detención o internamiento;
 
 XVI. Demorar injustificadamente el cumplimiento de las resoluciones judiciales, en las que se ordene poner en libertad a un detenido;
 
+*Fracción reformada DOF 17-06-2016*
+
 XVII.- No dictar auto de vinculación al proceso o de libertad de un detenido, dentro de las setenta y dos horas siguientes a que lo pongan a su disposición, a no ser que el inculpado haya solicitado ampliación del plazo, caso en el cual se estará al nuevo plazo;
 
-*Fracción reformada DOF 18-07-2016*
+*Fracción reformada DOF 10-01-1994, 17-06-2016, 18-07-2016*
 
 XVIII.- Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
 
 XIX. Abrir procedimiento penal contra un servidor público, con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley;
 
+*Fracción reformada DOF 17-06-2016*
+
 XX.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o en casos en que no preceda denuncia, acusación o querella; o realizar la aprehensión sin poner al detenido a disposición del juez en el término señalado por el artículo 16 de la Constitución;
 
-*Fracción reformada DOF 18-07-2016*
+*Fracción reformada DOF 10-01-1994, 18-07-2016*
 
 XXI. A los encargados o empleados de los centros penitenciarios que cobren cualquier cantidad a los imputados, sentenciados o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
+
+*Fracción reformada DOF 17-06-2016*
 
 XXII.- Rematar, en favor de ellos mismos, por sí o por interpósita persona, los bienes objeto de un remate en cuyo juicio hubieren intervenido;
 
@@ -2928,49 +3806,77 @@ XXV.- Nombrar síndico o interventor en un concurso o quiebra, a una persona que
 
 XXVI.- Permitir, fuera de los casos previstos por la ley, la salida temporal de las personas que están recluidas.
 
+*Fracción reformada DOF 17-11-1986*
+
 XXVII. No ordenar la libertad de un imputado, decretando su vinculación a proceso, cuando sea acusado por delito o modalidad que tenga señalada pena no privativa de libertad o alternativa;
+
+*Fracción adicionada DOF 10-01-1994. Reformada DOF 17-05-1999, 06-06-2006, 17-06-2016*
 
 XXVIII.- Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una carpeta de investigación o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales;
 
-*Fracción reformada DOF 18-07-2016*
+*Fracción adicionada DOF 17-05-1999. Reformada DOF 06-06-2006, 17-06-2016, 18-07-2016*
 
 XXIX. Se deroga.
 
+*Fracción adicionada DOF 06-06-2006. Derogada DOF 23-01-2009*
+
 XXX. Retener al imputado sin cumplir con los requisitos que establece la Constitución y las leyes respectivas;
+
+*Fracción adicionada DOF 23-01-2009. Reformada DOF 17-06-2016*
 
 XXXI. Alterar, modificar, ocultar, destruir, perder o perturbar el lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos o productos relacionados con un hecho delictivo o el procedimiento de cadena de custodia;
 
+*Fracción adicionada DOF 23-01-2009. Reformada DOF 14-06-2012, 17-06-2016*
+
 XXXII.- Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que el imputado se sustraiga a la acción de la justicia;
 
-*Fracción reformada DOF 18-07-2016*
+*Fracción adicionada DOF 23-01-2009. Reformada DOF 14-06-2012, 17-06-2016, 18-07-2016*
 
 XXXIII. Obligue a una persona o a su representante a otorgar el perdón en los delitos que se persiguen por querella; y
 
+*Fracción adicionada DOF 14-06-2012*
+
 XXXIV. Obligue a una persona a renunciar a su cargo o empleo para evitar responder a acusaciones de acoso, hostigamiento o para ocultar violaciones a la Ley Federal del Trabajo.
+
+*Fracción adicionada DOF 14-06-2012*
 
 XXXV. A quien ejerciendo funciones de supervisor de libertad o con motivo de ellas hiciere amenazas, hostigue o ejerza violencia en contra de la persona procesada, sentenciada, su familia y posesiones;
 
+*Fracción adicionada DOF 16-06-2016*
+
 XXXVI. A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes de la persona procesada, sentenciada o su familia;
+
+*Fracción adicionada DOF 16-06-2016*
 
 XXXVII. A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución.
 
+*Fracción adicionada DOF 16-06-2016*
+
 A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV, XXVI, XXXIII y XXXIV, se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien días multa.
 
-*Párrafo reformado DOF 18-07-2016*
+*Párrafo reformado DOF 17-05-1999, 14-06-2012, 18-07-2016*
 
 A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI, XXXII, XXXV, XXXVI y XXXVII se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta días multa.
 
-*Párrafo reformado DOF 18-07-2016*
+*Párrafo reformado DOF 17-05-1999, 06-06-2006, 23-01-2009, 16-06-2016, 18-07-2016*
 
 En caso de tratarse de particulares realizando funciones propias del supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
 
-*Reforma DOF 18-07-2016: Derogó del artículo el entonces párrafo cuarto*
+*Párrafo adicionado DOF 16-06-2016*
+
+*Reforma DOF 18-07-2016: Derogó del artículo el entonces párrafo cuarto (antes reformado DOF 17-05-1999)*
+
+*Artículo reformado DOF 13-01-1984*
 
 #### CAPITULO II · Ejercicio indebido del propio derecho
+
+*Capítulo adicionado DOF 13-01-1984*
 
 ##### Artículo 226.
 
 Al que para hacer efectivo un derecho o pretendido derecho que deba ejercitar, empleare violencia, se le aplicará prisión de tres meses a un año o de 30 a 90 días multa. En estos casos sólo se procederá por querella de la parte ofendida.
+
+*Artículo reformado DOF 13-01-1984, 30-12-1991*
 
 ##### Artículo 227.
 
@@ -2980,15 +3886,25 @@ Las disposiciones anteriores se aplicarán a todos los funcionarios o empleados 
 
 Responsabilidad Profesional
 
-#### CAPITULO I · Disposiciones generales
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Decimotercero) DOF 29-07-1970*
+
+#### CAPITULO I · Disposiciones Generales
+
+*Denominación del Capítulo reformada DOF 13-01-1984*
 
 ##### Artículo 228.
 
 Los profesionistas, artistas o técnicos y sus auxiliares, serán responsables de los delitos que cometan en el ejercicio de su profesión, en los términos siguientes y sin perjuicio de las prevenciones contenidas en la Ley General de Salud o en otras normas sobre ejercicio profesional, en su caso:
 
+*Párrafo reformado DOF 13-01-1984, 14-01-1985*
+
 I.- Además de las sanciones fijadas para los delitos que resulten consumados, según sean dolosos o culposos, se les aplicará suspensión de un mes a dos años en el ejercicio de la profesión o definitiva en caso de reincidencia; y
 
+*Fracción reformada DOF 10-01-1994*
+
 II.- Estarán obligados a la reparación del daño por sus actos propios y por los de sus auxiliares, cuando éstos obren de acuerdo con las instrucciones de aquéllos.
+
+*Fracción reformada DOF 13-01-1984*
 
 ##### Artículo 229.
 
@@ -3006,11 +3922,15 @@ III.- Retardar o negar por cualquier motivo la entrega de un cadáver, excepto c
 
 La misma sanción se impondrá a los encargados o administradores de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver, e igualmente a los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina, específicamente recetada por otra que cause daño o sea evidentemente inapropiada al padecimiento para el cual se prescribió.
 
+*Artículo reformado DOF 13-01-1984*
+
 #### CAPITULO II · Delitos de abogados, patronos y litigantes
 
 ##### Artículo 231.
 
 Se impondrá de dos a seis años de prisión, de cien a trescientos días multa y suspensión e inhabilitación hasta por un término igual al de la pena señalada anteriormente para ejercer la profesión, a los abogados, a los patronos, o a los litigantes que no sean ostensiblemente patrocinados por abogados, cuando cometan algunos de los delitos siguientes:
+
+*Fe de erratas al párrafo DOF 31-08-1931. Reformado DOF 10-01-1994*
 
 I.- Alegar a sabiendas hechos falsos, o leyes inexistentes o derogadas; y
 
@@ -3018,7 +3938,11 @@ II.- Pedir términos para probar lo que notoriamente no puede probarse o no ha d
 
 III.- A sabiendas y fundándose en documentos falsos o sin valor o en testigos falsos ejercite acción u oponga excepciones en contra de otro, ante las autoridades judiciales o administrativas; y
 
+*Fracción adicionada DOF 10-01-1994*
+
 IV.- Simule un acto jurídico o un acto o escrito judicial, o altere elementos de prueba y los presente en juicio, con el fin de obtener sentencia, resolución o acto administrativo contrario a la ley.
+
+*Fracción adicionada DOF 10-01-1994*
 
 ##### Artículo 232.
 
@@ -3034,11 +3958,17 @@ III.- Al defensor de un reo, sea particular o de oficio, que sólo se concrete a
 
 Los defensores de oficio que sin fundamento no promuevan las pruebas conducentes en defensa de los reos que los designen, serán destituidos de su empleo. Para este efecto, los jueces comunicarán al Jefe de Defensores las faltas respectivas.
 
+*Fe de erratas al artículo DOF 31-08-1931*
+
 ### TITULO · DECIMOTERCERO
 
 Falsedad
 
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Decimocuarto) DOF 29-07-1970*
+
 #### CAPITULO I · Falsificación, alteración y destrucción de moneda
+
+*Denominación del Capítulo reformada DOF 11-06-1992*
 
 ##### Artículo 234.
 
@@ -3050,6 +3980,8 @@ Comete el delito de falsificación de moneda el que produzca, almacene, distribu
 
 La pena señalada en el primer párrafo de este artículo, también se impondrá al que a sabiendas hiciere uso de moneda falsificada.
 
+*Artículo reformado DOF 11-06-1992*
+
 ##### Artículo 235.
 
 Se impondrá de uno a cinco años de prisión y hasta quinientos días multa:
@@ -3060,21 +3992,31 @@ II.- Al que marque la moneda con leyendas, sellos, troqueles o de cualquier otra
 
 III.- Al que permita el uso o realice la enajenación, por cualquier medio y título, de máquinas, instrumentos o útiles que únicamente puedan servir para la fabricación de moneda, a personas no autorizadas legalmente para ello.
 
+*Artículo reformado DOF 11-06-1992*
+
 ##### Artículo 236.
 
 Se impondrá prisión de cinco a doce años y hasta quinientos días multa, al que altere moneda. Igual sanción se impondrá al que a sabiendas circule moneda alterada.
 
 Para los efectos de este artículo se entiende que altera un billete, aquel que forme piezas mediante la unión de dos o más fracciones procedentes de diferentes billetes, y que altera una moneda metálica, aquel que disminuye el contenido de oro, plata, platino o paladio que compongan las piezas monetarias de curso legal, mediante limaduras, recortes, disolución en ácidos o empleando cualquier otro medio.
 
+*Artículo reformado DOF 11-06-1992*
+
 ##### Artículo 237.
 
 Se castigará con prisión de cinco a doce años y hasta quinientos días multa, a quien preste sus servicios o desempeñe un cargo o comisión en la casa de moneda o en cualquier empresa que fabrique cospeles, y que por cualquier medio, haga que las monedas de oro, plata, platino o paladio, contengan metal diverso al señalado por la ley, o tengan menor peso que el legal o una ley de aleación inferior.
+
+*Artículo reformado DOF 11-06-1992*
 
 ##### Artículo 238.
 
 Se le impondrá de tres a siete años de prisión y hasta quinientos días multa, al que aproveche ilícitamente el contenido metálico destruyendo las monedas en circulación mediante su fundición o cualquier otro procedimiento.
 
+*Artículo reformado DOF 09-03-1946, 11-06-1992*
+
 #### CAPITULO II · Falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito
+
+*Capítulo reubicado con denominación reformada DOF 11-06-1992. Denominación reformada DOF 08-02-1999*
 
 ##### Artículo 239.
 
@@ -3088,13 +4030,19 @@ II.- Las obligaciones de la deuda pública de otra nación, cupones de intereses
 
 III.- Las obligaciones y otros títulos legalmente emitidos por sociedades o empresas o por las administraciones públicas de la Federación, de los Estados o de cualquier Municipio, y los cupones de intereses o de dividendos de los documentos mencionados.
 
+*Artículo reformado DOF 09-03-1946*
+
 ##### Artículo 240.
 
 Al que introduzca en la República o pusiere en circulación en ella los documentos falsificados de que habla el artículo anterior, se le aplicará la sanción ahí señalada.
 
+*Artículo reformado DOF 09-03-1946, 11-06-1992*
+
 ##### Artículo 240 Bis.
 
 Se deroga.
+
+*Artículo adicionado DOF 08-02-1999. Derogado DOF 26-06-2008*
 
 #### CAPITULO III · Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
 
@@ -3113,6 +4061,8 @@ IV.- Al que falsifique los punzones, matrices, planchas o cualquier otro objeto 
 V.- Al que falsifique las marcas de inspección de pesas y medidas.
 
 La pena que corresponda por el delito previsto en la fracción I, se aumentará hasta en una mitad, cuando se falsifiquen sellos de asignatarios, contratistas, permisionarios o distribuidores a que se refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
+
+*Párrafo adicionado DOF 12-01-2016*
 
 ##### Artículo 242.
 
@@ -3134,9 +4084,13 @@ VII.- Al que procurándose los verdaderos sellos, punzones, marcas, etc., haga u
 
 VIII.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones I, II, V y VI de éste.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 09-03-1946*
+
 ##### Artículo 242 Bis.
 
 Se impondrá prisión de uno a cinco años y multa de doscientos a dos mil pesos, al que en cualquier forma altere las señales, marcas de sangre o de fuego, que se utilizan para distinguir el ganado, sin autorización de la persona que los tenga legalmente registradas ante la autoridad competente.
+
+*Artículo adicionado DOF 20-01-1967*
 
 #### CAPITULO IV · Falsificación de documentos en general
 
@@ -3147,6 +4101,10 @@ El delito de falsificación se castigará, tratándose de documentos públicos, 
 Si quien realiza la falsificación es un servidor público, la pena de que se trate, se aumentará hasta en una mitad más.
 
 La pena que corresponda por el delito previsto en el primer párrafo, se aumentará hasta en una mitad, cuando se falsifiquen documentos de asignatarios, contratistas, permisionarios o distribuidores a que se refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
+
+*Párrafo adicionado DOF 12-01-2016*
+
+*Artículo reformado DOF 30-12-1991, 13-05-1996*
 
 ##### Artículo 244.
 
@@ -3164,13 +4122,19 @@ V.- Atribuyéndose el que extiende el documento, o atribuyendo a la persona en c
 
 VI.- Redactando un documento en términos que cambien la convención celebrada en otra diversa en que varíen la declaración o disposición del otorgante, las obligaciones que se propuso contraer, o los derechos que debió adquirir;
 
+*Fe de erratas a la fracción DOF 31-08-1931*
+
 VII.- Añadiendo o alterando cláusulas o declaraciones, o asentando como ciertos hechos falsos, o como confesados los que no lo están, si el documento en que se asientan, se extendiere para hacerlos constar y como prueba de ellos;
+
+*Fe de erratas a la fracción DOF 31-08-1931*
 
 VIII.- Expidiendo un testimonio supuesto de documentos que no existen; dándolo de otro existente que carece de los requisitos legales, suponiendo falsamente que los tiene; o de otro que no carece de ellos, pero agregando o suprimiendo en la copia algo que importe una variación substancia, y
 
 IX.- Alterando un perito traductor o paleógrafo el contenido de un documento, al traducirlo o descifrarlo.
 
 X.- Elaborando placas, gafetes, distintivos, documentos o cualquier otra identificación oficial, sin contar con la autorización de la autoridad correspondiente.
+
+*Fracción adicionada DOF 23-12-1985*
 
 ##### Artículo 245.
 
@@ -3179,6 +4143,8 @@ Para que el delito de falsificación de documentos sea sancionable como tal, se 
 I.- Que el falsario se proponga sacar algún provecho para sí o para otro, o causar perjuicio a la sociedad, al Estado o a un tercero;
 
 II.- Que resulte o pueda resultar perjuicio a la sociedad, al Estado o a un particular, ya sea en los bienes de éste o ya en su persona, en su honra o en su reputación, y
+
+*Fe de erratas a la fracción DOF 31-08-1931*
 
 III.- Que el falsario haga la falsificación sin consentimiento de la persona a quien resulte o pueda resultar perjuicio o sin el de aquella en cuyo nombre se hizo el documento.
 
@@ -3190,17 +4156,27 @@ I.- El funcionario o empleado que, por engaño o sorpresa, hiciere que alguien f
 
 II.- El Notario y cualquier otro funcionario público que, en ejercicio de sus funciones, expida una certificación de hechos que no sean ciertos, o da fe de lo que no consta en autos, registros, protocolos o documentos;
 
+*Fe de erratas a la fracción DOF 31-08-1931*
+
 III.- El que, para eximirse de un servicio debido legalmente, o de una obligación impuesta por la ley, suponga una certificación de enfermedad o impedimento que no tiene como expedida por un médico cirujano, sea que exista realmente la persona a quien la atribuya, ya sea ésta imaginaria o ya tome el nombre de una persona real, atribuyéndoles falsamente la calidad de médico o cirujano;
 
 IV.- El médico que certifique falsamente que una persona tiene una enfermedad u otro impedimento bastante para dispensarla de prestar un servicio que exige la ley, o de cumplir una obligación que ésta impone, o para adquirir algún derecho;
+
+*Fe de erratas a la fracción DOF 31-08-1931*
 
 V.- El que haga uso de una certificación verdadera expedida para otro, como si lo hubiere sido en su favor, o altere la que a él se le expidió;
 
 VI.- Los encargados del servicio telegráfico, telefónico o de radio que supongan o falsifiquen un despacho de esa clase;
 
+*Fracción reformada DOF 07-04-2016*
+
 VII.- El prestador de servicios de certificación que realice actividades sin contar con la respectiva acreditación, en los términos establecidos por el Código de Comercio y demás disposiciones aplicables, y
 
+*Fracción adicionada DOF 07-04-2016*
+
 VIII.- El que a sabiendas hiciere uso de un documento falso o de copia, transcripción o testimonio del mismo, sea público o privado.
+
+*Fracción reformada DOF 15-01-1951. Recorrida DOF 07-04-2016*
 
 #### CAPITULO V · Falsedad en declaraciones judiciales y en informes dados a una autoridad
 
@@ -3208,17 +4184,29 @@ VIII.- El que a sabiendas hiciere uso de un documento falso o de copia, transcri
 
 Se impondrán de cuatro a ocho años de prisión y de cien a trescientos días multa:
 
+*Párrafo reformado DOF 30-12-1991, 10-01-1994. Fe de erratas DOF 01-02-1994. Reformado DOF 20-06-2008, 23-01-2009*
+
 I.- Al que interrogado por alguna autoridad pública distinta de la judicial en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad.
 
 II. Se deroga.
+
+*Fracción reformada DOF 10-01-1994. Derogada DOF 23-01-2009*
 
 III.- Al que soborne a un testigo, a un perito o a un intérprete, para que se produzca con falsedad en juicio o los obligue o comprometa a ello intimándolos o de otro modo;
 
 IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testigo, sea examinado y faltare a la verdad en perjuicio de otro, negando ser suya la firma con que hubiere suscrito el documento o afirmando un hecho falso o alternando o negando uno verdadero, o sus circunstancias sustanciales.
 
+*Párrafo reformado DOF 10-01-1994*
+
 Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa o cuando tenga el carácter de acusado;
 
+*Reforma DOF 05-01-1955: Suprimió de la fracción el entonces párrafo tercero, cuyo contenido pasó al artículo 248*
+
 V.- Al que en juicio de amparo rinda informes como autoridad responsable, en los que afirmare una falsedad o negare la verdad en todo o en parte.
+
+*Fracción adicionada DOF 05-01-1955*
+
+*Artículo reformado DOF 09-03-1946*
 
 ##### Artículo 247 Bis.
 
@@ -3228,19 +4216,27 @@ Al que examinado por la autoridad judicial como testigo o perito, faltare a la v
 
 Cuando al sentenciado se le imponga una pena de más de veinte años de prisión por el testimonio o peritaje falsos, la sanción será de ocho a quince años de prisión y de quinientos a ochocientos días multa.
 
+*Artículo adicionado DOF 23-01-2009*
+
 ##### Artículo 248.
 
 El testigo, perito o intérprete que retracte espontáneamente sus falsas declaraciones rendidas ante cualquier autoridad administrativa o ante la judicial antes de que se pronuncie sentencia en la instancia en que las diere, sólo pagará de 30 a 180 días multa, pero si faltare a la verdad al retractar sus declaraciones, se le aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, considerándolo como reincidente.
 
+*Artículo reformado DOF 05-01-1955, 30-12-1991*
+
 ##### Artículo 248 Bis.
 
 Al que con el propósito de inculpar a alguien como responsable de un delito ante la autoridad, simule en su contra la existencia de pruebas materiales que hagan presumir su responsabilidad, se le impondrá prisión de dos a seis años y de cien a trescientos días multa.
+
+*Artículo adicionado DOF 10-01-1994*
 
 #### CAPITULO VI · Variación del nombre o del domicilio
 
 ##### Artículo 249.
 
 Se impondrán de diez a ciento ochenta jornadas de trabajo en favor de la comunidad:
+
+*Párrafo reformado DOF 30-12-1991, 10-01-1994*
 
 I.- Al que oculte su nombre o apellido y tome otro imaginario o el de otra persona, al declarar ante la autoridad judicial;
 
@@ -3250,15 +4246,21 @@ III.- Al funcionario o empleado público que, en los actos propios de su cargo, 
 
 #### CAPITULO VII · Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones, uniformes, grados jerárquicos, divisas, insignias y siglas
 
+*Denominación del Capítulo reformada DOF 21-01-1985*
+
 ##### Artículo 250.
 
 Se sancionará con prisión de uno a seis años y multa de cien a trescientos días a quien:
+
+*Párrafo reformado DOF 10-01-1994*
 
 I.- Al que, sin ser funcionario público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
 
 II.- Al que sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidas por autoridades u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5 constitucional.
 
-a).- Se atribuya el carácter del profesionista
+*Párrafo reformado DOF 10-01-1994*
+
+a).- Se atribuya el carácter del profesionista.
 
 b).- Realice actos propios de una actividad profesional, con excepción de lo previsto en el 3er. párrafo del artículo 26 de la Ley Reglamentaria de los artículos 4o. y 5o. Constitucionales.
 
@@ -3272,6 +4274,10 @@ III.- Al extranjero que ejerza una profesión reglamentada sin tener autorizaci�
 
 IV.- Al que usare credenciales de servidor público, condecoraciones, uniformes, grados jerárquicos, divisas, insignias o siglas a las que no tenga derecho. Podrá aumentarse la pena hasta la mitad de su duración y cuantía, cuando sean de uso exclusivo de las Fuerzas Armadas Mexicanas o de alguna corporación policial.
 
+*Fracción reformada DOF 21-01-1985, 10-01-1994*
+
+*Artículo reformado DOF 30-01-1947*
+
 ##### Artículo 250 bis.
 
 Al que cometa el delito de falsificación de uniformes y divisas de las fuerzas armadas o de cualquier institución de seguridad pública, se le impondrá de cinco a doce años de prisión y hasta quinientos días multa.
@@ -3279,6 +4285,8 @@ Al que cometa el delito de falsificación de uniformes y divisas de las fuerzas 
 Comete el delito de falsificación de uniformes y divisas de las fuerzas armadas o de cualquier institución de seguridad pública, el que sin autorización de la institución correspondiente fabrique, confeccione, produzca, imprima o pinte, cualquiera de los uniformes, insignias, credenciales de identificación, medallas, divisas, gafetes, escudos, documentos, adheribles, distintivos o piezas que contengan imágenes, siglas u otros elementos utilizados en dichas instituciones.
 
 Se entiende por uniformes, divisas o insignias para los efectos de este artículo, los señalados en las disposiciones aplicables de las fuerzas armadas o de cualquier institución de seguridad pública.
+
+*Artículo adicionado DOF 24-06-2009*
 
 ##### Artículo 250 bis 1.
 
@@ -3298,6 +4306,8 @@ Se impondrá de cinco a doce años de prisión y de doscientos a seiscientos dí
 
 Para los efectos de este artículo, se entiende por uniformes, insignias, credenciales de identificación, medallas, divisas, balizaje, gafetes, escudos, documentos, adheribles, distintivos o piezas que contengan imágenes siglas u otros elementos utilizados en instituciones de las fuerzas armadas o de seguridad pública o procuración de justicia, los señalados en las disposiciones aplicables de dichas instituciones y sólo se considerarán auténticos los que sean adquiridos, distribuidos o enajenados por personas autorizadas para ello o a quienes se les haya adjudicado el contrato respectivo por la institución competente, conforme a las disposiciones aplicables.
 
+*Artículo adicionado DOF 24-06-2009*
+
 #### CAPITULO VIII · Disposiciones comunes a los capítulos precedentes
 
 ##### Artículo 251.
@@ -3310,13 +4320,19 @@ Las disposiciones contenidas en este título no se aplicarán sino en lo que no 
 
 ### TITULO · DECIMOCUARTO
 
-Delitos Contra la Economía Pública
+Delitos contra la economía pública
 
-#### CAPITULO I · Delitos contra el consumo y la riqueza nacionales
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Decimoquinto) DOF 29-07-1970*
+
+#### CAPITULO I · Delitos contra el consumo y la Riqueza Nacionales
+
+*Denominación del Capítulo reformada DOF 05-01-1955*
 
 ##### Artículo 253.
 
 Son actos u omisiones que afectan gravemente al consumo nacional y se sancionarán con prisión de tres a diez años y con doscientos a mil días multa, los siguientes:
+
+*Párrafo reformado DOF 13-05-1996*
 
 I.- Los relacionados con artículos de consumo necesario o generalizado o con las materias primas necesarias para elaborarlos, así como con las materias primas esenciales para la actividad de la industria nacional, que consistan en:
 
@@ -3328,19 +4344,29 @@ c).- La limitación de la producción o el manejo que se haga de la misma, con e
 
 d) (Se deroga)
 
+*Inciso derogado DOF 10-05-2011*
+
 e).- La suspensión de la producción, procesamiento, distribución, oferta o venta de mercancías o de la prestación de servicios, que efectúen los industriales, comerciantes, productores, empresarios o prestadores de servicios, con el objeto de obtener un alza en los precios o se afecte el abasto de los consumidores.
 
 Si se depone la conducta ilícita dentro de los dos días hábiles siguientes al momento en que la autoridad administrativa competente lo requiera, la sanción aplicable será de seis meses a tres años de prisión, o de cien a quinientos días multa;
+
+*Párrafo reformado DOF 13-05-1996*
 
 f).- La exportación, sin permiso de la autoridad competente cuando éste sea necesario de acuerdo con las disposiciones legales aplicables.
 
 g).- La venta con inmoderado lucro, por los productores, distribuidores o comerciantes en general. En los casos de que el lucro indebido sea inferior al equivalente a sesenta días del salario mínimo general vigente en la región y en el momento donde se consuma el delito, se sancionará con prisión de dos a seis años y de sesenta a trescientos días multa;
 
+*Fracción reformada DOF 13-05-1996*
+
 h).- Distraer, para usos distintos mercancías que hayan sido surtidas para un fin determinado, por una entidad pública o por sus distribuidores, cuando el precio a que se hubiese entregado la mercancía sea inferior al que tenga si se destina a otros usos.
 
 i).- Impedir o tratar de impedir la generación, conducción, transformación, distribución o venta de energía eléctrica de servicio público.
 
+*Inciso adicionado DOF 13-05-1996*
+
 j) Se deroga.
+
+*Inciso adicionado DOF 17-05-1999. Derogado DOF 12-01-2016*
 
 II.- Envasar o empacar las mercancías destinadas para la venta, en cantidad inferior a la indicada como contenido neto y fuera de la respectiva tolerancia o sin indicar en los envases o empaques el precio máximo oficial de venta al público, cuando se tenga la obligación de hacerlo.
 
@@ -3350,43 +4376,69 @@ IV.- Alterar o reducir por cualquier medio las propiedades que las mercancías o
 
 V. Revender a un organismo público, a precios mínimos de garantía o a los autorizados por la Secretaría de Economía, productos agropecuarios, marítimos, fluviales y lacustres adquiridos a un precio menor. Se aplicará la misma sanción al empleado o funcionario del organismo público que los compre a sabiendas de esa situación o propicie que el productor se vea obligado a vender a precios más bajos a terceras personas.
 
+*Fracción reformada DOF 09-04-2012*
+
 En cualquiera de los casos señalados en las fracciones anteriores, el juez podrá ordenar, además, la suspensión hasta por un año o la disolución de la empresa de la que el delincuente sea miembro o representante, si concurren las circunstancias mencionadas en el artículo 11 de este Código.
 
 En los casos de los incisos a), f) y h), de la fracción I y de la IV de este artículo, la autoridad que tenga conocimiento de los hechos procederá de inmediato a depositar los artículos de consumo necesario o generalizado, las materias primas para elaborarlos o las materias primas esenciales para la actividad industrial nacional. El depósito se efectuará en un almacén general de depósito que sea organización nacional auxiliar de crédito y los bienes serán genéricamente designados, en los términos del artículo 281 de la Ley General de Títulos y Operaciones de Crédito; cuando se trate de bienes cuya especial naturaleza no permita el depósito genérico, se constituirá el específico, señalando asimismo, el plazo y condiciones en que habrá de procederse a su venta o destrucción conforme a lo que establece el artículo 282 de la misma Ley. El certificado de depósito que se expida tendrá el carácter de no negociable y será remitido al Ministerio Público o, en su caso, al Juez que conozca del proceso, para los efectos que procedan.
 
 Lo dispuesto en este artículo se aplicará sin perjuicio de las medidas y sanciones administrativas que establezcan las leyes correspondientes.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 31-12-1952, 05-01-1955, 05-12-1979*
+
 ##### Artículo 253 Bis.
 
 (Se deroga).
 
+*Artículo adicionado DOF 05-01-1955. Derogado DOF 05-12-1979*
+
 ##### Artículo 254.
 
-Se aplicarán igualmente las sanciones del artículo 253:
+Se aplicarán igualmente las sanciones del Artículo 253:
+
+*Párrafo reformado DOF 05-12-1979, 30-12-1980*
 
 I.- Por destrucción indebida de materias primas, productos agrícolas o industriales o medios de producción, que se haga con perjuicio del consumo nacional;
 
+*Fracción reformada DOF 13-12-1996*
+
 II.- Cuando se ocasione la difusión de una enfermedad de las plantas o de los animales con peligro de la economía rural;
+
+*Fracción reformada DOF 13-12-1996*
 
 III.- Cuando se publiquen noticias falsas, exageradas o tendenciosas o por cualquier otro medio indebido se produzcan trastornos en el mercado interior, ya sea tratándose de mercancías, de monedas o títulos y efectos de comercio.
 
 IV.- Al que dolosamente, en operaciones mercantiles exporte mercancías nacionales de calidad inferior, o en menor cantidad de lo convenido.
 
-V.- Al que dolosamente adquiera, posea o trafique con semillas, fertilizantes, plaguicidas, implementos y otros materiales destinados a la producción agropecuaria que se hayan entregado a los productores por alguna entidad o dependencia pública a precios subsidiado.
+*Fracción adicionada DOF 05-01-1955*
+
+V.- Al que dolosamente adquiera, posea o trafique con semillas, fertilizantes, plaguicidas, implementos y otros materiales destinados a la producción agropecuaria que se hayan entregado a los productores por alguna entidad o dependencia pública a precio subsidiado.
 
 En los distritos de riego, el agua de riego será considerada como material a precio subsidiado.
 
 Si el que entregue los insumos referidos, fuere el productor que los recibió de las instituciones oficiales, se le aplicará una pena de 3 días a 3 años de prisión.
 
+*Fracción adicionada DOF 30-12-1980*
+
 VI.- A los funcionarios o empleados de cualquiera entidad o dependencia pública que entreguen estos insumos a quienes no tengan derecho a recibirlos; o que indebidamente nieguen o retarden la entrega a quienes tienen derecho a recibirlos, se harán acreedores a las sanciones del artículo 253.
+
+*Fracción adicionada DOF 30-12-1980*
 
 VII.- Se deroga.
 
+*Fracción adicionada DOF 13-05-1996. Reformada DOF 17-05-1999, 24-10-2011. Derogada DOF 12-01-2016*
+
 VIII.- Se deroga.
+
+*Fracción adicionada DOF 24-10-2011. Derogada DOF 12-01-2016*
 
 IX. Al que sin derecho realice cualquier sustracción o alteración de equipos o instalaciones del servicio público de energía eléctrica.
 
+*Fracción adicionada DOF 13-05-1996. Recorrida DOF 24-10-2011*
+
 Las penas que correspondan por los delitos previstos en este artículo, se aumentarán en una mitad más para el trabajador o servidor público que, con motivo de su trabajo, suministre información de las instalaciones, del equipo o de la operación de la industria que resulte útil o pueda auxiliar a la comisión de los delitos de referencia.
+
+*Párrafo adicionado DOF 24-10-2011*
 
 ##### Artículo 254 bis.
 
@@ -3410,9 +4462,13 @@ Los procesos seguidos por este delito se podrán sobreseer a petición del Pleno
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad a que se refiere el primer párrafo de este artículo.
 
+*Artículo adicionado DOF 30-12-1991. Derogado DOF 13-12-1996. Adicionado DOF 10-05-2011. Reformado DOF 23-05-2014*
+
 ##### Artículo 254 bis 1.
 
 Se sancionará con prisión de uno a tres años y con quinientos a cinco mil días de multa, a quien por sí o por interpósita persona, en la práctica de una visita de verificación, por cualquier medio altere, destruya o perturbe de forma total o parcial documentos, imágenes o archivos electrónicos que contengan información o datos, con el objeto de desviar, obstaculizar o impedir la investigación de un posible hecho delictuoso o la práctica de la diligencia administrativa.
+
+*Artículo adicionado DOF 23-05-2014*
 
 ##### Artículo 254 Ter.
 
@@ -3420,15 +4476,21 @@ Se impondrá de tres meses a un año de prisión o de cien a trescientos días m
 
 Si con los actos a que se refiere el párrafo anterior se causa algún daño, la pena será de dos a nueve años de prisión y de doscientos cincuenta a dos mil días multa.
 
+*Artículo adicionado DOF 13-05-1996*
+
 #### CAPITULO II · Vagos y malvivientes
 
 ##### Artículo 255.
 
 (Se deroga).
 
+*Artículo reformado DOF 12-05-1938, 24-03-1944, 05-01-1948, 15-01-1951. Derogado DOF 30-12-1991*
+
 ##### Artículo 256.
 
 (Se deroga).
+
+*Artículo derogado DOF 30-12-1991*
 
 #### CAPITULO III · Juegos prohibidos
 
@@ -3436,19 +4498,29 @@ Si con los actos a que se refiere el párrafo anterior se causa algún daño, la
 
 (Se deroga).
 
+*Artículo derogado DOF 14-01-1985*
+
 ##### Artículo 258.
 
 (Se deroga).
+
+*Artículo derogado DOF 14-01-1985*
 
 ##### Artículo 259.
 
 (Se deroga).
 
+*Artículo reformado DOF 23-12-1974. Derogado DOF 14-01-1985*
+
 ### TITULO · DECIMOQUINTO
 
 Delitos contra la Libertad y el Normal Desarrollo Psicosexual
 
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Decimosexto) DOF 29-07-1970. Denominación reformada DOF 21-01-1991*
+
 #### Capítulo I · Hostigamiento Sexual, Abuso Sexual, Estupro y Violación
+
+*Denominación del Capítulo reformada DOF 21-01-1991*
 
 ##### Artículo 259 Bis.
 
@@ -3459,6 +4531,8 @@ Al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, val
 Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
 
 Sólo se procederá contra el hostigador, a petición de parte ofendida.
+
+*Artículo adicionado DOF 21-01-1991*
 
 ##### Artículo 260.
 
@@ -3472,31 +4546,47 @@ También se considera abuso sexual cuando se obligue a la víctima a observar un
 
 Si se hiciera uso de violencia, física o psicológica, la pena se aumentará en una mitad más en su mínimo y máximo.
 
+*Artículo reformado DOF 03-01-1989, 21-01-1991, 30-12-1997, 14-06-2012*
+
 ##### Artículo 261.
 
 A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y hasta quinientos días multa.
 
 Si se hiciera uso de violencia, la pena se aumentará en una mitad más en su mínimo y máximo.
 
+*Artículo reformado DOF 03-01-1989, 21-01-1991, 30-12-1997, 14-06-2012*
+
 ##### Artículo 262.
 
 Al que tenga cópula con persona mayor de quince años y menor de dieciocho, obteniendo su consentimiento por medio de engaño, se le aplicará de tres meses a cuatro años de prisión.
+
+*Artículo reformado DOF 14-01-1985, 21-01-1991, 14-06-2012*
 
 ##### Artículo 263.
 
 En el caso del artículo anterior, no se procederá contra el sujeto activo, sino por queja del ofendido o de sus representantes.
 
+*Artículo reformado DOF 21-01-1991*
+
 ##### Artículo 264.
 
 (Se deroga).
+
+*Artículo derogado DOF 13-01-1984*
 
 ##### Artículo 265.
 
 Comete el delito de violación quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a veinte años.
 
+*Párrafo reformado DOF 14-06-2012*
+
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
 Se considerará también como violación y se sancionará con prisión de ocho a veinte años al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+
+*Párrafo reformado DOF 14-06-2012*
+
+*Artículo reformado DOF 20-01-1967, 13-01-1984, 03-01-1989, 21-01-1991, 30-12-1997*
 
 ##### Artículo 265 bis.
 
@@ -3504,21 +4594,31 @@ Si la víctima de la violación fuera la esposa o concubina, se impondrá la pen
 
 Este delito se perseguirá por querella de parte ofendida.
 
+*Artículo adicionado DOF 30-12-1997*
+
 ##### Artículo 266.
 
 Se equipara a la violación y se sancionará de ocho a treinta años de prisión:
 
+*Párrafo reformado DOF 14-06-2012*
+
 I. Al que sin violencia realice cópula con persona menor de quince años de edad;
+
+*Fracción reformada DOF 14-06-2012*
 
 II.- Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y
 
 III. Al que sin violencia y con fines lascivos introduzca por vía anal o vaginal cualquier elemento o instrumento distinto del miembro viril en una persona menor de quince años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
 
+*Fracción reformada DOF 14-06-2012*
+
 Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se aumentará hasta en una mitad.
+
+*Artículo reformado DOF 20-01-1967, 03-01-1989, 21-01-1991, 30-12-1997*
 
 ##### Artículo 266 Bis.
 
-Las penas previstas para el abuso sexual y la violación se aumentará hasta en una mitad en su mínimo y máximo, cuando:
+Las penas previstas para el abuso sexual y la violación se aumentarán hasta en una mitad en su mínimo y máximo, cuando:
 
 I.- El delito fuere cometido con intervención directa o inmediata de dos o más personas;
 
@@ -3532,27 +4632,41 @@ V. El delito fuere cometido previa suministración de estupefacientes o psicotr�
 
 *Fracción adicionada DOF 15-06-2018*
 
-#### CAPITULO II · (Se deroga).
+*Artículo adicionado DOF 20-01-1967. Reformado DOF 03-01-1989, 21-01-1991*
+
+#### CAPITULO II
+
+*Denominación del Capítulo derogada DOF 21-01-1991*
 
 ##### Artículo 267.
 
 (Se deroga).
 
+*Artículo reformado DOF 13-01-1984. Derogado DOF 21-01-1991*
+
 ##### Artículo 268.
 
 (Se deroga).
+
+*Artículo reformado DOF 13-01-1984. Derogado DOF 21-01-1991*
 
 ##### Artículo 269.
 
 (Se deroga).
 
+*Artículo reformado DOF 13-01-1984. Derogado DOF 14-01-1985*
+
 ##### Artículo 270.
 
 (Se deroga).
 
+*Artículo derogado DOF 21-01-1991*
+
 ##### Artículo 271.
 
 (Se deroga).
+
+*Artículo derogado DOF 21-01-1991*
 
 #### CAPITULO III · Incesto
 
@@ -3560,37 +4674,59 @@ V. El delito fuere cometido previa suministración de estupefacientes o psicotr�
 
 Se sancionará con pena de uno a seis años de prisión, el delito de incesto cuando los ascendientes tengan relaciones sexuales con sus descendientes, siempre y cuando estos últimos sean mayores de edad.
 
+*Párrafo reformado DOF 14-06-2012*
+
 Cuando la víctima sea menor de edad, la conducta siempre será entendida como típica de violación.
+
+*Párrafo adicionado DOF 14-06-2012*
+
+*Reforma DOF 14-06-2012: Derogó del artículo los entonces párrafos segundo y tercero*
 
 #### CAPITULO IV · Adulterio
 
 (Se deroga)
 
+*Capítulo derogado DOF 08-06-2011*
+
 ##### Artículo 273.
 
 (Se deroga).
+
+*Artículo derogado DOF 08-06-2011*
 
 ##### Artículo 274.
 
 (Se deroga).
 
+*Artículo derogado DOF 08-06-2011*
+
 ##### Artículo 275.
 
 (Se deroga).
+
+*Artículo derogado DOF 08-06-2011*
 
 ##### Artículo 276.
 
 (Se deroga).
 
-#### CAPITULO V · Disposiciones generales
+*Artículo derogado DOF 08-06-2011*
+
+#### CAPITULO V · Disposiciones Generales
+
+*Capítulo adicionado DOF 13-01-1984*
 
 ##### Artículo 276-Bis.
 
 Cuando a consecuencia de la comisión de alguno de los delitos previstos en este Título resulten hijos, la reparación del daño comprenderá el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil para los casos de divorcio.
 
+*Artículo adicionado DOF 13-01-1984*
+
 ### TITULO · DECIMOSEXTO
 
 Delitos Contra el Estado Civil y Bigamia
+
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Decimoséptimo) DOF 29-07-1970*
 
 ##### Artículo 277.
 
@@ -3614,15 +4750,23 @@ El que cometa alguno de los delitos expresados en el artículo anterior, perder�
 
 Se impondrá hasta cinco años de prisión o de 180 a 360 días multa al que, estando unido con una persona en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio con las formalidades legales.
 
+*Artículo reformado DOF 30-12-1991*
+
 ### TITULO · DECIMOSEPTIMO
 
-Delitos en Materia de Inhumaciones y Exhumaciones
+Delitos en materia de inhumaciones y exhumaciones
+
+*Denominación reformada DOF 15-01-1951. Título recorrido DOF 20-01-1967. Recorrido (antes Título Decimoctavo) DOF 29-07-1970*
 
 #### CAPITULO UNICO · Violación de las leyes sobre inhumaciones y exhumaciones
+
+*Capítulo adicionado DOF 15-01-1951*
 
 ##### Artículo 280.
 
 Se impondrá prisión de tres días a dos años o de 30 a 90 días multa:
+
+*Párrafo reformado DOF 30-12-1991*
 
 I.- Al que oculte, destruya o sepulte un cadáver o un feto humano, sin la orden de la autoridad que deba darla o sin los requisitos que exijan los Códigos Civil y Sanitario o leyes especiales;
 
@@ -3631,6 +4775,8 @@ II.- Al que oculte, destruya, o sin la licencia correspondiente sepulte el cadá
 En este caso no se aplicará sanción a los ascendientes o descendientes, cónyuge o hermanos del responsable del homicidio, y
 
 III.- Al que exhume un cadáver sin los requisitos legales o con violación de derechos.
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 15-01-1951*
 
 ##### Artículo 280 Bis.
 
@@ -3646,9 +4792,13 @@ I.- Al que viole un túmulo, un sepulcro, una sepultura o féretro, y
 
 II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutilación, brutalidad o necrofilia. Si los actos de necrofilia consisten en la realización del coito, la pena de prisión será de cuatro a ocho años.
 
+*Artículo reformado DOF 13-01-1984*
+
 ### TITULO · DECIMOCTAVO
 
 Delitos Contra la Paz y Seguridad de las Personas
+
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Decimonoveno) DOF 29-07-1970*
 
 #### CAPITULO I · Amenazas y Cobranza Extrajudicial Ilegal
 
@@ -3658,15 +4808,23 @@ Delitos Contra la Paz y Seguridad de las Personas
 
 Se aplicará sanción de tres días a un año de prisión o de 180 a 360 días multa:
 
+*Párrafo reformado DOF 30-12-1991*
+
 I.- Al que de cualquier modo amenace a otro con causarle un mal en su persona, en sus bienes, en su honor o en sus derechos, o en la persona, honor, bienes o derechos de alguien con quien esté ligado con algún vínculo, y
 
 II.- Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho a hacer.
 
 Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 343 bis y 343 ter, en este último caso siempre y cuando habiten en el mismo domicilio, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo.
 
+*Párrafo adicionado DOF 30-12-1997*
+
 Si el ofendido por la amenaza fuere víctima u ofendido o testigo en un procedimiento penal, la pena será de cuatro a ocho años de prisión y de cien a trescientos días multa.
 
+*Párrafo adicionado DOF 23-01-2009*
+
 Los delitos previstos en este artículo se perseguirán por querella, con excepción del establecido en el párrafo anterior que se perseguirá de oficio.
+
+*Párrafo adicionado DOF 30-12-1991. Reformado DOF 23-01-2009*
 
 ##### Artículo 283.
 
@@ -3685,6 +4843,8 @@ Al que no otorgare la caución de no ofender, se le impondrá prisión de tres d
 Si el amenazador cumple su amenaza se acumularán la sanción de ésta y la del delito que resulte.
 
 Si el amenazador exigió que el amenazado cometiera un delito, a la sanción de la amenaza se acumulará la que le corresponda por su participación en el delito que resulte.
+
+*Párrafo reformado DOF 10-01-1994*
 
 ##### Artículo 284 Bis.
 
@@ -3708,7 +4868,11 @@ Se impondrán de un mes a dos años de prisión y multa de diez a cien pesos, al
 
 Al que en despoblado o en paraje solitario haga uso de violencia sobre una persona con el propósito de causar un mal, obtener un lucro o de exigir su asentimiento para cualquier fin y cualesquiera que sean los medios y el grado de violencia que se emplee, e independientemente de cualquier hecho delictuoso que resulte cometido, se le castigará con prisión de uno a cinco años.
 
+*Fe de erratas al párrafo DOF 31-08-1931*
+
 La pena será de diez a treinta años de prisión para el que en vías generales de comunicación tales como caminos, carreteras, puentes o vías férreas, haga uso de la violencia en contra de los ocupantes de un vehículo de transporte público o privado.
+
+*Párrafo adicionado DOF 10-01-1994. Reformado DOF 18-06-2010*
 
 ##### Artículo 287.
 
@@ -3716,7 +4880,9 @@ Si los salteadores atacaren una población, se aplicarán de veinte a treinta a�
 
 ### TITULO · DECIMONOVENO
 
-Delitos Contra la Vida y la Integridad Corporal
+Delitos contra la vida y la integridad corporal
+
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Vigésimo) DOF 29-07-1970*
 
 #### CAPITULO I · Lesiones
 
@@ -3729,6 +4895,8 @@ Bajo el nombre de lesión, se comprende no solamente las heridas, escoriaciones,
 Al que infiera una lesión que no ponga en peligro la vida del ofendido y tarde en sanar menos de quince días, se le impondrán de tres a ocho meses de prisión, o de treinta a cincuenta días multa, o ambas sanciones a juicio del juez. Si tardare en sanar más de quince días, se le impondrán de cuatro meses a dos años de prisión y de sesenta a doscientos setenta días multa.
 
 En estos casos, el delito se perseguirá por querella, salvo en el que contempla el artículo 295, en cuyo caso se perseguirá de oficio.
+
+*Artículo reformado DOF 13-01-1984, 30-12-1991, 13-05-1996*
 
 ##### Artículo 290.
 
@@ -3752,29 +4920,43 @@ Al que infiera lesiones que pongan en peligro la vida, se le impondrán de tres 
 
 (Se deroga).
 
+*Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 13-01-1984*
+
 ##### Artículo 295.
 
 Al que ejerciendo la patria potestad o la tutela infiera lesiones a los menores o pupilos bajo su guarda, el juez podrá imponerle, además de la pena correspondiente a las lesiones, suspensión o privación en el ejercicio de aquellos derechos.
+
+*Artículo reformado DOF 13-01-1984*
 
 ##### Artículo 296.
 
 (Se deroga).
 
+*Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 23-12-1985*
+
 ##### Artículo 297.
 
 Si las lesiones fueren inferidas en riña o en duelo, las sanciones señaladas en los artículos que anteceden podrán disminuirse hasta la mitad o hasta los cinco sextos, según que se trate del provocado o del provocador, y teniendo en cuenta la mayor o menor importancia de la provocación y lo dispuesto en los artículos 51 y 52.
+
+*Artículo reformado DOF 15-01-1951*
 
 ##### Artículo 298.
 
 Al responsable de una lesión calificada se le aumentará la sanción hasta el doble de la que corresponda por la lesión simple causada.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 17-05-1999*
+
 ##### Artículo 299.
 
-(Se deroga).
+Derogado.
+
+*Artículo derogado DOF 10-01-1994*
 
 ##### Artículo 300.
 
 Si la víctima fuere alguno de los parientes o personas a que se refieren los artículos 343 bis y 343 ter, en este último caso siempre y cuando habiten en el mismo domicilio, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo, con arreglo a los artículos que preceden, salvo que también se tipifique el delito de violencia familiar.
+
+*Artículo reformado DOF 30-12-1997*
 
 ##### Artículo 301.
 
@@ -3790,9 +4972,13 @@ Comete el delito de homicidio: el que priva de la vida a otro.
 
 Para la aplicación de las sanciones que correspondan al que infrinja el artículo anterior, no se tendrá como mortal una lesión, sino cuando se verifiquen las tres circunstancias siguientes:
 
-I.- Que la muerte se deba a las alteraciones causadas por la lesión en el órgano u órganos interesados, alguna de sus consecuencias inmediatas o alguna complicación determinada inevitablemente por la misma lesión y que no pudo combatirse, ya sea por ser incurable, ya por no tenerse al alcance los recursos necesarios;
+I.- Que la muerte se deba a las alteraciones causadas por la lesión en el órgano u órganos interesados, alguna de sus consecuencias inmediatas o alguna complicación determinada por la misma lesión y que no pudo combatirse, ya sea por ser incurable, ya por no tenerse al alcance los recursos necesarios;
 
-II.- (Se deroga).
+*Fe de erratas a la fracción DOF 31-08-1931*
+
+II.- Se deroga.
+
+*Fracción derogada DOF 10-01-1994*
 
 III.- Que si se encuentra el cadáver del occiso, declaren dos peritos después de hacer la autopsia, cuando ésta sea necesaria, que la lesión fue mortal, sujetándose para ello a las reglas contenidas en este artículo, en los dos siguientes y en el Código de Procedimientos Penales.
 
@@ -3816,9 +5002,13 @@ No se tendrá como mortal una lesión, aunque muera el que la recibió: cuando l
 
 (Se deroga).
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 08-03-1968. Derogado DOF 30-12-1991*
+
 ##### Artículo 307.
 
 Al responsable de cualquier homicidio simple intencional que no tenga prevista una sanción especial en este Código, se le impondrán de doce a veinticuatro años de prisión.
+
+*Artículo reformado DOF 05-01-1955, 17-05-1999*
 
 ##### Artículo 308.
 
@@ -3828,9 +5018,13 @@ Si el homicidio se comete en duelo, se aplicará a su autor de dos a ocho años 
 
 Además de lo dispuesto en los artículos 51 y 52 para la fijación de las penas dentro de los mínimos y máximos anteriormente señalados, se tomará en cuenta quién fue el provocado y quién el provocador, así como la mayor o menor importancia de la provocación.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 15-01-1951*
+
 ##### Artículo 309.
 
 (Se deroga).
+
+*Artículo reformado DOF 08-03-1968. Derogado DOF 23-12-1985*
 
 #### CAPITULO III · Reglas comunes para lesiones y homicidio
 
@@ -3838,9 +5032,13 @@ Además de lo dispuesto en los artículos 51 y 52 para la fijación de las penas
 
 (Se deroga)
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 10-01-1994. Derogado DOF 14-06-2012*
+
 ##### Artículo 311.
 
-(Se deroga).
+Derogado.
+
+*Artículo reformado DOF 18-02-1969. Derogado DOF 10-01-1994*
 
 ##### Artículo 312.
 
@@ -3858,7 +5056,11 @@ Por riña se entiende para todos los efectos penales: la contienda de obra y no 
 
 Se entiende que las lesiones y el homicidio, son calificados, cuando se cometen con premeditación, con ventaja, con alevosía o a traición.
 
+*Fe de erratas al párrafo DOF 31-08-1931*
+
 Hay premeditación: siempre que el reo cause intencionalmente un lesión, después de haber reflexionado sobre el delito que va a cometer.
+
+*Fe de erratas al párrafo DOF 31-08-1931*
 
 Se presumirá que existe premeditación cuando las lesiones o el homicidio se cometan por inundación, incendio, minas, bombas o explosivos; por medio de venenos o cualquiera otra sustancia nociva a la salud, contagio venéreo, asfixia o enervantes o por retribución dada o prometida; por tormento, motivos depravados o brutal ferocidad.
 
@@ -3866,7 +5068,9 @@ Se presumirá que existe premeditación cuando las lesiones o el homicidio se co
 
 Se impondrá la pena del artículo 320 de este Código, cuando el homicidio sea cometido intencionalmente, a propósito de una violación o un robo por el sujeto activo de éstos, contra su víctima o víctimas.
 
-También se aplicará la pena a que se refiere el artículo 320 de este Código, cuando el homicidio se cometiera intencionalmente en casa-habitación, habiéndose penetrado en la misma de manera furtiva, con engaño o violencia, o sin permiso de la persona autorizada para darlo.
+También se aplicará la pena a que se refiere el Artículo 320 de este Código, cuando el homicidio se cometiera intencionalmente en casa-habitación, habiéndose penetrado en la misma de manera furtiva, con engaño o violencia, o sin permiso de la persona autorizada para darlo.
+
+*Artículo adicionado DOF 03-01-1989*
 
 ##### Artículo 316.
 
@@ -3878,15 +5082,27 @@ II.- Cuando es superior por las armas que emplea, por su mayor destreza en el ma
 
 III. Cuando se vale de algún medio que debilita la defensa del ofendido;
 
+*Fracción reformada DOF 14-06-2012*
+
 IV. Cuando éste se halla inerme o caído y aquél armado o de pie;
+
+*Fracción reformada DOF 14-06-2012*
 
 V. El activo sea un hombre superior en fuerza física y el pasivo una mujer o persona menor de dieciocho años;
 
+*Fracción adicionada DOF 14-06-2012*
+
 VI. El homicidio y las lesiones se ocasionen en situaciones de violencia familiar; y
+
+*Fracción adicionada DOF 14-06-2012*
 
 VII. Exista una situación de vulnerabilidad motivada por la condición física o mental o por discriminación.
 
-La ventaja no se tomará en consideración en los tres primeros casos, si el que la tiene obrase en defensa legítima, ni en el cuarto, si el que se halla armado o de pie fuera el agredido, y, además, hubiere corrido peligro de su vida por no aprovechar esa circunstancia.
+*Fracción adicionada DOF 14-06-2012*
+
+La ventaja no se tomará en consideración en los tres primeros casos, si el que la tiene obrase en defensa legítima, ni en el cuarto, si el que se halla armado o de pie fuera el agredido, y, además, hubiere corrido peligro su vida por no aprovechar esa circunstancia.
+
+*Fe de erratas al párrafo DOF 31-08-1931*
 
 ##### Artículo 317.
 
@@ -3900,17 +5116,25 @@ La alevosía consiste: en sorprender intencionalmente a alguien de improviso, o 
 
 Se dice que obra a traición: el que no solamente emplea la alevosía sino también la perfidia, violando la fe o seguridad que expresamente había prometido a su víctima, o la tácita que ésta debía prometerse de aquél por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
 
+*Fe de erratas al artículo DOF 31-08-1931*
+
 ##### Artículo 320.
 
 Al responsable de un homicidio calificado se le impondrán de treinta a sesenta años de prisión.
 
+*Artículo reformado DOF 15-01-1951, 05-01-1955, 03-01-1989, 17-05-1999*
+
 ##### Artículo 321.
 
-(Se deroga).
+Se deroga.
+
+*Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 13-05-1996*
 
 ##### Artículo 321 Bis.
 
 No se procederá contra quien culposamente ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubino, adoptante o adoptado, salvo que el autor se encuentre bajo el efecto de bebidas embriagantes, de estupefacientes o psicotrópicos, sin que medie prescripción médica, o bien que no auxiliare a la víctima.
+
+*Artículo adicionado DOF 10-01-1994*
 
 ##### Artículo 322.
 
@@ -3922,17 +5146,25 @@ II.- Prohibirles ir a determinado lugar, Municipio, Distrito o Estado, o residir
 
 #### CAPITULO IV · Homicidio en razón del parentesco o relación
 
+*Denominación del Capítulo reformada DOF 10-01-1994*
+
 ##### Artículo 323.
 
 Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, convivente, compañera o compañero civil, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación se le impondrá prisión de treinta a sesenta años.
 
 Si faltare dicho conocimiento, se estará a la punibilidad prevista en el artículo 307, sin menoscabo de observar alguna circunstancia que agrave o atenúe la sanción a que se refieren los capítulos II y III anteriores.
 
+*Artículo reformado DOF 10-01-1994, 14-06-2012*
+
 ##### Artículo 324.
 
-(Se deroga).
+Derogado.
+
+*Artículo reformado DOF 05-01-1955, 03-01-1989. Derogado DOF 10-01-1994*
 
 #### Capítulo V · Feminicidio
+
+*Denominación del Capítulo reformada DOF 14-06-2012*
 
 ##### Artículo 325.
 
@@ -3960,17 +5192,25 @@ En caso de que no se acredite el feminicidio, se aplicarán las reglas del homic
 
 Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
+*Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 10-01-1994. Adicionado DOF 14-06-2012*
+
 ##### Artículo 326.
 
-(Se deroga).
+Derogado.
+
+*Artículo derogado DOF 10-01-1994*
 
 ##### Artículo 327.
 
-(Se deroga).
+Derogado.
+
+*Artículo derogado DOF 10-01-1994*
 
 ##### Artículo 328.
 
-(Se deroga).
+Derogado.
+
+*Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 10-01-1994*
 
 #### CAPITULO VI · Aborto
 
@@ -4004,7 +5244,9 @@ No es punible el aborto causado sólo por imprudencia de la mujer embarazada, o 
 
 ##### Artículo 334.
 
-No se aplicará sanción: cuando de no provocarse el aborto, la mujer embarazada o el producto corran peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuera posible y no sea peligrosa la demora.
+No se aplicará sanción: cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
+
+*Fe de erratas al artículo DOF 31-08-1931*
 
 #### CAPITULO VII · Abandono de personas
 
@@ -4016,17 +5258,25 @@ Al que abandone a un niño incapaz de cuidarse a sí mismo o a una persona enfer
 
 Al que sin motivo justificado abandone a sus hijos o a su cónyuge, sin recursos para atender a sus necesidades de subsistencia, se le aplicarán de un mes a cinco años de prisión, o de 180 a 360 días multa; privación de los derechos de familia, y pago, como reparación del daño, de las cantidades no suministradas oportunamente por el acusado.
 
+*Artículo reformado DOF 26-12-1977, 30-12-1991*
+
 ##### Artículo 336 Bis.
 
 Al que dolosamente se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de prisión de seis meses a tres años. El juez resolverá la aplicación del producto de trabajo que realice el agente a la satisfacción de las obligaciones alimentarias de éste.
+
+*Artículo adicionado DOF 13-01-1984. Reformado DOF 30-12-1991, 10-01-1994*
 
 ##### Artículo 337.
 
 El delito de abandono de cónyuge se perseguirá a petición de la parte agraviada. El delito de abandono de hijos se perseguirá de oficio y, cuando proceda, el Ministerio Público promoverá la designación de un tutor especial que represente a las víctimas del delito, ante el Juez de la causa, quien tendrá facultades para designarlo. Tratándose del delito de abandono de hijos, se declarará extinguida la acción penal, oyendo previamente la autoridad judicial al representante de los menores, cuando el procesado cubra los alimentos vencidos, y otorgue garantía suficiente a juicio del Juez para la subsistencia de los hijos.
 
+*Artículo reformado DOF 26-12-1977*
+
 ##### Artículo 338.
 
 Para que el perdón concedido por el cónyuge ofendido pueda producir la libertad del acusado, deberá éste pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y dar fianza a otra caución de que en lo sucesivo pagará la cantidad que le corresponda.
+
+*Fe de erratas al artículo DOF 31-08-1931*
 
 ##### Artículo 339.
 
@@ -4036,19 +5286,27 @@ Si del abandono a que se refieren los artículos anteriores resultare alguna les
 
 Al que encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a sí mismo o a una persona herida, inválida o amenazada de un peligro cualquiera, se le impondrán de diez a sesenta jornadas de trabajo en favor de la comunidad si no diere aviso inmediato a la autoridad u omitiera prestarles el auxilio necesario cuando pudiere hacerlo sin riesgo personal.
 
+*Artículo reformado DOF 10-01-1994*
+
 ##### Artículo 341.
 
 Al que habiendo atropellado a una persona, culposa o fortuitamente, no le preste auxilio o no solicite la asistencia que requiere, pudiendo hacerlo se le impondrá de quince a sesenta jornadas de trabajo en favor de la comunidad, independientemente de la pena que proceda por el delito que con el atropellamiento se cometa.
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 30-12-1991, 10-01-1994*
+
 ##### Artículo 342.
 
-Al que exponga en una casa de expósitos a un niño menor de siete años que se le hubiere confiado, o lo entregue en otro establecimiento de beneficencia o a cualquiera otra persona, sin anuencia de la que se le confió o de la autoridad en su defecto, se le aplicarán de uno a cuatro meses de prisión y una multa de cinco a veinte pesos.
+Al que exponga en una casa de expósitos a un niño menor de siete años que se le hubiere confiado, o lo entregue en otro establecimiento de beneficencia o a cualquiera otra persona, sin anuencia de la que se le confió o de la autoridad en su defecto, se le aplicarán de uno a cuatro meses de prisión y multa de cinco a veinte pesos.
+
+*Fe de erratas al artículo DOF 31-08-1931*
 
 ##### Artículo 343.
 
 Los ascendientes o tutores que entreguen en una casa de expósitos un niño que esté bajo su potestad, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
-#### CAPITULO OCTAVO · Violencia familiar
+#### CAPÍTULO OCTAVO · Violencia familiar
+
+*Capítulo adicionado DOF 30-12-1997*
 
 ##### Artículo 343 Bis.
 
@@ -4056,17 +5314,25 @@ Comete el delito de violencia familiar quien lleve a cabo actos o conductas de d
 
 A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia. Asimismo, se le sujetará a tratamiento psicológico especializado.
 
+*Artículo adicionado DOF 30-12-1997. Reformado DOF 14-06-2012*
+
 ##### Artículo 343 Ter.
 
 Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
+
+*Artículo adicionado DOF 30-12-1997. Reformado DOF 14-06-2012*
 
 ##### Artículo 343 quáter.
 
 En todos los casos previstos en los dos artículos precedentes, el Ministerio Público exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
+*Artículo adicionado DOF 30-12-1997*
+
 ### TITULO · VIGESIMO
 
 Delitos Contra el Honor
+
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Vigésimo Primero) DOF 29-07-1970*
 
 #### CAPITULO I · Golpes y otras violencias físicas simples
 
@@ -4074,17 +5340,25 @@ Delitos Contra el Honor
 
 (Se deroga).
 
+*Artículo derogado DOF 23-12-1985*
+
 ##### Artículo 345.
 
 (Se deroga).
+
+*Artículo derogado DOF 23-12-1985*
 
 ##### Artículo 346.
 
 (Se deroga).
 
+*Artículo derogado DOF 23-12-1985*
+
 ##### Artículo 347.
 
 (Se deroga).
+
+*Artículo derogado DOF 23-12-1985*
 
 #### CAPITULO II · Injurias y difamación
 
@@ -4092,33 +5366,49 @@ Delitos Contra el Honor
 
 (Se deroga).
 
+*Artículo derogado DOF 23-12-1985*
+
 ##### Artículo 349.
 
 (Se deroga).
+
+*Artículo derogado DOF 23-12-1985*
 
 ##### Artículo 350.
 
 (Se deroga).
 
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 30-12-1997. Derogado DOF 13-04-2007*
+
 ##### Artículo 351.
 
 (Se deroga).
+
+*Artículo derogado DOF 13-04-2007*
 
 ##### Artículo 352.
 
 (Se deroga).
 
+*Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 13-04-2007*
+
 ##### Artículo 353.
 
 (Se deroga).
+
+*Artículo derogado DOF 13-04-2007*
 
 ##### Artículo 354.
 
 (Se deroga).
 
+*Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 13-04-2007*
+
 ##### Artículo 355.
 
 (Se deroga).
+
+*Artículo derogado DOF 13-04-2007*
 
 #### CAPITULO III · Calumnia
 
@@ -4126,17 +5416,25 @@ Delitos Contra el Honor
 
 (Se deroga).
 
+*Fe de erratas al artículo DOF 12-09-1931. Reformado DOF 18-05-1999. Derogado DOF 13-04-2007*
+
 ##### Artículo 357.
 
 (Se deroga).
+
+*Artículo reformado DOF 18-05-1999. Derogado DOF 13-04-2007*
 
 ##### Artículo 358.
 
 (Se deroga).
 
+*Artículo derogado DOF 13-04-2007*
+
 ##### Artículo 359.
 
 (Se deroga).
+
+*Artículo derogado DOF 13-04-2007*
 
 #### CAPITULO IV · Disposiciones comunes para los capítulos precedentes
 
@@ -4144,49 +5442,79 @@ Delitos Contra el Honor
 
 (Se deroga).
 
+*Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 13-04-2007*
+
 ##### Artículo 361.
 
 (Se deroga).
+
+*Artículo derogado DOF 13-04-2007*
 
 ##### Artículo 362.
 
 (Se deroga).
 
+*Artículo derogado DOF 13-04-2007*
+
 ##### Artículo 363.
 
 (Se deroga).
 
+*Artículo derogado DOF 13-04-2007*
+
 ### TITULO · VIGESIMO PRIMERO
 
-Privación Ilegal de la Libertad y de otras Garantías
+Privación ilegal de la libertad y de otras garantías
+
+*Denominación adicionada DOF 15-01-1951. Título recorrido DOF 20-01-1967. Recorrido con denominación reformada (antes Título Vigésimo Segundo) DOF 29-07-1970*
 
 #### CAPITULO UNICO
+
+*Fe de erratas a la denominación DOF 31-08-1931. Capítulo reenumerado con denominación reformada (antes Capítulo I) DOF 15-01-1951. Denominación suprimida DOF 29-07-1970*
 
 ##### Artículo 364.
 
 Se impondrá de seis meses a tres años de prisión y de veinticinco a cien días multa:
 
+*Párrafo reformado DOF 29-07-1970, 13-05-1996*
+
 I.- Al particular que prive a otro de su libertad. Si la privación de la libertad excede de veinticuatro horas, la pena de prisión se incrementará de un mes más por cada día.
+
+*Párrafo reformado DOF 19-05-2006*
 
 La pena de prisión se aumentará hasta en una mitad, cuando la privación de la libertad se realice con violencia, cuando la víctima sea menor de dieciséis o mayor de sesenta años de edad, o cuando por cualquier circunstancia, la víctima esté en situación de inferioridad física o mental respecto de quien la ejecuta.
 
+*Reforma DOF 19-05-2006: Derogó de la fracción el entonces párrafo tercero*
+
+*Fracción reformada DOF 29-07-1970, 13-05-1996*
+
 II.- (Se deroga)
+
+*Fe de erratas a la fracción DOF 31-08-1931. Derogada DOF 19-05-2006*
 
 ##### Artículo 365.
 
 (Se deroga)
 
+*Artículo derogado DOF 14-06-2012*
+
 ##### Artículo 365 Bis.
 
 (Se deroga)
+
+*Artículo adicionado DOF 21-01-1991. Derogado DOF 14-06-2012*
 
 ##### Artículo 366.
 
 Derogado.
 
+*Artículo reformado DOF 09-03-1946, 15-01-1951, 05-01-1955, 29-07-1970, 13-01-1984, 03-01-1989, 13-05-1996, 17-05-1999, 12-06-2000, 16-06-2005. Derogado DOF 30-11-2010*
+
 ##### Artículo 366 Bis.
 
 Derogado.
+
+*Artículo adicionado DOF 13-05-1996. Reformado DOF 12-06-2000. Derogado DOF 30-11-2010*
 
 ##### Artículo 366 Ter.
 
@@ -4212,6 +5540,8 @@ Además de las sanciones señaladas en el párrafo anterior, se privará de los 
 
 Se aplicarán hasta las dos terceras partes de las penas a las que se refiere este artículo, cuando el traslado o entrega del menor se realicen en territorio nacional.
 
+*Artículo adicionado DOF 13-01-1984. Recorrido (antes artículo 366 bis) DOF 13-05-1996. Reformado DOF 12-06-2000*
+
 ##### Artículo 366 quáter.
 
 Las penas a que se refiere el artículo anterior se reducirán en una mitad cuando:
@@ -4226,9 +5556,13 @@ Además, se privará de los derechos de patria potestad, tutela o custodia a qui
 
 En los casos a que se refiere este artículo, el delito se perseguirá a petición de parte ofendida.
 
+*Artículo adicionado DOF 30-12-1997. Reformado DOF 12-06-2000*
+
 ### TITULO · VIGESIMO SEGUNDO
 
-Delitos en Contra de las Personas en su Patrimonio
+Delitos en contra de las personas en su patrimonio
+
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Vigésimo Tercero) DOF 29-07-1970*
 
 #### CAPITULO I · Robo
 
@@ -4242,31 +5576,51 @@ Se equiparan al robo y se castigarán como tal:
 
 I.- El apoderamiento o destrucción dolosa de una cosa propia mueble, si ésta se halla por cualquier título legítimo en poder de otra persona y no medie consentimiento; y
 
+*Fracción reformada DOF 10-01-1994. Fe de erratas DOF 01-02-1994*
+
 II.- El uso o aprovechamiento de energía eléctrica, magnética, electromagnética, de cualquier fluido, o de cualquier medio de transmisión, sin derecho y sin consentimiento de la persona que legalmente pueda disponer de los mismos.
+
+*Fracción reformada DOF 17-05-1999*
+
+III.- Se deroga.
+
+*Fracción adicionada DOF 13-05-1996. Derogada DOF 17-05-1999*
 
 ##### Artículo 368 Bis.
 
 Se sancionará con pena de tres a diez años de prisión y hasta mil días multa, al que después de la ejecución del robo y sin haber participado en éste, posea, enajene o trafique de cualquier manera, adquiera o reciba, los instrumentos, objetos o productos del robo, a sabiendas de esta circunstancia y el valor intrínseco de éstos sea superior a quinientas veces el salario.
 
+*Artículo adicionado DOF 13-05-1996*
+
 ##### Artículo 368 Ter.
 
 Al que comercialice en forma habitual objetos robados, a sabiendas de esta circunstancia y el valor intrínseco de aquéllos sea superior a quinientas veces el salario, se le sancionará con una pena de prisión de seis a trece años y de cien a mil días multa.
+
+*Artículo adicionado DOF 13-05-1996*
 
 ##### Artículo 368 Quáter.
 
 Se deroga.
 
+*Artículo adicionado DOF 17-05-1999. Reformado DOF 24-10-2011. Derogado DOF 12-01-2016*
+
 ##### Artículo 368 Quinquies.
 
 Al que cometa el delito de robo de material radiactivo, material nuclear, combustible nuclear, mineral radiactivo o fuente de radiación, se le impondrán de doce a veinte años de prisión y de doce mil a veinte mil días multa.
 
+*Artículo adicionado DOF 14-03-2014*
+
 ##### Artículo 369.
 
-Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada; aún cuando la abandone o la desapoderen de ella. En cuanto a la fijación del valor de lo robado, así como la multa impuesta, se tomará en consideración el salario en el momento de la ejecución del delito.
+Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada; aún cuando la abandone o lo desapoderen de ella. En cuanto a la fijación del valor de lo robado, así como la multa impuesta, se tomará en consideración el salario en el momento de la ejecución del delito.
+
+*Artículo reformado DOF 29-12-1981*
 
 ##### Artículo 369 Bis.
 
 Para establecer la cuantía que corresponda a los delitos previstos en este Título, se tomará en consideración el salario mínimo general vigente en el momento y en el lugar en que se cometió el delito.
+
+*Artículo adicionado DOF 29-12-1981. Reformado DOF 14-01-1985*
 
 ##### Artículo 370.
 
@@ -4274,7 +5628,13 @@ Cuando el valor de lo robado no exceda de cien veces el salario, se impondrá ha
 
 Cuando exceda de cien veces el salario, pero no de quinientas, la sanción será de dos a cuatro años de prisión y multa de cien hasta ciento ochenta veces el salario.
 
+*Fe de erratas al párrafo DOF 13-01-1982*
+
 Cuando exceda de quinientas veces el salario, la sanción será de cuatro a diez años de prisión y multa de ciento ochenta hasta quinientas veces el salario.
+
+*Fe de erratas al párrafo DOF 13-01-1982*
+
+*Artículo reformado DOF 09-03-1946, 15-01-1951, 30-12-1975, 29-12-1981*
 
 ##### Artículo 371.
 
@@ -4284,9 +5644,15 @@ En los casos de tentativa de robo, cuando no fuere posible determinar su monto, 
 
 Cuando el robo sea cometido por dos o más sujetos, sin importar el monto de lo robado, a través de la violencia, la acechanza o cualquier otra circunstancia que disminuya las posibilidades de defensa de la víctima o la ponga en condiciones de desventaja, la pena aplicable será de cinco a quince años de prisión y hasta mil días multa. También podrá aplicarse la prohibición de ir a lugar determinado o vigilancia de la autoridad, hasta por un término igual al de la sanción privativa de la libertad impuesta.
 
+*Párrafo adicionado DOF 13-05-1996*
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 15-01-1951*
+
 ##### Artículo 372.
 
 Si el robo se ejecutare con violencia, a la pena que corresponda por el robo simple se agregarán de seis meses a cinco años de prisión. Si la violencia constituye otro delito, se aplicarán las reglas de la acumulación.
+
+*Artículo reformado DOF 03-01-1989*
 
 ##### Artículo 373.
 
@@ -4306,7 +5672,9 @@ II.- Cuando el ladrón la ejercite después de consumado el robo, para proporcio
 
 ##### Artículo 375.
 
-Cuando el valor de lo robado no pase de diez veces el salario, sea restituido por el infractor espontáneamente y pague éste todos los daños y perjuicios, antes de que la Autoridad tome conocimiento del delito no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
+Cuando el valor de lo robado no pase de diez veces el salario, sea restituido por el infractor espontáneamente y pague éste todos los daños y perjuicios, antes de que la Autoridad tome conocimiento del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
+
+*Artículo reformado DOF 30-12-1975, 29-12-1981*
 
 ##### Artículo 376.
 
@@ -4317,6 +5685,8 @@ En todo caso de robo, si el juez lo creyere justo, podrá suspender al delincuen
 Cuando el objeto robado sea un vehículo automotor terrestre que sea objeto de registro conforme a la ley de la materia, con excepción de las motocicletas, la pena será de siete a quince años de prisión y de mil quinientos a dos mil días multa.
 
 La pena prevista en el párrafo anterior se aumentará en una mitad, cuando en el robo participe algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o ejecución de penas y, además se le aplicará destitución e inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos por un tiempo igual al de la pena de prisión impuesta.
+
+*Artículo adicionado DOF 17-05-1999*
 
 ##### Artículo 376 Ter.
 
@@ -4356,6 +5726,8 @@ A quien aporte recursos económicos o de cualquier índole, para la ejecución d
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual a la pena de prisión impuesta.
 
+*Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 13-01-1984. Adicionado DOF 13-05-1996*
+
 ##### Artículo 378.
 
 Al que elabore o altere sin permiso de la autoridad competente una placa, el engomado, la tarjeta de circulación o los demás documentos oficiales que se expiden para identificar vehículos automotores o remolques se le impondrán de cuatro a ocho años de prisión y de trescientos a mil días multa.
@@ -4363,6 +5735,8 @@ Al que elabore o altere sin permiso de la autoridad competente una placa, el eng
 Las mismas penas se impondrán al que posea, utilice, adquiera o enajene, cualquiera de los objetos a que se refiere el párrafo anterior, a sabiendas de que son robados, falsificados o que fueron obtenidos indebidamente.
 
 Igualmente se impondrán dichas penas a quien, a sabiendas, utilice para un vehículo robado o que se encuentre ilegalmente en el país, las placas, el engomado o los demás documentos oficiales expedidos para identificar otro vehículo.
+
+*Artículo derogado DOF 13-01-1984. Adicionado DOF 17-05-1999*
 
 ##### Artículo 379.
 
@@ -4372,13 +5746,17 @@ No se castigará al que, sin emplear engaño ni medios violentos, se apodera una
 
 Al que se le imputare el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de uno a seis meses de prisión o de 30 a 90 días multa, siempre que justifique no haberse negado a devolverla, si se le requirió a ello. Además, pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
+*Artículo reformado DOF 30-12-1991*
+
 ##### Artículo 381.
 
 Además de la pena que le corresponda conforme a los artículos 370, 371 y el primer párrafo del artículo 376 Ter, se aplicarán al delincuente las penas previstas en este artículo, en los casos siguientes:
 
-*Párrafo reformado DOF 21-02-2018*
+*Párrafo reformado DOF 13-01-1984, 03-01-1989, 17-05-1999, 21-02-2018*
 
 I.- Cuando se cometa el delito en un lugar cerrado.
+
+*Fe de erratas a la fracción DOF 31-08-1931. Reformada DOF 05-01-1955*
 
 II.- Cuando lo cometa un dependiente o un doméstico contra su patrón o alguno de la familia de éste, en cualquier parte que lo cometa.
 
@@ -4394,39 +5772,61 @@ VI.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en l
 
 VII.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público;
 
+*Fracción adicionada DOF 13-01-1984*
+
 VIII.- Cuando se cometa aprovechando las condiciones de confusión que se produzcan por catástrofe o desorden público;
+
+*Fracción adicionada DOF 13-01-1984*
 
 IX.- Cuando se cometa por una o varias personas armadas, o que utilicen o porten otros objetos peligrosos;
 
+*Fracción adicionada DOF 13-01-1984*
+
 X.- Cuando se cometa en contra de una oficina bancaria, recaudatoria u otra en que se conserven caudales, contra personas que las custodien o transporten aquéllos.
+
+*Fracción adicionada DOF 13-01-1984*
 
 XI.- Cuando se trate de partes de vehículos estacionados en la vía pública o en otro lugar destinado a su guarda o reparación;
 
+*Fracción adicionada DOF 03-01-1989*
+
 XII.- Cuando se realicen sobre embarcaciones o cosas que se encuentren en ellas;
+
+*Fracción adicionada DOF 03-01-1989*
 
 XIII.- (Se deroga)
 
-*Fracción derogada DOF 21-02-2018*
+*Fracción adicionada DOF 03-01-1989. Derogada DOF 21-02-2018*
 
 XIV.- Cuando se trate de expedientes o documentos de protocolo, oficina o archivos públicos, de documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, con afectación de alguna función pública. Si el delito lo comete el servidor público de la oficina en que se encuentre el expediente o documento, se le impondrá además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, de seis meses a tres años;
 
+*Fracción adicionada DOF 03-01-1989. Reformada DOF 08-02-1999*
+
 XV. Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad;
+
+*Fracción adicionada DOF 03-01-1989. Reformada DOF 08-02-1999, 18-06-2010*
 
 XVI. Cuando se cometa en caminos o carreteras, y
 
+*Fracción adicionada DOF 08-02-1999. Reformada DOF 18-06-2010*
+
 XVII. Cuando el objeto de apoderamiento sean vías, sus partes o equipo ferroviario, los bienes, valores o mercancías que se transporten por este medio.
+
+*Fracción adicionada DOF 18-06-2010. Reformada DOF 25-01-2013*
 
 En los supuestos a que se refieren las fracciones I, II, III, IV, V, VI, XI, XII, XIV y XV, hasta cinco años de prisión.
 
-*Párrafo reformado DOF 21-02-2018*
+*Párrafo adicionado DOF 17-05-1999. Reformado DOF 21-02-2018*
 
 En los supuestos a que se refieren las fracciones VII, VIII, IX, X, XVI y XVII, de dos a siete años de prisión.
+
+*Párrafo adicionado DOF 17-05-1999. Reformado DOF 18-06-2010*
 
 ##### Artículo 381 Bis.
 
 Sin perjuicio de las sanciones que de acuerdo con los artículos 370, 371 y 372 deben imponerse, se aplicarán de tres días a diez años de prisión al que robe en edificios, viviendas, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén construidos, así como en aquellos lugares o establecimientos destinados a actividades comerciales.
 
-*Artículo reformado DOF 23-06-2017*
+*Artículo adicionado DOF 05-01-1955. Reformado DOF 20-01-1967, 13-01-1984, 17-05-1999, 23-06-2017*
 
 ##### Artículo 381 Ter.
 
@@ -4458,7 +5858,11 @@ Al que, con perjuicio de alguien, disponga para sí o para otro, de cualquier co
 
 Si excede de esta cantidad, pero no de 2000, la prisión será de 1 a 6 años y la multa de 100 hasta 180 veces el salario.
 
+*Fe de erratas al párrafo DOF 13-01-1982*
+
 Si el monto es mayor de 2,000 veces el salario la prisión será de 6 a 12 años y la multa de 120 veces el salario.
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 09-03-1946, 15-01-1951, 30-12-1975, 29-12-1981*
 
 ##### Artículo 383.
 
@@ -4466,7 +5870,11 @@ Se considera como abuso de confianza para los efectos de la pena:
 
 I.- El hecho de disponer o sustraer una cosa, su dueño, si le ha sido embargada y la tiene en su poder con el carácter de depositario judicial, o bien si la hubiere dado en prenda y la conserva en su poder como depositario a virtud de un contrato celebrado con alguna Institución de Crédito, en perjuicio de ésta.
 
+*Fracción reformada DOF 03-01-1980*
+
 II.- El hecho de disponer de la cosa depositada, o sustraerla el depositario judicial o el designado por o ante las autoridades, administrativas o del trabajo.
+
+*Fracción reformada DOF 24-03-1944*
 
 III.- El hecho de que una persona haga aparecer como suyo un depósito que garantice la libertad caucional de un procesado y del cual no le corresponda la propiedad.
 
@@ -4474,9 +5882,13 @@ III.- El hecho de que una persona haga aparecer como suyo un depósito que garan
 
 Se reputa como abuso de confianza la ilegítima posesión de la cosa retenida si el tenedor o poseedor de ella no la devuelve a pesar de ser requerido formalmente por quien tenga derecho, o no la entrega a la autoridad, para que ésta disponga de la misma conforme a la ley.
 
+*Artículo reformado DOF 09-03-1946*
+
 ##### Artículo 385.
 
 Se considera como abuso de confianza y se sancionará con seis meses a seis años de prisión y multa hasta de cien veces el salario a quien disponga indebidamente o se niegue sin justificación a entregar un vehículo recibido en depósito de autoridad competente, relacionado con delitos por tránsito de vehículos, habiendo sido requerido por la autoridad que conozca o siga conociendo del caso.
+
+*Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 13-01-1984. Adicionado DOF 19-11-1986*
 
 #### CAPITULO III · Fraude
 
@@ -4488,9 +5900,17 @@ El delito de fraude se castigará con las penas siguientes:
 
 I.- Con prisión de 3 días a 6 meses o de 30 a 180 días multa, cuando el valor de lo defraudado no exceda de diez veces el salario;
 
-II.- Con prisión de 6 meses a 3 años y multa de 10 a 100 veces el salario, cuando el valor de lo defraudado excediera de 10, pero no de 500 veces el salario;
+*Fracción reformada DOF 30-12-1991*
+
+II.- Con Prisión de 6 meses a 3 años y multa de 10 a 100 veces el salario, cuando el valor de lo defraudado excediera de 10, pero no de 500 veces el salario;
+
+*Fe de erratas a la fracción DOF 13-01-1982, 15-01-1982*
 
 III.- Con prisión de tres a doce años y multa hasta de ciento veinte veces el salario, si el valor de lo defraudado fuere mayor de quinientas veces el salario.
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 09-03-1946. Fe de erratas DOF 16-07-1946. Reformado DOF 30-12-1975,*
+
+29-12-1981
 
 ##### Artículo 387.
 
@@ -4516,6 +5936,8 @@ IX.- Al que para obtener un lucro indebido, ponga en circulación fichas, tarjet
 
 X.- Al que simulare un contrato, un acto o escrito judicial, con perjuicio de otro o para obtener cualquier beneficio indebido.
 
+*Reforma DOF 10-01-1994: Derogó de la fracción el entonces párrafo segundo*
+
 XI.- Al que por sorteos, rifas, loterías, promesas de venta o por cualquiera otro medio, se quede en todo o en parte con las cantidades recibidas, sin entregar la mercancía u objeto ofrecido.
 
 XII.- Al fabricante, empresario, contratista, o constructor de una obra cualquiera, que emplee en la construcción de la misma, materiales en cantidad o calidad inferior a la convenida o mano de obra inferior a la estipulada, siempre que haya recibido el precio o parte de él;
@@ -4524,17 +5946,25 @@ XIII.- Al vendedor de materiales de construcción o cualquiera especie, que habi
 
 XIV.- Al que venda o traspase una negociación sin autorización de los acreedores de ella, o sin que el nuevo adquirente se comprometa a responder de los créditos, siempre que estos últimos resulten insolutos. Cuando la enajenación sea hecha por una persona moral, serán penalmente responsables los que autoricen aquella y los dirigentes, administradores o mandatarios que la efectúen;
 
+*Fracción reformada DOF 05-01-1955*
+
 XV.- Al que explote las preocupaciones, la superstición o la ignorancia del pueblo, por medio de supuesta evocación de espíritus, adivinaciones o curaciones.
 
 XVI.- (Se deroga).
 
+*Fracción reformada DOF 05-01-1955. Derogada DOF 24-12-1996*
+
 XVII.- Al que valiéndose de la ignorancia o de las malas condiciones económicas de un trabajador a su servicio, le pague cantidades inferiores a las que legalmente le corresponden por las labores que ejecuta o le haga otorgar recibos o comprobantes de pago de cualquier clase que amparen sumas de dinero superiores a las que efectivamente entrega.
+
+*Fracción adicionada DOF 05-01-1955*
 
 XVIII.- Al que habiendo recibido mercancías con subsidio o franquicia para darles un destino determinado, las distrajere de este destino o en cualquier forma desvirtúe los fines perseguidos con el subsidio o la franquicia.
 
+*Fracción adicionada DOF 05-01-1955*
+
 XIX.- A los intermediarios en operaciones de traslación de dominio de bienes inmuebles o ha de gravámenes reales sobre éstos, que obtengan dinero, títulos o valores por el importe de su precio, a cuenta de él o para constituir ese gravamen, si no los destinaren, en todo o en parte, al objeto de la operación concertada, por su disposición en provecho propio o de otro.
 
-Para los efectos de este delito se entenderá que un intermediario no ha dado su destino, o a dispuesto, en todo o en parte, del dinero, títulos o valores obtenidos por el importe del precio o a cuenta del inmueble objeto de la traslación de dominio o del gravamen real, si no realiza un depósito en Nacional Financiera, S. A. o en cualquier Institución de Depósito, dentro de los treinta días siguientes a su recepción a favor de su propietario o poseedor, a menos que lo hubiese entregado, dentro de ese término, al vendedor o al deudor del gravamen real, o devuelto al comprador o al acreedor del mismo gravamen.
+Para los efectos de este delito se entenderá que un intermediario no ha dado su destino, o a dispuesto, en todo o en parte, del dinero, títulos o valores obtenidos por el importe del precio o a cuenta del inmueble objeto de la traslación de dominio o del gravamen real, si no realiza un depósito en Nacional Financiera, S. A. o en cualquier Institución de Depósito, dentro de los 30 días siguientes a su recepción a favor de su propietario o poseedor, a menos que lo hubiese entregado, dentro de ese término, al vendedor o al deudor del gravamen real, o devuelto al comprador o al acreedor del mismo gravamen.
 
 Las mismas sanciones se impondrán a los gerentes, directivos, mandatarios con facultades de dominio o de administración, administradores de las personas morales que no cumplan o hagan cumplir la obligación a que se refiere el párrafo anterior.
 
@@ -4542,19 +5972,31 @@ El depósito se entregará por Nacional Financiera, S. A. o la Institución de D
 
 Cuando el sujeto activo del delito devuelva a los interesados las cantidades de dinero obtenidas con su actuación, antes de que se formulen conclusiones en el proceso respectivo, la pena que se le aplicará será la de tres días a seis meses de prisión.
 
+*Fracción adicionada DOF 08-03-1968*
+
 XX.- A los constructores o vendedores de edificios en condominio que obtengan dinero, títulos o valores por el importe de su precio o a cuenta de él, si no los destinaren, en todo o en parte, al objeto de la operación concertada por su disposición en provecho propio o de otro.
 
-Es aplicable a lo dispuesto en esta fracción, lo determinado en los párrafos segundo a quinto en la fracción anterior.
+Es aplicable a lo dispuesto en esta fracción, lo determinado en los párrafos segundo a quinto de la fracción anterior.
+
+*Fracción adicionada DOF 08-03-1968*
 
 XXI.- Al que libre un cheque contra una cuenta bancaria, que sea rechazado por la institución o sociedad nacional de crédito correspondiente, en los términos de la legislación aplicable, por no tener el librador cuenta en la institución o sociedad respectiva o por carecer éste de fondos suficientes para el pago. La certificación relativa a la inexistencia de la cuenta o a la falta de fondos suficientes para el pago, deberá realizarse exclusivamente por personal específicamente autorizado para tal efecto por la institución o sociedad nacional de crédito de que se trate.
 
 No se procederá contra el agente cuando el libramiento no hubiese tenido como fin el procurarse ilícitamente una cosa u obtener un lucro indebido.
 
+*Fracción adicionada DOF 13-01-1984*
+
 Las Instituciones, sociedades nacionales y Organizaciones Auxiliares de Crédito, las de Fianzas y las de Seguros, así como los organismos Oficiales y Descentralizados, autorizados legalmente para operar con inmuebles, quedan exceptuados de la obligación de constituir el depósito a que se refiere la fracción XIX.
+
+*Párrafo adicionado DOF 08-03-1968. Reformado DOF 13-01-1984*
+
+*Artículo reformado DOF 09-03-1946*
 
 ##### Artículo 388.
 
 Al que por cualquier motivo teniendo a su cargo la administración o el cuidado de bienes ajenos, con ánimo de lucro perjudique al titular de éstos, alterando las cuentas o condiciones de los contratos, haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando o reteniendo valores o empleándolos indebidamente, o a sabiendas realice operaciones perjudiciales al patrimonio del titular en beneficio propio o de un tercero, se le impondrán las penas previstas para el delito de fraude.
+
+*Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 30-12-1975. Adicionado DOF 13-01-1984. Reformado DOF 10-01-1994*
 
 ##### Artículo 388 Bis.
 
@@ -4562,9 +6004,13 @@ Al que se coloque en estado de insolvencia, con el objeto de eludir las obligaci
 
 En caso de quiebra se atenderá a lo previsto por la ley especial.
 
+*Artículo adicionado DOF 10-01-1994*
+
 ##### Artículo 389.
 
 Se equipara al delito de fraude y se sancionará con prisión de seis meses a diez años y multa de cuatrocientos a cuatro mil pesos, el valerse del cargo que se ocupe en el gobierno, en una empresa descentralizada o de participación estatal, o en cualquiera agrupación de carácter sindical, o de sus relaciones con los funcionarios o dirigentes de dichos organismos, para obtener dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo, un ascenso o aumento de salario en tales organismos.
+
+*Artículo derogado DOF 09-03-1946. Adicionado DOF 05-01-1955. Reformado DOF 30-12-1975, 07-01-1980*
 
 ##### Artículo 389 Bis.
 
@@ -4574,7 +6020,11 @@ Para los efectos penales se entiende por fraccionar la división de terrenos en 
 
 Este delito se sancionará con las penas previstas en el artículo 386 de este Código, con la salvedad de la multa mencionada en la fracción tercera de dicho precepto, que se elevará hasta cincuenta mil pesos.
 
+*Artículo adicionado DOF 11-01-1972*
+
 #### CAPITULO III BIS · Extorsión
+
+*Capítulo adicionado DOF 13-01-1984*
 
 ##### Artículo 390.
 
@@ -4582,11 +6032,17 @@ Al que sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo, o
 
 Las penas se aumentarán hasta un tanto más si el constreñimiento se realiza por una asociación delictuoso, o por servidor público o ex-servidor público, o por miembro o ex-miembro de alguna corporación policial o de las Fuerzas Armadas Mexicanas. En este caso, se impondrá además al servidor o ex-servidor público y al miembro o ex-miembro de alguna corporación policial, la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar cargo o comisión público, y si se tratare de un miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a cinco años para desempeñar cargos o comisión públicos.
 
+*Artículo reformado DOF 13-01-1984, 10-01-1994*
+
 #### Capítulo III Ter · Fraude Familiar
+
+*Capítulo adicionado DOF 14-06-2012*
 
 ##### Artículo 390 Bis.
 
 A quien en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio o el concubinato, oculte, transfiera o adquiera a nombre de terceros bienes, se le aplicará sanción de uno a cinco años de prisión y hasta trescientos días multa.
+
+*Artículo adicionado DOF 14-06-2012*
 
 #### CAPITULO IV · De los delitos cometidos por los comerciantes sujetos a concurso
 
@@ -4594,17 +6050,25 @@ A quien en detrimento de la sociedad conyugal o patrimonio común generado duran
 
 (Se deroga).
 
+*Fe de erratas al artículo DOF 12-09-1931. Derogado DOF 14-01-1985*
+
 ##### Artículo 392.
 
 (Se deroga).
+
+*Artículo derogado DOF 14-01-1985*
 
 ##### Artículo 393.
 
 (Se deroga).
 
+*Artículo derogado DOF 14-01-1985*
+
 ##### Artículo 394.
 
 (Se deroga).
+
+*Artículo derogado DOF 14-01-1985*
 
 #### CAPITULO V · Despojo de cosas inmuebles o de aguas
 
@@ -4621,6 +6085,10 @@ III.- Al que en los términos de las fracciones anteriores, cometa despojo de ag
 La pena será aplicable, aun cuando el derecho a la posesión de la cosa usurpada sea dudosa o esté en disputa. Cuando el despojo se realice por grupo o grupos, que en conjunto sean mayores de cinco personas, además de la pena señalada en este artículo, se aplicará a los autores intelectuales y a quienes dirijan la invasión, de uno a seis años de prisión.
 
 A quienes se dediquen en forma reiterada a promover el despojo de inmuebles urbanos en el Distrito Federal, se les aplicará una sanción de dos a nueve años de prisión. Se considera que se dedican a promover el despojo de inmuebles urbanos en forma reiterada, quienes hayan sido anteriormente condenados por esta forma de participación en el despojo, o bien, se les hubiere decretado en más de dos ocasiones auto de formal prisión por este mismo delito, salvo cuando en el proceso correspondiente se hubiese resuelto el desvanecimiento de datos, el sobreseimiento ó la absolución del inculpado.
+
+*Párrafo adicionado DOF 14-01-1985*
+
+*Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 09-03-1946*
 
 ##### Artículo 396.
 
@@ -4656,11 +6124,21 @@ Los delitos previstos en este título se perseguirán por querella de la parte o
 
 Se perseguirán por querella los delitos previstos en los artículos 380 y 382 a 399, salvo el artículo 390 y los casos a que se refieren los dos últimos párrafos del artículo 395.
 
-### TITULO · VIGESIMO TERCERO
+*Párrafo reformado DOF 30-12-1991*
+
+*Reforma DOF 30-12-1991: Suprimió del artículo el entonces párrafo tercero (antes adicionado DOF 14-01-1985)*
+
+*Artículo adicionado DOF 13-01-1984*
+
+### TITULO · VIGESIMOTERCERO
 
 Encubrimiento y Operaciones con Recursos de Procedencia Ilícita
 
+*Título recorrido DOF 20-01-1967. Recorrido (antes Título Vigesimocuarto) DOF 29-07-1970. Denominación reformada DOF 13-05-1996*
+
 #### CAPITULO I · Encubrimiento
+
+*Capítulo adicionado DOF 13-05-1996*
 
 ##### Artículo 400.
 
@@ -4670,17 +6148,29 @@ I.- Con ánimo de lucro, después de la ejecución del delito y sin haber partic
 
 Si el que recibió la cosa en venta, prenda o bajo cualquier concepto, no tuvo conocimiento de la procedencia ilícita de aquélla, por no haber tomado las precauciones indispensables para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, la pena se disminuirá hasta en una mitad;
 
+*Reforma DOF 30-12-1991: Derogó de la fracción el entonces párrafo tercero (antes adicionado DOF 23-12-1985)*
+
 II.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito;
 
 III.- Oculte o favorezca el ocultamiento del responsable de un delito, los efectos, objetos o instrumentos del mismo o impida que se averigüe;
 
+*Fracción reformada DOF 23-12-1985*
+
 IV. Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes;
+
+*Fracción reformada DOF 23-01-2009*
 
 V. No procure, por los medios lícitos que tenga a su alcance y sin riesgo para su persona, impedir la consumación de los delitos que sabe van a cometerse o se están cometiendo, salvo que tenga obligación de afrontar el riesgo, en cuyo caso se estará a lo previsto en este artículo o en otras normas aplicables;
 
+*Fracción reformada DOF 23-01-2009*
+
 VI. Altere, modifique o perturbe ilícitamente el lugar, huellas o vestigios del hecho delictivo, y
 
+*Fracción adicionada DOF 23-01-2009*
+
 VII. Desvíe u obstaculice la investigación del hecho delictivo de que se trate o favorezca que el inculpado se sustraiga a la acción de la justicia.
+
+*Fracción adicionada DOF 23-01-2009*
 
 No se aplicará la pena prevista en este artículo en los casos de las fracciones III, en lo referente al ocultamiento del infractor, y IV, cuando se trate de:
 
@@ -4690,9 +6180,17 @@ b) El cónyuge, la concubina, el concubinario y parientes colaterales por consan
 
 c) Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad derivados de motivos nobles.
 
+*Párrafo con incisos adicionado DOF 23-12-1985*
+
 El juez, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que señala el artículo 52, podrá imponer en los casos de encubrimiento a que se refieren las fracciones I, párrafo primero y II a IV de este artículo, en lugar de las sanciones señaladas, hasta las dos terceras partes de las que correspondería al autor del delito; debiendo hacer constar en la sentencia las razones en que se funda para aplicar la sanción que autoriza este párrafo.
 
+*Párrafo adicionado DOF 13-05-1996*
+
+*Artículo reformado DOF 09-03-1946, 20-01-1967, 14-01-1985*
+
 #### CAPITULO II · Operaciones con recursos de procedencia ilícita
+
+*Capítulo adicionado DOF 13-05-1996*
 
 ##### Artículo 400 Bis.
 
@@ -4708,6 +6206,8 @@ En caso de conductas previstas en este Capítulo, en las que se utilicen servici
 
 Cuando la Secretaría de Hacienda y Crédito Público, en ejercicio de sus facultades de fiscalización, encuentre elementos que permitan presumir la comisión de alguno de los delitos referidos en este Capítulo, deberá ejercer respecto de los mismos las facultades de comprobación que le confieren las leyes y denunciar los hechos que probablemente puedan constituir dichos ilícitos.
 
+*Artículo adicionado DOF 09-03-1946. Reformado DOF 20-01-1967, 14-01-1985, 13-05-1996, 14-03-2014*
+
 ##### Artículo 400 Bis 1.
 
 Las penas previstas en este Capítulo se aumentarán desde un tercio hasta en una mitad, cuando el que realice cualquiera de las conductas previstas en el artículo 400 Bis de este Código tiene el carácter de consejero, administrador, funcionario, empleado, apoderado o prestador de servicios de cualquier persona sujeta al régimen de prevención de operaciones con recursos de procedencia ilícita, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos.
@@ -4718,11 +6218,17 @@ Las penas previstas en este Capítulo se duplicarán, si la conducta es cometida
 
 Asimismo, las penas previstas en este Capítulo se aumentarán hasta en una mitad si quien realice cualquiera de las conductas previstas en el artículo 400 Bis, fracciones I y II, utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tiene capacidad para resistirlo.
 
+*Artículo adicionado DOF 14-03-2014*
+
 ### TITULO · VIGESIMOCUARTO
 
-Delitos Electorales y en Materia de Registro Nacional de Ciudadanos
+Delitos Electorales y en materia de Registro Nacional de Ciudadanos
+
+*Título adicionado DOF 15-08-1990*
 
 #### CAPITULO UNICO
+
+*Capítulo adicionado DOF 15-08-1990*
 
 ##### Artículo 401.
 
@@ -4742,9 +6248,13 @@ V. Documentos públicos electorales, las actas de la jornada electoral, las rela
 
 VI. Materiales electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
 
+*Artículo adicionado DOF 15-08-1990. Reformado DOF 22-11-1996*
+
 ##### Artículo 402.
 
 Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo se podrá imponer además de la pena señalada, la inhabilitación de uno a cinco años, y en su caso, la destitución del cargo.
+
+*Artículo adicionado DOF 15-08-1990. Reformado DOF 25-03-1994*
 
 ##### Artículo 403.
 
@@ -4776,53 +6286,95 @@ XII. Impida en forma violenta la instalación de una casilla, o asuma dolosament
 
 XIII. Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas que se encuentren en las zonas de husos horarios más occidentales del territorio nacional, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos.
 
+*Artículo adicionado DOF 15-08-1990. Reformado DOF 25-03-1994, 22-11-1996*
+
 ##### Artículo 404.
 
 Se impondrán hasta 500 días multa a los ministros de cultos religiosos que, en el desarrollo de actos públicos propios de su ministerio, induzcan expresamente al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención del ejercicio del derecho al voto.
+
+*Artículo adicionado DOF 15-08-1990. Reformado DOF 25-03-1994, 22-11-1996*
 
 ##### Artículo 405.
 
 Se impondrá de cincuenta a doscientos días multa y prisión de dos a seis años, al funcionario electoral que:
 
+*Párrafo reformado DOF 25-03-1994*
+
 I.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Federal de Electores;
 
 II. Se abstenga de cumplir, sin causa justificada, con las obligaciones propias de su cargo, en perjuicio del proceso electoral;
+
+*Fracción reformada DOF 22-11-1996*
 
 III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
 
 IV. Altere los resultados electorales, sustraiga o destruya boletas, documentos o materiales electorales;
 
+*Fracción reformada DOF 25-03-1994, 22-11-1996*
+
 V. No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
+
+*Fracción reformada DOF 22-11-1996*
 
 VI. En ejercicio de sus funciones ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
+*Fracción reformada DOF 22-11-1996*
+
 VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado, o impida su instalación;
+
+*Fracción reformada DOF 25-03-1994*
 
 VIII. Sin causa prevista por la ley expulse u ordene el retiro de la casilla electoral de representantes de un partido político o coarte los derechos que la ley les concede;
 
-IX.- (Se deroga).
+*Fracción reformada DOF 25-03-1994, 22-11-1996*
+
+IX.- Se deroga.
+
+*Fracción adicionada DOF 25-03-1994. Derogada DOF 22-11-1996*
 
 X. Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; o
 
+*Fracción adicionada DOF 25-03-1994. Reformada DOF 22-11-1996*
+
 XI. Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+*Fracción adicionada DOF 25-03-1994. Reformada DOF 22-11-1996*
+
+*Artículo adicionado DOF 15-08-1990*
 
 ##### Artículo 406.
 
 Se impondrán de cien a doscientos días multa y prisión de uno a seis años, al funcionario partidista o al candidato que:
 
+*Párrafo reformado DOF 25-03-1994, 22-11-1996*
+
 I. Ejerza presión sobre los electores y los induzca a la abstención o a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+*Fracción reformada DOF 22-11-1996*
 
 II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
 
 III. Sustraiga, destruya, altere o haga uso indebido de documentos o materiales electorales;
 
+*Fracción reformada DOF 22-11-1996*
+
 IV. Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada, o con ese fin amenace o ejerza violencia física sobre los funcionarios electorales;
+
+*Fracción reformada DOF 22-11-1996*
 
 V. Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
 
+*Fracción reformada DOF 25-03-1994, 22-11-1996*
+
 VI. Impida con violencia la instalación, apertura o cierre de una casilla; o
 
+*Fracción reformada DOF 22-11-1996*
+
 VII. Obtenga y utilice a sabiendas y en su calidad de candidato, fondos provenientes de actividades ilícitas para su campaña electoral.
+
+*Fracción adicionada DOF 22-11-1996*
+
+*Artículo adicionado DOF 15-08-1990*
 
 ##### Artículo 407.
 
@@ -4830,45 +6382,73 @@ Se impondrán de doscientos a cuatrocientos días multa y prisión de uno a nuev
 
 I. Obligue a sus subordinados, de manera expresa y haciendo uso de su autoridad o jerarquía, a emitir sus votos en favor de un partido político o candidato;
 
+*Fracción reformada DOF 22-11-1996*
+
 II. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio en favor de un partido político o candidato;
+
+*Fracción reformada DOF 22-11-1996*
 
 III. Destine, de manera ilegal, fondos, bienes o servicios que tenga a su disposición en virtud de su cargo tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que pueda corresponder por el delito de peculado; o
 
+*Fracción reformada DOF 22-11-1996*
+
 IV. Proporcione apoyo o preste algún servicio a los partidos políticos o a sus candidatos, a través de sus subordinados, usando del tiempo correspondiente a sus labores, de manera ilegal.
+
+*Fracción adicionada DOF 22-11-1996*
+
+*Artículo adicionado DOF 15-08-1990. Reformado DOF 25-03-1994*
 
 ##### Artículo 408.
 
 Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años a quienes, habiendo sido electos diputados o senadores no se presenten, sin causa justificada a juicio de la Cámara respectiva, a desempeñar el cargo dentro del plazo señalado en el primer párrafo del artículo 63 de la Constitución.
 
+*Artículo adicionado DOF 15-08-1990*
+
 ##### Artículo 409.
 
 Se impondrán de veinte a cien días multa y prisión de tres meses a cinco años, a quien:
+
+*Párrafo reformado DOF 25-03-1994*
 
 I.- Proporcione documentos o información falsa al Registro Nacional de Ciudadanos para obtener el documento que acredite la ciudadanía; y
 
 II.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido del documento que acredita la ciudadanía, que en los términos de la ley de la materia, expida el Registro Nacional de Ciudadanos.
 
+*Artículo adicionado DOF 15-08-1990*
+
 ##### Artículo 410.
 
 La pena a que se refiere el artículo anterior se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Nacional de Ciudadanos conforme a la ley de la materia, o si fuere de nacionalidad extranjera.
+
+*Artículo adicionado DOF 15-08-1990*
 
 ##### Artículo 411.
 
 Se impondrá de setenta a doscientos días multa y prisión de tres a siete años, a quien por cualquier medio altere o participe en la alteración del Registro Federal de Electores, de los listados nominales o en la expedición ilícita de credenciales para Votar.
 
+*Artículo adicionado DOF 25-03-1994. Reformado DOF 22-11-1996*
+
 ##### Artículo 412.
 
 Se impondrá prisión de dos a nueve años, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 407 de este Código. En la comisión de este delito no habrá el beneficio de la libertad provisional.
+
+*Artículo adicionado DOF 25-03-1994*
 
 ##### Artículo 413.
 
 Los responsables de los delitos contenidos en el presente capítulo por haber acordado o preparado su realización en los términos de la fracción I del artículo 13 de este Código no podrán gozar del beneficio de la libertad provisional.
 
+*Artículo adicionado DOF 25-03-1994*
+
 ### TITULO · VIGESIMO QUINTO
 
 Delitos Contra el Ambiente y la Gestión Ambiental
 
+*Título adicionado DOF 13-12-1996. Denominación adicionada DOF 06-02-2002*
+
 #### CAPITULO PRIMERO · De las actividades tecnológicas y peligrosas
+
+*Capítulo adicionado DOF 13-12-1996. Capítulo reenumerado y denominación reformada DOF 06-02-2002 (antes Capítulo Único)*
 
 ##### Artículo 414.
 
@@ -4879,6 +6459,8 @@ La misma pena se aplicará a quien ilícitamente realice las conductas con las s
 En el caso de que las actividades a que se refieren los párrafos anteriores, se lleven a cabo en un área natural protegida, la pena de prisión se incrementará hasta en tres años y la pena económica hasta en mil días multa, a excepción de las actividades realizadas con sustancias agotadoras de la capa de ozono.
 
 Cuando las conductas a las que se hace referencia en los párrafos primero y segundo de este artículo, se lleven a cabo en zonas urbanas con aceites gastados o sustancias agotadoras de la capa de ozono en cantidades que no excedan 200 litros, o con residuos considerados peligrosos por sus características biológico-infecciosas, se aplicará hasta la mitad de la pena prevista en este artículo, salvo que se trate de conductas repetidas con cantidades menores a las señaladas cuando superen dicha cantidad.
+
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002*
 
 ##### Artículo 415.
 
@@ -4892,17 +6474,25 @@ Las mismas penas se aplicarán a quien ilícitamente lleve a cabo las actividade
 
 En el caso de que las actividades a que se refiere el presente artículo se lleven a cabo en un área natural protegida, la pena de prisión se incrementará hasta en tres años y la pena económica hasta en mil días multa.
 
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002*
+
 ##### Artículo 416.
 
 Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa, al que ilícitamente descargue, deposite, o infiltre, lo autorice u ordene, aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en los suelos, subsuelos, aguas marinas, ríos, cuencas, vasos o demás depósitos o corrientes de agua de competencia federal, que cause un riesgo de daño o dañe a los recursos naturales, a la flora, a la fauna, a la calidad del agua, a los ecosistemas o al ambiente.
 
 Cuando se trate de aguas que se encuentren depositadas, fluyan en o hacia una área natural protegida, la prisión se elevará hasta tres años más y la pena económica hasta mil días multa.
 
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002*
+
 #### CAPÍTULO SEGUNDO · De la biodiversidad
+
+*Capítulo adicionado DOF 06-02-2002*
 
 ##### Artículo 417.
 
 Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa, al que introduzca al territorio nacional, o trafique con recursos forestales, flora o fauna silvestre viva o muerta, sus productos o derivados, que porten, padezcan o hayan padecido, según corresponda alguna enfermedad contagiosa, que ocasione o pueda ocasionar su diseminación o propagación o el contagio a la flora, a la fauna, a los recursos forestales o a los ecosistemas.
+
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002*
 
 ##### Artículo 418.
 
@@ -4916,11 +6506,15 @@ III. Cambie el uso del suelo forestal.
 
 La pena de prisión deberá aumentarse hasta en tres años más y la pena económica hasta en mil días multa, para el caso en el que las conductas referidas en las fracciones del primer párrafo del presente artículo afecten un área natural protegida.
 
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002*
+
 ##### Artículo 419.
 
 A quien ilícitamente transporte, comercie, acopie, almacene o transforme madera en rollo, astillas, carbón vegetal, así como cualquier otro recurso forestal maderable, o tierra procedente de suelos forestales en cantidades superiores a cuatro metros cúbicos o, en su caso, a su equivalente en madera aserrada, se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa. La misma pena se aplicará aun cuando la cantidad sea inferior a cuatro metros cúbicos, si se trata de conductas reiteradas que alcancen en su conjunto esta cantidad.
 
 La pena privativa de la libertad a la que se hace referencia en el párrafo anterior se incrementará hasta en tres años más de prisión y la pena económica hasta en mil días multa, cuando los recursos forestales maderables provengan de un área natural protegida.
+
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 24-12-1996, 06-02-2002*
 
 ##### Artículo 419 Bis.
 
@@ -4954,7 +6548,7 @@ II. Capture, transforme, acopie, transporte o dañe ejemplares de especies acuá
 
 II Bis. De manera dolosa capture, transforme, acopie, transporte, destruya o comercie con las especies acuáticas denominadas abulón, camarón, pepino de mar y langosta, dentro o fuera de los periodos de veda, sin contar con la autorización que corresponda, en cantidad que exceda 10 kilogramos de peso.
 
-*Fracción reformada DOF 07-04-2017*
+*Fracción adicionada DOF 08-02-2006. Reformada DOF 07-04-2017*
 
 III. Realice actividades de caza, pesca o captura con un medio no permitido, de algún ejemplar de una especie de fauna silvestre, o ponga en riesgo la viabilidad biológica de una población o especie silvestres;
 
@@ -4963,6 +6557,12 @@ IV. Realice cualquier actividad con fines de tráfico, o capture, posea, transpo
 V. Dañe algún ejemplar de las especies de flora o fauna silvestres, terrestres o acuáticas señaladas en la fracción anterior.
 
 Se aplicará una pena adicional hasta de tres años más de prisión y hasta mil días multa adicionales, cuando las conductas descritas en el presente artículo se realicen en o afecten un área natural protegida, o cuando se realicen con fines comerciales.
+
+En los casos previstos en la fracción IV del presente artículo y la fracción X del artículo 2o. de la Ley Federal contra la Delincuencia Organizada, se impondrá la pena de cinco a quince años de prisión y el equivalente de tres mil a seis mil días multa cuando se trate de algún ejemplar, partes, derivados, productos o subproductos de la especie totoaba macdonaldi.
+
+*Párrafo adicionado DOF 19-02-2021*
+
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002*
 
 ##### Artículo 420 Bis.
 
@@ -4978,7 +6578,11 @@ IV. Provoque un incendio en un bosque, selva, vegetación natural o terrenos for
 
 Se aplicará una pena adicional hasta de dos años de prisión y hasta mil días multa adicionales, cuando las conductas descritas en el presente artículo se realicen en o afecten un área natural protegida, o el autor o partícipe del delito previsto en la fracción IV, realice la conducta para obtener un lucro o beneficio económico.
 
+*Artículo adicionado DOF 06-02-2002*
+
 #### CAPÍTULO TERCERO · De la bioseguridad
+
+*Capítulo adicionado DOF 06-02-2002*
 
 ##### Artículo 420 Ter.
 
@@ -4986,9 +6590,13 @@ Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil d
 
 Para efectos de este artículo, se entenderá como organismo genéticamente modificado, cualquier organismo que posea una combinación nueva de material genético que se haya obtenido mediante la aplicación de la biotecnología, incluyendo los derivados de técnicas de ingeniería genética.
 
+*Artículo adicionado DOF 06-02-2002*
+
 #### CAPÍTULO · CUARTO
 
 Delitos contra la gestión ambiental
+
+*Capítulo adicionado DOF 06-02-2002*
 
 ##### Artículo 420 Quáter.
 
@@ -5006,13 +6614,21 @@ V. No realice o cumpla las medidas técnicas, correctivas o de seguridad necesar
 
 Los delitos previstos en el presente Capítulo se perseguirán por querella de la Procuraduría Federal de Protección al Ambiente.
 
+*Artículo adicionado DOF 06-02-2002*
+
 #### CAPÍTULO QUINTO · Disposiciones comunes a los delitos contra el ambiente
+
+*Capítulo adicionado DOF 06-02-2002*
 
 ##### Artículo 421.
 
 Además de lo establecido en los anteriores capítulos del Título Vigésimo Quinto, se impondrán las siguientes penas y medidas de seguridad:
 
+*Párrafo reformado DOF 07-06-2013*
+
 I. La reparación y, en su caso, la compensación del daño al ambiente, de conformidad a lo dispuesto en la Ley Federal de Responsabilidad Ambiental;
+
+*Fracción reformada DOF 07-06-2013*
 
 II. La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo;
 
@@ -5030,19 +6646,31 @@ Las dependencias de la administración pública competentes, deberán proporcion
 
 Los parámetros mínimos y máximos de las penas de prisión a que se refiere el presente Título se disminuirán a la mitad, cuando el imputado o procesado repare o compense voluntariamente el daño al ambiente antes de que tal obligación le haya sido impuesta por resolución administrativa o sentencia judicial. Dicha disminución procederá también, cuando se realice o garantice la reparación o compensación del daño en términos de lo dispuesto por el Título Segundo de la Ley Federal de Responsabilidad Ambiental.
 
+*Párrafo reformado DOF 07-06-2013*
+
 Se considerarán víctimas con derecho a solicitar la reparación o compensación del daño ambiental y coadyuvar en el proceso penal, a las personas legitimadas en términos de lo dispuesto por la Ley Federal de Responsabilidad Ambiental.
+
+*Párrafo adicionado DOF 07-06-2013*
+
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002*
 
 ##### Artículo 422.
 
 En el caso de los delitos contra el ambiente, cuando el autor o partícipe tenga la calidad de garante respecto de los bienes tutelados, la pena de prisión se aumentará hasta en tres años.
 
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002*
+
 ##### Artículo 423.
 
 No se aplicará pena alguna respecto a lo dispuesto por el párrafo primero del artículo 418, así como para la transportación de leña o madera muerta a que se refiere el artículo 419, cuando el sujeto activo sea campesino y realice la actividad con fines de uso o consumo doméstico dentro de su comunidad.
 
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002*
+
 ### TITULO · VIGESIMO SEXTO
 
 De los Delitos en Materia de Derechos de Autor
+
+*Título adicionado DOF 24-12-1996*
 
 ##### Artículo 424.
 
@@ -5053,6 +6681,14 @@ I. Al que especule en cualquier forma con los libros de texto gratuitos que dist
 II. Al editor, productor o grabador que a sabiendas produzca más números de ejemplares de una obra protegida por la Ley Federal del Derecho de Autor, que los autorizados por el titular de los derechos;
 
 III. A quien use en forma dolosa, con fin de lucro y sin la autorización correspondiente obras protegidas por la Ley Federal del Derecho de Autor.
+
+*Fracción reformada DOF 19-05-1997, 17-05-1999*
+
+IV. Derogada.
+
+*Fracción derogada DOF 17-05-1999*
+
+*Artículo adicionado DOF 24-12-1996*
 
 ##### Artículo 424 bis.
 
@@ -5072,15 +6708,21 @@ III. A quien grabe, transmita o realice una copia total o parcial de una obra ci
 
 *Fracción adicionada DOF 01-07-2020*
 
+*Artículo adicionado DOF 17-05-1999*
+
 ##### Artículo 424 ter.
 
 Se impondrá prisión de seis meses a seis años y de cinco mil a treinta mil días multa, a quien venda a cualquier consumidor final en vías o en lugares públicos, en forma dolosa, con fines de especulación comercial, copias de obras, fonogramas, videogramas o libros, a que se refiere la fracción I del artículo anterior.
 
 Si la venta se realiza en establecimientos comerciales, o de manera organizada o permanente, se estará a lo dispuesto en el artículo 424 Bis de este Código.
 
+*Artículo adicionado DOF 17-05-1999*
+
 ##### Artículo 425.
 
 Se impondrá prisión de seis meses a dos años o de trescientos a tres mil días multa, al que a sabiendas y sin derecho explote con fines de lucro una interpretación o una ejecución.
+
+*Artículo adicionado DOF 24-12-1996*
 
 ##### Artículo 426.
 
@@ -5102,9 +6744,13 @@ IV. A quien reciba o asista a otro a recibir una señal de cable encriptada port
 
 *Fracción adicionada DOF 01-07-2020*
 
+*Artículo adicionado DOF 24-12-1996*
+
 ##### Artículo 427.
 
 Se impondrá prisión de seis meses a seis años y de trescientos a tres mil días multa, a quien publique a sabiendas una obra substituyendo el nombre del autor por otro nombre.
+
+*Artículo adicionado DOF 24-12-1996*
 
 ##### Artículo 427 Bis.
 
@@ -5140,17 +6786,21 @@ II. Distribuya, importe para su distribución, transmita, comunique o ponga a di
 
 Las sanciones pecuniarias previstas en el presente título se aplicarán sin perjuicio de la reparación del daño, cuyo monto no podrá ser menor al cuarenta por ciento del precio de venta al público de cada producto o de la prestación de servicios que impliquen violación a alguno o algunos de los derechos tutelados por la Ley Federal del Derecho de Autor.
 
+*Artículo adicionado DOF 24-12-1996*
+
 ##### Artículo 429.
 
 Los delitos previstos en este Título se perseguirán de oficio, excepto lo previsto en los artículos 424, fracción II, 424 Bis, fracción III y 427.
 
-*Artículo reformado DOF 01-07-2020*
+*Artículo adicionado DOF 24-12-1996. Reformado DOF 28-06-2010, 01-07-2020*
 
 ## ARTICULOS TRANSITORIOS:
 
 1º.- Este Código comenzará a regir el día 17 de septiembre de 1931.
 
 2º.- Desde esa misma fecha queda abrogado el Código Penal de 15 de diciembre de 1929, así como todas las demás leyes que se opongan a la presente; pero tanto ese Código como el de 7 de diciembre de 1871, deberán continuar aplicándose por los hechos ejecutados, respectivamente, durante su vigencia, a menos que los acusados manifiesten su voluntad de acogerse al ordenamiento que estimen más favorable, entre el presente Código y el que regía en la época de la perpetración del delito.
+
+*Fe de erratas al artículo DOF 31-08-1931*
 
 3º.- Quedan vigentes las disposiciones de carácter penal contenidas en leyes especiales en todo lo que no esté previsto en este Código.
 
@@ -5168,11 +6818,13 @@ México, D.F., a 14 de agosto de 1931.- El Subsecretario de Gobernación. Encarg
 
 APENDICE 1
 
+Apéndice 1 adicionado DOF 10-01-1994. Apéndice con Tablas reformado DOF 22-07-1994
+
 TABLA 1
 
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| MARIHUANA | RESINA DE<br>CANNABIS<br>(HASCHICH) | MORFINA | BUPRENORFINA A<br>(NUVAINE) | CLORHIDRATO<br>DE COCAINA | SULFATO DE<br>COCAINA | HEROINA<br>(DIACETIL-<br>MORFINA) | FENTANIL<br>(ALFA-METIL)<br>(CHINA-WHITE) | MEPERIDINA<br>(DEMEROL) | PRIMODELINCUENCIA | 1ª<br>REINCIDENCIA | 2ª<br>REINCIDENCIA | MULTIREINCIDENTE |  |  |  |  |  |  |  |  |  |  | PENA DE PRISION |  | máx 250 grs | máx 5 grs | máx 150 mgs | máx 200 mgs | máx 25 grs | máx 250 mgs | máx 1 gr | máx 2 grs | máx 2 grs | 10 meses a<br>1 año 4 meses | 1 año a<br>1 año 6 meses | 1 año 3 meses a<br>1 año 9 meses | 1 año 9 meses a<br>2 años 3 meses |  | 250 grs a 1 kg | 5-20 grs | 150-300 mgs | 200-400 mgs | 25-50 grs | 250-500 mgs | 1-2 grs | 2-4-grs | 2-4 grs | 1 año 4 meses a<br>1 año 9 meses | 1 año 6 meses a<br>2 años | 1 año 9 meses a<br>2 años 3 meses | 2 años 3 meses a<br>2 años 9 meses |  | 1 a 2.5 kg | 20-50 grs | 300-500 mgs | 400-800 mgs | 50-100 grs | 500 mgs-1gr | 2-4 grs | 4-8 grs | 4-8 grs | 1 año 9 meses a<br>2 años 9 meses | 2 años a<br>3 años 1 mes | 2 años 3 meses a<br>3 años 5 meses | 2 años 9 meses a<br>4 años 3 meses |  | 2.5 a 5 kg | 50-100 grs | 500-1 gr | 800-1 gr | 100-200 grs | 1-2 grs | 4-6 grs | 8-16 grs | 8-16 grs | 2 años 9 meses a<br>4 años 3 meses | 3 años 1 mes a<br>4 años 9 meses | 3 años 5 meses a<br>5 años 3 meses | 4 años 3 meses a<br>6 años 6 meses |  |
+| MARIHUANA | RESINA DE<br>CANNABIS<br>(HASCHICH) | MORFINA | BUPRENORFINA A<br>(NUVAINE) | CLORHIDRATO<br>DE COCAINA | SULFATO DE<br>COCAINA | HEROINA<br>(DIACETIL-<br>MORFINA) | FENTANIL<br>(ALFA-METIL)<br>(CHINA-WHITE) | MEPERIDINA<br>(DEMEROL) | PRIMODELINCUENCIA | 1ª<br>REINCIDENCIA | 2ª<br>REINCIDENCIA | MULTIREINCIDENTE |  |  |  |  |  |  |  |  |  |  | PENA DE PRISION |  | máx 250 grs | máx 5 grs | máx 150 mgs | máx 200 mgs | máx 25 grs<br>Fe de erratas DOF 01-08-1994 | máx 250 mgs | máx 1 gr | máx 2 grs | máx 2 grs | 10 meses a<br>1 año 4 meses | 1 año a<br>1 año 6 meses | 1 año 3 meses a<br>1 año 9 meses | 1 año 9 meses a<br>2 años 3 meses |  | 250 grs a 1 kg | 5-20 grs | 150-300 mgs | 200-400 mgs | 25-50 grs | 250-500 mgs | 1-2 grs | 2-4-grs | 2-4 grs | 1 año 4 meses a<br>1 año 9 meses | 1 año 6 meses a<br>2 años | 1 año 9 meses a<br>2 años 3 meses | 2 años 3 meses a<br>2 años 9 meses |  | 1 a 2.5 kg | 20-50 grs | 300-500 mgs | 400-800 mgs | 50-100 grs | 500 mgs-1gr | 2-4 grs | 4-8 grs | 4-8 grs | 1 año 9 meses a<br>2 años 9 meses | 2 años a<br>3 años 1 mes | 2 años 3 meses a<br>3 años 5 meses | 2 años 9 meses a<br>4 años 3 meses |  | 2.5 a 5 kg | 50-100 grs | 500-1 gr | 800-1 gr | 100-200 grs | 1-2 grs | 4-6 grs | 8-16 grs | 8-16 grs | 2 años 9 meses a<br>4 años 3 meses | 3 años 1 mes a<br>4 años 9 meses | 3 años 5 meses a<br>5 años 3 meses | 4 años 3 meses a<br>6 años 6 meses |  |
 
 TABLA 2
 
@@ -5197,6 +6849,12 @@ TABLA 4
 
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
+### FE DE ERRATAS del Código Penal para el Distrito y Territorios Federales, publicado el 14 de agosto de 1931.
+
+*Publicada en el Diario Oficial de la Federación el 31 de agosto de 1931*
+
+Aclaración a la Fe de erratas DOF 12-09-1931
+
 ### DECRETO que reforma el Código Penal vigente.
 
 *Publicado en el Diario Oficial de la Federación el 12 de mayo de 1938*
@@ -5219,19 +6877,19 @@ TABLA 4
 
 *Publicado en el Diario Oficial de la Federación el 14 de febrero de 1940*
 
-**ARTICULO PRIMERO.-** Se reforma el Título Séptimo del Libro Segundo del Código Penal, para quedar como sigue:
+**ARTICULO PRIMERO.-** Se reforma el título séptimo del libro segundo del Código Penal, en los siguientes términos:
 
 ……….
 
-**ARTICULO SEGUNDO.-** Se modifica el rubro del Capítulo I del Título Octavo del Código Penal, para quedar como sigue:
+**ARTICULO SEGUNDO.-** Se modifica el rubro del Capítulo I del Título Octavo del Código Penal, en los siguientes términos:
 
 ……….
 
-**ARTICULO TERCERO.-** Se reforma y adiciona el artículo 200 del Código Penal, para quedar como sigue:
+**ARTICULO TERCERO.-** Se reforma y adiciona el artículo 200 del Código Penal, como sigue:
 
 ……….
 
-**ARTICULO CUARTO.-** Se reforma y adiciona el artículo 207 del Código Penal, para quedar como sigue:
+**ARTICULO CUARTO.-** Se reforma y adiciona el artículo 207 del Código Penal, en los siguientes términos:
 
 ……….
 
@@ -5245,13 +6903,17 @@ TABLA 4
 
 *Publicado en el Diario Oficial de la Federación el 14 de noviembre de 1941*
 
-**ARTICULO PRIMERO.-** Se reforma el artículo 129 del Código Penal vigente, para quedar como sigue:
+**ARTICULO PRIMERO.-** Se reforma el artículo 129 del Código Penal vigente, que quedará en la siguiente forma:
 
 ……….
 
-**ARTICULO SEGUNDO.-** Se suprime el Capítulo Segundo, Título Segundo del Libro Segundo del Código Penal, el artículo 145, y se adiciona dicho Título Segundo con el Capítulo III (delitos de disolución social) , para quedar como sigue:
+**ARTICULO SEGUNDO.-** Se suprime del Capítulo Segundo, Título Segundo del Libro Segundo del Código Penal, el artículo 145, y se adiciona dicho Título Segundo, con el capítulo siguiente:
 
-……….
+CAPITULO III
+
+Delitos de Disolución Social
+
+(Artículos 145 y 145 Bis)
 
 **TRANSITORIO**
 
@@ -5261,27 +6923,29 @@ TABLA 4
 
 *Publicado en el Diario Oficial de la Federación el 27 de diciembre de 1941*
 
-**ARTICULO 2°.-** Continua vigente, sin restricción alguna, el artículo 162 del Código Penal y las demás disposiciones que resultaban incompatibles con el mencionado Decreto.
+**ARTICULO 2°.-** Continua vigente, sin restricción alguna, el artículo 162 del Código Penal y las demás disposiciones que resultaban incompatibles con el mencionado decreto.
 
 ### LEY de Prevenciones Generales relativa a la suspensión de garantías individuales.
 
-*Publicado en el Diario Oficial de la Federación el 13 de junio de 1942*
+*Publicada en el Diario Oficial de la Federación el 13 de junio de 1942*
 
-**ARTICULO 12.-** La restricción de las garantías de los artículos 16, 19 y 20, es aplicable únicamente a los delitos del orden federal comprendidos en el Libro Segundo, Títulos I a VI y Título IX del Código Penal Federal, así como los enumerados en el Decreto de 30 de octubre de 1941, que reformó el Código Penal y los que se creen en la legislación de emergencia.
+**ARTICULO 12.-** La restricción de las garantías de los artículos 16, 19 y 20, es aplicable únicamente a los delitos del orden federal comprendidos en el libro II, títulos I a VI y título IX del Código Penal Federal, así como los enumerados en el decreto de 30 de octubre de 1941, que reformó el Código Penal y los que se creen en la legislación de emergencia.
 
-**TRANSITORIOS**
+**TRANSITORIOS:**
 
 1°.- La presente ley entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+2°.- Los juicios de amparo en tramitación al entrar en vigor esta ley seguirán su curso normal, cualquiera que sea su naturaleza y serán resueltos conforme a las leyes en vigor sin que se vean afectados por las disposiciones de esta ley.
+
+3º.- No se restringe por ahora la garantía consignada en el párrafo tercero del artículo 22 constitucional.
 
 ### DECRETO que modifica varios artículos del Código Penal para el Distrito y Territorios Federales en materia de fuero común y para toda la República en materia de fuero federal.
 
 *Publicado en el Diario Oficial de la Federación el 24 de marzo de 1944*
 
-**ARTICULO PRIMERO.-** Se modifican en los siguientes términos los artículos del Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común y para toda la República en Materia de Fuero Federal:
+**ARTICULO PRIMERO.-** Se modifican en los siguientes términos los artículos del Código Penal para el Distrito y Territorios Federales en materia de fuero común y para toda la República en materia de fuero federal, que a continuación se mencionan:
 
-………
-
-**TRANSITORIO**
+(Artículos 24, 27, 62, 66, 70, 71, 220, 255 y 383)
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial".
 
@@ -5289,11 +6953,11 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor tres días después
 
 *Publicado en el Diario Oficial de la Federación el 10 de febrero de 1945*
 
-**ARTICULO UNICO.-** Se reforman los artículos 24, 60 y 61 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+**ARTICULO UNICO.-** Se reforman los artículos 24, 60 y 61 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal, en los siguientes términos:
 
 ……….
 
-**TRANSITORIO**
+**TRANSITORIOS:**
 
 **ARTICULO UNICO.-** El presente Decreto entrará en vigor tres días después del de la fecha de su publicación en el "Diario Oficial".
 
@@ -5301,7 +6965,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor tres días después
 
 *Publicado en el Diario Oficial de la Federación el 8 de mayo de 1945*
 
-**ARTICULO UNICO.-** Se reforma el artículo 40 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común, para quedar como sigue:
+**ARTICULO UNICO.-** Se reforma el artículo 40 del Código Penal para el Distrito y Territorios Federales en materia del fuero común, en los siguientes términos:
 
 ……….
 
@@ -5315,7 +6979,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor tres días después
 
 **ARTICULO PRIMERO.-** En tanto dure la suspensión de garantías individuales vigente en la República se declara ley de emergencia el Capítulo 1°, Título 7°, Libro 2°, del Código Penal para el Distrito y Territorios Federales y Federal en toda la República en materia de este fuero, relativo a la tenencia y tráfico de enervantes.
 
-**TRANSITORIO**
+**TRANSITORIO:**
 
 El presente Decreto surtirá sus efectos a partir de su publicación en el "Diario Oficial" de la Federación.
 
@@ -5325,7 +6989,7 @@ El presente Decreto surtirá sus efectos a partir de su publicación en el "Diar
 
 **ARTICULO 1°.-** A partir del día primero de octubre se levanta la suspensión de garantías decretada el primero de junio de 1942 y se restablece, por lo tanto, el orden constitucional en toda plenitud.
 
-**TRANSITORIOS**
+**TRANSITORIOS:**
 
 **ARTICULO 1°.-** La presente ley entrará en vigor el día primero de octubre del año en curso.
 
@@ -5337,11 +7001,11 @@ El presente Decreto surtirá sus efectos a partir de su publicación en el "Diar
 
 *Publicado en el Diario Oficial de la Federación el 9 de marzo de 1946*
 
-**ARTICULO UNICO.-** Se reforma el Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+**ARTICULO UNICO.-** Se reforma el Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal, en los siguientes términos:
 
 ……….
 
-**TRANSITORIO**
+**TRANSITORIOS:**
 
 **ARTICULO UNICO.-** Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial".
 
@@ -5351,7 +7015,7 @@ El presente Decreto surtirá sus efectos a partir de su publicación en el "Diar
 
 *Publicado en el Diario Oficial de la Federación el 9 de marzo de 1946*
 
-**ARTICULO 1°.-** Se reforma el artículo 85 del Código Penal para el Distrito y Territorios Federales, para quedar como sigue:
+**ARTICULO 1°.-** Se reforma el artículo 85 del Código Penal para el Distrito y Territorios Federales, en los siguientes términos:
 
 ……….
 
@@ -5359,7 +7023,7 @@ El presente Decreto surtirá sus efectos a partir de su publicación en el "Diar
 
 ………
 
-**TRANSITORIO**
+**TRANSITORIO:**
 
 **ARTICULO UNICO.-** Este Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
@@ -5367,11 +7031,11 @@ El presente Decreto surtirá sus efectos a partir de su publicación en el "Diar
 
 *Publicado en el Diario Oficial de la Federación el 30 de enero de 1947*
 
-**ARTICULO UNICO.-** Se modifica el artículo 250 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común, y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+**ARTICULO UNICO.-** Se modifica el artículo 250 del Código Penal para el Distrito y Territorios Federales en materia del fuero común, y para toda la República en materia del fuero federal, para quedar como sigue:
 
 ……….
 
-**TRANSITORIO**
+**TRANSITORIO:**
 
 **UNICO.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
@@ -5379,7 +7043,7 @@ El presente Decreto surtirá sus efectos a partir de su publicación en el "Diar
 
 *Publicado en el Diario Oficial de la Federación el 14 de noviembre de 1947*
 
-**ARTICULO UNICO.-** Se reforman y adicionan los artículos 193, 194 y 197 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+**ARTICULO UNICO.-** Se reforman y adicionan los artículos 193, 194 y 197 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar redactados en los términos siguientes:
 
 ……….
 
@@ -5391,15 +7055,13 @@ El presente Decreto surtirá sus efectos a partir de su publicación en el "Diar
 
 *Publicado en el Diario Oficial de la Federación el 5 de enero de 1948*
 
-**ARTICULO 1°.-** Se deroga el inciso 2° del artículo 24 y los artículos 27, 70 y 71 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue:
+**ARTICULO 1°.-** Se deroga el inciso 2° del artículo 24 y los artículos 27, 70 y 71 del Código Penal para el Distrito y Territorios Federales en materia del fuero común y para toda la República en materia del fuero federal.
+
+**ARTICULO 2°.-** Se reforman los artículos 25, 66 y 255 del mismo Código, los cuales quedarán redactados en los términos siguientes:
 
 ……….
 
-**ARTICULO 2°.-** Se reforman los artículos 25, 66 y 255 del mismo Código, para quedar como sigue:
-
-……….
-
-**TRANSITORIOS**
+**TRANSITORIOS:**
 
 **ARTICULO PRIMERO.-** Esta Ley entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 
@@ -5413,7 +7075,7 @@ El presente Decreto surtirá sus efectos a partir de su publicación en el "Diar
 
 ……….
 
-**TRANSITORIO**
+**TRANSITORIO:**
 
 **ARTICULO UNICO.-** Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 
@@ -5539,7 +7201,7 @@ Aclaración DOF 31-05-1956
 
 **ARTICULO UNICO.-** Se adiciona el Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal con un Título Cuarto de su Libro Segundo, para quedar como sigue:
 
-**TRANSITORIO**
+**TRANSITORIO:**
 
 **UNICO.-** Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 
@@ -5583,7 +7245,7 @@ Aclaración DOF 31-05-1956
 
 ……….
 
-**TRANSITORIOS**
+**TRANSITORIOS:**
 
 **ARTICULO PRIMERO.-** El presente Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
 
@@ -6979,6 +8641,8 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 **Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
+………
+
 México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Jaime Arturo Vázquez Aguilar, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de agosto de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
@@ -7511,7 +9175,11 @@ Los concesionarios y permisionarios de televisión radiodifundida estarán oblig
 
 Aquellos permisionarios o concesionarios de uso público o social, incluyendo las comunitarias e indígenas, que presten el servicio de radiodifusión que no estén en condiciones de iniciar transmisiones digitales al 31 de diciembre de 2015, deberán, con antelación a esa fecha, dar aviso al Instituto Federal de Telecomunicaciones, en los términos previstos en el artículo 157 de la Ley Federal de Telecomunicaciones y Radiodifusión a efecto de que se les autorice la suspensión temporal de sus transmisiones o, en su caso, reduzcan su potencia radiada aparente para que les sea aplicable el programa de continuidad al que se refiere el párrafo siguiente de este artículo. Los plazos que autorice el Instituto en ningún caso excederán del 31 de diciembre de 2016.
 
+*Párrafo adicionado DOF 18-12-2015*
+
 En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
+
+*Párrafo reformado DOF 18-12-2015*
 
 Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
 
@@ -8330,3 +9998,29 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 30 de junio de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. M. Citlalli Hernández Mora, Secretaria.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas.”
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de julio de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforma y adiciona el artículo 167 del Código Nacional de Procedimientos Penales; se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Delitos Electorales, de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego y Explosivos, del Código Penal Federal, de la Ley General de Salud, de la Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación.
+
+*Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021*
+
+**Artículo Sexto.-** Se reforma el artículo 160, primer párrafo; se adiciona un párrafo tercero al artículo 420, y se derogan las fracciones I y III del artículo 162, del Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+**Tercero.** Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+**Cuarto.** Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+**Quinto.** La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Ciudad de México, a 18 de febrero de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 19 de febrero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
