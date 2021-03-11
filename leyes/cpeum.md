@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2020-03-06
+last_reform_dof: 2021-03-11
 articles: 136
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_060320.doc
-archived: https://web.archive.org/web/20200327135210/http://www.diputados.gob.mx:80/LeyesBiblio/doc/1_060320.doc
-source_sha256: afae1f965e9b1d5165cf9d3047735105b87f427acf6601f3e2684807b5e25f29
-retrieved: 2020-03-27
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_110321.doc
+archived: https://web.archive.org/web/20210422142307/http://www.diputados.gob.mx/LeyesBiblio/doc/1_110321.doc
+source_sha256: 12f212c21b1ac5814ddc09f0fde296b353948d6786c2b3c07879cd3a89a22528
+retrieved: 2021-04-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 06-03-2020
+Última reforma publicada DOF 11-03-2021
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -302,9 +302,9 @@ Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad
 
 *Párrafo adicionado DOF 13-10-2011*
 
-Toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud y establecerá la concurrencia de la Federación y las entidades federativas en materia de salubridad general, conforme a lo que dispone la fracción XVI del artículo 73 de esta Constitución.
+Toda Persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud y establecerá la concurrencia de la Federación y las entidades federativas en materia de salubridad general, conforme a lo que dispone la fracción XVI del artículo 73 de esta Constitución. La Ley definirá un sistema de salud para el bienestar, con el fin de garantizar la extensión progresiva, cuantitativa y cualitativa de los servicios de salud para la atención integral y gratuita de las personas que no cuenten con seguridad social.
 
-*Párrafo adicionado DOF 03-02-1983*
+*Párrafo adicionado DOF 03-02-1983. Reformado DOF 08-05-2020*
 
 Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
 
@@ -341,6 +341,26 @@ Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
 
 *Párrafo adicionado DOF 12-10-2011*
+
+El Estado garantizará la entrega de un apoyo económico a las personas que tengan discapacidad permanente en los términos que fije la Ley. Para recibir esta prestación tendrán prioridad las y los menores de dieciocho años, las y los indígenas y las y los afromexicanos hasta la edad de sesenta y cuatro años y las personas que se encuentren en condición de pobreza.
+
+*Párrafo adicionado DOF 08-05-2020*
+
+Las personas mayores de sesenta y ocho años tienen derecho a recibir por parte del Estado una pensión no contributiva en los términos que fije la Ley. En el caso de las y los indígenas y las y los afromexicanos esta prestación se otorgará a partir de los sesenta y cinco años de edad.
+
+*Párrafo adicionado DOF 08-05-2020*
+
+El Estado establecerá un sistema de becas para las y los estudiantes de todos los niveles escolares del sistema de educación pública, con prioridad a las y los pertenecientes a las familias que se encuentren en condición de pobreza, para garantizar con equidad el derecho a la educación.
+
+*Párrafo adicionado DOF 08-05-2020*
+
+Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+
+*Párrafo adicionado DOF 18-12-2020*
+
+El Estado promoverá el desarrollo integral de las personas jóvenes, a través de políticas públicas con enfoque multidisciplinario, que propicien su inclusión en el ámbito político, social, económico y cultural del país. La Ley establecerá la concurrencia de la Federación, entidades federativas, Municipios y demarcaciones territoriales de la Ciudad de México, para esos efectos.
+
+*Párrafo adicionado DOF 24-12-2020*
 
 *Reforma DOF 14-08-2001: Derogó del artículo el entonces párrafo primero (antes adicionado por DOF 28-01-1992)*
 
@@ -1038,7 +1058,7 @@ IX. La división o reparto que se hubiere hecho con apariencia de legítima entr
 
 X. (Se deroga)
 
-*Fracción reformada DOF 12-02-1947. Derogada DOF 06-01-1992*
+*Fe de erratas a la fracción DOF 03-03-1934. Reformada DOF 12-02-1947. Derogada DOF 06-01-1992*
 
 XI. (Se deroga)
 
@@ -2448,9 +2468,9 @@ XXIX-B. Para legislar sobre las características y uso de la Bandera, Escudo e H
 
 *Fracción adicionada DOF 24-10-1967*
 
-XXIX-C. Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución;
+XXIX-C. Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución, así como en materia de movilidad y seguridad vial;
 
-*Fracción adicionada DOF 06-02-1976. Reformada DOF 29-01-2016*
+*Fracción adicionada DOF 06-02-1976. Reformada DOF 29-01-2016, 18-12-2020*
 
 XXIX-D. Para expedir leyes sobre planeación nacional del desarrollo económico y social, así como en materia de información estadística y geográfica de interés nacional;
 
@@ -2518,9 +2538,9 @@ XXIX-O. Para legislar en materia de protección de datos personales en posesión
 
 *Fracción adicionada DOF 30-04-2009*
 
-XXIX-P. Expedir leyes que establezcan la concurrencia de la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos y cumpliendo con los tratados internacionales de la materia de los que México sea parte;
+XXIX-P. Expedir leyes que establezcan la concurrencia de la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos, así como en materia de formación y desarrollo integral de la juventud, cumpliendo con los tratados internacionales de la materia de los que México sea parte;
 
-*Fracción adicionada DOF 12-10-2011. Reformada DOF 29-01-2016*
+*Fracción adicionada DOF 12-10-2011. Reformada DOF 29-01-2016, 24-12-2020*
 
 XXIX-Q. Para legislar sobre iniciativa ciudadana y consultas populares.
 
@@ -3116,9 +3136,9 @@ El ejercicio de estas atribuciones se realizará de conformidad con la Ley del C
 
 ##### Artículo 94.
 
-Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en un Tribunal Electoral, en Tribunales Colegiados y Unitarios de Circuito y en Juzgados de Distrito.
+Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en un Tribunal Electoral, en Plenos Regionales, en Tribunales Colegiados de Circuito, en Tribunales Colegiados de Apelación y en Juzgados de Distrito.
 
-*Párrafo reformado DOF 31-12-1994, 22-08-1996, 11-06-1999*
+*Párrafo reformado DOF 31-12-1994, 22-08-1996, 11-06-1999, 11-03-2021*
 
 La administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación, estarán a cargo del Consejo de la Judicatura Federal en los términos que, conforme a las bases que señala esta Constitución, establezcan las leyes.
 
@@ -3130,33 +3150,37 @@ La Suprema Corte de Justicia de la Nación se compondrá de once integrantes, Mi
 
 En los términos que la ley disponga las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público.
 
-La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la competencia de los Tribunales de Circuito, de los Juzgados de Distrito y del Tribunal Electoral, así como las responsabilidades en que incurran los servidores públicos del Poder Judicial de la Federación, se regirán por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
+La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la competencia de los Plenos Regionales, de los Tribunales de Circuito, de los Juzgados de Distrito y del Tribunal Electoral, así como las responsabilidades en que incurran las servidoras y los servidores públicos del Poder Judicial de la Federación, se regirán por lo que dispongan las leyes y los acuerdos generales correspondientes, de conformidad con las bases que esta Constitución establece.
 
-*Párrafo reformado DOF 22-08-1996*
+*Párrafo reformado DOF 22-08-1996, 11-03-2021*
 
-El Consejo de la Judicatura Federal determinará el número, división en circuitos, competencia territorial y especialización por materias, entre las que se incluirá la de radiodifusión, telecomunicaciones y competencia económica, de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+El Consejo de la Judicatura Federal determinará el número, división en circuitos, competencia territorial y especialización por materias, entre las que se incluirá la de radiodifusión, telecomunicaciones y competencia económica, de los Tribunales Colegiados de Circuito, de los Tribunales Colegiados de Apelación y de los Juzgados de Distrito.
 
-*Párrafo reformado DOF 31-12-1994, 11-06-2013*
+*Párrafo reformado DOF 31-12-1994, 11-06-2013, 11-03-2021*
 
-Asimismo, mediante acuerdos generales establecerá Plenos de Circuito, atendiendo al número y especialización de los Tribunales Colegiados que pertenezcan a cada Circuito. Las leyes determinarán su integración y funcionamiento.
+Asimismo, mediante acuerdos generales establecerán Plenos Regionales, los cuales ejercerán jurisdicción sobre los circuitos que los propios acuerdos determinen. Las leyes establecerán su integración y funcionamiento.
 
-*Párrafo adicionado DOF 06-06-2011*
+*Párrafo adicionado DOF 06-06-2011. Reformado DOF 11-03-2021*
 
 La ley establecerá la forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
 
 *Párrafo adicionado DOF 06-06-2019*
 
-El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la Corte, así como remitir a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los asuntos, aquéllos en los que hubiera establecido jurisprudencia o los que, conforme a los referidos acuerdos, la propia Corte determine para una mejor impartición de justicia. Dichos acuerdos surtirán efectos después de publicados.
+El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la Corte, así como remitir asuntos a los Plenos Regionales y a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los mismos. Dichos acuerdos surtirán efectos después de publicados.
 
-*Párrafo reformado DOF 31-12-1994, 11-06-1999, 06-06-2011*
+*Párrafo reformado DOF 31-12-1994, 11-06-1999, 06-06-2011, 11-03-2021*
 
 Los juicios de amparo, las controversias constitucionales y las acciones de inconstitucionalidad se substanciarán y resolverán de manera prioritaria cuando alguna de las Cámaras del Congreso, a través de su presidente, o el Ejecutivo Federal, por conducto del consejero jurídico del gobierno, justifique la urgencia atendiendo al interés social o al orden público, en los términos de lo dispuesto por las leyes reglamentarias.
 
 *Párrafo adicionado DOF 06-06-2011*
 
-La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los Tribunales del Poder Judicial de la Federación y los Plenos de Circuito sobre la interpretación de la Constitución y normas generales, así como los requisitos para su interrupción y sustitución.
+La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los Tribunales del Poder Judicial de la Federación sobre la interpretación de la Constitución y normas generales, así como los requisitos para su interrupción.
 
-*Párrafo reformado DOF 06-06-2011*
+*Párrafo reformado DOF 06-06-2011, 11-03-2021*
+
+Las razones que justifiquen las decisiones contenidas en las sentencias dictadas por el Pleno de la Suprema Corte de Justicia de la Nación por mayoría de ocho votos, y por las Salas, por mayoría de cuatro votos, serán obligatorias para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas.
+
+*Párrafo adicionado DOF 11-03-2021*
 
 La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito, los Jueces de Distrito y los Consejeros de la Judicatura Federal, así como los Magistrados Electorales, no podrá ser disminuida durante su encargo.
 
@@ -3212,13 +3236,21 @@ En caso de que la Cámara de Senadores rechace la totalidad de la terna propuest
 
 ##### Artículo 97.
 
-Los Magistrados de Circuito y los Jueces de Distrito serán nombrados y adscritos por el Consejo de la Judicatura Federal, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezca la ley. Durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados o promovidos a cargos superiores, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
+Las Magistradas y los Magistrados de Circuito, así como las Juezas y los Jueces de Distrito serán nombrados y adscritos por el Consejo de la Judicatura Federal, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezcan las disposiciones aplicables. Durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
+
+*Párrafo reformado DOF 11-03-2021*
+
+El ingreso, formación y permanencia de las Magistradas y los Magistrados de Circuito, las Juezas y los Jueces de Distrito, y demás personal de la carrera judicial del Poder Judicial de la Federación, se sujetarán a la regulación establecida en las disposiciones aplicables.
+
+*Párrafo adicionado DOF 11-03-2021*
 
 La Suprema Corte de Justicia de la Nación podrá solicitar al Consejo de la Judicatura Federal que averigüe la conducta de algún juez o magistrado federal.
 
 *Párrafo reformado DOF 10-06-2011*
 
-La Suprema Corte de Justicia nombrará y removerá a su secretario y demás funcionarios y empleados. Los Magistrados y jueces nombrarán y removerán a los respectivos funcionarios y empleados de los Tribunales de Circuito y de los Juzgados de Distrito, conforme a lo que establezca la ley respecto de la carrera judicial.
+La Suprema Corte de Justicia nombrará y removerá a sus secretarios, secretarias y demás funcionarios y empleados. El nombramiento y remoción de las funcionarias, los funcionarios y empleados de los Tribunales de Circuito y de los Juzgados de Distrito, se realizará conforme a lo que establezcan las disposiciones aplicables.
+
+*Párrafo reformado DOF 11-03-2021*
 
 Cada cuatro años, el Pleno elegirá de entre sus miembros al Presidente de la Suprema Corte de Justicia de la Nación, el cual no podrá ser reelecto para el período inmediato posterior.
 
@@ -3302,7 +3334,9 @@ Las salas del Tribunal Electoral harán uso de los medios de apremio necesarios 
 
 Sin perjuicio de lo dispuesto por el artículo 105 de esta Constitución, las salas del Tribunal Electoral podrán resolver la no aplicación de leyes sobre la materia electoral contrarias a la presente Constitución. Las resoluciones que se dicten en el ejercicio de esta facultad se limitarán al caso concreto sobre el que verse el juicio. En tales casos la Sala Superior informará a la Suprema Corte de Justicia de la Nación.
 
-Cuando una sala del Tribunal Electoral sustente una tesis sobre la inconstitucionalidad de algún acto o resolución o sobre la interpretación de un precepto de esta Constitución, y dicha tesis pueda ser contradictoria con una sostenida por las salas o el Pleno de la Suprema Corte de Justicia, cualquiera de los Ministros, las salas o las partes, podrán denunciar la contradicción en los términos que señale la ley, para que el pleno de la Suprema Corte de Justicia de la Nación decida en definitiva cuál tesis debe prevalecer. Las resoluciones que se dicten en este supuesto no afectarán los asuntos ya resueltos.
+Cuando una sala del Tribunal Electoral sustente un criterio sobre la inconstitucionalidad de algún acto o resolución o sobre la interpretación de un precepto de esta Constitución, y dicho criterio pueda ser contradictorio con uno sostenido por las salas o el Pleno de la Suprema Corte de Justicia, cualquiera de las Ministras y Ministros, las salas o las partes, podrán denunciar la contradicción en los términos que señale la ley, para que el Pleno de la Suprema Corte de Justicia de la Nación decida en definitiva cuál criterio debe prevalecer. Las resoluciones que se dicten en este supuesto no afectarán los asuntos ya resueltos.
+
+*Párrafo reformado DOF 11-03-2021*
 
 La organización del Tribunal, la competencia de las salas, los procedimientos para la resolución de los asuntos de su competencia, así como los mecanismos para fijar criterios de jurisprudencia obligatorios en la materia, serán los que determinen esta Constitución y las leyes.
 
@@ -3318,7 +3352,9 @@ Los Magistrados Electorales que integren las salas regionales deberán satisface
 
 En caso de vacante definitiva se nombrará a un nuevo Magistrado por el tiempo restante al del nombramiento original.
 
-El personal del Tribunal regirá sus relaciones de trabajo conforme a las disposiciones aplicables al Poder Judicial de la Federación y a las reglas especiales y excepciones que señale la ley.
+El personal del Tribunal regirá sus relaciones de trabajo conforme a las disposiciones aplicables al Poder Judicial de la Federación y a las reglas especiales y excepciones que señale la ley. El ingreso, formación, permanencia y demás aspectos inherentes a las servidoras y los servidores públicos que pertenezcan al servicio de carrera judicial se sujetarán a la regulación establecida en las disposiciones jurídicas aplicables.
+
+*Párrafo reformado DOF 11-03-2021*
 
 *Artículo reformado DOF 20-08-1928, 31-12-1994, 22-08-1996, 27-09-2007, 13-11-2007*
 
@@ -3346,15 +3382,29 @@ Los Consejeros no representan a quien los designa, por lo que ejercerán su func
 
 *Párrafo reformado DOF 11-06-1999*
 
-La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+La ley establecerá las bases para la formación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El Consejo de la Judicatura Federal contará con una Escuela Federal de Formación Judicial encargada de implementar los procesos de formación, capacitación y actualización del personal jurisdiccional y administrativo del Poder Judicial de la Federación y sus órganos auxiliares, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
+
+*Párrafo reformado DOF 11-03-2021*
+
+El servicio de defensoría pública en asuntos del fuero federal será proporcionado por el Consejo de la Judicatura Federal a través del Instituto Federal de Defensoría Pública, en los términos que establezcan las disposiciones aplicables. La Escuela Federal de Formación Judicial será la encargada de capacitar a las y los defensores públicos, así como de llevar a cabo los concursos de oposición.
+
+*Párrafo adicionado DOF 11-03-2021*
 
 De conformidad con lo que establezca la ley, el Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. La Suprema Corte de Justicia podrá solicitar al Consejo la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional federal. El Pleno de la Corte también podrá revisar y, en su caso, revocar los que el Consejo apruebe, por mayoría de cuando menos ocho votos. La ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
 
 *Párrafo reformado DOF 11-06-1999*
 
-Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno, en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación y remoción de magistrados y jueces, las cuales podrán ser revisadas por la Suprema Corte de Justicia, únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca la ley orgánica respectiva.
+Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno, en contra de las mismas, salvo las que se refieran a la adscripción, ratificación y remoción de Magistradas, Magistrados, Juezas y Jueces las cuales podrán ser revisadas por la Suprema Corte de Justicia, únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca esta Constitución y la ley.
 
-*Párrafo reformado DOF 11-06-1999*
+*Párrafo reformado DOF 11-06-1999, 11-03-2021*
+
+En contra de la designación de Magistradas, Magistrados, Juezas y Jueces, no procede recurso alguno, pero los resultados de los concursos de oposición podrán ser impugnados ante el Pleno del Consejo de la Judicatura Federal.
+
+*Párrafo adicionado DOF 11-03-2021*
+
+El Consejo de la Judicatura Federal podrá concentrar en uno o más órganos jurisdiccionales para que conozcan de los asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos. La decisión sobre la idoneidad de la concentración deberá tomarse en función del interés social y el orden público, lo que constituirá una excepción a las reglas de turno y competencia.
+
+*Párrafo adicionado DOF 11-03-2021*
 
 La Suprema Corte de Justicia elaborará su propio presupuesto y el Consejo lo hará para el resto del Poder Judicial de la Federación, sin perjuicio de lo dispuesto en el párrafo séptimo del artículo 99 de esta Constitución. Los presupuestos así elaborados serán remitidos por el Presidente de la Suprema Corte para su inclusión en el proyecto de Presupuesto de Egresos de la Federación. La administración de la Suprema Corte de Justicia corresponderá a su Presidente.
 
@@ -3454,7 +3504,7 @@ La Comisión Nacional de los Derechos Humanos podrá investigar hechos que const
 
 *Párrafo adicionado DOF 10-06-2011. Reformado DOF 29-01-2016*
 
-*Apartado B adicionado DOF 28-01-1992. Reformado 13-09-1999*
+*Apartado B adicionado DOF 28-01-1992. Reformado DOF 13-09-1999*
 
 *Artículo reformado DOF 11-09-1940, 25-10-1967*
 
@@ -3506,9 +3556,9 @@ VIII. De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
 
 La Suprema Corte de Justicia de la Nación conocerá, en los términos que señale la ley reglamentaria, de los asuntos siguientes:
 
-I. De las controversias constitucionales que, con excepción de las que se refieran a la materia electoral, se susciten entre:
+I. De las controversias constitucionales que, sobre la constitucionalidad de las normas generales, actos u omisiones, con excepción de las que se refieran a la materia electoral, se susciten entre:
 
-*Párrafo reformado DOF 08-12-2005, 15-10-2012*
+*Párrafo reformado DOF 08-12-2005, 15-10-2012, 11-03-2021*
 
 a) La Federación y una entidad federativa;
 
@@ -3534,29 +3584,35 @@ f) Se deroga.
 
 g) Dos municipios de diversos Estados;
 
-h) Dos Poderes de una misma entidad federativa, sobre la constitucionalidad de sus actos o disposiciones generales;
+h) Dos Poderes de una misma entidad federativa;
 
-*Inciso reformado DOF 29-01-2016*
+*Inciso reformado DOF 29-01-2016, 11-03-2021*
 
-i) Un Estado y uno de sus municipios, sobre la constitucionalidad de sus actos o disposiciones generales;
+i) Un Estado y uno de sus Municipios;
 
-j) Una entidad federativa y un Municipio de otra o una demarcación territorial de la Ciudad de México, sobre la constitucionalidad de sus actos o disposiciones generales, y
+*Inciso reformado DOF 11-03-2021*
 
-*Inciso reformado DOF 11-06-2013, 29-01-2016*
+j) Una Entidad Federativa y un Municipio de otra o una demarcación territorial de la Ciudad de México;
 
-k) Se deroga.
+*Inciso reformado DOF 11-06-2013, 29-01-2016, 11-03-2021*
 
-*Inciso reformado DOF 11-06-2013. Derogado DOF 29-01-2016*
+k) Dos órganos constitucionales autónomos de una entidad federativa, y entre uno de éstos y el Poder Ejecutivo o el Poder Legislativo de esa entidad federativa, y
 
-l) Dos órganos constitucionales autónomos, y entre uno de éstos y el Poder Ejecutivo de la Unión o el Congreso de la Unión sobre la constitucionalidad de sus actos o disposiciones generales. Lo dispuesto en el presente inciso será aplicable al organismo garante que establece el artículo 6o. de esta Constitución.
+*Inciso reformado DOF 11-06-2013. Derogado DOF 29-01-2016. Adicionado DOF 11-03-2021*
 
-*Inciso adicionado DOF 11-06-2013. Reformado DOF 07-02-2014*
+l) Dos órganos constitucionales autónomos federales, y entre uno de éstos y el Poder Ejecutivo de la Unión o el Congreso de la Unión.
 
-Siempre que las controversias versen sobre disposiciones generales de las entidades federativas, de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por la Federación; de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por las entidades federativas, o en los casos a que se refieren los incisos c) y h) anteriores, y la resolución de la Suprema Corte de Justicia de la Nación las declare inválidas, dicha resolución tendrá efectos generales cuando hubiere sido aprobada por una mayoría de por lo menos ocho votos.
+*Inciso adicionado DOF 11-06-2013. Reformado DOF 07-02-2014, 11-03-2021*
 
-*Párrafo reformado DOF 29-01-2016*
+Siempre que las controversias versen sobre disposiciones generales de las entidades federativas, de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por la Federación; de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por las entidades federativas, o en los casos a que se refieren los incisos c), h), k) y l) anteriores, y la resolución de la Suprema Corte de Justicia de la Nación las declare inválidas, dicha resolución tendrá efectos generales cuando hubiere sido aprobada por una mayoría de por lo menos ocho votos.
+
+*Párrafo reformado DOF 29-01-2016, 11-03-2021*
 
 En los demás casos, las resoluciones de la Suprema Corte de Justicia tendrán efectos únicamente respecto de las partes en la controversia.
+
+En las controversias previstas en esta fracción únicamente podrán hacerse valer violaciones a esta Constitución, así como a los derechos humanos reconocidos en los tratados internacionales de los que el Estado Mexicano sea parte.
+
+*Párrafo adicionado DOF 11-03-2021*
 
 II. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.
 
@@ -3610,9 +3666,9 @@ Las leyes electorales federal y locales deberán promulgarse y publicarse por lo
 
 Las resoluciones de la Suprema Corte de Justicia sólo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por una mayoría de cuando menos ocho votos.
 
-III. De oficio o a petición fundada del correspondiente Tribunal Unitario de Circuito o del Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, así como del Fiscal General de la República en los asuntos en que intervenga el Ministerio Público, podrá conocer de los recursos de apelación en contra de sentencias de Jueces de Distrito dictadas en aquellos procesos en que la Federación sea parte y que por su interés y trascendencia así lo ameriten.
+III. De oficio o a petición fundada del correspondiente Tribunal Colegiado de Apelación o del Ejecutivo Federal, por conducto de la Consejera o Consejero Jurídico del Gobierno, así como de la o el Fiscal General de la República en los asuntos en que intervenga el Ministerio Público, podrá conocer de los recursos de apelación en contra de sentencias de los Juzgados de Distrito dictadas en aquellos procesos en que la Federación sea parte y que por su interés y trascendencia así lo ameriten.
 
-*Fracción reformada DOF 10-02-2014*
+*Fracción reformada DOF 10-02-2014, 11-03-2021*
 
 La declaración de invalidez de las resoluciones a que se refieren las fracciones I y II de este artículo no tendrá efectos retroactivos, salvo en materia penal, en la que regirán los principios generales y disposiciones legales aplicables de esta materia.
 
@@ -3640,9 +3696,13 @@ Tratándose de actos o resoluciones provenientes de tribunales judiciales, admin
 
 II. Las sentencias que se pronuncien en los juicios de amparo sólo se ocuparán de los quejosos que lo hubieren solicitado, limitándose a ampararlos y protegerlos, si procediere, en el caso especial sobre el que verse la demanda.
 
-Cuando en los juicios de amparo indirecto en revisión se resuelva la inconstitucionalidad de una norma general por segunda ocasión consecutiva, la Suprema Corte de Justicia de la Nación lo informará a la autoridad emisora correspondiente.
+Cuando en los juicios de amparo indirecto en revisión se resuelva la inconstitucionalidad de una norma general, la Suprema Corte de Justicia de la Nación lo informará a la autoridad emisora correspondiente.
 
-Cuando los órganos del Poder Judicial de la Federación establezcan jurisprudencia por reiteración en la cual se determine la inconstitucionalidad de una norma general, la Suprema Corte de Justicia de la Nación lo notificará a la autoridad emisora. Transcurrido el plazo de 90 días naturales sin que se supere el problema de inconstitucionalidad, la Suprema Corte de Justicia de la Nación emitirá, siempre que fuere aprobada por una mayoría de cuando menos ocho votos, la declaratoria general de inconstitucionalidad, en la cual se fijarán sus alcances y condiciones en los términos de la ley reglamentaria.
+*Párrafo reformado DOF 11-03-2021*
+
+Cuando los Tribunales Colegiados de Circuito establezcan jurisprudencia por reiteración, o la Suprema Corte de Justicia de la Nación por precedentes, en la cual se determine la inconstitucionalidad de una norma general, su Presidente lo notificará a la autoridad emisora. Transcurrido el plazo de 90 días naturales sin que se supere el problema de inconstitucionalidad, la Suprema Corte de Justicia de la Nación emitirá, siempre que fuere aprobada por una mayoría de cuando menos ocho votos, la declaratoria general de inconstitucionalidad, en la cual se fijarán sus alcances y condiciones en los términos de la ley reglamentaria.
+
+*Párrafo reformado DOF 11-03-2021*
 
 Lo dispuesto en los dos párrafos anteriores no será aplicable a normas generales en materia tributaria.
 
@@ -3710,9 +3770,9 @@ VII. El amparo contra actos u omisiones en juicio, fuera de juicio o después de
 
 *Fe de erratas a la fracción DOF 14-03-1951. Fracción reformada DOF 25-10-1967, 06-06-2011*
 
-VIII. Contra las sentencias que pronuncien en amparo los Jueces de Distrito o los Tribunales Unitarios de Circuito procede revisión. De ella conocerá la Suprema Corte de Justicia:
+VIII. Contra las sentencias que pronuncien en amparo las Juezas y los Jueces de Distrito o los Tribunales Colegiados de Apelación procede revisión. De ella conocerá la Suprema Corte de Justicia:
 
-*Párrafo reformado DOF 31-12-1994*
+*Párrafo reformado DOF 31-12-1994, 11-03-2021*
 
 a) Cuando habiéndose impugnado en la demanda de amparo normas generales por estimarlas directamente violatorias de esta Constitución, subsista en el recurso el problema de constitucionalidad.
 
@@ -3728,9 +3788,9 @@ En los casos no previstos en los párrafos anteriores, conocerán de la revisió
 
 *Fe de erratas a la fracción DOF 14-03-1951. Fracción reformada DOF 25-10-1967, 08-10-1974, 10-08-1987*
 
-IX. En materia de amparo directo procede el recurso de revisión en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales, establezcan la interpretación directa de un precepto de esta Constitución u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que fijen un criterio de importancia y trascendencia, según lo disponga la Suprema Corte de Justicia de la Nación, en cumplimiento de los acuerdos generales del Pleno. La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales, sin poder comprender otras;
+IX. En materia de amparo directo procede el recurso de revisión en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales, establezcan la interpretación directa de un precepto de esta Constitución u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que a juicio de la Suprema Corte de Justicia de la Nación el asunto revista un interés excepcional en materia constitucional o de derechos humanos. La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales, sin poder comprender otras. En contra del auto que deseche el recurso no procederá medio de impugnación alguno;
 
-*Fracción reformada DOF 25-10-1967, 10-08-1987, 11-06-1999, 06-06-2011*
+*Fracción reformada DOF 25-10-1967, 10-08-1987, 11-06-1999, 06-06-2011, 11-03-2021*
 
 X. Los actos reclamados podrán ser objeto de suspensión en los casos y mediante las condiciones que determine la ley reglamentaria, para lo cual el órgano jurisdiccional de amparo, cuando la naturaleza del acto lo permita, deberá realizar un análisis ponderado de la apariencia del buen derecho y del interés social.
 
@@ -3738,29 +3798,25 @@ Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en ma
 
 *Fe de erratas a la fracción DOF 14-03-1951. Fracción reformada DOF 25-10-1967, 06-06-2011*
 
-XI. La demanda de amparo directo se presentará ante la autoridad responsable, la cual decidirá sobre la suspensión. En los demás casos la demanda se presentará ante los Juzgados de Distrito o los Tribunales Unitarios de Circuito los cuales resolverán sobre la suspensión, o ante los tribunales de las entidades federativas en los casos que la ley lo autorice;
+XI. La demanda de amparo directo se presentará ante la autoridad responsable, la cual decidirá sobre la suspensión. En los demás casos, la demanda se presentará ante los Juzgados de Distrito o los Tribunales Colegiados de Apelación los cuales resolverán sobre la suspensión, o ante los tribunales de las entidades federativas en los casos que la ley lo autorice;
 
-*Fracción reformada DOF 25-10-1967, 10-08-1987, 31-12-1994, 06-06-2011, 29-01-2016*
+*Fracción reformada DOF 25-10-1967, 10-08-1987, 31-12-1994, 06-06-2011, 29-01-2016, 11-03-2021*
 
-XII. La violación de las garantías de los artículos 16, en materia penal, 19 y 20 se reclamará ante el superior del tribunal que la cometa, o ante el Juez de Distrito o Tribunal Unitario de Circuito que corresponda, pudiéndose recurrir, en uno y otro caso, las resoluciones que se pronuncien, en los términos prescritos por la fracción VIII.
+XII. La violación de las garantías de los artículos 16, en materia penal, 19 y 20 se reclamará ante el superior del tribunal que la cometa, o ante el Juzgado de Distrito o Tribunal Colegiado de Apelación que corresponda, pudiéndose recurrir, en uno y otro caso, las resoluciones que se pronuncien, en los términos prescritos por la fracción VIII.
 
-Si el Juez de Distrito o el Tribunal Unitario de Circuito no residieren en el mismo lugar en que reside la autoridad responsable, la ley determinará el juez o tribunal ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca;
+Si el Juzgado de Distrito o el Tribunal Colegiado de Apelación no residieren en el mismo lugar en que reside la autoridad responsable, la ley determinará el juzgado o tribunal ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
 
-*Fe de erratas a la fracción DOF 14-03-1951. Fracción reformada DOF 25-10-1967, 31-12-1994*
+*Fe de erratas a la fracción DOF 14-03-1951. Fracción reformada DOF 25-10-1967, 31-12-1994, 11-03-2021*
 
-XIII. Cuando los Tribunales Colegiados de un mismo Circuito sustenten tesis contradictorias en los juicios de amparo de su competencia, el Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, los mencionados tribunales y sus integrantes, los Jueces de Distrito, las partes en los asuntos que los motivaron o el Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, podrán denunciar la contradicción ante el Pleno del Circuito correspondiente, a fin de que decida la tesis que debe prevalecer como jurisprudencia.
+XIII. Cuando los Tribunales Colegiados de Circuito de la misma región sustenten criterios contradictorios en los juicios de amparo de su competencia, el o la Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, los mencionados tribunales y sus integrantes, las y los Jueces de Distrito, las partes en los asuntos que los motivaron o el Ejecutivo Federal, por conducto de la o el Consejero Jurídico del Gobierno podrán denunciar la contradicción ante el Pleno Regional correspondiente, a fin de que decida el criterio que debe prevalecer como precedente.
 
-*Párrafo reformado DOF 10-02-2014*
+Cuando los Plenos Regionales sustenten criterios contradictorios al resolver las contradicciones o los asuntos de su competencia, según corresponda, las Ministras y los Ministros de la Suprema Corte de Justicia de la Nación, los mismos Plenos Regionales, así como los órganos a que se refiere el párrafo anterior podrán denunciar la contradicción ante la Suprema Corte de Justicia, con el objeto de que el Pleno o la Sala respectiva decida el criterio que deberá prevalecer.
 
-Cuando los Plenos de Circuito de distintos Circuitos, los Plenos de Circuito en materia especializada de un mismo Circuito o los Tribunales Colegiados de un mismo Circuito con diferente especialización sustenten tesis contradictorias al resolver las contradicciones o los asuntos de su competencia, según corresponda, los Ministros de la Suprema Corte de Justicia de la Nación, los mismos Plenos de Circuito, así como los órganos a que se refiere el párrafo anterior, podrán denunciar la contradicción ante la Suprema Corte de Justicia, con el objeto de que el Pleno o la Sala respectiva, decida la tesis que deberá prevalecer.
+Cuando las Salas de la Suprema Corte de Justicia de la Nación sustenten criterios contradictorios en los juicios de amparo cuyo conocimiento les competa, los ministros, los Tribunales Colegiados de Circuito y sus integrantes, las y los Jueces de Distrito, el o la Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, el Ejecutivo Federal, por conducto de la o el Consejero Jurídico del Gobierno, o las partes en los asuntos que las motivaron podrán denunciar la contradicción ante el Pleno de la Suprema Corte, conforme a la ley reglamentaria, para que éste resuelva la contradicción.
 
-Cuando las Salas de la Suprema Corte de Justicia de la Nación sustenten tesis contradictorias en los juicios de amparo cuyo conocimiento les competa, los ministros, los Tribunales Colegiados de Circuito y sus integrantes, los Jueces de Distrito, el Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, el Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, o las partes en los asuntos que las motivaron, podrán denunciar la contradicción ante el Pleno de la Suprema Corte, conforme a la ley reglamentaria, para que éste resuelva la contradicción.
+Las resoluciones que pronuncien el Pleno o las Salas de la Suprema Corte de Justicia así como los Plenos Regionales conforme a los párrafos anteriores, sólo tendrán el efecto de fijar la jurisprudencia y no afectarán las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción;
 
-*Párrafo reformado DOF 10-02-2014*
-
-Las resoluciones que pronuncien el Pleno o las Salas de la Suprema Corte de Justicia así como los Plenos de Circuito conforme a los párrafos anteriores, sólo tendrán el efecto de fijar la jurisprudencia y no afectarán las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción;
-
-*Fe de erratas a la fracción DOF 14-03-1951. Fracción reformada DOF 25-10-1967, 31-12-1994, 06-06-2011*
+*Fe de erratas a la fracción DOF 14-03-1951. Reformada DOF 25-10-1967, 31-12-1994, 06-06-2011, 10-02-2014, 11-03-2021*
 
 XIV. Se deroga;
 
@@ -3774,7 +3830,9 @@ XVI. Si la autoridad incumple la sentencia que concedió el amparo, pero dicho i
 
 Si concedido el amparo, se repitiera el acto reclamado, la Suprema Corte de Justicia de la Nación, de acuerdo con el procedimiento establecido por la ley reglamentaria, procederá a separar de su cargo al titular de la autoridad responsable, y dará vista al Ministerio Público Federal, salvo que no hubiera actuado dolosamente y deje sin efectos el acto repetido antes de que sea emitida la resolución de la Suprema Corte de Justicia de la Nación.
 
-El cumplimiento sustituto de las sentencias de amparo podrá ser solicitado por el quejoso al órgano jurisdiccional, o decretado de oficio por la Suprema Corte de Justicia de la Nación, cuando la ejecución de la sentencia afecte a la sociedad en mayor proporción a los beneficios que pudiera obtener el quejoso, o cuando, por las circunstancias del caso, sea imposible o desproporcionadamente gravoso restituir la situación que imperaba antes de la violación. El incidente tendrá por efecto que la ejecutoria se dé por cumplida mediante el pago de daños y perjuicios al quejoso. Las partes en el juicio podrán acordar el cumplimiento sustituto mediante convenio sancionado ante el propio órgano jurisdiccional.
+El cumplimiento sustituto de las sentencias de amparo podrá ser solicitado por el quejoso o decretado de oficio por el órgano jurisdiccional que hubiera emitido la sentencia de amparo, cuando la ejecución de la sentencia afecte a la sociedad en mayor proporción a los beneficios que pudiera obtener el quejoso o cuando por las circunstancias del caso, sea imposible o desproporcionadamente gravoso restituir la situación que imperaba antes de la violación. El incidente tendrá por efecto que la ejecutoria se dé por cumplida mediante el pago de daños y perjuicios al quejoso. Las partes en el juicio podrán acordar el cumplimiento sustituto mediante convenio sancionado ante el propio órgano jurisdiccional.
+
+*Párrafo reformado DOF 11-03-2021*
 
 No podrá archivarse juicio de amparo alguno, sin que se haya cumplido la sentencia que concedió la protección constitucional;
 
@@ -3802,7 +3860,9 @@ Para los efectos de las responsabilidades a que alude este Título se reputarán
 
 *Párrafo reformado DOF 22-08-1996, 13-11-2007, 29-01-2016*
 
-El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
+Durante el tiempo de su encargo, el Presidente de la República podrá ser imputado y juzgado por traición a la patria, hechos de corrupción, delitos electorales y todos aquellos delitos por los que podría ser enjuiciado cualquier ciudadano o ciudadana.
+
+*Párrafo reformado DOF 19-02-2021*
 
 Los ejecutivos de las entidades federativas, los diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales, en su caso, los miembros de los Consejos de las Judicaturas Locales, los integrantes de los Ayuntamientos y Alcaldías, los miembros de los organismos a los que las Constituciones Locales les otorgue autonomía, así como los demás servidores públicos locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo y aplicación indebidos de fondos y recursos federales.
 
@@ -3886,7 +3946,9 @@ Si la resolución de la Cámara fuese negativa se suspenderá todo procedimiento
 
 Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley.
 
-Por lo que toca al Presidente de la República, sólo habrá lugar a acusarlo ante la Cámara de Senadores en los términos del artículo 110. En este supuesto, la Cámara de Senadores resolverá con base en la legislación penal aplicable.
+Para proceder penalmente contra el Presidente de la República, sólo habrá lugar a acusarlo ante la Cámara de Senadores en los términos del artículo 110. En este supuesto, la Cámara de Senadores resolverá con base en la legislación penal aplicable.
+
+*Párrafo reformado DOF 19-02-2021*
 
 Para poder proceder penalmente por delitos federales contra los ejecutivos de las entidades federativas, diputados locales, magistrados de los Tribunales Superiores de Justicia de las entidades federativas, en su caso los miembros de los Consejos de las Judicaturas Locales, y los miembros de los organismos a los que las Constituciones Locales les otorgue autonomía se seguirá el mismo procedimiento establecido en este artículo, pero en este supuesto, la declaración de procedencia será para el efecto de que se comunique a las Legislaturas Locales, para que en ejercicio de sus atribuciones procedan como corresponda.
 
@@ -4072,7 +4134,9 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 V. Los Municipios, en los términos de las leyes federales y Estatales relativas, estarán facultados para:
 
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial;
+
+*Inciso reformado DOF 18-12-2020*
 
 b) Participar en la creación y administración de sus reservas territoriales;
 
@@ -4096,7 +4160,9 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 
 *Fracción reformada DOF 23-12-1999*
 
-VI. Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas formen o tiendan a formar una continuidad demográfica, la Federación, las entidades federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la ley federal de la materia.
+VI. Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas formen o tiendan a formar una continuidad demográfica, la Federación, las entidades federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros, incluyendo criterios para la movilidad y seguridad vial, con apego a las leyes federales de la materia.
+
+*Fracción reformada DOF 18-12-2020*
 
 VII. La policía preventiva estará al mando del presidente municipal en los términos de la Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
@@ -4516,7 +4582,9 @@ Los bienes inmuebles de la Federación ubicados en la Ciudad de México estarán
 
 C. La Federación, la Ciudad de México, así como sus demarcaciones territoriales, y los Estados y Municipios conurbados en la Zona Metropolitana, establecerán mecanismos de coordinación administrativa en materia de planeación del desarrollo y ejecución de acciones regionales para la prestación de servicios públicos, en términos de la ley que emita el Congreso de la Unión.
 
-Para la eficaz coordinación a que se refiere el párrafo anterior, dicha ley establecerá las bases para la organización y funcionamiento del Consejo de Desarrollo Metropolitano, al que corresponderá acordar las acciones en materia de asentamientos humanos; protección al ambiente; preservación y restauración del equilibrio ecológico; transporte; tránsito; agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos, y seguridad pública.
+Para la eficaz coordinación a que se refiere el párrafo anterior, dicha ley establecerá las bases para la organización y funcionamiento del Consejo de Desarrollo Metropolitano, al que corresponderá acordar las acciones en materia de asentamientos humanos; movilidad y seguridad vial; protección al ambiente; preservación y restauración del equilibrio ecológico; transporte; tránsito; agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos, y seguridad pública.
+
+*Párrafo reformado DOF 18-12-2020*
 
 La ley que emita el Congreso de la Unión establecerá la forma en la que se tomarán las determinaciones del Consejo de Desarrollo Metropolitano, mismas que podrán comprender:
 
@@ -5142,65 +5210,319 @@ Al Ciudadano ……
 
 A partir del 3 de septiembre de 1993
 
+### DECRETO por el que se reforman los artículos 65 y 66 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 3 de septiembre de 1993*
+
+**ARTICULO UNICO.-** Se reforman el primer párrafo del artículo 65 y el primer párrafo del artículo 66 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………..
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** El período ordinario correspondiente a noviembre y diciembre del año de 1993 y los períodos ordinarios correspondientes al año de 1994, se celebrarán de acuerdo con las fechas que han venido rigiendo en los términos del Decreto de reformas publicado el 7 de abril de 1986.
+
+**TERCERO.-** A partir del 15 de marzo de 1995 los períodos de sesiones ordinarias se celebrarán de acuerdo con las fechas establecidas por el presente Decreto.
+
+**CUARTO.-** Los diputados que se elijan a la LVI legislatura del Congreso de la Unión durarán en sus funciones del 1o. de noviembre de 1994 al 31 agosto de 1997.
+
+**QUINTO.-** Los senadores que se elijan a las LVI y LVII legislaturas del Congreso de la Unión durarán en sus funciones del 1o. de noviembre de 1994 al 31 de agosto del año 2000.
+
+Los senadores que se elijan en 1997 durarán en sus funciones del 1o. de noviembre de dicho año, al 31 de agosto del año 2000.
+
+SALON DE SESIONES DE LA COMISION PERMANENTE DEL H. CONGRESO DE LA UNION.- México, D.F., a 2 de septiembre de 1993.- Sen. Emilio M. González, Presidente.- Sen. Antonio Melgar Aranda, Secretario.- Dip. Juan Campos Vega, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de septiembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+*Fe de erratas al párrafo DOF 06-09-1993*
+
 ### DECRETO por el que se reforman los artículos 41, 54, 56, 60, 63, 74 y 100 de la Constitución Política de los Estados Unidos Mexicanos.
 
 *Publicado en el Diario Oficial de la Federación el 3 de septiembre de 1993*
 
+**ARTICULO PRIMERO.-** Se modifica el artículo 41 de la Constitución Política de los Estados Unidos Mexicanos con la adición de un párrafo sexto; los actuales párrafos sexto, séptimo, octavo y noveno se recorren en su orden para quedar como párrafos séptimo, octavo, noveno y décimo; se modifica y se recorre en su orden el actual párrafo décimo para quedar como párrafo décimo primero; se deroga el actual párrafo décimo primero y se adicionan los párrafos décimo segundo, décimo tercero, décimo cuarto, décimo quinto, décimo sexto y décimo séptimo; se recorre el actual párrafo décimo segundo para quedar como párrafo décimo octavo; y se adicionan los párrafos décimo noveno y vigésimo en los siguientes términos:
+
+………
+
+**ARTICULO SEGUNDO.-** Se reforman y adicionan los artículos 54, 56, 60, 63, 74 fracción I, y 100 para quedar en los siguientes términos:
+
+………
+
 **TRANSITORIOS**
 
-**Artículo Primero.-** El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+**Artículo Primero.** El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-**Artículo Segundo.-** Permanecerán en sus cargos los actuales Magistrados del Tribunal Federal Electoral electos por la Cámara de Diputados del Congreso de la Unión, según Decreto publicado en el Diario Oficial de la Federación el 3 de octubre de 1990.
+**Artículo Segundo.** Permanecerán en sus cargos los actuales Magistrados del Tribunal Federal Electoral electos por la Cámara de Diputados del Congreso de la Unión, según Decreto publicado en el Diario Oficial de la Federación el 3 de octubre de 1990.
 
-**Artículo Tercero.-** En la elección federal de 1994 se elegirán, para cada Estado y el Distrito Federal, dos senadores de mayoría relativa y uno de primera minoría a las Legislaturas LVI y LVII del Congreso de la Unión, quienes durarán en funciones del 1o. de noviembre de 1994 a la fecha del término del ejercicio de la última legislatura citada. Para esta elección, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos en cada entidad federativa.
+**Artículo Tercero.** En la elección federal de 1994 se elegirán, para cada Estado y el Distrito Federal, dos senadores de mayoría relativa y uno de primera minoría a las Legislaturas LVI y LVII del Congreso de la Unión, quienes durarán en funciones del 1o. de noviembre de 1994 a la fecha del término del ejercicio de la última legislatura citada. Para esta elección, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos en cada entidad federativa.
 
-**Artículo Cuarto.-** Los diputados federales a la LVI Legislatura durarán en su encargo del 1o. de noviembre de 1994 a la fecha en que concluya la citada legislatura.
+*Reforma DOF 22-08-1996: Derogó del artículo el entonces párrafo segundo*
 
-**Artículo Quinto.-** La elección federal para integrar la LVI Legislatura de la Cámara de Diputados del H. Congreso de la Unión, se realizará con base en la distribución de los distritos uninominales y las cinco circunscripciones plurinominales en que se dividió el país para el proceso electoral federal de 1991. Para la elección federal de 1997, por la que se integrará la LVII Legislatura, se hará la nueva distribución de distritos uninominales con base en los resultados definitivos del censo general de población de 1990.
+**Artículo Cuarto.** Los diputados federales a la LVI Legislatura durarán en su encargo del 1o. de noviembre de 1994 a la fecha en que concluya la citada legislatura.
 
-**Artículo Sexto.-** Se derogan todas las disposiciones que se opongan a las reformas establecidas en el presente Decreto.
+**Artículo Quinto.** La elección federal para integrar la LVI Legislatura de la Cámara de Diputados del H. Congreso de la Unión, se realizará con base en la distribución de los distritos uninominales y las cinco circunscripciones plurinominales en que se dividió el país para el proceso electoral federal de 1991. Para la elección federal de 1997, por la que se integrará la LVII Legislatura, se hará la nueva distribución de distritos uninominales con base en los resultados definitivos del censo general de población de 1990.
+
+**Artículo Sexto.** Se derogan todas las disposiciones que se opongan a las reformas establecidas en el presente Decreto.
 
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL H. CONGRESO DE LA UNION.- México, D.F., a 2 de septiembre de 1993.- Sen. Emilio M. González, Presidente.- Sen. Antonio Melgar Aranda, Secretario.- Dip. Juan Campos Vega, Secretario.- Rúbricas."
 
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de septiembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+*Fe de erratas al párrafo DOF 06-09-1993*
+
+### DECRETO por el que se reforman los artículos 16, 19, 20 y 119 y se deroga la fracción XVIII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 3 de septiembre de 1993*
+
+**ARTICULO UNICO.-** Se reforman los artículos 16, 19, 20 y 119 y se deroga la fracción XVIII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto por el Artículo Segundo Transitorio.
+
+**SEGUNDO.-** Lo previsto en el párrafo primero de la fracción I, del artículo 20 Constitucional del presente Decreto, entrará en vigor al año contado a partir de la presente publicación.
+
+SALON DE SESIONES DE LA COMISION PERMANENTE DEL H. CONGRESO DE LA UNION.- México, D.F., a 2 de septiembre de 1993.- Sen. Emilio M. González, Presidente.- Sen. Antonio Melgar Aranda, Secretario.- Dip. Juan Campos Vega, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de septiembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+*Fe de erratas al párrafo DOF 06-09-1993*
+
+### FE de erratas al Decreto por el que se reforman los artículos 65 y 66 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 3 de septiembre de 1993.
+
+*Publicada en el Diario Oficial de la Federación el 6 de septiembre de 1993*
+
+En la página 2, segunda columna, renglón 22, dice:
+
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de septiembre de mil novecientos noventa y tres.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+Debe decir:
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de septiembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+### FE de erratas al Decreto por el que se reforman los artículos 41, 54, 56, 60, 63, 74 y 100 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 3 de septiembre de 1993.
+
+*Publicada en el Diario Oficial de la Federación el 6 de septiembre de 1993*
+
+En la página 5, primera columna, renglón 13, dice:
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de septiembre de mil novecientos noventa y tres.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+Debe decir:
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de septiembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+### FE de erratas al Decreto por el que se reforman los artículos 16, 19, 20 y 119 y se deroga la fracción XVIII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 3 de septiembre de 1993.
+
+*Publicada en el Diario Oficial de la Federación el 6 de septiembre de 1993*
+
+En la página 6, segunda columna, renglón 55, dice:
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de septiembre de mil novecientos noventa y tres.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+Debe decir:
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de septiembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
 ### DECRETO por el que se reforman los artículos 31, 44, 73, 74, 79, 89, 104, 105, 107, 122, así como la denominación del título quinto, adición de una fracción IX al artículo 76 y un primer párrafo al 119 y se deroga la fracción XVII del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos.
 
 *Publicado en el Diario Oficial de la Federación el 25 de octubre de 1993*
 
+**ARTICULO UNICO.-** Se reforman los artículos 31, fracción IV; 44; 73, fracciones VI, VIII y XXIX-H; 74, fracción IV, en sus párrafos primero, segundo y séptimo; 79, fracción II; 89, fracción II; 104 fracción 1-B; 105; y 107, fracción VIII, inciso a); la denominación del Título Quinto y el artículo 122. Se adicionan los artículos 76 con una fracción IX y 119 con un primer párrafo, pasando los actuales primero y segundo a ser segundo y tercero, respectivamente, y se deroga la fracción XVII del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, para quedar en los siguientes términos.
+
+………
+
 **TRANSITORIOS**
 
-**Artículo Primero.-** El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
+**PRIMERO.-** El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
 
-**Artículo Segundo.-** La Asamblea de Representantes del Distrito Federal electa para el período noviembre de 1991 a noviembre de 1994, continuará teniendo las facultades establecidas en la fracción VI del artículo 73 de esta Constitución vigentes al momento de entrar en vigor el presente Decreto.
+**SEGUNDO.-** La Asamblea de Representantes del Distrito Federal electa para el periodo noviembre de 1991 a noviembre de 1994, continuará teniendo las facultades establecidas en la fracción VI del artículo 73 de esta Constitución vigentes al momento de entrar en vigor el presente Decreto.
 
-**Artículo Tercero.-** La III Asamblea de Representantes del Distrito Federal, tendrá las facultades que le otorga el presente Decreto, y será la que se integre para el período que comenzará el 15 de noviembre de 1994 y concluirá el 16 de septiembre de 1997.
+**TERCERO.-** La III Asamblea de Representantes del Distrito Federal, tendrá las facultades que le otorga el presente Decreto, y será la que se integre para el periodo que comenzará el 15 de noviembre de 1994 y concluirá el 16 de septiembre de 1997.
 
-**Artículo Cuarto.-** A partir del 15 de marzo de 1995, los períodos de sesiones ordinarias de la Asamblea de Representantes del Distrito Federal se celebrarán de acuerdo con las fechas establecidas por el presente decreto.
+**CUARTO.-** A partir del 15 de marzo de 1995, los periodos de sesiones ordinarias de la Asamblea de Representantes del Distrito Federal se celebrarán de acuerdo con las fechas establecidas por el presente decreto.
 
-**Artículo Quinto.-** El primer nombramiento para el cargo de Jefe del Distrito Federal, en los términos de este Decreto se verificará en el mes de diciembre de 1997 y el período constitucional respectivo concluirá el 2 de diciembre del año 2000. En tanto dicho Jefe asume su encargo, el gobierno del Distrito Federal seguirá a cargo del Presidente de la República de acuerdo con la base 1a de la fracción VI del artículo 73 de esta Constitución vigente al momento de entrar en vigor el presente Decreto. El Ejecutivo Federal mantendrá la facultad de nombrar y remover libremente al titular del órgano u órganos de gobierno del Distrito Federal y continuará ejerciendo para el Distrito Federal, en lo conducente, las facultades establecidas en la fracción I del artículo 89 de esta Constitución.
+**QUINTO.-** El primer nombramiento para el cargo de Jefe del Distrito Federal, en los términos de este Decreto se verificará en el mes de diciembre de 1997 y el periodo constitucional respectivo concluirá el 2 de diciembre del año 2000. En tanto dicho Jefe asume su encargo, el gobierno del Distrito Federal seguirá a cargo del Presidente de la República de acuerdo con la base 1a. de la fracción VI del artículo 73 de esta Constitución vigente al momento de entrar en vigor el presente Decreto. El Ejecutivo Federal mantendrá la facultad de nombrar y remover libremente al titular del órgano u órganos de gobierno del Distrito Federal y continuará ejerciendo para el Distrito Federal, en lo conducente, las facultades establecidas en la fracción I del artículo 89 de esta Constitución.
 
-**Artículo Sexto.-** Los consejos de ciudadanos por demarcación territorial se elegirán e instalarán en 1995, conforme a las disposiciones del Estatuto de Gobierno y las leyes respectivas.
+**SEXTO.-** Los consejos de ciudadanos por demarcación territorial se elegirán e instalarán en 1995, conforme a las disposiciones del Estatuto de Gobierno y las leyes respectivas.
 
-**Artículo Séptimo.-** Los servidores públicos que se readscriban a la administración pública del Distrito Federal y sus dependencias conservarán todos sus derechos laborales.
+**SEPTIMO.-** Los servidores públicos que se readscriban a la administración pública del Distrito Federal y sus dependencias conservarán todos sus derechos laborales.
 
-**Artículo Octavo.-** Las iniciativas de leyes de ingresos y de decretos de presupuesto de egresos del Distrito Federal para los ejercicios 1995, 1996 y 1997, así como las cuentas públicas de 1995 y 1996 serán enviados a la Asamblea de Representantes por el Presidente de la República. La cuenta pública correspondiente a 1994 será revisada por la Cámara de Diputados del Congreso de la Unión.
+**OCTAVO.-** Las iniciativas de leyes de ingresos, y de decretos de presupuesto de egresos del Distrito Federal para los ejercicios 1995, 1996 y 1997, así como las cuentas públicas de 1995 y 1996 serán enviados a la Asamblea de Representantes por el Presidente de la República. La cuenta pública correspondiente a 1994 será revisada por la Cámara de Diputados del Congreso de la Unión.
 
-**Artículo Noveno.-** En tanto se reforman y expidan las disposiciones que coordinen el sistema fiscal entre la Federación y el Distrito Federal, continuarán aplicándose las normas que sobre la materia rijan al entrar en vigor el presente Decreto.
+**NOVENO.-** En tanto se reforman y expidan las disposiciones que coordinen el sistema fiscal entre la Federación y el Distrito Federal, continuarán aplicándose las normas que sobre la materia rijan al entrar en vigor el presente Decreto.
 
-**Artículo Décimo.-** En tanto se expidan las nuevas normas aplicables al Distrito Federal continuarán rigiendo las disposiciones legales y reglamentarias vigentes.
+**DECIMO.-** En tanto se expidan las nuevas normas aplicables al Distrito Federal continuarán rigiendo las disposiciones legales y reglamentarias vigentes.
 
-**Artículo Décimo Primero.-** El Congreso de la Unión conservará la facultad de legislar, en el ámbito local, en las materias de orden común, civil y penal para el Distrito Federal, en tanto se expidan los ordenamientos de carácter federal correspondientes, a cuya entrada en vigor, corresponderá a la Asamblea de Representantes legislar sobre el particular, en los términos del presente Decreto.
+**DECIMO PRIMERO.-** El Congreso de la Unión conservará la facultad de legislar, en el ámbito local, en las materias de orden común, civil y penal para el Distrito Federal, en tanto se expidan los ordenamientos de carácter federal correspondientes, a cuya entrada en vigor, corresponderá a la Asamblea de Representantes legislar sobre el particular, en los términos del presente Decreto.
+
+SALON DE SESIONES DE LA COMISION PERMANENTE DEL H. CONGRESO DE LA UNION.- México, D. F., a 20 de octubre de 1993.- Sen. Emilio M. González, Presidente.- Sen. Antonio Melgar Aranda, Secretario.- Dip. Ma. Luisa Urrecha Beltrán, Secretaria.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de octubre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+### DECRETO por el que se reforman los párrafos octavo, noveno, decimoséptimo y decimoctavo del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 19 de abril de 1994*
+
+**ARTICULO UNICO.-** Se reforman los párrafos octavo, noveno, decimoséptimo y decimoctavo del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**UNICO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SALON DE SESIONES DE LA COMISION PERMANENTE DEL H. CONGRESO DE LA UNION.- México, D.F., a 15 de abril de 1994.- Dip. Ma. de los Angeles Moreno Uriegas, Presidenta.- Dip. Francisco José Paoli Bolio, Secretario.- Sen. Gustavo Salinas Iñiguez, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de abril de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Jorge Carpizo.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción I del Artículo 82 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 1 de julio de 1994*
+
+**ARTICULO UNICO.-** Se modifica el artículo 82, fracción I, de la Constitución Política de los Estados Unidos Mexicanos para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**ARTICULO UNICO.-** El presente Decreto entrará en vigor el día 31 de diciembre de 1999.
+
+México, D.F., a 28 de junio de 1994.- Sen. Ricardo Monreal Avila, Presidente.- Dip. Javier Colorado Pulido, Presidente.- Sen. Oscar Ramírez Mijares, Secretario.- Dip. José Raúl Hernández Avila, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de junio de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Jorge Carpizo.- Rúbrica.
+
+### DECRETO mediante el cual se declaran reformados los artículos 21, 55, 73, 76, 79, 89, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 110, 111, 116, 122 y 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1994*
+
+**ARTICULO UNICO.-** Se adicionan tres párrafos al artículo 21; se reforma la fracción V del artículo 55; se restablece la fracción XXIII del artículo 73; se reforman las fracciones II y VIII del artículo 76; se reforman las fracciones II y V del artículo 79; se reforman las fracciones II, IX, XVI y XVIII del artículo 89; se reforma el párrafo segundo del artículo 93; se reforman los párrafos primero, segundo, quinto, sexto, octavo, noveno y se adiciona un décimo, del artículo 94; se reforman las fracciones II, III y V, se adiciona una VI y un último párrafo, del artículo 95; se reforma el artículo 96; se reforma el artículo 97; se reforma el artículo 98; se reforma el artículo 99; se reforma el artículo 100; se reforma el artículo 101; se reforman los párrafos primero, tercero, quinto y se adiciona un último, del artículo 102 apartado A; se reforman las fracciones II y III del artículo 103; se reforma la fracción IV del artículo 104; se reforma el artículo 105; se reforma el artículo 106; se reforman las fracciones V último párrafo, VIII párrafos primero y penúltimo, XI, XII párrafos primero y segundo, XIII párrafo primero y XVI, del artículo 107; se reforma el párrafo tercero del artículo 108; se reforman los párrafos primero y segundo del artículo 110; se reforman los párrafos primero y quinto del artículo 111; se reforma la fracción III, párrafo tercero y se deroga el párrafo quinto, hecho lo cual se recorre la numeración, del artículo 116; se reforma y adiciona la fracción VII del artículo 122, y se reforma la fracción XII, párrafo segundo del Apartado B del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los artículos Octavo y Noveno siguientes.
+
+**SEGUNDO.-** Los actuales Ministros de la Suprema Corte de Justicia de la Nación concluirán sus funciones a la entrada en vigor del presente Decreto. Recibirán una pensión igual a la que para casos de retiro forzoso prevé el "Decreto que establece las Causas de Retiro Forzoso o Voluntario de los Ministros de la Suprema Corte de Justicia de la Nación".
+
+A los Ministros citados en el párrafo anterior, no les serán aplicables los impedimentos a que se refieren el último párrafo del artículo 94 y el tercer párrafo del artículo 101, reformados por virtud del presente Decreto.
+
+De regresar al ejercicio de sus funciones, de conformidad con el procedimiento previsto en el artículo 96 reformado por virtud del presente Decreto, se suspenderá el derecho concedido en el primer párrafo de este artículo, durante el tiempo en que continúen en funciones.
+
+**TERCERO.-** Para la nominación y aprobación de los primeros ministros que integrarán la Suprema Corte de Justicia de la Nación, conforme a las reformas previstas en el presente Decreto, el titular del Ejecutivo Federal propondrá ante la Cámara de Senadores, a 18 personas, de entre las cuales dicha Cámara aprobará, en su caso, los nombramientos de 11 ministros, con el voto de las dos terceras partes de sus miembros.
+
+**CUARTO.-** Para los efectos del primer párrafo del artículo 97 de este Decreto de Reformas, la ley que reglamente la selección, ingreso, promoción o remoción de los miembros del Poder Judicial Federal, distinguirá los casos y procedimientos que deban resolverse conforme a las fracciones I, II y III del artículo 109 de la Constitución.
+
+La Cámara de Senadores, previa comparecencia de las personas propuestas, emitirá su resolución dentro del improrrogable plazo de treinta días naturales.
+
+El período de los Ministros, vencerá el último día de noviembre del año 2003, del 2006, del 2009 y del 2012, para cada dos de ellos y el último día de noviembre del año 2015, para los tres restantes. Al aprobar los nombramientos, el Senado deberá señalar cuál de los períodos corresponderá a cada Ministro.
+
+Una vez aprobado el nombramiento de, por lo menos, siete Ministros, se realizará una sesión solemne de apertura e instalación, en la cual se designará al Presidente de la Suprema Corte de Justicia de la Nación.
+
+**QUINTO.-** Los magistrados de Circuito y el Juez de Distrito electos la primera vez para integrar el Consejo de la Judicatura Federal, serán Consejeros por un período que vencerá el último día de noviembre del año 2001. El período de uno de los Consejeros designados por el Senado y el designado por el Ejecutivo, vencerá el último día de noviembre de 1999 y el correspondiente al Consejero restante, el último día de noviembre del año 1997. El Senado y el Ejecutivo Federal deberán designar a sus representantes dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto e indicarán cuál de los períodos corresponde a cada Consejero.
+
+El Consejo quedará instalado una vez designados cinco de sus miembros, siempre y cuando uno de ellos sea su Presidente.
+
+**SEXTO.-** En tanto quedan instalados la Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal, en términos de los transitorios Tercero y Quinto anteriores, la última Comisión de Gobierno y Administración de la propia Corte, ejercerá las funciones de ésta y atenderá los asuntos administrativos del Poder Judicial de la Federación. En esa virtud, lo señalado en el artículo segundo transitorio será aplicable, en su caso, a los miembros de la citada Comisión, una vez que haya quedado formalmente instalada la Suprema Corte de Justicia, en términos de lo dispuesto en el presente Decreto.
+
+Corresponde a la propia Comisión convocar a la sesión solemne de apertura e instalación a que se refiere el artículo Tercero transitorio, así como tomar las medidas necesarias para que la primera insaculación de los Magistrados de Circuito y del Juez de Distrito que serán Consejeros, se haga en los días inmediatos siguientes a la entrada en vigor del presente Decreto.
+
+La Comisión dejará de funcionar una vez que haya dado cuenta de los asuntos atendidos conforme a los párrafos anteriores, a la Suprema Corte o al Consejo de la Judicatura Federal, según corresponda, cuando estos últimos se encuentren instalados.
+
+**SEPTIMO.-** El Magistrado, el Juez de Primera Instancia y el Juez de Paz electos la primera vez para integrar el Consejo de la Judicatura del Distrito Federal, serán Consejeros por un período que vencerá el último día de noviembre del año 2001. El período de uno de los Consejeros designados por la Asamblea de Representantes del Distrito Federal y el designado por el Jefe del Departamento del Distrito Federal vencerá el último día de noviembre de 1999, y el correspondiente al Consejero restante, el último día de noviembre de 1997. La Asamblea y el Jefe del Departamento deberán designar a sus representantes dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto e indicarán cuál de los períodos corresponde a cada Consejero.
+
+El Consejo quedará instalado una vez designados cinco de sus miembros.
+
+El Pleno del Tribunal Superior de Justicia continuará a cargo de los asuntos administrativos, hasta en tanto quede constituido el Consejo. Asimismo, tomará las medidas necesarias para que la elección del Magistrado y del Juez de Primera Instancia que serán Consejeros, se haga en los días inmediatos siguientes a la entrada en vigor del presente Decreto.
+
+**OCTAVO.-** Las reformas al artículo 105, entrarán en vigor en la misma fecha en que entre en vigor la ley reglamentaria correspondiente.
+
+**NOVENO.-** Los procesos a que aluden los artículos que se reforman, iniciados con anterioridad continuarán tramitándose conforme a las disposiciones vigentes al entrar en vigor el presente Decreto.
+
+Las reformas a la fracción XVI del artículo 107, entrarán en vigor en la misma fecha en que entren en vigor las reformas a la ley reglamentaria de los artículos 103 y 107 constitucionales.
+
+**DECIMO.-** Los conflictos de carácter laboral entre el Poder Judicial de la Federación y sus servidores, iniciados con anterioridad, continuarán tramitándose conforme a las disposiciones vigentes, al entrar en vigor el presente Decreto, ante el Consejo de la Judicatura Federal o la Suprema Corte de Justicia, según corresponda, una vez integrados conforme a los artículos Tercero y Quinto transitorios anteriores.
+
+**DECIMO PRIMERO.-** En tanto se expidan las disposiciones legales, reglamentarias y acuerdos generales a que se refieren los preceptos constitucionales que se reforman por el presente Decreto, seguirán aplicándose los vigentes al entrar en vigor las reformas, en lo que no se opongan a éstas.
+
+**DECIMO SEGUNDO.-** Los derechos laborales de los servidores públicos del Poder Judicial de la Federación serán respetados íntegramente.
+
+SALON DE SESIONES DE LA COMISION PERMANENTE DEL H. CONGRESO DE LA UNION.- México, D.F., a 30 de diciembre de 1994.- Dip. Humberto Roque Villanueva, Presidente.- Dip. Juan Salgado Brito, Secretario.- Sen. María Elena Chapa Hernández, Secretaria.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consititución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos noventa y cuatro.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
+
+### FE de erratas al Decreto por el que se declaran reformados diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado el 31 de diciembre de 1994.
+
+*Publicada en el Diario Oficial de la Federación el 3 de enero de 1995*
+
+I.- En la página 7, Primera Sección, segunda columna, renglón 47 (artículo 108), dice:
+
+fondos y recursos federales.
+
+Debe decir:
+
+fondos y recursos federales.
+
+. . .
+
+II.- En la página 8, Primera Sección, segunda columna, renglón 30 (artículo 122, fracción VII), dice:
+
+cargo del Jefe del Distrito Federal
+
+Debe decir:
+
+cargo de Jefe del Distrito Federal
+
+### DECRETO por el que se declara reformado el cuarto párrafo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 2 de marzo de 1995*
+
+**ARTICULO UNICO.-** Se reforma el cuarto párrafo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………..
+
+**TRANSITORIO**
+
+**UNICO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SALON DE SESIONES DE LA COMISION PERMANENTE DEL H. CONGRESO DE LA UNION.- México, D.F., a 27 de febrero de 1995.- Dip. Humberto Roque Villanueva, Presidente.- Dip. Juan Salgado Brito, Secretario.- Dip. Gerardo de Jesús Arellano Aguilar, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, el día primero del mes de marzo de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
+
+### DECRETO mediante el cual se declaran reformados los artículos 16, 20 fracción I y penúltimo párrafo, 21, 22 y 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 3 de julio de 1996*
+
+**ARTICULO UNICO.-** Se adicionan dos párrafos al artículo 16, como noveno y décimo, hecho lo cual, los párrafos subsecuentes se recorren en su orden; se reforma el artículo 20, fracción I y penúltimo párrafo; se reforma el artículo 21, párrafo primero; se reforma el artículo 22, párrafo segundo; se reforma el artículo 73, fracción XXI y se le adiciona un segundo párrafo; todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SALON DE SESIONES DE LA COMISION PERMANENTE DEL H. CONGRESO DE LA UNION.- México, D.F., a 26 de junio de 1996.- Sen. Fernando Ortiz Arana, Presidente.- Dip. Martina Montenegro Espinoza, Secretaria.- Sen. Francisco Xavier Salazar Saenz, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de julio de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 
 ### DECRETO mediante el cual se declaran reformados diversos artículos de la Constitución Política de los Estados Unidos Mexicanos.
 
 *Publicado en el Diario Oficial de la Federación el 22 de agosto de 1996*
 
-**TRANSITORIOS**
+**ARTÍCULO ÚNICO.** SE REFORMAN la fracción III del artículo 35; la fracción III del artículo 36; el artículo 41, de su párrafo segundo en adelante; el artículo 54, de su fracción II en adelante; el artículo 56; los párrafos segundo y tercero del artículo 60; la fracción I del artículo 74; los párrafos primero, cuarto y octavo del artículo 94; el artículo 99; los párrafos primero y segundo del artículo 101; el encabezado y el párrafo tercero, que se recorre con el mismo texto para quedar como párrafo quinto de la fracción II del artículo 105; el primer párrafo del artículo 108; el primer párrafo del artículo 110; el primer párrafo del artículo 111; el tercer párrafo de la fracción II del artículo 116; y el artículo 122; SE ADICIONAN dos párrafos, tercero y cuarto, al artículo 98; un inciso f) y dos párrafos, tercero y cuarto, a la fracción II del artículo 105; y una fracción IV al artículo 116, por lo que se recorren en su orden las fracciones IV, V y VI vigentes, para quedar como V, VI y VII; SE DEROGAN la fracción VI del artículo 73; y el segundo párrafo del artículo tercero de los Artículos Transitorios del Decreto de fecha 2 de septiembre de 1993, publicado en el Diario Oficial de la Federación el 3 del mismo mes y año, por el que se reformaron los Artículos 41, 54, 56, 60, 63, 74 y 100; todos de esta Constitución, para quedar en los siguientes términos:
 
-**Artículo Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos siguientes.
+……….
 
-**Artículo Segundo.-** Las adiciones contenidas en la fracción ll del artículo 105 del presente Decreto, únicamente por lo que se refiere a las legislaciones electorales de los Estados, que por los calendarios vigentes de sus procesos la jornada electoral deba celebrarse antes del primero de abril de 1997, entrarán en vigor a partir del 1o. de enero de 1997.
+**ARTÍCULOS TRANSITORIOS**
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos siguientes.
+
+**SEGUNDO.** Las adiciones contenidas en la fracción ll del artículo 105 del presente Decreto, únicamente por lo que se refiere a las legislaciones electorales de los Estados, que por los calendarios vigentes de sus procesos la jornada electoral deba celebrarse antes del primero de abril de 1997, entrarán en vigor a partir del 1o. de enero de 1997.
 
 Para las legislaciones electorales federal y locales que se expidan antes del 1o. de abril de 1997 con motivo de las reformas contenidas en el presente Decreto, por única ocasión, no se aplicará el plazo señalado en el párrafo cuarto de la fracción II del artículo 105.
 
@@ -5214,49 +5536,55 @@ Las reformas al artículo 116 contenidas en el presente Decreto no se aplicarán
 
 Todos los demás Estados, que no se encuentren comprendidos en la excepción del párrafo anterior, deberán adecuar su marco constitucional y legal a lo dispuesto por el artículo 116 modificado por el presente Decreto, en un plazo que no excederá de seis meses contado a partir de su entrada en vigor.
 
-**Artículo Tercero.-** A más tardar el 31 de octubre de 1996 deberán estar nombrados el consejero Presidente y el Secretario Ejecutivo del Consejo General del Instituto Federal Electoral, así como los ocho nuevos consejeros electorales y sus suplentes, que sustituirán a los actuales Consejeros Ciudadanos, quienes no podrán ser reelectos. En tanto se hacen los nombramientos o se reforma la ley de la materia, el Consejo General del Instituto Federal Electoral seguirá ejerciendo las competencias y funciones que actualmente le señala el Código Federal de Instituciones y Procedimientos Electorales.
+**TERCERO.** A más tardar el 31 de octubre de 1996 deberán estar nombrados el consejero Presidente y el Secretario Ejecutivo del Consejo General del Instituto Federal Electoral, así como los ocho nuevos consejeros electorales y sus suplentes, que sustituirán a los actuales Consejeros Ciudadanos, quienes no podrán ser reelectos. En tanto se hacen los nombramientos o se reforma la ley de la materia, el Consejo General del Instituto Federal Electoral seguirá ejerciendo las competencias y funciones que actualmente le señala el Código Federal de Instituciones y Procedimientos Electorales.
 
-**Artículo Cuarto.-** En la elección federal de 1997 se elegirán, a la Quincuagésima Séptima Legislatura, treinta y dos senadores según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción plurinominal nacional, y durarán en funciones del 1o. de noviembre de 1997 a la fecha en que concluya la señalada Legislatura. La asignación se hará mediante una fórmula que tome en cuenta el cociente natural y el resto mayor; y se hará en orden decreciente de las listas respectivas. Se deroga el segundo párrafo del Artículo Tercero de los Artículos Transitorios del Decreto de fecha 2 de septiembre de 1993, publicado en el Diario Oficial de la Federación el 3 del mismo mes y año, por el que se reformaron los Artículos 41, 54, 56, 60, 63, 74 y 100 de esta Constitución.
+**CUARTO.** En la elección federal de 1997 se elegirán, a la Quincuagésima Séptima Legislatura, treinta y dos senadores según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción plurinominal nacional, y durarán en funciones del 1o. de noviembre de 1997 a la fecha en que concluya la señalada Legislatura. La asignación se hará mediante una fórmula que tome en cuenta el cociente natural y el resto mayor; y se hará en orden decreciente de las listas respectivas. Se deroga el segundo párrafo del Artículo Tercero de los Artículos Transitorios del Decreto de fecha 2 de septiembre de 1993, publicado en el Diario Oficial de la Federación el 3 del mismo mes y año, por el que se reformaron los Artículos 41, 54, 56, 60, 63, 74 y 100 de esta Constitución.
 
-**Artículo Quinto.-** Los nuevos Magistrados Electorales deberán designarse a más tardar el 31 de octubre de 1996 y, por esta ocasión, requerirán para su elección del voto de las tres cuartas partes de los miembros presentes de la Cámara de Senadores.
+**QUINTO.** Los nuevos Magistrados Electorales deberán designarse a más tardar el 31 de octubre de 1996 y, por esta ocasión, requerirán para su elección del voto de las tres cuartas partes de los miembros presentes de la Cámara de Senadores.
 
-**Artículo Sexto.-** En tanto se expiden o reforman las leyes correspondientes, el Tribunal Federal Electoral seguirá ejerciendo las competencias y funciones que actualmente le señala el Código Federal de Instituciones y Procedimientos Electorales.
+**SEXTO.** En tanto se expiden o reforman las leyes correspondientes, el Tribunal Federal Electoral seguirá ejerciendo las competencias y funciones que actualmente le señala el Código Federal de Instituciones y Procedimientos Electorales.
 
-**Artículo Séptimo.-** El Jefe de Gobierno del Distrito Federal se elegirá en el año de 1997 y ejercerá su mandato, por esta única vez, hasta el día 4 de diciembre del año 2000.
+**SÉPTIMO.** El Jefe de Gobierno del Distrito Federal se elegirá en el año de 1997 y ejercerá su mandato, por esta única vez, hasta el día 4 de diciembre del año 2000.
 
-**Artículo Octavo.-** La norma que determina la facultad para expedir las disposiciones que rijan las elecciones locales en el Distrito Federal señalada en el inciso f) de la fracción V del apartado C del artículo 122 de este Decreto, entrará en vigor el 1o. de enero de 1998. Para la elección en 1997 del Jefe de Gobierno y los diputados a la Asamblea del Distrito Federal, se aplicará el Código Federal de Instituciones y Procedimientos Electorales.
+**OCTAVO.** La norma que determina la facultad para expedir las disposiciones que rijan las elecciones locales en el Distrito Federal señalada en el inciso f) de la fracción V del apartado C del artículo 122 de este Decreto, entrará en vigor el 1o. de enero de 1998. Para la elección en 1997 del Jefe de Gobierno y los diputados a la Asamblea del Distrito Federal, se aplicará el Código Federal de Instituciones y Procedimientos Electorales.
 
-**Artículo Noveno.-** El requisito a que se refiere el párrafo segundo de la fracción I de la BASE SEGUNDA, del apartado C del artículo 122, que prohíbe acceder a Jefe de Gobierno si se hubiese desempeñado tal cargo con cualquier carácter, debe entenderse aplicable a todo ciudadano que haya sido titular de dicho órgano, aunque lo haya desempeñado bajo distinta denominación.
+**NOVENO.** El requisito a que se refiere el párrafo segundo de la fracción I de la BASE SEGUNDA, del apartado C del artículo 122, que prohíbe acceder a Jefe de Gobierno si se hubiese desempeñado tal cargo con cualquier carácter, debe entenderse aplicable a todo ciudadano que haya sido titular de dicho órgano, aunque lo haya desempeñado bajo distinta denominación.
 
-**Artículo Décimo.-** Lo dispuesto en la fracción II de la BASE TERCERA, del apartado C del artículo 122, que se refiere a la elección de los titulares de los órganos político-administrativos en las demarcaciones territoriales del Distrito Federal, entrará en vigor el 1o. de enero del año 2000; en 1997, se elegirán en forma indirecta, en los términos que señale la ley
+**DÉCIMO.** Lo dispuesto en la fracción II de la BASE TERCERA, del apartado C del artículo 122, que se refiere a la elección de los titulares de los órganos político-administrativos en las demarcaciones territoriales del Distrito Federal, entrará en vigor el 1o. de enero del año 2000; en 1997, se elegirán en forma indirecta, en los términos que señale la ley.
 
-**Artículo Décimo Primero.-** La norma que establece la facultad de la Asamblea Legislativa del Distrito Federal para legislar en materias civil y penal para el Distrito Federal entrará en vigor el 1o. de enero de 1999.
+DECIMOPRIMERO. La norma que establece la facultad de la Asamblea Legislativa del Distrito Federal para legislar en materias civil y penal para el Distrito Federal entrará en vigor el 1o. de enero de 1999.
 
-**Artículo Décimo Segundo.-** Continuarán bajo jurisdicción federal los inmuebles sitos en el Distrito Federal, que estén destinados al servicio que prestan los Poderes Federales, así como cualquier otro bien afecto al uso de dichos poderes.
+DECIMOSEGUNDO. Continuarán bajo jurisdicción federal los inmuebles sitos en el Distrito Federal, que estén destinados al servicio que prestan los Poderes Federales, así como cualquier otro bien afecto al uso de dichos poderes.
 
-**Artículo Décimo Tercero.-** Todos los ordenamientos que regulan hasta la fecha a los órganos locales en el Distrito Federal seguirán vigentes en tanto no se expidan por los órganos competentes aquellos que deban sustituirlos conforme a las disposiciones y las bases señaladas en este Decreto.
+DECIMOTERCERO. Todos los ordenamientos que regulan hasta la fecha a los órganos locales en el Distrito Federal seguirán vigentes en tanto no se expidan por los órganos competentes aquellos que deban sustituirlos conforme a las disposiciones y las bases señaladas en este Decreto.
 
-SALÓN DE SESIONES DE LA COMISIÓN PERMANENTE DEL HONORABLE CONGRESO DE LA UNIÓN.- México, D.F., a 21 de agosto de 1996.- Sen. Fernando Ortiz Arana, Presidente.- Dip. Martina Montenegro Espinoza, Secretaria.- Sen. Francisco Xavier Salazar Sáenz, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de agosto de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+SALÓN DE SESIONES DE LA COMISIÓN PERMANENTE DEL HONORABLE CONGRESO DE LA UNIÓN.- México, D.F., a 21 de agosto de 1996.- Sen. Fernando Ortiz Arana, Presidente.- Dip. Martina Montenegro Espinoza, Secretaria.- Sen. Francisco Xavier Salazar Sáenz, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de agosto de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 
 ### DECRETO por el que se declaran reformados los artículos 30, 32 y 37 de la Constitución Política de los Estados Unidos Mexicanos.
 
 *Publicado en el Diario Oficial de la Federación el 20 de marzo de 1997*
 
+**ARTÍCULO ÚNICO.-** Se reforma la fracción II, la fracción III se recorre y pasa a ser IV y se adiciona una nueva fracción III, del apartado A) del artículo 30; se reforma la fracción II del apartado B) del artículo 30; se reforma el artículo 32; y se reforma el apartado A), el apartado B) se recorre y pasa a ser el C), se agrega un nuevo apartado B), se reforma la fracción I y se agrega un último párrafo al nuevo apartado C) del artículo 37; todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
 **TRANSITORIOS**
 
-**Artículo Primero.-** El presente Decreto entrará en vigor al año siguiente de su publicación en el Diario Oficial de la Federación.
+**PRIMERO.-** El presente Decreto entrará en vigor al año siguiente de su publicación en el Diario Oficial de la Federación.
 
-**Artículo Segundo.-** Quienes hayan perdido su nacionalidad mexicana por nacimiento, por haber adquirido voluntariamente una nacionalidad extranjera y si se encuentran en pleno goce de sus derechos, podrán beneficiarse de lo dispuesto en el artículo 37, apartado A), constitucional, previa solicitud que hagan a la Secretaría de Relaciones Exteriores, en cualquier tiempo.
+**SEGUNDO.-** Quienes hayan perdido su nacionalidad mexicana por nacimiento, por haber adquirido voluntariamente una nacionalidad extranjera y si se encuentran en pleno goce de sus derechos, podrán beneficiarse de lo dispuesto en el artículo 37, apartado A), constitucional, previa solicitud que hagan a la Secretaría de Relaciones Exteriores, en cualquier tiempo.
 
 *Artículo reformado DOF 22-07-2004*
 
-**Artículo Tercero.-** Las disposiciones vigentes con anterioridad a la entrada en vigor de este Decreto, seguirán aplicándose a los nacidos o concebidos durante su vigencia, únicamente en todo aquello que les favorezca, sin perjuicio de los beneficios que les otorga la reforma contenida en el presente decreto
+**TERCERO.-** Las disposiciones vigentes con anterioridad a la entrada en vigor de este Decreto, seguirán aplicándose a los nacidos o concebidos durante su vigencia, únicamente en todo aquello que les favorezca, sin perjuicio de los beneficios que les otorga la reforma contenida en el presente decreto
 
 *Artículo reformado DOF 26-02-1999*
 
-**Artículo Cuarto.-** En tanto el Congreso de la Unión emita las disposiciones correspondientes en materia de nacionalidad, seguirá aplicándose la Ley de Nacionalidad vigente, en lo que no se oponga al presente Decreto.
+**CUARTO.-** En tanto el Congreso de la Unión emita las disposiciones correspondientes en materia de nacionalidad, seguirá aplicándose la Ley de Nacionalidad vigente, en lo que no se oponga al presente Decreto.
 
-**Artículo Quinto.-** El último párrafo del apartado C) del artículo 37, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**QUINTO.-** El último párrafo del apartado C) del artículo 37, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SALÓN DE SESIONES DE LA COMISIÓN PERMANENTE DEL H. CONGRESO DE LA UNIÓN.- México, D.F., a 5 de marzo de 1997.- Dip. Juan José Osorio Palacios, Presidente.- Sen. Melquiades Morales Flores, Secretario.- Dip. Armando Ballinas Mayes, Secretario.- Rúbricas."
 
@@ -5266,6 +5594,10 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *Publicado en el Diario Oficial de la Federación el 26 de febrero de 1999*
 
+**ARTICULO UNICO.-** Se reforma el Artículo 3o. transitorio, del decreto por el que se reformaron los artículos 30, 32 y 37 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 20 de Marzo de 1997, para quedar como sigue:
+
+……….
+
 **ARTÍCULO TRANSITORIO**
 
 **Único.-** Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5274,47 +5606,109 @@ SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.-
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de febrero de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 
+### DECRETO por el que se declaran reformados los artículos 16, 19, 22 y 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 8 de marzo de 1999*
+
+**ARTICULO UNICO.-** Se reforma el segundo párrafo del artículo 16; se reforma el primer párrafo, se adiciona un segundo párrafo y los dos subsecuentes pasan a ser tercero y cuarto párrafos del artículo 19; se adiciona un tercer párrafo del artículo 22 y el subsecuente pasa a ser el cuarto párrafo; se reforma el primer párrafo y se adiciona un tercer párrafo a la fracción XIII del apartado B del artículo 123, todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIO**
+
+**Unico.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 3 de febrero de 1999.- Dip. Porfirio Muñoz Ledo, Presidente.- Dip. Felipe Vicencio Alvarez, Secretario.- Sen. Francisco Molina Ruiz, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de marzo de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
+
 ### DECRETO por el que se reforman los artículos 94, 97, 100 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 *Publicado en el Diario Oficial de la Federación el 11 de junio de 1999*
 
+**ARTÍCULO ÚNICO.-** Se reforman los artículos 94, párrafos primero y sexto; 97, último párrafo; 100, párrafos primero, segundo, tercero, quinto, séptimo, octavo y noveno; y 107, fracción IX; se adiciona un segundo párrafo al artículo 94, recorriéndose en su orden los párrafos segundo a décimo para pasar a ser tercero a undécimo y un tercer párrafo al artículo 100, recorriéndose en su orden los párrafos tercero a noveno para pasar a ser cuarto a décimo, todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
 **TRANSITORIOS**
 
-**Artículo Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-**Artículo Segundo.-** Los actuales Consejeros de la Judicatura Federal, con excepción del Presidente del Consejo, concluirán sus funciones a la entrada en vigor del presente decreto.
+**SEGUNDO.-** Los actuales Consejeros de la Judicatura Federal, con excepción del Presidente del Consejo, concluirán sus funciones a la entrada en vigor del presente decreto.
 
 El Pleno de la Suprema Corte de Justicia, el Senado y el Ejecutivo Federal deberán designar a los Consejeros de la Judicatura Federal, de conformidad con el artículo 100 constitucional reformado, a más tardar dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto.
 
 Por única vez, el período de los Consejeros designados por la Suprema Corte de Justicia vencerá el último día de noviembre de 2002, de 2004 y de 2006; el de los designados por el senado el último día de noviembre de 2003 y 2007; y el designado por el Ejecutivo Federal, el último día de noviembre de 2005. Al designar Consejeros, se deberá señalar cual de los períodos corresponderá a cada uno.
 
-**Artículo Tercero.-** En tanto queda instalado el Consejo de la Judicatura Federal, en términos del transitorio que antecede, funcionará una comisión temporal compuesta por el Presidente del Consejo y por los funcionarios que dependan directamente del propio Consejo. Dicha comisión proveerá los trámites y resolverá los asuntos administrativos de notoria urgencia que se presenten, salvo los relacionados con nombramientos, adscripción, ratificación y remoción de jueces y magistrados. Una vez instalado el Consejo, dará cuenta al pleno de las medidas tomadas, a fin de que éste acuerde lo que proceda.
+**TERCERO.-** En tanto queda instalado el Consejo de la Judicatura Federal, en términos del transitorio que antecede, funcionará una comisión temporal compuesta por el Presidente del Consejo y por los funcionarios que dependan directamente del propio Consejo. Dicha comisión proveerá los trámites y resolverá los asuntos administrativos de notoria urgencia que se presenten, salvo los relacionados con nombramientos, adscripción, ratificación y remoción de jueces y magistrados. Una vez instalado el Consejo, dará cuenta al pleno de las medidas tomadas, a fin de que éste acuerde lo que proceda.
 
-**Artículo Cuarto.-** Los procesos a que aluden los artículos que se reforman, iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose conforme a las disposiciones vigentes en el momento en que fueron iniciados.
+**CUARTO.-** Los procesos a que aluden los artículos que se reforman, iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose conforme a las disposiciones vigentes en el momento en que fueron iniciados.
 
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 9 de junio de 1999.- Sen. María de los Angeles Moreno Uriegas, Presidenta.- Sen. Francisco Xavier Salazar Sáenz, Secretario.- Dip. A. Mónica García Velázquez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
+### DECRETO por el que se declara la adición de un párrafo quinto al artículo 4o. Constitucional y se reforma el párrafo primero del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 28 de junio de 1999*
+
+**Artículo Unico.-** Se adiciona un párrafo quinto al artículo 4o., pasando los párrafos quinto y sexto a ser el sexto y séptimo respectivamente, y se reforma el párrafo primero del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**TRANSITORIO:**
+
+**UNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 9 de junio de 1999.- Sen. Ma. de los Angeles Moreno Uriegas, Presidenta.- Sen. Francisco Xavier Salazar Sáenz, Secretario.- Dip. A. Mónica García Velázquez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de junio de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+
+### DECRETO por el que se declara reformada la fracción XXIX-H y se adiciona una fracción XXIX-I al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 28 de junio de 1999*
+
+**ARTICULO UNICO.-** Se reforma la fracción XXIX-H y se adiciona una fracción XXIX-I al Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**TRANSITORIO**
+
+**UNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 9 de junio de 1999.- Sen. Ma. de los Angeles Moreno Uriegas, Presidenta.- Sen. Francisco Xavier Salazar Sáenz, Secretario.- Dip. A. Mónica García Velázquez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de junio de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+
 ### DECRETO por el que se declara la adición de una fracción XXIX-J al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 *Publicado en el Diario Oficial de la Federación el 28 de junio de 1999*
 
+**ARTICULO UNICO.-** Se adiciona una fracción XXIX-J al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
 **TRANSITORIOS**
 
-**Artículo Primero.-** La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**PRIMERO.-** La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-**Artículo Segundo.-** Se fija como plazo máximo para la expedición de la ley reglamentaria de las atribuciones de la Federación en materia de deporte, el de un año.
+**SEGUNDO.-** Se fija como plazo máximo para la expedición de la ley reglamentaria de las atribuciones de la Federación en materia de deporte, el de un año.
 
-SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 9 de junio de 1999.- Sen. Ma. de los Angeles Moreno Uriegas, Presidenta.- Sen. Francisco Xavier Salazar Sáenz, Secretario.- Dip. A. Mónica García Velázquez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de junio de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 9 de junio de 1999.- Sen. Ma. de los Angeles Moreno Uriegas, Presidenta.- Sen. Francisco Xavier Salazar Sáenz, Secretario.- Dip. A. Mónica García Velázquez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de junio de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
 ### DECRETO por el que se declara reformado el artículo 58 de la Constitución Política de los Estados Unidos Mexicanos.
 
 *Publicado en el Diario Oficial de la Federación el 29 de julio de 1999*
 
-**TRANSITORIO**
+**Artículo Unico.-** Se reforma el artículo 58 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-**Artículo Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+………
+
+**Artículo Transitorio**
+
+**Unico.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 14 de julio de 1999.- Sen. María de los Angeles Moreno Uriegas, Presidenta.- Sen. Porfirio Camarena Castro, Secretario.- Sen. Francisco Xavier Salazar Sáenz, Secretario.- Rúbricas."
 
@@ -5324,23 +5718,27 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *Publicado en el Diario Oficial de la Federación el 30 de julio de 1999*
 
+**ARTICULO UNICO.-** Se adicionan con un segundo párrafo y ocho fracciones el artículo 78, con una Sección V el Capítulo II del Título Tercero, así como el artículo 74 fracción IV, párrafo quinto; se reforman los artículos 73, fracción XXIV, 74, fracción II y 79; y se deroga la fracción III del artículo 74 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
 **TRANSITORIOS**
 
-**Artículo Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
 
-**Artículo Segundo.-** La entidad de fiscalización superior de la Federación iniciará sus funciones el 1 de enero del año 2000. La revisión de la Cuenta Pública y las funciones de fiscalización a que se refieren las fracciones I a IV del artículo 79 reformado por este Decreto, se llevarán a cabo, en los términos del propio Decreto, a partir de la revisión de la Cuenta Pública correspondiente al año 2001.
+**SEGUNDO.-** La entidad de fiscalización superior de la Federación iniciará sus funciones el 1 de enero del año 2000. La revisión de la Cuenta Pública y las funciones de fiscalización a que se refieren las fracciones I a IV del artículo 79 reformado por este Decreto, se llevarán a cabo, en los términos del propio Decreto, a partir de la revisión de la Cuenta Pública correspondiente al año 2001.
 
 La entidad de fiscalización superior de la Federación revisará la Cuenta Pública de los años 1998, 1999 y 2000 conforme a las disposiciones vigentes antes de la entrada en vigor de este Decreto.
 
 Las referencias que se hacen en dichas disposiciones a la Contaduría Mayor de Hacienda de la Cámara de Diputados, se entenderán hechas a la entidad de fiscalización superior de la Federación.
 
-**Artículo Tercero.-** En tanto la entidad de fiscalización superior de la Federación no empiece a ejercer las atribuciones a que se refiere este Decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene conforme al artículo 74, fracción IV, de la Constitución, su Ley Orgánica y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en vigor del presente Decreto.
+**TERCERO.-** En tanto la entidad de fiscalización superior de la Federación no empiece a ejercer las atribuciones a que se refiere este Decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene conforme al artículo 74, fracción IV, de la Constitución, su Ley Orgánica y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en vigor del presente Decreto.
 
 Los servidores públicos de la Contaduría Mayor de Hacienda no serán afectados en forma alguna en sus derechos laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
 
 Una vez creada la entidad de fiscalización superior de la Federación, todos los recursos humanos, materiales y patrimoniales en general de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicha entidad.
 
-**Artículo Cuarto.-** El Contador Mayor de Hacienda será titular de la entidad de fiscalización superior de la Federación hasta el 31 de diciembre de 2001; podrá ser ratificado para continuar en dicho encargo hasta completar el período de ocho años a que se refiere el artículo 79 de esta Constitución."
+**CUARTO.-** El Contador Mayor de Hacienda será titular de la entidad de fiscalización superior de la Federación hasta el 31 de diciembre de 2001; podrá ser ratificado para continuar en dicho encargo hasta completar el período de ocho años a que se refiere el artículo 79 de esta Constitución."
 
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 14 de julio de 1999.- Sen. María de los Angeles Moreno Uriegas, Presidenta.- Sen. Porfirio Camarena Castro, Secretario.- Sen. Francisco Xavier Salazar Sáenz, Secretario.- Rúbricas."
 
@@ -5350,21 +5748,25 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *Publicado en el Diario Oficial de la Federación el 13 de septiembre de 1999*
 
+**Artículo Unico.-** Se reforma el artículo 102 apartado B de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
 **TRANSITORIOS**
 
-**Artículo Primero.-** Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**PRIMERO.-** Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-**Artículo Segundo.-** Los actuales integrantes del Consejo Consultivo de la Comisión Nacional de Derechos Humanos, continuarán en su encargo hasta concluir el período para el que fueron designados, pudiendo, en su caso, ser propuestos y elegidos para un segundo período en los términos de lo dispuesto por el quinto párrafo del apartado B del Artículo 102 que se reforma por este Decreto.
+**SEGUNDO.-** Los actuales integrantes del Consejo Consultivo de la Comisión Nacional de Derechos Humanos, continuarán en su encargo hasta concluir el período para el que fueron designados, pudiendo, en su caso, ser propuestos y elegidos para un segundo período en los términos de lo dispuesto por el quinto párrafo del apartado B del Artículo 102 que se reforma por este Decreto.
 
-**Artículo Tercero.-** En un plazo máximo de sesenta días, la Cámara de Senadores o, en su caso, la Comisión Permanente del Congreso de la Unión, deberá elegir al Presidente de la Comisión Nacional de los Derechos Humanos, conforme al procedimiento dispuesto por el apartado B del Artículo 102 que se reforma por este Decreto. Para tal efecto, se observarán las siguientes reglas:
+**TERCERO.-** En un plazo máximo de sesenta días, la Cámara de Senadores o, en su caso, la Comisión Permanente del Congreso de la Unión, deberá elegir al Presidente de la Comisión Nacional de los Derechos Humanos, conforme al procedimiento dispuesto por el apartado B del Artículo 102 que se reforma por este Decreto. Para tal efecto, se observarán las siguientes reglas:
 
 A.- La Comisión correspondiente de la Cámara de Senadores procederá a realizar una amplia auscultación entre las organizaciones sociales representativas de los distintos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los Derechos Humanos.
 
 B.- Con base en la auscultación antes señalada, la Comisión podrá proponer la ratificación de la actual Titular de la Comisión Nacional de Derechos Humanos o, en su caso, integrar una terna de candidatos.
 
-**Artículo Cuarto.-** En tanto el Congreso de la Unión expide las reformas a la Ley de la Comisión Nacional de Derechos Humanos, ésta ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la ley reglamentaria vigente hasta dicha expedición.
+**CUARTO.-** En tanto el Congreso de la Unión expide las reformas a la Ley de la Comisión Nacional de Derechos Humanos, ésta ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la ley reglamentaria vigente hasta dicha expedición.
 
-**Artículo Quinto.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
+**QUINTO.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 18 de agosto de 1999.- Sen. María de los Angeles Moreno Uriegas, Presidenta.- Dip. A. Mónica García Velázquez, Secretaria.- Sen. Porfirio Camarena Castro, Secretario.- Rúbricas."
 
@@ -5374,25 +5776,29 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1999*
 
-**TRANSITORIOS**
+**ARTICULO UNICO.-** Se reforman los párrafos primero, cuarto y quinto de la fracción I; se reforma el párrafo segundo y se adicionan un párrafo tercero y uno cuarto a la fracción II; se reforma el párrafo primero y sus incisos a), c), g), h), e i), el párrafo segundo y se adiciona un párrafo tercero a la fracción III; se reforman los párrafos segundo y tercero, y se adicionan los párrafos cuarto y quinto a la fracción IV; y se reforman las fracciones V y VII; todas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-**Artículo Primero.-** El presente decreto entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación, salvo lo previsto en los artículos siguientes.
+………
 
-**Artículo Segundo.-** Los Estados deberán adecuar sus constituciones y leyes conforme a lo dispuesto en este decreto a más tardar en un año a partir de su entrada en vigor. En su caso, el Congreso de la Unión deberá realizar las adecuaciones a las leyes federales a más tardar el 30 de abril del año 2001.
+**ARTICULOS TRANSITORIOS**
+
+**ARTICULO PRIMERO.** El presente decreto entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación, salvo lo previsto en los artículos siguientes.
+
+**ARTICULO SEGUNDO.** Los Estados deberán adecuar sus constituciones y leyes conforme a lo dispuesto en este decreto a más tardar en un año a partir de su entrada en vigor. En su caso, el Congreso de la Unión deberá realizar las adecuaciones a las leyes federales a más tardar el 30 de abril del año 2001.
 
 En tanto se realizan las adecuaciones a que se refiere el párrafo anterior, se continuarán aplicando las disposiciones vigentes.
 
-**Artículo Tercero.-** Tratándose de funciones y servicios que conforme al presente Decreto sean competencia de los municipios y que a la entrada en vigor de las reformas a que se refiere el artículo transitorio anterior sean prestados por los gobiernos estatales, o de manera coordinada con los municipios, éstos podrán asumirlos, previa aprobación del ayuntamiento. Los gobiernos de los estados dispondrán de lo necesario para que la función o servicio público de que se trate se transfiera al municipio de manera ordenada, conforme al programa de transferencia que presente el gobierno del estado, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud.
+**ARTICULO TERCERO.** Tratándose de funciones y servicios que conforme al presente Decreto sean competencia de los municipios y que a la entrada en vigor de las reformas a que se refiere el artículo transitorio anterior sean prestados por los gobiernos estatales, o de manera coordinada con los municipios, éstos podrán asumirlos, previa aprobación del ayuntamiento. Los gobiernos de los estados dispondrán de lo necesario para que la función o servicio público de que se trate se transfiera al municipio de manera ordenada, conforme al programa de transferencia que presente el gobierno del estado, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud.
 
 En el caso del inciso a) de la fracción III del artículo 115, dentro del plazo señalado en el párrafo anterior, los gobiernos estatales podrán solicitar a la legislatura correspondiente, conservar en su ámbito de competencia los servicios a que se refiere el citado inciso, cuando la transferencia de estado a municipio afecte, en perjuicio de la población, su prestación. La legislatura estatal resolverá lo conducente.
 
 En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
 
-**Artículo Cuarto.-** Los estados y municipios realizarán los actos conducentes a efecto de que los convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este decreto y a las constituciones y leyes estatales.
+**ARTICULO CUARTO.** Los estados y municipios realizarán los actos conducentes a efecto de que los convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este decreto y a las constituciones y leyes estatales.
 
-**Artículo Quinto.-** Antes del inicio del ejercicio fiscal de 2002, las legislaturas de los estados, en coordinación con los municipios respectivos, adoptarán las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+**ARTICULO QUINTO.** Antes del inicio del ejercicio fiscal de 2002, las legislaturas de los estados, en coordinación con los municipios respectivos, adoptarán las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
 
-**Artículo Sexto.-** En la realización de las acciones conducentes al cumplimiento del presente decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+**ARTICULO SEXTO.** En la realización de las acciones conducentes al cumplimiento del presente decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
 
 México, D.F., a 28 de octubre de 1999.- Sen. Cristóbal Arias Solís, Presidente.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Alejandro García Acevedo, Secretario.- Dip. Francisco J. Loyo Ramos, Secretario.- Rúbricas."
 
@@ -5402,23 +5808,45 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *Publicado en el Diario Oficial de la Federación el 7 de abril de 2000*
 
+**ARTICULO UNICO:** Se reforma y adiciona el artículo 4o., último párrafo, de la Constitución General de la República para quedar como sigue:
+
+………
+
 **TRANSITORIO**
 
-**Artículo Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 8 de marzo de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Dip. Sergio Valdés Arias, Secretario.- Dip. Miguel A. Quiroz Pérez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de abril de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
+### FE de erratas al Decreto por el que se declara reformado y adicionado el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, publicado el 7 de abril de 2000.
+
+*Publicada en el Diario Oficial de la Federación el 12 de abril de 2000*
+
+En la página 2, segunda columna, décimo renglón, dice:
+
+El Estado otorgará facilidades a los particulares para que se coadyuven al cumplimiento de los derechos de la niñez.
+
+Debe decir:
+
+El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez".
+
 ### DECRETO por el que se declaran reformadas, adicionadas y derogadas diversas disposiciones del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
 *Publicado en el Diario Oficial de la Federación el 21 de septiembre de 2000*
 
+**ARTICULO PRIMERO.-** Se deroga el último párrafo del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+
+**ARTICULO SEGUNDO.-** Se reforma el párrafo inicial y la fracción IV del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos; se agrupa el contenido del artículo en un apartado A, y se adiciona un apartado B; para quedar como sigue:
+
+………
+
 **TRANSITORIOS**
 
-**Artículo Primero.-** El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
+**ARTICULO PRIMERO.-** El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
 
-**Artículo Segundo.-** Las disposiciones legales vigentes continuarán aplicándose en lo que no se opongan al presente Decreto, en tanto se expiden las normas reglamentarias correspondientes.
+**ARTICULO SEGUNDO.-** Las disposiciones legales vigentes continuarán aplicándose en lo que no se opongan al presente Decreto, en tanto se expiden las normas reglamentarias correspondientes.
 
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 23 de agosto de 2000.- Sen. María de los Angeles Moreno Uriegas, Presidenta.- Sen. José de Jesús Padilla Padilla, Secretario.- Dip. Angelina Muñoz Fernández, Secretario.- Rúbricas."
 
@@ -5428,9 +5856,13 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *Publicado en el Diario Oficial de la Federación el 21 de septiembre de 2000*
 
+**Artículo Unico.-** Se reforma la fracción XXV del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
 **TRANSITORIO**
 
-**Artículo Único.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**UNICO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 23 de agosto de 2000.- Sen. María de los Angeles Moreno Uriegas, Presidenta.- Sen. José de Jesús Padilla Padilla, Secretario.- Dip. Angelina Muñoz Fernández, Secretario.- Rúbricas."
 
@@ -5440,15 +5872,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *Publicado en el Diario Oficial de la Federación el 14 de agosto de 2001*
 
-**TRANSITORIOS**
+**ARTICULO UNICO.-** Se adicionan un segundo y tercer párrafos al artículo 1o.; se reforma en su integridad el artículo 2o. y se deroga el párrafo primero del artículo 4o.; se adicionan: un sexto párrafo al artículo 18, un último párrafo a la fracción tercera del artículo 115, todos de la Constitución Política de los Estados Unidos Mexicanos, así como cuatro Transitorios, para quedar como sigue:
 
-**Artículo Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+……..
 
-**Artículo Segundo.-** Al entrar en vigor estas reformas, el Congreso de la Unión y las Legislaturas de las entidades federativas deberán realizar las adecuaciones a las leyes federales y constituciones locales que procedan y reglamenten lo aquí estipulado.
+**ARTICULOS TRANSITORIOS**
 
-**Artículo Tercero.-** Para establecer la demarcación territorial de los distritos electorales uninominales deberá tomarse en consideración, cuando sea factible, la ubicación de los pueblos y comunidades indígenas, a fin de propiciar su participación política.
+**ARTICULO PRIMERO.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-**Artículo Cuarto.-** El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro de la exposición de motivos y del cuerpo normativo del presente decreto, se traduzca a las lenguas de los pueblos indígenas del país y ordenará su difusión en sus comunidades.
+**ARTICULO SEGUNDO.** Al entrar en vigor estas reformas, el Congreso de la Unión y las Legislaturas de las entidades federativas deberán realizar las adecuaciones a las leyes federales y constituciones locales que procedan y reglamenten lo aquí estipulado.
+
+**ARTICULO TERCERO.** Para establecer la demarcación territorial de los distritos electorales uninominales deberá tomarse en consideración, cuando sea factible, la ubicación de los pueblos y comunidades indígenas, a fin de propiciar su participación política.
+
+**ARTICULO CUARTO.** El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro de la exposición de motivos y del cuerpo normativo del presente decreto, se traduzca a las lenguas de los pueblos indígenas del país y ordenará su difusión en sus comunidades.
 
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 18 de julio de 2001.- Sen. Fidel Herrera Beltrán, Vicepresidente en funciones de Presidente.- Sen. Susana Sthepenson Pérez, Secretaria.- Rúbricas."
 
@@ -5458,9 +5894,13 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *Publicado en el Diario Oficial de la Federación el 14 de junio de 2002*
 
+**ARTICULO UNICO.-** Se modifica la denominación del Título Cuarto y se adiciona un segundo párrafo al artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
 **TRANSITORIO**
 
-**Artículo Único.-** El presente Decreto entrará en vigor el 1o. de enero del segundo año siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor el 1o. de enero del segundo año siguiente al de su publicación en el Diario Oficial de la Federación.
 
 La Federación, las entidades federativas y los municipios contarán con el periodo comprendido entre la publicación del presente Decreto y su entrada en vigor, para expedir las leyes o realizar las modificaciones necesarias, según sea el caso, a fin de proveer el debido cumplimiento del mismo, así como para incluir en sus respectivos presupuestos, una partida para hacer frente a su responsabilidad patrimonial.
 
@@ -5480,35 +5920,77 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2002*
 
+**ARTICULO PRIMERO:** Se adiciona el artículo 3o. constitucional para quedar como sigue:
+
+………
+
+**ARTICULO SEGUNDO:** Se adiciona el artículo 31 constitucional para quedar como sigue:
+
+……..
+
 **TRANSITORIOS**
 
-**Artículo Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-**Artículo Segundo.-** La autoridad educativa federal deberá, a la entrada en vigor del presente Decreto, instalar comisiones técnicas y de consulta con las demás autoridades educativas del país que resulten pertinentes, para iniciar un proceso tendiente a la unificación estructural, curricular y laboral de los tres niveles constitucionales obligatorios, en un solo nivel de educación básica integrada.
+**Segundo.-** La autoridad educativa federal deberá, a la entrada en vigor del presente Decreto, instalar comisiones técnicas y de consulta con las demás autoridades educativas del país que resulten pertinentes, para iniciar un proceso tendiente a la unificación estructural, curricular y laboral de los tres niveles constitucionales obligatorios, en un solo nivel de educación básica integrada.
 
-**Artículo Tercero.-** La autoridad educativa federal deberá, a la entrada en vigor del presente Decreto, instalar comisiones técnicas y de consulta con las demás autoridades educativas del país que resulten pertinentes, para iniciar un proceso tendiente a la revisión de los planes, programas y materiales de estudio, para establecer, en el ejercicio de sus funciones constitucionales, los nuevos programas de estudio de la educación preescolar obligatoria para todo el país, así como preparar al personal docente y directivo de este nivel, de acuerdo a la nueva realidad educativa que surge de este Decreto.
+**Tercero.-** La autoridad educativa federal deberá, a la entrada en vigor del presente Decreto, instalar comisiones técnicas y de consulta con las demás autoridades educativas del país que resulten pertinentes, para iniciar un proceso tendiente a la revisión de los planes, programas y materiales de estudio, para establecer, en el ejercicio de sus funciones constitucionales, los nuevos programas de estudio de la educación preescolar obligatoria para todo el país, así como preparar al personal docente y directivo de este nivel, de acuerdo a la nueva realidad educativa que surge de este Decreto.
 
-**Artículo Cuarto.-** Con el objetivo de impulsar la equidad en la calidad de los servicios de educación preescolar en el país, la autoridad educativa deberá prever lo necesario para dar cumplimiento a lo que dispone el artículo 2o. de la Ley Reglamentaria del artículo 5o. constitucional en materia de profesiones, en el sentido de que la impartición de la educación preescolar es una profesión que necesita título para su ejercicio, sin perjuicio de los derechos adquiridos de quienes a la fecha imparten este nivel educativo.
+**Cuarto.-** Con el objetivo de impulsar la equidad en la calidad de los servicios de educación preescolar en el país, la autoridad educativa deberá prever lo necesario para dar cumplimiento a lo que dispone el artículo 2o. de la Ley Reglamentaria del artículo 5o. constitucional en materia de profesiones, en el sentido de que la impartición de la educación preescolar es una profesión que necesita título para su ejercicio, sin perjuicio de los derechos adquiridos de quienes a la fecha imparten este nivel educativo.
 
-**Artículo Quinto.-** La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009. En los plazos señalados, el Estado mexicano habrá de universalizar en todo el país, con calidad, la oferta de este servicio educativo.
+**Quinto.-** La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009. En los plazos señalados, el Estado mexicano habrá de universalizar en todo el país, con calidad, la oferta de este servicio educativo.
 
-**Artículo Sexto.-** Los presupuestos federal, estatales, del Distrito Federal y municipales incluirán los recursos necesarios para: la construcción, ampliación y equipamiento de la infraestructura suficiente para la cobertura progresiva de los servicios de educación preescolar; con sus correspondientes programas de formación profesional del personal docente así como de dotación de materiales de estudio gratuito para maestros y alumnos. Para las comunidades rurales alejadas de los centros urbanos y las zonas donde no haya sido posible establecer infraestructura para la prestación del servicio de educación preescolar, las autoridades educativas federales en coordinación con las locales, establecerán los programas especiales que se requieran y tomarán las decisiones pertinentes para asegurar el acceso de los educandos a los servicios de educación primaria.
+**Sexto.-** Los presupuestos federal, estatales, del Distrito Federal y municipales incluirán los recursos necesarios para: la construcción, ampliación y equipamiento de la infraestructura suficiente para la cobertura progresiva de los servicios de educación preescolar; con sus correspondientes programas de formación profesional del personal docente así como de dotación de materiales de estudio gratuito para maestros y alumnos. Para las comunidades rurales alejadas de los centros urbanos y las zonas donde no haya sido posible establecer infraestructura para la prestación del servicio de educación preescolar, las autoridades educativas federales en coordinación con las locales, establecerán los programas especiales que se requieran y tomarán las decisiones pertinentes para asegurar el acceso de los educandos a los servicios de educación primaria.
 
-**Artículo Séptimo.-** Los gobiernos estatales y del Distrito Federal celebrarán con el gobierno federal convenios de colaboración que les permitan cumplir con la obligatoriedad de la educación preescolar en los términos establecidos en los artículos anteriores.
+**Séptimo.-** Los gobiernos estatales y del Distrito Federal celebrarán con el gobierno federal convenios de colaboración que les permitan cumplir con la obligatoriedad de la educación preescolar en los términos establecidos en los artículos anteriores.
 
-**Artículo Octavo.-** Al entrar en vigor el presente Decreto, deberán impulsarse las reformas y adiciones a la Ley General de Educación y demás disposiciones legales aplicables en la materia.
+**Octavo.-** Al entrar en vigor el presente Decreto, deberán impulsarse las reformas y adiciones a la Ley General de Educación y demás disposiciones legales aplicables en la materia.
 
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 15 de mayo de 2002.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Manuel Añorve Baños, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de noviembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
+### DECRETO por el que se aprueba el diverso por el que se adiciona una fracción XXIX-K al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 29 de septiembre de 2003*
+
+**ARTÍCULO ÚNICO.** Se adiciona una fracción XXIX-K del artículo 73, de la Constitución Política de los Estados Unidos Mexicanos.
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SALÓN DE SESIONES DE LA COMISIÓN PERMANENTE DEL HONORABLE CONGRESO DE LA UNIÓN.- México, D.F., a 21 de mayo de 2003.- Sen. Fidel Herrera Beltrán, Vicepresidente en funciones de Presidente.- Dip. Enrique Martínez Orta Flores, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de septiembre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+### DECRETO por el que se aprueba el diverso que reforma el párrafo primero del artículo 63 y la fracción IV del artículo 77 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 29 de octubre de 2003*
+
+**ARTÍCULO ÚNICO.-** Se reforma el párrafo primero del artículo 63 y la fracción IV del artículo 77, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**TRANSITORIO**
+
+**ÚNICO.-** Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SALÓN DE SESIONES DE LA COMISIÓN PERMANENTE DEL HONORABLE CONGRESO DE LA UNIÓN.- México, D.F., a 13 de agosto de 2003.- Sen. Fidel Herrera Beltrán, Vicepresidente en funciones de Presidente.- Dip. Enrique Martínez Orta Flores, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de octubre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
 ### DECRETO por el que se adiciona la fracción XXIX-M al artículo 73 y se reforma la fracción VI del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos.
 
 *Publicado en el Diario Oficial de la Federación el 5 de abril de 2004*
 
+**ARTÍCULO ÚNICO.-** Se adiciona una fracción XXIX-M al artículo 73 y se reforma la fracción VI del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
 **TRANSITORIO**
 
-**Artículo Único.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 18 de marzo de 2004.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Sara I. Castellanos Cortés, Secretario.- Dip. Marcos Morales Torres, Secretario.- Rúbricas."
 
@@ -5518,9 +6000,13 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *Publicado en el Diario Oficial de la Federación el 22 de julio de 2004*
 
+**ÚNICO.-** SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS A LOS ARTÍCULOS 30, 32 Y 37 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTE DE MARZO DE 1997, PARA QUEDAR COMO SIGUE:
+
+………
+
 **TRANSITORIO**
 
-**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 2 de junio de 2004.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Jorge Uscanga Escobar, Secretario.- Rúbricas.”
 
@@ -5530,9 +6016,13 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *Publicado en el Diario Oficial de la Federación el 30 de julio de 2004*
 
+**ARTÍCULO ÚNICO.-** Se reforma la fracción IV del Artículo 74 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
 **TRANSITORIO**
 
-**Único.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 7 de julio de 2004.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Cruz López Aguilar, Secretario.- Rúbricas."
 
@@ -5542,11 +6032,15 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *Publicado en el Diario Oficial de la Federación el 2 de agosto de 2004*
 
+**ARTICULO UNICO.-** Se reforma el primer párrafo del artículo 65 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
 **TRANSITORIOS**
 
-**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**PRIMERO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-**Segundo.-** Al entrar en vigor el presente decreto, deberán impulsarse las reformas y adiciones a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y demás disposiciones legales aplicables en la materia.
+**SEGUNDO.-** Al entrar en vigor el presente decreto, deberán impulsarse las reformas y adiciones a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y demás disposiciones legales aplicables en la materia.
 
 México, D.F., a 30 de junio de 2004.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Jorge Uscanga Escobar, Secretario.- Rúbricas".
 
@@ -6519,6 +7013,10 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 ### DECRETO por el que se reforma el Artículo 40 de la Constitución Política de los Estados Unidos Mexicanos.
 
 *Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2012*
+
+**Artículo Único.-** Se reforma el Artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
 
 **Transitorio**
 
@@ -8303,3 +8801,113 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 25 de febrero de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de marzo de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforma y adiciona el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 8 de mayo de 2020*
+
+**Artículo Único.** Se reforma el párrafo cuarto y se adicionan los párrafos décimo cuarto, décimo quinto y décimo sexto, del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Congreso de la Unión deberá armonizar el marco jurídico en la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de 365 días a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como la concurrencia de los tres órdenes de gobierno para garantizar los derechos derivados del presente Decreto.
+
+**Tercero.** El monto de los recursos asignados, en el Presupuesto de Egresos de la Federación y en el presupuesto de las entidades federativas del ejercicio fiscal que corresponda, para los programas de atención médica y medicamentos gratuitos, de apoyo económico para personas que tengan discapacidad permanente, de pensiones para personas adultas mayores, y de becas para estudiantes que se encuentren en condición de pobreza, no podrá ser disminuido, en términos reales, respecto del que se haya asignado en el ejercicio fiscal inmediato anterior.
+
+Ciudad de México, a 01 de mayo de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Sergio Carlos Gutiérrez Luna, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de mayo de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Movilidad y Seguridad Vial.
+
+*Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2020*
+
+**Artículo Único.-** Se reforma la fracción XXIX-C del artículo 73; el inciso a) de la fracción V y la fracción VI del artículo 115, y el párrafo segundo del Apartado C del artículo 122; y se adiciona un último párrafo al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión deberá expedir, en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Ley General en Materia de Movilidad y Seguridad Vial.
+
+**Tercero.-** El Congreso de la Unión deberá armonizar, en lo que corresponda, y en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor de la Ley a que se refiere el artículo anterior, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, de acuerdo con lo dispuesto en el presente Decreto y la referida Ley.
+
+Ciudad de México, a 03 de diciembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Nancy De la Sierra Arámburo, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se declara reformados los artículos 4o. y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Juventud.
+
+*Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2020*
+
+**Artículo Único.-** Se reforma la fracción XXIX-P del artículo 73 y se adiciona un último párrafo al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Congreso de la Unión deberá expedir la Ley General en materia de Personas Jóvenes, en el plazo de un año, a partir de la publicación del presente Decreto.
+
+**Tercero.** Las Legislaturas de las entidades federativas, realizarán las adecuaciones normativas necesarias para cumplir con los fines establecidos en el presente Decreto, dentro de los 180 días siguientes a la expedición de la Ley General en materia de Personas Jóvenes.
+
+Ciudad de México, a 09 de diciembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 23 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se declara reformados los artículos 108 y 111 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fuero.
+
+*Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021*
+
+**Artículo Único.** Se reforman el segundo párrafo del artículo 108 y el cuarto párrafo del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+Ciudad de México, a 9 de febrero de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. María Merced González González, Secretaria.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de febrero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, relativos al Poder Judicial de la Federación.
+
+*Publicado en el Diario Oficial de la Federación el 11 de marzo de 2021*
+
+**Artículo Único.** Se reforman los párrafos primero, quinto, sexto, séptimo, noveno y décimo primero del artículo 94; los párrafos primero y actual tercero del artículo 97; los párrafos séptimo y décimo quinto del artículo 99; los párrafos séptimo y actual noveno del artículo 100; la fracción I y los incisos h), i), j), k), l), el párrafo tercero y el primer párrafo de la fracción III, del artículo 105; los párrafos segundo y tercero de la fracción II, fracciones VIII, IX, XI, XII, XIII y XVI, del artículo 107 y; se adicionan un párrafo décimo segundo al artículo 94, recorriéndose los subsecuentes; un segundo párrafo al artículo 97, recorriéndose los subsecuentes; tres párrafos, para quedar en orden de octavo, décimo primero y décimo segundo, recorriéndose en su orden los anteriores y subsecuentes, del artículo 100; un párrafo quinto al artículo 105, de la Constitución Política de los Estados Unidos Mexicanos, relativos al Poder Judicial de la Federación, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
+
+**Segundo.** El Congreso de la Unión, dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, deberá aprobar la legislación secundaria derivada del mismo.
+
+**Tercero.** A partir de la entrada en vigor de la legislación secundaria todas las menciones a los Tribunales Unitarios de Circuito y Plenos de Circuito previstas en las leyes, se entenderán hechas a los Tribunales Colegiados de Apelación y a los Plenos Regionales.
+
+**Cuarto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+**Quinto.** En ejercicio de sus facultades regulatorias, el Consejo de la Judicatura Federal adoptará las medidas necesarias para convertir los Tribunales Unitarios de Circuito en Tribunales Colegiados de Apelación, y los Plenos de Circuito en Plenos Regionales, considerando los siguientes lineamientos:
+
+a) En cada entidad federativa habrá, al menos, un Tribunal Colegiado de Apelación.
+
+b) El establecimiento de los Plenos Regionales partirá de la agrupación de Circuitos según las cargas de trabajo y las estadísticas de asuntos planteados y resueltos.
+
+**Sexto.** El sistema de creación de jurisprudencia por precedentes, que se incorpora como párrafo décimo segundo al artículo 94 constitucional, entrará en vigor cuando la Suprema Corte de Justicia de la Nación emita el Acuerdo General respectivo, de conformidad con su facultad autorregulatoria prevista en dicho precepto.
+
+**Séptimo.** Los recursos de reclamación y los de revisión administrativa en contra de las designaciones de juezas, jueces, magistradas y magistrados, que ya se encuentren en trámite y que conforme al nuevo marco constitucional resulten improcedentes, continuarán su tramitación hasta su archivo, sin que puedan declararse sin materia.
+
+Ciudad de México, a 25 de febrero de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de marzo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
