@@ -3,12 +3,12 @@ title: Ley Federal del Trabajo
 abbreviation: LFT
 slug: lft
 published_dof: 1970-04-01
-last_reform_dof: 2019-07-02
-articles: 1227
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/125_020719.doc
-archived: https://web.archive.org/web/20191005173716/http://www.diputados.gob.mx:80/LeyesBiblio/doc/125_020719.doc
-source_sha256: c1abc1ace0e10f7776c7ae29ac050ee27c74ac1732a718e7fa94318e6f7e37d7
-retrieved: 2019-10-05
+last_reform_dof: 2021-03-30
+articles: 1238
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/125_300321.doc
+archived: https://web.archive.org/web/20210422184103/http://www.diputados.gob.mx/LeyesBiblio/doc/125_300321.doc
+source_sha256: 726191ebd9767f5ff4217583c290ec6b32fe0cf051f7c09d4f32a6674ba95fef
+retrieved: 2021-04-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm
 ---
 
@@ -18,11 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de abril de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada 02-07-2019
+Última reforma publicada 30-03-2021
 
-> Notas de vigencia:
-> La reforma a la fracción IX del artículo 371, publicada en el DOF 01-05-2019, entrará en vigor el 27 de diciembre de 2019.
-> La adición de la fracción IV al artículo 337, publicada por Decreto DOF 01-05-2019, entrará en vigor de conformidad con lo que establece el artículo Vigésimo Quinto Transitorio de dicho Decreto.
+> Nota de vigencia: La adición de la fracción IV al artículo 337, publicada por Decreto DOF 01-05-2019, entrará en vigor de conformidad con lo que establece el artículo Vigésimo Quinto Transitorio de dicho Decreto.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -1106,13 +1104,15 @@ Cuando el salario se fije por semana o por mes, se dividirá entre siete o entre
 
 ##### Artículo 90.
 
-Salario mínimo es la cantidad menor que debe recibir en efectivo el trabajador por los servicios prestados en una jornada de trabajo.
+Salario mínimo es la cantidad menor que debe recibir en efectivo la persona trabajadora por los servicios prestados en una jornada de trabajo.
 
-El salario mínimo deberá ser suficiente para satisfacer las necesidades normales de un jefe de familia en el orden material, social y cultural, y para proveer a la educación obligatoria de los hijos.
+El salario mínimo deberá ser suficiente para satisfacer las necesidades normales de una o un jefe de familia en el orden material, social y cultural, y para proveer a la educación obligatoria de las y los hijos.
 
-Se considera de utilidad social el establecimiento de instituciones y medidas que protejan la capacidad adquisitiva del salario y faciliten el acceso de los trabajadores a la obtención de satisfactores.
+Se considera de utilidad social el establecimiento de instituciones y medidas que protejan la capacidad adquisitiva del salario y faciliten el acceso de toda persona trabajadora a la obtención de satisfactores.
 
-*Párrafo adicionado DOF 09-01-1974*
+La fijación anual de los salarios mínimos, o la revisión de los mismos, nunca estará por debajo de la inflación observada durante el periodo de su vigencia transcurrido.
+
+*Artículo reformado DOF 09-01-1974, 30-03-2021*
 
 ##### Artículo 91.
 
@@ -3544,15 +3544,11 @@ Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a 
 
 ##### Artículo 311.
 
-Trabajo a domicilio es el que se ejecuta habitualmente para un patrón, en el domicilio del trabajador o en un local libremente elegido por el, sin vigilancia ni dirección inmediata de quien proporciona el trabajo.
-
-Será considerado como trabajo a domicilio el que se realiza a distancia utilizando tecnologías de la información y la comunicación.
-
-*Párrafo adicionado DOF 30-11-2012*
+Trabajo a domicilio es el que se ejecuta habitualmente para un patrón, en el domicilio del trabajador o en un local libremente elegido por él, sin vigilancia ni dirección inmediata de quien proporciona el trabajo.
 
 Si el trabajo se ejecuta en condiciones distintas de las señaladas en este artículo se regirá por las disposiciones generales de esta Ley.
 
-*Párrafo reformado DOF 30-11-2012*
+*Artículo reformado DOF 30-11-2012, 11-01-2021*
 
 ##### Artículo 312.
 
@@ -3705,6 +3701,136 @@ VI. Practicar visitas en los locales donde se ejecute el trabajo, para vigilar q
 VII. Informar a la Comisión Nacional de los Salarios Mínimos las diferencias de salarios que adviertan, en relación con los que se paguen a trabajadores que ejecuten trabajos similares.
 
 *Fracción reformada DOF 21-01-1988*
+
+### CAPÍTULO XII BIS · Teletrabajo
+
+*Capítulo adicionado DOF 11-01-2021*
+
+##### Artículo 330-A.
+
+El teletrabajo es una forma de organización laboral subordinada que consiste en el desempeño de actividades remuneradas, en lugares distintos al establecimiento o establecimientos del patrón, por lo que no se requiere la presencia física de la persona trabajadora bajo la modalidad de teletrabajo, en el centro de trabajo, utilizando primordialmente las tecnologías de la información y comunicación, para el contacto y mando entre la persona trabajadora bajo la modalidad de teletrabajo y el patrón.
+
+La persona trabajadora bajo la modalidad de teletrabajo será quien preste sus servicios personal, remunerado y subordinado en lugar distinto a las instalaciones de la empresa o fuente de trabajo del patrón y utilice las tecnologías de la información y la comunicación.
+
+Para efectos de la modalidad de teletrabajo, se entenderá por tecnologías de la información y la comunicación, al conjunto de servicios, infraestructura, redes, software, aplicaciones informáticas y dispositivos que tienen como propósito facilitar las tareas y funciones en los centros de trabajo, así como las que se necesitan para la gestión y transformación de la información, en particular los componentes tecnológicos que permiten crear, modificar, almacenar, proteger y recuperar esa información.
+
+Se regirán por las disposiciones del presente Capítulo las relaciones laborales que se desarrollen más del cuarenta por ciento del tiempo en el domicilio de la persona trabajadora bajo la modalidad de teletrabajo, o en el domicilio elegido por ésta.
+
+No será considerado teletrabajo aquel que se realice de forma ocasional o esporádica.
+
+*Artículo adicionado DOF 11-01-2021*
+
+##### Artículo 330-B.
+
+Las condiciones de trabajo se harán constar por escrito mediante un contrato y cada una de las partes conservará un ejemplar. Además de lo establecido en el artículo 25 de esta Ley, el contrato contendrá:
+
+I. Nombre, nacionalidad, edad, sexo y domicilio de las partes;
+
+II. Naturaleza y características del trabajo;
+
+III. Monto del salario, fecha y lugar o forma de pago;
+
+IV. El equipo e insumos de trabajo, incluyendo el relacionado con las obligaciones de seguridad y salud que se entregan a la persona trabajadora bajo la modalidad de teletrabajo;
+
+V. La descripción y monto que el patrón pagará a la persona trabajadora bajo la modalidad de teletrabajo por concepto de pago de servicios en el domicilio relacionados con el teletrabajo;
+
+VI. Los mecanismos de contacto y supervisión entre las partes, así como la duración y distribución de horarios, siempre que no excedan los máximos legales, y
+
+VII. Las demás estipulaciones que convengan las partes.
+
+*Artículo adicionado DOF 11-01-2021*
+
+##### Artículo 330-C.
+
+La modalidad de teletrabajo formará parte del contrato colectivo de trabajo, que en su caso exista entre sindicatos y empresas, y deberá entregarse gratuitamente una copia de estos contratos a cada una de las personas trabajadoras que desempeñen sus labores bajo esta modalidad.
+
+Asimismo, deberán de facilitar los mecanismos de comunicación y difusión a distancia con los que cuente el centro de trabajo, incluyendo el correo electrónico u otros, con el fin de garantizar que las personas trabajadoras bajo la modalidad de teletrabajo tengan conocimiento de los procedimientos de libertad sindical y negociación colectiva, como lo establecen las obligaciones previstas en las fracciones XXXII y XXXIII del artículo 132 de la presente Ley.
+
+*Artículo adicionado DOF 11-01-2021*
+
+##### Artículo 330-D.
+
+Los patrones que no cuenten con un contrato colectivo de trabajo deberán incluir el teletrabajo en su reglamento interior de trabajo, y establecer mecanismos que garanticen la vinculación y contacto entre las personas trabajadoras que desempeñen sus labores bajo esta modalidad.
+
+*Artículo adicionado DOF 11-01-2021*
+
+##### Artículo 330-E.
+
+En modalidad de teletrabajo, los patrones tendrán las obligaciones especiales siguientes:
+
+I. Proporcionar, instalar y encargarse del mantenimiento de los equipos necesarios para el teletrabajo como equipo de cómputo, sillas ergonómicas, impresoras, entre otros;
+
+II. Recibir oportunamente el trabajo y pagar los salarios en la forma y fechas estipuladas;
+
+III. Asumir los costos derivados del trabajo a través de la modalidad de teletrabajo, incluyendo, en su caso, el pago de servicios de telecomunicación y la parte proporcional de electricidad;
+
+IV. Llevar registro de los insumos entregados a las personas trabajadoras bajo la modalidad de teletrabajo, en cumplimiento a las disposiciones en materia de seguridad y salud en el trabajo establecidas por la Secretaría del Trabajo y Previsión Social;
+
+V. Implementar mecanismos que preserven la seguridad de la información y datos utilizados por las personas trabajadoras en la modalidad de teletrabajo;
+
+VI. Respetar el derecho a la desconexión de las personas trabajadoras en la modalidad de teletrabajo al término de la jornada laboral;
+
+VII. Inscribir a las personas trabajadoras en la modalidad de teletrabajo al régimen obligatorio de la seguridad social, y
+
+VIII. Establecer los mecanismos de capacitación y asesoría necesarios para garantizar la adaptación, aprendizaje y el uso adecuado de las tecnologías de la información de las personas trabajadoras en la modalidad de teletrabajo, con especial énfasis en aquellas que cambien de modalidad presencial a teletrabajo.
+
+*Artículo adicionado DOF 11-01-2021*
+
+##### Artículo 330-F.
+
+Las personas trabajadoras en la modalidad de teletrabajo tienen las obligaciones especiales siguientes:
+
+I. Tener el mayor cuidado en la guarda y conservación de los equipos, materiales y útiles que reciban del patrón;
+
+II. Informar con oportunidad sobre los costos pactados para el uso de los servicios de telecomunicaciones y del consumo de electricidad, derivados del teletrabajo;
+
+III. Obedecer y conducirse con apego a las disposiciones en materia de seguridad y salud en el trabajo establecidas por el patrón;
+
+IV. Atender y utilizar los mecanismos y sistemas operativos para la supervisión de sus actividades, y
+
+V. Atender las políticas y mecanismos de protección de datos utilizados en el desempeño de sus actividades, así como las restricciones sobre su uso y almacenamiento.
+
+*Artículo adicionado DOF 11-01-2021*
+
+##### Artículo 330-G.
+
+El cambio en la modalidad de presencial a teletrabajo, deberá ser voluntario y establecido por escrito conforme al presente Capítulo, salvo casos de fuerza mayor debidamente acreditada.
+
+En todo caso, cuando se dé un cambio a la modalidad de teletrabajo las partes tendrán el derecho de reversibilidad a la modalidad presencial, para lo cual podrán pactar los mecanismos, procesos y tiempos necesarios para hacer válida su voluntad de retorno a dicha modalidad.
+
+*Artículo adicionado DOF 11-01-2021*
+
+##### Artículo 330-H.
+
+El patrón debe promover el equilibrio de la relación laboral de las personas trabajadoras en la modalidad de teletrabajo, a fin de que gocen de un trabajo digno o decente y de igualdad de trato en cuanto a remuneración, capacitación, formación, seguridad social, acceso a mejores oportunidades laborales y demás condiciones que ampara el artículo 2o. de la presente Ley a los trabajadores presenciales que prestan sus servicios en la sede de la empresa. Asimismo, deberá observar una perspectiva de género que permita conciliar la vida personal y la disponibilidad de las personas trabajadoras bajo la modalidad de teletrabajo en la jornada laboral.
+
+*Artículo adicionado DOF 11-01-2021*
+
+##### Artículo 330-I.
+
+Los mecanismos, sistemas operativos y cualquier tecnología utilizada para supervisar el teletrabajo deberán ser proporcionales a su objetivo, garantizando el derecho a la intimidad de las personas trabajadoras bajo la modalidad de teletrabajo, y respetando el marco jurídico aplicable en materia de protección de datos personales.
+
+Solamente podrán utilizarse cámaras de video y micrófonos para supervisar el teletrabajo de manera extraordinaria, o cuando la naturaleza de las funciones desempeñadas por la persona trabajadora bajo la modalidad de teletrabajo lo requiera.
+
+*Artículo adicionado DOF 11-01-2021*
+
+##### Artículo 330-J.
+
+Las condiciones especiales de seguridad y salud para los trabajos desarrollados al amparo del presente Capítulo serán establecidas por la Secretaría del Trabajo y Previsión Social en una Norma Oficial Mexicana, misma que deberá considerar a los factores ergonómicos, psicosociales, y otros riesgos que pudieran causar efectos adversos para la vida, integridad física o salud de las personas trabajadoras que se desempeñen en la modalidad de teletrabajo.
+
+*Artículo adicionado DOF 11-01-2021*
+
+##### Artículo 330-K.
+
+Los Inspectores del Trabajo tienen las atribuciones y deberes especiales siguientes:
+
+I. Comprobar que los patrones lleven registro de los insumos entregados a las personas trabajadoras en la modalidad de teletrabajo, en cumplimiento a las obligaciones de seguridad y salud en el trabajo;
+
+II. Vigilar que los salarios no sean inferiores a los que se paguen en la empresa al trabajador presencial con funciones iguales o similares;
+
+III. Constatar el debido cumplimiento de las obligaciones especiales establecidas en el presente Capítulo.
+
+*Artículo adicionado DOF 11-01-2021*
 
 ### CAPITULO XIII · Personas Trabajadoras del Hogar
 
@@ -14283,3 +14409,39 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 14 de mayo de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de julio de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 311 y se adiciona el capítulo XII Bis de la Ley Federal del Trabajo, en materia de Teletrabajo.
+
+*Publicado en el Diario Oficial de la Federación el 11 de enero de 2021*
+
+**Artículo Único.-** Se reforma el artículo 311; y se adiciona un Capítulo XII Bis con los artículos 330-A; 330-B; 330-C; 330-D; 330-E; 330-F; 330-G; 330-H; 330-I; 330-J y 330-K de la Ley Federal del Trabajo, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Poder Ejecutivo Federal dispondrá de un plazo de dieciocho meses contados a partir de la entrada en vigor del presente Decreto, para publicar una Norma Oficial Mexicana que rija las obligaciones en materia de seguridad y salud en el trabajo para el teletrabajo, de conformidad con lo establecido en el artículo 330-J.
+
+Ciudad de México, a 9 de diciembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforma y adiciona el artículo 90 de la Ley Federal del Trabajo.
+
+*Publicado en el Diario Oficial de la Federación el 30 de marzo de 2021*
+
+**Artículo Único.-** Se reforman los párrafos primero, segundo y tercero y se adiciona un párrafo cuarto al artículo 90 de la Ley Federal del Trabajo, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Ciudad de México, a 3 de marzo de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. María Merced González González, Secretaria.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
