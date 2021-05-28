@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2021-03-11
+last_reform_dof: 2021-05-28
 articles: 136
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/1_110321.doc
-archived: https://web.archive.org/web/20210422142307/http://www.diputados.gob.mx/LeyesBiblio/doc/1_110321.doc
-source_sha256: 12f212c21b1ac5814ddc09f0fde296b353948d6786c2b3c07879cd3a89a22528
-retrieved: 2021-04-22
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
+archived: https://web.archive.org/web/20220223233755/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
+source_sha256: 5991cd2428e17cdb447238ab068400769f908e43262f11c16fcaed9b33f4c8cd
+retrieved: 2022-02-23
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 11-03-2021
+Última reforma publicada DOF 28-05-2021
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -362,7 +362,7 @@ El Estado promoverá el desarrollo integral de las personas jóvenes, a través 
 
 *Párrafo adicionado DOF 24-12-2020*
 
-*Reforma DOF 14-08-2001: Derogó del artículo el entonces párrafo primero (antes adicionado por DOF 28-01-1992)*
+*Reforma DOF 14-08-2001: Derogó del artículo el entonces párrafo primero (antes adicionado DOF 28-01-1992)*
 
 *Artículo reformado DOF 31-12-1974*
 
@@ -1286,9 +1286,9 @@ Todos los actos del proceso de selección y designación de los Comisionados son
 
 *Párrafo adicionado DOF 11-06-2013*
 
-*Artículo reformado DOF 17-11-1982, 03-02-1983*
-
 *Reforma DOF 27-06-1990: Derogó del artículo el entonces párrafo quinto*
+
+*Artículo reformado DOF 17-11-1982, 03-02-1983*
 
 ##### Artículo 29.
 
@@ -1316,9 +1316,9 @@ A) Son mexicanos por nacimiento:
 
 I. Los que nazcan en territorio de la República, sea cual fuere la nacionalidad de sus padres.
 
-II. Los que nazcan en el extranjero, hijos de padres mexicanos nacidos en territorio nacional, de padre mexicano nacido en territorio nacional, o de madre mexicana nacida en territorio nacional;
+II. Los que nazcan en el extranjero, hijos de padres mexicanos, de madre mexicana o de padre mexicano;
 
-*Fracción reformada DOF 26-12-1969, 20-03-1997*
+*Fracción reformada DOF 26-12-1969, 20-03-1997, 17-05-2021*
 
 III. Los que nazcan en el extranjero, hijos de padres mexicanos por naturalización, de padre mexicano por naturalización, o de madre mexicana por naturalización, y
 
@@ -1562,7 +1562,7 @@ V. Por ayudar, en contra de la Nación, a un extranjero, o a un gobierno extranj
 
 VI. En los demás casos que fijan las leyes.
 
-*Reforma DOF 30-09-2013: Derogó de este Apartado C el entonces último párrafo*
+*Reforma DOF 30-09-2013: Derogó del Apartado C el entonces último párrafo*
 
 *Fe de erratas al artículo DOF 06-02-1917. Artículo reformado DOF 18-01-1934, 20-03-1997*
 
@@ -1898,9 +1898,9 @@ VI. El espacio situado sobre el territorio nacional, con la extensión y modalid
 
 ##### Artículo 43.
 
-Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila de Zaragoza, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán y Zacatecas; así como la Ciudad de México.
+Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila de Zaragoza, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán de Ocampo, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz de Ignacio de la Llave, Yucatán y Zacatecas; así como la Ciudad de México.
 
-*Artículo reformado DOF 07-02-1931, 19-12-1931, 16-01-1935, 16-01-1952, 08-10-1974, 13-04-2011, 29-01-2016*
+*Artículo reformado DOF 07-02-1931, 19-12-1931, 16-01-1935, 16-01-1952, 08-10-1974, 13-04-2011, 29-01-2016, 17-05-2021*
 
 ##### Artículo 44.
 
@@ -2004,9 +2004,9 @@ VI. En los términos de lo establecido en las fracciones III, IV y V anteriores,
 
 *Fracción adicionada DOF 03-09-1993. Reformada DOF 22-08-1996*
 
-*Artículo reformado DOF 22-06-1963, 14-02-1972, 06-12-1977, 15-12-1986, 06-04-1990*
+*Reforma DOF 22-08-1996: Eliminó del artículo la entonces fracción VII (antes adicionada DOF 03-09-1993)*
 
-*Reforma DOF 22-08-1996: Eliminó del artículo la entonces fracción VII (antes adicionada por DOF 03-09-1993)*
+*Artículo reformado DOF 22-06-1963, 14-02-1972, 06-12-1977, 15-12-1986, 06-04-1990*
 
 ##### Artículo 55.
 
@@ -2408,6 +2408,18 @@ XXIII. Para expedir leyes que, con respeto a los derechos humanos, establezcan l
 
 *Fracción derogada DOF 06-12-1977. Adicionada DOF 31-12-1994. Reformada DOF 18-06-2008, 29-01-2016, 26-03-2019*
 
+XXIII Bis. Para expedir la ley general en materia de seguridad privada, que establezca:
+
+a) Las reglas y la autoridad facultada para autorizar y regular a los prestadores de servicios de seguridad privada en todo el territorio nacional;
+
+b) Las reglas de coordinación entre las personas autorizadas a prestar los servicios de seguridad privada y las autoridades correspondientes de la Federación, las entidades federativas y los municipios, para la adecuada organización y funcionamiento como auxiliares de la seguridad pública;
+
+c) La coordinación de esos prestadores con las instituciones de seguridad pública en situaciones de emergencia y desastre, y
+
+d) Los aspectos vinculados a la coordinación y supervisión de las policías complementarias en el país;
+
+*Fracción con incisos adicionada DOF 28-05-2021*
+
 XXIV. Para expedir las leyes que regulen la organización y facultades de la Auditoría Superior de la Federación y las demás que normen la gestión, control y evaluación de los Poderes de la Unión y de los entes públicos federales; así como para expedir la ley general que establezca las bases de coordinación del Sistema Nacional Anticorrupción a que se refiere el artículo 113 de esta Constitución;
 
 *Fracción reformada DOF 30-07-1999, 27-05-2015*
@@ -2620,15 +2632,17 @@ Cuando inicie su encargo en la fecha prevista por el artículo 83, el Ejecutivo 
 
 *Párrafo adicionado DOF 30-07-2004. Reformado DOF 10-02-2014*
 
-No podrá haber otras partidas secretas, fuera de las que se consideren necesarias, con ese carácter, en el mismo presupuesto; las que emplearán los secretarios por acuerdo escrito del Presidente de la República.
+No podrá haber partidas secretas en el Presupuesto de Egresos de la Federación.
+
+*Párrafo reformado DOF 17-05-2021*
 
 Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Cámara o de la Comisión Permanente, debiendo comparecer en todo caso el Secretario del Despacho correspondiente a informar de las razones que lo motiven;
 
 *Párrafo reformado DOF 25-10-1993, 07-05-2008*
 
-*Fracción reformada DOF 06-12-1977*
+*Reforma DOF 07-05-2008: Derogó de la fracción los entonces párrafos quinto, sexto (antes reformado DOF 30-07-1999) y séptimo (antes reformado DOF 17-03-1987)*
 
-*Reforma DOF 07-05-2008: Derogó de esta fracción los entonces párrafos quinto, sexto (antes reformado por DOF 30-07-1999) y séptimo (antes reformado por DOF 17-03-1987)*
+*Fracción reformada DOF 06-12-1977*
 
 V. Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 111 de esta Constitución.
 
@@ -3266,9 +3280,9 @@ Los Magistrados de Circuito y los Jueces de Distrito protestarán ante la Suprem
 
 *Párrafo reformado DOF 11-06-1999*
 
-*Artículo reformado DOF 20-08-1928, 11-09-1940, 19-02-1951, 06-12-1977, 28-12-1982, 10-08-1987, 31-12-1994*
-
 *Reforma DOF 13-11-2007: Derogó del artículo el entonces párrafo tercero*
+
+*Artículo reformado DOF 20-08-1928, 11-09-1940, 19-02-1951, 06-12-1977, 28-12-1982, 10-08-1987, 31-12-1994*
 
 ##### Artículo 98.
 
@@ -4262,7 +4276,7 @@ Los magistrados durarán en el ejercicio de su encargado (sic DOF 17-03-1987) el
 
 Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
-*Reforma DOF 31-12-1994: Derogó de esta fracción el entonces párrafo quinto*
+*Reforma DOF 31-12-1994: Derogó de la fracción el entonces párrafo quinto*
 
 IV. De conformidad con las bases establecidas en esta Constitución y las leyes generales en la materia, las Constituciones y leyes de los Estados en materia electoral, garantizarán que:
 
@@ -8911,3 +8925,91 @@ b) El establecimiento de los Plenos Regionales partirá de la agrupación de Cir
 Ciudad de México, a 25 de febrero de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de marzo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 30 de la Constitución Política de los Estados Unidos Mexicanos, en materia de nacionalidad.
+
+*Publicado en el Diario Oficial de la Federación el 17 de mayo de 2021*
+
+**Artículo Único.** Se reforma la fracción II del Apartado A) del artículo 30 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 6 de mayo de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María del Carmen Almeida Navarro, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos (Michoacán de Ocampo).
+
+*Publicado en el Diario Oficial de la Federación el 17 de mayo de 2021*
+
+**Artículo Único.** Se reforma el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación. Surtirá efectos exclusivamente para modificar la porción normativa que establece la denominación de la parte integrante de la Federación "Michoacán de Ocampo", por lo que quedan subsistentes las denominaciones de las demás partes de la Federación vigentes al momento de la entrada en vigor.
+
+Ciudad de México, a 6 de mayo de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María del Carmen Almeida Navarro, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos (Veracruz de Ignacio de la Llave).
+
+*Publicado en el Diario Oficial de la Federación el 17 de mayo de 2021*
+
+**Artículo Único.** Se reforma el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación. Surtirá efectos exclusivamente para modificar la porción normativa que establece la denominación de la parte integrante de la Federación "Veracruz de Ignacio de la Llave", por lo que quedan subsistentes las denominaciones de las demás partes de la Federación vigentes al momento de la entrada en vigor.
+
+Ciudad de México, a 6 de mayo de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María del Carmen Almeida Navarro, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 74 de la Constitución Política de los Estados Unidos Mexicanos, en materia de partidas secretas.
+
+*Publicado en el Diario Oficial de la Federación el 17 de mayo de 2021*
+
+**Artículo Único.** Se reforma el párrafo cuarto de la fracción IV del artículo 74 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 6 de mayo de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María del Carmen Almeida Navarro, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se adiciona una fracción XXIII Bis al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Seguridad Privada.
+
+*Publicado en el Diario Oficial de la Federación el 28 de mayo de 2021*
+
+**Artículo Único.** Se adiciona una fracción XXIII Bis al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Dentro del plazo de 180 días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión deberá expedir la ley general en materia de seguridad privada a que hace referencia el artículo 73, fracción XXIII Bis de la Constitución Política de los Estados Unidos Mexicanos.
+
+**Tercero.** Dentro del plazo de 180 días naturales siguientes a la entrada en vigor de la ley general de seguridad privada a que se refiere el artículo 73, fracción XXIII Bis de la Constitución Política de los Estados Unidos Mexicanos, el Congreso de la Unión y las legislaturas de las entidades federativas deberán expedir la legislación necesaria para adecuar el marco normativo con este Decreto y la ley citada. Mientras tanto, continuará en vigor la legislación en los términos que se encuentre a la fecha de entrada en vigor del presente Decreto.
+
+Para el caso que no se lleven a cabo las adecuaciones normativas, dentro del plazo concedido al Congreso de la Unión y a las legislaturas de las entidades federativas, deberá cesar la aplicación de la legislación que no se ajuste al contenido de la mencionada ley general y, en su caso, aplicarse directamente el contenido de ésta.
+
+**Cuarto.** Los asuntos en trámite hasta el momento en que entre en vigor la ley general en materia de seguridad privada, se concluirán conforme a la legislación con que se iniciaron.
+
+Ciudad de México, a 19 de mayo de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María del Carmen Almeida Navarro, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
