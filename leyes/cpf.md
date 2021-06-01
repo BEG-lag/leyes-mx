@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2021-02-19
-articles: 546
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_190221.doc
-archived: https://web.archive.org/web/20210422185607/http://www.diputados.gob.mx/LeyesBiblio/doc/9_190221.doc
-source_sha256: 3f4edb64aac5c295aff299f27e928284ff32d913132938c6b39a1d459d18f6b6
-retrieved: 2021-04-22
+last_reform_dof: 2021-06-01
+articles: 549
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_010621.doc
+archived: https://web.archive.org/web/20210819234122/http://www.diputados.gob.mx/LeyesBiblio/doc/9_010621.doc
+source_sha256: df0f5e06b828e1de8764971126b6c67eac8a0e424dbfec9c7b23e763ff7b32db
+retrieved: 2021-08-19
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 19-02-2021
+Última reforma publicada DOF 01-06-2021
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 >
@@ -38,7 +38,7 @@ Que en uso de las facultades que le fueron concedidas por Decreto de 2 de enero 
 
 CÓDIGO PENAL FEDERAL
 
-*Denominación del Código reformada: DOF 23-12-1974 (antes “Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal”), DOF 31-12-1974 (antes “Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en materia de Fuero Federal”), DOF 18-05-1999 (antes “Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal”)*
+*Denominación del Código reformada: DOF 23-12-1974 (antes “Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal”), DOF 31-12-1974, 18-05-1999 (antes “Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal”)*
 
 ## LIBRO PRIMERO
 
@@ -2813,6 +2813,44 @@ Los delitos previstos en este capítulo serán perseguibles de oficio, a excepci
 Se impondrá de cuatro a ocho años de prisión y multa de cuatrocientos a mil días multa a quien haciendo uso de medios de radiodifusión, telecomunicaciones, informáticos o cualquier otro medio de transmisión de datos, contacte a una persona menor de dieciocho años de edad, a quien no tenga capacidad de comprender el significado del hecho o a persona que no tenga capacidad para resistirlo y le requiera imágenes, audio o video de actividades sexuales explícitas, actos de connotación sexual, o le solicite un encuentro sexual.
 
 *Artículo adicionado DOF 15-06-2018*
+
+#### CAPÍTULO II · Violación a la Intimidad Sexual
+
+*Capítulo adicionado DOF 01-06-2021*
+
+##### Artículo 199 Octies.
+
+Comete el delito de violación a la intimidad sexual, aquella persona que divulgue, comparta, distribuya o publique imágenes, videos o audios de contenido íntimo sexual de una persona que tenga la mayoría de edad, sin su consentimiento, su aprobación o su autorización.
+
+Así como quien videograbe, audiograbe, fotografíe, imprima o elabore, imágenes, audios o videos con contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación, o sin su autorización.
+
+Estas conductas se sancionarán con una pena de tres a seis años de prisión y una multa de quinientas a mil Unidades de Medida y Actualización.
+
+*Artículo adicionado DOF 01-06-2021*
+
+##### Artículo 199 Nonies.
+
+Se impondrán las mismas sanciones previstas en el artículo anterior cuando las imágenes, videos o audios de contenido íntimo sexual que se divulguen, compartan, distribuyan o publiquen no correspondan con la persona que es señalada o identificada en los mismos.
+
+*Artículo adicionado DOF 01-06-2021*
+
+##### Artículo 199 Decies.
+
+El mínimo y el máximo de la pena se aumentará hasta en una mitad:
+
+I.- Cuando el delito sea cometido por el cónyuge, concubinario o concubina, o por cualquier persona con la que la víctima tenga o haya tenido una relación sentimental, afectiva o de confianza;
+
+II.- Cuando el delito sea cometido por un servidor público en ejercicio de sus funciones;
+
+III.- Cuando se cometa contra una persona que no pueda comprender el significado del hecho o no tenga la capacidad para resistirlo;
+
+IV.- Cuando se obtenga algún tipo de beneficio no lucrativo;
+
+V.- Cuando se haga con fines lucrativos, o
+
+VI.- Cuando a consecuencia de los efectos o impactos del delito, la víctima atente contra su integridad o contra su propia vida.
+
+*Artículo adicionado DOF 01-06-2021*
 
 ### TITULO OCTAVO · DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD.
 
@@ -10024,3 +10062,21 @@ A las personas que hayan cometido un delito de los contemplados en el presente D
 Ciudad de México, a 18 de febrero de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 19 de febrero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se adicionan diversas disposiciones a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y al Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 1 de junio de 2021*
+
+**Artículo Segundo.-** Se adiciona un Capítulo II denominado "Violación a la Intimidad Sexual" al Título Séptimo Bis denominado "Delitos contra la Indemnidad de la Privacidad de la Información Sexual", compuesto por los artículos 199 Octies, 199 Nonies y 199 Decies al Código Penal Federal, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Los Congresos de las entidades federativas en el ámbito de sus competencias, contarán con un plazo de 180 días a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones legislativas que correspondan.
+
+Ciudad de México, a 29 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Lilia Villafuerte Zavala, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
