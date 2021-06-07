@@ -3,12 +3,12 @@ title: Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constituci
 abbreviation: LAmp
 slug: lamp
 published_dof: 2013-04-02
-last_reform_dof: 2018-06-15
-articles: 271
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_150618.doc
-archived: https://web.archive.org/web/20181105065221/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LAmp_150618.doc
-source_sha256: 7fbc705db24b2955ae819bd6ccac452566c4c07c28026a6132aae1f95f0b3836
-retrieved: 2018-11-05
+last_reform_dof: 2021-06-07
+articles: 272
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_070621.doc
+archived: https://web.archive.org/web/20210819152511/http://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_070621.doc
+source_sha256: 42611c67c609353591d63fb7003181f0f5256840da84c2a9374c9427c284bb1e
+retrieved: 2021-08-19
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lamp.htm
 ---
 
@@ -18,7 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 2 de abril de 2013
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 15-06-2018
+Última reforma publicada DOF 07-06-2021
+
+> Nota de vigencia: La reforma al artículo 218, publicada en el DOF 07-06-2021, entrará en vigor el 7 de diciembre de 2021.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -152,9 +154,13 @@ Si el menor hubiere cumplido catorce años, podrá hacer la designación de repr
 
 Las autoridades responsables podrán ser representadas o sustituidas para todos los trámites en el juicio de amparo en los términos de las disposiciones legales y reglamentarias aplicables. En todo caso podrán por medio de oficio acreditar delegados que concurran a las audiencias para el efecto de que en ellas rindan pruebas, aleguen, hagan promociones e interpongan recursos.
 
-El Presidente de la República será representado en los términos que se señalen en el acuerdo general que expida y se publique en el Diario Oficial de la Federación. Dicha representación podrá recaer en el propio Consejero Jurídico, en el Procurador General de la República o en los secretarios de estado a quienes en cada caso corresponda el asunto, en términos de las leyes orgánicas y reglamentos aplicables. Los reglamentos interiores correspondientes señalarán las unidades administrativas en las que recaerá la citada representación. En el citado acuerdo general se señalará el mecanismo necesario para determinar la representación en los casos no previstos por los mismos.
+El Presidente de la República será representado en los términos que se señalen en el acuerdo general que expida y se publique en el Diario Oficial de la Federación. Dicha representación podrá recaer en el propio Consejero Jurídico o en los secretarios de estado a quienes en cada caso corresponda el asunto, en términos de las leyes orgánicas y reglamentos aplicables. Los reglamentos interiores correspondientes señalarán las unidades administrativas en las que recaerá la citada representación. En el citado acuerdo general se señalará el mecanismo necesario para determinar la representación en los casos no previstos por los mismos.
 
-Los órganos legislativos federales, de los Estados y del Distrito Federal, así como los gobernadores y jefe de gobierno de éstos, procuradores General de la República y de las entidades federativas, titulares de las dependencias de la administración pública federal, estatales o municipales, podrán ser sustituidos por los servidores públicos a quienes las leyes y los reglamentos que las rigen otorguen esa atribución, o bien por conducto de los titulares de sus respectivas oficinas de asuntos jurídicos.
+*Párrafo reformado DOF 20-05-2021*
+
+Los órganos legislativos federales, de los Estados y de la Ciudad de México, así como los gobernadores y jefe de gobierno de éstos, instituciones de carácter federal o local con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos o de las Constituciones de los Estados, titulares de las dependencias de la administración pública federal, estatales o municipales, podrán ser sustituidos por los servidores públicos a quienes las leyes y los reglamentos que las rigen otorguen esa atribución, o bien por conducto de los titulares de sus respectivas oficinas de asuntos jurídicos.
+
+*Párrafo reformado DOF 20-05-2021*
 
 Cuando el responsable sea una o varias personas particulares, en los términos establecidos en la presente Ley, podrán comparecer por sí mismos, por conducto de un representante legal o por conducto de un apoderado.
 
@@ -204,7 +210,9 @@ En estos casos, el órgano jurisdiccional de amparo decretará la suspensión de
 
 Una vez lograda la comparecencia, se requerirá al agraviado para que dentro del término de tres días ratifique la demanda de amparo. Si éste la ratifica por sí o por medio de su representante se tramitará el juicio; de lo contrario se tendrá por no presentada la demanda y quedarán sin efecto las providencias dictadas.
 
-Si a pesar de las medidas tomadas por el órgano jurisdiccional de amparo no se logra la comparecencia del agraviado, resolverá la suspensión definitiva, ordenará suspender el procedimiento en lo principal y se harán los hechos del conocimiento del Ministerio Público de la Federación. En caso de que éste sea autoridad responsable, se hará del conocimiento al Procurador General de la República. Cuando haya solicitud expresa de la Comisión Nacional de los Derechos Humanos, se remitirá copia certificada de lo actuado en estos casos.
+Si a pesar de las medidas tomadas por el órgano jurisdiccional de amparo no se logra la comparecencia del agraviado, resolverá la suspensión definitiva, ordenará suspender el procedimiento en lo principal y se harán los hechos del conocimiento del Ministerio Público de la Federación. En caso de que éste sea autoridad responsable, se hará del conocimiento al Fiscal General de la República. Cuando haya solicitud expresa de la Comisión Nacional de los Derechos Humanos, se remitirá copia certificada de lo actuado en estos casos.
+
+*Párrafo reformado DOF 20-05-2021*
 
 Transcurrido un año sin que nadie se apersone en el juicio, se tendrá por no interpuesta la demanda.
 
@@ -278,7 +286,9 @@ Cuando el quejoso y el tercero interesado cuenten con Firma Electrónica y prete
 
 ###### Artículo 25.
 
-Las notificaciones al titular del Poder Ejecutivo Federal se entenderán con el titular de la Secretaría de Estado, de la Consejería Jurídica del Ejecutivo Federal o de la Procuraduría General de la República, que deba representarlo en el juicio de amparo, de acuerdo con lo dispuesto en el acuerdo general al que hace referencia el artículo 9o de esta Ley.
+Las notificaciones al titular del Poder Ejecutivo Federal se entenderán con el titular de la Secretaría de Estado o de la Consejería Jurídica del Ejecutivo Federal, que deba representarlo en el juicio de amparo, de acuerdo con lo dispuesto en el acuerdo general al que hace referencia el artículo 9o. de esta Ley.
+
+*Párrafo reformado DOF 20-05-2021*
 
 Las notificaciones a las entidades a que se hace referencia en el párrafo anterior deberán ser hechas por medio de oficio impreso dirigido al domicilio oficial que corresponda o en forma digital a través del uso de la Firma Electrónica.
 
@@ -442,7 +452,9 @@ I. La Suprema Corte de Justicia de la Nación;
 
 II. Los tribunales colegiados de circuito;
 
-III. Los tribunales unitarios de circuito;
+III. Los tribunales colegiados de apelación;
+
+*Fracción reformada DOF 07-06-2021*
 
 IV. Los juzgados de distrito; y
 
@@ -458,13 +470,17 @@ En materia agraria y en los juicios en contra de tribunales federales de lo cont
 
 ###### Artículo 35.
 
-Los juzgados de distrito y los tribunales unitarios de circuito son competentes para conocer del juicio de amparo indirecto.
+Los juzgados de distrito y los tribunales colegiados de apelación son competentes para conocer del juicio de amparo indirecto.
+
+*Párrafo reformado DOF 07-06-2021*
 
 También lo serán las autoridades del orden común cuando actúen en auxilio de los órganos jurisdiccionales de amparo.
 
 ###### Artículo 36.
 
-Los tribunales unitarios de circuito sólo conocerán de los juicios de amparo indirecto promovidos contra actos de otros tribunales de la misma naturaleza. Será competente otro tribunal del mismo circuito, si lo hubiera, o el más próximo a la residencia de aquél que haya emitido el acto reclamado.
+Los tribunales colegiados de apelación sólo conocerán de los juicios de amparo indirecto promovidos contra actos de otros tribunales de la misma naturaleza. Será competente otro tribunal del mismo circuito, si lo hubiera, o el más próximo a la residencia de aquél que haya emitido el acto reclamado.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 37.
 
@@ -486,9 +502,13 @@ En este caso, conocerá otro del mismo distrito y especialización, en su caso, 
 
 ###### Artículo 40.
 
-El pleno o las salas de la Suprema Corte de Justicia de la Nación podrán ejercer, de manera oficiosa o a solicitud del Procurador General de la República la facultad de atracción para conocer de un amparo directo que corresponda resolver a los tribunales colegiados de circuito, cuando por su interés y trascendencia lo ameriten, de conformidad con el siguiente procedimiento:
+El Pleno o las Salas de la Suprema Corte de Justicia de la Nación podrán ejercer, de manera oficiosa o a solicitud de la persona titular de la Fiscalía General de la República la facultad de atracción para conocer de un amparo directo que corresponda resolver a los tribunales colegiados de circuito, cuando por su interés y trascendencia lo ameriten, de conformidad con el siguiente procedimiento:
 
-I. Planteado el caso por cualquiera de los ministros, o en su caso hecha la solicitud por el Procurador General de la República, el pleno o la sala acordará si procede solicitar los autos al tribunal colegiado de circuito, en cuyo caso, previa suspensión del procedimiento, éste los remitirá dentro del plazo de tres días siguientes a la recepción de la solicitud;
+*Párrafo reformado DOF 20-05-2021, 07-06-2021*
+
+I. Planteado el caso por cualquiera de las ministras o los ministros, o en su caso hecha la solicitud de la persona titular de la Fiscalía General de la República, el pleno o la sala acordará si procede solicitar los autos al tribunal colegiado de circuito, en cuyo caso, previa suspensión del procedimiento, éste los remitirá dentro del plazo de tres días siguientes a la recepción de la solicitud;
+
+*Fracción reformada DOF 20-05-2021, 07-06-2021*
 
 II. Recibidos los autos se turnará el asunto al ministro que corresponda, para que dentro del plazo de quince días formule dictamen a efecto de resolver si se ejerce o no dicha facultad; y
 
@@ -534,15 +554,19 @@ Si éste acepta la competencia, se avocará al conocimiento; en caso contrario, 
 
 ###### Artículo 47.
 
-Cuando se presente una demanda de amparo ante un juez de distrito o ante un tribunal unitario de circuito, en la que se reclamen actos que estimen sean materia de amparo directo, declararán carecer de competencia y de inmediato remitirán la demanda y sus anexos al tribunal colegiado de circuito que corresponda.
+Cuando se presente una demanda de amparo ante una jueza o un juez de distrito o ante un tribunal colegiado de apelación, en la que se reclamen actos que estimen sean materia de amparo directo, declararán carecer de competencia y de inmediato remitirán la demanda y sus anexos al tribunal colegiado de circuito que corresponda.
 
-El presidente del tribunal decidirá, sin trámite alguno, si acepta o no la competencia. En el primer caso, mandará tramitar el expediente y señalará al quejoso un plazo de cinco días para la presentación de las copias, notificará a la autoridad responsable para que en su caso, provea respecto a la suspensión del acto reclamado y le otorgará un plazo de diez días para que rinda el informe correspondiente. En el caso que decida no aceptar la competencia, remitirá los autos al juzgado o tribunal que estime competente, sin perjuicio de las cuestiones de competencia que pudieran suscitarse entre jueces de distrito o tribunales unitarios de circuito.
+La presidenta o el presidente del tribunal decidirá, sin trámite alguno, si acepta o no la competencia. En el primer caso, mandará tramitar el expediente y señalará a la quejosa o al quejoso un plazo de cinco días para la presentación de las copias, notificará a la autoridad responsable para que, en su caso, provea respecto a la suspensión del acto reclamado y le otorgará un plazo de diez días para que rinda el informe correspondiente. En el caso que decida no aceptar la competencia, remitirá los autos al juzgado o tribunal que estime competente, sin perjuicio de las cuestiones de competencia que pudieran suscitarse entre juezas o jueces de distrito o tribunales colegiados de apelación.
 
-Si la competencia del tribunal colegiado de circuito aparece del informe justificado de la autoridad responsable, el juez de distrito o tribunal unitario de circuito se declarará incompetente conforme a este artículo, remitirá los autos al tribunal colegiado de circuito que estime competente para el efecto previsto en el párrafo anterior y lo comunicará a la autoridad responsable para que ésta en su caso, continúe lo relativo a la suspensión del acto reclamado conforme a lo establecido en esta Ley.
+Si la competencia del tribunal colegiado de circuito aparece del informe justificado de la autoridad responsable, la jueza o el juez de distrito o el tribunal colegiado de apelación se declarará incompetente conforme a este artículo, remitirá los autos al tribunal colegiado de circuito que estime competente para el efecto previsto en el párrafo anterior y lo comunicará a la autoridad responsable para que ésta, en su caso, continúe lo relativo a la suspensión del acto reclamado conforme a lo establecido en esta Ley.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 48.
 
-Cuando se presente una demanda de amparo ante juez de distrito o tribunal unitario de circuito y estimen carecer de competencia, la remitirán de plano, con sus anexos, al juez o tribunal competente, sin decidir sobre la admisión ni sobre la suspensión del acto reclamado, salvo que se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales.
+Cuando se presente una demanda de amparo ante jueza o juez de distrito o tribunal colegiado de apelación y estimen carecer de competencia, la remitirán de plano, con sus anexos, a la jueza, juez o tribunal competente, sin decidir sobre la admisión ni sobre la suspensión del acto reclamado, salvo que se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales.
+
+*Párrafo reformado DOF 07-06-2021*
 
 Recibida la demanda y sus anexos por el órgano requerido, éste decidirá de plano, dentro de las cuarenta y ocho horas siguientes, si acepta o no el conocimiento del asunto. Si acepta, comunicará su resolución al requirente, previa notificación de las partes. En caso contrario, devolverá la demanda al requirente, quien deberá resolver dentro de las cuarenta y ocho horas siguientes si insiste o no en declinar su competencia. Si no insiste, se limitará a comunicar su resolución al requerido y se dará por terminado el conflicto competencial. Si insiste en declinar su competencia y la cuestión se plantea entre órganos de la jurisdicción de un mismo tribunal colegiado de circuito, remitirá los autos al tribunal colegiado de circuito de su jurisdicción, el cual dará aviso al requerido para que exponga lo que estime pertinente.
 
@@ -554,19 +578,25 @@ Admitida la demanda de amparo indirecto ningún órgano jurisdiccional podrá de
 
 ###### Artículo 49.
 
-Cuando el juez de distrito o el tribunal unitario de circuito ante el cual se hubiese promovido un juicio de amparo tenga información de que otro está conociendo de un juicio diverso promovido por el mismo quejoso, contra las mismas autoridades y por el mismo acto reclamado, aunque los conceptos de violación sean distintos, lo comunicará de inmediato por oficio a dicho órgano, y anexará la certificación del día y hora de presentación de la demanda, así como, en su caso, del auto dictado como primera actuación en el juicio.
+Cuando la jueza o el juez de distrito o el tribunal colegiado de apelación ante el cual se hubiese promovido un juicio de amparo tenga información de que otro está conociendo de un juicio diverso promovido por la misma quejosa o quejoso, contra las mismas autoridades y por el mismo acto reclamado, aunque los conceptos de violación sean distintos, lo comunicará de inmediato por oficio a dicho órgano, y anexará la certificación del día y hora de presentación de la demanda, así como, en su caso, del auto dictado como primera actuación en el juicio.
+
+*Párrafo reformado DOF 07-06-2021*
 
 Recibido el oficio, el órgano resolverá dentro de las veinticuatro horas siguientes si se trata del mismo asunto y si le corresponde su conocimiento, y comunicará lo anterior al oficiante. Si reconoce la competencia de éste, le remitirá los autos relativos.
 
 En caso de conflicto competencial, se estará a lo dispuesto en el artículo 48 de esta Ley.
 
-Cuando se resuelva que se trata de un mismo asunto, se continuará el juicio promovido ante el juez de distrito o tribunal unitario de circuito que haya resultado competente y se deberá sobreseer en el otro juicio.
+Cuando se resuelva que se trata de un mismo asunto, se continuará el juicio promovido ante la jueza o el juez de distrito o tribunal colegiado de apelación que haya resultado competente y se deberá sobreseer en el otro juicio.
+
+*Párrafo reformado DOF 07-06-2021*
 
 ###### Artículo 50.
 
-Cuando alguna de las partes estime que un juez de distrito o tribunal unitario de circuito está conociendo de un juicio de amparo que debe tramitarse como directo, podrá ocurrir ante el tribunal colegiado de circuito que estime competente y exhibir copia de la demanda y de las constancias conducentes.
+Cuando alguna de las partes estime que una jueza o un juez de distrito o tribunal colegiado de apelación está conociendo de un juicio de amparo que debe tramitarse como directo, podrá ocurrir ante el tribunal colegiado de circuito que estime competente y exhibir copia de la demanda y de las constancias conducentes.
 
-El presidente del tribunal colegiado pedirá informe al juez de distrito o tribunal unitario de circuito, que deberá rendirse en el plazo de veinticuatro horas, y resolverá dentro de las cuarenta y ocho horas siguientes.
+La presidenta o el presidente del tribunal colegiado pedirá informe a la jueza o juez de distrito o tribunal colegiado de apelación, que deberá rendirse en el plazo de veinticuatro horas, y resolverá dentro de las cuarenta y ocho horas siguientes.
+
+*Artículo reformado DOF 07-06-2021*
 
 #### CAPÍTULO VI · Impedimentos, Excusas y Recusaciones
 
@@ -614,13 +644,25 @@ a) De uno de sus magistrados;
 
 b) De dos o más magistrados de otro tribunal colegiado de circuito;
 
-c) De los jueces de distrito, los titulares de los tribunales unitarios y demás autoridades que conozcan de los juicios de amparo, que se encuentren en su circuito.
+c) De las juezas o jueces de distrito, que se encuentren en su circuito.
+
+*Inciso reformado DOF 07-06-2021*
+
+IV. Los tribunales colegiados de apelación:
+
+a) De una de sus magistradas o magistrados;
+
+b) De dos o más magistradas o magistrados de otro tribunal colegiado de apelación.
+
+*Fracción con incisos adicionada DOF 07-06-2021*
 
 ###### Artículo 55.
 
 Los ministros de la Suprema Corte de Justicia de la Nación manifestarán estar impedidos ante el tribunal pleno o ante la sala que conozca del asunto de que se trate.
 
-Los magistrados de circuito y los jueces de distrito manifestarán su impedimento y lo comunicarán al tribunal colegiado de circuito que corresponda.
+Las magistradas o los magistrados de circuito y las juezas o los jueces de distrito manifestarán su impedimento y lo comunicarán al tribunal que corresponda.
+
+*Párrafo reformado DOF 07-06-2021*
 
 Las excusas se calificarán de plano.
 
@@ -632,9 +674,13 @@ Cuando se manifiesten impedidos dos o más ministros de una de las salas, se cal
 
 ###### Artículo 57.
 
-Cuando uno de los integrantes de un tribunal colegiado de circuito se excuse o sea recusado, los restantes resolverán lo conducente.
+Cuando uno de los integrantes de un tribunal colegiado de circuito o de un tribunal colegiado de apelación, se excuse o sea recusado, los restantes resolverán lo conducente.
 
-En caso de empate, la resolución corresponderá al tribunal colegiado de circuito siguiente en orden del mismo circuito y especialidad y, de no haberlos, al del circuito más cercano.
+*Párrafo reformado DOF 07-06-2021*
+
+En caso de empate, la resolución corresponderá al tribunal colegiado de circuito siguiente en orden del mismo circuito y especialidad y, de no haberlos, al del circuito más cercano. El mismo procedimiento se seguirá tratándose de empate en tribunales colegiados de apelación.
+
+*Párrafo reformado DOF 07-06-2021*
 
 Cuando la excusa o recusación se refiera a más de un magistrado, la resolución se hará en términos del párrafo anterior.
 
@@ -642,7 +688,9 @@ Si sólo es fundada la excusa o recusación de uno de los magistrados, el asunto
 
 ###### Artículo 58.
 
-Cuando se declare impedido a un juez de distrito o magistrado de tribunal unitario de circuito, conocerá del asunto otro del mismo distrito o circuito, según corresponda y, en su caso, especialización; en su defecto, conocerá el más próximo perteneciente al mismo circuito.
+Cuando se declare impedida a una jueza o un juez de distrito, conocerá del asunto otra u otro adscrito, al mismo circuito, según corresponda y, en su caso, especialización; en su defecto, conocerá el más próximo perteneciente al mismo circuito.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 59.
 
@@ -900,7 +948,9 @@ El órgano jurisdiccional de amparo podrá especificar qué medidas adicionales 
 
 La autoridad que conozca del juicio de amparo deberá suplir la deficiencia de los conceptos de violación o agravios, en los casos siguientes:
 
-I. En cualquier materia, cuando el acto reclamado se funde en normas generales que han sido consideradas inconstitucionales por la jurisprudencia de la Suprema Corte de Justicia de la Nación y de los Plenos de Circuito. La jurisprudencia de los Plenos de Circuito sólo obligará a suplir la deficiencia de los conceptos de violación o agravios a los juzgados y tribunales del circuito correspondientes;
+I. En cualquier materia, cuando el acto reclamado se funde en normas generales que han sido declaradas inconstitucionales por la jurisprudencia de la Suprema Corte de Justicia de la Nación y de los plenos regionales. La jurisprudencia de los plenos regionales sólo obligará a suplir la deficiencia de los conceptos de violación o agravios a los juzgados y tribunales de la región correspondientes;
+
+*Fracción reformada DOF 07-06-2021*
 
 II. En favor de los menores o incapaces, o en aquellos casos en que se afecte el orden y desarrollo de la familia;
 
@@ -940,6 +990,12 @@ Los medios de impugnación, así como los escritos y promociones que se realicen
 
 Para el caso de que los recursos se presenten de manera electrónica, se podrá acceder al expediente de esa misma forma.
 
+###### Artículo 80 Bis.
+
+La Suprema Corte de Justicia de la Nación de oficio o a petición fundada del tribunal colegiado que conozca del asunto, de la persona titular de la Fiscalía General de la República, del Ministerio Público de la Federación que sea parte, o de la persona titular del Poder Ejecutivo Federal, por conducto de la o del titular de la Consejería Jurídica del Ejecutivo Federal, podrá atraer cualquiera de los recursos a los que se refiere esta Ley cuando su interés y trascendencia lo ameriten.
+
+*Artículo adicionado DOF 07-06-2021*
+
 ##### Sección Primera · Recurso de Revisión
 
 ###### Artículo 81.
@@ -958,9 +1014,11 @@ d) Las que declaren el sobreseimiento fuera de la audiencia constitucional; y
 
 e) Las sentencias dictadas en la audiencia constitucional; en su caso, deberán impugnarse los acuerdos pronunciados en la propia audiencia.
 
-II. En amparo directo, en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales que establezcan la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos o de los derechos humanos establecidos en los tratados internacionales de los que el Estado Mexicano sea parte, u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que fijen un criterio de importancia y trascendencia, según lo disponga la Suprema Corte de Justicia de la Nación, en cumplimiento de acuerdos generales del pleno.
+II. En amparo directo, en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales que establezcan la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que a juicio de la Suprema Corte de Justicia de la Nación el asunto revista un interés excepcional en materia constitucional o de derechos humanos. La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales sin poder comprender otras.
 
-La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales, sin poder comprender otras.
+*Fracción reformada DOF 07-06-2021*
+
+*Reforma DOF 07-06-2021: Derogó del artículo el entonces párrafo segundo*
 
 ###### Artículo 82.
 
@@ -978,9 +1036,9 @@ Son competentes los tribunales colegiados de circuito para conocer del recurso d
 
 ###### Artículo 85.
 
-Cuando la Suprema Corte de Justicia de la Nación estime que un amparo en revisión, por sus características especiales deba ser de su conocimiento, lo atraerá oficiosamente conforme al procedimiento establecido en el artículo 40 de esta Ley.
+Se deroga.
 
-El tribunal colegiado del conocimiento podrá solicitar a la Suprema Corte de Justicia de la Nación que ejercite la facultad de atracción, para lo cual expresará las razones en que funde su petición y remitirá los autos originales a ésta, quien dentro de los treinta días siguientes al recibo de los autos originales, resolverá si ejercita la facultad de atracción, procediendo en consecuencia en los términos del párrafo anterior.
+*Artículo derogado DOF 07-06-2021*
 
 ###### Artículo 86.
 
@@ -1015,6 +1073,10 @@ Tratándose de resoluciones relativas a la suspensión definitiva, el expediente
 ###### Artículo 91.
 
 El presidente del órgano jurisdiccional, según corresponda, dentro de los tres siguientes días a su recepción calificará la procedencia del recurso y lo admitirá o desechará.
+
+Cuando se trate del recurso de revisión en amparo directo no procederá ningún medio de impugnación en contra del auto que deseche el recurso.
+
+*Párrafo adicionado DOF 07-06-2021*
 
 ###### Artículo 92.
 
@@ -1122,7 +1184,9 @@ Recibidas las constancias, se dictará resolución dentro de los cuarenta días 
 
 ###### Artículo 102.
 
-En los casos de resoluciones dictadas durante la tramitación del amparo indirecto que por su naturaleza trascendental y grave puedan causar un perjuicio no reparable a alguna de las partes, con la interposición de la queja el juez de distrito o tribunal unitario de circuito está facultado para suspender el procedimiento, hecha excepción del incidente de suspensión, siempre que a su juicio estime que la resolución que se dicte en ella pueda influir en la sentencia, o cuando de resolverse en lo principal, se hagan nugatorios los derechos que pudiera hacer valer el recurrente en el acto de la audiencia.
+En los casos de resoluciones dictadas durante la tramitación del amparo indirecto que por su naturaleza trascendental y grave puedan causar un perjuicio no reparable a alguna de las partes, con la interposición de la queja la jueza o el juez de distrito o tribunal colegiado de apelación está facultado para suspender el procedimiento, hecha la excepción del incidente de suspensión, siempre que a su juicio estime que la resolución que se dicte en ella pueda influir en la sentencia, o cuando de resolverse en lo principal, se hagan nugatorios los derechos que pudiera hacer valer el recurrente en el acto de la audiencia.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 103.
 
@@ -1135,6 +1199,10 @@ En caso de resultar fundado el recurso se dictará la resolución que correspond
 El recurso de reclamación es procedente contra los acuerdos de trámite dictados por el presidente de la Suprema Corte de Justicia de la Nación o por los presidentes de sus salas o de los tribunales colegiados de circuito.
 
 Dicho recurso se podrá interponer por cualquiera de las partes, por escrito, en el que se expresan agravios, dentro del término de tres días siguientes al en que surta sus efectos la notificación de la resolución impugnada.
+
+En contra del acuerdo que deseche el recurso de revisión en amparo directo no procede medio de impugnación alguno.
+
+*Párrafo adicionado DOF 07-06-2021*
 
 ###### Artículo 105.
 
@@ -1318,7 +1386,9 @@ Tratándose de actos materialmente administrativos, cuando en la demanda se aduz
 
 ###### Artículo 118.
 
-En los casos en que el quejoso impugne la aplicación por parte de la autoridad responsable de normas generales consideradas inconstitucionales por la jurisprudencia decretada por la Suprema Corte de Justicia de la Nación o por los Plenos de Circuito, el informe con justificación se reducirá a tres días improrrogables, y la celebración de la audiencia se señalará dentro de diez días contados desde el siguiente al de la admisión de la demanda.
+En los casos en que la quejosa o el quejoso impugne la aplicación por parte de la autoridad responsable de normas generales consideradas inconstitucionales por la jurisprudencia decretada por la Suprema Corte de Justicia de la Nación o por los plenos regionales, el informe con justificación se reducirá a tres días improrrogables, y la celebración de la audiencia se señalará dentro de diez días contados desde el siguiente al de la admisión de la demanda.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 119.
 
@@ -2022,7 +2092,9 @@ Cuando se trate de juicios del orden penal, la autoridad responsable con la sola
 
 ###### Artículo 192.
 
-Las ejecutorias de amparo deben ser puntualmente cumplidas. Al efecto, cuando cause ejecutoria la sentencia en que se haya concedido el amparo, o se reciba testimonio de la dictada en revisión, el juez de distrito o el tribunal unitario de circuito, si se trata de amparo indirecto, o el tribunal colegiado de circuito, tratándose de amparo directo, la notificarán sin demora a las partes.
+Las ejecutorias de amparo deben ser puntualmente cumplidas. Al efecto, cuando cause ejecutoria la sentencia en que se haya concedido el amparo, o se reciba testimonio de la dictada en revisión, la jueza o el juez de distrito o el tribunal colegiado de apelación, si se trata de amparo indirecto, o el tribunal colegiado de circuito, tratándose de amparo directo, la notificarán sin demora a las partes.
+
+*Párrafo reformado DOF 07-06-2021*
 
 En la notificación que se haga a la autoridad responsable se le requerirá para que cumpla con la ejecutoria dentro del plazo de tres días, apercibida que de no hacerlo así sin causa justificada, se impondrá a su titular una multa que se determinará desde luego y que, asimismo, se remitirá el expediente al tribunal colegiado de circuito o a la Suprema Corte de Justicia de la Nación, según el caso, para seguir el trámite de inejecución, que puede culminar con la separación de su puesto y su consignación.
 
@@ -2040,7 +2112,9 @@ En cambio, si la autoridad demuestra que la ejecutoria está en vías de cumplim
 
 En el supuesto de que sea necesario precisar, definir o concretar la forma o términos del cumplimiento de la ejecutoria, cualquiera de los órganos judiciales competentes podrá ordenar, de oficio o a petición de parte, que se abra un incidente para tal efecto.
 
-Al remitir los autos al tribunal colegiado de circuito, el juez de distrito o el tribunal unitario de circuito formará un expedientillo con las copias certificadas necesarias para seguir procurando el cumplimiento de la ejecutoria.
+Al remitir los autos al tribunal colegiado de circuito, la jueza o el juez de distrito o el tribunal colegiado de apelación, formará un expedientillo con las copias certificadas necesarias para seguir procurando el cumplimiento de la ejecutoria.
+
+*Párrafo reformado DOF 07-06-2021*
 
 El tribunal colegiado de circuito notificará a las partes la radicación de los autos, revisará el trámite del a quo y dictará la resolución que corresponda; si reitera que hay incumplimiento remitirá los autos a la Suprema Corte de Justicia de la Nación con un proyecto de separación del cargo del titular de la autoridad responsable y, en su caso, del de su superior jerárquico, lo cual será notificado a éstos.
 
@@ -2126,7 +2200,9 @@ Cuando el amparo se haya otorgado en contra de actos que importen peligro de pri
 
 ###### Artículo 203.
 
-El órgano jurisdiccional, sin decidir sobre la admisión del recurso de inconformidad, remitirá el original del escrito, así como los autos del juicio a la Suprema Corte de Justicia de la Nación, la cual resolverá allegándose los elementos que estime convenientes.
+El órgano jurisdiccional, sin decidir sobre la admisión del recurso de inconformidad, remitirá el original del escrito, así como los autos del juicio al tribunal colegiado de circuito, el cual resolverá allegándose de los elementos que estime convenientes.
+
+*Artículo reformado DOF 07-06-2021*
 
 #### CAPÍTULO IV · Incidente de Cumplimiento Sustituto
 
@@ -2136,17 +2212,27 @@ El incidente de cumplimiento sustituto tendrá por efecto que la ejecutoria se d
 
 ###### Artículo 205.
 
-El cumplimiento sustituto podrá ser solicitado por cualquiera de las partes o decretado de oficio por la Suprema Corte de Justicia de la Nación, en los casos en que:
+El cumplimiento sustituto podrá ser solicitado por cualquiera de las partes o decretado de oficio por el órgano jurisdiccional que hubiera emitido la sentencia de amparo, en los casos en que:
+
+*Párrafo reformado DOF 07-06-2021*
 
 I. La ejecución de la sentencia afecte gravemente a la sociedad en mayor proporción a los beneficios que pudiera obtener el quejoso; o
 
 II. Por las circunstancias materiales del caso, sea imposible o desproporcionadamente gravoso restituir las cosas a la situación que guardaban con anterioridad al juicio.
 
-La solicitud podrá presentarse, según corresponda, ante la Suprema Corte de Justicia de la Nación o por conducto del órgano jurisdiccional a partir del momento en que cause ejecutoria la sentencia.
+La solicitud podrá presentarse ante el órgano jurisdiccional que hubiera emitido la sentencia de amparo a partir del momento que ésta cause ejecutoria.
+
+*Párrafo reformado DOF 07-06-2021*
 
 El cumplimiento sustituto se tramitará incidentalmente en los términos de los artículos 66 y 67 de esta Ley.
 
-Declarado procedente, el órgano jurisdiccional de amparo determinará la forma y cuantía de la restitución.
+En el incidente, el órgano jurisdiccional que hubiera emitido la sentencia determinará si ha lugar o no al cumplimiento sustituto. En caso de resultar favorecida la petición, se abrirá un nuevo incidente para cuantificar el pago de daños y perjuicios.
+
+*Párrafo reformado DOF 07-06-2021*
+
+Tanto la determinación sobre la procedencia del cumplimiento sustituto como la que cuantifique los daños y perjuicios serán recurribles mediante el recurso de queja previsto en el artículo 97, fracción I, inciso h) de esta Ley, del cual conocerán los tribunales colegiados de circuito.
+
+*Párrafo adicionado DOF 07-06-2021*
 
 Independientemente de lo establecido en los párrafos anteriores, el quejoso y la autoridad responsable pueden celebrar convenio a través del cual se tenga por cumplida la ejecutoria. Del convenio se dará aviso al órgano judicial de amparo; éste, una vez que se le compruebe que los términos del convenio fueron cumplidos, mandará archivar el expediente.
 
@@ -2160,7 +2246,9 @@ Este incidente podrá promoverse en cualquier tiempo, mientras no cause ejecutor
 
 ###### Artículo 207.
 
-El incidente se promoverá ante el juez de distrito o el tribunal unitario de circuito, si se trata de la suspensión concedida en amparo indirecto, y ante el presidente del tribunal colegiado de circuito si la suspensión fue concedida en amparo directo.
+El incidente se promoverá ante la jueza o el juez de distrito o el tribunal colegiado de apelación, si se trata de la suspensión concedida en amparo indirecto, y ante la presidenta o el presidente del tribunal colegiado de circuito si la suspensión fue concedida en amparo directo.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 208.
 
@@ -2226,143 +2314,185 @@ Jurisprudencia y Declaratoria General de Inconstitucionalidad
 
 ###### Artículo 215.
 
-La jurisprudencia se establece por reiteración de criterios, por contradicción de tesis y por sustitución.
+La jurisprudencia se establece por precedentes obligatorios, por reiteración y por contradicción.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 216.
 
-La jurisprudencia por reiteración se establece por la Suprema Corte de Justicia de la Nación, funcionando en pleno o en salas, o por los tribunales colegiados de circuito.
+La jurisprudencia por precedentes obligatorios se establece por la Suprema Corte de Justicia de la Nación, funcionando en Pleno o en Salas.
 
-La jurisprudencia por contradicción se establece por el pleno o las salas de la Suprema Corte de Justicia de la Nación y por los Plenos de Circuito.
+La jurisprudencia por reiteración se establece por los tribunales colegiados de circuito.
+
+La jurisprudencia por contradicción se establece por el Pleno o las Salas de la Suprema Corte de Justicia de la Nación y por los plenos regionales.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 217.
 
-La jurisprudencia que establezca la Suprema Corte de Justicia de la Nación, funcionando en pleno o en salas, es obligatoria para éstas tratándose de la que decrete el pleno, y además para los Plenos de Circuito, los tribunales colegiados y unitarios de circuito, los juzgados de distrito, tribunales militares y judiciales del orden común de los Estados y del Distrito Federal, y tribunales administrativos y del trabajo, locales o federales.
+La jurisprudencia que establezca la Suprema Corte de Justicia de la Nación será obligatoria para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas, con excepción de la propia Suprema Corte.
 
-La jurisprudencia que establezcan los Plenos de Circuito es obligatoria para los tribunales colegiados y unitarios de circuito, los juzgados de distrito, tribunales militares y judiciales del orden común de las entidades federativas y tribunales administrativos y del trabajo, locales o federales que se ubiquen dentro del circuito correspondiente.
+*Párrafo reformado DOF 07-06-2021*
 
-La jurisprudencia que establezcan los tribunales colegiados de circuito es obligatoria para los órganos mencionados en el párrafo anterior, con excepción de los Plenos de Circuito y de los demás tribunales colegiados de circuito.
+La jurisprudencia del Pleno de la Suprema Corte de Justicia de la Nación será obligatoria para sus Salas, pero no lo será la de ellas para el Pleno. Ninguna sala estará obligada a seguir la jurisprudencia de la otra.
+
+*Párrafo reformado DOF 07-06-2021*
+
+La jurisprudencia que establezcan los plenos regionales es obligatoria para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas de su región, salvo para la Suprema Corte de Justicia de la Nación y los plenos regionales.
+
+*Párrafo reformado DOF 07-06-2021*
+
+La jurisprudencia que establezcan los tribunales colegiados de circuito es obligatoria para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas de su circuito, con excepción de la Suprema Corte de Justicia de la Nación, los plenos regionales y los tribunales colegiados de circuito.
+
+*Párrafo adicionado DOF 07-06-2021*
 
 La jurisprudencia en ningún caso tendrá efecto retroactivo en perjuicio de persona alguna.
 
 ###### Artículo 218.
 
-Cuando la Suprema Corte de Justicia de la Nación, los Plenos de Circuito o los tribunales colegiados de circuito establezcan un criterio relevante, se elaborará la tesis respectiva, la cual deberá contener:
+Cuando la Suprema Corte de Justicia de la Nación, los plenos regionales o los tribunales colegiados de circuito establezcan un criterio relevante, se elaborará la tesis respectiva en la que se recojan las razones de la decisión, esto es, los hechos relevantes, el criterio jurídico que resuelve el problema abordado en la sentencia y una síntesis de la justificación expuesta por el tribunal para adoptar ese criterio.
 
-I. El título que identifique el tema que se trata;
+De esta manera la tesis deberá contener los siguientes apartados:
 
-II. El subtítulo que señale sintéticamente el criterio que se sustenta;
+I. Rubro: mediante el cual se identificará el tema abordado en la tesis;
 
-III. Las consideraciones interpretativas mediante las cuales el órgano jurisdiccional haya establecido el criterio;
+II. Narración de los hechos: en este apartado se describirán de manera muy breve los hechos relevantes que dieron lugar al criterio adoptado por el tribunal para resolver el caso;
 
-IV. Cuando el criterio se refiera a la interpretación de una norma, la identificación de ésta; y
+III. Criterio jurídico: en el que se reflejará la respuesta jurídica adoptada para resolver el problema jurídico que se le planteaba al órgano jurisdiccional;
 
-V. Los datos de identificación del asunto, el número de tesis, el órgano jurisdiccional que la dictó y las votaciones emitidas al aprobar el asunto y, en su caso, en relación con el criterio sustentado en la tesis.
+IV. Justificación: se expondrán de manera sucinta los argumentos expuestos por el órgano jurisdiccional en la sentencia para sostener el criterio jurídico adoptado en la resolución, y
 
-Además de los elementos señalados en las fracciones I, II, III y IV de este artículo, la jurisprudencia emitida por contradicción o sustitución deberá contener, según sea el caso, los datos de identificación de las tesis que contiendan en la contradicción o de la tesis que resulte sustituida, el órgano que las emitió, así como la votación emitida durante las sesiones en que tales contradicciones o sustituciones se resuelvan.
+V. Datos de identificación del asunto: comprenderán el número de tesis, el órgano jurisdiccional que la dictó y las votaciones emitidas al aprobar el asunto y, en su caso, en relación con el criterio sustentado en la tesis.
+
+Además de los elementos señalados en las fracciones anteriores, la jurisprudencia emitida por contradicción de criterios deberá contener, según sea el caso, los datos de identificación de las tesis que contiendan en la contradicción, el órgano que las emitió, así como la votación emitida durante las sesiones en que tales contradicciones se resuelvan.
+
+Las cuestiones de hecho y de derecho que no sean necesarias para justificar la decisión, en ningún caso deberán incluirse en la tesis.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 219.
 
-El pleno o las salas de la Suprema Corte de Justicia de la Nación, los Plenos de Circuito o los tribunales colegiados de circuito deberán remitir las tesis en el plazo de quince días a la dependencia de la Suprema Corte de Justicia de la Nación encargada del Semanario Judicial de la Federación, para su publicación.
+El pleno o las salas de la Suprema Corte de Justicia de la Nación, los plenos regionales y los tribunales colegiados de circuito deberán remitir las tesis a la dependencia de la Suprema Corte de Justicia de la Nación encargada del Semanario Judicial de la Federación, para su publicación.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 220.
 
 En el Semanario Judicial de la Federación se publicarán las tesis que se reciban y se distribuirá en forma eficiente para facilitar su conocimiento.
 
-Igualmente se publicarán las resoluciones necesarias para constituir, interrumpir o sustituir la jurisprudencia y los votos particulares. También se publicarán las resoluciones que los órganos jurisdiccionales competentes estimen pertinentes.
+Igualmente se publicarán las resoluciones necesarias para constituir o interrumpir la jurisprudencia y los votos particulares. También se publicarán las resoluciones que los órganos jurisdiccionales competentes estimen pertinentes.
+
+*Párrafo reformado DOF 07-06-2021*
 
 ###### Artículo 221.
 
-Cuando las partes invoquen tesis de jurisprudencia o precedentes expresarán los datos de identificación y publicación. De no haber sido publicadas, bastará que se acompañen copias certificadas de las resoluciones correspondientes.
+Se deroga.
 
-#### CAPÍTULO II · Jurisprudencia por Reiteración de Criterios
+*Artículo derogado DOF 07-06-2021*
+
+#### CAPÍTULO II · Jurisprudencia por Precedentes Obligatorios
+
+*Denominación del Capítulo reformada DOF 07-06-2021*
 
 ###### Artículo 222.
 
-La jurisprudencia por reiteración del pleno de la Suprema Corte de Justicia de la Nación se establece cuando se sustente un mismo criterio en cinco sentencias no interrumpidas por otra en contrario, resueltas en diferentes sesiones, por una mayoría de cuando menos ocho votos.
+Las razones que justifiquen las decisiones contenidas en las sentencias que dicte el Pleno de la Suprema Corte de Justicia de la Nación, constituyen precedentes obligatorios para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas cuando sean tomadas por mayoría de ocho votos. Las cuestiones de hecho o de derecho que no sean necesarias para justificar la decisión no serán obligatorias.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 223.
 
-La jurisprudencia por reiteración de las salas de la Suprema Corte de Justicia de la Nación se establece cuando se sustente un mismo criterio en cinco sentencias no interrumpidas por otra en contrario, resueltas en diferentes sesiones, por una mayoría de cuando menos cuatro votos.
+Las razones que justifiquen las decisiones contenidas en las sentencias que dicten las salas de la Suprema Corte de Justicia de la Nación, constituyen precedentes obligatorios para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas cuando sean tomadas por mayoría de cuatro votos. Las cuestiones de hecho o de derecho que no sean necesarias para justificar la decisión no serán obligatorias.
+
+*Artículo reformado DOF 07-06-2021*
+
+#### CAPÍTULO III · Jurisprudencia por Reiteración
+
+*Capítulo adicionado DOF 07-06-2021*
 
 ###### Artículo 224.
 
-Para el establecimiento de la jurisprudencia de los tribunales colegiados de circuito deberán observarse los requisitos señalados en este Capítulo, salvo el de la votación, que deberá ser unánime.
+La jurisprudencia por reiteración se establece por los tribunales colegiados de circuito cuando sustenten, por unanimidad, un mismo criterio en cinco sentencias no interrumpidas por otra en contrario. Las cuestiones de hecho o de derecho que no sean necesarias para justificar la decisión no serán obligatorias.
 
-#### CAPÍTULO III · Jurisprudencia por Contradicción de Tesis
+*Artículo reformado DOF 07-06-2021*
+
+#### CAPÍTULO IV · Jurisprudencia por Contradicción de Criterios
+
+*Capítulo recorrido (antes Capítulo III) con denominación reformada DOF 07-06-2021*
 
 ###### Artículo 225.
 
-La jurisprudencia por contradicción se establece al dilucidar los criterios discrepantes sostenidos entre las salas de la Suprema Corte de Justicia de la Nación, entre los Plenos de Circuito o entre los tribunales colegiados de circuito, en los asuntos de su competencia.
+La jurisprudencia por contradicción se establece al dilucidar los criterios discrepantes sostenidos entre las salas de la Suprema Corte de Justicia de la Nación, entre los plenos regionales o entre los tribunales colegiados de circuito, en los asuntos de su competencia.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 226.
 
-Las contradicciones de tesis serán resueltas por:
+Las contradicciones de criterios serán resueltas por:
 
-I. El pleno de la Suprema Corte de Justicia de la Nación cuando deban dilucidarse las tesis contradictorias sostenidas entre sus salas;
+I. El pleno de la Suprema Corte de Justicia de la Nación cuando deban dilucidarse los criterios contradictorios sostenidos entre sus salas;
 
-II. El pleno o las salas de la Suprema Corte de Justicia de la Nación, según la materia, cuando deban dilucidarse las tesis contradictorias sostenidas entre los Plenos de Circuito de distintos Circuitos, entre los Plenos de Circuito en materia especializada de un mismo Circuito, o sus tribunales de diversa especialidad, así como entre los tribunales colegiados de diferente circuito; y
+II. El pleno o las salas de la Suprema Corte de Justicia de la Nación cuando deban dilucidarse los criterios contradictorios sostenidos entre plenos regionales o entre tribunales colegiados de circuito pertenecientes a distintas regiones, y
 
-III. Los Plenos de Circuito cuando deban dilucidarse las tesis contradictorias sostenidas entre los tribunales colegiados del circuito correspondiente.
+III. Los plenos regionales cuando deban dilucidarse criterios contradictorios entre los tribunales colegiados de circuito de la región correspondiente.
 
-Al resolverse una contradicción de tesis, el órgano correspondiente podrá acoger uno de los criterios discrepantes, sustentar uno diverso, declararla inexistente, o sin materia. En todo caso, la decisión se determinará por la mayoría de los magistrados que los integran.
+Al resolverse una contradicción de criterios, el órgano correspondiente podrá acoger uno de los criterios discrepantes, sustentar uno diverso, declararla inexistente o sin materia. En todo caso, la decisión se determinará por mayoría.
 
-La resolución que decida la contradicción de tesis no afectará las situaciones jurídicas concretas de los juicios en los cuales se hayan dictado las sentencias que sustentaron las tesis contradictorias.
+La resolución que decida la contradicción de criterios, no afectará las situaciones jurídicas concretas de los juicios en los cuales se hayan dictado las sentencias que sustentaron los criterios contendientes.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 227.
 
-La legitimación para denunciar las contradicciones de tesis se ajustará a las siguientes reglas:
+La legitimación para denunciar las contradicciones de criterios se ajustará a las siguientes reglas:
 
-I. Las contradicciones a que se refiere la fracción I del artículo anterior podrán ser denunciadas ante el Pleno de la Suprema Corte de Justicia de la Nación por los Ministros, los Plenos de Circuito, los Tribunales Colegiados de Circuito y sus integrantes, los Magistrados de los Tribunales Unitarios de Circuito, los Jueces de Distrito, el Procurador General de la República, o las partes en los asuntos que las motivaron.
+I. Las contradicciones a que se refiere la fracción I del artículo anterior podrán ser denunciadas ante el pleno de la Suprema Corte de Justicia de la Nación por las ministras o los ministros, los plenos regionales, los tribunales colegiados de circuito y sus integrantes, las magistradas o los magistrados de los tribunales colegiados de apelación, las juezas o los jueces de distrito, el o la Fiscal General de la República, o las partes en los asuntos que las motivaron;
 
-*Fracción reformada DOF 17-06-2016*
+II. Las contradicciones a que se refiere la fracción II del artículo anterior podrán ser denunciadas ante la Suprema Corte de Justicia de la Nación por las ministras o los ministros, los plenos regionales, o los tribunales colegiados de circuito y sus integrantes, que hayan sustentado criterios discrepantes, la o el Fiscal General de la República, las magistradas o los magistrados del tribunal colegiado de apelación, las juezas o los jueces de distrito, o las partes en los asuntos que las motivaron, y
 
-II. Las contradicciones a que se refiere la fracción II del artículo anterior podrán ser denunciadas ante la Suprema Corte de Justicia de la Nación por los Ministros, los Plenos de Circuito o los Tribunales Colegiados de Circuito y sus integrantes, que hayan sustentado las tesis discrepantes, el Procurador General de la República, los Magistrados de Tribunal Unitario de Circuito, los Jueces de Distrito, o las partes en los asuntos que las motivaron.
+III. Las contradicciones a que se refiere la fracción III del artículo anterior, podrán ser denunciadas ante los plenos regionales por la o el Fiscal General de la República, los mencionados tribunales y sus integrantes, las magistradas o los magistrados de tribunal colegiado de apelación, las juezas o los jueces de distrito o las partes en los asuntos que las motivaron.
 
-*Fracción reformada DOF 17-06-2016*
+*Artículo reformado DOF 17-06-2016, 20-05-2021, 07-06-2021*
 
-III. Las contradicciones a que se refiere la fracción III del artículo anterior, podrán ser denunciadas ante los Plenos de circuito por el Procurador General de la República, los mencionados Tribunales y sus integrantes, los Magistrados de Tribunal Unitario de Circuito, los Jueces de Distrito o las partes en los asuntos que las motivaron.
+#### CAPÍTULO V · Interrupción de la Jurisprudencia
 
-*Fracción reformada DOF 17-06-2016*
-
-#### CAPÍTULO IV · Interrupción de la Jurisprudencia
+*Capítulo recorrido (antes Capítulo IV) DOF 07-06-2021*
 
 ###### Artículo 228.
 
-La jurisprudencia se interrumpe y deja de tener carácter obligatorio cuando se pronuncie sentencia en contrario. En estos casos, en la ejecutoria respectiva deberán expresarse las razones en que se apoye la interrupción, las que se referirán a las consideraciones que se tuvieron para establecer la jurisprudencia relativa.
+Los tribunales no estarán obligados a seguir sus propias jurisprudencias. Sin embargo, para que puedan apartarse de ellas deberán proporcionar argumentos suficientes que justifiquen el cambio de criterio. En ese caso, se interrumpirá la jurisprudencia y dejará de tener carácter obligatorio.
+
+Los tribunales de que se trata estarán vinculados por sus propias jurisprudencias en los términos antes descritos, incluso cuando éstos se hayan emitido con una integración distinta.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 229.
 
 Interrumpida la jurisprudencia, para integrar la nueva se observarán las mismas reglas establecidas para su formación.
 
-#### CAPÍTULO V · Jurisprudencia por sustitución
+> Nota: Por Decreto DOF 07-06-2021 se derogó el entonces Capítulo V “Jurisprudencia por sustitución”. Se suprime su referencia en virtud de que mediante el mismo Decreto DOF 07-06-2021 se recorrió el entonces Capítulo IV para convertirse en el actual Capítulo V “Interrupción de la Jurisprudencia”.
 
 ###### Artículo 230.
 
-La jurisprudencia que por reiteración o contradicción establezcan el pleno o las salas de la Suprema Corte de Justicia de la Nación, así como los Plenos de Circuito, podrá ser sustituida conforme a las siguientes reglas:
+Se deroga.
 
-I. Cualquier tribunal colegiado de circuito, previa petición de alguno de sus magistrados, con motivo de un caso concreto una vez resuelto, podrán solicitar al Pleno de Circuito al que pertenezcan que sustituya la jurisprudencia que por contradicción haya establecido, para lo cual expresarán las razones por las cuales se estima debe hacerse.
-
-Para que los Plenos de Circuito sustituyan la jurisprudencia se requerirá de las dos terceras partes de los magistrados que lo integran.
-
-II. Cualquiera de los Plenos de Circuito, previa petición de alguno de los magistrados de los tribunales colegiados de su circuito y con motivo de un caso concreto una vez resuelto, podrán solicitar al pleno de la Suprema Corte de Justicia de la Nación, o a la sala correspondiente, que sustituya la jurisprudencia que hayan establecido, para lo cual expresarán las razones por las cuales se estima debe hacerse. La solicitud que, en su caso, enviarían los Plenos de Circuito al pleno de la Suprema Corte de Justicia de la Nación, o a la sala correspondiente, debe ser aprobada por la mayoría de sus integrantes.
-
-III. Cualquiera de las salas de la Suprema Corte de Justicia de la Nación, previa petición de alguno de los ministros que las integran, y sólo con motivo de un caso concreto una vez resuelto, podrán solicitar al pleno de la Suprema Corte de Justicia de la Nación que sustituya la jurisprudencia que haya establecido, para lo cual expresarán las razones por las cuales se estima debe hacerse. La solicitud que, en su caso, enviaría la sala correspondiente al pleno de la Suprema Corte de Justicia de la Nación, deberá ser aprobada por la mayoría de sus integrantes.
-
-Para que la Suprema Corte de Justicia de la Nación sustituya la jurisprudencia en términos de las fracciones II y III del presente artículo, se requerirá mayoría de cuando menos ocho votos en pleno y cuatro en sala.
-
-Cuando se resuelva sustituir la jurisprudencia, dicha resolución no afectará las situaciones jurídicas concretas derivadas de los juicios en los que se hayan dictado las sentencias que la integraron, ni la que se resolvió en el caso concreto que haya motivado la solicitud. Esta resolución se publicará y distribuirá en los términos establecidos en esta Ley.
+*Artículo derogado DOF 07-06-2021*
 
 #### CAPÍTULO VI · Declaratoria General de Inconstitucionalidad
 
 ###### Artículo 231.
 
-Cuando las salas o el pleno de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, resuelvan la inconstitucionalidad de una norma general por segunda ocasión consecutiva, en una o en distintas sesiones, el presidente de la sala respectiva o de la Suprema Corte de Justicia de la Nación lo informará a la autoridad emisora de la norma.
+Cuando las salas o el pleno de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, resuelvan la inconstitucionalidad de una norma general, el presidente o la presidenta de la sala respectiva o de la Suprema Corte de Justicia de la Nación deberá informarlo a la autoridad emisora de la norma en un plazo de quince días.
+
+*Párrafo reformado DOF 07-06-2021*
 
 Lo dispuesto en el presente Capítulo no será aplicable a normas en materia tributaria.
 
 ###### Artículo 232.
 
-Cuando el pleno o las salas de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, establezcan jurisprudencia por reiteración, en la cual se determine la inconstitucionalidad de la misma norma general, se procederá a la notificación a que se refiere el tercer párrafo de la fracción II del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos.
+Cuando el pleno o las salas de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, establezcan jurisprudencia en la que determinen la inconstitucionalidad de una norma general, se procederá a la notificación a que se refiere el tercer párrafo de la fracción II del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Párrafo reformado DOF 07-06-2021*
 
 Una vez que se hubiere notificado al órgano emisor de la norma y transcurrido el plazo de 90 días naturales sin que se modifique o derogue la norma declarada inconstitucional, el pleno de la Suprema Corte de Justicia de la Nación emitirá la declaratoria general de inconstitucionalidad correspondiente siempre que hubiera sido aprobada por mayoría de cuando menos ocho votos.
 
@@ -2370,11 +2500,15 @@ Cuando el órgano emisor de la norma sea el órgano legislativo federal o local,
 
 ###### Artículo 233.
 
-Los plenos de circuito, conforme a los acuerdos generales que emita la Suprema Corte de Justicia de la Nación, podrán solicitar a ésta, por mayoría de sus integrantes, que inicie el procedimiento de declaratoria general de inconstitucionalidad cuando dentro de su circuito se haya emitido jurisprudencia derivada de amparos indirectos en revisión en la que se declare la inconstitucionalidad de una norma general.
+Los plenos regionales, conforme a los acuerdos generales que emita la Suprema Corte de Justicia de la Nación, podrán solicitar a ésta, por mayoría de sus integrantes, que inicie el procedimiento de declaratoria general de inconstitucionalidad cuando dentro de su región se haya emitido jurisprudencia derivada de amparos indirectos en revisión.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 234.
 
-La declaratoria en ningún caso podrá modificar el sentido de la jurisprudencia que le da origen, será obligatoria, tendrá efectos generales y establecerá:
+La declaratoria en ningún caso podrá modificar el sentido de la resolución o jurisprudencia que le dio origen, será obligatoria, tendrá efectos generales y establecerá:
+
+*Párrafo reformado DOF 07-06-2021*
 
 I. La fecha a partir de la cual surtirá sus efectos; y
 
@@ -2408,7 +2542,9 @@ I. Multa;
 
 II. Auxilio de la fuerza pública que deberán prestar las autoridades policiacas federales, estatales o municipales; y
 
-III. Ordenar que se ponga al infractor a disposición del Ministerio Público por la probable comisión de delito en el supuesto de flagrancia; en caso contrario, levantar el acta respectiva y hacer la denuncia ante la representación social federal. Cuando la autoridad infractora sea el Ministerio Público de la Federación, la infracción se hará del conocimiento del Procurador General de la República.
+III. Ordenar que se ponga al infractor a disposición del Ministerio Público por la probable comisión de delito en el supuesto de flagrancia; en caso contrario, levantar el acta respectiva y hacer la denuncia ante la representación social federal. Cuando la autoridad infractora sea el Ministerio Público de la Federación, la infracción se hará del conocimiento del Fiscal General de la República.
+
+*Fracción reformada DOF 20-05-2021*
 
 #### CAPÍTULO II · Responsabilidades y Sanciones
 
@@ -2456,11 +2592,15 @@ En los casos de los artículos 32 y 68 de esta Ley, al servidor público que de 
 
 ###### Artículo 248.
 
-Se impondrá multa de cincuenta a quinientos días a quien para dar competencia a un juez de distrito o tribunal unitario de circuito, de mala fe designe como autoridad ejecutora a quien no lo sea, siempre que no se reclamen actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales.
+Se impondrá multa de setenta a setecientas veces el valor diario de la Unidad de Medida y Actualización a quien para dar competencia a una jueza o un juez de distrito o magistradas o magistrados del tribunal colegiado de apelación, de mala fe designe como autoridad ejecutora a quien no lo sea, siempre que no se reclamen actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 249.
 
-En los casos a que se refiere el artículo 49 de esta Ley, si el juez de distrito o tribunal unitario de circuito no encontraren motivo fundado para la promoción de dos o más juicios de amparo contra el mismo acto reclamado, impondrá al o los infractores multa de cincuenta a quinientos días, salvo que se trate de los casos mencionados en el artículo 15 de esta Ley.
+En los casos a que se refiere el artículo 49 de esta Ley, si la jueza o el juez de distrito o tribunal colegiado de apelación, no encontraren motivo fundado para la promoción de dos o más juicios de amparo contra el mismo acto reclamado, impondrá al o los infractores multa de cincuenta a quinientos días, salvo que se trate de los casos mencionados en el artículo 15 de esta Ley.
+
+*Artículo reformado DOF 07-06-2021*
 
 ###### Artículo 250.
 
@@ -2987,3 +3127,137 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Mariana Arámbula Meléndez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
+
+*Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021*
+
+**Artículo Sexagésimo Quinto.-** Se reforman los párrafos segundo y tercero del artículo 9o.; el párrafo cuarto del artículo 15; el párrafo primero del artículo 25; el párrafo primero y la fracción I del artículo 40; las fracciones I, II y III del artículo 227, y la fracción III del artículo 237 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+
+**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+
+Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
+
+**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+
+**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+
+En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
+
+Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
+
+**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+
+Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
+
+Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
+
+El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
+
+A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
+
+Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
+
+Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
+
+**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+
+**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+
+El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
+
+**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+
+**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+
+**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+
+Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
+
+**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+
+Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
+
+**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
+
+El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
+
+Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
+
+**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+
+**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+
+Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
+
+Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
+
+**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+
+**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y del Código Federal de Procedimientos Civiles.
+
+*Publicado en el Diario Oficial de la Federación el 7 de junio de 2021*
+
+**Artículo Quinto.** Se reforman los artículos 33, fracción III; 35, párrafo primero; 36; 40, párrafo primero y fracción I; 47; 48, párrafo primero; 49, párrafos primero y cuarto; 50; 54, fracción III, inciso c); 55, párrafo segundo; 57, párrafos primero y segundo; 58; 79, fracción I; 81, fracción II; 102; 118; 192, párrafo primero; 193, párrafo quinto; 203; 205, párrafos primero, segundo y cuarto; 207; 215; 216; 217, párrafos primero, segundo y tercero; 218; 219; 220, párrafo segundo; la denominación del Capítulo II del Título Cuarto; 222; 223; 224; la denominación del actual Capítulo III que pasa a ser Capítulo IV, del Título Cuarto; 225; 226; 227; 228; 231, párrafo primero; 232, párrafo primero; 233; 234, párrafo primero; 248 y 249; se adicionan una fracción IV al artículo 54; un artículo 80 Bis; un párrafo segundo al artículo 91; un párrafo tercero al artículo 104; un párrafo quinto al artículo 205, pasando el actual párrafo quinto a ser párrafo sexto, un párrafo segundo al artículo 216, pasando el actual párrafo segundo a ser párrafo tercero; un párrafo cuarto al artículo 217, pasando el actual párrafo cuarto a ser párrafo quinto; los párrafos segundo y cuarto al artículo 218; un Capítulo III al artículo 224, del Título Cuarto, recorriéndose la numeración de los subsecuentes Capítulos hasta el Capítulo V; un párrafo segundo al artículo 228, y se derogan el párrafo segundo del artículo 81; los artículos 85; 221; el actual Capítulo V, del Título Cuarto y el artículo 230, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
+
+I. Las disposiciones relativas a los Tribunales Colegiados de Apelación en sustitución de los Tribunales Unitarios de Circuito, entrarán en vigor de manera gradual y escalonada en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+II. Las disposiciones relativas a los plenos Regionales en sustitución de los plenos de Circuito, entrarán en vigor en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+III. Entrarán en vigor en la fecha en la que el Poder Judicial de la Federación realice la declaratoria a que se refiere el artículo Séptimo Transitorio de este Decreto:
+
+a) El artículo segundo del presente Decreto;
+
+b) Las disposiciones relativas a la Escuela Federal de Formación Judicial, y
+
+c) Las nuevas categorías de la Carrera Judicial.
+
+IV. Las reformas a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, entrarán en vigor a los 18 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+V. La reforma al artículo 218 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor a los 6 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+**Segundo.** Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
+
+**Tercero.** El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
+
+**Cuarto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+**Quinto.** Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
+
+**Sexto.** Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+**Séptimo.** Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera Judicial contenidas en el presente Decreto.
+
+**Octavo.** Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial, previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos inherentes a este.
+
+**Noveno.** Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato.
+
+**Décimo.** Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al momento de la interrupción.
+
+**Décimo Primero.** Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir jurisprudencia por precedente.
+
+**Décimo Segundo.** Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
+
+**Décimo Tercero.** Con el fin de implementar la reforma constitucional al Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 11 de marzo de 2021 y las leyes reglamentarias a las que se refiere el presente Decreto, la persona que a su entrada en vigor ocupe la Presidencia de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal durará en ese encargo hasta el 30 de noviembre de 2024. Asimismo, el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2016 concluirá su encargo el 30 de noviembre de 2023; el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 24 de febrero de 2019 concluirá sus funciones el 23 de febrero de 2026; el Consejero de la Judicatura Federal nombrado por el Ejecutivo Federal el 18 de noviembre de 2019 concluirá el 17 de noviembre de 2026; las Consejeras de la Judicatura Federal designadas por el Senado de la República el 20 de noviembre de 2019 concluirán su encargo el 19 de noviembre de 2026; y el Consejero de la Judicatura Federal designado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2019 durará en funciones hasta el 30 de noviembre de 2026.
+
+Ciudad de México, a 22 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. María Merced González González, Secretaria.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de junio de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
