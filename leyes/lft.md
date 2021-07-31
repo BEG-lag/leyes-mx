@@ -3,12 +3,12 @@ title: Ley Federal del Trabajo
 abbreviation: LFT
 slug: lft
 published_dof: 1970-04-01
-last_reform_dof: 2021-03-30
+last_reform_dof: 2021-07-31
 articles: 1238
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/125_300321.doc
-archived: https://web.archive.org/web/20210422184103/http://www.diputados.gob.mx/LeyesBiblio/doc/125_300321.doc
-source_sha256: 726191ebd9767f5ff4217583c290ec6b32fe0cf051f7c09d4f32a6674ba95fef
-retrieved: 2021-04-22
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/125_310721.doc
+archived: https://web.archive.org/web/20220404202158/http://www.diputados.gob.mx/LeyesBiblio/doc/125_310721.doc
+source_sha256: b2a623232d41ce24513544654f5a0e843567bec2599d1abde4adbb1c1337377f
+retrieved: 2022-04-04
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm
 ---
 
@@ -18,11 +18,11 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de abril de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada 30-03-2021
+Última reforma publicada 31-07-2021
 
 > Nota de vigencia: La adición de la fracción IV al artículo 337, publicada por Decreto DOF 01-05-2019, entrará en vigor de conformidad con lo que establece el artículo Vigésimo Quinto Transitorio de dicho Decreto.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
 GUSTAVO DIAZ ORDAZ, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
@@ -204,73 +204,67 @@ Los directores, administradores, gerentes y demás personas que ejerzan funcione
 
 ##### Artículo 12.
 
-Intermediario es la persona que contrata o interviene en la contratación de otra u otras para que presten servicios a un patrón.
+Queda prohibida la subcontratación de personal, entendiéndose esta cuando una persona física o moral proporciona o pone a disposición trabajadores propios en beneficio de otra.
+
+Las agencias de empleo o intermediarios que intervienen en el proceso de contratación de personal podrán participar en el reclutamiento, selección, entrenamiento y capacitación, entre otros. Estas no se considerarán patrones ya que este carácter lo tiene quien se beneficia de los servicios.
+
+*Artículo reformado DOF 23-04-2021*
 
 ##### Artículo 13.
 
-No serán considerados intermediarios, sino patrones, las empresas establecidas que contraten trabajos para ejecutarlos con elementos propios suficientes para cumplir las obligaciones que deriven de las relaciones con sus trabajadores. En caso contrario serán solidariamente responsables con los beneficiarios directos de las obras o servicios, por las obligaciones contraídas con los trabajadores.
+Se permite la subcontratación de servicios especializados o de ejecución de obras especializadas que no formen parte del objeto social ni de la actividad económica preponderante de la beneficiaria de estos, siempre que el contratista esté registrado en el padrón público a que se refiere el artículo 15 de esta Ley.
 
-*Fe de erratas al artículo DOF 30-04-1970*
+Los servicios u obras complementarias o compartidas prestadas entre empresas de un mismo grupo empresarial, también serán considerados como especializados siempre y cuando no formen parte del objeto social ni de la actividad económica preponderante de la empresa que los reciba. Se entenderá por grupo empresarial lo establecido en el artículo 2, fracción X de la Ley del Mercado de Valores.
+
+*Fe de erratas al artículo DOF 30-04-1970. Reformado DOF 23-04-2021*
 
 ##### Artículo 14.
 
-Las personas que utilicen intermediarios para la contratación de trabajadores serán responsables de las obligaciones que deriven de esta Ley y de los servicios prestados.
+La subcontratación de servicios especializados o de ejecución de obras especializadas deberá formalizarse mediante contrato por escrito en el que se señale el objeto de los servicios a proporcionar o las obras a ejecutar, así como el número aproximado de trabajadores que participarán en el cumplimiento de dicho contrato.
 
-Los trabajadores tendrán los derechos siguientes:
+La persona física o moral que subcontrate servicios especializados o la ejecución de obras especializadas con una contratista que incumpla con las obligaciones que deriven de las relaciones con sus trabajadores, será responsable solidaria en relación con los trabajadores utilizados para dichas contrataciones.
 
-I. Prestarán sus servicios en las mismas condiciones de trabajo y tendrán los mismos derechos que correspondan a los trabajadores que ejecuten trabajos similares en la empresa o establecimiento; y
-
-II. Los intermediarios no podrán recibir ninguna retribución o comisión con cargo a los salarios de los trabajadores.
+*Artículo reformado DOF 23-04-2021*
 
 ##### Artículo 15.
 
-En las empresas que ejecuten obras o servicios en forma exclusiva o principal para otra, y que no dispongan de elementos propios suficientes de conformidad con lo dispuesto en el Artículo 13, se observarán las normas siguientes:
+Las personas físicas o morales que proporcionen los servicios de subcontratación, deberán contar con registro ante la Secretaría del Trabajo y Previsión Social. Para obtener el registro deberán acreditar estar al corriente de sus obligaciones fiscales y de seguridad social.
 
-*Párrafo reformado DOF 21-01-1988*
+El registro a que hace mención este artículo deberá ser renovado cada tres años.
 
-I. La empresa beneficiaria será solidariamente responsable de las obligaciones contraídas con los trabajadores; y
+La Secretaría del Trabajo y Previsión Social deberá pronunciarse respecto de la solicitud de registro dentro de los veinte días posteriores a la recepción de la misma, de no hacerlo, los solicitantes podrán requerirla para que dicte la resolución correspondiente, dentro de los tres días siguientes a la presentación del requerimiento. Transcurrido dicho plazo sin que se notifique la resolución, se tendrá por efectuado el registro para los efectos legales a que dé lugar.
 
-II. Los trabajadores empleados en la ejecución de las obras o servicios tendrán derecho a disfrutar de condiciones de trabajo proporcionadas a las que disfruten los trabajadores que ejecuten trabajos similares en la empresa beneficiaria. Para determinar la proporción, se tomarán en consideración las diferencias que existan en los salarios mínimos que rijan en el área geográfica de aplicación en que se encuentren instaladas las empresas y las demás circunstancias que puedan influir en las condiciones de trabajo.
+La Secretaría del Trabajo y Previsión Social negará o cancelará en cualquier tiempo el registro de aquellas personas físicas o morales que no cumplan con los requisitos previstos por esta Ley.
 
-*Fracción reformada DOF 21-01-1988*
+Las personas físicas o morales que obtengan el registro a que se refiere este artículo quedarán inscritas en un padrón, que deberá ser público y estar disponible en un portal de Internet.
+
+La Secretaría del Trabajo y Previsión Social expedirá las disposiciones de carácter general que determinen los procedimientos relativos al registro a que se refiere este artículo.
+
+*Artículo reformado DOF 21-01-1988, 23-04-2021*
 
 ##### Artículo 15-A.
 
-El trabajo en régimen de subcontratación es aquel por medio del cual un patrón denominado contratista ejecuta obras o presta servicios con sus trabajadores bajo su dependencia, a favor de un contratante, persona física o moral, la cual fija las tareas del contratista y lo supervisa en el desarrollo de los servicios o la ejecución de las obras contratadas.
+Se deroga.
 
-Este tipo de trabajo, deberá cumplir con las siguientes condiciones:
-
-a) No podrá abarcar la totalidad de las actividades, iguales o similares en su totalidad, que se desarrollen en el centro de trabajo.
-
-b) Deberá justificarse por su carácter especializado.
-
-c) No podrá comprender tareas iguales o similares a las que realizan el resto de los trabajadores al servicio del contratante.
-
-De no cumplirse con todas estas condiciones, el contratante se considerará patrón para todos los efectos de esta Ley, incluyendo las obligaciones en materia de seguridad social.
-
-*Artículo adicionado DOF 30-11-2012*
+*Artículo adicionado DOF 30-11-2012. Derogado DOF 23-04-2021*
 
 ##### Artículo 15-B.
 
-El contrato que se celebre entre la persona física o moral que solicita los servicios y un contratista, deberá constar por escrito.
+Se deroga.
 
-La empresa contratante deberá cerciorarse al momento de celebrar el contrato a que se refiere el párrafo anterior, que la contratista cuenta con la documentación y los elementos propios suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores.
-
-*Artículo adicionado DOF 30-11-2012*
+*Artículo adicionado DOF 30-11-2012. Derogado DOF 23-04-2021*
 
 ##### Artículo 15-C.
 
-La empresa contratante de los servicios deberá cerciorarse permanentemente que la empresa contratista, cumple con las disposiciones aplicables en materia de seguridad, salud y medio ambiente en el trabajo, respecto de los trabajadores de esta última.
+Se deroga.
 
-Lo anterior, podrá ser cumplido a través de una unidad de verificación debidamente acreditada y aprobada en términos de las disposiciones legales aplicables.
-
-*Artículo adicionado DOF 30-11-2012*
+*Artículo adicionado DOF 30-11-2012. Derogado DOF 23-04-2021*
 
 ##### Artículo 15-D.
 
-No se permitirá el régimen de subcontratación cuando se transfieran de manera deliberada trabajadores de la contratante a la subcontratista con el fin de disminuir derechos laborales; en este caso, se estará a lo dispuesto por el artículo 1004-C y siguientes de esta Ley.
+Se deroga.
 
-*Artículo adicionado DOF 30-11-2012*
+*Artículo adicionado DOF 30-11-2012. Derogado DOF 23-04-2021*
 
 ##### Artículo 16.
 
@@ -571,6 +565,10 @@ Los trabajadores en ningún caso estarán obligados a prestar sus servicios por 
 La substitución de patrón no afectará las relaciones de trabajo de la empresa o establecimiento. El patrón substituido será solidariamente responsable con el nuevo por las obligaciones derivadas de las relaciones de trabajo y de la Ley, nacidas antes de la fecha de la substitución, hasta por el término de seis meses; concluido éste, subsistirá únicamente la responsabilidad del nuevo patrón.
 
 El término de seis meses a que se refiere el párrafo anterior, se contará a partir de la fecha en que se hubiese dado aviso de la substitución al sindicato o a los trabajadores.
+
+Para que surta efectos la sustitución patronal deberán transmitirse los bienes objeto de la empresa o establecimiento al patrón sustituto.
+
+*Párrafo adicionado DOF 23-04-2021*
 
 ### CAPITULO III · Suspensión de los efectos de las relaciones de trabajo
 
@@ -1412,7 +1410,9 @@ VI. Las empresas que tengan un capital menor del que fije la Secretaría del Tra
 
 ##### Artículo 127.
 
-El derecho de los trabajadores a participar en el reparto de utilidades se ajustará a las normas siguientes:
+El derecho de los trabajadores a participar en el reparto de utilidades, reconocido en la Constitución Política de los Estados Unidos Mexicanos, se ajustará a las normas siguientes:
+
+*Párrafo reformado DOF 23-04-2021*
 
 I. Los directores, administradores y gerentes generales de las empresas no participarán en las utilidades;
 
@@ -1435,6 +1435,10 @@ VI. Los trabajadores del hogar no participarán en el reparto de utilidades, y
 *Fracción reformada DOF 01-05-2019*
 
 VII. Los trabajadores eventuales tendrán derecho a participar en las utilidades de la empresa cuando hayan trabajado sesenta días durante el año, por lo menos.
+
+VIII. El monto de la participación de utilidades tendrá como límite máximo tres meses del salario del trabajador o el promedio de la participación recibida en los últimos tres años; se aplicará el monto que resulte más favorable al trabajador.
+
+*Fracción adicionada DOF 23-04-2021*
 
 ##### Artículo 128.
 
@@ -13932,9 +13936,9 @@ III. Con prisión de seis meses a cuatro años y multa que equivalga hasta 3200 
 
 ##### Artículo 1004-A.
 
-Al patrón que no permita la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento, se le aplicará una multa de 250 a 5000 veces la Unidad de Medida y Actualización.
+Al patrón que no permita la inspección y vigilancia que las autoridades del trabajo ordenen en su establecimiento, se le notificará por instructivo para que comparezca a exhibir toda la información requerida, apercibido que de no hacerlo se presumirá que no cuenta con ella. Con independencia de lo anterior, el hecho de no permitir el desahogo de la inspección lo hará acreedor de una multa de 250 a 5,000 veces la Unidad de Medida y Actualización.
 
-*Artículo adicionado DOF 30-11-2012. Reformado DOF 01-05-2019*
+*Artículo adicionado DOF 30-11-2012. Reformado DOF 01-05-2019, 23-04-2021*
 
 ##### Artículo 1004-B.
 
@@ -13944,9 +13948,11 @@ El incumplimiento de las obligaciones a que se refiere el artículo 15-B de la L
 
 ##### Artículo 1004-C.
 
-A quien utilice el régimen de subcontratación de personal en forma dolosa, en términos del artículo 15-D de esta Ley, se le impondrá multa por el equivalente de 250 a 5000 veces la Unidad de Medida y Actualización.
+A quien realice subcontratación de personal a que se refiere el artículo 12 de esta Ley, así como a las personas físicas o morales que presten servicios de subcontratación sin contar con el registro correspondiente, conforme a lo establecido en los artículos 14 y 15 de esta Ley, se le impondrá multa de 2,000 a 50,000 veces la Unidad de Medida y Actualización, sin perjuicio de las demás responsabilidades a que hubiera lugar de conformidad con la legislación aplicable. La Secretaría del Trabajo y Previsión Social dará vista de los hechos a las autoridades que resulten competentes.
 
-*Artículo adicionado DOF 30-11-2012. Reformado DOF 01-05-2019*
+Igual sanción a la establecida en el párrafo anterior será aplicable a aquellas personas físicas o morales que se beneficien de la subcontratación en contravención a lo estipulado en los artículos 12, 13, 14 y 15 de esta Ley.
+
+*Artículo adicionado DOF 30-11-2012. Reformado DOF 01-05-2019, 23-04-2021*
 
 ##### Artículo 1005.
 
@@ -14445,3 +14451,89 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 3 de marzo de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. María Merced González González, Secretaria.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral.
+
+*Publicado en el Diario Oficial de la Federación el 23 de abril de 2021*
+
+**Artículo Primero.** Se reforman los artículos 12; 13; 14; 15; 127, primer párrafo; 1004-A, y 1004-C; se adicionan un tercer párrafo del artículo 41; una fracción VIII al artículo 127, y se derogan los artículos 15-A; 15-B; 15-C, y 15-D, de la Ley Federal del Trabajo, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos Cuarto, Quinto y Sexto del presente Decreto, que entrarán en vigor el 1 de septiembre de 2021 y lo previsto en los artículos Séptimo y Octavo del presente Decreto entrarán en vigor en el ejercicio fiscal 2022.
+
+*Artículo reformado DOF 31-07-2021*
+
+**Segundo.** Dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría del Trabajo y Previsión Social deberá expedir las disposiciones de carácter general a que se refiere el artículo 15, párrafo sexto, de la Ley Federal del Trabajo.
+
+**Tercero.** A la fecha de entrada en vigor del presente Decreto, las personas físicas o morales que presten servicios de subcontratación, deberán obtener el registro ante la Secretaría del Trabajo y Previsión Social que prevé el artículo 15 de la Ley Federal del Trabajo, a más tardar el 1 de septiembre de 2021.
+
+*Artículo reformado DOF 31-07-2021*
+
+**Cuarto.** Para fines de lo dispuesto en el párrafo tercero del artículo 41 de la Ley Federal del Trabajo, tratándose de empresas que operan bajo un régimen de subcontratación, no será requisito la transmisión de los bienes objeto de la empresa o establecimiento hasta el 1 de septiembre de 2021, siempre que la persona contratista transfiera a la persona beneficiaria a los trabajadores en dicho plazo. En todo caso se deberán reconocer los derechos laborales, incluida su antigüedad, que se hubieran generado por el efecto de la relación de trabajo.
+
+*Artículo reformado DOF 31-07-2021*
+
+**Quinto.** Aquellos patrones que, en términos del segundo párrafo del artículo 75 de la Ley del Seguro Social, previo a la entrada en vigor del presente Decreto, hubiesen solicitado al Instituto Mexicano del Seguro Social la asignación de uno o más registros patronales por clase, de las señaladas en el artículo 73 de la Ley del Seguro Social, para realizar la inscripción de sus trabajadores a nivel nacional, tendrán hasta el 1 de septiembre de 2021 para dar de baja dichos registros patronales y de ser procedente, solicitar al mencionado Instituto se le otorgue un registro patronal en términos de lo dispuesto por el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
+
+*Párrafo reformado DOF 31-07-2021*
+
+Una vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social.
+
+**Sexto.** Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refieren las fracciones I y II del artículo 15 A de la Ley del Seguro Social, y tendrán hasta el 1 de septiembre de 2021 para proporcionarla. La información a que se refiere la fracción III del citado artículo deberá ser presentada, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
+
+*Artículo reformado DOF 31-07-2021*
+
+**Séptimo.** Para efectos de la Ley del Seguro Social, desde la entrada en vigor de la presente reforma y hasta el 1 de septiembre de 2021, se considerará como sustitución patronal la migración de trabajadores de las empresas que operaban bajo el régimen de subcontratación laboral, siempre y cuando la empresa destino de los trabajadores reconozca sus derechos laborales, incluyendo la antigüedad de los mismos y los riesgos de trabajo terminados, ante las instancias legales correspondientes.
+
+*Párrafo reformado DOF 31-07-2021*
+
+En estos supuestos aplicarán las siguientes reglas, para efectos de la determinación de la clase, fracción y prima del Seguro de Riesgos de Trabajo:
+
+1.- La empresa que absorba a los trabajadores deberá auto clasificarse conforme a los criterios que se establecen en los artículos 71, 73 y 75 de la Ley del Seguro Social, y de acuerdo a los artículos 18, 20 y al Catálogo de Actividades previsto en el artículo 196, todos del Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización, debiendo conservar la prima con la que venía cotizando la empresa que tenía los trabajadores registrados en el IMSS, siempre y cuando dicha empresa haya estado correctamente clasificada conforme a los riesgos inherentes a la actividad de la negociación de que se trataba y a las disposiciones normativas aplicables, en caso contrario deberá cotizar con la prima media de la clase que le corresponda.
+
+2.- Tratándose de una empresa que absorba a los trabajadores de otra u otras empresas, con la misma o distintas clases, y que en virtud de ello deban ajustar su clasificación a las nuevas actividades que llevará a cabo; la clase y fracción se determinará atendiendo a los riesgos inherentes a la actividad de la negociación de que se trate y la prima se obtendrá de aplicar el procedimiento siguiente:
+
+a) Por cada registro patronal, tanto de la empresa que absorbe como de la otra u otras empresas a sustituir, se multiplicará la prima asignada por el total de los salarios base de cotización de los trabajadores comprendidos en el mismo. El salario base de cotización a considerar, será el del mes previo al que se comunique la sustitución al Instituto.
+
+b) Se sumarán los productos obtenidos conforme al inciso anterior y el resultado se dividirá entre la suma de los salarios base de cotización del total de los trabajadores comprendidos en todos los registros patronales.
+
+c) La prima así obtenida se aplicará al registro patronal de la empresa que absorbe a los trabajadores y estará vigente hasta el último día del mes de febrero posterior a la sustitución.
+
+d) Para efectos de la determinación de la prima del ejercicio siguiente, la empresa que absorbe a los trabajadores deberá considerar los riesgos de trabajo terminados que les hubiesen ocurrido a dichos trabajadores en el ejercicio correspondiente.
+
+Lo anterior, siempre y cuando las empresas que se pretendan sustituir hayan estado correctamente clasificadas conforme a los riesgos inherentes a la actividad de la o las negociaciones de que se trataban y a las disposiciones normativas aplicables, en caso contrario deberán cotizar a la prima media de la clase que les corresponda.
+
+Las empresas que cuenten a la fecha de la entrada en vigor de las presentes disposiciones con un Convenio de Subrogación de Servicios Médicos con Reversión de Cuotas vigente, y que en términos de estas disposiciones lleven a cabo una sustitución patronal, no serán objeto de modificación de las condiciones pactadas en el mismo. Vencido el plazo de 90 días naturales aplicarán las reglas previstas tanto en la Ley del Seguro Social como en el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
+
+**Octavo.** Dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá expedir las reglas que establezcan los procedimientos a que se refiere el artículo 29 Bis, párrafo segundo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refiere el inciso f) del artículo 29 Bis, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
+
+**Noveno.** Las conductas delictivas que hayan sido cometidas con anterioridad a la entrada en vigor del presente Decreto serán sancionadas de conformidad con la legislación vigente al momento de la comisión de los hechos.
+
+**Décimo.** Las dependencias y entidades de la Administración Pública Federal involucradas en la implementación del presente Decreto, realizarán las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del mismo, se realicen con cargo al presupuesto aprobado a cada una de ellas en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales que tengan por objeto solventar las mismas y no se incrementará el presupuesto regularizable de éstas para el presente ejercicio fiscal ni posteriores.
+
+Ciudad de México, a 20 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 23 de abril de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman los Artículos Transitorios Primero, Tercero, Cuarto, Quinto, Sexto y Séptimo del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral", publicado el 23 de abril de 2021.
+
+*Publicado en el Diario Oficial de la Federación el 31 de julio de 2021*
+
+**Artículo Único.-** Se reforman los Artículos Transitorios Primero, Tercero, Cuarto, Quinto, Sexto y Séptimo del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral”, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 30 de julio de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en Culiacán, Sinaloa, a 30 de julio de 2021.- Andrés Manuel López Obrador.- Rúbrica.
+
+La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
