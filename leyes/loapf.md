@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2021-01-11
+last_reform_dof: 2021-10-20
 articles: 67
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/153_110121.doc
-archived: https://web.archive.org/web/20210422185857/http://www.diputados.gob.mx/LeyesBiblio/doc/153_110121.doc
-source_sha256: c0c2b7e7b2a3021210f3b15b87f7fab317833be5051fcba49f5fc326578b52f8
-retrieved: 2021-04-22
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
+archived: https://web.archive.org/web/20211101200729/http://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
+source_sha256: a0cdae60324ac0ff167e9926f962599f5efbea6c3df78afc9b28d98ddafb28e2
+retrieved: 2021-11-01
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 11-01-2021
-
-> Nota de vigencia: Las reformas a los artículos 30, fracciones V, incisos c) y d), VI y IX; 36, fracciones I, XII, y XV; las adiciones al artículo 30, fracciones V Bis, VI Bis, XII Bis, XII Ter, XIV Bis, XIV Ter y XIV Quáter, y la derogación al artículo 36, fracciones XIV, XVI, XVII, XVIII, XIX y XX, publicadas en el DOF 07-12-2020, entrarán en vigor el 5 de junio de 2021.
+Última reforma publicada DOF 20-10-2021
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 
@@ -376,7 +374,9 @@ Secretaría de Economía;
 
 Secretaría de Agricultura y Desarrollo Rural;
 
-Secretaría de Comunicaciones y Transportes;
+Secretaría de Infraestructura, Comunicaciones y Transportes;
+
+Dependencia reformada DOF 20-10-2021
 
 Secretaría de la Función Pública;
 
@@ -662,9 +662,9 @@ XII Ter. Coordinar la implementación de las acciones necesarias con las demás 
 
 XIII.- Intervenir en la administración de la justicia militar;
 
-XIV.- Construir, mantener y operar astilleros, diques, varaderos, dragas, unidades y establecimientos navales y aeronavales, para el cumplimiento de la misión de la Armada de México, así como prestar servicios en el ámbito de su competencia que coadyuven al desarrollo marítimo nacional, de conformidad con las disposiciones aplicables y en concordancia con las políticas y programas que para dicho desarrollo determine la Secretaría de Comunicaciones y Transportes y las demás dependencias que tengan relación con el mismo;
+XIV.- Construir, mantener y operar astilleros, diques, varaderos, dragas, unidades y establecimientos navales y aeronavales, para el cumplimiento de la misión de la Armada de México, así como prestar servicios en el ámbito de su competencia que coadyuven al desarrollo marítimo nacional, de conformidad con las disposiciones aplicables y en concordancia con las políticas y programas que para dicho desarrollo determine la Secretaría de Infraestructura, Comunicaciones y Transportes y las demás dependencias que tengan relación con el mismo;
 
-*Fracción reformada DOF 04-05-2006*
+*Fracción reformada DOF 04-05-2006, 20-10-2021*
 
 XIV Bis. Coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación para su eficiente operación y funcionamiento;
 
@@ -1124,9 +1124,9 @@ XXXIII. Participar con la Secretaría de Hacienda y Crédito Público en la dete
 
 *Fracción derogada DOF 30-11-2000. Adicionada DOF 11-08-2014*
 
-XXXIV. Elaborar y aplicar, en coordinación con las Secretarías de Agricultura y Desarrollo Rural; de Salud; de Comunicaciones y Transportes; de Economía; de Turismo; de Bienestar; de Gobernación; de Marina; de Energía; de Educación Pública; de Hacienda y Crédito Público; de Desarrollo Agrario, Territorial y Urbano, y de Relaciones Exteriores, las políticas públicas encaminadas al cumplimiento de las acciones de mitigación y adaptación que señala la Ley General de Cambio Climático;
+XXXIV.- Elaborar y aplicar, en coordinación con las Secretarías de Agricultura y Desarrollo Rural; de Salud; de Infraestructura, Comunicaciones y Transportes; de Economía; de Turismo; de Bienestar; de Gobernación; de Marina; de Energía; de Educación Pública; de Hacienda y Crédito Público; de Desarrollo Agrario, Territorial y Urbano, y de Relaciones Exteriores, las políticas públicas encaminadas al cumplimiento de las acciones de mitigación y adaptación que señala la Ley General de Cambio Climático;
 
-*Fracción derogada DOF 30-11-2000. Adicionada DOF 11-08-2014. Reformada DOF 30-11-2018*
+*Fracción derogada DOF 30-11-2000. Adicionada DOF 11-08-2014. Reformada DOF 30-11-2018, 20-10-2021*
 
 XXXV. Participar con la Secretaría de Hacienda y Crédito Público, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
 
@@ -1508,7 +1508,9 @@ XXIV. Los demás que expresamente le atribuyan las leyes y reglamentos.
 
 #### Artículo 36.
 
-A la Secretaría de Comunicaciones y Transportes corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Infraestructura, Comunicaciones y Transportes corresponde el despacho de los siguientes asuntos:
+
+*Párrafo reformado DOF 20-10-2021*
 
 I. Formular y conducir las políticas y programas para el desarrollo de las comunicaciones y transporte terrestre y aéreo, de acuerdo a las necesidades del país;
 
@@ -1826,9 +1828,9 @@ XXXII. Establecer mecanismos para conocer las mejores prácticas educativas a ni
 
 *Fracción adicionada DOF 30-11-2018*
 
-XXXIII. Fortalecer, con el apoyo de la Secretaría de Comunicaciones y Transportes, el acceso a la información digital en los espacios escolares, así como la conectividad en éstos a redes de telecomunicaciones, y
+XXXIII.- Fortalecer, con el apoyo de la Secretaría de Infraestructura, Comunicaciones y Transportes, el acceso a la información digital en los espacios escolares, así como la conectividad en éstos a redes de telecomunicaciones, y
 
-*Fracción adicionada DOF 30-11-2018*
+*Fracción adicionada DOF 30-11-2018. Reformada DOF 20-10-2021*
 
 XXXIV. Los demás que le fijen expresamente las leyes y reglamentos.
 
@@ -4281,3 +4283,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 27 de noviembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Mónica Bautista Rodríguez, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.
+
+*Publicado en el Diario Oficial de la Federación el 20 de octubre de 2021*
+
+**Artículo Único.** Se reforman los artículos 26, párrafo décimo tercero; 30, fracción XIV; 32 Bis, fracción XXXIV; 36, primer párrafo y 38, fracción XXXIII de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Todas las referencias que hagan mención a la Secretaría de Comunicaciones y Transportes contenidas en las leyes y normatividad vigente, se entenderán realizadas a la Secretaría de Infraestructura, Comunicaciones y Transportes.
+
+Ciudad de México, a 7 de septiembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Karen Michel González Márquez, Secretaria.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de octubre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
