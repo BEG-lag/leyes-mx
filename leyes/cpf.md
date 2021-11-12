@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2021-06-01
+last_reform_dof: 2021-11-12
 articles: 549
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/9_010621.doc
-archived: https://web.archive.org/web/20210819234122/http://www.diputados.gob.mx/LeyesBiblio/doc/9_010621.doc
-source_sha256: df0f5e06b828e1de8764971126b6c67eac8a0e424dbfec9c7b23e763ff7b32db
-retrieved: 2021-08-19
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc
+archived: https://web.archive.org/web/20220404202121/http://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc
+source_sha256: a9aa522a5ea28b2aade4fb2906d06e53142aa6c724d309cee2240f232b0a8031
+retrieved: 2022-04-04
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,15 +18,9 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 01-06-2021
+Última reforma publicada DOF 12-11-2021
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
->
-> Nota de Vigencia: Las siguientes reformas, adiciones y derogaciones, publicadas por Decreto DOF 18-07-2016, entrarán en vigor “a partir del nombramiento que el Senado de la República realice del Titular de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción”, de conformidad con lo que establece el artículo Primero Transitorio de dicho Decreto:
->
-> Reformas: el párrafo primero y el inciso e) del artículo 201; el párrafo primero del artículo 212; el artículo 213; el artículo 213 Bis; la denominación del Capítulo II del Título Décimo; el párrafo primero y su fracción III, los párrafos segundo y tercero del artículo 214; las fracciones VI, IX, XI y el párrafo segundo del artículo 215; los párrafos primero y segundo del artículo 216; la denominación del Capítulo V del Título Décimo; el párrafo primero, la fracción I y los incisos B), C), D), la fracción III y el párrafo tercero del artículo 217; los párrafos tercero y cuarto del artículo 218; la fracción I y el párrafo segundo del artículo 219; la fracción I y los párrafos tercero y cuarto del artículo 220; el párrafo segundo del artículo 221; las fracciones I, II y los párrafos cuarto y quinto del artículo 222; las fracciones I, II, III y los párrafos tercero y cuarto del artículo 223; los párrafos primero, segundo, quinto, sexto y séptimo del artículo 224; las fracciones VI, X, XIII, XVII, XX, XXIV, XXVIII y XXXII del artículo 225.
-> Adiciones: un párrafo tercero con las fracciones I, II, un párrafo cuarto, un quinto párrafo con las fracciones I, II, III y IV, un sexto y un séptimo párrafos al artículo 212; un inciso E) a la fracción I, una fracción I Bis con los incisos A) y B) y un párrafo segundo al artículo 217; un artículo 217 Bis; una fracción IV al artículo 221; una fracción III con los incisos a, b y un párrafo segundo al artículo 222; un párrafo tercero al artículo 224.
-> Derogación: el cuarto párrafo del artículo 225.
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.-México.- Secretaría de Gobernación.
 
@@ -9881,9 +9875,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 **Segundo.** Las reformas a los artículos 28, fracción I; 81, fracción XXV; 82, fracción XXV; la derogación del artículo 111, fracción VII, y la adición del artículo 111 Bis, del Código Fiscal de la Federación, entrarán en vigor a los 30 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
 
-**Tercero.** Las obligaciones derivadas de la reforma al artículo 28, fracción I, apartado B del Código Fiscal de la Federación, deberán cumplirse una vez que surtan efectos las autorizaciones que emita el Servicio de Administración Tributaria en términos de dicho precepto. Para tales efectos, el Servicio de Administración Tributaria dará a conocer en su página de Internet el momento en que surtan efectos las autorizaciones referidas. Las reglas de carácter general a que se refiere la citada disposición, deberán emitirse a más tardar 90 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
+**Tercero.** (Se deroga).
 
-Para efectos de la emisión de las reglas relativas a los controles volumétricos y los dictámenes emitidos por los laboratorios de prueba o ensayo a que se refiere el artículo 28, fracción I, apartado B, segundo párrafo del Código Fiscal de la Federación, el Servicio de Administración Tributaria deberá coordinarse con la Comisión Reguladora de Energía.
+*Artículo derogado DOF 12-11-2021*
 
 **Cuarto.** A partir de la entrada en vigor del presente Decreto, quedan sin efecto las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera.
 
@@ -10080,3 +10074,17 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 29 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Lilia Villafuerte Zavala, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto al Valor Agregado, de la Ley del Impuesto Especial sobre Producción y Servicios, de la Ley Federal del Impuesto sobre Automóviles Nuevos, del Código Fiscal de la Federación y otros ordenamientos.
+
+*Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2021*
+
+Artículo Decimosegundo. Se deroga el artículo transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación, de la Ley Aduanera, del Código Penal Federal y de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, publicado en el Diario Oficial de la Federación el 1 de junio de 2018.
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
+
+Ciudad de México, a 26 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
