@@ -3,12 +3,12 @@ title: Ley de Ingresos sobre Hidrocarburos
 abbreviation: LIH
 slug: lih
 published_dof: 2014-08-11
-last_reform_dof: 2021-01-11
+last_reform_dof: 2022-01-13
 articles: 64
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_110121.doc
-archived: https://web.archive.org/web/20210422200243/http://www.diputados.gob.mx/LeyesBiblio/doc/LIH_110121.doc
-source_sha256: 3a093f0b58822832071eb244a0dc5b22b064304a1068591ca09f31c55e4f6339
-retrieved: 2021-04-22
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc
+archived: https://web.archive.org/web/20220404202130/http://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc
+source_sha256: 090053a9131efab46c535962f9353769f8d15a53ae089df141d7d879a08633da
+retrieved: 2022-04-04
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lih.htm
 ---
 
@@ -20,7 +20,7 @@ TEXTO VIGENTE
 
 Última reforma publicada DOF 09-12-2019
 
-Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 11-01-2021
+Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 13-01-2022
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -785,8 +785,8 @@ El Asignatario estará obligado al pago mensual del derecho de exploración de h
 
 |   |   |
 |---|---|
-| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,442.57 pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020,<br>11-01-2021 |
-| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,449.63pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020,<br>11-01-2021 |
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,548.88 pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020,<br>11-01-2021, 13-01-2022 |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,703.86 pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020,<br>11-01-2021, 13-01-2022 |
 
 Las cuotas del derecho de exploración de hidrocarburos se actualizarán cada año en el mes de enero, de acuerdo a la variación en el Índice Nacional de Precios al Consumidor en el año inmediato anterior.
 
@@ -920,13 +920,13 @@ Están obligados al pago del impuesto por la actividad de exploración y extracc
 
 El impuesto por la actividad de exploración y extracción de hidrocarburos se calculará mensualmente aplicando por cada kilómetro cuadrado que comprenda el Área Contractual o el Área de Asignación, las siguientes cuotas:
 
-I. Durante la fase de exploración 1,881.60 pesos, y
+I. Durante la fase de exploración 2,020.27 pesos, y
 
-Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020, 11-01-2021
+Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020, 11-01-2021, 13-01-2022
 
-II. Durante la fase de extracción 7,526.47 pesos.
+II. Durante la fase de extracción 8,081.17 pesos.
 
-Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020, 11-01-2021
+Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020, 11-01-2021, 13-01-2022
 
 Para los efectos de este artículo, la Fase de Exploración comprende desde la formalización del Contrato o de la Asignación hasta el inicio de la Fase de Extracción, la cual comprende del inicio de las actividades destinadas a la producción comercial de Hidrocarburos hasta que concluye la vigencia del Contrato o de la Asignación.
 
@@ -1320,3 +1320,34 @@ II. Durante la fase de extracción 7,526.47 pesos.
 Atentamente,
 
 Ciudad de México, a 22 de diciembre de 2020.- La Jefa del Servicio de Administración Tributaria, Raquel Buenrostro Sánchez.- Rúbrica.
+
+### ANEXOS 20, 25-Bis, 26, 27, 29, 30, 31 y 32 de la Resolución Miscelánea Fiscal para 2022, publicada en la edición vespertina del 27 de diciembre de 2021.
+
+*Publicados en el Diario Oficial de la Federación el 13 de enero de 2022*
+
+Anexo 27 de la Resolución Miscelánea Fiscal para 2022
+
+Cuotas actualizadas del Derecho de Exploración de Hidrocarburos y del Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos que establece la Ley de Ingresos sobre Hidrocarburos y su Reglamento vigentes a partir del 1 de enero de 2022.
+
+Nota: Los textos y líneas de puntos que se utilizan en este Anexo tienen la finalidad exclusiva de orientar respecto de la ubicación de las cantidades y no crean derechos ni establecen obligaciones distintas a las contenidas en las disposiciones fiscales.
+
+I. Conforme a la regla 10.19., se dan a conocer las cuotas actualizadas del Derecho de Exploración de Hidrocarburos y del Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos previstos en la Ley de Ingresos sobre Hidrocarburos y su Reglamento, establecidas en los artículos que se precisan en dicha regla, aplicables a partir del 1 de enero de 2022.
+
+**Artículo 45.-** ...........................................................
+
+|   |   |
+|---|---|
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,548.88 pesos por kilómetro cuadrado |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,703.86 pesos por kilómetro cuadrado |
+
+...............................................................................................
+
+**Artículo 55.-** ..................................................................................
+
+I. Durante la fase de exploración 2,020.27 pesos, y
+
+II. Durante la fase de extracción 8,081.17 pesos.
+
+Atentamente.
+
+Ciudad de México, a 17 de diciembre de 2021.- Jefa del Servicio de Administración Tributaria, Mtra. Raquel Buenrostro Sánchez.- Rúbrica.
