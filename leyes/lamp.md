@@ -3,12 +3,12 @@ title: Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constituci
 abbreviation: LAmp
 slug: lamp
 published_dof: 2013-04-02
-last_reform_dof: 2021-06-07
+last_reform_dof: 2022-02-18
 articles: 272
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_070621.doc
-archived: https://web.archive.org/web/20210819152511/http://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_070621.doc
-source_sha256: 42611c67c609353591d63fb7003181f0f5256840da84c2a9374c9427c284bb1e
-retrieved: 2021-08-19
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc
+archived: https://web.archive.org/web/20220404202219/http://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc
+source_sha256: 800eed514fd6be8b42641564b69429a46dec8bf0f15a84f89ff37ffbd75d1856
+retrieved: 2022-04-04
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lamp.htm
 ---
 
@@ -20,7 +20,7 @@ TEXTO VIGENTE
 
 Última reforma publicada DOF 07-06-2021
 
-> Nota de vigencia: La reforma al artículo 218, publicada en el DOF 07-06-2021, entrará en vigor el 7 de diciembre de 2021.
+Declaratoria de invalidez de artículo transitorio de decreto de reforma por Sentencia de la SCJN DOF 18-02-2022
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -3256,8 +3256,94 @@ V. La reforma al artículo 218 de la Ley de Amparo, Reglamentaria de los artícu
 
 **Décimo Segundo.** Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
 
-**Décimo Tercero.** Con el fin de implementar la reforma constitucional al Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 11 de marzo de 2021 y las leyes reglamentarias a las que se refiere el presente Decreto, la persona que a su entrada en vigor ocupe la Presidencia de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal durará en ese encargo hasta el 30 de noviembre de 2024. Asimismo, el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2016 concluirá su encargo el 30 de noviembre de 2023; el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 24 de febrero de 2019 concluirá sus funciones el 23 de febrero de 2026; el Consejero de la Judicatura Federal nombrado por el Ejecutivo Federal el 18 de noviembre de 2019 concluirá el 17 de noviembre de 2026; las Consejeras de la Judicatura Federal designadas por el Senado de la República el 20 de noviembre de 2019 concluirán su encargo el 19 de noviembre de 2026; y el Consejero de la Judicatura Federal designado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2019 durará en funciones hasta el 30 de noviembre de 2026.
+**Décimo Tercero.** [Con el fin de implementar la reforma constitucional al Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 11 de marzo de 2021 y las leyes reglamentarias a las que se refiere el presente Decreto, la persona que a su entrada en vigor ocupe la Presidencia de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal durará en ese encargo hasta el 30 de noviembre de 2024. Asimismo, el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2016 concluirá su encargo el 30 de noviembre de 2023; el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 24 de febrero de 2019 concluirá sus funciones el 23 de febrero de 2026; el Consejero de la Judicatura Federal nombrado por el Ejecutivo Federal el 18 de noviembre de 2019 concluirá el 17 de noviembre de 2026; las Consejeras de la Judicatura Federal designadas por el Senado de la República el 20 de noviembre de 2019 concluirán su encargo el 19 de noviembre de 2026; y el Consejero de la Judicatura Federal designado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2019 durará en funciones hasta el 30 de noviembre de 2026.]
+
+*Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 17-11-2021 y publicada DOF 18-02-2022*
 
 Ciudad de México, a 22 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. María Merced González González, Secretaria.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de junio de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de las Cámaras de Senadores y de Diputados del Congreso de la Unión.
+
+Notificados al Congreso de la Unión para efectos legales el 17 de noviembre de 2021
+
+Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
+
+SECRETARÍA GENERAL DE ACUERDOS
+
+OFICIO NÚM. SGA/MOKM/398/2021
+
+MAESTRA CARMINA CORTÉS RODRÍGUEZ
+
+SECRETARIA DE LA SECCIÓN DE TRÁMITE
+
+DE CONTROVERSIAS CONSTITUCIONALES Y
+
+DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
+
+SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
+
+P R E S E N T E
+
+El Tribunal Pleno, en su sesión celebrada el dieciséis de noviembre de dos mil veintiuno, resolvió la acción de inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de las Cámaras de Senadores y de Diputados del Congreso de la Unión, en los términos siguientes:
+
+“PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
+
+**SEGUNDO.** Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y del Código Federal de Procedimientos Civiles’, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
+
+**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.”
+
+Cabe señalar que el Tribunal Pleno determinó que los efectos de la decisión decretada en este fallo surtirán a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación.
+
+Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión privada celebrada el doce de abril de dos mil diez, le solicito que remita a esta Secretaría General de Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal.
+
+Atentamente
+
+Ciudad de México; 16 de noviembre de 2021
+
+LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
+
+Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 17 de noviembre de 2021 a las 13:35 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
+
+### SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 95/2021 y su acumulada 105/2021, así como los Votos Aclaratorio y Concurrente del señor Ministro Alberto Pérez Dayán, Particulares y Concurrentes de la señora Ministra Norma Lucía Piña Hernández y del señor Ministro Luis María Aguilar Morales y Concurrente del señor Ministro Jorge Mario Pardo Rebolledo.
+
+*Publicada en el Diario Oficial de la Federación el 18 de febrero de 2022*
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
+
+ACCIÓN DE INCONSTITUCIONALIDAD 95/2021 Y SU ACUMULADA 105/2021
+
+PROMOVENTES: DIVERSOS INTEGRANTES DE LAS CÁMARAS DE SENADORES Y DE DIPUTADOS DEL CONGRESO DE LA UNIÓN
+
+PONENTE: MINISTRO JOSÉ FERNANDO FRANCO GONZÁLEZ SALAS
+
+SECRETARIOS: ROBERTO FRAGA JIMÉNEZ
+
+MANUEL POBLETE RÍOS
+
+Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación correspondiente al dieciséis de noviembre de dos mil veintiuno.
+
+………
+
+187\. Por lo expuesto y fundado, se resuelve:
+
+**PRIMERO.** Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
+
+**SEGUNDO.** Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y del Código Federal de Procedimientos Civiles’, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
+
+**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+Notifíquese; haciéndolo por medios electrónicos y, en su oportunidad, archívese el expediente.
+
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+
+……..
+
+El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.
+
+Firman el señor Ministro Presidente y el Ponente con el Secretario General de Acuerdos, quien da fe.
+
+Presidente, Ministro Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente.- Ponente, Ministro José Fernando Franco González Salas.- Firmado electrónicamente.- Secretario General de Acuerdos, Licenciado Rafael Coello Cetina.- Firmado electrónicamente.
+
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de cincuenta y seis fojas útiles, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la acción de inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de las Cámaras de Senadores y de Diputados del Congreso de la Unión, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del dieciséis de noviembre dos mil veintiuno. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a treinta y uno de enero de dos mil veintidós.- Rúbrica.
