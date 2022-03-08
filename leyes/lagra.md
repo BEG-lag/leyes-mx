@@ -3,12 +3,12 @@ title: Ley Agraria
 abbreviation: LAgra
 slug: lagra
 published_dof: 1992-02-26
-last_reform_dof: 2018-06-25
+last_reform_dof: 2022-03-08
 articles: 201
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/13_250618.doc
-archived: https://web.archive.org/web/20181105062943/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13_250618.doc
-source_sha256: 2c32c4f938ad97201f485007841d9f3bf2211944735d34ffce1667e93aba7afa
-retrieved: 2018-11-05
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc
+archived: https://web.archive.org/web/20220404202202/http://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc
+source_sha256: 121ba1616a5ba72e06b778da68bf93ec278098a33e0e4bd0e47a422476e7ccac
+retrieved: 2022-04-04
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lagra.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 26 de febrero de 1
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 25-06-2018
+Última reforma publicada DOF 08-03-2022
 
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -126,7 +126,9 @@ III. Con la sentencia o resolución relativa del tribunal agrario.
 
 ##### Artículo 17.
 
-El ejidatario tiene la facultad de designar a quien deba sucederle en sus derechos sobre la parcela y en los demás inherentes a su calidad de ejidatario, para lo cual bastará que el ejidatario formule una lista de sucesión en la que consten los nombres de las personas y el orden de preferencia conforme al cual deba hacerse la adjudicación de derechos a su fallecimiento. Para ello podrá designar al cónyuge, a la concubina o concubinario en su caso, a uno de los hijos, a uno de los ascendientes o a cualquier otra persona.
+El ejidatario tiene la facultad de designar a quien deba sucederle en sus derechos sobre la parcela y en los demás inherentes a su calidad de ejidatario, para lo cual bastará que el ejidatario formule una lista de sucesión en la que consten los nombres de las personas y el orden de preferencia conforme al cual deba hacerse la adjudicación de derechos a su fallecimiento. Para ello podrá designar al cónyuge, a la concubina o concubinario, en su caso, a una de las hijas o uno de los hijos, a uno de los ascendientes o a cualquier otra persona.
+
+*Párrafo reformado DOF 08-03-2022*
 
 La lista de sucesión deberá ser depositada en el Registro Agrario Nacional o formalizada ante fedatario público. Con las mismas formalidades podrá ser modificada por el propio ejidatario, en cuyo caso será válida la de fecha posterior.
 
@@ -138,7 +140,9 @@ I. Al cónyuge;
 
 II. A la concubina o concubinario;
 
-III. A uno de los hijos del ejidatario;
+III. A una de las hijas o uno de los hijos del ejidatario;
+
+*Fracción reformada DOF 08-03-2022*
 
 IV. A uno de sus ascendientes; y
 
@@ -1809,3 +1813,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 25 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 17 y 18 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 8 de marzo de 2022*
+
+**Artículo Único.** Se reforma el primer párrafo del artículo 17 y la fracción III del artículo 18 de la Ley Agraria, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 2 de febrero de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Karen Michel González Márquez, Secretaria.- Sen. María Celeste Sánchez Sugía, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
