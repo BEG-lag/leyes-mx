@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2021-01-18
-articles: 265
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/148_180121.doc
-archived: https://web.archive.org/web/20210422192941/http://www.diputados.gob.mx/LeyesBiblio/doc/148_180121.doc
-source_sha256: e3bc30b2b0306824440cfbf276e5f3efa621797bb149889e15bdba97f4eec943
-retrieved: 2021-04-22
+last_reform_dof: 2022-03-29
+articles: 266
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc
+archived: https://web.archive.org/web/20220404202146/http://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc
+source_sha256: 1c2218be514551c211ea3adebeab83685718bffcd5d9883c86f2ec98e5c79176
+retrieved: 2022-04-04
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 18-01-2021
+Última reforma publicada DOF 29-03-2022
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -113,6 +113,10 @@ VI.- Contaminación: La presencia en el ambiente de uno o más contaminantes o d
 VI BIS. Contaminación lumínica: El resplandor luminoso en ambientes nocturnos o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera, que altera las condiciones naturales de luminosidad en horas nocturnas y dificultan las observaciones astronómicas de los objetos celestes, debido a la luz intrusa, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes y a la luminiscencia de las capas altas de la atmósfera;
 
 *Fracción adicionada DOF 18-01-2021*
+
+VI TER.- Contaminación por ruido: Todo sonido generado por actividades humanas que, por su intensidad, duración o frecuencia, implique riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente; o los que superen los niveles fijados por las normas oficiales mexicanas;
+
+*Fracción adicionada DOF 29-03-2022*
 
 VII.- Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
@@ -836,7 +840,9 @@ II.- Fomentar la incorporación de información confiable y suficiente sobre las
 
 III.- Otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio ecológico. Asimismo, deberán procurar que quienes dañen el ambiente, hagan un uso indebido de recursos naturales o alteren los ecosistemas, asuman los costos respectivos;
 
-IV.- Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de la política ambiental, y
+IV.- Promover una mayor equidad social, con perspectiva intercultural y de género, en la distribución de costos y beneficios asociados a los objetivos de la política ambiental, y
+
+*Fracción reformada DOF 21-10-2021*
 
 V.- Procurar su utilización conjunta con otros instrumentos de política ambiental, en especial cuando se trate de observar umbrales o límites en la utilización de ecosistemas, de tal manera que se garantice su integridad y equilibrio, la salud y el bienestar de la población.
 
@@ -3094,6 +3100,14 @@ La Secretaría de Salud realizará los análisis, estudios, investigaciones y vi
 
 La Secretaría, en coordinación con organismos públicos o privados, nacionales o internacionales, integrará la información relacionada con este tipo de contaminación, así como de métodos y tecnología de control y tratamiento de la misma.
 
+##### ARTÍCULO 156 BIS.
+
+En materia de contaminación por ruido, la Secretaría expedirá las normas oficiales mexicanas para el establecimiento y operación de los sistemas de monitoreo del ruido.
+
+Los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México realizarán los monitoreos necesarios para la prevención y el control de la contaminación por ruido.
+
+*Artículo adicionado DOF 29-03-2022*
+
 ## TÍTULO QUINTO · Participación Social e Información Ambiental
 
 *Denominación del Título reformada DOF 13-12-1996*
@@ -4641,3 +4655,37 @@ Asimismo, las Entidades Federativas, los municipios y las demarcaciones territor
 Ciudad de México, a 8 de diciembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Karen Michel González Márquez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción IV del artículo 21 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 21 de octubre de 2021*
+
+**Artículo Único.-** Se reforma la fracción IV del artículo 21 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 23 de septiembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de octubre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se adicionan una fracción VI Ter al artículo 3o., y un artículo 156 Bis a la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 29 de marzo de 2022*
+
+**Artículo Único.-** Se adicionan una fracción VI Ter al artículo 3o., y un artículo 156 BIS a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** En un plazo máximo de 30 días, posteriores a la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá iniciar el proceso de expedición y actualización de las normas oficiales mexicanas en materia de ruido, bajo los términos de la Ley de Infraestructura de la Calidad.
+
+Ciudad de México, a 1 de marzo de 2022.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Delgadillo García, Secretaria.- Dip. Jessica María Guadalupe Ortega de la Cruz, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
