@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2022-03-29
-articles: 266
+last_reform_dof: 2022-04-11
+articles: 267
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc
-archived: https://web.archive.org/web/20220404202146/http://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc
-source_sha256: 1c2218be514551c211ea3adebeab83685718bffcd5d9883c86f2ec98e5c79176
-retrieved: 2022-04-04
+archived: https://web.archive.org/web/20230219224838/http://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc
+source_sha256: 5f7b4cc72cbae9a5b1324f79898a4b305c104478d7c2287035bddfda4571962f
+retrieved: 2023-02-19
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 29-03-2022
+Última reforma publicada DOF 11-04-2022
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -60,7 +60,9 @@ VIII.- El ejercicio de las atribuciones que en materia ambiental corresponde a l
 
 *Fracción reformada DOF 19-01-2018*
 
-IX.- El establecimiento de los mecanismos de coordinación, inducción y concertación entre autoridades, entre éstas y los sectores social y privado, así como con personas y grupos sociales, en materia ambiental, y
+IX.- El establecimiento de los mecanismos de coordinación, inducción y concertación entre autoridades, entre éstas y las Instituciones académicas y de investigación, los sectores social y privado, así como con personas y grupos sociales, en materia ambiental;
+
+*Fracción reformada DOF 11-04-2022*
 
 X.- El establecimiento de medidas de control y de seguridad para garantizar el cumplimiento y la aplicación de esta Ley y de las disposiciones que de ella se deriven, así como para la imposición de las sanciones administrativas y penales que correspondan.
 
@@ -692,13 +694,17 @@ IV. El equilibrio que debe existir entre los asentamientos humanos y sus condici
 
 *Fracción reformada DOF 12-02-2007*
 
-V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades, y
+V.- El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades;
 
-*Fracción reformada DOF 13-12-1996, 12-02-2007*
+*Fracción reformada DOF 13-12-1996, 12-02-2007, 11-04-2022*
 
-VI.- Las modalidades que de conformidad con la presente Ley, establezcan los decretos por los que se constituyan las áreas naturales protegidas, así como las demás disposiciones previstas en el programa de manejo respectivo, en su caso.
+VI.- Las modalidades que de conformidad con la presente Ley, establezcan los decretos por los que se constituyan las áreas naturales protegidas, así como las demás disposiciones previstas en el programa de manejo respectivo, en su caso, y
 
-*Fracción adicionada DOF 12-02-2007*
+*Fracción adicionada DOF 12-02-2007. Reformada DOF 11-04-2022*
+
+VII.- Las cuencas hidrográficas e hidrológicas y acuíferos existentes reguladas por los ordenamientos respectivos.
+
+*Fracción adicionada DOF 11-04-2022*
 
 ##### ARTÍCULO 19 BIS.
 
@@ -736,6 +742,18 @@ La Secretaría deberá apoyar técnicamente la formulación y ejecución de los 
 
 Las entidades federativas y los municipios podrán participar en las consultas y emitir las recomendaciones que estimen pertinentes para la formulación de los programas de ordenamiento ecológico general del territorio y de ordenamiento ecológico marino.
 
+Los programas de ordenamiento ecológico regional y ordenamiento ecológico local, contarán con Comités de ordenamiento ecológico territorial, como órganos de participación social, y espacios de concertación, colaboración, transparencia y rendición de cuentas.
+
+*Párrafo adicionado DOF 11-04-2022*
+
+Para la integración de los Comités, la Secretaría, las entidades federativas, los Municipios y demarcaciones territoriales de la Ciudad de México promoverán la participación de personas, organizaciones, grupos e instituciones de los sectores público, privado, social, académico y de investigación, con el fin de obtener su opinión técnica sobre la congruencia de planes, programas y acciones sectoriales en el área de estudio.
+
+*Párrafo adicionado DOF 11-04-2022*
+
+Los Comités a que hace referencia el presente artículo, se ajustarán a lo que se determine en los convenios de coordinación y concertación respectivos. En los convenios referidos se determinará si las opiniones de los Comités podrán ser vinculantes a las políticas públicas, los planes, programas y presupuestos de las autoridades ejecutivas correspondientes, en materia de ordenamiento ecológico territorial.
+
+*Párrafo adicionado DOF 11-04-2022*
+
 *Artículo adicionado DOF 13-12-1996*
 
 ##### ARTÍCULO 20 BIS 2.
@@ -744,7 +762,9 @@ Los Gobiernos de las entidades federativas, en los términos de las leyes locale
 
 Cuando una región ecológica se ubique en el territorio de dos o más entidades federativas, el Gobierno Federal, el de las entidades federativas y Municipios o demarcaciones territoriales de la Ciudad de México respectivas, en el ámbito de sus competencias, podrán formular un programa de ordenamiento ecológico regional. Para tal efecto, la Federación celebrará los acuerdos o convenios de coordinación procedentes con los gobiernos locales involucrados.
 
-Cuando un programa de ordenamiento ecológico regional incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa deberá ser elaborado y aprobado en forma conjunta por la Secretaría y los gobiernos de las entidades federativas y Municipios o demarcaciones territoriales de la Ciudad de México en que se ubique, según corresponda.
+Cuando un programa de ordenamiento ecológico regional incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa deberá ser elaborado y aprobado en forma conjunta por la Secretaría y los gobiernos de las entidades federativas y Municipios o demarcaciones territoriales de la Ciudad de México, previa opinión emitida por los Comités de ordenamiento ecológico territorial correspondientes, en que se ubique, según corresponda.
+
+*Párrafo reformado DOF 11-04-2022*
 
 *Artículo adicionado DOF 13-12-1996. Reformado DOF 12-02-2007, 19-01-2018*
 
@@ -784,7 +804,9 @@ I.- Existirá congruencia entre los programas de ordenamiento ecológico marinos
 
 II.- Los programas de ordenamiento ecológico local cubrirán una extensión geográfica cuyas dimensiones permitan regular el uso del suelo, de conformidad con lo previsto en esta Ley;
 
-III.- Las previsiones contenidas en los programas de ordenamiento ecológico local del territorio, mediante las cuales se regulen los usos del suelo, se referirán únicamente a las áreas localizadas fuera de los límites de los centros de población. Cuando en dichas áreas se pretenda la ampliación de un centro de población o la realización de proyectos de desarrollo urbano, se estará a lo que establezca el programa de ordenamiento ecológico respectivo, el cual sólo podrá modificarse mediante el procedimiento que establezca la legislación local en la materia;
+III.- Las previsiones contenidas en los programas de ordenamiento ecológico local del territorio, mediante las cuales se regulen los usos del suelo, se referirán únicamente a las áreas localizadas fuera de los límites de los centros de población. En los programas de ordenamiento ecológico local del territorio se establecerán límites geográficos hasta donde se pueden extender las áreas urbanizables de los centros de población en el territorio ordenado. Cuando en dichas áreas se pretenda la ampliación de un centro de población o la realización de proyectos de desarrollo urbano, se deberá cumplir con lo que establezca el programa de ordenamiento ecológico respectivo, el cual sólo podrá modificarse mediante el procedimiento que establezca la legislación local en la materia;
+
+*Fracción reformada DOF 11-04-2022*
 
 IV.- Las autoridades locales harán compatibles el ordenamiento ecológico del territorio y la ordenación y regulación de los asentamientos humanos, incorporando las previsiones correspondientes en los programas de ordenamiento ecológico local, así como en los planes o programas de desarrollo urbano que resulten aplicables.
 
@@ -823,6 +845,12 @@ III.- Los lineamientos, estrategias y demás previsiones para la preservación, 
 En la determinación de tales previsiones deberán considerarse los criterios establecidos en esta Ley, las disposiciones que de ella se deriven, los tratados internacionales de los que México sea parte, y demás ordenamientos que regulen la materia.
 
 *Artículo adicionado DOF 13-12-1996*
+
+##### ARTÍCULO 20 BIS 8.
+
+La Secretaría promoverá el proceso de consulta previa, libre e informada y la participación de las comunidades indígenas y afromexicanas, las comunidades equiparables y de los propietarios y poseedores de la tierra en los procesos de elaboración, observancia, revisión y modificación de los Ordenamientos Ecológicos Territoriales, Ordenamientos Ecológicos Regionales y Ordenamientos Ecológicos Locales.
+
+*Artículo adicionado DOF 11-04-2022*
 
 #### SECCIÓN III · Instrumentos Económicos
 
@@ -4687,5 +4715,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 **Segundo.-** En un plazo máximo de 30 días, posteriores a la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá iniciar el proceso de expedición y actualización de las normas oficiales mexicanas en materia de ruido, bajo los términos de la Ley de Infraestructura de la Calidad.
 
 Ciudad de México, a 1 de marzo de 2022.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Delgadillo García, Secretaria.- Dip. Jessica María Guadalupe Ortega de la Cruz, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en materia de ordenamiento ecológico del territorio nacional.
+
+*Publicado en el Diario Oficial de la Federación el 11 de abril de 2022*
+
+**Artículo Único.-** Se reforman los artículos 1o., fracción IX; 20 Bis 2, tercer párrafo y 20 Bis 5, fracción III; se adicionan la fracción VII al artículo 19; tres párrafos al artículo 20 Bis 1 y un artículo 20 Bis 8 a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 2 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Delgadillo García, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
