@@ -3,12 +3,12 @@ title: Ley de Minería
 abbreviation: LMin
 slug: lmin
 published_dof: 1992-06-26
-last_reform_dof: 2014-08-11
-articles: 63
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/151_110814.doc
-archived: https://web.archive.org/web/20190711020813/http://www.diputados.gob.mx:80/LeyesBiblio/doc/151_110814.doc
-source_sha256: 820d5f8b0437d8ca2e51760a9b6d77a4c89ecaaa835a12545b3296ed2e3bd4d5
-retrieved: 2019-07-11
+last_reform_dof: 2022-04-20
+articles: 64
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LMin.doc
+archived: https://web.archive.org/web/20221013172803/https://www.diputados.gob.mx/LeyesBiblio/doc/LMin.doc
+source_sha256: 865066953ef47e2b71cb6f1690ee26c8d348358a0407c0e525aed05108b97898
+retrieved: 2022-10-13
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lmin.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 26 de junio de 199
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 11-08-2014
+Última reforma publicada DOF 20-04-2022
 
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -36,9 +36,9 @@ LEY MINERA
 
 ### Artículo 1.
 
-La presente Ley es reglamentaria del artículo 27 constitucional en materia minera y sus disposiciones son de orden público y de observancia en todo el territorio nacional. Su aplicación corresponde al Ejecutivo Federal por conducto de la Secretaría de Economía, a quien en lo sucesivo se le denominará la Secretaría.
+La presente Ley es reglamentaria del artículo 27 constitucional en materia minera y sus disposiciones son de orden público y de observancia en todo el territorio nacional. Su aplicación corresponde al Ejecutivo Federal por conducto de la Secretaría de Economía, a quien en lo sucesivo se le denominará la Secretaría, salvo lo relativo a la exploración, la explotación, beneficio y el aprovechamiento del litio, que quedará a cargo del organismo público descentralizado a que se refiere el artículo 10 de esta Ley.
 
-*Artículo reformado DOF 24-12-1996, 28-04-2005*
+*Artículo reformado DOF 24-12-1996, 28-04-2005, 20-04-2022*
 
 ### Artículo 2.
 
@@ -126,6 +126,20 @@ V. Los productos derivados de la descomposición de las rocas, cuando su explota
 
 VI.- La sal que provenga de salinas formadas en cuencas endorréicas.
 
+### Artículo 5 Bis.
+
+Se declara de utilidad pública el litio, por lo que no se otorgarán concesiones, licencias, contratos, permisos o autorizaciones en la materia. Serán consideradas zonas de reserva minera aquéllas en que haya yacimientos de litio.
+
+Se reconoce que el litio es patrimonio de la Nación y su exploración, explotación, beneficio y aprovechamiento se reserva en favor del pueblo de México.
+
+Las cadenas de valor económico del litio se administrarán y controlarán por el Estado a través del organismo público señalado en el artículo 10 de esta Ley.
+
+El Servicio Geológico Mexicano auxiliará al organismo público descentralizado encargado de la exploración, explotación, beneficio y aprovechamiento del litio en la ubicación y reconocimiento de las áreas geológicas en las que existan reservas probables del litio.
+
+En la exploración, explotación, beneficio y aprovechamiento del litio y de sus cadenas de valor será deber del Estado mexicano proteger y garantizar la salud de los mexicanos, el medio ambiente y los derechos de los pueblos originarios, comunidades indígenas y afromexicanas.
+
+*Artículo adicionado DOF 20-04-2022*
+
 ### Artículo 6.
 
 La exploración, explotación y beneficio de los minerales o sustancias a que se refiere esta Ley son de utilidad pública, serán preferentes sobre cualquier otro uso o aprovechamiento del terreno, con sujeción a las condiciones que establece la misma, y únicamente por ley de carácter federal podrán establecerse contribuciones que graven estas actividades.
@@ -212,7 +226,9 @@ El Reglamento de esta Ley establecerá los mecanismos para la instrumentación d
 
 ### Artículo 9.
 
-Para promover el mejor aprovechamiento de los recursos minerales y generar la información geológica básica de la Nación, la Secretaría se apoyará en el Servicio Geológico Mexicano, organismo público descentralizado con personalidad jurídica y patrimonio propios, coordinado sectorialmente por dicha dependencia.
+Para promover el mejor aprovechamiento de los recursos minerales y generar la información geológica básica de la Nación, la Secretaría y el organismo a que se refiere el artículo 10 de esta Ley se apoyarán en el Servicio Geológico Mexicano, organismo público descentralizado con personalidad jurídica y patrimonio propios, coordinado sectorialmente por dicha dependencia.
+
+*Párrafo reformado DOF 20-04-2022*
 
 El Servicio Geológico Mexicano tendrá su domicilio legal en Pachuca, Hidalgo. Su patrimonio se integrará con las aportaciones del Gobierno Federal, las primas por descubrimiento y las contraprestaciones económicas que provengan de los concursos a que se refiere esta Ley, los ingresos por los servicios que proporcione y los bienes que adquiera por cualquier otro título.
 
@@ -306,13 +322,17 @@ XXVI. Realizar las actividades que le confieren expresamente otras leyes.
 
 ### Artículo 10.
 
-La exploración y explotación de los minerales o sustancias a que se refiere el artículo 4, así como de las salinas formadas directamente por las aguas marinas provenientes de mares actuales, superficial o subterráneamente, de modo natural o artificial, y de las sales y subproductos de éstas, sólo podrá realizarse por personas físicas de nacionalidad mexicana, ejidos y comunidades agrarias, pueblos y comunidades indígenas a que se refiere el artículo 2o. Constitucional reconocidos como tales por las Constituciones y Leyes de las Entidades Federativas, y sociedades constituidas conforme a las leyes mexicanas, mediante concesiones mineras otorgadas por la Secretaría.
+Con excepción del litio y demás minerales declarados como estratégicos por el Estado, en términos de los artículos 27 y 28 constitucionales, la exploración y explotación de los minerales o sustancias a que se refiere el artículo 4, así como de las salinas formadas directamente por las aguas marinas provenientes de mares actuales, superficial o subterráneamente, de modo natural o artificial, y de las sales y subproductos de éstas, sólo podrá realizarse por personas físicas de nacionalidad mexicana, ejidos y comunidades agrarias, pueblos y comunidades indígenas a que se refiere el artículo 2o. constitucional reconocidos como tales por las Constituciones y Leyes de las Entidades Federativas, y sociedades constituidas conforme a las leyes mexicanas, mediante concesiones mineras otorgadas por la Secretaría.
 
-*Párrafo reformado DOF 28-04-2005*
+*Párrafo reformado DOF 28-04-2005, 20-04-2022*
 
 La exploración del territorio nacional con el objeto de identificar y cuantificar los recursos minerales potenciales de la Nación se llevará a cabo por el Servicio Geológico Mexicano, por medio de asignaciones mineras que serán expedidas únicamente a favor de este organismo por la Secretaría y cuyo título deberá publicarse en el Diario Oficial de la Federación.
 
 *Párrafo reformado DOF 28-04-2005*
+
+La exploración, explotación, beneficio y aprovechamiento del litio quedan exclusivamente a cargo del Estado, y se llevarán a cabo por el organismo público descentralizado que determine el Ejecutivo Federal en términos de las disposiciones aplicables. El cumplimiento de la legislación y Tratados Internacionales en materia de protección al medio ambiente y derechos de los pueblos originarios, comunidades indígenas y afromexicanas será escrupuloso por parte de dicho organismo público.
+
+*Párrafo adicionado DOF 20-04-2022*
 
 Por causas de utilidad pública o para la satisfacción de necesidades futuras del país podrán establecerse zonas de reservas mineras, mediante decreto del Ejecutivo Federal publicado en el Diario Oficial de la Federación. Sobre las zonas incorporadas a dichas reservas no se otorgarán concesiones ni asignaciones mineras.
 
@@ -1257,3 +1277,25 @@ La Secretaría y la Secretaría de Energía podrán elaborar reglas para que las
 México, D.F., a 5 de agosto de 2014.- Dip. José González Morfín, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Minera.
+
+*Publicado en el Diario Oficial de la Federación el 20 de abril de 2022*
+
+**Artículo Único.-** Se reforman los artículos 1; 9, párrafo primero; 10, párrafo primero; y se adicionan un artículo 5 Bis, y un párrafo tercero, recorriéndose los actuales párrafos tercero y cuarto, al artículo 10 de la Ley Minera, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se derogan las disposiciones legales y reglamentarias que se opongan a este ordenamiento.
+
+**Tercero.-** El Ejecutivo Federal, dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto, emitirá conforme a la Ley Federal de las Entidades Paraestatales, el instrumento de creación del organismo público descentralizado a que se refiere el artículo 10 de la Ley.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, incluyendo la creación del organismo señalado en el párrafo anterior, se cubrirán mediante movimientos compensados, conforme a las disposiciones jurídicas aplicables, con cargo al presupuesto de la dependencia que asuma las funciones de coordinación sectorial del citado organismo de acuerdo con el Decreto de creación, por lo que no se autorizarán ampliaciones al presupuesto del ramo correspondiente para el presente ejercicio fiscal para estos efectos.
+
+Ciudad de México, a 19 de abril de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 19 de abril de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
