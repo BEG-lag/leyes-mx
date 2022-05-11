@@ -3,12 +3,11 @@ title: Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Me
 abbreviation: LANSI
 slug: lansi
 published_dof: 2014-08-11
-last_reform_dof: 2021-05-20
+last_reform_dof: 2022-05-11
 articles: 38
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/LANSI_200521.doc
-archived: https://web.archive.org/web/20210824083942/http://www.diputados.gob.mx/LeyesBiblio/doc/LANSI_200521.doc
-source_sha256: 0925af58f85df192a83e39357f766d66bd901a04a3ae8626d4f927b75c8bf127
-retrieved: 2021-08-24
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LANSI.doc
+source_sha256: c99d7d06ad68ad781718a1fb78849f3ae129c34b6df11a1ee0e5777aebaf14e1
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lansi.htm
 ---
 
@@ -18,7 +17,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 11 de agosto de 20
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 20-05-2021
+Última reforma publicada DOF 11-05-2022
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -444,7 +443,9 @@ En caso de que el infractor realice las medidas correctivas o de urgente aplicac
 
 #### Artículo 27.
 
-La Agencia estará a cargo de un Director Ejecutivo, que será designado y removido libremente por el Titular del Ejecutivo Federal.
+La Agencia estará a cargo de la persona Titular de la Dirección Ejecutiva, quien será designada y removida libremente por el Ejecutivo Federal.
+
+*Párrafo reformado DOF 11-05-2022*
 
 La Agencia contará con las unidades administrativas necesarias para el cumplimiento de sus atribuciones, conforme se establezca en su Reglamento Interior.
 
@@ -544,9 +545,11 @@ VI. Las demás que se señalen en el Reglamento Interior y las necesarias para e
 
 #### Artículo 34.
 
-El Director Ejecutivo se apoyará de un Comité Científico, órgano de consulta, que tendrá como objeto proporcionar elementos técnicos para la toma de decisiones sobre los temas que por su complejidad requieran el sustento de especialistas en la materia de que se trate.
+La persona Titular de la Dirección Ejecutiva se apoyará de un Comité Científico, órgano de consulta, que tendrá como objeto proporcionar elementos técnicos para la toma de decisiones sobre los temas que por su complejidad requieran el sustento de especialistas en la materia de que se trate.
 
-Dicho Comité estará integrado por cinco vocales que serán nombrados por el Director Ejecutivo. Su desempeño será honorífico y tendrán las facultades que se establezcan en el Reglamento Interior.
+Dicho Comité estará integrado de manera paritaria por cinco vocalías, nombradas por la persona Titular de la Dirección Ejecutiva. Su desempeño será honorífico y tendrán las facultades que se establezcan en el Reglamento Interior.
+
+*Artículo reformado DOF 11-05-2022*
 
 #### Artículo 35.
 
@@ -705,3 +708,23 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.
+
+*Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022*
+
+**Artículo Séptimo.** Se reforman los artículos 27, primer párrafo, y 34 de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, para quedar como sigue:
+
+…….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
