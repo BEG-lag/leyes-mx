@@ -3,12 +3,12 @@ title: Ley de Aguas Nacionales
 abbreviation: LAN
 slug: lan
 published_dof: 1992-12-01
-last_reform_dof: 2020-01-06
+last_reform_dof: 2022-05-11
 articles: 193
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/16_060120.doc
-archived: https://web.archive.org/web/20200131180655/http://www.diputados.gob.mx:80/LeyesBiblio/doc/16_060120.doc
-source_sha256: 51520dbfe23b622eacfa0a1ac653a0ad70c80282fcc7168525cb7e738b5e0e17
-retrieved: 2020-01-31
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc
+archived: https://web.archive.org/web/20230204224819/https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc
+source_sha256: 6d9bb71ede982fff258390a7d1e2dfcb6b1050b5bad7b9ae567daca5aea283d4
+retrieved: 2023-02-04
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lan.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de diciembre d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 06-01-2020
+Última reforma publicada DOF 11-05-2022
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -500,9 +500,13 @@ b. Un Director General.
 
 ##### ARTÍCULO 10.
 
-El Consejo Técnico de "la Comisión" estará integrado por los titulares de las Secretarías de Medio Ambiente y Recursos Naturales, quien lo presidirá; Hacienda y Crédito Público; de Desarrollo Social; de Energía; de Economía; de Salud; y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; así como del Instituto Mexicano de Tecnología del Agua y de la Comisión Nacional Forestal. Por cada representante propietario se designará a los suplentes necesarios con nivel de Subsecretario o equivalente. A propuesta del Consejo Técnico, el Titular del Ejecutivo Federal designará como miembros del propio Consejo, a dos representantes de los gobiernos de los estados y a un representante de una Organización Ciudadana de prestigio y experiencia relacionada con las funciones de "la Comisión". El Consejo Técnico se organizará y operará conforme a las reglas que expida para tal efecto.
+El Consejo Técnico de "la Comisión" estará integrado por las personas titulares de las Secretarías de Medio Ambiente y Recursos Naturales, quien lo presidirá; Hacienda y Crédito Público; de Bienestar; de Energía; de Economía; de Salud; y de Agricultura y Desarrollo Rural; así como del Instituto Mexicano de Tecnología del Agua y de la Comisión Nacional Forestal. Por cada persona representante propietaria se designará a las suplencias necesarias con nivel de Subsecretaría o equivalente. A propuesta del Consejo Técnico, la persona Titular del Ejecutivo Federal designará como miembros del propio Consejo, observando el principio de paridad de género, a dos representantes de los gobiernos de los estados y a un representante de una Organización Ciudadana de prestigio y experiencia relacionada con las funciones de "la Comisión".
 
-El Consejo Técnico cuando así lo considere conveniente, podrá invitar a sus sesiones a los titulares de las demás dependencias y entidades de la Administración Pública Federal y a otros representantes de los estados, de los municipios, de los usuarios y de la sociedad organizada, los cuales podrán intervenir con voz, pero sin voto. En las sesiones del Consejo Técnico, participará con voz, pero sin voto, el Director General de "la Comisión".
+*Párrafo reformado DOF 11-05-2022*
+
+El Consejo Técnico cuando así lo considere conveniente, podrá invitar a sus sesiones a las personas titulares de las demás dependencias y entidades de la Administración Pública Federal y a otras personas representantes de los estados, de los municipios, de los usuarios y de la sociedad organizada, quienes podrán intervenir con voz, pero sin voto. En las sesiones del Consejo Técnico, participará con voz, pero sin voto, la persona titular de la Dirección General de "la Comisión".
+
+*Párrafo reformado DOF 11-05-2022*
 
 La periodicidad y forma de convocatoria de las sesiones del Consejo Técnico se hará conforme a lo dispuesto en el Reglamento Interior de "la Comisión".
 
@@ -3748,3 +3752,23 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 21 de noviembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Mónica Bautista Rodríguez, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.
+
+*Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022*
+
+**Artículo Décimo Noveno.** Se reforman los párrafos primero y segundo del artículo 10 de la Ley de Aguas Nacionales, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
