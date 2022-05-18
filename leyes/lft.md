@@ -3,12 +3,12 @@ title: Ley Federal del Trabajo
 abbreviation: LFT
 slug: lft
 published_dof: 1970-04-01
-last_reform_dof: 2021-07-31
+last_reform_dof: 2022-05-18
 articles: 1238
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/125_310721.doc
-archived: https://web.archive.org/web/20220404202158/http://www.diputados.gob.mx/LeyesBiblio/doc/125_310721.doc
-source_sha256: b2a623232d41ce24513544654f5a0e843567bec2599d1abde4adbb1c1337377f
-retrieved: 2022-04-04
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc
+archived: https://web.archive.org/web/20220730021335/https://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc
+source_sha256: 675d99c1d17ae0b06a26b0ecafe149d7e5139be7af3cf990bbc2f48646632d36
+retrieved: 2022-07-30
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de abril de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada 31-07-2021
+Última reforma publicada 18-05-2022
 
 > Nota de vigencia: La adición de la fracción IV al artículo 337, publicada por Decreto DOF 01-05-2019, entrará en vigor de conformidad con lo que establece el artículo Vigésimo Quinto Transitorio de dicho Decreto.
 
@@ -1482,7 +1482,9 @@ VII.- Expedir cada quince días, a solicitud de los trabajadores, una constancia
 
 VIII.- Expedir al trabajador que lo solicite o se separe de la empresa, dentro del término de tres días, una constancia escrita relativa a sus servicios;
 
-IX.- Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares y para el cumplimiento de los servicios de jurados, electorales y censales, a que se refiere el artículo 5o., de la Constitución, cuando esas actividades deban cumplirse dentro de sus horas de trabajo;
+IX.- Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares, los procesos de revocación de mandato y para el cumplimiento de los servicios de jurados, electorales y censales, a que se refiere el artículo 5o., de la Constitución, cuando esas actividades deban cumplirse dentro de sus horas de trabajo;
+
+*Fracción reformada DOF 28-04-2022*
 
 X.- Permitir a los trabajadores faltar a su trabajo para desempeñar una comisión accidental o permanente de su sindicato o del Estado, siempre que avisen con la oportunidad debida y que el número de trabajadores comisionados no sea tal que perjudique la buena marcha del establecimiento. El tiempo perdido podrá descontarse al trabajador a no ser que lo compense con un tiempo igual de trabajo efectivo. Cuando la comisión sea de carácter permanente, el trabajador o trabajadores podrán volver al puesto que ocupaban, conservando todos sus derechos, siempre y cuando regresen a su trabajo dentro del término de seis años. Los substitutos tendrán el carácter de interinos, considerándolos como de planta después de seis años;
 
@@ -2464,7 +2466,9 @@ II. Labores:
 
 7\. En vialidades con amplio volumen de tránsito vehicular (vías primarias).
 
-8\. Agrícolas, forestales, de aserrado, silvícolas, de caza y pesca.
+8\. Agrícolas, forestales, de aserrado, silvícolas, de caza y pesca, que impliquen el uso de químicos, manejo de maquinaria, vehículos pesados, y los que determine la autoridad competente;
+
+*Numeral reformado DOF 05-04-2022*
 
 9\. Productivas de las industrias gasera, del cemento, minera, del hierro y el acero, petrolera y nuclear.
 
@@ -2700,7 +2704,9 @@ III. Proporcionar alojamiento y alimentos cuando el buque sea llevado a puerto e
 
 IV. Pagar los costos de la situación de fondos a los familiares de los trabajadores, cuando el buque se encuentre en el extranjero;
 
-V. Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares, siempre que la seguridad del buque lo permita y no se entorpezca su salida en la fecha y hora fijadas;
+V. Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares y los procesos de revocación de mandato, siempre que la seguridad del buque lo permita y no se entorpezca su salida en la fecha y hora fijadas;
+
+*Fracción reformada DOF 28-04-2022*
 
 VI. Permitir a los trabajadores que falten a sus labores para desempeñar comisiones del Estado o de su sindicato, en las mismas condiciones a que se refiere la fracción anterior;
 
@@ -6217,6 +6223,10 @@ III. Colaborar con los trabajadores y el patrón en la difusión de las normas s
 ##### Artículo 512.
 
 En los reglamentos de esta Ley y en los instructivos que las autoridades laborales expidan con base en ellos, se fijarán las medidas necesarias para prevenir los riesgos de trabajo y lograr que éste se preste en condiciones que aseguren la vida y la salud de los trabajadores.
+
+En los casos en los que existe un alto riesgo que implique la pérdida de la vida o se comprometa seriamente la salud del trabajador, considerando, sobre todo la naturaleza del trabajo, las disposiciones reglamentarias o normativas considerarán el uso de la tecnología y de las herramientas de trabajo que sean innovadoras y que coadyuven a las labores de seguridad en los centros de trabajo.
+
+*Párrafo adicionado DOF 28-04-2022*
 
 *Artículo reformado DOF 28-04-1978*
 
@@ -14250,7 +14260,9 @@ Para efecto de lo anterior, dichas autoridades establecerán y difundirán las f
 
 El traslado físico de los expedientes de todas las dependencias tanto federales como locales deberá concluir en un plazo no mayor a un año posterior al inicio de las funciones registrales de dicho Centro Federal; dicho Centro establecerá los mecanismos de coordinación conducentes con las autoridades referidas y emitirá los lineamientos necesarios para garantizar que la transferencia de expedientes y registros se realice bajo condiciones que brinden seguridad, certeza, exactitud, transparencia, publicidad y confiabilidad al procedimiento de entrega-recepción.
 
-**Quinto.** Plazo de inicio de funciones de la Autoridad Conciliadora Local y Tribunales Locales. Los Centros de Conciliación locales y los Tribunales del Poder Judicial de las Entidades Federativas iniciarán actividades dentro del plazo máximo de tres años a partir de la entrada en vigor del presente decreto, en términos de lo que establezca su propia normatividad y posibilidades presupuestales, conforme a lo que determinen sus poderes locales. Los Centro de Conciliación locales deberán entrar en operación en cada entidad federativa, en la misma fecha en que lo hagan los Tribunales Locales, conforme a las disposiciones previstas en el presente Decreto.
+**Quinto.** Plazo de inicio de funciones de la Autoridad Conciliadora Local y Tribunales Locales. Los Centros de Conciliación locales y los Tribunales del Poder Judicial de las Entidades Federativas iniciarán actividades a más tardar el 3 de octubre de 2022, en términos de lo que establezca su propia normatividad y posibilidades presupuestales, conforme a lo que determinen sus poderes locales. Los Centros de Conciliación locales deberán entrar en operación en cada entidad federativa, en la misma fecha en que lo hagan los Tribunales Locales, conforme a las disposiciones previstas en el presente Decreto.
+
+*Artículo reformado DOF 18-05-2022*
 
 **Sexto.** Plazo para el inicio de funciones de la Autoridad Conciliadora Federal y Tribunales Federales. Dentro del plazo máximo de cuatro años a partir de la entrada en vigor de este Decreto, cada delegación u oficina regional del Centro Federal de Conciliación y Registro Laboral iniciará la tramitación de solicitudes de conciliación que sean de su competencia al mismo tiempo que los Tribunales del Poder Judicial de la Federación inicien su operación en el circuito judicial al que correspondan. Cada circuito judicial iniciará sus funciones en el orden y secuencia en que se determine en las declaratorias que emita el Senado de la República, a propuesta del Consejo de la Judicatura Federal, conforme a las disposiciones previstas en el presente Decreto.
 
@@ -14537,3 +14549,69 @@ Ciudad de México, a 30 de julio de 2021.- Dip. Dulce María Sauri Riancho, Pres
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en Culiacán, Sinaloa, a 30 de julio de 2021.- Andrés Manuel López Obrador.- Rúbrica.
 
 La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 176, fracción II, numeral 8 de la Ley Federal del Trabajo.
+
+*Publicado en el Diario Oficial de la Federación el 5 de abril de 2022*
+
+**Artículo Único.-** Se reforma el artículo 176, fracción II, numeral 8 de la Ley Federal del Trabajo, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** La Secretaría del Trabajo y Previsión Social contará con un plazo de 180 días posteriores a la entrada en vigor del presente Decreto para elaborar y publicar una Norma Oficial Mexicana a efecto de clasificar las actividades a que se refiere el artículo 176, fracción II, numeral 8 a fin de determinar aquéllas de menor riesgo.
+
+Ciudad de México, a 23 de febrero de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen. Verónica Delgadillo García, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción IX del artículo 132 y la fracción V del artículo 204 de la Ley Federal del Trabajo.
+
+*Publicado en el Diario Oficial de la Federación el 28 de abril de 2022*
+
+**Artículo Único.-** Se reforma la fracción IX del artículo 132 y la fracción V del artículo 204 de la Ley Federal del Trabajo, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 16 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Sen. Verónica Delgadillo García, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se adiciona un párrafo segundo al artículo 512 de la Ley Federal del Trabajo.
+
+*Publicado en el Diario Oficial de la Federación el 28 de abril de 2022*
+
+**Artículo Único.-** Se adiciona un párrafo segundo al artículo 512 de la Ley Federal del Trabajo, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo Quinto Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de justicia laboral, libertad sindical y negociación colectiva", publicado en el Diario Oficial de la Federación el 1 de mayo de 2019.
+
+*Publicado en el Diario Oficial de la Federación el 18 de mayo de 2022*
+
+**Artículo Único.-** Se reforma el artículo Quinto Transitorio del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de justicia laboral, libertad sindical y negociación colectiva”, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 26 de abril de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
