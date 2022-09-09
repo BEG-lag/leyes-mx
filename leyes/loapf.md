@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2021-10-20
+last_reform_dof: 2022-09-09
 articles: 67
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
-archived: https://web.archive.org/web/20211101200729/http://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
-source_sha256: a0cdae60324ac0ff167e9926f962599f5efbea6c3df78afc9b28d98ddafb28e2
-retrieved: 2021-11-01
+archived: https://web.archive.org/web/20230219225718/http://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
+source_sha256: b18f51dabf137bc6fc0bc88618d92682a7cc696e20364800c4211aa240d73dc7
+retrieved: 2023-02-19
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,9 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 20-10-2021
+Última reforma publicada DOF 09-09-2022
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
 JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
@@ -122,7 +122,9 @@ I. Definir las políticas del Gobierno Federal en los temas de informática, tec
 
 II. Formular y conducir la política de comunicación social del Gobierno Federal con la intervención que corresponda a la Secretaría de Gobernación conforme a la presente ley. Para tal efecto establecerá, mediante disposiciones de carácter general, el modelo organizacional y de operación de las unidades administrativas que realicen actividades en esta materia, y
 
-III. Difundir y proyectar el derecho a la memoria de la Nación, en coordinación con las dependencias y entidades de la Administración Pública Federal.
+III. Se deroga.
+
+*Fracción derogada DOF 05-04-2022*
 
 *Párrafo con fracciones adicionado DOF 30-11-2018*
 
@@ -524,7 +526,9 @@ II.- Organizar y preparar el servicio militar nacional;
 
 III.- Organizar las reservas del Ejército y de la Fuerza Aérea, e impartirles la instrucción técnica militar correspondiente;
 
-IV.- Manejar el activo del Ejército y la Fuerza Aérea, de la Guardia Nacional al Servicio de la Federación y los contingentes armados que no constituyan la guardia nacional de los Estados;
+IV.- Manejar el activo del Ejército y la Fuerza Aérea, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana;
+
+*Fracción reformada DOF 09-09-2022*
 
 V.- Conceder licencias y retiros, e intervenir en las pensiones de los miembros del Ejército y de la Fuerza Aérea;
 
@@ -548,9 +552,9 @@ XIV.- Adquirir y fabricar armamento, municiones, vestuario y toda clase de mater
 
 XV.- Inspeccionar los servicios del Ejército y de la Fuerza Aérea;
 
-XVI. Intervenir en la expedición de licencias para la portación de armas de fuego, con objeto de que no incluya las armas prohibidas expresamente por la ley y aquellas que la Nación reserve para el uso exclusivo del Ejército, Armada y Guardia Nacional, así como vigilar y expedir permisos para el comercio, transporte y almacenamiento de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
+XVI.- Intervenir en la expedición de licencias para la portación de armas de fuego, con objeto de que no se incluya las armas prohibidas expresamente por la ley y aquellas que la Nación reserve para el uso exclusivo del Ejército, Fuerza Aérea y Armada Mexicanos, así como vigilar y expedir permisos para el comercio, transporte y almacenamiento de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
 
-*Fracción reformada DOF 30-11-2000, 30-11-2018*
+*Fracción reformada DOF 30-11-2000, 30-11-2018, 09-09-2022*
 
 XVII.- Intervenir en la importación y exportación de toda clase de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
 
@@ -726,11 +730,19 @@ XXVI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 A la Secretaría de Seguridad y Protección Ciudadana corresponde el despacho de los asuntos siguientes:
 
-I. Formular y ejecutar las políticas, programas y acciones tendientes a garantizar la seguridad pública de la Nación y de sus habitantes; proponer al Ejecutivo Federal la política criminal y las medidas que garanticen la congruencia de ésta entre las dependencias de la Administración Pública Federal; coadyuvar a la prevención del delito; ejercer el mando sobre la fuerza pública para proteger a la población ante todo tipo de amenazas y riesgos, con plena sujeción a los derechos humanos y libertades fundamentales; salvaguardar la integridad y los derechos de las personas; así como preservar las libertades, el orden y la paz públicos;
+I. Formular la Estrategia Nacional de Seguridad Pública y la propuesta de Programa Nacional de Seguridad Pública, y ejecutar, en el marco de sus atribuciones, las políticas, programas y acciones, así como el programa sectorial correspondiente, con el fin de coadyuvar a la prevención del delito; proteger a la población ante todo tipo de amenazas y riesgos, con plena sujeción a los derechos humanos y libertades fundamentales; salvaguardar la integridad y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos.
 
-II. Proponer acciones tendientes a asegurar la coordinación entre la Federación, la Ciudad de México, los Estados y los municipios en el ámbito del Sistema Nacional de Seguridad Pública; proponer al Consejo Nacional de Seguridad Pública las políticas y lineamientos en materia de carrera policial, el Programa Rector para la Profesionalización Policial, los criterios para establecer academias e institutos para ello, el desarrollo de programas de coordinación académica y los lineamientos para la aplicación de los procedimientos en materia del régimen disciplinario policial; participar, de acuerdo con la ley de la materia, de planes y programas de profesionalización para las instituciones policiales; coordinar las acciones para la vigilancia y protección de las instalaciones estratégicas, en términos de ley;
+Asimismo, proponer al Ejecutivo Federal la política criminal y las medidas que garanticen la congruencia de ésta entre las dependencias de la Administración Pública Federal;
 
-III. Organizar, dirigir y supervisar bajo su adscripción a la Policía Federal, garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario, con el objeto de salvaguardar la integridad y el patrimonio de las personas y prevenir la comisión de delitos del orden federal;
+*Fracción reformada DOF 09-09-2022*
+
+II. Coordinar el gabinete de seguridad del Gobierno Federal y proponer acciones tendientes a asegurar la coordinación entre la Federación, la Ciudad de México, los estados y los municipios en el ámbito del Sistema Nacional de Seguridad Pública; proponer al Consejo Nacional de Seguridad Pública las políticas y lineamientos en materia de carrera policial, el Programa Rector para la Profesionalización Policial, los criterios para establecer academias e institutos para ello, el desarrollo de programas de coordinación académica y los lineamientos para la aplicación de los procedimientos en materia del régimen disciplinario policial; participar, de acuerdo con la ley de la materia, de planes y programas de profesionalización para las instituciones policiales; coordinar las acciones para la vigilancia y protección de las instalaciones estratégicas, en términos de ley;
+
+*Fracción reformada DOF 09-09-2022*
+
+III. Organizar, dirigir y supervisar las instituciones de seguridad pública bajo su adscripción, con plena sujeción a los derechos humanos y libertades fundamentales, en coordinación con las dependencias competentes y conforme a las disposiciones jurídicas aplicables;
+
+*Fracción reformada DOF 09-09-2022*
 
 IV. Proponer, en el seno del Consejo Nacional de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y política criminal para todo el territorio nacional; efectuar, en coordinación con la Fiscalía General de la República, estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
 
@@ -772,9 +784,25 @@ XXII. Presidir la Conferencia Nacional de Secretarios de Seguridad Pública, nom
 
 XXIII. Proponer al Presidente de la República el nombramiento del Comisionado General de la Policía Federal y del Secretario Ejecutivo del Sistema Nacional de Seguridad Pública;
 
-XXIV. Coordinar y supervisar la operación del Registro Público Vehicular, a través del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, y
+XXIV. Coordinar y supervisar la operación del Registro Público Vehicular, a través del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
-XXV. Las demás que le atribuyan expresamente las leyes y reglamentos.
+*Fracción reformada DOF 09-09-2022*
+
+XXV. Recibir las solicitudes de indulto y amnistía formuladas en el ámbito de competencia del Ejecutivo Federal, con excepción de los delitos del orden militar. Asimismo, promover el reconocimiento de inocencia o anulación de sentencia en los casos previstos en el Título XIII del Código Nacional de Procedimientos Penales;
+
+*Fracción adicionada DOF 09-09-2022*
+
+XXVI. Prestar servicios de protección, custodia, vigilancia y seguridad de personas, bienes e instalaciones, a las dependencias y entidades de la Administración Pública Federal, así como a los órganos de carácter federal de los Poderes Legislativo y Judicial, organismos constitucionalmente autónomos y demás instituciones públicas que así lo soliciten. Quedan exceptuadas de la presente disposición las instalaciones consideradas estratégicas por la Constitución Política de los Estados Unidos Mexicanos y las leyes expedidas por el Congreso de la Unión.
+
+Asimismo, podrá prestar dichos servicios a personas físicas o morales cuando se requiera preservar la seguridad de bienes nacionales, de actividades concesionadas o permisionadas por el Estado, u otras que por su condición, relevancia o trascendencia contribuyan al desarrollo nacional, así como a representaciones de gobiernos extranjeros en territorio nacional.
+
+Los entes públicos o privados que soliciten los servicios deben cubrir el pago autorizado por la Secretaría de Hacienda y Crédito Público por concepto de contraprestación, y
+
+*Fracción adicionada DOF 09-09-2022*
+
+XXVII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+*Fracción recorrida DOF 09-09-2022*
 
 *Artículo adicionado DOF 30-11-2000. Reformado DOF 24-04-2006, 14-06-2012, 27-12-2012. Derogado DOF 02-01-2013.*
 
@@ -4301,3 +4329,75 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 7 de septiembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Karen Michel González Márquez, Secretaria.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de octubre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y de la Ley General de Archivos.
+
+*Publicado en el Diario Oficial de la Federación el 5 de abril de 2022*
+
+**Artículo Primero.-** Se deroga la fracción III del artículo 8o. de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+**Tercero.-** La Oficina de la Presidencia de la República y el Archivo General de la Nación, deberán llevar a cabo los actos necesarios para la transferencia de los recursos humanos, materiales y financieros de la Coordinación de Memoria Histórica y Cultural de México en un plazo máximo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, conforme a las disposiciones jurídicas aplicables y mediante movimientos compensados, por lo que no se autorizarán ampliaciones al presupuesto del Archivo General de la Nación para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+
+Los Titulares de la Unidad de Administración y Finanzas de la Oficina de la Presidencia de la República y de la Dirección de Administración del Archivo General de la Nación serán Coordinadores del proceso de transferencia de los recursos mencionados en el párrafo anterior, por lo que proveerán y acordarán lo necesario para darle cumplimiento, así como de proporcionar la información necesaria para la integración de la Cuenta Pública, en el ámbito de su competencia.
+
+Ciudad de México, a 23 de febrero de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública.
+
+*Publicado en el Diario Oficial de la Federación el 9 de septiembre de 2022*
+
+**Artículo Primero.-** Se reforman los artículos 29, fracciones IV y XVI; 30 Bis, fracciones I, párrafo primero, II y III, y se adicionan al artículo 30 Bis, fracción I, el párrafo segundo, y las fracciones XXV y XXVI, recorriéndose la actual en su orden, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+…….
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El personal naval que fue asignado a la Guardia Nacional en cumplimiento del Acuerdo por el que se establecen los elementos de la Policía Federal, Policía Militar y de la Policía Naval que integrarán la Guardia Nacional, publicado en el Diario Oficial de la Federación el 28 de junio de 2019, que solicite formar parte de dicha institución de seguridad pública o que, transcurridos sesenta días naturales de la entrada en vigor del presente Decreto, no solicite su reasignación a la Fuerza Armada de origen se le cancelará el documento que legalmente acredite el grado jerárquico con que cuente y se le expedirá uno nuevo con el grado equivalente que corresponda dentro de la Policía Militar, cesando de prestar servicios en la Armada para pasar a prestarlos en el Ejército y Fuerza Aérea Mexicanos.
+
+Al personal naval reclutado para conformar la Guardia Nacional se le cancelará el documento que legalmente acredite el grado jerárquico con que cuente y se le expedirá uno nuevo con el grado equivalente que corresponda dentro de la Policía Militar en el Ejército y Fuerza Aérea Mexicanos. La Secretaría de Marina transferirá las plazas correspondientes, en términos de las disposiciones aplicables.
+
+En todo caso, al personal a que se refiere esta disposición le serán respetados su antigüedad, derechos y beneficios adquiridos.
+
+**Tercero.-** En tanto no exista personal con formación de Guardia Nacional con grado de Comisario General en activo, la persona titular de la Comandancia de la Guardia Nacional será designada por la persona titular de la Presidencia de la República a propuesta de la persona titular de la Secretaría de la Defensa Nacional.
+
+**Cuarto.-** El personal militar que actualmente integra la Guardia Nacional continuará en esa situación bajo el mando de la persona Comandante de dicha institución de seguridad pública.
+
+**Quinto.-** La Secretaría de Marina transferirá a la Secretaría de la Defensa Nacional los recursos financieros y presupuestarios que correspondan en el presente ejercicio fiscal para cubrir las erogaciones por concepto de servicios personales respecto del personal naval que se transfiera a la Guardia Nacional, conforme a lo señalado en los párrafos primero y segundo del transitorio segundo del presente Decreto.
+
+**Sexto.-** La Secretaría de Seguridad y Protección Ciudadana:
+
+I. Coordinará con la Secretaría de la Defensa Nacional la homologación del adiestramiento especializado, considerando la Estrategia Nacional de Seguridad Pública;
+
+II. Transferirá a la Secretaría de la Defensa Nacional, dentro de un plazo de sesenta días naturales, los recursos presupuestarios y financieros que correspondan para cubrir las erogaciones por concepto de servicios personales y gastos de operación de la Guardia Nacional, así como los recursos materiales destinados a su operación, con excepción de aquéllos requeridos para el personal que seguirá bajo la adscripción de la Secretaría de Seguridad y Protección Ciudadana. Asimismo, destinará dichos recursos a la Secretaría de la Defensa Nacional conforme vayan quedando vacantes las plazas;
+
+III. Dispondrá que el personal procedente de la extinta Policía Federal cese de prestar sus servicios en la Guardia Nacional, por lo que seguirá bajo su adscripción, conservando sus derechos laborales adquiridos. El personal que pertenezca a los organismos especializados de la Guardia Nacional continuará prestando sus servicios en dicha institución de seguridad pública de manera temporal, conforme a los convenios de colaboración que para tal efecto se formalicen entre las Secretarías de Defensa Nacional y del ramo de seguridad pública, y
+
+IV. Relevará gradualmente al personal que integra la Coordinación de Administración y Finanzas de la Guardia Nacional, por aquél que proponga la persona Comandante de esa institución. El personal relevado mantendrá su adscripción a la propia dependencia.
+
+**Séptimo.-** La Secretaría de Hacienda y Crédito Público en uso de sus atribuciones:
+
+I. Observará lo señalado en el tercero transitorio del Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2022, para dar cumplimiento a lo previsto en el presente Decreto;
+
+II. Realizará las acciones que correspondan para que la Secretaría de la Defensa Nacional cuente con los recursos presupuestarios para cubrir las vacantes a que se refiere la fracción II del artículo sexto transitorio del presente Decreto.
+
+Conforme el personal naval sea reasignado a la Secretaría de Marina en términos del segundo transitorio del presente Decreto, la Secretaría de la Defensa Nacional solicitará a la Secretaría de Hacienda y Crédito Público que realice las acciones necesarias, en términos de las disposiciones jurídicas aplicables, para contar con los recursos presupuestarios y las plazas correspondientes para dar cumplimiento con lo establecido en el presente Decreto.
+
+**Octavo.-** Las Secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina son responsables de la instrumentación del presente Decreto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados de la Secretaría de la Defensa Nacional, de la Secretaría de Marina y de la Secretaría de Seguridad y Protección Ciudadana para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos, lo anterior, con independencia de lo señalado en los transitorios quinto y sexto, fracción II, del presente Decreto.
+
+**Noveno.-** A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a su contenido, comprendidas en leyes secundarias, reglamentos, acuerdos y cualquier otra de carácter administrativo.
+
+Ciudad de México, a 8 de septiembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de septiembre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
