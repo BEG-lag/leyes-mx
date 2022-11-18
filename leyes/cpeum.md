@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2021-05-28
+last_reform_dof: 2022-11-18
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-archived: https://web.archive.org/web/20220223233755/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-source_sha256: 5991cd2428e17cdb447238ab068400769f908e43262f11c16fcaed9b33f4c8cd
-retrieved: 2022-02-23
+archived: https://web.archive.org/web/20230219211839/http://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
+source_sha256: 9c35c1ba66d9e11c9b4d9d70c2d08c9cb0c095c25022021b0f5cd5ec20474452
+retrieved: 2023-02-19
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 28-05-2021
+Última reforma publicada DOF 18-11-2022
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -8564,9 +8564,33 @@ IV. La Ley Nacional del Registro de Detenciones incorporará, al menos, las sigu
 
 7\. La actuación que deberá desplegar el Registro y su personal en caso de ocurrir hechos que pongan en riesgo o vulneren su base de datos.
 
-**Quinto.** Durante los cinco años siguientes a la entrada en vigor del presente Decreto, en tanto la Guardia Nacional desarrolla su estructura, capacidades e implantación territorial, el Presidente de la República podrá disponer de la Fuerza Armada permanente en tareas de seguridad pública de manera extraordinaria, regulada, fiscalizada, subordinada y complementaria.
+**Quinto.** Durante los nueve años siguientes a la entrada en vigor del presente Decreto, en tanto la Guardia Nacional desarrolla su estructura, capacidades e implantación territorial, el Presidente de la República podrá disponer de la Fuerza Armada permanente en tareas de seguridad pública. Conforme a los términos planteados por la Suprema Corte de Justicia de la Nación, esa participación deberá ser:
 
-El Ejecutivo Federal incluirá un apartado sobre el uso de la facultad anterior en la presentación del informe a que se hace referencia en la fracción IV del artículo 76.
+I. Extraordinaria, de tal manera que se acredite la absoluta necesidad, que sea temporal y solicitada de forma expresa y justificada por la autoridad civil;
+
+II. Regulada, para que cumpla con un estricto apego al orden jurídico previsto en esta Constitución, en las leyes que de ella emanen y los tratados internacionales que estén de acuerdo con la misma;
+
+III. Fiscalizada, de manera que exista la constante revisión o supervisión del funcionamiento institucional a través de la rendición de cuentas, y
+
+IV. Subordinada y complementaria, de forma tal que las labores de apoyo que la Fuerza Armada preste a las instituciones de seguridad pública solo puedan realizarse en su auxilio o complemento, y se encuentren fundadas y motivadas.
+
+La Fuerza Armada permanente realizará las tareas de seguridad pública con su organización y medios, y deberá capacitarse en la doctrina policial civil establecida en el artículo 21 de esta Constitución.
+
+Las acciones que lleve a cabo la Fuerza Armada permanente, en ningún caso tendrán por objeto sustituir a las autoridades civiles de otros órdenes de gobierno en el cumplimiento de sus competencias o eximir a dichas autoridades de sus responsabilidades.
+
+El Ejecutivo Federal presentará al Congreso de la Unión un informe semestral sobre el uso de la facultad anterior, proporcionando los indicadores cuantificables y verificables que permitan evaluar los resultados obtenidos en el periodo reportado en materia de seguridad pública, y corroborar el respeto a los derechos humanos y a los de los pueblos y comunidades indígenas y afromexicanas.
+
+Para el análisis y dictamen de los informes establecidos en el párrafo anterior, en un plazo no mayor a sesenta días, contados a partir de la entrada en vigor del presente Decreto, y hasta la conclusión del plazo señalado en el primer párrafo, se integrará una comisión bicameral, en los términos que acuerden los órganos de dirección política de las Cámaras del Congreso de la Unión.
+
+La comisión se reunirá cada que la convoque su directiva; para la emisión del dictamen semestral convocará, si así lo requiere, a los titulares de las secretarías de Gobernación, de Seguridad y Protección Ciudadana, de Defensa Nacional y de Marina. El dictamen evaluará el cumplimiento de las condiciones establecidas en el primer párrafo del presente artículo para la participación de la Fuerza Armada permanente en labores de seguridad pública y deberá señalar aquellas entidades federativas donde deje de ser requerida la presencia permanente de las Fuerzas Armadas en esas labores. Asimismo, contendrá las recomendaciones que contribuyan al cumplimiento del plazo establecido en ese mismo párrafo.
+
+La comisión bicameral remitirá a cada una de las Cámaras del Congreso de la Unión los dictámenes semestrales, para su discusión y aprobación. Una vez aprobados se remitirán al Ejecutivo Federal, el que deberá informar de la atención que brindó a las recomendaciones emitidas.
+
+La Cámara de Senadores, al analizar y aprobar los informes anuales que sobre las actividades de la Guardia Nacional le rinda el Ejecutivo Federal, evaluará la participación de la Fuerza Armada permanente en labores de seguridad pública, realizadas al amparo del presente artículo transitorio, a fin de garantizar que a la conclusión del plazo señalado en el párrafo primero del mismo la Fuerza Armada permanente concluya su participación en labores de seguridad pública, y la Guardia Nacional y las demás instituciones de seguridad pública asuman a plenitud las facultades establecidas en el artículo 21 de esta Constitución.
+
+Las personas titulares del Poder Ejecutivo de las entidades federativas remitirán anualmente a las correspondientes legislaturas locales y al Consejo Nacional de Seguridad Pública la evaluación integral, en una perspectiva de seis años, contados a partir de la entrada en vigor de la reforma al presente artículo transitorio, del programa señalado en el Artículo Séptimo transitorio. Los resultados de esas evaluaciones serán la base para los ajustes del referido programa y su calendario de ejecución, por los órganos correspondientes.
+
+*Artículo reformado DOF 18-11-2022*
 
 **Sexto.** Durante el periodo a que se refiere el artículo anterior, para la conformación y funcionamiento de la Guardia Nacional, las secretarías de los ramos de Defensa Nacional y de Marina participarán, conforme a la ley, con la del ramo de seguridad, para el establecimiento de su estructura jerárquica, sus regímenes de disciplina, de cumplimiento de responsabilidades y tareas, y de servicios, así como para la instrumentación de las normas de ingreso, educación, capacitación, profesionalización, ascensos y prestaciones, que podrán estar homologados en lo conducente, a las disposiciones aplicables en el ámbito de la Fuerza Armada permanente.
 
@@ -9013,3 +9037,31 @@ Para el caso que no se lleven a cabo las adecuaciones normativas, dentro del pla
 Ciudad de México, a 19 de mayo de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María del Carmen Almeida Navarro, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforma el Artículo Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional, publicado en el Diario Oficial de la Federación el 26 de marzo de 2019.
+
+*Publicado en el Diario Oficial de la Federación el 18 de noviembre de 2022*
+
+**Artículo Único.-** Se reforma el Artículo Quinto Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional", publicado en el Diario Oficial de la Federación el 26 de marzo de 2019, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** A partir de la entrada en vigor del presente Decreto, el Consejo Nacional de Seguridad Pública determinará el grado de avance en el diagnóstico y los programas señalados en el Artículo Séptimo transitorio del Decreto de fecha 26 de marzo de 2019 en materia de Guardia Nacional, a fin de dar cumplimiento a lo establecido en el segundo párrafo de dicho transitorio.
+
+A partir del ejercicio fiscal 2023 el Ejecutivo Federal establecerá un fondo permanente de apoyo a las entidades federativas y municipios destinado al fortalecimiento de sus instituciones de seguridad pública. Dicho fondo se establecerá de forma separada e identificable respecto de cualquier otro ramo o programa destinado a otros propósitos en el Presupuesto de Egresos de la Federación, y no podrá ser inferior en términos porcentuales al incremento que reciba la Fuerza Armada permanente y la Guardia Nacional para tareas de seguridad pública cada año. Los recursos de dicho fondo no podrán ser utilizados para otro fin.
+
+El fondo a que se refiere el párrafo anterior se distribuirá en proporción directa al número de habitantes con que cuente cada entidad federativa, de acuerdo con la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística y Geografía. Hasta un veinticinco por ciento de dicho fondo se asignará a las entidades federativas con mejores resultados en materia de seguridad pública, conforme los indicadores que establezca el Consejo Nacional de Seguridad Pública.
+
+En adición a los recursos federales establecidos en el presente artículo transitorio, los titulares de los poderes ejecutivos de las entidades federativas establecerán anualmente un fondo de apoyo a las instituciones de seguridad pública de los municipios, en especial aquellos con menor población o mayor grado de marginación. Los recursos que se asignen por cada entidad federativa deberán ser al menos en una proporción uno a uno respecto de los recursos federales a que se refiere este mismo artículo transitorio.
+
+Las partidas presupuestales a que hacen referencia los párrafos anteriores no se exceptuarán de la transparencia y fiscalización superior por razones de seguridad nacional y deberán ser utilizadas de conformidad con lo establecido en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
+
+**Tercero.-** Los procedimientos en trámite y pendientes de resolución en el Poder Judicial de la Federación a la entrada en vigor de este Decreto, se continuarán sustanciando hasta su resolución de fondo sin sobreseerse por cambio en la norma impugnada, y se resolverán conforme al régimen jurídico vigente al momento de su presentación.
+
+Ciudad de México, a 09 de noviembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de noviembre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
