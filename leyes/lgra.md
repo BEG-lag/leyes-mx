@@ -3,12 +3,12 @@ title: Ley General de Responsabilidades Administrativas
 abbreviation: LGRA
 slug: lgra
 published_dof: 2016-07-18
-last_reform_dof: 2021-11-22
+last_reform_dof: 2022-12-27
 articles: 234
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc
-archived: https://web.archive.org/web/20220404202242/http://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc
-source_sha256: 85604dfe362a48611af15d05cc6a603f3a65af7bcd76c1b0b63122340ac1f6fe
-retrieved: 2022-04-04
+archived: https://web.archive.org/web/20240405093811/https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc
+source_sha256: ab09ebd9bf482d981ae2ce584eb644886f9bc6d0a37e1d36bf87ab28d57e3b51
+retrieved: 2024-04-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgra.htm
 ---
 
@@ -18,7 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 18 de julio de 201
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 22-11-2021
+Última reforma publicada DOF 27-12-2022
+
+Sentencia de la SCJN con declaratoria de invalidez del Decreto de reforma DOF 27-12-2022, publicada en el Diario Oficial de la Federación el 24 de noviembre de 2023
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -534,13 +536,29 @@ VIII. Colaborar en los procedimientos judiciales y administrativos en los que se
 
 *Fracción reformada DOF 19-11-2019*
 
-IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y
+IX. [Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y]
 
-*Fracción reformada DOF 19-11-2019*
+*Fracción reformada DOF 19-11-2019, 27-12-2022*
 
-X. Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.
+Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023
 
-*Fracción adicionada DOF 19-11-2019*
+*Fracción que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023*
+
+X. [Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.]
+
+*Fracción adicionada DOF 19-11-2019. Reformada DOF 27-12-2022*
+
+Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023
+
+*Fracción que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023*
+
+[XI. Suprimida]
+
+*Fracción adicionada DOF 27-12-2022*
+
+Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023
+
+*Fracción suprimida conforme al texto de la ley “que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023*
 
 Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
 
@@ -722,9 +740,15 @@ Será responsable de contratación indebida de ex Servidores Públicos el partic
 
 ###### Artículo 73.
 
-Se consideran Faltas de particulares en situación especial, aquéllas realizadas por candidatos a cargos de elección popular, miembros de equipos de campaña electoral o de transición entre administraciones del sector público, y líderes de sindicatos del sector público, que impliquen exigir, solicitar, aceptar, recibir o pretender recibir alguno de los beneficios a que se refiere el artículo 52 de esta Ley, ya sea para sí, para su campaña electoral o para alguna de las personas a las que se refiere el citado artículo, a cambio de otorgar u ofrecer una ventaja indebida en el futuro en caso de obtener el carácter de Servidor Público.
+[Se consideran Faltas de particulares en situación especial, aquéllas realizadas por candidatos a cargos de elección popular, miembros de equipos de campaña electoral o de transición entre administraciones del sector público, y líderes de sindicatos del sector público, que impliquen exigir, solicitar, aceptar, recibir o pretender recibir alguno de los beneficios a que se refiere el artículo 52 de esta Ley, ya sea para sí, para su campaña electoral o para alguna de las personas a las que se refiere el citado artículo, a cambio de otorgar u ofrecer una ventaja indebida en el futuro en caso de obtener el carácter de Servidor Público.
 
-A los particulares que se encuentren en situación especial conforme al presente Capítulo, incluidos los directivos y empleados de los sindicatos, podrán ser sancionados cuando incurran en las conductas a que se refiere el Capítulo anterior.
+A los particulares que se encuentren en situación especial conforme al presente Capítulo, incluidos los directivos y empleados de los sindicatos, podrán ser sancionados cuando incurran en las conductas a que se refiere el Capítulo anterior.]
+
+*Artículo reformado (publicado íntegro sin cambios) DOF 27-12-2022*
+
+Artículo declarado inválido por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023
+
+*Artículo que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023*
 
 #### Capítulo V · De la prescripción de la responsabilidad administrativa
 
@@ -2137,3 +2161,237 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 14 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen. María Celeste Sánchez Sugía, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+[DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas.]
+
+### Decreto declarado inválido por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023, con Engrose notificado a su vez el 31-05-2023 y publicado DOF 24-11-2023
+
+*Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2022*
+
+[Artículo Segundo.- Se reforman las fracciones IX y X del párrafo primero del artículo 49, y el artículo 73, y se adiciona la fracción XI al párrafo primero del artículo 49, de la Ley General de Responsabilidades Administrativas, para quedar como sigue:]
+
+……..
+
+[Transitorios]
+
+[Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.]
+
+[Segundo. La persona titular del Ejecutivo Federal debe realizar las adecuaciones reglamentarias correspondientes en un plazo no mayor a 180 días hábiles a partir de la publicación del presente Decreto.
+
+En el mismo plazo, la Secretaría de Gobernación emitirá los Lineamientos a que se refieren los artículos 4, 25, 28 y 37 de la Ley General de Comunicación Social.]
+
+[Tercero. Los Entes Públicos, en un plazo máximo de 120 días hábiles siguientes a la entrada en vigor del presente Decreto, adecuarán conforme a éste, sus disposiciones legales y reglamentarias.]
+
+[Cuarto. Se derogan las disposiciones que se opongan al presente Decreto.]
+
+[Quinto. En caso de inicio de labores o de gestión, los Entes Públicos emitirán su Estrategia y Programa Anual de Comunicación Social de ese ejercicio fiscal a los tres meses siguientes a que se haya emitido y publicado su Programa de trabajo, o equivalente.
+
+En los ordenamientos locales se establecerán las disposiciones transitorias conducentes para el procedimiento referido en el párrafo anterior.]
+
+[Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.]
+
+[Ciudad de México, a 15 de diciembre de 2022.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. María Macarena Chávez Flores, Secretaria.- Rúbricas."]
+
+[En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de diciembre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.]
+
+PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 29/2023 y sus acumuladas 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 y 47/2023, promovida por los Partidos Políticos de la Revolución Democrática, Acción Nacional, Revolucionario Institucional, diversos diputados y diversos senadores integrantes de la Sexagésima Quinta Legislatura del Congreso de la Unión, Partido Político Movimiento Ciudadano y Partido Político del Estado de Jalisco denominado Hagamos.
+
+Notificados al Congreso de la Unión para efectos legales el 8 de mayo de 2023
+
+Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
+
+SECRETARÍA GENERAL DE ACUERDOS
+
+OFICIO NÚM. SGA/MOKM/172/2023
+
+SEÑOR LICENCIADO EDUARDO ARANDA MARTÍNEZ
+
+SECRETARIO DE LA SECCIÓN DE TRÁMITE DE
+
+CONTROVERSIAS CONSTITUCIONALES Y DE
+
+ACCIONES DE INCONSTITUCIONALIDAD DE LA
+
+SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
+
+P R E S E N T E
+
+El Tribunal Pleno, en su sesión celebrada el ocho de mayo de dos mil veintitrés, resolvió la acción de inconstitucionalidad 29/2023 y sus acumuladas 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 y 47/2023, promovida por los Partidos Políticos de la Revolución Democrática, Acción Nacional, Revolucionario Institucional, diversos diputados y diversos senadores integrantes de la Sexagésima Quinta Legislatura del Congreso de la Unión, Partido Político Movimiento Ciudadano y Partido Político del Estado de Jalisco denominado Hagamos, en los términos siguientes:
+
+“PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
+
+**SEGUNDO.** Se declara la invalidez del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación el veintisiete de diciembre de dos mil veintidós, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con los apartados V y VI de esta decisión.
+
+**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.”
+
+Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al Titular del Poder Ejecutivo Federal.
+
+Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión privada celebrada el doce de abril de dos mil diez, le solicito que remita a esta Secretaría General de Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
+
+Atentamente
+
+Ciudad de México; 8 de mayo de 2023
+
+LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
+
+Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el lunes 8 de mayo de 2023 a las 16:40 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
+
+ENGROSE de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 29/2023 y sus acumuladas 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 y 47/2023, promovida por los Partidos Políticos de la Revolución Democrática, Acción Nacional, Revolucionario Institucional, diversos diputados y diversos senadores integrantes de la Sexagésima Quinta Legislatura del Congreso de la Unión, Partido Político Movimiento Ciudadano y Partido Político del Estado de Jalisco denominado Hagamos.
+
+Notificado al Congreso de la Unión 31 de mayo de 2023
+
+Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
+
+ACCIÓN DE INCONSTITUCIONALIDAD 29/2023 Y SUS ACUMULADAS 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 Y 47/2023
+
+PROMOVENTES: PARTIDOS POLÍTICOS DE LA REVOLUCIÓN DEMOCRÁTICA, ACCIÓN NACIONAL, REVOLUCIONARIO INSTITUCIONAL, DIVERSOS DIPUTADOS Y DIVERSOS SENADORES INTEGRANTES DE LA SEXAGÉSIMA QUINTA LEGISLATURA DEL CONGRESO DE LA UNIÓN, PARTIDO POLÍTICO MOVIMIENTO CIUDADANO Y PARTIDO POLÍTICO DEL ESTADO DE JALISCO DENOMINADO HAGAMOS
+
+PONENTE:
+
+MINISTRO alberto pérez DAYÁN
+
+SECRETARIA:
+
+GUADALUPE DE LA PAZ VARELA DOMÍNGUEZ
+
+COLABORARON:
+
+EDITH guadalupe esquivel adame
+
+valeria palma limón y
+
+aurea hernández meza
+
+……….
+
+VI. EFECTOS
+
+252\. De conformidad con los artículos 41, fracción IV, y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, las sentencias dictadas en acciones de inconstitucionalidad deberán establecer sus alcances y efectos, fijando con precisión, las normas o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda.
+
+253\. Así, de acuerdo con la parte considerativa de este fallo, se declara la invalidez de la totalidad del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación de veintisiete de diciembre de dos mil veintidós.
+
+254\. Toda vez que se determinó la invalidez del Decreto arriba precisado, éste deja de tener eficacia y, en consecuencia, las normas vinculadas por él, recuperan su vigencia con el texto que tenían al veintisiete de diciembre de dos mil veintidós.
+
+255\. Ello es así, en virtud de que con este fallo no se invalidaron disposiciones legales en lo específico, sino el Decreto que las modificó, en su integridad.
+
+256\. La presente resolución surtirá sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión.
+
+VII. DECISIÓN
+
+257\. Por lo antes expuesto, este Pleno de la Suprema Corte de Justicia de la Nación resuelve:
+
+**PRIMERO.** Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
+
+**SEGUNDO.** Se declara la invalidez del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación el veintisiete de diciembre de dos mil veintidós, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con los apartados V y VI de esta decisión.
+
+**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+Notifíquese por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
+
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+
+……..
+
+La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos precisados. Doy fe.
+
+En la sesión privada ordinaria celebrada el veintidós de mayo de dos mil veintitrés se aprobó el agregado de los párrafos 254 y 255 del engrose, por mayoría de nueve votos de las señoras Ministras y los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández. Votaron en contra del agregado de esos párrafos las señoras Ministras Esquivel Mossa y Ortiz Ahlf.
+
+La señora Ministra Presidenta Piña Hernández declaró que en los términos antes precisados se aprobó el texto del engrose de la sentencia emitida en la acción de inconstitucionalidad 29/2023 y sus acumuladas 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 y 47/2023. Doy fe.
+
+Firman la señora Ministra Presidenta y el señor Ministro Ponente con el Secretario General de Acuerdos que da fe.
+
+Ministra Presidenta, Norma Lucía Piña Hernández.- Ministro Ponente, Alberto Pérez Dayán.- Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbricas.
+
+Notificado el engrose a la Cámara de Diputados del H. Congreso de la Unión el miércoles 31 de mayo de 2023 a las 17:05 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
+
+### SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 29/2023 y sus acumuladas 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 y 47/2023, así como los Votos Particulares de las señoras Ministras Yasmín Esquivel Mossa y Loretta Ortiz Ahlf, Particular y Concurrente del señor Ministro Arturo Zaldívar Lelo de Larrea, y Concurrentes de las señoras Ministras Ana Margarita Ríos Farjat y Presidenta Norma Lucía Piña Hernández y de los señores Ministros Alfredo Gutiérrez Ortiz Mena y Juan Luis González Alcántara Carrancá.
+
+*Publicada en el Diario Oficial de la Federación el 24 de noviembre de 2023*
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
+
+ACCIÓN DE INCONSTITUCIONALIDAD 29/2023 Y SUS ACUMULADAS 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 Y 47/2023
+
+PROMOVENTES: PARTIDOS POLÍTICOS DE LA REVOLUCIÓN DEMOCRÁTICA, ACCIÓN NACIONAL, REVOLUCIONARIO INSTITUCIONAL, DIVERSOS DIPUTADOS Y DIVERSOS SENADORES INTEGRANTES DE LA SEXAGÉSIMA QUINTA LEGISLATURA DEL CONGRESO DE LA UNIÓN, PARTIDO POLÍTICO MOVIMIENTO CIUDADANO Y PARTIDO POLÍTICO DEL ESTADO DE JALISCO DENOMINADO HAGAMOS
+
+PONENTE:
+
+MINISTRO ALBERTO PÉREZ DAYÁN
+
+SECRETARIA:
+
+GUADALUPE DE LA PAZ VARELA DOMÍNGUEZ
+
+COLABORARON:
+
+EDITH GUADALUPE ESQUIVEL ADAME
+
+VALERIA PALMA LIMÓN Y
+
+AUREA HERNÁNDEZ MEZA
+
+Ciudad de México. El Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al ocho de mayo de dos mil veintitrés, emite la siguiente:
+
+SENTENCIA
+
+……..
+
+VI. EFECTOS
+
+252\. De conformidad con los artículos 41, fracción IV, y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, las sentencias dictadas en acciones de inconstitucionalidad deberán establecer sus alcances y efectos, fijando con precisión, las normas o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda.
+
+253\. Así, de acuerdo con la parte considerativa de este fallo, se declara la invalidez de la totalidad del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación de veintisiete de diciembre de dos mil veintidós.
+
+254\. Toda vez que se determinó la invalidez del Decreto arriba precisado, éste deja de tener eficacia y, en consecuencia, las normas vinculadas por él, recuperan su vigencia con el texto que tenían al veintisiete de diciembre de dos mil veintidós.
+
+255\. Ello es así, en virtud de que con este fallo no se invalidaron disposiciones legales en lo específico, sino el Decreto que las modificó, en su integridad.
+
+256\. La presente resolución surtirá sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión.
+
+VII. DECISIÓN
+
+257\. Por lo antes expuesto, este Pleno de la Suprema Corte de Justicia de la Nación resuelve:
+
+**PRIMERO.** Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
+
+**SEGUNDO.** Se declara la invalidez del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación el veintisiete de diciembre de dos mil veintidós, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con los apartados V y VI de esta decisión.
+
+**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+Notifíquese por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
+
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+
+En relación con el punto resolutivo primero:
+
+Se aprobó por unanimidad de once votos de las señoras Ministras y de los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá, Esquivel Mossa, Ortiz Ahlf, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández, respecto de los apartados I y II relativos, respectivamente, a la competencia y a la oportunidad.
+
+Se aprobó por unanimidad de once votos de las señoras Ministras y de los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá apartándose del párrafo 53, Esquivel Mossa, Ortiz Ahlf, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández, respecto del apartado III, relativo a la legitimación.
+
+Se aprobó por unanimidad de once votos de las señoras Ministras y de los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá, Esquivel Mossa, Ortiz Ahlf, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández, respecto del apartado IV, relativo a las causas de improcedencia y sobreseimiento.
+
+En relación con el punto resolutivo segundo:
+
+Se aprobó por unanimidad de once votos de las señoras Ministras y de los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá, Esquivel Mossa, Ortiz Ahlf, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández, respecto del apartado V, relativo al estudio de fondo, en su tema 1, denominado “Parlamento abierto”, consistente en declarar infundado el concepto de invalidez relativo.
+
+Se aprobó por mayoría de diez votos de las señoras Ministras y de los señores Ministros González Alcántara Carrancá, Esquivel Mossa con excepción del inciso k) del artículo 5, Ortiz Ahlf con excepción de los incisos c) de la fracción V del artículo 3 Bis y k) del artículo 5, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea con excepción de los incisos c) de la fracción V del artículo 3 Bis y k) del artículo 5, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández con excepción del inciso k) del artículo 5, respecto del apartado V, relativo al estudio de fondo, en su tema 2, denominado “Consulta previa a los pueblos y comunidades indígenas”, consistente en declarar infundado el concepto de invalidez relativo. El señor Ministro Gutiérrez Ortiz Mena votó en contra y anunció voto particular. La señora Ministra Esquivel Mossa anunció voto concurrente. La señora Ministra Ríos Farjat anunció voto aclaratorio.
+
+Se aprobó por mayoría de nueve votos de las señoras Ministras y de los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá por razones adicionales, Aguilar Morales con el proyecto original, Pardo Rebolledo separándose de las consideraciones, Zaldívar Lelo de Larrea separándose de las consideraciones, Ríos Farjat con precisiones, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández apartándose de algunas consideraciones, respecto del apartado V, relativo al estudio de fondo, en su tema 3, denominado “Violaciones al procedimiento legislativo”, consistente en declarar la invalidez del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas. Las señoras Ministras Esquivel Mossa y Ortiz Ahlf votaron en contra y anunciaron sendos votos particulares. Los señores Ministros González Alcántara Carrancá, Pardo Rebolledo y Zaldívar Lelo de Larrea, así como la señora Ministra Presidenta Piña Hernández anunciaron sendos votos concurrentes. El señor Ministro Gutiérrez Ortiz Mena y la señora Ministra Ríos Farjat reservaron su derecho de formular sendos votos concurrentes.
+
+Se aprobó por mayoría de nueve votos de las señoras Ministras y de los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández, respecto del apartado VI, relativo a los efectos, consistente en determinar que la declaratoria de invalidez surta efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión. Las señoras Ministras Esquivel Mossa y Ortiz Ahlf votaron en contra.
+
+En relación con el punto resolutivo tercero:
+
+Se aprobó por unanimidad de once votos de las señoras Ministras y de los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá, Esquivel Mossa, Ortiz Alf, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández.
+
+La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos precisados. Doy fe.
+
+En la sesión privada ordinaria celebrada el veintidós de mayo de dos mil veintitrés se aprobó el agregado de los párrafos 254 y 255 del engrose, por mayoría de nueve votos de las señoras Ministras y los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández. Votaron en contra del agregado de esos párrafos las señoras Ministras Esquivel Mossa y Ortiz Ahlf.
+
+La señora Ministra Presidenta Piña Hernández declaró que en los términos antes precisados se aprobó el texto del engrose de la sentencia emitida en la acción de inconstitucionalidad 29/2023 y sus acumuladas 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 y 47/2023. Doy fe.
+
+Firman la señora Ministra Presidenta y el señor Ministro Ponente con el Secretario General de Acuerdos que da fe.
+
+Ministra Presidenta, Norma Lucía Piña Hernández.- Firmado electrónicamente.- Ministro Ponente, Alberto Pérez Dayán.- Firmado electrónicamente.- Secretario General de Acuerdos, Lic. Rafael Coello Cetina.- Firmado electrónicamente.
+
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: la presente copia fotostática constante de noventa y ocho fojas útiles en las que se cuenta esta certificación, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la acción de inconstitucionalidad 29/2023 y sus acumuladas 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 y 47/2023, promovidas por los partidos políticos de la Revolución Democrática, Acción Nacional, Revolucionario Institucional, diversos Diputados y diversos Senadores integrantes de la Sexagésima Quinta Legislatura del Congreso de la Unión, Partido Político Movimiento Ciudadano y Partido Político del Estado de Jalisco denominado Hagamos, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del ocho de mayo de dos mil veintitrés. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a treinta de mayo de dos mil veintitrés.- Rúbrica.
