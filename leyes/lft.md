@@ -3,12 +3,12 @@ title: Ley Federal del Trabajo
 abbreviation: LFT
 slug: lft
 published_dof: 1970-04-01
-last_reform_dof: 2022-05-18
+last_reform_dof: 2022-12-27
 articles: 1238
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc
-archived: https://web.archive.org/web/20220730021335/https://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc
-source_sha256: 675d99c1d17ae0b06a26b0ecafe149d7e5139be7af3cf990bbc2f48646632d36
-retrieved: 2022-07-30
+archived: https://web.archive.org/web/20230219223012/http://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc
+source_sha256: edf1c8792fecb0eb0a590f60926daa27ce630b767f3ca82bc2ffcfcbf6455310
+retrieved: 2023-02-19
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de abril de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada 18-05-2022
+Última reforma publicada 27-12-2022
 
 > Nota de vigencia: La adición de la fracción IV al artículo 337, publicada por Decreto DOF 01-05-2019, entrará en vigor de conformidad con lo que establece el artículo Vigésimo Quinto Transitorio de dicho Decreto.
 
@@ -1022,9 +1022,11 @@ Los trabajadores quedarán obligados a prestar los servicios y tendrán derecho 
 
 ##### Artículo 76.
 
-Los trabajadores que tengan más de un año de servicios disfrutarán de un período anual de vacaciones pagadas, que en ningún caso podrá ser inferior a seis días laborables, y que aumentará en dos días laborables, hasta llegar a doce, por cada año subsecuente de servicios.
+Las personas trabajadoras que tengan más de un año de servicios disfrutarán de un periodo anual de vacaciones pagadas, que en ningún caso podrá ser inferior a doce días laborables, y que aumentará en dos días laborables, hasta llegar a veinte, por cada año subsecuente de servicios.
 
-Después del cuarto año, el período de vacaciones aumentará en dos días por cada cinco de servicios.
+A partir del sexto año, el periodo de vacaciones aumentará en dos días por cada cinco de servicios.
+
+*Artículo reformado DOF 27-12-2022*
 
 ##### Artículo 77.
 
@@ -1032,7 +1034,9 @@ Los trabajadores que presten servicios discontinuos y los de temporada tendrán 
 
 ##### Artículo 78.
 
-Los trabajadores deberán disfrutar en forma continua seis días de vacaciones, por lo menos.
+Del total del periodo que le corresponda conforme a lo previsto en el artículo 76 de esta Ley, la persona trabajadora disfrutará de doce días de vacaciones continuos, por lo menos. Dicho periodo, a potestad de la persona trabajadora podrá ser distribuido en la forma y tiempo que así lo requiera.
+
+*Artículo reformado DOF 27-12-2022*
 
 ##### Artículo 79.
 
@@ -14615,3 +14619,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 26 de abril de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 76 y 78 de la Ley Federal del Trabajo, en materia de vacaciones.
+
+*Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2022*
+
+**Artículo Único.-** Se reforman los artículos 76 y 78 de la Ley Federal del Trabajo, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el 1.° de enero de 2023, o al día siguiente de su publicación en el Diario Oficial de la Federación, si esta fuera en el año 2023.
+
+**Segundo.-** Las modificaciones motivo del presente Decreto serán aplicables a los contratos individuales o colectivos de trabajo vigentes a la fecha de su entrada en vigor, cualquiera que sea su forma o denominación, siempre que resulten más favorables a los derechos de las personas trabajadoras.
+
+Ciudad de México, a 14 de diciembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de diciembre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
