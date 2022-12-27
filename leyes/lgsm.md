@@ -3,12 +3,12 @@ title: Ley General de Sociedades Mercantiles
 abbreviation: LGSM
 slug: lgsm
 published_dof: 1934-08-04
-last_reform_dof: 2018-06-14
+last_reform_dof: 2022-12-27
 articles: 277
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/144_140618.doc
-archived: https://web.archive.org/web/20190711030835/http://www.diputados.gob.mx:80/LeyesBiblio/doc/144_140618.doc
-source_sha256: 8a269637ba97f129b1b88b667d492629ba7175a6e044c669db1392fab66bdd86
-retrieved: 2019-07-11
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGSM.doc
+archived: https://web.archive.org/web/20230602044612/https://www.diputados.gob.mx/LeyesBiblio/doc/LGSM.doc
+source_sha256: 8a3625cdd5dcb2502bfdd231b23c58603a40e46d716b893c4039b02ded342152
+retrieved: 2023-06-02
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm.htm
 ---
 
@@ -19,6 +19,8 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 4 de agosto de 193
 TEXTO VIGENTE
 
 Última reforma publicada DOF 14-06-2018
+
+Cantidades actualizadas por Acuerdo DOF 27-12-2022
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -2050,7 +2052,9 @@ Las asociaciones en participación funcionan, se disuelven y liquidan, a falta d
 
 La sociedad por acciones simplificada es aquella que se constituye con una o más personas físicas que solamente están obligadas al pago de sus aportaciones representadas en acciones. En ningún caso las personas físicas podrán ser simultáneamente accionistas de otro tipo de sociedad mercantil a que se refieren las fracciones I a VII, del artículo 1o. de esta Ley, si su participación en dichas sociedades mercantiles les permite tener el control de la sociedad o de su administración, en términos del artículo 2, fracción III de la Ley del Mercado de Valores.
 
-Los ingresos totales anuales de una sociedad por acciones simplificada no podrá rebasar de 5 millones de pesos. En caso de rebasar el monto respectivo, la sociedad por acciones simplificada deberá transformarse en otro régimen societario contemplado en esta Ley, en los términos en que se establezca en las reglas señaladas en el artículo 263 de la misma. El monto establecido en este párrafo se actualizará anualmente el primero de enero de cada año, considerando el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el que se efectúa la actualización, misma que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Economía publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año.
+Los ingresos totales anuales de una sociedad por acciones simplificada no podrá rebasar de \$6,783,425.40. En caso de rebasar el monto respectivo, la sociedad por acciones simplificada deberá transformarse en otro régimen societario contemplado en esta Ley, en los términos en que se establezca en las reglas señaladas en el artículo 263 de la misma. El monto establecido en este párrafo se actualizará anualmente el primero de enero de cada año, considerando el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el que se efectúa la actualización, misma que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Economía publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año.
+
+Cantidad del párrafo actualizada por acuerdo DOF 27-12-2022
 
 En caso que los accionistas no lleven a cabo la transformación de la sociedad a que se refiere el párrafo anterior responderán frente a terceros, subsidiaria, solidaria e ilimitadamente, sin perjuicio de cualquier otra responsabilidad en que hubieren incurrido.
 
@@ -2383,3 +2387,17 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Sofía del Sagrario De León Maza, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### ACUERDO por el que se da a conocer el factor de actualización a los ingresos totales anuales de una Sociedad por Acciones Simplificada conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles.
+
+*Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2022*
+
+**PRIMERO.** El factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada corresponde a 1.0780.
+
+**SEGUNDO.** Para efectos de lo dispuesto en el segundo párrafo del artículo 260 de la Ley General de Sociedades Mercantiles, los ingresos totales anuales de una sociedad por acciones simplificada no podrán rebasar de \$6,783,425.40 (Seis millones setecientos ochenta y tres mil cuatrocientos veinticinco pesos 40/100 M.N.).
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Acuerdo entrará en vigor el 1 de enero de 2023.
+
+Ciudad de México, a 19 de diciembre de 2022.- La Secretaria de Economía, Raquel Buenrostro Sánchez.- Rúbrica.
