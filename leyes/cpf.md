@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2021-11-12
+last_reform_dof: 2023-01-06
 articles: 549
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc
-archived: https://web.archive.org/web/20220404202121/http://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc
-source_sha256: a9aa522a5ea28b2aade4fb2906d06e53142aa6c724d309cee2240f232b0a8031
-retrieved: 2022-04-04
+archived: https://web.archive.org/web/20230219211833/http://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc
+source_sha256: fe7e1c885c7ab17d92b521a27b5d894de71e5e7194465187b2f70ecbfa5f1b33
+retrieved: 2023-02-19
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 12-11-2021
+Última reforma publicada DOF 06-01-2023
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 
@@ -2036,7 +2036,9 @@ II.- La violación de los deberes de neutralidad que corresponden a la nación m
 
 III.- La violación de la inmunidad de un parlamentario, o la que da un salvoconducto, y
 
-IV.- Todo ataque o violencia de cualquier género a los escudos, emblemas o pabellones de una potencia amiga.
+IV.- Todo ataque o violencia de cualquier género a los escudos, emblemas o pabellones de otra Nación extranjera.
+
+*Fracción reformada DOF 06-01-2023*
 
 En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces podrán imponer hasta seis años de prisión.
 
@@ -10088,3 +10090,19 @@ Artículo Decimosegundo. Se deroga el artículo transitorio Tercero del Decreto 
 Ciudad de México, a 26 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 148 del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 6 de enero de 2023*
+
+**Artículo Único.-** Se reforma la fracción IV del artículo 148 del Código Penal Federal, para quedar como sigue:
+
+…….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 24 de noviembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de enero de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
