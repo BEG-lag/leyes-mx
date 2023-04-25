@@ -3,12 +3,12 @@ title: Ley Agraria
 abbreviation: LAgra
 slug: lagra
 published_dof: 1992-02-26
-last_reform_dof: 2022-03-08
+last_reform_dof: 2023-04-25
 articles: 201
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc
-archived: https://web.archive.org/web/20220404202202/http://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc
-source_sha256: 121ba1616a5ba72e06b778da68bf93ec278098a33e0e4bd0e47a422476e7ccac
-retrieved: 2022-04-04
+archived: https://web.archive.org/web/20240405093407/https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc
+source_sha256: 78892dbb0a0cff301e1db58ec508a5b606d6eb27ff1ffa6de55d2c71894af703
+retrieved: 2024-04-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lagra.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 26 de febrero de 1
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 08-03-2022
+Últimas reformas publicadas DOF 25-04-2023
 
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -52,7 +52,9 @@ El Ejecutivo Federal promoverá la coordinación de acciones con los gobiernos d
 
 ##### Artículo 4o.
 
-El Ejecutivo Federal promoverá el desarrollo integral y equitativo del sector rural mediante el fomento de las actividades productivas y de las acciones sociales para elevar el bienestar de la población y su participación en la vida nacional.
+El Ejecutivo Federal promoverá el desarrollo integral y equitativo del sector rural mediante el fomento de las actividades productivas y de las acciones sociales con perspectiva de género, orientadas a elevar el bienestar de la población y su participación en la vida nacional, en condiciones de igualdad y paridad.
+
+*Párrafo reformado DOF 25-04-2023*
 
 Las organizaciones de productores podrán elaborar propuestas de políticas de desarrollo y fomento al campo, las cuales serán concertadas con el Ejecutivo Federal para su aplicación.
 
@@ -278,7 +280,11 @@ Cuando se trate de la asamblea que discuta los asuntos establecidos en las fracc
 
 ##### Artículo 32.
 
-El comisariado ejidal es el órgano encargado de la ejecución de los acuerdos de la asamblea, así como de la representación y gestión administrativa del ejido. Estará constituido por un Presidente, un Secretario y un Tesorero, propietarios y sus respectivos suplentes. Asimismo, contará en su caso con las comisiones y los secretarios auxiliares que señale el reglamento interno. Este habrá de contener la forma y extensión de las funciones de cada miembro del comisariado; si nada dispone, se entenderá que sus integrantes funcionarán conjuntamente.
+El comisariado ejidal es el órgano encargado de la ejecución de los acuerdos de la asamblea, así como de la representación y gestión administrativa del ejido. Estará constituido por una persona titular de la Presidencia, una persona titular de la Secretaría y una persona titular de la Tesorería, propietarias y sus respectivas personas suplentes. Asimismo, contará en su caso con las comisiones y las secretarias y los secretarios auxiliares que señale el reglamento interno. Este habrá de contener la forma y extensión de las funciones de cada integrante del comisariado; si nada dispone, se entenderá que sus integrantes funcionarán conjuntamente.
+
+La integración del comisariado ejidal se realizará en observancia al principio de paridad.
+
+*Artículo reformado DOF 25-04-2023*
 
 ##### Artículo 33.
 
@@ -316,11 +322,11 @@ IV. Las demás que señalen la ley y el reglamento interno del ejido.
 
 ##### Artículo 37.
 
-Los miembros del comisariado y del consejo de vigilancia, así como sus suplentes, serán electos en asamblea. El voto será secreto y el escrutinio público e inmediato. En caso de que la votación se empate, se repetirá ésta y si volviere a empatarse se asignarán los puestos por sorteo entre los individuos que hubiesen obtenido el mismo número de votos.
+Las personas integrantes del comisariado y del consejo de vigilancia, así como sus suplentes, serán electas en asamblea. El voto será secreto y el escrutinio público e inmediato. En caso de que la votación se empate, se repetirá ésta y si volviere a empatarse se asignarán los puestos por sorteo entre las personas que hubiesen obtenido el mismo número de votos.
 
-Las candidaturas a puestos de elección que integran el comisariado ejidal y el consejo de vigilancia, deberán integrarse por no más del sesenta por ciento de candidatos de un mismo género, pudiendo aspirar a cualquiera de los puestos indistintamente. Para las comisiones y secretarios auxiliares con que cuenta el comisariado ejidal, se procurará la integración de las mujeres.
+Las candidaturas a puestos de elección que integran el comisariado ejidal y el consejo de vigilancia, deberán integrarse de manera paritaria, pudiendo aspirar a cualquiera de los puestos indistintamente. Las comisiones y secretarías auxiliares con que cuenta el comisariado ejidal, se integrarán conforme al principio de paridad de género.
 
-*Párrafo adicionado DOF 19-12-2016*
+*Artículo reformado DOF 19-12-2016, 25-04-2023*
 
 ##### Artículo 38.
 
@@ -1829,3 +1835,35 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 2 de febrero de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Karen Michel González Márquez, Secretaria.- Sen. María Celeste Sánchez Sugía, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 4o. y 32 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 25 de abril de 2023*
+
+**Artículo Único.-** Se reforman los artículos 4o., primer párrafo y 32 de la Ley Agraria, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 8 de marzo de 2023.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Sarai Núñez Cerón, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 37 de la Ley Agraria.
+
+*Publicado en el Diario Oficial de la Federación el 25 de abril de 2023*
+
+**Artículo Único.-** Se reforma el artículo 37 de la Ley Agraria, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 8 de marzo de 2023.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
