@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2022-09-09
-articles: 67
+last_reform_dof: 2023-05-03
+articles: 69
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
-archived: https://web.archive.org/web/20230219225718/http://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
-source_sha256: b18f51dabf137bc6fc0bc88618d92682a7cc696e20364800c4211aa240d73dc7
-retrieved: 2023-02-19
+archived: https://web.archive.org/web/20230603092250/https://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
+source_sha256: 480e8f39b744fa0f4d5b0dcbff44daf992a614bc93c3c95ee6e0b1d914b9a5b7
+retrieved: 2023-06-03
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 09-09-2022
+Últimas reformas publicadas DOF 03-05-2023
+
+> Nota de vigencia de los efectos de la declaratoria de invalidez: La declaratoria de invalidez del artículo 29, fracción IV, en su porción normativa “, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana”, de esta Ley, contenido en el “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública”, publicado en el Diario Oficial de la Federación el 9 de septiembre de 2022; así como de los artículos transitorios tercero, sexto y séptimo del referido Decreto, y notificada dicha declaratoria al Congreso de la Unión el 25 de abril de 2023, surtirá sus efectos a partir del 1 de enero de 2024.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -174,13 +176,29 @@ Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por
 
 #### Artículo 14.
 
-Al frente de cada Secretaría habrá un Secretario de Estado, quien, para el despacho de los asuntos de su competencia, se auxiliará por los Subsecretarios, Titular de la Unidad de Administración y Finanzas, Jefes de Unidad, Directores, Subdirectores, Jefes de Departamento, y los demás funcionarios, en los términos que establezca el reglamento interior respectivo y otras disposiciones legales. Las Secretarías de la Defensa Nacional, de Marina y de Hacienda y Crédito Público contarán cada una con una Oficialía Mayor, las cuales tendrán las funciones que establezca el artículo 20 de esta ley y las que determinen los reglamentos interiores.
+Al frente de cada Secretaría de Estado habrá una persona titular, quien, para el despacho de los asuntos de su competencia, se auxiliará de las personas titulares de las subsecretarías, de las Unidades de Administración y Finanzas, de las jefaturas de unidad, de las direcciones, de las subdirecciones, de las jefaturas de departamento, y demás personas funcionarias, en los términos que establezca el reglamento interior respectivo y las disposiciones legales aplicables.
 
-*Párrafo reformado DOF 30-11-2018*
+Las Secretarías de la Defensa Nacional y de Marina contarán cada una con una Oficialía Mayor, que tendrá las funciones establecidas en el artículo 20 de esta Ley y las que determinen sus reglamentos interiores.
 
 En los juicios de amparo, el Presidente de la República podrá ser representado por el titular de la dependencia a que corresponde el asunto, según la distribución de competencias. Los recursos administrativos promovidos contra actos de los Secretarios de Estado serán resueltos dentro del ámbito de su Secretaría en los términos de los ordenamientos legales aplicables.
 
-*Párrafo reformado DOF 15-05-1996*
+*Artículo reformado DOF 15-05-1996, 30-11-2018, 03-05-2023*
+
+#### Artículo 14 Bis.
+
+Las Unidades de Administración y Finanzas o áreas que realicen funciones equivalentes en las dependencias y entidades paraestatales, se ajustarán a lo siguiente:
+
+I. Dependerán jerárquicamente de la dependencia o entidad paraestatal al que se encuentren adscritas en los términos que establezca el reglamento interior respectivo o los ordenamientos correspondientes;
+
+II. Serán consideradas en la estructura y presupuesto de la dependencia o entidad paraestatal a la que se encuentren adscritas;
+
+III. Actuarán, en el ámbito de su competencia, en nombre y representación de las dependencias o entidades paraestatales, para el ejercicio de las atribuciones y funciones previstas en las leyes y demás ordenamientos jurídicos aplicables, observado los lineamientos, disposiciones, directrices y políticas que emita la Secretaría de la Función Pública para su conducción y coordinación, y
+
+IV. Se organizarán y operarán conforme a lo señalado en los artículos 20 y 37, fracción XII Bis, de esta Ley.
+
+A los órganos administrativos desconcentrados que cuenten con Unidades de Administración y Finanzas o áreas que realicen funciones equivalentes se les aplicará la misma norma.
+
+*Artículo adicionado DOF 03-05-2023*
 
 #### Artículo 15.
 
@@ -270,6 +288,12 @@ Las Delegaciones de Programas para el Desarrollo estarán adscritas, jerárquica
 
 *Artículo adicionado DOF 30-11-2018*
 
+#### Artículo 17 Quáter.
+
+Las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales de la Administración Pública Federal, así como las empresas productivas del Estado, proporcionarán los espacios y servicios dentro de sus instalaciones para la ejecución de las actividades de los órganos internos de control y de las unidades de responsabilidades equivalentes, respectivamente, así como a las áreas que les están adscritas.
+
+*Artículo adicionado DOF 03-05-2023*
+
 #### Artículo 18.
 
 En el reglamento interior de cada una de las Secretarías de Estado que será expedido por el Presidente de la República, se determinarán las atribuciones de sus unidades administrativas, así como la forma en que los titulares podrán ser suplidos en sus ausencias.
@@ -284,13 +308,21 @@ El titular de cada Secretaría de Estado expedirá los manuales de organización
 
 #### Artículo 20.
 
-Las dependencias contarán con una Unidad de Administración y Finanzas encargada de ejecutar, en los términos de las disposiciones aplicables, los servicios de apoyo administrativo en materia de planeación, programación, presupuesto, tecnologías de la información, recursos humanos, recursos materiales, contabilidad, archivos, y los demás que sean necesarios, en los términos que fije el Ejecutivo Federal. En los casos de las Secretarías de Hacienda y Crédito Público, de la Defensa Nacional y de Marina dichos servicios se llevarán a cabo por sus respectivas oficialías mayores.
+Las dependencias y las entidades paraestatales de la Administración Pública Federal contarán con una Unidad de Administración y Finanzas o equivalente, encargada de ejecutar, en los términos de las disposiciones aplicables, los servicios de apoyo administrativo en materia de planeación, programación, presupuesto, tecnologías de la información, recursos humanos, recursos materiales, contabilidad, archivos, y los demás que sean necesarios, en los términos que establezca el Ejecutivo Federal. En los casos de las Secretarías de la Defensa Nacional y de Marina, dichos servicios se llevarán a cabo por sus respectivas oficialías mayores.
 
-Para tal efecto, el Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, establecerá, mediante disposiciones de carácter general, el modelo organizacional y de operación de las unidades de administración y finanzas del sector centralizado; esa Secretaría, por conducto de su Oficialía Mayor, coordinará la operación de dichas unidades en los términos de las disposiciones legales y reglamentarias aplicables.
+La persona titular del Ejecutivo Federal, por conducto de la Secretaría de la Función Pública, establecerá mediante disposiciones de carácter general, el modelo organizacional y de operación de las Unidades de Administración y Finanzas de la Administración Pública Centralizada y Paraestatal, el cual deberá ser observado por las dependencias y entidades paraestatales, al momento de emitir o modificar las disposiciones que regulen la organización y operación de las Unidades de Administración y Finanzas o equivalentes. Los movimientos a las estructuras organizacionales y ocupacionales, estarán sujetos a las autorizaciones que emitan las Secretarías de Hacienda y Crédito Público y de la Función Pública, en el ámbito de sus respectivas competencias, conforme a las disposiciones jurídicas aplicables.
 
-La Secretaría de Hacienda y Crédito Público deberá establecer lineamientos y directrices aplicables a las unidades administrativas que realicen las funciones referidas en este artículo en las entidades paraestatales, tales disposiciones serán igualmente aplicables a las delegaciones u oficinas de representación, en los Estados y la Ciudad de México, de las entidades paraestatales.
+La Secretaría de la Función Pública conducirá y coordinará la operación de las Unidades de Administración y Finanzas o equivalentes de las dependencias y de las entidades paraestatales, en los términos de las disposiciones legales y reglamentarias aplicables, y con base en los lineamientos, disposiciones, directrices y políticas que al efecto emita la propia Secretaría.
 
-*Artículo reformado DOF 09-04-2012, 30-11-2018*
+Las personas titulares de las Unidades de Administración y Finanzas o equivalentes nombrarán y removerán, en los términos de las disposiciones jurídicas aplicables, al personal de su adscripción; ello sin perjuicio de lo previsto en el artículo 37, fracción XII Bis, de esta Ley.
+
+Los puestos correspondientes a la titularidad, así como al primer y segundo niveles jerárquicos inmediatos inferiores en las Unidades de Administración y Finanzas o equivalentes en las dependencias y entidades paraestatales serán considerados de designación directa, en términos de las disposiciones aplicables.
+
+A los órganos administrativos desconcentrados que cuenten con Unidades de Administración y Finanzas o áreas que realicen funciones equivalentes se les aplicará la misma norma.
+
+Las disposiciones de este artículo no serán aplicables a las Secretarías de Marina y de la Defensa Nacional, ni a las empresas productivas del Estado, las que se regirán conforme a las disposiciones legales que les sean aplicables.
+
+*Artículo reformado DOF 09-04-2012, 30-11-2018, 03-05-2023*
 
 #### Artículo 21.
 
@@ -526,9 +558,11 @@ II.- Organizar y preparar el servicio militar nacional;
 
 III.- Organizar las reservas del Ejército y de la Fuerza Aérea, e impartirles la instrucción técnica militar correspondiente;
 
-IV.- Manejar el activo del Ejército y la Fuerza Aérea, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana;
+IV.- Manejar el activo del Ejército y la Fuerza Aérea[, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana];
 
 *Fracción reformada DOF 09-09-2022*
+
+Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023 (En la porción normativa “, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana”)
 
 V.- Conceder licencias y retiros, e intervenir en las pensiones de los miembros del Ejército y de la Fuerza Aérea;
 
@@ -537,6 +571,22 @@ VI.- Planear, dirigir y manejar la movilización del país en caso de guerra; fo
 VII.- Construir y preparar las fortificaciones, fortalezas y toda clase de recintos militares para uso del Ejército y de la Fuerza Aérea, así como la administración y conservación de cuarteles y hospitales y demás establecimientos militares;
 
 VIII.- Asesorar militarmente la construcción de toda clase de vías de comunicación terrestres y aéreas;
+
+VIII Bis.- Salvaguardar la soberanía y defender la integridad del territorio nacional, incluyendo su espacio aéreo, en coordinación con la Secretaría de Marina en lo correspondiente a la protección del espacio situado sobre el mar territorial;
+
+*Fracción adicionada DOF 03-05-2023*
+
+VIII Ter.- Establecer acciones para garantizar que las operaciones aéreas en el territorio nacional no se realicen con fines ilícitos o atenten contra la seguridad nacional;
+
+*Fracción adicionada DOF 03-05-2023*
+
+VIII Quáter.- Participar, con la Secretaría de Infraestructura, Comunicaciones y Transportes, en las operaciones de búsqueda y salvamento aéreo, en términos de artículo 80 de la Ley de Aviación Civil;
+
+*Fracción adicionada DOF 03-05-2023*
+
+VIII Quinquies.- Establecer, en coordinación con la Secretaría de Infraestructura, Comunicaciones y Transportes, las zonas de vigilancia y protección del espacio aéreo;
+
+*Fracción adicionada DOF 03-05-2023*
 
 IX.- Manejar los almacenes del Ejército y de la Fuerza Aérea;
 
@@ -880,9 +930,9 @@ XXI. Establecer normas, políticas y lineamientos en materia de desincorporació
 
 *Fracción reformada DOF 28-12-1994, 02-01-2013, 18-07-2016*
 
-XXII. Designar y remover a los titulares de las unidades de administración y finanzas a que se refiere el primer párrafo del artículo 20 de esta ley, quienes serán considerados servidores públicos de la respectiva dependencia. Se exceptúa de lo anterior a la Secretaría de la Defensa Nacional y a la Secretaría de Marina, que contarán con sus respectivas oficialías mayores;
+XXII. Se deroga.
 
-*Fracción derogada DOF 28-12-1994. Adicionada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018*
+*Fracción derogada DOF 28-12-1994. Adicionada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018. Derogada DOF 03-05-2023*
 
 XXIII.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
 
@@ -890,21 +940,21 @@ XXIV. Ejercer el control presupuestario de los servicios personales y establecer
 
 *Fracción derogada DOF 25-05-1992. Adicionada DOF 28-12-1994. Reformada DOF 10-04-2003, 02-01-2013, 18-07-2016*
 
-XXV. Planear, establecer y conducir la política general en materia de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir e interpretar las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en dichas materias; así como promover la homologación de políticas, normas y criterios en materia de contrataciones públicas;
+XXV. Se deroga.
 
-*Fracción reformada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018*
+*Fracción reformada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018. Derogada DOF 03-05-2023*
 
-XXVI. Fungir como área consolidadora de los procedimientos de compra de bienes y contratación de servicios que la propia Secretaría determine;
+XXVI. Fungir como área consolidadora de los procedimientos de contratación de seguros en favor de las personas servidoras públicas de las dependencias. Las entidades paraestatales, así como los Poderes Legislativo y Judicial, y los entes autónomos sin perjuicio de su autonomía, podrán solicitar su incorporación a las contrataciones que se realicen para las dependencias, siempre y cuando no impliquen dualidad de beneficios para las personas servidoras públicas;
 
-*Fracción adicionada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018*
+*Fracción adicionada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018. Reformada DOF 03-05-2023*
 
-XXVII. Establecer normas y lineamientos en materia de control presupuestario; así como ejercer el control presupuestario de las contrataciones públicas consolidadas a través de la Oficialía Mayor;
+XXVII. Establecer normas y lineamientos en materia de control presupuestario;
 
-*Fracción adicionada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018*
+*Fracción adicionada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018. Reformada DOF 03-05-2023*
 
-XXVIII. Participar en las negociaciones comerciales internacionales relacionadas con los capítulos de compras del sector público y coordinar compras estratégicas del mismo que generen beneficios al país; elaborar disposiciones que promuevan la participación de la proveeduría nacional en las compras de dicho sector, así como asesorar a las dependencias y entidades de la Administración Pública Federal sobre el cumplimiento de la normativa en esa materia;
+XXVIII. Se deroga.
 
-*Fracción adicionada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018*
+*Fracción adicionada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018. Derogada DOF 03-05-2023*
 
 XXIX. Conducir la política inmobiliaria de la Administración Pública Federal, salvo por lo que se refiere a las playas, zona federal marítimo terrestre, terrenos ganados al mar o cualquier depósito de aguas marítimas y demás zonas federales; administrar los inmuebles de propiedad federal cuando no estén asignados a alguna dependencia o entidad, así como llevar el registro público de la propiedad inmobiliaria federal y el inventario general correspondiente;
 
@@ -1638,11 +1688,13 @@ II. Expedir las normas que regulen los instrumentos y procedimientos de control 
 
 *Fracción reformada DOF 30-11-2018*
 
-III. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Nacional Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Federal;
+III. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Nacional Anticorrupción, el cumplimiento de las normas de control interno y fiscalización;
 
-IV. Coordinar y supervisar el sistema de control interno; establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Federal, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
+*Fracción reformada DOF 03-05-2023*
 
-*Fracción reformada DOF 30-11-2018*
+IV. Coordinar y supervisar el sistema de control interno; establecer las bases generales para la fiscalización y realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales de la Administración Pública Federal, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
+
+*Fracción reformada DOF 30-11-2018, 03-05-2023*
 
 V. Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Federal, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda y patrimonio;
 
@@ -1656,9 +1708,9 @@ VI. Organizar y coordinar el desarrollo administrativo integral en las dependenc
 
 VII. Conducir las políticas, establecer las normas y emitir las autorizaciones y criterios correspondientes en materia de planeación y administración de recursos humanos, contratación del personal, Servicio Profesional de Carrera en la Administración Pública Federal, estructuras orgánicas y ocupacionales, de conformidad con las respectivas normas de control de gasto en materia de servicios personales;
 
-VIII. Realizar, por sí o a solicitud de la Secretaría de Hacienda y Crédito Público o la coordinadora de sector correspondiente, auditorías y revisiones a las dependencias y entidades de la Administración Pública Federal, con el objeto de examinar, fiscalizar y promover la eficacia, eficiencia, economía y legalidad en su gestión y encargo;
+VIII. Realizar, a través de sus unidades administrativas o de los órganos internos de control actos de fiscalización a las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales de la Administración Pública Federal, con el objeto de examinar, fiscalizar y promover la eficacia, eficiencia, economía y legalidad en su gestión y encargo. Esos actos, además, podrán ser solicitados por la Secretaría de Hacienda y Crédito Público en relación con los del ámbito de su competencia, o por la coordinadora de sector correspondiente, cuya orden de ejecución quedará a criterio de la Secretaría de la Función Pública;
 
-*Fracción reformada DOF 30-11-2018*
+*Fracción reformada DOF 30-11-2018, 03-05-2023*
 
 IX. Fiscalizar directamente o a través de los órganos internos de control, que las dependencias y entidades de la Administración Pública Federal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Federal;
 
@@ -1670,9 +1722,21 @@ XI. Designar y remover, para el mejor desarrollo del sistema de control y evalua
 
 *Fracción reformada DOF 30-11-2018*
 
-XII. Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Federal, así como de las unidades administrativas equivalentes en las empresas productivas del Estado, quienes dependerán jerárquica, funcional y presupuestalmente de la Secretaría de la Función Pública, asimismo, designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control, quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando al titular de dicha Secretaría;
+XI Bis. Crear, asignar, distribuir, dirigir, coordinar y extinguir los órganos internos de control en las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales, así como unidades de responsabilidades o equivalentes en las empresas productivas del Estado, por sector, materia, especialidad, función específica o ente público, conforme a las disposiciones de carácter general que al efecto emita la persona titular de la Secretaría.
 
-*Fracción reformada DOF 30-11-2018*
+Lo anterior, con el propósito de que las atribuciones que señala la Constitución y las leyes se realicen de manera oportuna, eficaz y eficiente en las dependencias, órganos administrativos desconcentrados y entidades paraestatales, así como en las empresas productivas del Estado.
+
+El Reglamento Interior de la Secretaría de la Función Pública establecerá la estructura y organización de los órganos internos de control, así como de las unidades de responsabilidades o equivalentes en las empresas productivas del Estado. Dicha estructura y organización se podrá ampliar, modificar o extinguir mediante las disposiciones de carácter general que emita la persona titular de la Secretaría conforme a las necesidades del servicio. Las modificaciones de las estructuras organizacionales y ocupacionales estarán sujetas a las autorizaciones que emitan las Secretarías de Hacienda y Crédito Público y de la Función Pública, en el ámbito de sus respectivas competencias;
+
+*Fracción adicionada DOF 03-05-2023*
+
+XII. Nombrar y remover a las personas titulares de los órganos internos de control en las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales, así como de las unidades de responsabilidades o equivalentes en las empresas productivas del Estado, los cuales en las dependencias, incluyendo sus órganos administrativos desconcentrados dependerán jerárquica, funcional y presupuestalmente de la Secretaría de la Función Pública; y en las entidades paraestatales y empresas productivas del Estado dependerán jerárquica y funcionalmente de dicha Secretaría. Asimismo, nombrar y remover a las personas titulares de las áreas adscritas a los órganos internos de control en las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales, así como de las unidades de responsabilidades o equivalentes en las empresas productivas del Estado, quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando a la persona titular de dicha Secretaría;
+
+*Fracción reformada DOF 30-11-2018, 03-05-2023*
+
+XII Bis. Nombrar y remover a las personas titulares de las Unidades de Administración y Finanzas o equivalentes, de las dependencias y sus órganos administrativos desconcentrados de la Administración Pública Federal, así como, en su caso, a las personas servidoras públicas de los dos niveles jerárquicos inmediatos inferiores adscritas a dichas unidades, quienes serán consideradas servidoras públicas de la respectiva dependencia y de su órgano administrativo desconcentrado en términos del artículo 14 Bis de esta Ley, con excepción de las Secretarías de la Defensa Nacional y de Marina, que contarán con sus respectivas oficialías mayores, así como de las empresas productivas del Estado. Asimismo, proponer al órgano de gobierno de las entidades paraestatales de la Administración Pública Federal, el nombramiento y solicitar la remoción de sus titulares de las Unidades de Administración y Finanzas o equivalentes;
+
+*Fracción adicionada DOF 03-05-2023*
 
 XIII. Colaborar en el marco del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
 
@@ -1688,7 +1752,9 @@ XVII. Atender las quejas que presenten los particulares con motivo de convenios 
 
 *Fracción reformada DOF 30-11-2018*
 
-XVIII. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Federal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Federal; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal Federal de Justicia Administrativa y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+XVIII. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Federal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas, por sí, o por conducto de los órganos internos de control o las unidades de responsabilidades o equivalentes en las empresas productivas del Estado. Para ello, podrán aplicar las sanciones por faltas administrativas no graves. Cuando se trate de faltas administrativas graves, podrán ejercer la acción de responsabilidad ante el Tribunal Federal de Justicia Administrativa, así como presentar las denuncias correspondientes ante la Fiscalía Especializada en materia de Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+*Fracción reformada DOF 03-05-2023*
 
 XIX. Establecer mecanismos internos para la Administración Pública Federal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
 
@@ -1696,9 +1762,21 @@ XX. Aprobar y registrar las estructuras orgánicas y ocupacionales de las depend
 
 *Fracción reformada DOF 30-11-2018*
 
-XXI. Conducir y aplicar la política de control interno, prevención, vigilancia, inspección y revisión de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas; emitir e interpretar las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de control interno, prevención, vigilancia, inspección y revisión de dichas contrataciones; proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes, con excepción de las empresas productivas del Estado;
+XXI. Establecer, conducir y aplicar la política general de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, con el fin de mejorar las condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir e interpretar las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en dichas materias, y proporcionar, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las leyes mencionadas, con excepción de las empresas productivas del Estado;
 
-*Fracción reformada DOF 30-11-2018*
+*Fracción reformada DOF 30-11-2018, 03-05-2023*
+
+XXI Bis. Fungir como área consolidadora de los procedimientos de compra de bienes y contratación de servicios que la propia Secretaría determine, con excepción de las contrataciones que se le atribuyan a otras dependencias o entidades paraestatales en términos de las disposiciones jurídicas aplicables.
+
+Para ello, deberá establecer los bienes, arrendamientos o servicios de uso generalizado que, en forma consolidada, deberán adquirir, arrendar o contratar las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales, y en su caso, determinar el ente público que fungirá como área consolidadora. Para tales efectos, realizará el seguimiento y coordinación de los actos de planeación, investigación de mercado y procedimientos de contratación.
+
+De igual forma, deberá requerir a las dependencias, incluyendo sus órganos administrativos desconcentrados y entidades paraestatales, en su carácter de ejecutores de gasto, la información sobre las contrataciones públicas consolidadas que realicen.
+
+*Fracción adicionada DOF 03-05-2023*
+
+XXI Ter. Participar en las negociaciones comerciales internacionales relacionadas con los capítulos de compras del sector público, y coordinar compras estratégicas del mismo que generen beneficios al país; elaborar disposiciones que promuevan la participación de la proveeduría nacional en las compras de dicho sector, así como asesorar a las dependencias, órganos administrativos desconcentrados y entidades paraestatales de la Administración Pública Federal sobre el cumplimiento de la normativa en esa materia;
+
+*Fracción adicionada DOF 03-05-2023*
 
 XXII. Vigilar la aplicación de las políticas de gobierno digital, y definir las de gobierno abierto y datos abiertos de la Administración Pública Federal, en términos de las disposiciones aplicables;
 
@@ -1706,9 +1784,9 @@ XXII. Vigilar la aplicación de las políticas de gobierno digital, y definir la
 
 XXIII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Nacional Anticorrupción, la política general de la Administración Pública Federal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
 
-XXIV. Ejercer las facultades que la Constitución le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos federales;
+XXIV. Ejercer las facultades que la Constitución Política de los Estados Unidos Mexicanos otorga a los órganos internos de control para fiscalizar, mediante las auditorías a que se refiere el presente artículo y demás actos de fiscalización, el ingreso, el manejo, la custodia y el ejercicio de recursos públicos federales;
 
-*Fracción reformada DOF 30-11-2018*
+*Fracción reformada DOF 30-11-2018, 03-05-2023*
 
 XXV. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Nacional Anticorrupción, en materia de combate a la corrupción en la Administración Pública Federal;
 
@@ -2332,21 +2410,39 @@ La Administración Pública Centralizada contará con Órganos Reguladores Coord
 
 Los Órganos Reguladores Coordinados en Materia Energética se regirán por las disposiciones aplicables a la Administración Pública Centralizada y el régimen especial que, en su caso, prevea la ley que los regula.
 
+Los Órganos Reguladores Coordinados en Materia Energética contarán con Unidades de Administración y Finanzas, las cuales se organizarán y operarán conforme a lo señalado en los artículos 14 Bis, 20 y 37, fracción XII Bis, de esta Ley.
+
+*Párrafo adicionado DOF 03-05-2023*
+
 *Artículo adicionado DOF 11-08-2014*
 
 #### Artículo 44.
 
-Los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Federal y de sus áreas de auditoría, quejas y responsabilidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos. Los órganos internos de control de las sociedades nacionales de crédito, así como aquéllos de otras entidades que cuenten con un régimen específico de control interno, se sujetarán a las funciones y organización establecidas en las disposiciones mediante las que se crea la respectiva entidad.
+Las personas titulares de los órganos internos de control en las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales, así como de las unidades de responsabilidades o equivalentes en las empresas productivas del Estado, y las áreas que les estén adscritas conforme al Reglamento Interior de la Secretaría de la Función Pública, serán responsables de la fiscalización, control interno, evaluación de la gestión pública, aplicación del régimen de responsabilidades administrativas y demás facultades en términos de las leyes y disposiciones jurídicas aplicables.
 
-Los órganos internos de control, en ejercicio de su función de auditoría, prevista en la fracción XXIV del artículo 37 de esta Ley, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Nacional Anticorrupción y la Secretaría de la Función Pública respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Federal y presentación de informes por parte de dichos órganos.
+*Párrafo reformado DOF 03-05-2023*
 
-Las unidades encargadas de la función de auditoría de la Secretaría de la Función Pública y los órganos internos de control de la Administración Pública Federal formarán parte del Sistema Nacional de Fiscalización e incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción y las mejores prácticas que considere el referido sistema.
+Las atribuciones señaladas se ejercerán respecto de las dependencias, incluyendo sus órganos administrativos desconcentrados, entidades paraestatales o empresas productivas del Estado, y a las personas servidoras públicas que les estén adscritas presupuestal y estructuralmente conforme a la competencia señalada en las disposiciones jurídicas aplicables para los órganos internos de control, ya sea por sector, materia, especialidad, función específica o ente público.
+
+*Párrafo adicionado DOF 03-05-2023*
+
+Los órganos internos de control, en ejercicio de su función de fiscalización, prevista en la fracción XXIV del artículo 37 de esta Ley, se regirán por las leyes y disposiciones jurídicas sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y materias afines. Asimismo, se conducirán conforme a las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Nacional Anticorrupción y la Secretaría de la Función Pública respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales de la Administración Pública Federal y presentación de informes por parte de dichos órganos.
+
+*Párrafo reformado DOF 03-05-2023*
+
+Las unidades encargadas de la función de fiscalización de la Secretaría de la Función Pública y los órganos internos de control formarán parte del Sistema Nacional de Fiscalización e incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción y las mejores prácticas que considere el referido sistema.
+
+*Párrafo reformado DOF 03-05-2023*
 
 Las unidades a que se refiere el párrafo anterior y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
 
-Los titulares de las unidades encargadas de la función de auditoría de la Secretaría de la Función Pública y de los órganos internos de control, en los meses de mayo y noviembre entregarán informes al titular de dicha Secretaría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal Federal de Justicia Administrativa y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+Las personas titulares de las unidades encargadas de la función de fiscalización de la Secretaría de la Función Pública y de los órganos internos de control, entregarán, en enero de cada año, un informe del resultado de la fiscalización del año inmediato anterior a la persona titular de dicha Secretaría. El informe contendrá lo siguiente: el resumen de los resultados de la fiscalización y los hallazgos detectados, las recomendaciones preventivas y al desempeño; las observaciones correctivas; las promociones de responsabilidades administrativas sancionatorias y las promociones del ejercicio de la facultad de comprobación fiscal; las denuncias de hechos, así como las sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal Federal de Justicia Administrativa y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Materia de Combate a la Corrupción, y la información detallada del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
 
-Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Nacional Anticorrupción, tanto las dependencias y entidades, así como la Secretaría de la Función Pública, implementarán las acciones pertinentes para mejora de la gestión.
+*Párrafo reformado DOF 03-05-2023*
+
+Con base en dicho informe, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Nacional Anticorrupción, tanto las dependencias y entidades paraestatales, así como la Secretaría de la Función Pública, implementarán las acciones pertinentes para la mejora de la gestión.
+
+*Párrafo reformado DOF 03-05-2023*
 
 Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
 
@@ -4370,13 +4466,15 @@ Al personal naval reclutado para conformar la Guardia Nacional se le cancelará 
 
 En todo caso, al personal a que se refiere esta disposición le serán respetados su antigüedad, derechos y beneficios adquiridos.
 
-**Tercero.-** En tanto no exista personal con formación de Guardia Nacional con grado de Comisario General en activo, la persona titular de la Comandancia de la Guardia Nacional será designada por la persona titular de la Presidencia de la República a propuesta de la persona titular de la Secretaría de la Defensa Nacional.
+**Tercero.-** [En tanto no exista personal con formación de Guardia Nacional con grado de Comisario General en activo, la persona titular de la Comandancia de la Guardia Nacional será designada por la persona titular de la Presidencia de la República a propuesta de la persona titular de la Secretaría de la Defensa Nacional.]
+
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023
 
 **Cuarto.-** El personal militar que actualmente integra la Guardia Nacional continuará en esa situación bajo el mando de la persona Comandante de dicha institución de seguridad pública.
 
 **Quinto.-** La Secretaría de Marina transferirá a la Secretaría de la Defensa Nacional los recursos financieros y presupuestarios que correspondan en el presente ejercicio fiscal para cubrir las erogaciones por concepto de servicios personales respecto del personal naval que se transfiera a la Guardia Nacional, conforme a lo señalado en los párrafos primero y segundo del transitorio segundo del presente Decreto.
 
-**Sexto.-** La Secretaría de Seguridad y Protección Ciudadana:
+**Sexto.-** [La Secretaría de Seguridad y Protección Ciudadana:
 
 I. Coordinará con la Secretaría de la Defensa Nacional la homologación del adiestramiento especializado, considerando la Estrategia Nacional de Seguridad Pública;
 
@@ -4384,15 +4482,19 @@ II. Transferirá a la Secretaría de la Defensa Nacional, dentro de un plazo de 
 
 III. Dispondrá que el personal procedente de la extinta Policía Federal cese de prestar sus servicios en la Guardia Nacional, por lo que seguirá bajo su adscripción, conservando sus derechos laborales adquiridos. El personal que pertenezca a los organismos especializados de la Guardia Nacional continuará prestando sus servicios en dicha institución de seguridad pública de manera temporal, conforme a los convenios de colaboración que para tal efecto se formalicen entre las Secretarías de Defensa Nacional y del ramo de seguridad pública, y
 
-IV. Relevará gradualmente al personal que integra la Coordinación de Administración y Finanzas de la Guardia Nacional, por aquél que proponga la persona Comandante de esa institución. El personal relevado mantendrá su adscripción a la propia dependencia.
+IV. Relevará gradualmente al personal que integra la Coordinación de Administración y Finanzas de la Guardia Nacional, por aquél que proponga la persona Comandante de esa institución. El personal relevado mantendrá su adscripción a la propia dependencia.]
 
-**Séptimo.-** La Secretaría de Hacienda y Crédito Público en uso de sus atribuciones:
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023
+
+**Séptimo.-** [La Secretaría de Hacienda y Crédito Público en uso de sus atribuciones:
 
 I. Observará lo señalado en el tercero transitorio del Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2022, para dar cumplimiento a lo previsto en el presente Decreto;
 
 II. Realizará las acciones que correspondan para que la Secretaría de la Defensa Nacional cuente con los recursos presupuestarios para cubrir las vacantes a que se refiere la fracción II del artículo sexto transitorio del presente Decreto.
 
-Conforme el personal naval sea reasignado a la Secretaría de Marina en términos del segundo transitorio del presente Decreto, la Secretaría de la Defensa Nacional solicitará a la Secretaría de Hacienda y Crédito Público que realice las acciones necesarias, en términos de las disposiciones jurídicas aplicables, para contar con los recursos presupuestarios y las plazas correspondientes para dar cumplimiento con lo establecido en el presente Decreto.
+Conforme el personal naval sea reasignado a la Secretaría de Marina en términos del segundo transitorio del presente Decreto, la Secretaría de la Defensa Nacional solicitará a la Secretaría de Hacienda y Crédito Público que realice las acciones necesarias, en términos de las disposiciones jurídicas aplicables, para contar con los recursos presupuestarios y las plazas correspondientes para dar cumplimiento con lo establecido en el presente Decreto.]
+
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023
 
 **Octavo.-** Las Secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina son responsables de la instrumentación del presente Decreto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados de la Secretaría de la Defensa Nacional, de la Secretaría de Marina y de la Secretaría de Seguridad y Protección Ciudadana para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos, lo anterior, con independencia de lo señalado en los transitorios quinto y sexto, fracción II, del presente Decreto.
 
@@ -4401,3 +4503,147 @@ Conforme el personal naval sea reasignado a la Secretaría de Marina en término
 Ciudad de México, a 8 de septiembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de septiembre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 137/2022, promovida por senadoras y senadores de la LXV Legislatura del Congreso de la Unión.
+
+Notificados al Congreso de la Unión para efectos legales el 25 de abril de 2023
+
+Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
+
+SECRETARÍA GENERAL DE ACUERDOS
+
+OFICIO NÚM. SGA/HMS/149/2023
+
+SEÑOR LICENCIADO EDUARDO ARANDA MARTÍNEZ
+
+SECRETARIO DE LA SECCIÓN DE TRÁMITE DE
+
+CONTROVERSIAS CONSTITUCIONALES Y DE
+
+ACCIONES DE INCONSTITUCIONALIDAD DE LA
+
+SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
+
+P R E S E N T E
+
+El Tribunal Pleno, en su sesión celebrada el veinte de abril de dos mil veintitrés, resolvió la acción de inconstitucionalidad 137/2022, promovida por senadoras y senadores de la LXV Legislatura del Congreso de la Unión, en los términos siguientes:
+
+“PRIMERO. Es parcialmente procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+
+**SEGUNDO.** Se sobresee en la presente acción de inconstitucionalidad respecto de los artículos 30 Bis, fracción XXVII de la Ley Orgánica de la Administración Pública Federal; 7, fracciones VII y VIII, 15, fracción XVII, 34, fracciones I y III, numerales b) y c), de la Ley de la Guardia Nacional; y, 138, fracciones V y VI y 170, fracción II, apartados F y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós, en términos del apartado VI de esta decisión.
+
+**TERCERO.** Se reconoce la validez de los artículos 29, fracciones IV, en su porción normativa “Manejar el activo del Ejército y la Fuerza Aérea”, y XVI, así como 30 Bis, fracciones I, II, III, XXV y XXVI, de la Ley Orgánica de la Administración Pública Federal; 7, fracción IX, 12, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 13, 13 Bis, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 14, párrafo primero, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia- y fracción III, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 15, fracciones II, IV, V, VI VII, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, VIII, VIII Bis, XII, XV y XVI, 17, párrafo tercero, 18, párrafo cuarto, 19, fracción I, 21, fracciones III y VII, 22, párrafo primero, 23, párrafo segundo, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 25, fracción IX, 26, fracciones V, VI, VII y VIII, 32 Bis, 34, fracción III, inciso d), 39, fracción III y 86, párrafo segundo, de la Ley de la Guardia Nacional; y, 2 Bis de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós; así como de los artículos transitorios primero, segundo, cuarto, quinto, octavo y noveno del referido Decreto, conforme a lo sostenido en el apartado VII de esta ejecutoria.
+
+**CUARTO.** Se declara la invalidez de los artículos 29, fracción IV, en su porción normativa “, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana”, de la Ley Orgánica de la Administración Pública Federal; 12, fracción I, en su porción normativa “de la Defensa Nacional”, 13 Bis, en su porción normativa “de la Defensa Nacional”, 14, párrafo primero, en su porción normativa “a propuesta de la persona titular de la Secretaría de la Defensa Nacional”, y fracción III, en su porción normativa “grado jerárquico de Comisario General y”, 15, fracción VII, en su porción normativa “de la Defensa Nacional”, 23, párrafo segundo, en su porción normativa “de la Defensa Nacional”, y 57, párrafo segundo, de la Ley de la Guardia Nacional; 138, fracción VII y 170, fracción II, apartado H, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; y, 1º, párrafo segundo, de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós; así como de los artículos transitorios tercero, sexto y séptimo del referido Decreto, de conformidad con su apartado VII.
+
+**QUINTO.** La declaratoria de invalidez decretada surtirá sus efectos al primero de enero de dos mil veinticuatro, en términos del apartado VIII de esta decisión.
+
+**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.”
+
+Cabe señalar que el Tribunal Pleno determinó que se notifiquen los puntos resolutivos al Congreso de la Unión y, al Titular del Poder Ejecutivo Federal, por conducto de la Secretaría de Seguridad y Protección Ciudadana, la Secretaría de la Defensa Nacional y la Secretaría de Hacienda y Crédito Público, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación.
+
+Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión privada celebrada el doce de abril de dos mil diez, le solicito que remita a esta Secretaría General de Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
+
+Atentamente
+
+Ciudad de México; 20 de abril de 2023
+
+LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
+
+Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el martes 25 de abril de 2023 a las 11:11 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
+
+### DECRETO por el que se reforman, adicionan y derogan diversos artículos de la Ley Orgánica de la Administración Pública Federal, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, de la Ley de Aeropuertos y de la Ley de Aviación Civil, en Materia de Protección del Espacio Aéreo Mexicano.
+
+*Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023*
+
+**Artículo Primero.-** Se adicionan las fracciones VIII Bis, VIII Ter, VIII Quáter y VIII Quinquies al artículo 29 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+…….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+**Tercero.** Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+**Cuarto.** A partir de la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, que se realice al personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, se entenderán hechas al personal “De Estado Mayor”.
+
+**Quinto.** A la entrada en vigor del presente Decreto, la designación del personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, será reconocida plenamente en igualdad de circunstancias que el “De Estado Mayor”.
+
+**Sexto.** Los documentos expedidos al personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, mantendrán su validez y vigencia, por lo que no será necesaria su reexpedición como “De Estado Mayor”.
+
+**Séptimo.** A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto del Cuartel General Superior del Ejército y Fuerza Aérea, del Estado Mayor Aéreo, del Servicio de Control de Vuelo y del Servicio de Material Aéreo, se entenderán referidas al Cuartel General Superior Conjunto del Ejército y Fuerza Aérea, al Estado Mayor de la Fuerza Aérea, al Servicio de Defensa Aérea y al Servicio de Mantenimiento de Material Aéreo, respectivamente.
+
+Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.
+
+*Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023*
+
+**Artículo Único.-** Se reforman los artículos 14; 20; 31, fracciones XXVI y XXVII; 37, fracciones III, IV, VIII, XII, XVIII, XXI y XXIV, y 44, párrafos primero, segundo, tercero, quinto y sexto; se adicionan los artículos 14 Bis; 17 Quáter; 37, con las fracciones XI Bis, XII Bis, XXI Bis y XXI Ter; 43 Ter, con un párrafo tercero y 44, segundo párrafo, recorriéndose los subsecuentes en su orden, y se deroga el artículo 31, fracciones XXII, XXV y XXVIII, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+**Tercero.-** La persona titular del Ejecutivo Federal deberá expedir las adecuaciones correspondientes a los reglamentos interiores de la Secretaría de la Función Pública y de las dependencias y órganos administrativos desconcentrados en un plazo no mayor de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+Dentro del mismo plazo, las entidades paraestatales, respecto de las Unidades de Administración y Finanzas o equivalentes, deberán, en su caso, actualizar a través de sus órganos de gobierno, sus estatutos orgánicos o normatividad equivalente.
+
+Las entidades paraestatales llevarán a cabo las adecuaciones a su marco normativo respecto a la reorganización y redistribución de funciones de los órganos internos de control, una vez publicadas las reformas al Reglamento Interior de la Secretaría de la Función Pública, así como las disposiciones de carácter general que se emitan por parte de la persona titular de la Secretaría, dentro de los plazos que en éstos ordenamientos se determinen.
+
+La persona titular de la Secretaría de la Función Pública podrá establecer disposiciones de carácter general para la implementación de las atribuciones que en virtud del presente Decreto se modifican y adicionan.
+
+En estos ordenamientos se establecerán las disposiciones transitorias conducentes para la conclusión de los asuntos que se encuentran en trámite, así como, en su caso, la transferencia y reorganización de los recursos humanos, materiales y financieros, en términos de las disposiciones jurídicas aplicables.
+
+**Cuarto.-** Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Hacienda y Crédito Público, y en general, todos aquellos recursos necesarios para la ejecución de las atribuciones que por virtud de este Decreto se transfieren a la Secretaría de la Función Pública, se realizará a más tardar en 180 días hábiles a partir de su entrada en vigor.
+
+Las Secretarías de Hacienda y Crédito Público y de la Función Pública por conducto de sus Unidades de Administración y Finanzas, serán responsables del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que, en su caso, proveerán y acordarán lo necesario para tal efecto.
+
+**Quinto.-** Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pase de una dependencia a otra se respetarán conforme a la ley.
+
+En el caso de las Unidades de Administración y Finanzas o equivalentes la relación laboral de su personal no se modifica respecto a las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales en las que están adscritos jerárquica, estructural y presupuestalmente, las cuales deberán cumplir con las obligaciones y prestaciones que permitan la conservación de sus derechos laborales en términos de la legislación en la materia.
+
+**Sexto.-** Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías de Estado cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias que adquieren tales funciones.
+
+**Séptimo.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas aplicables.
+
+**Octavo.-** Los nombramientos o designaciones de las personas servidoras públicas a que se refiere el artículo 20 que se reforma por virtud del presente Decreto, que hayan sido emitidos antes de su entrada en vigor, continuarán vigentes y surtiendo sus efectos jurídicos en apego a las disposiciones jurídicas vigentes al momento de su emisión.
+
+Lo anterior, sin perjuicio de que la Secretaría de la Función Pública pueda ejercer la facultad de remoción de dichos servidores públicos en términos de las disposiciones jurídicas aplicables, o en su caso, asumir la facultad de separación conforme al procedimiento previsto en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, en sustitución de la persona titular de la dependencia u órgano administrativo desconcentrado, para aquellas personas servidoras públicas que formen parte del sistema del servicio profesional de carrera.
+
+**Noveno.-** Las facultades con que cuentan las unidades administrativas de las dependencias que por virtud del presente Decreto se modifican continuarán vigentes en términos de los reglamentos interiores que las rigen hasta que sean publicadas sus reformas, o bien en términos de las disposiciones que se hubieren emitido para ello, hasta que no sean modificadas o derogadas por la dependencia que asuma las funciones correspondientes.
+
+**Décimo.-** Las entidades paraestatales y las empresas productivas del Estado continuarán apoyando con cargo a su presupuesto con los recursos humanos, materiales y financieros a la Secretaría de la Función Pública, y cuando con motivo de la organización y redistribución de funciones, los órganos internos de control y las unidades de responsabilidades o equivalentes en las empresas productivas del Estado, se extingan en su ente público y cuyas facultades sean asumidas por el nuevo órgano interno de control o unidad administrativa correspondiente. En este caso, las entidades paraestatales y las empresas productivas del Estado deberán proporcionar dichos recursos para su redistribución y organización en los términos que determine dicha Secretaria, sin perjuicio de que proporcionen recursos adicionales cuando se requiera por la citada dependencia para el ejercicio de las atribuciones que le corresponden.
+
+Las personas titulares de las Unidades de Administración y Finanzas o equivalentes serán coordinadoras de las acciones a que se refiere el párrafo anterior, por lo que proveerán y acordarán lo necesario para darle cumplimiento.
+
+El pago de convenios, laudos y sentencias ejecutoriadas, es responsabilidad de las dependencias, incluyendo sus órganos administrativos desconcentrados, entidades paraestatales y empresas productivas del Estado que ejerzan la partida presupuestal respecto de las personas servidoras públicas que hayan sido removidas o solicitado su remoción por la Secretaría de la Función Pública en ejercicio de las atribuciones conferidas en la presente reforma.
+
+**Décimo Primero.-** Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de los órganos internos de control de las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales, así como de las unidades de responsabilidades o equivalentes en las empresas productivas del Estado, cuyas funciones se asuman por los órganos internos de control o unidad administrativa que al efecto se establezcan ya sea por sector, materia, especialidad, función específica, ente público, o cualquier combinación de ellas, se entenderán referidas a estos últimos que respectivamente, adquieren tales funciones.
+
+**Décimo Segundo.-** Las facultades y competencias con que cuentan los órganos internos de control de las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales de la Administración Pública Federal, así como las unidades de responsabilidades o equivalentes en las empresas productivas del Estado, continuarán vigentes en términos del reglamento interior y demás disposiciones que los rigen, hasta en tanto se emitan los nuevos ordenamientos que por virtud del presente Decreto modifiquen su organización.
+
+**Décimo Tercero.-** Los instrumentos jurídicos celebrados por la Secretaría de Hacienda y Crédito Público, por conducto de la Oficialía Mayor, en las materias o atribuciones que por virtud del presente Decreto se modifican, seguirán vigentes y surtiendo sus efectos, sin perjuicio de que la Secretaría de la Función Pública determine que estos instrumentos queden a cargo de otras dependencias con competencia para ello con el fin de garantizar su continuidad. En estos supuestos, se celebrarán los convenios modificatorios o, en su caso, los nuevos contratos por las dependencias u órganos administrativos desconcentrados competentes para su ejecución. Dichas autoridades asumirán los derechos y obligaciones respectivos.
+
+En el caso de los instrumentos jurídicos celebrados por la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público, que se encuentren relacionados con las atribuciones que son transferidas a la Secretaría de la Función Pública por virtud del presente Decreto, se entenderá que ésta sustituye a la Oficialía Mayor como otorgante y obligada conforme a los términos contractuales estipulados, sin perjuicio de lo previsto en el párrafo que antecede.
+
+**Décimo Cuarto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+**Décimo Quinto.-** La defensa legal ante autoridades administrativas o jurisdiccionales de los actos administrativos y jurídicos que emitan las Unidades de Administración y Finanzas, así como de los juicios o procedimientos de cualquier naturaleza, se llevará a cabo por las unidades jurídicas o equivalentes de la dependencia, incluyendo sus órganos administrativos desconcentrados, o entidad paraestatal a la que se encuentren jerárquica, orgánica y presupuestalmente adscritos.
+
+Los juicios en materia laboral y administrativa en que se condene al cumplimiento de las prestaciones reclamadas a la Secretaría de la Función Pública respecto de las personas servidoras públicas o ex servidoras públicas de las Unidades de Administración y Finanzas nombrados o removidos por esta última, deberán ser cumplidas y pagadas con cargo al presupuesto de la dependencia, órgano administrativo desconcentrado, o entidad paraestatal a la que se encontraba adscrita la parte actora, no obstante que en el laudo o sentencia hubiesen sido absueltos o no llamados a juicio, para tal efecto deberán registrarlo dentro su pasivo contingente.
+
+**Décimo Sexto.-** Las Unidades de Administración y Finanzas o equivalentes, en lo que no se oponga al presente Decreto, conservarán las facultades operativas de acuerdo con las leyes y ordenamientos que rigen a las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales, y las directrices que para su coordinación y conducción establezca la Secretaría de la Función Pública.
+
+Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
