@@ -3,12 +3,12 @@ title: Ley de Aguas Nacionales
 abbreviation: LAN
 slug: lan
 published_dof: 1992-12-01
-last_reform_dof: 2022-05-11
-articles: 193
+last_reform_dof: 2023-05-08
+articles: 198
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc
-archived: https://web.archive.org/web/20230204224819/https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc
-source_sha256: 6d9bb71ede982fff258390a7d1e2dfcb6b1050b5bad7b9ae567daca5aea283d4
-retrieved: 2023-02-04
+archived: https://web.archive.org/web/20230602094020/https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc
+source_sha256: 75cf7f91f9a1d15160e7816a06e690cbe7d0018f103c318df0232593d2850cc7
+retrieved: 2023-06-02
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lan.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de diciembre d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 11-05-2022
+Última reforma publicada DOF 08-05-2023
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -57,6 +57,10 @@ I. "Aguas Nacionales": Son aquellas referidas en el Párrafo Quinto del Artícul
 II. "Acuífero": Cualquier formación geológica o conjunto de formaciones geológicas hidráulicamente conectados entre sí, por las que circulan o se almacenan aguas del subsuelo que pueden ser extraídas para su explotación, uso o aprovechamiento y cuyos límites laterales y verticales se definen convencionalmente para fines de evaluación, manejo y administración de las aguas nacionales del subsuelo;
 
 III. "Aguas claras" o "Aguas de primer uso": Aquellas provenientes de distintas fuentes naturales y de almacenamientos artificiales que no han sido objeto de uso previo alguno;
+
+III BIS. “Aguas de Laboreo”: Aquéllas del subsuelo que necesariamente deban extraerse para permitir la realización de obras y trabajos de exploración y explotación minera.
+
+*Fracción adicionada DOF 08-05-2023*
 
 IV. "Aguas del subsuelo": Aquellas aguas nacionales existentes debajo de la superficie terrestre;
 
@@ -190,6 +194,10 @@ LVII. “Uso en Acuacultura”: El aprovechamiento de paso de aguas nacionales e
 
 *Fracción reformada DOF 24-03-2016*
 
+LVII BIS. “Uso industrial en la minería”: El aprovechamiento, explotación o uso de aguas nacionales, incluyendo las aguas de laboreo, en la exploración, explotación o beneficio de minerales y sustancias reservadas a la Federación en los términos de la Ley de Minería, se considera un tipo de uso industrial;
+
+*Fracción adicionada DOF 08-05-2023*
+
 LVIII. "Uso industrial": La aplicación de aguas nacionales en fábricas o empresas que realicen la extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como el agua que se utiliza en parques industriales, calderas, dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aun en estado de vapor, que sea usada para la generación de energía eléctrica o para cualquier otro uso o aprovechamiento de transformación;
 
 LIX. "Uso Pecuario": La aplicación de aguas nacionales para la cría y engorda de ganado, aves de corral y otros animales, y su preparación para la primera enajenación siempre que no comprendan la transformación industrial; no incluye el riego de pastizales;
@@ -223,6 +231,14 @@ Para los efectos de esta Ley, son aplicables las definiciones contenidas en el A
 ##### ARTÍCULO 4.
 
 La autoridad y administración en materia de aguas nacionales y de sus bienes públicos inherentes corresponde al Ejecutivo Federal, quien la ejercerá directamente o a través de "la Comisión".
+
+Cualquier autorización, permiso, concesión, asignación o prórroga que se otorgue conforme a la presente ley debe priorizar el consumo humano y doméstico del agua.
+
+*Párrafo adicionado DOF 08-05-2023*
+
+En caso de que exista riesgo de disponibilidad de agua para consumo humano y doméstico, “la Autoridad del Agua” disminuirá o cancelará el volumen de agua concesionada.
+
+*Párrafo adicionado DOF 08-05-2023*
 
 ##### ARTÍCULO 5.
 
@@ -1357,7 +1373,9 @@ Sin mediar la transmisión definitiva de derechos o la modificación de las cond
 
 ##### ARTÍCULO 24.
 
-El término de la concesión o asignación para la explotación, uso o aprovechamiento de las aguas nacionales no será menor de cinco ni mayor de treinta años, de acuerdo con la prelación del uso específico del cual se trate, las prioridades de desarrollo, el beneficio social y el capital invertido o por invertir en forma comprobable en el aprovechamiento respectivo. En la duración de las concesiones y asignaciones, "la Autoridad del Agua" tomará en consideración las condiciones que guarde la fuente de suministro, la prelación de usos vigentes en la región que corresponda y las expectativas de crecimiento de dichos usos.
+El término de la concesión o asignación para la explotación, uso o aprovechamiento de las aguas nacionales no debe ser menor de cinco ni mayor de treinta años, de acuerdo con la prelación del uso específico del cual se trate, las prioridades de desarrollo, el beneficio social y el capital invertido o por invertir en forma comprobable en el aprovechamiento respectivo. En la duración de las concesiones y asignaciones, "la Autoridad del Agua" debe tomar en consideración las condiciones que guarde la fuente de suministro en cuanto a cantidad y calidad, la prelación de usos vigentes en la región que corresponda y las expectativas de crecimiento de dichos usos.
+
+*Párrafo reformado DOF 08-05-2023*
 
 Las concesiones o asignaciones en los términos del Artículo 22 de esta Ley, serán objeto de prórroga hasta por igual término y características del título vigente por el que se hubieren otorgado, siempre y cuando sus titulares no incurrieren en las causales de terminación previstas en la presente Ley, se cumpla con lo dispuesto en el Párrafo Segundo del Artículo 22 de esta Ley y en el presente Artículo y lo soliciten dentro de los últimos cinco años previos al término de su vigencia, al menos seis meses antes de su vencimiento.
 
@@ -1635,9 +1653,25 @@ XV. Proporcionar a terceros en forma provisional el uso total o parcial de las a
 
 XVI. Incumplir con lo dispuesto en la Ley respecto de la explotación, uso o aprovechamiento de aguas nacionales o preservación y control de su calidad, cuando por la misma causa al infractor se le hubiere aplicado con anterioridad sanción mediante resolución que quede firme, conforme a las fracciones II y III del Artículo 120 de esta Ley;
 
-XVII. Por incumplimiento de las medidas preventivas y correctivas que ordene "la Autoridad del Agua", y
+XVII. Por incumplimiento de las medidas preventivas y correctivas que ordene "la Autoridad del Agua";
 
-XVIII. Las demás previstas en esta Ley, en sus reglamentos o en las propias concesiones.
+*Fracción reformada DOF 08-05-2023*
+
+XVIII. Cuando, para obtener o conservar una concesión, la persona titular hubiere presentado documentación falsa;
+
+*Fracción reformada DOF 08-05-2023*
+
+XIX. Por hechos o actos supervenientes de interés público, general o social, o que causen algún tipo de desequilibrio económico, social, ambiental o de cualquier otra índole;
+
+*Fracción adicionada DOF 08-05-2023*
+
+XX. Cuando no se cumpla con el Programa de Restauración, Cierre y Post-cierre previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+
+*Fracción adicionada DOF 08-05-2023*
+
+XXI. Las demás previstas en esta Ley, en sus reglamentos o en las propias concesiones.
+
+*Fracción adicionada DOF 08-05-2023*
 
 Al extinguirse los títulos, por término de la concesión o asignación o de su última prórroga, o cuando se haya revocado el título por incumplimiento, de acuerdo con lo que establece esta Ley, las obras e instalaciones adheridas de manera permanente a bienes nacionales deberán revertirse a "la Comisión".
 
@@ -1822,6 +1856,10 @@ Cuando se transmita la titularidad de una concesión el adquirente se subrogará
 ##### ARTÍCULO 37.
 
 Serán nulas y no producirán ningún efecto las transmisiones que se efectúen en contravención a lo dispuesto en la presente Ley.
+
+Queda prohibida la transmisión, para uso industrial en la minería, de los derechos para explotar, usar o aprovechar aguas nacionales de cualquier otro uso.
+
+*Párrafo adicionado DOF 08-05-2023*
 
 *Artículo reformado DOF 29-04-2004*
 
@@ -2447,6 +2485,56 @@ Las concesiones de agua otorgadas por “la Comisión”, podrán ser objeto de 
 
 *Artículo reformado DOF 29-04-2004, 11-08-2014*
 
+### Capítulo III Bis · Uso Industrial en la Minería
+
+*Capítulo adicionado DOF 08-05-2023*
+
+##### ARTÍCULO 81 BIS.
+
+La persona solicitante de una concesión de aguas nacionales para uso industrial en la minería, además de lo dispuesto en el artículo 21 BIS de esta Ley, debe presentar lo siguiente:
+
+I. Fallo del concurso de concesión minera favorable a la persona solicitante a que se refiere la fracción VI del artículo 13 Bis de la Ley de Minería;
+
+II. El documento en el que se indiquen los métodos y obras auxiliares que se utilizarán para el uso del agua de laboreo en las obras de exploración y explotación, así como el volumen estimado que se prevé manejar. Dicha información debe ser pública;
+
+III. El diseño de redes de pozos de monitoreo de cantidad y calidad del agua;
+
+IV. La autorización del Programa de Restauración, Cierre y Post-cierre de minas, previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+
+V. El documento que indique cuáles serán los dispositivos de medición telemétrica con capacidad de transmisión a "la Autoridad del Agua" en tiempo real y su localización, para que todas las tomas de agua superficiales o subterráneas sean medidas, sin excepción.
+
+*Artículo adicionado DOF 08-05-2023*
+
+##### ARTÍCULO 81 BIS 1.
+
+Los concesionarios de aguas nacionales para uso industrial en la minería, además de las establecidas en el artículo 29 de la presente Ley, tienen la obligación de medir el volumen de agua explotada, usada o aprovechada que se extraiga de las cuencas y acuíferos, así como las aguas provenientes de laboreo de las minas para uso industrial o de servicios, conforme a lo dispuesto en la presente Ley.
+
+*Artículo adicionado DOF 08-05-2023*
+
+##### ARTÍCULO 81 BIS 2.
+
+El volumen de aguas que se establezca en la concesión para uso industrial en la minería comprende el volumen de aguas subterráneas extraídas vía pozos como tomas de aguas superficiales.
+
+*Artículo adicionado DOF 08-05-2023*
+
+##### ARTÍCULO 81 BIS 3.
+
+En ningún caso las aguas nacionales pueden utilizarse para el transporte de materiales provenientes de la operación minera.
+
+En caso de solicitudes de concesión para el uso industrial en la minería, no se debe autorizar la construcción de pozos de extracción cuya profundidad pudiera afectar la disponibilidad de agua para otros usos.
+
+En la concesión de aguas nacionales para uso industrial en la minería, no se debe otorgar el permiso para la profundización de pozos de extracción.
+
+*Artículo adicionado DOF 08-05-2023*
+
+##### ARTÍCULO 81 BIS 4.
+
+Las concesiones de aguas nacionales para uso industrial en la minería tendrán una vigencia máxima de treinta años, contados a partir del día siguiente a la expedición del título de concesión.
+
+La concesión de aguas nacionales para uso industrial en la minería puede prorrogarse hasta por veinticinco años e iguales características del título por el que se hubiere otorgado, siempre y cuando la concesión minera se encuentre vigente y sus titulares cumplan con lo previsto en el Programa de Restauración, Cierre y Post-cierre de minas, en el título de concesión, así como en las disposiciones jurídicas aplicables, y lo soliciten al menos seis meses previos al término de su vigencia.
+
+*Artículo adicionado DOF 08-05-2023*
+
 ### Capítulo IV · Uso en otras Actividades Productivas
 
 ##### ARTÍCULO 82.
@@ -2651,6 +2739,10 @@ IV. Instalar y mantener en buen estado, los aparatos medidores y los accesos par
 
 V. Hacer del conocimiento de "la Autoridad del Agua" los contaminantes presentes en las aguas residuales que generen por causa del proceso industrial o del servicio que vienen operando, y que no estuvieran considerados en las condiciones particulares de descarga fijadas;
 
+V BIS. Para el uso industrial en la minería, presentar ante “la Autoridad del Agua” un reporte mensual de las mediciones diarias que contenga los análisis cronológicos e indicadores de calidad del agua de las descargas realizadas en aguas superficiales y subterráneas, garantizando su calidad de conformidad con los parámetros que al efecto establezca dicha autoridad;
+
+*Fracción adicionada DOF 08-05-2023*
+
 VI. Informar a "la Autoridad del Agua" de cualquier cambio en sus procesos, cuando con ello se ocasionen modificaciones en las características o en los volúmenes de las aguas residuales contenidas en el permiso de descarga correspondiente;
 
 VI Bis. Adoptar dentro de sus procesos, la utilización de materiales biodegradables, siempre y cuando técnicamente sean viables, atendiendo a las disposiciones reglamentarias en la materia;
@@ -2759,9 +2851,17 @@ II. La calidad de las descargas no se sujete a las Normas Oficiales Mexicanas co
 
 III. Se omita el pago del derecho por el uso o aprovechamiento de bienes nacionales como cuerpos receptores de descargas de aguas residuales durante más de un año fiscal;
 
-IV. El responsable de la descarga, contraviniendo los términos de Ley, utilice el proceso de dilución de las aguas residuales para tratar de cumplir con las Normas Oficiales Mexicanas respectivas o las condiciones particulares de descarga, y
+IV. El responsable de la descarga, contraviniendo los términos de Ley, utilice el proceso de dilución de las aguas residuales para tratar de cumplir con las Normas Oficiales Mexicanas respectivas o las condiciones particulares de descarga;
 
-V. Cuando no se presente cada dos años un informe que contenga los análisis e indicadores de la calidad del agua que descarga.
+*Fracción reformada DOF 08-05-2023*
+
+V. Cuando no se presente cada dos años un informe que contenga los análisis e indicadores de la calidad del agua que descarga, y
+
+*Fracción reformada DOF 08-05-2023*
+
+VI. No se presente el informe mensual de las descargas a que se refiere la fracción V BIS del artículo 88 BIS de la presente Ley.
+
+*Fracción adicionada DOF 08-05-2023*
 
 La suspensión será sin perjuicio de la responsabilidad civil, penal o administrativa en que se hubiera podido incurrir.
 
@@ -3181,6 +3281,10 @@ Para el otorgamiento de las concesiones mencionadas en el párrafo anterior, se 
 
 Para el otorgamiento de las concesiones de la zona federal a que se refiere este Artículo, en igualdad de circunstancias, fuera de las zonas urbanas y para fines productivos, tendrá preferencia el propietario o poseedor colindante a dicha zona federal.
 
+“La Autoridad del Agua” tiene prohibido otorgar concesiones sobre cauces o vasos y sus zonas federales para la disposición final de residuos mineros o depósitos de aguas residuales de uso minero.
+
+*Párrafo adicionado DOF 08-05-2023*
+
 *Artículo reformado DOF 29-04-2004*
 
 ##### ARTÍCULO 118 BIS.
@@ -3297,7 +3401,9 @@ XX. Modificar o desviar los cauces, vasos o corrientes cuando sean propiedad nac
 
 XXI. No informar a "la Autoridad del Agua", de cualquier cambio en sus procesos cuando con ello se ocasionen modificaciones en las características o en los volúmenes de las aguas residuales que hubieren servido para expedir el permiso de descarga correspondiente;
 
-XXII. Dejar de llevar y presentar los registros cronológicos a que se refiere "la Ley";
+XXII. Dejar de presentar los registros cronológicos a que se refiere "la Ley" u omitir la presentación del reporte mensual descrito en el artículo 88 BIS, fracción V BIS, de la presente Ley;
+
+*Fracción reformada DOF 08-05-2023*
 
 XXIII. Explotar, usar o aprovechar bienes nacionales determinados en los Artículos 113 y 113 BIS de esta Ley, sin contar con título de concesión, y
 
@@ -3772,3 +3878,49 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Minera, de la Ley de Aguas Nacionales, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de la Ley General para la Prevención y Gestión Integral de los Residuos, en materia de concesiones para minería y agua.
+
+*Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023*
+
+**Artículo Segundo.** Se reforman los artículos 19; 24, párrafo primero; 29 BIS 4, párrafo primero, fracciones XVII y XVIII; 119, fracción XXII; se adicionan las fracciones III BIS y LVII BIS al párrafo primero del artículo 3; los párrafos segundo y tercero al artículo 4; las fracciones XIX, XX y XXI al párrafo primero del artículo 29 BIS 4; un párrafo segundo al artículo 37; el Capítulo III BIS denominado “Uso Industrial en la Minería”, con sus artículos 81 BIS, 81 BIS 1, 81 BIS 2, 81 BIS 3 y 81 BIS 4; una fracción V BIS al párrafo primero del artículo 88 BIS, la fracción VI al párrafo primero del artículo 92, y un párrafo cuarto al artículo 118, de la Ley de Aguas Nacionales, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Se derogan las disposiciones jurídicas que se opongan al presente Decreto.
+
+**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los mismos, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
+
+**Cuarto.** La persona titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las reformas correspondientes a las disposiciones reglamentarias respectivas.
+
+**Quinto.** En tanto se emite la normativa señalada en el artículo anterior, se seguirán aplicando las disposiciones que se encontraban vigentes antes de la entrada en vigor del presente Decreto, siempre que no se opongan a éste.
+
+Las menciones a la Ley Minera contenidas en otras leyes, reglamentos y en cualquier disposición de carácter general se entienden referidas a la Ley de Minería.
+
+Las solicitudes en trámite de nueva concesión de exploración y explotación se desecharán sin mayor trámite, en virtud de lo dispuesto por el presente Decreto.
+
+**Sexto.** Las concesiones de exploración y explotación otorgadas con anterioridad a la entrada en vigor del presente Decreto tendrán la duración prevista en el título respectivo.
+
+**Séptimo.** A partir de la entrada en vigor del presente Decreto, no se otorgarán prórrogas a las concesiones en Áreas Naturales Protegidas, así como a las ya emitidas para la exploración, explotación y beneficio del mercurio dentro del territorio nacional.
+
+**Octavo.** Para efectos de la caducidad a que se refiere el artículo 53 Bis de la Ley de Minería, los plazos se computarán a partir de la entrada en vigor del presente Decreto.
+
+**Noveno.** Los procedimientos y recursos administrativos relacionados con las actividades de minería y aguas iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio, y las demás disposiciones aplicables en la materia de que se trate, siempre que no se opongan a lo previsto en el presente Decreto.
+
+**Décimo.** Las personas titulares de concesiones mineras, dentro de los trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor del presente Decreto, deberán presentar el vehículo financiero a que se refiere la Ley de Minería, que garantice los posibles daños que se generen durante la ejecución de las actividades mineras, así como presentar para autorización de la Secretaría de Medio Ambiente y Recursos Naturales el Programa de Restauración, Cierre y Post-cierre de Minas.
+
+**Décimo Primero.** Las personas titulares de concesiones mineras deben garantizar que los depósitos o sitios de disposición final de terreros, presas de jales o escorias no afecten núcleos de población, zonas productivas o ecosistemas, de conformidad con las disposiciones jurídicas aplicables.
+
+Cuando las autoridades competentes determinen que los depósitos o sitios de disposición final de terreros, presas de jales o escorias presenten riesgos para la seguridad o salud de la población, zonas productivas o de los ecosistemas, las personas concesionarias tendrán un plazo de trescientos sesenta y cinco días naturales contados a partir de la notificación correspondiente por parte de la autoridad competente para realizar la remoción o remediación necesaria.
+
+**Décimo Segundo.** En los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Servicio Geológico Mexicano deberá retirar su participación de fondos de inversión de riesgo compartido en los que tenga activos, en tanto no le genere pérdidas. Para tales efectos, podrá mantener su posición hasta que éstos se encuentren en los valores en los que se adquirieron.
+
+**Décimo Tercero.** Las personas titulares de concesiones de aguas nacionales que realicen actividades de exploración, explotación, beneficio y aprovechamiento minero, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, deberán solicitar a “la Autoridad del Agua” el cambio de uso industrial al uso industrial en la minería, a efecto de regularizar su situación jurídica, de conformidad con las disposiciones normativas aplicables.
+
+Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
