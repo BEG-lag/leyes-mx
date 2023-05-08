@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2023-01-06
-articles: 549
+last_reform_dof: 2023-05-08
+articles: 550
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc
-archived: https://web.archive.org/web/20230219211833/http://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc
-source_sha256: fe7e1c885c7ab17d92b521a27b5d894de71e5e7194465187b2f70ecbfa5f1b33
-retrieved: 2023-02-19
+archived: https://web.archive.org/web/20230602015549/https://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc
+source_sha256: 7451a26d9bed94ebd9dcde8d4dc92773275c107f64ab9753d5ddbebbb0c727d1
+retrieved: 2023-06-02
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 06-01-2023
+Última reforma publicada DOF 08-05-2023
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 
@@ -2994,9 +2994,9 @@ Derogado.
 
 ##### Artículo 205-Bis.
 
-Serán imprescriptibles las sanciones señaladas en los artículos 200, 201 y 204. Asimismo, las sanciones señaladas en dichos artículos se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
+Serán imprescriptibles las sanciones señaladas en los artículos 200, 201, 204 y 209 Quáter. Asimismo, las sanciones señaladas en dichos artículos se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
 
-*Párrafo reformado DOF 27-11-2007, 14-06-2012*
+*Párrafo reformado DOF 27-11-2007, 14-06-2012, 25-04-2023*
 
 a) Los que ejerzan la patria potestad, guarda o custodia;
 
@@ -3105,6 +3105,20 @@ Para efecto de determinar el daño ocasionado al libre desarrollo de la personal
 En los casos en que el sentenciado se niegue o no pueda garantizar la atención médica, psicológica o de la especialidad que requiera, el Estado deberá proporcionar esos servicios a la víctima.
 
 *Artículo adicionado DOF 19-08-2010*
+
+#### CAPÍTULO IX · Cohabitación Forzada de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
+
+*Capítulo adicionado DOF 25-04-2023*
+
+##### Artículo 209 Quáter.
+
+Comete el delito de cohabitación forzada de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien obligue, coaccione, induzca, solicite, gestione u oferte a una o varias de estas personas a unirse informal o consuetudinariamente, con o sin su consentimiento, con alguien de su misma condición o con persona mayor de dieciocho años de edad, con el fin de convivir en forma constante y equiparable a la de un matrimonio.
+
+Al responsable de este delito se le impondrá pena de ocho a quince años de prisión y de mil a dos mil quinientos días multa.
+
+La pena prevista en el párrafo anterior se aumentará hasta en una mitad, en su mínimo y en su máximo, si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana.
+
+*Artículo adicionado DOF 25-04-2023*
 
 ### TITULO NOVENO · Revelación de secretos y acceso ilícito a sistemas y equipos de informática
 
@@ -5202,29 +5216,53 @@ Derogado.
 
 ##### Artículo 325.
 
-Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
+Comete el delito de feminicidio quien prive de la vida a una mujer por una razón de género.
+
+*Párrafo reformado DOF 25-04-2023*
+
+Se considera que existe una razón de género cuando concurra cualquiera de las siguientes circunstancias:
+
+*Encabezado del párrafo adicionado DOF 25-04-2023*
 
 I. La víctima presente signos de violencia sexual de cualquier tipo;
 
 II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
 
-III. Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
+III. Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral, comunitario, político o escolar, del sujeto activo en contra de la víctima;
 
-IV. Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
+*Fracción reformada DOF 25-04-2023*
 
-V. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+IV. Haya existido entre el sujeto activo y la víctima parentesco por consanguinidad o afinidad o una relación sentimental, afectiva, laboral, docente, de confianza o alguna relación de hecho entre las partes;
+
+*Fracción reformada DOF 25-04-2023*
+
+V. Existan datos que establezcan que hubo amenazas directas o indirectas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+
+*Fracción reformada DOF 25-04-2023*
 
 VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
 
-VII. El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+VII. El cuerpo de la víctima sea expuesto, arrojado, depositado o exhibido en un lugar público, o
+
+*Fracción reformada DOF 25-04-2023*
+
+VIII. El sujeto activo haya obligado a la víctima a realizar una actividad o trabajo o haya ejercido sobre ella cualquier forma de explotación.
+
+*Fracción adicionada DOF 25-04-2023*
 
 A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y de quinientos a mil días multa.
 
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+La pena se agravará hasta en un tercio cuando la víctima sea mujer menor de edad, embarazada, adulta mayor o con discapacidad, así como cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición.
 
-En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+*Párrafo adicionado DOF 25-04-2023*
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio. En su caso, también perderá todo derecho con relación a los hijos de la víctima, garantizando el interés superior de la niñez en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+*Párrafo reformado DOF 25-04-2023*
 
 Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
+
+*Reforma DOF 25-04-2023: Derogó del artículo el entonces párrafo cuarto*
 
 *Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 10-01-1994. Adicionado DOF 14-06-2012*
 
@@ -6216,6 +6254,10 @@ c) Los que estén ligados con el delincuente por amor, respeto, gratitud o estre
 
 *Párrafo con incisos adicionado DOF 23-12-1985*
 
+Las disposiciones contenidas en el párrafo anterior y las excusas absolutorias previstas en los incisos a) a c) no serán aplicables cuando el infractor que se oculte sea responsable del delito de feminicidio u homicidio.
+
+*Párrafo adicionado DOF 25-04-2023*
+
 El juez, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que señala el artículo 52, podrá imponer en los casos de encubrimiento a que se refieren las fracciones I, párrafo primero y II a IV de este artículo, en lugar de las sanciones señaladas, hasta las dos terceras partes de las que correspondería al autor del delito; debiendo hacer constar en la sentencia las razones en que se funda para aplicar la sanción que autoriza este párrafo.
 
 *Párrafo adicionado DOF 13-05-1996*
@@ -6530,25 +6572,41 @@ Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil d
 
 ##### Artículo 418.
 
-Se impondrá pena de seis meses a nueve años de prisión y por equivalente de cien a tres mil días multa, siempre que dichas actividades no se realicen en zonas urbanas, al que ilícitamente:
+Se impondrá pena de seis meses a nueve años de prisión y multa de cien a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente, siempre que dichas actividades no se realicen en zonas urbanas, al que sin contar con la autorización previa de la autoridad competente:
 
-I. Desmonte o destruya la vegetación natural;
+*Párrafo reformado DOF 08-05-2023*
+
+I. Desmonte o destruya la vegetación forestal;
+
+*Fracción reformada DOF 08-05-2023*
 
 II. Corte, arranque, derribe o tale algún o algunos árboles, o
 
-III. Cambie el uso del suelo forestal.
+III. Cambie el uso de suelo en terrenos forestales sin la autorización expedida por la autoridad competente.
 
-La pena de prisión deberá aumentarse hasta en tres años más y la pena económica hasta en mil días multa, para el caso en el que las conductas referidas en las fracciones del primer párrafo del presente artículo afecten un área natural protegida.
+*Fracción reformada DOF 08-05-2023*
+
+La pena de prisión deberá aumentarse hasta en cuatro años más y la multa hasta en cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente para el caso en el que, las conductas referidas en las fracciones del primer párrafo del presente artículo afecten un área natural protegida.
+
+*Párrafo reformado DOF 08-05-2023*
+
+Cuando las conductas a que se refiere este artículo se realicen empleando armas de fuego o por cualquier otro medio violento en contra de las personas o para obtener un lucro o beneficio económico, se le impondrá pena de tres a doce años de prisión y multa de quinientos a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+*Párrafo adicionado DOF 08-05-2023*
 
 *Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002*
 
 ##### Artículo 419.
 
-A quien ilícitamente transporte, comercie, acopie, almacene o transforme madera en rollo, astillas, carbón vegetal, así como cualquier otro recurso forestal maderable, o tierra procedente de suelos forestales en cantidades superiores a cuatro metros cúbicos o, en su caso, a su equivalente en madera aserrada, se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa. La misma pena se aplicará aun cuando la cantidad sea inferior a cuatro metros cúbicos, si se trata de conductas reiteradas que alcancen en su conjunto esta cantidad.
+A quien, sin que exista acto administrativo que lo autorice o no cuente con la documentación que acredite la legal procedencia, transporte, comercie, enajene, distribuya, suministre, acopie, compre, reciba, adquiera, almacene, resguarde, posea o transforme materias primas forestales o productos forestales maderables, se le impondrán las siguientes penas:
 
-La pena privativa de la libertad a la que se hace referencia en el párrafo anterior se incrementará hasta en tres años más de prisión y la pena económica hasta en mil días multa, cuando los recursos forestales maderables provengan de un área natural protegida.
+I. Cuando el volumen no exceda de dos metros cúbicos se le impondrá de dos a cinco años de prisión y multa de quinientos a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-*Artículo adicionado DOF 13-12-1996. Reformado DOF 24-12-1996, 06-02-2002*
+II. Si el volumen es superior a dos metros cúbicos se le impondrá de seis a doce años de prisión y multa de mil a cinco mil veces el valor de la Unidad de Medida y Actualización vigente.
+
+Las penas privativas de la libertad a que hacen referencia las fracciones anteriores se incrementarán hasta en cuatro años de prisión y multa hasta en cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, cuando las materias primas forestales o productos forestales maderables provengan de un área natural protegida.
+
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 24-12-1996, 06-02-2002, 08-05-2023*
 
 ##### Artículo 419 Bis.
 
@@ -6696,9 +6754,9 @@ En el caso de los delitos contra el ambiente, cuando el autor o partícipe tenga
 
 ##### Artículo 423.
 
-No se aplicará pena alguna respecto a lo dispuesto por el párrafo primero del artículo 418, así como para la transportación de leña o madera muerta a que se refiere el artículo 419, cuando el sujeto activo sea campesino y realice la actividad con fines de uso o consumo doméstico dentro de su comunidad.
+No se aplicará pena alguna a quien incurra en la conducta señalada en el párrafo primero, fracción segunda, del artículo 418, ni a quien transporte la leña o madera muerta a que se refiere el artículo 419, cuando realice la actividad para uso doméstico dentro de la comunidad rural, indígena o afromexicana a la que pertenezca.
 
-*Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002*
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002, 08-05-2023*
 
 ### TITULO · VIGESIMO SEXTO
 
@@ -10106,3 +10164,57 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 24 de noviembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de enero de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 205-Bis y se adiciona un Capítulo IX al Título Octavo del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 25 de abril de 2023*
+
+**Artículo Único.-** Se reforma el primer párrafo del artículo 205-Bis y se adiciona un Capítulo IX con un artículo 209 Quáter al Título Octavo del Código Penal Federal, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 15 de marzo de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley General del Sistema Nacional de Seguridad Pública, de la Ley General de Víctimas y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en materia de Investigación, Sanción y Reparación Integral del Delito de Feminicidio.
+
+*Publicado en el Diario Oficial de la Federación el 25 de abril de 2023*
+
+**Artículo Primero.-** Se reforman el actual primer párrafo, pasando a ser primero y segundo párrafos, las fracciones III, IV, V y VII, y el actual tercer párrafo, del artículo 325; se adiciona una fracción VIII y un tercer párrafo, recorriéndose en su orden los subsecuentes, al artículo 325; y un tercer párrafo, recorriéndose en su orden el subsecuente, al artículo 400; y se deroga el actual párrafo cuarto, del artículo 325 del Código Penal Federal, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+
+Ciudad de México, a 15 de marzo de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan los artículos 418, 419 y 423 del Código Penal Federal, en materia de tala ilegal.
+
+*Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023*
+
+**Artículo Primero.** Se reforman el primer párrafo, y sus fracciones I y III, y el segundo párrafo del artículo 418; el primero y segundo párrafos del artículo 419, y el artículo 423; y se adicionan un tercer párrafo al artículo 418; y las fracciones I y II al primer párrafo del artículo 419 del Código Penal Federal, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
