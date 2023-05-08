@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2022-04-11
-articles: 267
+last_reform_dof: 2023-05-08
+articles: 268
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc
-archived: https://web.archive.org/web/20230219224838/http://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc
-source_sha256: 5f7b4cc72cbae9a5b1324f79898a4b305c104478d7c2287035bddfda4571962f
-retrieved: 2023-02-19
+archived: https://web.archive.org/web/20230602034357/https://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc
+source_sha256: 0f4ce19f3a3757a7e451eed414e487c9ecd9d7fe22e20c592c45d57ad589660a
+retrieved: 2023-06-02
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 11-04-2022
+Última reforma publicada DOF 08-05-2023
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1426,6 +1426,10 @@ En las áreas naturales protegidas queda prohibida la introducción de especies 
 
 *Párrafo adicionado DOF 24-05-2013*
 
+En las áreas naturales protegidas no se pueden realizar obras y trabajos de exploración, explotación y beneficio de los minerales o sustancias, a que se refiere la Ley de Minería.
+
+*Párrafo adicionado DOF 08-05-2023*
+
 *Artículo reformado DOF 13-12-1996*
 
 ##### ARTÍCULO 47.
@@ -1507,6 +1511,10 @@ En estas subzonas sólo podrán utilizarse para su rehabilitación, especies nat
 *Inciso reformado DOF 21-05-2013*
 
 En las zonas de amortiguamiento deberá tomarse en consideración las actividades productivas que lleven a cabo las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva, basándose en lo previsto tanto en el Programa de Manejo respectivo como en los Programas de Ordenamiento Ecológico que resulten aplicables.
+
+El aprovechamiento de materiales pétreos que se obtengan de forma artesanal por habitantes de las comunidades locales puede llevarse a cabo únicamente en zonas de amortiguamiento mediante actividades de bajo impacto ambiental, que no generen impactos negativos a los ecosistemas, siempre que se cumpla lo dispuesto en el Decreto y Programa de Manejo del área natural protegida y demás disposiciones jurídicas aplicables.
+
+*Párrafo adicionado DOF 08-05-2023*
 
 *Artículo adicionado DOF 23-02-2005*
 
@@ -2443,6 +2451,20 @@ Se deroga.
 Se deroga.
 
 *Artículo derogado DOF 13-12-1996*
+
+##### ARTÍCULO 107 BIS.
+
+Para preservar y proteger los recursos no renovables y sus ecosistemas, las personas titulares de concesiones y asignaciones mineras deben presentar ante la Secretaría un Programa de Restauración, Cierre y Post-cierre de minas para su evaluación y, en su caso, autorización, de conformidad con el reglamento que se elabore al respecto.
+
+En dicho programa se deben establecer las acciones de reparación, restauración, rehabilitación y remediación ambiental que se realizarán desde el inicio de las actividades de exploración, explotación y beneficio de minerales o sustancias hasta el post-cierre, en los términos previstos en las disposiciones jurídicas aplicables.
+
+El programa debe ser presentado por el ganador de un concurso de licitación para concesión minera, una vez emitido el fallo correspondiente. La Secretaría debe analizar y, en su caso, dictaminar la viabilidad del programa propuesto a más tardar en ciento ochenta días naturales a partir de la fecha de su presentación.
+
+Una vez dictaminada la viabilidad del programa, la persona interesada deberá presentar como garantía seguro, carta de crédito, depósito ante la Tesorería de la Federación, fideicomiso o cualquier otro vehículo financiero que resulte idóneo. Una vez calificada, se emitirá la autorización del programa.
+
+El incumplimiento de cualquiera de las obligaciones previstas en el programa será motivo de ejecución de la garantía.
+
+*Artículo adicionado DOF 08-05-2023*
 
 ### CAPÍTULO III · De la Exploración y Explotación de los Recursos no Renovables en el Equilibrio Ecológico
 
@@ -4733,3 +4755,49 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 2 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Delgadillo García, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Minera, de la Ley de Aguas Nacionales, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de la Ley General para la Prevención y Gestión Integral de los Residuos, en materia de concesiones para minería y agua.
+
+*Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023*
+
+**Artículo Tercero.** Se adicionan un párrafo séptimo al artículo 46; un párrafo segundo al artículo 47 BIS, y el artículo 107 BIS a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Se derogan las disposiciones jurídicas que se opongan al presente Decreto.
+
+**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los mismos, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
+
+**Cuarto.** La persona titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las reformas correspondientes a las disposiciones reglamentarias respectivas.
+
+**Quinto.** En tanto se emite la normativa señalada en el artículo anterior, se seguirán aplicando las disposiciones que se encontraban vigentes antes de la entrada en vigor del presente Decreto, siempre que no se opongan a éste.
+
+Las menciones a la Ley Minera contenidas en otras leyes, reglamentos y en cualquier disposición de carácter general se entienden referidas a la Ley de Minería.
+
+Las solicitudes en trámite de nueva concesión de exploración y explotación se desecharán sin mayor trámite, en virtud de lo dispuesto por el presente Decreto.
+
+**Sexto.** Las concesiones de exploración y explotación otorgadas con anterioridad a la entrada en vigor del presente Decreto tendrán la duración prevista en el título respectivo.
+
+**Séptimo.** A partir de la entrada en vigor del presente Decreto, no se otorgarán prórrogas a las concesiones en Áreas Naturales Protegidas, así como a las ya emitidas para la exploración, explotación y beneficio del mercurio dentro del territorio nacional.
+
+**Octavo.** Para efectos de la caducidad a que se refiere el artículo 53 Bis de la Ley de Minería, los plazos se computarán a partir de la entrada en vigor del presente Decreto.
+
+**Noveno.** Los procedimientos y recursos administrativos relacionados con las actividades de minería y aguas iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio, y las demás disposiciones aplicables en la materia de que se trate, siempre que no se opongan a lo previsto en el presente Decreto.
+
+**Décimo.** Las personas titulares de concesiones mineras, dentro de los trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor del presente Decreto, deberán presentar el vehículo financiero a que se refiere la Ley de Minería, que garantice los posibles daños que se generen durante la ejecución de las actividades mineras, así como presentar para autorización de la Secretaría de Medio Ambiente y Recursos Naturales el Programa de Restauración, Cierre y Post-cierre de Minas.
+
+**Décimo Primero.** Las personas titulares de concesiones mineras deben garantizar que los depósitos o sitios de disposición final de terreros, presas de jales o escorias no afecten núcleos de población, zonas productivas o ecosistemas, de conformidad con las disposiciones jurídicas aplicables.
+
+Cuando las autoridades competentes determinen que los depósitos o sitios de disposición final de terreros, presas de jales o escorias presenten riesgos para la seguridad o salud de la población, zonas productivas o de los ecosistemas, las personas concesionarias tendrán un plazo de trescientos sesenta y cinco días naturales contados a partir de la notificación correspondiente por parte de la autoridad competente para realizar la remoción o remediación necesaria.
+
+**Décimo Segundo.** En los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Servicio Geológico Mexicano deberá retirar su participación de fondos de inversión de riesgo compartido en los que tenga activos, en tanto no le genere pérdidas. Para tales efectos, podrá mantener su posición hasta que éstos se encuentren en los valores en los que se adquirieron.
+
+**Décimo Tercero.** Las personas titulares de concesiones de aguas nacionales que realicen actividades de exploración, explotación, beneficio y aprovechamiento minero, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, deberán solicitar a “la Autoridad del Agua” el cambio de uso industrial al uso industrial en la minería, a efecto de regularizar su situación jurídica, de conformidad con las disposiciones normativas aplicables.
+
+Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
