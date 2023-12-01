@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2023-05-03
+last_reform_dof: 2023-12-01
 articles: 69
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
-archived: https://web.archive.org/web/20230603092250/https://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
-source_sha256: 480e8f39b744fa0f4d5b0dcbff44daf992a614bc93c3c95ee6e0b1d914b9a5b7
-retrieved: 2023-06-03
+archived: https://web.archive.org/web/20240405093618/https://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
+source_sha256: 0374c495056bbeba79128cfc3e763f5463b7017b0936991e90b0f8a76f8acb23
+retrieved: 2024-04-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 03-05-2023
-
-> Nota de vigencia de los efectos de la declaratoria de invalidez: La declaratoria de invalidez del artículo 29, fracción IV, en su porción normativa “, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana”, de esta Ley, contenido en el “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública”, publicado en el Diario Oficial de la Federación el 9 de septiembre de 2022; así como de los artículos transitorios tercero, sexto y séptimo del referido Decreto, y notificada dicha declaratoria al Congreso de la Unión el 25 de abril de 2023, surtirá sus efectos a partir del 1 de enero de 2024.
+Última reforma publicada DOF 01-12-2023
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -562,7 +560,7 @@ IV.- Manejar el activo del Ejército y la Fuerza Aérea[, y ejercer el control o
 
 *Fracción reformada DOF 09-09-2022*
 
-Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023 (En la porción normativa “, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana”)
+*Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023 y publicada DOF 20-09-2023 (En la porción normativa “, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana”)*
 
 V.- Conceder licencias y retiros, e intervenir en las pensiones de los miembros del Ejército y de la Fuerza Aérea;
 
@@ -694,9 +692,9 @@ VII Quáter.- Administrar y operar el señalamiento marítimo, así como proporc
 
 VIII.- Inspeccionar los servicios de la Armada;
 
-IX. Construir, reconstruir y conservar las obras portuarias que requiera la Armada y la Secretaría de Marina, así como las obras marítimas, portuarias y de dragado que requiera el país y, en su caso, autorizarlas cuando sobrepasen sus capacidades técnicas y operativas;
+IX. Construir, reconstruir y conservar las obras portuarias que requiera la Armada y la Secretaría de Marina; las obras marítimas, portuarias y de dragado que requiera el país y, en su caso, autorizarlas cuando sobrepasen sus capacidades técnicas y operativas, así como aquellas que requiera el interés nacional en áreas estratégicas y prioritarias vinculadas al desarrollo marítimo;
 
-*Fracción reformada DOF 07-12-2020*
+*Fracción reformada DOF 07-12-2020, 01-12-2023*
 
 X.- Establecer y administrar los almacenes y estaciones de combustibles y lubricantes de la Armada;
 
@@ -768,13 +766,17 @@ XXIV.- Intervenir, en el ámbito de su responsabilidad, en la protección y cons
 
 *Fracción adicionada DOF 04-05-2006*
 
-XXV.- Inspeccionar, patrullar y llevar a cabo labores de reconocimiento y vigilancia para preservar, las Áreas Naturales Protegidas, en coordinación con las autoridades competentes y de conformidad con las disposiciones aplicables, y
+XXV. Inspeccionar, patrullar y llevar a cabo labores de reconocimiento y vigilancia para preservar, las Áreas Naturales Protegidas, en coordinación con las autoridades competentes y de conformidad con las disposiciones aplicables;
 
-*Fracción adicionada DOF 04-05-2006*
+*Fracción adicionada DOF 04-05-2006. Reformada DOF 01-12-2023*
 
-XXVI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXVI. Coadyuvar en la vigilancia y protección de las instalaciones estratégicas y prioritarias del país, vinculadas al desarrollo nacional, y
 
-*Fracción reformada y recorrida DOF 04-05-2006*
+*Fracción adicionada DOF 01-12-2023*
+
+XXVII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+*Fracción reformada y recorrida DOF 04-05-2006. Recorrida DOF 01-12-2023*
 
 #### Artículo 30 Bis.
 
@@ -4468,7 +4470,7 @@ En todo caso, al personal a que se refiere esta disposición le serán respetado
 
 **Tercero.-** [En tanto no exista personal con formación de Guardia Nacional con grado de Comisario General en activo, la persona titular de la Comandancia de la Guardia Nacional será designada por la persona titular de la Presidencia de la República a propuesta de la persona titular de la Secretaría de la Defensa Nacional.]
 
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023
+*Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023 y publicada DOF 20-09-2023*
 
 **Cuarto.-** El personal militar que actualmente integra la Guardia Nacional continuará en esa situación bajo el mando de la persona Comandante de dicha institución de seguridad pública.
 
@@ -4484,7 +4486,7 @@ III. Dispondrá que el personal procedente de la extinta Policía Federal cese d
 
 IV. Relevará gradualmente al personal que integra la Coordinación de Administración y Finanzas de la Guardia Nacional, por aquél que proponga la persona Comandante de esa institución. El personal relevado mantendrá su adscripción a la propia dependencia.]
 
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023
+*Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023 y publicada DOF 20-09-2023*
 
 **Séptimo.-** [La Secretaría de Hacienda y Crédito Público en uso de sus atribuciones:
 
@@ -4494,7 +4496,7 @@ II. Realizará las acciones que correspondan para que la Secretaría de la Defen
 
 Conforme el personal naval sea reasignado a la Secretaría de Marina en términos del segundo transitorio del presente Decreto, la Secretaría de la Defensa Nacional solicitará a la Secretaría de Hacienda y Crédito Público que realice las acciones necesarias, en términos de las disposiciones jurídicas aplicables, para contar con los recursos presupuestarios y las plazas correspondientes para dar cumplimiento con lo establecido en el presente Decreto.]
 
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023
+*Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023 y publicada DOF 20-09-2023*
 
 **Octavo.-** Las Secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina son responsables de la instrumentación del presente Decreto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados de la Secretaría de la Defensa Nacional, de la Secretaría de Marina y de la Secretaría de Seguridad y Protección Ciudadana para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos, lo anterior, con independencia de lo señalado en los transitorios quinto y sexto, fracción II, del presente Decreto.
 
@@ -4647,3 +4649,97 @@ Los juicios en materia laboral y administrativa en que se condene al cumplimient
 Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 137/2022, así como los Votos Particulares de la señora Ministra Yasmín Esquivel Mossa y de los señores Ministros Juan Luis González Alcántara Carrancá y Arturo Zaldívar Lelo de Larrea, y Particulares y Concurrentes de la señora Ministra Loretta Ortiz Ahlf y Alfredo Gutiérrez Ortiz Mena.
+
+*Publicada en el Diario Oficial de la Federación el 20 de septiembre de 2023*
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
+
+ACCIÓN DE INCONSTITUCIONALIDAD 137/2022
+
+PROMOVENTES: DIVERSAS SENADORAS Y SENADORES INTEGRANTES DEL CONGRESO DE LA UNIÓN
+
+VISTO BUENO
+
+SR. MINISTRO
+
+PONENTE: MINISTRO JUAN LUIS GONZÁLEZ ALCÁNTARA CARRANCÁ
+
+COTEJÓ
+
+SECRETARIOS: DANIELA CARRASCO BERGE Y FERNANDO SOSA PASTRANA
+
+Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en la sesión correspondiente al día veinte de abril de dos mil veintitrés, emite la siguiente:
+
+SENTENCIA
+
+……..
+
+VIII. EFECTOS
+
+369\. De conformidad con los artículos 73 y 41 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, y para añadir claridad en la fijación de los efectos, se retoman a continuación las declaratorias de invalidez alcanzadas:
+
+a. En el Apartado A, se declaró la invalidez del artículo 29, fracción IV, en su porción normativa “y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana;” de la Ley Orgánica de la Administración Pública Federal; de la porción normativa “de la Defensa Nacional” contenida en los artículos 12, fracción I, del artículo 13 Bis y del artículo 23, párrafo segundo, de la Ley de la Guardia Nacional; y, de los artículos transitorios sexto y séptimo del Decreto impugnado.
+
+b. En el Apartado B, se declaró la invalidez de las porciones normativas “a propuesta de la persona titular de la Secretaría de la Defensa Nacional” y “grado jerárquico de Comisario General” del artículo 14, párrafo primero y fracción III, respectivamente; así como del artículo 15, fracción VII, en su porción normativa “de la Defensa Nacional” de la Ley de la Guardia Nacional; y, del artículo transitorio tercero del Decreto impugnado.
+
+c. En el Apartado C, se declaró la invalidez del artículo 57, párrafo segundo, de la Ley de la Guardia Nacional; los artículos 138, fracción VII, y 170, fracción II, apartado H, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; y, del segundo párrafo del artículo 1 de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos.
+
+370\. De acuerdo con la Ley Reglamentaria de la materia, este Tribunal Pleno deberá fijar los alcances y efectos de la sentencia estableciendo con precisión los elementos necesarios para su plena eficacia en el ámbito que corresponda. En ese sentido, es importante considerar que las declaratorias alcanzadas en la presente acción de inconstitucionalidad, como quedó de manifiesto en esta ejecutoria, involucran un reajuste en el control administrativo, presupuestal y operativo de la Guardia Nacional que corresponde, por mandato del artículo 21 constitucional, a la Secretaría del ramo de la seguridad pública.
+
+371\. Por ello, en aras de proveer los elementos necesarios para la plena eficacia de la sentencia, este Pleno determina que las declaratorias de invalidez alcanzadas surtirán sus efectos el primero de enero de dos mil veinticuatro. En ese plazo, las dependencias involucradas contarán con el tiempo requerido para realizar gradualmente el reajuste mencionado. Además, este aplazamiento permitirá llevar a cabo el reajuste mencionado de forma plena, paulatina y ordenada.
+
+372\. Con la prórroga en el surtimiento de los efectos de la presente ejecutoria se privilegia la certeza jurídica en el control y en la operación de la Guardia Nacional, así como en el estatus jurídico de quienes la componen, asegurando la integración de las provisiones necesarias para tal efecto en el Presupuesto de Egresos de la Federación.
+
+373\. Finalmente, de conformidad con la Ley Reglamentaria en la materia, se ordena que la presente ejecutoria sea notificada al Congreso de la Unión y, por la materia del Decreto impugnado, al Poder Ejecutivo Federal por conducto de la Secretaría de Seguridad y Protección Ciudadana, de la Secretaría de la Defensa Nacional y de la Secretaría de Hacienda y Crédito Público.
+
+374\. Por lo expuesto y fundado, este Tribunal Pleno
+
+RESUELVE:
+
+**PRIMERO.** Es parcialmente procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+
+**SEGUNDO.** Se sobresee en la presente acción de inconstitucionalidad respecto de los artículos 30 Bis, fracción XXVII, de la Ley Orgánica de la Administración Pública Federal; 7, fracciones VII y VIII, 15, fracción XVII, 34, fracciones I y III, numerales b) y c), de la Ley de la Guardia Nacional; y 138, fracciones V y VI, y 170, fracción II, apartados F y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Publica, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós, en términos del apartado VI de esta decisión.
+
+**TERCERO.** Se reconoce la validez de los artículos 29, fracciones IV, en su porción normativa “Manejar el activo del Ejército y la Fuerza Aérea”, y XVI, así como 30 Bis, fracciones I, II, III, XXV y XXVI, de la Ley Orgánica de la Administración Pública Federal; 7, fracción IX, 12 -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 13, 13 Bis -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 14, párrafo primero -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia- y fracción III -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 15, fracciones II, IV, V, VI, VII -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, VIII, VIII Bis, XII, XV y XVI, 17, párrafo tercero, 18, párrafo cuarto, 19, fracción I, 21, fracciones III y VII, 22, párrafo primero, 23, párrafo segundo -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 25, fracción IX, 26, fracciones V, VI, VII y VIII, 32 Bis, 34, fracción III, inciso d), 39, fracción III, y 86, párrafo segundo, de la Ley de la Guardia Nacional; y 2 Bis de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Publica, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós; así como de los artículos transitorios primero, segundo, cuarto, quinto, octavo y noveno del referido Decreto, conforme a lo sostenido en el apartado VII de esta ejecutoria.
+
+**CUARTO.** Se declara la invalidez de los artículos 29, fracción IV, en su porción normativa “, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana”, de la Ley Orgánica de la Administración Pública Federal; 12, fracción I, en su porción normativa “de la Defensa Nacional”, 13 Bis, en su porción normativa “de la Defensa Nacional”, 14, párrafo primero, en su porción normativa “a propuesta de la persona titular de la Secretaría de la Defensa Nacional”, y fracción III, en su porción normativa “grado jerárquico de Comisario General y”, 15, fracción VII, en su porción normativa “de la Defensa Nacional”, 23, párrafo segundo, en su porción normativa “de la Defensa Nacional”, y 57, párrafo segundo, de la Ley de la Guardia Nacional; 138, fracción VII, y 170, fracción II, apartado H, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; y 1°, párrafo segundo, de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Publica, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós; así como de los artículos transitorios tercero, sexto y séptimo del referido Decreto, de conformidad con su apartado VII.
+
+**QUINTO.** La declaratoria de invalidez decretada surtirá sus efectos al primero de enero de dos mil veinticuatro, en términos del apartado VIII de esta decisión.
+
+**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+Notifíquese, haciéndolo por medio de oficio a las partes, y, en su oportunidad, archívese el expediente.
+
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+
+………
+
+La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos precisados. Doy fe.
+
+Firman la señora Ministra Presidenta y el señor Ministro Ponente con el Secretario General de Acuerdos, quien da fe.
+
+Ministra Presidenta, Norma Lucía Piña Hernández.- Firmado electrónicamente.- Ministro Ponente, Juan Luis González Alcántara Carrancá.- Firmado electrónicamente.- Secretario General de Acuerdos, Rafael Coello Cetina.- Firmado electrónicamente.
+
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de ciento doce fojas útiles, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la acción de inconstitucionalidad 137/2022, promovida por diversas Senadoras y Senadores integrantes del Congreso de la Unión, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del veinte de abril de dos mil veintitrés. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a ocho de agosto de dos mil veintitrés.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y de la Ley Orgánica de la Armada de México.
+
+*Publicado en el Diario Oficial de la Federación el 1 de diciembre de 2023*
+
+**Artículo Primero.** Se reforma la fracción IX y se adiciona una fracción XXVI, recorriendo en su orden la actual fracción XXVI, para quedar como XXVII, al artículo 30 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+…….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Ejecutivo Federal expedirá las modificaciones a las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina.
+
+Ciudad de México, a 18 de octubre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Claudia Esther Balderas Espinoza, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 22 de noviembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
