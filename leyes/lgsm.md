@@ -3,12 +3,12 @@ title: Ley General de Sociedades Mercantiles
 abbreviation: LGSM
 slug: lgsm
 published_dof: 1934-08-04
-last_reform_dof: 2022-12-27
+last_reform_dof: 2023-12-28
 articles: 277
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGSM.doc
-archived: https://web.archive.org/web/20230602044612/https://www.diputados.gob.mx/LeyesBiblio/doc/LGSM.doc
-source_sha256: 8a3625cdd5dcb2502bfdd231b23c58603a40e46d716b893c4039b02ded342152
-retrieved: 2023-06-02
+archived: https://web.archive.org/web/20240405093651/https://www.diputados.gob.mx/LeyesBiblio/doc/LGSM.doc
+source_sha256: 35ea74239bf73c723d6c09ab0b5dcba8572055089e3ccd38dfdde73d550a3ad5
+retrieved: 2024-04-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm.htm
 ---
 
@@ -18,9 +18,11 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 4 de agosto de 193
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 14-06-2018
+Última reforma publicada DOF 20-10-2023
 
-Cantidades actualizadas por Acuerdo DOF 27-12-2022
+Cantidades actualizadas por Acuerdo DOF 28-12-2023
+
+> Nota de vigencia: La reforma al segundo párrafo del artículo 81, publicada en el DOF 20-10-2023, entrará en vigor 20 de abril de 2024.
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -138,9 +140,17 @@ X.- La manera de hacer la distribución de las utilidades y pérdidas entre los 
 
 XI.- El importe del fondo de reserva;
 
-XII.- Los casos en que la sociedad haya de disolverse anticipadamente, y
+XII.- Los casos en que la sociedad haya de disolverse anticipadamente;
 
-XIII.- Las bases para practicar la liquidación de la sociedad y el modo de proceder a la elección de los liquidadores, cuando no hayan sido designados anticipadamente.
+*Fracción reformada DOF 20-10-2023*
+
+XIII.- Las bases para practicar la liquidación de la sociedad y el modo de proceder a la elección de los liquidadores, cuando no hayan sido designados anticipadamente, y
+
+*Fracción reformada DOF 20-10-2023*
+
+XIV.- Las reglas para la celebración de las Asambleas de Socios y de los órganos de administración, siendo que los estatutos podrán contemplar que unas y otras podrán celebrarse de forma presencial o mediante el uso de medios electrónicos, ópticos o de cualquier otra tecnología, que permitan la participación de la totalidad o una parte de los asistentes por dichos medios en la asamblea o junta de que se trate, siempre y cuando la participación sea simultánea y se permita la interacción en las deliberaciones de una forma funcionalmente equivalente a la reunión presencial. En todo caso, sean presenciales o mediante el uso de medios electrónicos, ópticos o de cualquier otra tecnología, en todas las Asambleas de Socios y de los órganos de administración se deberá contar con mecanismos o medidas que permitan el acceso, la acreditación de la identidad de los asistentes, así como, en su caso, del sentido de su voto, y se genere la evidencia correspondiente.
+
+*Fracción adicionada DOF 20-10-2023*
 
 Todos los requisitos a que se refiere este artículo y las demás reglas que se establezcan en la escritura sobre organización y funcionamiento de la sociedad constituirán los estatutos de la misma.
 
@@ -542,6 +552,10 @@ Cuando no aparezca hecha la designación de los gerentes, se observará lo dispu
 
 Las resoluciones de los gerentes se tomarán por mayoría de votos, pero si el contrato social exige que obren conjuntamente, se necesitará la unanimidad, a no ser que la mayoría estime que la sociedad corre grave peligro con el retardo, pues entonces podrá dictar la resolución correspondiente.
 
+Las resoluciones de los gerentes podrán tomarse mediante el uso de medios electrónicos, ópticos o de cualquier otra tecnología si así lo establecen los estatutos sociales.
+
+*Párrafo adicionado DOF 20-10-2023*
+
 #### Artículo 76.
 
 Los administradores que no hayan tenido conocimiento del acto o que hayan votado en contra, quedarán libres de responsabilidad.
@@ -592,17 +606,31 @@ Todo socio tendrá derecho a participar en las decisiones de las asambleas, goza
 
 Las asambleas se reunirán en el domicilio social, por lo menos una vez al año, en la época fijada en el contrato.
 
+No se entenderá que una asamblea se realiza fuera del domicilio social por el sólo hecho de utilizarse medios electrónicos, ópticos o de cualquier otra tecnología.
+
+*Párrafo adicionado DOF 20-10-2023*
+
+Adicionalmente, los socios podrán celebrar asambleas fuera del domicilio social, siempre y cuando la totalidad de los socios lo aprueben y adicionalmente exista la posibilidad de utilizar medios electrónicos, ópticos o de cualquier otra tecnología. Para dichas asambleas, en este caso, se deberá señalar en el acta de asamblea, el domicilio en el cual se llevó a cabo la asamblea respectiva.
+
+*Párrafo adicionado DOF 20-10-2023*
+
 #### Artículo 81.
 
 Las asambleas serán convocadas por los gerentes; si no lo hicieren, por el Consejo de Vigilancia, y a falta u omisión de éste, por los socios que representen más de la tercera parte del capital social.
 
-Salvo pacto en contrario, las convocatorias se harán por medio de cartas certificadas con acuse de recibo, que deberán contener la orden del día y dirigirse a cada socio por lo menos, con ocho días de anticipación a la celebración de la asamblea.
+Las convocatorias se harán por medio de la publicación de un aviso en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio, deberán contener la orden del día y estar firmadas por quien las realiza y se publicarán con la anticipación que fijen los estatutos o en su defecto, con ocho días de anticipación a la celebración de la asamblea.
+
+*Párrafo reformado DOF 20-10-2023*
 
 #### Artículo 82.
 
 El contrato social podrá consignar los casos en que la reunión de la asamblea no sea necesaria, y en ellos se remitirá a los socios, por carta certificada con acuse de recibo, el texto de las resoluciones o decisiones, emitiéndose el voto correspondiente por escrito.
 
 Si así lo solicitan los socios que representen más de la tercera parte del capital social, deberá convocarse a la asamblea, aun cuando el contrato social sólo exija el voto por correspondencia.
+
+Si así lo establecen los estatutos, las asambleas se podrán llevar a cabo mediante el uso de medios electrónicos, ópticos o de cualquier otra tecnología a fin de que la totalidad de los participantes en la asamblea o una parte de ellos pueda asistir.
+
+*Párrafo adicionado DOF 20-10-2023*
 
 #### Artículo 83.
 
@@ -1092,6 +1120,10 @@ En los estatutos se podrá prever que las resoluciones tomadas fuera de sesión 
 
 *Párrafo adicionado DOF 11-06-1992*
 
+Asimismo, en los estatutos se podrá prever que las sesiones del consejo de administración se puedan llevar a cabo mediante el uso de medios electrónicos, ópticos o de cualquier otra tecnología, tal y como si se tratara de sesiones del Consejo presenciales, pudiendo darse la participación de parte o todos los asistentes presencialmente o por medios electrónicos, ópticos o de cualquier otra tecnología teniendo la misma validez unas y otras.
+
+*Párrafo adicionado DOF 20-10-2023*
+
 #### Artículo 144.
 
 Cuando los administradores sean tres o más, el contrato social determinará los derechos que correspondan a la minoría en la designación, pero en todo caso la minoría que represente un veinticinco por ciento del capital social nombrará cuando menos un consejero. Este porcentaje será del diez por ciento, cuando se trate de aquellas sociedades que tengan inscritas sus acciones en la Bolsa de Valores.
@@ -1368,9 +1400,21 @@ En los estatutos se podrá prever que las resoluciones tomadas fuera de asamblea
 
 *Párrafo adicionado DOF 11-06-1992*
 
+Asimismo, en los estatutos se podrá prever asimismo que las asambleas de accionistas se puedan llevar a cabo mediante el uso de medios electrónicos, ópticos o de cualquier otra tecnología, tal y como si se tratara de asambleas de accionistas presenciales, pudiendo darse la participación de parte o todos los asistentes presencialmente o por medios electrónicos, ópticos o de cualquier otra tecnología teniendo la misma validez unas y otras.
+
+*Párrafo adicionado DOF 20-10-2023*
+
 #### Artículo 179.
 
 Las Asambleas Generales de Accionistas son ordinarias y extraordinarias. Unas y otras se reunirán en el domicilio social, y sin este requisito serán nulas, salvo caso fortuito o de fuerza mayor.
+
+No se entenderá que una Asamblea de Accionistas se realiza fuera del domicilio social por el sólo hecho de utilizarse medios electrónicos, ópticos o de cualquier otra tecnología.
+
+*Párrafo adicionado DOF 20-10-2023*
+
+Asimismo, sin necesidad de existir caso fortuito o fuerza mayor, los accionistas podrán celebrar asambleas fuera del domicilio social, siempre y cuando la totalidad de los accionistas lo aprueben y adicionalmente exista la posibilidad de utilizar medios electrónicos, ópticos o de cualquier otra tecnología para dichas asambleas, en este caso, se deberá señalar en el acta de asamblea, el domicilio en el cual se llevó a cabo la asamblea respectiva.
+
+*Párrafo adicionado DOF 20-10-2023*
 
 #### Artículo 180.
 
@@ -1442,9 +1486,9 @@ Si el Administrador o Consejo de Administración, o los Comisarios se rehusaren 
 
 #### Artículo 186.
 
-La convocatoria para las asambleas generales deberá hacerse por medio de la publicación de un aviso en el sistema electrónico establecido por la Secretaría de Economía con la anticipación que fijen los estatutos, o en su defecto, quince días antes de la fecha señalada para la reunión. Durante todo este tiempo estará a disposición de los accionistas, en las oficinas de la sociedad, el informe a que se refiere el enunciado general del artículo 172.
+La convocatoria para las asambleas generales deberá hacerse por medio de la publicación de un aviso en el sistema electrónico establecido por la Secretaría de Economía con la anticipación que fijen los estatutos, o en su defecto, quince días antes de la fecha señalada para la reunión. Durante todo este tiempo estará a disposición de los accionistas, en las oficinas de la sociedad, o en su defecto, en el medio electrónico, óptico o de cualquier otra tecnología que se determine para tal efecto en los estatutos de la sociedad, el informe a que se refiere el enunciado general del artículo 172.
 
-*Artículo reformado DOF 23-01-1981, 13-06-2014*
+*Artículo reformado DOF 23-01-1981, 13-06-2014, 20-10-2023*
 
 #### Artículo 187.
 
@@ -1480,7 +1524,9 @@ Salvo estipulación contraria de los estatutos, las Asambleas Generales de Accio
 
 #### Artículo 194.
 
-Las actas de las Asambleas Generales de Accionistas se asentarán en el libro respectivo y deberán ser firmadas por el Presidente y por el Secretario de la Asamblea, así como por los Comisarios que concurran. Se agregarán a las actas los documentos que justifiquen que las convocatorias se hicieron en los términos que esta Ley establece.
+Las actas de las Asambleas Generales de Accionistas se asentarán en el libro respectivo y deberán ser firmadas ya sea con firma autógrafa o electrónica, por el Presidente y por el Secretario de la Asamblea, así como por los Comisarios que concurran. Se agregarán a las actas los documentos que justifiquen que las convocatorias se hicieron en los términos que esta Ley establece.
+
+*Párrafo reformado DOF 20-10-2023*
 
 Cuando por cualquiera circunstancia no pudiere asentarse el acta de una asamblea en el libro respectivo, se protocolizará ante fedatario público.
 
@@ -2052,9 +2098,9 @@ Las asociaciones en participación funcionan, se disuelven y liquidan, a falta d
 
 La sociedad por acciones simplificada es aquella que se constituye con una o más personas físicas que solamente están obligadas al pago de sus aportaciones representadas en acciones. En ningún caso las personas físicas podrán ser simultáneamente accionistas de otro tipo de sociedad mercantil a que se refieren las fracciones I a VII, del artículo 1o. de esta Ley, si su participación en dichas sociedades mercantiles les permite tener el control de la sociedad o de su administración, en términos del artículo 2, fracción III de la Ley del Mercado de Valores.
 
-Los ingresos totales anuales de una sociedad por acciones simplificada no podrá rebasar de \$6,783,425.40. En caso de rebasar el monto respectivo, la sociedad por acciones simplificada deberá transformarse en otro régimen societario contemplado en esta Ley, en los términos en que se establezca en las reglas señaladas en el artículo 263 de la misma. El monto establecido en este párrafo se actualizará anualmente el primero de enero de cada año, considerando el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el que se efectúa la actualización, misma que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Economía publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año.
+Los ingresos totales anuales de una sociedad por acciones simplificada no podrá rebasar de \$7,076,469.38. En caso de rebasar el monto respectivo, la sociedad por acciones simplificada deberá transformarse en otro régimen societario contemplado en esta Ley, en los términos en que se establezca en las reglas señaladas en el artículo 263 de la misma. El monto establecido en este párrafo se actualizará anualmente el primero de enero de cada año, considerando el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el que se efectúa la actualización, misma que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Economía publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año.
 
-Cantidad del párrafo actualizada por acuerdo DOF 27-12-2022
+Cantidad del párrafo actualizada por acuerdo DOF 27-12-2022, 28-12-2023
 
 En caso que los accionistas no lleven a cabo la transformación de la sociedad a que se refiere el párrafo anterior responderán frente a terceros, subsidiaria, solidaria e ilimitadamente, sin perjuicio de cualquier otra responsabilidad en que hubieren incurrido.
 
@@ -2401,3 +2447,39 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 **ÚNICO.** El presente Acuerdo entrará en vigor el 1 de enero de 2023.
 
 Ciudad de México, a 19 de diciembre de 2022.- La Secretaria de Economía, Raquel Buenrostro Sánchez.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones de la Ley General de Sociedades Mercantiles.
+
+*Publicado en el Diario Oficial de la Federación el 20 de octubre de 2023*
+
+**Artículo Único.-** Se reforman los artículos 81, segundo párrafo; 186 y 194, primer párrafo; y se adicionan una fracción XIV al artículo 6o.; un párrafo segundo al artículo 75; los párrafos segundo y tercero al artículo 80; un párrafo tercero al artículo 82; un párrafo quinto al artículo 143; un tercer párrafo al artículo 178; los párrafos segundo, tercero y cuarto al artículo 179, de Ley General de Sociedades Mercantiles, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Las personas morales constituidas con anterioridad a la entrada en vigor de este Decreto podrán incorporar a sus estatutos las disposiciones reformadas mediante el presente Decreto.
+
+**Tercero.-** Las reformas al segundo párrafo del artículo 81 entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
+
+**Cuarto.-** Las sociedades constituidas antes de la reforma referida en el artículo tercero transitorio, deberán sujetarse a dicha disposición publicando las convocatorias en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio con los requisitos establecidos en dicha reforma, independientemente de que sus estatutos contemplen que se realizarán por otro medio.
+
+Ciudad de México, a 12 de septiembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de octubre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### ACUERDO por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles.
+
+*Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2023*
+
+**PRIMERO.** El factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, aplicable a 2024, corresponde a 1.0432.
+
+**SEGUNDO.** Para efectos informativos, se da a conocer que, como resultado de la aplicación del factor de actualización señalado en el numeral anterior a la cantidad prevista en el artículo Segundo del “Acuerdo por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles”, publicado en el Diario Oficial de la Federación el 27 de diciembre de 2022, los ingresos totales anuales de una sociedad por acciones simplificada no podrán rebasar de \$7,076,469.38 (siete millones setenta y seis mil cuatrocientos sesenta y nueve pesos 38/100 M.N.)
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Acuerdo entrará en vigor el 1 de enero de 2024.
+
+Ciudad de México, a 19 de diciembre de 2023.- La Secretaria de Economía, Raquel Buenrostro Sánchez.- Rúbrica.
