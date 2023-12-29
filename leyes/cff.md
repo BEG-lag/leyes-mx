@@ -3,12 +3,12 @@ title: Código Fiscal de la Federación
 abbreviation: CFF
 slug: cff
 published_dof: 1981-12-31
-last_reform_dof: 2022-12-27
+last_reform_dof: 2023-12-29
 articles: 417
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CFF.doc
-archived: https://web.archive.org/web/20230307183930/https://www.diputados.gob.mx/LeyesBiblio/doc/CFF.doc
-source_sha256: ab84c2e1741347a65303a372958412b7ab398c443f17aa755c90ab771f16aea6
-retrieved: 2023-03-07
+archived: https://web.archive.org/web/20240405093745/https://www.diputados.gob.mx/LeyesBiblio/doc/CFF.doc
+source_sha256: baf79656add4fc1639cad4e791ad1c86da82f4e5ca3ed7cee929eccb5fc7a9e9
+retrieved: 2024-04-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm
 ---
 
@@ -20,7 +20,7 @@ TEXTO VIGENTE
 
 Última reforma publicada DOF 12-11-2021
 
-Cantidades actualizadas y compiladas por Resolución Miscelánea Fiscal DOF 27-12-2022
+Cantidades actualizadas y compiladas por Resolución Miscelánea Fiscal DOF 29-12-2023
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -578,7 +578,9 @@ b) Proporcionar los servicios de acceso al registro de certificados. A dicho reg
 
 Las facultades mencionadas podrán ser ejercidas directamente en cualquier tiempo por el Servicio de Administración Tributaria, pudiendo hacerlo en forma separada o conjunta con las personas autorizadas en los términos de esta fracción.
 
-Los particulares que determinen el uso de la firma electrónica avanzada como medio de autenticación o firmado de documentos digitales, podrán solicitar al Servicio de Administración Tributaria que preste el servicio de verificación y autenticación de los certificados de firmas electrónicas avanzadas, así como el de la verificación de identidad de los usuarios. Los requisitos para otorgar la prestación de dicho servicio se establecerán mediante reglas de carácter general que emita dicho órgano administrativo desconcentrado.
+Los particulares que determinen el uso de la firma electrónica avanzada como medio de autenticación o firmado de documentos digitales, podrán solicitar al Servicio de Administración Tributaria que preste el servicio de verificación y autenticación de los certificados de firmas electrónicas avanzadas, [así como el de la verificación de identidad de los usuarios]. Los requisitos para otorgar la prestación de dicho servicio se establecerán mediante reglas de carácter general que emita dicho órgano administrativo desconcentrado.
+
+Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 31-05-2023 (En la porción normativa “así como el de la verificación de identidad de los usuarios”)
 
 ##### Artículo 17-G.
 
@@ -842,9 +844,11 @@ Para determinar las contribuciones al comercio exterior, así como para pagar aq
 
 La equivalencia del peso mexicano con monedas extranjeras distintas al dólar de los Estado Unidos de América que regirá para efectos fiscales, se calculará multiplicando el tipo de cambio a que se refiere el párrafo tercero del presente artículo, por el equivalente en dólares de la moneda de que se trate, de acuerdo con la tabla que mensualmente publique el Banco México durante la primera semana del mes inmediato siguiente a aquél al que corresponda.
 
-Se aceptará como medio de pago de las contribuciones y aprovechamientos, los cheques del mismo banco en que se efectúe el pago, la transferencia electrónica de fondos a favor de la Tesorería de la Federación, así como las tarjetas de crédito y débito, de conformidad con las reglas de carácter general que expida el Servicio de Administración Tributaria. Los contribuyentes personas físicas que realicen actividades empresariales y que en el ejercicio inmediato anterior hubiesen obtenido ingresos inferiores a \$2,455,520.00, así como las personas físicas que no realicen actividades empresariales y que hubiesen obtenido en dicho ejercicio ingresos inferiores a \$420,940.00, efectuarán el pago de sus contribuciones en efectivo, transferencia electrónica de fondos a favor de la Tesorería de la Federación, tarjetas de crédito y débito o cheques personales del mismo banco, siempre que en este último caso, se cumplan las condiciones que al efecto establezca el Reglamento de este Código. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de la Tesorería de la Federación, se realiza por las instituciones de crédito, en forma electrónica.
+Se aceptará como medio de pago de las contribuciones y aprovechamientos, los cheques del mismo banco en que se efectúe el pago, la transferencia electrónica de fondos a favor de la Tesorería de la Federación, así como las tarjetas de crédito y débito, de conformidad con las reglas de carácter general que expida el Servicio de Administración Tributaria. Los contribuyentes personas físicas que realicen actividades empresariales y que en el ejercicio inmediato anterior hubiesen obtenido ingresos inferiores a \$2,761,230.00, así como las personas físicas que no realicen actividades empresariales y que hubiesen obtenido en dicho ejercicio ingresos inferiores a \$473,350.00, efectuarán el pago de sus contribuciones en efectivo, transferencia electrónica de fondos a favor de la Tesorería de la Federación, tarjetas de crédito y débito o cheques personales del mismo banco, siempre que en este último caso, se cumplan las condiciones que al efecto establezca el Reglamento de este Código. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de la Tesorería de la Federación, se realiza por las instituciones de crédito, en forma electrónica.
 
-Cantidades del párrafo actualizadas por resolución miscelánea fiscal DOF 05-01-2022. Compiladas DOF 27-12-2022
+Cantidades del párrafo actualizadas por resolución miscelánea fiscal DOF 05-01-2022. Compiladas DOF 27-12-2022.
+
+Actualizadas DOF 29-12-2023
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes del adeudo principal, a los accesorios en el siguiente orden:
 
@@ -1223,9 +1227,9 @@ f) Omita enterar a las autoridades fiscales, dentro del plazo que las leyes esta
 
 g) Se encuentre en el listado a que se refiere el artículo 69-B, cuarto párrafo de este Código, por haberse ubicado en definitiva en el supuesto de presunción de haber emitido comprobantes que amparan operaciones inexistentes a que se refiere dicho artículo.
 
-h) Se encuentre en el supuesto a que se refiere el artículo 69-B, octavo párrafo de este Código, por no haber acreditado la efectiva adquisición de los bienes o recepción de los servicios, ni corregido su situación fiscal, cuando en un ejercicio fiscal dicha persona moral haya recibido comprobantes fiscales de uno o varios contribuyentes que se encuentren en el supuesto a que se refiere el cuarto párrafo del artículo 69-B del este código, por un monto superior a \$8,658,790.00.
+h) Se encuentre en el supuesto a que se refiere el artículo 69-B, octavo párrafo de este Código, por no haber acreditado la efectiva adquisición de los bienes o recepción de los servicios, ni corregido su situación fiscal, cuando en un ejercicio fiscal dicha persona moral haya recibido comprobantes fiscales de uno o varios contribuyentes que se encuentren en el supuesto a que se refiere el cuarto párrafo del artículo 69-B del este código, por un monto superior a \$9,736,810.00.
 
-Cantidad del inciso actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Cantidad del inciso actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 i) Se encuentre en el listado a que se refiere el artículo 69-B Bis, noveno párrafo de este Código, por haberse ubicado en definitiva en el supuesto de presunción de haber transmitido indebidamente pérdidas fiscales a que se refiere dicho artículo. Cuando la transmisión indebida de pérdidas fiscales sea consecuencia del supuesto a que se refiere la fracción III del mencionado artículo, también se considerarán responsables solidarios los socios o accionistas de la sociedad que adquirió y disminuyó indebidamente las pérdidas fiscales, siempre que con motivo de la reestructuración, escisión o fusión de sociedades, o bien, de cambio de socios o accionistas, la sociedad deje de formar parte del grupo al que perteneció.
 
@@ -1749,15 +1753,17 @@ Para los efectos de este artículo, una vez que las autoridades fiscales hayan i
 
 ##### Artículo 32-A.
 
-Las personas físicas con actividades empresariales y las personas morales, que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a \$140,315,940.00, que el valor de su activo determinado en los términos de las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, sea superior a \$110,849,600.00 o que por lo menos trescientos de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior, podrán optar por dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado. No podrán ejercer la opción a que se refiere este artículo las entidades paraestatales de la Administración Pública Federal.
+Las personas físicas con actividades empresariales y las personas morales, que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a \$157,785,270.00, que el valor de su activo determinado en los términos de las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, sea superior a \$124,650,380.00 o que por lo menos trescientos de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior, podrán optar por dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado. No podrán ejercer la opción a que se refiere este artículo las entidades paraestatales de la Administración Pública Federal.
 
-Cantidades del párrafo actualizadas por resolución miscelánea fiscal DOF 05-01-2022. Compiladas DOF 27-12-2022
+Cantidades del párrafo actualizadas por resolución miscelánea fiscal DOF 05-01-2022. Compiladas DOF 27-12-2022.
 
-Están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público inscrito, las personas morales que tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a \$1,779,063,820.00, así como aquéllas que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores.
+Actualizadas DOF 29-12-2023
+
+Están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público inscrito, las personas morales que tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a \$1,855,919,380.00, así como aquéllas que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores.
 
 *Párrafo reformado DOF 12-11-2021*
 
-Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022, 29-12-2023
 
 El monto de la cantidad establecida en el párrafo anterior se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúe el cálculo, de conformidad con el procedimiento a que se refiere el artículo 17-A de este Código.
 
@@ -2007,9 +2013,9 @@ La información a que se refiere el párrafo anterior se deberá presentar a má
 
 Los contribuyentes que a continuación se señalan deberán presentar ante las autoridades fiscales, como parte de la declaración del ejercicio, la información sobre su situación fiscal, utilizando los medios y formatos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.
 
-I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a \$974,653,950.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
+I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a \$1,016,759,000.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
 
-Cantidad del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Cantidad del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022, 29-12-2023
 
 El monto de la cantidad establecida en el párrafo anterior se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúe el cálculo, de conformidad con el procedimiento a que se refiere el artículo 17-A de este Código.
 
@@ -3151,9 +3157,9 @@ III. Que los depósitos en la cuenta bancaria del contribuyente que no correspon
 
 Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación.
 
-También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a \$1,804,010.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
+También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a 2,028,610.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
 
-Cantidad del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Cantidad del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 No se aplicará lo dispuesto en el párrafo anterior cuando, antes de que la autoridad inicie el ejercicio de sus facultades de comprobación, el contribuyente informe al Servicio de Administración Tributaria de los depósitos realizados, cubriendo todos los requisitos que dicho órgano desconcentrado establezca mediante reglas de carácter general.
 
@@ -3777,33 +3783,33 @@ A quien cometa las infracciones relacionadas con el Registro Federal de Contribu
 
 I. De \$4,480.00 a \$13,430.00, a las comprendidas en las fracciones I, II y VI.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
-II. De \$4,800.00 a \$9,590.00, a la comprendida en la fracción III. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de \$1,600.00 a \$3,200.00.
+II. De \$5,400.00 a \$10,780.00, a la comprendida en la fracción III. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de \$1,800.00 a \$3,600.00.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 III. Para la señalada en la fracción IV:
 
 a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y \$9,530.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de \$3,810.00 ni mayor de \$9,530.00.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 b) De \$1,160.00 a \$2,660.00, en los demás documentos.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 IV. De \$22,400.00 a \$44,790.00, para la establecida en la fracción V.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 V. De \$4,440.00 a \$13,390.00, a la comprendida en la fracción VII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
-VI. De \$19,170.00 a \$38,360.00, a las comprendidas en las fracciones VIII, IX y X.
+VI. De \$21,560.00 a \$43,140.00, a las comprendidas en las fracciones VIII, IX y X.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 ##### Artículo 81.
 
@@ -3937,201 +3943,201 @@ I. Para la señalada en la fracción I:
 
 a) De \$1,810.00 a \$22,400.00, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 b) De \$1,810.00 a \$44,790.00, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 c) De \$17,190.00 a \$34,350.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 d) De \$18,360.00 a \$36,740.00, por no presentar las declaraciones en los medios electrónicos estando obligado a ello, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los plazos señalados en los mismos.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 e) De \$1,840.00 a \$5,880.00, en los demás documentos.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 II. Respecto de la señalada en la fracción II:
 
 a) De \$1,340.00 a \$4,480.00, por no poner el nombre o domicilio o ponerlos equivocadamente, por cada uno.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 b) De \$30.00 a \$120.00, por cada dato no asentado o asentado incorrectamente en la relación de clientes y proveedores contenidas en las formas oficiales.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 c) De \$240.00 a \$440.00, por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 d) De \$900.00 a \$2,230.00, por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 e) De \$5,500.00 a \$18,360.00, por presentar medios electrónicos que contengan declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 f) De \$1,620.00 a \$4,860.00, por no presentar firmadas las declaraciones por el contribuyente o por el representante legal debidamente acreditado.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 g) De \$810.00 a \$2,210.00, en los demás casos.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 III. De \$1,810.00 a \$44,790.00, tratándose de la señalada en la fracción III, por cada requerimiento.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 IV. De \$22,400.00 a \$44,790.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de \$2,230.00 a \$13,430.00.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 V. Para la señalada en la fracción V, la multa será de \$15,380.00 a \$30,800.00.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 VI. Para la señalada en la fracción VI la multa será de \$4,480.00 a \$13,430.00.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 VII. De \$1,110.00 a \$11,300.00, para la establecida en la fracción VII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 VIII. Para la señalada en la fracción VIII, la multa será de \$85,000.00 a \$254,980.00.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 IX. De \$13,430.00 a \$44,790.00, para la establecida en la fracción IX.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
-X. De \$12,540.00 a \$23,500.00, para la establecida en la fracción X.
+X. De \$14,100.00 a \$26,430.00, para la establecida en la fracción X.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-XI. De \$146,740.00 a \$195,660.00, para la establecida en la fracción XI, por cada sociedad integrada no incluida en la solicitud de autorización para determinar el resultado fiscal integrado o no incorporada al régimen opcional para grupos de sociedades.
+XI. De \$165,010.00 a \$220,020.00, para la establecida en la fracción XI, por cada sociedad integrada no incluida en la solicitud de autorización para determinar el resultado fiscal integrado o no incorporada al régimen opcional para grupos de sociedades.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 XII. De \$58,240.00 a \$89,630.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XIII. De \$13,430.00 a \$44,790.00, para la establecida en la fracción XIII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XIV. De \$13,430.00 a \$31,350.00, para la establecida en la fracción XIV.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XV. De \$112,020.00 a \$224,040.00, para la establecida en la fracción XV.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
-XVI. De \$13,920.00 a \$27,830.00, a la establecida en la fracción XVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
+XVI. De \$15,650.00 a \$31,290.00, a la establecida en la fracción XVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 XVII. De \$99,590.00 a \$199,190.00, para la establecida en la fracción XVII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XVIII. De \$12,700.00 a \$21,150.00, para la establecida en la fracción XVIII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XIX. De \$21,150.00 a \$42,340.00, para la establecida en la fracción XIX.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XX. De \$6,780.00 a \$13,560.00, para la establecida en la fracción XX.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XXI. De \$162,050.00 a \$324,130.00, para la establecida en la fracción XXI.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XXII. De \$6,780.00 a \$13,560.00, por cada informe no proporcionado a los contribuyentes, para la establecida en la fracción XXII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XXIII. De \$19,440.00 a \$35,650.00, a la establecida en la fracción XXIII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XXIV. De \$6,780.00 a \$13,560.00, por cada constancia no proporcionada, para la establecida en la fracción XXIV.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XXV. Para el supuesto de la fracción XXV, las siguientes, según corresponda:
 
-a) De \$35,000.00 a \$61,500.00, para la establecida en el primer párrafo.
+a) De \$39,360.00 a \$69,160.00, para la establecida en el primer párrafo.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-b) De \$1,000,000.00 a \$1,500,000.00, para la establecida en el segundo párrafo, inciso a).
+b) De \$1,124,500.00 a \$1,686,750.00, para la establecida en el segundo párrafo, inciso a).
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-c) De \$2,000,000.00 a \$3,000,000.00, para la establecida en el segundo párrafo, inciso b). La sanción consistirá además en la clausura del establecimiento del contribuyente, por un plazo de uno a tres meses.
+c) De \$2,249,000.00 a \$3,373,500.00, para la establecida en el segundo párrafo, inciso b). La sanción consistirá además en la clausura del establecimiento del contribuyente, por un plazo de uno a tres meses.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-d) De \$3,000,000.00 a \$5,000,000.00, para las establecidas en el segundo párrafo, incisos c) y d). La sanción consistirá además en la clausura del establecimiento del contribuyente, por un plazo de tres a seis meses.
+d) De \$3,373,500.00 a \$5,622,500.00, para las establecidas en el segundo párrafo, incisos c) y d). La sanción consistirá además en la clausura del establecimiento del contribuyente, por un plazo de tres a seis meses.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-e) De \$35,000.00 a \$61,500.00, para la establecida en el segundo párrafo, inciso e), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código no enviados al Servicio de Administración Tributaria.
+e) De \$39,360.00 a \$69,160.00, para la establecida en el segundo párrafo, inciso e), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código no enviados al Servicio de Administración Tributaria.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-f) De \$35,000.00 a \$61,500.00, para la establecida en el segundo párrafo, inciso f), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código enviados al Servicio de Administración Tributaria fuera del plazo establecido.
+f) De \$39,360.00 a \$69,160.00, para la establecida en el segundo párrafo, inciso f), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código enviados al Servicio de Administración Tributaria fuera del plazo establecido.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-g) De \$35,000.00 a \$61,500.00, para la establecida en el segundo párrafo, inciso g), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código enviados de forma incompleta, con errores, o en forma distinta a lo señalado en dicho apartado.
+g) De \$39,360.00 a \$69,160.00, para la establecida en el segundo párrafo, inciso g), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código enviados de forma incompleta, con errores, o en forma distinta a lo señalado en dicho apartado.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-h) De \$35,000.00 a \$61,500.00, para la establecida en el segundo párrafo, inciso h), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código no generados o conservados.
+h) De \$39,360.00 a \$69,160.00, para la establecida en el segundo párrafo, inciso h), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código no generados o conservados.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
 *Fracción reformada DOF 12-11-2021*
 
-XXVI. De \$13,230.00 a \$26,460.00, a la establecida en la fracción XXVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
+XXVI. De \$14,880.00 a \$29,750.00, a la establecida en la fracción XXVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 XXVII. De \$15,380.00 a \$30,800.00, a la establecida en la fracción XXVII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XXVIII. De \$930.00 a \$1,400.00, a la establecida en la fracción XXVIII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XXIX. De \$62,360.00 a \$311,820.00, a la establecida en la fracción XXIX. En caso de reincidencia la multa será de \$124,710.00 a \$623,640.00, por cada requerimiento que se formule.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XXX. De \$204,050.00 a \$290,520.00, a la establecida en la fracción XXX.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XXXI. De \$204,050.00 a \$290,520.00, a la establecida en la fracción XXXI.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XXXII. (Se deroga).
 
@@ -4139,25 +4145,25 @@ XXXIII. (Se deroga)
 
 XXXIV. De \$26,440.00 a \$44,050.00 por cada solicitud no atendida, para la señalada en la fracción XXXIV.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XXXV. (Se deroga).
 
-XXXVI. De \$102,060.00 a \$127,570.00 a la establecida en las fracciones XXXVI, XXXVII, XXXVIII, XLII y XLIV, y, en su caso, la cancelación de la autorización para recibir donativos deducibles.
+XXXVI. De \$114,770.00 a \$143,450.00 a la establecida en las fracciones XXXVI, XXXVII, XXXVIII, XLII y XLIV, y, en su caso, la cancelación de la autorización para recibir donativos deducibles.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 XXXVII. De \$199,630.00 a \$284,220.00, para la establecida en la fracción XL.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XXXVIII. Respecto de las señaladas en la fracción XLI de \$7,110.00 a \$21,310.00, por no ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria, como lo prevé el artículo 28, fracción IV del Código, dentro de los plazos establecidos en las disposiciones fiscales estando obligado a ello; ingresarla a través de archivos con alteraciones que impidan su lectura; no ingresarla de conformidad con las reglas de carácter general emitidas para tal efecto, o no cumplir con los requerimientos de información o de documentación formulados por las autoridades fiscales en esta materia.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
-XXXIX. De \$179,290.00 a \$255,260.00 a la establecida en la fracción XXXIX.
+XXXIX. De \$201,610.00 a \$287,040.00 a la establecida en la fracción XXXIX.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 XL. Se deroga.
 
@@ -4165,7 +4171,7 @@ XL. Se deroga.
 
 XLI. De \$173,610.00 a \$347,220.00 a la establecida en la fracción XLV, por cada obligación de entregar información no cumplida.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XLII. Del 5% a un 10% del monto de cada comprobante fiscal, tratándose del supuesto establecido en la fracción XLVI.
 
@@ -4193,33 +4199,33 @@ VII. No presentar la declaración informativa que contenga una lista con los nom
 
 A quien cometa las infracciones relacionadas con la revelación de esquemas reportables previstas en el artículo 82-A, se impondrán las siguientes sanciones:
 
-I. De \$55,480.00 a \$22,190,000.00 en el supuesto previsto en la fracción I.
+I. De \$62,390.00 a \$24,952,660.00 en el supuesto previsto en la fracción I.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-II. De \$16,640.00 a \$22,190.00 en el supuesto previsto en la fracción II.
+II. De \$18,710.00 a \$24,950.00 en el supuesto previsto en la fracción II.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-III. De \$22,190.00 a \$27,740.00 en el supuesto previsto en la fracción III.
+III. De \$24,950.00 a \$31,190.00 en el supuesto previsto en la fracción III.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-IV. De \$110,950.00 a \$332,850.00 en el supuesto previsto en la fracción IV.
+IV. De \$124,760.00 a \$374,290.00 en el supuesto previsto en la fracción IV.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-V. De \$27,740.00 a \$33,290.00 en el supuesto previsto en la fracción V.
+V. De \$31,190.00 a \$37,430.00 en el supuesto previsto en la fracción V.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-VI. De \$110,950.00 a \$554,750.00 en el supuesto previsto en la fracción VI.
+VI. De \$124,760.00 a \$623,820.00 en el supuesto previsto en la fracción VI.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-VII. De \$55,480.00 a \$77,670.00 en el supuesto previsto en la fracción VII.
+VII. De \$62,390.00 a \$87,340.00 en el supuesto previsto en la fracción VII.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 ##### Artículo 82-C.
 
@@ -4239,17 +4245,17 @@ A quien cometa las infracciones relacionadas con la revelación de esquemas repo
 
 I. En el supuesto previsto por la fracción I, no se aplicará el beneficio fiscal previsto en el esquema reportable y se aplicará una sanción económica equivalente a una cantidad entre el 50% y el 75% del monto del beneficio fiscal del esquema reportable que se obtuvo o se esperó obtener en todos los ejercicios fiscales que involucra o involucraría la aplicación del esquema.
 
-II. De \$55,480.00 a \$110,950.00 en el supuesto previsto en la fracción II.
+II. De \$62,390.00 a \$124,760.00 en el supuesto previsto en la fracción II.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-III. De \$110,950.00 a \$388,330.00 en el supuesto previsto en la fracción III.
+III. De \$124,760.00 a \$436,680.00 en el supuesto previsto en la fracción III.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-IV. De \$221,900.00 a \$2,219,000.00 en el supuesto previsto en la fracción IV.
+IV. De \$249,530.00 a \$2,495,270.00 en el supuesto previsto en la fracción IV.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 ##### Artículo 82-E.
 
@@ -4273,29 +4279,29 @@ VI. Celebrar contratos o mantener cuentas financieras incumpliendo lo establecid
 
 A quien cometa las infracciones a que se refiere el artículo 82-E de este Código, se le impondrán las siguientes multas:
 
-I. De \$100,000 a \$150,000 a las establecidas en la fracción I, por cada cuenta.
+I. De \$112,450.00 a \$168,680.00 a las establecidas en la fracción I, por cada cuenta.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-II. De \$120,000 a \$170,000 a la establecida en la fracción II, por cada cuenta.
+II. De \$134,940.00 a \$191,170.00 a la establecida en la fracción II, por cada cuenta.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-III. De \$10,000 a \$50,000 a la establecida en la fracción III, por cada dato que se presente incompleto, con errores o en forma distinta a lo señalado por las disposiciones aplicables.
+III. De \$11,250.00 a \$56,230.00 a la establecida en la fracción III, por cada dato que se presente incompleto, con errores o en forma distinta a lo señalado por las disposiciones aplicables.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-IV. De \$60,000 a \$110,000 a la establecida en la fracción IV, por cada cuenta.
+IV. De \$67,470.00 a \$123,700.00 a la establecida en la fracción IV, por cada cuenta.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-V. De \$100,000 a \$150,000 a la establecida en la fracción V, por cada cuenta no registrada.
+V. De \$112,450.00 a \$168,680.00 a la establecida en la fracción V, por cada cuenta no registrada.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-VI. De \$800,000 a \$1,000,000 a la establecida en la fracción VI, por cada contrato celebrado o cuenta financiera mantenida.
+VI. De \$899,600.00 a \$1,124,500.00 a la establecida en la fracción VI, por cada contrato celebrado o cuenta financiera mantenida.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
 *Artículo adicionado DOF 12-11-2021*
 
@@ -4323,11 +4329,11 @@ A quien cometa las infracciones a que se refiere el artículo 82-G de este Códi
 
 I. De \$10.00 a \$20.00, a las establecidas en las fracciones I, y VI, por cada comprobante fiscal que incumpla con los requisitos establecidos.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-II. De \$21.00 a \$50.00, a las establecidas en las fracciones II, III, IV, y V, por cada comprobante fiscal que incumpla con los requisitos establecidos.
+II. De \$20.00 a \$60.00, a las establecidas en las fracciones II, III, IV, y V, por cada comprobante fiscal que incumpla con los requisitos establecidos.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
 *Artículo adicionado DOF 12-11-2021*
 
@@ -4387,71 +4393,71 @@ A quien cometa las infracciones relacionadas con la obligación de llevar contab
 
 I. De \$1,960.00 a \$19,530.00, a la comprendida en la fracción I.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 II. De \$430.00 a \$9,760.00, a las establecidas en las fracciones II y III.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
-III. De \$260.00 a \$4,740.00 por cometer la señalada en la fracción IV consistente en no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos, con identificación incorrecta de su objeto o fuera de los plazos respectivos; y por la infracción consistente en registrar gastos inexistentes prevista en la citada fracción IV de un 55% a un 75% del monto de cada registro de gasto inexistente.
+III. De \$290.00 a \$5,330.00 por cometer la señalada en la fracción IV consistente en no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos, con identificación incorrecta de su objeto o fuera de los plazos respectivos; y por la infracción consistente en registrar gastos inexistentes prevista en la citada fracción IV de un 55% a un 75% del monto de cada registro de gasto inexistente.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 IV. Para el supuesto de la fracción VII, las siguientes, según corresponda:
 
 a) De \$19,700.00 a \$112,650.00. En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar preventivamente el establecimiento del contribuyente por un plazo de tres a quince días; para determinar dicho plazo, se tomará en consideración lo previsto por el artículo 75 de este Código.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
-b) De \$1,700.00 a \$3,380.00 tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta. En caso de reincidencia, adicionalmente las autoridades fiscales podrán aplicar la clausura preventiva a que se refiere el inciso anterior.
+b) De \$1,910.00 a \$3,800.00 tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta. En caso de reincidencia, adicionalmente las autoridades fiscales podrán aplicar la clausura preventiva a que se refiere el inciso anterior.
 
-Multa del inciso actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa del inciso actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-c) De \$16,940.00 a \$96,820.00 tratándose de contribuyentes que cuenten con la autorización para recibir donativos deducibles a que se refieren los artículos 79, 82, 83 y 84 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según corresponda. En caso de reincidencia, además se revocará la autorización para recibir donativos deducibles.
+c) De \$19,050.00 a \$108,870.00 tratándose de contribuyentes que cuenten con la autorización para recibir donativos deducibles a que se refieren los artículos 79, 82, 83 y 84 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según corresponda. En caso de reincidencia, además se revocará la autorización para recibir donativos deducibles.
 
-Multa del inciso actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa del inciso actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-d) De \$400.00 a \$600.00 por cada comprobante fiscal que se emita y no cuente con los complementos que se determinen mediante las reglas de carácter general, que al efecto emita el Servicio de Administración Tributaria.
+d) De \$450.00 a \$670.00 por cada comprobante fiscal que se emita y no cuente con los complementos que se determinen mediante las reglas de carácter general, que al efecto emita el Servicio de Administración Tributaria.
 
 *Inciso adicionado DOF 12-11-2021*
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
 V. De \$1,190.00 a \$15,600.00, a la señalada en la fracción VI.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
-VI. De \$19,050.00 a \$108,880.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de \$1,910.00 a \$3,800.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+VI. De \$21,420.00 a \$122,440.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de \$2,150.00 a \$4,270.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 VII. (Se deroga).
 
 VIII. De \$8,960.00 a \$44,790.00, a la comprendida en la fracción XIII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
-IX. De \$15,410.00 a \$154,050.00 a la comprendida en la fracción X.
+IX. De \$17,330.00 a \$173,230.00 a la comprendida en la fracción X.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 X. De tres a cinco veces el monto o valor señalado en el comprobante fiscal digital por Internet que ampare el donativo, a la comprendida en la fracción XI.
 
 XI. De \$880.00 a \$17,030.00, a la comprendida en la fracción XII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XII. (Se deroga)
 
 XIII. De \$2,260.00 a \$6,780.00, a la señalada en la fracción XV, por cada operación no identificada en contabilidad.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 XIV. (Se deroga).
 
-XV. De \$15,410.00 a \$154,050.00 a la comprendida en la fracción XVII.
+XV. De \$17,330.00 a \$173,230.00 a la comprendida en la fracción XVII.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 XVI. De un 55% a un 75% del importe de cada comprobante fiscal, tratándose de los supuestos establecidos en las fracciones XVIII y XIX.
 
@@ -4499,49 +4505,49 @@ A quien cometa las infracciones relacionadas con las entidades financieras o soc
 
 I. De \$430.00 a \$19,530.00, a la comprendida en la fracción I.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 II. Por el 20% del valor del cheque a la establecida en la fracción II.
 
 III. De \$30.00 a \$100.00, por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 IV. De \$648,250.00 a \$1,296,470.00, a la establecida en la fracción IV.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 V. De \$8,510.00 a \$127,460.00, a la establecida en la fracción V.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 VI. De \$32,400.00 a \$97,220.00, a la establecida en la fracción VI.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 VII. De \$120.00 a \$230.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de \$456,320.00 a \$912,630.00, por no proporcionar la información, a las señaladas en la fracción VII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
-VIII. De \$355,040.00 a \$394,510.00, a las establecidas en las fracciones VIII, IX y X.
+VIII. De \$399,240.00 a \$443,630.00, a las establecidas en las fracciones VIII, IX y X.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-IX. De \$355,040.00 a \$394,510.00, a las establecidas en la fracción XI.
+IX. De \$399,240.00 a \$443,630.00, a las establecidas en la fracción XI.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-X. De \$70,150.00 a \$84,180.00, a la establecida en la fracción XIV.
+X. De \$78,880.00 a \$94,660.00, a la establecida en la fracción XIV.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-XI. De \$315,720.00 a \$701,570.00, a la establecida en la fracción XII.
+XI. De \$355,030.00 a \$788,920.00, a la establecida en la fracción XII.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-XII. De \$6,520.00 a \$97,730.00, a la establecida en la fracción XIII.
+XII. De \$7,330.00 a \$109,900.00, a la establecida en la fracción XIII.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 ##### Artículo 84-C.
 
@@ -4551,7 +4557,7 @@ Son infracciones de los usuarios de los servicios, así como de los cuentahabien
 
 A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de \$560.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de \$1,660.00 por cada una de las mismas.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 ##### Artículo 84-E.
 
@@ -4561,7 +4567,7 @@ Se considera infracción en la que pueden incurrir las empresas de factoraje fin
 
 De \$8,510.00 a \$85,000.00, a quien cometa la infracción a que se refiere el artículo 84-E.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 ##### Artículo 84-G.
 
@@ -4571,7 +4577,7 @@ Se considera infracción en la que pueden incurrir las casas de bolsa, el no pro
 
 A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G de este Código se le impondrá una multa de \$6,530.00 a \$13,060.00 por cada informe no proporcionado.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 ##### Artículo 84-I.
 
@@ -4581,7 +4587,7 @@ Se considera infracción en la que pueden incurrir las personas que emitan tarje
 
 A las personas morales que cometan la infracción a que se refiere el artículo 84-I de este Código, se les impondrá una multa de \$120.00 a \$230.00 por cada estado de cuenta no emitido en términos del artículo 32-E de este Código.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 ##### Artículo 84-K.
 
@@ -4591,7 +4597,7 @@ Se considera infracción en la que pueden incurrir las personas morales a que se
 
 A las personas morales a que se refiere el artículo 84-I de este Código, que cometan la infracción a que se refiere el artículo 84-K de este Código se les impondrá una multa de \$456,320.00 a \$912,630.00, por no proporcionar la información del estado de cuenta que se haya requerido.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 ##### Artículo 84-M.
 
@@ -4609,17 +4615,17 @@ III. Presentar la información a que se refiere el artículo 32-B Ter de este C�
 
 A quien cometa las infracciones a que se refiere el artículo 84-M de este Código, se le impondrán las siguientes multas:
 
-I. De \$1,500,000.00 a \$2,000,000.00 a las comprendidas en la fracción I, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
+I. De \$1,686,750.00 a \$2,249,000.00 a las comprendidas en la fracción I, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-II. De \$800,000.00 a \$1,000,000.00 a la establecida en la fracción II, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
+II. De \$899,600.00 a \$1,124,500.00 a la establecida en la fracción II, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
-III. De \$500,000.00 a \$800,000.00 a la establecida en la fracción III, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
+III. De \$562,250.00 a \$899,600.00 a la establecida en la fracción III, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
 *Artículo adicionado DOF 12-11-2021*
 
@@ -4643,23 +4649,23 @@ A quien cometa las infracciones relacionadas con el ejercicio de las facultades 
 
 I. De \$22,400.00 a \$67,210.00, a la comprendida en la fracción I.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 II. De \$1,960.00 a \$80,880.00, a la establecida en la fracción II.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 III. De \$4,250.00 a \$106,250.00, a la establecida en la fracción III.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 IV. De \$171,240.00 a \$228,320.00, a la comprendida en la fracción IV.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 V. De \$9,710.00 a \$16,180.00, sin perjuicio de las demás sanciones que procedan, a la establecida en la fracción V.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 ##### Artículo 86-A.
 
@@ -4697,37 +4703,37 @@ IX. Producir más de una vez los folios electrónicos que le fueron autorizados 
 
 A quienes cometan las infracciones señaladas en el artículo 86-A de este Código, se impondrán las siguientes multas:
 
-I. De \$70.00 a \$140.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido, o bien, por cada marbete o precinto falso o alterado.
+I. De \$80.00 a \$160.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido, o bien, por cada marbete o precinto falso o alterado.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 II. De \$30.00 a \$150.00, a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
-III. De \$20.00 a \$70.00, a la comprendida en la fracción III, por cada envase o recipiente que carezca de marbete o precinto, según se trate, o bien por cada marbete o precinto falso o alterado.
+III. De \$20.00 a \$80.00, a la comprendida en la fracción III, por cada envase o recipiente que carezca de marbete o precinto, según se trate, o bien por cada marbete o precinto falso o alterado.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 IV. De \$30.00 a \$140.00, a la comprendida en la fracción IV, por cada envase vacío no destruido.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
-V. De \$560.00 a \$850.00, por cada marbete o precinto que haya sido adquirido ilegalmente.
+V. De \$630.00 a \$960.00, por cada marbete o precinto que haya sido adquirido ilegalmente.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-VI. De \$20,000.00 a \$50,000.00 a la comprendida en la fracción VIII, por cada ocasión que el Servicio de Administración Tributaria, en el ejercicio de sus facultades, detecte que no se realiza la lectura del código QR del marbete en presencia del consumidor final.
-
-*Fracción adicionada DOF 12-11-2021*
-
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
-
-VII. De \$50,000.00 a \$100,000.00 a la comprendida en la fracción IX, por cada ocasión que el Servicio de Administración Tributaria, en el ejercicio de sus facultades, determine la conducta señalada en dicha fracción.
+VI. De \$22,490.00 a \$56,230.00 a la comprendida en la fracción VIII, por cada ocasión que el Servicio de Administración Tributaria, en el ejercicio de sus facultades, detecte que no se realiza la lectura del código QR del marbete en presencia del consumidor final.
 
 *Fracción adicionada DOF 12-11-2021*
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+
+VII. De \$56,230.00 a \$112,450.00 a la comprendida en la fracción IX, por cada ocasión que el Servicio de Administración Tributaria, en el ejercicio de sus facultades, determine la conducta señalada en dicha fracción.
+
+*Fracción adicionada DOF 12-11-2021*
+
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
 
 En caso de reincidencia, la sanción consistirá en la clausura del establecimiento del contribuyente o poseedor de los bienes a que se refiere el artículo 86-A, por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
@@ -4741,9 +4747,9 @@ Se considera infracción en la que pueden incurrir los contribuyentes conforme l
 
 ##### Artículo 86-D.
 
-A quien cometa la infracción relacionada con la no habilitación del buzón tributario, el no registro o actualización de los medios de contacto conforme a lo previsto en el artículo 86-C, se impondrá una multa de \$3,420.00 a \$10,260.00.
+A quien cometa la infracción relacionada con la no habilitación del buzón tributario, el no registro o actualización de los medios de contacto conforme a lo previsto en el artículo 86-C, se impondrá una multa de \$3,850.00 a \$11,540.00.
 
-Multa del artículo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa del artículo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 ##### Artículo 86-E.
 
@@ -4755,7 +4761,7 @@ Asimismo, son infracciones de los productores o envasadores de bebidas alcohóli
 
 A quienes cometan las infracciones señaladas en el artículo 86-E de este Código, se les impondrá una multa de \$63,490.00 a \$148,160.00. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 ##### Artículo 86-G.
 
@@ -4775,15 +4781,15 @@ También se consideran infracciones de los productores, fabricantes e importador
 
 A quienes cometan las infracciones señaladas en el artículo 86-G, primer párrafo, se les impondrá una multa de \$10.00 a \$20.00 por cada cajetilla de cigarros que no contenga impreso el código de seguridad a que se refiere el artículo 19, fracción XXII de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción I de este Código, se les impondrá una multa de \$28,070.00 a \$420,940.00 cada vez que no proporcionen o no pongan a disposición de las autoridades fiscales la información, documentación o dispositivos, que permitan constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios, respectivamente.
+A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción I de este Código, se les impondrá una multa de \$31,560.00 a \$473,350.00 cada vez que no proporcionen o no pongan a disposición de las autoridades fiscales la información, documentación o dispositivos, que permitan constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios, respectivamente.
 
-Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
-A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción II de este Código, se les impondrá una multa de \$28,070.00 a \$420,940.00, por cada vez que no permitan la realización de las verificaciones en los establecimientos o domicilios de los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, así como de los proveedores autorizados de servicios de impresión de códigos de seguridad, o bien en cualquier lugar en donde se encuentren los mecanismos o sistemas de impresión del referido código de seguridad, a efecto de constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios.
+A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción II de este Código, se les impondrá una multa de \$31,560.00 a \$473,350.00, por cada vez que no permitan la realización de las verificaciones en los establecimientos o domicilios de los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, así como de los proveedores autorizados de servicios de impresión de códigos de seguridad, o bien en cualquier lugar en donde se encuentren los mecanismos o sistemas de impresión del referido código de seguridad, a efecto de constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar el establecimiento del infractor por un plazo de 15 días, para ello, la autoridad fiscal notificará al contribuyente dentro de un plazo de veinte días contados a partir de la reincidencia, para que dentro de los diez días siguientes manifieste lo que a su derecho convenga, ya que en caso de no hacerlo o no desvirtuarse los hechos u omisiones que se le atribuyen, se procederá a la clausura.
 
@@ -4799,7 +4805,7 @@ Cometen infracción quienes almacenen, vendan, enajenen o distribuyan en México
 
 A quienes cometan las infracciones señaladas en el artículo 86-I de este Código se les impondrá una multa de \$10.00 a \$20.00 por cada cajetilla de cigarros que no contenga impreso el código de seguridad a que se refiere el artículo 19, fracción XXII de la Ley del Impuesto Especial sobre Producción y Servicios, o el que contengan sea apócrifo.
 
-Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022
+Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
 
 Las cajetillas de cigarros a que se refiere el párrafo anterior serán aseguradas y pasarán a propiedad del fisco federal para su destrucción.
 
@@ -4825,7 +4831,7 @@ VI. No emitir la resolución a que se refiere el artículo 69-B de este Código 
 
 Se sancionará con una multa de \$171,240.00 a \$228,320.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 ##### Artículo 89.
 
@@ -4845,7 +4851,7 @@ No se incurrirá en la infracción a que se refiere la fracción primera de este
 
 Se sancionará con una multa de \$69,900.00 a \$109,870.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89 de este Código.
 
-Multa del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 En los supuestos señalados en la fracción I del artículo citado, se considerará como agravante que la asesoría, el consejo o la prestación de servicios sea diversa a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código. En este caso, la multa se aumentará de un 10% a un 20% del monto de la contribución omitida, sin que dicho aumento exceda del doble de los honorarios cobrados por la asesoría, el consejo o la prestación de servicios.
 
@@ -4855,7 +4861,7 @@ No se incurrirá en la agravante a que se refiere el párrafo anterior, cuando s
 
 Se sancionará con una multa de \$578,700.00 a \$1,157,400.00 a los concesionarios de una red pública de telecomunicaciones en México que no cumplan, en un plazo máximo de cinco días, con la orden de bloquear el acceso al servicio digital del proveedor de dichos servicios prevista en el artículo 18-H QUÁTER, segundo párrafo, de la Ley del Impuesto al Valor Agregado. Igual sanción se aplicará cuando los concesionarios mencionados no lleven a cabo el desbloqueo en el plazo a que se refiere el artículo 18-H QUINTUS, segundo párrafo, de la citada Ley.
 
-Multa del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 Dicha sanción también se impondrá por cada mes de calendario que transcurra sin cumplir las mencionadas órdenes.
 
@@ -4863,7 +4869,7 @@ Dicha sanción también se impondrá por cada mes de calendario que transcurra s
 
 La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de \$430.00 a \$4,100.00.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 ##### Artículo 91-A.
 
@@ -5009,7 +5015,7 @@ No se formulará la declaratoria a que se refiere el artículo 92, fracción II,
 
 *Párrafo reformado DOF 12-11-2021*
 
-Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 ##### Artículo 103.
 
@@ -5079,11 +5085,15 @@ El delito de contrabando se sancionará con pena de prisión:
 
 I. De tres meses a cinco años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta \$1,603,710.00, respectivamente o, en su caso, la suma de ambas es de hasta de \$2,405,540.00.
 
-Cantidades de la fracción compiladas por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Cantidades de la fracción compiladas por resolución miscelánea fiscal DOF 05-01-2022. Actualizadas DOF 27-12-2022.
+
+Compiladas DOF 29-12-2023
 
 II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de \$1,603,710.00, respectivamente o, en su caso, la suma de ambas excede de \$2,405,540.00.
 
-Cantidades de la fracción compiladas por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Cantidades de la fracción compiladas por resolución miscelánea fiscal DOF 05-01-2022. Actualizadas DOF 27-12-2022.
+
+Compiladas DOF 29-12-2023
 
 III. De tres a nueve años, cuando se trate de mercancías cuyo tráfico haya sido prohibido por el Ejecutivo Federal en uso de las facultades señaladas en el segundo párrafo del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -5199,15 +5209,21 @@ El delito de defraudación fiscal se sancionará con las penas siguientes:
 
 I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de \$2,236,480.00.
 
-Cantidad de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Cantidad de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022.
+
+Compilada DOF 29-12-2023
 
 II. Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de \$2,236,480.00 pero no de \$3,354,710.00.
 
-Cantidades de la fracción compiladas por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Cantidades de la fracción compiladas por resolución miscelánea fiscal DOF 05-01-2022. Actualizadas DOF 27-12-2022.
+
+Compiladas DOF 29-12-2023
 
 III. Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor de \$3,354,710.00.
 
-Cantidad de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Cantidad de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022.
+
+Compilada DOF 29-12-2023
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -5359,7 +5375,7 @@ Para proceder penalmente por este delito será necesario que previamente la Secr
 
 Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de \$200,030.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
-Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
 
@@ -5403,7 +5419,7 @@ Se impondrá sanción de uno a seis años de prisión, al servidor público que 
 
 Se impondrá sanción de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de \$85,720.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
-Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 La misma pena se impondrá a quien dolosamente destruya o deteriore dichas mercancías.
 
@@ -6123,11 +6139,11 @@ III. Por la de remate, enajenación fuera de remate o adjudicación al fisco fed
 
 Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a \$560.00, se cobrará esta cantidad en vez del 2% del crédito.
 
-Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de \$86,460.00.
 
-Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022
+Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 41, fracción II y 141, fracción V, de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles enajenados o adjudicados a favor de la Federación en los términos de lo previsto por el artículo 191 de este Código, y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen a los bienes que sean objeto de remate.
 
@@ -9582,3 +9598,71 @@ B. Compilación de cantidades establecidas en el Código.
 Atentamente,
 
 Ciudad de México, a 16 de diciembre de 2022.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
+
+PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 308/2020 y acumulada 3/2021, promovidas por diversos diputados integrantes de la LXIV Legislatura del Congreso de la Unión y el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+Notificados al Congreso de la Unión para efectos legales el 31 de mayo de 2023
+
+Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
+
+SECRETARÍA GENERAL DE ACUERDOS
+
+OFICIO NÚM. SGA/MOKM/197/2023
+
+SEÑOR LICENCIADO EDUARDO ARANDA MARTÍNEZ
+
+SECRETARIO DE LA SECCIÓN DE TRÁMITE DE
+
+CONTROVERSIAS CONSTITUCIONALES Y DE
+
+ACCIONES DE INCONSTITUCIONALIDAD DE LA
+
+SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
+
+P R E S E N T E
+
+El Tribunal Pleno, en su sesión celebrada el veintinueve de mayo de dos mil veintitrés, resolvió la acción de inconstitucionalidad 308/2020 y acumulada 3/2021, promovidas por diversos diputados integrantes de la LXIV Legislatura del Congreso de la Unión y el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en los términos siguientes:
+
+“PRIMERO. Es improcedente la acción de inconstitucionalidad 308/2020.
+
+**SEGUNDO.** Es procedente y parcialmente fundada la acción de inconstitucionalidad 3/2021.
+
+**TERCERO.** Se reconoce la validez del artículo 137 del Código Fiscal de la Federación, reformado mediante el decreto publicado en el Diario Oficial de la Federación el ocho de diciembre de dos mil veinte, tal como se indica en el apartado VII de esta decisión.
+
+**CUARTO.** Se declara la invalidez del artículo 17-F, párrafo segundo, en su porción normativa ‘así como el de la verificación de identidad de los usuarios’, del Código Fiscal de la Federación, reformado mediante el decreto publicado en el Diario Oficial de la Federación el ocho de diciembre de dos mil veinte, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, en los términos de los apartados VII y VIII de esta determinación.
+
+**QUINTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.”
+
+Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al titular del Poder Ejecutivo de dicha entidad federativa.
+
+Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión privada celebrada el doce de abril de dos mil diez, le solicito que remita a esta Secretaría General de Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
+
+Atentamente
+
+Ciudad de México; 29 de mayo de 2023
+
+LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
+
+Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 31 de mayo de 2023 a las 12:40 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
+
+### RESOLUCIÓN Miscelánea Fiscal para 2024 y sus anexos 1, 5, 8, 15, 19 y 27.
+
+*Publicada en el Diario Oficial de la Federación el 29 de diciembre de 2023*
+
+ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024
+
+Cantidades actualizadas del CFF
+
+A. Cantidades actualizadas establecidas en el CFF.
+
+> Nota: Se actualizan diversas cantidades establecidas en los artículos 20, 26, 32-A, 32-H, 59, 80, 82, 82-B, 82-D, 82-F, 82-H, 84, 84-B, 84-N, 86-B, 86-D, 86-H y 86-J del Código Fiscal de la Federación.
+
+B. Compilación de cantidades establecidas en el CFF.
+
+> Nota: Se compilan diversas cantidades establecidas en los artículos 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+
+……..
+
+Atentamente.
+
+Ciudad de México, a 15 de diciembre de 2023.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
