@@ -3,12 +3,12 @@ title: Ley de Ingresos sobre Hidrocarburos
 abbreviation: LIH
 slug: lih
 published_dof: 2014-08-11
-last_reform_dof: 2022-12-27
+last_reform_dof: 2023-12-29
 articles: 64
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc
-archived: https://web.archive.org/web/20230307184535/https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc
-source_sha256: c3df6a148f11d529c842615ce50fa1e52e124bec1a41d443f4bd3314efaa99f6
-retrieved: 2023-03-07
+archived: https://web.archive.org/web/20240405093435/https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc
+source_sha256: 8dacd4d62d6d3d3a49b02acedef55a19a4b8ebd1d8552f5e3b870aa2b686bea9
+retrieved: 2024-04-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lih.htm
 ---
 
@@ -20,7 +20,7 @@ TEXTO VIGENTE
 
 Última reforma publicada DOF 09-12-2019
 
-Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 27-12-2022
+Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 29-12-2023
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -785,8 +785,8 @@ El Asignatario estará obligado al pago mensual del derecho de exploración de h
 
 |   |   |
 |---|---|
-| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,669.53 pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020,<br>11-01-2021, 13-01-2022, 27-12-2022 |
-| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,992.39 pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020,<br>11-01-2021, 13-01-2022, 27-12-2022 |
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,741.65 pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020,<br>11-01-2021, 13-01-2022, 27-12-2022, 29-12-2023 |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 4,164.86 pesos por kilómetro cuadrado<br>Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020,<br>11-01-2021, 13-01-2022, 27-12-2022, 29-12-2023 |
 
 Las cuotas del derecho de exploración de hidrocarburos se actualizarán cada año en el mes de enero, de acuerdo a la variación en el Índice Nacional de Precios al Consumidor en el año inmediato anterior.
 
@@ -920,13 +920,13 @@ Están obligados al pago del impuesto por la actividad de exploración y extracc
 
 El impuesto por la actividad de exploración y extracción de hidrocarburos se calculará mensualmente aplicando por cada kilómetro cuadrado que comprenda el Área Contractual o el Área de Asignación, las siguientes cuotas:
 
-I. Durante la fase de exploración 2,177.64 pesos, y
+I. Durante la fase de exploración 2,271.71 pesos, y
 
-Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020, 11-01-2021, 13-01-2022, 27-12-2022
+Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020, 11-01-2021, 13-01-2022, 27-12-2022, 29-12-2023
 
-II. Durante la fase de extracción 8,710.69 pesos.
+II. Durante la fase de extracción 9,086.99 pesos.
 
-Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020, 11-01-2021, 13-01-2022, 27-12-2022
+Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020, 11-01-2021, 13-01-2022, 27-12-2022, 29-12-2023
 
 Para los efectos de este artículo, la Fase de Exploración comprende desde la formalización del Contrato o de la Asignación hasta el inicio de la Fase de Extracción, la cual comprende del inicio de las actividades destinadas a la producción comercial de Hidrocarburos hasta que concluye la vigencia del Contrato o de la Asignación.
 
@@ -1380,3 +1380,40 @@ II. Durante la fase de extracción 8,710.69 pesos.
 Atentamente,
 
 Ciudad de México, a 16 de diciembre de 2022.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
+
+### RESOLUCIÓN Miscelánea Fiscal para 2024 y sus anexos 1, 5, 8, 15, 19 y 27.
+
+*Publicada en el Diario Oficial de la Federación el 29 de diciembre de 2023*
+
+ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024
+
+Cuotas actualizadas del DEXPH y del IAEEH
+
+Para los efectos de los artículos 45 y 55 de la Ley de Ingresos sobre Hidrocarburos y 30 de su Reglamento, en relación con las reglas 1.9., fracción XXV y 10.19., se dan a conocer las cuotas actualizadas del DEXPH y del IAEEH, conforme a lo siguiente:
+
+Nota: Los textos y líneas de puntos que se utilizan en este Anexo tienen la finalidad exclusiva de orientar respecto de la ubicación de las cantidades y no crean derechos ni establecen obligaciones distintas a las contenidas en las disposiciones fiscales.
+
+27.1 Actualización de las cuotas del Derecho de Exploración de Hidrocarburos y del Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos establecidos en la LISH
+
+De conformidad con las cuotas establecidas en los artículos 45 y 55 de la Ley de Ingresos sobre Hidrocarburos, conforme al artículo 30 de su Reglamento y la regla 10.19., se dan a conocer las cuotas actualizadas del DEXPH y del IAEEH, aplicables a partir del 1 de enero de 2024.
+
+I. Cuota del DEXPH:
+
+**Artículo 45.-**
+
+|   |   |
+|---|---|
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,741.65 pesos por kilómetro cuadrado |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 4,164.86 pesos por kilómetro cuadrado |
+
+II. Cuota del IAEEH:
+
+**Artículo 55.-**
+
+I. Durante la fase de exploración 2,271.71 pesos, y
+
+II. Durante la fase de extracción 9,086.99 pesos.
+
+Atentamente.
+
+Ciudad de México, a 15 de diciembre de 2023.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
