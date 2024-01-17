@@ -3,12 +3,12 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2023-05-08
-articles: 550
+last_reform_dof: 2024-01-17
+articles: 552
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc
-archived: https://web.archive.org/web/20230602015549/https://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc
-source_sha256: 7451a26d9bed94ebd9dcde8d4dc92773275c107f64ab9753d5ddbebbb0c727d1
-retrieved: 2023-06-02
+archived: https://web.archive.org/web/20240405093457/https://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc
+source_sha256: 2f2fb5766312e05b84eb73f2a30fbde032c100ad6254e0a9a28e8777bb837286
+retrieved: 2024-04-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +18,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 08-05-2023
+Última reforma publicada DOF 17-01-2024
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 
@@ -1532,13 +1532,15 @@ Pero una vez llenado el requisito de procedibilidad dentro del plazo antes menci
 
 ##### Artículo 107 Bis.
 
-El término de prescripción de los delitos previstos en el Título Octavo del Libro Segundo de este Código cometidos en contra de una víctima menor de edad, comenzará a correr a partir de que ésta cumpla la mayoría de edad.
+El término de prescripción de los delitos previstos en el Título Octavo del Libro Segundo de este Código cometidos en contra de una víctima persona menor de dieciocho años, comenzará a correr a partir de que ésta cumpla la mayoría de edad, con excepción de los delitos previstos en los artículos 200, 201, 202, 203, 203 Bis, 204 y 209 Bis de este Código, que serán imprescriptibles.
+
+*Párrafo reformado DOF 18-10-2023*
 
 En el caso de aquellas personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, correrá a partir del momento en que exista evidencia de la comisión de esos delitos ante el Ministerio Público.
 
-En los casos de los delitos contra la libertad y el normal desarrollo psicosexual, así como los previstos en la Ley para prevenir y sancionar la Trata de Personas, que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, se observarán las reglas para la prescripción de la acción penal contenidas en este capítulo, pero el inicio del cómputo de los plazos comenzará a partir del día en que la víctima cumpla la mayoría de edad.
+En los casos de los delitos contra la libertad y el normal desarrollo psicosexual, así como los previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, se observarán las reglas para la prescripción de la acción penal contenidas en este capítulo, pero el inicio del cómputo de los plazos comenzará a partir del día en que la víctima cumpla la mayoría de edad, con excepción de los delitos previstos en los artículos 261, 262 y 266 de este Código, que serán imprescriptibles.
 
-*Párrafo adicionado DOF 14-06-2012*
+*Párrafo adicionado DOF 14-06-2012. Reformado DOF 18-10-2023*
 
 *Artículo adicionado DOF 19-08-2010*
 
@@ -2992,11 +2994,11 @@ Derogado.
 
 *Artículo derogado DOF 14-01-1966. Adicionado DOF 13-01-1984. Reformado DOF 03-01-1989, 04-01-2000, 27-03-2007. Derogado DOF 27-11-2007*
 
-##### Artículo 205-Bis.
+##### Artículo 205 Bis.
 
-Serán imprescriptibles las sanciones señaladas en los artículos 200, 201, 204 y 209 Quáter. Asimismo, las sanciones señaladas en dichos artículos se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
+Serán imprescriptibles las sanciones señaladas en los artículos 200, 201, 202, 203, 203 Bis, 204 y 209 Bis de este Código. Asimismo, las sanciones señaladas en dichos artículos se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
 
-*Párrafo reformado DOF 27-11-2007, 14-06-2012, 25-04-2023*
+*Párrafo reformado DOF 27-11-2007, 14-06-2012, 25-04-2023, 18-10-2023*
 
 a) Los que ejerzan la patria potestad, guarda o custodia;
 
@@ -3020,7 +3022,9 @@ j) Quien esté ligado con la víctima por un lazo afectivo o de amistad, de grat
 
 En los casos de los incisos a), b), c) y d) además de las sanciones señaladas, los autores del delito perderán la patria potestad, tutela o curatela, según sea el caso, respecto de todos sus descendientes, el derecho a alimentos que pudiera corresponderle por su relación con la víctima y el derecho que pudiera tener respecto de los bienes de ésta.
 
-En los casos de los incisos e), f) y h) además de las sanciones señaladas, se castigará con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta.
+En los casos de los incisos e), f) y h) si la persona activa del delito fuere servidora o servidor público o ministra o ministro de culto religioso, además de las sanciones señaladas, se castigará con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta.
+
+*Párrafo reformado DOF 18-10-2023*
 
 En todos los casos el juez acordará las medidas pertinentes para que se le prohíba permanentemente al ofensor tener cualquier tipo de contacto o relación con la víctima.
 
@@ -4598,7 +4602,9 @@ Si se hiciera uso de violencia, física o psicológica, la pena se aumentará en
 
 ##### Artículo 261.
 
-A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y hasta quinientos días multa.
+A quien cometa el delito de abuso sexual en una persona menor de dieciocho años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y hasta quinientos días multa.
+
+*Párrafo reformado DOF 18-10-2023*
 
 Si se hiciera uso de violencia, la pena se aumentará en una mitad más en su mínimo y máximo.
 
@@ -4650,15 +4656,15 @@ Se equipara a la violación y se sancionará de ocho a treinta años de prisión
 
 *Párrafo reformado DOF 14-06-2012*
 
-I. Al que sin violencia realice cópula con persona menor de quince años de edad;
+I. Al que sin violencia realice cópula con persona menor de dieciocho años de edad;
 
-*Fracción reformada DOF 14-06-2012*
+*Fracción reformada DOF 14-06-2012, 18-10-2023*
 
 II.- Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y
 
-III. Al que sin violencia y con fines lascivos introduzca por vía anal o vaginal cualquier elemento o instrumento distinto del miembro viril en una persona menor de quince años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
+III. Al que sin violencia y con fines lascivos introduzca por vía anal o vaginal cualquier elemento o instrumento distinto del miembro viril en una persona menor de dieciocho años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
 
-*Fracción reformada DOF 14-06-2012*
+*Fracción reformada DOF 14-06-2012, 18-10-2023*
 
 Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se aumentará hasta en una mitad.
 
@@ -4681,6 +4687,12 @@ V. El delito fuere cometido previa suministración de estupefacientes o psicotr�
 *Fracción adicionada DOF 15-06-2018*
 
 *Artículo adicionado DOF 20-01-1967. Reformado DOF 03-01-1989, 21-01-1991*
+
+##### Artículo 266 Ter.
+
+Serán imprescriptibles las sanciones señaladas en los artículos 261, 262 y 266 de este Código.
+
+*Artículo adicionado DOF 18-10-2023*
 
 #### CAPITULO II
 
@@ -5382,7 +5394,9 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 
 ##### Artículo 343 Bis.
 
-Comete el delito de violencia familiar quien lleve a cabo actos o conductas de dominio, control o agresión física, psicológica, patrimonial o económica, a alguna persona con la que se encuentre o haya estado unida por vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o una relación de pareja dentro o fuera del domicilio familiar.
+Comete el delito de violencia familiar quien lleve a cabo actos o conductas de dominio, control o agresión física, psicológica, patrimonial o económica, o sexual a alguna persona con la que se encuentre o haya estado unida por vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, cohabitación o una relación de pareja dentro o fuera del domicilio familiar.
+
+*Párrafo reformado DOF 17-01-2024*
 
 A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia. Asimismo, se le sujetará a tratamiento psicológico especializado.
 
@@ -5394,11 +5408,19 @@ Se equipara a la violencia familiar y se sancionará con seis meses a cuatro añ
 
 *Artículo adicionado DOF 30-12-1997. Reformado DOF 14-06-2012*
 
+##### Artículo 343 Ter 2.
+
+Las penas previstas en el artículo 343 Bis aumentarán hasta en una tercera parte a quien lo cometa a través de interpósita persona.
+
+*Artículo adicionado DOF 17-01-2024*
+
 ##### Artículo 343 quáter.
 
-En todos los casos previstos en los dos artículos precedentes, el Ministerio Público exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
+En los casos de violencia familiar, violencia familiar equiparada y violencia a través de interpósita persona, el Ministerio Público exhortará a la persona imputada para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima, acordará las medidas preventivas y solicitará las medidas precautorias que considere pertinentes para salvaguardar la integridad física o psíquica de la misma y, solicitará las órdenes de protección que establece la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-*Artículo adicionado DOF 30-12-1997*
+La autoridad administrativa vigilará el cumplimiento de estas medidas en términos de lo dispuesto por la legislación aplicable.
+
+*Artículo adicionado DOF 30-12-1997. Reformado DOF 17-01-2024*
 
 ### TITULO · VIGESIMO
 
@@ -10218,3 +10240,39 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal, en materia de imprescriptibilidad del ejercicio de la acción penal y de sanciones de los delitos sexuales cometidos contra personas menores de dieciocho años.
+
+*Publicado en el Diario Oficial de la Federación el 18 de octubre de 2023*
+
+**Artículo Único.-** Se reforman el primer y tercer párrafos del artículo 107 Bis; el primer y tercer párrafos del artículo 205 Bis; el primer párrafo del artículo 261 y las fracciones I y III del artículo 266, y se adiciona un artículo 266 Ter del Código Penal Federal, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+Ciudad de México, a 12 septiembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de octubre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, del Código Civil Federal y del Código Penal Federal, en materia de violencia a través de interpósita persona.
+
+*Publicado en el Diario Oficial de la Federación el 17 de enero de 2024*
+
+**Artículo Tercero.-** Se reforma el primer párrafo del artículo 343 Bis y el artículo 343 quáter, y se adiciona el artículo 343 Ter 2 del Código Penal Federal, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Ciudad de México, a 29 de noviembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Olga Luz Espinosa Morales, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
