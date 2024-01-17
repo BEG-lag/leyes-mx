@@ -3,12 +3,12 @@ title: Código Civil Federal
 abbreviation: CCF
 slug: ccf
 published_dof: 1928-05-26
-last_reform_dof: 2021-01-11
-articles: 3102
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/2_110121.doc
-archived: https://web.archive.org/web/20210422140240/http://www.diputados.gob.mx/LeyesBiblio/doc/2_110121.doc
-source_sha256: a29c4756380632178fae13bc4ae42fe48de1552bdea176dc7359211835bab755
-retrieved: 2021-04-22
+last_reform_dof: 2024-01-17
+articles: 3103
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/CCF.doc
+archived: https://web.archive.org/web/20240405093814/https://www.diputados.gob.mx/LeyesBiblio/doc/CCF.doc
+source_sha256: 39548d97c275722d417c1dfab7c13df82cb54c40247702f693dda1ce5a8bde29
+retrieved: 2024-04-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccf.htm
 ---
 
@@ -20,7 +20,7 @@ los días 26 de mayo, 14 de julio, 3 y 31 de agosto de 1928
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 11-01-2021
+Última reforma publicada DOF 17-01-2024
 
 El C. Presidente Constitucional de la República se ha servido dirigirme el decreto que sigue:
 
@@ -2232,11 +2232,21 @@ Queda prohibido que la madre, padre o cualquier persona en la familia, utilice e
 
 *Párrafo adicionado DOF 11-01-2021*
 
-Por violencia familiar se considera el uso intencional de la fuerza física, moral o de cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.
+La violencia familiar es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, patrimonial, económica o sexual a cualquier integrante de la familia dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones; así como, el incumplimiento de las obligaciones alimentarias por parte de la persona que de conformidad con lo dispuesto en este Código tiene obligación de cubrirlas.
 
-*Párrafo reformado DOF 11-01-2021*
+*Párrafo reformado DOF 11-01-2021, 17-01-2024*
+
+Para efectos de este artículo, se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, cohabitación o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado.
+
+*Párrafo adicionado DOF 17-01-2024*
 
 *Artículo adicionado DOF 30-12-1997*
+
+###### Artículo 323 quáter.
+
+Queda prohibido el ejercicio de la violencia a través de interpósita persona en términos de lo establecido en la fracción VI del artículo 6 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+*Artículo adicionado DOF 17-01-2024*
 
 #### TITULO SEPTIMO · De la Paternidad y Filiación
 
@@ -3064,9 +3074,9 @@ VI.- Cuando el que la ejerza sea condenado dos o más veces por delito grave.
 
 ###### Artículo 444 bis.
 
-La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas en el artículo 323 ter de este Código, en contra de las personas sobre las cuales la ejerza.
+La patria potestad podrá ser limitada cuando la persona que la ejerce incurra en conductas de violencia familiar y de violencia a través de interpósita persona previstas en los artículos 323 ter y 323 quáter de este Código, en contra de las personas sobre las cuales la ejerza.
 
-*Artículo adicionado DOF 30-12-1997*
+*Artículo adicionado DOF 30-12-1997. Reformado DOF 17-01-2024*
 
 ###### Artículo 445.
 
@@ -3346,9 +3356,9 @@ Los responsables de las casas de asistencia, ya sean públicas o privadas, donde
 
 ###### Artículo 494.
 
-Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de la violencia familiar a que se refiere el artículo 323 ter de este ordenamiento, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
+Las personas responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban personas menores de edad que hayan sido objeto de la violencia familiar y/o utilizados para ejercer violencia a través de interpósita persona a que se refieren los artículos 323 ter y 323 quáter de este ordenamiento, tendrán la custodia de éstas en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar y/o de violencia a través de interpósita persona.
 
-*Artículo reformado DOF 30-12-1997*
+*Artículo reformado DOF 30-12-1997, 17-01-2024*
 
 ##### CAPITULO VI · De la Tutela Dativa
 
@@ -18153,3 +18163,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 10 de diciembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Mónica Bautista Rodríguez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, del Código Civil Federal y del Código Penal Federal, en materia de violencia a través de interpósita persona.
+
+*Publicado en el Diario Oficial de la Federación el 17 de enero de 2024*
+
+**Artículo Segundo.-** Se reforma el párrafo tercero del artículo 323 ter; y los artículos 444 bis y 494, y se adiciona un párrafo cuarto al artículo 323 ter, y el 323 quáter, del Código Civil Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Ciudad de México, a 29 de noviembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Olga Luz Espinosa Morales, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
