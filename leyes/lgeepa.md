@@ -3,12 +3,12 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2023-05-08
+last_reform_dof: 2024-01-24
 articles: 268
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc
-archived: https://web.archive.org/web/20230602034357/https://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc
-source_sha256: 0f4ce19f3a3757a7e451eed414e487c9ecd9d7fe22e20c592c45d57ad589660a
-retrieved: 2023-06-02
+archived: https://web.archive.org/web/20240405093511/https://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc
+source_sha256: 24b248708c56dccb7f9bff7ca832ffc8a1f1818197aac82aedb4da484d35c73c
+retrieved: 2024-04-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 08-05-2023
+Última reforma publicada DOF 24-01-2024
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -2172,9 +2172,9 @@ Corresponde a las entidades federativas fomentar la cultura del trato digno y re
 
 *Párrafo adicionado DOF 07-01-2021*
 
-Las entidades federativas en coordinación con los Municipios o, en su caso, las Alcaldías de la Ciudad de México, garantizarán en la medida de lo posible la esterilización gratuita de animales, y su trato digno y respetuoso en los centros de control animal, estableciendo las sanciones correspondientes para todo aquel que maltrate a los animales.
+Las entidades federativas en coordinación con los Municipios o, en su caso, las Alcaldías de la Ciudad de México, garantizarán en la medida de lo posible la esterilización gratuita de animales, y su trato digno y respetuoso en los centros de control animal, estableciendo las sanciones correspondientes para todo aquel que maltrate a los animales. De igual forma, promoverán el establecimiento de Clínicas Veterinarias Públicas con el objeto de suministrar a los animales atención médica preventiva y, en caso de enfermedad, brindar tratamiento médico expedito avalado por un médico veterinario.
 
-*Párrafo adicionado DOF 07-01-2021*
+*Párrafo adicionado DOF 07-01-2021. Reformado DOF 24-01-2024*
 
 En el caso de perros y gatos sólo se permitirá la crianza, comercialización o reproducción de ejemplares en lugares autorizados de conformidad con las normas oficiales mexicanas en la materia. Las entidades federativas, en coordinación con los Municipios o, en su caso, las Alcaldías de la Ciudad de México, establecerán las sanciones correspondientes a quienes realicen acciones de crianza, comercialización o reproducción clandestina.
 
@@ -4801,3 +4801,23 @@ Cuando las autoridades competentes determinen que los depósitos o sitios de dis
 Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforma el párrafo sexto del artículo 87 BIS 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+*Publicado en el Diario Oficial de la Federación el 24 de enero de 2024*
+
+**Artículo Único.** Se reforma el párrafo sexto del artículo 87 BIS 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+…………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día natural siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** En un plazo máximo de 180 días naturales posteriores a la entrada en vigor del presente Decreto, y para su cabal cumplimiento, los Congresos de las entidades federativas deberán hacer los ajustes que estimen necesarios en su legislación local.
+
+**Tercero.-** El establecimiento de Clínicas Veterinarias Públicas estará sujeto a la disponibilidad presupuestaria de las entidades federativas y los municipios en cada ejercicio fiscal.
+
+Ciudad de México, a 05 de diciembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Diana Estefanía Gutiérrez Valtierra, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
