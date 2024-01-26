@@ -3,12 +3,12 @@ title: Código Nacional de Procedimientos Penales
 abbreviation: CNPP
 slug: cnpp
 published_dof: 2014-03-05
-last_reform_dof: 2023-04-25
+last_reform_dof: 2024-01-26
 articles: 490
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc
-archived: https://web.archive.org/web/20230603071623/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc
-source_sha256: 8fda4afcab76cf7f6ea9318aaadda81745c8cc43834ea785f62ef38982cf7ac6
-retrieved: 2023-06-03
+archived: https://web.archive.org/web/20240405093730/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc
+source_sha256: 5e397bcc83d38dfe1e1202d41a0f13e0cff09d82109378873af497f12bbdf782
+retrieved: 2024-04-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 ---
 
@@ -16,7 +16,7 @@ reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 
 Nuevo Código publicado en el Diario Oficial de la Federación el 5 de marzo de 2014
 
-Última reforma publicada DOF 25-04-2023
+Última reforma publicada DOF 26-01-2024
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1244,7 +1244,11 @@ X. A participar en los mecanismos alternativos de solución de controversias;
 
 XI. A recibir gratuitamente la asistencia de un intérprete o traductor desde la denuncia hasta la conclusión del procedimiento penal, cuando la víctima u ofendido pertenezca a un grupo étnico o pueblo indígena o no conozca o no comprenda el idioma español;
 
-XII. En caso de tener alguna discapacidad, a que se realicen los ajustes al procedimiento penal que sean necesarios para salvaguardar sus derechos;
+XII. En caso de tener alguna discapacidad, a que se realicen los ajustes al procedimiento penal que sean necesarios para salvaguardar sus derechos.
+
+De igual forma, se adaptarán las condiciones que sean necesarias para garantizar el acceso de las personas adultas mayores, cuando así lo requieran;
+
+*Fracción reformada DOF 03-01-2024*
 
 XIII. A que se le proporcione asistencia migratoria cuando tenga otra nacionalidad;
 
@@ -1350,7 +1354,9 @@ XIV. A no ser expuesto a los medios de comunicación;
 
 XV. A no ser presentado ante la comunidad como culpable;
 
-XVI. A solicitar desde el momento de su detención, asistencia social para los menores de edad o personas con discapacidad cuyo cuidado personal tenga a su cargo;
+XVI. A solicitar desde el momento de su detención, asistencia social para los menores de edad o personas con discapacidad o personas adultas mayores cuyo cuidado personal tenga a su cargo;
+
+*Fracción reformada DOF 03-01-2024*
 
 XVII. A obtener su libertad en el caso de que haya sido detenido, cuando no se ordene la prisión preventiva, u otra medida cautelar restrictiva de su libertad;
 
@@ -3330,7 +3336,9 @@ Notificaciones y control judicial
 
 Las determinaciones del Ministerio Público sobre la abstención de investigar, el archivo temporal, la aplicación de un criterio de oportunidad y el no ejercicio de la acción penal deberán ser notificadas a la víctima u ofendido quienes las podrán impugnar ante el Juez de control dentro de los diez días posteriores a que sean notificadas de dicha resolución. En estos casos, el Juez de control convocará a una audiencia para decidir en definitiva, citando al efecto a la víctima u ofendido, al Ministerio Público y, en su caso, al imputado y a su Defensor. En caso de que la víctima, el ofendido o sus representantes legales no comparezcan a la audiencia a pesar de haber sido debidamente citados, el Juez de control declarará sin materia la impugnación.
 
-La resolución que el Juez de control dicte en estos casos no admitirá recurso alguno.
+La resolución que el Juez de control dicte en estos casos no admitirá recurso alguno, con excepción de aquella en que el órgano jurisdiccional se pronuncie sobre el no ejercicio de la acción penal, en cuyo caso, se suspenderán los efectos de la determinación ministerial hasta en tanto cause ejecutoria la decisión definitiva emitida.
+
+*Párrafo reformado DOF 26-01-2024*
 
 ### TÍTULO IV · DE LOS DATOS DE PRUEBA, MEDIOS DE PRUEBA Y PRUEBAS
 
@@ -5580,21 +5588,57 @@ II. Las que nieguen la posibilidad de celebrar acuerdos reparatorios o no los ra
 
 III. La negativa o cancelación de orden de aprehensión;
 
-IV. La negativa de orden de cateo;
+IV. La negativa a autorizar actos y técnicas de investigación que requieran control judicial previo;
+
+*Fracción reformada DOF 26-01-2024*
 
 V. Las que se pronuncien sobre las providencias precautorias o medidas cautelares;
 
 VI. Las que pongan término al procedimiento o lo suspendan;
 
-VII. El auto que resuelve la vinculación del imputado a proceso;
+VII. El auto que resuelve la vinculación y la no vinculación del imputado a proceso;
+
+*Fracción reformada DOF 26-01-2024*
 
 VIII. Las que concedan, nieguen o revoquen la suspensión condicional del proceso;
 
 IX. La negativa de abrir el procedimiento abreviado;
 
-X. La sentencia definitiva dictada en el procedimiento abreviado, o
+X. La sentencia definitiva dictada en el procedimiento abreviado;
 
-XI. Las que excluyan algún medio de prueba.
+*Fracción reformada DOF 26-01-2024*
+
+XI. Las que excluyan algún medio de prueba o lo admitan cuando no cumpla con los requisitos legales, o sean ofrecidas fuera del término procesal correspondiente y no tengan el carácter de supervenientes y estén debidamente justificadas;
+
+*Fracción reformada DOF 26-01-2024*
+
+XII. Las que determinen la ilicitud o ilegalidad de algún dato o medio de prueba, o la prueba, cuando ésta sea anticipada;
+
+*Fracción adicionada DOF 26-01-2024*
+
+XIII. La que determine la legalidad o ilegalidad de la detención;
+
+*Fracción adicionada DOF 26-01-2024*
+
+XIV. Las que determinen la incompetencia del órgano jurisdiccional;
+
+*Fracción adicionada DOF 26-01-2024*
+
+XV. La negativa a autorizar la prórroga del plazo en la investigación complementaria;
+
+*Fracción adicionada DOF 26-01-2024*
+
+XVI. La que resuelva la solicitud de la orden de comparecencia;
+
+*Fracción adicionada DOF 26-01-2024*
+
+XVII. Las que se pronuncien sobre la restitución de bienes, objetos, instrumentos o productos del delito, o
+
+*Fracción adicionada DOF 26-01-2024*
+
+XVIII. La que se pronuncie sobre el no ejercicio de la acción penal.
+
+*Fracción adicionada DOF 26-01-2024*
 
 ###### Artículo 468.
 
@@ -6211,3 +6255,35 @@ Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de 
 Ciudad de México, a 15 de marzo de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 109 y 113 del Código Nacional de Procedimientos Penales.
+
+*Publicado en el Diario Oficial de la Federación el 3 de enero de 2024*
+
+**Artículo Único.-** Se reforma la fracción XVI del artículo 113 y se adiciona un segundo párrafo a la fracción XII del artículo 109 del Código Nacional de Procedimientos Penales, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 22 de noviembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Olga Luz Espinosa Morales, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de diciembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan los artículos 258 y 467 del Código Nacional de Procedimientos Penales, en materia del recurso de apelación.
+
+*Publicado en el Diario Oficial de la Federación el 26 de enero de 2024*
+
+**Artículo Único.-** Se reforman el segundo párrafo del artículo 258 y las fracciones IV, VII y XI del artículo 467 y se adicionan las fracciones XII, XIII, XIV, XV, XVI, XVII y XVIII, al artículo 467 del Código Nacional de Procedimientos Penales, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 13 de diciembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Diana Estefanía Gutiérrez Valtierra, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 24 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
