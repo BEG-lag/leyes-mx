@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2022-11-18
+last_reform_dof: 2024-03-22
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-archived: https://web.archive.org/web/20230219211839/http://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-source_sha256: 9c35c1ba66d9e11c9b4d9d70c2d08c9cb0c095c25022021b0f5cd5ec20474452
-retrieved: 2023-02-19
+archived: https://web.archive.org/web/20240405093829/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
+source_sha256: 36436109b490ffe0efff797757a25820d7675c797c5725c88b330fdcb38a1b03
+retrieved: 2024-04-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 18-11-2022
+Última reforma publicada DOF 22-03-2024
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -1578,13 +1578,23 @@ III. Durante la extinción de una pena corporal;
 
 IV. Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes;
 
-V. Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal; y
+V. Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;
 
-VI. Por sentencia ejecutoria que imponga como pena esa suspensión.
+*Fracción reformada DOF 29-05-2023*
+
+VI. Por sentencia ejecutoria que imponga como pena esa suspensión, y
+
+*Fracción reformada DOF 29-05-2023*
+
+VII. Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos.
+
+Por ser declarada como persona deudora alimentaria morosa.
+
+En los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.
+
+*Fracción adicionada DOF 29-05-2023*
 
 La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos de ciudadano, y la manera de hacer la rehabilitación.
-
-*Artículo original DOF 05-02-1917*
 
 ## Título Segundo
 
@@ -2016,9 +2026,9 @@ Para ser diputado se requiere:
 
 I. Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos.
 
-II. Tener veintiún años cumplidos el día de la elección;
+II. Tener dieciocho años cumplidos el día de la elección;
 
-*Fracción reformada DOF 14-02-1972*
+*Fracción reformada DOF 14-02-1972, 06-06-2023*
 
 III. Ser originario de la entidad federativa en que se haga la elección o vecino de esta con residencia efectiva de más de seis meses anteriores a la fecha de ella.
 
@@ -2138,9 +2148,9 @@ Los diputados y senadores que no concurran a una sesión, sin causa justificada 
 
 ##### Artículo 65.
 
-El Congreso se reunirá a partir del 1o. de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, excepto cuando el Presidente de la República inicie su encargo en la fecha prevista en el artículo 83 de esta Constitución, en cuyo caso se reunirá a partir del 1o. de agosto; y a partir del 1o. de febrero para celebrar un segundo periodo de sesiones ordinarias.
+El Congreso se reunirá a partir del 1o. de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, y a partir del 1o. de febrero para celebrar un segundo periodo de sesiones ordinarias.
 
-*Párrafo reformado DOF 03-09-1993, 02-08-2004, 10-02-2014*
+*Párrafo reformado DOF 03-09-1993, 02-08-2004, 10-02-2014, 24-01-2024*
 
 En ambos Períodos de Sesiones el Congreso se ocupará del estudio, discusión y votación de las Iniciativas de Ley que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a esta Constitución.
 
@@ -3112,9 +3122,9 @@ El Ejecutivo Federal representará a la Federación en los asuntos en que ésta 
 
 ##### Artículo 91.
 
-Para ser secretario del Despacho se requiere: ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
+Para ser Secretario de Estado se requiere: ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener veinticinco años cumplidos.
 
-*Artículo original DOF 05-02-1917*
+*Artículo reformado DOF 06-06-2023*
 
 ##### Artículo 92.
 
@@ -3450,7 +3460,9 @@ A. El Ministerio Público de la Federación se organizará en una Fiscalía Gene
 
 *Párrafo reformado DOF 29-01-2016*
 
-Para ser Fiscal General de la República se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso.
+Para que una persona pueda ser titular de la Fiscalía General de la República se requiere: ser ciudadana mexicana por nacimiento, en ejercicio de sus derechos; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciatura en derecho; gozar de buena reputación, y no haber sido condenada por la comisión de delito doloso.
+
+*Párrafo reformado DOF 29-05-2023*
 
 El Fiscal General durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
 
@@ -4379,6 +4391,10 @@ VIII. Las Constituciones de los Estados establecerán organismos autónomos, esp
 IX. Las Constituciones de los Estados garantizarán que las funciones de procuración de justicia se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
 
 *Fracción adicionada DOF 10-02-2014*
+
+X. Las Legislaturas de las entidades federativas, observando en todo momento la supremacía de los símbolos patrios, podrán legislar en materia de símbolos estatales, como son: himno, escudo y bandera, a fin de fomentar el patrimonio cultural, la historia y la identidad local.
+
+*Fracción adicionada DOF 08-05-2023*
 
 *Artículo reformado DOF 17-03-1987*
 
@@ -9065,3 +9081,113 @@ Las partidas presupuestales a que hacen referencia los párrafos anteriores no s
 Ciudad de México, a 09 de noviembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de noviembre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se declara adicionada una fracción X al artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, en materia de símbolos de las entidades federativas.
+
+*Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023*
+
+**Artículo Único.-** Se adiciona una fracción X al artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 27 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan los artículos 38 y 102 de la Constitución Política de los Estados Unidos Mexicanos, en materia de suspensión de derechos para ocupar cargo, empleo o comisión del servicio público.
+
+*Publicado en el Diario Oficial de la Federación el 29 de mayo de 2023*
+
+**Artículo Único.-** Se reforma el párrafo segundo del Apartado A del artículo 102 y se adiciona una fracción VII al artículo 38 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Dentro de los 180 días naturales siguientes a su entrada en vigor, el Congreso de la Unión y las Legislaturas de las Entidades Federativas, deberán ajustar sus Constituciones y demás legislación que sea necesaria, a fin de dar cumplimiento al presente Decreto.
+
+Ciudad de México, a 24 de mayo de 2023.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Olimpia Tamara Girón Hernández, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 55 y 91 de la Constitución Política de los Estados Unidos Mexicanos, en materia de edad mínima para ocupar un cargo público.
+
+*Publicado en el Diario Oficial de la Federación el 6 de junio de 2023*
+
+**Artículo Único.-** Se reforman la fracción II del artículo 55 y el artículo 91 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Dentro de los 180 días naturales siguientes a su entrada en vigor, el Congreso de la Unión y las Legislaturas de las Entidades Federativas, deberán ajustar sus Constituciones y demás legislación que sea necesaria, a fin de dar cumplimiento al presente Decreto.
+
+Ciudad de México, a 24 de mayo de 2023.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Olimpia Tamara Girón Hernández, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de junio de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se declara reformado el primer párrafo del artículo 65 de la Constitución Política de los Estados Unidos Mexicanos, en materia de periodos de sesiones ordinarias del Congreso de la Unión.
+
+*Publicado en el Diario Oficial de la Federación el 24 de enero de 2024*
+
+**Artículo Único.-** Se reforma el primer párrafo del artículo 65 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La duración en el cargo de las y los diputados federales electos para la LXV Legislatura del Congreso de la Unión se computará a partir del 1o. de septiembre de 2021 y hasta el 31 de agosto de 2024.
+
+**Tercero.** La duración en el cargo de las y los senadores electos para las LXIV y LXV Legislaturas del Congreso de la Unión se computará a partir del 1o. de septiembre de 2018 y hasta el 31 de agosto de 2024.
+
+**Cuarto.** Las y los diputados federales electos para la LXVI Legislatura, durarán en el ejercicio de su cargo 36 meses, computados a partir del 1o. de septiembre de 2024 y hasta el 31 de agosto de 2027.
+
+**Quinto.** Las y los senadores electos para las LXVI y LXVII Legislaturas, durarán en el ejercicio de su cargo 72 meses, computados a partir del 1o. de septiembre de 2024 y hasta el 31 de agosto de 2030.
+
+Ciudad de México, a 12 de diciembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se declara aprobada la interpretación al alcance del Artículo Tercero Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional", publicado en el Diario Oficial de la Federación el 26 de marzo del año 2019.
+
+*Publicado en el Diario Oficial de la Federación el 22 de marzo de 2024*
+
+**Artículo Único.-** La interpretación auténtica respecto de los alcances de lo dispuesto en el Artículo Tercero Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional", publicado en el Diario Oficial de la Federación el 26 de marzo del año 2019, deberá ser en el sentido de garantizar los derechos, prestaciones, pertenencia, rango, servicio y antigüedad del personal de las policías Militar y Naval asignado a la Guardia Nacional por acuerdos de carácter general emitidos por el Presidente de la República, acorde con lo siguiente:
+
+A. La frase: "Los elementos de las policías Militar y Naval, así como otros elementos de mando y servicios de apoyo de la Fuerza Armada permanente, que sean asignados a la Guardia Nacional, conservarán su rango y prestaciones".
+
+Toda vez que el citado precepto no prevé lo que para efectos del mismo debe entenderse por "asignados", los alcances del mismo se interpretarán conforme a la semántica, teniéndose así que el Diccionario de la Real Academia Española establece que el término "asignar" significa "nombrar" o "designar", permitiendo establecer que, en el presente caso, la asignación tuvo por objeto que el personal fuera separado funcionalmente de las fuerzas armadas para desempeñar funciones de seguridad pública en la Guardia Nacional sin perder sus derechos y prestaciones.
+
+El "rango" es sinónimo de "grado", conforme a la escala jerárquica en las Fuerzas Armadas, que prevé la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
+
+El "grado" tiene por objeto el ejercicio de la autoridad, de mando militar, de actividad técnica o de actividad administrativa en los diferentes niveles orgánicos de las Unidades, Dependencias e Instalaciones; por lo que el personal asignado tiene que estar en condiciones de ejercerlos, para lo cual debe mantenerse apto física y profesionalmente a través de la capacitación permanente, en instituciones nacionales o en el extranjero.
+
+Lo anterior, implica conservar sus prestaciones íntegras, toda vez que se encuentra en una asignación temporal derivada del artículo transitorio de la reforma constitucional por el que se crea la Guardia Nacional, motivo que no deberá, en ningún caso, implicar una afectación a sus derechos laborales, prestaciones inherentes, así como la salvaguarda de ser reasignado a su fuerza armada de origen.
+
+B. La frase: "la ley garantizará que cuando un elemento sea reasignado a su cuerpo de origen, ello se realice respetando los derechos con que contaba al momento de ser asignado a aquélla".
+
+El referido mandato constitucional prevé que el personal asignado a la Guardia Nacional no pierde sus derechos y prestaciones. En consecuencia, la "reasignación" implica que el elemento militar o naval deje de realizar sus funciones en Seguridad Pública y sea reintegrado a su fuerza armada para continuar realizando sus actividades de índole netamente castrense con la suma de derechos y prestaciones adquiridos en dicha institución de seguridad pública.
+
+Lo anterior, genera la certeza jurídica de que la asignación tiene un carácter temporal, ya que esta situación podría concluir una vez que la mencionada institución de seguridad pública se consolide.
+
+C. La frase: "reconocimiento del tiempo de servicios de la Guardia Nacional para efectos de su antigüedad".
+
+El Constituyente Permanente previó proteger los derechos, estímulos y prestaciones de los elementos militares asignados a la Guardia Nacional, a fin de que se les reconozca y se les compute todo el tiempo de servicios que presten en la misma al momento de su reasignación, para los efectos de sumarlo a su antigüedad en las Fuerzas Armadas, lo que redunda en el derecho de participar en promoción para el ascenso al grado inmediato durante el tiempo que estén asignados y en su reasignación, así como de los demás beneficios y prestaciones antes señalados.
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 6 de marzo de 2024.- Dip. Karla Yuritzi Almazán Burgos, Vicepresidenta en funciones de Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Karina Isabel Garivo Sánchez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
