@@ -3,12 +3,11 @@ title: Ley General de Títulos y Operaciones de Crédito
 abbreviation: LGTOC
 slug: lgtoc
 published_dof: 1932-08-27
-last_reform_dof: 2018-06-22
-articles: 462
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/145_220618.doc
-archived: https://web.archive.org/web/20181105063009/http://www.diputados.gob.mx:80/LeyesBiblio/doc/145_220618.doc
-source_sha256: c20c67aa7a6d4772334dd4bd9987103d5e2b4a500de716911b5b5728c66d18ff
-retrieved: 2018-11-05
+last_reform_dof: 2024-03-26
+articles: 463
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGTOC.doc
+source_sha256: 3024e8fd14ffd0277fbf4b9d3789ea218612abf3958691089c0ae06f57276b79
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgtoc.htm
 ---
 
@@ -18,7 +17,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 27 de agosto de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 22-06-2018
+Última reforma publicada DOF 26-03-2024
 
 Al margen un sello que dice: Poder Ejecutivo Federal.-Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -50,9 +49,13 @@ I.- Por lo dispuesto en esta Ley, y en las demás leyes especiales, relativas; e
 
 II.- Por la Legislación Mercantil general; en su defecto,
 
-III.- Por los usos bancarios y mercantiles y, en defecto de éstos,
+III.- Por los usos bancarios y mercantiles y, en defecto de éstos, y
 
-IV.- Por el Derecho Común, declarándose aplicable en toda la República, para los fines de esta ley, el Código Civil del Distrito Federal.
+*Fracción reformada DOF 26-03-2024*
+
+IV.- Por la legislación federal.
+
+*Fracción reformada DOF 26-03-2024*
 
 ##### Artículo 3o.
 
@@ -72,7 +75,25 @@ En las operaciones de crédito que esta ley reglamenta, se presume que los codeu
 
 ##### Artículo 5o.
 
-Son títulos de crédito, los documentos necesarios para ejercitar el derecho literal que en ellos se consigna.
+Son títulos de crédito, los documentos necesarios para ejercitar el derecho literal que en ellos se consigna, con independencia de que se emitan por medios escritos o electrónicos.
+
+Los títulos de crédito podrán emitirse en medios electrónicos, ópticos o por cualquier otra tecnología a través de un sistema de información que se usará para generar, transmitir, recibir, entregar, o procesar de alguna otra forma mensajes de datos, en términos del artículo 89 del Código de Comercio.
+
+Para efectos de lo dispuesto en el párrafo anterior, los títulos de crédito emitidos en medios electrónicos, ópticos o por cualquier otra tecnología se considerarán mensaje de datos en los términos del Título Segundo del Libro Segundo del Código de Comercio y no se desconocerán efectos jurídicos, validez, ni exigibilidad de los derechos consignados en dichos títulos por la sola razón de que estén contenidos en un mensaje de datos.
+
+*Artículo reformado DOF 26-03-2024*
+
+##### Artículo 5o Bis.
+
+Cuando la presente Ley u otra disposición legal señale o exija que las operaciones que esta Ley regula consten por escrito, ese requisito se dará por cumplido respecto de un título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, cuando así expresamente lo permita la Ley, si se mantiene íntegro y disponible.
+
+Para efectos de los títulos de crédito que obren en medios electrónicos, por integridad se entenderá que la información contenida en el título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, se ha mantenido completa e inalterada, a excepción de cualquier cambio que surja en el curso normal de su comunicación, archivo o presentación que conste y su circulación sea trazable en el sistema de información a que se refiere el artículo 5o. de esta Ley.
+
+Se presumirá que un título de crédito se mantiene íntegro y disponible cuando pueda consultarse en el sistema de información a que se refiere el artículo 5o. de esta Ley.
+
+Cuando se exija la firma de una persona, ese requisito se dará por cumplido para títulos de crédito emitidos en medios electrónicos, ópticos o por cualquier otra tecnología, siempre que sea atribuible a dicha persona conforme al Código de Comercio.
+
+*Artículo adicionado DOF 26-03-2024*
 
 ##### Artículo 6o.
 
@@ -164,7 +185,11 @@ El título de crédito cuyo importe estuviere escrito a la vez en palabras y en 
 
 ##### Artículo 17.
 
-El tenedor de un título tiene la obligación de exhibirlo para ejercitar el derecho que en él se consigna. Cuando sea pagado, debe restituirlo. Si es pagado sólo parcialmente o en lo accesorio, debe hacer mención del pago en el título. En los casos de robo, extravío, destrucción o deterioro grave, se estará a lo dispuesto por los artículos 42 al 68, 74 y 75.
+El tenedor de un título tiene la obligación de exhibirlo para ejercitar el derecho que en él se consigna. Cuando sea pagado, debe restituirlo. Si es pagado sólo parcialmente o en lo accesorio, debe hacer mención del pago en el título. En los casos de robo, extravío, destrucción o deterioro grave, se estará a lo dispuesto por los artículos 42 al 68, 74 y 75 de esta Ley.
+
+Tratándose de un título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, el tenedor exhibirá dicho título a través del sistema de información a que se refiere el artículo 5o. de esta Ley y que haya sido determinado conforme a las disposiciones legales aplicables al título de crédito de que se trate.
+
+*Artículo reformado DOF 26-03-2024*
 
 ##### Artículo 18.
 
@@ -194,7 +219,9 @@ Respecto a los títulos de deuda pública, a los billetes de banco, a las accion
 
 ##### Artículo 23.
 
-Son títulos nominativos, los expedidos a favor de una persona cuyo nombre se consigna en el texto mismo del documento.
+Son títulos de crédito nominativos, los expedidos a favor de una persona cuyo nombre se consigna en el mismo documento o archivo digital.
+
+*Párrafo reformado DOF 26-03-2024*
 
 En el caso de títulos nominativos que llevan adheridos cupones, se considerará que son cupones nominativos, cuando los mismos estén identificados y vinculados por su número, serie y demás datos con el título correspondiente.
 
@@ -216,9 +243,21 @@ Los títulos nominativos se entenderán siempre extendidos a la orden, salvo ins
 
 Los títulos nominativos serán transmisibles por endoso y entrega del título mismo, sin perjuicio de que puedan transmitirse por cualquier otro medio legal.
 
+Tratándose de títulos de crédito emitidos en medios electrónicos, ópticos o cualquier otra tecnología el endoso se realizará a través del sistema de información a que se refiere el artículo 5o. de esta Ley, y se considerará como entregado al endosatario.
+
+*Párrafo adicionado DOF 26-03-2024*
+
+El endosatario adquiere un derecho independiente a aquel que tenía el endosante y, por tanto, no pueden oponérsele las excepciones personales oponibles a cualquiera de los endosantes anteriores.
+
+*Párrafo adicionado DOF 26-03-2024*
+
 ##### Artículo 27.
 
 La transmisión del título nominativo por cesión ordinaria o por cualquier otro medio legal diverso del endoso, subroga al adquirente en todos los derechos que el título confiere; pero lo sujeta a todas las excepciones personales que el obligado habría podido oponer al autor de la transmisión antes de ésta. El adquirente tiene derecho a exigir la entrega del título.
+
+Tratándose de un título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, que haya sido transmitido en términos del párrafo anterior, se tendrá por entregado al adquirente a través del sistema a que se refiere el artículo 5o. de esta Ley y que haya sido determinado conforme a las disposiciones legales aplicables al título de crédito de que se trate, con los efectos que se precisan en este artículo, en caso de efectuar cualquier acto de transmisión posterior indebido por parte del enajenante del título, a través del sistema que lo generó, lo hará sujeto de responsabilidades civiles y penales que correspondan.
+
+*Párrafo adicionado DOF 26-03-2024*
 
 ##### Artículo 28.
 
@@ -235,6 +274,10 @@ II.- La firma del endosante o de la persona que suscriba el endoso a su ruego o 
 III.- La clase de endoso;
 
 IV.- El lugar y la fecha.
+
+Tratándose de un título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, la transmisión por endoso deberá realizarse en el sistema de información a que se refiere el artículo 5o. de esta Ley, relacionándolo de manera indubitable con el título de crédito objeto del endoso.
+
+*Párrafo adicionado DOF 26-03-2024*
 
 ##### Artículo 30.
 
@@ -294,11 +337,19 @@ La constancia que ponga el Juez en el título conforme al artículo 28, se tendr
 
 El que paga no está obligado a cerciorarse de la autenticidad de los endosos, ni tiene la facultad de exigir que ésta se le compruebe, pero sí debe verificar la identidad de la persona que presente el título como último tenedor, y la continuidad de los endosos. Las instituciones de crédito pueden cobrar los títulos aun cuando no estén endosados en su favor, siempre que les sean entregados por los beneficiarios para abono en su cuenta, mediante relación suscrita por el beneficiario o su representante, en la que se indique la característica que identifique el título; se considerará legítimo el pago con la sola declaración que la institución de crédito respectiva, haga en el título, por escrito, de actuar en los términos de este precepto.
 
+Tratándose de un título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, la identidad de las personas que presenten el título como último tenedor y la continuidad de los endosos, deberá verificarse en el sistema de información en que se hubiere emitido el título respectivo.
+
+*Párrafo adicionado DOF 26-03-2024*
+
 *Artículo reformado DOF 31-12-1951*
 
 ##### Artículo 40.
 
 Los títulos de crédito pueden trasmitirse por recibo de su valor extendido en el mismo documento, o en hoja adherida a él, a favor de algún responsable de los mismos, cuyo nombre debe hacerse constar en el recibo. La transmisión por recibo produce los efectos de un endoso sin responsabilidad.
+
+Tratándose de un título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, la transmisión referida en el párrafo anterior se realizará a través del sistema de información a que se refiere el artículo 5o. de esta Ley, en que se hubiere emitido el título respectivo.
+
+*Párrafo adicionado DOF 26-03-2024*
 
 ##### Artículo 41.
 
@@ -370,6 +421,10 @@ Se reputan con mejor derecho que el reclamante, los que adquirieron el documento
 
 Es aplicable al oponente lo dispuesto por los párrafos segundo, tercero, cuarto y quinto del artículo 43.
 
+Tratándose de un título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, la oposición se realizará conforme al procedimiento establecido en el artículo 51 de esta Ley, para tales efectos el juez deberá consultar la existencia y circulación del título de crédito en el sistema de información a que se refiere el artículo 5o. de esta Ley, en que se hubiere emitido el título respectivo.
+
+*Párrafo adicionado DOF 26-03-2024*
+
 ##### Artículo 48.
 
 La oposición del tenedor del título debe substanciarse con citación del que pidió la cancelación, y de las personas mencionadas en la fracción III del artículo 45.
@@ -426,7 +481,13 @@ Desde que la cancelación quede firme, por no haberse presentado ningún oposito
 
 Si se reclama el pago del documento, la demanda debe proponerse en la vía ejecutiva, y bajo pena de caducidad de la acción respectiva, dentro de los treinta días que sigan a la fecha en que quede firme la cancelación. Con la demanda se acompañarán precisamente, para que la ejecución pueda despacharse, todas las constancias y documentos de que resulte acreditado el derecho del reclamante.
 
-Contra esa reclamación caben todas las excepciones y defensas enumeradas en el artículo 8o.
+Contra esa reclamación caben todas las excepciones y defensas enumeradas en el artículo 8o. de la presente Ley.
+
+*Párrafo reformado DOF 26-03-2024*
+
+Tratándose de un título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, el juez deberá consultar la existencia y circulación del título de crédito en el sistema de información a que se refiere el artículo 5o. de esta Ley, en que se hubiere emitido el título respectivo.
+
+*Párrafo adicionado DOF 26-03-2024*
 
 ##### Artículo 55.
 
@@ -755,6 +816,10 @@ Puede prestar el aval quien no ha intervenido en la letra y cualquiera de los si
 ##### Artículo 111.
 
 El aval debe constar en la letra o en hoja que se le adhiera. Se expresará con la fórmula “por aval,” u otra equivalente, y debe llevar la firma de quien lo presta. La sola firma puesta en la letra, cuando no se le pueda atribuir otro significado, se tendrá como aval.
+
+Tratándose de títulos de crédito emitidos en medios electrónicos, ópticos o cualquier otra tecnología, el otorgamiento de aval se realizará a través del sistema de información a que se refiere el artículo 5o. de esta Ley.
+
+*Párrafo adicionado DOF 26-03-2024*
 
 ##### Artículo 112.
 
@@ -1984,37 +2049,61 @@ La prescripción operará, en todos los casos, en favor del patrimonio de la Sec
 
 ##### Artículo 229.
 
-El certificado de depósito acredita la propiedad de mercancías o bienes depositados en el Almacén que lo emite: el bono de prenda, la constitución de un crédito prendario sobre las mercancías o bienes indicados en el certificado de depósito correspondiente.
+El certificado de depósito acredita la propiedad de mercancías o bienes depositados en el Almacén General de Depósito que lo emite y en su caso, la constitución de un crédito prendario sobre dichas mercancías o bienes.
 
-Sólo los Almacenes Generales de Depósito, autorizados conforme a la Ley General de Instituciones de Crédito, podrán expedir estos títulos.
+Sólo los Almacenes Generales de Depósito, autorizados conforme a la Ley General de Organizaciones y Actividades Auxiliares del Crédito, podrán expedir estos títulos.
+
+Los certificados de depósito únicamente se emitirán en medios electrónicos, ópticos o cualquier otra tecnología, a través de el o los sistemas criptográficos de certificados de depósito que los propios Almacenes Generales de Depósito emisores del título determinen, de conformidad con lo establecido en la presente Ley y demás disposiciones aplicables.
+
+Dichos certificados de depósito deberán inscribirse en el Registro Único de Certificados, Almacenes y Mercancías, en términos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+
+En caso de existir pluralidad de sistemas criptográficos, estos deberán interconectarse, de conformidad con las siguientes bases:
+
+a) Garantizar que la información relativa a cualquier título sea accesible para las personas que intervengan en algún acto relacionado con el certificado de depósito;
+
+b) Las especificaciones técnicas necesarias para realizar la interconexión serán determinadas por mutuo acuerdo celebrado entre los Almacenes Generales de Depósito emisores que la establezcan observando lo establecido en la presente Ley y demás disposiciones aplicables, sin que pueda otorgarse ventaja, beneficio o preeminencia de algún sistema sobre otro, ni se restrinja la libertad de asociación, con independencia de que los Almacenes Generales de Depósito emisores actúen de forma individual o como parte de un colectivo;
+
+c) No genere costos adicionales a los Almacenes Generales de Depósito emisores, salvo aquellos necesarios para establecer el punto de intercambio de tráfico con su respectivo sistema criptográfico;
+
+d) Dicha interconexión se garantizará para las Autoridades competentes que así lo requieran. En ese sentido, deberá cumplir con los estándares y reglas necesarias que garanticen la seguridad y certeza de la misma.
+
+La omisión, defecto o imposibilidad técnica que impida o genere fallas en la interconexión de los sistemas criptográficos de los certificados de depósito, no afectará la validez de éstos o los derechos de los tenedores; debiendo garantizarse en todo momento por parte de los Almacenes Generales de Depósito emisores, el cumplimiento de los principios establecidos en la legislación aplicable.
+
+A través de el o los sistemas criptográficos en que se emitan los certificados de depósito se establecerá de manera indubitable, de acuerdo con lo dispuesto en esta Ley y la Ley General de Organizaciones y Actividades Auxiliares del Crédito, la generación, transmisión por endoso, recepción, entrega o cualquier otro acto relacionado con el certificado de depósito tomando en cuenta, entre otros requisitos, los previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio.
+
+Para efectos de lo dispuesto en el párrafo anterior, el o los sistemas criptográficos en que se emitan los certificados de depósito, fungirán como sistema de información en términos de lo dispuesto en el artículo 5o. de esta Ley.
 
 Las constancias, recibos o certificados que otras personas o instituciones expidan para acreditar el depósito de bienes o mercancías, no producirán efectos como títulos de crédito.
 
+*Artículo reformado DOF 26-03-2024*
+
 ##### Artículo 230.
 
-Cuando se trate de mercancías o bienes individualmente designados, los Almacenes sólo podrán expedir un bono de prenda en relación con cada certificado de depósito. Si se trata de mercancías o bienes designados genéricamente, los Almacenes podrán expedir, a voluntad del depositante, bonos de prenda múltiples.
+Se deroga.
 
-Si se expide un solo bono, deberá ir adherido al certificado de depósito.
-
-*Artículo reformado DOF 10-01-2014*
+*Artículo reformado DOF 10-01-2014. Derogado DOF 26-03-2024*
 
 ##### Artículo 231.
 
-Tanto el certificado de depósito como el bono de prenda, deberán contener:
+El certificado de depósito deberá contener al menos la siguiente información:
+
+*Párrafo reformado DOF 26-03-2024*
 
 I.- La mención de ser “certificado de depósito” y “bono de prenda,” respectivamente;
 
 *Fe de erratas a la fracción DOF 10-02-1933*
 
-II.- La designación y la firma del Almacén;
+II.- La designación y la firma electrónica avanzada del representante legal del Almacén General de Depósito que lo emite. No se permitirá el uso de firmas digitales;
 
-*Fe de erratas a la fracción DOF 08-09-1932*
+*Fe de erratas a la fracción DOF 08-09-1932. Reformada DOF 26-03-2024*
 
 III.- El lugar del depósito;
 
 IV.- La fecha de expedición del título;
 
-V.- El número de orden, que deberá ser igual para el certificado de depósito y para el bono o los bonos de prenda relativos, y el número progresivo de éstos, cuando se expidan varios en relación con un solo certificado;
+V.- El número de orden;
+
+*Fracción reformada DOF 26-03-2024*
 
 VI.- La mención de haber sido constituido el depósito con designación individual o genérica de las mercancías o efectos respectivos;
 
@@ -2022,9 +2111,9 @@ VII.- La especificación de las mercancías o bienes depositados, con mención d
 
 VIII.- El plazo señalado para el depósito;
 
-IX.- El nombre del depositante;
+IX.- El nombre, la Clave Única del Registro de Población, o el Registro Federal de Contribuyentes del depositante cuando se trate de persona física. En caso que el depositante sea persona moral su denominación o razón social, Registro Federal de Contribuyentes y nombre, Clave Única del Registro de Población, o el Registro Federal de Contribuyentes del representante legal;
 
-*Fracción reformada DOF 30-12-1982*
+*Fracción reformada DOF 30-12-1982, 26-03-2024*
 
 X.- La mención de estar o no sujetos los bienes o mercancías materia del depósito al pago de derechos, impuestos o responsabilidades fiscales, y cuando para la constitución del depósito sea requisito previo el formar la liquidación de tales derechos, nota de esa liquidación;
 
@@ -2032,73 +2121,115 @@ XI.- La mención de estar o no asegurados los bienes o mercancías depositados y
 
 XII.- La mención de los adeudos o de las tarifas en favor del Almacén o, en su caso, la mención de no existir tales adeudos.
 
+XIII.- La mención de que las mercancías se encuentran depositadas en bodegas propias, habilitadas, arrendadas o recibidas en comodato o que la mercancía se encuentra en tránsito al almacén;
+
+*Fracción adicionada DOF 26-03-2024*
+
+XIV.- La mención de que el certificado de depósito es Negociable o No Negociable;
+
+*Fracción adicionada DOF 26-03-2024*
+
+XV.- El nombre, la Clave Única del Registro de Población o Registro Federal de Contribuyentes del beneficiario cuando se trate de persona física. En caso que el beneficiario sea persona moral su denominación o razón social, Registro Federal de Contribuyentes, así como el nombre, Clave Única del Registro de Población y Registro Federal de Contribuyentes del representante legal, y
+
+*Fracción adicionada DOF 26-03-2024*
+
+XVI.- La declaración del depositante respecto a si la mercancía o bienes descritos en el certificado de depósito garantizan alguna otra obligación previamente pactada.
+
+*Fracción adicionada DOF 26-03-2024*
+
 ##### Artículo 232.
 
-El bono de prenda deberá contener, además:
+En caso que se constituya un crédito prendario sobre las mercancías o bienes señaladas en el certificado de depósito, se deberán incorporar al certificado los siguientes datos:
 
-I.- El nombre del tomador del bono;
+*Párrafo reformado DOF 26-03-2024*
 
-*Fracción reformada DOF 30-12-1982*
+I.- El nombre, Clave Única del Registro de Población o Registro Federal de Contribuyentes y firma electrónica avanzada del acreedor prendario cuando se trate de persona física. En caso que el acreedor prendario sea persona moral su denominación o razón social, Registro Federal de Contribuyentes, así como el nombre, Clave Única del Registro de Población, Registro Federal de Contribuyentes y firma electrónica avanzada del representante legal;
 
-II.- El importe del crédito que el bono representa;
+*Fracción reformada DOF 30-12-1982, 26-03-2024*
 
-III.- El Tipo de interés pactado;
+II.- El importe del crédito; así como el valor y porcentaje de las mercancías afectadas por el mismo;
 
-IV.- La fecha del vencimiento, que no podrá ser posterior a la fecha en que concluya el depósito;
+*Fracción reformada DOF 26-03-2024*
 
-V.- La firma del tenedor del certificado que negocie el bono por primera vez;
+III.- El interés pactado;
 
-VI.- La mención, suscrita por el Almacén o por la institución de crédito que intervengan en la primera negociación del bono, de haberse hecho la anotación respectiva en el certificado de depósito.
+*Fracción reformada DOF 26-03-2024*
+
+IV.- La fecha del vencimiento del crédito prendario, que no podrá ser posterior a la fecha en que concluya el depósito, y
+
+*Fracción reformada DOF 26-03-2024*
+
+V.- El nombre, Clave Única del Registro de Población o Registro Federal de Contribuyentes y firma electrónica avanzada del tenedor legítimo cuando se trate de persona física. En caso que el tenedor legítimo sea persona moral su denominación o razón social y Registro Federal de Contribuyentes, así como el nombre, Clave Única del Registro de Población, Registro Federal de Contribuyentes y firma electrónica avanzada del representante legal.
+
+*Fracción reformada DOF 26-03-2024*
+
+VI.- Se deroga.
+
+*Fracción derogada DOF 26-03-2024*
 
 ##### Artículo 233.
 
-Cuando el bono de prenda no indique el monto del crédito que el bono representa, se entenderá que éste afecta todo el valor de los bienes depositados en favor del tenedor de buena fe, salvo el derecho del tenedor del certificado de depósito, para repetir por el exceso que reciba el tenedor del bono sobre el importe real de su crédito.
+Se deroga.
 
-*Fe de erratas al párrafo DOF 10-02-1933*
-
-Cuando no se indique el tipo de interés, se presumirá que el bono ha sido descontado.
-
-*Fe de erratas al párrafo DOF 10-02-1933*
+*Fe de erratas al artículo DOF 10-02-1933. Derogado DOF 26-03-2024*
 
 ##### Artículo 234.
 
-Los Almacenes expedirán estos títulos y deberán llevar un registro en el que se contengan los mismos datos que en los documentos expedidos.
+Se deroga.
 
-*Artículo reformado DOF 10-01-2014*
+*Artículo reformado DOF 10-01-2014. Derogado DOF 26-03-2024*
 
 ##### Artículo 235.
 
-Cuando se expidan bonos de prenda múltiples en relación con un certificado, desde el momento de su expedición el Almacén debe hacer constar en los bonos los requisitos a que se refieren las fracciones II a IV del artículo 232, y en el certificado, la expedición de los bonos con las indicaciones dichas.
+No podrán emitirse certificados múltiples que amparen idénticos bienes o mercancías.
 
-*Fe de erratas al artículo DOF 08-09-1932*
+La violación a lo establecido en el párrafo anterior, sujetará al emisor del título de crédito a las responsabilidades a las que haya lugar.
+
+*Fe de erratas al artículo DOF 08-09-1932. Reformado DOF 26-03-2024*
 
 ##### Artículo 236.
 
-El bono de prenda sólo podrá ser negociado por primera vez separadamente del certificado de depósito con intervención del Almacén que haya expedido los documentos, o de una institución de crédito.
+El acreedor deberá integrar en el certificado de depósito correspondiente los datos de constitución del crédito prendario sobre mercancías amparadas por un certificado de depósito a que se refiere el artículo 232 de la presente Ley, a través del sistema criptográfico en que se emita, a más tardar el día hábil siguiente a la fecha en que se constituyó dicho crédito, siendo responsable de los daños y perjuicios causados por las omisiones o inexactitudes en que incurra.
 
-Al negociarse el bono por primera vez, deberán llenarse en él los requisitos a que se refieren las fracciones I a VI del artículo 232, si se trata de un solo bono, o los requisitos a que se refieren las fracciones I, V y VI del artículo citado, en caso de bonos múltiples.
+*Párrafo reformado DOF 26-03-2024*
 
-Las anotaciones a que este artículo se refiere, deberán ser suscritas por el tenedor del certificado y por el Almacén o por la institución de crédito que en ellas intervengan, y que serán responsables de los daños y perjuicios causados por las omisiones o inexactitudes en que incurran.
+Lo anterior, sin perjuicio de la obligación de registrar en el Registro Único de Certificados, Almacenes y Mercancías la constitución del crédito prendario.
 
-La institución de crédito que intervenga en la emisión del bono, deberá dar aviso de su intervención, por escrito, al Almacén que hubiere expedido el documento.
+*Párrafo reformado DOF 26-03-2024*
+
+*Reforma DOF 26-03-2024: Derogó del artículo los entonces párrafos tercero y cuarto*
 
 ##### Artículo 237.
 
-Los bonos de prenda múltiples a que el artículo 230 se refiere, serán expedidos amparando una cantidad global dividida entre tantas partes iguales como bonos se expidan respecto a cada certificado y haciéndose constar en cada bono que el crédito de su tenedor legítimo tendrá, en su cobro, el orden de prelación indicado con el número de orden propio del bono.
+Se deroga.
+
+*Artículo derogado DOF 26-03-2024*
 
 ##### Artículo 238.
 
-Los certificados de depósito y los bonos de prenda deberán ser emitidos a favor del depositante o de un tercero.
+Los certificados de depósito deberán ser emitidos a favor del depositante o de un tercero.
 
-*Artículo reformado DOF 30-12-1982*
+*Artículo reformado DOF 30-12-1982, 26-03-2024*
 
 ##### Artículo 239.
 
-El tenedor legítimo del certificado de depósito y del bono o de los bonos de prenda respectivos, tiene pleno dominio sobre las mercancías o bienes depositados y puede en cualquier tiempo recogerlos, mediante la entrega del certificado y del o de los bonos de prenda correspondientes y el pago de sus obligaciones respectivas a favor del Fisco y de los Almacenes.
+El tenedor legítimo del certificado de depósito tiene pleno dominio sobre las mercancías o bienes depositados y puede en cualquier tiempo disponer de ellos, mediante la entrega del certificado y el pago de sus obligaciones respectivas a favor del Fisco y de los Almacenes Generales de Depósito.
+
+Para efectos de lo dispuesto en el párrafo anterior, se entiende que se realiza la entrega del certificado de depósito cuando el tenedor legítimo transfiera el control del título al Almacén General de Depósito a través del sistema criptográfico en que se haya emitido dicho título.
+
+El Almacén General de Depósito podrá liberar totalmente las mercancías o bienes que ampara el certificado de depósito, previa entrega y pago de sus obligaciones respectivas conforme a lo establecido en el presente artículo, debiendo cancelar en el sistema criptográfico el certificado de depósito al entregar las mercancías o bienes.
+
+Cuando se trate de bienes que permitan cómoda división y bajo la responsabilidad de los Almacenes, podrá retirar una parte de las mercancías o bienes que ampara el certificado de depósito, pagando la parte proporcional de las obligaciones contraídas en favor del Fisco y de los Almacenes. Tratándose de una liberación parcial del certificado de depósito, el Almacén General de Depósito realizará las modificaciones procedentes al certificado de depósito en el sistema criptográfico de certificados de depósito.
+
+*Artículo reformado DOF 26-03-2024*
 
 ##### Artículo 240.
 
-El que sólo sea tenedor del certificado de depósito, tiene dominio sobre las mercancías o efectos depositados; pero no podrá retirarlos sino mediante el pago de las obligaciones que tenga contraídas para con el Fisco y los Almacenes, y el depósito en dichos Almacenes, de la cantidad amparada por el o los bonos de prenda respectivos. Podrá, igualmente, cuando se trate de bienes que permitan cómoda división y bajo la responsabilidad de los Almacenes, retirar una parte de los bienes depositados, entregando en cambio a los Almacenes una suma de dinero proporcional al monto del adeudo que representen el bono o los bonos de prenda relativos, y a la cantidad de mercancías extraídas, y pagando la parte proporcional de las obligaciones contraídas en favor del Fisco y de los Almacenes. En este caso, los Almacenes deberán hacer las anotaciones correspondientes en el certificado y en el talón respectivo.
+Cuando el tenedor legítimo y el Almacén General de Depósito así lo acuerden, se podrá renovar la vigencia del certificado de depósito.
+
+Para efectos de lo dispuesto en el párrafo anterior, el tenedor legítimo del certificado de depósito deberá manifestar su voluntad en el sistema criptográfico en que se haya emitido, y el Almacén General de Depósito realizará las modificaciones procedentes al certificado de depósito en el sistema mencionado.
+
+*Artículo reformado DOF 26-03-2024*
 
 ##### Artículo 241.
 
@@ -2106,15 +2237,27 @@ El tenedor legítimo de un certificado de depósito no negociable, podrá dispon
 
 ##### Artículo 242.
 
-El bono de prenda no pagado en tiempo, total o parcialmente, debe protestarse a más tardar el segundo día hábil que siga al del vencimiento, en la misma forma que la letra de cambio.
+El tenedor legítimo del certificado de depósito que sea acreedor prendario requerirá el pago al deudor a través del sistema criptográfico en que se haya emitido, a más tardar el segundo día hábil que siga al del vencimiento del plazo del crédito prendario.
 
-El protesto debe practicarse precisamente en el Almacén que haya expedido el certificado de depósito correspondiente, y en contra del tenedor eventual de éste, aun cuando no se conozcan su nombre o dirección, ni esté presente en el acto del protesto.
+En caso de liquidar la cantidad adeudada, el acreedor prendario transferirá el control del certificado de depósito al deudor en su calidad de tenedor legítimo a través del sistema criptográfico correspondiente.
 
-La anotación que el Almacén ponga en el bono de prenda o en hoja anexa, de que fue presentado a su vencimiento y no pagado totalmente, surtirá los efectos del protesto. En este caso, el tenedor del bono deberá dar aviso de la falta de pago, a todos los signatarios del documento.
+En caso de no recibir el pago, el acreedor prendario dará aviso de la falta de pago de la obligación garantizada a través del sistema criptográfico de certificados de depósito al deudor, a aquellos a quienes conforme a la circulación del certificado de depósito consten en el sistema mencionado, así como al Almacén General de Depósito que custodia las mercancías.
+
+El procedimiento contemplado en el presente artículo hace las veces del protesto por falta de pago a que se refiere el artículo 140 de esta Ley.
+
+*Artículo reformado DOF 26-03-2024*
 
 ##### Artículo 243.
 
-El tenedor del bono de prenda protestado conforme al artículo que antecede, deberá pedir, dentro de los ocho días siguientes a la fecha del protesto, que el Almacén proceda a la venta de las mercancías o bienes depositados, en remate público.
+El aviso con efectos de protesto a que se refiere el penúltimo párrafo del artículo 242 deberá incluir la cantidad adeudada hasta el momento, la cual incluirá el monto principal y accesorios pactados.
+
+Salvo instrucción contraria del acreedor prendario, el Almacén General de Depósito deberá iniciar el procedimiento de remate público de los bienes o mercancías depositadas, transcurridos ocho días de la presentación del aviso a que se refiere el presente artículo.
+
+El Almacén General de Depósito publicará en el sistema electrónico a que se refiere el artículo 50 Bis del Código de Comercio, por lo menos cinco días hábiles con antelación, un aviso de venta de los bienes o mercancías depositadas, en el cual se señalará el lugar, día y hora en que se pretenda realizar el remate público, incluyendo además una descripción de los bienes o mercancías y una primera postura; haciendo la anotación correspondiente en el sistema criptográfico en que se haya emitido el certificado de depósito.
+
+El acreedor prendario podrá participar en el remate para adjudicarse los bienes con saldo a su crédito.
+
+*Artículo reformado DOF 26-03-2024*
 
 ##### Artículo 244.
 
@@ -2122,9 +2265,13 @@ El producto de la venta de las mercancías o bienes depositados, se aplicará di
 
 I.- Al pago de los impuestos, derechos o responsabilidades fiscales que estuvieren pendientes por concepto de las mercancías o bienes materia del depósito;
 
-II.- Al pago del adeudo causado a favor de los Almacenes, en los términos del contrato de depósito;
+II.- Al pago del adeudo causado a favor de los Almacenes, en los términos del contrato de depósito, incluyendo los costos que resulten del remate público, y
 
-III.- Al pago del valor consignado en los bonos de prenda, aplicándose, cuando existan varios bonos de prenda en relación con un certificado, el orden de prelación indicado, entre los distintos tenedores de dichos bonos de prenda, por la numeración de orden correspondiente a tales bonos.
+*Fracción reformada DOF 26-03-2024*
+
+III.- Al pago del crédito prendario, en su caso.
+
+*Fracción reformada DOF 26-03-2024*
 
 El sobrante será conservado por los Almacenes a disposición del tenedor del certificado de depósito.
 
@@ -2134,51 +2281,61 @@ Si los bienes depositados estuvieren asegurados, el importe de la indemnización
 
 ##### Artículo 246.
 
-Los Almacenes serán considerados como depositarios de las cantidades, que procedentes de la venta o retiro de las mercancías, o de la indemnización en caso de siniestro, correspondan a los tenedores de bonos de prenda y de certificados de depósito.
+Los Almacenes serán considerados como depositarios de las cantidades, que procedentes de la venta o retiro de las mercancías, o de la indemnización en caso de siniestro, correspondan a los tenedores de certificados de depósito.
+
+*Artículo reformado DOF 26-03-2024*
 
 ##### Artículo 247.
 
-Los Almacenes deberán hacer constar en el bono mismo o en hoja anexa, la cantidad pagada sobre el bono con el producto de la venta de los bienes depositados, o con la entrega de las cantidades correspondientes que los Almacenes tuvieren en su poder conforme al artículo 246. Igualmente deberán hacer constar, en su caso, que la venta de los bienes no puede efectuarse. Esta anotación hará prueba para el ejercicio de las acciones de regreso.
+Los Almacenes deberán hacer constar en el certificado de depósito, a través del sistema criptográfico en que se haya emitido, la cantidad pagada con el producto de la venta de los bienes depositados, o con la entrega de las cantidades correspondientes que los Almacenes tuvieren en su poder conforme al artículo 246.
 
-*Fe de erratas al artículo DOF 08-09-1932*
+Asimismo, deberán hacer constar, en su caso, que la venta de los bienes no puede efectuarse. Esta anotación hará prueba para el ejercicio de las acciones de regreso.
+
+*Fe de erratas al artículo DOF 08-09-1932. Reformado DOF 26-03-2024*
 
 ##### Artículo 248.
 
-Si el producto de la venta de los bienes depositados, o el monto de las cantidades que los Almacenes entreguen al tenedor del bono de prenda, en los casos de los artículos 240 y 245, no bastan a cubrir totalmente el adeudo consignado en el bono, o sí, por cualquier motivo, los Almacenes no efectúan el remate o no entregan al tenedor las cantidades correspondientes que hubiere recibido conforme al artículo 246, el tenedor del bono puede ejercitar la acción cambiaria contra la persona que haya negociado el bono por primera vez separadamente del certificado de depósito, y contra los endosantes posteriores del bono y los avalistas. El mismo derecho tendrán, contra los signatarios anteriores, los obligados en vía de regreso que paguen el bono.
+Si el producto de la venta de los bienes depositados, o el monto de las cantidades que los Almacenes entreguen al tenedor legítimo del certificado de depósito, en los casos de los artículos 244 y 245, no bastan a cubrir totalmente el adeudo consignado en el certificado de depósito, o sí, por cualquier motivo, los Almacenes no efectúan el remate o no entregan al tenedor legítimo las cantidades correspondientes que hubiere recibido conforme al artículo 246, el tenedor legítimo del certificado de depósito puede ejercitar la acción cambiaria contra la persona que haya negociado el certificado de depósito por primera vez, y contra los endosantes posteriores y los avalistas. El mismo derecho tendrán, contra los signatarios anteriores, los obligados en vía de regreso que paguen el monto de la obligación garantizada.
+
+*Artículo reformado DOF 26-03-2024*
 
 ##### Artículo 249.
 
-Las acciones del tenedor del bono de prenda, contra los endosantes y sus avalistas, caducan:
+Las acciones del tenedor legítimo del certificado de depósito, contra los endosantes y sus avalistas, caducan:
 
-I.- Por no haber sido protestado el bono en los términos del artículo 242;
+I.- Por no haber sido protestado el certificado de depósito en los términos del artículo 242;
 
-II.- Por no haber pedido el tenedor, conforme al artículo 243, la venta de los bienes depositados;
+II.- Por no haber dado el aviso de falta de pago al Almacén, conforme a los artículos 242 y 243, para proceder con la venta de los bienes depositados, y
 
-III.- Por no haberse ejercitado la acción dentro de los tres meses que sigan, a la fecha de la venta de los bienes depositados, al día en que los Almacenes notifiquen al tenedor del bono que esa venta no puede efectuarse, o al día en que los Almacenes se nieguen a entregar las cantidades a que se refiere el artículo 246 o entreguen solamente una suma inferior al importe del adeudo consignado en el bono.
+III.- Por no haberse ejercitado la acción dentro de los tres meses que sigan, a la fecha de la venta de los bienes depositados, al día en que los Almacenes notifiquen al tenedor del certificado de depósito que esa venta no puede efectuarse, o al día en que los Almacenes se nieguen a entregar las cantidades a que se refiere el artículo 246 o entreguen solamente una suma inferior al importe del adeudo consignado en el certificado de depósito.
 
-No obstante la caducidad de las acciones contra los endosantes y sus avalistas, el tenedor del bono de prenda conserva su acción contra quien haya negociado el bono por primera vez separadamente del certificado y contra sus avalistas.
+No obstante, la caducidad de las acciones contra los endosantes y sus avalistas, el tenedor del certificado de depósito conserva su acción contra quien haya negociado el título por primera vez y contra sus avalistas.
+
+*Artículo reformado DOF 26-03-2024*
 
 ##### Artículo 250.
 
 Las acciones derivadas del certificado de depósito para el retiro de las mercancías, prescriben en tres años a partir del vencimiento del plazo señalado para el depósito en el certificado.
 
-Las acciones que deriven del bono de prenda, prescriben en tres años a partir del vencimiento del bono.
+Las acciones que deriven del crédito prendario insertado en el certificado, prescriben en tres años a partir de su vencimiento.
 
-En el mismo plazo, prescribirán las acciones derivadas del certificado de depósito para recoger, en su caso, las cantidades que obren en poder de los Almacenes conforme al artículo 246.
+*Párrafo reformado DOF 26-03-2024*
+
+En el mismo plazo, prescribirán las acciones derivadas del certificado de depósito para disponer, en su caso, las cantidades que obren en poder de los Almacenes Generales de Depósito conforme al artículo 246 de esta Ley.
+
+*Párrafo reformado DOF 26-03-2024*
 
 ##### Artículo 251.
 
-Son aplicables al certificado de depósito y al bono de prenda, en lo conducente, los artículos 81, 85, 86, 129, 131 y 167.
+Son aplicables al certificado de depósito, en lo conducente, los artículos 81, 85, 86, 90, 109 al 116, 131, 151 al 154, 157 al 162, 164, 166 al 169 de esta Ley.
 
-Son aplicables al bono de prenda, en lo conducente, los artículos 90, 109 al 116, 127, 130, 142, 148, 149, 151 al 162, 164, 166, 168 y 169.
+*Párrafo reformado DOF 26-03-2024*
 
-*Fe de erratas al párrafo DOF 10-02-1933*
+Para los efectos del artículo 152, por importe del certificado se entenderá la parte no pagada del adeudo consignado en éste, incluyendo los réditos caídos; y los intereses moratorios se calcularán al tipo estipulado para ellos; a falta de esa estipulación, al tipo de rédito fijado en el documento, y en defecto de ambos, al tipo legal.
 
-Para los efectos del artículo 152, por importe del bono de prenda se entenderá la parte no pagada del adeudo consignado en éste, incluyendo los réditos caídos; y los intereses moratorios se calcularán al tipo estipulado para ellos; a falta de esa estipulación, al tipo de rédito fijado en el documento, y en defecto de ambos, al tipo legal.
+*Párrafo reformado DOF 26-03-2024*
 
-El tenedor que por primera vez negocie el bono de prenda separadamente del certificado de depósito se considerará como aceptante para todos los efectos de las disposiciones enumeradas antes, salvo el caso de los artículos 168 y 169, en que se equiparará al girador.
-
-*Párrafo reformado DOF 31-08-1933*
+*Reforma DOF 26-03-2024: Derogó del artículo los entonces párrafos segundo (antes con fe de erratas DOF 10-02-1933) y cuarto (antes reformado DOF 31-08-1933)*
 
 ### CAPITULO VII · De la aplicación de leyes extranjeras
 
@@ -2352,9 +2509,17 @@ La duración del depósito de mercancías o bienes, serán establecidas libremen
 
 Los bienes o mercancías objeto del depósito en los Almacenes, y el producto de su venta o el valor de la indemnización en caso de siniestro, no podrán ser reivindicados, embargados ni sujetos a cualquier otro vínculo, cuando se hayan expedido a su respecto certificados de depósito, observándose lo dispuesto en el artículo 20.
 
-Sólo podrán ser retenidos los bienes o mercancías depositados en los Almacenes y respecto a los cuales se hayan expedido certificados de depósito, por orden judicial dictada en los casos de quiebra, de sucesión y de robo, extravío, destrucción total, mutilación o grave deterioro del certificado o del bono correspondientes.
+Sólo podrán ser retenidos los bienes o mercancías depositados en los Almacenes y respecto a los cuales se hayan expedido certificados de depósito, por orden judicial dictada en los casos de quiebra, de sucesión, de delitos informáticos, o caso fortuito o fuerza mayor.
 
-Podrán ser retenidos por orden judicial, conforme a las disposiciones legales relativas, los bienes o mercancías depositados, el producto de su venta, el valor de la indemnización en caso de siniestro, o el importe de los fondos que tenga el Almacén a disposición del tenedor del bono o del certificado, en caso de sucesión o quiebra del tenedor del certificado o del bono, respectivamente, que tengan derecho conforme a esta ley, a la entrega de las mercancías o de los fondos. Igualmente podrá hacerse esta retención en los casos de extravío, robo, destrucción total, mutilación o grave deterioro del certificado o del bono conforme a los artículos 45, fracción II, y 65.
+*Párrafo reformado DOF 26-03-2024*
+
+Podrán ser retenidos por orden judicial, conforme a las disposiciones legales relativas, los bienes o mercancías depositados, el producto de su venta, el valor de la indemnización en caso de siniestro, o el importe de los fondos que tenga el Almacén a disposición del tenedor del certificado, en caso de sucesión o quiebra del tenedor del certificado, respectivamente, que tengan derecho conforme a esta Ley, a la entrega de las mercancías o de los fondos. Igualmente podrá hacerse esta retención en caso de delitos informáticos, caso fortuito o fuerza mayor.
+
+*Párrafo reformado DOF 26-03-2024*
+
+En cualquiera de los casos anteriores el juez realizará la anotación en el certificado de depósito a través del sistema criptográfico correspondiente. Una vez realizada la anotación, el certificado no podrá ser transmitido de forma alguna, hasta en tanto el propio juez lo ordene.
+
+*Párrafo adicionado DOF 26-03-2024*
 
 ### CAPITULO III · Del descuento de créditos en libros
 
@@ -2700,9 +2865,9 @@ IV.- Por el depósito de los bienes o títulos, si éstos son al portador, en po
 
 V.- Por el depósito de los bienes, a disposición del acreedor, en locales cuyas llaves queden en poder de éste, aun cuando tales locales sean de la propiedad o se encuentren dentro del establecimiento del deudor;
 
-VI.- Por la entrega o endoso del título representativo de los bienes objeto del contrato, o por la emisión o el endoso del bono de prenda relativo;
+VI.- Por la entrega o endoso del título representativo de los bienes objeto del contrato, o por la emisión o el endoso del certificado de depósito relativo;
 
-*Fe de erratas a la fracción DOF 08-09-1932*
+*Fe de erratas a la fracción DOF 08-09-1932. Reformada DOF 26-03-2024*
 
 VII.- Por la inscripción del contrato de crédito refaccionario o de habilitación o avío, en los términos del artículo 326;
 
@@ -2732,6 +2897,10 @@ En estos casos, se entenderá que la transferencia de propiedad del efectivo se 
 
 El acreedor prendario está obligado a entregar al deudor, a expensas de éste, en los casos a que se refieren las fracciones I, II, III, V y VI del artículo 334, un resguardo que exprese el recibo de los bienes o títulos dados en prenda y los datos necesarios para su identificación.
 
+Tratándose de un título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, el acreedor prendario tendrá por recibido y aceptado el título cuando se le transfiera el control del certificado de depósito a través del sistema de información a que se refiere el artículo 5o. de esta Ley.
+
+*Párrafo adicionado DOF 26-03-2024*
+
 *Fe de erratas al artículo DOF 10-02-1933*
 
 ##### Artículo 338.
@@ -2760,7 +2929,11 @@ El corredor o los comerciantes que hayan intervenido en la venta, deberán exten
 
 El producto de la venta será conservado en prenda por el acreedor, en substitución de los bienes o títulos vendidos.
 
-*Reforma DOF 23-05-2000: Derogó del artículo el entonces párrafo tercero (antes con fe de erratas por DOF 08-09-1932)*
+Tratándose de un título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, el juez realizará una anotación en el sistema de información a que se refiere el artículo 5o. de esta Ley.
+
+*Párrafo adicionado DOF 26-03-2024*
+
+*Reforma DOF 23-05-2000: Derogó del artículo el entonces párrafo tercero (antes con fe de erratas DOF 08-09-1932)*
 
 ##### Artículo 342.
 
@@ -2782,7 +2955,9 @@ El acreedor prendario no podrá hacerse dueño de los bienes o títulos dados en
 
 ##### Artículo 345.
 
-Lo dispuesto en esta Sección no modifica las disposiciones relativas a los bonos de prenda, ni las contenidas en la Ley General de Instituciones de Crédito o en otras leyes especiales.
+Lo dispuesto en esta Sección no modifica las disposiciones relativas al crédito prendario constituido en los certificados de depósito expedidos por los Almacenes Generales de Depósito, ni las contenidas en la Ley General de Organizaciones y Actividades Auxiliares del Crédito o en otras leyes especiales.
+
+*Artículo reformado DOF 26-03-2024*
 
 #### Sección Séptima · De la prenda sin transmisión de posesión
 
@@ -4327,3 +4502,29 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ernestina Godoy Ramos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito y de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+
+*Publicado en el Diario Oficial de la Federación el 26 de marzo de 2024*
+
+**Artículo Primero.-** Se reforman los artículos 2o., fracciones III y IV; 5o., párrafo primero; 17; 23, párrafo primero; 54, párrafo segundo; 229; 231, fracciones II, V y IX; 232, párrafo primero y fracciones I, II, III, IV y V; 235; 236, párrafos primero y segundo; 238; 239; 240; 242; 243; 244, fracciones II y III; 246; 247; 248; 249; 250, párrafos segundo y tercero; 251, párrafos primero y tercero; 287, párrafos segundo y tercero; 334, fracción VI y 345; se adicionan los artículos 5o., con los párrafos segundo y tercero; 5o. Bis; 26, con los párrafos segundo y tercero; 27, con un párrafo segundo; 29, con un párrafo segundo; 39, con un párrafo segundo; 40, con un párrafo segundo; 47, con un párrafo cuarto; 54, con un párrafo tercero; 111, con un párrafo segundo; 231, con las fracciones XIII, XIV, XV y XVI; 287, con un párrafo cuarto; 337, con un párrafo segundo, y 341, con un párrafo quinto; y se derogan los artículos 230; 232, fracción VI; 233; 234; 236, párrafos tercero y cuarto; 237 y 251, párrafos segundo y cuarto, recorriéndose los subsecuentes en su orden, de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Ejecutivo Federal contará con un plazo de 180 días hábiles a partir de la entrada en vigor de este Decreto, para ajustar los reglamentos, o cualquiera otra disposición normativa que requiera su actualización, de conformidad con el contenido del presente Decreto.
+
+**Tercero.-** La Comisión Nacional Bancaria y de Valores contará con un plazo de 180 días hábiles a partir de la entrada en vigor de este Decreto, para ajustar cualquier disposición normativa que requiera su actualización y emitir las Reglas conducentes, de conformidad con el contenido del presente Decreto.
+
+**Cuarto.-** Los almacenes generales de depósito deberán ajustar su operación para la emisión de certificados de depósito electrónicos, a más tardar a los 18 meses siguientes a la fecha de entrada en vigor del presente Decreto.
+
+Hasta en tanto se cumpla el plazo señalado en el párrafo anterior, o se adopte la emisión de certificados de depósito electrónicos previo a dicho término, los almacenes generales de depósito podrán continuar emitiendo el certificado de depósito documentado en medio físico, para garantizar la continuidad del servicio de certificación. En caso que se constituya un crédito prendario sobre las mercancías o bienes señalados en el certificado de depósito, se deberán incorporar al mismo la información a que se refiere el artículo 232 de la Ley General de Títulos y Operaciones de Crédito. Aquéllos almacenes que inicien la emisión de dichos títulos electrónicos, estarán impedidos para continuar emitiendo certificados documentados en papel, a fin de asegurar la adecuada transición del certificado de depósito a medios electrónicos.
+
+**Quinto.-** Los certificados de depósito y bonos de prenda que hayan sido emitidos antes de la entrada en vigor de este Decreto continuarán vigentes hasta su cancelación. A dichos bonos les será aplicable la legislación vigente al momento de su última negociación. Dichos certificados de depósito podrán ser sustituidos por títulos electrónicos en los términos indicados en la presente Ley.
+
+Ciudad de México, a 08 de febrero de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 25 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
