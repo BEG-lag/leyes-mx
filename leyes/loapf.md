@@ -3,12 +3,12 @@ title: Ley Orgánica de la Administración Pública Federal
 abbreviation: LOAPF
 slug: loapf
 published_dof: 1976-12-29
-last_reform_dof: 2023-12-01
+last_reform_dof: 2024-04-01
 articles: 69
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
-archived: https://web.archive.org/web/20240405093618/https://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
-source_sha256: 0374c495056bbeba79128cfc3e763f5463b7017b0936991e90b0f8a76f8acb23
-retrieved: 2024-04-05
+archived: https://web.archive.org/web/20240628071423/https://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc
+source_sha256: 58c8f3a38790cce472359ada3a72945bff645299b4e12bfe43167bf568718298
+retrieved: 2024-06-28
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 01-12-2023
+Última reforma publicada DOF 01-04-2024
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -992,9 +992,9 @@ a) Combate efectivo a la pobreza;
 
 b) Atención específica a las necesidades de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos y marginados de las áreas urbanas; y
 
-c) Atención preponderante a los derechos de la niñez, de la juventud, de los adultos mayores, de los pueblos indígenas y de las personas con discapacidad;
+c) Atención preponderante a los derechos de la niñez, de la juventud, de los adultos mayores, de los pueblos y comunidades indígenas y afromexicanas y de las personas con discapacidad;
 
-*Inciso reformado DOF 30-11-2018*
+*Inciso reformado DOF 30-11-2018, 01-04-2024*
 
 *Fracción reformada DOF 28-12-1994, 02-01-2013*
 
@@ -1042,9 +1042,9 @@ XII. Promover la construcción de obras de infraestructura y equipamiento para f
 
 *Fracción reformada DOF 02-01-2013*
 
-XIII. Coadyuvar en las políticas públicas que garanticen el pleno ejercicio de los derechos y el desarrollo de los pueblos indígenas;
+XIII. Coadyuvar en las políticas públicas que garanticen el pleno ejercicio de los derechos y el desarrollo de los pueblos y comunidades indígenas y afromexicanas;
 
-*Fracción reformada DOF 30-11-2000, 02-01-2013, 30-11-2018*
+*Fracción reformada DOF 30-11-2000, 02-01-2013, 30-11-2018, 01-04-2024*
 
 XIV. Formular, conducir y evaluar la política de fomento y desarrollo del sector social de la economía;
 
@@ -1464,9 +1464,9 @@ XXVI. Se deroga.
 
 *Fracción adicionada DOF 30-12-1983. Reformada DOF 21-02-1992. Derogada DOF 30-11-2018*
 
-XXVII. Formular y conducir la política nacional en materia minera, así como promover en zonas de producción minera la construcción de obras de infraestructura social, en coordinación con los gobiernos estatales, municipales y con la participación de los pueblos y comunidades indígenas, así como de los sectores social y privado, de acuerdo con el artículo 32, fracción XIII de esta ley;
+XXVII. Formular y conducir la política nacional en materia minera, así como promover en zonas de producción minera la construcción de obras de infraestructura social, en coordinación con los gobiernos estatales, municipales y con la participación de los pueblos y comunidades indígenas y afromexicanas, así como de los sectores social y privado, de acuerdo con el artículo 32, fracción XIII de esta ley;
 
-*Fracción recorrida DOF 30-12-1983. Reformada DOF 28-12-1994, 30-11-2018*
+*Fracción recorrida DOF 30-12-1983. Reformada DOF 28-12-1994, 30-11-2018, 01-04-2024*
 
 XXVIII. Fomentar el aprovechamiento de los recursos minerales y llevar el catastro minero, y regular la explotación de salinas ubicadas en terrenos de propiedad nacional y en las formadas directamente por las aguas del mar;
 
@@ -2238,9 +2238,9 @@ VII. Diseñar estrategias, mecanismos e instrumentos, así como fomentar la elab
 
 VIII. Promover los medios para la difusión y desarrollo de la cultura, atendiendo la diversidad cultural en todas sus manifestaciones y expresiones;
 
-IX. Promover, difundir y conservar las lenguas indígenas, las manifestaciones culturales, las creaciones en lenguas indígenas, así como los derechos culturales y de propiedad que de forma comunitaria detentan sobre sus creaciones artísticas los pueblos indígenas;
+IX. Promover, difundir y conservar las lenguas indígenas, las manifestaciones culturales, las creaciones en lenguas indígenas, así como los derechos culturales y de propiedad que de forma comunitaria detentan sobre sus creaciones artísticas los pueblos y comunidades indígenas y afromexicanas;
 
-*Fracción reformada DOF 30-11-2018*
+*Fracción reformada DOF 30-11-2018, 01-04-2024*
 
 X. Promover e impulsar la investigación, conservación y promoción de la historia, las tradiciones y las artes populares;
 
@@ -4743,3 +4743,19 @@ EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA
 Ciudad de México, a 18 de octubre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Claudia Esther Balderas Espinoza, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 22 de noviembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
+
+*Publicado en el Diario Oficial de la Federación el 1 de abril de 2024*
+
+**Artículo Trigésimo.-** Se reforman los artículos 32, fracción I, inciso c) y fracción XIII; 34, fracción XXVII; y 41 Bis, fracción IX, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
