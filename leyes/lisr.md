@@ -3,12 +3,11 @@ title: Ley del Impuesto sobre la Renta
 abbreviation: LISR
 slug: lisr
 published_dof: 2013-12-11
-last_reform_dof: 2021-11-12
+last_reform_dof: 2024-04-01
 articles: 236
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LISR.doc
-archived: https://web.archive.org/web/20220404202127/http://www.diputados.gob.mx/LeyesBiblio/doc/LISR.doc
-source_sha256: 5112ce36c8cdae8bf0469325f5df9240a7a5b9562c5e6aa12c3f1c48c8caeb9e
-retrieved: 2022-04-04
+source_sha256: b78d8894a476f8010fba3cf25a09f3056577a07bd48e1afef1686c78443cb90e
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lisr.htm
 ---
 
@@ -18,7 +17,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 11 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 12-11-2021
+Última reforma publicada DOF 01-04-2024
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -2480,7 +2479,9 @@ IV. Colegios de profesionales y los organismos que los agrupen.
 
 V. Asociaciones civiles y sociedades de responsabilidad limitada de interés público que administren en forma descentralizada los distritos o unidades de riego, previa la concesión y permiso respectivo.
 
-VI. Instituciones de asistencia o de beneficencia, autorizadas por las leyes de la materia, así como las sociedades o asociaciones civiles, organizadas sin fines de lucro y autorizadas para recibir donativos en los términos de esta Ley, que tengan como beneficiarios a personas, sectores, y regiones de escasos recursos; que realicen actividades para lograr mejores condiciones de subsistencia y desarrollo a las comunidades indígenas y a los grupos vulnerables por edad, sexo o problemas de discapacidad, dedicadas a las siguientes actividades:
+VI. Instituciones de asistencia o de beneficencia, autorizadas por las leyes de la materia, así como las sociedades o asociaciones civiles, organizadas sin fines de lucro y autorizadas para recibir donativos en los términos de esta Ley, que tengan como beneficiarios a personas, sectores, y regiones de escasos recursos; que realicen actividades para lograr mejores condiciones de subsistencia y desarrollo a los pueblos y comunidades indígenas y afromexicanas y a los grupos vulnerables por edad, sexo o problemas de discapacidad, dedicadas a las siguientes actividades:
+
+*Párrafo reformado DOF 01-04-2024*
 
 a) La atención a requerimientos básicos de subsistencia en materia de alimentación, vestido o vivienda.
 
@@ -2494,7 +2495,9 @@ e) La ayuda para servicios funerarios.
 
 f) Orientación social, educación o capacitación para el trabajo.
 
-g) Apoyo para el desarrollo de los pueblos y comunidades indígenas.
+g) Apoyo para el desarrollo de los pueblos y comunidades indígenas y afromexicanas.
+
+*Inciso reformado DOF 01-04-2024*
 
 h) Aportación de servicios para la atención a grupos sociales con discapacidad.
 
@@ -7403,3 +7406,19 @@ XIII. El Servicio de Administración Tributaria podrá emitir las reglas de car�
 Ciudad de México, a 26 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
+
+*Publicado en el Diario Oficial de la Federación el 1 de abril de 2024*
+
+**Artículo Décimo Séptimo.-** Se reforma el artículo 79, fracción VI, en su primer párrafo y en su inciso g), de la Ley del Impuesto sobre la Renta, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
