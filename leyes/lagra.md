@@ -3,12 +3,12 @@ title: Ley Agraria
 abbreviation: LAgra
 slug: lagra
 published_dof: 1992-02-26
-last_reform_dof: 2023-04-25
+last_reform_dof: 2024-04-01
 articles: 201
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc
-archived: https://web.archive.org/web/20240405093407/https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc
-source_sha256: 78892dbb0a0cff301e1db58ec508a5b606d6eb27ff1ffa6de55d2c71894af703
-retrieved: 2024-04-05
+archived: https://web.archive.org/web/20250109002708/https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc
+source_sha256: 42fad6c39900a8f25ade6109350ab1da43f4819658f26d49343a231c6ccfc04a
+retrieved: 2025-01-09
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lagra.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 26 de febrero de 1
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 25-04-2023
+Última reforma publicada DOF 01-04-2024
 
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1272,15 +1272,23 @@ Son juicios agrarios los que tienen por objeto sustanciar, dirimir y resolver la
 
 En la resolución de las controversias que sean puestas bajo su conocimiento, los tribunales se sujetarán siempre al procedimiento previsto por esta ley y quedará constancia de ella por escrito, además observarán lo siguiente:
 
-I.- Los juicios en los que una o ambas partes sean indígenas se considerarán los usos y costumbres de los pueblos o comunidades indígenas a los que pertenezcan mientras no contravengan lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y esta ley;
+I.- Los juicios en los que una o ambas partes sean personas pertenecientes a pueblos o comunidades indígenas o afromexicanas se considerarán los usos y costumbres de los pueblos y comunidades indígenas y afromexicanas a los que pertenezcan mientras no contravengan lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y esta ley;
 
-II.- Las promociones que los pueblos o comunidades indígenas, o los indígenas en lo individual hicieren en su lengua, no necesitarán acompañarse de la traducción al español. El tribunal la hará de oficio por conducto de persona autorizada para ello;
+*Fracción reformada DOF 01-04-2024*
 
-III.- Los juicios en los que una o ambas partes sean indígenas y no supieran leer el idioma español, el tribunal realizará una versión sintetizada de los puntos esenciales de las actuaciones y de la sentencia dictadas por él, en la lengua o variantes dialectales de la que se trate; debiendo agregarse en los autos constancia de que se cumplió con esta obligación.
+II.- Las promociones que los pueblos o comunidades indígenas y afromexicanas, o las personas pertenecientes a pueblos o comunidades indígenas y afromexicanas en lo individual hicieren en su lengua, no necesitarán acompañarse de la traducción al español. El tribunal la hará de oficio por conducto de persona autorizada para ello;
+
+*Fracción reformada DOF 01-04-2024*
+
+III.- Los juicios en los que una o ambas partes sean personas pertenecientes a pueblos o comunidades indígenas o afromexicanas y no supieran leer el idioma español, el tribunal realizará una versión sintetizada de los puntos esenciales de las actuaciones y de la sentencia dictadas por él, en la lengua o variantes dialectales de la que se trate; debiendo agregarse en los autos constancia de que se cumplió con esta obligación.
+
+*Párrafo reformado DOF 01-04-2024*
 
 En caso de existir contradicción entre la traducción y la resolución, se estará a lo dispuesto por ésta última;
 
-IV.- El tribunal asignará gratuitamente a los indígenas un defensor y un traductor que conozca su cultura, hable su lengua y el idioma español, para que se le explique, en su lengua, el alcance y consecuencias del proceso que se le sigue.
+IV.- El tribunal asignará gratuitamente a las personas pertenecientes a pueblos o comunidades indígenas o afromexicanas un defensor y un traductor que conozca su cultura, hable su lengua y el idioma español, para que se le explique, en su lengua, el alcance y consecuencias del proceso que se le sigue.
+
+*Párrafo reformado DOF 01-04-2024*
 
 Los tribunales suplirán la deficiencia de las partes en sus planteamientos de derecho cuando se trate de núcleos de población ejidales o comunales, así como ejidatarios y comuneros.
 
@@ -1867,3 +1875,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 8 de marzo de 2023.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+### DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
+
+*Publicado en el Diario Oficial de la Federación el 1 de abril de 2024*
+
+**Artículo Trigésimo Primero.-** Se reforma el artículo 164, fracciones I, II, III, párrafo primero y IV, párrafo primero, de la Ley Agraria, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
