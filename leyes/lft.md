@@ -3,12 +3,12 @@ title: Ley Federal del Trabajo
 abbreviation: LFT
 slug: lft
 published_dof: 1970-04-01
-last_reform_dof: 2024-01-24
+last_reform_dof: 2024-04-04
 articles: 1242
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc
-archived: https://web.archive.org/web/20240405093713/https://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc
-source_sha256: e2bf46f8b10e62298096e7c1fbd4c5e8140b8af9fe5d370b405a4aaca064828b
-retrieved: 2024-04-05
+archived: https://web.archive.org/web/20240529040227/http://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc
+source_sha256: 417aad1fbef4db79f0ea33e283621a8d4d7ef459caae248ab9e197058ad8af59
+retrieved: 2024-05-29
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de abril de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada 24-01-2024
+Última reforma publicada 04-04-2024
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -16295,9 +16295,9 @@ II. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla 
 
 *Fracción reformada DOF 01-05-2019*
 
-III. De 50 a 1500 Unidades de Medida y Actualización al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV y XXII;
+III. De 50 a 1500 Unidades de Medida y Actualización al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV, XXII y XXVI Bis;
 
-*Fracción reformada DOF 01-05-2019*
+*Fracción reformada DOF 01-05-2019, 04-04-2024*
 
 IV. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla con lo dispuesto por la fracción XV del artículo 132;
 
@@ -17160,3 +17160,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 13 de diciembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción III del artículo 994 de la Ley Federal del Trabajo.
+
+*Publicado en el Diario Oficial de la Federación el 4 de abril de 2024*
+
+**Artículo Único.** Se reforma la fracción III del artículo 994 de la Ley Federal del Trabajo, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 20 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
