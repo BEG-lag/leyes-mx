@@ -3,12 +3,11 @@ title: Ley de Inversión Extranjera
 abbreviation: LIE
 slug: lie
 published_dof: 1993-12-27
-last_reform_dof: 2018-06-15
+last_reform_dof: 2024-05-27
 articles: 42
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/44_150618.doc
-archived: https://web.archive.org/web/20181105064642/http://www.diputados.gob.mx:80/LeyesBiblio/doc/44_150618.doc
-source_sha256: 22af4caaca88594f60a9328d919fdc0423494af117f59a374edfb366fa83e01b
-retrieved: 2018-11-05
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LIE.doc
+source_sha256: a99ea2b7d0fc5ed36d9bc0fff8b9a5ba908a3a92eefcf5a17ee302f39225a38d
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lie.htm
 ---
 
@@ -18,7 +17,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 27 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 15-06-2018
+Última reforma publicada DOF 27-05-2024
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -478,7 +477,9 @@ La Comisión podrá resolver sobre la inversión neutra que pretendan realizar s
 
 #### ARTÍCULO 23.
 
-La Comisión estará integrada por los Secretarios de Gobernación; de Relaciones Exteriores; de Hacienda y Crédito Público; de Desarrollo Social; de Medio Ambiente, Recursos Naturales y Pesca; de Energía; de Comercio y Fomento Industrial; de Comunicaciones y Transportes; de Trabajo y Previsión Social, así como de Turismo, quienes podrán designar a un Subsecretario como suplente. Asimismo, se podrá invitar a participar en las sesiones de la Comisión a aquellas autoridades y representantes de los sectores privado y social que tengan relación con los asuntos a tratar, quienes tendrán voz pero no voto.
+La Comisión estará integrada por los Secretarios de Gobernación; de Relaciones Exteriores; de Hacienda y Crédito Público; de Bienestar; de Medio Ambiente y Recursos Naturales; de Energía; de Economía; de Infraestructura, Comunicaciones y Transportes; de Trabajo y Previsión Social, así como de Turismo, quienes podrán designar a un Subsecretario como suplente. Asimismo, se podrá invitar a participar en las sesiones de la Comisión a aquellas autoridades y representantes de los sectores privado y social que tengan relación con los asuntos a tratar, quienes tendrán voz, pero no voto.
+
+*Párrafo reformado DOF 27-05-2024*
 
 La Comisión se reunirá semestralmente, cuando menos, y decidirá sobre los asuntos de su competencia por mayoría de votos, teniendo su presidente voto de calidad, en caso de empate.
 
@@ -486,7 +487,9 @@ La Comisión se reunirá semestralmente, cuando menos, y decidirá sobre los asu
 
 #### ARTÍCULO 24.
 
-La Comisión será presidida por el Secretario de Comercio y Fomento Industrial y para su funcionamiento contará con un Secretario Ejecutivo y un Comité de Representantes.
+La Comisión será presidida por el Secretario de Economía y para su funcionamiento contará con un Secretario Ejecutivo y un Comité de Representantes.
+
+*Artículo reformado DOF 27-05-2024*
 
 #### ARTÍCULO 25.
 
@@ -1487,3 +1490,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Mariana Arámbula Meléndez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 23 y 24 de la Ley de Inversión Extranjera.
+
+*Publicado en el Diario Oficial de la Federación el 27 de mayo de 2024*
+
+**Artículo Único.-** Se reforma el artículo 23, primer párrafo y el artículo 24 de la Ley de Inversión Extranjera, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 10 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Karina Isabel Garivo Sánchez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 23 de mayo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
