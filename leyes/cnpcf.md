@@ -3,20 +3,24 @@ title: Código Nacional de Procedimientos Civiles y Familiares
 abbreviation: CNPCF
 slug: cnpcf
 published_dof: 2023-06-07
-last_reform_dof: null
+last_reform_dof: 2024-06-04
 articles: 1191
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc
-archived: https://web.archive.org/web/20240405093440/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc
-source_sha256: 7e4f51d7e101bea87cc3c80b19271aa070a921019173431fff90271ab7518526
-retrieved: 2024-04-05
+archived: https://web.archive.org/web/20250121190514/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc
+source_sha256: 3531577059d94717f0664c050ecb8fc45047d92549446e6a2fb28a3582928ef3
+retrieved: 2025-01-21
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf.htm
 ---
 
 # CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES
 
+Nuevo Código publicado en el Diario Oficial de la Federación el 7 de junio de 2023
+
 TEXTO VIGENTE
 
-Nuevo Código publicado en el Diario Oficial de la Federación el 7 de junio de 2023
+Última reforma publicada DOF 04-06-2024
+
+Declaratoria de invalidez de artículos por Sentencia de la SCJN notificada al Congreso de la Unión para efectos legales el 14-08-2024
 
 > Nota sobre la entrada en vigor y aplicación gradual de este Código: De conformidad con los artículos transitorios Primero y Segundo del Decreto DOF 07-06-2023, se establece:
 >
@@ -2712,6 +2716,10 @@ Para que los documentos públicos procedentes del extranjero, hagan fe en los Es
 
 En caso de imposibilidad para obtener la legalización, ésta se sustituirá por cualquier prueba adecuada para garantizar su autenticidad. En todo caso deberá estarse a lo señalado en los instrumentos internacionales en los que el Estado mexicano sea parte.
 
+Tratándose de documentos de nacimiento que acrediten la nacionalidad e identidad de personas mexicanas nacidas en el extranjero o migrantes en retorno de nacionalidad mexicana, no se requerirá de la legalización consular o de la apostilla. Bastará con presentar el certificado de nacimiento extranjero y el acta de nacimiento del padre o madre mexicanos para acreditar su identidad y su nacionalidad mexicana con el fin de obtener el registro de su nacimiento ante los Registros Civiles del país, en términos de la normatividad aplicable.
+
+*Párrafo adicionado DOF 04-06-2024*
+
 ###### Artículo 315.
 
 De la traducción de los documentos que se presenten en idioma extranjero, se mandará dar vista a la parte contraria para que, en un plazo de tres días, manifieste si está conforme; en caso de no estarlo, dentro del mismo plazo de tres días deberá presentar traducción emitida por un perito traductor.
@@ -4860,11 +4868,15 @@ Sobre la rendición y aprobación de cuentas de las personas tutoras, regirán l
 
 I. Las cuentas se rendirán dentro del mes de enero de cada año, exhibiendo los documentos justificativos, aunque no exista prevención judicial para ello;
 
-II. La persona tutora, también tiene obligación de rendir cuentas cuando, por causas graves que calificará la autoridad jurisdiccional, lo exijan la persona curadora, el Consejo Local de Tutelas, la Procuraduría de Protección para Niñas, Niños y Adolescentes o el Representante de la Institución análoga de la Entidad Federativa de que se trate o el mismo menor que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa;
+II. La persona tutora, también tiene obligación de rendir cuentas cuando, por causas graves que calificará la autoridad jurisdiccional, lo exijan la persona curadora, el Consejo Local de Tutelas, la Procuraduría de Protección para Niñas, Niños y Adolescentes o el Representante de la Institución análoga de la Entidad Federativa de que se trate o el mismo menor [que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa];
+
+Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”)
 
 III. Se requiere prevención judicial para que las cuentas se rindan antes de llegar al plazo previsto en la fracción I; a menos que hubiese remoción o separación de la persona tutora, pues en este caso, sin requerimiento judicial, deberán presentarlas dentro de los quince días siguientes de la fecha de la remoción o separación. En igual forma se procederá cuando la tutela o la encomienda lleguen al final del plazo por haber cesado el estado de minoridad;
 
-IV. Las personas a quienes deben ser rendidas las cuentas son: la misma autoridad jurisdiccional, la persona curadora, el Consejo Local de Tutelas, la misma niña, niño o adolescente que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa, la persona tutora que lo sustituya, el pupilo que dejare de serlo, el Ministerio Público y las demás personas que fija la ley de la materia;
+IV. Las personas a quienes deben ser rendidas las cuentas son: la misma autoridad jurisdiccional, la persona curadora, el Consejo Local de Tutelas, la misma niña, niño o adolescente [que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa], la persona tutora que lo sustituya, el pupilo que dejare de serlo, el Ministerio Público y las demás personas que fija la ley de la materia;
+
+Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”)
 
 V. La resolución que desaprobare las cuentas indicará, si fuere posible, los alcances y la que aprobare puede ser apelada por el Ministerio Público, los demás interesados y la persona curadora si hizo observaciones. Del auto de desaprobación pueden apelar en ambos efectos la persona tutora, la curadora o el Ministerio Público de la adscripción, y
 
@@ -5076,7 +5088,9 @@ I. Que existan pruebas suficientes a consideración de la autoridad jurisdiccion
 
 II. Que quien solicitó la restitución no tenga derecho para solicitarla;
 
-III. Que hubieren transcurrido más de tres años desde que fue presentada la solicitud de restitución, y
+III. [Que hubieren transcurrido más de tres años desde que fue presentada la solicitud de restitución, y]
+
+Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024
 
 IV. Que la persona adolescente solicitada hubiere alcanzado la edad de dieciséis años y manifieste su conformidad con el traslado.
 
@@ -9058,6 +9072,10 @@ Los documentos públicos extranjeros serán reconocidos por las autoridades mexi
 
 En caso de imposibilidad para obtener la legalización, ésta se substituirá por cualquier prueba adecuada para garantizar su autenticidad.
 
+Tratándose de documentos de nacimiento que acrediten la nacionalidad e identidad de personas mexicanas nacidas en el extranjero o migrantes en retorno de nacionalidad mexicana, no se requerirá de la legalización consular o de la apostilla. Bastará con presentar el certificado de nacimiento extranjero y el acta de nacimiento del padre o madre mexicanos para acreditar su identidad y su nacionalidad mexicana con el fin de obtener el registro de su nacimiento ante los Registros Civiles del país, en términos de la normatividad aplicable.
+
+*Párrafo adicionado DOF 04-06-2024*
+
 ###### Artículo 1145.
 
 Los procedimientos en el ámbito de cooperación internacional observarán el principio de publicidad de conformidad con lo establecido en los tratados internacionales, las leyes nacionales en materia de transparencia, acceso a la información pública, con excepción de los procedimientos donde se ventilen secretos profesionales, comerciales, industriales o personales y protección de datos personales.
@@ -9519,3 +9537,67 @@ Dicha plataforma digital será administrada por el Consejo de la Judicatura Fede
 Ciudad de México, a 24 de abril de 2023.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Sarai Núñez Cerón, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de junio de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
+
+### DECRETO por el que se adicionan los artículos 314 y 1144 del Código Nacional de Procedimientos Civiles y Familiares.
+
+*Publicado en el Diario Oficial de la Federación el 4 de junio de 2024*
+
+**Artículo Único.-** Se adicionan un tercer párrafo al artículo 314 y un tercer párrafo al artículo 1144 del Código Nacional de Procedimientos Civiles y Familiares, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La Secretaría de Gobernación, a través de la Dirección General del Registro Nacional de Población e Identidad, emitirá los lineamientos para acreditar la autenticidad de los certificados de nacimiento expedidos por autoridades extranjeras, a efecto de darlos a conocer a todas las autoridades del registro civil en el país.
+
+Ciudad de México, a 23 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 154/2023, promovida por la Comisión Nacional de los Derechos Humanos.
+
+Notificados al Congreso de la Unión para efectos legales el 14 de agosto de 2024
+
+Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
+
+SECRETARÍA GENERAL DE ACUERDOS
+
+OFICIO NÚM. SGA/MOKM/272/2024
+
+SEÑOR LICENCIADO EDUARDO ARANDA MARTÍNEZ
+
+SECRETARIO DE LA SECCIÓN DE TRÁMITE DE
+
+CONTROVERSIAS CONSTITUCIONALES Y DE
+
+ACCIONES DE INCONSTITUCIONALIDAD DE LA
+
+SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
+
+P R E S E N T E
+
+El Tribunal Pleno, en su sesión celebrada el trece de agosto de dos mil veinticuatro, resolvió la acción de inconstitucionalidad 154/2023, promovida por la Comisión Nacional de los Derechos Humanos, en los términos siguientes:
+
+“PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+
+**SEGUNDO.** Se reconoce la validez de los artículos 554, en su porción normativa ‘entendida como la violencia ejercida contra las mujeres a través de sus hijos’, y 610, fracción II, en su porción normativa ‘el mismo menor’, del Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintitrés.
+
+**TERCERO.** Se declara la invalidez de los artículos 610, fracciones II y IV, en sendas porciones normativas ‘que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa’, y 638, fracción III, del referido Código Nacional de Procedimientos Civiles y Familiares, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
+
+**CUARTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.”
+
+Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito gire instrucciones para que, a la brevedad, se practique la citada notificación al referido Congreso, inclusive al titular del Poder Ejecutivo Federal.
+
+Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión privada celebrada el doce de abril de dos mil diez, le solicito que remita a esta Secretaría General de Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
+
+Atentamente
+
+Ciudad de México; 13 de agosto de 2024
+
+LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
+
+Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 14 de agosto de 2024 a las 12:40 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
