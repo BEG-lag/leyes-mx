@@ -3,12 +3,12 @@ title: Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constituci
 abbreviation: LAmp
 slug: lamp
 published_dof: 2013-04-02
-last_reform_dof: 2022-02-18
+last_reform_dof: 2024-06-14
 articles: 272
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc
-archived: https://web.archive.org/web/20220404202219/http://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc
-source_sha256: 800eed514fd6be8b42641564b69429a46dec8bf0f15a84f89ff37ffbd75d1856
-retrieved: 2022-04-04
+archived: https://web.archive.org/web/20250108193137/https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc
+source_sha256: f1d8b6ea17f238d767ffafd58841228d26137bd85047552c538e33a043aaaa1f
+retrieved: 2025-01-08
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lamp.htm
 ---
 
@@ -18,9 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 2 de abril de 2013
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 07-06-2021
-
-Declaratoria de invalidez de artículo transitorio de decreto de reforma por Sentencia de la SCJN DOF 18-02-2022
+Última reforma publicada DOF 14-06-2024
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1512,7 +1510,7 @@ XII. Se impida la continuación del procedimiento de extinción de dominio previ
 
 XIII. Se impida u obstaculice al Estado la utilización, aprovechamiento o explotación de los bienes de dominio directo referidos en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
-El órgano jurisdiccional de amparo excepcionalmente podrá conceder la suspensión, aún cuando se trate de los casos previstos en este artículo, si a su juicio con la negativa de la medida suspensional pueda causarse mayor afectación al interés social.
+*Reforma DOF 14-06-2024: Derogó del artículo el entonces párrafo segundo*
 
 ###### Artículo 130.
 
@@ -1651,6 +1649,10 @@ El órgano jurisdiccional tomará las medidas que estime necesarias para evitar 
 En los juicios de amparo en que se reclame una norma general autoaplicativa sin señalar un acto concreto de aplicación, la suspensión se otorgará para impedir los efectos y consecuencias de la norma en la esfera jurídica del quejoso.
 
 En el caso en que se reclame una norma general con motivo del primer acto de su aplicación, la suspensión, además de los efectos establecidos en el párrafo anterior, se decretará en relación con los efectos y consecuencias subsecuentes del acto de aplicación.
+
+Tratándose de juicios de amparo que resuelvan la inconstitucionalidad de normas generales, en ningún caso las suspensiones que se dicten fijarán efectos generales.
+
+*Párrafo adicionado DOF 14-06-2024*
 
 ###### Artículo 149.
 
@@ -3347,3 +3349,19 @@ Firman el señor Ministro Presidente y el Ponente con el Secretario General de A
 Presidente, Ministro Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente.- Ponente, Ministro José Fernando Franco González Salas.- Firmado electrónicamente.- Secretario General de Acuerdos, Licenciado Rafael Coello Cetina.- Firmado electrónicamente.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de cincuenta y seis fojas útiles, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la acción de inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de las Cámaras de Senadores y de Diputados del Congreso de la Unión, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del dieciséis de noviembre dos mil veintiuno. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a treinta y uno de enero de dos mil veintidós.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 129 y 148 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en materia de suspensión del acto reclamado e inconstitucionalidad de normas generales.
+
+*Publicado en el Diario Oficial de la Federación el 14 de junio de 2024*
+
+**Artículo Único.-** Se adiciona un último párrafo al artículo 148, y se deroga el último párrafo del artículo 129 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 24 de abril de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
