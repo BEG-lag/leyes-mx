@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2024-09-30
+last_reform_dof: 2024-11-15
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-archived: https://web.archive.org/web/20241007112044/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-source_sha256: bc99ee2ea79b93135cb027181d4e0721b02f1e8d3fbe19fd2c56527ff101c354
-retrieved: 2024-10-07
+archived: https://web.archive.org/web/20241125030624/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
+source_sha256: fe4e7dc76772ef2002a19c7a80919408aa8263900e6687d8730eb275da2750c7
+retrieved: 2024-11-25
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 30-09-2024
+Última reforma publicada DOF 15-11-2024
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -436,9 +436,9 @@ X. La obligatoriedad de la educación superior corresponde al Estado. Las autori
 
 ##### Artículo 4o.
 
-La mujer y el hombre son iguales ante la ley. Ésta protegerá la organización y el desarrollo de la familia.
+La mujer y el hombre son iguales ante la ley. Ésta protegerá la organización y el desarrollo de las familias. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres.
 
-*Párrafo reformado DOF 06-06-2019*
+*Párrafo reformado DOF 06-06-2019, 15-11-2024*
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
 
@@ -505,6 +505,10 @@ Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, acce
 El Estado promoverá el desarrollo integral de las personas jóvenes, a través de políticas públicas con enfoque multidisciplinario, que propicien su inclusión en el ámbito político, social, económico y cultural del país. La Ley establecerá la concurrencia de la Federación, entidades federativas, Municipios y demarcaciones territoriales de la Ciudad de México, para esos efectos.
 
 *Párrafo adicionado DOF 24-12-2020*
+
+Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños. La ley definirá las bases y modalidades para garantizar su realización de conformidad con lo previsto en los artículos 21, párrafo noveno y 73, fracción XXI, penúltimo párrafo de esta Constitución.
+
+*Párrafo adicionado DOF 15-11-2024*
 
 *Reforma DOF 14-08-2001: Derogó del artículo el entonces párrafo primero (antes adicionado DOF 28-01-1992)*
 
@@ -956,9 +960,9 @@ El Ministerio Público podrá considerar criterios de oportunidad para el ejerci
 
 El Ejecutivo Federal podrá, con la aprobación del Senado en cada caso, reconocer la jurisdicción de la Corte Penal Internacional.
 
-La seguridad pública es una función del Estado a cargo de la Federación, las entidades federativas y los Municipios, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en esta Constitución y las leyes en la materia. La seguridad pública comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en esta Constitución.
+La seguridad pública es una función del Estado a cargo de la Federación, las entidades federativas y los Municipios, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, de conformidad con lo dispuesto en el artículo 4o. de esta Constitución que garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños; así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en esta Constitución y las leyes en la materia. La seguridad pública comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos en esta Constitución.
 
-*Párrafo reformado DOF 29-01-2016, 26-03-2019*
+*Párrafo reformado DOF 29-01-2016, 26-03-2019, 15-11-2024*
 
 Las instituciones de seguridad pública serán disciplinadas, profesionales y de carácter civil.
 
@@ -1050,9 +1054,9 @@ El Estado planeará, conducirá, coordinará y orientará la actividad económic
 
 Al desarrollo económico nacional concurrirán, con responsabilidad social, el sector público, el sector social y el sector privado, sin menoscabo de otras formas de actividad económica que contribuyan al desarrollo de la Nación.
 
-El sector público tendrá a su cargo, de manera exclusiva, las áreas estratégicas que se señalan en el artículo 28, párrafo cuarto de la Constitución, manteniendo siempre el Gobierno Federal la propiedad y el control sobre los organismos y empresas productivas del Estado que en su caso se establezcan. Tratándose de la planeación y el control del sistema eléctrico nacional, y del servicio público de transmisión y distribución de energía eléctrica, así como de la exploración y extracción de petróleo y demás hidrocarburos, la Nación llevará a cabo dichas actividades en términos de lo dispuesto por los párrafos sexto y séptimo del artículo 27 de esta Constitución. En las actividades citadas la ley establecerá las normas relativas a la administración, organización, funcionamiento, procedimientos de contratación y demás actos jurídicos que celebren las empresas productivas del Estado, así como el régimen de remuneraciones de su personal, para garantizar su eficacia, eficiencia, honestidad, productividad, transparencia y rendición de cuentas, con base en las mejores prácticas, y determinará las demás actividades que podrán realizar.
+El sector público tendrá a su cargo, de manera exclusiva, las áreas estratégicas que se señalan en el artículo 28, párrafo cuarto de la Constitución, manteniendo siempre el Gobierno Federal la propiedad y el control sobre los organismos y empresas públicas del Estado que en su caso se establezcan. Tratándose de la planeación y el control del sistema eléctrico nacional, y del servicio público de transmisión y distribución de energía eléctrica, así como de la exploración y extracción de petróleo y demás hidrocarburos, la Nación llevará a cabo dichas actividades en términos de lo dispuesto por los párrafos sexto y séptimo del artículo 27 de esta Constitución. En las actividades citadas la ley establecerá las normas relativas a la administración, organización, funcionamiento, procedimientos de contratación y demás actos jurídicos que celebren las empresas públicas del Estado, así como el régimen de remuneraciones de su personal, para garantizar su eficacia, eficiencia, honestidad, productividad, transparencia y rendición de cuentas, y determinará las demás actividades que podrán realizar.
 
-*Párrafo reformado DOF 20-12-2013*
+*Párrafo reformado DOF 20-12-2013, 31-10-2024*
 
 Asimismo podrá participar por sí o con los sectores social y privado, de acuerdo con la ley, para impulsar y organizar las áreas prioritarias del desarrollo.
 
@@ -1140,13 +1144,13 @@ Son propiedad de la Nación las aguas de los mares territoriales en la extensió
 
 *Párrafo reformado DOF 21-04-1945, 20-01-1960, 29-01-2016*
 
-En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible y la explotación, el uso o el aprovechamiento de los recursos de que se trata, por los particulares o por sociedades constituidas conforme a las leyes mexicanas, no podrá realizarse sino mediante concesiones, otorgadas por el Ejecutivo Federal, de acuerdo con las reglas y condiciones que establezcan las leyes, salvo en radiodifusión y telecomunicaciones, que serán otorgadas por el Instituto Federal de Telecomunicaciones. Las normas legales relativas a obras o trabajos de explotación de los minerales y substancias a que se refiere el párrafo cuarto, regularán la ejecución y comprobación de los que se efectúen o deban efectuarse a partir de su vigencia, independientemente de la fecha de otorgamiento de las concesiones, y su inobservancia dará lugar a la cancelación de éstas. El Gobierno Federal tiene la facultad de establecer reservas nacionales y suprimirlas. Las declaratorias correspondientes se harán por el Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose de minerales radiactivos no se otorgarán concesiones. Corresponde exclusivamente a la Nación la planeación y el control del sistema eléctrico nacional, así como el servicio público de transmisión y distribución de energía eléctrica; en estas actividades no se otorgarán concesiones, sin perjuicio de que el Estado pueda celebrar contratos con particulares en los términos que establezcan las leyes, mismas que determinarán la forma en que los particulares podrán participar en las demás actividades de la industria eléctrica.
+En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible y la explotación, el uso o el aprovechamiento de los recursos de que se trata, por los particulares o por sociedades constituidas conforme a las leyes mexicanas, no podrá realizarse sino mediante concesiones, otorgadas por el Ejecutivo Federal, de acuerdo con las reglas y condiciones que establezcan las leyes, salvo en radiodifusión y telecomunicaciones, que serán otorgadas por el Instituto Federal de Telecomunicaciones. Las normas legales relativas a obras o trabajos de explotación de los minerales y substancias a que se refiere el párrafo cuarto, regularán la ejecución y comprobación de los que se efectúen o deban efectuarse a partir de su vigencia, independientemente de la fecha de otorgamiento de las concesiones, y su inobservancia dará lugar a la cancelación de éstas. El Gobierno Federal tiene la facultad de establecer reservas nacionales y suprimirlas. Las declaratorias correspondientes se harán por el Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose de minerales radiactivos y litio no se otorgarán concesiones. Corresponde exclusivamente a la Nación la planeación y el control del sistema eléctrico nacional en los términos del artículo 28 de esta Constitución, así como el servicio público de transmisión y distribución de energía eléctrica; en estas actividades no se otorgarán concesiones. Las leyes determinarán la forma en que los particulares podrán participar en las demás actividades de la industria eléctrica, que en ningún caso tendrán prevalencia sobre la empresa pública del Estado, cuya esencia es cumplir con su responsabilidad social y garantizar la continuidad y accesibilidad del servicio público de electricidad.
 
-*Párrafo reformado DOF 09-11-1940, 20-01-1960, 06-02-1975, 11-06-2013, 20-12-2013*
+*Párrafo reformado DOF 09-11-1940, 20-01-1960, 06-02-1975, 11-06-2013, 20-12-2013, 31-10-2024*
 
-Tratándose del petróleo y de los hidrocarburos sólidos, líquidos o gaseosos, en el subsuelo, la propiedad de la Nación es inalienable e imprescriptible y no se otorgarán concesiones. Con el propósito de obtener ingresos para el Estado que contribuyan al desarrollo de largo plazo de la Nación, ésta llevará a cabo las actividades de exploración y extracción del petróleo y demás hidrocarburos mediante asignaciones a empresas productivas del Estado o a través de contratos con éstas o con particulares, en los términos de la Ley Reglamentaria. Para cumplir con el objeto de dichas asignaciones o contratos las empresas productivas del Estado podrán contratar con particulares. En cualquier caso, los hidrocarburos en el subsuelo son propiedad de la Nación y así deberá afirmarse en las asignaciones o contratos.
+Tratándose del petróleo y de los hidrocarburos sólidos, líquidos o gaseosos, en el subsuelo, la propiedad de la Nación es inalienable e imprescriptible y no se otorgarán concesiones. Con el propósito de obtener ingresos para el Estado que contribuyan al desarrollo de largo plazo de la Nación, ésta llevará a cabo las actividades de exploración y extracción del petróleo y demás hidrocarburos mediante asignaciones a empresas públicas del Estado o a través de contratos con éstas o con particulares, en los términos de la Ley Reglamentaria. Para cumplir con el objeto de dichas asignaciones o contratos las empresas públicas del Estado podrán contratar con particulares. En cualquier caso, los hidrocarburos en el subsuelo son propiedad de la Nación y así deberá afirmarse en las asignaciones o contratos.
 
-*Párrafo adicionado DOF 20-12-2013*
+*Párrafo adicionado DOF 20-12-2013. Reformado DOF 31-10-2024*
 
 Corresponde también a la Nación el aprovechamiento de los combustibles nucleares para la generación de energía nuclear y la regulación de sus aplicaciones en otros propósitos. El uso de la energía nuclear sólo podrá tener fines pacíficos.
 
@@ -1306,9 +1310,13 @@ En consecuencia, la ley castigará severamente, y las autoridades perseguirán c
 
 Las leyes fijarán bases para que se señalen precios máximos a los artículos, materias o productos que se consideren necesarios para la economía nacional o el consumo popular, así como para imponer modalidades a la organización de la distribución de esos artículos, materias o productos, a fin de evitar que intermediaciones innecesarias o excesivas provoquen insuficiencia en el abasto, así como el alza de precios. La ley protegerá a los consumidores y propiciará su organización para el mejor cuidado de sus intereses.
 
-No constituirán monopolios las funciones que el Estado ejerza de manera exclusiva en las siguientes áreas estratégicas: correos, telégrafos y radiotelegrafía; minerales radiactivos y generación de energía nuclear; la planeación y el control del sistema eléctrico nacional, así como el servicio público de transmisión y distribución de energía eléctrica, y la exploración y extracción del petróleo y de los demás hidrocarburos, en los términos de los párrafos sexto y séptimo del artículo 27 de esta Constitución, respectivamente; así como las actividades que expresamente señalen las leyes que expida el Congreso de la Unión. La comunicación vía satélite y los ferrocarriles son áreas prioritarias para el desarrollo nacional en los términos del artículo 25 de esta Constitución; el Estado al ejercer en ellas su rectoría, protegerá la seguridad y la soberanía de la Nación, y al otorgar concesiones o permisos mantendrá o establecerá el dominio de las respectivas vías de comunicación de acuerdo con las leyes de la materia.
+No constituirán monopolios las funciones que el Estado ejerza de manera exclusiva en las siguientes áreas estratégicas: correos, telégrafos y radiotelegrafía; minerales radiactivos, litio y generación de energía nuclear; el servicio de Internet que provea el Estado; la planeación y el control del sistema eléctrico nacional, cuyos objetivos serán preservar la seguridad y autosuficiencia energética de la Nación y proveer al pueblo de la electricidad al menor precio posible, evitando el lucro, para garantizar la seguridad nacional y soberanía a través de la empresa pública del Estado que se establezca; así como el servicio público de transmisión y distribución de energía eléctrica, y la exploración y extracción del petróleo y de los demás hidrocarburos, en los términos de los párrafos sexto y séptimo del artículo 27 de esta Constitución, respectivamente; así como las actividades que realicen las empresas públicas del Estado y las que expresamente señalen las leyes que expida el Congreso de la Unión. La comunicación vía satélite y los ferrocarriles, tanto para transporte de pasajeros como de carga, son áreas prioritarias para el desarrollo nacional en los términos del artículo 25 de esta Constitución; el Estado al ejercer en ellas su rectoría, protegerá la seguridad y la soberanía de la Nación, y al otorgar asignaciones, concesiones o permisos mantendrá o establecerá el dominio de las respectivas vías de comunicación de acuerdo con las leyes de la materia.
 
-*Párrafo reformado DOF 20-08-1993, 02-03-1995, 20-12-2013*
+*Párrafo reformado DOF 20-08-1993, 02-03-1995, 20-12-2013, 30-10-2024, 31-10-2024*
+
+El Estado Mexicano retoma el derecho de utilizar las vías ferroviarias para prestar el servicio de transporte de pasajeros. Para ello, el Ejecutivo Federal podrá otorgar asignaciones a empresas públicas o concesiones a particulares.
+
+*Párrafo adicionado DOF 30-10-2024*
 
 El Estado contará con los organismos y empresas que requiera para el eficaz manejo de las áreas estratégicas a su cargo y en las actividades de carácter prioritario donde, de acuerdo con las leyes, participe por sí o con los sectores social y privado.
 
@@ -1786,9 +1794,9 @@ El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los cas
 
 *Párrafo reformado DOF 29-01-2016*
 
-La ley determinará las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho del Poder Ejecutivo Federal y sus equivalentes en las entidades federativas. En la integración de los organismos autónomos se observará el mismo principio.
+Los nombramientos de las personas titulares en la administración pública del Poder Ejecutivo Federal y sus equivalentes en las entidades federativas y Municipios, deberán observar el principio de paridad de género. Las leyes determinarán las formas y modalidades que correspondan.
 
-*Párrafo adicionado DOF 06-06-2019*
+*Párrafo adicionado DOF 06-06-2019. Reformado DOF 15-11-2024*
 
 La renovación de los poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
@@ -2576,7 +2584,9 @@ c) La legislación única en materia procedimental penal, de mecanismos alternat
 
 *Inciso reformado DOF 02-07-2015, 05-02-2017*
 
-Las autoridades federales podrán conocer de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales o delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta.
+Las autoridades federales podrán conocer de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales o delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta. También podrán conocer de las medidas u órdenes de protección que deriven de violencias de género en contra de las mujeres o de delitos del fuero común relacionados con las violencias de género contra las mujeres, en términos de las leyes correspondientes.
+
+*Párrafo reformado DOF 15-11-2024*
 
 En las materias concurrentes previstas en esta Constitución, las leyes federales establecerán los supuestos en que las autoridades del fuero común podrán conocer y resolver sobre delitos federales;
 
@@ -3928,6 +3938,10 @@ Tratándose de controversias constitucionales o de acciones de inconstitucionali
 
 *Párrafo adicionado DOF 15-09-2024*
 
+Son improcedentes las controversias constitucionales o acciones de inconstitucionalidad que tengan por objeto controvertir las adiciones o reformas a esta Constitución.
+
+*Párrafo adicionado DOF 31-10-2024*
+
 *Artículo reformado DOF 25-10-1967, 25-10-1993, 31-12-1994*
 
 ##### Artículo 106.
@@ -3948,9 +3962,9 @@ Tratándose de actos o resoluciones provenientes de tribunales judiciales, admin
 
 *Fracción reformada DOF 06-06-2011*
 
-II. Las sentencias que se pronuncien en los juicios de amparo sólo se ocuparán de personas quejosas que lo hubieren solicitado, limitándose a ampararlas y protegerlas, si procediere, en el caso especial sobre el que verse la demanda. Tratándose de juicios de amparo que resuelvan la inconstitucionalidad de normas generales, en ningún caso las sentencias que se dicten fijarán efectos generales.
+II. Las sentencias que se pronuncien en los juicios de amparo sólo se ocuparán de personas quejosas que lo hubieren solicitado, limitándose a ampararlas y protegerlas, si procediere, en el caso especial sobre el que verse la demanda. Tratándose de juicios de amparo que resuelvan la inconstitucionalidad de normas generales, en ningún caso las sentencias que se dicten fijarán efectos generales. No procederá el juicio de amparo contra adiciones o reformas a esta Constitución.
 
-*Párrafo reformado DOF 15-09-2024*
+*Párrafo reformado DOF 15-09-2024, 31-10-2024*
 
 Cuando en los juicios de amparo indirecto en revisión se resuelva la inconstitucionalidad de una norma general, la Suprema Corte de Justicia de la Nación lo informará a la autoridad emisora correspondiente.
 
@@ -4636,9 +4650,11 @@ VIII. Las Constituciones de los Estados establecerán organismos autónomos, esp
 
 *Fracción adicionada DOF 07-02-2014*
 
-IX. Las Constituciones de los Estados garantizarán que las funciones de procuración de justicia se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
+IX. Las Constituciones de los Estados garantizarán que las funciones de procuración de justicia se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo y responsabilidad, así como con perspectiva de género y respeto a los derechos humanos.
 
-*Fracción adicionada DOF 10-02-2014*
+Para proteger el derecho de las mujeres a una vida libre de violencias, las instituciones de procuración de justicia deberán contar con fiscalías especializadas de investigación de delitos relacionados con las violencias de género contra las mujeres.
+
+*Fracción adicionada DOF 10-02-2014. Reformada DOF 15-11-2024*
 
 X. Las Legislaturas de las entidades federativas, observando en todo momento la supremacía de los símbolos patrios, podrán legislar en materia de símbolos estatales, como son: himno, escudo y bandera, a fin de fomentar el patrimonio cultural, la historia y la identidad local.
 
@@ -4850,7 +4866,9 @@ La investigación, substanciación y sanción de las responsabilidades administr
 
 IX. La Constitución y las leyes de la Ciudad de México deberán ajustarse a las reglas que en materia electoral establece la fracción IV del artículo 116 de esta Constitución y las leyes generales correspondientes.
 
-X. La Constitución Política local garantizará que las funciones de procuración de justicia en la Ciudad de México se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
+X. La Constitución Política local garantizará que las funciones de procuración de justicia en la Ciudad de México se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad, perspectiva de género y respeto a los derechos humanos.
+
+*Fracción reformada DOF 15-11-2024*
 
 XI. Las relaciones de trabajo entre la Ciudad de México y sus trabajadores se regirán por la ley que expida la Legislatura local, con base en lo dispuesto por el artículo 123 de esta Constitución y sus leyes reglamentarias.
 
@@ -4928,7 +4946,9 @@ Los salarios mínimos se fijarán por una comisión nacional integrada por repre
 
 *Fracción reformada DOF 21-11-1962, 23-12-1986*
 
-VII. Para trabajo igual debe corresponder salario igual, sin tener en cuenta sexo ni nacionalidad.
+VII. A trabajo igual corresponderá salario igual, sin tener en cuenta sexo, género ni nacionalidad. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
+
+*Fracción reformada DOF 15-11-2024*
 
 VIII. El salario mínimo quedará exceptuado de embargo, compensación o descuento.
 
@@ -5172,7 +5192,9 @@ En ningún caso los salarios podrán ser inferiores al mínimo para los trabajad
 
 *Fracción reformada DOF 27-11-1961*
 
-V. A trabajo igual corresponderá salario igual, sin tener en cuenta el sexo;
+V. A trabajo igual corresponderá salario igual, sin tener en cuenta el sexo ni género. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género;
+
+*Fracción reformada DOF 15-11-2024*
 
 VI. Sólo podrán hacerse retenciones, descuentos, deducciones o embargos al salario, en los casos previstos en las leyes;
 
@@ -9639,3 +9661,81 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 29 de septiembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Ifigenia Martha Martínez y Hernández, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de septiembre de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforma el párrafo cuarto y se adiciona un párrafo quinto al artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de vías y transporte ferroviario.
+
+*Publicado en el Diario Oficial de la Federación el 30 de octubre de 2024*
+
+**Artículo Único.-** Se reforma el párrafo cuarto y se adiciona un párrafo quinto, recorriéndose los subsecuentes en su orden, al artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión tendrá un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones que resulten necesarias a las leyes secundarias correspondientes, en los términos de este.
+
+**Tercero.-** Los particulares que cuenten con concesiones para prestar el servicio de transporte ferroviario de carga podrán obtener concesiones para prestar el servicio de transporte ferroviario de pasajeros. En cualquier caso, se dará preferencia al servicio de transporte ferroviario de pasajeros, en términos de lo que determine la legislación.
+
+Ciudad de México, a 29 de octubre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de octubre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lic. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman el párrafo quinto del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas.
+
+*Publicado en el Diario Oficial de la Federación el 31 de octubre de 2024*
+
+**Artículo Único.-** Se reforman el párrafo quinto del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión tendrá un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones que resulten necesarias a las leyes secundarias correspondientes, en los términos de este.
+
+**Tercero.-** Se derogan los artículos Transitorios del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía publicado en el Diario Oficial de la Federación el veinte de diciembre de dos mil trece, que se opongan a las disposiciones materia del presente Decreto.
+
+Ciudad de México, a 29 de octubre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de octubre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lic. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforma el primer párrafo de la fracción II del artículo 107, y se adiciona un quinto párrafo al artículo 105, de la Constitución Política de los Estados Unidos Mexicanos, en materia de inimpugnabilidad de las adiciones o reformas a la Constitución Federal.
+
+*Publicado en el Diario Oficial de la Federación el 31 de octubre de 2024*
+
+**Artículo Único.-** Se reforma el primer párrafo de la fracción II del artículo 107, y se adiciona un quinto párrafo al artículo 105, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Los asuntos que se encuentren en trámite deberán resolverse conforme a las disposiciones contenidas en el presente Decreto.
+
+Ciudad de México, a 31 de octubre de 2024.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 31 de octubre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lic. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan los artículos 4o., 21, 41, 73, 116, 122 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de igualdad sustantiva, perspectiva de género, derecho de las mujeres a una vida libre de violencia y erradicación de la brecha salarial por razones de género.
+
+*Publicado en el Diario Oficial de la Federación el 15 de noviembre de 2024*
+
+**Artículo Único.-** Se reforman los artículos 4o., párrafo primero; 21, párrafo noveno; 41, párrafo segundo; 73, fracción XXI, penúltimo párrafo; 116, fracción IX; 122, Apartado A, fracción X, y 123, Apartado A, fracción VII y Apartado B, fracción V; y se adicionan un último párrafo al artículo 4o. y un segundo párrafo a la fracción IX del artículo 116, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión deberá armonizar el marco jurídico correspondiente a la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de 90 días a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
+
+**Tercero.-** Las entidades federativas deberán armonizar el marco jurídico correspondiente a la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de 180 días a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
+
+Ciudad de México, a 13 de noviembre de 2024.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de noviembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lic. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
