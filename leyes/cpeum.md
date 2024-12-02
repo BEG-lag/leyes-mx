@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2024-11-15
+last_reform_dof: 2024-12-02
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-archived: https://web.archive.org/web/20241125030624/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-source_sha256: fe4e7dc76772ef2002a19c7a80919408aa8263900e6687d8730eb275da2750c7
-retrieved: 2024-11-25
+archived: https://web.archive.org/web/20241222230844/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
+source_sha256: e26eb812e4804e68b7f65e8a2541913ee0ff7abcf4d27e64c8cf6adacd06e28c
+retrieved: 2024-12-22
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 15-11-2024
+Últimas reformas publicadas DOF 02-12-2024
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -320,9 +320,9 @@ A fin de dar cumplimiento a lo dispuesto en la fracción II de este artículo, e
 
 *Párrafo adicionado DOF 15-05-2019*
 
-Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, la lecto-escritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente, entre otras.
+Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, la lecto-escritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva, el cuidado al medio ambiente, la protección de los animales, entre otras.
 
-*Párrafo adicionado DOF 15-05-2019*
+*Párrafo adicionado DOF 15-05-2019. Reformado DOF 02-12-2024*
 
 I. Garantizada por el artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa;
 
@@ -454,13 +454,17 @@ Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienest
 
 *Párrafo adicionado DOF 28-06-1999. Reformado DOF 08-02-2012*
 
+Queda prohibido el maltrato a los animales. El Estado mexicano debe garantizar la protección, el trato adecuado, la conservación y el cuidado de los animales, en los términos que señalen las leyes respectivas.
+
+*Párrafo adicionado DOF 02-12-2024*
+
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, las entidades federativas y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
 *Párrafo adicionado DOF 08-02-2012*
 
-Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
+Toda persona tiene derecho a disfrutar de vivienda adecuada. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
-*Párrafo adicionado DOF 07-02-1983*
+*Párrafo adicionado DOF 07-02-1983. Reformado DOF 02-12-2024*
 
 Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
@@ -486,13 +490,21 @@ Toda persona tiene derecho a la cultura física y a la práctica del deporte. Co
 
 *Párrafo adicionado DOF 12-10-2011*
 
-El Estado garantizará la entrega de un apoyo económico a las personas que tengan discapacidad permanente en los términos que fije la Ley. Para recibir esta prestación tendrán prioridad las y los menores de dieciocho años, las y los indígenas y las y los afromexicanos hasta la edad de sesenta y cuatro años y las personas que se encuentren en condición de pobreza.
+La Federación y las entidades federativas garantizarán la entrega de una pensión no contributiva a las personas con discapacidad permanente menores de sesenta y cinco años, en los términos que fije la ley.
 
-*Párrafo adicionado DOF 08-05-2020*
+*Párrafo adicionado DOF 08-05-2020. Reformado DOF 02-12-2024*
 
-Las personas mayores de sesenta y ocho años tienen derecho a recibir por parte del Estado una pensión no contributiva en los términos que fije la Ley. En el caso de las y los indígenas y las y los afromexicanos esta prestación se otorgará a partir de los sesenta y cinco años de edad.
+El Estado garantizará la rehabilitación y habilitación de las personas que viven con discapacidad permanente, dando prioridad a las personas menores de dieciocho años de edad, en términos que fije la ley.
 
-*Párrafo adicionado DOF 08-05-2020*
+*Párrafo adicionado DOF 02-12-2024*
+
+Las personas adultas mayores de sesenta y cinco años tienen derecho a recibir por parte del Estado una pensión no contributiva en los términos que fije la ley.
+
+*Párrafo adicionado DOF 08-05-2020. Reformado DOF 02-12-2024*
+
+A las personas con discapacidad permanente menores de sesenta y cinco años les corresponde la pensión no contributiva por discapacidad, y a todas las personas mayores de esa edad les corresponde la pensión no contributiva de adultos mayores.
+
+*Párrafo adicionado DOF 02-12-2024*
 
 El Estado establecerá un sistema de becas para las y los estudiantes de todos los niveles escolares del sistema de educación pública, con prioridad a las y los pertenecientes a las familias que se encuentren en condición de pobreza, para garantizar con equidad el derecho a la educación.
 
@@ -509,6 +521,10 @@ El Estado promoverá el desarrollo integral de las personas jóvenes, a través 
 Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños. La ley definirá las bases y modalidades para garantizar su realización de conformidad con lo previsto en los artículos 21, párrafo noveno y 73, fracción XXI, penúltimo párrafo de esta Constitución.
 
 *Párrafo adicionado DOF 15-11-2024*
+
+El Estado destinará anualmente los recursos presupuestarios suficientes y oportunos, conforme al principio de progresividad, para garantizar los derechos establecidos en este artículo que impliquen la transferencia de recursos directos hacia la población destinataria. El monto de los recursos asignados no podrá ser disminuido, en términos reales, respecto del que se haya asignado en el ejercicio fiscal inmediato anterior.
+
+*Párrafo adicionado DOF 02-12-2024*
 
 *Reforma DOF 14-08-2001: Derogó del artículo el entonces párrafo primero (antes adicionado DOF 28-01-1992)*
 
@@ -1293,6 +1309,20 @@ XX. El Estado promoverá las condiciones para el desarrollo rural integral, con 
 El desarrollo rural integral y sustentable a que se refiere el párrafo anterior, también tendrá entre sus fines que el Estado garantice el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
 
 *Párrafo adicionado DOF 13-10-2011*
+
+El Estado garantizará, en los términos que fije la ley, la entrega de:
+
+a) Un jornal seguro, justo y permanente a campesinos que cultiven sus tierras con árboles frutales, maderables y especies que requieren ser procesadas;
+
+b) Un apoyo anual directo y fertilizantes gratuitos a productores de pequeña escala, y
+
+c) Un apoyo anual directo a pescadores de pequeña escala.
+
+*Párrafo con incisos adicionado DOF 02-12-2024*
+
+El Estado mantendrá precios de garantía para el maíz, frijol, leche, arroz y trigo harinero o panificable, en los términos de las disposiciones aplicables.
+
+*Párrafo adicionado DOF 02-12-2024*
 
 *Fracción adicionada DOF 03-02-1983*
 
@@ -2686,9 +2716,9 @@ XXIX-F. Para expedir leyes tendientes a la promoción de la inversión mexicana,
 
 *Fracción adicionada DOF 03-02-1983. Reformada DOF 15-05-2019*
 
-XXIX-G. Para expedir leyes que establezcan la concurrencia del Gobierno Federal, de los gobiernos de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico.
+XXIX-G. Para expedir leyes que establezcan la concurrencia del Gobierno Federal, de los gobiernos de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de protección al ambiente, preservación y restauración del equilibrio ecológico; y de protección y bienestar de los animales;
 
-*Fracción adicionada DOF 10-08-1987. Reformada DOF 29-01-2016*
+*Fracción adicionada DOF 10-08-1987. Reformada DOF 29-01-2016, 02-12-2024*
 
 XXIX-H. Para expedir la ley que instituya el Tribunal Federal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos, y que establezca su organización, su funcionamiento y los recursos para impugnar sus resoluciones.
 
@@ -2790,7 +2820,7 @@ XXX. Para expedir la legislación única en materia procesal civil y familiar, a
 
 XXXI. Para expedir leyes que regulen y establezcan requisitos y límites para la participación del Ejército, Armada y Fuerza Aérea en materia de seguridad interior y en tareas de apoyo a la seguridad pública, y
 
-*Artículo adicionado DOF 30-09-2024*
+*Fracción adicionada DOF 30-09-2024*
 
 XXXII. Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
 
@@ -4974,9 +5004,25 @@ XI. Cuando, por circunstancias extraordinarias deban aumentarse las horas de jor
 
 *Fracción reformada DOF 31-12-1974*
 
-XII. Toda empresa agrícola, industrial, minera o de cualquier otra clase de trabajo, estará obligada, según lo determinen las leyes reglamentarias a proporcionar a los trabajadores habitaciones cómodas e higiénicas. Esta obligación se cumplirá mediante las aportaciones que las empresas hagan a un fondo nacional de la vivienda a fin de constituir depósitos en favor de sus trabajadores y establecer un sistema de financiamiento que permita otorgar a éstos crédito barato y suficiente para que adquieran en propiedad tales habitaciones.
+XII. Toda empresa agrícola, industrial, minera o de cualquier otra clase de trabajo, estará obligada, según lo determinen las leyes reglamentarias a proporcionar a sus personas trabajadoras viviendas adecuadas. Esta obligación se cumplirá mediante las aportaciones que las empresas hagan a un fondo nacional de la vivienda a fin de constituir depósitos en favor de sus personas trabajadoras.
 
-Se considera de utilidad social la expedición de una ley para la creación de un organismo integrado por representantes del Gobierno Federal, de los trabajadores y de los patrones, que administre los recursos del fondo nacional de la vivienda. Dicha ley regulará las formas y procedimientos conforme a los cuales los trabajadores podrán adquirir en propiedad las habitaciones antes mencionadas.
+*Párrafo reformado DOF 02-12-2024*
+
+El fondo establecerá un sistema de vivienda con orientación social para las personas trabajadoras derechohabientes que permita obtener crédito barato y suficiente para su adquisición o mejora; también podrá adquirir suelo y construir vivienda, en los términos que fije la ley.
+
+*Párrafo adicionado DOF 02-12-2024*
+
+Se considera de utilidad social la expedición de una ley para la creación de un organismo integrado por representantes del Gobierno Federal, de las personas trabajadoras y empleadoras, que administre los recursos del fondo nacional de la vivienda. Dicha ley regulará las formas y procedimientos conforme a los cuales las personas trabajadoras podrán acceder a los créditos y viviendas en arrendamiento social, antes mencionadas.
+
+*Párrafo reformado DOF 02-12-2024*
+
+La ley establecerá los términos y condiciones para que las personas trabajadoras puedan acceder a las viviendas en arrendamiento social, así como al derecho de adquirirlas en propiedad. La mensualidad del arrendamiento social no podrá exceder del treinta por ciento del salario de las personas trabajadoras.
+
+*Párrafo adicionado DOF 02-12-2024*
+
+En cualquier caso, se dará preferencia de acceso a la vivienda en arrendamiento social a las personas trabajadoras que hayan aportado continuamente al fondo y no cuenten con vivienda propia. La ley preverá mecanismos para evitar discrecionalidad o injerencias arbitrarias que limiten el acceso a este derecho.
+
+*Párrafo adicionado DOF 02-12-2024*
 
 Las negociaciones a que se refiere el párrafo primero de esta fracción, situadas fuera de las poblaciones, están obligadas a establecer escuelas, enfermerías y demás servicios necesarios a la comunidad.
 
@@ -9739,3 +9785,71 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 13 de noviembre de 2024.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de noviembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lic. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan los artículos 4o. y 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de bienestar.
+
+*Publicado en el Diario Oficial de la Federación el 2 de diciembre de 2024*
+
+**Artículo Único.-** Se reforman el párrafo séptimo y los actuales párrafos décimo cuarto y décimo quinto del artículo 4o.; se adicionan los párrafos décimo quinto y décimo séptimo, recorriéndose los subsecuentes en su orden y, un último párrafo al artículo 4o., y los párrafos tercero y cuarto a la fracción XX al artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a lo establecido en el.
+
+**Tercero.-** El Congreso de la Unión, en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de este Decreto, aprobará las leyes o modificaciones legales necesarias que requiera este Decreto.
+
+**Cuarto.-** Las legislaturas de las entidades federativas deben realizar las adecuaciones normativas necesarias para cumplir con los fines establecidos en el presente Decreto, dentro de los ciento ochenta días naturales siguientes a su publicación.
+
+**Quinto.-** Las erogaciones que se generen con motivo de este Decreto, se realizarán con cargo a los recursos presupuestarios aprobados expresamente para esos fines por la Cámara de Diputados. En caso de que se realice alguna modificación a la estructura orgánica de los ejecutores de gasto, deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas, presupuestarias y administrativas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos.
+
+**Sexto.-** El Congreso de la Unión dispondrá de un plazo de ciento ochenta días a partir de la publicación del presente Decreto para armonizar la legislación secundaria en materia de vivienda adecuada.
+
+Ciudad de México, a 26 de noviembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforma y adiciona la fracción XII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de vivienda para las personas trabajadoras.
+
+*Publicado en el Diario Oficial de la Federación el 2 de diciembre de 2024*
+
+**Artículo Único.-** Se reforman los párrafos primero y actual segundo y, se adicionan los párrafos segundo, cuarto y quinto, recorriéndose los subsecuentes en su orden, a la fracción XII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión tendrá un plazo de ciento ochenta días naturales para realizar las adecuaciones que resulten necesarias a la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+**Tercero.-** Con el objeto de reivindicar la orientación social del Instituto, en un periodo no mayor a ciento ochenta días naturales deberá implementarse un programa de eficiencia operativa que permita hacer una reducción de costos del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Ciudad de México, a 26 de noviembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan los artículos 3o., 4o. y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección y cuidado animal.
+
+*Publicado en el Diario Oficial de la Federación el 2 de diciembre de 2024*
+
+**Artículo Único.-** Se reforman los artículos 3o., párrafo décimo segundo y, 73, fracción XXIX-G; y se adiciona un párrafo sexto, recorriéndose los subsecuentes en su orden, al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión cuenta con un plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para expedir la Ley General en Materia de Bienestar, Cuidado y Protección de los Animales, considerando su naturaleza, características y vínculos con las personas, la prohibición del maltrato en la crianza, el aprovechamiento y sacrificio de animales de consumo humano y en la utilización de ejemplares de vida silvestre en espectáculos con fines de lucro, así como las medidas necesarias para atender el control de plagas y riesgos sanitarios.
+
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados del Congreso de la Unión en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+**Cuarto.-** Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
+
+Ciudad de México, a 26 de noviembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
