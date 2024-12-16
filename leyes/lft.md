@@ -3,12 +3,12 @@ title: Ley Federal del Trabajo
 abbreviation: LFT
 slug: lft
 published_dof: 1970-04-01
-last_reform_dof: 2024-04-04
+last_reform_dof: 2024-12-16
 articles: 1242
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc
-archived: https://web.archive.org/web/20240529040227/http://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc
-source_sha256: 417aad1fbef4db79f0ea33e283621a8d4d7ef459caae248ab9e197058ad8af59
-retrieved: 2024-05-29
+archived: https://web.archive.org/web/20250130113647/https://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc
+source_sha256: aad56846d0af69588d6f115097cd7d463fa696aed3fd365c89b58948ac4e5ba3
+retrieved: 2025-01-30
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm
 ---
 
@@ -18,7 +18,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de abril de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada 04-04-2024
+Última reforma publicada 16-12-2024
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1000,7 +1000,9 @@ V. El 16 de septiembre;
 
 VI. El tercer lunes de noviembre en conmemoración del 20 de noviembre;
 
-VII. El 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal;
+VII. El 1o. de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal;
+
+*Fracción reformada DOF 30-09-2024*
 
 VIII. El 25 de diciembre, y
 
@@ -1078,7 +1080,9 @@ En el salario por unidad de obra, la retribución que se pague será tal, que pa
 
 ##### Artículo 86.
 
-A trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia también iguales, debe corresponder salario igual.
+A trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia también iguales, debe corresponder salario igual; en cumplimiento de las obligaciones del Estado de reducir la brecha salarial de género se promoverán acciones para erradicar las prácticas retributivas desiguales de conformidad con lo dispuesto en la Ley General para la Igualdad entre Mujeres y Hombres.
+
+*Artículo reformado DOF 16-12-2024*
 
 ##### Artículo 87.
 
@@ -17176,3 +17180,37 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 20 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforma la fracción VII del artículo 74 de la Ley Federal del Trabajo, para establecer el 1o. de octubre de cada seis años, día de descanso obligatorio con motivo de la transmisión del Poder Ejecutivo Federal.
+
+*Publicado en el Diario Oficial de la Federación el 30 de septiembre de 2024*
+
+**Artículo Único.-** Se reforma la fracción VII del artículo 74 de la Ley Federal del Trabajo, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 24 de septiembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Vicepresidente en funciones de Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de septiembre de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, en materia de erradicación de la brecha salarial por razones de género.
+
+*Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2024*
+
+**Artículo Primero.-** Se reforma el artículo 86 de la Ley Federal del Trabajo, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
+
+Ciudad de México, a 11 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Alan Sahir Márquez Becerra, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
