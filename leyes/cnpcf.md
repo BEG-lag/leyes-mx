@@ -3,12 +3,12 @@ title: Código Nacional de Procedimientos Civiles y Familiares
 abbreviation: CNPCF
 slug: cnpcf
 published_dof: 2023-06-07
-last_reform_dof: 2024-06-04
+last_reform_dof: 2024-12-16
 articles: 1191
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc
-archived: https://web.archive.org/web/20250121190514/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc
-source_sha256: 3531577059d94717f0664c050ecb8fc45047d92549446e6a2fb28a3582928ef3
-retrieved: 2025-01-21
+archived: https://web.archive.org/web/20250130165409/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc
+source_sha256: 791b91b6803476300ea0e205ad8b3d604e9c5b1a116bf1e00ff9bf65288a54ef
+retrieved: 2025-01-30
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf.htm
 ---
 
@@ -18,9 +18,7 @@ Nuevo Código publicado en el Diario Oficial de la Federación el 7 de junio de 
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 04-06-2024
-
-Declaratoria de invalidez de artículos por Sentencia de la SCJN notificada al Congreso de la Unión para efectos legales el 14-08-2024
+Última reforma publicada DOF 16-12-2024
 
 > Nota sobre la entrada en vigor y aplicación gradual de este Código: De conformidad con los artículos transitorios Primero y Segundo del Decreto DOF 07-06-2023, se establece:
 >
@@ -4382,7 +4380,9 @@ La admisión de hechos por las partes y el allanamiento de estos sólo vinculan 
 
 ###### Artículo 554.
 
-En los casos de conductas violentas u omisiones graves que afecten a los integrantes de la familia, la autoridad jurisdiccional deberá adoptar las medidas provisionales que se estimen convenientes, para que cesen de plano. En los casos de violencia vicaria, entendida como la violencia ejercida contra las mujeres a través de sus hijos, la autoridad jurisdiccional deberá salvaguardar la integridad de niñas, niños, adolescentes y mujeres, a efecto de evitar la violencia institucional contemplada en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+En los casos de conductas violentas u omisiones graves que afecten a los integrantes de la familia, la autoridad jurisdiccional deberá adoptar las medidas provisionales que se estimen convenientes, para que cesen de plano. En los casos de violencia vicaria, definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la autoridad jurisdiccional deberá salvaguardar la integridad de niñas, niños, adolescentes y mujeres.
+
+*Artículo reformado DOF 16-12-2024*
 
 ###### Artículo 555.
 
@@ -4568,7 +4568,9 @@ XIII. Embargo preventivo de bienes del agresor, que deberá inscribirse en el Re
 
 XIV. En caso de ser solicitado, proveer a fin de que la víctima pueda recibir en instituciones públicas y de manera gratuita atención médica y acompañamiento psicológico.
 
-La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona.
+La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+*Párrafo reformado DOF 16-12-2024*
 
 ###### Artículo 574.
 
@@ -4870,13 +4872,13 @@ I. Las cuentas se rendirán dentro del mes de enero de cada año, exhibiendo los
 
 II. La persona tutora, también tiene obligación de rendir cuentas cuando, por causas graves que calificará la autoridad jurisdiccional, lo exijan la persona curadora, el Consejo Local de Tutelas, la Procuraduría de Protección para Niñas, Niños y Adolescentes o el Representante de la Institución análoga de la Entidad Federativa de que se trate o el mismo menor [que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa];
 
-Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”)
+*Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 y publicada DOF 04-12-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”)*
 
 III. Se requiere prevención judicial para que las cuentas se rindan antes de llegar al plazo previsto en la fracción I; a menos que hubiese remoción o separación de la persona tutora, pues en este caso, sin requerimiento judicial, deberán presentarlas dentro de los quince días siguientes de la fecha de la remoción o separación. En igual forma se procederá cuando la tutela o la encomienda lleguen al final del plazo por haber cesado el estado de minoridad;
 
 IV. Las personas a quienes deben ser rendidas las cuentas son: la misma autoridad jurisdiccional, la persona curadora, el Consejo Local de Tutelas, la misma niña, niño o adolescente [que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa], la persona tutora que lo sustituya, el pupilo que dejare de serlo, el Ministerio Público y las demás personas que fija la ley de la materia;
 
-Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”)
+*Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 y publicada DOF 04-12-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”)*
 
 V. La resolución que desaprobare las cuentas indicará, si fuere posible, los alcances y la que aprobare puede ser apelada por el Ministerio Público, los demás interesados y la persona curadora si hizo observaciones. Del auto de desaprobación pueden apelar en ambos efectos la persona tutora, la curadora o el Ministerio Público de la adscripción, y
 
@@ -5090,7 +5092,7 @@ II. Que quien solicitó la restitución no tenga derecho para solicitarla;
 
 III. [Que hubieren transcurrido más de tres años desde que fue presentada la solicitud de restitución, y]
 
-Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024
+*Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 y publicada DOF 04-12-2024*
 
 IV. Que la persona adolescente solicitada hubiere alcanzado la edad de dieciséis años y manifieste su conformidad con el traslado.
 
@@ -9601,3 +9603,83 @@ Ciudad de México; 13 de agosto de 2024
 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 14 de agosto de 2024 a las 12:40 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
+
+### SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 154/2023, así como los Votos Concurrentes de la señora Ministra Presidenta Norma Lucía Piña Hernández y de los señores Ministros Juan Luis González Alcántara Carrancá y Luis María Aguilar Morales.
+
+*Publicada en el Diario Oficial de la Federación el 4 de diciembre de 2024*
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
+
+ACCIÓN DE INCONSTITUCIONALIDAD 154/2023
+
+PROMOVENTE: COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
+
+VISTO BUENO
+
+SR/A. MINISTRA/O
+
+MINISTRO PONENTE: JORGE MARIO PARDO REBOLLEDO.
+
+COTEJÓ
+
+SECRETARIA: CLAUDIA LISSETTE MONTAÑO MENDOZA.
+
+Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al trece de agosto de dos mil veinticuatro, emite la siguiente:
+
+SENTENCIA
+
+Mediante la cual se resuelve la acción de inconstitucionalidad 154/2023, promovida por la Comisión Nacional de los Derechos Humanos (CNDH), en contra de los artículos 610, fracciones II, en la porción normativa “el mismo menor que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”; y, IV, en la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”; 638, fracción III; y, 554 en la porción normativa “entendida como la violencia ejercida contra las mujeres a través de los hijos”; todos del Código Nacional de Procedimientos Civiles y Familiares, expedido mediante Decreto publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintitrés.
+
+………..
+
+VII. EFECTOS.
+
+218\. De conformidad con los artículos 41, fracción IV, y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 constitucional, las sentencias dictadas en acciones de inconstitucionalidad deberán establecer sus alcances y efectos, fijando con precisión, en su caso, los órganos obligados a cumplirla, las normas o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda.
+
+219\. Por lo anterior, se declara la invalidez de la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa” de las fracciones II y IV del artículo 610; así como de la fracción III del artículo 638, ambos del Código Nacional de Procedimientos Civiles y Familiares. La cual surtirá sus efectos a partir de la notificación de los puntos resolutivos de este fallo al Congreso de la Unión. Y, se declara la validez de la segunda parte del artículo 554, en la porción normativa “entendida como la violencia ejercida contra las mujeres a través de sus hijos”, así como de la fracción II del artículo 610 en la porción normativa “el mismo menor”, ambos del propio Código Nacional de Procedimientos Civiles y Familiares.
+
+220\. Por lo expuesto y fundado, este Tribunal Pleno de la Suprema Corte de Justicia de la Nación
+
+RESUELVE
+
+**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+
+**SEGUNDO.** Se reconoce la validez de los artículos 554, en su porción normativa “entendida como la violencia ejercida contra las mujeres a través de sus hijos”, y 610, fracción II, en su porción normativa “el mismo menor”, del Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintitrés.
+
+**TERCERO.** Se declara la invalidez de los artículos 610, fracciones II y IV, en sendas porciones normativas “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”, y 638, fracción III, del referido Código Nacional de Procedimientos Civiles y Familiares, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
+
+**CUARTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+Notifíquese; mediante oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
+
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+
+…….
+
+La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos precisados.
+
+Firman la señora Ministra Presidenta y el señor Ministro Ponente, con el Secretario General de Acuerdos que da fe.
+
+Presidenta, Ministra Norma Lucía Piña Hernández.- Firmado electrónicamente.- Ponente, Ministro Jorge Mario Pardo Rebolledo.- Firmado electrónicamente.- Secretario General de Acuerdos, Licenciado Rafael Coello Cetina.- Firmado electrónicamente.
+
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de cincuenta y cinco fojas útiles, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la acción de inconstitucionalidad 154/2023, promovida por la Comisión Nacional de los Derechos Humanos, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del trece de agosto de dos mil veinticuatro. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México a diecinueve de noviembre de dos mil veinticuatro.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y del Código Nacional de Procedimientos Civiles y Familiares.
+
+*Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2024*
+
+**Artículo Tercero.** Se reforman los artículo 554 y 573, último párrafo, del Código Nacional de Procedimientos Civiles y Familiares, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Las atribuciones señaladas en el presente Decreto conferidas a la Secretaría de las Mujeres entrarán en vigor hasta que la reforma a la Ley Orgánica de la Administración Pública Federal que crea dicha Secretaría surtan sus efectos legales y cobren vigencia.
+
+**Tercero.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Ciudad de México, a 11 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
