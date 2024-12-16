@@ -3,12 +3,12 @@ title: Código Nacional de Procedimientos Penales
 abbreviation: CNPP
 slug: cnpp
 published_dof: 2014-03-05
-last_reform_dof: 2024-01-26
+last_reform_dof: 2024-12-16
 articles: 490
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc
-archived: https://web.archive.org/web/20240405093730/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc
-source_sha256: 5e397bcc83d38dfe1e1202d41a0f13e0cff09d82109378873af497f12bbdf782
-retrieved: 2024-04-05
+archived: https://web.archive.org/web/20250130150203/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc
+source_sha256: ad5100049b887306d9def7fe0c7dd2d6a166975ce842c1fc887c989730853f83
+retrieved: 2025-01-30
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 ---
 
@@ -16,7 +16,7 @@ reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 
 Nuevo Código publicado en el Diario Oficial de la Federación el 5 de marzo de 2014
 
-Última reforma publicada DOF 26-01-2024
+Última reforma publicada DOF 16-12-2024
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1594,7 +1594,9 @@ XXIV. Las demás que señale este Código y otras disposiciones aplicables.
 
 ###### Artículo 132.
 
-Obligaciones del Policía
+Obligaciones de las y los Policías
+
+*Epígrafe reformado DOF 16-12-2024*
 
 El Policía actuará bajo la conducción y mando del Ministerio Público en la investigación de los delitos en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución.
 
@@ -1646,7 +1648,9 @@ XII Bis. Cuando se trate de delitos por motivo de género se deberán aplicar lo
 
 *Fracción adicionada DOF 25-04-2023*
 
-XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos;
+XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos, tratándose del cumplimiento de las medidas u órdenes de protección deberán estar a lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+*Fracción reformada DOF 16-12-2024*
 
 XIV. Emitir el informe policial y demás documentos, de conformidad con las disposiciones aplicables. Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, sin que ello tenga el carácter de informes periciales, y
 
@@ -1728,7 +1732,9 @@ Si por las circunstancias del caso, las partes que intervienen en el procedimien
 
 ###### Artículo 137.
 
-Medidas de protección
+Medidas u Órdenes de Protección
+
+*Epígrafe reformado DOF 16-12-2024*
 
 El Ministerio Público, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido. Son medidas de protección las siguientes:
 
@@ -1756,7 +1762,9 @@ Dentro de los cinco días siguientes a la imposición de las medidas de protecci
 
 En caso de incumplimiento de las medidas de protección, el Ministerio Público podrá imponer alguna de las medidas de apremio previstas en este Código.
 
-En la aplicación de estas medidas tratándose de delitos por razón de género, se aplicarán de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+Tratándose de delitos relacionados con las violencias de género contra las mujeres se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+*Párrafo reformado DOF 16-12-2024*
 
 ###### Artículo 138.
 
@@ -1778,11 +1786,17 @@ La providencia precautoria se hará efectiva a favor de la víctima u ofendido c
 
 ###### Artículo 139.
 
-Duración de las medidas de protección y providencias precautorias
+Duración de las medidas u órdenes de protección y providencias precautorias
+
+*Epígrafe reformado DOF 16-12-2024*
 
 La imposición de las medidas de protección y de las providencias precautorias tendrá una duración máxima de sesenta días naturales, prorrogables hasta por treinta días.
 
 Cuando hubiere desaparecido la causa que dio origen a la medida decretada, el imputado, su Defensor o en su caso el Ministerio Público, podrán solicitar al Juez de control que la deje sin efectos.
+
+Tratándose de delitos relacionados con las violencias de género contra las mujeres, adolescentes y niñas, se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+*Párrafo adicionado DOF 16-12-2024*
 
 #### CAPÍTULO II · LIBERTAD DURANTE LA INVESTIGACIÓN
 
@@ -6287,3 +6301,25 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 13 de diciembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Diana Estefanía Gutiérrez Valtierra, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 24 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales y de la Ley General del Sistema Nacional de Seguridad Pública, en materia de medidas de protección y derecho de las mujeres a una vida libre de violencia.
+
+*Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2024*
+
+**Artículo Primero.-** Se reforman el epígrafe y la fracción XIII del artículo 132; el epígrafe y el último párrafo del artículo 137; el epígrafe del artículo 139; y se adiciona un tercer párrafo al artículo 139 del Código Nacional de Procedimientos Penales, para quedar como sigue:
+
+…….
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión deberá prever en el Presupuesto de Egresos las partidas suficientes y necesarias para la implementación del Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños.
+
+**Tercero.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+**Cuarto.-** Se dejan sin efecto las disposiciones que se opongan al presente Decreto. Todas las referencias que se contengan en la Ley General del Sistema Nacional de Seguridad Pública a la coordinación o cualquiera otra acción entre la Federación, las entidades federativas y los municipios tendrán por incorporada a las demarcaciones territoriales de la Ciudad de México.
+
+Ciudad de México, a 11 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Alan Sahir Márquez Becerra, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
