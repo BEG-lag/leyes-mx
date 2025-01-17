@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2024-12-02
+last_reform_dof: 2025-01-17
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-archived: https://web.archive.org/web/20241222230844/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-source_sha256: e26eb812e4804e68b7f65e8a2541913ee0ff7abcf4d27e64c8cf6adacd06e28c
-retrieved: 2024-12-22
+archived: https://web.archive.org/web/20250223110449/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
+source_sha256: 2287a9d785eb220a906a73aca0385cd3e3b884602fe18216539510931e43d246
+retrieved: 2025-02-23
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,9 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 02-12-2024
+Última reforma publicada DOF 17-01-2025
+
+> Nota de vigencia: Las reformas a los párrafos décimo quinto a vigésimo del artículo 28, publicadas en el DOF 20-12-2024, entrarán en vigor en un plazo de 180 días contados a partir de la entrada en vigor de las leyes secundarias que el Congreso de la Unión expedirá en materia de competencia y libre concurrencia; y en materia de telecomunicaciones y radiodifusión, respectivamente, de conformidad con el artículo Décimo Transitorio de dicho Decreto.
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -398,35 +400,9 @@ VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación
 
 *Fracción reformada DOF 26-02-2013, 29-01-2016, 15-05-2019*
 
-IX. Para contribuir al cumplimiento de los objetivos de este artículo, se crea el Sistema Nacional de Mejora Continua de la Educación, que será coordinado por un organismo público descentralizado, con autonomía técnica, operativa, presupuestaria, de decisión y de gestión, con personalidad jurídica y patrimonio propios, no sectorizado, al que le corresponderá:
+IX. Se deroga
 
-a) Realizar estudios, investigaciones especializadas y evaluaciones diagnósticas, formativas e integrales del Sistema Educativo Nacional;
-
-b) Determinar indicadores de resultados de la mejora continua de la educación;
-
-c) Establecer los criterios que deben cumplir las instancias evaluadoras para los procesos valorativos, cualitativos, continuos y formativos de la mejora continua de la educación;
-
-d) Emitir lineamientos relacionados con el desarrollo del magisterio, el desempeño escolar, los resultados de aprendizaje; así como de la mejora de las escuelas, organización y profesionalización de la gestión escolar;
-
-e) Proponer mecanismos de coordinación entre las autoridades educativas federal y de las entidades federativas para la atención de las necesidades de las personas en la materia;
-
-f) Sugerir elementos que contribuyan a la mejora de los objetivos de la educación inicial, de los planes y programas de estudio de educación básica y media superior, así como para la educación inclusiva y de adultos, y
-
-g) Generar y difundir información que contribuya a la mejora continua del Sistema Educativo Nacional.
-
-La ley establecerá las reglas para la organización y funcionamiento del organismo para la mejora continua de la educación, el cual regirá sus actividades con apego a los principios de independencia, transparencia, objetividad, pertinencia, diversidad e inclusión. Definirá también los mecanismos y acciones necesarios que le permitan una eficaz colaboración y coordinación con las autoridades educativas federal y locales para el cumplimiento de sus respectivas funciones.
-
-El organismo contará con una Junta Directiva, un Consejo Técnico de Educación y un Consejo Ciudadano.
-
-La Junta Directiva será la responsable de la conducción, planeación, programación, organización y coordinación de los trabajos del organismo al que se refiere este artículo. Se integrará por cinco personas que durarán en su encargo siete años en forma escalonada y serán nombradas por la Cámara de Senadores, con el voto de las dos terceras partes de sus integrantes. El Presidente de la Junta Directiva será nombrado por sus integrantes y presidirá el Consejo Técnico de Educación.
-
-El Consejo Técnico de Educación asesorará a la Junta Directiva en los términos que determine la ley, estará integrado por siete personas que durarán en el encargo cinco años en forma escalonada. Serán nombradas por la Cámara de Senadores, con el voto de las dos terceras partes de sus integrantes. En su composición se procurará la diversidad y representación de los tipos y modalidades educativos, así como la paridad de género. En caso de falta absoluta de alguno de sus integrantes, la persona sustituta será nombrada para concluir el periodo respectivo.
-
-Las personas que integren la Junta Directiva y el Consejo Técnico de Educación, deberán ser especialistas en investigación, política educativa, temas pedagógicos o tener experiencia docente en cualquier tipo o modalidad educativa; además acreditar el grado académico de su especialidad y experiencia, no haber sido dirigente de algún partido político o candidato a ocupar un cargo de elección popular en los cuatro años anteriores a la designación y cumplir con los requisitos que establezca la ley. Sólo podrán ser removidos por causa grave en los términos del Título Cuarto de esta Constitución.
-
-El organismo al que se refiere esta fracción, contará con un Consejo Ciudadano honorífico, integrado por representantes de los sectores involucrados en materia educativa. La ley determinará las atribuciones, organización y funcionamiento de dicho Consejo, y
-
-*Fracción adicionada DOF 26-02-2013. Reformada DOF 15-05-2019*
+*Fracción adicionada DOF 26-02-2013. Reformada DOF 15-05-2019. Derogada DOF 20-12-2024*
 
 X. La obligatoriedad de la educación superior corresponde al Estado. Las autoridades federal y locales establecerán políticas para fomentar la inclusión, permanencia y continuidad, en términos que la ley señale. Asimismo, proporcionarán medios de acceso a este tipo educativo para las personas que cumplan con los requisitos dispuestos por las instituciones públicas.
 
@@ -449,6 +425,10 @@ Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad
 Toda Persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud y establecerá la concurrencia de la Federación y las entidades federativas en materia de salubridad general, conforme a lo que dispone la fracción XVI del artículo 73 de esta Constitución. La Ley definirá un sistema de salud para el bienestar, con el fin de garantizar la extensión progresiva, cuantitativa y cualitativa de los servicios de salud para la atención integral y gratuita de las personas que no cuenten con seguridad social.
 
 *Párrafo adicionado DOF 03-02-1983. Reformado DOF 08-05-2020*
+
+Para garantizar el derecho de protección a la salud de las personas, la ley sancionará toda actividad relacionada con cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos que señale la ley; así como la producción, distribución y enajenación de sustancias tóxicas, precursores químicos, el uso ilícito del fentanilo y demás drogas sintéticas no autorizadas.
+
+*Párrafo adicionado DOF 17-01-2025*
 
 Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
 
@@ -534,6 +514,10 @@ El Estado destinará anualmente los recursos presupuestarios suficientes y oport
 
 A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial.
 
+Queda prohibida la profesión, industria, comercio interior o exterior, trabajo o cualquiera otra de las actividades que refiere el párrafo quinto del artículo 4o. anterior.
+
+*Párrafo adicionado DOF 17-01-2025*
+
 La ley determinará en cada entidad federativa, cuáles son las profesiones que necesitan título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades que han de expedirlo.
 
 *Párrafo reformado DOF 29-01-2016*
@@ -566,9 +550,9 @@ Toda persona tiene derecho al libre acceso a información plural y oportuna, as�
 
 *Párrafo adicionado DOF 11-06-2013*
 
-El Estado garantizará el derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet. Para tales efectos, el Estado establecerá condiciones de competencia efectiva en la prestación de dichos servicios.
+El Estado garantizará el derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet. Para tales efectos, el Ejecutivo Federal a través de la dependencia encargada de elaborar y conducir las políticas de telecomunicaciones y radiodifusión, establecerá condiciones de competencia efectiva en la prestación de dichos servicios.
 
-*Párrafo adicionado DOF 11-06-2013*
+*Párrafo adicionado DOF 11-06-2013. Reformado DOF 20-12-2024*
 
 Para efectos de lo dispuesto en el presente artículo se observará lo siguiente:
 
@@ -582,13 +566,17 @@ I. Toda la información en posesión de cualquier autoridad, entidad, órgano y 
 
 *Fracción reformada DOF 07-02-2014*
 
-II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
+
+Por lo que hace a la información relacionada con los datos personales en posesión de particulares, la ley a la que se refiere el artículo 90 de esta Constitución determinará la competencia para conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones.
+
+*Fracción reformada DOF 20-12-2024*
 
 III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
-IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante los organismos autónomos especializados e imparciales que establece esta Constitución.
+IV. Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes.
 
-*Fracción reformada DOF 07-02-2014*
+*Fracción reformada DOF 07-02-2014, 20-12-2024*
 
 V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 
@@ -598,47 +586,27 @@ VI. Las leyes determinarán la manera en que los sujetos obligados deberán hace
 
 VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
-*Párrafo con fracciones adicionado DOF 20-07-2007*
+VIII. Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos en el ámbito federal y local para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
 
-VIII. La Federación contará con un organismo autónomo, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la ley.
+*Párrafo reformado DOF 20-12-2024*
 
-El organismo autónomo previsto en esta fracción, se regirá por la ley en materia de transparencia y acceso a la información pública y protección de datos personales en posesión de sujetos obligados, en los términos que establezca la ley general que emita el Congreso de la Unión para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
+Los sujetos obligados se regirán por la ley general en materia de transparencia y acceso a la información pública y protección de datos personales, en los términos que ésta se emita por el Congreso de la Unión para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
 
-En su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+*Párrafo reformado DOF 20-12-2024*
 
-El organismo garante tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Legislativo, Ejecutivo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal; con excepción de aquellos asuntos jurisdiccionales que correspondan a la Suprema Corte de Justicia de la Nación, en cuyo caso resolverá un comité integrado por tres ministros. También conocerá de los recursos que interpongan los particulares respecto de las resoluciones de los organismos autónomos especializados de las entidades federativas que determinen la reserva, confidencialidad, inexistencia o negativa de la información, en los términos que establezca la ley.
+El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
-*Párrafo reformado DOF 29-01-2016*
-
-El organismo garante federal, de oficio o a petición fundada del organismo garante equivalente de las entidades federativas, podrá conocer de los recursos de revisión que por su interés y trascendencia así lo ameriten.
-
-*Párrafo reformado DOF 29-01-2016*
+*Párrafo reformado DOF 20-12-2024*
 
 La ley establecerá aquella información que se considere reservada o confidencial.
 
-Las resoluciones del organismo garante son vinculatorias, definitivas e inatacables para los sujetos obligados. El Consejero Jurídico del Gobierno podrá interponer recurso de revisión ante la Suprema Corte de Justicia de la Nación en los términos que establezca la ley, sólo en el caso que dichas resoluciones puedan poner en peligro la seguridad nacional conforme a la ley de la materia.
+*Reforma DOF 20-12-2024: Derogó de la fracción los entonces párrafos cuarto, quinto y décimo sexto (antes reformados DOF 29-01-2016)*
 
-El organismo garante se integra por siete comisionados. Para su nombramiento, la Cámara de Senadores, previa realización de una amplia consulta a la sociedad, a propuesta de los grupos parlamentarios, con el voto de las dos terceras partes de los miembros presentes, nombrará al comisionado que deba cubrir la vacante, siguiendo el proceso establecido en la ley. El nombramiento podrá ser objetado por el Presidente de la República en un plazo de diez días hábiles. Si el Presidente de la República no objetara el nombramiento dentro de dicho plazo, ocupará el cargo de comisionado la persona nombrada por el Senado de la República.
-
-En caso de que el Presidente de la República objetara el nombramiento, la Cámara de Senadores nombrará una nueva propuesta, en los términos del párrafo anterior, pero con una votación de las tres quintas partes de los miembros presentes. Si este segundo nombramiento fuera objetado, la Cámara de Senadores, en los términos del párrafo anterior, con la votación de las tres quintas partes de los miembros presentes, designará al comisionado que ocupará la vacante.
-
-Los comisionados durarán en su encargo siete años y deberán cumplir con los requisitos previstos en las fracciones I, II, IV, V y VI del artículo 95 de esta Constitución, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Cuarto de esta Constitución y serán sujetos de juicio político.
-
-En la conformación del organismo garante se procurará la equidad de género.
-
-El comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de tres años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual ante el Senado, en la fecha y en los términos que disponga la ley.
-
-El organismo garante tendrá un Consejo Consultivo, integrado por diez consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
-
-La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
-
-Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
-
-El organismo garante coordinará sus acciones con la Auditoría Superior de la Federación, con la entidad especializada en materia de archivos y con el organismo encargado de regular la captación, procesamiento y publicación de la información estadística y geográfica, así como con los organismos garantes de las entidades federativas, con el objeto de fortalecer la rendición de cuentas del Estado Mexicano.
-
-*Párrafo reformado DOF 29-01-2016*
+*Reforma DOF 20-12-2024: Derogó de la fracción los entonces párrafos séptimo a décimo quinto*
 
 *Fracción adicionada DOF 07-02-2014*
+
+*Párrafo con fracciones (actual apartado A) adicionado DOF 20-07-2007*
 
 B. En materia de radiodifusión y telecomunicaciones:
 
@@ -846,9 +814,9 @@ Para la reclusión preventiva y la ejecución de sentencias en materia de delinc
 
 Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva oficiosamente, en los casos de abuso o violencia sexual contra menores, delincuencia organizada, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad, y de la salud.
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos y de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva oficiosamente, en los casos de abuso o violencia sexual contra menores, delincuencia organizada, extorsión, delitos previstos en las leyes aplicables cometidos para la ilegal introducción y desvío, producción, preparación, enajenación, adquisición, importación, exportación, transportación, almacenamiento y distribución de precursores químicos y sustancias químicas esenciales, drogas sintéticas, fentanilo y derivados, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, de la salud, del libre desarrollo de la personalidad, contrabando y cualquier actividad relacionada con falsos comprobantes fiscales, en los términos fijados por la ley. Para la interpretación y aplicación de las normas previstas en este párrafo, los órganos del Estado deberán atenerse a su literalidad, quedando prohibida cualquier interpretación análoga o extensiva que pretenda inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
 
-*Párrafo reformado DOF 14-07-2011, 12-04-2019*
+*Párrafo reformado DOF 14-07-2011, 12-04-2019, 31-12-2024*
 
 La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso.
 
@@ -958,9 +926,9 @@ VII. Impugnar ante autoridad judicial las omisiones del Ministerio Público en l
 
 ##### Artículo 21.
 
-La investigación de los delitos corresponde al Ministerio Público, a las policías y a la Guardia Nacional, en el ámbito de su competencia, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
+La investigación de los delitos corresponde al Ministerio Público, a la secretaría del ramo de seguridad pública del Ejecutivo Federal, a la Guardia Nacional y a las policías, en el ámbito de su competencia, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
 
-*Párrafo reformado DOF 30-09-2024*
+*Párrafo reformado DOF 30-09-2024, 31-12-2024*
 
 El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial.
 
@@ -1000,15 +968,21 @@ c) La formulación de políticas públicas tendientes a prevenir la comisión de
 
 d) Se determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las instituciones de seguridad pública.
 
-e) Los fondos de ayuda federal para la seguridad pública, a nivel nacional serán aportados a las entidades federativas y municipios para ser destinados exclusivamente a estos fines.
+e) Los fondos de ayuda federal para la seguridad pública, a nivel nacional serán aportados a las entidades federativas y municipios para ser destinados exclusivamente a estos fines. Estos fondos serán auditados y su debido ejercicio vigilado por el Sistema a través de su Secretariado Ejecutivo.
+
+*Inciso reformado DOF 31-12-2024*
+
+f) El Sistema contará con un Secretariado Ejecutivo, el cual podrá ampliar las bases, emitir acuerdos y lineamientos, así como realizar las acciones necesarias para lograr la homologación de estándares y criterios, así como una coordinación eficiente, transparente y responsable, en el ejercicio de las atribuciones concurrentes de los tres órdenes de gobierno; en todo momento en atención a los fines del Sistema y los objetivos de la Estrategia Nacional de Seguridad Pública.
+
+*Inciso adicionado DOF 31-12-2024*
 
 La Federación contará con la Guardia Nacional, fuerza de seguridad pública, profesional, de carácter permanente e integrada por personal militar con formación policial, dependiente de la secretaría del ramo de defensa nacional, para ejecutar la Estrategia Nacional de Seguridad Pública en el ámbito de su competencia. Los fines de la Guardia Nacional son los señalados en el párrafo noveno de este artículo, la coordinación y colaboración con las entidades federativas y Municipios, así como la salvaguarda de los bienes y recursos de la Nación. La ley determinará la estructura orgánica y de dirección de la Guardia Nacional.
 
 *Párrafo adicionado DOF 26-03-2019. Reformado DOF 30-09-2024*
 
-La secretaría del ramo de seguridad pública formulará la Estrategia Nacional de Seguridad Pública, y los programas, políticas y acciones respectivos.
+La secretaría del ramo de seguridad pública formulará, coordinará y dirigirá la Estrategia Nacional de Seguridad Pública, así como los programas, las políticas y acciones respectivos; auxiliará a la persona titular de la Presidencia de la República en el ejercicio de las funciones en materia de seguridad nacional; le corresponderá la coordinación del Sistema Nacional de Inteligencia en materia de seguridad pública, en los términos que señale la ley, y podrá coordinar las acciones de colaboración de los tres órdenes de gobierno, a través de las instituciones de seguridad pública, los cuales además deberán de proporcionar la información de que dispongan o que recaben en la materia conforme a la ley. Podrá solicitar información a las instituciones y dependencias del Estado para la identificación y esclarecimiento de los hechos presuntamente constitutivos de delitos.
 
-*Párrafo adicionado DOF 26-03-2019. Reformado DOF 30-09-2024*
+*Párrafo adicionado DOF 26-03-2019. Reformado DOF 30-09-2024, 31-12-2024*
 
 La formación y el desempeño de los integrantes de la Guardia Nacional y de las demás instituciones policiales se regirán por una doctrina policial fundada en el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, al imperio de la ley, al mando superior, y en lo conducente a la perspectiva de género.
 
@@ -1116,6 +1090,10 @@ B. El Estado contará con un Sistema Nacional de Información Estadística y Geo
 
 La responsabilidad de normar y coordinar dicho Sistema estará a cargo de un organismo con autonomía técnica y de gestión, personalidad jurídica y patrimonio propios, con las facultades necesarias para regular la captación, procesamiento y publicación de la información que se genere y proveer a su observancia.
 
+El organismo también estará a cargo de la medición de la pobreza y la evaluación de los programas, objetivos, metas y acciones de la política de desarrollo social, así como de emitir recomendaciones en los términos que disponga la ley, la cual establecerá las formas de coordinación con las autoridades federales, locales y municipales para el ejercicio de estas funciones.
+
+*Párrafo adicionado DOF 20-12-2024*
+
 El organismo tendrá una Junta de Gobierno integrada por cinco miembros, uno de los cuales fungirá como Presidente de ésta y del propio organismo; serán designados por el Presidente de la República con la aprobación de la Cámara de Senadores o en sus recesos por la Comisión Permanente del Congreso de la Unión.
 
 La ley establecerá las bases de organización y funcionamiento del Sistema Nacional de Información Estadística y Geográfica, de acuerdo con los principios de accesibilidad a la información, transparencia, objetividad e independencia; los requisitos que deberán cumplir los miembros de la Junta de Gobierno, la duración y escalonamiento de su encargo.
@@ -1130,15 +1108,9 @@ Las obligaciones y supuestos denominados en Unidades de Medida y Actualización 
 
 *Párrafo adicionado DOF 27-01-2016*
 
-C. El Estado contará con un Consejo Nacional de Evaluación de la Política de Desarrollo Social, que será un órgano autónomo, con personalidad jurídica y patrimonio propios, a cargo de la medición de la pobreza y de la evaluación de los programas, objetivos, metas y acciones de la política de desarrollo social, así como de emitir recomendaciones en los términos que disponga la ley, la cual establecerá las formas de coordinación del órgano con las autoridades federales, locales y municipales para el ejercicio de sus funciones.
+C. Se deroga
 
-El Consejo Nacional de Evaluación de la Política de Desarrollo Social estará integrado por un Presidente y seis Consejeros que deberán ser ciudadanos mexicanos de reconocido prestigio en los sectores privado y social, así como en los ámbitos académico y profesional; tener experiencia mínima de diez años en materia de desarrollo social, y no pertenecer a algún partido político o haber sido candidato a ocupar un cargo público de elección popular. Serán nombrados, bajo el procedimiento que determine la ley, por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados. El nombramiento podrá ser objetado por el Presidente de la República en un plazo de diez días hábiles y, si no lo hiciere, ocupará el cargo de consejero la persona nombrada por la Cámara de Diputados. Cada cuatro años serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
-
-El Presidente del Consejo Nacional de Evaluación de la Política de Desarrollo Social será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Cuarto de esta Constitución.
-
-El Presidente del Consejo Nacional de Evaluación de la Política de Desarrollo Social presentará anualmente a los Poderes de la Unión un informe de actividades. Comparecerá ante las Cámaras del Congreso en los términos que disponga la ley.
-
-*Apartado adicionado DOF 10-02-2014*
+*Apartado adicionado DOF 10-02-2014. Derogado DOF 20-12-2024*
 
 *Artículo reformado DOF 03-02-1983, 07-04-2006*
 
@@ -1160,9 +1132,9 @@ Son propiedad de la Nación las aguas de los mares territoriales en la extensió
 
 *Párrafo reformado DOF 21-04-1945, 20-01-1960, 29-01-2016*
 
-En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible y la explotación, el uso o el aprovechamiento de los recursos de que se trata, por los particulares o por sociedades constituidas conforme a las leyes mexicanas, no podrá realizarse sino mediante concesiones, otorgadas por el Ejecutivo Federal, de acuerdo con las reglas y condiciones que establezcan las leyes, salvo en radiodifusión y telecomunicaciones, que serán otorgadas por el Instituto Federal de Telecomunicaciones. Las normas legales relativas a obras o trabajos de explotación de los minerales y substancias a que se refiere el párrafo cuarto, regularán la ejecución y comprobación de los que se efectúen o deban efectuarse a partir de su vigencia, independientemente de la fecha de otorgamiento de las concesiones, y su inobservancia dará lugar a la cancelación de éstas. El Gobierno Federal tiene la facultad de establecer reservas nacionales y suprimirlas. Las declaratorias correspondientes se harán por el Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose de minerales radiactivos y litio no se otorgarán concesiones. Corresponde exclusivamente a la Nación la planeación y el control del sistema eléctrico nacional en los términos del artículo 28 de esta Constitución, así como el servicio público de transmisión y distribución de energía eléctrica; en estas actividades no se otorgarán concesiones. Las leyes determinarán la forma en que los particulares podrán participar en las demás actividades de la industria eléctrica, que en ningún caso tendrán prevalencia sobre la empresa pública del Estado, cuya esencia es cumplir con su responsabilidad social y garantizar la continuidad y accesibilidad del servicio público de electricidad.
+En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible y la explotación, el uso o el aprovechamiento de los recursos de que se trata, por los particulares o por sociedades constituidas conforme a las leyes mexicanas, no podrá realizarse sino mediante concesiones, otorgadas por el Ejecutivo Federal, de acuerdo con las reglas y condiciones que establezcan las leyes. Las normas legales relativas a obras o trabajos de explotación de los minerales y substancias a que se refiere el párrafo cuarto, regularán la ejecución y comprobación de los que se efectúen o deban efectuarse a partir de su vigencia, independientemente de la fecha de otorgamiento de las concesiones, y su inobservancia dará lugar a la cancelación de éstas. El Gobierno Federal tiene la facultad de establecer reservas nacionales y suprimirlas. Las declaratorias correspondientes se harán por el Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose de minerales radiactivos y litio no se otorgarán concesiones. Corresponde exclusivamente a la Nación la planeación y el control del sistema eléctrico nacional en los términos del artículo 28 de esta Constitución, así como el servicio público de transmisión y distribución de energía eléctrica; en estas actividades no se otorgarán concesiones. Las leyes determinarán la forma en que los particulares podrán participar en las demás actividades de la industria eléctrica, que en ningún caso tendrán prevalencia sobre la empresa pública del Estado, cuya esencia es cumplir con su responsabilidad social y garantizar la continuidad y accesibilidad del servicio público de electricidad.
 
-*Párrafo reformado DOF 09-11-1940, 20-01-1960, 06-02-1975, 11-06-2013, 20-12-2013, 31-10-2024*
+*Párrafo reformado DOF 09-11-1940, 20-01-1960, 06-02-1975, 11-06-2013, 20-12-2013, 31-10-2024, 20-12-2024*
 
 Tratándose del petróleo y de los hidrocarburos sólidos, líquidos o gaseosos, en el subsuelo, la propiedad de la Nación es inalienable e imprescriptible y no se otorgarán concesiones. Con el propósito de obtener ingresos para el Estado que contribuyan al desarrollo de largo plazo de la Nación, ésta llevará a cabo las actividades de exploración y extracción del petróleo y demás hidrocarburos mediante asignaciones a empresas públicas del Estado o a través de contratos con éstas o con particulares, en los términos de la Ley Reglamentaria. Para cumplir con el objeto de dichas asignaciones o contratos las empresas públicas del Estado podrán contratar con particulares. En cualquier caso, los hidrocarburos en el subsuelo son propiedad de la Nación y así deberá afirmarse en las asignaciones o contratos.
 
@@ -1358,9 +1330,9 @@ No constituyen monopolios las funciones que el Estado ejerza de manera exclusiva
 
 *Párrafo adicionado DOF 20-08-1993. Fe de erratas DOF 23-08-1993*
 
-El Poder Ejecutivo contará con los órganos reguladores coordinados en materia energética, denominados Comisión Nacional de Hidrocarburos y Comisión Reguladora de Energía, en los términos que determine la ley.
+El Poder Ejecutivo Federal, por conducto de la dependencia encargada de conducir y supervisar la política energética del país, contará con las atribuciones para llevar a cabo la regulación técnica y económica; así como la facultad sancionadora en materia energética y de hidrocarburos, en los términos que determine la ley.
 
-*Párrafo adicionado DOF 20-12-2013*
+*Párrafo adicionado DOF 20-12-2013. Reformado DOF 20-12-2024*
 
 No constituyen monopolios las asociaciones de trabajadores formadas para proteger sus propios intereses y las asociaciones o sociedades cooperativas de productores para que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan o que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo vigilancia o amparo del Gobierno Federal o de las entidades federativas, y previa autorización que al efecto se obtenga de las Legislaturas respectivas en cada caso. Las mismas Legislaturas, por sí o a propuesta del Ejecutivo podrán derogar, cuando así lo exijan las necesidades públicas, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
 
@@ -1374,123 +1346,45 @@ La sujeción a regímenes de servicio público se apegará a lo dispuesto por la
 
 Se podrán otorgar subsidios a actividades prioritarias, cuando sean generales, de carácter temporal y no afecten sustancialmente las finanzas de la Nación. El Estado vigilará su aplicación y evaluará los resultados de ésta.
 
-El Estado contará con una Comisión Federal de Competencia Económica, que será un órgano autónomo, con personalidad jurídica y patrimonio propio, que tendrá por objeto garantizar la libre competencia y concurrencia, así como prevenir, investigar y combatir los monopolios, las prácticas monopólicas, las concentraciones y demás restricciones al funcionamiento eficiente de los mercados, en los términos que establecen esta Constitución y las leyes. La Comisión contará con las facultades necesarias para cumplir eficazmente con su objeto, entre ellas las de ordenar medidas para eliminar las barreras a la competencia y la libre concurrencia; regular el acceso a insumos esenciales, y ordenar la desincorporación de activos, derechos, partes sociales o acciones de los agentes económicos, en las proporciones necesarias para eliminar efectos anticompetitivos.
+El Ejecutivo Federal, a través de la autoridad en materia de libre competencia y concurrencia deberá prevenir, investigar y combatir los monopolios, las prácticas monopólicas, las concentraciones y demás restricciones al funcionamiento eficiente de los mercados, en los términos que establecen esta Constitución y las leyes. Para tal efecto, contará con las facultades necesarias para cumplir con dicho objeto, tales como ordenar medidas a fin de eliminar las barreras a la competencia y la libre concurrencia; regular el acceso a insumos esenciales, y ordenar la desincorporación de activos, derechos, partes sociales o acciones de los agentes económicos, en las proporciones necesarias para eliminar efectos anticompetitivos.
 
-*Párrafo adicionado DOF 11-06-2013*
+*Párrafo adicionado DOF 11-06-2013. Reformado DOF 20-12-2024*
 
-El Instituto Federal de Telecomunicaciones es un órgano autónomo, con personalidad jurídica y patrimonio propio, que tiene por objeto el desarrollo eficiente de la radiodifusión y las telecomunicaciones, conforme a lo dispuesto en esta Constitución y en los términos que fijen las leyes. Para tal efecto, tendrá a su cargo la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico, las redes y la prestación de los servicios de radiodifusión y telecomunicaciones, así como del acceso a infraestructura activa, pasiva y otros insumos esenciales, garantizando lo establecido en los artículos 6o. y 7o. de esta Constitución.
+El Ejecutivo Federal, a través de la dependencia encargada de elaborar y conducir las políticas de telecomunicaciones y radiodifusión garantizará el desarrollo eficiente de la radiodifusión y las telecomunicaciones, conforme a lo dispuesto en esta Constitución y en los términos que fijen las leyes. Para tal efecto, tendrá a su cargo la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico, las redes y la prestación de los servicios de radiodifusión y telecomunicaciones, así como del acceso a infraestructura activa, pasiva y otros insumos esenciales, garantizando lo establecido en los artículos 6o. y 7o. de esta Constitución. La ley establecerá los principios, las acciones de coordinación y distribuirá competencias entre las autoridades de los tres niveles de gobierno a fin de homologar los trámites para el despliegue de infraestructura de telecomunicaciones y radiodifusión en todo el país.
 
-*Párrafo adicionado DOF 11-06-2013*
+*Párrafo adicionado DOF 11-06-2013. Reformado DOF 20-12-2024*
 
-El Instituto Federal de Telecomunicaciones será también la autoridad en materia de competencia económica de los sectores de radiodifusión y telecomunicaciones, por lo que en éstos ejercerá en forma exclusiva las facultades que este artículo y las leyes establecen para la Comisión Federal de Competencia Económica y regulará de forma asimétrica a los participantes en estos mercados con el objeto de eliminar eficazmente las barreras a la competencia y la libre concurrencia; impondrá límites a la concentración nacional y regional de frecuencias, al concesionamiento y a la propiedad cruzada que controle varios medios de comunicación que sean concesionarios de radiodifusión y telecomunicaciones que sirvan a un mismo mercado o zona de cobertura geográfica, y ordenará la desincorporación de activos, derechos o partes necesarias para asegurar el cumplimiento de estos límites, garantizando lo dispuesto en los artículos 6o. y 7o. de esta Constitución.
+El Ejecutivo Federal, a través de la autoridad en materia de libre competencia y concurrencia, ejercerá en forma exclusiva las facultades de competencia económica para regular de forma asimétrica a los participantes en los mercados de telecomunicaciones y radiodifusión con el objeto de eliminar eficazmente las barreras a la competencia y la libre concurrencia; impondrá límites a la concentración nacional y regional de frecuencias, al concesionamiento y a la propiedad cruzada que controle varios medios de comunicación que sean concesionarios de radiodifusión y telecomunicaciones que sirvan a un mismo mercado o zona de cobertura geográfica, y ordenará la desincorporación de activos, derechos o partes necesarias para asegurar el cumplimiento de estos límites, garantizando lo dispuesto en los artículos 6o. y 7o. de esta Constitución.
 
-*Párrafo adicionado DOF 11-06-2013*
+*Párrafo adicionado DOF 11-06-2013. Reformado DOF 20-12-2024*
 
-Corresponde al Instituto, el otorgamiento, la revocación, así como la autorización de cesiones o cambios de control accionario, titularidad u operación de sociedades relacionadas con concesiones en materia de radiodifusión y telecomunicaciones. El Instituto notificará al Secretario del ramo previo a su determinación, quien podrá emitir una opinión técnica. Las concesiones podrán ser para uso comercial, público, privado y social que incluyen las comunitarias y las indígenas, las que se sujetarán, de acuerdo con sus fines, a los principios establecidos en los artículos 2o., 3o., 6o. y 7o. de esta Constitución. El Instituto fijará el monto de las contraprestaciones por el otorgamiento de las concesiones, así como por la autorización de servicios vinculados a éstas, previa opinión de la autoridad hacendaria. Las opiniones a que se refiere este párrafo no serán vinculantes y deberán emitirse en un plazo no mayor de treinta días; transcurrido dicho plazo sin que se emitan las opiniones, el Instituto continuará los trámites correspondientes.
+Corresponde al Ejecutivo Federal a través de la dependencia encargada de elaborar y conducir las políticas de telecomunicaciones y radiodifusión, el otorgamiento, la revocación, así como la autorización de cesiones o cambios de control accionario, titularidad u operación de sociedades relacionadas con concesiones en materia de radiodifusión y telecomunicaciones. Las concesiones podrán ser para uso comercial, público, privado y social que incluyen las comunitarias y las indígenas, las que se sujetarán, de acuerdo con sus fines, a los principios establecidos en los artículos 2o., 3o., 6o. y 7o. de esta Constitución. El Ejecutivo Federal fijará el monto de las contraprestaciones por el otorgamiento de las concesiones, así como por la autorización de servicios vinculados a éstas.
 
-*Párrafo adicionado DOF 11-06-2013*
+*Párrafo adicionado DOF 11-06-2013. Reformado DOF 20-12-2024*
 
-Las concesiones del espectro radioeléctrico serán otorgadas mediante licitación pública, a fin de asegurar la máxima concurrencia, previniendo fenómenos de concentración que contraríen el interés público y asegurando el menor precio de los servicios al usuario final; en ningún caso el factor determinante para definir al ganador de la licitación será meramente económico. Las concesiones para uso público y social serán sin fines de lucro y se otorgarán bajo el mecanismo de asignación directa conforme a lo previsto por la ley y en condiciones que garanticen la transparencia del procedimiento. El Instituto Federal de Telecomunicaciones llevará un registro público de concesiones. La ley establecerá un esquema efectivo de sanciones que señale como causal de revocación del título de concesión, entre otras, el incumplimiento de las resoluciones que hayan quedado firmes en casos de conductas vinculadas con prácticas monopólicas. En la revocación de las concesiones, el Instituto dará aviso previo al Ejecutivo Federal a fin de que éste ejerza, en su caso, las atribuciones necesarias que garanticen la continuidad en la prestación del servicio.
+Las concesiones del espectro radioeléctrico serán otorgadas mediante licitación pública, a fin de asegurar la máxima concurrencia, previniendo fenómenos de concentración que contraríen el interés público y asegurando el menor precio de los servicios al usuario final; en ningún caso el factor determinante para definir al ganador de la licitación será meramente económico. Las concesiones para uso público y social serán sin fines de lucro y se otorgarán bajo el mecanismo de asignación directa conforme a lo previsto por la ley y en condiciones que garanticen la transparencia del procedimiento. Para ese efecto habrá un registro público de concesiones y un Sistema Nacional de Información de Infraestructura a cargo de la dependencia responsable de elaborar y conducir las políticas de telecomunicaciones y radiodifusión del Gobierno Federal. La ley establecerá un esquema efectivo de sanciones que señale como causal de revocación del título de concesión el incumplimiento de las resoluciones que hayan quedado firmes en casos de conductas vinculadas con prácticas monopólicas. En la revocación de las concesiones, el Ejecutivo Federal ejercerá, en su caso, las atribuciones necesarias que garanticen la continuidad en la prestación del servicio.
 
-*Párrafo adicionado DOF 11-06-2013*
+*Párrafo adicionado DOF 11-06-2013. Reformado DOF 20-12-2024*
 
-El Instituto Federal de Telecomunicaciones garantizará que el Gobierno Federal cuente con las concesiones necesarias para el ejercicio de sus funciones.
+El Gobierno Federal contará con las concesiones, autorizaciones y asignaciones en radiodifusión y telecomunicaciones, necesarias para el ejercicio de sus funciones.
 
-*Párrafo adicionado DOF 11-06-2013*
+*Párrafo adicionado DOF 11-06-2013. Reformado DOF 20-12-2024*
 
-La Comisión Federal de Competencia Económica y el Instituto Federal de Telecomunicaciones, serán independientes en sus decisiones y funcionamiento, profesionales en su desempeño e imparciales en sus actuaciones, y se regirán conforme a lo siguiente:
+El Ejecutivo Federal proveerá en la esfera administrativa las disposiciones de carácter general para regular las telecomunicaciones y radiodifusión, así como la materia de competencia económica.
 
-I. Dictarán sus resoluciones con plena independencia;
+*Párrafo adicionado DOF 20-12-2024*
 
-II. Ejercerán su presupuesto de forma autónoma. La Cámara de Diputados garantizará la suficiencia presupuestal a fin de permitirles el ejercicio eficaz y oportuno de sus competencias;
+Las normas generales y actos emitidos en materia de libre competencia y concurrencia, así como en materia de telecomunicaciones y radiodifusión, en cumplimiento de las facultades atribuidas en los párrafos décimo quinto al décimo noveno de este artículo, o las omisiones en las que incurran, podrán ser impugnados únicamente mediante el juicio de amparo indirecto y no serán objeto de suspensión. Solamente en los casos en que se impongan multas o la desincorporación de activos, derechos, partes sociales o acciones, éstas se ejecutarán hasta que se resuelva el juicio que, en su caso, se promueva. Cuando se trate de resoluciones emanadas de un procedimiento seguido en forma de juicio sólo podrá impugnarse la que ponga fin al mismo por violaciones cometidas en la resolución o durante el procedimiento; las normas generales aplicadas durante el procedimiento sólo podrán reclamarse en el amparo promovido contra la resolución referida. Los juicios de amparo serán sustanciados por jueces y tribunales especializados en los términos del artículo 94 de esta Constitución. En ningún caso se admitirán recursos ordinarios o constitucionales contra actos intraprocesales.
 
-III. Emitirán su propio estatuto orgánico, mediante un sistema de votación por mayoría calificada;
-
-IV. Podrán emitir disposiciones administrativas de carácter general exclusivamente para el cumplimiento de su función regulatoria en el sector de su competencia;
-
-V. Las leyes garantizarán, dentro de cada organismo, la separación entre la autoridad que conoce de la etapa de investigación y la que resuelve en los procedimientos que se sustancien en forma de juicio;
-
-VI. Los órganos de gobierno deberán cumplir con los principios de transparencia y acceso a la información. Deliberarán en forma colegiada y decidirán los asuntos por mayoría de votos; sus sesiones, acuerdos y resoluciones serán de carácter público con las excepciones que determine la ley;
-
-VII. Las normas generales, actos u omisiones de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones podrán ser impugnados únicamente mediante el juicio de amparo indirecto y no serán objeto de suspensión. Solamente en los casos en que la Comisión Federal de Competencia Económica imponga multas o la desincorporación de activos, derechos, partes sociales o acciones, éstas se ejecutarán hasta que se resuelva el juicio de amparo que, en su caso, se promueva. Cuando se trate de resoluciones de dichos organismos emanadas de un procedimiento seguido en forma de juicio sólo podrá impugnarse la que ponga fin al mismo por violaciones cometidas en la resolución o durante el procedimiento; las normas generales aplicadas durante el procedimiento sólo podrán reclamarse en el amparo promovido contra la resolución referida. Los juicios de amparo serán sustanciados por jueces y tribunales especializados en los términos del artículo 94 de esta Constitución. En ningún caso se admitirán recursos ordinarios o constitucionales contra actos intraprocesales;
-
-VIII. Los titulares de los órganos presentarán anualmente un programa de trabajo y trimestralmente un informe de actividades a los Poderes Ejecutivo y Legislativo de la Unión; comparecerán ante la Cámara de Senadores anualmente y ante las Cámaras del Congreso en términos del artículo 93 de esta Constitución. El Ejecutivo Federal podrá solicitar a cualquiera de las Cámaras la comparecencia de los titulares ante éstas;
-
-IX. Las leyes promoverán para estos órganos la transparencia gubernamental bajo principios de gobierno digital y datos abiertos;
-
-X. La retribución que perciban los Comisionados deberá ajustarse a lo previsto en el artículo 127 de esta Constitución;
-
-XI. Los comisionados de los órganos podrán ser removidos de su cargo por las dos terceras partes de los miembros presentes del Senado de la República, por falta grave en el ejercicio de sus funciones, en los términos que disponga la ley, y
-
-XII. Cada órgano contará con un órgano interno de control, cuyo titular será designado por las dos terceras partes de los miembros presentes de la Cámara de Diputados, en los términos que disponga la ley.
-
-*Fracción reformada DOF 27-05-2015*
-
-*Párrafo con fracciones adicionado DOF 11-06-2013*
-
-Los órganos de gobierno, tanto de la Comisión Federal de Competencia Económica como del Instituto Federal de Telecomunicaciones se integrarán por siete Comisionados, incluyendo el Comisionado Presidente, designados en forma escalonada a propuesta del Ejecutivo Federal con la ratificación del Senado.
-
-*Párrafo adicionado DOF 11-06-2013*
-
-El Presidente de cada uno de los órganos será nombrado por la Cámara de Senadores de entre los comisionados, por el voto de las dos terceras partes de los miembros presentes, por un periodo de cuatro años, renovable por una sola ocasión. Cuando la designación recaiga en un comisionado que concluya su encargo antes de dicho periodo, desempeñará la presidencia sólo por el tiempo que falte para concluir su encargo como comisionado.
-
-*Párrafo adicionado DOF 11-06-2013*
-
-Los comisionados deberán cumplir los siguientes requisitos:
-
-I. Ser ciudadano mexicano por nacimiento y estar en pleno goce de sus derechos civiles y políticos;
-
-II. Ser mayor de treinta y cinco años;
-
-III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
-
-IV. Poseer título profesional;
-
-V. Haberse desempeñado, cuando menos tres años, en forma destacada en actividades profesionales, de servicio público o académicas sustancialmente relacionadas con materias afines a las de competencia económica, radiodifusión o telecomunicaciones, según corresponda;
-
-VI. Acreditar, en los términos de este precepto, los conocimientos técnicos necesarios para el ejercicio del cargo;
-
-VII. No haber sido Secretario de Estado, Fiscal General de la República, senador, diputado federal o local, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, durante el año previo a su nombramiento, y
-
-*Fracción reformada DOF 10-02-2014, 29-01-2016*
-
-VIII. En la Comisión Federal de Competencia Económica, no haber ocupado, en los últimos tres años, ningún empleo, cargo o función directiva en las empresas que hayan estado sujetas a alguno de los procedimientos sancionatorios que sustancia el citado órgano. En el Instituto Federal de Telecomunicaciones no haber ocupado, en los últimos tres años, ningún empleo, cargo o función directiva en las empresas de los concesionarios comerciales o privados o de las entidades a ellos relacionadas, sujetas a la regulación del Instituto.
-
-*Párrafo con fracciones adicionado DOF 11-06-2013*
-
-Los Comisionados se abstendrán de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes; estarán impedidos para conocer asuntos en que tengan interés directo o indirecto, en los términos que la ley determine, y serán sujetos del régimen de responsabilidades del Título Cuarto de esta Constitución y de juicio político. La ley regulará las modalidades conforme a las cuales los Comisionados podrán establecer contacto para tratar asuntos de su competencia con personas que representen los intereses de los agentes económicos regulados.
-
-*Párrafo adicionado DOF 11-06-2013*
-
-Los Comisionados durarán en su encargo nueve años y por ningún motivo podrán desempeñar nuevamente ese cargo. En caso de falta absoluta de algún comisionado, se procederá a la designación correspondiente, a través del procedimiento previsto en este artículo y a fin de que el sustituto concluya el periodo respectivo.
-
-*Párrafo adicionado DOF 11-06-2013*
-
-Los aspirantes a ser designados como Comisionados acreditarán el cumplimiento de los requisitos señalados en los numerales anteriores, ante un Comité de Evaluación integrado por los titulares del Banco de México, el Instituto Nacional para la Evaluación de la Educación y el Instituto Nacional de Estadística y Geografía. Para tales efectos, el Comité de Evaluación instalará sus sesiones cada que tenga lugar una vacante de comisionado, decidirá por mayoría de votos y será presidido por el titular de la entidad con mayor antigüedad en el cargo, quien tendrá voto de calidad.
-
-*Párrafo adicionado DOF 11-06-2013*
-
-El Comité emitirá una convocatoria pública para cubrir la vacante. Verificará el cumplimiento, por parte de los aspirantes, de los requisitos contenidos en el presente artículo y, a quienes los hayan satisfecho, aplicará un examen de conocimientos en la materia; el procedimiento deberá observar los principios de transparencia, publicidad y máxima concurrencia.
-
-*Párrafo adicionado DOF 11-06-2013*
-
-Para la formulación del examen de conocimientos, el Comité de Evaluación deberá considerar la opinión de cuando menos dos instituciones de educación superior y seguirá las mejores prácticas en la materia.
-
-*Párrafo adicionado DOF 11-06-2013*
-
-El Comité de Evaluación, por cada vacante, enviará al Ejecutivo una lista con un mínimo de tres y un máximo de cinco aspirantes, que hubieran obtenido las calificaciones aprobatorias más altas. En el caso de no completarse el número mínimo de aspirantes se emitirá una nueva convocatoria. El Ejecutivo seleccionará de entre esos aspirantes, al candidato que propondrá para su ratificación al Senado.
-
-*Párrafo adicionado DOF 11-06-2013*
-
-La ratificación se hará por el voto de las dos terceras partes de los miembros del Senado presentes, dentro del plazo improrrogable de treinta días naturales a partir de la presentación de la propuesta; en los recesos, la Comisión Permanente convocará desde luego al Senado. En caso de que la Cámara de Senadores rechace al candidato propuesto por el Ejecutivo, el Presidente de la República someterá una nueva propuesta, en los términos del párrafo anterior. Este procedimiento se repetirá las veces que sea necesario si se producen nuevos rechazos hasta que sólo quede un aspirante aprobado por el Comité de Evaluación, quien será designado comisionado directamente por el Ejecutivo.
-
-*Párrafo adicionado DOF 11-06-2013*
-
-Todos los actos del proceso de selección y designación de los Comisionados son inatacables.
-
-*Párrafo adicionado DOF 11-06-2013*
+*Párrafo adicionado DOF 20-12-2024*
 
 *Reforma DOF 27-06-1990: Derogó del artículo el entonces párrafo quinto*
+
+*Reforma DOF 20-12-2024: Derogó del artículo el entonces párrafo vigésimo primero (antes adicionado con fracciones DOF 11-06-2013 y reformado DOF 27-05-2015)*
+
+*Reforma DOF 20-12-2024: Derogó del artículo los entonces párrafos vigésimo segundo, vigésimo tercero y vigésimo quinto a trigésimo segundo (antes adicionados DOF 11-06-2013)*
+
+*Reforma DOF 20-12-2024: Derogó del artículo el entonces párrafo vigésimo cuarto (antes adicionado con fracciones DOF 11-06-2013 y reformado DOF 10-02-2014, 29-01-2016)*
 
 *Artículo reformado DOF 17-11-1982, 03-02-1983*
 
@@ -1844,6 +1738,10 @@ Los partidos políticos nacionales tendrán derecho a participar en las eleccion
 
 *Párrafo adicionado DOF 10-02-2014*
 
+El Instituto Nacional Electoral tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales a cargo de los partidos políticos; también conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los partidos políticos en los términos que establezca la ley.
+
+*Párrafo adicionado DOF 20-12-2024*
+
 II. La ley garantizará que los partidos políticos nacionales cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
 El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgará conforme a lo siguiente y a lo que disponga la ley:
@@ -1952,7 +1850,9 @@ El Instituto contará con una oficialía electoral investida de fé pública par
 
 El consejero Presidente y los consejeros electorales durarán en su cargo nueve años y no podrán ser reelectos. Serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, mediante el siguiente procedimiento:
 
-a) La Cámara de Diputados emitirá el acuerdo para la elección del consejero Presidente y los consejeros electorales, que contendrá la convocatoria pública, las etapas completas para el procedimiento, sus fechas límites y plazos improrrogables, así como el proceso para la designación de un comité técnico de evaluación, integrado por siete personas de reconocido prestigio, de las cuales tres serán nombradas por el órgano de dirección política de la Cámara de Diputados, dos por la Comisión Nacional de los Derechos Humanos y dos por el organismo garante establecido en el artículo 6o. de esta Constitución;
+a) La Cámara de Diputados emitirá el acuerdo para la elección del consejero Presidente y los consejeros electorales, que contendrá la convocatoria pública, las etapas completas para el procedimiento, sus fechas límites y plazos improrrogables, así como el proceso para la designación de un comité técnico de evaluación, integrado por cinco personas de reconocido prestigio, de las cuales tres serán nombradas por el órgano de dirección política de la Cámara de Diputados y dos por la Comisión Nacional de los Derechos Humanos;
+
+*Inciso reformado DOF 20-12-2024*
 
 b) El comité recibirá la lista completa de los aspirantes que concurran a la convocatoria pública, evaluará el cumplimiento de los requisitos constitucionales y legales, así como su idoneidad para desempeñar el cargo; seleccionará a los mejor evaluados en una proporción de cinco personas por cada cargo vacante, y remitirá la relación correspondiente al órgano de dirección política de la Cámara de Diputados;
 
@@ -2928,9 +2828,9 @@ Además, aprobar los tratados internacionales y convenciones diplomáticas que e
 
 *Fracción reformada DOF 06-12-1977, 12-02-2007*
 
-II. Ratificar los nombramientos que el mismo funcionario haga de los Secretarios de Estado, en caso de que éste opte por un gobierno de coalición, con excepción de los titulares de los ramos de Defensa Nacional y Marina; del Secretario responsable del control interno del Ejecutivo Federal; del Secretario de Relaciones; de los embajadores y cónsules generales; de los empleados superiores del ramo de Relaciones; de los integrantes de los órganos colegiados encargados de la regulación en materia de telecomunicaciones, energía, competencia económica, y coroneles y demás jefes superiores del Ejército, Armada, Fuerza Aérea y Guardia Nacional, en los términos que la ley disponga;
+II. Ratificar los nombramientos que el mismo funcionario haga de los Secretarios de Estado, en caso de que éste opte por un gobierno de coalición, con excepción de los titulares de los ramos de Defensa Nacional y Marina; del Secretario responsable del control interno del Ejecutivo Federal; del Secretario de Relaciones Exteriores; de los embajadores y cónsules generales; de los empleados superiores del ramo de Relaciones Exteriores, y coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga;
 
-*Fracción reformada DOF 10-02-1944, 31-12-1994, 09-08-2012, 10-02-2014, 27-05-2015, 30-09-2024*
+*Fracción reformada DOF 10-02-1944, 31-12-1994, 09-08-2012, 10-02-2014, 27-05-2015, 30-09-2024, 20-12-2024*
 
 III. Autorizarlo también para que pueda permitir la salida de tropas nacionales fuera de los límites del País, el paso de tropas extranjeras por el territorio nacional y la estación de escuadras de otra potencia, por más de un mes, en aguas mexicanas.
 
@@ -2970,9 +2870,9 @@ XI. Analizar y aprobar la Estrategia Nacional de Seguridad Pública, en el plazo
 
 *Fracción adicionada DOF 08-12-2005. Derogada DOF 15-10-2012. Adicionada DOF 10-02-2014. Reformada DOF 26-03-2019*
 
-XII. Nombrar a los comisionados del organismo garante que establece el artículo 6o. de esta Constitución, en los términos establecidos por la misma y las disposiciones previstas en la ley; y
+XII. Se deroga
 
-*Fracción adicionada DOF 07-02-2014*
+*Fracción adicionada DOF 07-02-2014. Derogada DOF 20-12-2024*
 
 XIII. Integrar la lista de candidatos a Fiscal General de la República; nombrar a dicho servidor público, y formular objeción a la remoción que del mismo haga el Ejecutivo Federal, de conformidad con el artículo 102, Apartado A, de esta Constitución, y
 
@@ -3026,9 +2926,9 @@ VI. Conceder licencia hasta por sesenta días naturales al Presidente de la Rep�
 
 *Fracción reformada DOF 09-08-2012*
 
-VII. Ratificar los nombramientos que el Presidente haga de embajadores, cónsules generales, empleados superiores de Hacienda, integrantes del órgano colegiado encargado de la regulación en materia de energía, coroneles y demás jefes superiores del Ejército, Armada, Fuerza Aérea y Guardia Nacional, en los términos que la ley disponga, y
+VII. Ratificar los nombramientos que el Presidente haga de embajadores, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga, y
 
-*Fracción reformada DOF 09-08-2012, 11-06-2013, 30-09-2024*
+*Fracción reformada DOF 09-08-2012, 11-06-2013, 30-09-2024, 20-12-2024*
 
 VIII. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores.
 
@@ -3252,9 +3152,9 @@ En los supuestos de la ratificación de los Secretarios de Relaciones y de Hacie
 
 *Fracción reformada DOF 08-10-1974, 10-08-1987, 25-10-1993, 31-12-1994, 09-08-2012*
 
-III. Nombrar, con aprobación del Senado, a los embajadores, cónsules generales, empleados superiores de Hacienda y a los integrantes de los órganos colegiados encargados de la regulación en materia de telecomunicaciones, energía y competencia económica;
+III. Nombrar, con aprobación del Senado, a los embajadores, cónsules generales y empleados superiores de Hacienda;
 
-*Fracción reformada DOF 09-08-2012*
+*Fracción reformada DOF 09-08-2012, 20-12-2024*
 
 IV. Nombrar, con aprobación del Senado, a los Coroneles y demás oficiales superiores del Ejército, Armada, Fuerza Aérea y Guardia Nacional;
 
@@ -3310,9 +3210,9 @@ XVIII. Se deroga
 
 *Fracción adicionada DOF 20-08-1928. Reformada DOF 31-12-1994. Derogada DOF 15-09-2024*
 
-XIX. Objetar los nombramientos de los comisionados del organismo garante que establece el artículo 6o. de esta Constitución hechos por el Senado de la República, en los términos establecidos en esta Constitución y en la ley;
+XIX. Se deroga
 
-*Fracción adicionada DOF 20-08-1928. Derogada DOF 28-12-1982. Adicionada DOF 07-02-2014*
+*Fracción adicionada DOF 20-08-1928. Derogada DOF 28-12-1982. Adicionada DOF 07-02-2014. Derogada DOF 20-12-2024*
 
 XX. Las demás que le confiere expresamente esta Constitución.
 
@@ -3936,9 +3836,9 @@ g) La Comisión Nacional de los Derechos Humanos, en contra de leyes de carácte
 
 *Inciso adicionado DOF 14-09-2006. Reformado DOF 10-06-2011, 29-01-2016*
 
-h) El organismo garante que establece el artículo 6° de esta Constitución en contra de leyes de carácter federal y local, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren el derecho al acceso a la información pública y la protección de datos personales. Asimismo, los organismos garantes equivalentes en las entidades federativas, en contra de leyes expedidas por las Legislaturas locales; e
+h) Se deroga
 
-*Inciso adicionado DOF 07-02-2014. Reformado DOF 29-01-2016*
+*Inciso adicionado DOF 07-02-2014. Reformado DOF 29-01-2016. Derogado DOF 20-12-2024*
 
 i) El Fiscal General de la República respecto de leyes federales y de las entidades federativas, en materia penal y procesal penal, así como las relacionadas con el ámbito de sus funciones;
 
@@ -4286,9 +4186,9 @@ Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido 
 
 El Sistema Nacional Anticorrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior de la Federación; de la Fiscalía Especializada en Combate a la Corrupción; de la secretaría del Ejecutivo Federal responsable del control interno; por el presidente del Tribunal Federal de Justicia Administrativa; el presidente del organismo garante que establece el artículo 6o. de esta Constitución; así como por un representante del Tribunal de Disciplina Judicial y otro del Comité de Participación Ciudadana;
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior de la Federación; de la Fiscalía Especializada en Combate a la Corrupción; de la secretaría del Ejecutivo Federal responsable del control interno; por el presidente del Tribunal Federal de Justicia Administrativa; así como por un representante del Tribunal de Disciplina Judicial y otro del Comité de Participación Ciudadana;
 
-*Fracción reformada DOF 15-09-2024*
+*Fracción reformada DOF 15-09-2024, 20-12-2024*
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
 
@@ -4676,9 +4576,9 @@ Los Estados estarán facultados para celebrar esos convenios con sus Municipios,
 
 *Fracción recorrida DOF 22-08-1996*
 
-VIII. Las Constituciones de los Estados establecerán organismos autónomos, especializados, imparciales y colegiados, responsables de garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo 6o. de esta Constitución y la ley general que emita el Congreso de la Unión para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
+VIII. Las Constituciones de los Estados en términos de la ley general, definirán la competencia de los órganos encargados de la contraloría u homólogos de los poderes ejecutivo, legislativo y judicial y demás sujetos obligados responsables de garantizar el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo 6o. de esta Constitución y la ley general que emita el Congreso de la Unión para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
 
-*Fracción adicionada DOF 07-02-2014*
+*Fracción adicionada DOF 07-02-2014. Reformada DOF 20-12-2024*
 
 IX. Las Constituciones de los Estados garantizarán que las funciones de procuración de justicia se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo y responsabilidad, así como con perspectiva de género y respeto a los derechos humanos.
 
@@ -5068,6 +4968,10 @@ La ley determinará el procedimiento que se deberá observar en la instancia con
 
 En el orden federal, la función conciliatoria estará a cargo de un organismo descentralizado. Al organismo descentralizado le corresponderá además, el registro de todos los contratos colectivos de trabajo y las organizaciones sindicales, así como todos los procesos administrativos relacionados.
 
+El organismo descentralizado federal también tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública de los sindicatos y conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los mismos.
+
+*Párrafo adicionado DOF 20-12-2024*
+
 El organismo descentralizado a que se refiere el párrafo anterior contará con personalidad jurídica y patrimonio propios, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en la ley de la materia.
 
 Para la designación del titular del organismo descentralizado a que se refiere el párrafo anterior, el Ejecutivo Federal someterá una terna a consideración de la Cámara de Senadores, la cual previa comparecencia de las personas propuestas, realizará la designación correspondiente. La designación se hará por el voto de las dos terceras partes de los integrantes de la Cámara de Senadores presentes, dentro del improrrogable plazo de treinta días. Si la Cámara de Senadores no resolviere dentro de dicho plazo, ocupará el cargo aquél que, dentro de dicha terna, designe el Ejecutivo Federal.
@@ -5276,11 +5180,13 @@ Las aportaciones que se hagan a dicho fondo serán enteradas al organismo encarg
 
 *Inciso reformado DOF 10-11-1972*
 
-XII. Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal Federal de Conciliación y Arbitraje integrado según lo prevenido en la ley reglamentaria.
+XII. Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal Federal de Conciliación y Arbitraje integrado según lo prevenido en la ley reglamentaria. Asimismo, conocerá de los asuntos relacionados con el acceso a la información pública de los sindicatos de los trabajadores al servicio del Estado y de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los mismos.
+
+*Párrafo reformado DOF 20-12-2024*
 
 Los conflictos entre el Poder Judicial de la Federación y sus servidores, así como los que se susciten entre la Suprema Corte de Justicia y sus empleados, serán resueltos por el Tribunal de Disciplina Judicial.
 
-*Párrafo reformado DOF 31-12-1994, 15-09-2024*
+*Párrafo reformado DOF 31-12-1994, 15-09-2024. Publicado sin cambios DOF 20-12-2024*
 
 XIII. Los militares, marinos, integrantes de la Guardia Nacional, personal del servicio exterior, agentes del Ministerio Público, peritos y los miembros de las instituciones policiales, se regirán por sus propias leyes.
 
@@ -5425,6 +5331,10 @@ Los recursos económicos de que dispongan la Federación, las entidades federati
 Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas que establezcan, respectivamente, la Federación y las entidades federativas, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo precedente. Lo anterior, sin menoscabo de lo dispuesto en los artículos 26, Apartado C, 74, fracción VI y 79 de esta Constitución.
 
 *Párrafo adicionado DOF 07-05-2008. Reformado DOF 29-01-2016*
+
+Los entes públicos ajustarán sus estructuras orgánicas y ocupacionales de conformidad con los principios de racionalidad y austeridad republicana, eliminando todo tipo de duplicidades funcionales u organizacionales, atendiendo a las necesidades de mejora y modernización de la gestión pública.
+
+*Párrafo adicionado DOF 20-12-2024*
 
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
@@ -9853,3 +9763,129 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 26 de noviembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica.
+
+*Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2024*
+
+**Artículo Único.-** Se reforman los artículos 6o., párrafo tercero y las fracciones II, párrafo primero, IV y los párrafos primero, segundo y tercero de la fracción VIII del Apartado A; 27, párrafo sexto; 28, párrafos noveno, y del décimo quinto al vigésimo; 41, fracción V, Apartado A, inciso a); 76, fracción II; 78, fracción VII; 89, fracción III; 113, fracción I; 116, fracción VIII y, 123, Apartado B, fracción XII, párrafo primero; se adicionan un párrafo segundo a la fracción II del Apartado A del artículo 6o.; un párrafo tercero, recorriéndose por su orden los siguientes, al Apartado B del artículo 26; los párrafos vigésimo primero y vigésimo segundo, recorriéndose por su orden los siguientes, al artículo 28; un párrafo quinto a la fracción I del artículo 41; un párrafo quinto, recorriéndose por su orden los siguientes, a la fracción XX del Apartado A del artículo 123; y un párrafo tercero, recorriéndose por su orden los siguientes, al artículo 134; y se derogan la fracción IX del párrafo décimo segundo del artículo 3o.; el cuarto, quinto, y del séptimo al décimo sexto párrafos de la fracción VIII del Apartado A del artículo 6o.; el Apartado C del artículo 26; los actuales párrafos vigésimo primero al trigésimo segundo del artículo 28; la fracción XII del artículo 76; la fracción XIX del artículo 89 y el inciso h) de la fracción II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el artículo Décimo transitorio.
+
+**Segundo.-** El Congreso de la Unión tendrá un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones necesarias a las leyes que correspondan para dar cumplimiento a éste, salvo lo dispuesto en el artículo Décimo transitorio.
+
+Respecto a lo dispuesto en el párrafo tercero del artículo 134 Constitucional del presente Decreto, las adecuaciones legislativas que se realicen deberán considerar la eliminación de los organismos, unidades administrativas o estructuras que representen duplicidad de funciones, así como la integración de los órganos desconcentrados y descentralizados o unidades administrativas en las dependencias de la administración pública centralizada que puedan asumir su competencia.
+
+El Ejecutivo Federal deberá emitir los decretos de extinción correspondientes a efecto de dar cumplimiento al artículo 134, párrafo tercero, del presente Decreto.
+
+**Tercero.-** Las economías y ahorros que se generen con la extinción de los entes públicos materia del presente Decreto se destinarán al Fondo de Pensiones para el Bienestar en términos de la legislación aplicable.
+
+**Cuarto.-** Las Legislaturas de las entidades federativas, en el ámbito de su competencia, tendrán el plazo máximo de noventa días naturales contados a partir de la expedición de la legislación a la que alude el artículo Segundo transitorio para armonizar su marco jurídico en materia de acceso a la información pública y protección de datos personales, conforme al presente Decreto.
+
+**Quinto.-** Una vez que entre en vigor la legislación a la que hace referencia el artículo Segundo transitorio, se entenderán extintos los entes públicos a los que hace referencia el presente Decreto, salvo lo dispuesto en los artículos Décimo y Décimo Primero transitorios.
+
+Los actos jurídicos emitidos por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, los Organismos garantes de las entidades federativas, la Comisión Nacional de Hidrocarburos, la Comisión Reguladora de Energía, con anterioridad a que entre en vigor la legislación secundaria, surtirán todos sus efectos legales.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las instituciones que asuman las funciones de los entes públicos que se extinguen, según corresponda, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+Los recursos materiales, así como los registros, padrones, plataformas y sistemas electrónicos de los entes públicos que se extinguen conforme al presente artículo transitorio pasarán a formar parte de las dependencias del Ejecutivo Federal o al Instituto Nacional de Estadística y Geografía, según corresponda, en los términos del presente Decreto y de la legislación secundaria que al efecto se emita.
+
+**Sexto.-** Los Comisionados de la Comisión Reguladora de Energía y de la Comisión Nacional de Hidrocarburos; del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y de los Organismos garantes de las entidades federativas, que a la entrada en vigor del presente Decreto continúen en su encargo, concluirán sus funciones a la entrada en vigor de la legislación a que aluden los artículos Segundo y Cuarto transitorios, respectivamente, salvo aquellos cuya vigencia de su nombramiento concluya previamente.
+
+Lo mismo sucederá con las designaciones que derivan del organismo señalado en el artículo 3o., fracción IX, que se deroga conforme al presente Decreto.
+
+Cuando para efectos de integrar el quórum del organismo público de que se trate, requiera realizarse un nuevo nombramiento, la temporalidad de éste no podrá exceder en ningún caso a la entrada en vigor de las leyes secundarias.
+
+**Séptimo.-** Los derechos laborales de las personas servidoras públicas serán respetados en su totalidad, en términos de la legislación aplicable. Los recursos humanos con que cuenten los entes públicos que se extinguen a consecuencia del presente Decreto pasarán a formar parte de aquellos que asuman sus atribuciones, cuando corresponda.
+
+**Octavo.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+**Noveno.-** Los títulos habilitantes otorgados por el Instituto Federal de Telecomunicaciones continuarán vigentes en sus términos, sin perjuicio de que los concesionarios deban cumplir con las obligaciones y contraprestaciones que en su caso les imponga el Ejecutivo Federal, en ejercicio de sus atribuciones.
+
+**Décimo.-** Las modificaciones a los párrafos décimo quinto a vigésimo del artículo 28 que se reforman en el presente Decreto, entrarán en vigor en un plazo de ciento ochenta días contados a partir de la entrada en vigor de la legislación secundaria a que hace referencia el siguiente párrafo.
+
+El Congreso de la Unión expedirá las leyes secundarias en materia de competencia y libre concurrencia; y en materia de telecomunicaciones y radiodifusión, respectivamente, para el ejercicio de las facultades previstas en el artículo 28 de esta Constitución.
+
+La autoridad en materia de libre competencia y concurrencia contará con personalidad jurídica y patrimonio propio, estará dotada de independencia técnica y operativa en sus decisiones, organización y funcionamiento, y se garantizará la separación entre la autoridad que investiga y la que resuelve los procedimientos.
+
+**Décimo Primero.-** La Comisión Federal de Competencia Económica y el Instituto Federal de Telecomunicaciones se extinguirán al momento de la entrada en vigor del presente Decreto, de conformidad con el artículo Décimo transitorio. Los actos emitidos por dichos órganos con anterioridad a la entrada en vigor del presente Decreto, en términos del artículo Décimo transitorio, surtirán todos sus efectos legales.
+
+Los Comisionados del Instituto Federal de Telecomunicaciones y de la Comisión Federal de Competencia Económica que continúen en su encargo, concluirán sus funciones a la entrada en vigor del presente Decreto, en términos del artículo Décimo transitorio.
+
+**Décimo Segundo.-** A partir de la entrada en vigor del presente Decreto, la entidad paraestatal denominada Organismo Promotor de Inversiones en Telecomunicaciones quedará sectorizada a la Secretaría de Infraestructura, Comunicaciones y Transportes.
+
+Ciudad de México, a 10 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.
+
+*Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2024*
+
+**Artículo Único.-** Se reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+…….
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan al contenido, previstas en leyes secundarias, reglamentos, acuerdos y cualquier otro ordenamiento normativo de carácter administrativo.
+
+**Tercero.-** El Congreso de la Unión, en un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este Decreto, deberá armonizar el marco jurídico de las leyes en las materias con el contenido del presente Decreto.
+
+**Cuarto.-** Las legislaturas de las entidades federativas deben realizar las adecuaciones normativas necesarias para cumplir con lo previsto en el presente Decreto, dentro de los trescientos sesenta y cinco días naturales siguientes a la publicación de este ordenamiento.
+
+Ciudad de México, a 3 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 31 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforma y adiciona el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en materia de seguridad pública.
+
+*Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2024*
+
+**Artículo Único.-** Se reforman el párrafo primero, el inciso e) del párrafo décimo primero, y el párrafo décimo tercero, y se adiciona un inciso f) al párrafo décimo primero, del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+…….
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+**Tercero.-** En el término de noventa días naturales, contados a partir de la publicación del presente Decreto, la Secretaría de Seguridad y Protección Ciudadana realizará la armonización normativa de los instrumentos jurídicos que correspondan.
+
+**Cuarto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto asignado a la Secretaría de Seguridad y Protección Ciudadana, por lo que no se asignarán partidas presupuestales adicionales durante el presente ejercicio fiscal.
+
+Ciudad de México, a 27 de noviembre de 2024.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 31 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se adicionan un párrafo quinto al artículo 4o. y un párrafo segundo al artículo 5o., de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección a la salud.
+
+*Publicado en el Diario Oficial de la Federación el 17 de enero de 2025*
+
+**Artículo Único.-** Se adicionan un párrafo quinto, recorriéndose en su orden los subsecuentes, al artículo 4o. y un párrafo segundo, recorriéndose en su orden los subsecuentes, al artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan al contenido, previstas en leyes secundarias, reglamentos, acuerdos y cualquier otro ordenamiento normativo de carácter administrativo.
+
+**Tercero.-** El Congreso de la Unión, en un plazo de 180 días, contados a partir de la entrada en vigor de este Decreto, deberá armonizar el marco jurídico de las leyes en las materias con el contenido del presente Decreto.
+
+**Cuarto.-** Las legislaturas de las entidades federativas deben realizar las adecuaciones normativas necesarias para cumplir con lo previsto en el presente Decreto, dentro de los 365 días naturales siguientes a la publicación de este ordenamiento.
+
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Ciudad de México, a 8 de enero de 2025.- Sen. Gerardo Fernández Noroña, Vicepresidente en funciones de Presidente.- Dip. Freyda Marybel Villegas Canché, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de enero de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
