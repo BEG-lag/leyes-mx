@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2025-04-01
+last_reform_dof: 2025-04-15
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-archived: https://web.archive.org/web/20250407132134/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-source_sha256: ccc19b1cb5e6263860442bcf03cba548f7a665301fba6f34e5b2de8ec6b0147d
-retrieved: 2025-04-07
+archived: https://web.archive.org/web/20250505090215/http://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
+source_sha256: a3354a3026ae20ba55e7f903242f11147ab008e6db46e2a29db62a9a597d0a66
+retrieved: 2025-05-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 01-04-2025
+Última reforma publicada DOF 15-04-2025
 
 > Nota de vigencia: Las reformas a los párrafos décimo quinto a vigésimo del artículo 28, publicadas en el DOF 20-12-2024, entrarán en vigor en un plazo de 180 días contados a partir de la entrada en vigor de las leyes secundarias que el Congreso de la Unión expedirá en materia de competencia y libre concurrencia; y en materia de telecomunicaciones y radiodifusión, respectivamente, de conformidad con el artículo Décimo Transitorio de dicho Decreto.
 
@@ -1060,9 +1060,9 @@ La ley alentará y protegerá la actividad económica que realicen los particula
 
 *Párrafo reformado DOF 05-06-2013, 20-12-2013*
 
-A fin de contribuir al cumplimiento de los objetivos señalados en los párrafos primero, sexto y noveno de este artículo, las autoridades de todos los órdenes de gobierno, en el ámbito de su competencia, deberán implementar políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establezca la ley general en la materia.
+A fin de contribuir al desarrollo y bienestar de las personas, grupos, comunidades y sectores sociales y económicos, las autoridades de todos los órdenes de gobierno deberán implementar políticas públicas de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas y los demás objetivos que establezca la ley nacional en la materia.
 
-*Párrafo adicionado DOF 05-02-2017*
+*Párrafo adicionado DOF 05-02-2017. Reformado DOF 15-04-2025*
 
 *Artículo reformado DOF 03-02-1983*
 
@@ -2722,9 +2722,9 @@ XXIX-X. Para expedir la ley general que establezca la concurrencia de la federac
 
 *Fracción adicionada DOF 25-07-2016*
 
-XXIX-Y. Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de sus respectivas competencias, en materia de mejora regulatoria;
+XXIX-Y. Para expedir la ley nacional que establezca los principios y obligaciones a los que deberán sujetarse los órdenes de gobierno, en materia de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas;
 
-*Fracción adicionada DOF 05-02-2017*
+*Fracción adicionada DOF 05-02-2017. Reformada DOF 15-04-2025*
 
 XXIX-Z. Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de su respectiva competencia, en materia de justicia cívica e itinerante, y
 
@@ -10003,3 +10003,29 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 19 de marzo de 2025.- Sen. Imelda Castro Castro, Vicepresidenta.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de abril de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman el párrafo décimo del artículo 25 y la fracción XXIX-Y del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación administrativa y digitalización.
+
+*Publicado en el Diario Oficial de la Federación el 15 de abril de 2025*
+
+**Artículo Único.-** Se reforman el párrafo décimo del artículo 25 y la fracción XXIX-Y del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** En un plazo que no excederá de noventa días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión expedirá la legislación a que se refiere el artículo 73, fracción XXIX-Y, de esta Constitución.
+
+**Tercero.-** La ley nacional a que se refiere el artículo 73, fracción XXIX-Y, de esta Constitución deberá considerar al menos lo siguiente:
+
+1\. Un modelo nacional de simplificación y digitalización de trámites y servicios;
+
+2\. Establecer la autoridad nacional en materia de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas y públicas, y
+
+3\. Prever herramientas de simplificación y digitalización de trámites y servicios.
+
+Ciudad de México, a 2 de abril de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Imelda Castro Castro, Vicepresidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de abril de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
