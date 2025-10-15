@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2025-04-15
+last_reform_dof: 2025-10-15
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-archived: https://web.archive.org/web/20250505090215/http://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-source_sha256: a3354a3026ae20ba55e7f903242f11147ab008e6db46e2a29db62a9a597d0a66
-retrieved: 2025-05-05
+archived: https://web.archive.org/web/20251204134628/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
+source_sha256: 25cd9c78692e184e8e7a8a4aa16257f8109ff0225887af61c51c097fc4226710
+retrieved: 2025-12-04
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 15-04-2025
+Última reforma publicada DOF 15-10-2025
 
 > Nota de vigencia: Las reformas a los párrafos décimo quinto a vigésimo del artículo 28, publicadas en el DOF 20-12-2024, entrarán en vigor en un plazo de 180 días contados a partir de la entrada en vigor de las leyes secundarias que el Congreso de la Unión expedirá en materia de competencia y libre concurrencia; y en materia de telecomunicaciones y radiodifusión, respectivamente, de conformidad con el artículo Décimo Transitorio de dicho Decreto.
 
@@ -2516,9 +2516,9 @@ XX. Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerpo
 
 XXI. Para expedir:
 
-a) Las leyes generales que establezcan como mínimo, los tipos penales y sus sanciones en las materias de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, así como electoral.
+a) Las leyes generales que establezcan como mínimo, los tipos penales y sus sanciones en las materias de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, extorsión, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, así como electoral.
 
-*Párrafo reformado DOF 10-02-2014, 10-07-2015*
+*Párrafo reformado DOF 10-02-2014, 10-07-2015, 09-10-2025*
 
 Las leyes generales contemplarán también la distribución de competencias y las formas de coordinación entre la Federación, las entidades federativas y los Municipios;
 
@@ -2838,15 +2838,17 @@ Los poderes federales Legislativo, Ejecutivo y Judicial, así como los organismo
 
 Son facultades exclusivas del Senado:
 
-I. Analizar la política exterior desarrollada por el Ejecutivo Federal con base en los informes anuales que el Presidente de la República y el Secretario del Despacho correspondiente rindan al Congreso.
+I. Analizar la política exterior desarrollada por la persona titular del Ejecutivo Federal con base en los informes anuales que las personas titulares de la Presidencia de la República y de la Secretaría del Despacho correspondiente rindan al Congreso.
+
+*Párrafo reformado DOF 15-10-2025*
 
 Además, aprobar los tratados internacionales y convenciones diplomáticas que el Ejecutivo Federal suscriba, así como su decisión de terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos;
 
 *Fracción reformada DOF 06-12-1977, 12-02-2007*
 
-II. Ratificar los nombramientos que el mismo funcionario haga de los Secretarios de Estado, en caso de que éste opte por un gobierno de coalición, con excepción de los titulares de los ramos de Defensa Nacional y Marina; del Secretario responsable del control interno del Ejecutivo Federal; del Secretario de Relaciones Exteriores; de los embajadores y cónsules generales; de los empleados superiores del ramo de Relaciones Exteriores, y coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga;
+II. Ratificar los nombramientos que la persona titular de la Presidencia de la República haga de las personas titulares de las Secretarías de Estado, en caso de que ésta opte por un gobierno de coalición, con excepción de las correspondientes a los ramos de Defensa Nacional y Marina; de las nombradas como Secretario responsable del control interno del Ejecutivo Federal; de la Secretaría de Relaciones Exteriores; de las embajadas y de los consulados generales; empleadas superiores del ramo de Relaciones Exteriores, y Coroneles y demás jefes superiores del Ejército, Armada, Fuerza Aérea Nacionales y Guardia Nacional, en los términos que la ley disponga;
 
-*Fracción reformada DOF 10-02-1944, 31-12-1994, 09-08-2012, 10-02-2014, 27-05-2015, 30-09-2024, 20-12-2024*
+*Fracción reformada DOF 10-02-1944, 31-12-1994, 09-08-2012, 10-02-2014, 27-05-2015, 30-09-2024, 20-12-2024, 15-10-2025*
 
 III. Autorizarlo también para que pueda permitir la salida de tropas nacionales fuera de los límites del País, el paso de tropas extranjeras por el territorio nacional y la estación de escuadras de otra potencia, por más de un mes, en aguas mexicanas.
 
@@ -2854,9 +2856,9 @@ IV. Analizar y aprobar el informe anual que el Ejecutivo Federal le presente sob
 
 *Fracción reformada DOF 08-10-1974, 29-01-2016, 26-03-2019*
 
-V. Declarar, cuando hayan desaparecido todos los poderes constitucionales de una entidad federativa, que es llegado el caso de nombrarle un titular del poder ejecutivo provisional, quien convocará a elecciones conforme a las leyes constitucionales de la entidad federativa. El nombramiento del titular del poder ejecutivo local se hará por el Senado a propuesta en terna del Presidente de la República con aprobación de las dos terceras partes de los miembros presentes, y en los recesos, por la Comisión Permanente, conforme a las mismas reglas. El funcionario así nombrado, no podrá ser electo titular del poder ejecutivo en las elecciones que se verifiquen en virtud de la convocatoria que él expidiere. Esta disposición regirá siempre que las constituciones de las entidades federativas no prevean el caso.
+V. Declarar, cuando hayan desaparecido todos los poderes constitucionales de una entidad federativa, que es llegado el caso de nombrarle una persona titular del poder ejecutivo provisional, quien convocará a elecciones conforme a las leyes constitucionales de la entidad federativa. El nombramiento de la persona titular del poder ejecutivo local se hará por el Senado a propuesta en terna de la persona titular de la Presidencia de la República con aprobación de las dos terceras partes de las personas integrantes presentes, y en los recesos, por la Comisión Permanente, conforme a las mismas reglas. Quien fuere así nombrado, no podrá ser electa persona titular del poder ejecutivo en las elecciones que se verifiquen en virtud de la convocatoria que él expidiere. Esta disposición regirá siempre que las constituciones de las entidades federativas no prevean el caso;
 
-*Fracción reformada DOF 29-01-2016*
+*Fracción reformada DOF 29-01-2016, 15-10-2025*
 
 VI. Resolver las cuestiones políticas que surjan entre los poderes de una entidad federativa cuando alguno de ellos ocurra con ese fin al Senado, o cuando con motivo de dichas cuestiones se haya interrumpido el orden constitucional, mediando un conflicto de armas. En este caso el Senado dictará su resolución, sujetándose a la Constitución General de la República y a la de la entidad federativa.
 
@@ -2866,9 +2868,9 @@ La ley reglamentará el ejercicio de esta facultad y el de la anterior.
 
 *Fracción reubicada por aplicación de la reforma DOF 20-08-1928*
 
-VII. Erigirse en Jurado de sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 110 de esta Constitución.
+VII. Erigirse en Jurado de sentencia para conocer en juicio político de las faltas u omisiones que cometan las personas servidoras públicas y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 110 de esta Constitución;
 
-*Fracción reformada DOF 28-12-1982*
+*Fracción reformada DOF 28-12-1982, 15-10-2025*
 
 VIII. Otorgar o negar las solicitudes de licencia o renuncia de las personas servidoras públicas del Poder Judicial de la Federación conforme al artículo 98 de esta Constitución y en los términos que establezcan las leyes;
 
@@ -2878,21 +2880,23 @@ IX. Se deroga.
 
 *Fracción adicionada DOF 20-08-1928. Derogada DOF 28-12-1982. Adicionada DOF 25-10-1993. Derogada DOF 29-01-2016*
 
-X. Autorizar mediante decreto aprobado por el voto de las dos terceras partes de los individuos presentes, los convenios amistosos que sobre sus respectivos límites celebren las entidades federativas;
+X. Autorizar mediante decreto aprobado por el voto de las dos terceras partes de las personas integrantes presentes, los convenios amistosos que sobre sus respectivos límites celebren las entidades federativas;
 
-*Fracción adicionada DOF 08-12-2005*
+*Fracción adicionada DOF 08-12-2005. Reformada DOF 15-10-2025*
 
-XI. Analizar y aprobar la Estrategia Nacional de Seguridad Pública, en el plazo que disponga la ley, previa comparecencia del titular de la secretaría del ramo. En caso de que el Senado no se pronuncie en dicho plazo, ésta se entenderá aprobada;
+XI. Analizar y aprobar la Estrategia Nacional de Seguridad Pública, en el plazo que disponga la ley, previa comparecencia de la persona titular de la secretaría del ramo. En caso de que el Senado no se pronuncie en dicho plazo, ésta se entenderá aprobada;
 
-*Fracción adicionada DOF 08-12-2005. Derogada DOF 15-10-2012. Adicionada DOF 10-02-2014. Reformada DOF 26-03-2019*
+*Fracción adicionada DOF 08-12-2005. Derogada DOF 15-10-2012. Adicionada DOF 10-02-2014. Reformada DOF 26-03-2019,*
+
+15-10-2025
 
 XII. Se deroga
 
 *Fracción adicionada DOF 07-02-2014. Derogada DOF 20-12-2024*
 
-XIII. Integrar la lista de candidatos a Fiscal General de la República; nombrar a dicho servidor público, y formular objeción a la remoción que del mismo haga el Ejecutivo Federal, de conformidad con el artículo 102, Apartado A, de esta Constitución, y
+XIII. Integrar la lista de personas candidatas a ocupar la titularidad de la Fiscalía General de la República; nombrar a dicha persona servidora pública, y formular objeción a la remoción que de la misma haga el Ejecutivo Federal, de conformidad con el artículo 102, Apartado A, de esta Constitución, y
 
-*Fracción adicionada DOF 10-02-2014*
+*Fracción adicionada DOF 10-02-2014. Reformada DOF 15-10-2025*
 
 XIV. Las demás que la misma Constitución le atribuya.
 
@@ -2916,7 +2920,9 @@ IV. Expedir convocatoria, dentro del término de 30 días a partir de que ocurra
 
 ##### Artículo 78.
 
-Durante los recesos del Congreso de la Unión habrá una Comisión Permanente compuesta de 37 miembros de los que 19 serán Diputados y 18 Senadores, nombrados por sus respectivas Cámaras la víspera de la clausura de los períodos ordinarios de sesiones. Para cada titular las Cámaras nombrarán, de entre sus miembros en ejercicio, un sustituto.
+Durante los recesos del Congreso de la Unión habrá una Comisión Permanente compuesta de 37 integrantes de los que 19 serán de la Cámara de Diputados y 18 de la de Senadores, nombrados por sus respectivas Cámaras la víspera de la clausura de los períodos ordinarios de sesiones. Para cada titular las Cámaras nombrarán, de entre sus integrantes en ejercicio, una persona sustituta.
+
+*Párrafo reformado DOF 15-10-2025*
 
 La Comisión Permanente, además de las atribuciones que expresamente le confiere esta Constitución, tendrá las siguientes:
 
@@ -2924,29 +2930,33 @@ I. Derogada.
 
 *Fracción derogada DOF 26-03-2019*
 
-II. Recibir, en su caso, la protesta del Presidente de la República;
+II. Recibir, en su caso, la protesta de la persona titular de la Presidencia de la República;
 
-III. Resolver los asuntos de su competencia; recibir durante el receso del Congreso de la Unión las iniciativas de ley, las observaciones a los proyectos de ley o decreto que envíe el Ejecutivo y proposiciones dirigidas a las Cámaras y turnarlas para dictamen a las comisiones de la Cámara a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones;
+*Fracción reformada DOF 15-10-2025*
 
-*Fracción reformada DOF 17-08-2011*
+III. Resolver los asuntos de su competencia; recibir durante el receso del Congreso de la Unión las iniciativas de ley, las observaciones a los proyectos de ley o decreto que envíe la persona titular del Ejecutivo y proposiciones dirigidas a las Cámaras y turnarlas para dictamen a las comisiones de la Cámara a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones;
 
-IV. Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias. Cuando la convocatoria sea al Congreso General para que se erija en Colegio Electoral y designe presidente interino o substituto, la aprobación de la convocatoria se hará por mayoría;
+*Fracción reformada DOF 17-08-2011, 15-10-2025*
 
-*Fracción reformada DOF 09-08-2012*
+IV. Acordar por sí o a propuesta de la persona titular del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias. Cuando la convocatoria sea al Congreso General para que se erija en Colegio Electoral y designe presidente interino o substituto, la aprobación de la convocatoria se hará por mayoría;
+
+*Fracción reformada DOF 09-08-2012, 15-10-2025*
 
 V. Se deroga.
 
 *Fracción derogada DOF 10-02-2014*
 
-VI. Conceder licencia hasta por sesenta días naturales al Presidente de la República;
+VI. Conceder licencia, hasta por sesenta días naturales, a la persona titular de la Presidencia de la República;
 
-*Fracción reformada DOF 09-08-2012*
+*Fracción reformada DOF 09-08-2012, 15-10-2025*
 
-VII. Ratificar los nombramientos que el Presidente haga de embajadores, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga, y
+VII. Ratificar los nombramientos que la persona titular de la Presidencia de la República haga de las personas titulares de embajadas, consulados generales, empleados superiores de Hacienda, Coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, así como de la Guardia Nacional, en los términos que la ley disponga, y
 
-*Fracción reformada DOF 09-08-2012, 11-06-2013, 30-09-2024, 20-12-2024*
+*Fracción reformada DOF 09-08-2012, 11-06-2013, 30-09-2024, 20-12-2024, 15-10-2025*
 
-VIII. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores.
+VIII. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por las personas legisladoras.
+
+*Fracción reformada DOF 15-10-2025*
 
 *Párrafo con fracciones adicionado DOF 30-07-1999*
 
@@ -10029,3 +10039,39 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 2 de abril de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Imelda Castro Castro, Vicepresidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de abril de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se declara reformado el inciso a) de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de extorsión.
+
+*Publicado en el Diario Oficial de la Federación el 9 de octubre de 2025*
+
+**Artículo Único.-** Se reforma el párrafo primero del inciso a) de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión deberá expedir la ley general de la materia a la que se refiere este Decreto, en un plazo no mayor a 180 días contados a partir del día siguiente de su entrada en vigor.
+
+**Tercero.-** Las disposiciones legales de la Federación y de las entidades federativas en materia de extorsión continuarán vigentes hasta en tanto el Congreso de la Unión emita la ley general de la materia. En el régimen transitorio de dicha ley se establecerán los plazos y condiciones para realizar las adecuaciones normativas correspondientes.
+
+Ciudad de México, a 07 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. Mariela Gutiérrez Escalante, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 08 de octubre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 76 y 78 de la Constitución Política de los Estados Unidos Mexicanos, en materia de ratificación de grados superiores de la Guardia Nacional.
+
+*Publicado en el Diario Oficial de la Federación el 15 de octubre de 2025*
+
+**Artículo Único.-** Se reforman los artículos 76, fracciones I, II, V, VII, X, XI y XIII; y 78, párrafo primero, y las fracciones II, III, IV, VI, VII y VIII, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+…….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 30 de septiembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. Mariela Gutiérrez Escalante, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de octubre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
