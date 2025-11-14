@@ -3,12 +3,11 @@ title: Ley Federal de Procedimiento Administrativo
 abbreviation: LFPA
 slug: lfpa
 published_dof: 1994-08-04
-last_reform_dof: 2018-05-18
+last_reform_dof: 2025-11-14
 articles: 119
-source: https://www.diputados.gob.mx/LeyesBiblio/doc/112_180518.doc
-archived: https://web.archive.org/web/20181105062813/http://www.diputados.gob.mx:80/LeyesBiblio/doc/112_180518.doc
-source_sha256: c8911e388fa89e3886b41d0d9d19dd5f386947ea648a21c264266c57e1095088
-retrieved: 2018-11-05
+source: https://www.diputados.gob.mx/LeyesBiblio/doc/LFPA.doc
+source_sha256: 4800aa4f5e67d50a353acf4ee9a2813b485c1b58bb4ecf0ad637b0ca1dea3995
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpa.htm
 ---
 
@@ -18,7 +17,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 4 de agosto de 199
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 18-05-2018
+Última reforma publicada DOF 14-11-2025
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -52,9 +51,9 @@ Para los efectos de esta Ley sólo queda excluida la materia fiscal tratándose 
 
 #### Artículo 2.
 
-Esta Ley, salvo por lo que toca al título tercero A, se aplicará supletoriamente a las diversas leyes administrativas. El Código Federal de Procedimientos Civiles se aplicará, a su vez, supletoriamente a esta Ley, en lo conducente.
+Esta Ley, salvo por lo que toca al título tercero A, se aplicará supletoriamente a las diversas leyes administrativas. El Código Nacional de Procedimientos Civiles y Familiares se aplicará, a su vez, supletoriamente a esta Ley, en lo conducente.
 
-*Artículo reformado DOF 19-04-2000*
+*Artículo reformado DOF 19-04-2000, 14-11-2025*
 
 ## TITULO SEGUNDO · DEL REGIMEN JURIDICO DE LOS ACTOS ADMINISTRATIVOS
 
@@ -1209,3 +1208,31 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de mayo de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.-
+
+### DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+
+*Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025*
+
+**Artículo Trigésimo Cuarto.-** Se reforma el artículo 2 de la Ley Federal de Procedimiento Administrativo, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
