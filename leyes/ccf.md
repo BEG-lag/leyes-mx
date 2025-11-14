@@ -3,12 +3,11 @@ title: Código Civil Federal
 abbreviation: CCF
 slug: ccf
 published_dof: 1928-05-26
-last_reform_dof: 2024-01-17
+last_reform_dof: 2025-11-14
 articles: 3103
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CCF.doc
-archived: https://web.archive.org/web/20240405093814/https://www.diputados.gob.mx/LeyesBiblio/doc/CCF.doc
-source_sha256: 39548d97c275722d417c1dfab7c13df82cb54c40247702f693dda1ce5a8bde29
-retrieved: 2024-04-05
+source_sha256: 75bc335cf70c53c3e407c5355fb96227e4760e2fd05d29ec1a693e172fcc68d6
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccf.htm
 ---
 
@@ -20,7 +19,7 @@ los días 26 de mayo, 14 de julio, 3 y 31 de agosto de 1928
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 17-01-2024
+Última reforma publicada DOF 14-11-2025
 
 El C. Presidente Constitucional de la República se ha servido dirigirme el decreto que sigue:
 
@@ -394,9 +393,9 @@ Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado po
 
 ###### Artículo 51.
 
-Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en el Código Federal de Procedimientos Civiles, y siempre que se registren en la Oficina que corresponda del Distrito Federal o de los Estados.
+Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en el Código Nacional de Procedimientos Civiles y Familiares, y siempre que se registren en la Oficina que corresponda de la Ciudad de México o de los Estados.
 
-*Artículo reformado DOF 23-12-1974, 03-01-1979*
+*Artículo reformado DOF 23-12-1974, 03-01-1979, 14-11-2025*
 
 ###### Artículo 52.
 
@@ -638,9 +637,9 @@ En la adopción plena, a partir del levantamiento del acta a que se refiere el a
 
 ###### Artículo 89.
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código de Procedimientos Civiles, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que levante el acta respectiva. El Curador cuidará del cumplimiento de este artículo.
+Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código Nacional de Procedimientos Civiles y Familiares, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que levante el acta respectiva. El Curador cuidará del cumplimiento de este artículo.
 
-*Artículo reformado DOF 14-03-1973, 03-01-1979*
+*Artículo reformado DOF 14-03-1973, 03-01-1979, 14-11-2025*
 
 ###### Artículo 90.
 
@@ -1032,7 +1031,9 @@ IV. Los que, según los artículos 348, 349 y 350, pueden continuar o intentar l
 
 ###### Artículo 137.
 
-El juicio de rectificación de acta se seguirá en la forma que establezca en el Código de Procedimientos Civiles.
+El juicio de rectificación de acta se seguirá en la forma que establezca en el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 138.
 
@@ -1478,7 +1479,9 @@ Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y admi
 
 ###### Artículo 206.
 
-Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código de Procedimientos Civiles.
+Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Artículo reformado DOF 14-11-2025*
 
 ##### CAPITULO VI · De la Separación de Bienes
 
@@ -1882,7 +1885,9 @@ El divorcio así obtenido no surtirá efectos legales si se comprueba que los c�
 
 *Párrafo reformado DOF 03-06-2019*
 
-Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
+Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Párrafo reformado DOF 14-11-2025*
 
 *Artículo reformado DOF 14-03-1973*
 
@@ -1952,9 +1957,9 @@ I. (Se deroga).
 
 *Fracción derogada DOF 31-12-1974*
 
-II. Proceder a la separación de los cónyuges de conformidad con el Código de Procedimientos Civiles;
+II. Proceder a la separación de los cónyuges de conformidad con el Código Nacional de Procedimientos Civiles y Familiares;
 
-*Fracción reformada DOF 09-01-1954, 31-12-1974*
+*Fracción reformada DOF 09-01-1954, 31-12-1974, 14-11-2025*
 
 III. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
 
@@ -1978,7 +1983,9 @@ VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de lo
 
 La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.
 
-La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 94 del Código de Procedimientos Civiles para el Distrito Federal.
+La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 178 del Código Nacional de Procedimientos Civiles y Familiares.
+
+*Párrafo reformado DOF 14-11-2025*
 
 *Artículo reformado DOF 27-12-1983, 30-12-1997*
 
@@ -2702,7 +2709,9 @@ Si el tutor o el Ministerio Público no consienten en la adopción, deberán exp
 
 ###### Artículo 399.
 
-El procedimiento para hacer la adopción será fijado en el Código de Procedimientos Civiles.
+El procedimiento para hacer la adopción será fijado en el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 400.
 
@@ -2868,7 +2877,9 @@ A falta de ambos padres o por cualquier otra circunstancia prevista en este orde
 
 ###### Artículo 416.
 
-En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el juez de lo familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el artículo 94 del Código de Procedimientos Civiles para el Distrito Federal.
+En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Párrafo reformado DOF 14-11-2025*
 
 En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
 
@@ -3188,7 +3199,9 @@ La tutela es testamentaria, legítima o dativa.
 
 ###### Artículo 462.
 
-Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 463.
 
@@ -3528,7 +3541,9 @@ Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por
 
 ###### Artículo 513.
 
-El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código de Procedimientos Civiles, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa.
+El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código Nacional de Procedimientos Civiles y Familiares, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 514.
 
@@ -8770,7 +8785,9 @@ IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a l
 
 V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1713, 1770 y demás relativos de este Código; y
 
-VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 876-Bis del Código de Procedimientos Civiles para el Distrito Federal.
+VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 810 del Código Nacional de Procedimientos Civiles y Familiares.
+
+*Fracción reformada DOF 14-11-2025*
 
 *Artículo adicionado DOF 06-01-1994*
 
@@ -9602,7 +9619,9 @@ Si el albacea ha sido nombrado en testamento y lo tiene en su poder, debe presen
 
 ###### Artículo 1712.
 
-El albacea debe formar el inventario dentro del término señalado por el Código de Procedimientos Civiles. Si no lo hace, será removido.
+El albacea debe formar el inventario dentro del término señalado por el Código Nacional de Procedimientos Civiles y Familiares. Si no lo hace, será removido.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 1713.
 
@@ -9654,7 +9673,9 @@ Son nulas de pleno derecho las disposiciones por las que el testador dispense al
 
 ###### Artículo 1725.
 
-La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código de Procedimientos Civiles.
+La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 1726.
 
@@ -9778,7 +9799,9 @@ La remoción no tendrá lugar sino por sentencia pronunciada en el incidente res
 
 ###### Artículo 1750.
 
-El albacea definitivo, dentro del término que fije el Código de Procedimientos Civiles, promoverá la formación del inventario.
+El albacea definitivo, dentro del término que fije el Código Nacional de Procedimientos Civiles y Familiares, promoverá la formación del inventario.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 1751.
 
@@ -9786,7 +9809,9 @@ Si el albacea no cumpliere lo dispuesto en el artículo anterior, podrá promove
 
 ###### Artículo 1752.
 
-El inventario se formará según lo disponga el Código de Procedimiento Civiles. Si el albacea no lo presenta dentro del término legal, será removido.
+El inventario se formará según lo disponga el Código Nacional de Procedimientos Civiles y Familiares. Si el albacea no lo presenta dentro del término legal, será removido.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 1753.
 
@@ -10736,9 +10761,9 @@ La acción para exigir la reparación de los daños causados en los términos de
 
 ###### Artículo 1934 Bis.
 
-El que cause un daño de los previstos en este Capítulo a una colectividad o grupo de personas, estará obligado a indemnizar en términos de lo dispuesto en el Libro Quinto del Código Federal de Procedimientos Civiles.
+El que cause un daño de los previstos en este Capítulo a una colectividad o grupo de personas, estará obligado a indemnizar en términos de lo dispuesto en el Libro Sexto del Código Nacional de Procedimientos Civiles y Familiares.
 
-*Artículo adicionado DOF 30-08-2011*
+*Artículo adicionado DOF 30-08-2011. Reformado DOF 14-11-2025*
 
 ##### CAPITULO VI · Del Riesgo Profesional
 
@@ -11652,7 +11677,9 @@ Si la prestación consistiere en el pago de cierta cantidad de dinero, los daño
 
 ###### Artículo 2118.
 
-El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código de Procedimientos Civiles.
+El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Artículo reformado DOF 14-11-2025*
 
 ##### CAPITULO II · De la Evicción y Saneamiento
 
@@ -12648,7 +12675,9 @@ La venta de bienes raíces no producirá efectos contra tercero sino después de
 
 ###### Artículo 2323.
 
-Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código de Procedimientos Civiles.
+Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 2324.
 
@@ -12656,7 +12685,9 @@ No pueden rematar por sí, ni por interpósita persona, el Juez, Secretario y de
 
 ###### Artículo 2325.
 
-Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuere inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código de Procedimientos Civiles.
+Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuere inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 2326.
 
@@ -13098,7 +13129,9 @@ El arrendatario está obligado a poner en conocimiento del arrendador, a la brev
 
 ###### Artículo 2416.
 
-Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento rápido que se establezca en el Código de Procedimientos Civiles.
+Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento rápido que se establezca en el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 2417.
 
@@ -13860,7 +13893,9 @@ Secuestro judicial es el que se constituye por decreto del juez.
 
 ###### Artículo 2545.
 
-El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles y, en su defecto, por las mismas del secuestro convencional.
+El secuestro judicial se rige por las disposiciones del Código Nacional de Procedimientos Civiles y Familiares y, en su defecto, por las mismas del secuestro convencional.
+
+*Artículo reformado DOF 14-11-2025*
 
 #### TITULO NOVENO · Del Mandato
 
@@ -15602,7 +15637,9 @@ Si el deudor no paga en el plazo estipulado y no habiéndolo, cuando tenga oblig
 
 ###### Artículo 2882.
 
-La cosa se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiere venderse en los términos que establezca el Código de Procedimientos Civiles.
+La cosa se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiere venderse en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 2883.
 
@@ -15774,7 +15811,9 @@ La hipoteca constituida a favor de un crédito que devengue intereses, no garant
 
 ###### Artículo 2916.
 
-El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial; o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código de Procedimientos Civiles.
+El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial; o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Párrafo reformado DOF 14-11-2025*
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
@@ -16056,7 +16095,9 @@ El deudor responde del cumplimiento de sus obligaciones con todos sus bienes, co
 
 ###### Artículo 2965.
 
-Procede el concurso de acreedores siempre que el deudor suspenda el pago de sus deudas civiles, líquidas y exigibles. La declaración de concurso será hecha por el juez competente, mediante los trámites fijados en el Código de Procedimientos Civiles.
+Procede el concurso de acreedores siempre que el deudor suspenda el pago de sus deudas civiles, líquidas y exigibles. La declaración de concurso será hecha por el juez competente, mediante los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 2966.
 
@@ -16098,7 +16139,9 @@ V. La inexactitud fraudulenta en el inventario de los bienes del deudor o en los
 
 ###### Artículo 2972.
 
-Aprobado el convenio por el juez, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior a la declaración, si hubieren sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código de Procedimientos Civiles, aunque esos acreedores no estén comprendidos en la lista correspondiente, ni hayan sido parte en el procedimiento.
+Aprobado el convenio por el juez, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior a la declaración, si hubieren sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código Nacional de Procedimientos Civiles y Familiares, aunque esos acreedores no estén comprendidos en la lista correspondiente, ni hayan sido parte en el procedimiento.
+
+*Artículo reformado DOF 14-11-2025*
 
 ###### Artículo 2973.
 
@@ -16630,7 +16673,9 @@ II. Por ofrecimiento del pago y consignación del importe de los títulos, trami
 
 Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor la emisión de títulos debidamente inutilizados.
 
-Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
+Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Párrafo reformado DOF 14-11-2025*
 
 *Artículo reformado DOF 18-01-1952, 03-01-1979*
 
@@ -16750,7 +16795,9 @@ Inmatriculación por Resolución Judicial
 
 ###### Artículo 3047.
 
-En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código de Procedimientos Civiles.
+En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código Nacional de Procedimientos Civiles y Familiares.
+
+*Párrafo reformado DOF 14-11-2025*
 
 Comprobados debidamente los requisitos de la prescripción, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público de la Propiedad.
 
@@ -16760,7 +16807,9 @@ Comprobados debidamente los requisitos de la prescripción, el Juez declarará q
 
 En el caso de información posesoria, a que se refiere el inciso b) de la fracción I del artículo 3046, el que tenga una posesión de buena fe apta para prescribir, de bienes inmuebles no inscritos en el Registro Público de la Propiedad en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente.
 
-Para lo anterior, se deberá seguir el procedimiento que establece el Código de Procedimientos Civiles para las informaciones a que se refiere el artículo 3047.
+Para lo anterior, se deberá seguir el procedimiento que establece el Código Nacional de Procedimientos Civiles y Familiares para las informaciones a que se refiere el artículo 3047.
+
+*Párrafo reformado DOF 14-11-2025*
 
 El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la fecha de la inscripción.
 
@@ -18181,3 +18230,31 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 29 de noviembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Olga Luz Espinosa Morales, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+
+*Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025*
+
+**Artículo Primero.-** Se reforman los artículos 51; 89; 137; 206; 272, cuarto párrafo; 282, fracción II; 283, segundo párrafo; 399; 416, primer párrafo; 462; 513; 1549 Bis, fracción VI; 1712; 1725; 1750; 1752; 1934 Bis; 2118; 2323; 2325; 2416; 2545; 2882; 2916, primer párrafo; 2965; 2972; 3039, segundo párrafo; 3047, primer párrafo y, 3048, segundo párrafo, del Código Civil Federal, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
