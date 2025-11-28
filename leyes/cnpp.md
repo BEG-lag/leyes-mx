@@ -3,12 +3,11 @@ title: Código Nacional de Procedimientos Penales
 abbreviation: CNPP
 slug: cnpp
 published_dof: 2014-03-05
-last_reform_dof: 2024-12-16
+last_reform_dof: 2025-11-28
 articles: 490
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc
-archived: https://web.archive.org/web/20250130150203/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc
-source_sha256: ad5100049b887306d9def7fe0c7dd2d6a166975ce842c1fc887c989730853f83
-retrieved: 2025-01-30
+source_sha256: d9748449446d54f8525f98b569d8f88d751e5a70747824d39983e5df0c5a83b0
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 ---
 
@@ -16,7 +15,7 @@ reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp.htm
 
 Nuevo Código publicado en el Diario Oficial de la Federación el 5 de marzo de 2014
 
-Última reforma publicada DOF 16-12-2024
+Última reforma publicada DOF 28-11-2025
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1782,7 +1781,9 @@ Decretada la providencia precautoria, podrá revisarse, modificarse, sustituirse
 
 Las providencias precautorias serán canceladas si el imputado garantiza o paga la reparación del daño; si fueron decretadas antes de la audiencia inicial y el Ministerio Público no las promueve, o no solicita orden de aprehensión en el término que señala este Código; si se declara fundada la solicitud de cancelación de embargo planteada por la persona en contra de la cual se decretó o de un tercero, o si se dicta sentencia absolutoria, se decreta el sobreseimiento o se absuelve de la reparación del daño.
 
-La providencia precautoria se hará efectiva a favor de la víctima u ofendido cuando la sentencia que condene a reparar el daño cause ejecutoria. El embargo se regirá en lo conducente por las reglas generales del embargo previstas en el Código Federal de Procedimientos Civiles.
+La providencia precautoria se hará efectiva a favor de la víctima u ofendido cuando la sentencia que condene a reparar el daño cause ejecutoria. El embargo se regirá en lo conducente por las reglas generales del embargo previstas en el Código Nacional de Procedimientos Civiles y Familiares.
+
+*Párrafo reformado DOF 14-11-2025*
 
 ###### Artículo 139.
 
@@ -2160,13 +2161,13 @@ El Ministerio Público sólo podrá solicitar al Juez de control la prisión pre
 
 En el supuesto de que el imputado esté siendo procesado por otro delito distinto de aquel en el que se solicite la prisión preventiva, deberá analizarse si ambos procesos son susceptibles de acumulación, en cuyo caso la existencia de proceso previo no dará lugar por si sola a la procedencia de la prisión preventiva.
 
-El Juez de control en el ámbito de su competencia, ordenará la prisión preventiva oficiosamente en los casos de abuso o violencia sexual contra menores, delincuencia organizada, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad, y de la salud.
+La Persona Juzgadora de control en el ámbito de su competencia, ordenará la prisión preventiva oficiosamente en los casos de abuso o violencia sexual contra menores, delincuencia organizada, extorsión, delitos previstos en las leyes aplicables cometidos para la ilegal introducción y desvío, producción, preparación, enajenación, adquisición, importación, exportación, transportación, almacenamiento y distribución de precursores químicos y sustancias químicas esenciales, drogas sintéticas, fentanilo y derivados, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud, así como contrabando y cualquier actividad relacionada con falsos comprobantes fiscales.
 
-*Párrafo reformado DOF 19-02-2021*
+*Párrafo reformado DOF 19-02-2021, 28-11-2025*
 
-Las leyes generales de salud, secuestro, trata de personas, delitos electorales y desaparición forzada de personas y desaparición cometida por particulares, así como las leyes federales para prevenir y sancionar los delitos cometidos en materia de hidrocarburos, armas de fuego y explosivos, y contra la delincuencia organizada, establecerán los supuestos que ameriten prisión preventiva oficiosa de conformidad con lo dispuesto por el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
+Las leyes generales de salud, secuestro, trata de personas, extorsión, delitos electorales y desaparición forzada de personas y desaparición cometida por particulares, así como las leyes federales para prevenir y sancionar los delitos cometidos en materia de hidrocarburos, armas de fuego y explosivos, para el control de precursores químicos, productos químicos esenciales y máquinas para elaborar cápsulas, tabletas y/o comprimidos, y contra la delincuencia organizada; y el Código Fiscal de la Federación, establecerán los supuestos que ameriten prisión preventiva oficiosa de conformidad con lo dispuesto por el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
 
-*Párrafo reformado DOF 19-02-2021*
+*Párrafo reformado DOF 19-02-2021, 28-11-2025*
 
 Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Penal Federal, de la manera siguiente:
 
@@ -2230,7 +2231,7 @@ III. La expedición, venta, enajenación, compra o adquisición de comprobantes 
 
 *Párrafo con fracciones adicionado DOF 08-11-2019*
 
-Párrafo con fracciones declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022
+*Párrafo con fracciones declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025*
 
 El juez no impondrá la prisión preventiva oficiosa y la sustituirá por otra medida cautelar, únicamente cuando lo solicite el Ministerio Público por no resultar proporcional para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima y de los testigos o de la comunidad o bien, cuando exista voluntad de las partes para celebrar un acuerdo reparatorio de cumplimiento inmediato, siempre que se trate de alguno de los delitos en los que sea procedente dicha forma de solución alterna del procedimiento. La solicitud deberá contar con la autorización del titular de la Fiscalía o de la persona funcionaria en la cual delegue esa facultad.
 
@@ -2504,7 +2505,7 @@ No procederán los acuerdos reparatorios en los casos en que el imputado haya ce
 
 *Párrafo reformado DOF 29-12-2014, 17-06-2016, 08-11-2019*
 
-Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 (En la porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”)
+*Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025 (En la porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”)*
 
 Tampoco serán procedentes en caso de que el imputado haya incumplido previamente un acuerdo reparatorio, salvo que haya sido absuelto.
 
@@ -2580,7 +2581,7 @@ Lo señalado en la fracción III del presente artículo, no procederá cuando el
 
 *Párrafo adicionado DOF 08-11-2019*
 
-Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022
+*Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025*
 
 ###### Artículo 193.
 
@@ -3532,7 +3533,9 @@ El reconocimiento procederá aún sin consentimiento del imputado, pero siempre 
 
 El reconocimiento deberá presentar al imputado en conjunto con otras personas con características físicas similares salvo que las condiciones de la investigación no lo permitan, lo que deberá quedar asentado en el registro correspondiente de la diligencia. En todos los procedimientos de reconocimiento, el acto deberá realizarse por una autoridad ministerial distinta a la que dirige la investigación. La práctica de filas de identificación se deberá realizar de manera secuencial.
 
-Tratándose de personas menores de edad o tratándose de víctimas u ofendidos por los delitos de secuestro, trata de personas o violación que deban participar en el reconocimiento de personas, el Ministerio Público dispondrá medidas especiales para su participación, con el propósito de salvaguardar su identidad e integridad emocional. En la práctica de tales actos, el Ministerio Público deberá contar, en su caso, con el auxilio de peritos y con la asistencia del representante del menor de edad.
+Tratándose de personas menores de edad o tratándose de víctimas o personas ofendidas por los delitos de extorsión, secuestro, trata de personas o violación que deban participar en el reconocimiento de personas, el Ministerio Público dispondrá medidas especiales para su participación, con el propósito de salvaguardar su identidad e integridad emocional. En la práctica de tales actos, el Ministerio Público deberá contar, en su caso, con el auxilio de personas peritas y con la asistencia del representante del menor de edad.
+
+*Párrafo reformado DOF 28-11-2025*
 
 Todos los procedimientos de identificación deberán registrarse y en dicho registro deberá constar el nombre de la autoridad que estuvo a cargo, del testigo ocular, de las personas que participaron en la fila de identificación y, en su caso, del Defensor.
 
@@ -6323,3 +6326,131 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 11 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Alan Sahir Márquez Becerra, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 130/2019 y su acumulada 136/2019, así como los Votos Concurrente y Particular de la señora Ministra Ana Margarita Ríos Farjat, Concurrente y Aclaratorio del señor Ministro Juan Luis González Alcántara Carrancá y Concurrente de la señora Ministra Presidenta Norma Lucía Piña Hernández.
+
+*Publicada en el Diario Oficial de la Federación el 20 de agosto de 2025*
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
+
+ACCIÓN DE INCONSTITUCIONALIDAD 130/2019 Y SU ACUMULADA 136/2019
+
+PROMOVENTES: COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS Y DIVERSOS INTEGRANTES DE LA CÁMARA DE SENADORES DEL CONGRESO DE LA UNIÓN
+
+VISTO BUENO
+
+SR. MINISTRO
+
+PONENTE: MINISTRO LUIS MARÍA AGUILAR MORALES
+
+COTEJÓ
+
+SECRETARIOS: LUIS ALBERTO TREJO OSORNIO
+
+ROBERTO NEGRETE ROMERO
+
+Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al veinticuatro de noviembre de dos mil veintidós, emite la siguiente:
+
+SENTENCIA
+
+……..
+
+VIII. DECISIÓN.
+
+594\. Por lo antes expuesto, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resuelve:
+
+**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada.
+
+**SEGUNDO.** Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal, publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoria.
+
+**TERCERO.** Se reconoce la validez del artículo 113 Bis, párrafo primero, del Código Fiscal de la Federación, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, de conformidad con lo expuesto en el apartado VI de esta decisión.
+
+**CUARTO.** Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2º, párrafo primero, fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal, publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, las cuales surtirán sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión, en el entendido de que únicamente la invalidez de este último precepto de la Ley Federal contra la Delincuencia Organizada tendrá efectos retroactivos al uno de enero de dos mil veinte, fecha en que entró en vigor el decreto por el que fue adicionado, en atención a lo determinado en los apartados VI y VII de esta determinación.
+
+**QUINTO.** Se declara la invalidez, por extensión, de los artículos 187, párrafo segundo, en su porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”, y 192, párrafo tercero, en su porción normativa “La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”, del Código Nacional de Procedimientos Penales, reformado y adicionado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con lo expuesto en los apartados VI y VII de esta sentencia.
+
+**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+Notifíquese; mediante oficio a las partes, al titular de la Fiscalía General de la República, a las Fiscalías Generales de las entidades federativas y a los Tribunales Superiores de Justicia de las entidades federativas del País y, en su oportunidad, archívese el expediente como asunto concluido.
+
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+
+…….
+
+El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos propuestos.
+
+En la sesión privada ordinaria celebrada el primero de abril de dos mil veinticinco, se aprobó el texto del engrose por unanimidad de ocho votos de las señoras Ministras y los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá con precisiones, Esquivel Mossa, Ortiz Ahlf, Pardo Rebolledo, Laynez Potisek, Pérez Dayán con precisiones y Presidenta Piña Hernández con precisiones. La señora Ministra Ana Margarita Ríos Farjat no asistió a la sesión por gozar de vacaciones al haber integrado la Comisión de Receso correspondiente al segundo período de sesiones de dos mil veinticuatro. La señora Ministras Batres Guadarrama estuvo ausente en la votación.
+
+La señora Ministra Presidenta Piña Hernández declaró que en los términos antes precisados se aprobó el texto del engrose de la sentencia emitida en la acción de inconstitucionalidad 130/2019 y su acumulada 136/2019.
+
+Firma el Secretario General de Acuerdos, quien da fe y certifica, para los efectos de lo previsto en el artículo 68, fracciones III y XIII, del Reglamento Interior de la Suprema Corte de Justicia de la Nación, la causa por la cual el engrose no se suscribe ni por el Ministro Presidente ni por el Ministro que presentó como ponente la propuesta de resolución que se discutió y aprobó en la sesión en la que se dictó la sentencia de la presente acción de inconstitucionalidad y su acumulada.
+
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Para efectos de lo previsto en el artículo 68, fracciones III y XIII, del Reglamento Interior de la Suprema Corte de Justicia de la Nación, ante la conclusión de los períodos constitucionales de los Ministros Arturo Zaldívar Lelo de Larrea y Luis María Aguilar Morales, el primero con motivo de la renuncia aprobada por el Senado de la República en su sesión del quince de noviembre de dos mil veintitrés, al tenor de su comunicado número 451 de esa fecha y, el segundo, por virtud de la terminación de dicho periodo el treinta de noviembre de dos mil veinticuatro, se hace constar que, como se advierte de las actas de las sesiones públicas del cinco, seis y ocho de septiembre, así como del veintidós y veinticuatro de noviembre de dos mil veintidós, en dichas sesiones se analizó y resolvió el proyecto presentado por el Ministro Aguilar Morales respecto de la acción de inconstitucionalidad 130/2019 y su acumulada 136/2019, en las cuales fungió como Presidente el Ministro Zaldívar Lelo de Larrea; posteriormente, en términos de la última parte de la fracción IV del artículo 14 de la Ley Orgánica del Poder Judicial de la Federación, el engrose respectivo circuló para observaciones del veintidós al veintiocho de noviembre de dos mil veinticuatro, plazo durante el cual se recibieron las observaciones de la Ministra Presidenta Norma Lucía Piña Hernández, las que se incorporaron al engrose y en sesión privada del Tribunal Pleno del primero de abril de dos mil veinticinco se aprobó el texto del engrose, lo que se precisa para los efectos de lo establecido en la primera parte de la fracción IV del artículo 14 de la Ley Orgánica del Poder Judicial de la Federación abrogada, aplicable en términos de lo previsto en el artículo tercero transitorio de la Ley Orgánica del Poder Judicial de la Federación vigente a partir del veintiuno de diciembre de dos mil veinticuatro.- Ciudad de México a veintiuno de abril de dos mil veinticinco.- Rúbrica.
+
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de noventa y ocho fojas útiles en las que se cuenta esta certificación, concuerda fiel y exactamente con el original de la sentencia emitida en la acción de inconstitucionalidad 130/2019 y su acumulada 136/2019, promovidas por la Comisión Nacional de los Derechos Humanos y diversos integrantes de la Cámara de Senadores del Congreso de la Unión, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del veinticuatro de noviembre de dos mil veintidós, con la certificación correspondiente del Secretario General de Acuerdos en términos de lo previsto en el artículo 68, fracciones III y XIII, del Reglamento Interior de la Suprema Corte de Justicia de la Nación, para los efectos de lo establecido en el artículo 14, fracción IV, de la Ley Orgánica del Poder Judicial de la Federación. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación. Ciudad de México, a veintitrés de junio de dos mil veinticinco.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+
+*Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025*
+
+**Artículo Quinto.-** Se reforma el quinto párrafo del artículo 138 del Código Nacional de Procedimientos Penales, para quedar como sigue:
+
+..........
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y, se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.
+
+*Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2025*
+
+**Artículo Tercero.-** Se reforman los artículos 167, párrafos tercero y cuarto, y 277, párrafo cuarto, del Código Nacional de Procedimientos Penales, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Toda referencia al delito de extorsión contemplada en el Código Penal Federal, los códigos penales de las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+**Tercero.** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+**Cuarto.** En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+
+Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
+
+**Quinto.** Las disposiciones relativas a los delitos de extorsión previstas tanto en el Código Penal Federal como en la legislación penal local vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+**Sexto.** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
+
+**Séptimo.** Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+**Octavo.** El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
+
+**Noveno.** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+**Décimo.** En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Ciudad de México, a 25 de noviembre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. Simey Olvera Bautista, Secretaria.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
