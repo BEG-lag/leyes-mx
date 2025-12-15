@@ -3,12 +3,11 @@ title: Ley General de Responsabilidades Administrativas
 abbreviation: LGRA
 slug: lgra
 published_dof: 2016-07-18
-last_reform_dof: 2025-01-02
-articles: 234
+last_reform_dof: 2025-12-15
+articles: 235
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc
-archived: https://web.archive.org/web/20250409172128/https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc
-source_sha256: f95520ea70d6a394c68f1e1ab886acab7b15f9cf66630df38ee71bd1f5bad245
-retrieved: 2025-04-09
+source_sha256: a6965ca932fceef4906a8a04f4c1346a3027c87e90972174210ff72ac7b72055
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgra.htm
 ---
 
@@ -18,7 +17,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 18 de julio de 201
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 02-01-2025
+Última reforma publicada DOF 15-12-2025
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -723,6 +722,12 @@ Son faltas administrativas graves las violaciones a las disposiciones sobre fide
 Es falta administrativa grave, la omisión de enterar las cuotas, aportaciones, cuotas sociales o descuentos ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos que señalan los artículos 21 y 22 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 *Artículo adicionado DOF 22-11-2021*
+
+###### Artículo 64 Quáter.
+
+Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional o en las leyes equivalentes de las entidades federativas.
+
+*Artículo adicionado DOF 15-12-2025*
 
 #### Capítulo III · De los actos de particulares vinculados con faltas administrativas graves
 
@@ -2451,3 +2456,21 @@ EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA
 Ciudad de México, a 10 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 31 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.
+
+*Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2025*
+
+**Artículo Segundo.-** Se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Dentro de los 45 días siguientes a la entrada en vigor del presente Decreto y de conformidad con lo previsto en el mismo, las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones normativas correspondientes.
+
+Ciudad de México, a 26 de noviembre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. Lizeth Sánchez García, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de diciembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
