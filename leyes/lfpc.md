@@ -3,12 +3,11 @@ title: Ley Federal de Protección al Consumidor
 abbreviation: LFPC
 slug: lfpc
 published_dof: 1992-12-24
-last_reform_dof: 2023-12-21
+last_reform_dof: 2025-12-23
 articles: 190
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LFPC.doc
-archived: https://web.archive.org/web/20240405093353/https://www.diputados.gob.mx/LeyesBiblio/doc/LFPC.doc
-source_sha256: a1d2c6cc1c6bcb8026da0a215121753cf3a8d7ffa5648737829c19cd01b1debc
-retrieved: 2024-04-05
+source_sha256: 418684daaeb7869dcdf6d83fe4a310b689c64967817de4cf194efd68418ac835
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm
 ---
 
@@ -18,9 +17,9 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 12-04-2019
+Última reforma publicada DOF 12-12-2025
 
-Actualización de montos de operaciones y multas por Acuerdo DOF 21-12-2023
+Actualización de montos de operaciones y multas por Acuerdo DOF 23-12-2025
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
@@ -438,17 +437,17 @@ XXVII. Las demás que le confieran esta ley y otros ordenamientos.
 
 La Procuraduría, para el desempeño de las funciones que le atribuye la ley, podrá aplicar previo apercibimiento las siguientes medidas de apremio:
 
-I. Multa de \$350.57 a \$35,057.35;
+I. Multa de \$380.44 a \$38,044.47;
 
-Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023
+Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025
 
 II. El auxilio de la fuerza pública;
 
 III. Ordenar arresto administrativo hasta por 36 horas, y
 
-IV. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por \$14,022.94, por un período no mayor a 180 días.
+IV. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por \$15,217.79, por un período no mayor a 180 días.
 
-Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023
+Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025
 
 Las medidas de apremio se aplicarán en función de la gravedad de la conducta u omisión en que hubiera incurrido el proveedor, sin existir alguna prelación específica en cuanto a su imposición.
 
@@ -498,9 +497,9 @@ En el caso de la medida precautoria a que se refiere la fracción VII de este pr
 
 #### ARTÍCULO 26.
 
-Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad o grupo de consumidores, la Procuraduría, así como cualquier legitimado a que se refiere el artículo 585 del Código Federal de Procedimientos Civiles, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en el Libro Quinto de dicho Código.
+Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad o grupo de consumidores, la Procuraduría, así como cualquier legitimado a que se refiere el artículo 862 del Código Nacional de Procedimientos Civiles y Familiares, podrán ejercitar la acción colectiva.
 
-*Artículo reformado DOF 04-02-2004, 30-08-2011*
+*Artículo reformado DOF 04-02-2004, 30-08-2011, 14-11-2025*
 
 #### ARTÍCULO 27.
 
@@ -1290,11 +1289,23 @@ IV. El proveedor evitará las prácticas comerciales engañosas respecto de las 
 
 V. El consumidor tendrá derecho a conocer toda la información sobre los términos, condiciones, costos, cargos adicionales, en su caso, formas de pago de los bienes y servicios ofrecidos por el proveedor;
 
-VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales, y
+VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales;
 
-VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población.
+*Fracción reformada DOF 12-12-2025*
 
-*Fracción reformada DOF 04-02-2004*
+VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población;
+
+*Fracción reformada DOF 04-02-2004, 12-12-2025*
+
+VIII. El proveedor deberá informar de forma clara, destacada y accesible si el servicio contratado implica cobros automáticos recurrentes, su periodicidad, monto y fecha de cobro.
+
+Los cobros señalados en el párrafo anterior, requerirán consentimiento expreso e informado de la persona consumidora. En los casos en los que, de acuerdo al contrato, proceda la renovación automática del servicio, se deberá notificar al menos con cinco días naturales de anticipación, permitiendo su cancelación sin penalización, y
+
+*Fracción adicionada DOF 12-12-2025*
+
+IX. El proveedor deberá implementar mecanismos que, sin contravenir a las disposiciones contractuales, permita a la persona consumidora cancelar el servicio, suscripción o membresía de manera inmediata.
+
+*Fracción adicionada DOF 12-12-2025*
 
 *Artículo adicionado DOF 29-05-2000*
 
@@ -1718,11 +1729,11 @@ g) Que no participan de manera institucional en actividades de proselitismo pol�
 
 *Fracción adicionada DOF 28-01-2011*
 
-Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de \$701,147.34.
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de \$760,889.82.
 
 *Párrafo adicionado DOF 04-02-2004*
 
-Monto de operación del párrafo actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023
+Monto de operación del párrafo actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
@@ -1920,9 +1931,9 @@ De toda audiencia se levantará el acta respectiva. En caso de que el proveedor 
 
 *Párrafo reformado DOF 04-02-2004*
 
-Para la sustanciación del procedimiento de conciliación a que se refiere el presente Capítulo, se aplicará supletoriamente el Código Federal de Procedimientos Civiles.
+Para la sustanciación del procedimiento de conciliación a que se refiere el presente Capítulo, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.
 
-*Párrafo adicionado DOF 04-02-2004*
+*Párrafo adicionado DOF 04-02-2004. Reformado DOF 14-11-2025*
 
 #### ARTÍCULO 114 BIS.
 
@@ -1994,11 +2005,11 @@ La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cu
 
 *Párrafo reformado DOF 04-02-2004*
 
-Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de \$701,147.34.
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de \$760,889.82.
 
 *Párrafo adicionado DOF 04-02-2004*
 
-Monto de operación del párrafo actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023
+Monto de operación del párrafo actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025
 
 #### ARTÍCULO 118.
 
@@ -2068,35 +2079,35 @@ Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuradur
 
 #### ARTÍCULO 126.
 
-Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de \$350.57 a \$1’121,835.75.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de \$380.44 a \$1,217,423.72.
 
 *Artículo reformado DOF 04-02-2004*
 
-Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023
+Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025
 
 #### ARTÍCULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de \$701.15 a \$2’243,671.49.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de \$760.89 a \$2,434,847.42.
 
 *Artículo reformado DOF 04-02-2004, 15-12-2011, 11-01-2018*
 
-Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023
+Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025
 
 #### ARTÍCULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 10 BIS, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 66, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis, y 121 serán sancionadas con multa de \$1,007.20 a \$3’939,305.36.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 10 BIS, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 66, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis, y 121 serán sancionadas con multa de \$1,093.02 a \$4,274,960.73.
 
 *Artículo reformado DOF 29-05-2000, 04-02-2004, 06-06-2006, 29-01-2009, 15-12-2011, 16-01-2013, 11-01-2018*
 
-Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023
+Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025
 
 #### ARTÍCULO 128 BIS.
 
-En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de \$210,344.21 a \$5’889,637.72. La clausura sólo se podrá imponer en el establecimiento en que se haya acreditado la irregularidad.
+En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de \$228,266.96 a \$6,391,474.56. La clausura sólo se podrá imponer en el establecimiento en que se haya acreditado la irregularidad.
 
 *Párrafo reformado DOF 11-01-2018*
 
-Multa del párrafo actualizada DOF 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023
+Multa del párrafo actualizada DOF 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025
 
 Las violaciones a lo establecido en el artículo 32 que se consideren particularmente graves conforme a lo establecido en el artículo 128 Ter de esta ley, serán sancionadas con la multa establecida en el párrafo anterior o bien con multa de hasta un 10% de los ingresos brutos anuales del infractor obtenidos por la comercialización del bien o los bienes, productos o servicios contenidos en la publicidad respectiva, correspondiente al último ejercicio fiscal en que se haya cometido la infracción, en caso de reincidencia.
 
@@ -2214,11 +2225,11 @@ En ningún caso será sancionado el mismo hecho constitutivo de la infracción e
 
 *Párrafo reformado DOF 19-08-2010*
 
-Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de \$11’779,275.40.
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de \$12,782,949.06.
 
 *Párrafo adicionado DOF 04-02-2004*
 
-Multa del párrafo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023
+Multa del párrafo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025
 
 #### ARTÍCULO 134.
 
@@ -3601,3 +3612,107 @@ Para efectuar el pago de las cantidades que resulten de la actualización, para 
 **ÚNICO.-** El presente Acuerdo entrará en vigor el 1 de enero de 2024.
 
 Ciudad de México, a 12 de diciembre de 2023.- El Procurador Federal del Consumidor, Doctor David Aguilar Romero.- Rúbrica.
+
+### ACUERDO por el que se actualizan los montos de las operaciones y multas previstas en la Ley Federal de Protección al Consumidor para el año dos mil veinticinco.
+
+*Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2024*
+
+**PRIMERO.-** El monto señalado en el artículo 99, segundo párrafo y en el artículo 117, segundo párrafo, en relación con el artículo 2, fracción I, de la Ley Federal de Protección al Consumidor, se actualiza para quedar en la cantidad de \$733,040.22.
+
+**SEGUNDO.-** El monto de la multa a que se refiere el artículo 25, fracción I de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$366.52 y un máximo de \$36,651.99.
+
+**TERCERO.-** El monto de la multa a que se refiere el artículo 25, fracción IV de la Ley Federal de Protección al Consumidor, se actualiza para quedar en la cantidad de \$14,660.80.
+
+**CUARTO.-** El monto de la multa a que se refiere el artículo 126 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$366.52 y un máximo de \$1’172,864.36.
+
+**QUINTO.-** El monto de la multa a que se refiere el artículo 127 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$733.04 y un máximo de \$2´345,728.71.
+
+**SEXTO.-** El monto de la multa a que se refiere el artículo 128 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$1,053.01 y un máximo de \$4´118,491.38.
+
+**SÉPTIMO.-** El monto de la multa a que se refiere el artículo 128 BIS de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$219,912.08 y un máximo de \$6´157,537.94.
+
+**OCTAVO.-** El monto de la multa prevista en el artículo 133 de la Ley Federal de Protección al Consumidor, no deberá rebasar la cantidad de \$12´315,075.83, cuando por un mismo hecho u omisión se cometan varias infracciones a las que esa ley imponga una sanción.
+
+**NOVENO.-** Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre del 2025.
+
+Para efectuar el pago de las cantidades que resulten de la actualización, para las fracciones del peso, el monto se adecuará para que las multas que contengan cantidades que incluyan de 1 hasta 50 centavos, se ajusten a la unidad inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Acuerdo deberá ser publicado en el Diario Oficial de la Federación y entrará en vigor el 01 de enero del 2025.
+
+Ciudad de México, a 13 de diciembre de 2024.- El Procurador Federal del Consumidor, Licenciado César Iván Escalante Ruiz.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+
+*Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025*
+
+**Artículo Trigésimo Séptimo.-** Se reforman los artículos 26 y 114, último párrafo, de la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se adicionan las fracciones VIII y IX al artículo 76 Bis de la Ley Federal de Protección al Consumidor, en materia de cancelación de suscripciones y membresías con cobro recurrente.
+
+*Publicado en el Diario Oficial de la Federación el 12 de diciembre de 2025*
+
+**Artículo Único.-** Se adicionan las fracciones VIII y IX al artículo 76 Bis de la Ley Federal de Protección al Consumidor, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 5 de noviembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de diciembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### ACUERDO por el que se actualizan los montos de las operaciones y multas previstas en la Ley Federal de Protección al Consumidor para el año dos mil veintiséis.
+
+*Publicado en el Diario Oficial de la Federación el 23 de diciembre de 2025*
+
+**PRIMERO.-** El monto señalado en el artículo 99, segundo párrafo y en el artículo 117, segundo párrafo, en relación con el artículo 2, fracción I, de la Ley Federal de Protección al Consumidor, se actualiza para quedar en la cantidad de \$760,889.82.
+
+**SEGUNDO.-** El monto de la multa a que se refiere el artículo 25, fracción I de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$380.44 y un máximo de \$38,044.47.
+
+**TERCERO.-** El monto de la multa a que se refiere el artículo 25, fracción IV de la Ley Federal de Protección al Consumidor, se actualiza para quedar en la cantidad de \$15,217.79.
+
+**CUARTO.-** El monto de la multa a que se refiere el artículo 126 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$380.44 y un máximo de \$1,217,423.72.
+
+**QUINTO.-** El monto de la multa a que se refiere el artículo 127 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$760.89 y un máximo de \$2,434,847.42.
+
+**SEXTO.-** El monto de la multa a que se refiere el artículo 128 de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$1,093.02 y un máximo de \$4,274,960.73.
+
+**SÉPTIMO.-** El monto de la multa a que se refiere el artículo 128 BIS de la Ley Federal de Protección al Consumidor, se actualiza para quedar en un mínimo de \$228,266.96 y un máximo de \$6,391,474.56.
+
+**OCTAVO.-** El monto de la multa prevista en el artículo 133 de la Ley Federal de Protección al Consumidor, no deberá rebasar la cantidad de \$12,782,949.06, cuando por un mismo hecho u omisión se cometan varias infracciones a las que esa ley imponga una sanción.
+
+**NOVENO.-** Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre del 2026.
+
+Para efectuar el pago de las cantidades que resulten de la actualización, para las fracciones del peso, el monto se adecuará para que las multas que contengan cantidades que incluyan de 1 hasta 50 centavos, se ajusten a la unidad inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
+
+**TRANSITORIO**
+
+**ÚNICO.-** El presente Acuerdo entrará en vigor a partir del 01 de enero de 2026.
+
+Ciudad de México, a 11 de diciembre del 2025.- El Procurador Federal del Consumidor, Licenciado César Iván Escalante Ruiz.- Rúbrica.
