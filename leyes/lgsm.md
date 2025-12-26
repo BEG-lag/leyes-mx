@@ -3,12 +3,11 @@ title: Ley General de Sociedades Mercantiles
 abbreviation: LGSM
 slug: lgsm
 published_dof: 1934-08-04
-last_reform_dof: 2023-12-28
+last_reform_dof: 2025-12-26
 articles: 277
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGSM.doc
-archived: https://web.archive.org/web/20240405093651/https://www.diputados.gob.mx/LeyesBiblio/doc/LGSM.doc
-source_sha256: 35ea74239bf73c723d6c09ab0b5dcba8572055089e3ccd38dfdde73d550a3ad5
-retrieved: 2024-04-05
+source_sha256: c3486886a618e2b5717f1e84fd04c7fd9717a8ef7e848c694fffa0d6b86fca6d
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm.htm
 ---
 
@@ -20,9 +19,7 @@ TEXTO VIGENTE
 
 Última reforma publicada DOF 20-10-2023
 
-Cantidades actualizadas por Acuerdo DOF 28-12-2023
-
-> Nota de vigencia: La reforma al segundo párrafo del artículo 81, publicada en el DOF 20-10-2023, entrará en vigor 20 de abril de 2024.
+Cantidades actualizadas por Acuerdo DOF 26-12-2025
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -2098,9 +2095,9 @@ Las asociaciones en participación funcionan, se disuelven y liquidan, a falta d
 
 La sociedad por acciones simplificada es aquella que se constituye con una o más personas físicas que solamente están obligadas al pago de sus aportaciones representadas en acciones. En ningún caso las personas físicas podrán ser simultáneamente accionistas de otro tipo de sociedad mercantil a que se refieren las fracciones I a VII, del artículo 1o. de esta Ley, si su participación en dichas sociedades mercantiles les permite tener el control de la sociedad o de su administración, en términos del artículo 2, fracción III de la Ley del Mercado de Valores.
 
-Los ingresos totales anuales de una sociedad por acciones simplificada no podrá rebasar de \$7,076,469.38. En caso de rebasar el monto respectivo, la sociedad por acciones simplificada deberá transformarse en otro régimen societario contemplado en esta Ley, en los términos en que se establezca en las reglas señaladas en el artículo 263 de la misma. El monto establecido en este párrafo se actualizará anualmente el primero de enero de cada año, considerando el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el que se efectúa la actualización, misma que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Economía publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año.
+Los ingresos totales anuales de una sociedad por acciones simplificada no podrá rebasar de \$7,678,849.94. En caso de rebasar el monto respectivo, la sociedad por acciones simplificada deberá transformarse en otro régimen societario contemplado en esta Ley, en los términos en que se establezca en las reglas señaladas en el artículo 263 de la misma. El monto establecido en este párrafo se actualizará anualmente el primero de enero de cada año, considerando el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el que se efectúa la actualización, misma que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Economía publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año.
 
-Cantidad del párrafo actualizada por acuerdo DOF 27-12-2022, 28-12-2023
+Cantidad del párrafo actualizada por acuerdo DOF 27-12-2022, 28-12-2023, 30-12-2024, 26-12-2025
 
 En caso que los accionistas no lleven a cabo la transformación de la sociedad a que se refiere el párrafo anterior responderán frente a terceros, subsidiaria, solidaria e ilimitadamente, sin perjuicio de cualquier otra responsabilidad en que hubieren incurrido.
 
@@ -2483,3 +2480,31 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 **ÚNICO.** El presente Acuerdo entrará en vigor el 1 de enero de 2024.
 
 Ciudad de México, a 19 de diciembre de 2023.- La Secretaria de Economía, Raquel Buenrostro Sánchez.- Rúbrica.
+
+### ACUERDO por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles.
+
+*Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2024*
+
+**PRIMERO.** El factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, aplicable a 2025, corresponde a 1.0455.
+
+**SEGUNDO.** Para efectos informativos, se da a conocer que, como resultado de la aplicación del factor de actualización señalado en el numeral anterior a la cantidad prevista en el artículo Segundo del "Acuerdo por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles", publicado en el Diario Oficial de la Federación el 28 de diciembre de 2023, los ingresos totales anuales de una sociedad por acciones simplificada no podrán rebasar de \$7,398,448.74 (siete millones trescientos noventa y ocho mil cuatrocientos cuarenta y ocho pesos 74/100 M.N.).
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Acuerdo entra en vigor el 1 de enero de 2025.
+
+Ciudad de México, a 26 de diciembre de 2024.- El Secretario de Economía, Marcelo Luis Ebrard Casaubon.- Rúbrica.
+
+### ACUERDO por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles.
+
+*Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2025*
+
+**PRIMERO.** El factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, aplicable a 2026, corresponde a 1.0379.
+
+**SEGUNDO.** Para efectos informativos, se da a conocer que, como resultado de la aplicación del factor de actualización señalado en el numeral anterior a la cantidad prevista en el artículo Segundo del "Acuerdo por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles", publicado en el Diario Oficial de la Federación el 30 de diciembre de 2024, los ingresos totales anuales de una sociedad por acciones simplificada no podrán rebasar de \$7,678,849.94 (siete millones seiscientos setenta y ocho mil ochocientos cuarenta y nueve pesos 94/100 M.N.).
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Acuerdo entra en vigor el 1 de enero de 2026.
+
+Ciudad de México, a 17 de diciembre de 2025.- El Secretario de Economía, Marcelo Luis Ebrard Casaubon.- Rúbrica.
