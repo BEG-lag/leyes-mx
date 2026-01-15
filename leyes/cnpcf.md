@@ -3,12 +3,11 @@ title: Código Nacional de Procedimientos Civiles y Familiares
 abbreviation: CNPCF
 slug: cnpcf
 published_dof: 2023-06-07
-last_reform_dof: 2024-12-16
+last_reform_dof: 2026-01-15
 articles: 1191
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc
-archived: https://web.archive.org/web/20250130165409/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc
-source_sha256: 791b91b6803476300ea0e205ad8b3d604e9c5b1a116bf1e00ff9bf65288a54ef
-retrieved: 2025-01-30
+source_sha256: a9e9e831ce78934d48733399f635de90314a6571fd3beaffc4b6abff283c5bb4
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf.htm
 ---
 
@@ -18,7 +17,7 @@ Nuevo Código publicado en el Diario Oficial de la Federación el 7 de junio de 
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 16-12-2024
+Última reforma publicada DOF 15-01-2026
 
 > Nota sobre la entrada en vigor y aplicación gradual de este Código: De conformidad con los artículos transitorios Primero y Segundo del Decreto DOF 07-06-2023, se establece:
 >
@@ -140,6 +139,10 @@ XXXVI. Videoconferencia. Sistema interactivo de comunicación que transmita, de 
 
 En el sistema de impartición de justicia en materia civil y familiar se ponderará en todo tiempo la solución de la controversia sobre los formalismos procesales, serán aplicables las reglas y principios del juicio oral en lo que resulte compatible; asimismo, serán considerados los beneficios de la justicia alternativa o procedimientos convencionales que pacten las partes y de conformidad con lo dispuesto en este Código Nacional, podrá tramitarse mediante el uso de las tecnologías de la información y la comunicación.
 
+En la impartición de justicia, las autoridades jurisdiccionales deberán velar en todo momento por garantizar la igualdad sustantiva entre mujeres y hombres, actuando con perspectiva de género y pleno respeto a los derechos humanos.
+
+*Párrafo adicionado DOF 15-01-2026*
+
 ###### Artículo 4.
 
 Las autoridades jurisdiccionales contarán con las más amplias facultades de dirección procesal para decidir en forma pronta y expedita lo que en derecho corresponda al procedimiento respectivo. Para hacer cumplir sus determinaciones podrán hacer uso de las medidas de apremio previstas en este Código Nacional.
@@ -150,9 +153,13 @@ Las autoridades jurisdiccionales deberán cerciorarse en todos los casos que las
 
 En los asuntos de orden familiar y civil, y sin alterar el principio de igualdad procesal, las partes podrán revelar su condición de vulnerabilidad, a fin de que la autoridad jurisdiccional provea ajustes de procedimiento en su caso y supla oportunamente de oficio, las deficiencias de sus planteamientos sobre la base de proteger los intereses de la familia, personas mayores, niñas, niños, adolescentes, personas con discapacidad o cualquier otra persona que se encuentre en alguna condición de vulnerabilidad.
 
-En los casos que se involucren derechos de niñas, niños y adolescentes, así como los derechos de las mujeres, la autoridad jurisdiccional deberá actuar y resolver con base en el interés superior de las niñas, niños, o adolescentes, así como con perspectiva de género de conformidad con los Tratados Internacionales de los que el Estado Mexicano sea parte.
+En los casos que se involucren derechos de niñas, niños y adolescentes, así como los derechos de las mujeres, la autoridad jurisdiccional deberá actuar y resolver con base en el interés superior de las niñas, niños, o adolescentes, con perspectiva de género de conformidad con las leyes aplicables y los Tratados Internacionales de los que el Estado Mexicano sea parte. En todo momento, la autoridad jurisdiccional estará obligada a garantizar la implementación de deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, en los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
 
-Asimismo, deberán adecuar sus actuaciones a las circunstancias de los grupos sociales en situación de vulnerabilidad mediante formatos alternativos, a fin de garantizar equidad y accesibilidad estructural y de comunicación, durante el procedimiento, en estricto apego al ejercicio de los derechos humanos.
+*Párrafo reformado DOF 15-01-2026*
+
+Asimismo, deberán adecuar sus actuaciones a las circunstancias de los grupos sociales en situación de vulnerabilidad mediante formatos alternativos, a fin de garantizar la igualdad sustantiva, la equidad y accesibilidad estructural y de comunicación, durante el procedimiento, en estricto apego al ejercicio de los derechos humanos.
+
+*Párrafo reformado DOF 15-01-2026*
 
 ###### Artículo 6.
 
@@ -190,7 +197,9 @@ XII. Litis abierta. En materia familiar, la litis no se reduce a la demanda y a 
 
 XIII. Oralidad. El proceso se desarrollará en audiencias orales, salvo las excepciones previstas en este Código Nacional y las que, en casos debidamente fundados y motivados, considere la autoridad jurisdiccional;
 
-XIV. Perspectiva de género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+XIV. Perspectiva de género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad sustantiva entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+*Fracción reformada DOF 15-01-2026*
 
 XV. Preclusión. El no ejercicio de los derechos procesales en la etapa correspondiente extingue la oportunidad de ejercerlos en la posterior;
 
@@ -382,7 +391,9 @@ Los procedimientos relacionados con el estado civil, así como su rectificación
 
 Tratándose de acciones del estado civil, salvo lo dispuesto en el párrafo siguiente, se realizará la anotación al margen o al calce del atestado respectivo, en los términos que sean ordenadas por la autoridad jurisdiccional o autoridad administrativa.
 
-En los procedimientos de reconocimiento de identidad de género, o de reasignación por concordancia sexo genérica, en la sentencia o constancia se deberá ordenar el levantamiento de una nueva acta de nacimiento, y la cancelación del acta de nacimiento primigenia.
+En los procedimientos de reconocimiento de identidad de género, o de reasignación por concordancia sexo genérica, en la sentencia o constancia se deberá ordenar el levantamiento de una nueva acta de nacimiento, y la cancelación del acta de nacimiento primigenia, observando el respeto a los derechos humanos y la perspectiva de género.
+
+*Párrafo reformado DOF 15-01-2026*
 
 ###### Artículo 41.
 
@@ -742,7 +753,9 @@ XIII. En los juicios de rectificación de actas del estado civil, lo es la del d
 
 XIV. En caso de abandono de hogar, la del domicilio en el que residía al momento del abandono el cónyuge, concubina o concubino, o conviviente que alega dicho abandono;
 
-XV. En los juicios de alimentos o violencia familiar, la del domicilio de la persona acreedora alimentaria, la de la receptora de la violencia o la de la parte demandada, a elección de la parte actora;
+XV. En los juicios de alimentos, violencia familiar o violencia vicaria, la del domicilio de la persona acreedora alimentaria, la de la receptora de la violencia o la de la parte demandada, a elección de la parte actora;
+
+*Fracción reformada DOF 15-01-2026*
 
 XVI. La del domicilio de la hija o hijo en las acciones de filiación, sean de impugnación, contradicción, reconocimiento o desconocimiento sobre la maternidad o paternidad, y
 
@@ -1304,7 +1317,9 @@ Son horas hábiles las comprendidas de las siete a las diecinueve horas, pero cu
 
 ###### Artículo 150.
 
-En los juicios que versen sobre alimentos, derechos de niñas, niños y adolescentes, controversias familiares, cualquier tipo de violencia intrafamiliar, y los demás que determinen las Leyes, todos los días y horas son hábiles.
+En los juicios que versen sobre alimentos, derechos de niñas, niños y adolescentes, controversias familiares, cualquier tipo de violencia familiar o violencia vicaria, y los demás que determinen las Leyes, todos los días y horas son hábiles.
+
+*Párrafo reformado DOF 15-01-2026*
 
 En los demás casos, la autoridad jurisdiccional puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
 
@@ -2292,7 +2307,9 @@ De la mencionada obligación están exentas las personas ascendientes, descendie
 
 Es inadmisible el testimonio de personas que, respecto del objeto de su declaración, tengan el deber de guardar secreto con motivo del conocimiento que tengan de los hechos debido a su empleo, cargo, puesto, oficio, profesión o relación de negocios.
 
-Cuando deba recibirse testimonio de menores de edad y se tema por su afectación psicológica o emocional, así como en caso de víctimas de cualquier tipo de violencia, la autoridad jurisdiccional a petición de las partes, podrá ordenar su recepción con el auxilio de familiares o peritos especializados.
+Cuando deba recibirse testimonio de menores de edad y se tema por su afectación psicológica o emocional, así como en caso de víctimas de cualquier tipo de violencia, la autoridad jurisdiccional, en cumplimiento de los deberes reforzados del Estado de protección con niñas, niños y adolescentes, ordenará su recepción con el auxilio de familiares o peritos especializados.
+
+*Párrafo reformado DOF 15-01-2026*
 
 Para ello deberán utilizarse las técnicas audiovisuales adecuadas que favorezcan evitar la confrontación con el generador de violencia.
 
@@ -4376,7 +4393,9 @@ Las partes estarán obligadas a facilitar el examen de las condiciones físicas 
 
 ###### Artículo 553.
 
-La admisión de hechos por las partes y el allanamiento de estos sólo vinculan a la autoridad jurisdiccional, cuando no se afecten los derechos de niñas, niños o adolescentes, tratándose de violencia familiar, sexual o contra la mujer. Cuando se trate de un delito sexual, la autoridad jurisdiccional estará obligada a dar parte al Ministerio Público, deberá salvaguardarse la integridad y apegarse al principio del interés superior de niñas, niños y adolescentes de manera inmediata.
+La admisión de hechos por las partes y el allanamiento de estos sólo vinculan a la autoridad jurisdiccional, cuando no se afecten los derechos de niñas, niños o adolescentes, tratándose de violencia familiar, vicaria, sexual o contra la mujer. Cuando se trate de un delito sexual, la autoridad jurisdiccional estará obligada a dar parte al Ministerio Público, deberá salvaguardarse la integridad y apegarse al principio del interés superior de niñas, niños y adolescentes de manera inmediata.
+
+*Artículo reformado DOF 15-01-2026*
 
 ###### Artículo 554.
 
@@ -4514,7 +4533,9 @@ Las medidas indicadas en las fracciones anteriores deberán ser revisadas por la
 
 ###### Artículo 570.
 
-Tratándose de las medidas provisionales y de protección dictadas en favor de víctimas de violencia familiar, para su revisión deberán observarse las condiciones establecidas en este Código Nacional y demás leyes aplicables.
+Tratándose de las medidas provisionales y de protección dictadas en favor de víctimas de violencia familiar o violencia vicaria, deberán observarse para su revisión y análisis las condiciones establecidas en este Código Nacional, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y demás leyes aplicables.
+
+*Artículo reformado DOF 15-01-2026*
 
 ###### Artículo 571.
 
@@ -4535,6 +4556,10 @@ V. La necesidad y proporcionalidad de la medida, las órdenes de protección deb
 ###### Artículo 572.
 
 En caso de que la autoridad jurisdiccional conozca de hechos que probablemente constituyen actos de violencia en contra de las mujeres; niñas, niños o adolescentes; o personas que pueden encontrarse en grupos que se encuentren en situación de vulnerabilidad, tiene la obligación de dictar órdenes de protección de urgente aplicación en función del interés superior de quien pudiere resultar víctima, las cuales serán personalísimas e intransferibles, pudiendo tener incluso el carácter de preventivas y serán consideradas de naturaleza familiar.
+
+Tratándose de medidas u órdenes de protección para casos de violencias en contra de mujeres, adolescentes, niñas y niños, se observará lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, para su emisión, integración y seguimiento en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños.
+
+*Párrafo adicionado DOF 15-01-2026*
 
 ###### Artículo 573.
 
@@ -4568,9 +4593,9 @@ XIII. Embargo preventivo de bienes del agresor, que deberá inscribirse en el Re
 
 XIV. En caso de ser solicitado, proveer a fin de que la víctima pueda recibir en instituciones públicas y de manera gratuita atención médica y acompañamiento psicológico.
 
-La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
 
-*Párrafo reformado DOF 16-12-2024*
+*Párrafo reformado DOF 16-12-2024, 15-01-2026*
 
 ###### Artículo 574.
 
@@ -4590,7 +4615,9 @@ La autoridad jurisdiccional tiene la obligación de dar seguimiento a las órden
 
 ###### Artículo 576.
 
-En el caso de violencia en contra de la mujer, serán aplicables las órdenes de protección que dispone la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, sin perjuicio de cualquier otra medida prevista en la legislación Federal y Local, así como en los tratados internacionales aplicables.
+En el caso de violencia en contra de la mujer, serán aplicables las órdenes de protección que dispone la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, sin perjuicio de cualquier otra medida prevista en la legislación Federal y Local, así como en los tratados internacionales aplicables.
+
+*Artículo reformado DOF 15-01-2026*
 
 ###### Artículo 577.
 
@@ -9683,3 +9710,31 @@ EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA
 Ciudad de México, a 11 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.
+
+*Publicado en el Diario Oficial de la Federación el 15 de enero de 2026*
+
+**Artículo Tercero.-** Se reforman los artículos 5, segundo y tercer párrafos; 7, fracción XIV; 40, segundo párrafo; 89, fracción XV; 150, primer párrafo; 271, quinto párrafo; 553; 570; 573, último párrafo y 576, y se adiciona un segundo párrafo al artículo 3 y un segundo párrafo al artículo 572, del Código Nacional de Procedimientos Civiles y Familiares, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+
+Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
