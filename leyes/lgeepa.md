@@ -3,12 +3,11 @@ title: Ley General del Equilibrio Ecológico y la Protección al Ambiente
 abbreviation: LGEEPA
 slug: lgeepa
 published_dof: 1988-01-28
-last_reform_dof: 2024-01-24
-articles: 268
+last_reform_dof: 2026-01-19
+articles: 270
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc
-archived: https://web.archive.org/web/20240405093511/https://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc
-source_sha256: 24b248708c56dccb7f9bff7ca832ffc8a1f1818197aac82aedb4da484d35c73c
-retrieved: 2024-04-05
+source_sha256: d313461ee994d9e48e9c2d2e5829db85415aca42e24a60348b9cf6b7a37922c4
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm
 ---
 
@@ -18,7 +17,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 198
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 24-01-2024
+Última reforma publicada DOF 19-01-2026
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -220,9 +219,9 @@ XXXI.- Región ecológica: La unidad del territorio nacional que comparte caract
 
 *Fracción recorrida DOF 28-01-2011*
 
-XXXII.- Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+XXXII.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a la normativa ambiental aplicable;
 
-*Fracción recorrida DOF 28-01-2011*
+*Fracción recorrida DOF 28-01-2011. Reformada DOF 19-01-2026*
 
 XXXIII.- Residuos peligrosos: son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad o que contengan agentes infecciosos que le confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio y por tanto, representan un peligro al equilibrio ecológico o el ambiente;
 
@@ -332,9 +331,9 @@ XXII.- Las demás que esta Ley u otras disposiciones legales atribuyan a la Fede
 
 ##### ARTÍCULO 6o.
 
-Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la Secretaría y, en su caso, podrán colaborar con ésta las Secretarías de Defensa Nacional y de Marina cuando por la naturaleza y gravedad del problema así lo determine, salvo las que directamente corresponden al Presidente de la República por disposición expresa de la Ley.
+Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la Secretaría y, en su caso, podrán colaborar con ésta las Secretarías de Defensa Nacional y de Marina, así como la Guardia Nacional, cuando por la naturaleza y gravedad del problema así lo determine, salvo las que directamente corresponden al Presidente de la República por disposición expresa de la Ley.
 
-*Párrafo reformado DOF 23-05-2006*
+*Párrafo reformado DOF 23-05-2006, 17-12-2025*
 
 Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública Federal u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
 
@@ -594,7 +593,9 @@ V.- La responsabilidad respecto al equilibrio ecológico, comprende tanto las co
 
 VI.- La prevención de las causas que los generan, es el medio más eficaz para evitar los desequilibrios ecológicos;
 
-VII.- El aprovechamiento de los recursos naturales renovables debe realizarse de manera que se asegure el mantenimiento de su diversidad y renovabilidad;
+VII.- El aprovechamiento de los recursos naturales renovables debe realizarse de manera que se asegure el mantenimiento de su diversidad y renovabilidad, así como sujetarse a las modalidades que dicte el interés público y, en su caso, implementar mecanismos en materia de economía circular;
+
+*Fracción reformada DOF 19-01-2026*
 
 VIII.- Los recursos naturales no renovables deben utilizarse de modo que se evite el peligro de su agotamiento y la generación de efectos ecológicos adversos;
 
@@ -606,7 +607,9 @@ XI.- En el ejercicio de las atribuciones que las leyes confieren al Estado, para
 
 XII.- Toda persona tiene derecho a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar. Las autoridades en los términos de esta y otras leyes, tomarán las medidas para garantizar ese derecho;
 
-XIII.- Garantizar el derecho de las comunidades, incluyendo a los pueblos indígenas, a la protección, preservación, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda y uso de la biodiversidad, de acuerdo a lo que determine la presente Ley y otros ordenamientos aplicables;
+XIII.- Garantizar el derecho de las comunidades, incluyendo a los pueblos y comunidades indígenas y afromexicanas, a la protección, preservación, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda y uso de la biodiversidad, de acuerdo a lo que determine la presente Ley y otros ordenamientos aplicables;
+
+*Fracción reformada DOF 01-04-2024*
 
 XIV.- La erradicación de la pobreza es necesaria para el desarrollo sustentable;
 
@@ -903,6 +906,10 @@ I.- La investigación científica y tecnológica, incorporación, innovación o 
 II.- La investigación e incorporación de sistemas de ahorro de energía y de utilización de fuentes de energía menos contaminantes;
 
 III.- El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
+
+III BIS.- El aprovechamiento de recursos naturales en los términos previstos en el artículo 107 Bis 1 de esta Ley;
+
+*Fracción adicionada DOF 19-01-2026*
 
 IV.- La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas;
 
@@ -1266,9 +1273,9 @@ Las entidades federativas podrán establecer sistemas de autorregulación y audi
 
 ##### ARTÍCULO 39.
 
-Las autoridades competentes promoverán la incorporación de contenidos ecológicos, desarrollo sustentable, mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático, protección del ambiente, conocimientos, valores y competencias, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
+Las autoridades competentes promoverán la incorporación de contenidos relacionados con la protección del ambiente, el desarrollo sustentable, la economía circular, la mitigación y adaptación al cambio climático, así como la reducción de la vulnerabilidad ante sus efectos, además de conocimientos, valores y competencias ambientales, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
 
-*Párrafo reformado DOF 07-01-2000, 13-05-2016*
+*Párrafo reformado DOF 07-01-2000, 13-05-2016, 19-01-2026*
 
 Asimismo, propiciarán la participación comprometida de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica, y la socialización de proyectos de desarrollo sustentable.
 
@@ -1358,9 +1365,9 @@ V.- Generar, rescatar y divulgar conocimientos, prácticas y tecnologías, tradi
 
 VI. Proteger poblados, vías de comunicación, instalaciones industriales y aprovechamientos agrícolas, mediante zonas forestales en montañas donde se originen torrentes; el ciclo hidrológico en cuencas, así como las demás que tiendan a la protección de elementos circundantes con los que se relacione ecológicamente el área; y
 
-VII.- Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otras áreas de importancia para la recreación, la cultura e identidad nacionales y de los pueblos indígenas.
+VII.- Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otras áreas de importancia para la recreación, la cultura e identidad nacionales y de los pueblos y comunidades indígenas y afromexicanas.
 
-*Fracción reformada DOF 13-12-1996*
+*Fracción reformada DOF 13-12-1996, 01-04-2024*
 
 ##### ARTÍCULO 45 BIS.
 
@@ -1434,9 +1441,15 @@ En las áreas naturales protegidas no se pueden realizar obras y trabajos de exp
 
 ##### ARTÍCULO 47.
 
-En el establecimiento, administración y manejo de las áreas naturales protegidas a que se refiere el artículo anterior, la Secretaría promoverá la participación de sus habitantes, propietarios o poseedores, gobiernos locales, pueblos indígenas, y demás organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas y su biodiversidad.
+En el establecimiento, administración y manejo de las áreas naturales protegidas a que se refiere el artículo anterior, la Secretaría promoverá la participación de sus habitantes, propietarios o poseedores, gobiernos locales, pueblos y comunidades indígenas y afromexicanas, y demás organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas y su biodiversidad.
+
+*Párrafo reformado DOF 01-04-2024*
 
 Para tal efecto, la Secretaría podrá suscribir con los interesados los convenios de concertación o acuerdos de coordinación que correspondan.
+
+En las actividades de inspección y vigilancia en las áreas naturales protegidas terrestres de competencia de la Federación, la Secretaría podrá solicitar la intervención de la Guardia Nacional.
+
+*Párrafo adicionado DOF 17-12-2025*
 
 *Artículo reformado DOF 13-12-1996*
 
@@ -1686,7 +1699,9 @@ I.- Los gobiernos locales en cuyas circunscripciones territoriales se localice e
 
 II.- Las dependencias de la Administración Pública Federal que deban intervenir, de conformidad con sus atribuciones;
 
-III.- Las organizaciones sociales públicas o privadas, pueblos indígenas, y demás personas físicas o morales interesadas, y
+III.- Las organizaciones sociales públicas o privadas, pueblos y comunidades indígenas y afromexicanas, y demás personas físicas o morales interesadas, y
+
+*Fracción reformada DOF 01-04-2024*
 
 IV.- Las universidades, centros de investigación, instituciones y organismos de los sectores público, social y privado interesados en el establecimiento, administración y vigilancia de áreas naturales protegidas.
 
@@ -1694,11 +1709,9 @@ IV.- Las universidades, centros de investigación, instituciones y organismos de
 
 ##### ARTÍCULO 59.
 
-Los pueblos indígenas, las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante la Secretaría el establecimiento, en terrenos de su propiedad o mediante contrato con terceros, de áreas naturales protegidas, cuando se trate de áreas destinadas a la preservación, protección y restauración de la biodiversidad. La Secretaría, en su caso, promoverá ante el Ejecutivo Federal la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en esta Ley.
+Los pueblos y comunidades indígenas y afromexicanas, las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante la Secretaría el establecimiento, en terrenos de su propiedad o mediante contrato con terceros, de áreas naturales protegidas, cuando se trate de áreas destinadas a la preservación, protección y restauración de la biodiversidad. La Secretaría, en su caso, promoverá ante el Ejecutivo Federal la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en esta Ley.
 
-*Reforma DOF 16-05-2008: Derogó del artículo el entonces párrafo segundo*
-
-*Artículo reformado DOF 13-12-1996*
+*Artículo reformado DOF 13-12-1996, 16-05-2008, 01-04-2024*
 
 ##### ARTÍCULO 60.
 
@@ -1776,13 +1789,11 @@ IV.- Promoverán ante la Secretaría de Hacienda y Crédito Público, que en las
 
 ##### ARTÍCULO 64 BIS 1.
 
-La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, podrán otorgar a los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas y demás personas interesadas, concesiones, permisos o autorizaciones para la realización de obras o actividades en las áreas naturales protegidas; de conformidad con lo que establece esta Ley, la declaratoria y el programa de manejo correspondientes.
+La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, podrán otorgar a los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y afromexicanas y demás personas interesadas, concesiones, permisos o autorizaciones para realización de obras o actividades en las áreas naturales protegidas; de conformidad con lo que establece esta Ley, la declaratoria y el programa de manejo correspondientes.
 
-*Párrafo reformado DOF 19-01-2018*
+Los núcleos agrarios, pueblos y comunidades indígenas y afromexicanas y demás propietarios o poseedores de los predios en los que se pretendan desarrollar las obras o actividades anteriormente señaladas, tendrán preferencia para obtener los permisos, concesiones y autorizaciones respectivos.
 
-Los núcleos agrarios, pueblos indígenas y demás propietarios o poseedores de los predios en los que se pretendan desarrollar las obras o actividades anteriormente señaladas, tendrán preferencia para obtener los permisos, concesiones y autorizaciones respectivos.
-
-*Artículo adicionado DOF 13-12-1996*
+*Artículo adicionado DOF 13-12-1996. Reformado DOF 19-01-2018, 01-04-2024*
 
 ##### ARTÍCULO 65.
 
@@ -1818,9 +1829,9 @@ La Secretaría deberá publicar en el Diario Oficial de la Federación, un resum
 
 ##### ARTÍCULO 67.
 
-La Secretaría podrá, una vez que se cuente con el programa de manejo respectivo, otorgar a los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como a ejidos, comunidades agrarias, pueblos indígenas, grupos y organizaciones sociales, y empresariales y demás personas físicas o morales interesadas, la administración de las áreas naturales protegidas a que se refieren las fracciones I a VIII del Artículo 46 de esta Ley. Para tal efecto, se deberán suscribir los acuerdos o convenios que conforme a la legislación aplicable procedan.
+La Secretaría podrá, una vez que se cuente con el programa de manejo respectivo, otorgar a los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como a ejidos, comunidades agrarias, pueblos y comunidades indígenas y afromexicanas, grupos y organizaciones sociales, y empresariales y demás personas físicas o morales interesadas, la administración de las áreas naturales protegidas a que se refieren las fracciones I a VIII del Artículo 46 de esta Ley. Para tal efecto, se deberán suscribir los acuerdos o convenios que conforme a la legislación aplicable procedan.
 
-*Párrafo reformado DOF 19-01-2018*
+*Párrafo reformado DOF 19-01-2018, 01-04-2024*
 
 Quienes en virtud de lo dispuesto en este artículo adquieran la responsabilidad de administrar las áreas naturales protegidas, estarán obligados a sujetarse a las previsiones contenidas en la presente Ley, los reglamentos, normas oficiales mexicanas que se expidan en la materia, así como a cumplir los decretos por los que se establezcan dichas áreas y los programas de manejo respectivos.
 
@@ -1910,7 +1921,9 @@ Las Dependencias de la Administración Pública Federal, los gobiernos de las en
 
 ##### ARTÍCULO 77 BIS.
 
-Los pueblos indígenas, organizaciones sociales, personas morales, públicas o privadas, y demás personas interesadas en destinar voluntariamente a la conservación predios de su propiedad, establecerán, administrarán y manejarán dichas áreas conforme a lo siguiente:
+Los pueblos y comunidades indígenas y afromexicanas, organizaciones sociales, personas morales, públicas o privadas, y demás personas interesadas en destinar voluntariamente a la conservación predios de su propiedad, establecerán, administrarán y manejarán dichas áreas conforme a lo siguiente:
+
+*Párrafo reformado DOF 01-04-2024*
 
 I.- Las áreas destinadas voluntariamente a la conservación se establecerán mediante certificado que expida la Secretaría, en el cual las reconozca como áreas naturales protegidas. Los interesados en obtener dicho certificado presentarán una solicitud que contenga:
 
@@ -1970,7 +1983,9 @@ VI.- El Reglamento establecerá los procedimientos relativos a la modificación 
 
 En aquellas áreas que presenten procesos de degradación o desertificación, o graves desequilibrios ecológicos, la Secretaría deberá formular y ejecutar programas de restauración ecológica, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ella se desarrollaban.
 
-En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá promover la participación de los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas, gobiernos locales, y demás personas interesadas.
+En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá promover la participación de los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y afromexicanas, gobiernos locales, y demás personas interesadas.
+
+*Párrafo reformado DOF 01-04-2024*
 
 *Artículo reformado DOF 13-12-1996*
 
@@ -1988,7 +2003,9 @@ II.- Las acciones necesarias para regenerar, recuperar o restablecer las condici
 
 III.- Las condiciones a que se sujetarán, dentro de la zona, los usos del suelo, el aprovechamiento de los recursos naturales, la flora y la fauna, así como la realización de cualquier tipo de obra o actividad;
 
-IV.- Los lineamientos para la elaboración y ejecución del programa de restauración ecológica correspondiente, así como para la participación en dichas actividades de propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas, gobiernos locales y demás personas interesadas, y
+IV.- Los lineamientos para la elaboración y ejecución del programa de restauración ecológica correspondiente, así como para la participación en dichas actividades de propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y afromexicanas, gobiernos locales y demás personas interesadas, y
+
+*Fracción reformada DOF 01-04-2024*
 
 V.- Los plazos para la ejecución del programa de restauración ecológica respectivo.
 
@@ -2032,7 +2049,9 @@ VIII.- El fomento del trato digno y respetuoso a las especies animales, con el p
 
 IX.- El desarrollo de actividades productivas alternativas para las comunidades rurales, y
 
-X.- El conocimiento biológico tradicional y la participación de las comunidades, así como los pueblos indígenas en la elaboración de programas de biodiversidad de las áreas en que habiten.
+X.- El conocimiento biológico tradicional y la participación de las comunidades, así como los pueblos y comunidades indígenas y afromexicanas en la elaboración de programas de biodiversidad de las áreas en que habiten.
+
+*Fracción reformada DOF 01-04-2024*
 
 *Artículo reformado DOF 13-12-1996*
 
@@ -2465,6 +2484,24 @@ Una vez dictaminada la viabilidad del programa, la persona interesada deberá pr
 El incumplimiento de cualquiera de las obligaciones previstas en el programa será motivo de ejecución de la garantía.
 
 *Artículo adicionado DOF 08-05-2023*
+
+### CAPÍTULO II BIS · Aprovechamiento Sustentable en las Actividades Económicas
+
+*Capítulo adicionado DOF 19-01-2026*
+
+##### ARTÍCULO 107 BIS 1.
+
+El aprovechamiento de materiales vírgenes extraídos de fuentes naturales para destinarse a las actividades económicas, procesos productivos o generación de productos deberá cumplir con los principios, criterios, estrategias, mecanismos y obligaciones previstos en materia de economía circular, conforme a la legislación aplicable.
+
+Cuando sea ambiental, técnica y económicamente viable, dicho aprovechamiento deberá fomentar el encadenamiento productivo, privilegiando la integración progresiva de materias primas secundarias provenientes de actividades económicas, procesos o productos valorizados, a fin de reducir la dependencia de materiales vírgenes.
+
+*Artículo adicionado DOF 19-01-2026*
+
+##### ARTÍCULO 107 BIS 2.
+
+El aprovechamiento debe propiciar y maximizar la vida útil de los productos, la valorización de los residuos, y garantizar la menor huella ambiental posible.
+
+*Artículo adicionado DOF 19-01-2026*
 
 ### CAPÍTULO III · De la Exploración y Explotación de los Recursos no Renovables en el Equilibrio Ecológico
 
@@ -3176,13 +3213,13 @@ El Gobierno Federal deberá promover la participación corresponsable de la soci
 
 Para los efectos del artículo anterior, la Secretaría:
 
-I.- Convocará, en el ámbito del Sistema Nacional de Planeación Democrática, a las organizaciones obreras, empresariales, de campesinos y productores agropecuarios, pesqueros y forestales, comunidades agrarias, pueblos indígenas, instituciones educativas, organizaciones sociales y privadas no lucrativas y demás personas interesadas para que manifiesten su opinión y propuestas;
+I.- Convocará, en el ámbito del Sistema Nacional de Planeación Democrática, a las organizaciones obreras, empresariales, de campesinos y productores agropecuarios, pesqueros y forestales, comunidades agrarias, pueblos y comunidades indígenas y afromexicanas, instituciones educativas, organizaciones sociales y privadas no lucrativas y demás personas interesadas para que manifiesten su opinión y propuestas;
 
-*Fracción reformada DOF 13-12-1996*
+*Fracción reformada DOF 13-12-1996, 01-04-2024*
 
-II.- Celebrará convenios de concertación con organizaciones obreras y grupos sociales para la protección del ambiente en los lugares de trabajo y unidades habitacionales; con pueblos indígenas, comunidades agrarias y demás organizaciones campesinas para el establecimiento, administración y manejo de áreas naturales protegidas, y para brindarles asesoría ecológica en las actividades relacionadas con el aprovechamiento sustentable de los recursos naturales; con organizaciones empresariales, en los casos previstos en esta Ley para la protección del ambiente; con instituciones educativas y académicas, para la realización de estudios e investigaciones en la materia; con organizaciones civiles e instituciones privadas no lucrativas, para emprender acciones ecológicas conjuntas; así como con representaciones sociales y con particulares interesados en la preservación y restauración del equilibrio ecológico para la protección al ambiente;
+II.- Celebrará convenios de concertación con organizaciones obreras y grupos sociales para la protección del ambiente en los lugares de trabajo y unidades habitacionales; con pueblos y comunidades indígenas y afromexicanas, comunidades agrarias y demás organizaciones campesinas para el establecimiento, administración y manejo de áreas naturales protegidas, y para brindarles asesoría ecológica en las actividades relacionadas con el aprovechamiento sustentable de los recursos naturales; con organizaciones empresariales, en los casos previstos en esta Ley para la protección del ambiente; con instituciones educativas y académicas, para la realización de estudios e investigaciones en la materia; con organizaciones civiles e instituciones privadas no lucrativas, para emprender acciones ecológicas conjuntas; así como con representaciones sociales y con particulares interesados en la preservación y restauración del equilibrio ecológico para la protección al ambiente;
 
-*Fracción reformada DOF 13-12-1996*
+*Fracción reformada DOF 13-12-1996, 01-04-2024*
 
 III.- Celebrará convenios con los medios de comunicación masiva para la difusión, información y promoción de acciones de preservación del equilibrio ecológico y la protección al ambiente;
 
@@ -3194,9 +3231,9 @@ V.- Impulsará el fortalecimiento de la conciencia ecológica, a través de la r
 
 *Fracción reformada DOF 13-12-1996, 19-01-2018*
 
-VI.- Concertará acciones e inversiones con los sectores social y privado y con instituciones académicas, grupos y organizaciones sociales, pueblos indígenas y demás personas físicas y morales interesadas, para la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+VI.- Concertará acciones e inversiones con los sectores social y privado y con instituciones académicas, grupos y organizaciones sociales, pueblos y comunidades indígenas y afromexicanas y demás personas físicas y morales interesadas, para la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-*Fracción adicionada DOF 13-12-1996*
+*Fracción adicionada DOF 13-12-1996. Reformada DOF 01-04-2024*
 
 ##### ARTÍCULO 159.
 
@@ -3302,7 +3339,9 @@ Tratándose de materias referidas en esta Ley que se encuentran reguladas por le
 
 ##### ARTÍCULO 161.
 
-La Secretaría realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven.
+La Secretaría realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven. Para tal efecto, la Secretaría podrá solicitar la intervención de la Guardia Nacional, previa suscripción de los convenios o acuerdos de colaboración que correspondan.
+
+*Párrafo reformado DOF 17-12-2025*
 
 En las zonas marinas mexicanas la Secretaría, por sí o por conducto de la Secretaría de Marina, realizará los actos de inspección, vigilancia y, en su caso, de imposición de sanciones por violaciones a las disposiciones de esta Ley.
 
@@ -3350,7 +3389,9 @@ La persona con quien se entienda la diligencia estará obligada a permitir al pe
 
 ##### ARTÍCULO 166.
 
-La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
+La autoridad competente podrá solicitar el auxilio de la fuerza pública o, en su caso, la intervención de la Guardia Nacional, para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
+
+*Artículo reformado DOF 17-12-2025*
 
 ##### ARTÍCULO 167.
 
@@ -3860,7 +3901,9 @@ Las autoridades y servidores públicos a los que se les solicite información o 
 
 La procuraduría Federal de Protección al Ambiente, en el ámbito de sus atribuciones, está facultada para iniciar las acciones que procedan, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
 
-Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad, la procuraduría Federal de Protección al Ambiente, así como cualquier legitimado a que se refiere el artículo 585 del Código Federal de Procedimientos Civiles, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en el Libro Quinto de dicho Código.
+Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad, la Procuraduría Federal de Protección al Ambiente, así como cualquier legitimado a que se refiere el artículo 862 del Código Nacional de Procedimientos Civiles y Familiares, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en dicho ordenamiento.
+
+*Párrafo reformado DOF 14-11-2025*
 
 Lo anterior también será aplicable respecto de aquellos actos, hechos u omisiones que violenten la legislación ambiental de las entidades federativas.
 
@@ -4821,3 +4864,97 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 05 de diciembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Diana Estefanía Gutiérrez Valtierra, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
+
+*Publicado en el Diario Oficial de la Federación el 1 de abril de 2024*
+
+**Artículo Trigésimo Octavo.-** Se reforman los artículos 15, fracción XIII; 45, fracción VII; 47, primer párrafo; 58, fracción III; 59; 64 BIS 1; 67, primer párrafo; 77 BIS, primer párrafo; 78, párrafo segundo; 78 BIS, fracción IV; 79, fracción X y 158, fracciones I, II y VI, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+
+*Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025*
+
+**Artículo Quincuagésimo Segundo.-** Se reforma el segundo párrafo del artículo 202 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en relación con la participación de la Guardia Nacional en tareas de inspección y vigilancia.
+
+*Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2025*
+
+**Artículo Único.-** Se reforman los artículos 6o., primer párrafo; 161, primer párrafo y 166; y se adiciona un párrafo tercero al artículo 47 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día natural siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo Federal deberá realizar las modificaciones que, en su caso, procedan al Reglamento de la Ley de la Guardia Nacional, a efecto de dar cabal cumplimiento a lo dispuesto en el presente Decreto.
+
+Ciudad de México, a 3 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de diciembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se expide la Ley General de Economía Circular y, se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de la Ley General para la Prevención y Gestión Integral de los Residuos.
+
+*Publicado en el Diario Oficial de la Federación el 19 de enero de 2026*
+
+**Artículo Segundo.-** Se reforman los artículos 3o., fracción XXXII; 15, fracción VII y 39, primer párrafo, y se adicionan la fracción III Bis al artículo 22 Bis, el Capítulo II Bis “Aprovechamiento Sustentable en las Actividades Económicas” al Título Tercero, y los artículos 107 Bis 1 y 107 Bis 2, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Ejecutivo Federal, dentro de los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, deberá expedir el o los reglamentos de la Ley General de Economía Circular.
+
+Las autoridades competentes de la Administración Pública Federal iniciarán el procedimiento administrativo para modificar y adecuar las normas oficiales mexicanas existentes, así como el procedimiento administrativo para la creación y expedición de las normas oficiales mexicanas que se requieran, conforme a las disposiciones jurídicas aplicables.
+
+Para la implementación de esta disposición transitoria debe seguirse lo establecido en la fracción III del artículo 6 de esta Ley.
+
+**Tercero.** El Programa Nacional de Economía Circular se publicará en el Diario Oficial de la Federación en un plazo no mayor a ciento ochenta días naturales, contados a partir de la publicación del Reglamento de la presente Ley. En la identificación de sectores productivos y categorías de productos del Programa 2026-2030 deben incluirse aquellos correspondientes al plástico que, en términos de los procedimientos de la Ley de Planeación, determine la Secretaría.
+
+**Cuarto.** Dentro del plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, las legislaturas de las entidades federativas adecuarán y armonizarán su legislación con las disposiciones de la Ley General de Economía Circular que se expide con el presente Decreto.
+
+**Quinto.** Las legislaturas locales que no efectúen la armonización que se indica en el transitorio anterior deberán aplicar las disposiciones de esta Ley, en el ámbito local.
+
+**Sexto.** A partir de la entrada en vigor de la presente Ley y dentro del plazo de cinco años con prórroga por acuerdo casuístico, los rellenos sanitarios autorizados iniciarán un proceso progresivo de reconversión para cumplir con las metas de reducción de la disposición final para promover su integración en el Modelo de Economía Circular Nacional.
+
+**Séptimo.** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo al presupuesto aprobado a la Secretaría de Medio Ambiente y Recursos Naturales, para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, las modificaciones a la estructura orgánica deberán llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no incrementará su presupuesto regularizable de gasto de operación ni de servicios personales y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+Ciudad de México, a 10 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
