@@ -3,12 +3,11 @@ title: Código de Comercio
 abbreviation: CCom
 slug: ccom
 published_dof: 1889-10-07
-last_reform_dof: 2023-12-28
+last_reform_dof: 2026-02-18
 articles: 1641
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CCom.doc
-archived: https://web.archive.org/web/20240405093805/https://www.diputados.gob.mx/LeyesBiblio/doc/CCom.doc
-source_sha256: 874ab0b7504361a9c6d7bf9e4eddca6b10658149969ff7a27b1ea58d0fa4d5e7
-retrieved: 2024-04-05
+source_sha256: 823ff8eaeb1e740d8e344b13592f5f4a81f0a595fe6259be06e131f6b91248dd
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/ccom.htm
 ---
 
@@ -18,9 +17,9 @@ Nuevo Código publicado en el Diario Oficial de la Federación del 7 de octubre 
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 28-03-2018
+Última reforma publicada DOF 14-11-2025
 
-Cantidades actualizadas por Acuerdo DOF 28-12-2023
+Cantidades actualizadas por Acuerdo DOF 18-02-2026
 
 El Presidente de la República se ha servido dirigirme el decreto que sigue:
 
@@ -7712,9 +7711,9 @@ En las demás materias, a falta de acuerdo especial u omisión de las partes en 
 
 ###### Artículo 1054.
 
-En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y, en su defecto, se aplicará supletoriamente el Código Federal de Procedimientos Civiles y en caso de que no regule suficientemente la institución cuya supletoriedad se requiera, la ley de procedimientos local respectiva.
+En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este Libro y, en su defecto, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.
 
-*Artículo reformado DOF 04-01-1989, 24-05-1996, 13-06-2003, 17-04-2008, 30-12-2008*
+*Artículo reformado DOF 04-01-1989, 24-05-1996, 13-06-2003, 17-04-2008, 30-12-2008, 14-11-2025*
 
 ###### Artículo 1055.
 
@@ -7822,9 +7821,9 @@ Lo dispuesto en la fracción anterior, se observará también respecto de los es
 
 ###### Artículo 1061 Bis.
 
-En todos los juicios mercantiles se reconoce como prueba la información generada o comunicada que conste en medios digitales, ópticos o en cualquier otra tecnología. Su valor probatorio se regirá conforme a lo previsto por el artículo 210-A del Código Federal de Procedimientos Civiles.
+En todos los juicios mercantiles se reconoce como prueba la información generada o comunicada que conste en medios digitales, ópticos o en cualquier otra tecnología. Su valor probatorio se regirá conforme a lo previsto por los artículos 348, 349 y 350 del Código Nacional de Procedimientos Civiles y Familiares.
 
-*Artículo adicionado DOF 13-06-2014*
+*Artículo adicionado DOF 13-06-2014. Reformado DOF 14-11-2025*
 
 ###### Artículo 1062.
 
@@ -7836,9 +7835,9 @@ En el caso de que se demuestre haber solicitado al protocolo dependencia o archi
 
 ###### Artículo 1063.
 
-Los juicios mercantiles se substanciarán de acuerdo a los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Federal de Procedimientos Civiles y en último término por el Código de Procedimientos Civiles local.
+Los juicios mercantiles se substanciarán de acuerdo con los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Nacional de Procedimientos Civiles y Familiares.
 
-*Artículo reformado DOF 04-01-1989, 24-05-1996, 13-06-2003, 17-04-2008*
+*Artículo reformado DOF 04-01-1989, 24-05-1996, 13-06-2003, 17-04-2008, 14-11-2025*
 
 ###### Artículo 1064.
 
@@ -7880,9 +7879,9 @@ Para hacer cumplir sus determinaciones el juez puede emplear cualquiera de las s
 
 I. Amonestación;
 
-II. Multa hasta de \$10,220.52, monto que se actualizará en términos del artículo 1253, fracción VI;
+II. Multa hasta de \$11,091.60, monto que se actualizará en términos del artículo 1253, fracción VI;
 
-Multa de la fracción actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023
+Multa de la fracción actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026
 
 III. El uso de la fuerza pública y rompimiento de cerraduras si fuere necesaria, y
 
@@ -9566,11 +9565,11 @@ V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten su
 
 VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.
 
-En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de \$5,110.26 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
+En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de \$5,545.80 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
 *Párrafo reformado DOF 30-12-2008, 09-01-2012*
 
-Multa del párrafo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023
+Multa del párrafo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026
 
 Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dicho monto y el mes de noviembre del año en cuestión.
 
@@ -10190,11 +10189,11 @@ La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sól
 
 ###### Artículo 1339.
 
-Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a \$851,710.18 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
+Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a \$924,300.58 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
 
 *Párrafo reformado DOF 09-01-2012*
 
-Cantidad del párrafo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023
+Cantidad del párrafo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026
 
 Corresponderá a la Secretaría de Economía actualizar cada año por inflación el monto expresado en pesos en el párrafo anterior y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
@@ -10228,11 +10227,11 @@ Los asuntos de cuantía indeterminada siempre serán apelables.
 
 ###### Artículo 1340.
 
-La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a \$851,710.18 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
+La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a \$924,300.58 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
 
 *Artículo reformado DOF 30-12-1975, 04-01-1989, 17-04-2008, 30-12-2008, 09-01-2012*
 
-Cantidad del artículo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023
+Cantidad del artículo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026
 
 ###### Artículo 1341.
 
@@ -11092,11 +11091,11 @@ VI. La citación para audiencia de juicio.
 
 ###### Artículo 1390 Bis 33.
 
-La audiencia preliminar se llevará a cabo con o sin asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a \$2,869.10, ni superior a \$9,291.69, monto que se actualizará en los términos del artículo 1253, fracción VI de este Código.
+La audiencia preliminar se llevará a cabo con o sin asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a \$3,113.63, ni superior a \$10,051.06, monto que se actualizará en los términos del artículo 1253, fracción VI de este Código.
 
 *Artículo adicionado DOF 27-01-2011. Reformado DOF 25-01-2017*
 
-Cantidades del artículo actualizadas por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023
+Cantidades del artículo actualizadas por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026
 
 ###### Artículo 1390 Bis 34.
 
@@ -11530,7 +11529,9 @@ En todo momento, el actor tendrá acceso a los bienes embargados, a efecto de ve
 
 ###### Artículo 1393.
 
-No encontrándose el demandado a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Federal de Procedimientos Civiles, respecto de los embargos.
+No encontrándose el demandado a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Nacional de Procedimientos Civiles y Familiares respecto de los embargos.
+
+*Párrafo reformado DOF 14-11-2025*
 
 Una vez que el actuario o ejecutor se cerciore de que en el domicilio sí habita la persona buscada y después de la habilitación de días y horas inhábiles, de persistir la negativa de abrir o de atender la diligencia, el actuario dará fe para que el Juez ordene dicha diligencia por medio de edictos sin girar oficios para la localización del domicilio.
 
@@ -11756,9 +11757,9 @@ Las partes, durante el juicio, podrán convenir en que los bienes embargados se 
 
 ###### Artículo 1414.
 
-Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercantiles será resuelto por el juez con apoyo en las disposiciones respectivas de este Título; y en su defecto, en lo relativo a los incidentes en los Juicios Ordinarios Mercantiles; y a falta de uno u otro, a lo que disponga el Código Federal de Procedimientos Civiles, o en su defecto la ley procesal de la Entidad Federativa correspondiente, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
+Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercantiles será resuelto por el juez con apoyo en las disposiciones respectivas de este Título; y en su defecto, en lo relativo a los incidentes en los Juicios Ordinarios Mercantiles; y a falta de uno u otro, a lo que disponga el Código Nacional de Procedimientos Civiles y Familiares, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
 
-*Artículo reformado DOF 24-05-1996, 13-06-2003, 17-04-2008*
+*Artículo reformado DOF 24-05-1996, 13-06-2003, 17-04-2008, 14-11-2025*
 
 ### TITULO TERCERO BIS · De los procedimientos de ejecución de la prenda sin transmisión de posesión y del fideicomiso de garantía
 
@@ -12516,7 +12517,9 @@ b) Si la nulidad, la ineficacia o la imposible ejecución del acuerdo de arbitra
 
 ###### Artículo 1466.
 
-Se tramitarán en vía de jurisdicción voluntaria conforme a los artículos 530 a 532 y 534 a 537 del Código Federal de Procedimientos Civiles:
+Se tramitarán en vía de jurisdicción voluntaria conforme al Código Nacional de Procedimientos Civiles y Familiares, con excepción del artículo 433:
+
+*Párrafo reformado DOF 14-11-2025*
 
 I. La solicitud de designación de árbitros o la adopción de medidas previstas en las fracciones III y IV del artículo 1427 de este Código.
 
@@ -12616,9 +12619,9 @@ Celebrada la audiencia el juez citará a las partes para oír sentencia. Las res
 
 ###### Artículo 1477.
 
-Los juicios especiales que versen sobre nulidad o reconocimiento y ejecución de laudos comerciales podrán acumularse. Para que proceda la acumulación, es necesario que no se haya celebrado la audiencia de alegatos. La acumulación se hará en favor del juez que haya prevenido. La acumulación no procede respecto de procesos que se ventilen en jurisdicciones territoriales diversas o en el extranjero, ni entre tribunales federales y los de los estados. La acumulación se tramitará conforme a los artículos 73 a 75 del Código Federal de Procedimientos Civiles. La resolución que resuelva sobre la acumulación es irrecurrible.
+Los juicios especiales que versen sobre nulidad o reconocimiento y ejecución de laudos comerciales podrán acumularse. Para que proceda la acumulación, es necesario que no se haya celebrado la audiencia de alegatos. La acumulación se hará en favor del juez que haya prevenido. La acumulación no procede respecto de procesos que se ventilen en jurisdicciones territoriales diversas o en el extranjero, ni entre tribunales federales y los de los estados. La acumulación se tramitará conforme al Código Nacional de Procedimientos Civiles y Familiares. La resolución que resuelva sobre la acumulación es irrecurrible.
 
-*Artículo derogado DOF 20-04-1943. Adicionado DOF 27-01-2011*
+*Artículo derogado DOF 20-04-1943. Adicionado DOF 27-01-2011. Reformado DOF 14-11-2025*
 
 ###### Artículo 1478.
 
@@ -14153,3 +14156,97 @@ V. Artículo 1390 Bis 33: de \$ 2,869.10 (dos mil ochocientos sesenta y nueve pe
 **ÚNICO.** El presente Acuerdo entrará en vigor el 1 de enero de 2024.
 
 Ciudad de México, a 19 de diciembre de 2023.- La Secretaria de Economía, Raquel Buenrostro Sánchez.- Rúbrica.
+
+### ACUERDO por el que se da a conocer la actualización de los montos establecidos en los artículos 1067 Bis fracción II, 1253 fracción VI, 1339, 1340 y 1390 Bis 33 del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2024*
+
+**Único.** Los montos actualizados correspondientes a los artículos 1067 Bis, fracción II; 1253 fracción VI; 1339; 1340 y 1390 Bis 33, del Código de Comercio, son los siguientes:
+
+I. Artículo 1067 Bis, fracción II: \$10,685.55 (diez mil seiscientos ochenta y cinco pesos 55/100 M.N.).
+
+II. Artículo 1253, fracción VI: \$5,342.78 (cinco mil trescientos cuarenta y dos pesos 78/100 M.N.).
+
+III. Artículo 1339: \$890,462.99 (ochocientos noventa mil cuatrocientos sesenta y dos pesos 99/100 M.N.).
+
+IV. Artículo 1340: \$890,462.99 (ochocientos noventa mil cuatrocientos sesenta y dos pesos 99/100 M.N.).
+
+V. Artículo 1390 Bis 33: \$2,999.64 (dos mil novecientos noventa y nueve pesos 64/100 M.N.) a \$9,683.10 (nueve mil seiscientos ochenta y tres pesos 10/100 M.N.).
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Acuerdo entrará en vigor el 1 de enero de 2025.
+
+Ciudad de México, a 26 de diciembre de 2024.- El Secretario de Economía, Marcelo Luis Ebrard Casaubon.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+
+*Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025*
+
+**Artículo Segundo.-** Se reforman los artículos 1054; 1061 Bis; 1063; 1393, primer párrafo; 1414; 1466, en su párrafo y, 1477 del Código de Comercio, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### ACUERDO por el que se da a conocer la actualización de los montos establecidos en los artículos 1067 Bis fracción II, 1253 fracción VI, 1339, 1340 y 1390 Bis 33 del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2025*
+
+**ÚNICO.** Los montos actualizados correspondientes a los artículos 1067 Bis, fracción II; 1253 fracción VI; 1339; 1340 y 1390 Bis 33, del Código de Comercio, son los siguientes:
+
+I. Artículo 1067 Bis, fracción II: \$11,090.5323 (once mil noventa pesos 5323/100 M.N.).
+
+II. Artículo 1253, fracción VI: \$5,545.7624 (cinco mil quinientos cuarenta y cinco pesos 7624/100 M.N.).
+
+III. Artículo 1339: \$924,302.3782 (novecientos veinticuatro mil trecientos dos pesos 3782/100 M.N.).
+
+IV. Artículo 1340: \$924,293.38 (novecientos veinticuatro mil doscientos noventa y tres pesos 38/100 M.N.).
+
+V. Artículo 1390 Bis 33: \$3,113.62 (tres mil ciento trece pesos 62/100 M.N.) a \$10,051.06 (diez mil cincuenta y un pesos 06/100 M.N.).
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Acuerdo entra en vigor el 1 de enero de 2026.
+
+Ciudad de México, a 17 de diciembre de 2025.- El Secretario de Economía, Marcelo Luis Ebrard Casaubon.- Rúbrica.
+
+### ACUERDO por el que se modifica el diverso por el que se da a conocer la actualización de los montos establecidos en los artículos 1067 Bis fracción II, 1253 fracción VI, 1339, 1340 y 1390 Bis 33 del Código de Comercio.
+
+*Publicado en el Diario Oficial de la Federación el 18 de febrero de 2026*
+
+**Artículo Único. -** Se modifican las fracciones I, II, III, IV y V del Artículo ÚNICO del Acuerdo por el que se da a conocer la actualización de los montos establecidos en los artículos 1067 Bis fracción II, 1253 fracción VI, 1339, 1340 y 1390 Bis 33 del Código de Comercio, publicado en el Diario Oficial de la Federación el 26 de diciembre de 2025, para quedar como sigue:
+
+I. Artículo 1067 Bis, fracción II: \$11,091.60 (once mil noventa y un pesos 60/100 M.N.).
+
+II. Artículo 1253, fracción VI: \$5,545.80 (cinco mil quinientos cuarenta y cinco pesos 80/100 M.N.).
+
+III. Artículo 1339: \$924,300.58 (novecientos veinticuatro mil trecientos pesos 58/100 M.N.).
+
+IV. Artículo 1340: \$924,300.58 (novecientos veinticuatro mil trecientos pesos 58/100 M.N.).
+
+V. Artículo 1390 Bis 33: \$3,113.63 (tres mil ciento trece pesos 63/100 M.N.) a \$10,051.06 (diez mil cincuenta y un pesos 06/100 M.N.).
+
+**TRANSITORIO**
+
+**ÚNICO.** El presente Acuerdo entra en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 30 de enero de 2026.- El Secretario de Economía, Marcelo Luis Ebrard Casaubon.- Rúbrica.
