@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2025-10-15
+last_reform_dof: 2026-03-03
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-archived: https://web.archive.org/web/20251204134628/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-source_sha256: 25cd9c78692e184e8e7a8a4aa16257f8109ff0225887af61c51c097fc4226710
-retrieved: 2025-12-04
+archived: https://web.archive.org/web/20260328162209/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
+source_sha256: 351be740f4079e457e5e9d8a056e28c83f0023cc38beac4117f3676d26d94397
+retrieved: 2026-03-28
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 15-10-2025
+Última reforma publicada DOF 03-03-2026
 
 > Nota de vigencia: Las reformas a los párrafos décimo quinto a vigésimo del artículo 28, publicadas en el DOF 20-12-2024, entrarán en vigor en un plazo de 180 días contados a partir de la entrada en vigor de las leyes secundarias que el Congreso de la Unión expedirá en materia de competencia y libre concurrencia; y en materia de telecomunicaciones y radiodifusión, respectivamente, de conformidad con el artículo Décimo Transitorio de dicho Decreto.
 
@@ -4908,7 +4908,11 @@ III. Queda prohibida la utilización del trabajo de los menores de quince años.
 
 *Fracción reformada DOF 21-11-1962, 17-06-2014*
 
-IV. Por cada seis días de trabajo deberá disfrutar el operario de un día de descanso, cuando menos.
+IV. La jornada laboral será de cuarenta horas semanales en los términos que establezca la Ley.
+
+Por cada seis días de trabajo las personas trabajadoras deberán disfrutar por lo menos de un día de descanso con goce de salario íntegro.
+
+*Fracción reformada DOF 03-03-2026*
 
 V. Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo considerable y signifiquen un peligro para su salud en relación con la gestación; gozarán forzosamente de un descanso de seis semanas anteriores a la fecha fijada aproximadamente para el parto y seis semanas posteriores al mismo, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo. En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos;
 
@@ -4948,9 +4952,13 @@ f) El derecho de los trabajadores a participar en las utilidades no implica la f
 
 X. El salario deberá pagarse precisamente en moneda de curso legal, no siendo permitido hacerlo efectivo con mercancías, ni con vales, fichas o cualquier otro signo representativo con que se pretenda substituir la moneda.
 
-XI. Cuando, por circunstancias extraordinarias deban aumentarse las horas de jornada, se abonará como salario por el tiempo excedente un 100% más de lo fijado para las horas normales. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias, ni de tres veces consecutivas. Los menores de dieciséis años no serán admitidos en esta clase de trabajos.
+XI. Cuando por circunstancias extraordinarias deban aumentarse las horas de la jornada, se abonará como salario por este tiempo un cien por ciento más de lo fijado para las horas ordinarias. El trabajo extraordinario no excederá de doce horas en una semana, las cuales podrán distribuirse en hasta cuatro horas diarias, en un máximo de cuatro días en ese periodo.
 
-*Fracción reformada DOF 31-12-1974*
+La prolongación del tiempo extraordinario que supere lo establecido en el párrafo que antecede, obliga a la persona empleadora a pagar doscientos por ciento más del salario que corresponda a las horas de la jornada ordinaria conforme a lo establecido en la Ley de la materia.
+
+Las personas menores de dieciocho años no podrán laborar tiempo extraordinario.
+
+*Fracción reformada DOF 31-12-1974, 03-03-2026*
 
 XII. Toda empresa agrícola, industrial, minera o de cualquier otra clase de trabajo, estará obligada, según lo determinen las leyes reglamentarias a proporcionar a sus personas trabajadoras viviendas adecuadas. Esta obligación se cumplirá mediante las aportaciones que las empresas hagan a un fondo nacional de la vivienda a fin de constituir depósitos en favor de sus personas trabajadoras.
 
@@ -10075,3 +10083,34 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 30 de septiembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. Mariela Gutiérrez Escalante, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de octubre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman las fracciones IV y XI del Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de reducción de la jornada laboral.
+
+*Publicado en el Diario Oficial de la Federación el 3 de marzo de 2026*
+
+**Artículo Único.-** Se reforman las fracciones IV y XI del Apartado A, del Artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión deberá realizar las reformas a la legislación secundaria en un plazo de 90 días a partir de la publicación del presente Decreto.
+
+**Tercero.-** La duración de la jornada laboral a que se refiere el artículo 123, Apartado A, fracción IV del presente Decreto, se alcanzará de manera gradual, a partir del 1 de enero del año correspondiente, conforme a lo siguiente:
+
+|   |   |
+|---|---|
+| Año | Jornada Laboral |
+| 2026 | 48 |
+| 2027 | 46 |
+| 2028 | 44 |
+| 2029 | 42 |
+| 2030 | 40 |
+
+**Cuarto.-** En ningún caso la reducción de la jornada laboral implicará la disminución de sueldos, salarios o prestaciones de las personas trabajadoras.
+
+Ciudad de México, a 03 de marzo de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. Mariela Gutiérrez Escalante, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de marzo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez. Secretaria de Gobernación.- Rúbrica.
