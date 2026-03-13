@@ -3,12 +3,11 @@ title: Código Penal Federal
 abbreviation: CPF
 slug: cpf
 published_dof: 1931-08-14
-last_reform_dof: 2024-01-17
-articles: 552
+last_reform_dof: 2026-03-13
+articles: 556
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc
-archived: https://web.archive.org/web/20240405093457/https://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc
-source_sha256: 2f2fb5766312e05b84eb73f2a30fbde032c100ad6254e0a9a28e8777bb837286
-retrieved: 2024-04-05
+source_sha256: f4ec5aaa63b94bbd2832dccc2cfdcfeb8a72b992e7d68fd37aefc7b4948cbe65
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
 ---
 
@@ -18,7 +17,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 14 de agosto d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 17-01-2024
+Última reforma publicada DOF 13-03-2026
 
 > Disposición derogatoria: De conformidad con el párrafo primero del artículo Cuarto Transitorio de la Ley Nacional de Ejecución Penal, publicada en el DOF 16-06-2016, “se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución”.
 
@@ -236,7 +235,13 @@ XXI. Los previstos en los artículos 8, 9, 10, 12, 13, 14, 15, 16, 17, 18 y 19 d
 
 *Fracción reformada DOF 01-06-2018*
 
-XXII. En los demás casos expresamente previstos en la legislación aplicable.
+XXII. El delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+
+*Fracción adicionada DOF 28-11-2025*
+
+XXIII. En los demás casos expresamente previstos en la legislación aplicable.
+
+*Fracción recorrida DOF 28-11-2025*
 
 Para los efectos del artículo 422 del Código Nacional de Procedimientos Penales, se estará a los siguientes límites de punibilidad para las consecuencias jurídicas de las personas jurídicas:
 
@@ -826,9 +831,9 @@ IV.- La forma y grado de intervención del agente en la comisión del delito;
 
 *Fracción reformada DOF 19-08-2010*
 
-V.- La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a algún pueblo o comunidad indígena, se tomarán en cuenta, además, sus usos y costumbres;
+V.- La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, así como de los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a algún pueblo o comunidad indígena o afromexicana, se tomarán en cuenta, además, sus usos y costumbres.
 
-*Fracción reformada DOF 18-12-2002*
+*Fracción reformada DOF 18-12-2002, 01-04-2024*
 
 VI.- El comportamiento posterior del acusado con relación al delito cometido; y
 
@@ -1876,7 +1881,9 @@ No se aplicará pena a los que depongan las armas antes de ser tomados prisioner
 
 ##### Artículo 139.
 
-Se impondrá pena de prisión de quince a cuarenta años y cuatrocientos a mil doscientos días multa, sin perjuicio de las penas que correspondan por otros delitos que resulten:
+Se impondrá pena de prisión de quince a cuarenta años y multa de cuatrocientas a mil doscientas veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las penas que correspondan por otros delitos que resulten:
+
+*Párrafo reformado DOF 07-06-2024*
 
 I. A quien utilizando sustancias tóxicas, armas químicas, biológicas o similares, material radioactivo, material nuclear, combustible nuclear, mineral radiactivo, fuente de radiación o instrumentos que emitan radiaciones, explosivos, o armas de fuego, o por incendio, inundación o por cualquier otro medio violento, intencionalmente realice actos en contra de bienes o servicios, ya sea públicos o privados, o bien, en contra de la integridad física, emocional, o la vida de personas, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para atentar contra la seguridad nacional o presionar a la autoridad o a un particular, u obligar a éste para que tome una determinación.
 
@@ -1889,6 +1896,10 @@ I. El delito sea cometido en contra de un bien inmueble de acceso público;
 II. Se genere un daño o perjuicio a la economía nacional, o
 
 III. En la comisión del delito se detenga en calidad de rehén a una persona.
+
+A quien utilice aeronaves pilotadas a distancia para cometer las conductas previstas en la fracción I del párrafo primero del presente artículo, se aumentará hasta en un tercio la pena establecida.
+
+*Párrafo adicionado DOF 07-06-2024*
 
 *Artículo reformado DOF 29-07-1970, 28-06-2007, 14-03-2014*
 
@@ -2274,6 +2285,34 @@ a). Otorgar fianza por la cantidad que fije la autoridad, y
 
 b). Comprobar la necesidad que tiene para la portación de armas y sus antecedentes de honorabilidad y prudencia, con el testimonio de cinco personas bien conocidas de la autoridad.
 
+#### CAPITULO III BIS · Uso indebido de aeronaves pilotadas a distancia
+
+*Capítulo adicionado DOF 07-06-2024*
+
+##### Artículo 163 Bis.
+
+Se impondrá pena de prisión de diez a veinte años, sin perjuicio de las penas que correspondan por otros delitos que resulten, a quien mediante el uso de aeronaves pilotadas a distancia realice las conductas siguientes:
+
+I. Arroje cualquier objeto o artefacto explosivo, artefactos explosivos improvisados o armas, así como sustancias químicas que por sí solas o combinadas sean susceptibles de ser empleadas como explosivos sobre otras personas o bienes, y
+
+II. Impacte a alguna persona o propiedad con el propósito de causar daño.
+
+Cuando la persona o el bien afectado pertenezca o esté destinado a las Fuerzas Armadas o de seguridad pública, la pena establecida se aumentará hasta en una mitad.
+
+*Artículo adicionado DOF 07-06-2024*
+
+##### Artículo 163 Ter.
+
+Se impondrá pena de prisión de cinco a diez años a quien importe, manufacture, arme, adquiera o adapte aeronaves pilotadas a distancia para el transporte de artefactos explosivos, artefactos explosivos improvisados, armas, narcóticos, drogas sintéticas o demás materiales regulados en la Ley Federal de Armas de Fuego y Explosivos.
+
+*Artículo adicionado DOF 07-06-2024*
+
+##### Artículo 163 Quáter.
+
+A quien utilice aeronaves pilotadas a distancia equipadas con dispositivos que permitan fotografiar o realizar grabaciones de audio o video, de forma física o empleando medios electrónicos, para vigilar actividades de personas servidoras públicas con la finalidad de conocer o reportar su ubicación para evadir su acción o ejecutar agresiones en su contra, se le impondrá una pena de prisión de tres a diez años; decomiso de los aparatos, equipos y objetos productos del delito, y multa de cincuenta a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las penas que correspondan por otros delitos que resulten.
+
+*Artículo adicionado DOF 07-06-2024*
+
 #### CAPITULO IV · Asociaciones delictuosas
 
 ##### Artículo 164.
@@ -2362,6 +2401,10 @@ IX. Al que difunda o transmita información falsa que en cualquier forma perjudi
 
 Al que, para la ejecución de los hechos de que hablan los artículos anteriores, se valga de explosivos, se le aplicará prisión de quince a veinte años.
 
+A quien utilice aeronaves pilotadas a distancia en la ejecución de los hechos descritos en los artículos de este Capítulo se aumentará la pena hasta en una tercera parte.
+
+*Párrafo adicionado DOF 07-06-2024*
+
 ##### Artículo 168 bis.
 
 Se impondrán de seis meses a dos años de prisión y de trescientos a tres mil días multa, a quien sin derecho:
@@ -2398,11 +2441,23 @@ Al que ponga en movimiento una locomotora, carro, camión o vehículo similar y 
 
 Al que empleando explosivos o materias incendiarias, o por cualquier otro medio destruya total o parcialmente instalaciones o servicios de navegación aérea o marítima o de aeropuertos que presten servicios a la aviación civil, alguna plataforma fija, o una nave, aeronave, u otro vehículo de servicio público federal o local, o que proporcione servicios al público, si se encontraren ocupados por una o más personas, se le aplicarán de veinte a treinta años de prisión.
 
+A quien utilice aeronaves pilotadas a distancia en la ejecución de los hechos descritos en el párrafo anterior se aumentará la pena hasta en una tercera parte.
+
+*Párrafo adicionado DOF 07-06-2024*
+
+Cuando el bien que resulte afectado pertenezca o esté destinado a las Fuerzas Armadas, seguridad nacional o seguridad pública, la pena establecida se aumentará hasta en una mitad.
+
+*Párrafo adicionado DOF 07-06-2024*
+
 Si en el vehículo, instalación o plataforma de que se trate no se hallare persona alguna se aplicará prisión de cinco a veinte años.
 
-Asimismo se impondrán de tres a veinte años de prisión y de cien a cuatrocientos días multa, sin perjuicio de la pena que corresponda por otros delitos que cometa, al que mediante violencia, amenazas o engaño, se apodere o ejerza el control de una plataforma fija, instalaciones o servicios de navegación aérea o marítima o de aeropuertos que presten servicios a la aviación civil; así como de una nave, aeronave, máquina o tren ferroviarios, autobuses o cualquier otro medio de transporte público colectivo, interestatal o internacional, o los haga desviar de su ruta o destino.
+Asimismo se impondrán de tres a veinte años de prisión y multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de la pena que corresponda por otros delitos que cometa, al que mediante violencia, amenazas o engaño, se apodere o ejerza el control de una plataforma fija, instalaciones o servicios de navegación aérea o marítima o de aeropuertos que presten servicios a la aviación civil; así como de una nave, aeronave, máquina o tren ferroviarios, autobuses o cualquier otro medio de transporte público colectivo, interestatal o internacional, o los haga desviar de su ruta o destino.
 
-Cuando se cometiere por servidor público de alguna corporación policial, cualquiera de los delitos que contemplan este artículo y el 168, se le impondrán, además de las penas señaladas en estos artículos, la destitución del empleo y se le inhabilitará de uno a diez años para desempeñar cargo o comisión públicos. Si quien cometiere los delitos mencionados fuere miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, se le impondrá además, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a diez años para desempeñar cargo o comisión públicos.
+*Párrafo reformado DOF 07-06-2024*
+
+Cuando se cometiere por una persona servidora pública de alguna corporación policial, cualquiera de los delitos que contemplan este artículo y el 168, se le impondrán, además de las penas señaladas en estos artículos, la destitución del empleo y se le inhabilitará de uno a diez años para desempeñar cargo o comisión públicos. Si quien cometiere los delitos mencionados fuere integrante de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, se le impondrá además, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a diez años para desempeñar cargo o comisión públicos.
+
+*Párrafo reformado DOF 07-06-2024*
 
 Para efectos de este artículo se entenderá por plataforma fija una isla artificial, instalación o estructura sujeta de manera permanente al fondo marino o a la plataforma continental con fines de exploración o explotación de recursos u otros fines de carácter económico.
 
@@ -2660,7 +2715,9 @@ El Ministerio Público Federal no procederá penalmente por este delito en contr
 
 I. Medicamentos que contengan narcóticos, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
 
-II. Peyote u hongos alucinógenos, cuando por la cantidad y circunstancias del caso pueda presumirse que serán utilizados en las ceremonias, usos y costumbres de los pueblos y comunidades indígenas, así reconocidos por sus autoridades propias.
+II. Peyote u hongos alucinógenos, cuando por la cantidad y circunstancias del caso pueda presumirse que serán utilizados en las ceremonias, usos y costumbres de los pueblos y comunidades indígenas y afromexicanas, así reconocidos por sus autoridades propias.
+
+*Fracción reformada DOF 01-04-2024*
 
 Para efectos de este capítulo se entiende por posesión: la tenencia material de narcóticos o cuando éstos están dentro del radio de acción y disponibilidad de la persona.
 
@@ -3123,6 +3180,34 @@ Al responsable de este delito se le impondrá pena de ocho a quince años de pri
 La pena prevista en el párrafo anterior se aumentará hasta en una mitad, en su mínimo y en su máximo, si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana.
 
 *Artículo adicionado DOF 25-04-2023*
+
+#### CAPÍTULO X · Delitos contra la Orientación Sexual o la Identidad de Género de las Personas
+
+*Capítulo adicionado DOF 07-06-2024*
+
+##### Artículo 209 Quintus.
+
+Se impondrá de dos a seis años de prisión y multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización a quien realice, imparta, aplique, obligue o financie cualquier tipo de tratamiento, terapia, servicio o práctica que obstaculice, restrinja, impida, menoscabe, anule o suprima la orientación sexual, identidad o expresión de género de una persona.
+
+Se aumentará al doble la sanción prevista en el párrafo que precede, cuando las conductas tipificadas se realicen en contra de personas menores de dieciocho años, adultos mayores o personas con alguna discapacidad.
+
+En caso de que sea el padre, madre o tutor de la víctima los que incurran en las conductas sancionadas, se les aplicarán las sanciones de amonestación o apercibimiento a consideración del juez.
+
+Las sanciones señaladas en el primer párrafo de este artículo se aumentarán al doble de la que corresponda, cuando la persona autora tuviere para con la víctima, alguna de las relaciones que a continuación se enuncian o bien, se sitúen en alguno de los siguientes supuestos:
+
+a) Relación laboral, docente, doméstica, médica o cualquier otra que implique una subordinación de la víctima;
+
+b) Quien se valga de función pública para cometer el delito, y
+
+c) Cuando la persona autora emplee violencia física, psicológica o moral en contra de la víctima.
+
+En los casos de los incisos a) y b), además de las sanciones señaladas, se castigará con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta.
+
+Bastará la presentación de una denuncia para iniciar la investigación de los hechos que revistan las características del delito al que este precepto se refiere.
+
+Para la determinación del daño ocasionado al libre desarrollo de la personalidad de la víctima y su reparación, se observará lo dispuesto en el artículo 209 Ter.
+
+*Artículo adicionado DOF 07-06-2024*
 
 ### TITULO NOVENO · Revelación de secretos y acceso ilícito a sistemas y equipos de informática
 
@@ -4588,17 +4673,43 @@ Sólo se procederá contra el hostigador, a petición de parte ofendida.
 
 ##### Artículo 260.
 
-Comete el delito de abuso sexual quien ejecute en una persona, sin su consentimiento, o la obligue a ejecutar para sí o en otra persona, actos sexuales sin el propósito de llegar a la cópula.
+Comete el delito de abuso sexual quien sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo.
 
-A quien cometa este delito, se le impondrá pena de seis a diez años de prisión y hasta doscientos días multa.
+También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo. Se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explícitas. Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad. El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
 
-Para efectos de este artículo se entiende por actos sexuales los tocamientos o manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
+A quien cometa este delito se le impondrá una sanción de tres a siete años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización. Así mismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres. El cumplimiento de esta obligación es de especial relevancia para la procedencia y continuidad de la suspensión condicional.
 
-También se considera abuso sexual cuando se obligue a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
+Este delito se perseguirá de oficio.
 
-Si se hiciera uso de violencia, física o psicológica, la pena se aumentará en una mitad más en su mínimo y máximo.
+Las penas previstas en este artículo se aumentarán en una tercera parte cuando el delito se cometa en cualquiera de las siguientes circunstancias:
 
-*Artículo reformado DOF 03-01-1989, 21-01-1991, 30-12-1997, 14-06-2012*
+I.- Con violencia física, psicológica o moral;
+
+II.- Por dos o más personas;
+
+III.- En un lugar despoblado, solitario o poco accesible;
+
+IV.- Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
+
+V.- Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica;
+
+VI.- Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VII.- Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles;
+
+VIII.- Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
+
+IX.- Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+X.- Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+XI.- Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género, y
+
+XII.- Cuando la víctima se encuentre en estado de indefensión.
+
+Adicional a las sanciones establecidas en este artículo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley General de Víctimas, la atención psicológica especializada para la víctima, hasta su total recuperación.
+
+*Artículo reformado DOF 03-01-1989, 21-01-1991, 30-12-1997, 14-06-2012, 13-03-2026*
 
 ##### Artículo 261.
 
@@ -4607,6 +4718,10 @@ A quien cometa el delito de abuso sexual en una persona menor de dieciocho años
 *Párrafo reformado DOF 18-10-2023*
 
 Si se hiciera uso de violencia, la pena se aumentará en una mitad más en su mínimo y máximo.
+
+Las penas previstas en este artículo se aumentarán conforme a lo dispuesto en el artículo 266 Bis.
+
+*Párrafo adicionado DOF 17-04-2024*
 
 *Artículo reformado DOF 03-01-1989, 21-01-1991, 30-12-1997, 14-06-2012*
 
@@ -4672,13 +4787,17 @@ Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se
 
 ##### Artículo 266 Bis.
 
-Las penas previstas para el abuso sexual y la violación se aumentarán hasta en una mitad en su mínimo y máximo, cuando:
+Las penas previstas para la violación se aumentarán hasta en una mitad en su mínimo y máximo, cuando:
+
+*Párrafo reformado DOF 13-03-2026*
 
 I.- El delito fuere cometido con intervención directa o inmediata de dos o más personas;
 
 II.- El delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, o por el padrastro o amasio de la madre del ofendido en contra del hijastro. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima;
 
-III.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión;
+III. El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión, dicho término se duplicará en el caso de que el delito fuere cometido por profesionistas que se desempeñen en atención o servicio de niñas, niños y adolescentes;
+
+*Fracción reformada DOF 27-03-2024*
 
 IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada.
 
@@ -5122,7 +5241,9 @@ Hay premeditación: siempre que el reo cause intencionalmente un lesión, despu�
 
 *Fe de erratas al párrafo DOF 31-08-1931*
 
-Se presumirá que existe premeditación cuando las lesiones o el homicidio se cometan por inundación, incendio, minas, bombas o explosivos; por medio de venenos o cualquiera otra sustancia nociva a la salud, contagio venéreo, asfixia o enervantes o por retribución dada o prometida; por tormento, motivos depravados o brutal ferocidad.
+Se presumirá que existe premeditación cuando las lesiones o el homicidio se cometan por inundación, incendio, minas, bombas o explosivos, artefactos explosivos, artefactos explosivos improvisados, armas, así como por sustancias químicas que por sí solas o combinadas sean susceptibles de emplearse como explosivos; por medio de venenos o cualquiera otra sustancia nociva a la salud, contagio venéreo, asfixia o enervantes o por retribución dada o prometida; por tormento, motivos depravados o brutal ferocidad, o cuando se utilice como medio para su ejecución aeronaves pilotadas a distancia.
+
+*Párrafo reformado DOF 07-06-2024*
 
 ##### Artículo 315 Bis.
 
@@ -5399,6 +5520,10 @@ Comete el delito de violencia familiar quien lleve a cabo actos o conductas de d
 *Párrafo reformado DOF 17-01-2024*
 
 A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia. Asimismo, se le sujetará a tratamiento psicológico especializado.
+
+Cuando las conductas descritas en el presente artículo se cometan en contra de una mujer embarazada, una persona adulta mayor o una persona con discapacidad, la pena se aumentará hasta en una mitad, en su mínimo y en su máximo.
+
+*Párrafo adicionado DOF 17-04-2024*
 
 *Artículo adicionado DOF 30-12-1997. Reformado DOF 14-06-2012*
 
@@ -6122,11 +6247,9 @@ Este delito se sancionará con las penas previstas en el artículo 386 de este C
 
 ##### Artículo 390.
 
-Al que sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo, obteniendo un lucro para sí o para otro o causando a alguien un perjuicio patrimonial, se le aplicarán de dos a ocho años de prisión y de cuarenta a ciento sesenta días multa.
+Derogado.
 
-Las penas se aumentarán hasta un tanto más si el constreñimiento se realiza por una asociación delictuoso, o por servidor público o ex-servidor público, o por miembro o ex-miembro de alguna corporación policial o de las Fuerzas Armadas Mexicanas. En este caso, se impondrá además al servidor o ex-servidor público y al miembro o ex-miembro de alguna corporación policial, la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar cargo o comisión público, y si se tratare de un miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a cinco años para desempeñar cargos o comisión públicos.
-
-*Artículo reformado DOF 13-01-1984, 10-01-1994*
+*Artículo reformado DOF 13-01-1984, 10-01-1994. Derogado DOF 28-11-2025*
 
 #### Capítulo III Ter · Fraude Familiar
 
@@ -6210,19 +6333,21 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 
 ##### Artículo 399.
 
-Cuando por cualquier medio se causen daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán las sanciones del robo simple.
+Cuando por cualquier medio se cause daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercera persona, se aplicarán las sanciones del robo simple.
+
+A quien utilice aeronaves pilotadas a distancia en la ejecución de los hechos descritos en el párrafo anterior se aumentará la pena hasta en una tercera parte.
+
+Cuando el bien que resulte afectado pertenezca o esté destinado a las Fuerzas Armadas, seguridad nacional o seguridad pública, la pena establecida se aumentará hasta en una mitad.
+
+*Artículo reformado DOF 07-06-2024*
 
 ##### Artículo 399 Bis.
 
-Los delitos previstos en este título se perseguirán por querella de la parte ofendida cuando sean cometidos por un ascendiente, descendiente, cónyuge, parientes por consanguinidad hasta el segundo grado, concubina o concubinario, adoptante o adoptado y parientes por afinidad asimismo hasta el segundo grado. Igualmente se requerirá querella para la persecución de terceros que hubiesen incurrido en la ejecución del delito con los sujetos a que se refiere el párrafo anterior. Si se cometiere algún otro hecho que por sí solo constituya un delito, se aplicará la sanción que para éste señala la ley.
+Los delitos previstos en este título se perseguirán por querella de la parte ofendida cuando sean cometidos por un o una ascendiente, descendiente, cónyuge, parientes por consanguinidad hasta el segundo grado, concubina o concubinario, adoptante o adoptado y parientes por afinidad asimismo hasta el segundo grado. Igualmente se requerirá querella para la persecución de terceras personas que hubiesen incurrido en la ejecución del delito con los sujetos a que se refiere el párrafo anterior. Si se cometiere algún otro hecho que por sí solo constituya un delito, se aplicará la sanción que para éste señala la ley.
 
-Se perseguirán por querella los delitos previstos en los artículos 380 y 382 a 399, salvo el artículo 390 y los casos a que se refieren los dos últimos párrafos del artículo 395.
+Se perseguirán por querella los delitos previstos en los artículos 380 y 382 a 399, salvo el artículo 390 y los casos a que se refieren los dos últimos párrafos de los artículos 395 y 399.
 
-*Párrafo reformado DOF 30-12-1991*
-
-*Reforma DOF 30-12-1991: Suprimió del artículo el entonces párrafo tercero (antes adicionado DOF 14-01-1985)*
-
-*Artículo adicionado DOF 13-01-1984*
+*Artículo adicionado DOF 13-01-1984. Reformado DOF 14-01-1985, 30-12-1991, 07-06-2024*
 
 ### TITULO · VIGESIMOTERCERO
 
@@ -6300,7 +6425,9 @@ II. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicaci
 
 Para efectos de este Capítulo, se entenderá que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
 
-En caso de conductas previstas en este Capítulo, en las que se utilicen servicios de instituciones que integran el sistema financiero, para proceder penalmente se requerirá la denuncia previa de la Secretaría de Hacienda y Crédito Público.
+En caso de conductas previstas en este Capítulo, en las que se utilicen servicios de instituciones que integran el sistema financiero el Ministerio Público estará en todo momento facultado para investigarlas. Para ejercer la acción penal se requerirá la denuncia de la Secretaría de Hacienda y Crédito Público, quien tendrá el carácter de víctima u ofendida.
+
+*Párrafo reformado DOF 16-07-2025*
 
 Cuando la Secretaría de Hacienda y Crédito Público, en ejercicio de sus facultades de fiscalización, encuentre elementos que permitan presumir la comisión de alguno de los delitos referidos en este Capítulo, deberá ejercer respecto de los mismos las facultades de comprobación que le confieren las leyes y denunciar los hechos que probablemente puedan constituir dichos ilícitos.
 
@@ -10276,3 +10403,193 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 29 de noviembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Olga Luz Espinosa Morales, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforman la fracción XI del artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes; y la fracción III del artículo 266 Bis del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 27 de marzo de 2024*
+
+**Artículo Segundo.-** Se reforma la fracción III del artículo 266 Bis del Código Penal Federal, para quedar como sigue:
+
+…………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 8 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Karina Isabel Garivo Sánchez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
+
+*Publicado en el Diario Oficial de la Federación el 1 de abril de 2024*
+
+**Artículo Trigésimo Cuarto.-** Se reforman los artículos 52, fracción V y 195 bis, fracción II, del Código Penal Federal, para quedar como sigue:
+
+……..
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se adiciona un tercer párrafo al artículo 261 del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 17 de abril de 2024*
+
+**Artículo Único.-** Se adiciona un tercer párrafo al artículo 261 del Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 28 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Karina Isabel Garivo Sánchez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se adiciona un tercer párrafo al artículo 343 Bis del Código Penal Federal, en materia de violencia familiar.
+
+*Publicado en el Diario Oficial de la Federación el 17 de abril de 2024*
+
+**Artículo Único.-** Se adiciona un tercer párrafo al artículo 343 Bis del Código Penal Federal, para quedar como sigue:
+
+…….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 28 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal y de la Ley Federal de Armas de Fuego y Explosivos.
+
+*Publicado en el Diario Oficial de la Federación el 7 de junio de 2024*
+
+**Artículo Primero.-** Se reforman los artículos 139, párrafo primero; 170, actuales párrafos tercero y cuarto; 315, párrafo tercero; 399, párrafo primero y 399 Bis, párrafos primero y segundo y se adicionan un párrafo tercero al artículo 139; un CAPÍTULO III BIS, denominado "Uso indebido de aeronaves pilotadas a distancia" al TÍTULO CUARTO "Delitos contra la seguridad pública", con los artículos 163 Bis, 163 Ter y 163 Quáter; un párrafo segundo al artículo 168; los párrafos segundo y tercero al artículo 170 y se recorren los actuales segundo, tercero, cuarto y quinto, para quedar como cuarto, quinto, sexto y séptimo y, los párrafos segundo y tercero al artículo 399 del Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Ciudad de México, a 25 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Vania Roxana Ávila García, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se adicionan un artículo 209 Quintus al Código Penal Federal y un artículo 465 Ter a la Ley General de Salud.
+
+*Publicado en el Diario Oficial de la Federación el 7 de junio de 2024*
+
+**Artículo Primero.-** Se adiciona un Capítulo X, denominado "Delitos contra la Orientación Sexual o la Identidad de Género de las Personas" al Título Octavo, que se integra con un artículo 209 Quintus, al Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+Ciudad de México, a 25 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, y se reforma el artículo 400 Bis del Código Penal Federal.
+
+*Publicado en el Diario Oficial de la Federación el 16 de julio de 2025*
+
+**Artículo Segundo.-** Se reforma el párrafo tercero del artículo 400 Bis del Código Penal Federal, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo las excepciones previstas en los siguientes artículos.
+
+**Segundo.** La Secretaría, previa opinión del Servicio de Administración Tributaria, modificará las reglas de carácter general de la Ley que se reforma dentro de los doce meses siguientes a la entrada en vigor de este Decreto.
+
+El periodo anual a que se refieren las fracciones IX y XI del artículo 18 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita para desarrollar programas de capacitación y contar con una auditoría respectivamente, se entenderá por año calendario por lo que el primer periodo iniciará el 1 de enero del año siguiente a aquel en que se publique el presente Decreto y concluirá el 31 de diciembre del mismo año.
+
+Tratándose del primer año de operaciones de quienes realicen Actividades Vulnerables, el periodo comprenderá desde la fecha en que inicien operaciones como Actividad Vulnerable y hasta el 31 de diciembre del siguiente año.
+
+**Tercero.** Las obligaciones establecidas en las fracciones VII a XI del artículo 18 de la Ley que se reforma entrarán en vigor en los plazos que para tal efecto establezcan las reglas de carácter general a que se refiere la citada Ley.
+
+**Cuarto.** Durante los primeros seis meses contados a partir de la entrada en vigor de las reglas de carácter general de la Ley que se reforma, la Unidad de Inteligencia Financiera en coordinación con el Servicio de Administración Tributaria implementarán:
+
+I. Un programa de capacitación y orientación dirigido a las asociaciones y sociedades sin fines de lucro, para el correcto cumplimiento de las obligaciones establecidas en las fracciones VII a XI del artículo 18 de la Ley que se reforma.
+
+II. Las medidas simplificadas de cumplimiento de las obligaciones de las asociaciones y sociedades sin fines de lucro, de acuerdo con el nivel de riesgo que representen, de conformidad con las disposiciones reglamentarias, a efecto de armonizar la debida aplicación de la ley con la protección del espacio cívico y el derecho a la libertad de asociación.
+
+**Quinto.** Los Congresos de las Entidades Federativas, dentro de un término de 180 días naturales a partir de la entrada en vigor del presente Decreto, realizarán las reformas conducentes para la aplicación de las previsiones contenidas en el artículo 58 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
+
+**Sexto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Ciudad de México, a 30 de junio de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y, se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.
+
+*Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2025*
+
+**Artículo Segundo.-** Se adiciona una fracción XXII, y se recorre la subsecuente, al apartado B del artículo 11 Bis, y se deroga el artículo 390 del Código Penal Federal, para quedar como sigue:
+
+…….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Toda referencia al delito de extorsión contemplada en el Código Penal Federal, los códigos penales de las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+**Tercero.** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+**Cuarto.** En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+
+Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
+
+**Quinto.** Las disposiciones relativas a los delitos de extorsión previstas tanto en el Código Penal Federal como en la legislación penal local vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+**Sexto.** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
+
+**Séptimo.** Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+**Octavo.** El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
+
+**Noveno.** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+**Décimo.** En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Ciudad de México, a 25 de noviembre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. Simey Olvera Bautista, Secretaria.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 260 y 266 Bis del Código Penal Federal, en materia de abuso sexual.
+
+*Publicado en el Diario Oficial de la Federación el 13 de marzo de 2026*
+
+**Artículo Único.-** Se reforman los artículos 260 y 266 Bis, primer párrafo, del Código Penal Federal, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Ciudad de México, a 18 de febrero de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de marzo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
