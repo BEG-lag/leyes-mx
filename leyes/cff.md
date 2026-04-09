@@ -3,12 +3,11 @@ title: Código Fiscal de la Federación
 abbreviation: CFF
 slug: cff
 published_dof: 1981-12-31
-last_reform_dof: 2023-12-29
-articles: 417
+last_reform_dof: 2026-04-09
+articles: 421
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CFF.doc
-archived: https://web.archive.org/web/20240405093745/https://www.diputados.gob.mx/LeyesBiblio/doc/CFF.doc
-source_sha256: baf79656add4fc1639cad4e791ad1c86da82f4e5ca3ed7cee929eccb5fc7a9e9
-retrieved: 2024-04-05
+source_sha256: 96e4133a2f5fbe7b40c4bc2526063a59745344b2045724a01df225ae28b9274a
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm
 ---
 
@@ -18,9 +17,7 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 31 de diciembr
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 12-11-2021
-
-Cantidades actualizadas y compiladas por Resolución Miscelánea Fiscal DOF 29-12-2023
+Última reforma publicada DOF 09-04-2026
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -578,9 +575,11 @@ b) Proporcionar los servicios de acceso al registro de certificados. A dicho reg
 
 Las facultades mencionadas podrán ser ejercidas directamente en cualquier tiempo por el Servicio de Administración Tributaria, pudiendo hacerlo en forma separada o conjunta con las personas autorizadas en los términos de esta fracción.
 
-Los particulares que determinen el uso de la firma electrónica avanzada como medio de autenticación o firmado de documentos digitales, podrán solicitar al Servicio de Administración Tributaria que preste el servicio de verificación y autenticación de los certificados de firmas electrónicas avanzadas, [así como el de la verificación de identidad de los usuarios]. Los requisitos para otorgar la prestación de dicho servicio se establecerán mediante reglas de carácter general que emita dicho órgano administrativo desconcentrado.
+Los particulares que determinen el uso de la firma electrónica avanzada como medio de autenticación o firmado de documentos digitales, podrán solicitar al Servicio de Administración Tributaria que preste el servicio de verificación y autenticación de los certificados de firmas electrónicas avanzadas. Los requisitos para otorgar la prestación de dicho servicio se establecerán mediante reglas de carácter general que emita dicho órgano administrativo desconcentrado.
 
-Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 31-05-2023 (En la porción normativa “así como el de la verificación de identidad de los usuarios”)
+*Párrafo declarado parcialmente inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 31-05-2023 y publicada DOF 04-03-2024*
+
+*Párrafo reformado DOF 07-11-2025*
 
 ##### Artículo 17-G.
 
@@ -632,6 +631,10 @@ XI. Detecten que el contribuyente emisor de comprobantes fiscales no desvirtuó 
 
 XII. Detecten que se trata de contribuyentes que no desvirtuaron la presunción de transmitir indebidamente pérdidas fiscales y, por tanto, se encuentren en el listado a que se refiere el noveno párrafo del artículo 69-B Bis de este Código.
 
+XIII. Detecten que el contribuyente emisor de comprobantes fiscales no desvirtuó la presunción de que emitió comprobantes fiscales falsos y se determinó que se ubica en el supuesto del artículo 49 Bis, fracción VIII, inciso b) de este Código.
+
+*Fracción adicionada DOF 07-11-2025*
+
 El Servicio de Administración Tributaria podrá cancelar sus propios certificados de sellos o firmas digitales, cuando se den hipótesis análogas a las previstas en las fracciones VII y IX de este artículo.
 
 Cuando el Servicio de Administración Tributaria revoque un certificado expedido por él, se anotará en el mismo la fecha y hora de su revocación.
@@ -656,9 +659,9 @@ Tratándose de certificados de sello digital para la expedición de comprobantes
 
 I. Detecten que los contribuyentes, en un ejercicio fiscal y estando obligados a ello, omitan la presentación de la declaración anual transcurrido un mes posterior a la fecha en que se encontraban obligados a hacerlo en términos de las disposiciones fiscales, o de dos o más declaraciones provisionales o definitivas consecutivas o no consecutivas.
 
-Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección IV de la Ley del Impuesto sobre la Renta, la restricción temporal se realizará cuando se detecte que omitió tres o más pagos mensuales en un año calendario, consecutivos o no, o bien, la declaración anual.
+Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección IV de la Ley del Impuesto sobre la Renta, la restricción temporal se realizará cuando se detecte que omitió tres o más pagos mensuales en un año calendario, consecutivos o no.
 
-*Párrafo adicionado DOF 12-11-2021*
+*Párrafo adicionado DOF 12-11-2021. Reformado DOF 07-11-2025*
 
 II. Durante el procedimiento administrativo de ejecución no localicen al contribuyente o éste desaparezca.
 
@@ -678,19 +681,37 @@ V. Detecten que se trata de contribuyentes que se ubiquen en el supuesto a que s
 
 VI. Derivado de la verificación prevista en el artículo 27 de este Código, detecten que el domicilio fiscal señalado por el contribuyente no cumple con los supuestos del artículo 10 de este Código.
 
-VII. Detecten que el ingreso declarado, el valor de los actos o actividades gravados declarados, así como el impuesto retenido por el contribuyente, manifestados en las declaraciones de pagos provisionales o definitivos, de retenciones o del ejercicio, o bien, las informativas, no concuerden con los ingresos o valor de actos o actividades señalados en los comprobantes fiscales digitales por Internet, sus complementos de pago o estados de cuenta bancarios, expedientes, documentos o bases de datos que lleven las autoridades fiscales, tengan en su poder o a las que tengan acceso.
+VII. Detecten que el ingreso declarado, el valor de los actos o actividades gravados declarados, así como el impuesto retenido por el contribuyente, manifestados en las declaraciones de pagos provisionales o definitivos, de retenciones o del ejercicio, o bien, las informativas, no concuerden con los ingresos o valor de actos o actividades señalados en los comprobantes fiscales digitales por Internet, sus complementos de pago o estados de cuenta o estados de cuenta bancarios, expedientes, documentos o bases de datos que lleven las autoridades fiscales, tengan en su poder o a las que tengan acceso.
 
-*Fracción reformada DOF 12-11-2021*
+*Fracción reformada DOF 12-11-2021, 07-11-2025*
 
 VIII. Detecten que, por causas imputables a los contribuyentes, los medios de contacto establecidos por el Servicio de Administración Tributaria mediante reglas de carácter general, registrados para el uso del buzón tributario, no son correctos o auténticos.
 
-IX. Detecten la comisión de una o más de las conductas infractoras previstas en los artículos 79, 81 y 83 de este ordenamiento, y la conducta sea realizada por el contribuyente titular del certificado de sello digital.
+IX. Detecten la comisión de una o más de las conductas infractoras establecidas en los artículos 79, 81 y 83 de este ordenamiento, o las establecidas en los artículos 184, fracción II y 185-A de la Ley Aduanera, y la conducta sea realizada por el contribuyente titular del certificado de sello digital.
+
+*Fracción reformada DOF 07-11-2025*
 
 X. Se deroga.
 
 XI. Detecten que la persona moral tiene un socio o accionista que cuenta con el control efectivo de la misma, y cuyo certificado se ha dejado sin efectos por ubicarse en alguno de los supuestos del artículo 17-H, primer párrafo, fracciones X, XI o XII de este Código, o bien, en los supuestos del artículo 69, decimosegundo párrafo, fracciones I a V de este Código, y no haya corregido su situación fiscal, o bien, que dicho socio o accionista tenga el control efectivo de otra persona moral, que se encuentre en los supuestos de los artículos y fracciones antes referidos y ésta no haya corregido su situación fiscal. Para tales efectos se considera que dicho socio o accionista cuenta con el control efectivo cuando se ubique en cualquiera de los supuestos establecidos en el artículo 26, fracción X, cuarto párrafo, incisos a), b) y c) de este Código.
 
 *Fracción adicionada DOF 12-11-2021*
+
+XII. Detecten que los contribuyentes tengan a su cargo créditos fiscales firmes no pagados en su totalidad junto con sus accesorios, cuando en el ejercicio fiscal inmediato anterior a aquel en que se realice la restricción, hayan emitido comprobantes fiscales por un monto total que supere cuatro veces el monto histórico del crédito fiscal.
+
+*Fracción adicionada DOF 07-11-2025*
+
+XIII. Detecten que en la expedición de comprobantes fiscales digitales por Internet, los contribuyentes:
+
+a) No hayan declarado la clave ingreso correspondiente en el campo tipo de comprobante.
+
+b) No hayan declarado el número de permiso correspondiente vigente concedido por la Comisión Nacional de Energía o enajene combustibles sin haberlos importado o adquirido conforme a las disposiciones jurídicas aplicables o declaren uno incorrecto sin contar con el permiso referido en el presente inciso.
+
+*Fracción adicionada DOF 07-11-2025*
+
+XIV. Detecten que los contribuyentes que recibieron los comprobantes fiscales digitales por Internet a que se refiere la fracción X del artículo 49 Bis de este Código, no corrigieron su situación fiscal dentro del plazo establecido en dicha fracción.
+
+*Fracción adicionada DOF 07-11-2025*
 
 Los contribuyentes a quienes se les haya restringido temporalmente el uso del certificado de sello digital para la expedición de comprobantes fiscales digitales por Internet podrán presentar, en un plazo no mayor a cuarenta días hábiles, la solicitud de aclaración a través del procedimiento que, mediante reglas de carácter general, determine el Servicio de Administración Tributaria para subsanar las irregularidades detectadas, o bien, para desvirtuar las causas que motivaron la aplicación de tal medida, en el cual podrán aportar las pruebas que a su derecho convenga, a fin de que, al día siguiente al de la solicitud se restablezca el uso de dicho certificado. La autoridad fiscal deberá emitir la resolución sobre dicho procedimiento en un plazo máximo de diez días, contado a partir del día siguiente a aquél en que se reciba la solicitud correspondiente; hasta en tanto se emita la resolución correspondiente, la autoridad fiscal permitirá el uso del certificado de sello digital para la expedición de comprobantes fiscales digitales por Internet. La resolución a que se refiere este párrafo se dará a conocer al contribuyente a través del buzón tributario.
 
@@ -848,7 +869,7 @@ Se aceptará como medio de pago de las contribuciones y aprovechamientos, los ch
 
 Cantidades del párrafo actualizadas por resolución miscelánea fiscal DOF 05-01-2022. Compiladas DOF 27-12-2022.
 
-Actualizadas DOF 29-12-2023
+Actualizadas DOF 29-12-2023. Compiladas DOF 30-12-2024, 28-12-2025
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes del adeudo principal, a los accesorios en el siguiente orden:
 
@@ -1229,7 +1250,7 @@ g) Se encuentre en el listado a que se refiere el artículo 69-B, cuarto párraf
 
 h) Se encuentre en el supuesto a que se refiere el artículo 69-B, octavo párrafo de este Código, por no haber acreditado la efectiva adquisición de los bienes o recepción de los servicios, ni corregido su situación fiscal, cuando en un ejercicio fiscal dicha persona moral haya recibido comprobantes fiscales de uno o varios contribuyentes que se encuentren en el supuesto a que se refiere el cuarto párrafo del artículo 69-B del este código, por un monto superior a \$9,736,810.00.
 
-Cantidad del inciso actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Cantidad del inciso actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 i) Se encuentre en el listado a que se refiere el artículo 69-B Bis, noveno párrafo de este Código, por haberse ubicado en definitiva en el supuesto de presunción de haber transmitido indebidamente pérdidas fiscales a que se refiere dicho artículo. Cuando la transmisión indebida de pérdidas fiscales sea consecuencia del supuesto a que se refiere la fracción III del mencionado artículo, también se considerarán responsables solidarios los socios o accionistas de la sociedad que adquirió y disminuyó indebidamente las pérdidas fiscales, siempre que con motivo de la reestructuración, escisión o fusión de sociedades, o bien, de cambio de socios o accionistas, la sociedad deje de formar parte del grupo al que perteneció.
 
@@ -1357,6 +1378,10 @@ V. Realizar la inscripción o actualización en el registro federal de contribuy
 
 VI. Requerir aclaraciones, información o documentación a los contribuyentes, a los fedatarios públicos o alguna otra autoridad ante la que se haya protocolizado o apostillado un documento, según corresponda.
 
+El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá establecer el procedimiento para requerir al fedatario público que informe, bajo protesta de decir verdad, sobre la autenticidad de los documentos presentados por las personas físicas y morales en los trámites fiscales que soliciten.
+
+*Párrafo adicionado DOF 07-11-2025*
+
 *Reforma DOF 12-11-2021: Derogó de la fracción el entonces párrafo segundo*
 
 VII. Corregir los datos del registro federal de contribuyentes con base en evidencias que recabe, incluyendo aquéllas proporcionadas por terceros.
@@ -1373,11 +1398,19 @@ La verificación a que se refiere esta fracción, podrá realizarse utilizando h
 
 XI. Emitir a través de reglas de carácter general, los requisitos a través de los cuales, las personas físicas que no sean sujetos obligados en términos del presente artículo, podrán solicitar su inscripción en el registro federal de contribuyentes.
 
-XII. Suspender o disminuir las obligaciones de los contribuyentes cuando se confirme en sus sistemas o con información proporcionada por otras autoridades o por terceros que no han realizado alguna actividad en los tres ejercicios previos.
+XII. Suspender las actividades o disminuir las obligaciones fiscales de los contribuyentes cuando, con base en la información que obre en sus sistemas o aquella proporcionada por otras autoridades o terceros, se confirme que, durante los tres ejercicios inmediatos anteriores, sin estar obligados a hacerlo no han presentado declaraciones, no han sido informados en las declaraciones presentadas por terceros, no han emitido ni recibido comprobantes fiscales, no han presentado avisos ante el Registro Federal de Contribuyentes y no cuentan con requerimientos de la autoridad pendientes por cubrir, en los términos que establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
 
-XIII. Cancelar o suspender el Registro Federal de Contribuyentes cuando se confirme en sus sistemas o con información proporcionada por otras autoridades o por terceros que el contribuyente no ha realizado alguna actividad en los cinco ejercicios previos, que durante dicho periodo no ha emitido comprobantes fiscales, que no cuente con obligaciones pendientes de cumplir, o por defunción de la persona física, así como con los demás requisitos que establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
+*Fracción reformada DOF 07-11-2025*
 
-*Fracción adicionada DOF 12-11-2021*
+XIII. Cancelar el Registro Federal de Contribuyentes cuando, con base en la información que obre en sus sistemas o aquella proporcionada por otras autoridades o terceros, se acredite que los contribuyentes, durante los cinco ejercicios fiscales inmediatos anteriores, sin estar obligados a hacerlo no han presentado declaraciones, no han sido informados en las declaraciones presentadas por terceros, no han emitido ni recibido comprobantes fiscales, no han presentado avisos ante el Registro Federal de Contribuyentes, y no cuentan con créditos fiscales, en los términos que establezca el Servicio de Administración Tributaria mediante reglas de carácter general; asimismo, procederá la cancelación por defunción de las personas físicas.
+
+*Fracción adicionada DOF 12-11-2021. Reformada DOF 07-11-2025*
+
+XIV. Negar la inscripción de personas morales en el Registro Federal de Contribuyentes, cuando detecte que su representante legal conforme al artículo 19, primer párrafo de este Código, algún socio o accionista o cualquier persona que forme parte de su estructura orgánica, conforme a sus estatutos o legislación bajo la cual se constituyeron, se ubique en alguno de los supuestos establecidos en los artículos 17-H, fracciones X, XI, XII o XIII, o 69, decimosegundo párrafo, fracciones I a IV y IX de este Código y que no haya corregido su situación fiscal; o bien, que dicho representante, socio, accionista o persona forme parte de otra persona moral que se encuentre en alguno de los supuestos de los artículos y fracciones antes referidos que no haya corregido su situación fiscal.
+
+Para efectos del párrafo anterior, el Servicio de Administración Tributaria, mediante reglas de carácter general, podrá establecer los requisitos y el procedimiento para validar la información proporcionada por las personas morales al momento de solicitar su inscripción.
+
+*Fracción adicionada DOF 07-11-2025*
 
 D. Casos especiales:
 
@@ -1553,6 +1586,10 @@ Para efectos de esta fracción se entiende por automóvil la definición conteni
 
 Cuando los bienes o las mercancías no puedan ser identificados individualmente, se hará el señalamiento expreso de tal situación.
 
+f) Los que expidan los contribuyentes que distribuyan o enajenen hidrocarburos o petrolíferos, deberán contener el número de permiso vigente concedido por la Comisión Nacional de Energía.
+
+*Inciso adicionado DOF 07-11-2025*
+
 VI. El valor unitario consignado en número.
 
 Los comprobantes que se expidan en los supuestos que a continuación se indican, deberán cumplir adicionalmente con lo que en cada caso se especifica:
@@ -1581,15 +1618,23 @@ a) El número y fecha del documento aduanero, tratándose de ventas de primera m
 
 b) En importaciones efectuadas a favor de un tercero, el número y fecha del documento aduanero, los conceptos y montos pagados por el contribuyente directamente al proveedor extranjero y los importes de las contribuciones pagadas con motivo de la importación.
 
-IX. Los contenidos en las disposiciones fiscales, que sean requeridos y dé a conocer el Servicio de Administración Tributaria, mediante reglas de carácter general.
+IX. Amparar operaciones existentes, verdaderas o actos jurídicos reales.
+
+Los comprobantes fiscales que no cumplan con el requisito establecido en esta fracción, se consideran falsos para efectos de este Código.
+
+*Fracción adicionada DOF 07-11-2025*
+
+X. Los contenidos en las disposiciones fiscales, que sean requeridos y dé a conocer el Servicio de Administración Tributaria, mediante reglas de carácter general.
+
+*Fracción recorrida DOF 07-11-2025*
 
 Los comprobantes fiscales digitales por Internet, incluyendo los que se generen para efectos de amparar la retención de contribuciones deberán contener los requisitos que determine el Servicio de Administración Tributaria mediante reglas de carácter general.
 
 Las cantidades que estén amparadas en los comprobantes fiscales que no reúnan algún requisito de los establecidos en esta disposición o en el artículo 29 de este Código, según sea el caso, o cuando los datos contenidos en los mismos se plasmen en forma distinta a lo señalado por las disposiciones fiscales, no podrán deducirse o acreditarse fiscalmente.
 
-Salvo que las disposiciones fiscales prevean un plazo menor, los comprobantes fiscales digitales por Internet sólo podrán cancelarse en el ejercicio en el que se expidan y siempre que la persona a favor de quien se expidan acepte su cancelación.
+Los comprobantes fiscales digitales por Internet se podrán cancelar a más tardar en el mes en el cual se deba presentar la declaración anual del impuesto sobre la renta que corresponda al ejercicio fiscal en el cual se expidió el referido comprobante y siempre que la persona a favor de quien se expidan acepte su cancelación.
 
-*Párrafo reformado DOF 12-11-2021*
+*Párrafo reformado DOF 12-11-2021, 07-11-2025*
 
 El Servicio de Administración Tributaria, mediante reglas de carácter general, establecerá la forma y los medios en los que se deberá manifestar la aceptación a que se refiere el párrafo anterior, así como las características de los comprobantes fiscales digitales por Internet o documentos digitales a que se refiere el artículo 29, primer y último párrafo de este Código en el caso de operaciones realizadas con residentes en el extranjero sin establecimiento permanente en México.
 
@@ -1602,6 +1647,12 @@ Cuando los contribuyentes cancelen comprobantes fiscales digitales por Internet 
 El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá establecer los casos en los que los contribuyentes deban emitir el comprobante fiscal digital por Internet en un plazo distinto al señalado en el Reglamento de este Código.
 
 *Párrafo adicionado DOF 12-11-2021*
+
+##### Artículo 29-A Bis.
+
+Cuando las autoridades fiscales se encuentren ejerciendo cualquiera de las facultades establecidas en este Código, y detecten el incumplimiento al requisito establecido en el artículo 29-A, fracción IX de este Código, podrán determinar lo que corresponda conforme a la facultad que estén ejerciendo, sin que se requiera agotar previamente el procedimiento a que se refiere el artículo 49 Bis, con relación al artículo 42, fracción V, inciso g), ambos del presente Código.
+
+*Artículo adicionado DOF 07-11-2025*
 
 ##### Artículo 29-B.
 
@@ -1658,6 +1709,16 @@ Las personas que presten los servicios que mediante reglas de carácter general 
 Los organismos descentralizados que presten servicios de seguridad social deberán proporcionar a las autoridades fiscales, cuando así se lo soliciten, la información sobre sus contribuyentes, identificándolos con la clave del registro federal de contribuyentes que les corresponda.
 
 Los usuarios de los servicios mencionados, así como los cuentahabientes de las instituciones de crédito, deberán de proporcionar a los prestadores de servicios o a las instituciones mencionadas los datos que les requieran para cumplir con la obligación a que se refiere este artículo.
+
+##### Artículo 30-B.
+
+Los contribuyentes que proporcionen servicios digitales de conformidad con los artículos 1o.-A BIS y 18-B de la Ley del Impuesto al Valor Agregado, deberán permitir a las autoridades fiscales, en forma permanente, el acceso en línea y en tiempo real únicamente a la información que permita comprobar el debido cumplimiento de las obligaciones fiscales, que obre en sus sistemas o registros, en los términos que establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+El incumplimiento a la obligación prevista en el párrafo anterior dará lugar al bloqueo temporal del acceso al servicio digital, de conformidad con lo dispuesto en los artículos 18-H BIS a 18-H QUINTUS de la Ley del Impuesto al Valor Agregado.
+
+Para los efectos del primer párrafo de este artículo, las autoridades fiscales celebrarán convenios con la Agencia de Transformación Digital y Telecomunicaciones en materia informática y de tecnologías de la información para la gestión tecnológica, o para el análisis de datos.
+
+*Artículo adicionado DOF 07-11-2025*
 
 ##### Artículo 31.
 
@@ -1757,13 +1818,15 @@ Las personas físicas con actividades empresariales y las personas morales, que 
 
 Cantidades del párrafo actualizadas por resolución miscelánea fiscal DOF 05-01-2022. Compiladas DOF 27-12-2022.
 
-Actualizadas DOF 29-12-2023
+Actualizadas DOF 29-12-2023. Compiladas DOF 30-12-2024, 28-12-2025
 
-Están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público inscrito, las personas morales que tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a \$1,855,919,380.00, así como aquéllas que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores.
+Están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público inscrito, las personas morales que tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a \$2,013,710,870.00, así como aquéllas que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores.
 
 *Párrafo reformado DOF 12-11-2021*
 
-Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022, 29-12-2023
+Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022, 29-12-2023, 30-12-2024,
+
+28-12-2025
 
 El monto de la cantidad establecida en el párrafo anterior se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúe el cálculo, de conformidad con el procedimiento a que se refiere el artículo 17-A de este Código.
 
@@ -2013,9 +2076,9 @@ La información a que se refiere el párrafo anterior se deberá presentar a má
 
 Los contribuyentes que a continuación se señalan deberán presentar ante las autoridades fiscales, como parte de la declaración del ejercicio, la información sobre su situación fiscal, utilizando los medios y formatos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.
 
-I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a \$1,016,759,000.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
+I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a \$1,103,204,520.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
 
-Cantidad del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022, 29-12-2023
+Cantidad del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022, 29-12-2023, 30-12-2024, 28-12-2025
 
 El monto de la cantidad establecida en el párrafo anterior se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúe el cálculo, de conformidad con el procedimiento a que se refiere el artículo 17-A de este Código.
 
@@ -2179,7 +2242,9 @@ Las resoluciones administrativas de carácter individual favorables a un particu
 
 Cuando la Secretaría de Hacienda y Crédito Público modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
 
-Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando los contribuyentes no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
+Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones que contengan determinaciones de créditos fiscales emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando los contribuyentes no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
+
+*Párrafo reformado DOF 07-11-2025*
 
 Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte la Secretaría de Hacienda y Crédito Público al respecto no podrán ser impugnadas por los contribuyentes.
 
@@ -2427,7 +2492,17 @@ e) La de contar con la documentación o comprobantes que acrediten la legal prop
 
 f) Las inherentes y derivadas de autorizaciones, concesiones, padrones, registros o patentes establecidos en la Ley Aduanera, su Reglamento y las Reglas Generales de Comercio Exterior que emita el Servicio de Administración Tributaria.
 
-La visita domiciliaria que tenga por objeto verificar todos o cualquiera de las obligaciones referidas en los incisos anteriores, deberá realizarse conforme al procedimiento previsto en el artículo 49 de este Código y, cuando corresponda, con las disposiciones de la Ley Aduanera.
+g) Que los comprobantes fiscales amparen operaciones existentes, verdaderas o actos jurídicos reales, cuando la autoridad presuma que dichos comprobantes se emitieron sin cumplir con el requisito establecido en el artículo 29-A, fracción IX de este Código.
+
+*Inciso adicionado DOF 07-11-2025*
+
+La visita domiciliaria que tenga por objeto verificar todos o cualquiera de las obligaciones referidas en los incisos anteriores, deberá realizarse conforme al procedimiento establecido en el artículo 49 de este Código, con excepción de la obligación establecida en el inciso g), y, cuando corresponda, con las disposiciones de la Ley Aduanera.
+
+*Párrafo reformado DOF 07-11-2025*
+
+Las visitas domiciliarias a que se refiere el inciso g) se llevarán a cabo conforme al procedimiento establecido en el artículo 49 Bis de este Código.
+
+*Párrafo adicionado DOF 07-11-2025*
 
 Las autoridades fiscales podrán solicitar a los contribuyentes la información necesaria para su inscripción y actualización de sus datos en el citado registro e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito.
 
@@ -2459,13 +2534,21 @@ XIII. Requerir a las instituciones financieras; fiduciarias, fideicomitentes o f
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
+Tratándose de las visitas domiciliarias y verificación física de bienes durante el transporte, a que se refieren las fracciones III, V y VI de este artículo, respectivamente, las autoridades fiscales podrán autorizar, en la misma orden de visita o verificación, el uso de herramientas tecnológicas para generar de manera indistinta fotografías, audios o videos del desarrollo de las diligencias que practiquen, cuya impresión o archivos electrónicos serán anexados a las actas que levanten y servirán como prueba, entre otras circunstancias, de las características del lugar, fecha y hora en que se desarrollaron, personas que participaron, de los hechos y omisiones que se conocieron, así como sobre los bienes descubiertos al amparo de la orden respectiva.
+
+*Párrafo adicionado DOF 07-11-2025*
+
 En el caso de que la autoridad fiscal esté ejerciendo las facultades de comprobación previstas en las fracciones II, III, IV y IX de este artículo y en el ejercicio revisado se disminuyan pérdidas fiscales, se acrediten o compensen saldos a favor o pago de lo indebido o se apliquen estímulos o subsidios fiscales, se podrá requerir al contribuyente dentro del mismo acto de comprobación la documentación comprobatoria con la que acredite de manera fehaciente el origen y procedencia de dichos conceptos, según se trate, independientemente del ejercicio en que se hayan originado los mismos, sin que dicho requerimiento se considere como un nuevo acto de comprobación.
 
 La revisión que de las pérdidas fiscales efectúen las autoridades fiscales sólo tendrá efectos para la determinación del resultado del ejercicio sujeto a revisión.
 
-Las autoridades fiscales que estén ejerciendo alguna de las facultades previstas en las fracciones II, III y IX de este artículo y detecten hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, deberán informar por medio de buzón tributario al contribuyente, a su representante legal, y en el caso de las personas morales a sus órganos de dirección por conducto de aquel, en un plazo de al menos 10 días hábiles previos al del levantamiento de la última acta parcial, del oficio de observaciones o de la resolución definitiva en el caso de revisiones electrónicas, el derecho que tienen para acudir a las oficinas que estén llevando a cabo el procedimiento de que se trate, para conocer los hechos y omisiones que hayan detectado.
+Las autoridades fiscales que estén ejerciendo alguna de las facultades establecidas en las fracciones II, III y IX de este artículo, dentro de los 10 días hábiles posteriores al del levantamiento de la última acta parcial o de la notificación del oficio de observaciones o de la resolución provisional, deberán informar, mediante oficio, por cualquiera de las formas de notificación señaladas en el artículo 134 de este Código, los hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, al contribuyente, a su representante legal y, en el caso de las personas morales, a sus órganos de dirección. Dicho informe no interfiere con los plazos, efectos jurídicos, ni derechos establecidos en los artículos 46, fracción IV, 48, fracciones VI, VII y VIII y 53-B, fracción II y segundo párrafo de este Código.
 
-Transcurrido el plazo a que se refiere el párrafo anterior, la autoridad emitirá la última acta parcial, el oficio de observaciones o la resolución definitiva en el caso de revisiones electrónicas, señalando en estas actuaciones la asistencia o inasistencia de los interesados para ejercer su derecho a conocer el estado del procedimiento a que está siendo sujeto; previamente a ello, deberá levantarse un acta circunstanciada en la que se haga constar esta situación. En toda comunicación que se efectúe en términos del párrafo anterior, deberá indicárseles que pueden solicitar a la Procuraduría de la Defensa del Contribuyente, ser asistidos de manera presencial cuando acudan a las oficinas de las autoridades fiscales.
+*Párrafo reformado DOF 07-11-2025*
+
+Para efectos del párrafo anterior, tratándose de personas morales, la autoridad fiscal requerirá al contribuyente, desde el oficio con el cual inicien las facultades de comprobación, para que en el primer acto en el que comparezca, proporcione el nombre del presidente del consejo de administración, del administrador único y/o de la persona que tenga ese carácter en su órgano de dirección, su domicilio fiscal, su dirección de correo electrónico, teléfono y los medios de contacto que, en su caso, tengan habilitados en el Buzón Tributario, así como, en su caso, el nombre del representante legal de los mismos. Los contribuyentes se encontrarán obligados a mantener informada a la autoridad fiscal sobre cualquier cambio en los integrantes del referido órgano de dirección, así como del domicilio y medios de contacto antes referidos y deberán comunicar sobre esas modificaciones a la autoridad que esté ejerciendo las facultades de comprobación, en la siguiente actuación que realicen dentro de los referidos procedimientos de fiscalización. En caso de que el contribuyente no proporcione dicha información, se entenderá que no es su deseo ejercer el derecho contenido en el párrafo anterior.
+
+*Párrafo reformado DOF 07-11-2025*
 
 El Servicio de Administración Tributaria establecerá mediante reglas de carácter general, el procedimiento para informar al contribuyente el momento oportuno para acudir a sus oficinas y la forma en que éste puede ejercer su derecho a ser informado.
 
@@ -2533,7 +2616,9 @@ IV. Las autoridades fiscales podrán solicitar el auxilio de otras autoridades f
 
 ##### Artículo 45.
 
-Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la visita. También deberán permitir la verificación de bienes y mercancías, así como de los documentos, estados de cuentas bancarias, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
+Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la visita. También deberán permitir la verificación de bienes y mercancías, así como de los documentos, estados de cuenta o estados de cuenta bancarios, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
+
+*Párrafo reformado DOF 07-11-2025*
 
 Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o microfilmen o graben en discos ópticos o en cualquier otro medio que autorice el Servicio de Administración Tributaria mediante reglas de carácter general, deberán poner a disposición de los visitadores el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita, así como entregar a la autoridad los archivos electrónicos en donde conste dicha contabilidad.
 
@@ -2665,7 +2750,9 @@ VIII.- Dentro del plazo para desvirtuar los hechos u omisiones asentados en el o
 
 IX.- Cuando el contribuyente no corrija totalmente su situación fiscal conforme al oficio de observaciones o no desvirtúe los hechos u omisiones consignados en dicho documento, se emitirá la resolución que determine las contribuciones o aprovechamientos omitidos, la cual se notificará al contribuyente cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción.
 
-Para los efectos del primer párrafo de este artículo, se considera como parte de la documentación o información que pueden solicitar las autoridades fiscales, la relativa a las cuentas bancarias del contribuyente.
+Para efectos de lo dispuesto en el presente artículo y en el artículo 42, primer párrafo de este Código, cuando la autoridad se encuentre ejerciendo sus facultades de comprobación, podrá requerir informes, datos, documentos, la contabilidad o parte de ella, así como información económica y financiera, con el orden, metodología y características, que permitan relacionar las operaciones, actos o actividades del contribuyente revisado, además de la relativa a las cuentas o cuentas bancarias abiertas a nombre del contribuyente.
+
+*Párrafo reformado DOF 07-11-2025*
 
 ##### Artículo 48-A.
 
@@ -2737,6 +2824,52 @@ VI. Si con motivo de la visita domiciliaria a que se refiere este artículo, las
 
 *Fracción reformada DOF 12-11-2021*
 
+##### Artículo 49 Bis.
+
+Para los efectos de lo dispuesto en el artículo 42, fracción V, inciso g) de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
+
+I. En la orden de visita, la autoridad fiscal señalará el motivo por el cual presume que los comprobantes fiscales digitales por Internet que emite el contribuyente son falsos.
+
+También se ordenará la suspensión de la emisión de dichos comprobantes, a partir de la entrega o notificación de la orden. En estos casos no será aplicable el artículo 17-H Bis de este Código y la suspensión se mantendrá hasta la emisión de la resolución a este procedimiento.
+
+II. Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, oficinas, bodegas, almacenes, puestos fijos y semifijos en la vía pública, de los contribuyentes, o donde se realicen las actividades o presten los servicios que amparen los comprobantes fiscales digitales por Internet emitidos.
+
+III. Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, podrán iniciar la toma de fotografías, grabación de audios o videos, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, a quien, en su caso, le informarán que el desarrollo de la diligencia está siendo registrado mediante herramientas tecnológicas, y con dicha persona se entenderá la visita.
+
+Si el domicilio fiscal o lugar señalado en la orden para la práctica de la diligencia no existe o no corresponde al contribuyente, no se encuentra a alguien que atienda a los visitadores o los encontrados se niegan a atender la visita o impiden su práctica, deberá levantarse acta circunstanciada en la que se haga constar dicha situación, dándose por concluida la diligencia. En estos casos, la orden se notificará por buzón tributario o por estrados conforme a los artículos 134, fracciones I y III y 139 de este Código y, dentro de los tres días hábiles siguientes al en que surta efectos dicha notificación, la autoridad se constituirá nuevamente en el domicilio fiscal o lugar señalado para practicar la visita. De subsistir algún impedimento para llevar a cabo la visita ordenada, se hará constar en un acta circunstanciada y, sin trámite adicional, dentro del plazo de quince días hábiles siguientes al del levantamiento del acta se emitirá la resolución que determina que el contribuyente emite falsos comprobantes fiscales, misma que se podrá notificar por cualquiera de las vías de notificación establecidas en el artículo 134 de este Código.
+
+IV. Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta o actas que levanten, sin que esta circunstancia invalide los resultados de la visita.
+
+V. En la visita domiciliaria se levantará acta en la que se harán constar en forma circunstanciada los hechos conocidos por los visitadores, en los términos de este Código y su Reglamento o, en su caso, las irregularidades detectadas durante la visita.
+
+La persona con la que se entienda la diligencia podrá ofrecer, durante ésta o en el plazo de cinco días hábiles, contados a partir del día hábil siguiente al en que se practique dicha diligencia, los medios de prueba que estime convenientes y manifestar lo que a su derecho convenga, para desvirtuar la presunción de que los comprobantes fiscales son falsos al no cumplir con lo establecido en el artículo 29-A, fracción IX de este Código, debiendo señalar claramente el hecho a que se refiere cada uno de ellos y lo que se pretende probar, los cuales se valorarán en la resolución que al efecto emita la autoridad fiscal.
+
+VI. Los medios de prueba que ofrezca el contribuyente, deberán identificarse y adminicularse claramente con el hecho u observación que pretenda desvirtuar, considerando para ello lo siguiente:
+
+a) Que se refieran directamente al objeto de la visita domiciliaria;
+
+b) Que no se ofrezcan para generar efectos dilatorios;
+
+c) Que no se hayan obtenido con violación a alguna disposición jurídica, o
+
+d) Que no hayan sido declarados nulos en algún procedimiento jurisdiccional o instancia administrativa.
+
+VII. Si al cierre del acta de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar la misma, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la misma, sin que esto afecte su validez y valor probatorio, dándose por concluida la visita domiciliaria.
+
+VIII. Concluido el plazo de cinco días hábiles otorgado al contribuyente para aportar medios de prueba y desvirtuar las irregularidades detectadas, la autoridad contará con un plazo de quince días hábiles para emitir y notificar la resolución, en la que podrá determinar lo siguiente:
+
+a) Que el contribuyente desvirtuó la presunción de falsedad de los comprobantes fiscales digitales por Internet emitidos que motivó la orden de visita, por lo que se dejará sin efectos la suspensión de la emisión de los mismos, o
+
+b) Que el contribuyente no desvirtuó la presunción de falsedad de los comprobantes fiscales digitales por Internet emitidos, por lo que se consideran falsos con efectos generales y que las operaciones contenidas en los mismos no producen ni produjeron efecto fiscal alguno, aplicándose lo dispuesto en el artículo 17-H, fracción XIII de este Código.
+
+IX. El procedimiento a que se refiere este artículo, se deberá concluir, como máximo, dentro de los veinticuatro días hábiles e iniciará cuando se entregue la orden o, en su caso, cuando surta efectos su notificación, y concluirá al emitirse la resolución correspondiente.
+
+X. El nombre y la clave en el Registro Federal de Contribuyentes del contribuyente al que se le haya emitido la resolución a que se refiere el inciso b) de la fracción VIII de este artículo, serán publicados en el Portal del Servicio de Administración Tributaria y en el Diario Oficial de la Federación dentro de los cuarenta y cinco días hábiles siguientes al en que surta efectos la notificación de la resolución, a fin de que los terceros que recibieron comprobantes fiscales digitales por Internet emitidos por dicho contribuyente, conozcan esta situación y reviertan el efecto fiscal que les hubieren dado a los mismos, a través de la presentación de una declaración complementaria, para lo cual contarán con un plazo de treinta días naturales a partir de la publicación en el Diario Oficial de la Federación. En caso de no hacerlo, la autoridad les restringirá temporalmente el uso del certificado de sello digital para emitir comprobantes fiscales digitales por Internet, conforme al artículo 17-H Bis, fracción XIV de este Código.
+
+XI. La Secretaría de Hacienda y Crédito Público procederá penalmente contra cualquier actividad relacionada con comprobantes fiscales falsos, en términos de lo dispuesto en el artículo 113 Bis de este Código.
+
+*Artículo adicionado DOF 07-11-2025*
+
 ##### Artículo 50.
 
 Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 48 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente o por medio del buzón tributario, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refieren las fracciones VI y VII del artículo 48 de este Código.
@@ -2781,9 +2914,9 @@ III. Que el contador público emita, conjuntamente con su dictamen, un informe s
 
 Adicionalmente, en dicho informe el contador público deberá señalar si el contribuyente incorporó en el dictamen la información relacionada con la aplicación de algunos de los criterios diversos a los que en su caso hubiera dado a conocer la autoridad fiscal conforme al inciso h) de la fracción I del artículo 33 de este Código.
 
-Cuando derivado de la elaboración del dictamen el contador público inscrito tenga conocimiento de que el contribuyente ha incumplido con las disposiciones fiscales y aduaneras o que ha llevado a cabo alguna conducta que pueda constituir la comisión de un delito fiscal, deberá informarlo a la autoridad fiscal, de acuerdo con las reglas de carácter general que para tales efectos emita el Servicio de Administración Tributaria.
+Cuando derivado de la elaboración del dictamen el contador público inscrito tenga conocimiento de que el contribuyente ha incumplido con las disposiciones fiscales y aduaneras, deberá informarlo a la autoridad fiscal, de acuerdo con las reglas de carácter general que para tales efectos emita el Servicio de Administración Tributaria.
 
-*Párrafo adicionado DOF 12-11-2021*
+*Párrafo adicionado DOF 12-11-2021. Reformado DOF 07-11-2025*
 
 IV. Que el dictamen se presente a través de los medios electrónicos de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 
@@ -3153,13 +3286,23 @@ I. Que la información contenida en la contabilidad, documentación comprobatori
 
 II. Que la información contenida en los sistemas de contabilidad, a nombre del contribuyente, localizados en poder de personas a su servicio, o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente.
 
-III. Que los depósitos en la cuenta bancaria del contribuyente que no correspondan a registros de su contabilidad que esté obligado a llevar, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
+III. Que los depósitos en la cuenta o cuenta bancaria abierta a nombre del contribuyente que no correspondan a registros de su contabilidad que esté obligado a llevar, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
 
-Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación.
+*Párrafo reformado DOF 07-11-2025*
 
-También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a 2,028,610.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
+Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos en su cuenta o cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación.
 
-Cantidad del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+*Párrafo reformado DOF 07-11-2025*
+
+También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a \$2,028,610.00 en las cuentas o cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
+
+Cantidad del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022.
+
+Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
+
+*Párrafo reformado DOF 07-11-2025*
+
+Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 28-12-2025
 
 No se aplicará lo dispuesto en el párrafo anterior cuando, antes de que la autoridad inicie el ejercicio de sus facultades de comprobación, el contribuyente informe al Servicio de Administración Tributaria de los depósitos realizados, cubriendo todos los requisitos que dicho órgano desconcentrado establezca mediante reglas de carácter general.
 
@@ -3331,7 +3474,9 @@ VI. No procederá la autorización a que se refiere este artículo tratándose d
 
 a) Contribuciones que debieron pagarse en el año de calendario en curso o las que debieron pagarse en los seis meses anteriores al mes en el que se solicite la autorización, excepto en los casos de aportaciones de seguridad social.
 
-b) Contribuciones y aprovechamientos que se causen con motivo de la importación y exportación de bienes o servicios.
+b) (Derogado).
+
+*Inciso derogado DOF 07-11-2025*
 
 c) Contribuciones retenidas, trasladadas o recaudadas.
 
@@ -3781,41 +3926,53 @@ X. No atender los requerimientos realizados por la autoridad fiscal, en el plazo
 
 A quien cometa las infracciones relacionadas con el Registro Federal de Contribuyentes a que se refiere el artículo 79, se impondrán las siguientes multas:
 
-I. De \$4,480.00 a \$13,430.00, a las comprendidas en las fracciones I, II y VI.
+I. De \$5,070.00 a \$15,200.00, a las comprendidas en las fracciones I, II y VI.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 II. De \$5,400.00 a \$10,780.00, a la comprendida en la fracción III. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de \$1,800.00 a \$3,600.00.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 III. Para la señalada en la fracción IV:
 
-a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y \$9,530.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de \$3,810.00 ni mayor de \$9,530.00.
+a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y \$10,790.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de \$4,310.00 ni mayor de \$10,790.00.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
 
-b) De \$1,160.00 a \$2,660.00, en los demás documentos.
+30-12-2024. Actualizada DOF 28-12-2025
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+b) De \$1,310.00 a \$3,010.00, en los demás documentos.
 
-IV. De \$22,400.00 a \$44,790.00, para la establecida en la fracción V.
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+30-12-2024. Actualizada DOF 28-12-2025
 
-V. De \$4,440.00 a \$13,390.00, a la comprendida en la fracción VII.
+IV. De \$25,360.00 a \$50,710.00, para la establecida en la fracción V.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024. Actualizada DOF 28-12-2025
+
+V. De \$5,030.00 a \$15,160.00, a la comprendida en la fracción VII.
+
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024. Actualizada DOF 28-12-2025
 
 VI. De \$21,560.00 a \$43,140.00, a las comprendidas en las fracciones VIII, IX y X.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 ##### Artículo 81.
 
-Son infracciones relacionadas con la obligación de pago de las contribuciones; de presentación de declaraciones, solicitudes, documentación, avisos, información o expedición de constancias, y del ingreso de información a través de la página de Internet del Servicio de Administración Tributaria:
+Son infracciones relacionadas con la obligación de pago de las contribuciones; de presentación de declaraciones, reportes, solicitudes, documentación, avisos, información o expedición de constancias, y del ingreso de información a través de la página de Internet del Servicio de Administración Tributaria:
 
-I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales, o no hacerlo a través de los medios electrónicos que señale la Secretaría de Hacienda y Crédito Público o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos o medios electrónicos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos.
+*Párrafo reformado DOF 07-11-2025*
+
+I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales, no hacerlo a través de los medios electrónicos que señale la Secretaría de Hacienda y Crédito Público o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos o medios electrónicos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos, o no presentar los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código a requerimiento de las autoridades.
+
+*Fracción reformada DOF 07-11-2025*
 
 II. Presentar las declaraciones, las solicitudes, los avisos, la información a que se refiere el artículo 17-K de este Código, o expedir constancias, incompletos, con errores o en forma distinta a lo señalado por las disposiciones fiscales, o bien cuando se presenten con dichas irregularidades, las declaraciones o los avisos en medios electrónicos. Lo anterior no será aplicable tratándose de la presentación de la solicitud de inscripción al Registro Federal de Contribuyentes.
 
@@ -3889,6 +4046,10 @@ h) No generar o conservar los reportes de información a que se refiere el artí
 
 *Fracción reformada DOF 12-11-2021*
 
+i) Destruir o alterar los sellos de clausura del establecimiento que como sanción se impusieron por la comisión de las conductas previstas en los demás incisos de esta fracción, o realizar cualquier acción que impida cumplir el propósito de dichos sellos, o que el contribuyente opere sin haber concluido el plazo de clausura.
+
+*Inciso adicionado DOF 07-11-2025*
+
 XXVI. No proporcionar la información a que se refiere la fracción VIII del artículo 32 de la Ley del Impuesto al Valor Agregado a través de los medios, formatos electrónicos y plazos establecidos en dicha Ley, o presentarla incompleta o con errores.
 
 XXVII. No proporcionar la información a que se refiere el artículo 32-G de este Código, a través de los medios, formatos electrónicos y plazos establecidos en dicha Ley, o presentarla incompleta o con errores.
@@ -3937,241 +4098,299 @@ XLVI. No cancelar los comprobantes fiscales digitales por Internet de ingresos c
 
 ##### Artículo 82.
 
-A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes, documentación, avisos o información; con la expedición de comprobantes fiscales digitales por Internet o de constancias y con el ingreso de información a través de la página de Internet del Servicio de Administración Tributaria a que se refiere el artículo 81 de este Código, se impondrán las siguientes multas:
+A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes, reportes, documentación, avisos o información; con la expedición de comprobantes fiscales digitales por Internet o de constancias y con el ingreso de información a través de la página de Internet del Servicio de Administración Tributaria a que se refiere el artículo 81 de este Código, se impondrán las siguientes multas:
+
+*Párrafo reformado DOF 07-11-2025*
 
 I. Para la señalada en la fracción I:
 
-a) De \$1,810.00 a \$22,400.00, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso.
+a) De \$2,050.00 a \$25,360.00, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
 
-b) De \$1,810.00 a \$44,790.00, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
+30-12-2024. Actualizada DOF 28-12-2025
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+b) De \$2,050.00 a \$50,710.00, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
 
-c) De \$17,190.00 a \$34,350.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+30-12-2024. Actualizada DOF 28-12-2025
 
-d) De \$18,360.00 a \$36,740.00, por no presentar las declaraciones en los medios electrónicos estando obligado a ello, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los plazos señalados en los mismos.
+c) De \$19,460.00 a \$38,890.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
 
-e) De \$1,840.00 a \$5,880.00, en los demás documentos.
+30-12-2024. Actualizada DOF 28-12-2025
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+d) De \$20,790.00 a \$41,590.00, por no presentar las declaraciones en los medios electrónicos estando obligado a ello, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los plazos señalados en los mismos.
+
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024. Actualizada DOF 28-12-2025
+
+e) De \$18,360.00 a \$36,740.00, por no cumplir con los requerimientos de las autoridades fiscales para enviar los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código, o cumplirlos fuera de los plazos señalados en los mismos.
+
+*Inciso adicionado DOF 07-11-2025*
+
+Multa del inciso actualizada por resolución miscelánea fiscal DOF 28-12-2025
+
+f) De \$2,080.00 a \$6,660.00, en los demás documentos.
+
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024
+
+*Inciso recorrido DOF 07-11-2025*
+
+Multa del inciso actualizada por resolución miscelánea fiscal DOF 28-12-2025
 
 II. Respecto de la señalada en la fracción II:
 
-a) De \$1,340.00 a \$4,480.00, por no poner el nombre o domicilio o ponerlos equivocadamente, por cada uno.
+a) De \$1,520.00 a \$5,070.00, por no poner el nombre o domicilio o ponerlos equivocadamente, por cada uno.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
 
-b) De \$30.00 a \$120.00, por cada dato no asentado o asentado incorrectamente en la relación de clientes y proveedores contenidas en las formas oficiales.
+30-12-2024. Actualizada DOF 28-12-2025
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+b) De \$30.00 a \$140.00, por cada dato no asentado o asentado incorrectamente en la relación de clientes y proveedores contenidas en las formas oficiales.
 
-c) De \$240.00 a \$440.00, por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+30-12-2024. Actualizada DOF 28-12-2025
 
-d) De \$900.00 a \$2,230.00, por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
+c) De \$270.00 a \$500.00, por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
 
-e) De \$5,500.00 a \$18,360.00, por presentar medios electrónicos que contengan declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales.
+30-12-2024. Actualizada DOF 28-12-2025
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+d) De \$1,020.00 a \$2,520.00, por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
 
-f) De \$1,620.00 a \$4,860.00, por no presentar firmadas las declaraciones por el contribuyente o por el representante legal debidamente acreditado.
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+30-12-2024. Actualizada DOF 28-12-2025
 
-g) De \$810.00 a \$2,210.00, en los demás casos.
+e) De \$6,230.00 a \$20,790.00, por presentar medios electrónicos que contengan declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
 
-III. De \$1,810.00 a \$44,790.00, tratándose de la señalada en la fracción III, por cada requerimiento.
+30-12-2024. Actualizada DOF 28-12-2025
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+f) De \$1,830.00 a \$5,500.00, por no presentar firmadas las declaraciones por el contribuyente o por el representante legal debidamente acreditado.
 
-IV. De \$22,400.00 a \$44,790.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de \$2,230.00 a \$13,430.00.
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+30-12-2024. Actualizada DOF 28-12-2025
 
-V. Para la señalada en la fracción V, la multa será de \$15,380.00 a \$30,800.00.
+g) De \$920.00 a \$2,500.00, en los demás casos.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
 
-VI. Para la señalada en la fracción VI la multa será de \$4,480.00 a \$13,430.00.
+30-12-2024. Actualizada DOF 28-12-2025
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+III. De \$2,050.00 a \$50,710.00, tratándose de la señalada en la fracción III, por cada requerimiento.
 
-VII. De \$1,110.00 a \$11,300.00, para la establecida en la fracción VII.
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+IV. De \$25,360.00 a \$50,710.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de \$2,520.00 a \$15,200.00.
 
-VIII. Para la señalada en la fracción VIII, la multa será de \$85,000.00 a \$254,980.00.
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+V. Para la señalada en la fracción V, la multa será de \$17,410.00 a \$34,870.00.
 
-IX. De \$13,430.00 a \$44,790.00, para la establecida en la fracción IX.
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+VI. Para la señalada en la fracción VI la multa será de \$5,070.00 a \$15,200.00.
+
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
+
+VII. De \$1,260.00 a \$12,790.00, para la establecida en la fracción VII.
+
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
+
+VIII. Para la señalada en la fracción VIII, la multa será de \$96,230.00 a \$288,660.00.
+
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
+
+IX. De \$15,200.00 a \$50,710.00, para la establecida en la fracción IX.
+
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 X. De \$14,100.00 a \$26,430.00, para la establecida en la fracción X.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 XI. De \$165,010.00 a \$220,020.00, para la establecida en la fracción XI, por cada sociedad integrada no incluida en la solicitud de autorización para determinar el resultado fiscal integrado o no incorporada al régimen opcional para grupos de sociedades.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023 Compilada DOF 30-12-2024, 28-12-2025
 
-XII. De \$58,240.00 a \$89,630.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
+XII. De \$65,930.00 a \$101,470.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XIII. De \$13,430.00 a \$44,790.00, para la establecida en la fracción XIII.
+XIII. De \$15,200.00 a \$50,710.00, para la establecida en la fracción XIII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XIV. De \$13,430.00 a \$31,350.00, para la establecida en la fracción XIV.
+XIV. De \$15,200.00 a \$35,490.00, para la establecida en la fracción XIV.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XV. De \$112,020.00 a \$224,040.00, para la establecida en la fracción XV.
+XV. De \$126,820.00 a \$253,640.00, para la establecida en la fracción XV.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 XVI. De \$15,650.00 a \$31,290.00, a la establecida en la fracción XVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
-XVII. De \$99,590.00 a \$199,190.00, para la establecida en la fracción XVII.
+XVII. De \$112,750.00 a \$225,500.00, para la establecida en la fracción XVII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XVIII. De \$12,700.00 a \$21,150.00, para la establecida en la fracción XVIII.
+XVIII. De \$14,380.00 a \$23,940.00, para la establecida en la fracción XVIII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XIX. De \$21,150.00 a \$42,340.00, para la establecida en la fracción XIX.
+XIX. De \$23,940.00 a \$47,930.00, para la establecida en la fracción XIX.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XX. De \$6,780.00 a \$13,560.00, para la establecida en la fracción XX.
+XX. De \$7,680.00 a \$15,350.00, para la establecida en la fracción XX.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XXI. De \$162,050.00 a \$324,130.00, para la establecida en la fracción XXI.
+XXI. De \$183,460.00 a \$366,950.00, para la establecida en la fracción XXI.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XXII. De \$6,780.00 a \$13,560.00, por cada informe no proporcionado a los contribuyentes, para la establecida en la fracción XXII.
+XXII. De \$7,680.00 a \$15,350.00, por cada informe no proporcionado a los contribuyentes, para la establecida en la fracción XXII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XXIII. De \$19,440.00 a \$35,650.00, a la establecida en la fracción XXIII.
+XXIII. De \$22,010.00 a \$40,360.00, a la establecida en la fracción XXIII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XXIV. De \$6,780.00 a \$13,560.00, por cada constancia no proporcionada, para la establecida en la fracción XXIV.
+XXIV. De \$7,680.00 a \$15,350.00, por cada constancia no proporcionada, para la establecida en la fracción XXIV.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 XXV. Para el supuesto de la fracción XXV, las siguientes, según corresponda:
 
 a) De \$39,360.00 a \$69,160.00, para la establecida en el primer párrafo.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 b) De \$1,124,500.00 a \$1,686,750.00, para la establecida en el segundo párrafo, inciso a).
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 c) De \$2,249,000.00 a \$3,373,500.00, para la establecida en el segundo párrafo, inciso b). La sanción consistirá además en la clausura del establecimiento del contribuyente, por un plazo de uno a tres meses.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 d) De \$3,373,500.00 a \$5,622,500.00, para las establecidas en el segundo párrafo, incisos c) y d). La sanción consistirá además en la clausura del establecimiento del contribuyente, por un plazo de tres a seis meses.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 e) De \$39,360.00 a \$69,160.00, para la establecida en el segundo párrafo, inciso e), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código no enviados al Servicio de Administración Tributaria.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 f) De \$39,360.00 a \$69,160.00, para la establecida en el segundo párrafo, inciso f), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código enviados al Servicio de Administración Tributaria fuera del plazo establecido.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 g) De \$39,360.00 a \$69,160.00, para la establecida en el segundo párrafo, inciso g), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código enviados de forma incompleta, con errores, o en forma distinta a lo señalado en dicho apartado.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 h) De \$39,360.00 a \$69,160.00, para la establecida en el segundo párrafo, inciso h), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código no generados o conservados.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
+
+i) De \$39,360.00 a \$69,160.00, para la establecida en el inciso i). La sanción consistirá además en la clausura del establecimiento por el doble del plazo de la clausura impuesta previamente. Para tales efectos, el plazo de clausura a que se refiere este inciso comenzará a computarse a partir de que la autoridad fiscal detecte la infracción.
+
+*Inciso adicionado DOF 07-11-2025*
+
+Multa del inciso actualizada por resolución miscelánea fiscal DOF 28-12-2025
 
 *Fracción reformada DOF 12-11-2021*
 
 XXVI. De \$14,880.00 a \$29,750.00, a la establecida en la fracción XXVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
-XXVII. De \$15,380.00 a \$30,800.00, a la establecida en la fracción XXVII.
+XXVII. De \$17,410.00 a \$34,870.00, a la establecida en la fracción XXVII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XXVIII. De \$930.00 a \$1,400.00, a la establecida en la fracción XXVIII.
+XXVIII. De \$1,050.00 a \$1,580.00, a la establecida en la fracción XXVIII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XXIX. De \$62,360.00 a \$311,820.00, a la establecida en la fracción XXIX. En caso de reincidencia la multa será de \$124,710.00 a \$623,640.00, por cada requerimiento que se formule.
+XXIX. De \$70,600.00 a \$353,010.00, a la establecida en la fracción XXIX. En caso de reincidencia la multa será de \$141,180.00 a \$706,020.00, por cada requerimiento que se formule.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XXX. De \$204,050.00 a \$290,520.00, a la establecida en la fracción XXX.
+XXX. De \$231,010.00 a \$328,900.00, a la establecida en la fracción XXX.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XXXI. De \$204,050.00 a \$290,520.00, a la establecida en la fracción XXXI.
+XXXI. De \$231,010.00 a \$328,900.00, a la establecida en la fracción XXXI.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 XXXII. (Se deroga).
 
 XXXIII. (Se deroga)
 
-XXXIV. De \$26,440.00 a \$44,050.00 por cada solicitud no atendida, para la señalada en la fracción XXXIV.
+XXXIV. De \$29,930.00 a \$49,870.00 por cada solicitud no atendida, para la señalada en la fracción XXXIV.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 XXXV. (Se deroga).
 
 XXXVI. De \$114,770.00 a \$143,450.00 a la establecida en las fracciones XXXVI, XXXVII, XXXVIII, XLII y XLIV, y, en su caso, la cancelación de la autorización para recibir donativos deducibles.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
-XXXVII. De \$199,630.00 a \$284,220.00, para la establecida en la fracción XL.
+XXXVII. De \$226,000.00 a \$321,770.00, para la establecida en la fracción XL.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XXXVIII. Respecto de las señaladas en la fracción XLI de \$7,110.00 a \$21,310.00, por no ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria, como lo prevé el artículo 28, fracción IV del Código, dentro de los plazos establecidos en las disposiciones fiscales estando obligado a ello; ingresarla a través de archivos con alteraciones que impidan su lectura; no ingresarla de conformidad con las reglas de carácter general emitidas para tal efecto, o no cumplir con los requerimientos de información o de documentación formulados por las autoridades fiscales en esta materia.
+XXXVIII. Respecto de las señaladas en la fracción XLI de \$8,050.00 a \$24,130.00, por no ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria, como lo prevé el artículo 28, fracción IV del Código, dentro de los plazos establecidos en las disposiciones fiscales estando obligado a ello; ingresarla a través de archivos con alteraciones que impidan su lectura; no ingresarla de conformidad con las reglas de carácter general emitidas para tal efecto, o no cumplir con los requerimientos de información o de documentación formulados por las autoridades fiscales en esta materia.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 XXXIX. De \$201,610.00 a \$287,040.00 a la establecida en la fracción XXXIX.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023 Compilada DOF 30-12-2024, 28-12-2025
 
 XL. Se deroga.
 
 *Fracción derogada DOF 12-11-2021*
 
-XLI. De \$173,610.00 a \$347,220.00 a la establecida en la fracción XLV, por cada obligación de entregar información no cumplida.
+XLI. De \$196,540.00 a \$393,090.00 a la establecida en la fracción XLV, por cada obligación de entregar información no cumplida.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 XLII. Del 5% a un 10% del monto de cada comprobante fiscal, tratándose del supuesto establecido en la fracción XLVI.
 
@@ -4201,31 +4420,31 @@ A quien cometa las infracciones relacionadas con la revelación de esquemas repo
 
 I. De \$62,390.00 a \$24,952,660.00 en el supuesto previsto en la fracción I.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 II. De \$18,710.00 a \$24,950.00 en el supuesto previsto en la fracción II.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 III. De \$24,950.00 a \$31,190.00 en el supuesto previsto en la fracción III.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 IV. De \$124,760.00 a \$374,290.00 en el supuesto previsto en la fracción IV.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 V. De \$31,190.00 a \$37,430.00 en el supuesto previsto en la fracción V.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 VI. De \$124,760.00 a \$623,820.00 en el supuesto previsto en la fracción VI.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 VII. De \$62,390.00 a \$87,340.00 en el supuesto previsto en la fracción VII.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 ##### Artículo 82-C.
 
@@ -4247,15 +4466,15 @@ I. En el supuesto previsto por la fracción I, no se aplicará el beneficio fisc
 
 II. De \$62,390.00 a \$124,760.00 en el supuesto previsto en la fracción II.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 III. De \$124,760.00 a \$436,680.00 en el supuesto previsto en la fracción III.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 IV. De \$249,530.00 a \$2,495,270.00 en el supuesto previsto en la fracción IV.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 ##### Artículo 82-E.
 
@@ -4281,27 +4500,39 @@ A quien cometa las infracciones a que se refiere el artículo 82-E de este Códi
 
 I. De \$112,450.00 a \$168,680.00 a las establecidas en la fracción I, por cada cuenta.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 II. De \$134,940.00 a \$191,170.00 a la establecida en la fracción II, por cada cuenta.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 III. De \$11,250.00 a \$56,230.00 a la establecida en la fracción III, por cada dato que se presente incompleto, con errores o en forma distinta a lo señalado por las disposiciones aplicables.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 IV. De \$67,470.00 a \$123,700.00 a la establecida en la fracción IV, por cada cuenta.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 V. De \$112,450.00 a \$168,680.00 a la establecida en la fracción V, por cada cuenta no registrada.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 VI. De \$899,600.00 a \$1,124,500.00 a la establecida en la fracción VI, por cada contrato celebrado o cuenta financiera mantenida.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 *Artículo adicionado DOF 12-11-2021*
 
@@ -4329,11 +4560,15 @@ A quien cometa las infracciones a que se refiere el artículo 82-G de este Códi
 
 I. De \$10.00 a \$20.00, a las establecidas en las fracciones I, y VI, por cada comprobante fiscal que incumpla con los requisitos establecidos.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 II. De \$20.00 a \$60.00, a las establecidas en las fracciones II, III, IV, y V, por cada comprobante fiscal que incumpla con los requisitos establecidos.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 *Artículo adicionado DOF 12-11-2021*
 
@@ -4357,7 +4592,9 @@ VII. No expedir, no entregar o no poner a disposición de los clientes los compr
 
 VIII. (Se deroga).
 
-IX. Expedir comprobantes fiscales digitales por Internet asentando la clave del registro federal de contribuyentes de persona distinta a la que adquiere el bien o el servicio o a la que contrate el uso o goce temporal de bienes.
+IX. Expedir comprobantes fiscales digitales por Internet asentando la clave del registro federal de contribuyentes de persona distinta a la que adquiere el bien o el servicio o a la que contrate el uso o goce temporal de bienes; o bien, condicionando su emisión a la exhibición de la Cédula de Identificación Fiscal o Constancia de Situación Fiscal.
+
+*Fracción reformada DOF 07-11-2025*
 
 X. No dictaminar sus estados financieros cuando de conformidad con lo previsto en el artículo 32-A de este Código, esté obligado o hubiera optado por hacerlo. No presentar dicho dictamen dentro del término previsto por las leyes fiscales.
 
@@ -4391,73 +4628,79 @@ XIX. Utilizar para efectos fiscales comprobantes expedidos por un tercero, cuand
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el Artículo 83, se impondrán las siguientes sanciones:
 
-I. De \$1,960.00 a \$19,530.00, a la comprendida en la fracción I.
+I. De \$2,220.00 a \$22,110.00, a la comprendida en la fracción I.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-II. De \$430.00 a \$9,760.00, a las establecidas en las fracciones II y III.
+II. De \$490.00 a \$11,050.00, a las establecidas en las fracciones II y III.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 III. De \$290.00 a \$5,330.00 por cometer la señalada en la fracción IV consistente en no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos, con identificación incorrecta de su objeto o fuera de los plazos respectivos; y por la infracción consistente en registrar gastos inexistentes prevista en la citada fracción IV de un 55% a un 75% del monto de cada registro de gasto inexistente.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 IV. Para el supuesto de la fracción VII, las siguientes, según corresponda:
 
-a) De \$19,700.00 a \$112,650.00. En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar preventivamente el establecimiento del contribuyente por un plazo de tres a quince días; para determinar dicho plazo, se tomará en consideración lo previsto por el artículo 75 de este Código.
+a) De \$22,300.00 a \$127,530.00. En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar preventivamente el establecimiento del contribuyente por un plazo de tres a quince días; para determinar dicho plazo, se tomará en consideración lo previsto por el artículo 75 de este Código.
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
 
-b) De \$1,910.00 a \$3,800.00 tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta. En caso de reincidencia, adicionalmente las autoridades fiscales podrán aplicar la clausura preventiva a que se refiere el inciso anterior.
+30-12-2024. Actualizada DOF 28-12-2025
 
-Multa del inciso actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+b) De \$1,910.00 a \$3,800.00 tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Secciones II y IV de la Ley del Impuesto sobre la Renta. En caso de reincidencia, adicionalmente las autoridades fiscales podrán aplicar la clausura preventiva a que se refiere el inciso anterior.
+
+Multa del inciso actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
+
+*Inciso reformado DOF 07-11-2025*
 
 c) De \$19,050.00 a \$108,870.00 tratándose de contribuyentes que cuenten con la autorización para recibir donativos deducibles a que se refieren los artículos 79, 82, 83 y 84 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según corresponda. En caso de reincidencia, además se revocará la autorización para recibir donativos deducibles.
 
-Multa del inciso actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa del inciso actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 d) De \$450.00 a \$670.00 por cada comprobante fiscal que se emita y no cuente con los complementos que se determinen mediante las reglas de carácter general, que al efecto emita el Servicio de Administración Tributaria.
 
 *Inciso adicionado DOF 12-11-2021*
 
-Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
 
-V. De \$1,190.00 a \$15,600.00, a la señalada en la fracción VI.
+Compilada DOF 30-12-2024, 28-12-2025
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+V. De \$1,350.00 a \$17,660.00, a la señalada en la fracción VI.
+
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 VI. De \$21,420.00 a \$122,440.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de \$2,150.00 a \$4,270.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 VII. (Se deroga).
 
-VIII. De \$8,960.00 a \$44,790.00, a la comprendida en la fracción XIII.
+VIII. De \$10,140.00 a \$50,710.00, a la comprendida en la fracción XIII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 IX. De \$17,330.00 a \$173,230.00 a la comprendida en la fracción X.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 X. De tres a cinco veces el monto o valor señalado en el comprobante fiscal digital por Internet que ampare el donativo, a la comprendida en la fracción XI.
 
-XI. De \$880.00 a \$17,030.00, a la comprendida en la fracción XII.
+XI. De \$1,000.00 a \$19,280.00, a la comprendida en la fracción XII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 XII. (Se deroga)
 
-XIII. De \$2,260.00 a \$6,780.00, a la señalada en la fracción XV, por cada operación no identificada en contabilidad.
+XIII. De \$2,560.00 a \$7,680.00, a la señalada en la fracción XV, por cada operación no identificada en contabilidad.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 XIV. (Se deroga).
 
 XV. De \$17,330.00 a \$173,230.00 a la comprendida en la fracción XVII.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 XVI. De un 55% a un 75% del importe de cada comprobante fiscal, tratándose de los supuestos establecidos en las fracciones XVIII y XIX.
 
@@ -4503,51 +4746,51 @@ XIV. No proporcionar la información a que se refiere el artículo 32-E de este 
 
 A quien cometa las infracciones relacionadas con las entidades financieras o sociedades cooperativas de ahorro y préstamo a que se refiere el artículo 84-A de este Código, se le impondrán las siguientes multas:
 
-I. De \$430.00 a \$19,530.00, a la comprendida en la fracción I.
+I. De \$490.00 a \$22,110.00, a la comprendida en la fracción I.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 II. Por el 20% del valor del cheque a la establecida en la fracción II.
 
-III. De \$30.00 a \$100.00, por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
+III. De \$30.00 a \$110.00, por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-IV. De \$648,250.00 a \$1,296,470.00, a la establecida en la fracción IV.
+IV. De \$733,880.00 a \$1,467,730.00, a la establecida en la fracción IV.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-V. De \$8,510.00 a \$127,460.00, a la establecida en la fracción V.
+V. De \$9,630.00 a \$144,300.00, a la establecida en la fracción V.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-VI. De \$32,400.00 a \$97,220.00, a la establecida en la fracción VI.
+VI. De \$36,680.00 a \$110,060.00, a la establecida en la fracción VI.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-VII. De \$120.00 a \$230.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de \$456,320.00 a \$912,630.00, por no proporcionar la información, a las señaladas en la fracción VII.
+VII. De \$140.00 a \$260.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de \$516,600.00 a \$1,033,190.00, por no proporcionar la información, a las señaladas en la fracción VII.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 VIII. De \$399,240.00 a \$443,630.00, a las establecidas en las fracciones VIII, IX y X.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 IX. De \$399,240.00 a \$443,630.00, a las establecidas en la fracción XI.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 X. De \$78,880.00 a \$94,660.00, a la establecida en la fracción XIV.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 XI. De \$355,030.00 a \$788,920.00, a la establecida en la fracción XII.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 XII. De \$7,330.00 a \$109,900.00, a la establecida en la fracción XIII.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 ##### Artículo 84-C.
 
@@ -4555,9 +4798,11 @@ Son infracciones de los usuarios de los servicios, así como de los cuentahabien
 
 ##### Artículo 84-D.
 
-A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de \$560.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de \$1,660.00 por cada una de las mismas.
+A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de \$630.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de \$1,880.00 por cada una de las mismas.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024. Actualizada DOF 28-12-2025
 
 ##### Artículo 84-E.
 
@@ -4565,9 +4810,11 @@ Se considera infracción en la que pueden incurrir las empresas de factoraje fin
 
 ##### Artículo 84-F.
 
-De \$8,510.00 a \$85,000.00, a quien cometa la infracción a que se refiere el artículo 84-E.
+De \$9,630.00 a \$96,230.00, a quien cometa la infracción a que se refiere el artículo 84-E.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024. Actualizada DOF 28-12-2025
 
 ##### Artículo 84-G.
 
@@ -4575,9 +4822,11 @@ Se considera infracción en la que pueden incurrir las casas de bolsa, el no pro
 
 ##### Artículo 84-H.
 
-A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G de este Código se le impondrá una multa de \$6,530.00 a \$13,060.00 por cada informe no proporcionado.
+A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G de este Código se le impondrá una multa de \$7,390.00 a \$14,790.00 por cada informe no proporcionado.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024. Actualizada DOF 28-12-2025
 
 ##### Artículo 84-I.
 
@@ -4585,9 +4834,11 @@ Se considera infracción en la que pueden incurrir las personas que emitan tarje
 
 ##### Artículo 84-J.
 
-A las personas morales que cometan la infracción a que se refiere el artículo 84-I de este Código, se les impondrá una multa de \$120.00 a \$230.00 por cada estado de cuenta no emitido en términos del artículo 32-E de este Código.
+A las personas morales que cometan la infracción a que se refiere el artículo 84-I de este Código, se les impondrá una multa de \$140.00 a \$260.00 por cada estado de cuenta no emitido en términos del artículo 32-E de este Código.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024. Actualizada DOF 28-12-2025
 
 ##### Artículo 84-K.
 
@@ -4595,9 +4846,11 @@ Se considera infracción en la que pueden incurrir las personas morales a que se
 
 ##### Artículo 84-L.
 
-A las personas morales a que se refiere el artículo 84-I de este Código, que cometan la infracción a que se refiere el artículo 84-K de este Código se les impondrá una multa de \$456,320.00 a \$912,630.00, por no proporcionar la información del estado de cuenta que se haya requerido.
+A las personas morales a que se refiere el artículo 84-I de este Código, que cometan la infracción a que se refiere el artículo 84-K de este Código se les impondrá una multa de \$516,600.00 a \$1,033,190.00, por no proporcionar la información del estado de cuenta que se haya requerido.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024. Actualizada DOF 28-12-2025
 
 ##### Artículo 84-M.
 
@@ -4617,15 +4870,21 @@ A quien cometa las infracciones a que se refiere el artículo 84-M de este Códi
 
 I. De \$1,686,750.00 a \$2,249,000.00 a las comprendidas en la fracción I, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 II. De \$899,600.00 a \$1,124,500.00 a la establecida en la fracción II, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 III. De \$562,250.00 a \$899,600.00 a la establecida en la fracción III, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 *Artículo adicionado DOF 12-11-2021*
 
@@ -4647,25 +4906,25 @@ V. Declarar falsamente que cumplen los requisitos que se señalan en el artícul
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el Artículo 85, se impondrán las siguientes multas;
 
-I. De \$22,400.00 a \$67,210.00, a la comprendida en la fracción I.
+I. De \$25,360.00 a \$76,090.00, a la comprendida en la fracción I.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-II. De \$1,960.00 a \$80,880.00, a la establecida en la fracción II.
+II. De \$2,220.00 a \$91,560.00, a la establecida en la fracción II.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-III. De \$4,250.00 a \$106,250.00, a la establecida en la fracción III.
+III. De \$4,810.00 a \$120,290.00, a la establecida en la fracción III.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-IV. De \$171,240.00 a \$228,320.00, a la comprendida en la fracción IV.
+IV. De \$193,860.00 a \$258,480.00, a la comprendida en la fracción IV.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-V. De \$9,710.00 a \$16,180.00, sin perjuicio de las demás sanciones que procedan, a la establecida en la fracción V.
+V. De \$10,990.00 a \$18,320.00, sin perjuicio de las demás sanciones que procedan, a la establecida en la fracción V.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 ##### Artículo 86-A.
 
@@ -4705,35 +4964,39 @@ A quienes cometan las infracciones señaladas en el artículo 86-A de este Códi
 
 I. De \$80.00 a \$160.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido, o bien, por cada marbete o precinto falso o alterado.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
-II. De \$30.00 a \$150.00, a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
+II. De \$30.00 a \$170.00, a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 III. De \$20.00 a \$80.00, a la comprendida en la fracción III, por cada envase o recipiente que carezca de marbete o precinto, según se trate, o bien por cada marbete o precinto falso o alterado.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
-IV. De \$30.00 a \$140.00, a la comprendida en la fracción IV, por cada envase vacío no destruido.
+IV. De \$30.00 a \$160.00, a la comprendida en la fracción IV, por cada envase vacío no destruido.
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 V. De \$630.00 a \$960.00, por cada marbete o precinto que haya sido adquirido ilegalmente.
 
-Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 VI. De \$22,490.00 a \$56,230.00 a la comprendida en la fracción VIII, por cada ocasión que el Servicio de Administración Tributaria, en el ejercicio de sus facultades, detecte que no se realiza la lectura del código QR del marbete en presencia del consumidor final.
 
 *Fracción adicionada DOF 12-11-2021*
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 VII. De \$56,230.00 a \$112,450.00 a la comprendida en la fracción IX, por cada ocasión que el Servicio de Administración Tributaria, en el ejercicio de sus facultades, determine la conducta señalada en dicha fracción.
 
 *Fracción adicionada DOF 12-11-2021*
 
-Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023
+Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023.
+
+Compilada DOF 30-12-2024, 28-12-2025
 
 En caso de reincidencia, la sanción consistirá en la clausura del establecimiento del contribuyente o poseedor de los bienes a que se refiere el artículo 86-A, por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
@@ -4749,7 +5012,7 @@ Se considera infracción en la que pueden incurrir los contribuyentes conforme l
 
 A quien cometa la infracción relacionada con la no habilitación del buzón tributario, el no registro o actualización de los medios de contacto conforme a lo previsto en el artículo 86-C, se impondrá una multa de \$3,850.00 a \$11,540.00.
 
-Multa del artículo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa del artículo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 ##### Artículo 86-E.
 
@@ -4759,9 +5022,11 @@ Asimismo, son infracciones de los productores o envasadores de bebidas alcohóli
 
 ##### Artículo 86-F.
 
-A quienes cometan las infracciones señaladas en el artículo 86-E de este Código, se les impondrá una multa de \$63,490.00 a \$148,160.00. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+A quienes cometan las infracciones señaladas en el artículo 86-E de este Código, se les impondrá una multa de \$71,880.00 a \$167,730.00. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024. Actualizada DOF 28-12-2025
 
 ##### Artículo 86-G.
 
@@ -4781,15 +5046,15 @@ También se consideran infracciones de los productores, fabricantes e importador
 
 A quienes cometan las infracciones señaladas en el artículo 86-G, primer párrafo, se les impondrá una multa de \$10.00 a \$20.00 por cada cajetilla de cigarros que no contenga impreso el código de seguridad a que se refiere el artículo 19, fracción XXII de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción I de este Código, se les impondrá una multa de \$31,560.00 a \$473,350.00 cada vez que no proporcionen o no pongan a disposición de las autoridades fiscales la información, documentación o dispositivos, que permitan constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios, respectivamente.
 
-Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción II de este Código, se les impondrá una multa de \$31,560.00 a \$473,350.00, por cada vez que no permitan la realización de las verificaciones en los establecimientos o domicilios de los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, así como de los proveedores autorizados de servicios de impresión de códigos de seguridad, o bien en cualquier lugar en donde se encuentren los mecanismos o sistemas de impresión del referido código de seguridad, a efecto de constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar el establecimiento del infractor por un plazo de 15 días, para ello, la autoridad fiscal notificará al contribuyente dentro de un plazo de veinte días contados a partir de la reincidencia, para que dentro de los diez días siguientes manifieste lo que a su derecho convenga, ya que en caso de no hacerlo o no desvirtuarse los hechos u omisiones que se le atribuyen, se procederá a la clausura.
 
@@ -4805,7 +5070,7 @@ Cometen infracción quienes almacenen, vendan, enajenen o distribuyan en México
 
 A quienes cometan las infracciones señaladas en el artículo 86-I de este Código se les impondrá una multa de \$10.00 a \$20.00 por cada cajetilla de cigarros que no contenga impreso el código de seguridad a que se refiere el artículo 19, fracción XXII de la Ley del Impuesto Especial sobre Producción y Servicios, o el que contengan sea apócrifo.
 
-Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023
+Multa del párrafo actualizada por resolución miscelánea fiscal DOF 05-01-2022. Compilada DOF 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 Las cajetillas de cigarros a que se refiere el párrafo anterior serán aseguradas y pasarán a propiedad del fisco federal para su destrucción.
 
@@ -4829,9 +5094,11 @@ VI. No emitir la resolución a que se refiere el artículo 69-B de este Código 
 
 ##### Artículo 88.
 
-Se sancionará con una multa de \$171,240.00 a \$228,320.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87.
+Se sancionará con una multa de \$193,860.00 a \$258,480.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024. Actualizada DOF 28-12-2025
 
 ##### Artículo 89.
 
@@ -4849,9 +5116,11 @@ No se incurrirá en la infracción a que se refiere la fracción primera de este
 
 ##### Artículo 90.
 
-Se sancionará con una multa de \$69,900.00 a \$109,870.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89 de este Código.
+Se sancionará con una multa de \$79,130.00 a \$124,380.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89 de este Código.
 
-Multa del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024. Actualizada DOF 28-12-2025
 
 En los supuestos señalados en la fracción I del artículo citado, se considerará como agravante que la asesoría, el consejo o la prestación de servicios sea diversa a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código. En este caso, la multa se aumentará de un 10% a un 20% del monto de la contribución omitida, sin que dicho aumento exceda del doble de los honorarios cobrados por la asesoría, el consejo o la prestación de servicios.
 
@@ -4859,17 +5128,21 @@ No se incurrirá en la agravante a que se refiere el párrafo anterior, cuando s
 
 ##### Artículo 90-A.
 
-Se sancionará con una multa de \$578,700.00 a \$1,157,400.00 a los concesionarios de una red pública de telecomunicaciones en México que no cumplan, en un plazo máximo de cinco días, con la orden de bloquear el acceso al servicio digital del proveedor de dichos servicios prevista en el artículo 18-H QUÁTER, segundo párrafo, de la Ley del Impuesto al Valor Agregado. Igual sanción se aplicará cuando los concesionarios mencionados no lleven a cabo el desbloqueo en el plazo a que se refiere el artículo 18-H QUINTUS, segundo párrafo, de la citada Ley.
+Se sancionará con una multa de \$655,150.00 a \$1,310,290.00 a los concesionarios de una red pública de telecomunicaciones en México que no cumplan, en un plazo máximo de cinco días, con la orden de bloquear el acceso al servicio digital del proveedor de dichos servicios prevista en el artículo 18-H QUÁTER, segundo párrafo, de la Ley del Impuesto al Valor Agregado. Igual sanción se aplicará cuando los concesionarios mencionados no lleven a cabo el desbloqueo en el plazo a que se refiere el artículo 18-H QUINTUS, segundo párrafo, de la citada Ley.
 
-Multa del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024. Actualizada DOF 28-12-2025
 
 Dicha sanción también se impondrá por cada mes de calendario que transcurra sin cumplir las mencionadas órdenes.
 
 ##### Artículo 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de \$430.00 a \$4,100.00.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de \$490.00 a \$4,640.00.
 
-Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023,
+
+30-12-2024. Actualizada DOF 28-12-2025
 
 ##### Artículo 91-A.
 
@@ -5011,11 +5284,11 @@ También comete delito de contrabando quien interne mercancías extranjeras proc
 
 *Párrafo reformado DOF 12-11-2021*
 
-No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de \$225,940.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad. Lo dispuesto en este párrafo no será aplicable cuando la contribución omitida es el impuesto especial sobre producción y servicios aplicable a los bienes a que se refiere el artículo 2, fracción I, inciso D) de la Ley del Impuesto Especial sobre Producción y Servicios.
+No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de \$255,790.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad. Lo dispuesto en este párrafo no será aplicable cuando la contribución omitida es el impuesto especial sobre producción y servicios aplicable a los bienes a que se refiere el artículo 2, fracción I, inciso D) de la Ley del Impuesto Especial sobre Producción y Servicios.
 
 *Párrafo reformado DOF 12-11-2021*
 
-Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 ##### Artículo 103.
 
@@ -5045,7 +5318,9 @@ XI. Las mercancías extranjeras sujetas a transito internacional se desvíen de 
 
 XII. Se pretenda realizar la exportación, el retorno de mercancías, el desistimiento de régimen o la conclusión de las operaciones de transito, en el caso de que se presente el pedimento sin las mercancías correspondientes en la aduana de salida, siempre que la consumación de tales conductas hubiere causado un perjuicio al Fisco Federal.
 
-XIII. Las mercancías de comercio exterior destinadas al régimen aduanero de depósito fiscal no arriben al almacén general de depósito que hubiera expedido la carta de cupo para almacenar dicha mercancía o a los locales autorizados.
+XIII. Las mercancías de comercio exterior destinadas al régimen aduanero de depósito fiscal no arriben al almacén general de depósito que hubiera expedido la carta de cupo para almacenar dicha mercancía o a los locales autorizados, en el plazo señalado en la Ley Aduanera, o no se acredite el no arribo de dichas mercancías por caso fortuito o de fuerza mayor.
+
+*Fracción reformada DOF 07-11-2025*
 
 XIV. Los pilotos omitan presentar las aeronaves en el lugar designado por las autoridades aduaneras para recibir la visita de inspección de la autoridad aduanera, o las personas que presten los servicios de mantenimiento y custodia de aeronaves que realicen el transporte internacional no regular omitan requerir la documentación que compruebe que la aeronave recibió la visita de inspección o no la conserven por el plazo de cinco años.
 
@@ -5075,6 +5350,22 @@ XXIII. Se trasladen hidrocarburos, petrolíferos o petroquímicos, por cualquier
 
 *Fracción adicionada DOF 12-11-2021*
 
+XXIV. Se transfieran mercancías que hayan ingresado de manera temporal al país, mediante operaciones inexistentes o actos jurídicos simulados, con el objetivo de aparentar cumplir con la obligación de retornar las mismas.
+
+*Fracción adicionada DOF 07-11-2025*
+
+XXV. Mediante operaciones inexistentes o actos jurídicos simulados, se introduzca al país mercancías bajo cualquier régimen aduanero de importación temporal, con el objetivo de ingresarlo o retirarlo posteriormente de los lugares autorizados por la autoridad aduanera, sin cumplir con las disposiciones jurídicas aplicables.
+
+*Fracción adicionada DOF 07-11-2025*
+
+XXVI. Estando autorizado para almacenar o transportar mercancías de comercio exterior, no se justifique el faltante o el no arribo de mercancías destinadas al recinto autorizado por la Agencia Nacional de Aduanas de México.
+
+*Fracción adicionada DOF 07-11-2025*
+
+XXVII. El titular de una autorización de almacén general de depósito permita el retiro de las mercancías sujetas al régimen de depósito fiscal, sin cumplir con las formalidades para su retiro o sin que se hayan pagado las contribuciones y, en su caso, cuotas compensatorias causadas con motivo de su importación definitiva.
+
+*Fracción adicionada DOF 07-11-2025*
+
 Para los efectos de las fracciones XV y XVI de este artículo, no será responsable el agente o apoderado aduanal, si la comisión del delito se originó por la omisión del importador de presentar al agente o apoderado aduanal la constancia de que cumplió con la obligación de presentar al Registro Federal de Contribuyentes los avisos correspondientes a una fusión, escisión o cambio de denominación social que hubiera realizado, así como cuando la comisión del delito se origine respecto de mercancías cuyo plazo de importación temporal hubiera vencido.
 
 No se formulará declaratoria de perjuicio, a que se refiere la fracción II del artículo 92 de este Código, si quien encontrándose en los supuestos previstos en las fracciones XI, XII, XIII, XV, XVII y XVIII de este artículo, cumple con sus obligaciones fiscales y de comercio exterior y, en su caso, entera espontáneamente, con sus recargos y actualización, el monto de la contribución o cuotas compensatorias omitidas o del beneficio indebido antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales y del comercio exterior.
@@ -5083,17 +5374,17 @@ No se formulará declaratoria de perjuicio, a que se refiere la fracción II del
 
 El delito de contrabando se sancionará con pena de prisión:
 
-I. De tres meses a cinco años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta \$1,603,710.00, respectivamente o, en su caso, la suma de ambas es de hasta de \$2,405,540.00.
+I. De tres meses a cinco años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta \$1,815,560.00, respectivamente o, en su caso, la suma de ambas es de hasta de \$2,723,310.00.
 
 Cantidades de la fracción compiladas por resolución miscelánea fiscal DOF 05-01-2022. Actualizadas DOF 27-12-2022.
 
-Compiladas DOF 29-12-2023
+Compiladas DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de \$1,603,710.00, respectivamente o, en su caso, la suma de ambas excede de \$2,405,540.00.
+II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de \$1,815,560.00, respectivamente o, en su caso, la suma de ambas excede de \$2,723,310.00.
 
 Cantidades de la fracción compiladas por resolución miscelánea fiscal DOF 05-01-2022. Actualizadas DOF 27-12-2022.
 
-Compiladas DOF 29-12-2023
+Compiladas DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 III. De tres a nueve años, cuando se trate de mercancías cuyo tráfico haya sido prohibido por el Ejecutivo Federal en uso de las facultades señaladas en el segundo párrafo del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -5102,6 +5393,10 @@ En los demás casos de mercancías de tráfico prohibido, la sanción será de t
 IV. De tres a seis años, cuando no sea posible determinar el monto de las contribuciones o cuotas compensatorias omitidas con motivo del contrabando o se trate de mercancías que requiriendo de permiso de autoridad competente no cuenten con él o cuando se trate de los supuestos previstos en los artículos 103, fracciones IX, XIV, XIX, XX, XXII y XXIII y 105, fracciones V, XII, XIII, XV, XVI y XVII de este Código.
 
 *Fracción reformada DOF 12-11-2021*
+
+V. De cinco a ocho años, cuando se trate de los supuestos previstos en el artículo 103, fracciones XXIV, XXV, XXVI y XXVII de este Código.
+
+*Fracción adicionada DOF 07-11-2025*
 
 Para determinar el valor de las mercancías y el monto de las contribuciones o cuotas compensatorias omitidas, sólo se tomarán en cuenta los daños ocasionados antes del contrabando.
 
@@ -5113,7 +5408,9 @@ En caso de que la contribución omitida sea el impuesto especial sobre producci�
 
 Será sancionado con las mismas penas del contrabando, quien:
 
-I. Enajene, comercie, adquiera o tenga en su poder por cualquier título mercancía extranjera que no sea para su uso personal, sin la documentación que compruebe su legal estancia en el país, o sin el permiso previo de la autoridad federal competente, o sin marbetes o precintos tratándose de envases o recipientes, según corresponda, que contengan bebidas alcohólicas o su importación esté prohibida.
+I. Enajene, comercie, adquiera o tenga en su poder por cualquier título mercancía extranjera que no sea para su uso personal, sin la documentación que compruebe su legal estancia en el país, o sin el permiso previo de la autoridad federal competente, o sin marbetes o precintos tratándose de envases o recipientes, según corresponda, que contengan bebidas alcohólicas o su importación esté prohibida, o sin el código de seguridad, tratándose de cigarros y otros tabacos labrados, u otros productos que contengan nicotina, o cuando dicho código sea apócrifo o esté alterado.
+
+*Fracción reformada DOF 07-11-2025*
 
 II. (Se deroga).
 
@@ -5152,6 +5449,10 @@ XV. Viole los medios de seguridad utilizados por las personas autorizadas para a
 XVI. Permita que un tercero, cualquiera que sea su carácter, actúe al amparo de su patente de agente aduanal; intervenga en algún despacho aduanero sin autorización de quien legítimamente pueda otorgarla o transfiera o endose documentos a su consignación sin autorización escrita de su mandante, salvo en el caso de corresponsalías entre agentes aduanales.
 
 XVII. Falsifique el contenido de algún gafete de identificación utilizado en los recintos fiscales.
+
+XVIII. Teniendo el carácter de importador de mercancías, certifique falsamente su origen con el objeto de que se importen al país, bajo trato arancelario preferencial, desde un país con el que México tenga suscrito un tratado o acuerdo internacional.
+
+*Fracción adicionada DOF 07-11-2025*
 
 La persona que no declare en la aduana a la entrada al país o a la salida del mismo, que lleva consigo cantidades en efectivo, en cheques nacionales o extranjeros, órdenes de pago o cualquier otro documento por cobrar o una combinación de ellos, superiores al equivalente en la moneda o monedas de que se trate a treinta mil dólares de los Estados Unidos de América se le sancionará con pena de prisión de tres meses a seis años. En caso de que se dicte sentencia condenatoria por autoridad competente respecto de la comisión del delito a que se refiere este párrafo, el excedente de la cantidad antes mencionada pasará a ser propiedad del fisco federal, excepto que la persona de que se trate demuestre el origen lícito de dichos recursos.
 
@@ -5207,23 +5508,23 @@ El delito de defraudación fiscal y el delito previsto en el artículo 400 Bis d
 
 El delito de defraudación fiscal se sancionará con las penas siguientes:
 
-I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de \$2,236,480.00.
+I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de \$2,531,920.00.
 
 Cantidad de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022.
 
-Compilada DOF 29-12-2023
+Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-II. Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de \$2,236,480.00 pero no de \$3,354,710.00.
+II. Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de \$2,531,920.00 pero no de \$3,797,870.00.
 
 Cantidades de la fracción compiladas por resolución miscelánea fiscal DOF 05-01-2022. Actualizadas DOF 27-12-2022.
 
-Compiladas DOF 29-12-2023
+Compiladas DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-III. Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor de \$3,354,710.00.
+III. Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor de \$3,797,870.00.
 
 Cantidad de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022.
 
-Compilada DOF 29-12-2023
+Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -5373,9 +5674,9 @@ Para proceder penalmente por este delito será necesario que previamente la Secr
 
 ##### Artículo 112.
 
-Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de \$200,030.00; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de \$226,450.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
-Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
 
@@ -5393,7 +5694,21 @@ III. (Se deroga).
 
 Se impondrá sanción de dos a nueve años de prisión, al que por sí o por interpósita persona, expida, enajene, compre o adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
 
-Será sancionado con las mismas penas, al que a sabiendas permita o publique, a través de cualquier medio, anuncios para la adquisición o enajenación de comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
+Se impondrá la sanción descrita en el párrafo que antecede al que, por sí o por interpósita persona, expida, enajene, compre, adquiera o dé efectos fiscales a comprobantes fiscales falsos.
+
+*Párrafo adicionado DOF 07-11-2025*
+
+Este delito se investigará y perseguirá independientemente del estado en que se encuentre el procedimiento administrativo que, en su caso, se haya iniciado.
+
+*Párrafo adicionado DOF 07-11-2025*
+
+Asimismo, la ejecución de este delito puede dar lugar a la causación de un daño material a la Hacienda Federal, el cual deberá ser objeto de reparación.
+
+*Párrafo adicionado DOF 07-11-2025*
+
+Se sancionará con las mismas penas, a las plataformas de servicios digitales a que se refiere la Ley del Impuesto al Valor Agregado, así como a los titulares de las mismas que permitan la publicación de anuncios para la adquisición o enajenación de comprobantes fiscales que amparen operaciones inexistentes, falsas, actos jurídicos simulados o comprobantes fiscales falsos, así como al que a sabiendas permita o publique a través de dichas plataformas o por cualquier otro medio, los citados anuncios.
+
+*Párrafo reformado DOF 07-11-2025*
 
 Cuando el delito sea cometido por un servidor público en ejercicio de sus funciones, será destituido del empleo e inhabilitado de uno a diez años para desempeñar cargo o comisión públicos, en adición a la agravante señalada en el artículo 97 de este Código.
 
@@ -5417,15 +5732,25 @@ Se impondrá sanción de uno a seis años de prisión, al servidor público que 
 
 ##### Artículo 115.
 
-Se impondrá sanción de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de \$85,720.00; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de \$97,040.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
-Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 La misma pena se impondrá a quien dolosamente destruya o deteriore dichas mercancías.
 
 ##### Artículo 115 Bis.
 
 Se deroga.
+
+##### Artículo 115 Ter.
+
+Se impondrá sanción de tres a seis años de prisión a quien, a sabiendas, declare hechos o datos falsos, o presente documentación falsa o alterada, en cualquier procedimiento regulado en este Código.
+
+Este delito se investigará y perseguirá independientemente del estado en que se encuentre el procedimiento administrativo que, en su caso, se haya iniciado.
+
+Asimismo, la ejecución de este delito puede dar lugar a la causación de un daño material a la Hacienda Federal, el cual deberá ser objeto de reparación.
+
+*Artículo adicionado DOF 07-11-2025*
 
 ## TITULO QUINTO · De Los Procedimientos Administrativos
 
@@ -5551,6 +5876,18 @@ VIII. Que hayan sido dictados por la autoridad administrativa en un procedimient
 
 IX. Que sean resoluciones dictadas por autoridades extranjeras que determinen impuestos y sus accesorios cuyo cobro y recaudación hayan sido solicitados a las autoridades fiscales mexicanas, de conformidad con lo dispuesto en los tratados internacionales sobre asistencia mutua en el cobro de los que México sea parte.
 
+X. Que el contribuyente manifieste desconocer.
+
+*Fracción adicionada DOF 16-10-2025*
+
+XI. Que exijan el pago de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente.
+
+*Fracción adicionada DOF 16-10-2025*
+
+XII. Que resuelvan sobre solicitudes de prescripción de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente.
+
+*Fracción adicionada DOF 16-10-2025*
+
 ##### Artículo 124-A.
 
 Procede el sobreseimiento en los casos siguientes:
@@ -5603,7 +5940,9 @@ La autoridad que conozca del recurso, para un mejor conocimiento de los hechos c
 
 Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos, incluyendo los digitales; pero, si en los documentos públicos citados se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
 
-Cuando se trate de documentos digitales con firma electrónica distinta a una firma electrónica avanzada o sello digital, para su valoración, se estará a lo dispuesto por el artículo 210-A del Código Federal de Procedimientos Civiles.
+Cuando se trate de documentos digitales con firma electrónica distinta a una firma electrónica avanzada o sello digital, para su valoración, se estará a lo dispuesto por los artículos 348, 349 y 350 del Código Nacional de Procedimientos Civiles y Familiares.
+
+*Párrafo reformado DOF 14-11-2025*
 
 Las demás pruebas quedarán a la prudente apreciación de la autoridad.
 
@@ -5853,25 +6192,33 @@ Se tendrá como fecha de notificación la de la última publicación.
 
 ##### Artículo 141.
 
-Los contribuyentes podrán garantizar el interés fiscal, cuando se actualice alguno de los supuestos previstos en los artículos 74 y 142 de este Código, en alguna de las formas siguientes:
+Las personas contribuyentes podrán garantizar el interés fiscal, cuando se actualice alguno de los supuestos establecidos en los artículos 74 y 142 de este Código, en alguna de las formas siguientes:
 
-I. Depósito en dinero, carta de crédito u otras formas de garantía financiera equivalentes que establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general que se efectúen en las cuentas de garantía del interés fiscal a que se refiere el artículo 141-A de este Código.
+*Párrafo reformado DOF 09-04-2026*
 
-II. Prenda o hipoteca.
+I. Billete de depósito, emitido por institución autorizada.
 
-III. Fianza otorgada por institución autorizada, la que no gozará de los beneficios de orden y excusión.
+II. Carta de crédito emitida por alguna de las instituciones autorizadas por la Comisión Nacional Bancaria y de Valores y registradas para tal efecto ante el Servicio de Administración Tributaria.
 
-Para los efectos fiscales, en el caso de que la póliza de fianza se exhiba en documento digital, deberá contener la firma electrónica avanzada o el sello digital de la afianzadora.
+III. Prenda, excepto los bienes intangibles, e hipoteca, a excepción de los inmuebles con características de predios rústicos. Mediante reglas de carácter general, el Servicio de Administración Tributaria podrá establecer las características y demás tipo de bienes que se podrán ofrecer en cualquiera de estas modalidades.
 
-IV. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
+IV. Fianza otorgada por institución autorizada, la que no gozará de los beneficios de orden y excusión.
 
-V. Embargo en la vía administrativa de bienes muebles tangibles e inmuebles, excepto predios rústicos, así como negociaciones.
+Para los efectos fiscales, en el caso de que la póliza de fianza se exhiba en documento digital, deberá contener la firma electrónica avanzada o el sello digital de la institución emisora de pólizas de fianza.
 
-VI.- Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que discrecionalmente fije la Secretaría de Hacienda y Crédito Público.
+V. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
 
-La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
+VI. Embargo en la vía administrativa de negociaciones, bienes muebles tangibles e inmuebles, excepto aquellos con características de predios rústicos. Mediante reglas de carácter general, el Servicio de Administración Tributaria podrá establecer las características y demás tipo de bienes que se podrán ofrecer en esta modalidad.
 
-El Reglamento de este Código establecerá los requisitos que deberán reunir las garantías. La autoridad fiscal vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación. En los casos en que los contribuyentes, a requerimiento de la autoridad fiscal, no lleven a cabo la ampliación o sustitución de garantía suficiente, ésta procederá al secuestro o embargo de otros bienes para garantizar el interés fiscal.
+*Párrafo con fracciones reformado DOF 07-11-2025*
+
+La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este periodo y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
+
+*Párrafo reformado DOF 07-11-2025, 09-04-2026*
+
+El Reglamento de este Código establecerá los requisitos que deberán reunir las garantías. La autoridad fiscal vigilará que sean suficientes tanto en el momento de su ofrecimiento como con posterioridad y, si no lo fueren, exigirá su ampliación. En los casos en que los contribuyentes, a requerimiento de la autoridad fiscal, no lleven a cabo la ampliación o sustitución de garantía suficiente, ésta procederá al secuestro o embargo de otros bienes para garantizar el interés fiscal.
+
+*Párrafo reformado DOF 07-11-2025*
 
 En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía.
 
@@ -5879,9 +6226,15 @@ La garantía deberá constituirse dentro de los treinta días siguientes a aqué
 
 Conforme al artículo 135 de la Ley de Amparo, tratándose de los juicios de amparo que se pidan contra el cobro de las contribuciones y aprovechamientos, por los causantes obligados directamente a su pago, el interés fiscal se deberá asegurar mediante el depósito de las cantidades que correspondan ante la Tesorería de la Federación o la Entidad Federativa o Municipio que corresponda.
 
-En los casos en que de acuerdo con la Ley Federal de Procedimiento Contencioso Administrativo o, en su caso, la Ley de Amparo, se solicite ante el Tribunal Federal de Justicia Fiscal y Administrativa o ante el órgano jurisdiccional competente la suspensión contra actos relativos a determinación, liquidación, ejecución o cobro de contribuciones, aprovechamientos y otros créditos de naturaleza fiscal, el interés fiscal se deberá garantizar ante la autoridad exactora por cualquiera de los medios previstos en este Código.
+En los casos en que de acuerdo con la Ley Federal de Procedimiento Contencioso Administrativo o, en su caso, la Ley de Amparo, se solicite ante el Tribunal Federal de Justicia Administrativa o ante el órgano jurisdiccional competente la suspensión contra actos relativos a determinación, liquidación, ejecución o cobro de contribuciones, aprovechamientos y otros créditos de naturaleza fiscal, el interés fiscal se deberá garantizar ante la autoridad exactora conforme a lo establecido en este artículo.
+
+*Párrafo reformado DOF 07-11-2025*
 
 Para los efectos del párrafo anterior, el Tribunal Federal de Justicia Fiscal y Administrativa no exigirá el depósito cuando se trate del cobro de sumas que, a juicio del Magistrado o Sala que deba conocer de la suspensión, excedan la posibilidad del solicitante de la misma, cuando previamente se haya constituido garantía ante la autoridad exactora, o cuando se trate de personas distintas de los causantes obligados directamente al pago; en este último caso, se asegurará el interés fiscal en los términos indicados en los primeros dos párrafos de este artículo.
+
+Cuando el contribuyente ofrezca en más de dos ocasiones alguna de las garantías señaladas en las fracciones III, V o VI de este artículo, sin que cumpla con la totalidad de la información requerida por la autoridad para ser aceptada, no podrá ofrecer el mismo bien en dichas modalidades.
+
+*Párrafo adicionado DOF 07-11-2025*
 
 ##### Artículo 141-A.
 
@@ -5915,7 +6268,9 @@ No se otorgará garantía respecto de gastos de ejecución, salvo que el interé
 
 ##### Artículo 143.
 
-Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del Artículo 141 de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
+Las garantías constituidas para asegurar el interés fiscal a que se refiere el artículo 141, fracciones III, V y VI de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
+
+*Párrafo reformado DOF 07-11-2025*
 
 Si la garantía consiste en depósito de dinero en alguna entidad financiera o sociedad cooperativa de ahorro y préstamo, una vez que el crédito fiscal quede firme se ordenará su aplicación por la autoridad fiscal.
 
@@ -5941,13 +6296,13 @@ Tratándose de cartas de crédito a favor de la Federación, otorgadas para gara
 
 No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación, o de quince días, tratándose de la determinación de cuotas obrero-patronales o de capitales constitutivos al seguro social y los créditos fiscales determinados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores. Si a más tardar al vencimiento de los citados plazos se acredita la impugnación que se hubiere intentado y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el procedimiento administrativo de ejecución.
 
-Cuando el contribuyente hubiere interpuesto en tiempo y forma el recurso de revocación establecido en este Código o los recursos de inconformidad establecidos en los artículos 294 de la Ley del Seguro Social y 52 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, no estará obligado a exhibir la garantía correspondiente sino, en su caso, hasta que sea resuelto cualquiera de los medios de defensa señalados en el presente artículo.
+Cuando el contribuyente hubiere interpuesto en tiempo y forma los recursos de inconformidad establecidos en los artículos 294 de la Ley del Seguro Social y 52 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, no estará obligado a exhibir la garantía correspondiente sino, en su caso, hasta que sea resuelto cualquiera de los medios de defensa señalados en el presente artículo.
 
-*Párrafo reformado DOF 12-11-2021*
+*Párrafo reformado DOF 12-11-2021, 07-11-2025*
 
-Para efectos del párrafo anterior, el contribuyente contará con un plazo de diez días siguientes a aquél en que haya surtido efectos la notificación de la resolución que recaiga al recurso de revocación o a los recursos de inconformidad, para pagar o garantizar los créditos fiscales en términos de lo dispuesto en este Código.
+Para efectos del párrafo anterior, el contribuyente contará con un plazo de diez días siguientes a aquél en que haya surtido efectos la notificación de la resolución que recaiga a los recursos de inconformidad, para pagar o garantizar los créditos fiscales en términos de lo dispuesto en este Código.
 
-*Párrafo reformado DOF 12-11-2021*
+*Párrafo reformado DOF 12-11-2021, 07-11-2025*
 
 Cuando en el medio de defensa se impugnen únicamente algunos de los créditos determinados por el acto administrativo, cuya ejecución fue suspendida, se pagarán los créditos fiscales no impugnados con los recargos correspondientes.
 
@@ -6023,7 +6378,9 @@ La autoridad fiscal deberá ordenar a las entidades financieras, sociedades de a
 
 Las entidades financieras o sociedades cooperativas de ahorro y préstamo contarán con un plazo de tres días a partir de la recepción de la instrucción respectiva, ya sea a través de la Comisión de que se trate, o bien, de la autoridad fiscal, según sea el caso, para la liberación de los bienes embargados.
 
-V. A más tardar al tercer día siguiente a aquél en que hubiera tenido lugar el embargo precautorio, la autoridad fiscal notificará al contribuyente la conducta que originó la medida y, en su caso, el monto sobre el cual procede. La notificación se hará personalmente o a través del buzón tributario.
+V. A más tardar al vigésimo día siguiente a aquél en que hubiera tenido lugar el embargo precautorio, la autoridad fiscal notificará al contribuyente la conducta que originó la medida y, en su caso, el monto sobre el cual procede. La notificación se hará personalmente o a través del buzón tributario.
+
+*Fracción reformada DOF 07-11-2025*
 
 VI. Con excepción de los bienes a que se refiere el inciso f) de la fracción III de este artículo, los bienes embargados precautoriamente podrán, desde el momento en que se notifique el mismo y hasta que se levante, dejarse en posesión del contribuyente, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 153, del presente Código, salvo lo indicado en su segundo párrafo.
 
@@ -6033,7 +6390,9 @@ Salvo tratándose de los bienes a que se refiere el inciso f) de la fracción II
 
 La autoridad requerirá al obligado para que dentro del término de diez días desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento.
 
-Una vez practicado el embargo precautorio, el contribuyente afectado podrá ofrecer a la autoridad exactora alguna de las garantías que establece el artículo 141 de este Código, a fin de que el crédito fiscal y sus accesorios queden garantizados y se ordene el levantamiento del embargo trabado sobre los depósitos bancarios, otros depósitos o seguros del contribuyente.
+Una vez practicado el embargo precautorio, el contribuyente afectado podrá proceder conforme a lo establecido en el artículo 141 de este Código, a fin de que el crédito fiscal y sus accesorios queden garantizados y se ordene el levantamiento del embargo trabado sobre los depósitos bancarios, otros depósitos o seguros del contribuyente.
+
+*Párrafo reformado DOF 07-11-2025*
 
 El embargo precautorio se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución, sujetándose a las disposiciones que este Código establece.
 
@@ -6133,19 +6492,23 @@ Cuando sea necesario emplear el procedimiento administrativo de ejecución para 
 
 I. Por el requerimiento señalado en el primer párrafo del Artículo 151 de este Código.
 
-II. Por la de embargo, incluyendo los señalados en los Artículos 41, fracción II y 141, fracción V de este Código.
+II. Por la de embargo, incluyendo los señalados en los artículos 41, fracción II y 141, fracción VI de este Código.
+
+*Fracción reformada DOF 07-11-2025*
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a \$560.00, se cobrará esta cantidad en vez del 2% del crédito.
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a \$630.00, se cobrará esta cantidad en vez del 2% del crédito.
 
-Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de \$86,460.00.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de \$97,880.00.
 
-Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023
+Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 41, fracción II y 141, fracción V, de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles enajenados o adjudicados a favor de la Federación en los términos de lo previsto por el artículo 191 de este Código, y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen a los bienes que sean objeto de remate.
+Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 41, fracción II y 141, fracción VI, de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles enajenados o adjudicados a favor de la Federación en los términos de lo establecido por el artículo 191 de este Código, y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen a los bienes que sean objeto de remate.
+
+*Párrafo reformado DOF 07-11-2025*
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
 
@@ -6163,7 +6526,9 @@ I. A embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera
 
 En ningún caso procederá el embargo de los depósitos o seguros, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
 
-Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado el embargo de los depósitos o seguros a que se refiere el artículo 155, fracción I, de este Código en una o más cuentas del contribuyente, deberán informarlo a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a la fecha en la que se haya ejecutado, señalando el número de las cuentas así como el importe total que fue embargado. La autoridad fiscal a su vez deberá notificar al contribuyente de dicho embargo a más tardar al tercer día siguiente a aquél en que le hubieren comunicado éste.
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado el embargo de los depósitos o seguros a que se refiere el artículo 155, fracción I, de este Código en una o más cuentas del contribuyente, deberán informarlo a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a la fecha en la que se haya ejecutado, señalando el número de las cuentas así como el importe total que fue embargado. La autoridad fiscal a su vez deberá notificar al contribuyente de dicho embargo a más tardar al vigésimo día siguiente a aquél en que le hubieren comunicado éste.
+
+*Párrafo reformado DOF 07-11-2025*
 
 En los casos en que la autoridad fiscal tenga conocimiento de que el embargo se realizó por un importe mayor al señalado en el segundo párrafo de este artículo, ordenará a más tardar al tercer día siguiente a aquél en que hubiere tenido conocimiento del embargo en exceso, a las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que correspondan, liberar la cantidad correspondiente. Las entidades o sociedades de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos embargados en exceso, a más tardar al tercer día siguiente a aquél en que surta efectos la notificación del oficio de la autoridad fiscal.
 
@@ -6271,7 +6636,9 @@ Sólo procederá la inmovilización hasta por el importe del crédito fiscal y s
 
 La autoridad fiscal ordenará mediante oficio dirigido a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, a efecto de que éstas últimas realicen la inmovilización y conserven los fondos depositados. Para efectos de lo anterior, la inmovilización deberán realizarla a más tardar al tercer día siguiente a aquel en que les fue notificado el oficio de la autoridad fiscal.
 
-Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización de los depósitos o seguros en una o más cuentas del contribuyente, deberán informar del cumplimiento de dicha medida a la autoridad fiscal que la ordenó, a más tardar al tercer día siguiente a la fecha en que se ejecutó, señalando el número de las cuentas, así como el importe total que fue inmovilizado. La autoridad fiscal notificará al contribuyente sobre dicha inmovilización, a más tardar al tercer día siguiente a aquél en que le hubieren comunicado ésta.
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización de los depósitos o seguros en una o más cuentas del contribuyente, deberán informar del cumplimiento de dicha medida a la autoridad fiscal que la ordenó, a más tardar al tercer día siguiente a la fecha en que se ejecutó, señalando el número de las cuentas, así como el importe total que fue inmovilizado. La autoridad fiscal notificará al contribuyente sobre dicha inmovilización, a más tardar al vigésimo día siguiente a aquél en que le hubieren comunicado ésta.
+
+*Párrafo reformado DOF 07-11-2025*
 
 En los casos en que el contribuyente, la entidad financiera, sociedades de ahorro y préstamo o de inversiones y valores, haga del conocimiento de la autoridad fiscal que la inmovilización se realizó en una o más cuentas del contribuyente por un importe mayor al señalado en el segundo párrafo de este artículo, ésta deberá ordenar a más tardar dentro de los tres días siguientes a aquél en que hubiere tenido conocimiento de la inmovilización en exceso, que se libere la cantidad correspondiente. Dichas entidades o sociedades cooperativas de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos inmovilizados en exceso, a más tardar al tercer día siguiente a aquél en que surta efectos la notificación del oficio de la autoridad fiscal.
 
@@ -6291,13 +6658,19 @@ En los casos en que el crédito fiscal se encuentre firme, la autoridad fiscal p
 
 I. Si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció una forma de garantía del interés fiscal suficiente antes de que el crédito fiscal quedara firme, la autoridad fiscal ordenará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la autoridad fiscal, dentro de los tres días posteriores a la orden de transferencia, el monto transferido y acompañar el comprobante que acredite el traspaso de los fondos a la cuenta de la Tesorería de la Federación o de la autoridad fiscal que corresponda.
 
-II. Si el interés fiscal se encuentra garantizado en alguna forma distinta a las establecidas en las fracciones I y III, del artículo 141 de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días siguientes a la notificación del requerimiento. En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder en los términos de la fracción anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo, informe a la autoridad fiscal haber transferido los recursos suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente.
+II. Si el interés fiscal se encuentra garantizado en alguna forma distinta a la establecida en el artículo 141, fracción I de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días siguientes a la notificación del requerimiento. En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder en los términos de la fracción anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo, informe a la autoridad fiscal haber transferido los recursos suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente.
 
-III. Si el interés fiscal se encuentra garantizado en alguna de las formas establecidas en las fracciones I y III, del artículo 141 de este Código, la autoridad fiscal procederá a hacer efectiva la garantía.
+*Fracción reformada DOF 07-11-2025*
+
+III. Si el interés fiscal se encuentra garantizado en la forma establecida en el artículo 141, fracción I de este Código, la autoridad fiscal procederá a hacer efectiva la garantía.
+
+*Fracción reformada DOF 07-11-2025*
 
 IV. Si el interés fiscal no se encuentra garantizado, la autoridad fiscal podrá proceder a la transferencia de recursos en los términos de la fracción I de este artículo.
 
-En los casos indicados en este artículo, las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores deberán informar a la autoridad fiscal que ordenó la transferencia el monto transferido, a más tardar al tercer día siguiente de la fecha en que ésta se realizó. La autoridad fiscal deberá notificar al contribuyente la transferencia de los recursos, conforme a las disposiciones aplicables, a más tardar al tercer día siguiente a aquél en que se hizo de su conocimiento la referida transferencia.
+En los casos indicados en este artículo, las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores deberán informar a la autoridad fiscal que ordenó la transferencia el monto transferido, a más tardar al tercer día siguiente de la fecha en que ésta se realizó. La autoridad fiscal deberá notificar al contribuyente la transferencia de los recursos, conforme a las disposiciones aplicables, a más tardar al vigésimo día siguiente a aquél en que se hizo de su conocimiento la referida transferencia.
+
+*Párrafo reformado DOF 07-11-2025*
 
 Si al transferirse el importe el contribuyente considera que éste es superior al crédito fiscal, deberá demostrar tal hecho ante la autoridad fiscal con prueba documental suficiente, para que dicha autoridad proceda al reintegro de la cantidad transferida en exceso en un plazo no mayor de veinte días a partir de que se notifique al contribuyente la transferencia de los recursos. Si a juicio de la autoridad fiscal las pruebas no son suficientes, se lo notificará dentro del plazo antes señalado, haciéndole saber que puede hacer valer el recurso de revocación correspondiente, o bien, presentar juicio contencioso administrativo.
 
@@ -9666,3 +10039,215 @@ B. Compilación de cantidades establecidas en el CFF.
 Atentamente.
 
 Ciudad de México, a 15 de diciembre de 2023.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
+
+### SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 308/2020 y su acumulada 3/2021, así como los Votos Concurrente de la señora Ministra Presidenta Norma Lucía Piña Hernández y Particular del señor Ministro Juan Luis González Alcántara Carrancá.
+
+*Publicada en el Diario Oficial de la Federación el 4 de marzo de 2024*
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
+
+ACCIÓN DE INCONSTITUCIONALIDAD 308/2020 Y SU ACUMULADA 3/2021.
+
+PROMOVENTES: DIVERSOS DIPUTADOS INTEGRANTES DE LA LXIV LEGISLATURA DEL CONGRESO DE LA UNIÓN Y EL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES.
+
+VISTO BUENO
+
+SR. MINISTRO
+
+PONENTE: MINISTRO ALFREDO GUTIÉRREZ ORTIZ MENA
+
+COTEJÓ:
+
+SECRETARIO: DAVID GARCÍA SARUBBI
+
+COLABORÓ: PAOLA GUTIÉRREZ BALDERAS
+
+Ciudad de México. El Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al veintinueve de mayo de dos mil veintitrés, emite la siguiente:
+
+SENTENCIA
+
+……..
+
+VIII. EFECTOS.
+
+166\. Los efectos de esta sentencia se determinan conforme a lo establecido en el artículo 41, fracciones IV y V, así como el diverso 45, de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, que disponen que este Tribunal Constitucional debe fijar con precisión los alcances de la sentencia, los órganos obligados a cumplirla, el término para el cumplimiento y que surtirán sus consecuencias a partir de la fecha que determine la Suprema Corte de Justicia de la Nación, ya que éstas no tendrán efectos retroactivos, salvo en materia penal.
+
+167\. Atendiendo a las razones expuestas en el considerando anterior de esta sentencia, se declara la invalidez de la porción normativa del párrafo tercero del artículo 17-F del Código Fiscal de la Federación, que establece “así como el de la verificación de identidad de los usuarios”, por lo que ese párrafo debe quedar de la siguiente manera:
+
+**Artículo 17-F.** El Servicio de Administración Tributaria podrá proporcionar los siguientes servicios de certificación de firmas electrónicas avanzadas:
+
+[…]
+
+Los particulares que determinen el uso de la firma electrónica avanzada como medio de autenticación o firmado de documentos digitales, podrán solicitar al Servicio de Administración Tributaria que preste el servicio de verificación y autenticación de los certificados de firmas electrónicas avanzadas. Los requisitos para otorgar la prestación de dicho servicio se establecerán mediante reglas de carácter general que emita dicho órgano administrativo desconcentrado.
+
+168\. Finalmente, este Pleno establece la presente declaratoria de invalidez surtirá sus efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión.
+
+IX. DECISIÓN.
+
+Por lo antes expuesto, el Pleno de la Suprema Corte de Justicia de la Nación resuelve:
+
+**PRIMERO.** Es improcedente la acción de inconstitucionalidad 308/2020.
+
+**SEGUNDO.** Es procedente y parcialmente fundada la acción de inconstitucionalidad 3/2021.
+
+**TERCERO.** Se reconoce la validez del artículo 137, párrafo primero, del Código Fiscal de la Federación, reformado mediante el decreto publicado en el Diario Oficial de la Federación el ocho de diciembre de dos mil veinte, tal como se indica en el apartado VII de esta decisión.
+
+**CUARTO.** Se declara la invalidez del artículo 17-F, párrafo tercero, en su porción normativa “así como el de la verificación de identidad de los usuarios” del Código Fiscal de la Federación, reformado mediante el decreto publicado en el Diario Oficial de la Federación el ocho de diciembre de dos mil veinte, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, en los términos de los apartados VII y VIII de esta determinación.
+
+**QUINTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente.
+
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+
+……..
+
+La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos propuestos.
+
+Firman la señora Ministra Presidenta y el señor Ministro Ponente con el Secretario General de Acuerdos, quien autoriza y da fe.
+
+Presidenta, Ministra Norma Lucía Piña Hernández.- Firmado electrónicamente.- Ponente, Ministro Alfredo Gutiérrez Ortiz Mena.- Firmado electrónicamente.- Secretario General de Acuerdos, Maestro Rafael Coello Cetina.- Firmado electrónicamente.
+
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de treinta y siete fojas útiles, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la acción de inconstitucionalidad 308/2020 y su acumulada 3/2021, promovidas por diversos Diputados Integrantes de la LXIV Legislatura del Congreso de la Unión y el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del veintinueve de mayo del dos mil veintitrés. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a veintidós de enero de dos mil veinticuatro.- Rúbrica.
+
+### RESOLUCIÓN Miscelánea Fiscal para 2025, y sus Anexos 1, 5, 6, 8, 15, 19 y 27.
+
+*Publicada en el Diario Oficial de la Federación el 30 de diciembre de 2024*
+
+ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025
+
+Cantidades actualizadas del CFF
+
+A. Cantidades actualizadas establecidas en el CFF.
+
+> Nota: Se actualizan diversas cantidades establecidas en los artículos 32-A y 32-H del Código Fiscal de la Federación.
+
+B. Compilación de cantidades establecidas en el CFF.
+
+> Nota: Se compilan diversas cantidades establecidas en los artículos 20, 26, 32-A, 59, 80, 82, 82-B, 82-D, 82-F, 82-H, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 84-N, 86, 86-B, 86-D, 86-F, 86-H, 86-J, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+
+…….
+
+Atentamente.
+
+Ciudad de México, a 20 de diciembre de 2024.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
+
+*Publicado en el Diario Oficial de la Federación el 16 de octubre de 2025*
+
+**Artículo Segundo.-** Se adicionan las fracciones X, XI y XII al artículo 124 del Código Fiscal de la Federación, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+**Tercero.** Al tratarse de una ley procesal, las etapas procesales concluidas que generen derechos adquiridos a las partes se regirán por las disposiciones legales vigentes al inicio de los procesos respectivos. Por lo que hace a las actuaciones procesales posteriores a la entrada en vigor del presente Decreto, de conformidad con la doctrina y la jurisprudencia de la Suprema Corte de Justicia de la Nación, se regirán por las disposiciones de este Decreto, sin que implique aplicación retroactiva ni afectación a derechos adquiridos, pues se trata de actuaciones futuras.
+
+**Cuarto.** El Órgano de Administración Judicial contará con trescientos sesenta días naturales a partir de su entrada en funciones para realizar las adecuaciones al Sistema Electrónico del Poder Judicial de la Federación que resulten necesarias para dar cumplimiento a lo previsto por los artículos 3, 25, 26, 28 y 30 de la Ley de Amparo.
+
+Una vez realizadas las adecuaciones al sistema, el Órgano de Administración Judicial publicará en el Diario Oficial de la Federación y en su propio portal, el aviso de inicio de registro de usuarios digitales para autoridades.
+
+Todas las autoridades de la Federación, entidades federativas, municipios y alcaldías, tendrán un plazo de ciento ochenta días naturales a partir de la publicación del Aviso al que se refiere el párrafo anterior, para dar cumplimiento a este Decreto y crear sus perfiles en el Sistema.
+
+**Quinto.** El Órgano de Administración Judicial contará con ciento ochenta días naturales a partir de la entrada en vigor de este Decreto, para emitir un Acuerdo General que regule la correcta integración tanto del expediente electrónico como físico en el juicio de amparo, procurando en todo momento privilegiar el uso de la tecnología y eficientizar el uso de recursos materiales dentro del Poder Judicial de la Federación, sin menoscabar el derecho de las partes de consultar los expedientes correspondientes.
+
+Ciudad de México, a 15 de octubre de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Vicepresidente en funciones de Presidente.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de octubre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación.
+
+*Publicado en el Diario Oficial de la Federación el 7 de noviembre de 2025*
+
+**Artículo Único.-** Se reforman los artículos 17-F, último párrafo; 17-H Bis, fracciones I, segundo párrafo, VII y IX; 27, apartado C, fracciones XII y XIII; 29-A, cuarto párrafo; 36, tercer párrafo; 42, fracción V, segundo párrafo, así como los actuales quinto y sexto párrafos; 45, primer párrafo; 48, segundo párrafo; 52, fracción III, tercer párrafo; 59, fracción III, párrafos primero, segundo y tercero; 81, primer párrafo y fracción I; 82, primer párrafo; 83, fracción IX; 84, fracción IV, inciso b); 103, fracción XIII; 105, fracción I; 113 Bis, actual segundo párrafo; 141, primer párrafo y fracciones I, II, III, IV, V y VI, y segundo, tercero y séptimo párrafos; 143, primer párrafo; 144, segundo y tercer párrafos; 145, segundo párrafo, fracciones V y VI, quinto párrafo; 150, fracción II y cuarto párrafo; 151, fracción I, tercer párrafo; 156-Bis, fracción II, cuarto párrafo; 156-Ter, fracciones II y III y segundo párrafo; se adicionan los artículos 17-H, con la fracción XIII; 17-H Bis, con las fracciones XII, XIII y XIV; 27, apartado C, fracciones VI, con un segundo párrafo y XIV; 29-A, fracción V, con un inciso f), con la fracción IX, pasando la actual fracción IX a ser fracción X; 29-A Bis; 30-B; 42, fracción V, con un inciso g) y un tercer párrafo, pasando el actual tercer párrafo de dicha fracción a ser cuarto párrafo de la misma, así como un tercer párrafo a dicho artículo, pasando los actuales tercer, cuarto, quinto, sexto y séptimo párrafos a ser cuarto, quinto, sexto, séptimo y octavo del mismo; 49 Bis; 81, fracción XXV, segundo párrafo, con un inciso i); 82, fracciones I, con un nuevo inciso e), pasando el actual inciso e) a ser inciso f) y XXV, con el inciso i); 103, con las fracciones XXIV, XXV, XXVI y XXVII; 104, con una fracción V; 105, con una fracción XVIII; 113 Bis, con un segundo, tercero y cuarto párrafos, pasando los actuales segundo, tercero, cuarto y quinto párrafos a ser quinto, sexto, séptimo y octavo párrafos; 115 Ter, y 141, con un último párrafo; y se deroga el artículo 66-A, fracción VI, inciso b), del Código Fiscal de la Federación, para quedar como sigue:
+
+…….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el 1 de enero de 2026, salvo lo dispuesto en el artículo 30-B de este ordenamiento, el cual entrará en vigor el 1 de abril de 2026.
+
+**Segundo.** Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto deberán substanciarse y resolverse en términos de las disposiciones vigentes en la fecha en que iniciaron.
+
+**Tercero.** En las referencias a la Comisión Nacional de Energía previstas en el presente Decreto, se incluye a la Comisión Reguladora de Energía, conforme a lo dispuesto en el Tercero Transitorio de la Ley de la Comisión Nacional de Energía, publicada en el Diario Oficial de la Federación el 18 de marzo de 2025.
+
+**Cuarto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo a los presupuestos aprobados a los ejecutores de gasto que intervienen en el mismo, por lo que no se autorizarán ampliaciones líquidas a los presupuestos de dichos ejecutores de gasto.
+
+Ciudad de México, a 28 de octubre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 05 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+
+*Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025*
+
+**Artículo Tercero.** Se reforma el párrafo sexto del artículo 130 del Código Fiscal de la Federación, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### ANEXOS 4, 5, 6, 8, 15 y 25 de la Resolución Miscelánea Fiscal para 2026.
+
+*Publicados en el Diario Oficial de la Federación el 28 de diciembre de 2025*
+
+ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2026
+
+Cantidades Actualizadas del Código Fiscal de la Federación
+
+A. Cantidades actualizadas establecidas en el CFF.
+
+> Nota: Se actualizan diversas cantidades establecidas en los artículos 32-A, 32-H, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+
+B. Compilación de cantidades establecidas en el CFF.
+
+> Nota: Se compilan diversas cantidades establecidas en los artículos 20, 26, 32-A, 59, 80, 82, 82-B, 82-D, 82-F, 82-H, 84, 84-B, 84-N, 86-B, 86-D, 86-H y 86-J del Código Fiscal de la Federación.
+
+…….
+
+Atentamente.
+
+Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 141 del Código Fiscal de la Federación.
+
+*Publicado en el Diario Oficial de la Federación el 9 de abril de 2026*
+
+**Artículo Único.-** Se reforma el artículo 141, párrafos primero y segundo, del Código Fiscal de la Federación, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** Los procedimientos de garantía del interés fiscal iniciados entre el 1 de enero de 2026 y la entrada en vigor del presente Decreto, así como las garantías constituidas durante dicho periodo conforme al orden establecido en el artículo 141 vigente en el citado periodo, se podrán sujetar a lo establecido en dicho artículo en su texto reformado mediante el presente Decreto, siempre que la persona contribuyente lo solicite expresamente ante la autoridad exactora dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto. En el caso de garantías ya constituidas, la sustitución no interrumpirá la suspensión del procedimiento administrativo de ejecución ni generará requerimiento adicional. La autoridad exactora resolverá la solicitud en un plazo no mayor a veinte días hábiles. Los actos ya consumados y no impugnados al momento de la solicitud conservarán sus efectos.
+
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo a los presupuestos aprobados a los ejecutores de gasto que intervienen en el mismo, sin que se autoricen ampliaciones liquidas a dichos presupuestos.
+
+Ciudad de México, a 7 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 09 de abril de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
