@@ -3,12 +3,11 @@ title: Ley Federal del Trabajo
 abbreviation: LFT
 slug: lft
 published_dof: 1970-04-01
-last_reform_dof: 2024-12-16
-articles: 1242
+last_reform_dof: 2026-05-14
+articles: 1266
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc
-archived: https://web.archive.org/web/20250130113647/https://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc
-source_sha256: aad56846d0af69588d6f115097cd7d463fa696aed3fd365c89b58948ac4e5ba3
-retrieved: 2025-01-30
+source_sha256: 0d6860c68de91de2e9f2410fcc54b296a262324c6a67da7ece5bba9865ffef43
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm
 ---
 
@@ -18,7 +17,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de abril de 19
 
 TEXTO VIGENTE
 
-Última reforma publicada 16-12-2024
+Última reforma publicada 14-05-2026
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -40,7 +39,9 @@ La presente Ley es de observancia general en toda la República y rige las relac
 
 ##### Artículo 2o.
 
-Las normas del trabajo tienden a conseguir el equilibrio entre los factores de la producción y la justicia social, así como propiciar el trabajo digno o decente en todas las relaciones laborales.
+Las normas del trabajo tienden a conseguir el equilibrio entre los factores de la producción y la justicia social, así como propiciar el trabajo digno o decente en todas las relaciones laborales, en un entorno libre de violencias y con respeto pleno a los derechos humanos.
+
+*Párrafo reformado DOF 15-01-2026*
 
 Se entiende por trabajo digno o decente aquél en el que se respeta plenamente la dignidad humana del trabajador; no existe discriminación por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, condición migratoria, opiniones, preferencias sexuales o estado civil; se tiene acceso a la seguridad social y se percibe un salario remunerador; se recibe capacitación continua para el incremento de la productividad con beneficios compartidos, y se cuenta con condiciones óptimas de seguridad e higiene para prevenir riesgos de trabajo.
 
@@ -54,9 +55,9 @@ La igualdad sustantiva es la que se logra eliminando la discriminación contra l
 
 ##### Artículo 3o.
 
-El trabajo es un derecho y un deber social. No es artículo de comercio, y exige respeto para las libertades y dignidad de quien lo presta, así como el reconocimiento a las diferencias entre hombres y mujeres para obtener su igualdad ante la ley. Debe efectuarse en condiciones que aseguren la vida digna y la salud para las y los trabajadores y sus familiares dependientes.
+El trabajo es un derecho y un deber social. No es artículo de comercio, y exige respeto para las libertades y dignidad de quien lo presta, así como el reconocimiento a las diferencias entre hombres y mujeres para obtener su igualdad sustantiva ante la ley. Debe efectuarse en condiciones que aseguren la vida digna y la salud para las y los trabajadores y sus familiares dependientes, en un entorno laboral libre de discriminación y violencias.
 
-*Párrafo reformado DOF 01-05-2019*
+*Párrafo reformado DOF 01-05-2019, 15-01-2026*
 
 No podrán establecerse condiciones que impliquen discriminación entre los trabajadores por motivo de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, condición migratoria, opiniones, preferencias sexuales, estado civil o cualquier otro que atente contra la dignidad humana.
 
@@ -267,6 +268,14 @@ Se deroga.
 ##### Artículo 16.
 
 Para los efectos de las normas de trabajo, se entiende por empresa la unidad económica de producción o distribución de bienes o servicios y por establecimiento la unidad técnica que como sucursal, agencia u otra forma semejante, sea parte integrante y contribuya a la realización de los fines de la empresa.
+
+En las empresas y establecimientos, tanto las personas trabajadoras como empleadoras deberán contribuir al mantenimiento de un entorno laboral libre de discriminación y violencias hacia las mujeres.
+
+*Párrafo adicionado DOF 15-01-2026*
+
+Las personas empleadoras capacitarán a su personal para prevenir y eliminar las violencias contra las mujeres.
+
+*Párrafo adicionado DOF 15-01-2026*
 
 ##### Artículo 17.
 
@@ -794,11 +803,17 @@ II. Si comprueba ante el Tribunal que el trabajador, por razón del trabajo que 
 
 III. En los casos de trabajadores de confianza;
 
-IV. En el trabajo del hogar, y
+IV. En el trabajo del hogar;
 
-*Fracción reformada DOF 01-05-2019, 02-07-2019*
+*Fracción reformada DOF 01-05-2019, 02-07-2019, 24-12-2024*
 
-V. Cuando se trate de trabajadores eventuales.
+V. Cuando se trate de trabajadores eventuales, y
+
+*Fracción reformada DOF 24-12-2024*
+
+VI. Cuando se trate de personas trabajadoras en plataformas digitales. Únicamente procederá la reinstalación obligatoria en caso de violación a derechos colectivos, tales como la libertad de asociación, autonomía sindical, el derecho de huelga y de contratación colectiva.
+
+*Fracción adicionada DOF 24-12-2024*
 
 Para ejercer este derecho el patrón podrá acudir al Tribunal en la vía paraprocesal contemplada en el artículo 982 de esta Ley para depositar la indemnización a que se refiere el artículo 50 de esta Ley. Para tal efecto el patrón aportará al Tribunal la información relacionada con el nombre y domicilio del trabajador, para que se le notifique dicho paraprocesal, debiendo manifestar bajo protesta de decir verdad que en el caso se actualiza alguna de las hipótesis contempladas en el presente artículo. Con el escrito de cuenta y desglose del monto de la indemnización el Tribunal correrá traslado al trabajador para su conocimiento.
 
@@ -814,11 +829,17 @@ Las indemnizaciones a que se refiere el artículo anterior consistirán:
 
 I. Si la relación de trabajo fuere por tiempo determinado menor de un año, en una cantidad igual al importe de los salarios de la mitad del tiempo de servicios prestados; si excediera de un año, en una cantidad igual al importe de los salarios de seis meses por el primer año y de veinte días por cada uno de los años siguientes en que hubiese prestado sus servicios;
 
-II. Si la relación de trabajo fuere por tiempo indeterminado, la indemnización consistirá en veinte días de salario por cada uno de los años de servicios prestados; y
+II. Si la relación de trabajo fuere por tiempo indeterminado, la indemnización consistirá en veinte días de salario por cada uno de los años de servicios prestados;
 
-III. Además de las indemnizaciones a que se refieren las fracciones anteriores, en el importe de tres meses de salario y el pago de los salarios vencidos e intereses, en su caso, en los términos previstos en el artículo 48 de esta Ley.
+*Fracción reformada DOF 24-12-2024*
 
-*Fracción reformada DOF 30-11-2012*
+III. Además de las indemnizaciones a que se refieren las fracciones anteriores, en el importe de tres meses de salario y el pago de los salarios vencidos e intereses, en su caso, en los términos previstos en el artículo 48 de esta Ley, y
+
+*Fracción reformada DOF 30-11-2012, 24-12-2024*
+
+IV. Para las personas trabajadoras de plataformas digitales la indemnización consistirá en tres meses de salario. Adicionalmente se pagarán veinte días de salario por cada uno de los años de servicios prestados, tomando en cuenta el tiempo efectivamente laborado, como lo establece el artículo 291-D del mismo ordenamiento y los salarios vencidos e intereses, en su caso, en los términos previstos en el artículo 48 de esta Ley.
+
+*Fracción adicionada DOF 24-12-2024*
 
 ##### Artículo 51.
 
@@ -884,9 +905,9 @@ Si en el juicio correspondiente no comprueba el patrón las causas de la termina
 
 ##### Artículo 56.
 
-Las condiciones de trabajo basadas en el principio de igualdad sustantiva entre mujeres y hombres en ningún caso podrán ser inferiores a las fijadas en esta Ley y deberán ser proporcionales a la importancia de los servicios e iguales para trabajos iguales, sin que puedan establecerse diferencias y/o exclusiones por motivo de origen étnico o nacionalidad, sexo, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, condiciones de embarazo, responsabilidades familiares o estado civil, salvo las modalidades expresamente consignadas en esta Ley.
+Las condiciones de trabajo basadas en el principio de igualdad sustantiva entre mujeres y hombres en ningún caso podrán ser inferiores a las fijadas en esta Ley y deberán ser proporcionales a la importancia de los servicios e iguales para trabajos iguales, sin que puedan establecerse diferencias y/o exclusiones por motivo de origen étnico o nacionalidad, sexo, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, condiciones de embarazo, responsabilidades familiares o estado civil, salvo las modalidades expresamente consignadas en esta Ley, garantizando además un entorno libre de violencias y discriminación en todas sus formas.
 
-*Artículo reformado DOF 30-11-2012*
+*Artículo reformado DOF 30-11-2012, 15-01-2026*
 
 ##### Artículo 56 Bis.
 
@@ -910,11 +931,15 @@ El patrón podrá solicitar la modificación cuando concurran circunstancias eco
 
 Jornada de trabajo es el tiempo durante el cual el trabajador está a disposición del patrón para prestar su trabajo.
 
+Esta podrá ser distribuida de común acuerdo por las personas empleadoras y trabajadoras.
+
+*Párrafo adicionado DOF 01-05-2026*
+
 ##### Artículo 59.
 
-El trabajador y el patrón fijarán la duración de la jornada de trabajo, sin que pueda exceder los máximos legales.
+La duración máxima de la jornada ordinaria de trabajo será de cuarenta horas semanales.
 
-Los trabajadores y el patrón podrán repartir las horas de trabajo, a fin de permitir a los primeros el reposo del sábado en la tarde o cualquier modalidad equivalente.
+*Artículo reformado DOF 01-05-2026*
 
 ##### Artículo 60.
 
@@ -926,7 +951,9 @@ Jornada mixta es la que comprende períodos de tiempo de las jornadas diurna y n
 
 ##### Artículo 61.
 
-La duración máxima de la jornada será: ocho horas la diurna, siete la nocturna y siete horas y media la mixta.
+La duración de la jornada diaria será de ocho horas la diurna, siete la nocturna y siete horas y media la mixta.
+
+*Artículo reformado DOF 01-05-2026*
 
 ##### Artículo 62.
 
@@ -946,25 +973,35 @@ En los casos de siniestro o riesgo inminente en que peligre la vida del trabajad
 
 ##### Artículo 66.
 
-Podrá también prolongarse la jornada de trabajo por circunstancias extraordinarias, sin exceder nunca de tres horas diarias ni de tres veces en una semana.
+La jornada de trabajo podrá prolongarse por circunstancias extraordinarias.
+
+En estos casos, se abonará como salario por este tiempo un cien por ciento más de lo fijado para las horas ordinarias. El trabajo extraordinario no excederá de doce horas en una semana, las cuales podrán distribuirse en hasta cuatro horas diarias, en un máximo de cuatro días en ese periodo.
+
+*Artículo reformado DOF 01-05-2026*
 
 ##### Artículo 67.
 
 Las horas de trabajo a que se refiere el artículo 65, se retribuirán con una cantidad igual a la que corresponda a cada una de las horas de la jornada.
 
-Las horas de trabajo extraordinario se pagarán con un ciento por ciento más del salario que corresponda a las horas de la jornada.
+*Reforma DOF 01-05-2026: Derogó del artículo el entonces párrafo segundo*
 
 ##### Artículo 68.
 
-Los trabajadores no están obligados a prestar sus servicios por un tiempo mayor del permitido de este capítulo.
+Las personas trabajadoras no están obligadas a prestar sus servicios por un tiempo mayor del permitido en este capítulo.
 
-La prolongación del tiempo extraordinario que exceda de nueve horas a la semana, obliga al patrón a pagar al trabajador el tiempo excedente con un doscientos por ciento más del salario que corresponda a las horas de la jornada, sin perjuicio de las sanciones establecidas en esta Ley.
+La prolongación del tiempo extraordinario que supere lo establecido en el artículo 66 de esta Ley, no podrá ser mayor de cuatro horas a la semana y obliga a la persona empleadora a pagar un doscientos por ciento más del salario que corresponda a las horas de la jornada ordinaria.
+
+La suma de las jornadas ordinaria y extraordinaria, en ningún caso podrá ser mayor a doce horas diarias.
+
+*Artículo reformado DOF 01-05-2026*
 
 ### CAPITULO III · Días de descanso
 
 ##### Artículo 69.
 
-Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, por lo menos, con goce de salario íntegro.
+Por cada seis días de trabajo se deberá otorgar, por lo menos, un día de descanso con goce de salario íntegro.
+
+*Artículo reformado DOF 01-05-2026*
 
 ##### Artículo 70.
 
@@ -974,7 +1011,9 @@ En los trabajos que requieran una labor continua, los trabajadores y el patrón 
 
 En los reglamentos de esta Ley se procurará que el día de descanso semanal sea el domingo.
 
-Los trabajadores que presten servicio en día domingo tendrán derecho a una prima adicional de un veinticinco por ciento, por lo menos, sobre el salario de los días ordinarios de trabajo.
+Las personas que laboren en domingo tendrán derecho a una prima adicional de un veinticinco por ciento, por lo menos, sobre el salario de los días ordinarios de trabajo.
+
+*Párrafo reformado DOF 01-05-2026*
 
 ##### Artículo 72.
 
@@ -1166,9 +1205,9 @@ II. Pago de rentas a que se refiere el artículo 151. Este descuento no podrá e
 
 *Fracción reformada DOF 24-04-1972*
 
-III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados a la adquisición, construcción, reparación, ampliación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Asimismo, a aquellos trabajadores que se les haya otorgado un crédito para la adquisición de viviendas ubicadas en conjuntos habitacionales financiados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores se les descontará el 1% del salario a que se refiere el artículo 143 de esta Ley, que se destinará a cubrir los gastos que se eroguen por concepto de administración, operación y mantenimiento del conjunto habitacional de que se trate. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder el 20% del salario.
+III. Pago de abonos para cubrir préstamos o rentas provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados al arrendamiento social, adquisición, construcción, reparación, ampliación o mejoras de vivienda o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por la persona trabajadora y no podrán exceder el 20 por ciento del salario para préstamos y 30 por ciento del salario para rentas.
 
-*Fracción adicionada DOF 24-04-1972. Reformada DOF 07-01-1982*
+*Fracción adicionada DOF 24-04-1972. Reformada DOF 07-01-1982, 21-02-2025*
 
 IV. Pago de abonos para cubrir créditos otorgados o garantizados por el Instituto a que se refiere el artículo 103 Bis de esta Ley, destinados a la adquisición de bienes de consumo duradero o al pago de servicios. Estos descuentos estarán precedidos de la aceptación que libremente haya hecho el trabajador y no podrán exceder del 10% del salario.
 
@@ -1270,9 +1309,9 @@ II. Pago de la renta a que se refiere el artículo 151 que no podrá exceder del
 
 *Fracción reformada DOF 24-04-1972*
 
-III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados a la adquisición, construcción, reparación, ampliación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Asimismo, a aquellos trabajadores que se les haya otorgado un crédito para la adquisición de viviendas ubicadas en conjuntos habitacionales financiados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores se les descontará el 1% del salario a que se refiere el artículo 143 de esta Ley, que se destinará a cubrir los gastos que se eroguen por concepto de administración, operación y mantenimiento del conjunto habitacional de que se trate. Estos descuentos deberán haber sido aceptados libremente por el trabajador.
+III. Pago de abonos para cubrir préstamos o rentas provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados al arrendamiento social, adquisición, construcción, reparación, ampliación o mejoras de vivienda o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por la persona trabajadora.
 
-*Fracción reformada DOF 24-04-1972, 07-01-1982*
+*Fracción reformada DOF 24-04-1972, 07-01-1982, 21-02-2025*
 
 IV. Pago de cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, siempre que los trabajadores manifiesten expresa y libremente su conformidad y que no sean mayores del treinta por ciento del excedente del salario mínimo;
 
@@ -1436,15 +1475,19 @@ IV Bis. Los trabajadores del establecimiento de una empresa forman parte de ella
 
 V. En la industria de la construcción, después de determinar qué trabajadores tienen derecho a participar en el reparto, la Comisión a que se refiere el artículo 125 adoptará las medidas que juzgue conveniente para su citación;
 
-VI. Los trabajadores del hogar no participarán en el reparto de utilidades, y
+VI. Los trabajadores del hogar no participarán en el reparto de utilidades;
 
-*Fracción reformada DOF 01-05-2019*
+*Fracción reformada DOF 01-05-2019, 24-12-2024*
 
 VII. Los trabajadores eventuales tendrán derecho a participar en las utilidades de la empresa cuando hayan trabajado sesenta días durante el año, por lo menos.
 
-VIII. El monto de la participación de utilidades tendrá como límite máximo tres meses del salario del trabajador o el promedio de la participación recibida en los últimos tres años; se aplicará el monto que resulte más favorable al trabajador.
+VIII. El monto de la participación de utilidades tendrá como límite máximo tres meses del salario del trabajador o el promedio de la participación recibida en los últimos tres años; se aplicará el monto que resulte más favorable al trabajador, y
 
-*Fracción adicionada DOF 23-04-2021*
+*Fracción adicionada DOF 23-04-2021. Reformada DOF 24-12-2024*
+
+IX. Las personas trabajadoras en plataformas digitales tendrán derecho a participar en las utilidades de la empresa cuando el tiempo efectivamente laborado, en términos del artículo 291-D de esta Ley, sea superior a 288 horas anuales.
+
+*Fracción adicionada DOF 24-12-2024*
 
 ##### Artículo 128.
 
@@ -1470,7 +1513,9 @@ Derechos y Obligaciones de los Trabajadores y de los Patrones
 
 ##### Artículo 132.
 
-Son obligaciones de los patrones:
+Son obligaciones de las personas empleadoras:
+
+*Párrafo reformado DOF 19-12-2024*
 
 I.- Cumplir las disposiciones de las normas de trabajo aplicables a sus empresas o establecimientos;
 
@@ -1480,7 +1525,9 @@ III.- Proporcionar oportunamente a los trabajadores los útiles, instrumentos y 
 
 IV.- Proporcionar local seguro para la guarda de los instrumentos y útiles de trabajo pertenecientes al trabajador, siempre que deban permanecer en el lugar en que prestan los servicios, sin que sea lícito al patrón retenerlos a título de indemnización, garantía o cualquier otro. El registro de instrumentos o útiles de trabajo deberá hacerse siempre que el trabajador lo solicite;
 
-V.- Mantener el número suficiente de asientos o sillas a disposición de los trabajadores en las casas comerciales, oficinas, hoteles, restaurantes y otros centros de trabajo análogos. La misma disposición se observará en los establecimientos industriales cuando lo permita la naturaleza del trabajo;
+V.- Proveer el número suficiente de asientos o sillas con respaldo a disposición de todas las personas trabajadoras en los sectores de servicios, comercio y centros de trabajo análogos, para la ejecución de sus funciones o para el descanso periódico durante la jornada laboral. En el caso de descansos periódicos, los asientos o sillas con respaldo deberán estar ubicados en áreas específicas que para tal efecto se designen en las mismas instalaciones del lugar de trabajo. La misma disposición se observará en los establecimientos industriales cuando lo permita la naturaleza del trabajo;
+
+*Fracción reformada DOF 19-12-2024*
 
 VI.- Guardar a los trabajadores la debida consideración, absteniéndose de mal trato de palabra o de obra;
 
@@ -1580,19 +1627,27 @@ XXXI. Implementar, en acuerdo con los trabajadores, un protocolo para prevenir l
 
 *Fracción adicionada DOF 01-05-2019*
 
-XXXII. Fijar y difundir en los lugares de mayor afluencia del centro de trabajo el texto fiel de la convocatoria y demás documentos que le solicite el Centro Federal de Conciliación y Registro Laboral para el desarrollo del procedimiento de consulta a que hacen referencia los artículos 390 Bis y 390 Ter, y
+XXXII. Fijar y difundir en los lugares de mayor afluencia del centro de trabajo el texto fiel de la convocatoria y demás documentos que le solicite el Centro Federal de Conciliación y Registro Laboral para el desarrollo del procedimiento de consulta a que hacen referencia los artículos 390 Bis y 390 Ter;
 
-*Fracción adicionada DOF 01-05-2019*
+*Fracción adicionada DOF 01-05-2019. Reformada DOF 01-05-2026*
 
-XXXIII. Fijar en los lugares de mayor afluencia del centro de trabajo la convocatoria que le solicite el sindicato cuando se consulte a los trabajadores el contenido del contrato colectivo de trabajo inicial o el convenio de revisión, en términos de los artículos 390 Ter y 400 Bis.
+XXXIII. Fijar en los lugares de mayor afluencia del centro de trabajo la convocatoria que le solicite el sindicato cuando se consulte a los trabajadores el contenido del contrato colectivo de trabajo inicial o el convenio de revisión, en términos de los artículos 390 Ter y 400 Bis, y
 
-*Fracción adicionada DOF 01-05-2019*
+*Fracción adicionada DOF 01-05-2019. Reformada DOF 01-05-2026*
+
+XXXIV. Registrar de manera electrónica la jornada laboral de cada persona trabajadora, incluyendo el horario de inicio y finalización; así como proporcionarlo a la autoridad cuando se le requiera.
+
+La Secretaría del Trabajo y Previsión Social expedirá las disposiciones de carácter general que determinen el ámbito de aplicación y excepción a la obligación establecida en el párrafo que antecede.
+
+El contenido del registro electrónico hará prueba plena si se acredita que fue acordado entre la persona trabajadora y empleadora.
+
+*Fracción adicionada DOF 01-05-2026*
 
 ##### Artículo 133.
 
-Queda prohibido a los patrones o a sus representantes:
+Queda prohibido a las personas empleadoras o a sus representantes:
 
-*Párrafo reformado DOF 30-11-2012*
+*Párrafo reformado DOF 30-11-2012, 19-12-2024*
 
 I. Negarse a aceptar trabajadores por razón de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otro criterio que pueda dar lugar a un acto discriminatorio;
 
@@ -1646,9 +1701,13 @@ XVI. Dar de baja o terminar la relación laboral de un trabajador que tenga la c
 
 *Fracción adicionada DOF 22-06-2018*
 
-XVII. Realizar cualquier acto tendiente a ejercer control sobre el sindicato al que pertenezcan sus trabajadores, y
+XVII.- Realizar cualquier acto tendiente a ejercer control sobre el sindicato al que pertenezcan sus trabajadores;
 
-*Fracción adicionada DOF 01-05-2019*
+*Fracción adicionada DOF 01-05-2019. Reformada DOF 19-12-2024*
+
+XVII Bis.- Obligar a las personas trabajadoras a permanecer de pie durante la totalidad de la jornada laboral y prohibirles tomar asiento periódicamente durante el desarrollo de sus funciones, y
+
+*Fracción adicionada DOF 19-12-2024*
 
 XVIII. Las demás que establezca esta Ley.
 
@@ -1742,15 +1801,17 @@ Los recursos del Fondo Nacional de la Vivienda serán administrados por un organ
 
 ##### Artículo 139.
 
-La ley que cree dicho organismo regulará los procedimientos y formas conforme a los cuales los trabajadores podrán adquirir en propiedad habitaciones y obtener los créditos a que se refiere el artículo 137.
+La ley que cree dicho organismo regulará los procedimientos y formas conforme a los cuales las personas trabajadoras podrán adquirir vivienda en propiedad y obtener los créditos a que se refiere el artículo 137, así como acceder a los programas de arrendamiento social.
 
-*Artículo reformado DOF 24-04-1972*
+*Artículo reformado DOF 24-04-1972, 21-02-2025*
 
 ##### Artículo 140.
 
-El organismo a que se refieren los artículos 138 y 139, tendrá a su cargo la coordinación y el financiamiento de los programas de construcción de casas habitación destinadas a ser adquiridas en propiedad por los trabajadores.
+El organismo a que se refieren los artículos 138 y 139, tendrá a su cargo la coordinación, el financiamiento y ejecución de los programas de construcción de viviendas destinadas a ser adquiridas en propiedad por las personas trabajadoras, así como para obtener el arrendamiento social de vivienda para su habitación por las personas trabajadoras, bajo criterios sociales, sin fines de lucro o especulación comercial y considerando su nivel salarial.
 
-*Artículo reformado DOF 24-04-1972*
+Dicho organismo también intervendrá en la administración de los inmuebles y viviendas que sean de su propiedad o se encuentren bajo su administración a efecto de mantenerlas en condiciones de habitabilidad adecuada.
+
+*Artículo reformado DOF 24-04-1972, 21-02-2025*
 
 ##### Artículo 141.
 
@@ -1764,7 +1825,9 @@ En caso de que el trabajador tenga la calidad de persona desaparecida y cuente c
 
 *Fracción reformada DOF 13-01-1986*
 
-II. Cuando el trabajador deje de estar sujeto a una relación de trabajo y cuente con 50 o más años de edad, tendrá derecho a que se le haga entrega del total de los depósitos que se hubieren hecho a su favor, en los términos de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+II. Cuando la persona trabajadora deje de estar sujeto a una relación de trabajo y cuente con la edad establecida en la Ley del Seguro Social y la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, tendrá derecho a que se le haga entrega del total de los depósitos que se hubieren hecho a su favor o sean transferidos a la Administradora de Fondos para el Retiro según lo determine la Ley de los Sistemas de Ahorro para el Retiro.
+
+*Fracción reformada DOF 21-02-2025*
 
 III. En caso de que el trabajador hubiere recibido crédito del Instituto, las cantidades a que tuviere derecho en los términos de las fracciones anteriores, se aplicarán a la amortización del crédito, salvo en los casos de incapacidad total permanente o de muerte, en los términos del artículo 145 si después de hacer la aplicación de dichas cantidades a la amortización del crédito quedare saldo a favor del trabajador se le entregará a éste el monto correspondiente.
 
@@ -1816,6 +1879,10 @@ Para tales efectos, se entenderá por incapacidad total permanente la pérdida d
 
 Tratándose de los casos de incapacidad parcial permanente, cuando ésta sea del 50% o más, o invalidez definitiva, se liberará al trabajador acreditado del adeudo, los gravámenes o limitaciones de dominio a favor del Instituto, siempre y cuando no sea sujeto de una nueva relación de trabajo por un período mínimo de dos años, lapso durante el cual gozará de una prórroga sin causa de intereses, para el pago de su crédito. La existencia de cualquiera de estos supuestos deberá comprobarse ante el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dentro del mes siguiente a la fecha en que se determinen.
 
+En los casos en que la persona trabajadora incapacitada que, durante el periodo señalado en el párrafo anterior, haya adquirido una nueva relación de trabajo y pierda esta, podría reiniciar el trámite de su cancelación del crédito ante el Instituto cuantas veces le resulte necesario, siempre que no se revoque la determinación de su incapacidad en los términos de la Ley del Seguro Social.
+
+*Párrafo adicionado DOF 21-02-2025*
+
 *Artículo reformado DOF 24-04-1972, 13-01-1986*
 
 ##### Artículo 146.
@@ -1830,7 +1897,9 @@ El Ejecutivo Federal, previo estudio y dictamen del organismo que se constituya 
 
 I. Los deportistas profesionales y
 
-II. Los trabajadores a domicilio.
+II. Cualquier otro tipo o modalidad de personas trabajadoras.
+
+*Fracción reformada DOF 21-02-2025*
 
 *Artículo reformado DOF 24-04-1972*
 
@@ -3504,6 +3573,12 @@ La trabajadora del campo temporal tendrá estabilidad en su empleo durante la ge
 
 *Artículo adicionado DOF 24-01-2024*
 
+##### Artículo 283 Quáter.
+
+La Secretaría del Trabajo y Previsión Social podrá expedir un certificado de cumplimiento de obligaciones laborales y de seguridad social de conformidad con las disposiciones generales que al efecto emitan las autoridades competentes.
+
+*Artículo adicionado DOF 01-05-2026*
+
 ##### Artículo 284.
 
 Queda prohibido a las personas empleadoras:
@@ -3577,6 +3652,256 @@ Los trabajadores no podrán ser removidos de la zona o ruta que se les haya asig
 ##### Artículo 291.
 
 Es causa especial de rescisión de las relaciones de trabajo la disminución importante y reiterada del volumen de las operaciones, salvo que concurran circunstancias justificativas.
+
+### CAPITULO IX BIS · TRABAJO EN PLATAFORMAS DIGITALES
+
+*Capítulo adicionado DOF 24-12-2024*
+
+##### Artículo 291-A.
+
+Es una relación laboral subordinada que consiste en el desempeño de actividades remuneradas que requieran la presencia física de la persona trabajadora para la prestación del servicio, las cuales son gestionadas por una persona física o moral en favor de terceros a través de una plataforma digital, utilizando las tecnologías de la información y la comunicación para ejercer el mando y la supervisión sobre la persona trabajadora.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-B.
+
+Se entenderá por plataforma digital al conjunto de mecanismos, aplicaciones informáticas, sistemas y dispositivos que asignan tareas, servicios, obras, trabajos o similares a personas trabajadoras en favor de terceros, considerando el uso de las tecnologías de la información y la comunicación definidas en el artículo 330-A de esta Ley.
+
+Los usuarios, consumidores o beneficiarios de tareas, servicios, obras o trabajos que se oferten a través de aplicaciones informáticas, no serán considerados patrones, ni responsables solidarios de personas trabajadoras en plataformas digitales o similares, ya que dicho carácter lo tendrá la persona física o moral que gestione o administre los servicios a través de la misma.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-C.
+
+La persona trabajadora de plataformas digitales será quien preste servicios personales, remunerados y subordinados, bajo el mando y supervisión de una persona física o moral que ofrece servicios a terceros, a través de una plataforma digital, y genere ingresos netos mensuales equivalentes a por lo menos un salario mínimo mensual de la Ciudad de México por su trabajo, independientemente del tiempo efectivamente trabajado.
+
+Las personas trabajadoras que presten servicios a través de plataformas digitales serán consideradas trabajadoras independientes, si al final de cada mes no alcanzan a generar la percepción mencionada. Sin embargo, en dicho periodo y durante el tiempo efectivamente trabajado, se les extenderán los derechos estipulados en este capítulo, con la excepción de lo dispuesto en las fracciones V relativa a la retención y entero de cuotas de seguridad social y VI del artículo 291-K. En todos los casos, las personas físicas y morales que administren plataformas digitales, serán responsables del pago del aseguramiento en el régimen del seguro social cuando ocurra un riesgo de trabajo durante el tiempo de trabajo efectivamente laborado.
+
+Si la persona trabajadora de plataformas digitales deja de tener actividad por un periodo consecutivo de 30 días naturales, se entenderá terminada la relación laboral automáticamente, sin que proceda responsabilidad o indemnización por parte del empleador. En el caso en el que dicha persona vuelva a cumplir con las condiciones para ser una persona trabajadora de plataformas digitales, se entenderá como el inicio de una nueva relación laboral.
+
+Para el caso del cálculo e integración del salario, se atenderá a lo dispuesto en el artículo 291-F de la presente Ley.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-D.
+
+El trabajo en plataformas digitales será primordialmente flexible y discontinuo, por lo que se entenderá que existe relación laboral durante el tiempo efectivamente laborado por la persona trabajadora de plataforma digital.
+
+Se entenderá por tiempo de trabajo efectivamente laborado el comprendido desde que la persona trabajadora acepta prestar una tarea, servicio, obra o trabajo en la plataforma digital, hasta el momento en el que dicha prestación concluye definitivamente.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-E.
+
+El tiempo de trabajo destinado para la plataforma será definido por la persona trabajadora y tendrá completa libertad para determinarse sin horarios fijos, pudiendo conectarse y desconectarse a discreción cuando así lo requiera.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-F.
+
+El salario en el trabajo en plataformas se fijará por tarea, servicio, obra o trabajo realizado. En atención a la naturaleza flexible del trabajo, dicho pago contemplará el proporcional de día de descanso semanal, vacaciones, prima vacacional, aguinaldo y horas extras, sin que proceda el pago o reconocimiento de algún valor adicional por cualquiera de esos conceptos.
+
+Para efectos del cálculo de cuotas de seguridad social, no se considerarán como parte integrante del salario base de cotización los montos que las personas trabajadoras de plataformas digitales reciban por concepto de propinas.
+
+La Secretaría del Trabajo y Previsión Social expedirá las disposiciones de carácter general que determinen los procedimientos relativos al cálculo del ingreso neto al que se refiere el artículo 291-C de esta Ley.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-G.
+
+El trabajo en plataformas digitales deberá fijarse mediante un contrato que será distinto de los términos y condiciones de la prestación del servicio en la plataforma y podrá ser firmado de manera digital. El modelo de contrato será autorizado y registrado por el Centro Federal de Conciliación y Registro Laboral.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-H.
+
+Además de lo establecido en el artículo 25 de esta Ley, el contrato al que se refiere el artículo 291-G, contendrá lo siguiente:
+
+I. Nombre, nacionalidad, edad, sexo y domicilio de las partes;
+
+II. Naturaleza y características del trabajo;
+
+III. Determinación del sistema de contabilización de ingresos generados y de tiempo efectivamente laborado;
+
+IV. El equipo e insumos de trabajo que en su caso se proporciona a la persona trabajadora, incluyendo lo relacionado con obligaciones de seguridad y salud en el trabajo para esta modalidad;
+
+V. El porcentaje del monto o método que el patrón pagará a la persona trabajadora de plataformas digitales por cada tarea, servicio, obra o trabajo, además del porcentaje o monto que puedan recibir por concepto de bonos, en caso que los hubiere;
+
+VI. Los mecanismos de contacto y de supervisión, entre la plataforma y las personas trabajadoras, y
+
+VII. Otras condiciones de trabajo que se convengan.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-I.
+
+Las personas trabajadoras en plataformas digitales disfrutarán de todos los derechos, incluyendo los colectivos reconocidos por la presente Ley, para lo cual las empresas de plataformas digitales deberán establecer mecanismos que garanticen su ejercicio pleno.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-J.
+
+Las reglas para la asignación de tareas, servicios, obras o trabajos, a través de algoritmos o mecanismos análogos deberán ser transparentes, claras y conocidas por todas las personas trabajadoras en plataformas digitales. Se entenderá por algoritmo el uso de sistemas de toma de decisiones que permitan ejercer de manera automatizada o análoga el mando y supervisión sobre la persona trabajadora de plataforma digital. Los prestadores de servicios en plataformas digitales deberán elaborar un documento de política de gestión algorítmica del trabajo que informe a las personas trabajadoras, utilizando un lenguaje sencillo y claro, y evitando el uso de frases inexactas, ambiguas o vagas, los elementos utilizados por los algoritmos para la toma de decisiones que puedan afectar la relación laboral. Dicho documento deberá contener lo siguiente:
+
+I. Las consecuencias del cumplimiento o incumplimiento de instrucciones otorgadas a las personas trabajadoras, incluyendo las expectativas en tiempos de espera, traslado y prestación de los servicios, obras, trabajos o análogos;
+
+II. Las consecuencias e impacto de calificaciones otorgadas por terceros a las tareas, servicios, obras, trabajos o análogos proporcionados por las personas trabajadoras;
+
+III. Los incentivos y penalizaciones utilizados para incidir en la intensidad, calidad, frecuencia, tiempo o ritmo del trabajo;
+
+IV. En su caso, la existencia de categorías cuya pertenencia incida en sentido positivo o negativo en la asignación de tareas, servicios, obras, trabajos o análogos y las características o reglas generales de dichas categorías, y
+
+V. Otros criterios que podrán ser tomados en cuenta para la toma de decisiones del algoritmo, incluyendo aquellas que tengan consecuencias para el acceso o restricción a futuras tareas, bonos o sanciones y que permitan reducir la asimetría en la información con la que cuenta la persona trabajadora con motivo de su labor.
+
+La política de gestión algorítmica del trabajo formará parte del contrato de trabajo de plataformas digitales y deberá ser conocido por todas las personas trabajadoras al inicio de la relación laboral, así como de manera inmediata en caso que existan cambios en los elementos antes descritos en el presente artículo, mismos que deberán ser aceptados por cada trabajador, y explicados de manera clara y sencilla. El algoritmo deberá ser razonable en sus requisitos y elementos, atendiendo a las condiciones objetivas del trabajo y no poner en riesgo la salud e integridad del trabajador, ni ser factor de discriminación en su contra.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-K.
+
+En cualquier caso, las personas físicas y morales que administren o gestionen servicios a través de plataformas digitales, en su carácter de patrón, tendrán las obligaciones especiales siguientes:
+
+I. Pagar los trabajos derivados de los servicios otorgados, en un plazo no mayor a una semana;
+
+II. Establecer mecanismos para llevar registro de las horas trabajadas y tiempos de espera;
+
+III. Emitir semanalmente recibos de pagos realizados donde se haga constar el número de tareas, servicios, obras o trabajos realizados, el tiempo efectivamente trabajado, el tiempo durante el que la persona trabajadora está a disposición de la plataforma para la asignación de una tarea, servicio, obra o trabajo, las retenciones legales que en su caso apliquen y demás conceptos análogos que resulten procedentes;
+
+IV. Implementar mecanismos que garanticen la seguridad de la información y datos personales de las personas trabajadoras utilizados desde la plataforma, así como el ejercicio de los derechos de Acceso, Rectificación, Cancelación, Oposición y Portabilidad de estos, en términos de la legislación aplicable;
+
+V. Inscribir a las personas trabajadoras en plataformas digitales ante el Instituto Mexicano del Seguro Social y, en su caso, determinar, retener y enterar el pago de cuotas obrero patronales en los términos que establezcan las disposiciones en la materia;
+
+VI. Realizar las aportaciones correspondientes al Fondo Nacional de la Vivienda para los Trabajadores, en términos de la legislación aplicable;
+
+VII. Establecer mecanismos de adiestramiento, capacitación y asesoría necesarios para garantizar la adaptación y el uso adecuado de las plataformas digitales, además de otros materiales, insumos o herramientas necesarias para su trabajo, cuando así se convenga;
+
+VIII. Informar sobre las medidas de seguridad y salud en el trabajo que deberán considerar las personas trabajadoras de plataformas en el ejercicio de sus labores;
+
+IX. Establecer mecanismos específicos de atención y seguimiento de quejas o denuncias, respecto de faltas de probidad u honradez, actos de violencia laboral o violencia sexual, actos de violencia, amenazas, injurias, hostigamiento o acoso sexual, malos tratamientos, actos discriminatorios u otros similares, en contra de las personas trabajadoras en plataformas digitales con motivo de su trabajo;
+
+X. Informar a las personas trabajadoras en plataformas digitales el pago que recibirán por cada tarea, servicio, obra o trabajo, desglosando los conceptos aplicables en la integración del pago, y
+
+XI. Proporcionar toda la información que le requieran las autoridades laborales y de cualquier otro tipo, en relación con la prestación de servicios a través de plataformas digitales, incluyendo, en su caso, los datos de terceros que presten servicios a través de las plataformas digitales.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-L.
+
+Las personas trabajadoras en plataformas digitales, tienen las obligaciones especiales siguientes:
+
+I. Conducirse con apego a las disposiciones en materia de seguridad y salud en el trabajo, así como de seguridad vial, en su caso, de acuerdo con la normativa vigente y las establecidas por el patrón;
+
+II. Poner el mayor cuidado en la guarda, conservación y entrega de insumos, las tareas, servicios, obras o trabajos mandatados durante el tiempo efectivamente trabajado;
+
+III. Recibir, entregar y prestar las tareas, servicios, obras o trabajos aceptados a través de la plataforma digital en los horarios, condiciones y lugares convenidos;
+
+IV. Atender y utilizar los mecanismos y sistemas de las plataformas digitales para el seguimiento de la conexión y de las horas laboradas, así como en su caso para la comunicación con la plataforma;
+
+V. En su caso, aportar los instrumentos necesarios para la correcta entrega de las tareas, servicios, obras o trabajos instruidos por el patrón;
+
+VI. Atender las políticas y mecanismos de protección de datos utilizados en el desempeño de sus actividades, así como las restricciones sobre su uso, y
+
+VII. Conducirse con probidad, honradez y abstenerse de realizar prácticas de discriminación, violencia laboral, hostigamiento y acoso sexual u otros análogos, durante y con motivo del trabajo.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-M.
+
+Además de las causas establecidas en el artículo 47 de esta Ley, se podrá rescindir la relación laboral, sin responsabilidad para el patrón, en los siguientes supuestos:
+
+I. Presentar documentación falsa al realizar el registro de datos en la plataforma digital;
+
+II. Comprometer, por su imprudencia o descuido inexcusable, la seguridad, o la privacidad de la persona usuaria o cliente de la plataforma digital;
+
+III. Incurrir en faltas de probidad u honradez, actos de violencia, amenazas, injurias, hostigamiento y/o acoso sexual, malos tratamientos, actos discriminatorios u otros análogos, durante y con motivo de su trabajo, y
+
+IV. Incurrir de manera reiterada en incumplimiento de las tareas, servicios, obras o trabajos aceptados por la persona trabajadora, así como de las instrucciones relacionadas con el trabajo sin causa justificada.
+
+Para el caso de las fracciones I a III del presente artículo, la rescisión podrá surtir efectos inmediatos, previa notificación escrita o digital al trabajador.
+
+Para el caso de la fracción IV, se deberá avisar a la persona trabajadora con al menos tres días de anticipación, previo agotamiento de los mecanismos de revisión establecidos por la empresa de plataforma digital en términos del artículo 291-P de la presente Ley.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-N.
+
+Para efectos de cálculo en las indemnizaciones a las que se refiere el artículo 50 de la presente Ley, se computará como salario el promedio de lo ingresado por la persona trabajadora en la plataforma digital en los últimos seis meses.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-O.
+
+No será imputable a las personas trabajadoras ni podrá limitarse o prohibirse la conexión, vinculación o acceso a la plataforma digital, cuando se incumpla la entrega o prestación de un servicio bajo cualquiera de los siguientes supuestos:
+
+I. El engaño de la empresa de plataforma digital a la persona trabajadora para que incurra en algún error y con esto verse afectado su trabajo;
+
+II. La existencia de un peligro grave para la seguridad o salud del trabajador en el desempeño de su trabajo;
+
+III. La no aceptación de nuevas tareas, servicios, obras o trabajos por no recibir el salario correspondiente en la fecha y forma convenidas o acostumbradas;
+
+IV. Comprometer la empresa de plataforma digital con su imprudencia, omisión o descuido inexcusables, la seguridad de las personas trabajadoras o de las personas usuarias o clientes de la plataforma digital, y
+
+V. La no aceptación de tareas, servicios, obras o trabajos cuando el ingreso ofrecido sea desproporcionadamente bajo o no cubra los costos operativos, de tiempo y esfuerzo, afectando negativamente a la persona trabajadora.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-P.
+
+Las personas físicas y morales que administren plataformas digitales, pondrán a disposición de las personas trabajadoras mecanismos para la atención y revisión de decisiones que afecten o interrumpan la conexión, vinculación o acceso a la plataforma digital y deberán garantizar que dichos mecanismos sean gestionados por personal con autonomía y poder de revisión sobre dichas decisiones y no por algoritmos o mecanismos similares.
+
+Será nula toda rescisión, limitante o prohibición en la conexión, vinculación o acceso a la plataforma en la que no se entregue un aviso escrito, de forma análoga o a través de la plataforma digital, que refiera inmediatamente y de manera clara la conducta o las conductas que motivan la decisión.
+
+Este aviso deberá ir acompañado del reporte detallado con datos de tareas, servicios, obras o trabajos, así como fecha o fechas de conexión, tiempo de conexión, observaciones y calificaciones de los servicios prestados por la persona trabajadora.
+
+En caso de no llegar a un acuerdo o solución, las partes deberán acudir ante las autoridades conciliatorias, conforme a lo previsto en el artículo 684-B de esta Ley.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-Q.
+
+Será causa especial de terminación de la relación de trabajo, la deshabilitación o cierre de la empresa de plataforma digital por causa justificada y previo aviso a las personas trabajadoras.
+
+El aviso deberá darse en un plazo no menor a quince días, contados a partir que el patrón tuvo conocimiento de la causa justificada de la deshabilitación o cierre de la plataforma digital.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-R.
+
+Las empresas de plataformas digitales deberán observar una perspectiva de género que proteja a las personas trabajadoras de actos de discriminación, violencia laboral, violencia sexual, acoso u hostigamiento con motivo de su trabajo, y que permita conciliar el trabajo con la vida personal y familiar.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-S.
+
+Las empresas de plataformas digitales tienen prohibido:
+
+I. El cobro a las personas trabajadoras por la inscripción, uso, separación o conceptos similares, relacionados con la relación laboral;
+
+II. El trabajo de personas menores de edad;
+
+III. La retención de dinero a las personas trabajadoras adicional a los conceptos establecidos en la ley;
+
+IV. Establecer restricciones de conexión a las personas trabajadoras en plataformas digitales, salvo en los casos que establece el artículo 291-M de esta Ley;
+
+V. El encubrimiento o la simulación que busque desvirtuar el vínculo laboral mediante contratos de carácter civil, mercantil u otros;
+
+VI. La prestación de servicios de puesta a disposición de personal propio en beneficio de otra persona física o moral, y
+
+VII. Manipular el ingreso de las personas trabajadoras para evitar su calificación como trabajadores subordinados de plataformas digitales.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-T.
+
+Queda prohibido transferir a las personas trabajadoras que se encuentren sujetas a una relación laboral tradicional a un esquema de trabajo en plataformas digitales, con el fin de buscar desvirtuar el vínculo laboral, los derechos asociados con el mismo o con el objeto de reducir las cargas fiscales, de seguridad social o laborales que se desprendan de la relación de trabajo.
+
+*Artículo adicionado DOF 24-12-2024*
+
+##### Artículo 291-U.
+
+Las empresas de plataformas digitales podrán contratar a personas trabajadoras bajo esquemas laborales continuos y tradicionales, a quienes les serán aplicables las disposiciones correspondientes de la ley respectiva.
+
+*Artículo adicionado DOF 24-12-2024*
 
 ### CAPITULO X · Deportistas profesionales
 
@@ -3654,11 +3979,15 @@ I. La indisciplina grave o las faltas repetidas de indisciplina; y
 
 II. La pérdida de facultades.
 
-### CAPITULO XI · Trabajadores actores y músicos
+### CAPITULO XI · Personas trabajadoras artistas intérpretes o ejecutantes
+
+*Denominación del Capítulo reformada DOF 14-05-2026*
 
 ##### Artículo 304.
 
-Las disposiciones de este capítulo se aplican a los trabajadores actores y a los músicos que actúen en teatros, cines, centros nocturnos o de variedades, circos, radio y televisión, salas de doblaje y grabación, o en cualquier otro local donde se transmita o fotografíe la imagen del actor o del músico o se transmita o quede grabada la voz o la música, cualquiera que sea el procedimiento que se use.
+Las disposiciones de este capítulo se aplican a las personas trabajadoras artistas intérpretes o ejecutantes, en términos del artículo 116 de la Ley Federal del Derecho de Autor, que actúen en teatros, cines, centros nocturnos o de variedades, circos, radio y televisión, salas de doblaje o en cualquier otro lugar o entorno donde se lleve a cabo la interpretación y/o ejecución.
+
+*Artículo reformado DOF 14-05-2026*
 
 ##### Artículo 305.
 
@@ -3666,17 +3995,27 @@ Las relaciones de trabajo pueden ser por tiempo determinado o por tiempo indeter
 
 No es aplicable la disposición contenida en el artículo 39.
 
+##### Artículo 305 Bis.
+
+En los contratos que regulen la relación laboral de las personas trabajadoras artistas intérpretes o ejecutantes, se deberán estipular de manera específica las condiciones y la remuneración correspondiente para la utilización de su imagen o voz a través de sistemas de inteligencia artificial o cualquier otra tecnología.
+
+*Artículo adicionado DOF 14-05-2026*
+
 ##### Artículo 306.
 
 El salario podrá estipularse por unidad de tiempo, para una o varias temporadas o para una o varias funciones, representaciones o actuaciones.
 
 ##### Artículo 307.
 
-No es violatoria del principio de igualdad de salario, la disposición que estipule salarios distintos para trabajos iguales, por razón de la categoría de las funciones, representaciones o actuaciones, o de la de los trabajadores actores y músicos.
+No es violatoria del principio de igualdad de salario, la disposición que estipule salarios distintos para trabajos iguales, por razón de la categoría de las funciones, representaciones o actuaciones, o de las personas trabajadoras artistas intérpretes o ejecutantes.
+
+*Artículo reformado DOF 14-05-2026*
 
 ##### Artículo 308.
 
-Para la prestación de servicios de los trabajadores actores o músicos fuera de la República, se observarán, además de las normas contenidas en el artículo 28, las disposiciones siguientes:
+Para la prestación de servicios de las personas trabajadoras artistas intérpretes o ejecutantes fuera de la República, se observarán, además de las normas contenidas en el artículo 28, las disposiciones siguientes:
+
+*Párrafo reformado DOF 14-05-2026*
 
 I. Deberá hacerse un anticipo del salario por el tiempo contratado de un veinticinco por ciento, por lo menos; y
 
@@ -3684,11 +4023,15 @@ II. Deberá garantizarse el pasaje de ida y regreso.
 
 ##### Artículo 309.
 
-La prestación de servicios dentro de la República, en lugar diverso de la residencia del trabajador actor o músico, se regirá por las disposiciones contenidas en el artículo anterior, en lo que sean aplicables.
+La prestación de servicios dentro de la República, en lugar diverso de la residencia de la persona trabajadora artista intérprete o ejecutante, se regirá por las disposiciones contenidas en el artículo anterior, en lo que sean aplicables.
+
+*Artículo reformado DOF 14-05-2026*
 
 ##### Artículo 310.
 
-Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a los trabajadores actores y músicos camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio.
+Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a las personas trabajadoras artistas intérpretes o ejecutantes camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio.
+
+*Artículo reformado DOF 14-05-2026*
 
 ### CAPITULO XII · Trabajo a domicilio
 
@@ -5582,7 +5925,9 @@ II. Se deroga.
 
 ##### Artículo 422.
 
-Reglamento interior de trabajo es el conjunto de disposiciones obligatorias para trabajadores y patrones en el desarrollo de los trabajos en una empresa o establecimiento.
+Reglamento interior de trabajo es el conjunto de disposiciones obligatorias para personas trabajadoras y empleadoras en el desarrollo de los trabajos en una empresa o establecimiento.
+
+*Párrafo reformado DOF 19-12-2024*
 
 No son materia del reglamento las normas de orden técnico y administrativo que formulen directamente las empresas para la ejecución de los trabajos.
 
@@ -5590,7 +5935,9 @@ No son materia del reglamento las normas de orden técnico y administrativo que 
 
 El reglamento contendrá:
 
-I. Horas de entrada y salida de los trabajadores, tiempo destinado para las comidas y períodos de reposo durante la jornada;
+I.- Horas de entrada y salida de las personas trabajadoras, tiempo destinado para las comidas y períodos obligatorios de reposo durante la jornada;
+
+*Fracción reformada DOF 19-12-2024*
 
 II. Lugar y momento en que deben comenzar y terminar las jornadas de trabajo;
 
@@ -5598,7 +5945,9 @@ III. Días y horas fijados para hacer la limpieza de los establecimientos, maqui
 
 IV. Días y lugares de pago;
 
-V. Normas para el uso de los asientos o sillas a que se refiere el artículo 132, fracción V;
+V.- Normas que regulen el derecho de las personas trabajadoras para usar los asientos o sillas con respaldo durante la jornada laboral, de conformidad con lo previsto por el artículo 132, fracción V;
+
+*Fracción reformada DOF 19-12-2024*
 
 VI. Normas para prevenir los riesgos de trabajo e instrucciones para prestar los primeros auxilios;
 
@@ -5606,11 +5955,15 @@ VII. Labores insalubres y peligrosas que no deben desempeñar los menores y la p
 
 *Fracción reformada DOF 31-12-1974*
 
-VIII. Tiempo y forma en que los trabajadores deben someterse a los exámenes médicos, previos o periódicos, y a las medidas profilácticas que dicten las autoridades;
+VIII.- Tiempo y forma en que las personas trabajadoras deben someterse a los exámenes médicos, previos o periódicos, y a las medidas profilácticas que dicten las autoridades;
+
+*Fracción reformada DOF 19-12-2024*
 
 IX. Permisos y licencias;
 
-X. Disposiciones disciplinarias y procedimientos para su aplicación. La suspensión en el trabajo, como medida disciplinaria, no podrá exceder de ocho días. El trabajador tendrá derecho a ser oído antes de que se aplique la sanción; y
+X.- Disposiciones disciplinarias y procedimientos para su aplicación. La suspensión en el trabajo, como medida disciplinaria, no podrá exceder de ocho días. La persona trabajadora tendrá derecho a ser oída antes de que se aplique la sanción, y
+
+*Fracción reformada DOF 19-12-2024*
 
 XI. Las demás normas necesarias y convenientes de acuerdo con la naturaleza de cada empresa o establecimiento, para conseguir la mayor seguridad y regularidad en el desarrollo del trabajo.
 
@@ -16307,6 +16660,10 @@ IV. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla 
 
 *Fracción reformada DOF 01-05-2019*
 
+IV Bis. De 250 a 5000 Unidades de Medida y Actualización, a la persona empleadora obligada que incumpla con lo dispuesto por la fracción XXXIV del artículo 132 de esta Ley.
+
+*Fracción adicionada DOF 01-05-2026*
+
 V. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las Leyes para prevenir los riesgos de trabajo;
 
 *Fracción reformada DOF 01-05-2019*
@@ -16366,6 +16723,20 @@ I. De 250 a 2500 veces la Unidad de Medida y Actualización, cuando no conste po
 II. De 250 a 5000 veces la Unidad de Medida y Actualización, cuando no proporcione habitaciones o estas no cuenten con las condiciones mínimas requeridas; no proporcione alimentación, agua y sanitarios; no proporcione educación; no proporcione el traslado seguro y cómodo; no proporcione servicios de guardería a que se refieren las fracciones II, IV, X, XI y XIII del artículo 283; y no observe las disposiciones protectoras de las trabajadoras a que se refiere el artículo 283 Ter.
 
 *Artículo adicionado DOF 24-01-2024*
+
+##### Artículo 997-B.
+
+Las personas físicas o morales que administren plataformas digitales, en su carácter de patrón, que violen las normas protectoras del trabajo en plataformas digitales, con independencia de las sanciones que correspondan en las leyes respectivas, se les impondrá una multa por el equivalente a:
+
+I. De 2000 a 25000 veces la Unidad de Medida y Actualización, cuando no se registre el modelo de contrato en términos del artículo 291-G de esta Ley;
+
+II. De 1000 a 25000 veces la Unidad de Medida y Actualización, cuando no emitan o informen de cambios en el documento de política de gestión algorítmica al que se refiere el artículo 291-J de esta Ley;
+
+III. De 250 a 5000 veces la Unidad de Medida y Actualización, cuando violen las disposiciones contenidas en el artículo 291-K de esta Ley, y
+
+IV. De 500 a 25000 veces la Unidad de Medida y Actualización, cuando no establezcan los mecanismos contemplados en el artículo 291-P de esta Ley.
+
+*Artículo adicionado DOF 24-12-2024*
 
 ##### Artículo 998.
 
@@ -17214,3 +17585,227 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 11 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Alan Sahir Márquez Becerra, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo.
+
+*Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2024*
+
+**Artículo Único.-** Se reforman los artículos 132, primer párrafo y fracción V; 133, primer párrafo; 422, primer párrafo y 423, fracciones I, V, VIII y X, y se adiciona una fracción XVII Bis al artículo 133, de la Ley Federal del Trabajo, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor a los 180 días naturales siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** La Secretaría del Trabajo y Previsión Social deberá emitir las normas correspondientes sobre los factores de riesgos de trabajo en un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+**Tercero.-** Las personas empleadoras o empresas contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna para dar cumplimiento a lo establecido en la fracción V del artículo 132 de la Ley Federal del Trabajo.
+
+Ciudad de México, a 4 de diciembre de 2024.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se adicionan diversas disposiciones de la Ley Federal del Trabajo, en materia de Plataformas Digitales.
+
+*Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2024*
+
+**Artículo Único.-** Se adicionan una fracción VI al artículo 49; una fracción IV al artículo 50; una fracción IX al artículo 127; un Capítulo IX Bis, denominado “Trabajo en Plataformas Digitales”, que comprende los artículos 291-A a 291-U y, un artículo 997-B a la Ley Federal del Trabajo, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor 180 días después de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Consejo Técnico del Instituto Mexicano del Seguro Social y, en su caso, el Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicarán en el Diario Oficial de la Federación, dentro de los 5 días siguientes a la entrada en vigor del presente Decreto, las reglas de carácter general que garanticen el cumplimiento de las obligaciones contenidas en las fracciones V y VI del artículo 291-K de esta Ley, a través de una prueba piloto de participación obligatoria para el aseguramiento de personas trabajadoras de plataformas digitales.
+
+**Tercero.-** El Instituto Mexicano del Seguro Social contará con un plazo de 180 días naturales, contados a partir de la publicación de las reglas de carácter general, para que considerando los resultados que arroje la prueba piloto para el aseguramiento de personas trabajadoras de plataformas digitales, se preparen las iniciativas que con mayor detalle definirán los aspectos relativos al cumplimiento de dichas obligaciones, mismas que serán presentadas ante el Poder Legislativo para su discusión. En su caso, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores podrá proponer adecuaciones normativas equivalentes en el ámbito de su competencia.
+
+**Cuarto.-** La Secretaría del Trabajo y Previsión Social podrá recopilar, elaborar, procesar y divulgar información con el fin de facilitar la comprensión de los derechos y obligaciones que se desprendan de las relaciones de trabajo en plataformas digitales.
+
+**Quinto.-** La temporalidad indicada en la fracción IX del artículo 127 de esta Ley, se obtiene considerando el tiempo de trabajo en 45 minutos por cada hora y 15 minutos de tiempo de espera para la recepción de tareas, servicios y, obras o trabajos; lo que se traduce en un factor de 0.75 de actividad efectivamente laborada por cada hora.
+
+Al aplicar el factor a una jornada de 8 horas da como resultado 6 diarias, lo que representa 36 semanales o 144 mensuales, por lo que al tomar en consideración la temporalidad establecida en la fracción VII del artículo citado, se equipara a 288 horas de actividad efectivamente laborada.
+
+**Sexto.-** La Secretaría del Trabajo y Previsión Social contará con 5 días posteriores a la entrada en vigor del presente Decreto para publicar las disposiciones de carácter general que definirán el cálculo del ingreso neto a las que se refiere el artículo 291-F.
+
+Ciudad de México, a 12 de diciembre de 2024.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 23 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley Federal del Trabajo, en materia de vivienda con orientación social.
+
+*Publicado en el Diario Oficial de la Federación el 21 de febrero de 2025*
+
+**Artículo Segundo.-** Se reforman los artículos 97, fracción III; 110, fracción III; 139; 140; 141, fracción II; 147, fracción II; y se adiciona el artículo 145, con un último párrafo, de Ley Federal del Trabajo, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones legales que se opongan al mismo.
+
+Todas las disposiciones, normas, lineamientos, políticas, criterios y demás normativa emitida por cualquier órgano o área del Instituto continuarán en vigor en lo que no se opongan al presente Decreto o a las normas o resoluciones emitidas por las autoridades, o hasta en tanto los órganos o áreas competentes determinen su reforma o abrogación.
+
+**Tercero.-** Los órganos del Instituto deberán quedar integrados dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, para ello:
+
+I.- La Secretaría del Trabajo y Previsión Social emitirá, dentro de los quince días naturales siguientes a la entrada en vigor del presente Decreto, las bases para determinar las organizaciones nacionales de trabajadores y patrones que intervendrán en la designación de los integrantes de la Asamblea General, en términos de los artículos 7o. y 8o. de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+
+II.- Los sectores, con base en la representación que resulte de la integración de la nueva Asamblea General, deberán renovar en su totalidad a su respectiva representación designando a los nuevos integrantes de los órganos del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, y
+
+III.- El Ejecutivo Federal deberá emitir el acuerdo por el que nombre a sus representantes en los órganos del Instituto, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+**Cuarto.-** El Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá renovar a la persona titular de la Auditoría Interna, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, en términos del artículo 16, fracción XVIII, de su Ley y las disposiciones jurídicas aplicables.
+
+**Quinto.-** La persona titular de la Dirección General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá realizar los actos necesarios para la constitución de la empresa filial, a la que se refiere el artículo 3o., fracción V, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, y su objeto será, entre otros, la construcción de vivienda, su integración accionaria será mayoritariamente del Instituto y se conformará con recursos provenientes del presupuesto de gastos de administración, operación y vigilancia autorizado para el ejercicio 2024. Los estatutos sociales deberán reflejar los principios contenidos en el artículo 3o., último párrafo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, establecer las actividades que conformen el objeto de la empresa filial, los órganos de gobierno que estarán constituidos al menos por un Consejo de Administración, presidido por la persona titular de la Dirección General del Instituto, e integrado por el personal directivo de este; así como por un Comité de Auditoría, que tendrá a su cargo las funciones de control, evaluación, rendición de cuentas y transparencia de la empresa filial; asimismo, contará con un Comité de Ética y un Código de Ética. El Estatuto Orgánico y normativa interna de la empresa filial establecerán su estructura organizacional y de operación.
+
+**Sexto.-** La Asamblea General y el Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de ciento ochenta días siguientes a la entrada en vigor del presente Decreto, deberán expedir las políticas y reglas conforme a las cuales se otorgarán viviendas en arrendamiento social en términos del artículo 51 Ter de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Los Órganos del Instituto del Fondo Nacional de la Vivienda para los Trabajadores emitirán las demás disposiciones y realizará las reformas a su marco jurídico interno con el objeto de dar cumplimiento al presente Decreto, dentro de los trescientos sesenta días naturales siguientes al inicio de su vigencia.
+
+**Séptimo.-** El Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá continuar aplicando los presupuestos de ingresos y egresos, así como de gastos de administración, operación y vigilancia aprobado para el ejercicio 2024, con efectos al primer día hábil del ejercicio 2025, considerando la inflación estimada para esa anualidad, hasta que se renueve la integración de sus órganos de gobierno. Una vez cumplido lo anterior se someterá a la aprobación de la Asamblea General los presupuestos de ingresos y egresos, así como de gastos de administración, operación y vigilancia para el ejercicio 2025 en la siguiente sesión ordinaria a la entrada en vigor del presente Decreto.
+
+**Octavo.-** La Secretaría de Hacienda y Crédito Público, auxiliada por la Comisión Nacional Bancaria y de Valores, dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá emitir las disposiciones en materia de crédito que serán aplicables al Instituto del Fondo Nacional de la Vivienda para los Trabajadores atendiendo a lo dispuesto por la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y a la naturaleza social de los fines de ese Instituto.
+
+El Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro de un plazo de noventa días hábiles, contados a partir de la emisión de las disposiciones a que se refiere el párrafo anterior, deberá proponer a su Asamblea General las políticas de organización de la contabilidad y auditoría interna a que se refiere el artículo 66, fracción IV, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Para el ejercicio 2025, continuarán vigentes aquellas normas y sistemas previos a la entrada en vigor del presente Decreto.
+
+**Noveno.-** El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de ciento ochenta días siguientes a la entrada en vigor del presente Decreto, deberá establecer el programa de extinción de gravámenes y cancelación de inscripciones registrales, autorizando la asignación de recursos económicos necesarios para gestionar su celebración y entrega de los instrumentos correspondientes a cualquier acreditado del propio Instituto, en términos del artículo 44 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+La persona titular de la Dirección General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá coordinarse con las autoridades locales y municipales competentes para procurar la celebración de convenios con el objeto de que le brinde facilidades administrativas y beneficios fiscales que requiera el Instituto para la operación del programa, buscando la atención expedita de las personas trabajadoras derechohabientes y el uso eficiente de los recursos del Fondo Nacional de la Vivienda.
+
+**Décimo.-** Los derechos laborales de las personas trabajadoras que formen parte de los órganos que se extinguen con motivo de este Decreto serán respetados en términos de las disposiciones aplicables.
+
+**Décimo Primero.-** El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, a partir de la entrada en vigor del presente Decreto, deberá mantener la mensualidad de los créditos que hubiere otorgado al monto correspondiente al cierre del ejercicio 2024 y a partir del ejercicio 2025 deberá aplicar una actualización equivalente al cero por ciento.
+
+**Décimo Segundo.-** A partir de la entrada en vigor del presente Decreto, quedarán canceladas todas las resoluciones por las que se aprueben proyectos colectivos de crédito en línea tres a la construcción de vivienda que el Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores haya adoptado con anterioridad al 1 de julio de 2023; sus promoventes podrán presentar nuevamente sus proyectos o las etapas remanentes de estos, para su actualización o aprobación en términos del artículo 42, cuarto párrafo de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+En su caso, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá restituir en la subcuenta de vivienda de las personas trabajadoras derechohabientes las cantidades que les correspondan por la amortización del crédito otorgado y deberá permitirles tramitar un nuevo crédito, siempre que cumplan con los requisitos a que se refiere la ley.
+
+Los desarrolladores o constructores y entidades administradoras de los proyectos contarán con un plazo de treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para entregar al Instituto del Fondo Nacional de la Vivienda para los Trabajadores sin necesidad de resolución judicial las cantidades, intereses y penas convencionales que tuvieren en custodia, correspondientes a los créditos de las personas trabajadoras derechohabientes que hubieren adquirido un predio destinado a construcción dentro de alguno de los proyectos cuyas autorizaciones resulten canceladas.
+
+Las personas trabajadoras derechohabientes contarán con un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para transmitir al Instituto del Fondo Nacional de la Vivienda para los Trabajadores la propiedad de los inmuebles que hubieren adquirido con un crédito en línea tres, en los términos del presente transitorio.
+
+Ciudad de México, a 13 de febrero de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de febrero de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.
+
+*Publicado en el Diario Oficial de la Federación el 15 de enero de 2026*
+
+**Artículo Décimo Cuarto.-** Se reforman los artículos 2o., primer párrafo; 3o., primer párrafo y 56 y, se adiciona un segundo y tercer párrafos al artículo 16, de la Ley Federal del Trabajo, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+
+Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.
+
+*Publicado en el Diario Oficial de la Federación el 1 de mayo de 2026*
+
+**Artículo Único.-** Se reforman los artículos 59; 61; 66; 68; 69 y 71, segundo párrafo; se adicionan un segundo párrafo al artículo 58; y la fracción XXXIV al artículo 132 y la fracción IV Bis al artículo 994; y se deroga el segundo párrafo del artículo 67, de la Ley Federal del Trabajo, para quedar como sigue:
+
+………
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día 1 de mayo de 2026.
+
+**Segundo.** La duración de la jornada laboral a que se refiere el artículo 59 de la Ley Federal del Trabajo se alcanzará de manera gradual, a partir del 1 de enero del año que corresponda, conforme a lo siguiente:
+
+|   |   |
+|---|---|
+| Año | Jornada Laboral |
+| 2026 | 48 |
+| 2027 | 46 |
+| 2028 | 44 |
+| 2029 | 42 |
+| 2030 | 40 |
+
+**Tercero.** El periodo que transcurra del 1 de mayo al 31 de diciembre de 2026 permitirá a las personas trabajadoras y empleadoras ajustar los procesos de trabajo a los términos de este Decreto.
+
+**Cuarto.** La duración de la jornada extraordinaria a que se refiere el artículo 66 de la Ley Federal del Trabajo se alcanzará de manera gradual, a partir del 1 de enero del año correspondiente, conforme a lo siguiente:
+
+|   |   |
+|---|---|
+| Año | Horas Extras |
+| 2026 | 9 |
+| 2027 | 9 |
+| 2028 | 10 |
+| 2029 | 11 |
+| 2030 | 12 |
+
+**Quinto.** Las disposiciones de carácter general a que se refiere la fracción XXXIV del artículo 132 de la Ley Federal del Trabajo, entrarán en vigor a partir del 1 de enero de 2027.
+
+**Sexto.** La Secretaría del Trabajo y Previsión Social instrumentará los mecanismos que correspondan para recopilar, procesar y evaluar datos relacionados con la implementación de la reducción de la jornada laboral.
+
+**Séptimo.** En ningún caso la reducción de la jornada laboral implicará la disminución de sueldos, salarios o prestaciones de las personas trabajadoras.
+
+Ciudad de México, a 22 de abril de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 01 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 40, fracción I, de la Ley Orgánica de la Administración Pública Federal; 15, fracciones IV y VI, de la Ley de Comercio Exterior y se adiciona el artículo 283 Quáter a la Ley Federal del Trabajo, en materia de certificación laboral para la agroexportación y protección de los ecosistemas forestales.
+
+*Publicado en el Diario Oficial de la Federación el 1 de mayo de 2026*
+
+**Artículo Tercero.-** Se adiciona el artículo 283 Quáter a la Ley Federal del Trabajo, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** La Secretaría del Trabajo y Previsión Social en un plazo de 30 días contados a partir de la entrada en vigor del presente Decreto, expedirá las disposiciones de carácter general que determinen los procedimientos relativos al certificado a que se refiere el artículo 283 Quáter de la Ley Federal del Trabajo.
+
+**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable de gasto de operación y de servicios personales, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+Ciudad de México, a 22 de abril de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 01 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes.
+
+*Publicado en el Diario Oficial de la Federación el 14 de mayo de 2026*
+
+**Artículo Primero.-** Se reforman los artículos 304; 307; 308, párrafo primero; 309; 310; y la denominación del Capítulo XI del Título Sexto; y se adiciona un artículo 305 Bis, de la Ley Federal del Trabajo, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+**Tercero.** El Reglamento de la Ley Federal del Derecho de Autor deberá ser reformado y adicionado dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+**Cuarto.** Los procedimientos administrativos de avenencia y arbitraje iniciados con anterioridad a la entrada en vigor del presente Decreto, en lo que no se opongan al mismo, continuarán hasta su conclusión conforme a los ordenamientos en vigor existentes al momento de su inicio.
+
+Ciudad de México, a 15 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 11 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
