@@ -3,12 +3,12 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2026-03-03
+last_reform_dof: 2026-06-02
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-archived: https://web.archive.org/web/20260328162209/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-source_sha256: 351be740f4079e457e5e9d8a056e28c83f0023cc38beac4117f3676d26d94397
-retrieved: 2026-03-28
+archived: https://web.archive.org/web/20260605173913/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
+source_sha256: b976c0d9705f274511325ea18c1719ec60b9112da3a240fd2f694f88485a219f
+retrieved: 2026-06-05
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,9 +18,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 03-03-2026
-
-> Nota de vigencia: Las reformas a los párrafos décimo quinto a vigésimo del artículo 28, publicadas en el DOF 20-12-2024, entrarán en vigor en un plazo de 180 días contados a partir de la entrada en vigor de las leyes secundarias que el Congreso de la Unión expedirá en materia de competencia y libre concurrencia; y en materia de telecomunicaciones y radiodifusión, respectivamente, de conformidad con el artículo Décimo Transitorio de dicho Decreto.
+Últimas reformas publicadas DOF 02-06-2026
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -1586,7 +1584,9 @@ El Instituto, dentro de los siguientes treinta días a que se reciba la solicitu
 
 Los ciudadanos y ciudadanas podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
 
-3o. Se realizará mediante votación libre, directa y secreta de ciudadanos y ciudadanas inscritos en la lista nominal, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales, federal o locales.
+3o. Se realizará mediante votación libre, directa y secreta de ciudadanos y ciudadanas inscritos en la lista nominal, el primer domingo de junio del cuarto año del periodo constitucional de forma coincidente con las jornadas electorales, federal o locales.
+
+*Numeral reformado DOF 02-06-2026*
 
 4o. Para que el proceso de revocación de mandato sea válido deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores. La revocación de mandato sólo procederá por mayoría absoluta.
 
@@ -1989,6 +1989,10 @@ b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, 
 *Inciso reformado DOF 07-07-2014*
 
 c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+
+d) Se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales.
+
+*Inciso adicionado DOF 02-06-2026*
 
 *Párrafo con incisos adicionado DOF 10-02-2014*
 
@@ -2516,9 +2520,9 @@ XX. Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerpo
 
 XXI. Para expedir:
 
-a) Las leyes generales que establezcan como mínimo, los tipos penales y sus sanciones en las materias de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, extorsión, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, así como electoral.
+a) Las leyes generales que establezcan como mínimo, los tipos penales y sus sanciones en las materias de feminicidio, secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, extorsión, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, así como electoral.
 
-*Párrafo reformado DOF 10-02-2014, 10-07-2015, 09-10-2025*
+*Párrafo reformado DOF 10-02-2014, 10-07-2015, 09-10-2025, 06-05-2026*
 
 Las leyes generales contemplarán también la distribución de competencias y las formas de coordinación entre la Federación, las entidades federativas y los Municipios;
 
@@ -3314,17 +3318,17 @@ La administración del Poder Judicial de la Federación estará a cargo de un ó
 
 *Párrafo adicionado DOF 11-06-1999. Reformado DOF 15-09-2024*
 
-La Suprema Corte de Justicia de la Nación se compondrá de nueve integrantes, Ministras y Ministros, y funcionará en Pleno. Su presidencia se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
+La Suprema Corte de Justicia de la Nación se compondrá de nueve integrantes, Ministras y Ministros, y funcionará en Pleno; también, con aprobación del Pleno, podrá funcionar en dos secciones. La presidencia de la Corte se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
 
-*Párrafo reformado DOF 31-12-1994, 06-06-2019, 15-09-2024*
+*Párrafo reformado DOF 31-12-1994, 06-06-2019, 15-09-2024, 02-06-2026*
 
-En los términos que la ley disponga las sesiones del Pleno serán públicas.
+En los términos que la ley disponga las sesiones del Pleno y de las secciones serán públicas.
 
-*Párrafo reformado DOF 15-09-2024*
+*Párrafo reformado DOF 15-09-2024, 02-06-2026*
 
-La competencia de la Suprema Corte, su funcionamiento en Pleno, la competencia de los Plenos Regionales, de los Tribunales de Circuito, de los Juzgados de Distrito y del Tribunal Electoral, así como las responsabilidades en que incurran las servidoras y los servidores públicos del Poder Judicial de la Federación, se regirán por lo que dispongan las leyes y los acuerdos generales correspondientes, de conformidad con las bases que esta Constitución establece.
+La competencia de la Suprema Corte, su funcionamiento en Pleno y en secciones, la competencia de los Plenos Regionales, de los Tribunales de Circuito, de los Juzgados de Distrito y del Tribunal Electoral, así como las responsabilidades en que incurran las servidoras y los servidores públicos del Poder Judicial de la Federación, se regirán por lo que dispongan las leyes y los acuerdos generales correspondientes, de conformidad con las bases que esta Constitución establece.
 
-*Párrafo reformado DOF 22-08-1996, 11-03-2021, 15-09-2024*
+*Párrafo reformado DOF 22-08-1996, 11-03-2021, 15-09-2024, 02-06-2026*
 
 El órgano de administración judicial determinará el número, división en circuitos, competencia territorial y especialización por materias, entre las que se incluirá la de radiodifusión, telecomunicaciones y competencia económica, de los Tribunales Colegiados de Circuito, de los Tribunales Colegiados de Apelación y de los Juzgados de Distrito.
 
@@ -3400,25 +3404,53 @@ VI. No haber sido Secretario de Estado, Fiscal General de la República, senador
 
 Las Ministras y Ministros de la Suprema Corte de Justicia de la Nación, Magistradas y Magistrados de la Sala Superior y las salas regionales del Tribunal Electoral del Poder Judicial de la Federación, Magistradas y Magistrados del Tribunal de Disciplina Judicial, Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones federales ordinarias del año que corresponda conforme al siguiente procedimiento:
 
-I. El Senado de la República publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El órgano de administración judicial hará del conocimiento del Senado los cargos sujetos a elección, la especialización por materia, el circuito judicial respectivo y demás información que requiera;
+I. El Senado de la República publicará la convocatoria para la integración del listado de candidaturas a más tardar el treinta de abril del año anterior al de la elección judicial que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El órgano de administración judicial hará del conocimiento del Senado los cargos sujetos a elección, la especialización por materia, el circuito judicial respectivo y demás información que requiera;
+
+*Fracción reformada DOF 02-06-2026*
 
 II. Los Poderes de la Unión postularán el número de candidaturas que corresponda a cada cargo conforme a los párrafos segundo y tercero del presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
 
 a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
 
-b) Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
+b) Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, quienes elegirán de entre sus integrantes a la persona que coordine sus trabajos.
 
-c) Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas para cada cargo en los casos de Ministras y Ministros de la Suprema Corte de Justicia de la Nación, Magistradas y Magistrados de la Sala Superior y salas regionales del Tribunal Electoral e integrantes del Tribunal de Disciplina Judicial, y de las seis personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder de la Unión para su aprobación y envío al Senado.
+Las personas coordinadoras de los tres Comités integrarán una Comisión Coordinadora, responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, establecer criterios y metodologías homologadas de evaluación, selección y exámenes de conocimientos, y emitir acuerdos que regulen los trabajos de los tres Comités.
 
-III. El Senado de la República recibirá las postulaciones y remitirá los listados al Instituto Nacional Electoral a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+Cada Comité seleccionará, conforme a los criterios definidos por la Comisión Coordinadora, a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
+
+*Inciso reformado DOF 02-06-2026*
+
+c) Los Comités de Evaluación integrarán un listado de las cuatro personas mejor evaluadas para cada cargo. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo a dos personas para cada cargo. Los Comités garantizarán la paridad de género en el listado de personas a insacular por especialidad y circuito judicial, de ser aplicable. Asimismo, observarán la paridad de género en el listado de propuestas posterior a la insaculación. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder de la Unión para su aprobación y envío al Senado.
+
+Para los efectos del párrafo anterior, cada uno de los Poderes de la Unión postulará dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de la persona titular de la Presidencia de la República; el Poder Legislativo postulará una persona por cada Cámara mediante votación calificada de dos tercios de sus integrantes presentes; y el Poder Judicial de la Federación, por conducto del Pleno de la Suprema Corte de Justicia de la Nación, por mayoría de seis votos.
+
+*Inciso reformado DOF 02-06-2026*
+
+III. El Senado de la República recibirá las postulaciones y remitirá los listados al Instituto Nacional Electoral en los plazos que refiera la convocatoria, a efecto de que organice el proceso electivo.
+
+*Párrafo reformado DOF 02-06-2026*
 
 Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes de la Unión, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente, y
 
-IV. El Instituto Nacional Electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación o al Pleno de la Suprema Corte de Justicia de la Nación para el caso de magistraturas electorales, quienes resolverán las impugnaciones antes de que el Senado de la República instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo.
+IV. El Instituto Nacional Electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos. También declarará la validez de la elección y enviará sus resultados a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación o al Pleno de la Suprema Corte de Justicia de la Nación para el caso de magistraturas electorales, quienes resolverán las impugnaciones antes de que el Senado de la República instale el primer periodo ordinario de sesiones, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo. Las autoridades electorales no podrán modificar los resultados de la elección ni la asignación de cargos después de esa fecha.
 
-Para el caso de Ministras y Ministros de la Suprema Corte de Justicia de la Nación, Magistradas y Magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación e integrantes del Tribunal de Disciplina Judicial, la elección se realizará a nivel nacional conforme al procedimiento anterior y en los términos que dispongan las leyes. El Poder Ejecutivo postulará por conducto de la persona titular de la Presidencia de la República hasta tres personas aspirantes; el Poder Legislativo postulará hasta tres personas, una por la Cámara de Diputados y dos por el Senado, mediante votación calificada de dos tercios de sus integrantes presentes, y el Poder Judicial de la Federación, por conducto del Pleno de la Suprema Corte de Justicia de la Nación, postulará hasta tres personas por mayoría de seis votos.
+*Fracción reformada DOF 02-06-2026*
 
-Para el caso de Magistradas y Magistrados de Circuito, así como Juezas y Jueces de Distrito, la elección se realizará por circuito judicial conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes. Cada uno de los Poderes de la Unión postulará hasta dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo postulará una persona por cada Cámara mediante votación de dos terceras partes de sus integrantes presentes, y el Poder Judicial de la Federación, por conducto del Pleno de la Suprema Corte de Justicia de la Nación, postulará hasta dos personas por mayoría de seis votos.
+Para el caso de Ministras y Ministros de la Suprema Corte de Justicia de la Nación, Magistradas y Magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación e integrantes del Tribunal de Disciplina Judicial, la elección se realizará a nivel nacional conforme al procedimiento anterior y en los términos que dispongan las leyes. Cada Poder postulará dos candidaturas por cargo a renovar en la elección de que se trate. La asignación de los cargos electos se realizará entre las candidaturas que obtengan mayor número de votos, observando la integración paritaria del órgano correspondiente.
+
+*Párrafo reformado DOF 02-06-2026*
+
+Para el caso de Magistradas y Magistrados de Circuito, así como Juezas y Jueces de Distrito, la elección se realizará por circuito y distrito judicial conforme a las siguientes bases y a lo que disponga la ley:
+
+I. El Instituto Nacional Electoral dividirá cada circuito judicial en los distritos judiciales necesarios para que, en ese ámbito territorial, la ciudadanía pueda elegir una candidatura por cada especialidad que corresponda a su circuito judicial de entre las propuestas que formule cada Poder y, en su caso, de las personas juzgadoras en funciones en el cargo a elegir;
+
+II. El Instituto Nacional Electoral generará una lista de candidaturas por especialidad en cada circuito judicial donde distinguirá el Poder postulante y el género. Posteriormente, en acto público, asignará aleatoriamente las candidaturas que correspondan a cada distrito judicial, garantizando que los Poderes postulen en cada distrito a dos personas del mismo género por especialidad;
+
+III. Cuando el número de cargos por especialidad sea inferior al número de distritos judiciales en los que se divida un circuito, el Instituto Nacional Electoral asignará los cargos restantes con sus respectivas candidaturas en dos o más distritos de manera aleatoria, a efecto de garantizar que las personas electoras de cada distrito voten por todas las especialidades de su circuito, y
+
+IV. El Instituto Nacional Electoral realizará en cada elección judicial las modificaciones necesarias al marco geográfico electoral para adecuar los distritos judiciales al número de cargos y especialidades a elegir por circuito.
+
+*Párrafo con fracciones reformado DOF 02-06-2026*
 
 El Senado incorporará a los listados que remita al Instituto Nacional Electoral a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo o circuito judicial diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.
 
@@ -3429,6 +3461,18 @@ Las personas candidatas tendrán derecho de acceso a radio y televisión de mane
 Para todos los cargos de elección dentro del Poder Judicial de la Federación estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
 
 La duración de las campañas para los cargos señalados en el presente artículo será de sesenta días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+Las boletas electorales de la elección judicial distinguirán al Poder postulante y, cuando corresponda, a las personas juzgadoras en funciones en los cargos a elegir. Asimismo, distinguirán las especialidades que correspondan a cada ámbito territorial y contendrán los nombres completos de las personas candidatas. Las candidaturas se ubicarán en recuadros para que la ciudadanía señale su preferencia, debiendo elegir una sola candidatura por especialidad.
+
+*Párrafo adicionado DOF 02-06-2026*
+
+La jornada electoral judicial se celebrará en la misma ubicación donde se realicen las elecciones ordinarias federales o locales de ese año. Las autoridades electorales adoptarán las medidas necesarias para garantizar que la jornada electoral judicial se desarrolle sin la intervención de personas representantes de partidos políticos.
+
+*Párrafo adicionado DOF 02-06-2026*
+
+El escrutinio y cómputo de los votos se realizará en la casilla donde fueron sufragados.
+
+*Párrafo adicionado DOF 02-06-2026*
 
 *Artículo reformado DOF 20-08-1928, 31-12-1994, 15-09-2024*
 
@@ -3484,11 +3528,19 @@ Las Magistradas y los Magistrados de Circuito y las Juezas y los Jueces de Distr
 
 ##### Artículo 98.
 
-Cuando la falta de una Ministra o Ministro de la Suprema Corte de Justicia de la Nación, Magistrada o Magistrado del Tribunal de Disciplina Judicial, Magistrada o Magistrado del Tribunal Electoral, Magistrada o Magistrado de Circuito y Jueza o Juez de Distrito excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Senado de la República tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
+Cuando la falta de una Ministra o Ministro de la Suprema Corte de Justicia de la Nación, Magistrada o Magistrado del Tribunal de Disciplina Judicial y Magistrada o Magistrado del Tribunal Electoral excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Senado de la República tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo. En caso de defunción, renuncia, destitución o ausencia definitiva de Magistradas o Magistrados de Circuito y Juezas o Jueces de Distrito, el órgano de administración judicial declarará vacante el cargo y deberá renovarse para un nuevo periodo en la elección inmediata posterior que corresponda.
+
+*Párrafo reformado DOF 02-06-2026*
 
 Las renuncias de las Ministras y los Ministros de la Suprema Corte de Justicia, Magistradas y Magistrados del Tribunal de Disciplina Judicial y Magistradas y Magistrados del Tribunal Electoral, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Senado de la República o, en sus recesos, por la Comisión Permanente.
 
-Las licencias de las personas servidoras públicas señaladas en el párrafo primero de este artículo, cuando no excedan de un mes, podrán ser concedidas por el Pleno de la Suprema Corte de Justicia de la Nación para el caso de Ministras y Ministros, por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes, por el Pleno de la Sala Superior del Tribunal Electoral para el caso de Magistradas y Magistrados Electorales y por el órgano de administración judicial para el caso de Magistradas y Magistrados de Circuito o Juezas y Jueces de Distrito. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Senado de la República o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
+Las licencias de las personas servidoras públicas señaladas en el párrafo primero de este artículo, cuando no excedan de un mes, podrán ser concedidas por el Pleno de la Suprema Corte de Justicia de la Nación para el caso de Ministras y Ministros, por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes, por el Pleno de la Sala Superior del Tribunal Electoral para el caso de Magistradas y Magistrados Electorales y por el órgano de administración judicial para el caso de Magistradas y Magistrados de Circuito o Juezas y Jueces de Distrito. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Senado de la República o, en sus recesos, por la Comisión Permanente, salvo en el caso de Magistradas y Magistrados de Circuito o Juezas y Jueces de Distrito, que podrán concederse sin goce de sueldo por el órgano de administración judicial. Ninguna licencia podrá exceder del término de un año.
+
+*Párrafo reformado DOF 02-06-2026*
+
+Las personas juzgadoras que aspiren a un cargo de elección distinto al que ostenten deberán separarse del cargo mediante renuncia expresa e irrevocable, la cual informarán al órgano de administración judicial antes de su registro en el proceso correspondiente. El órgano de administración judicial comunicará de inmediato la vacante a la autoridad competente para que el cargo sea sujeto a elección.
+
+*Párrafo adicionado DOF 02-06-2026*
 
 *Artículo reformado DOF 20-08-1928, 19-02-1951. Fe de erratas al artículo DOF 14-03-1951. Reformado DOF 25-10-1967, 31-12-1994,*
 
@@ -3596,9 +3648,13 @@ El Tribunal podrá dar vista al Ministerio Público competente ante la posible c
 
 Las sanciones que emita el Tribunal podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con excepción de Ministras y Ministros de la Suprema Corte de Justicia de la Nación y Magistradas y Magistrados electorales, que sólo podrán ser removidos en los términos del Título Cuarto de esta Constitución.
 
-El Tribunal evaluará el desempeño de las Magistradas y Magistrados de Circuito y las Juezas y Jueces de Distrito que resulten electas en la elección federal que corresponda durante su primer año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+El Tribunal evaluará el desempeño de las Magistradas y Magistrados de Circuito y las Juezas y Jueces de Distrito que resulten electas durante su primer año de ejercicio y aplicará programas de capacitación y actualización permanente, para lo cual podrá coordinarse con la Escuela Nacional de Formación Judicial. La ley establecerá los métodos, criterios e indicadores aplicables a los procesos de evaluación que correspondan.
 
-La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
+*Párrafo reformado DOF 02-06-2026*
+
+La ley señalará los criterios, metodologías, etapas, áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la transparencia, imparcialidad y objetividad de los procesos de evaluación y de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación correspondiente resulte insatisfactoria:
+
+*Párrafo reformado DOF 02-06-2026*
 
 a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
 
@@ -4264,9 +4320,9 @@ Los estados adoptarán, para su régimen interior, la forma de gobierno republic
 
 *Párrafo reformado DOF 10-02-2014*
 
-I. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad. En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre este y el gobierno del Estado.
+I. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal, una sindicatura y hasta quince regidurías, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre este y el gobierno del Estado.
 
-*Párrafo reformado DOF 23-12-1999, 06-06-2019, 01-04-2025*
+*Párrafo reformado DOF 23-12-1999, 06-06-2019, 01-04-2025, 23-04-2026*
 
 Las Constituciones de los Estados deberán establecer la prohibición de la reelección consecutiva para el mismo cargo de presidentes y presidentas municipales, regidores y regidoras, y personas síndicas de los ayuntamientos. Las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
@@ -4462,9 +4518,9 @@ Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano po
 
 II. El número de representantes en las legislaturas de los Estados será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a 400 mil habitantes; de nueve, en aquellos cuya población exceda de este número y no llegue a 800 mil habitantes, y de 11 en los Estados cuya población sea superior a esta última cifra.
 
-Las Constituciones estatales deberán establecer la prohibición de la reelección de las personas diputadas a las legislaturas de los Estados para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes. En ningún caso, podrá participar en la elección de una diputación la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
+Las Constituciones estatales deberán establecer que el presupuesto anual de las legislaturas locales no exceda del cero punto setenta por ciento del presupuesto de egresos de la entidad federativa correspondiente. Asimismo, deberán garantizar los principios de paridad, igualdad sustantiva y perspectiva de género, en la integración y funcionamiento de los órganos legislativos locales; así como prohibir la reelección de las personas diputadas a las legislaturas de los Estados para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes. En ningún caso, podrá participar en la elección de una diputación la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
-*Párrafo reformado DOF 10-02-2014, 01-04-2025*
+*Párrafo reformado DOF 10-02-2014, 01-04-2025, 23-04-2026*
 
 Las legislaturas de los Estados se integrarán con diputados electos, según los principios de mayoría relativa y de representación proporcional, en los términos que señalen sus leyes. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
@@ -4504,9 +4560,17 @@ Las Magistradas y los Magistrados y las juezas y los jueces integrantes de los P
 
 *Párrafo reformado DOF 31-12-1994, 15-09-2024*
 
-Las propuestas de candidaturas y la elección de los magistrados y jueces integrantes de los Poderes Judiciales Locales se realizarán conforme a las bases, procedimientos, términos, modalidades y requisitos que señala esta Constitución para el Poder Judicial de la Federación en lo que resulte aplicable, estableciendo mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica.
+Las propuestas de candidaturas y la elección de los magistrados, magistradas, juezas y jueces integrantes de los Poderes Judiciales Locales se sujetarán a las mismas bases, etapas, procedimientos, términos, plazos, modalidades, requisitos, duración de los cargos y demás disposiciones que esta Constitución establece para el Poder Judicial de la Federación en todo lo que resulte aplicable, incluyendo de manera enunciativa:
 
-*Párrafo reformado DOF 15-09-2024*
+a) El establecimiento de mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de todas las personas interesadas;
+
+b) La integración por cada poder local de Comités de Evaluación que, a través de criterios y metodologías homologadas de evaluación y selección, verifiquen el cumplimiento de los requisitos constitucionales y legales de las personas participantes y seleccionen a las cuatro personas mejor evaluadas para cada cargo que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica;
+
+c) La depuración por parte de cada Comité de Evaluación del listado de las personas mejor evaluadas mediante insaculación pública, así como la postulación por cada poder estatal de dos candidaturas para cada especialidad sujeta a elección, observando la paridad de género, y
+
+d) La evaluación del desempeño de las personas juzgadoras que resulten electas durante su primer año de ejercicio, así como de su capacitación y actualización permanente por parte del Tribunal de Disciplina Judicial local.
+
+*Párrafo reformado DOF 15-09-2024. Reformado con incisos DOF 02-06-2026*
 
 Las y los magistrados y las y los jueces durarán en el ejercicio de su encargo nueve años, podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos que determinen las Constituciones y las Leyes de Responsabilidades de los Servidores Públicos de los Estados.
 
@@ -4776,9 +4840,21 @@ La Constitución Política de la Ciudad de México establecerá las normas relat
 
 *Párrafo adicionado DOF 20-12-2019*
 
-IV. El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial local, el órgano de administración judicial y los juzgados y tribunales que establezca la Constitución Política de la Ciudad de México, la que garantizará la independencia de los magistrados y jueces en el ejercicio de sus funciones. Las leyes locales establecerán las condiciones para su elección por voto libre, directo y secreto de la ciudadanía conforme a las bases, procedimientos, términos, modalidades y requisitos que señala esta Constitución para el Poder Judicial de la Federación en lo que resulte aplicable y los demás que establezca la Constitución Política de la Ciudad de México y las leyes correspondientes, estableciendo mediante mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica. Las leyes también establecerán las condiciones para el funcionamiento de órganos de administración y disciplina con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución para el Poder Judicial de la Federación; así como del ingreso, formación, permanencia y especialización de quienes integren el poder Judicial.
+IV. El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial local, el órgano de administración judicial y los juzgados y tribunales que establezca la Constitución Política de la Ciudad de México, la que garantizará la independencia de los magistrados, magistradas, juezas y jueces en el ejercicio de sus funciones. Las leyes locales establecerán las condiciones para su elección por voto libre, directo y secreto de la ciudadanía sujetándose estrictamente a las bases, etapas, procedimientos, términos, modalidades, requisitos, duración de los cargos y demás disposiciones que señala esta Constitución para el Poder Judicial de la Federación en todo lo que resulte aplicable, incluyendo de manera enunciativa:
 
-*Párrafo reformado DOF 15-09-2024*
+a) El establecimiento de mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de todas las personas interesadas;
+
+b) La integración por cada poder de la Ciudad de México de Comités de Evaluación que, a través de criterios y metodologías homologadas de evaluación y selección, verifiquen el cumplimiento de los requisitos constitucionales y legales de las personas participantes y seleccionen a las cuatro personas mejor evaluadas para cada cargo que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica;
+
+c) La depuración por parte de cada Comité de Evaluación del listado de las personas mejor evaluadas mediante insaculación pública, así como la postulación por cada poder de la Ciudad de México de dos candidaturas para cada especialidad sujeta a elección, observando la paridad de género, y
+
+d) La evaluación del desempeño de las personas juzgadoras que resulten electas durante su primer año de ejercicio, así como de su capacitación y actualización permanente por parte del Tribunal de Disciplina Judicial de la Ciudad de México.
+
+*Párrafo reformado DOF 15-09-2024. Reformado con incisos DOF 02-06-2026*
+
+Las leyes también establecerán las condiciones para el funcionamiento de órganos de administración y disciplina con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución para el Poder Judicial de la Federación, así como del ingreso, formación, permanencia y especialización de quienes integren el Poder Judicial.
+
+*Párrafo adicionado DOF 02-06-2026*
 
 Los magistrados integrantes del Tribunal Superior de Justicia de la Ciudad de México deberán reunir como mínimo los requisitos establecidos en las fracciones I a V del artículo 95 de esta Constitución. No podrán ser magistrados las personas que hayan ocupado en el Gobierno de la Ciudad de México el cargo de Secretario o equivalente o de Procurador General de Justicia, o de integrante del Poder Legislativo local, durante el año previo al día de la designación.
 
@@ -5300,11 +5376,35 @@ Dicha remuneración será determinada anual y equitativamente en los presupuesto
 
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
+II. Ninguna persona servidora pública podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para la persona titular del Ejecutivo Federal en el presupuesto correspondiente.
 
-III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente.
+*Fracción reformada DOF 10-04-2026*
+
+III. Ninguna persona servidora pública podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para la persona titular del Ejecutivo Federal en el presupuesto correspondiente.
+
+*Fracción reformada DOF 10-04-2026*
 
 IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+En cualquier caso, las jubilaciones o pensiones del personal de confianza a cargo de los organismos descentralizados, las empresas públicas del Estado, las sociedades nacionales de crédito, las empresas de participación estatal mayoritaria y los fideicomisos públicos constitutivos de entidades paraestatales, todos del Gobierno Federal, así como los organismos descentralizados, las empresas de participación estatal o municipal mayoritaria, las empresas públicas y los fideicomisos públicos, de las entidades federativas y de los municipios, no deberán exceder de la mitad de la remuneración establecida para la persona titular del Ejecutivo Federal en el presupuesto correspondiente.
+
+*Párrafo adicionado DOF 10-04-2026*
+
+Las disposiciones e instrumentos jurídicos que regulen la relación laboral no podrán establecer condiciones que superen el límite establecido en el párrafo que antecede.
+
+*Párrafo adicionado DOF 10-04-2026*
+
+Quedan excluidas de lo previsto en el segundo párrafo de esta fracción:
+
+a) Las Fuerzas Armadas;
+
+b) Las jubilaciones o pensiones que se constituyan a partir de las aportaciones voluntarias a los sistemas de ahorro para el retiro basados en cuentas individuales;
+
+c) Las jubilaciones o pensiones constituidas a partir de aportaciones sindicales en los sistemas de ahorro complementarios, y
+
+d) La pensión no contributiva a que se refiere el artículo 4o. de esta Constitución.
+
+*Párrafo con incisos adicionado DOF 10-04-2026*
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
@@ -5391,6 +5491,10 @@ Los resultados del ejercicio de dichos recursos serán evaluados por las instanc
 Los entes públicos ajustarán sus estructuras orgánicas y ocupacionales de conformidad con los principios de racionalidad y austeridad republicana, eliminando todo tipo de duplicidades funcionales u organizacionales, atendiendo a las necesidades de mejora y modernización de la gestión pública.
 
 *Párrafo adicionado DOF 20-12-2024*
+
+Las remuneraciones de las personas consejeras electorales, las magistradas y magistrados electorales, titulares de las secretarías de órganos administrativos y titulares de áreas ejecutivas y técnicas u homólogos del Instituto Nacional Electoral, los organismos públicos locales electorales y los tribunales electorales de las entidades federativas, no excederán el límite establecido en el artículo 127 de esta Constitución y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
+
+*Párrafo adicionado DOF 23-04-2026*
 
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
@@ -9506,7 +9610,9 @@ Las personas que se encuentren en funciones en los cargos señalados en el párr
 
 El Senado de la República tendrá un plazo de treinta días naturales posteriores a la entrada en vigor del presente Decreto para emitir la convocatoria para integrar los listados de las personas candidatas que participen en la elección extraordinaria para renovar los cargos del Poder Judicial de la Federación, conforme al procedimiento previsto en el artículo 96 de este Decreto, salvo en lo que respecta a las postulaciones que realice el Pleno de la Suprema Corte de Justicia de la Nación conforme a los párrafos segundo y tercero de dicho artículo, que deberá hacerse por mayoría de ocho votos de sus integrantes.
 
-Para el caso de Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito, la elección será escalonada, renovándose la mitad de los cargos correspondientes a cada circuito judicial en la elección extraordinaria del año 2025 y la parte restante en la elección federal ordinaria del año 2027, conforme a lo siguiente:
+Para el caso de Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito, la elección será escalonada, renovándose la mitad de los cargos correspondientes a cada circuito judicial en la elección extraordinaria del año 2025 y la parte restante en la elección federal del año 2028, conforme a lo siguiente:
+
+*Párrafo reformado DOF 02-06-2026*
 
 a) Para seleccionar los cargos a renovar en la elección extraordinaria del año 2025, el Consejo de la Judicatura Federal entregará al Senado de la República un listado con la totalidad de cargos de personas juzgadoras, indicando su circuito judicial, especialización por materia, género, vacancias, renuncias y retiros programados, y la demás información que se le requiera, y
 
@@ -9546,17 +9652,23 @@ Las y los Ministros en funciones cuyos nombramientos concluyan antes de la fecha
 
 El periodo de las Magistradas y Magistrados de Circuito y las Juezas y Jueces de Distrito que resulten electos en la elección extraordinaria que se celebre en el año 2025 conforme al artículo Segundo transitorio del presente Decreto durará ocho años, por lo que vencerá en el año 2033.
 
-**Cuarto.-** Las Magistradas y Magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación que estén en funciones a la entrada en vigor del presente Decreto permanecerán en su encargo hasta el año 2027, concluyendo en la fecha que tomen protesta las personas servidoras públicas que emanen de la elección federal ordinaria que se celebre para tal efecto.
+**Cuarto.-** Las Magistradas y Magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación que estén en funciones a la entrada en vigor del presente Decreto permanecerán en su encargo hasta el año 2028, concluyendo en la fecha que tomen protesta las personas servidoras públicas que emanen de la elección federal que se celebre para tal efecto.
+
+*Párrafo reformado DOF 02-06-2026*
 
 Las magistraturas electorales de la Sala Superior que no hayan sido designadas por el Senado de la República a la entrada en vigor del presente Decreto se renovarán en la elección extraordinaria del año 2025.
 
-El periodo de las Magistradas y Magistrados electorales de la Sala Superior que sean electos en la elección extraordinaria del año 2025 durará ocho años, por lo que vencerá en el año 2033; mientras que el periodo de las Magistradas y Magistrados electorales de la Sala Superior que resulten electos en la elección federal ordinaria del año 2027 durará seis años, por lo que vencerá el año 2033.
+El periodo de las Magistradas y Magistrados electorales de la Sala Superior que sean electos en la elección extraordinaria del año 2025 durará ocho años, por lo que vencerá en el año 2033; mientras que el periodo de las Magistradas y Magistrados electorales de la Sala Superior que resulten electos en la elección federal del año 2028 durará cinco años, por lo que vencerá el año 2033.
+
+*Párrafo reformado DOF 02-06-2026*
 
 El periodo de las Magistradas y Magistrados electorales de salas regionales que resulten electos en la elección extraordinaria del año 2025 durará ocho años, y vencerá el año 2033.
 
 La ley preverá la extinción de la sala regional especializada del Tribunal Electoral del Poder Judicial de la Federación a más tardar el 1o. de septiembre de 2025, por lo que sus magistraturas no se renovarán en la elección extraordinaria del año 2025.
 
-Las Magistradas y Magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación que se encuentren en funciones a la entrada en vigor del presente Decreto no podrán ser elegibles para un nuevo periodo en la elección federal ordinaria que se celebre en 2027.
+Las Magistradas y Magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación que se encuentren en funciones a la entrada en vigor del presente Decreto podrán ser elegibles para un nuevo periodo en la elección federal que se celebre en 2028.
+
+*Párrafo reformado DOF 02-06-2026*
 
 **Quinto.-** El Consejo de la Judicatura Federal continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, con excepción de la Suprema Corte de Justicia de la Nación, hasta en tanto sean creados el Tribunal de Disciplina Judicial y el órgano de administración judicial.
 
@@ -9584,7 +9696,9 @@ Lo anterior no será aplicable a las y los Ministros en funciones a la entrada e
 
 **Octavo.-** El Congreso de la Unión tendrá un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a las leyes federales que correspondan para dar cumplimiento al mismo. Entre tanto, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga al presente Decreto.
 
-Las entidades federativas tendrán un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a sus constituciones locales. La renovación de la totalidad de cargos de elección de los Poderes Judiciales locales deberá concluir en la elección federal ordinaria del año 2027, en los términos y modalidades que estos determinen; en cualquier caso, las elecciones locales deberán coincidir con la fecha de la elección extraordinaria del año 2025 o de la elección ordinaria del año 2027.
+Las entidades federativas tendrán un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a sus constituciones locales. La renovación de la totalidad de cargos de elección de los Poderes Judiciales locales deberá concluir en la elección federal del año 2028, en los términos y modalidades que estos determinen; en cualquier caso, las elecciones locales deberán coincidir con la fecha de la elección extraordinaria del año 2025 o de la elección del año 2028.
+
+*Párrafo reformado DOF 02-06-2026*
 
 Para efectos de la organización del proceso electoral extraordinario del año 2025, no será aplicable lo dispuesto en el penúltimo párrafo de la fracción II del artículo 105 de esta Constitución, por lo que el Instituto Nacional Electoral observará las leyes que se emitan en los términos del presente Decreto.
 
@@ -10114,3 +10228,163 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 03 de marzo de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. Mariela Gutiérrez Escalante, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de marzo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez. Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforma y adiciona el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, en materia de límite a las jubilaciones y pensiones de las Entidades Públicas.
+
+*Publicado en el Diario Oficial de la Federación el 10 de abril de 2026*
+
+**Artículo Único.-** Se reforman del párrafo segundo, las fracciones II y III, y se adicionan a la fracción IV del mismo párrafo segundo, los párrafos segundo, tercero y cuarto del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+…….
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** A partir de la entrada en vigor del presente Decreto todas las jubilaciones o pensiones que no estén excluidas conforme a la fracción IV del artículo 127 constitucional, y que se hayan otorgado con anterioridad a la entrada en vigor del presente Decreto, deberán ajustarse al límite establecido en el párrafo segundo de dicha fracción, incluyendo las que se encuentren vigentes.
+
+Los entes públicos a que se refiere el párrafo segundo, fracción IV, del artículo 127, con las excepciones previstas en dicha fracción, deberán revisar y, en su caso, adecuar los contratos, las disposiciones, las condiciones generales de trabajo y demás instrumentos jurídicos que prevean planes de pensiones o jubilaciones, para que se ajusten a lo previsto en el presente Decreto.
+
+**Tercero.-** Los haberes de retiro concedidos conforme al marco constitucional vigente con anterioridad a la entrada en vigor del presente Decreto se conservarán en los términos en que fueron reconocidos.
+
+**Cuarto.-** Las aportaciones que realice el Estado a cuentas individuales o planes complementarios de pensiones o jubilaciones de las personas servidoras públicas de las entidades paraestatales del Gobierno Federal, de las entidades federativas y de los municipios, a partir de la entrada en vigor del presente Decreto, se sujetarán al límite previsto en el párrafo segundo de la fracción IV del artículo 127 de la Constitución.
+
+**Quinto.-** En un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor, el Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán revisar y, en su caso, adecuar el marco jurídico aplicable, a fin de hacerlo congruente con lo dispuesto en el presente Decreto.
+
+**Sexto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo a los presupuestos aprobados a los ejecutores de gastos que intervienen en su aplicación, por lo que no se autorizarán ampliaciones de recursos a dichos ejecutores de gasto en el presente ejercicio fiscal ni subsecuentes y tampoco podrán incrementar su presupuesto regularizable en servicios personales ni de gasto de operación.
+
+Ciudad de México, a 8 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Sen. Mariela Gutiérrez Escalante, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de abril de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos.
+
+*Publicado en el Diario Oficial de la Federación el 23 de abril de 2026*
+
+**Artículo Único.-** Se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de su competencia, armonizarán su marco jurídico para adecuarlo al contenido del presente Decreto a más tardar el 30 de mayo de 2026.
+
+Entre tanto, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga al presente Decreto.
+
+**Tercero.-** A partir del ejercicio fiscal inmediato siguiente a la entrada en vigor del presente Decreto, el presupuesto anual autorizado para el Senado de la República deberá ajustarse de manera progresiva durante los cuatro ejercicios fiscales subsecuentes, con el objeto de alcanzar, al término de dicho periodo, una reducción acumulada equivalente al quince por ciento en términos reales, respecto del presupuesto base vigente para el ejercicio fiscal 2026. La reducción no podrá afectar los derechos laborales de las personas trabajadoras, conforme a las Condiciones Generales de Trabajo aplicables.
+
+**Cuarto.-** El Instituto Nacional Electoral, los organismos públicos locales electorales y los tribunales electorales de las entidades federativas revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el presente Decreto.
+
+La Cámara de Diputados y las legislaturas de las entidades federativas, en el ámbito de su competencia, garantizarán que los presupuestos de los entes públicos y autoridades electorales federales y de las entidades federativas se ajusten a lo previsto en los artículos 116 y 134 constitucionales, por lo que realizarán en cada ejercicio fiscal los ajustes necesarios a los presupuestos que integren, previo a su aprobación.
+
+**Quinto.-** Las legislaturas de las entidades federativas preverán los ajustes necesarios a sus presupuestos con el objeto de que las reducciones que, en su caso, se realicen en cumplimiento a lo previsto en el artículo 116 Constitucional, surtan efectos a partir del inicio de la legislatura subsecuente en la entidad federativa que corresponda.
+
+La Cámara de Diputados, en el Presupuesto de Egresos que corresponda, hará los ajustes necesarios para dar cumplimiento al contenido de este Decreto, por lo que se refiere a congresos de las entidades federativas y ayuntamientos.
+
+**Sexto.-** La integración de los Ayuntamientos establecida en lo dispuesto en el artículo 115 constitucional surtirá efectos a partir del periodo administrativo municipal subsecuente en la entidad federativa que corresponda.
+
+Los Ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número de regidurías menor a quince, conservarán su integración actual. Solo en los casos que se requiera alguna modificación de la integración por criterios de variación poblacional u otros requisitos, se realizará conforme a lo establecido en las constituciones y leyes de las entidades federativas.
+
+**Séptimo.-** Los recursos públicos que resulten como economías o ahorros en los presupuestos anuales de las entidades federativas derivados de las reducciones que, en su caso, se realicen a los presupuestos de las legislaturas locales y en la integración de los Ayuntamientos conforme a los artículos 115 y 116 constitucionales, quedarán en el patrimonio de la hacienda pública de cada municipio. Las legislaturas de las entidades federativas destinarán estos recursos excedentes a obras de infraestructura pública en beneficio de la población dentro del presupuesto correspondiente, en los términos de la legislación aplicable, garantizando en todo momento los principios de legalidad, honradez, transparencia y austeridad.
+
+**Octavo.-** Las entidades federativas cuyas legislaturas, a la entrada en vigor del presente Decreto, cuenten con un presupuesto anual que represente un porcentaje igual o menor al límite previsto en el artículo 116 de esta Constitución, no podrán autorizar, aprobar o ejercer para sí mismas incrementos presupuestarios reales respecto del monto aprobado para el ejercicio fiscal 2026, ni incrementar dicha proporción respecto del presupuesto de egresos de la entidad federativa correspondiente en los ejercicios fiscales subsecuentes.
+
+El monto del presupuesto anual de los Congresos de las entidades federativas únicamente podrá actualizarse conforme a la inflación anual.
+
+No podrán aprobar ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo que tenga por objeto o efecto incrementar directamente el presupuesto de los Congresos locales por encima del límite previsto en el presente transitorio.
+
+Las constituciones y leyes de las entidades federativas deberán armonizarse con lo dispuesto en este transitorio y establecer los mecanismos institucionales de control, disciplina presupuestaria y responsabilidad administrativa necesarios para asegurar su cumplimiento.
+
+Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido en el presente transitorio será nulo de pleno derecho.
+
+**Noveno.-** Se derogan las disposiciones que se opongan al presente Decreto.
+
+Ciudad de México, a 14 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 22 de abril de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de feminicidio.
+
+*Publicado en el Diario Oficial de la Federación el 6 de mayo de 2026*
+
+**Artículo Único.-** Se reforma el párrafo primero del inciso a) del párrafo primero de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión deberá expedir la legislación en materia de feminicidio referida en el artículo 73, fracción XXI, inciso a), dentro de los 180 días naturales siguientes a la entrada en vigor del mismo.
+
+**Tercero.-** Las disposiciones legales de la Federación y de las entidades federativas en materia del delito de feminicidio continuarán vigentes hasta la entrada en vigor de la ley general de la materia que emita el Congreso de la Unión. En el régimen transitorio de dicha ley se establecerán los plazos y condiciones para realizar las adecuaciones normativas correspondientes.
+
+Ciudad de México, a 28 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 04 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma al Poder Judicial.
+
+*Publicado en el Diario Oficial de la Federación el 2 de junio de 2026*
+
+**Artículo Primero.-** Se reforman los artículos 35, fracción IX, párrafo segundo, numeral 3o.; 94, párrafos tercero, cuarto y quinto; 96, párrafo primero, fracciones I, II, incisos b) y c), III, párrafo primero, y IV, y párrafos segundo y tercero; 98, párrafos primero y tercero; 100, párrafos noveno y décimo; 116, párrafo segundo, fracción III, párrafo cuarto, y 122, Apartado A, fracción IV, párrafo primero, y se adicionan a los artículos 96, los párrafos noveno, décimo y décimo primero; 98, el párrafo cuarto, y 122, Apartado A, fracción IV, el párrafo segundo y, se recorren los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+…….
+
+**Artículo Segundo.-** Se reforman los transitorios Segundo, párrafo cuarto; Cuarto, párrafos primero, tercero y sexto, y Octavo, párrafo segundo del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial”, publicado el 15 de septiembre de 2024 en el Diario Oficial de la Federación, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Los cargos de personas juzgadoras de los Poderes Judiciales federal y locales que no hayan sido objeto de renovación en la elección judicial del año 2025, así como las vacantes correspondientes, se elegirán sin excepción en las elecciones judiciales federal y locales del año 2028, conforme a lo previsto en este Decreto.
+
+Las personas juzgadoras que concluirían su encargo en el año de la elección ordinaria del año 2027 permanecerán en funciones hasta el año 2028, concluyendo su encargo en la fecha en que tomen protesta las personas que emanen de la elección judicial respectiva.
+
+Las Magistradas y Magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación que se encuentren en funciones a la entrada en vigor del presente Decreto y cuyo encargo concluiría en el año 2027, permanecerán en funciones hasta el año 2028, concluyendo en la fecha que tomen protesta las personas servidoras públicas que emanen de la elección respectiva.
+
+**Tercero.** La jornada electoral de las elecciones judiciales federal y locales se celebrarán de forma coincidente el primer domingo de junio del año 2028. Podrán participar como observadoras las personas o agrupaciones acreditadas por el Instituto Nacional Electoral, con excepción de representantes de los partidos políticos.
+
+El Instituto efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos. También declarará la validez de la elección que corresponda y enviará sus resultados a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, que resolverá todas las impugnaciones en los términos y plazos previstos en el presente Decreto.
+
+Las personas que resulten electas tomarán protesta de su encargo ante el Senado de la República el primero de septiembre del año 2028. El órgano de administración judicial adscribirá a las personas electas al órgano judicial que corresponda a más tardar el quince de septiembre de dicha anualidad.
+
+**Cuarto.** El Congreso de la Unión realizará las adecuaciones necesarias al marco jurídico conforme al presente Decreto dentro de los noventa días naturales siguientes a su entrada en vigor. Entre tanto, se aplicarán de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se oponga al presente Decreto.
+
+Las Legislaturas de las entidades federativas realizarán las adecuaciones necesarias a sus constituciones para adecuarlas a lo que dispone el presente Decreto dentro de los sesenta días naturales siguientes a su entrada en vigor, y dentro de los noventa días naturales para el caso de sus leyes locales.
+
+**Quinto.** La legislación secundaria regulará la integración, funcionamiento y competencia de las secciones de la Suprema Corte de Justicia de la Nación previstas en el artículo 94 del presente Decreto.
+
+**Sexto.** El Pleno del Tribunal de Disciplina Judicial del Poder Judicial de la Federación deberá emitir su Reglamento Interior dentro de un plazo no mayor a treinta días naturales siguientes a la entrada en vigor del presente Decreto, el cual regulará sus competencias, atribuciones, operación, periodicidad de sus sesiones, integración y facultades de sus comisiones y órganos auxiliares, incluyendo los procedimientos de responsabilidad administrativa, la evaluación del desempeño de la función judicial y los conflictos laborales.
+
+**Séptimo.** El periodo de las Magistradas y Magistrados de Circuito y las Juezas y Jueces de Distrito que resulten electos en la elección que se celebre en el año 2028 conforme al presente Decreto durará ocho años, por lo que vencerá en el año 2036.
+
+**Octavo.** Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+Ciudad de México, a 01 de junio de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 02 de junio de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se adiciona un inciso a la base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, para introducir una nueva causal de nulidad de elecciones por intervención extranjera.
+
+*Publicado en el Diario Oficial de la Federación el 2 de junio de 2026*
+
+**Artículo Único.-** Se adiciona un inciso d) al párrafo tercero de la base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de su competencia, deberán armonizar el marco normativo para adecuarlo al contenido de este Decreto, antes del 5 de junio de 2026.
+
+**Tercero.-** El Instituto Nacional Electoral, los organismos públicos locales electorales, el Tribunal Electoral del Poder Judicial de la Federación y los tribunales electorales de las entidades federativas revisarán y adecuarán sus disposiciones normativas y administrativas para garantizar el cumplimiento de lo previsto en el presente Decreto.
+
+Ciudad de México, a 01 de junio de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 02 de junio de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
