@@ -3,12 +3,11 @@ title: Constitución Política de los Estados Unidos Mexicanos
 abbreviation: CPEUM
 slug: cpeum
 published_dof: 1917-02-05
-last_reform_dof: 2026-06-02
+last_reform_dof: 2026-10-07
 articles: 136
 source: https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-archived: https://web.archive.org/web/20260605173913/https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc
-source_sha256: b976c0d9705f274511325ea18c1719ec60b9112da3a240fd2f694f88485a219f
-retrieved: 2026-06-05
+source_sha256: 59575113f930213aa9060a868232e0aabfb024e105529d2998ce377c1bc317aa
+retrieved: 2026-11-17
 reforms: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
 ---
 
@@ -18,7 +17,7 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 02-06-2026
+Última reforma publicada DOF 07-10-2026
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -3066,11 +3065,17 @@ La elección del presidente será directa y en los términos que disponga la ley
 
 ##### Artículo 82.
 
-Para ser Presidente se requiere:
+Para ser Presidente o Presidenta se requiere:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, hijo de padre o madre mexicanos y haber residido en el país al menos durante veinte años.
+*Párrafo reformado DOF 07-10-2026*
 
-*Fracción reformada DOF 01-07-1994*
+I. Ser ciudadano o ciudadana mexicana por nacimiento, en pleno goce de sus derechos, hijo o hija de padre o madre mexicanos; no tener ni adquirir otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley, y haber residido en el país al menos durante veinte años.
+
+Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana.
+
+Quedan comprendidos en esta prohibición el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución.
+
+*Fracción reformada DOF 01-07-1994, 07-10-2026*
 
 II. Tener 35 años cumplidos al tiempo de la elección;
 
@@ -4512,9 +4517,13 @@ c) La persona que tenga o haya tenido en los últimos tres años anteriores al d
 
 *Inciso adicionado DOF 01-04-2025*
 
-Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa.
+Sólo podrá ser gobernador o gobernadora constitucional de un Estado un ciudadano o ciudadana mexicana por nacimiento que no tenga ni adquiera otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley, así como ser nativo o nativa de dicho Estado, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa.
 
-*Párrafo reformado DOF 26-09-2008*
+*Párrafo reformado DOF 26-09-2008, 07-10-2026*
+
+Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana. Quedan comprendidos en esta prohibición, entre otros supuestos, el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución, y de las constituciones de las entidades federativas.
+
+*Párrafo adicionado DOF 07-10-2026*
 
 II. El número de representantes en las legislaturas de los Estados será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a 400 mil habitantes; de nueve, en aquellos cuya población exceda de este número y no llegue a 800 mil habitantes, y de 11 en los Estados cuya población sea superior a esta última cifra.
 
@@ -4834,7 +4843,13 @@ III. La persona titular del Poder Ejecutivo se denominará Jefa o Jefe de Gobier
 
 *Párrafo reformado DOF 20-12-2019, 01-04-2025*
 
-La Constitución Política de la Ciudad de México establecerá las facultades del Jefe de Gobierno y los requisitos que deberá reunir quien aspire a ocupar dicho encargo.
+La Constitución Política de la Ciudad de México establecerá las facultades del Jefe o Jefa de Gobierno y los requisitos que deberá reunir quien aspire a ocupar dicho encargo. En todo caso se requerirá ser ciudadana o ciudadano mexicano por nacimiento y no tener ni adquirir otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley.
+
+*Párrafo reformado DOF 07-10-2026*
+
+Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana. Quedan comprendidos en esta prohibición, entre otros supuestos, el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución, y de la Constitución Política de la Ciudad de México.
+
+*Párrafo adicionado DOF 07-10-2026*
 
 La Constitución Política de la Ciudad de México establecerá las normas relativas al proceso para la revocación de mandato del Jefe de Gobierno.
 
@@ -10388,3 +10403,29 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Ciudad de México, a 01 de junio de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 02 de junio de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### DECRETO por el que se reforman y adicionan los artículos 82, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de nacionalidad única para el ejercicio de la titularidad de los Poderes Ejecutivos Federal y Locales.
+
+*Publicado en el Diario Oficial de la Federación el 7 de octubre de 2026*
+
+**Artículo Único.-** Se reforman los artículos 82, párrafo primero y su fracción I, párrafo primero; 116, párrafo segundo, fracción I, párrafo quinto, y 122, Apartado A, fracción III, párrafo segundo, y se adicionan a los artículos 82, fracción I, los párrafos segundo y tercero; 116, párrafo segundo, fracción I, un párrafo sexto; 122, Apartado A, fracción III, un párrafo tercero, y se recorre el subsecuente en su orden, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……..
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.** Lo dispuesto en este Decreto será aplicable a partir del proceso electoral correspondiente al año 2028.
+
+**Tercero.** Lo dispuesto en este Decreto no será aplicable a quienes se encuentren en ejercicio de los cargos a que este se refiere, a la fecha de su entrada en vigor.
+
+**Cuarto.** El Congreso de la Unión realizará las adecuaciones a la Ley de Nacionalidad y a la legislación electoral dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+**Quinto.** Los certificados de nacionalidad mexicana expedidos con anterioridad a la entrada en vigor del presente Decreto conservarán su validez y surtirán plenos efectos respecto de los cargos y funciones distintos de los señalados en los artículos 82, 116, fracción I, y 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos.
+
+**Sexto.** Las entidades federativas armonizarán sus constituciones y su legislación electoral con lo dispuesto en el presente Decreto dentro de los noventa días naturales siguientes a su entrada en vigor. En tanto, lo dispuesto en este Decreto será de aplicación directa.
+
+Ciudad de México, a 06 de octubre de 2026.- Sen. Higinio Martínez Miranda, Presidente.- Dip. Raúl Bolaños-Cacho Cué, Presidente.- Sen. Claudia Tello Espinosa, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 07 de octubre de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
