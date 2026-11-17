@@ -14,6 +14,13 @@
   <img alt="Python 3.12+" src="https://img.shields.io/badge/python-3.12%2B-ffb648?labelColor=0a0c10">
 </p>
 
+<!-- demo:start -->
+<p align="center">
+  <img src="assets/demo.gif" alt="Animación hecha con este repo: git log --reverse de leyes/cpeum.md recorre las 44 versiones de la Constitución de 2006 a 2026 y luego git show 8f63595 muestra la reforma DOF 03-03-2026 al artículo 123, apartado A, fracción IV: la jornada de cuarenta horas." width="100%">
+</p>
+<p align="center"><sub>Historia real de este repo, sin maquetas. <a href="assets/demo.mp4">Versión MP4</a>.</sub></p>
+<!-- demo:end -->
+
 # leyes-mx
 
 **El derecho federal mexicano, como código.** Cada ley federal es un archivo

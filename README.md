@@ -14,6 +14,13 @@
   <img alt="Python 3.12+" src="https://img.shields.io/badge/python-3.12%2B-ffb648?labelColor=0a0c10">
 </p>
 
+<!-- demo:start -->
+<p align="center">
+  <img src="assets/demo.gif" alt="Animation built from this repo: git log --reverse of leyes/cpeum.md lists the Constitution's 44 versions from 2006 to 2026, then git show 8f63595 shows the DOF 03-03-2026 reform of article 123, section A, fraction IV: the forty-hour work week." width="100%">
+</p>
+<p align="center"><sub>Real history from this repo, no mockups. <a href="assets/demo.mp4">MP4 version</a>.</sub></p>
+<!-- demo:end -->
+
 # leyes-mx
 
 **Mexican federal law, as code.** Every federal law is a clean Markdown file in
