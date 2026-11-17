@@ -11,7 +11,7 @@ from pathlib import Path
 
 from .catalog import Law, load_catalog, resolve
 from .doc import read_blocks
-from .gitutil import commit_as_bot, git, reform_message
+from .gitutil import commit_as_bot, git, header_notes, reform_message
 from .net import PoliteClient
 from .parse import ParsedLaw, Validation, parse_law, validate_articles
 from .render import SourceInfo, read_front_matter, render_law, render_reforms
@@ -231,6 +231,7 @@ def update(
                 first=is_new,
                 original=parsed.last_reform is None,
                 source_url=law.index.doc_url,
+                notes=header_notes(parsed.header, when),
             )
             paths = [str(path.relative_to(ws.root))]
             if history is not None:

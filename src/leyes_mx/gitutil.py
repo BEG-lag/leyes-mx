@@ -9,6 +9,7 @@ follow the legal timeline without attributing backdated activity to anyone.
 from __future__ import annotations
 
 import os
+import re
 import subprocess
 from datetime import date, datetime
 from pathlib import Path
@@ -63,6 +64,12 @@ def commit_as_bot(root: Path, paths: list[str], message: str, when: date | None)
     return git(root, "rev-parse", "HEAD").strip()
 
 
+def header_notes(header: list[str], day: date) -> list[str]:
+    """Header lines dated ``day`` other than the plain "Última reforma" line."""
+    stamp = day.strftime("%d-%m-%Y")
+    return [line for line in header if stamp in line and not re.match(r"^[uú]ltima reforma", line, re.IGNORECASE)]
+
+
 def _dmy(day: date) -> str:
     return day.strftime("%d-%m-%Y")
 
@@ -76,8 +83,15 @@ def reform_message(
     original: bool = False,
     source_url: str | None = None,
     archived_url: str | None = None,
+    notes: list[str] | None = None,
 ) -> str:
-    """Commit message for one version of a law, citing the decrees it reflects."""
+    """Commit message for one version of a law, citing the decrees it reflects.
+
+    ``notes`` are header lines of the consolidated text dated on ``day`` that
+    are not reform decrees, e.g. a declaration of invalidity by the SCJN or an
+    update of amounts; they are cited when no decree matches the date.
+    """
+    notes = notes or []
     if original:
         subject = f"{abbreviation}: publicación original DOF {_dmy(day)}"
     elif first:
@@ -88,6 +102,8 @@ def reform_message(
             subject = f"{abbreviation}: {len(decrees)} decretos de reforma, DOF {_dmy(day)}"
         else:
             subject = f"{abbreviation}: reformas DOF {_dmy(span[0])} a {_dmy(span[-1])}"
+    elif not decrees:
+        subject = f"{abbreviation}: actualización DOF {_dmy(day)}"
     else:
         subject = f"{abbreviation}: reforma DOF {_dmy(day)}"
 
@@ -105,9 +121,12 @@ def reform_message(
             if d.pdf_url:
                 line += f"\n  {d.pdf_url}"
             body.append(line)
-        if not decrees:
+        if not decrees and notes:
+            body.extend(f"- {note}" for note in notes)
+        elif not decrees:
             body.append(
-                "La Cámara de Diputados actualizó el texto consolidado sin un decreto listado en su página de reformas para esta fecha."
+                "La Cámara de Diputados actualizó el texto consolidado sin un decreto "
+                "listado en su página de reformas para esta fecha."
             )
     if source_url:
         body.append(f"Texto consolidado: {source_url}")

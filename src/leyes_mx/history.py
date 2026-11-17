@@ -26,7 +26,7 @@ from pathlib import Path
 
 from .build import Workspace, convert, fetch_doc, fetch_reforms, sha256
 from .catalog import Law
-from .gitutil import BOT_EMAIL, BOT_NAME, bot_env, git, reform_message
+from .gitutil import BOT_EMAIL, BOT_NAME, bot_env, git, header_notes, reform_message
 from .net import PoliteClient
 from .render import SourceInfo, render_law
 from .sources import ReformHistory, decode_html
@@ -298,6 +298,7 @@ def plan(laws: list[Law], versions: dict[str, list[Version]], reforms: dict[str,
                 original=previous is None and version.day == law.published,
                 source_url=version.source.url,
                 archived_url=version.source.archived_url,
+                notes=header_notes(parsed.header, version.day),
             )
             commits.append(PlannedCommit(law, version, message, text))
             previous, last_text = version, text

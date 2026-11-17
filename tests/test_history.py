@@ -149,3 +149,16 @@ def test_bisection_finds_every_version_with_fewer_downloads():
     bisect_versions(list(range(len(days))), day_of)
     assert {days[i] for i in looked} == set(days)
     assert len(set(looked)) < len(days) // 2
+
+
+def test_header_notes_are_cited_when_no_decree_matches():
+    from leyes_mx.gitutil import header_notes
+
+    header = [
+        "Última reforma publicada DOF 18-03-2025",
+        "Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 28-12-2025",
+    ]
+    notes = header_notes(header, date(2025, 12, 28))
+    assert notes == ["Cantidades actualizadas por Resolución Miscelánea Fiscal DOF 28-12-2025"]
+    msg = reform_message("LIH", date(2025, 12, 28), [], notes=notes)
+    assert msg.startswith("LIH: actualización DOF 28-12-2025\n\n- Cantidades actualizadas")
