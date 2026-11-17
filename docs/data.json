@@ -1,0 +1,1160 @@
+{
+ "generated": "2026-10-07",
+ "groups": {
+  "constitucion": "Constitución",
+  "energia": "Energía (reforma de 2025)",
+  "recursos": "Minería, agua, tierra y ambiente",
+  "empresa": "Empresa, comercio y competencia",
+  "intangibles": "Propiedad intelectual y datos personales",
+  "general": "Trabajo, civil, amparo y procedimiento",
+  "publico": "Administración pública, fiscal y penal"
+ },
+ "laws": [
+  {
+   "slug": "cpeum",
+   "group": "constitucion",
+   "group_name": "Constitución",
+   "title": "Constitución Política de los Estados Unidos Mexicanos",
+   "abbreviation": "CPEUM",
+   "published": "1917-02-05",
+   "last_reform": "2026-10-07",
+   "articles": 136,
+   "decrees": 285,
+   "versions": 44,
+   "history_since": "2006-04-07",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/cpeum.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/cpeum.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc"
+  },
+  {
+   "slug": "lse",
+   "group": "energia",
+   "group_name": "Energía (reforma de 2025)",
+   "title": "Ley del Sector Eléctrico",
+   "abbreviation": "LSE",
+   "published": "2025-03-18",
+   "last_reform": "",
+   "articles": 188,
+   "decrees": 0,
+   "versions": 1,
+   "history_since": "2025-03-18",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lse.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lse.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LSE.doc"
+  },
+  {
+   "slug": "lsh",
+   "group": "energia",
+   "group_name": "Energía (reforma de 2025)",
+   "title": "Ley del Sector Hidrocarburos",
+   "abbreviation": "LSH",
+   "published": "2025-03-18",
+   "last_reform": "",
+   "articles": 166,
+   "decrees": 0,
+   "versions": 1,
+   "history_since": "2025-03-18",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lsh.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lsh.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LSH.doc"
+  },
+  {
+   "slug": "lepecfe",
+   "group": "energia",
+   "group_name": "Energía (reforma de 2025)",
+   "title": "Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad",
+   "abbreviation": "LEPECFE",
+   "published": "2025-03-18",
+   "last_reform": "",
+   "articles": 131,
+   "decrees": 0,
+   "versions": 1,
+   "history_since": "2025-03-18",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lepecfe.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lepecfe.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LEPECFE.doc"
+  },
+  {
+   "slug": "lepepm",
+   "group": "energia",
+   "group_name": "Energía (reforma de 2025)",
+   "title": "Ley de la Empresa Pública del Estado, Petróleos Mexicanos",
+   "abbreviation": "LEPEPM",
+   "published": "2025-03-18",
+   "last_reform": "",
+   "articles": 126,
+   "decrees": 0,
+   "versions": 1,
+   "history_since": "2025-03-18",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lepepm.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lepepm.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LEPEPM.doc"
+  },
+  {
+   "slug": "lcne",
+   "group": "energia",
+   "group_name": "Energía (reforma de 2025)",
+   "title": "Ley de la Comisión Nacional de Energía",
+   "abbreviation": "LCNE",
+   "published": "2025-03-18",
+   "last_reform": "2025-12-26",
+   "articles": 28,
+   "decrees": 0,
+   "versions": 1,
+   "history_since": "2025-12-26",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lcne.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lcne.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LCNE.doc"
+  },
+  {
+   "slug": "lpte",
+   "group": "energia",
+   "group_name": "Energía (reforma de 2025)",
+   "title": "Ley de Planeación y Transición Energética",
+   "abbreviation": "LPTE",
+   "published": "2025-03-18",
+   "last_reform": "",
+   "articles": 100,
+   "decrees": 0,
+   "versions": 1,
+   "history_since": "2025-03-18",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lpte.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lpte.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LPTE.doc"
+  },
+  {
+   "slug": "lbio",
+   "group": "energia",
+   "group_name": "Energía (reforma de 2025)",
+   "title": "Ley de Biocombustibles",
+   "abbreviation": "LBio",
+   "published": "2025-03-18",
+   "last_reform": "",
+   "articles": 46,
+   "decrees": 0,
+   "versions": 1,
+   "history_since": "2025-03-18",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lbio.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lbio.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LBio.doc"
+  },
+  {
+   "slug": "lgeo",
+   "group": "energia",
+   "group_name": "Energía (reforma de 2025)",
+   "title": "Ley de Geotermia",
+   "abbreviation": "LGeo",
+   "published": "2025-03-18",
+   "last_reform": "",
+   "articles": 66,
+   "decrees": 0,
+   "versions": 1,
+   "history_since": "2025-03-18",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lgeo.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lgeo.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGeo.doc"
+  },
+  {
+   "slug": "lih",
+   "group": "energia",
+   "group_name": "Energía (reforma de 2025)",
+   "title": "Ley de Ingresos sobre Hidrocarburos",
+   "abbreviation": "LIH",
+   "published": "2014-08-11",
+   "last_reform": "2025-12-28",
+   "articles": 64,
+   "decrees": 1,
+   "versions": 10,
+   "history_since": "2014-08-11",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lih.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lih.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc"
+  },
+  {
+   "slug": "lansi",
+   "group": "energia",
+   "group_name": "Energía (reforma de 2025)",
+   "title": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
+   "abbreviation": "LANSI",
+   "published": "2014-08-11",
+   "last_reform": "2022-05-11",
+   "articles": 38,
+   "decrees": 0,
+   "versions": 3,
+   "history_since": "2014-08-11",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lansi.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lansi.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LANSI.doc"
+  },
+  {
+   "slug": "lmin",
+   "group": "recursos",
+   "group_name": "Minería, agua, tierra y ambiente",
+   "title": "Ley de Minería",
+   "abbreviation": "LMin",
+   "published": "1992-06-26",
+   "last_reform": "2023-05-08",
+   "articles": 79,
+   "decrees": 2,
+   "versions": 4,
+   "history_since": "2006-06-26",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lmin.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lmin.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LMin.doc"
+  },
+  {
+   "slug": "lan",
+   "group": "recursos",
+   "group_name": "Minería, agua, tierra y ambiente",
+   "title": "Ley de Aguas Nacionales",
+   "abbreviation": "LAN",
+   "published": "1992-12-01",
+   "last_reform": "2025-12-11",
+   "articles": 215,
+   "decrees": 5,
+   "versions": 11,
+   "history_since": "2004-04-29",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lan.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lan.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc"
+  },
+  {
+   "slug": "lgag",
+   "group": "recursos",
+   "group_name": "Minería, agua, tierra y ambiente",
+   "title": "Ley General de Aguas",
+   "abbreviation": "LGAg",
+   "published": "2025-12-11",
+   "last_reform": "",
+   "articles": 45,
+   "decrees": 0,
+   "versions": 1,
+   "history_since": "2025-12-11",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lgag.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lgag.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGAg.doc"
+  },
+  {
+   "slug": "lgeepa",
+   "group": "recursos",
+   "group_name": "Minería, agua, tierra y ambiente",
+   "title": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
+   "abbreviation": "LGEEPA",
+   "published": "1988-01-28",
+   "last_reform": "2026-01-19",
+   "articles": 270,
+   "decrees": 33,
+   "versions": 21,
+   "history_since": "2006-05-23",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lgeepa.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lgeepa.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGEEPA.doc"
+  },
+  {
+   "slug": "lagra",
+   "group": "recursos",
+   "group_name": "Minería, agua, tierra y ambiente",
+   "title": "Ley Agraria",
+   "abbreviation": "LAgra",
+   "published": "1992-02-26",
+   "last_reform": "2025-11-14",
+   "articles": 201,
+   "decrees": 5,
+   "versions": 10,
+   "history_since": "1993-07-09",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lagra.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lagra.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc"
+  },
+  {
+   "slug": "ccom",
+   "group": "empresa",
+   "group_name": "Empresa, comercio y competencia",
+   "title": "Código de Comercio",
+   "abbreviation": "CCom",
+   "published": "1889-10-07",
+   "last_reform": "2026-02-18",
+   "articles": 1641,
+   "decrees": 49,
+   "versions": 20,
+   "history_since": "2006-06-06",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/ccom.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/ccom.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CCom.doc"
+  },
+  {
+   "slug": "lgsm",
+   "group": "empresa",
+   "group_name": "Empresa, comercio y competencia",
+   "title": "Ley General de Sociedades Mercantiles",
+   "abbreviation": "LGSM",
+   "published": "1934-08-04",
+   "last_reform": "2025-12-26",
+   "articles": 277,
+   "decrees": 12,
+   "versions": 10,
+   "history_since": "2006-07-28",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lgsm.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lgsm.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGSM.doc"
+  },
+  {
+   "slug": "lgtoc",
+   "group": "empresa",
+   "group_name": "Empresa, comercio y competencia",
+   "title": "Ley General de Títulos y Operaciones de Crédito",
+   "abbreviation": "LGTOC",
+   "published": "1932-08-27",
+   "last_reform": "2024-03-26",
+   "articles": 463,
+   "decrees": 21,
+   "versions": 8,
+   "history_since": "2006-07-18",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lgtoc.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lgtoc.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGTOC.doc"
+  },
+  {
+   "slug": "lie",
+   "group": "empresa",
+   "group_name": "Empresa, comercio y competencia",
+   "title": "Ley de Inversión Extranjera",
+   "abbreviation": "LIE",
+   "published": "1993-12-27",
+   "last_reform": "2024-05-27",
+   "articles": 42,
+   "decrees": 8,
+   "versions": 10,
+   "history_since": "2006-07-18",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lie.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lie.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIE.doc"
+  },
+  {
+   "slug": "lfce",
+   "group": "empresa",
+   "group_name": "Empresa, comercio y competencia",
+   "title": "Ley Federal de Competencia Económica",
+   "abbreviation": "LFCE",
+   "published": "2014-05-23",
+   "last_reform": "2025-11-14",
+   "articles": 153,
+   "decrees": 1,
+   "versions": 4,
+   "history_since": "2014-05-23",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lfce.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lfce.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFCE.doc"
+  },
+  {
+   "slug": "lfpc",
+   "group": "empresa",
+   "group_name": "Empresa, comercio y competencia",
+   "title": "Ley Federal de Protección al Consumidor",
+   "abbreviation": "LFPC",
+   "published": "1992-12-24",
+   "last_reform": "2025-12-23",
+   "articles": 190,
+   "decrees": 24,
+   "versions": 27,
+   "history_since": "2006-06-06",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lfpc.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lfpc.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPC.doc"
+  },
+  {
+   "slug": "lfda",
+   "group": "intangibles",
+   "group_name": "Propiedad intelectual y datos personales",
+   "title": "Ley Federal del Derecho de Autor",
+   "abbreviation": "LFDA",
+   "published": "1996-12-24",
+   "last_reform": "2026-05-14",
+   "articles": 259,
+   "decrees": 6,
+   "versions": 10,
+   "history_since": "2003-07-23",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lfda.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lfda.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFDA.doc"
+  },
+  {
+   "slug": "lfppi",
+   "group": "intangibles",
+   "group_name": "Propiedad intelectual y datos personales",
+   "title": "Ley Federal de Protección a la Propiedad Industrial",
+   "abbreviation": "LFPPI",
+   "published": "2020-07-01",
+   "last_reform": "2026-04-03",
+   "articles": 421,
+   "decrees": 2,
+   "versions": 2,
+   "history_since": "2020-07-01",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lfppi.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lfppi.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPPI.doc"
+  },
+  {
+   "slug": "lfpdppp",
+   "group": "intangibles",
+   "group_name": "Propiedad intelectual y datos personales",
+   "title": "Ley Federal de Protección de Datos Personales en Posesión de los Particulares",
+   "abbreviation": "LFPDPPP",
+   "published": "2025-03-20",
+   "last_reform": "2025-11-14",
+   "articles": 64,
+   "decrees": 0,
+   "versions": 2,
+   "history_since": "2025-03-20",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lfpdppp.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lfpdppp.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPDPPP.doc"
+  },
+  {
+   "slug": "lft",
+   "group": "general",
+   "group_name": "Trabajo, civil, amparo y procedimiento",
+   "title": "Ley Federal del Trabajo",
+   "abbreviation": "LFT",
+   "published": "1970-04-01",
+   "last_reform": "2026-05-14",
+   "articles": 1266,
+   "decrees": 54,
+   "versions": 14,
+   "history_since": "2006-01-17",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lft.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lft.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFT.doc"
+  },
+  {
+   "slug": "ccf",
+   "group": "general",
+   "group_name": "Trabajo, civil, amparo y procedimiento",
+   "title": "Código Civil Federal",
+   "abbreviation": "CCF",
+   "published": "1928-05-26",
+   "last_reform": "2025-11-14",
+   "articles": 3103,
+   "decrees": 57,
+   "versions": 14,
+   "history_since": "2004-12-31",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/ccf.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/ccf.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CCF.doc"
+  },
+  {
+   "slug": "lamp",
+   "group": "general",
+   "group_name": "Trabajo, civil, amparo y procedimiento",
+   "title": "Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos",
+   "abbreviation": "LAmp",
+   "published": "2013-04-02",
+   "last_reform": "2025-10-16",
+   "articles": 272,
+   "decrees": 2,
+   "versions": 11,
+   "history_since": "2013-04-02",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lamp.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lamp.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc"
+  },
+  {
+   "slug": "cnpcf",
+   "group": "general",
+   "group_name": "Trabajo, civil, amparo y procedimiento",
+   "title": "Código Nacional de Procedimientos Civiles y Familiares",
+   "abbreviation": "CNPCF",
+   "published": "2023-06-07",
+   "last_reform": "2026-01-15",
+   "articles": 1191,
+   "decrees": 2,
+   "versions": 4,
+   "history_since": "2023-06-07",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/cnpcf.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/cnpcf.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc"
+  },
+  {
+   "slug": "loapf",
+   "group": "publico",
+   "group_name": "Administración pública, fiscal y penal",
+   "title": "Ley Orgánica de la Administración Pública Federal",
+   "abbreviation": "LOAPF",
+   "published": "1976-12-29",
+   "last_reform": "2026-05-07",
+   "articles": 72,
+   "decrees": 47,
+   "versions": 30,
+   "history_since": "2006-06-02",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/loapf.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/loapf.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LOAPF.doc"
+  },
+  {
+   "slug": "lfpa",
+   "group": "publico",
+   "group_name": "Administración pública, fiscal y penal",
+   "title": "Ley Federal de Procedimiento Administrativo",
+   "abbreviation": "LFPA",
+   "published": "1994-08-04",
+   "last_reform": "2025-11-14",
+   "articles": 119,
+   "decrees": 2,
+   "versions": 5,
+   "history_since": "2000-05-30",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lfpa.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lfpa.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPA.doc"
+  },
+  {
+   "slug": "lgra",
+   "group": "publico",
+   "group_name": "Administración pública, fiscal y penal",
+   "title": "Ley General de Responsabilidades Administrativas",
+   "abbreviation": "LGRA",
+   "published": "2016-07-18",
+   "last_reform": "2025-12-15",
+   "articles": 235,
+   "decrees": 4,
+   "versions": 9,
+   "history_since": "2016-07-18",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lgra.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lgra.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc"
+  },
+  {
+   "slug": "cff",
+   "group": "publico",
+   "group_name": "Administración pública, fiscal y penal",
+   "title": "Código Fiscal de la Federación",
+   "abbreviation": "CFF",
+   "published": "1981-12-31",
+   "last_reform": "2026-04-09",
+   "articles": 421,
+   "decrees": 56,
+   "versions": 27,
+   "history_since": "2006-05-12",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/cff.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/cff.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CFF.doc"
+  },
+  {
+   "slug": "lisr",
+   "group": "publico",
+   "group_name": "Administración pública, fiscal y penal",
+   "title": "Ley del Impuesto sobre la Renta",
+   "abbreviation": "LISR",
+   "published": "2013-12-11",
+   "last_reform": "2024-04-01",
+   "articles": 236,
+   "decrees": 2,
+   "versions": 7,
+   "history_since": "2013-12-11",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lisr.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/lisr.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR.doc"
+  },
+  {
+   "slug": "cpf",
+   "group": "publico",
+   "group_name": "Administración pública, fiscal y penal",
+   "title": "Código Penal Federal",
+   "abbreviation": "CPF",
+   "published": "1931-08-14",
+   "last_reform": "2026-03-13",
+   "articles": 556,
+   "decrees": 128,
+   "versions": 36,
+   "history_since": "2006-06-30",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/cpf.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/cpf.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc"
+  },
+  {
+   "slug": "cnpp",
+   "group": "publico",
+   "group_name": "Administración pública, fiscal y penal",
+   "title": "Código Nacional de Procedimientos Penales",
+   "abbreviation": "CNPP",
+   "published": "2014-03-05",
+   "last_reform": "2025-11-28",
+   "articles": 490,
+   "decrees": 8,
+   "versions": 13,
+   "history_since": "2014-03-05",
+   "url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/cnpp.md",
+   "reforms_url": "https://github.com/BEG-lag/leyes-mx/blob/main/leyes/cnpp.reformas.md",
+   "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc"
+  }
+ ],
+ "recent": [
+  {
+   "date": "2026-11-13",
+   "slug": "lisr",
+   "abbreviation": "LISR",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta y se expiden disposiciones de vigencia transitoria.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lisr/LISR_ref09_13nov26.pdf"
+  },
+  {
+   "date": "2026-10-07",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman y adicionan los artículos 82, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de nacionalidad única para el ejercicio de la titularidad de los Poderes Ejecutivos Federal y Locales.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_285_07oct26.pdf"
+  },
+  {
+   "date": "2026-06-02",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma al Poder Judicial.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_283_02jun26.pdf"
+  },
+  {
+   "date": "2026-06-02",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se adiciona un inciso a la base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, para introducir una nueva causal de nulidad de elecciones por intervención extranjera.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_284_02jun26.pdf"
+  },
+  {
+   "date": "2026-05-14",
+   "slug": "lft",
+   "abbreviation": "LFT",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref54_14may26.pdf"
+  },
+  {
+   "date": "2026-05-14",
+   "slug": "lfda",
+   "abbreviation": "LFDA",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_ref16_14may26.pdf"
+  },
+  {
+   "date": "2026-05-07",
+   "slug": "loapf",
+   "abbreviation": "LOAPF",
+   "title": "DECRETO por el que se adiciona una fracción I Sexies al artículo 36 de la Ley Orgánica de la Administración Pública Federal.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/loapf/LOAPF_ref81_07may26.pdf"
+  },
+  {
+   "date": "2026-05-06",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de feminicidio.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_282_06may26.pdf"
+  },
+  {
+   "date": "2026-05-01",
+   "slug": "loapf",
+   "abbreviation": "LOAPF",
+   "title": "DECRETO por el que se reforman los artículos 40, fracción I, de la Ley Orgánica de la Administración Pública Federal; 15, fracciones IV y VI, de la Ley de Comercio Exterior y se adiciona el artículo 283 Quáter a la Ley Federal del Trabajo, en materia de certificación laboral para la agroexportación y protección de los ecosistemas forestales.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/loapf/LOAPF_ref80_01may26.pdf"
+  },
+  {
+   "date": "2026-05-01",
+   "slug": "lft",
+   "abbreviation": "LFT",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref52_01may26.pdf"
+  },
+  {
+   "date": "2026-05-01",
+   "slug": "lft",
+   "abbreviation": "LFT",
+   "title": "DECRETO por el que se reforman los artículos 40, fracción I, de la Ley Orgánica de la Administración Pública Federal; 15, fracciones IV y VI, de la Ley de Comercio Exterior y se adiciona el artículo 283 Quáter a la Ley Federal del Trabajo, en materia de certificación laboral para la agroexportación y protección de los ecosistemas forestales.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref53_01may26.pdf"
+  },
+  {
+   "date": "2026-04-23",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_281_23abr26.pdf"
+  },
+  {
+   "date": "2026-04-10",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforma y adiciona el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, en materia de límite a las jubilaciones y pensiones de las Entidades Públicas.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_280_10abr26.pdf"
+  },
+  {
+   "date": "2026-04-09",
+   "slug": "cff",
+   "abbreviation": "CFF",
+   "title": "DECRETO por el que se reforma el artículo 141 del Código Fiscal de la Federación.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref64_09abr26.pdf"
+  },
+  {
+   "date": "2026-04-03",
+   "slug": "lfppi",
+   "abbreviation": "LFPPI",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Protección a la Propiedad Industrial, en materia de Transferencia de Tecnología y de Simplificación del Proceso de Protección de Patentes y Registros.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi/LFPPI_ref03_03abr26.pdf"
+  },
+  {
+   "date": "2026-03-13",
+   "slug": "cpf",
+   "abbreviation": "CPF",
+   "title": "DECRETO por el que se reforman los artículos 260 y 266 Bis del Código Penal Federal, en materia de abuso sexual.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref166_13mar26.pdf"
+  },
+  {
+   "date": "2026-03-03",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman las fracciones IV y XI del Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de reducción de la jornada laboral.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_279_03mar26.pdf"
+  },
+  {
+   "date": "2026-01-19",
+   "slug": "lgeepa",
+   "abbreviation": "LGEEPA",
+   "title": "DECRETO por el que se expide la Ley General de Economía Circular y, se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de la Ley General para la Prevención y Gestión Integral de los Residuos.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa/LGEEPA_ref52_19ene26.pdf"
+  },
+  {
+   "date": "2026-01-15",
+   "slug": "lft",
+   "abbreviation": "LFT",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref51_15ene26.pdf"
+  },
+  {
+   "date": "2026-01-15",
+   "slug": "lfppi",
+   "abbreviation": "LFPPI",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi/LFPPI_ref02_15ene26.pdf"
+  },
+  {
+   "date": "2026-01-15",
+   "slug": "lfda",
+   "abbreviation": "LFDA",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_ref15_15ene26.pdf"
+  },
+  {
+   "date": "2026-01-15",
+   "slug": "cnpcf",
+   "abbreviation": "CNPCF",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf/CNPCF_ref03_15ene26.pdf"
+  },
+  {
+   "date": "2025-12-17",
+   "slug": "lgeepa",
+   "abbreviation": "LGEEPA",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en relación con la participación de la Guardia Nacional en tareas de inspección y vigilancia.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa/LGEEPA_ref51_17dic25.pdf"
+  },
+  {
+   "date": "2025-12-15",
+   "slug": "lgra",
+   "abbreviation": "LGRA",
+   "title": "DECRETO por el que se adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra/LGRA_ref08_15dic25.pdf"
+  },
+  {
+   "date": "2025-12-12",
+   "slug": "lfpc",
+   "abbreviation": "LFPC",
+   "title": "DECRETO por el que se adicionan las fracciones VIII y IX al artículo 76 Bis de la Ley Federal de Protección al Consumidor, en materia de cancelación de suscripciones y membresías con cobro recurrente.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc/LFPC_ref33_12dic25.pdf"
+  },
+  {
+   "date": "2025-12-11",
+   "slug": "lan",
+   "abbreviation": "LAN",
+   "title": "DECRETO por el que se expide la Ley General de Aguas y, se reforman, adicionan y derogan diversas disposiciones de la Ley de Aguas Nacionales.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lan/LAN_ref11_11dic25.pdf"
+  },
+  {
+   "date": "2025-11-28",
+   "slug": "cpf",
+   "abbreviation": "CPF",
+   "title": "DECRETO por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y, se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref165_28nov25.pdf"
+  },
+  {
+   "date": "2025-11-28",
+   "slug": "cnpp",
+   "abbreviation": "CNPP",
+   "title": "DECRETO por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y, se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp/CNPP_ref13_28nov25.pdf"
+  },
+  {
+   "date": "2025-11-14",
+   "slug": "ccom",
+   "abbreviation": "CCom",
+   "title": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/ccom/CCom_ref57_14nov25.pdf"
+  },
+  {
+   "date": "2025-11-14",
+   "slug": "ccf",
+   "abbreviation": "CCF",
+   "title": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/ccf/CCF_ref60_14nov25.pdf"
+  },
+  {
+   "date": "2025-11-07",
+   "slug": "cff",
+   "abbreviation": "CFF",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref62_07nov25.pdf"
+  },
+  {
+   "date": "2025-10-16",
+   "slug": "lamp",
+   "abbreviation": "LAmp",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamp/LAmp_ref10_16oct25.pdf"
+  },
+  {
+   "date": "2025-10-16",
+   "slug": "cff",
+   "abbreviation": "CFF",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref61_16oct25.pdf"
+  },
+  {
+   "date": "2025-10-15",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman los artículos 76 y 78 de la Constitución Política de los Estados Unidos Mexicanos, en materia de ratificación de grados superiores de la Guardia Nacional.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_278_15oct25.pdf"
+  },
+  {
+   "date": "2025-10-09",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se declara reformado el inciso a) de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de extorsión.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_277_09oct25.pdf"
+  },
+  {
+   "date": "2025-07-16",
+   "slug": "loapf",
+   "abbreviation": "LOAPF",
+   "title": "DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; del Código de Justicia Militar y del Código Militar de Procedimientos Penales.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/loapf/LOAPF_ref78_16jul25.pdf"
+  },
+  {
+   "date": "2025-07-16",
+   "slug": "loapf",
+   "abbreviation": "LOAPF",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Orgánica de la Administración Pública Federal; de la Ley de Caminos, Puentes y Autotransporte Federal; de la Ley de Vías Generales de Comunicación, y de la Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/loapf/LOAPF_ref79_16jul25.pdf"
+  },
+  {
+   "date": "2025-07-16",
+   "slug": "lfce",
+   "abbreviation": "LFCE",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica y de la Ley Federal de las Entidades Paraestatales.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_ref03_16jul25.pdf"
+  },
+  {
+   "date": "2025-07-16",
+   "slug": "cpf",
+   "abbreviation": "CPF",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, y se reforma el artículo 400 Bis del Código Penal Federal.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref164_16jul25.pdf"
+  },
+  {
+   "date": "2025-04-15",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman el párrafo décimo del artículo 25 y la fracción XXIX-Y del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación administrativa y digitalización.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_276_15abr25.pdf"
+  },
+  {
+   "date": "2025-04-01",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_273_01abr25.pdf"
+  },
+  {
+   "date": "2025-04-01",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman y adicionan los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_274_01abr25.pdf"
+  },
+  {
+   "date": "2025-04-01",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se adiciona un segundo párrafo al artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de apoyo a jóvenes.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_275_01abr25.pdf"
+  },
+  {
+   "date": "2025-03-18",
+   "slug": "lih",
+   "abbreviation": "LIH",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ingresos sobre Hidrocarburos.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lih/LIH_ref03_18mar25.pdf"
+  },
+  {
+   "date": "2025-03-17",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de los artículos 4o. y 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de conservación y protección de los maíces nativos.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_272_17mar25.pdf"
+  },
+  {
+   "date": "2025-03-13",
+   "slug": "lamp",
+   "abbreviation": "LAmp",
+   "title": "DECRETO por el que se reforman y derogan diversas disposiciones de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamp/LAmp_ref09_13mar25.pdf"
+  },
+  {
+   "date": "2025-02-21",
+   "slug": "lft",
+   "abbreviation": "LFT",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley Federal del Trabajo, en materia de vivienda con orientación social.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref50_21feb25.pdf"
+  },
+  {
+   "date": "2025-01-17",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se adicionan un párrafo quinto al artículo 4o. y un párrafo segundo al artículo 5o., de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección a la salud.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_271_17ene25.pdf"
+  },
+  {
+   "date": "2025-01-02",
+   "slug": "lgra",
+   "abbreviation": "LGRA",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Responsabilidades Administrativas.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra/LGRA_ref07_02ene25.pdf"
+  },
+  {
+   "date": "2024-12-31",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_269_31dic24.pdf"
+  },
+  {
+   "date": "2024-12-31",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforma y adiciona el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en materia de seguridad pública.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_270_31dic24.pdf"
+  },
+  {
+   "date": "2024-12-24",
+   "slug": "lft",
+   "abbreviation": "LFT",
+   "title": "DECRETO por el que se adicionan diversas disposiciones de la Ley Federal del Trabajo, en materia de Plataformas Digitales.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref49_24dic24.pdf"
+  },
+  {
+   "date": "2024-12-20",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_268_20dic24.pdf"
+  },
+  {
+   "date": "2024-12-19",
+   "slug": "lft",
+   "abbreviation": "LFT",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref48_19dic24.pdf"
+  },
+  {
+   "date": "2024-12-16",
+   "slug": "lft",
+   "abbreviation": "LFT",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, en materia de erradicación de la brecha salarial por razones de género.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref47_16dic24.pdf"
+  },
+  {
+   "date": "2024-12-16",
+   "slug": "cnpp",
+   "abbreviation": "CNPP",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales y de la Ley General del Sistema Nacional de Seguridad Pública, en materia de medidas de protección y derecho de las mujeres a una vida libre de violencia.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpp/CNPP_ref11_16dic24.pdf"
+  },
+  {
+   "date": "2024-12-02",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman y adicionan los artículos 4o. y 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de bienestar.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_265_02dic24.pdf"
+  },
+  {
+   "date": "2024-12-02",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforma y adiciona la fracción XII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de vivienda para las personas trabajadoras.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_266_02dic24.pdf"
+  },
+  {
+   "date": "2024-12-02",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman y adicionan los artículos 3o., 4o. y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección y cuidado animal.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_267_02dic24.pdf"
+  },
+  {
+   "date": "2024-11-28",
+   "slug": "loapf",
+   "abbreviation": "LOAPF",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/loapf/LOAPF_ref75_28nov24.pdf"
+  },
+  {
+   "date": "2024-11-15",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman y adicionan los artículos 4o., 21, 41, 73, 116, 122 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de igualdad sustantiva, perspectiva de género, derecho de las mujeres a una vida libre de violencia y erradicación de la brecha salarial por razones de género.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_264_15nov24.pdf"
+  },
+  {
+   "date": "2024-10-31",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman el párrafo quinto del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_262_31oct24.pdf"
+  },
+  {
+   "date": "2024-10-31",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforma el primer párrafo de la fracción II del artículo 107, y se adiciona un quinto párrafo al artículo 105, de la Constitución Política de los Estados Unidos Mexicanos, en materia de inimpugnabilidad de las adiciones o reformas a la Constitución Federal.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_263_31oct24.pdf"
+  },
+  {
+   "date": "2024-10-30",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforma el párrafo cuarto y se adiciona un párrafo quinto al artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de vías y transporte ferroviario.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_261_30oct24.pdf"
+  },
+  {
+   "date": "2024-09-30",
+   "slug": "lft",
+   "abbreviation": "LFT",
+   "title": "DECRETO por el que se reforma la fracción VII del artículo 74 de la Ley Federal del Trabajo, para establecer el 1o. de octubre de cada seis años, día de descanso obligatorio con motivo de la transmisión del Poder Ejecutivo Federal.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref46_30sep24.pdf"
+  },
+  {
+   "date": "2024-09-30",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman y adicionan los artículos 13, 16, 21, 32, 55, 73, 76, 78, 82, 89, 123 y 129 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_259_30sep24.pdf"
+  },
+  {
+   "date": "2024-09-30",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Pueblos y Comunidades Indígenas y Afromexicanos.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_260_30sep24.pdf"
+  },
+  {
+   "date": "2024-09-15",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_258_15sep24.pdf"
+  },
+  {
+   "date": "2024-06-07",
+   "slug": "cpf",
+   "abbreviation": "CPF",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal y de la Ley Federal de Armas de Fuego y Explosivos.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref162_07jun24.pdf"
+  },
+  {
+   "date": "2024-06-04",
+   "slug": "cnpcf",
+   "abbreviation": "CNPCF",
+   "title": "DECRETO por el que se adicionan los artículos 314 y 1144 del Código Nacional de Procedimientos Civiles y Familiares.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf/CNPCF_ref01_04jun24.pdf"
+  },
+  {
+   "date": "2024-04-04",
+   "slug": "lft",
+   "abbreviation": "LFT",
+   "title": "DECRETO por el que se reforma la fracción III del artículo 994 de la Ley Federal del Trabajo.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref45_04abr24.pdf"
+  },
+  {
+   "date": "2024-04-01",
+   "slug": "loapf",
+   "abbreviation": "LOAPF",
+   "title": "DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/loapf/LOAPF_ref74_01abr24.pdf"
+  },
+  {
+   "date": "2024-03-22",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se declara aprobada la interpretación al alcance del Artículo Tercero Transitorio del \"Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional\", publicado en el Diario Oficial de la Federación el 26 de marzo del año 2019.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_257_22mar24.pdf"
+  },
+  {
+   "date": "2024-01-24",
+   "slug": "lft",
+   "abbreviation": "LFT",
+   "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo y de la Ley del Seguro Social, en materia de derechos laborales de las personas trabajadoras del campo.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref44_24ene24.pdf"
+  },
+  {
+   "date": "2024-01-24",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se declara reformado el primer párrafo del artículo 65 de la Constitución Política de los Estados Unidos Mexicanos, en materia de periodos de sesiones ordinarias del Congreso de la Unión.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_256_24ene24.pdf"
+  },
+  {
+   "date": "2024-01-17",
+   "slug": "ccf",
+   "abbreviation": "CCF",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, del Código Civil Federal y del Código Penal Federal, en materia de violencia a través de interpósita persona.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/ccf/CCF_ref59_17ene24.pdf"
+  },
+  {
+   "date": "2023-12-04",
+   "slug": "lft",
+   "abbreviation": "LFT",
+   "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref43_04dic23.pdf"
+  },
+  {
+   "date": "2023-11-29",
+   "slug": "lft",
+   "abbreviation": "LFT",
+   "title": "DECRETO por el que se reforman los artículos 251 de la Ley del Seguro Social y 146 de la Ley Federal del Trabajo, y se adiciona un artículo 59 Bis a la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref42_29nov23.pdf"
+  },
+  {
+   "date": "2023-06-06",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman los artículos 55 y 91 de la Constitución Política de los Estados Unidos Mexicanos, en materia de edad mínima para ocupar un cargo público.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/proceso/docleg/65/255_DOF_06jun23.pdf"
+  },
+  {
+   "date": "2023-05-29",
+   "slug": "cpeum",
+   "abbreviation": "CPEUM",
+   "title": "DECRETO por el que se reforman y adicionan los artículos 38 y 102 de la Constitución Política de los Estados Unidos Mexicanos, en materia de suspensión de derechos para ocupar cargo, empleo o comisión del servicio público.",
+   "pdf": "https://www.diputados.gob.mx/LeyesBiblio/proceso/docleg/65/254_DOF_29may23.pdf"
+  }
+ ],
+ "totals": {
+  "laws": 36,
+  "articles": 13370,
+  "decrees": 816,
+  "versions": 375,
+  "laws_with_history": 27,
+  "earliest_version": "1993-07-09"
+ }
+}
