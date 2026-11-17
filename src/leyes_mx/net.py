@@ -8,6 +8,7 @@
 
 from __future__ import annotations
 
+import http.client
 import logging
 import time
 import urllib.error
@@ -63,7 +64,7 @@ class PoliteClient:
                 if exc.code not in RETRY_STATUS or attempt >= self.retries:
                     raise FetchError(f"HTTP {exc.code} for {url}") from exc
                 reason = f"HTTP {exc.code}"
-            except (urllib.error.URLError, TimeoutError, ConnectionError) as exc:
+            except (urllib.error.URLError, http.client.HTTPException, TimeoutError, ConnectionError) as exc:
                 if attempt >= self.retries:
                     raise FetchError(f"{exc} for {url}") from exc
                 reason = str(exc)
