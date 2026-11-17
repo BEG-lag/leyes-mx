@@ -1,0 +1,7 @@
+# Generated indexes: keep them out of the language statistics.
+docs/** linguist-generated=true
+data/** linguist-generated=true
+CHANGES.md linguist-generated=true
+# Law texts are prose; keep their diffs visible.
+leyes/*.md linguist-documentation=true
+*.doc binary
