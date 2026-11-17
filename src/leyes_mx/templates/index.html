@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>leyes-mx · la ley mexicana, versionada</title>
+<meta name="description" content="Leyes federales de México en Markdown y en git: cada reforma es un commit.">
+<meta name="color-scheme" content="dark">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #0a0c10; --ink-2: #11141b; --ink-3: #191d27;
+    --paper: #eceee6; --muted: #969dab;
+    --lime: #cfff45; --amber: #ffb648; --coral: #ff5d47; --cyan: #7fd8ff;
+    --line: rgba(236, 238, 230, 0.09);
+    --mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    --sans: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    --serif: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  }
+  * { box-sizing: border-box; }
+  html { background: var(--ink); }
+  body {
+    margin: 0; color: var(--paper); background: var(--ink);
+    font: 15px/1.55 var(--sans); -webkit-font-smoothing: antialiased;
+    background-image:
+      linear-gradient(var(--line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--line) 1px, transparent 1px);
+    background-size: 48px 48px; background-position: -1px -1px;
+  }
+  a { color: inherit; text-decoration-color: rgba(207, 255, 69, .45); text-underline-offset: 3px; }
+  a:hover { color: var(--lime); }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 0 16px; }
+  header { padding: 56px 0 28px; border-bottom: 1px solid var(--line); }
+  .kicker { font: 500 12px/1 var(--mono); letter-spacing: .18em; text-transform: uppercase; color: var(--muted); }
+  .kicker b { color: var(--lime); font-weight: 500; }
+  h1 { font: 700 clamp(40px, 8vw, 84px)/1 var(--mono); letter-spacing: -.04em; margin: 18px 0 10px; }
+  h1 span { color: var(--lime); }
+  .tag { font: italic 500 clamp(22px, 3.2vw, 32px)/1.2 var(--serif); color: var(--paper); margin: 0 0 22px; }
+  .lede { max-width: 720px; color: var(--muted); margin: 0 0 28px; }
+  .lede code { font-family: var(--mono); color: var(--paper); background: var(--ink-3); padding: 1px 6px; border-radius: 4px; font-size: 13px; }
+  .stats { display: flex; flex-wrap: wrap; gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  .stat { background: var(--ink-2); padding: 16px 18px; flex: 1 1 150px; }
+  .stat .n { font: 700 26px/1.1 var(--mono); color: var(--paper); }
+  .stat .l { font: 500 11px/1.4 var(--mono); color: var(--muted); text-transform: uppercase; letter-spacing: .12em; margin-top: 6px; }
+  .stat:first-child .n { color: var(--lime); }
+  main { padding: 36px 0 64px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 48px; }
+  @media (min-width: 960px) { main { grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr); } }
+  h2 { font: 500 12px/1 var(--mono); letter-spacing: .18em; text-transform: uppercase; color: var(--muted); margin: 0 0 14px; }
+  .search { width: 100%; background: var(--ink-2); border: 1px solid var(--line); border-radius: 8px; color: var(--paper); font: 14px var(--mono); padding: 12px 14px; margin-bottom: 18px; }
+  .search:focus { outline: 2px solid var(--lime); outline-offset: 1px; }
+  .group { margin-bottom: 26px; }
+  .group h3 { font: italic 500 22px/1.2 var(--serif); margin: 0 0 8px; color: var(--paper); }
+  .law { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 4px 14px; padding: 12px 0; border-top: 1px solid var(--line); }
+  .abbr { font: 700 13px/1.6 var(--mono); color: var(--ink); background: var(--lime); border-radius: 4px; padding: 0 7px; align-self: start; justify-self: start; }
+  .law .t { font-weight: 500; }
+  .law .t a { text-decoration: none; }
+  .meta { grid-column: 2; font: 12px/1.6 var(--mono); color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 14px; }
+  .meta .hot { color: var(--amber); }
+  .meta a { color: var(--muted); }
+  .meta a:hover { color: var(--lime); }
+  .feed { list-style: none; margin: 0; padding: 0; border-left: 1px solid var(--line); }
+  .feed li { position: relative; padding: 0 0 18px 18px; }
+  .feed li::before { content: ""; position: absolute; left: -4px; top: 7px; width: 7px; height: 7px; border-radius: 50%; background: var(--cyan); }
+  .feed .d { font: 12px var(--mono); color: var(--cyan); }
+  .feed .a { font: 700 12px var(--mono); color: var(--lime); margin-left: 8px; }
+  .feed .x { font-size: 13.5px; color: var(--paper); margin-top: 2px; }
+  .term { font: 13px/1.7 var(--mono); background: var(--ink-2); border: 1px solid var(--line); border-radius: 10px; padding: 16px 18px; margin-bottom: 28px; overflow-x: auto; white-space: pre; }
+  .term .p { color: var(--lime); } .term .c { color: var(--muted); }
+  footer { border-top: 1px solid var(--line); padding: 28px 0 48px; color: var(--muted); font-size: 13px; }
+  footer strong { color: var(--paper); }
+  .warn { color: var(--amber); }
+  .empty { color: var(--muted); font: 13px var(--mono); }
+  @media (prefers-reduced-motion: no-preference) {
+    .law, .feed li { animation: rise .5s ease both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+  }
+  @media (max-width: 560px) { .law { grid-template-columns: minmax(0, 1fr); } .meta { grid-column: 1; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="kicker"><b>leyes-mx</b> · derecho federal mexicano como código</div>
+    <h1>leyes<span>-</span>mx</h1>
+    <p class="tag">La ley mexicana, versionada.</p>
+    <p class="lede">Cada ley federal es un archivo Markdown en git. Cada reforma publicada en el Diario Oficial es un commit, fechado con su publicación. Así, <code>git log</code>, <code>git diff</code> y <code>git blame</code> funcionan sobre la ley.</p>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+<div class="wrap">
+  <main>
+    <section aria-labelledby="laws-h">
+      <h2 id="laws-h">Leyes</h2>
+      <input class="search" id="q" type="search" placeholder="Filtrar: trabajo, LSH, amparo..." aria-label="Filtrar leyes">
+      <div id="laws"></div>
+    </section>
+    <aside aria-labelledby="feed-h">
+      <h2>Prueba en tu terminal</h2>
+      <div class="term"><span class="p">$</span> git clone https://github.com/BEG-lag/leyes-mx
+<span class="p">$</span> cd leyes-mx
+<span class="p">$</span> git log --oneline -- leyes/cpeum.md
+<span class="p">$</span> uv run leyes diff lft 2019-01-01 --stat
+<span class="c"># ¿quién cambió este párrafo y cuándo?</span>
+<span class="p">$</span> git blame leyes/lft.md</div>
+      <h2 id="feed-h">Reformas recientes</h2>
+      <ul class="feed" id="feed"></ul>
+    </aside>
+  </main>
+</div>
+<footer>
+  <div class="wrap">
+    <p><strong>No oficial.</strong> Sólo el Diario Oficial de la Federación tiene validez oficial. No es asesoría legal. Textos consolidados tomados de la Cámara de Diputados (LeyesBiblio); versiones históricas tomadas de copias de esos mismos archivos en el Internet Archive.</p>
+    <p>Hecho por <a href="https://pivotek.mx">Benjamín Esponda García</a>, abogado corporativo (energía, hidrocarburos y minería) que construye con IA. Código MIT, datos de dominio público. <a href="https://github.com/BEG-lag/leyes-mx">Repositorio</a> · <a href="https://github.com/BEG-lag/portafolio-ia">Portafolio</a></p>
+    <p id="gen"></p>
+  </div>
+</footer>
+<script>
+const DATA = /*__DATA__*/null;
+const fmt = (s) => s ? s.split("-").reverse().join("-") : "";
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
+const num = (n) => Number(n || 0).toLocaleString("es-MX");
+function render(q) {
+  const box = document.getElementById("laws");
+  const needle = q.trim().toLowerCase();
+  let html = "";
+  for (const [g, name] of Object.entries(DATA.groups)) {
+    const rows = DATA.laws.filter((l) => l.group === g && (!needle || (l.title + " " + l.abbreviation + " " + l.slug).toLowerCase().includes(needle)));
+    if (!rows.length) continue;
+    html += `<div class="group"><h3>${esc(name)}</h3>`;
+    for (const l of rows) {
+      const recent = l.last_reform && l.last_reform >= DATA.recent_cutoff;
+      html += `<div class="law"><span class="abbr">${esc(l.abbreviation)}</span>
+        <div class="t"><a href="${esc(l.url)}">${esc(l.title)}</a></div>
+        <div class="meta"><span class="${recent ? "hot" : ""}">${l.last_reform ? "reforma " + fmt(l.last_reform) : "publicada " + fmt(l.published)}</span>
+        <span>${num(l.articles)} arts.</span>
+        <a href="${esc(l.reforms_url)}">${num(l.decrees)} decretos</a>
+        <a href="https://github.com/BEG-lag/leyes-mx/commits/main/leyes/${esc(l.slug)}.md">${num(l.versions)} versiones${l.history_since && l.versions > 1 ? " desde " + l.history_since.slice(0, 4) : ""}</a></div></div>`;
+    }
+    html += `</div>`;
+  }
+  box.innerHTML = html || `<p class="empty">Nada coincide con “${esc(q)}”.</p>`;
+}
+if (DATA) {
+  const t = DATA.totals;
+  const cutoff = new Date(DATA.generated); cutoff.setDate(cutoff.getDate() - 180);
+  DATA.recent_cutoff = cutoff.toISOString().slice(0, 10);
+  document.getElementById("stats").innerHTML = [
+    [t.laws, "leyes"], [num(t.articles), "artículos"], [num(t.decrees), "decretos de reforma"],
+    [num(t.versions), "versiones en git"], [t.earliest_version ? t.earliest_version.slice(0, 4) : "hoy", "historia desde"],
+  ].map(([n, l]) => `<div class="stat"><div class="n">${n}</div><div class="l">${l}</div></div>`).join("");
+  render("");
+  document.getElementById("q").addEventListener("input", (e) => render(e.target.value));
+  document.getElementById("feed").innerHTML = DATA.recent.slice(0, 25).map((r) =>
+    `<li><span class="d">${fmt(r.date)}</span><span class="a">${esc(r.abbreviation)}</span>
+     <div class="x">${r.pdf ? `<a href="${esc(r.pdf)}">${esc(r.title)}</a>` : esc(r.title)}</div></li>`).join("");
+  document.getElementById("gen").textContent = "Datos al DOF " + fmt(DATA.generated) + ". Generado con leyes site.";
+}
+</script>
+</body>
+</html>
