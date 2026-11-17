@@ -29,7 +29,7 @@ _SUFFIX_WORD = (
     r"(?:bis|ter|qu[áa]ter|quintus|quinquies|sextus|sexies|s[eé]ptimus|septies|octavus|octies|"
     r"nonus|nonies|novies|d[eé]cimus|decies|undecies|duodecies|terdecies|quaterdecies|quindecies)"
 )
-_SEP_AHEAD = r"(?=\s*(?:\.|[-–]|\s" + _SUFFIX_WORD + r"\b))"
+_SEP_AHEAD = r"(?=\s*(?:\.|[-–]|\s" + _SUFFIX_WORD + r"\b|$))"
 # Letter suffixes: "15-A", "8o.-A", "410 A", "228 a" (never "5o. A los", where the
 # dot is the separator and "A" starts the text).
 _LETTER_SUFFIX = r"(?:\.?-|\s+-\s*|\s+)[A-Za-zÑñ](?![A-Za-záéíóúñÑ])" + _SEP_AHEAD
@@ -42,6 +42,21 @@ ARTICLE_RE = re.compile(
     r"\s*(?P<rest>.*)$",
     re.IGNORECASE | re.DOTALL,
 )
+
+# A label alone in its paragraph, with the text in the next one ("Artículo 2414").
+ARTICLE_ALONE_RE = re.compile(
+    r"^(?P<kw>art[ií]culo)\s+(?P<num>\d+)(?P<ord>[oº°ª])?"
+    r"(?P<suf>(?:" + _LETTER_SUFFIX + r"|(?:\.?\s+|\s*-\s*)" + _SUFFIX_WORD + r"\b)*)\s*\.?\s*$",
+    re.IGNORECASE,
+)
+
+
+def match_article(text: str) -> re.Match | None:
+    """A body article label. It must be capitalized: "artículo 27 de..." is prose."""
+    if not text[:1].isupper():
+        return None
+    return ARTICLE_RE.match(text) or ARTICLE_ALONE_RE.match(text)
+
 
 ARTICLE_RANGE_RE = re.compile(
     r"^(?P<kw>art[ií]culos)\s+(?P<a>\d+)\s*[oº°]?\.?\s*(?:a|al|y)\s+(?P<b>\d+)\s*[oº°]?"
@@ -386,7 +401,7 @@ def _is_body_start(item: _Item) -> bool:
         return False
     if match_division(item.text):
         return True
-    m = ARTICLE_RE.match(item.text)
+    m = match_article(item.text)
     return bool(m and int(m.group("num")) == 1)
 
 
@@ -513,7 +528,7 @@ def parse_law(blocks: list[Block]) -> ParsedLaw:
             emit(f"{'#' * level_of[div.rank]} {escape_md(heading)}")
             divisions[div.kind] = divisions.get(div.kind, 0) + 1
             continue
-        m = ARTICLE_RANGE_RE.match(text)
+        m = ARTICLE_RANGE_RE.match(text) if text[:1].isupper() else None
         if m:
             label = text[: m.start("sep")].strip() + "."
             articles.append(ArticleRef(label=label, number=int(m.group("a")), last=int(m.group("b"))))
@@ -521,7 +536,7 @@ def parse_law(blocks: list[Block]) -> ParsedLaw:
             if m.group("rest").strip():
                 emit(escape_md(m.group("rest").strip()))
             continue
-        m = ARTICLE_RE.match(text)
+        m = match_article(text)
         if m:
             # Headings always end in "." ("Artículo 890-" in the source becomes
             # "Artículo 890."), so anchors and labels are uniform.
@@ -534,7 +549,7 @@ def parse_law(blocks: list[Block]) -> ParsedLaw:
                 )
             )
             emit(f"{'#' * article_level} {escape_md(normalize_space(label))}")
-            rest = m.group("rest").strip()
+            rest = (m.groupdict().get("rest") or "").strip()
             if rest:
                 emit(escape_md(rest))
             continue

@@ -237,3 +237,18 @@ def test_letter_suffixes_and_ordinals():
     assert m.group("suf") == "" and m.group("rest").startswith("A falta")
     m = ARTICLE_RE.match("Artículo 5o. A los socios corresponde")
     assert m.group("suf") == "" and m.group("rest").startswith("A los")
+
+
+def test_label_alone_and_lowercase_prose():
+    parsed = law(
+        *HEADER,
+        "Artículo 1.- Uno.",
+        "Artículo 2",
+        "El texto del artículo dos va en el párrafo siguiente.",
+        "artículo 3. no es una etiqueta, es texto en minúsculas.",
+        "Artículo 3.- Tres.",
+    )
+    md = parsed.markdown_body
+    assert "## Artículo 2.\n\nEl texto del artículo dos" in md
+    assert [a.number for a in parsed.articles] == [1, 2, 3]
+    assert "artículo 3. no es una etiqueta" in md
