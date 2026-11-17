@@ -180,6 +180,7 @@ def test_one_cell_tables_are_quotes_and_others_are_tables():
         ("los _Juntas_ y *notas*", "los \\_Juntas\\_ y \\*notas\\*"),
         ("I. Fracción", "I. Fracción"),
         ("a < b y <script>", "a < b y &lt;script>"),
+        ("de $1,000.00 a $5,000.00", "de \\$1,000.00 a \\$5,000.00"),
     ],
 )
 def test_markdown_escaping(raw, escaped):

@@ -221,7 +221,8 @@ def is_note(text: str) -> bool:
 # Markdown helpers
 # --------------------------------------------------------------------------
 
-_MD_INLINE = re.compile(r"([\\`*_])")
+# "$" too: GitHub renders $...$ as math, and laws are full of amounts in pesos.
+_MD_INLINE = re.compile(r"([\\`*_$])")
 _MD_BLOCK_START = re.compile(r"^(#|>|[-+=]|\d+[.)](?=\s|$)|\|)")
 
 
