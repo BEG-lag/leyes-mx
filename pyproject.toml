@@ -7,11 +7,25 @@ authors = [
     { name = "Benjamín Esponda García", email = "272673676+BEG-lag@users.noreply.github.com" }
 ]
 requires-python = ">=3.12"
+license = "MIT"
+license-files = ["LICENSE"]
+keywords = ["mexico", "law", "legislation", "git", "markdown", "dof", "legal-tech"]
+classifiers = [
+    "Programming Language :: Python :: 3.12",
+    "Natural Language :: Spanish",
+    "Topic :: Text Processing :: Markup :: Markdown",
+    "Intended Audience :: Legal Industry",
+]
 dependencies = [
     "beautifulsoup4>=4.15.0",
     "olefile>=0.47",
     "pyyaml>=6.0.3",
 ]
+
+[project.urls]
+Homepage = "https://github.com/BEG-lag/leyes-mx"
+Source = "https://github.com/BEG-lag/leyes-mx"
+Author = "https://pivotek.mx"
 
 [project.scripts]
 leyes = "leyes_mx.cli:main"
