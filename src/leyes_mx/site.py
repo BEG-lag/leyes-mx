@@ -154,6 +154,38 @@ def stats_line(data: dict, lang: str = "en") -> str:
     )
 
 
+def history_block(data: dict, lang: str = "en") -> str:
+    """Versions per law actually present in git, most versions first."""
+    rows = sorted(
+        (law for law in data["laws"] if law["versions"] > 1),
+        key=lambda law: (-law["versions"], law["slug"]),
+    )
+    t = data["totals"]
+    if lang == "es":
+        intro = (
+            f"Resultado: **{t['versions']:,} versiones** en git. {t['laws_with_history']} de "
+            f"{t['laws']} leyes tienen más de una versión; la más antigua es de "
+            f"{(t['earliest_version'] or '')[:4]}. Detalle por ley en "
+            "[`data/historia/`](data/historia/)."
+        )
+        head = "| Ley | Versiones | Desde |"
+    else:
+        intro = (
+            f"Result: **{t['versions']:,} versions** in git. {t['laws_with_history']} of "
+            f"{t['laws']} laws have more than one version; the oldest dates from "
+            f"{(t['earliest_version'] or '')[:4]}. Per-law detail in "
+            "[`data/historia/`](data/historia/)."
+        )
+        head = "| Law | Versions | Since |"
+    lines = [intro, "", head, "|---|---:|---|"]
+    for law in rows:
+        lines.append(
+            f"| [{law['abbreviation']}](https://github.com/BEG-lag/leyes-mx/commits/main/leyes/{law['slug']}.md) "
+            f"· {law['title']} | {law['versions']} | {law['history_since']} |"
+        )
+    return "\n".join(lines) + "\n"
+
+
 def changes_md(data: dict) -> str:
     t = data["totals"]
     lines = [
@@ -199,5 +231,6 @@ def build_site(ws: Workspace) -> dict:
             text = path.read_text(encoding="utf-8")
             text = _replace_block(text, "leyes:table", laws_table(data, lang))
             text = _replace_block(text, "leyes:stats", stats_line(data, lang))
+            text = _replace_block(text, "history", history_block(data, lang))
             path.write_text(text, encoding="utf-8")
     return data["totals"]
