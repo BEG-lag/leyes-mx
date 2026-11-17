@@ -139,8 +139,6 @@ def cmd_validate(args: argparse.Namespace) -> int:
             issues.append(f"gaps in numbering: {v.missing[:8]}")
         if v.duplicates:
             issues.append(f"duplicated: {v.duplicates[:5]}")
-        if "—" in text and args.verbose:
-            issues.append("contains U+2014 (from the source text)")
         status = "ok" if not issues else "; ".join(issues)
         problems += bool(issues)
         print(f"{path.stem:10} {v.articles:6d} articles  {status}")
