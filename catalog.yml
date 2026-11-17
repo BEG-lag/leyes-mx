@@ -1,0 +1,64 @@
+# Curated set of federal laws tracked by leyes-mx.
+#
+# key:   the reform page of the law on LeyesBiblio (ref/<key>.htm). It is the
+#        stable identifier used to find the law in index.htm.
+# slug:  file name under leyes/ (leyes/<slug>.md).
+# group: section of the README table.
+# Optional:
+#   ref_url:        reform history page when it is not ref/<key>.htm.
+#   former_names:   earlier names, used to find legacy files in the archive.
+#   history: false  skip archived versions (e.g. a different, abrogated law
+#                   used the same name and file).
+
+groups:
+  constitucion: "Constitución"
+  energia: "Energía (reforma de 2025)"
+  recursos: "Minería, agua, tierra y ambiente"
+  empresa: "Empresa, comercio y competencia"
+  intangibles: "Propiedad intelectual y datos personales"
+  general: "Trabajo, civil, amparo y procedimiento"
+  publico: "Administración pública, fiscal y penal"
+
+laws:
+  - {key: cpeum, slug: cpeum, group: constitucion, ref_url: "https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm"}
+
+  - {key: lse, slug: lse, group: energia}
+  - {key: lsh, slug: lsh, group: energia}
+  - {key: lepecfe, slug: lepecfe, group: energia}
+  - {key: lepepm, slug: lepepm, group: energia}
+  - {key: lcne, slug: lcne, group: energia}
+  - {key: lpte, slug: lpte, group: energia}
+  - {key: lbio, slug: lbio, group: energia}
+  - {key: lgeo, slug: lgeo, group: energia}
+  - {key: lih, slug: lih, group: energia}
+  - {key: lansi, slug: lansi, group: energia}
+
+  - {key: lmin, slug: lmin, group: recursos, former_names: ["Ley Minera"]}
+  - {key: lan, slug: lan, group: recursos}
+  - {key: lgag, slug: lgag, group: recursos}
+  - {key: lgeepa, slug: lgeepa, group: recursos}
+  - {key: lagra, slug: lagra, group: recursos}
+
+  - {key: ccom, slug: ccom, group: empresa}
+  - {key: lgsm, slug: lgsm, group: empresa}
+  - {key: lgtoc, slug: lgtoc, group: empresa}
+  - {key: lie, slug: lie, group: empresa}
+  - {key: lfce, slug: lfce, group: empresa}
+  - {key: lfpc, slug: lfpc, group: empresa}
+
+  - {key: lfda, slug: lfda, group: intangibles}
+  - {key: lfppi, slug: lfppi, group: intangibles}
+  - {key: lfpdppp, slug: lfpdppp, group: intangibles}
+
+  - {key: lft, slug: lft, group: general}
+  - {key: ccf, slug: ccf, group: general}
+  - {key: lamp, slug: lamp, group: general}
+  - {key: cnpcf, slug: cnpcf, group: general}
+
+  - {key: loapf, slug: loapf, group: publico}
+  - {key: lfpa, slug: lfpa, group: publico}
+  - {key: lgra, slug: lgra, group: publico}
+  - {key: cff, slug: cff, group: publico}
+  - {key: lisr, slug: lisr, group: publico}
+  - {key: cpf, slug: cpf, group: publico}
+  - {key: cnpp, slug: cnpp, group: publico}
