@@ -1,0 +1,58 @@
+name: update laws
+
+# Checks LeyesBiblio (Cámara de Diputados) for laws that changed and commits each
+# change as the bot, dated with the DOF publication date of the reform.
+on:
+  schedule:
+    # Every day at 14:17 UTC (08:17 in Mexico City), after the morning DOF edition.
+    - cron: "17 14 * * *"
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "Download every source and compare hashes (not only the index dates)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-laws
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+      - name: Install
+        run: uv sync --locked
+      - name: Check sources and commit changed laws
+        run: |
+          # Cheap daily check against the index; full hash comparison on Mondays.
+          FLAGS="--commit"
+          if [ "$(date -u +%u)" = "1" ] || [ "${{ inputs.full }}" = "true" ]; then
+            FLAGS="$FLAGS --full"
+          fi
+          uv run leyes update $FLAGS
+      - name: Validate
+        run: uv run leyes validate --strict
+      - name: Refresh indexes (CHANGES.md, docs/, README tables)
+        env:
+          GIT_AUTHOR_NAME: "Diario Oficial (leyes-mx)"
+          GIT_AUTHOR_EMAIL: "dof@leyes-mx.invalid"
+          GIT_COMMITTER_NAME: "Diario Oficial (leyes-mx)"
+          GIT_COMMITTER_EMAIL: "dof@leyes-mx.invalid"
+        run: |
+          uv run leyes site
+          if ! git diff --quiet -- CHANGES.md docs README.md README.es.md; then
+            git commit -q -m "chore(site): refresh indexes after law updates" -- CHANGES.md docs README.md README.es.md
+          fi
+      - name: Push
+        run: git push origin HEAD:main
