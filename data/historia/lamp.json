@@ -1,0 +1,169 @@
+{
+  "slug": "lamp",
+  "abbreviation": "LAmp",
+  "versions": [
+    {
+      "dof": "2013-04-02",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "archived": "https://web.archive.org/web/20130626052216/http://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "sha256": "322c7d0c0e492d4782448c85e61b28bb3f7d4a5e671e83acb20964536327506e",
+      "articles": 271
+    },
+    {
+      "dof": "2014-07-14",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_140714.doc",
+      "archived": "https://web.archive.org/web/20150316023336/http://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_140714.doc",
+      "sha256": "2c9dbebea3b11a461802ab1892dcef7956d59e51eab1019feddfe61ad4f8c249",
+      "articles": 271
+    },
+    {
+      "dof": "2015-12-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_181215.doc",
+      "archived": "https://web.archive.org/web/20160309095726/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LAmp_181215.doc",
+      "sha256": "3226fad6d083664385cd483952af5bf7db2c5aba669c5ca70a0a3ab2fba57b09",
+      "articles": 271
+    },
+    {
+      "dof": "2016-06-17",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_170616.doc",
+      "archived": "https://web.archive.org/web/20160717111614/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LAmp_170616.doc",
+      "sha256": "b84730d76bdf8da99d331e8a3113af38aed9cb2fe7ee441398b7eab07a707e05",
+      "articles": 271
+    },
+    {
+      "dof": "2018-01-19",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_190118.doc",
+      "archived": "https://web.archive.org/web/20180204235537/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LAmp_190118.doc",
+      "sha256": "cfc72e9466fec92b6b6f576b6081fdaad79e161b9ac3fc8ac9ed9d944ee5c590",
+      "articles": 271
+    },
+    {
+      "dof": "2018-06-15",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_150618.doc",
+      "archived": "https://web.archive.org/web/20181105065221/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LAmp_150618.doc",
+      "sha256": "7fbc705db24b2955ae819bd6ccac452566c4c07c28026a6132aae1f95f0b3836",
+      "articles": 271
+    },
+    {
+      "dof": "2021-06-07",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_070621.doc",
+      "archived": "https://web.archive.org/web/20210819152511/http://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_070621.doc",
+      "sha256": "42611c67c609353591d63fb7003181f0f5256840da84c2a9374c9427c284bb1e",
+      "articles": 272
+    },
+    {
+      "dof": "2022-02-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "archived": "https://web.archive.org/web/20220404202219/http://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "sha256": "800eed514fd6be8b42641564b69429a46dec8bf0f15a84f89ff37ffbd75d1856",
+      "articles": 272
+    },
+    {
+      "dof": "2024-06-14",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "archived": "https://web.archive.org/web/20250108193137/https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "sha256": "f1d8b6ea17f238d767ffafd58841228d26137bd85047552c538e33a043aaaa1f",
+      "articles": 272
+    },
+    {
+      "dof": "2025-03-13",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "archived": "https://web.archive.org/web/20250828225240/https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "sha256": "4e1113bed69686e9ad3be5aad500ebf387515fef8beb2822a844dca90ff346f7",
+      "articles": 272
+    },
+    {
+      "dof": "2025-10-16",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "archived": null,
+      "sha256": "bdca96c29633bd0b15849372b9047d434ebfca3876890df336b8bf1231fbea64",
+      "articles": 272
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20060715071237",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/20.doc",
+      "dof": "2006-04-24",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20101010173502",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/20.doc",
+      "dof": "2009-06-17",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20110911070052",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/20.doc",
+      "dof": "2011-06-24",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20130626052216",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "dof": "2013-04-02",
+      "kept": true
+    },
+    {
+      "capture": "20150316023336",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_140714.doc",
+      "dof": "2014-07-14",
+      "kept": true
+    },
+    {
+      "capture": "20160309095726",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_181215.doc",
+      "dof": "2015-12-18",
+      "kept": true
+    },
+    {
+      "capture": "20160717111614",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_170616.doc",
+      "dof": "2016-06-17",
+      "kept": true
+    },
+    {
+      "capture": "20180204235537",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_190118.doc",
+      "dof": "2018-01-19",
+      "kept": true
+    },
+    {
+      "capture": "20181105065221",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_150618.doc",
+      "dof": "2018-06-15",
+      "kept": true
+    },
+    {
+      "capture": "20210819152511",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp_070621.doc",
+      "dof": "2021-06-07",
+      "kept": true
+    },
+    {
+      "capture": "20220404202219",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "dof": "2022-02-18",
+      "kept": true
+    },
+    {
+      "capture": "20250108193137",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "dof": "2024-06-14",
+      "kept": true
+    },
+    {
+      "capture": "20250828225240",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "dof": "2025-03-13",
+      "kept": true
+    },
+    {
+      "capture": "20260202062156",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+      "dof": "2025-10-16",
+      "kept": true
+    }
+  ]
+}

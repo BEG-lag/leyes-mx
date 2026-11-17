@@ -1,0 +1,66 @@
+{
+  "slug": "lmin",
+  "abbreviation": "LMin",
+  "versions": [
+    {
+      "dof": "2006-06-26",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/151.doc",
+      "archived": "https://web.archive.org/web/20130626045059/http://www.diputados.gob.mx/LeyesBiblio/doc/151.doc",
+      "sha256": "cfdc941a3d96af52b7093a967dfefdadc5e0d679ea034fcc6a3c9dbd9d213b62",
+      "articles": 63
+    },
+    {
+      "dof": "2014-08-11",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/151_110814.doc",
+      "archived": "https://web.archive.org/web/20190711020813/http://www.diputados.gob.mx:80/LeyesBiblio/doc/151_110814.doc",
+      "sha256": "820d5f8b0437d8ca2e51760a9b6d77a4c89ecaaa835a12545b3296ed2e3bd4d5",
+      "articles": 63
+    },
+    {
+      "dof": "2022-04-20",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LMin.doc",
+      "archived": "https://web.archive.org/web/20221013172803/https://www.diputados.gob.mx/LeyesBiblio/doc/LMin.doc",
+      "sha256": "865066953ef47e2b71cb6f1690ee26c8d348358a0407c0e525aed05108b97898",
+      "articles": 64
+    },
+    {
+      "dof": "2023-05-08",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LMin.doc",
+      "archived": null,
+      "sha256": "bea3bf5a2bdaab806afacf035f56bfe41ce31fe5d392dea987bc202e57f69255",
+      "articles": 79
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20060817055844",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/151.doc",
+      "dof": "2006-06-26",
+      "kept": true
+    },
+    {
+      "capture": "20130626045059",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/151.doc",
+      "dof": "2006-06-26",
+      "kept": true
+    },
+    {
+      "capture": "20190711020813",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/151_110814.doc",
+      "dof": "2014-08-11",
+      "kept": true
+    },
+    {
+      "capture": "20221013172803",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LMin.doc",
+      "dof": "2022-04-20",
+      "kept": true
+    },
+    {
+      "capture": "20240405093354",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LMin.doc",
+      "dof": "2023-05-08",
+      "kept": true
+    }
+  ]
+}

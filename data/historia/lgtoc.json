@@ -1,0 +1,124 @@
+{
+  "slug": "lgtoc",
+  "abbreviation": "LGTOC",
+  "versions": [
+    {
+      "dof": "2006-07-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "archived": "https://web.archive.org/web/20060817060229/http://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "sha256": "5341a5a378ab617320e3e9466a5b65b4d83e94374daf2113121ccf2db1ee96b2",
+      "articles": 455
+    },
+    {
+      "dof": "2008-02-01",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "archived": "https://web.archive.org/web/20080313042910/http://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "sha256": "ce821f09d900dcfbbac48ff54fa2922cfa4a2a9b8835b8e2f72032cd4e7f3495",
+      "articles": 456
+    },
+    {
+      "dof": "2008-08-20",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "archived": "https://web.archive.org/web/20110911083414/http://www.diputados.gob.mx:80/LeyesBiblio/doc/145.doc",
+      "sha256": "33590e8741bf16b2c0dab12debd61388ec86a3f3bd88f5b94e79ba30e851655c",
+      "articles": 460
+    },
+    {
+      "dof": "2012-04-09",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "archived": "https://web.archive.org/web/20130515101156/http://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "sha256": "fcdd3b8e84111640efa07c9d89ccb4635218ea65dc8c40f4901b3b34c1fbe09d",
+      "articles": 460
+    },
+    {
+      "dof": "2014-01-10",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "archived": "https://web.archive.org/web/20140408230121/http://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "sha256": "0804a42dfad122cdec4444fa5158e83e47e01e8634336c6586999f9a72375539",
+      "articles": 461
+    },
+    {
+      "dof": "2014-06-13",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/145_130614.doc",
+      "archived": "https://web.archive.org/web/20170518230947/http://www.diputados.gob.mx:80/LeyesBiblio/doc/145_130614.doc",
+      "sha256": "e8b223f643d6cc242ed67050fa0bbe59098cad89620b7e53ebe53f160fc374f8",
+      "articles": 462
+    },
+    {
+      "dof": "2018-06-22",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/145_220618.doc",
+      "archived": "https://web.archive.org/web/20181105063009/http://www.diputados.gob.mx:80/LeyesBiblio/doc/145_220618.doc",
+      "sha256": "c20c67aa7a6d4772334dd4bd9987103d5e2b4a500de716911b5b5728c66d18ff",
+      "articles": 462
+    },
+    {
+      "dof": "2024-03-26",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGTOC.doc",
+      "archived": null,
+      "sha256": "3024e8fd14ffd0277fbf4b9d3789ea218612abf3958691089c0ae06f57276b79",
+      "articles": 463
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20060817060229",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "dof": "2006-07-18",
+      "kept": true
+    },
+    {
+      "capture": "20080313042910",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "dof": "2008-02-01",
+      "kept": true
+    },
+    {
+      "capture": "20080911234154",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "dof": "2008-08-20",
+      "kept": true
+    },
+    {
+      "capture": "20110911083414",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "dof": "2008-08-20",
+      "kept": true
+    },
+    {
+      "capture": "20120511152737",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "dof": "2012-04-09",
+      "kept": true
+    },
+    {
+      "capture": "20130515101156",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "dof": "2012-04-09",
+      "kept": true
+    },
+    {
+      "capture": "20140408230121",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/145.doc",
+      "dof": "2014-01-10",
+      "kept": true
+    },
+    {
+      "capture": "20170518230947",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/145_130614.doc",
+      "dof": "2014-06-13",
+      "kept": true
+    },
+    {
+      "capture": "20181105063009",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/145_220618.doc",
+      "dof": "2018-06-22",
+      "kept": true
+    },
+    {
+      "capture": "20240701005756",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGTOC.doc",
+      "dof": "2024-03-26",
+      "kept": true
+    }
+  ]
+}

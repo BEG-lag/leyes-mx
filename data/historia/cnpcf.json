@@ -1,0 +1,60 @@
+{
+  "slug": "cnpcf",
+  "abbreviation": "CNPCF",
+  "versions": [
+    {
+      "dof": "2023-06-07",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc",
+      "archived": "https://web.archive.org/web/20240405093440/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc",
+      "sha256": "7e4f51d7e101bea87cc3c80b19271aa070a921019173431fff90271ab7518526",
+      "articles": 1191
+    },
+    {
+      "dof": "2024-06-04",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc",
+      "archived": "https://web.archive.org/web/20250121190514/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc",
+      "sha256": "3531577059d94717f0664c050ecb8fc45047d92549446e6a2fb28a3582928ef3",
+      "articles": 1191
+    },
+    {
+      "dof": "2024-12-16",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc",
+      "archived": "https://web.archive.org/web/20250130165409/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc",
+      "sha256": "791b91b6803476300ea0e205ad8b3d604e9c5b1a116bf1e00ff9bf65288a54ef",
+      "articles": 1191
+    },
+    {
+      "dof": "2026-01-15",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc",
+      "archived": null,
+      "sha256": "a9e9e831ce78934d48733399f635de90314a6571fd3beaffc4b6abff283c5bb4",
+      "articles": 1191
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20240405093440",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc",
+      "dof": "2023-06-07",
+      "kept": true
+    },
+    {
+      "capture": "20250121190514",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc",
+      "dof": "2024-06-04",
+      "kept": true
+    },
+    {
+      "capture": "20250130165409",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc",
+      "dof": "2024-12-16",
+      "kept": true
+    },
+    {
+      "capture": "20260312003042",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc",
+      "dof": "2026-01-15",
+      "kept": true
+    }
+  ]
+}

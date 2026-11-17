@@ -1,0 +1,319 @@
+{
+  "slug": "ccom",
+  "abbreviation": "CCom",
+  "versions": [
+    {
+      "dof": "2006-06-06",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "archived": "https://web.archive.org/web/20080313050739/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "sha256": "6c90422b41d39604760133793ba954450b89ab0bc0a1f5a17d8a8a0e78b44c8d",
+      "articles": 1539,
+      "warnings": [
+        "1 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2008-04-17",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "archived": "https://web.archive.org/web/20080911231431/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "sha256": "d985df7d5d2adf6c6ee107995cdfee1cc085974192daa8109f2b7d470d341d67",
+      "articles": 1551,
+      "warnings": [
+        "1 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2009-08-27",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "archived": "https://web.archive.org/web/20101122030057/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3.doc",
+      "sha256": "9f5048ba138d048072d88d40f1382aa0d035f746244c5736f513cf1b2d589650",
+      "articles": 1560,
+      "warnings": [
+        "1 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2011-06-09",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "archived": "https://web.archive.org/web/20110911072028/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3.doc",
+      "sha256": "de7de52bc92b203566847193b005b3f73c0a08b01a3c719bb6d399d8f05198fd",
+      "articles": 1612,
+      "warnings": [
+        "1 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2012-04-09",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "archived": "https://web.archive.org/web/20120417135207/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3.doc",
+      "sha256": "edf4f6c0ef11513e575d2c5f05b1ed012ab39c164b362bb150f9ffac07a04279",
+      "articles": 1613,
+      "warnings": [
+        "1 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2012-04-17",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "archived": "https://web.archive.org/web/20120511160015/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "sha256": "d94eafdf2d5974da6dd02e0197ae915881021fd4d5ee2b30ab0598eccdb8f19c",
+      "articles": 1613,
+      "warnings": [
+        "1 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2012-12-29",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "archived": "https://web.archive.org/web/20130626021247/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "sha256": "de169e23b6663f5e48199ec56da46318fd93b3fedc190ac57e387026b330dca6",
+      "articles": 1613,
+      "warnings": [
+        "1 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2014-01-10",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "archived": "https://web.archive.org/web/20140408221902/http://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "sha256": "7c993b9db225ab048c0a8f7f8bb5d9c6b7dc6f16c5e7650b34aa413d353b6c87",
+      "articles": 1614,
+      "warnings": [
+        "1 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2014-06-13",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_130614.doc",
+      "archived": "https://web.archive.org/web/20140701192932/http://www.diputados.gob.mx/LeyesBiblio/doc/3_130614.doc",
+      "sha256": "e8f024d5e4bc9a3e8df0b2d31e2d476d307f785faf6f9bc9741233781499a32c",
+      "articles": 1616,
+      "warnings": [
+        "1 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2014-12-26",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_261214.doc",
+      "archived": "https://web.archive.org/web/20150316022345/http://www.diputados.gob.mx/LeyesBiblio/doc/3_261214.doc",
+      "sha256": "2154d110290eb5853b7e579a08131b0c9b41222ca7e18269e1ee8c88e7a54707",
+      "articles": 1616,
+      "warnings": [
+        "1 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2016-04-07",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_070416.doc",
+      "archived": "https://web.archive.org/web/20160429001436/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3_070416.doc",
+      "sha256": "fba7f639fc551bea1e93d7a3f55672ca0b460c90806a761615c711fb76135e0f",
+      "articles": 1623,
+      "warnings": [
+        "1 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2017-05-02",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_020517.doc",
+      "archived": "https://web.archive.org/web/20170518231908/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3_020517.doc",
+      "sha256": "254cc20980598042d32c7c9f6e1052c2307212faf4e3f908e3debce582600c0f",
+      "articles": 1640,
+      "warnings": [
+        "1 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2017-12-26",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_261217.doc",
+      "archived": "https://web.archive.org/web/20180127234119/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3_261217.doc",
+      "sha256": "20581891b5f93940febaf97c1d2e204a7b15decccb921576485f662dd58899c9",
+      "articles": 1640,
+      "warnings": [
+        "1 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2018-03-28",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_280318.doc",
+      "archived": "https://web.archive.org/web/20181105064629/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3_280318.doc",
+      "sha256": "090417dc7c88e6f5e1bbb4b08b4b5adf4652d83ca07fd5601acc94e76d77c9bf",
+      "articles": 1641
+    },
+    {
+      "dof": "2018-12-31",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_311218.doc",
+      "archived": "https://web.archive.org/web/20191113050859/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3_311218.doc",
+      "sha256": "6363a74968b02e643180cdbfb9d83af8b2a45808f9900703823ab642fefce198",
+      "articles": 1641
+    },
+    {
+      "dof": "2019-12-30",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_301219.doc",
+      "archived": "https://web.archive.org/web/20200131180701/http://www.diputados.gob.mx:80/LeyesBiblio/doc/3_301219.doc",
+      "sha256": "3bfd5e02efe726eea2eda1fedb918e9fa4050ad6a486bef2744586c72bc96383",
+      "articles": 1641
+    },
+    {
+      "dof": "2020-12-24",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_241220.doc",
+      "archived": "https://web.archive.org/web/20210422180343/http://www.diputados.gob.mx/LeyesBiblio/doc/3_241220.doc",
+      "sha256": "df962703c28d5cd78f0e20a1c5b10c6355cb60ed752edb84ba4056d0bd290fcd",
+      "articles": 1641
+    },
+    {
+      "dof": "2021-12-30",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CCom.doc",
+      "archived": "https://web.archive.org/web/20220404202133/http://www.diputados.gob.mx/LeyesBiblio/doc/CCom.doc",
+      "sha256": "0a382cd683f0cbfabbd5d9c7f376d25b462e40ae98e29ab607cb36fc9d83d747",
+      "articles": 1641
+    },
+    {
+      "dof": "2023-12-28",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CCom.doc",
+      "archived": "https://web.archive.org/web/20240405093805/https://www.diputados.gob.mx/LeyesBiblio/doc/CCom.doc",
+      "sha256": "874ab0b7504361a9c6d7bf9e4eddca6b10658149969ff7a27b1ea58d0fa4d5e7",
+      "articles": 1641
+    },
+    {
+      "dof": "2026-02-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CCom.doc",
+      "archived": null,
+      "sha256": "823ff8eaeb1e740d8e344b13592f5f4a81f0a595fe6259be06e131f6b91248dd",
+      "articles": 1641
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20060705162424",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "dof": "2006-06-06",
+      "kept": true
+    },
+    {
+      "capture": "20080313050739",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "dof": "2006-06-06",
+      "kept": true
+    },
+    {
+      "capture": "20080611011735",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "dof": "2008-04-17",
+      "kept": true
+    },
+    {
+      "capture": "20080911231431",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "dof": "2008-04-17",
+      "kept": true
+    },
+    {
+      "capture": "20101122030057",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "dof": "2009-08-27",
+      "kept": true
+    },
+    {
+      "capture": "20110911072028",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "dof": "2011-06-09",
+      "kept": true
+    },
+    {
+      "capture": "20120417135207",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "dof": "2012-04-09",
+      "kept": true
+    },
+    {
+      "capture": "20120511160015",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "dof": "2012-04-17",
+      "kept": true
+    },
+    {
+      "capture": "20130303051020",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "dof": "2012-12-29",
+      "kept": true
+    },
+    {
+      "capture": "20130626021247",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "dof": "2012-12-29",
+      "kept": true
+    },
+    {
+      "capture": "20140408221902",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3.doc",
+      "dof": "2014-01-10",
+      "kept": true
+    },
+    {
+      "capture": "20140701192932",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_130614.doc",
+      "dof": "2014-06-13",
+      "kept": true
+    },
+    {
+      "capture": "20150316022345",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_261214.doc",
+      "dof": "2014-12-26",
+      "kept": true
+    },
+    {
+      "capture": "20160429001436",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_070416.doc",
+      "dof": "2016-04-07",
+      "kept": true
+    },
+    {
+      "capture": "20170518231908",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_020517.doc",
+      "dof": "2017-05-02",
+      "kept": true
+    },
+    {
+      "capture": "20180127234119",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_261217.doc",
+      "dof": "2017-12-26",
+      "kept": true
+    },
+    {
+      "capture": "20181105064629",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_280318.doc",
+      "dof": "2018-03-28",
+      "kept": true
+    },
+    {
+      "capture": "20191113050859",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_311218.doc",
+      "dof": "2018-12-31",
+      "kept": true
+    },
+    {
+      "capture": "20200131180701",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_301219.doc",
+      "dof": "2019-12-30",
+      "kept": true
+    },
+    {
+      "capture": "20210422180343",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/3_241220.doc",
+      "dof": "2020-12-24",
+      "kept": true
+    },
+    {
+      "capture": "20220404202133",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CCom.doc",
+      "dof": "2021-12-30",
+      "kept": true
+    },
+    {
+      "capture": "20240405093805",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CCom.doc",
+      "dof": "2023-12-28",
+      "kept": true
+    }
+  ]
+}

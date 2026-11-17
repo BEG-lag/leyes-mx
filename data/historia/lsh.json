@@ -1,0 +1,21 @@
+{
+  "slug": "lsh",
+  "abbreviation": "LSH",
+  "versions": [
+    {
+      "dof": "2025-03-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LSH.doc",
+      "archived": null,
+      "sha256": "46c5e090a9ec03fed58ddd6252e6ed7a3ae0577d328b5a3b3a08ae533b4148e5",
+      "articles": 166
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20250804191122",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LSH.doc",
+      "dof": "2025-03-18",
+      "kept": true
+    }
+  ]
+}

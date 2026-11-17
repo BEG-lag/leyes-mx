@@ -1,0 +1,14 @@
+{
+  "slug": "lgeo",
+  "abbreviation": "LGeo",
+  "versions": [
+    {
+      "dof": "2025-03-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGeo.doc",
+      "archived": null,
+      "sha256": "ff1be6ac187e2ea49b9aa7f889e30d93e409c88048ed56a4ebc659ed16b04ae5",
+      "articles": 66
+    }
+  ],
+  "captures_examined": []
+}

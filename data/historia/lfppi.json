@@ -1,0 +1,40 @@
+{
+  "slug": "lfppi",
+  "abbreviation": "LFPPI",
+  "versions": [
+    {
+      "dof": "2020-07-01",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPPI.doc",
+      "archived": "https://web.archive.org/web/20240405093513/https://www.diputados.gob.mx/LeyesBiblio/doc/LFPPI.doc",
+      "sha256": "da0605f9f6d877e885d4529cb256a3a0aae5c0eff98967e88eefb0c0f6e6281d",
+      "articles": 410
+    },
+    {
+      "dof": "2026-04-03",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPPI.doc",
+      "archived": null,
+      "sha256": "d57bd13fcca233570a4b7b4e6997e2678d3a2f201e9d042c7b65a29dce6f5d95",
+      "articles": 421
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20210422192357",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPPI_010720.doc",
+      "dof": "2020-07-01",
+      "kept": true
+    },
+    {
+      "capture": "20240405093513",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPPI.doc",
+      "dof": "2020-07-01",
+      "kept": true
+    },
+    {
+      "capture": "20260509204514",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPPI.doc",
+      "dof": "2026-04-03",
+      "kept": true
+    }
+  ]
+}

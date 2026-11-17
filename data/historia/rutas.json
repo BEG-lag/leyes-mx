@@ -1,0 +1,155 @@
+{
+  "cpeum": [
+    "doc/1.doc",
+    "doc/1_*",
+    "doc/CPEUM.doc"
+  ],
+  "lse": [
+    "doc/LSE.doc"
+  ],
+  "lsh": [
+    "doc/LSH.doc"
+  ],
+  "lepecfe": [
+    "doc/LEPECFE.doc"
+  ],
+  "lepepm": [
+    "doc/LEPEPM.doc"
+  ],
+  "lcne": [
+    "doc/LCNE.doc"
+  ],
+  "lpte": [
+    "doc/LPTE.doc"
+  ],
+  "lbio": [
+    "doc/LBio.doc"
+  ],
+  "lgeo": [
+    "doc/LGeo.doc"
+  ],
+  "lih": [
+    "doc/LIH.doc",
+    "doc/LIH_*"
+  ],
+  "lansi": [
+    "doc/LANSI.doc",
+    "doc/LANSI_*"
+  ],
+  "lmin": [
+    "doc/151.doc",
+    "doc/151_*",
+    "doc/LMin.doc"
+  ],
+  "lan": [
+    "doc/16.doc",
+    "doc/16_*",
+    "doc/LAN.doc"
+  ],
+  "lgag": [
+    "doc/LGAg.doc"
+  ],
+  "lgeepa": [
+    "doc/148.doc",
+    "doc/148_*",
+    "doc/LGEEPA.doc"
+  ],
+  "lagra": [
+    "doc/13.doc",
+    "doc/13_*",
+    "doc/LAgra.doc"
+  ],
+  "ccom": [
+    "doc/3.doc",
+    "doc/3_*",
+    "doc/CCom.doc"
+  ],
+  "lgsm": [
+    "doc/144.doc",
+    "doc/144_*",
+    "doc/LGSM.doc"
+  ],
+  "lgtoc": [
+    "doc/145.doc",
+    "doc/145_*",
+    "doc/LGTOC.doc"
+  ],
+  "lie": [
+    "doc/44.doc",
+    "doc/44_*",
+    "doc/LIE.doc"
+  ],
+  "lfce": [
+    "doc/104.doc",
+    "doc/LFCE.doc",
+    "doc/LFCE_*"
+  ],
+  "lfpc": [
+    "doc/113.doc",
+    "doc/113_*",
+    "doc/LFPC.doc"
+  ],
+  "lfda": [
+    "doc/122.doc",
+    "doc/122_*",
+    "doc/LFDA.doc"
+  ],
+  "lfppi": [
+    "doc/LFPPI.doc",
+    "doc/LFPPI_*"
+  ],
+  "lfpdppp": [
+    "doc/LFPDPPP.doc"
+  ],
+  "lft": [
+    "doc/125.doc",
+    "doc/125_*",
+    "doc/LFT.doc"
+  ],
+  "ccf": [
+    "doc/2.doc",
+    "doc/2_*",
+    "doc/CCF.doc"
+  ],
+  "lamp": [
+    "doc/20.doc",
+    "doc/LAmp.doc",
+    "doc/LAmp_*"
+  ],
+  "cnpcf": [
+    "doc/CNPCF.doc"
+  ],
+  "loapf": [
+    "doc/153.doc",
+    "doc/153_*",
+    "doc/LOAPF.doc"
+  ],
+  "lfpa": [
+    "doc/112.doc",
+    "doc/112_*",
+    "doc/LFPA.doc"
+  ],
+  "lgra": [
+    "doc/LGRA.doc",
+    "doc/LGRA_*"
+  ],
+  "cff": [
+    "doc/8.doc",
+    "doc/8_*",
+    "doc/CFF.doc"
+  ],
+  "lisr": [
+    "doc/82.doc",
+    "doc/LISR.doc",
+    "doc/LISR_*"
+  ],
+  "cpf": [
+    "doc/9.doc",
+    "doc/9_*",
+    "doc/CPF.doc"
+  ],
+  "cnpp": [
+    "doc/CNPP.doc",
+    "doc/CNPP_*"
+  ]
+}

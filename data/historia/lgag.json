@@ -1,0 +1,14 @@
+{
+  "slug": "lgag",
+  "abbreviation": "LGAg",
+  "versions": [
+    {
+      "dof": "2025-12-11",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGAg.doc",
+      "archived": null,
+      "sha256": "4c7397dedf295bd9d81181074bbacc64d49cffe67f891dfba66bdeb0226e08f0",
+      "articles": 45
+    }
+  ],
+  "captures_examined": []
+}

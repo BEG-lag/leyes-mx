@@ -1,0 +1,14 @@
+{
+  "slug": "lepepm",
+  "abbreviation": "LEPEPM",
+  "versions": [
+    {
+      "dof": "2025-03-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LEPEPM.doc",
+      "archived": null,
+      "sha256": "e6003c701985c5b785e1ef985e471b1e424d7f58704e2d4338e94796718a0749",
+      "articles": 126
+    }
+  ],
+  "captures_examined": []
+}

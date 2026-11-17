@@ -1,0 +1,46 @@
+{
+  "slug": "lfpdppp",
+  "abbreviation": "LFPDPPP",
+  "versions": [
+    {
+      "dof": "2025-03-20",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPDPPP.doc",
+      "archived": "https://web.archive.org/web/20181105065532/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LFPDPPP.doc",
+      "sha256": "df269fbc3e852f7b7c9f7b4d93fbbc876290b9cf48054526af1cca7fcdbdd3d1",
+      "articles": 69
+    },
+    {
+      "dof": "2025-11-14",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPDPPP.doc",
+      "archived": null,
+      "sha256": "e044244159869c9d25611f601ddd7064925ddb85529acd3502048b8bd6e8ff25",
+      "articles": 64
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20110815150704",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPDPPP.doc",
+      "dof": "2025-03-20",
+      "kept": true
+    },
+    {
+      "capture": "20130626060101",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPDPPP.doc",
+      "dof": "2025-03-20",
+      "kept": true
+    },
+    {
+      "capture": "20181105065532",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPDPPP.doc",
+      "dof": "2025-03-20",
+      "kept": true
+    },
+    {
+      "capture": "20260813203714",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFPDPPP.doc",
+      "dof": "2025-11-14",
+      "kept": true
+    }
+  ]
+}

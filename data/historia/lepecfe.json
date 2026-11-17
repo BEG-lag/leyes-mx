@@ -1,0 +1,14 @@
+{
+  "slug": "lepecfe",
+  "abbreviation": "LEPECFE",
+  "versions": [
+    {
+      "dof": "2025-03-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LEPECFE.doc",
+      "archived": null,
+      "sha256": "73459dc017d49af97372c7ffc32980f4433e888d6587743ea6a6c5a1289e2fe3",
+      "articles": 131
+    }
+  ],
+  "captures_examined": []
+}

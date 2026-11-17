@@ -1,0 +1,14 @@
+{
+  "slug": "lbio",
+  "abbreviation": "LBio",
+  "versions": [
+    {
+      "dof": "2025-03-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LBio.doc",
+      "archived": null,
+      "sha256": "a46ffa5904cba7935e8f80c1be1bbe3663f76b7e4115d70f3accf8dd282191a0",
+      "articles": 46
+    }
+  ],
+  "captures_examined": []
+}

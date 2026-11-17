@@ -1,0 +1,397 @@
+{
+  "slug": "lft",
+  "title": "Ley Federal del Trabajo",
+  "abbreviation": "LFT",
+  "published_dof": "1970-04-01",
+  "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm",
+  "original": {
+    "dof_date": "1970-04-01",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_orig_01abr70_ima.pdf"
+  },
+  "errata": [
+    {
+      "dof_date": "1970-04-30",
+      "url": null
+    }
+  ],
+  "decrees": [
+    {
+      "number": 1,
+      "title": "DECRETO por el que se reforman y adicionan los Artículos 97, 110, 136 al 151 inclusive y 782 de la Ley Federal del Trabajo.",
+      "dof_date": "1972-04-24",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref01_24abr72_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 2,
+      "title": "DECRETO por el que se reforman los Artículos 90, 97, 103, 110, 132 y adición del Artículo 103 Bis de la Ley Federal del Trabajo.",
+      "dof_date": "1974-01-09",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref02_fe_10ene74_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 3,
+      "title": "DECRETO de Reformas y Adiciones a la Ley Federal del Trabajo.",
+      "dof_date": "1974-09-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref03_30sep74_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 4,
+      "title": "DECRETO por el que se reforman diversas leyes para concordarlas con el Decreto que reformó el artículo 43 y demás relativos, de la Constitución Política de los Estados Unidos Mexicanos.",
+      "dof_date": "1974-12-23",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref04_23dic74_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 5,
+      "title": "DECRETO que reforma, adiciona y deroga diversos artículos de la Ley Federal del Trabajo.",
+      "dof_date": "1974-12-24",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref05_24dic74_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 6,
+      "title": "DECRETO que reforma el Artículo 95 de la Ley Federal del Trabajo.",
+      "dof_date": "1974-12-24",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref06_24dic74_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 7,
+      "title": "DECRETO de Reformas y Adiciones a diversos artículos de la Ley General de Población. Ley de Nacionalidad y Naturalización. Ley Federal del Trabajo, Ley Federal de los Trabajadores al Servicio del Estado, Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, Código de Procedimientos Civiles para el Distrito Federal y Código de Comercio.",
+      "dof_date": "1974-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref07_fe_09ene75_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 8,
+      "title": "DECRETO que reforma el Artículo 527 de la Ley Federal del Trabajo.",
+      "dof_date": "1975-02-07",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref08_07feb75_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 9,
+      "title": "DECRETO por el que se reforman los estudios 87 y 501 fracciones III y IV de la Ley Federal del Trabajo.",
+      "dof_date": "1975-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref09_31dic75_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 10,
+      "title": "DECRETO que reforma y adiciona la Ley Federal del Trabajo.",
+      "dof_date": "1976-07-02",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref10_02jul76_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 11,
+      "title": "DECRETO en Reformas a la Ley Federal del Trabajo.",
+      "dof_date": "1977-12-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref11_30dic77_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 12,
+      "title": "DECRETO de Reformas a la Ley Federal del Trabajo sobre Capacitación y Adiestramiento, Seguridad e Higiene y Federalización de Actividades y Ramas.",
+      "dof_date": "1978-04-28",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref12_28abr78_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 13,
+      "title": "DECRETO de reformas a la Ley Federal del Trabajo.",
+      "dof_date": "1980-01-04",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref13_fe_30ene80_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 14,
+      "title": "Decreto por el que se adiciona el Título Sexto de la Ley Federal del Trabajo, con un capítulo XVII.",
+      "dof_date": "1980-10-20",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref14_20oct80_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 15,
+      "title": "Decreto por el que se reforma y adiciona varios artículos de la Ley Federal del Trabajo.",
+      "dof_date": "1982-01-07",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref15_07ene82_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 16,
+      "title": "Decreto por el que se adiciona la Ley Federal del Trabajo, con un artículo 13 Transitorio.",
+      "dof_date": "1982-10-22",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref16_22oct82_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 17,
+      "title": "Decreto por el que se reforman y adicionan los artículos 570, 571 y 573 de la Ley Federal del Trabajo.",
+      "dof_date": "1982-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref17_31dic82_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 18,
+      "title": "Decreto por el que se reforma y adiciona la Ley Federal del Trabajo.",
+      "dof_date": "1983-12-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref18_fe_13abr84_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 19,
+      "title": "Decreto de Reformas a la Ley Federal del Trabajo y a la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.",
+      "dof_date": "1983-12-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref19_30dic83_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 20,
+      "title": "DECRETO por el que se reforman y adicionan las leyes Federal del Trabajo y del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.",
+      "dof_date": "1986-01-13",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref20_13ene86_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 21,
+      "title": "DECRETO por el que se adiciona el Artículo 74 de la Ley Federal del Trabajo y reforma el Artículo 29 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional",
+      "dof_date": "1987-12-22",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref21_22dic87_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 22,
+      "title": "DECRETO por el que se modifica la Ley Federal del Trabajo.",
+      "dof_date": "1988-01-21",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref22_21ene88_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 23,
+      "title": "DECRETO por el que se reforman diversos ordenamientos legales.",
+      "dof_date": "1998-01-23",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref23_23ene98.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref23_23ene98.doc"
+    },
+    {
+      "number": 24,
+      "title": "DECRETO por el que se reforma el artículo 74 de la Ley Federal del Trabajo.",
+      "dof_date": "2006-01-17",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref24_17ene06.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref24_17ene06.doc"
+    },
+    {
+      "number": 25,
+      "title": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.",
+      "dof_date": "2012-04-09",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref25_09abr12.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref25_09abr12.doc"
+    },
+    {
+      "number": 26,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo.",
+      "dof_date": "2012-11-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref26_30nov12.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref26_30nov12.doc"
+    },
+    {
+      "number": 27,
+      "title": "DECRETO por el que se reforman y derogan diversas disposiciones de la Ley Federal del Trabajo, en materia de trabajo de menores.",
+      "dof_date": "2015-06-12",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref27_12jun15.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref27_12jun15.doc"
+    },
+    {
+      "number": 28,
+      "title": "DECRETO por el que se reforma el artículo 265 de la Ley Federal del Trabajo.",
+      "dof_date": "2018-05-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref28_30may18.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref28_30may18.doc"
+    },
+    {
+      "number": 29,
+      "title": "DECRETO por el que se expide la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas, y se reforman diversas disposiciones de la Ley Federal del Trabajo; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley General de Títulos y Operaciones de Crédito; de la Ley de Instituciones de Crédito y de la Ley Agraria.",
+      "dof_date": "2018-06-22",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref29_22jun18.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref29_22jun18.doc"
+    },
+    {
+      "number": 30,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva.",
+      "dof_date": "2019-05-01",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref30_01may19.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref30_01may19.doc"
+    },
+    {
+      "number": 31,
+      "title": "DECRETO por el que se adicionan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y de la Ley Federal del Trabajo.",
+      "dof_date": "2019-06-04",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref31_04jun19.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref31_04jun19.doc"
+    },
+    {
+      "number": 32,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo y de la Ley del Seguro Social, en materia de las personas trabajadoras del hogar.",
+      "dof_date": "2019-07-02",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref32_02jul19.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref32_02jul19.doc"
+    },
+    {
+      "number": 33,
+      "title": "DECRETO por el que se reforma el artículo 311 y se adiciona el capítulo XII Bis de la Ley Federal del Trabajo, en materia de Teletrabajo.",
+      "dof_date": "2021-01-11",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref33_11ene21.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref33_11ene21.doc"
+    },
+    {
+      "number": 34,
+      "title": "DECRETO por el que se reforma y adiciona el artículo 90 de la Ley Federal del Trabajo.",
+      "dof_date": "2021-03-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref34_30mar21.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref34_30mar21.doc"
+    },
+    {
+      "number": 35,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral.",
+      "dof_date": "2021-04-23",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref35_23abr21.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref35_23abr21.doc"
+    },
+    {
+      "number": 36,
+      "title": "DECRETO por el que se reforman los Artículos Transitorios Primero, Tercero, Cuarto, Quinto, Sexto y Séptimo del \"Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral\", publicado el 23 de abril de 2021.",
+      "dof_date": "2021-07-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref36_31jul21.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref36_31jul21.doc"
+    },
+    {
+      "number": 37,
+      "title": "DECRETO por el que se reforma el artículo 176, fracción II, numeral 8 de la Ley Federal del Trabajo.",
+      "dof_date": "2022-04-05",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref37_05abr22.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref37_05abr22.doc"
+    },
+    {
+      "number": 38,
+      "title": "DECRETO por el que se reforma la fracción IX del artículo 132 y la fracción V del artículo 204 de la Ley Federal del Trabajo.",
+      "dof_date": "2022-04-28",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref38_28abr22.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref38_28abr22.doc"
+    },
+    {
+      "number": 39,
+      "title": "DECRETO por el que se adiciona un párrafo segundo al artículo 512 de la Ley Federal del Trabajo.",
+      "dof_date": "2022-04-28",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref39_28abr22.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref39_28abr22.doc"
+    },
+    {
+      "number": 40,
+      "title": "DECRETO por el que se reforma el artículo Quinto Transitorio del \"Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de justicia laboral, libertad sindical y negociación colectiva\", publicado en el Diario Oficial de la Federación el 1 de mayo de 2019.",
+      "dof_date": "2022-05-18",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref40_18may22.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref40_18may22.doc"
+    },
+    {
+      "number": 41,
+      "title": "DECRETO por el que se reforman los artículos 76 y 78 de la Ley Federal del Trabajo, en materia de vacaciones.",
+      "dof_date": "2022-12-27",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref41_27dic22.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref41_27dic22.doc"
+    },
+    {
+      "number": 42,
+      "title": "DECRETO por el que se reforman los artículos 251 de la Ley del Seguro Social y 146 de la Ley Federal del Trabajo, y se adiciona un artículo 59 Bis a la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.",
+      "dof_date": "2023-11-29",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref42_29nov23.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref42_29nov23.doc"
+    },
+    {
+      "number": 43,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo.",
+      "dof_date": "2023-12-04",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref43_04dic23.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref43_04dic23.doc"
+    },
+    {
+      "number": 44,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo y de la Ley del Seguro Social, en materia de derechos laborales de las personas trabajadoras del campo.",
+      "dof_date": "2024-01-24",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref44_24ene24.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref44_24ene24.doc"
+    },
+    {
+      "number": 45,
+      "title": "DECRETO por el que se reforma la fracción III del artículo 994 de la Ley Federal del Trabajo.",
+      "dof_date": "2024-04-04",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref45_04abr24.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref45_04abr24.doc"
+    },
+    {
+      "number": 46,
+      "title": "DECRETO por el que se reforma la fracción VII del artículo 74 de la Ley Federal del Trabajo, para establecer el 1o. de octubre de cada seis años, día de descanso obligatorio con motivo de la transmisión del Poder Ejecutivo Federal.",
+      "dof_date": "2024-09-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref46_30sep24.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref46_30sep24.doc"
+    },
+    {
+      "number": 47,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, en materia de erradicación de la brecha salarial por razones de género.",
+      "dof_date": "2024-12-16",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref47_16dic24.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref47_16dic24.doc"
+    },
+    {
+      "number": 48,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo.",
+      "dof_date": "2024-12-19",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref48_19dic24.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref48_19dic24.doc"
+    },
+    {
+      "number": 49,
+      "title": "DECRETO por el que se adicionan diversas disposiciones de la Ley Federal del Trabajo, en materia de Plataformas Digitales.",
+      "dof_date": "2024-12-24",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref49_24dic24.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref49_24dic24.doc"
+    },
+    {
+      "number": 50,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley Federal del Trabajo, en materia de vivienda con orientación social.",
+      "dof_date": "2025-02-21",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref50_21feb25.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref50_21feb25.doc"
+    },
+    {
+      "number": 51,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.",
+      "dof_date": "2026-01-15",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref51_15ene26.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref51_15ene26.doc"
+    },
+    {
+      "number": 52,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+      "dof_date": "2026-05-01",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref52_01may26.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref52_01may26.doc"
+    },
+    {
+      "number": 53,
+      "title": "DECRETO por el que se reforman los artículos 40, fracción I, de la Ley Orgánica de la Administración Pública Federal; 15, fracciones IV y VI, de la Ley de Comercio Exterior y se adiciona el artículo 283 Quáter a la Ley Federal del Trabajo, en materia de certificación laboral para la agroexportación y protección de los ecosistemas forestales.",
+      "dof_date": "2026-05-01",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref53_01may26.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref53_01may26.doc"
+    },
+    {
+      "number": 54,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes.",
+      "dof_date": "2026-05-14",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref54_14may26.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref54_14may26.doc"
+    }
+  ]
+}

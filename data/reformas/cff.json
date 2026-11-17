@@ -1,0 +1,411 @@
+{
+  "slug": "cff",
+  "title": "Código Fiscal de la Federación",
+  "abbreviation": "CFF",
+  "published_dof": "1981-12-31",
+  "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm",
+  "original": {
+    "dof_date": "1981-12-31",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_orig_31dic81_ima.zip"
+  },
+  "errata": [
+    {
+      "dof_date": "1982-07-13",
+      "url": null
+    }
+  ],
+  "decrees": [
+    {
+      "number": 1,
+      "title": "Decreto por el que se reforma el artículo primero transitorio del Código Fiscal de la Federación, y correlativos de otros ordenamientos.",
+      "dof_date": "1982-09-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref01_30sep82_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 2,
+      "title": "Ley que establece, reforma, adiciona y deroga diversas disposiciones fiscales.",
+      "dof_date": "1982-12-31",
+      "pdf_url": null,
+      "doc_url": null
+    },
+    {
+      "number": 3,
+      "title": "Decreto por el que se reforma el artículo 250 del Código Fiscal de la Federación.",
+      "dof_date": "1983-12-28",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref03_28dic83_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 4,
+      "title": "Ley que reforma, adiciona y deroga diversas disposiciones fiscales y que modifica Decreto de carácter mercantil.",
+      "dof_date": "1983-12-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref04_fe_28mar84_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 5,
+      "title": "Ley que establece, reforma, adiciona y deroga diversas disposiciones fiscales..",
+      "dof_date": "1984-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref05_fe_04mar85_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 6,
+      "title": "LEY que establece, reforma, adiciona y deroga diversas disposiciones fiscales.",
+      "dof_date": "1985-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref06_fe_24ene86_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 7,
+      "title": "DECRETO por el que se reforma, adiciona y deroga diversas disposiciones fiscales.",
+      "dof_date": "1986-04-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref07_fe_22may86_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 8,
+      "title": "LEY que establece, reforma, adiciona y deroga diversas disposiciones fiscales.",
+      "dof_date": "1986-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref08_31dic86_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 9,
+      "title": "LEY que reforma, adiciona y deroga diversas disposiciones fiscales.",
+      "dof_date": "1987-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref09_31dic87_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 10,
+      "title": "DECRETO por el que se reforma, adiciona y deroga disposiciones del Código Fiscal de la Federación, de la Ley Orgánica del Tribunal Fiscal de la Federación y de la Ley Federal de Instituciones de Fianzas.",
+      "dof_date": "1988-01-05",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref10_fe_19feb88_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 11,
+      "title": "LEY que establece, reforma, adiciona y deroga diversas disposiciones fiscales.",
+      "dof_date": "1988-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref11_fe_17ene89_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 12,
+      "title": "LEY que establece, reforma, adiciona y deroga diversas disposiciones fiscales y que adiciona la Ley General de Sociedades Mercantiles.",
+      "dof_date": "1989-12-28",
+      "pdf_url": null,
+      "doc_url": null
+    },
+    {
+      "number": 13,
+      "title": "LEY que establece, reforma, adiciona y deroga diversas disposiciones fiscales y que reforma otras leyes federales.",
+      "dof_date": "1990-12-26",
+      "pdf_url": null,
+      "doc_url": null
+    },
+    {
+      "number": 14,
+      "title": "LEY que reforma, adiciona y deroga diversas disposiciones fiscales.",
+      "dof_date": "1991-12-20",
+      "pdf_url": null,
+      "doc_url": null
+    },
+    {
+      "number": 15,
+      "title": "LEY que armoniza diversas disposiciones con el Acuerdo General de Aranceles y Comercio, los Tratados para evitar la doble tributación y para simplificación fiscal",
+      "dof_date": "1992-07-20",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref15_20jul92_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 16,
+      "title": "DECRETO que reforma, adiciona y deroga la Ley Aduanera y otras disposiciones relacionadas.",
+      "dof_date": "1993-07-26",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref16_fe_27jul93_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 17,
+      "title": "Ley que establece las reducciones impositivas acordadas en el Pacto para la Estabilidad, la Competitividad y el Empleo.",
+      "dof_date": "1993-12-03",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref17_03dic93_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 18,
+      "title": "DECRETO que reforma, adiciona y deroga disposiciones de diversas leyes relacionadas con el Tratado de Libre Comercio de América del Norte.",
+      "dof_date": "1993-12-22",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref18_22dic93_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 19,
+      "title": "DECRETO que reforma, adiciona y deroga diversas disposiciones fiscales relacionadas con el comercio y las transacciones internacionales.",
+      "dof_date": "1993-12-29",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref19_29dic93_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 20,
+      "title": "DECRETO que reforma y adiciona diversas disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; del Código Federal de Procedimientos Penales; de la Ley Federal de Armas de Fuego y Explosivos; del Código de Procedimientos Penales para el Distrito Federal; y del Código Fiscal de la Federación.",
+      "dof_date": "1994-07-22",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref20_22jul94.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref20_22jul94.doc"
+    },
+    {
+      "number": 21,
+      "title": "LEY que Reforma, Deroga y Adiciona Diversas Disposiciones Fiscales.",
+      "dof_date": "1994-12-28",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref21_28dic94.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref21_28dic94.doc"
+    },
+    {
+      "number": 22,
+      "title": "DECRETO por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adiciona diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta.",
+      "dof_date": "1995-04-01",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref22_01abr95.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref22_01abr95.doc"
+    },
+    {
+      "number": 23,
+      "title": "DECRETO por el que se expiden nuevas leyes fiscales y se modifican otras.",
+      "dof_date": "1995-12-15",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref23_15dic95.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref23_15dic95.doc"
+    },
+    {
+      "number": 24,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, del Código Fiscal de la Federación, del Código de Procedimientos Penales para el Distrito Federal y del Código Federal de Procedimientos Penales.",
+      "dof_date": "1996-05-13",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref24_13may96.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref24_13may96.doc"
+    },
+    {
+      "number": 25,
+      "title": "LEY que establece y modifica diversas Leyes Fiscales.",
+      "dof_date": "1996-12-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref25_30dic96.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref25_30dic96.doc"
+    },
+    {
+      "number": 26,
+      "title": "LEY que modifica al Código Fiscal de la Federación y a las leyes del Impuesto sobre la Renta, Impuesto al Valor Agregado, Impuesto Especial sobre Producción y Servicios, Impuesto sobre Tenencia o Uso de Vehículos, Federal del Impuesto sobre Automóviles Nuevos y Federal de Derechos.",
+      "dof_date": "1997-12-29",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref26_29dic97.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref26_29dic97.doc"
+    },
+    {
+      "number": 27,
+      "title": "DECRETO por el que se modifican diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto Especial sobre Producción y Servicios.",
+      "dof_date": "1998-05-29",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref27_29may98.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref27_29may98.doc"
+    },
+    {
+      "number": 28,
+      "title": "DECRETO por el que se modifican diversas leyes fiscales y otros ordenamientos federales.",
+      "dof_date": "1998-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref28_31dic98.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref28_31dic98.doc"
+    },
+    {
+      "number": 29,
+      "title": "LEY que Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales.",
+      "dof_date": "1999-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref29_31dic99.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref29_31dic99.doc"
+    },
+    {
+      "number": 30,
+      "title": "DECRETO por el que se reforman diversas disposiciones fiscales.",
+      "dof_date": "2000-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref30_31dic00.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref30_31dic00.doc"
+    },
+    {
+      "number": 31,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación.",
+      "dof_date": "2004-01-05",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref31_05ene04.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref31_05ene04.doc"
+    },
+    {
+      "number": 32,
+      "title": "DECRETO por el que se adiciona una fracción III al artículo 33 del Código Fiscal de la Federación.",
+      "dof_date": "2004-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref32_31dic04.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref32_31dic04.doc"
+    },
+    {
+      "number": 33,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Fiscal de la Federación, de la Ley de Vías Generales de Comunicación, de la Ley de Caminos, Puentes y Autotransporte Federal y de la Ley de la Policía Federal Preventiva.",
+      "dof_date": "2005-10-25",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref33_25oct05.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref33_25oct05.doc"
+    },
+    {
+      "number": 34,
+      "title": "DECRETO por el que se expide la Ley Federal de Procedimiento Contencioso Administrativo.",
+      "dof_date": "2005-12-01",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref34_01dic05.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref34_01dic05.doc"
+    },
+    {
+      "number": 35,
+      "title": "DECRETO por el que se reforman, adicionan, derogan y establecen diversas disposiciones del Código Fiscal de la Federación, de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto al Valor Agregado y de la Ley del Impuesto Especial sobre Producción y Servicios.",
+      "dof_date": "2006-06-28",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref35_28jun06.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref35_28jun06.doc"
+    },
+    {
+      "number": 36,
+      "title": "DECRETO por el que se reforman, derogan y adicionan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley de Instituciones de Crédito, Ley General de Instituciones y Sociedades Mutualistas de Seguros, Ley Federal de Instituciones de Fianzas, Ley para Regular las Agrupaciones Financieras, Ley de Ahorro y Crédito Popular, Ley de Inversión Extranjera, Ley del Impuesto sobre la Renta, Ley del Impuesto al Valor Agregado y del Código Fiscal de la Federación.",
+      "dof_date": "2006-07-18",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref36_18jul06.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref36_18jul06.doc"
+    },
+    {
+      "number": 37,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación; de las leyes de los Impuestos sobre la Renta, al Activo y Especial sobre Producción y Servicios; de la Ley Federal del Impuesto sobre Automóviles Nuevos y de la Ley Federal de Procedimiento Contencioso Administrativo.",
+      "dof_date": "2006-12-27",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref37_27dic06.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref37_27dic06.doc"
+    },
+    {
+      "number": 38,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, del Código Fiscal de la Federación, de la Ley del Impuesto Especial sobre Producción y Servicios y de la Ley del Impuesto al Valor Agregado, y se establece el Subsidio para el Empleo.",
+      "dof_date": "2007-10-01",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref38_01oct07.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref38_01oct07.doc"
+    },
+    {
+      "number": 39,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones al Código Fiscal de la Federación y a la Ley de Instituciones de Crédito.",
+      "dof_date": "2008-07-01",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref39_01jul08.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref39_01jul08.doc"
+    },
+    {
+      "number": 40,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Fiscal de la Federación y de la Ley del Servicio de Administración Tributaria.",
+      "dof_date": "2009-05-06",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref40_06may09.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref40_06may09.doc"
+    },
+    {
+      "number": 41,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta.",
+      "dof_date": "2009-06-04",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref41_04jun09.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref41_04jun09.doc"
+    },
+    {
+      "number": 42,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de las Leyes del Impuesto sobre la Renta, del Impuesto a los Depósitos en Efectivo y del Impuesto al Valor Agregado, del Código Fiscal de la Federación y del Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión; y reforma y adiciona diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta, publicado el 1 de abril de 1995.",
+      "dof_date": "2009-12-07",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref42_07dic09.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref42_07dic09.doc"
+    },
+    {
+      "number": 43,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica, del Código Penal Federal y del Código Fiscal de la Federación.",
+      "dof_date": "2011-05-10",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref43_10may11.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref43_10may11.doc"
+    },
+    {
+      "number": 44,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación.",
+      "dof_date": "2011-12-12",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref44_12dic11.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref44_12dic11.doc"
+    },
+    {
+      "number": 46,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; del Código Fiscal de la Federación y de la Ley Federal de Extinción de Dominio, Reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.",
+      "dof_date": "2014-03-14",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref46_14mar14.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref46_14mar14.doc"
+    },
+    {
+      "number": 48,
+      "title": "DECRETO por el que se expide la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Federal contra la Delincuencia Organizada; de la Ley Federal de Extinción de Dominio, reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; del Código Fiscal de la Federación y del Código Nacional de Procedimientos Penales.",
+      "dof_date": "2016-01-12",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref48_12ene16.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref48_12ene16.doc"
+    },
+    {
+      "number": 49,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Nacional de Procedimientos Penales; del Código Penal Federal; de la Ley General del Sistema Nacional de Seguridad Pública; de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Defensoría Pública, del Código Fiscal de la Federación y de la Ley de Instituciones de Crédito.",
+      "dof_date": "2016-06-17",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref49_17jun16.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref49_17jun16.doc"
+    },
+    {
+      "number": 51,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Procedimiento Contencioso Administrativo y al Código Fiscal de la Federación.",
+      "dof_date": "2017-01-27",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref51_27ene17.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref51_27ene17.doc"
+    },
+    {
+      "number": 52,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación, de la Ley Aduanera, del Código Penal Federal y de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.",
+      "dof_date": "2018-06-01",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref52_01jun18.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref52_01jun18.doc"
+    },
+    {
+      "number": 53,
+      "title": "DECRETO por el que se reforma el artículo 69-B del Código Fiscal de la Federación.",
+      "dof_date": "2018-06-25",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref53_25jun18.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref53_25jun18.doc"
+    },
+    {
+      "number": 54,
+      "title": "DECRETO por el que se reforma la fracción III del artículo 113 y se adiciona un artículo 113 Bis del Código Fiscal de la Federación.",
+      "dof_date": "2019-05-16",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref54_16may19.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref54_16may19.doc"
+    },
+    {
+      "number": 55,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal.",
+      "dof_date": "2019-11-08",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref55_08nov19.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref55_08nov19.doc"
+    },
+    {
+      "number": 57,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto al Valor Agregado y del Código Fiscal de la Federación.",
+      "dof_date": "2020-12-08",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref57_08dic20.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref57_08dic20.doc"
+    },
+    {
+      "number": 61,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+      "dof_date": "2025-10-16",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref61_16oct25.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref61_16oct25.doc"
+    },
+    {
+      "number": 62,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación.",
+      "dof_date": "2025-11-07",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref62_07nov25.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref62_07nov25.doc"
+    },
+    {
+      "number": 64,
+      "title": "DECRETO por el que se reforma el artículo 141 del Código Fiscal de la Federación.",
+      "dof_date": "2026-04-09",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref64_09abr26.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff/CFF_ref64_09abr26.doc"
+    }
+  ]
+}

@@ -1,0 +1,915 @@
+{
+  "slug": "cpf",
+  "title": "Código Penal Federal",
+  "abbreviation": "CPF",
+  "published_dof": "1931-08-14",
+  "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm",
+  "original": {
+    "dof_date": "1931-08-14",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_orig_14ago31_ima.pdf"
+  },
+  "errata": [
+    {
+      "dof_date": "1931-08-31",
+      "url": null
+    }
+  ],
+  "decrees": [
+    {
+      "number": 1,
+      "title": "DECRETO que reforma el Código Penal vigente.",
+      "dof_date": "1938-05-12",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref01_12may38_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 2,
+      "title": "DECRETO que adiciona el artículo 361 de la Ley Aduanal. (Contrabando de armas y municiones).",
+      "dof_date": "1939-11-10",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref02_10nov39_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 3,
+      "title": "DECRETO que reforma el Código Penal.",
+      "dof_date": "1940-02-14",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref03_14feb40_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 4,
+      "title": "DECRETO que reforma el Código Penal.",
+      "dof_date": "1941-11-14",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref04_14nov41_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 5,
+      "title": "DECRETO derogando el que adiciona el artículo 361 de la Ley Aduanal. (Contrabando de armas y municiones).",
+      "dof_date": "1941-12-27",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref05_27dic41_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 6,
+      "title": "LEY de Prevenciones Generales relativa a la suspensión de garantías individuales.",
+      "dof_date": "1942-06-13",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref06_13jun42_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 7,
+      "title": "DECRETO que modifica varios artículos del Código Penal para el Distrito y Territorios Federales en materia de fuero común y para toda la República en materia de fuero federal.",
+      "dof_date": "1944-03-24",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref07_24mar44_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 8,
+      "title": "DECRETO que reforma los artículos 24, 60 y 61 del Código Penal, en lo relativo a medidas de seguridad y pequeñas por delitos de imprudencia.",
+      "dof_date": "1945-02-10",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref08_10feb45_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 9,
+      "title": "DECRETO que reforma el artículo 40 del Código Penal para el Distrito y Territorios Federales en materia del fuero común.",
+      "dof_date": "1945-05-08",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref09_08may45_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 10,
+      "title": "DECRETO que declara Ley de Emergencia el capítulo 1º, título 7º, libro 2º, del Código Penal para el Distrito y Territorios Federales y Federal en toda la República en materia de este fuero relativo a la tenencia y tráfico de enervantes.",
+      "dof_date": "1945-05-12",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref10_12may45_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 11,
+      "title": "DECRETO que levanta la suspensión de garantías decretada 1º de junio de 1942, y restablece el orden constitucional, ratificando y declarando vigentes las disposiciones que el mismo especifica.",
+      "dof_date": "1945-12-28",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref11_28dic45_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 12,
+      "title": "LEY que reforma el Código Penal para el Distrito y Territorios Federales en materia del Fuero Común, y para toda la República en materia del Fuero Federal.",
+      "dof_date": "1946-03-09",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_fe_16jul46_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 13,
+      "title": "DECRETO que reforma el artículo 85 del Código Penal para el Distrito y Territorios Federales.",
+      "dof_date": "1946-03-09",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref13_09mar46_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 14,
+      "title": "DECRETO por el cual se reforma el artículo 250 del Código Penal Vigente",
+      "dof_date": "1947-01-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref14_30ene47_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 15,
+      "title": "DECRETO que reforma y adiciona los artículo 193, 194 y 197 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal.",
+      "dof_date": "1947-11-14",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref15_14nov47_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 16,
+      "title": "DECRETO que reforma el Código Penal para el Distrito y Territorios Federales en materia del fuero común y para toda la República en materia del fuero Federal.",
+      "dof_date": "1948-01-05",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref16_05ene48_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 17,
+      "title": "DECRETO que reforma diversos artículos del Código Penal.",
+      "dof_date": "1951-01-15",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_acla_31may56_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 18,
+      "title": "DECRETO que reforma el artículo 253 del Código Penal para el Distrito y Territorios Federales y para toda la República en Materia del Fuero Federal.",
+      "dof_date": "1952-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref18_31dic52_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 19,
+      "title": "DECRETO que reforma y adiciona el Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1955-01-05",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref19_05ene55_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 20,
+      "title": "DECRETO que reforma el artículo 64 del Código Penal, para el Distrito y Territorios Federales en materia de Fuero Común y para toda la República en materia de Fuero Federal.",
+      "dof_date": "1964-12-19",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref20_19dic64_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 21,
+      "title": "DECRETO que reforma el artículo 41 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del fuero Federal.",
+      "dof_date": "1965-01-13",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref21_13ene65_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 22,
+      "title": "REFORMAS al Código Penal para el Distrito y Territorios Federal.",
+      "dof_date": "1966-01-14",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref22_14ene66_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 23,
+      "title": "ADICIONES al Código Penal para el Distrito y Territorios Federales.",
+      "dof_date": "1967-01-20",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref23_20ene67_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 24,
+      "title": "REFORMAS al Código Penal en sus Artículos 265 y 266.",
+      "dof_date": "1967-01-20",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref24_20ene67_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 25,
+      "title": "SE ADICIONA el Código Penal con un Título Cuarto de su Libro Segundo.",
+      "dof_date": "1967-01-20",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref25_20ene67_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 26,
+      "title": "DECRETO que reforma los Artículos 15, 85, 193, 194, 195, 196, 197, 198, 199, 201, 306, 309 y 387; modificación del nombre de Capítulo Primero, Título Séptimo, Libro Segundo; y adición del Artículo 164 Bis del Código Penal para el Distrito y Territorios Federales en materia de Fuero Común y para toda la República en materia de Fuero Federal.",
+      "dof_date": "1968-03-08",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref26_08mar68_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 27,
+      "title": "DECRETO que adiciona con un tercer párrafo el artículo 170 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.",
+      "dof_date": "1968-12-24",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref27_24dic68_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 28,
+      "title": "DECRETO que reforma el artículo 311 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.",
+      "dof_date": "1969-02-18",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref28_18feb69_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 29,
+      "title": "REFORMAS al Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común y para toda la República en Materia Federal y al Código Federal de Procedimiento Penales.",
+      "dof_date": "1970-07-29",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref29_29jul70_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 30,
+      "title": "DECRETO que reforma diversos artículos del Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1971-03-19",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_fe_07may71_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 31,
+      "title": "DECRETO por el que se adiciona el Código Penal para el Distrito y Territorios Federales en materia de Fuero Común y para toda la República, en materia de Fuero Federal.",
+      "dof_date": "1972-01-11",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref31_11ene72_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 32,
+      "title": "LEY que crea los Consejos Tutelares para Menores Infractores del Distrito y Territorios Federales.",
+      "dof_date": "1974-08-02",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref32_02ago74_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 33,
+      "title": "DECRETO por el que se reforman diversas leyes para concordarlas con el Decreto que reformó el artículo 43 y demás relativos, de la Constitución Política de los Estados Unidos Mexicanos.",
+      "dof_date": "1974-12-23",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref33_23dic74_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 34,
+      "title": "DECRETO de Reformas al Código Penal para Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal; al Código Sanitario de los Estados Unidos Mexicanos, en relación con estupefacientes y psicotrópicos y al Artículo 41 del Primer Ordenamiento.",
+      "dof_date": "1974-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref34_31dic74_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 35,
+      "title": "DECRETO de Reformas al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1975-12-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref35_30dic75_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 36,
+      "title": "DECRETO que reforma a los artículos 336 y 337 del Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.",
+      "dof_date": "1977-12-26",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref36_26dic77_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 37,
+      "title": "DECRETO de reformas al Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, en sus artículos 85, 194, 195, 196, 197 y 198.",
+      "dof_date": "1978-12-08",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref37_08dic78_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 38,
+      "title": "DECRETO de Reformas a los Artículos 253 y 254, y Derogación del 253 Bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1979-12-05",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref38_05dic79_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 39,
+      "title": "DECRETO de reformas a los artículos 219, 220 y derogación del 221, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1980-01-03",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref39_03ene80_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 40,
+      "title": "DECRETO de reforma de la fracción I del artículo 383 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1980-01-03",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref40_03ene80_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 41,
+      "title": "DECRETO de reformas al artículo 389 del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.",
+      "dof_date": "1980-01-07",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref41_07ene80_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 42,
+      "title": "Decreto por el que se adiciona el Artículo 254 del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.",
+      "dof_date": "1980-12-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref42_30dic80_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 43,
+      "title": "Decreto por el que se reforman los artículos 39, 369, 370, 375, 382 y 386 del Código Penal para el Distrito Federal en Materia de Fuero Común y Para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1981-12-29",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_fe_13ene82_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 44,
+      "title": "Decreto por el que se reforma y adiciona el Artículo 167 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en materia de Fuero Federal.",
+      "dof_date": "1982-01-11",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref44_11ene82_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 45,
+      "title": "Decreto de reformas al Código Penal para el Distrito Federal en materia de fuero común y para toda la República en materia del fuero federal.",
+      "dof_date": "1983-01-05",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref45_05ene83_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 46,
+      "title": "DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1984-01-13",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref46_13ene84_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 47,
+      "title": "Decreto por el que se reforma el Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1985-01-14",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref47_14ene85_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 48,
+      "title": "Decreto por el que se adiciona el artículo 166 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y modifica el rubro del Capítulo VII, Título Décimo-Tercero, Libro Segundo, del Código Penal para el Distrito Federal en materia del fuero común y para toda la República en materia del fuero federal y la fracción IV del artículo 250 del mismo código.",
+      "dof_date": "1985-01-21",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref48_21ene85_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 49,
+      "title": "DECRETO por el que se reforma el Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1985-12-23",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref49_23dic85_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 50,
+      "title": "DECRETO por el que se reforma el Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1986-01-10",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref50_10ene86_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 51,
+      "title": "DECRETO por el que se reforma y adiciona el Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República Mexicana en materia de Fuero Federal.",
+      "dof_date": "1986-11-17",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref51_17nov86_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 52,
+      "title": "DECRETO por el que se reforma y adiciona el Código Penal para el Distrito Federal en Materia de Fuero Federal; el Código Federal de Procedimientos Penales, y la Ley de Vías Generales de Comunicación.",
+      "dof_date": "1986-11-19",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref52_19nov86_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 53,
+      "title": "DECRETO por el que se reforma y adiciona diversas disposiciones del Código Penal para el Distrito Federal en materia de fuero común, y para toda la República en materia de fuero federal.",
+      "dof_date": "1989-01-03",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref53_03ene89_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 54,
+      "title": "DECRETO que reforma, adiciona y deroga diversas disposiciones del Código Penal para el Distrito Federal en materia de fuero común, y para toda la República en materia de fuero federal; del Código de Procedimientos Penales para el Distrito Federal y del Código Federal de Procedimientos Penales.",
+      "dof_date": "1989-10-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref54_31oct89_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 55,
+      "title": "CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES.",
+      "dof_date": "1990-08-15",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_fe_06feb91_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 56,
+      "title": "DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1991-01-21",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref56_21ene91_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 57,
+      "title": "LEY para el tratamiento de Menores Infractores, para el Distrito Federal en Materia Común y para toda la República en Materia Federal.",
+      "dof_date": "1991-12-24",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref57_24dic91_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 58,
+      "title": "DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Penal Para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, del Código Federal de Procedimientos Penales y del Código de Procedimientos Penales para el Distrito Federal.",
+      "dof_date": "1991-12-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref58_30dic91_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 59,
+      "title": "DECRETO que adiciona un Artículo 254 Bis al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1991-12-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref59_30dic91_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 60,
+      "title": "DECRETO que modifica el Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal.",
+      "dof_date": "1992-06-11",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref60_11jun92_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 61,
+      "title": "DECRETO que adiciona el Artículo 123 del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1992-07-17",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref61_17jul92_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 62,
+      "title": "DECRETO que reforma y adiciona diversas disposiciones del Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal; y de la Ley que establece las normas mínimas sobre readaptación social de sentenciados.",
+      "dof_date": "1992-12-28",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref62_28dic92_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 63,
+      "title": "DECRETO que reforma, adiciona y deroga diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, del Código Federal de Procedimientos Penales, del Código de Procedimientos Penales para el Distrito Federal, de la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Extradición Internacional, del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, de la Ley Federal de Responsabilidades de los Servidores Públicos, de la Ley Orgánica del Tribunal Fiscal de la Federación, de la Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal, de la Ley Federal para Prevenir y Sancionar la Tortura y de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y de la Ley Orgánica del Poder Judicial de la Federación.",
+      "dof_date": "1994-01-10",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref63_10ene94.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 64,
+      "title": "DECRETO por el que se reforman y adicionan diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1994-03-25",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref64_25mar94.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 65,
+      "title": "DECRETO que reforma y adiciona diversas disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; del Código Federal de Procedimientos Penales; de la Ley Federal de Armas de Fuego y Explosivos; del Código de Procedimientos Penales para el Distrito Federal; y del Código Fiscal de la Federación.",
+      "dof_date": "1994-07-22",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref65_22jul94.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 66,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, del Código Fiscal de la Federación, del Código de Procedimientos Penales para el Distrito Federal y del Código Federal de Procedimientos Penales.",
+      "dof_date": "1996-05-13",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref66_13may96.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 67,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; del Código Federal de Procedimientos Penales; de la Ley de Vías Generales de Comunicación; de la Ley Orgánica del Poder Judicial de la Federación y de la Ley Orgánica de la Procuraduría General de la República.",
+      "dof_date": "1996-11-07",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref67_07nov96.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 68,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Federal de Instituciones y Procedimientos Electorales; de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Orgánica del Poder Judicial de la Federación; del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; del Estatuto de Gobierno del Distrito Federal; y se expide la Ley General del Sistema de Medios de Impugnación en Materia Electoral.",
+      "dof_date": "1996-11-22",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref68_22nov96.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 69,
+      "title": "DECRETO por el que se reforma, adiciona y deroga diversos artículos del Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal.",
+      "dof_date": "1996-12-13",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref69_13dic96.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 70,
+      "title": "DECRETO por el que se deroga la fracción XVI del artículo 387, se reforma el artículo 419, y se adiciona un Título Vigésimo Sexto al Libro Segundo, todos ellos del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.",
+      "dof_date": "1996-12-24",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref70_24dic96.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 71,
+      "title": "DECRETO por el que se reforman la fracción III del artículo 231 de la Ley Federal del Derecho de Autor, así como la fracción III del artículo 424 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1997-05-19",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref71_19may97.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 72,
+      "title": "DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal; del Código de Procedimientos Civiles para el Distrito Federal; del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, y del Código de Procedimientos Penales para el Distrito Federal.",
+      "dof_date": "1997-12-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref72_30dic97.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 73,
+      "title": "DECRETO por el que se modifican diversas leyes fiscales y otros ordenamientos federales.",
+      "dof_date": "1998-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref73_31dic98.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 74,
+      "title": "DECRETO por el que se reforman diversas disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; del Código Federal de Procedimientos Penales, y de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.",
+      "dof_date": "1999-02-08",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref74_08feb99.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 75,
+      "title": "DECRETO por el que se reforman diversas disposiciones en materia penal.",
+      "dof_date": "1999-05-17",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref75_17may99.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 76,
+      "title": "DECRETO por el que se reforman diversas disposiciones en materia penal.",
+      "dof_date": "1999-05-18",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref76_18may99.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 77,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal y del Código Federal de Procedimientos Penales.",
+      "dof_date": "2000-01-04",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref77_04ene00.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref77_04ene00.doc"
+    },
+    {
+      "number": 78,
+      "title": "DECRETO por el que se reforma y adiciona diversas disposiciones del Código Penal Federal, del Código Federal de Procedimientos Penales y de la Ley Orgánica del Poder Judicial de la Federación.",
+      "dof_date": "2000-06-12",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref78_12jun00.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref78_12jun00.doc"
+    },
+    {
+      "number": 79,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal y del Código Federal de Procedimientos Penales.",
+      "dof_date": "2001-06-01",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref79_01jun01.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref79_01jun01.doc"
+    },
+    {
+      "number": 80,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de los códigos Penal Federal y Federal de Procedimientos Penales.",
+      "dof_date": "2002-02-06",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref80_06feb02.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref80_06feb02.doc"
+    },
+    {
+      "number": 81,
+      "title": "DECRETO por el que se deroga el párrafo quinto del artículo 93, del Código Penal Federal.",
+      "dof_date": "2002-12-04",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref81_04dic02.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref81_04dic02.doc"
+    },
+    {
+      "number": 82,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal y del Código Federal de Procedimientos Penales.",
+      "dof_date": "2002-12-18",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref82_18dic02.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref82_18dic02.doc"
+    },
+    {
+      "number": 83,
+      "title": "DECRETO por el que se reforma el inciso b), fracción I, del artículo 85 del Código Penal Federal.",
+      "dof_date": "2003-06-12",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref83_12jun03.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref83_12jun03.doc"
+    },
+    {
+      "number": 84,
+      "title": "DECRETO por el que se reforman los artículos 25, segundo párrafo, 55 y 64, segundo párrafo del Código Penal Federal.",
+      "dof_date": "2004-05-26",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref84_26may04.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref84_26may04.doc"
+    },
+    {
+      "number": 85,
+      "title": "DECRETO por el que se adiciona el inciso d) a la fracción I del artículo 366 del Código Penal Federal.",
+      "dof_date": "2005-06-16",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref85_16jun05.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref85_16jun05.doc"
+    },
+    {
+      "number": 86,
+      "title": "DECRETO por el que se reforman diversas disposiciones del Código Penal.",
+      "dof_date": "2005-08-23",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref86_23ago05.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref86_23ago05.doc"
+    },
+    {
+      "number": 87,
+      "title": "DECRETO por el que se adiciona el Código Federal de Procedimientos Penales y el Código Penal Federal.",
+      "dof_date": "2006-02-08",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref87_08feb06.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref87_08feb06.doc"
+    },
+    {
+      "number": 88,
+      "title": "DECRETO por el que se reforma el artículo 364 del Código Penal Federal.",
+      "dof_date": "2006-05-19",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref88_19may06.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref88_19may06.doc"
+    },
+    {
+      "number": 89,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Federal de Procedimientos Penales y del Código Penal Federal.",
+      "dof_date": "2006-06-06",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref89_06jun06.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref89_06jun06.doc"
+    },
+    {
+      "number": 90,
+      "title": "DECRETO por el que se reforma la fracción III del artículo 84 del Código Penal Federal.",
+      "dof_date": "2006-06-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref90_30jun06.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref90_30jun06.doc"
+    },
+    {
+      "number": 91,
+      "title": "DECRETO por el que se reforman y adicionan los artículos 15, 52, 72 y 73 de la Ley de la Comisión Nacional de los Derechos Humanos; 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; y 214 fracción V del Código Penal Federal.",
+      "dof_date": "2006-06-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref91_30jun06.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref91_30jun06.doc"
+    },
+    {
+      "number": 92,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Federal de Procedimientos Penales y de la Ley Federal contra la Delincuencia Organizada, en materia de explotación sexual infantil.",
+      "dof_date": "2007-03-27",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref92_27mar07.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref92_27mar07.doc"
+    },
+    {
+      "number": 93,
+      "title": "DECRETO por el que se derogan diversas disposiciones del Código Penal Federal y se adicionan diversas disposiciones al Código Civil Federal.",
+      "dof_date": "2007-04-13",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref93_13abr07.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref93_13abr07.doc"
+    },
+    {
+      "number": 94,
+      "title": "DECRETO por el que se reforman diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Sociedades de Inversión; de la Ley del Mercado de Valores; de la Ley Federal de Instituciones de Fianzas; de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; y de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.",
+      "dof_date": "2007-06-28",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref94_28jun07.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref94_28jun07.doc"
+    },
+    {
+      "number": 95,
+      "title": "DECRETO por el que se expide la Ley para Prevenir y Sancionar la Trata de Personas, y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; el Código Federal de Procedimientos Penales y el Código Penal Federal.",
+      "dof_date": "2007-11-27",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref95_27nov07.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref95_27nov07.doc"
+    },
+    {
+      "number": 96,
+      "title": "DECRETO por el que se reforma el primer párrafo del artículo 247 del Código Penal Federal.",
+      "dof_date": "2008-06-20",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref96_20jun08.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref96_20jun08.doc"
+    },
+    {
+      "number": 114,
+      "title": "DECRETO por el que se reforma la fracción XVII del artículo 381 del Código Penal Federal.",
+      "dof_date": "2013-01-25",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref114_25ene13.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref114_25ene13.doc"
+    },
+    {
+      "number": 115,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Federal de Procedimientos Penales, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Orgánica de la Procuraduría General de la República y del Código Penal Federal.",
+      "dof_date": "2013-05-03",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref115_03may13.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref115_03may13.doc"
+    },
+    {
+      "number": 118,
+      "title": "DECRETO por el que se reforma el primer párrafo del artículo 60 del Código Penal Federal.",
+      "dof_date": "2013-12-26",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref118_26dic13.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref118_26dic13.doc"
+    },
+    {
+      "number": 119,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; del Código Fiscal de la Federación y de la Ley Federal de Extinción de Dominio, Reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.",
+      "dof_date": "2014-03-14",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref119_14mar14.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref119_14mar14.doc"
+    },
+    {
+      "number": 120,
+      "title": "DECRETO por el que se expide la Ley Federal de Competencia Económica y se reforman y adicionan diversos artículos del Código Penal Federal.",
+      "dof_date": "2014-05-23",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref120_23may14.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref120_23may14.doc"
+    },
+    {
+      "number": 122,
+      "title": "DECRETO por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión.",
+      "dof_date": "2014-07-14",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref122_14jul14.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref122_14jul14.doc"
+    },
+    {
+      "number": 123,
+      "title": "DECRETO por el que se reforman los artículos 222 y 222 Bis del Código Penal Federal y el artículo 13 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.",
+      "dof_date": "2015-03-12",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref123_12mar15.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref123_12mar15.doc"
+    },
+    {
+      "number": 124,
+      "title": "DECRETO por el que se reforma el artículo Décimo Noveno Transitorio del Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión, publicado el 14 de julio de 2014.",
+      "dof_date": "2015-12-18",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref124_18dic15.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref124_18dic15.doc"
+    },
+    {
+      "number": 128,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Nacional de Procedimientos Penales; del Código Penal Federal; de la Ley General del Sistema Nacional de Seguridad Pública; de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Defensoría Pública, del Código Fiscal de la Federación y de la Ley de Instituciones de Crédito.",
+      "dof_date": "2016-06-17",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref128_17jun16.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref128_17jun16.doc"
+    },
+    {
+      "number": 129,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal en Materia de Combate a la Corrupción.",
+      "dof_date": "2016-07-18",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref129_18jul16.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref129_18jul16.doc"
+    },
+    {
+      "number": 130,
+      "title": "DECRETO por el que se reforman los artículos 153 y 154, y se deroga el artículo 151 del Código Penal Federal.",
+      "dof_date": "2017-03-27",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref130_27mar17.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref130_27mar17.doc"
+    },
+    {
+      "number": 131,
+      "title": "DECRETO por el que se reforma el artículo 420 del Código Penal Federal y se adiciona el artículo 2o. de la Ley Federal contra la Delincuencia Organizada.",
+      "dof_date": "2017-04-07",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref131_07abr17.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref131_07abr17.doc"
+    },
+    {
+      "number": 132,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Salud y del Código Penal Federal.",
+      "dof_date": "2017-06-19",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref132_19jun17.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref132_19jun17.doc"
+    },
+    {
+      "number": 133,
+      "title": "DECRETO por el que se adiciona el artículo 419 Bis al Código Penal Federal.",
+      "dof_date": "2017-06-22",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref133_22jun17.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref133_22jun17.doc"
+    },
+    {
+      "number": 134,
+      "title": "DECRETO por el que se reforma el encabezado de Capítulo I del Título Decimoctavo y se adiciona el artículo 284 Bis al Código Penal Federal.",
+      "dof_date": "2017-06-22",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref134_22jun17.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref134_22jun17.doc"
+    },
+    {
+      "number": 135,
+      "title": "DECRETO por el que se reforma el artículo 381 Bis y se adicionan los artículos 381 Ter y 381 Quáter al Código Penal Federal.",
+      "dof_date": "2017-06-23",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref135_23jun17.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref135_23jun17.doc"
+    },
+    {
+      "number": 136,
+      "title": "DECRETO por el que se expide la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; y se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley del Sistema Nacional de Seguridad Pública y de la Ley de Extradición Internacional.",
+      "dof_date": "2017-06-26",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref136_26jun17.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref136_26jun17.doc"
+    },
+    {
+      "number": 137,
+      "title": "DECRETO por el que se expide la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y se reforman y derogan diversas disposiciones del Código Penal Federal y de la Ley General de Salud.",
+      "dof_date": "2017-11-17",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref137_17nov17.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref137_17nov17.doc"
+    },
+    {
+      "number": 138,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal y de la Ley Orgánica del Poder Judicial de la Federación, en materia de Delitos Carreteros.",
+      "dof_date": "2018-02-21",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref138_21feb18.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref138_21feb18.doc"
+    },
+    {
+      "number": 139,
+      "title": "DECRETO por el que se reforma el tercer párrafo del artículo 149-Bis del Código Penal Federal.",
+      "dof_date": "2018-03-09",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref139_09mar18.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref139_09mar18.doc"
+    },
+    {
+      "number": 140,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación, de la Ley Aduanera, del Código Penal Federal y de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.",
+      "dof_date": "2018-06-01",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref140_01jun18.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref140_01jun18.doc"
+    },
+    {
+      "number": 141,
+      "title": "DECRETO por el que se reforma el primer párrafo del artículo 259 Bis; se adiciona un Título Séptimo BIS con un Capítulo I; un artículo 199 Septies; y una fracción V al artículo 266 Bis del Código Penal Federal.",
+      "dof_date": "2018-06-15",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref141_15jun18.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref141_15jun18.doc"
+    },
+    {
+      "number": 142,
+      "title": "DECRETO por el que se adiciona un tercer párrafo al Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014.",
+      "dof_date": "2018-06-15",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref142_15jun18.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref142_15jun18.doc"
+    },
+    {
+      "number": 146,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal.",
+      "dof_date": "2019-11-08",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref146_08nov19.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref146_08nov19.doc"
+    },
+    {
+      "number": 147,
+      "title": "DECRETO por el que se adicionan un artículo 190 Bis a la Ley Federal de Telecomunicaciones y Radiodifusión, y un artículo 168 ter al Código Penal Federal.",
+      "dof_date": "2020-01-24",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref147_24ene20.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref147_24ene20.doc"
+    },
+    {
+      "number": 148,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal.",
+      "dof_date": "2020-07-01",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref148_01jul20.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref148_01jul20.doc"
+    },
+    {
+      "number": 149,
+      "title": "DECRETO por el que se reforma y adiciona el artículo 167 del Código Nacional de Procedimientos Penales; se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Delitos Electorales, de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego y Explosivos, del Código Penal Federal, de la Ley General de Salud, de la Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación.",
+      "dof_date": "2021-02-19",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref149_19feb21.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref149_19feb21.doc"
+    },
+    {
+      "number": 150,
+      "title": "DECRETO por el que se adicionan diversas disposiciones a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y al Código Penal Federal.",
+      "dof_date": "2021-06-01",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref150_01jun21.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref150_01jun21.doc"
+    },
+    {
+      "number": 162,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal y de la Ley Federal de Armas de Fuego y Explosivos.",
+      "dof_date": "2024-06-07",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref162_07jun24.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref162_07jun24.doc"
+    },
+    {
+      "number": 164,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, y se reforma el artículo 400 Bis del Código Penal Federal.",
+      "dof_date": "2025-07-16",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref164_16jul25.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref164_16jul25.doc"
+    },
+    {
+      "number": 165,
+      "title": "DECRETO por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y, se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.",
+      "dof_date": "2025-11-28",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref165_28nov25.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref165_28nov25.doc"
+    },
+    {
+      "number": 166,
+      "title": "DECRETO por el que se reforman los artículos 260 y 266 Bis del Código Penal Federal, en materia de abuso sexual.",
+      "dof_date": "2026-03-13",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref166_13mar26.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref166_13mar26.doc"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "lansi",
+  "abbreviation": "LANSI",
+  "versions": [
+    {
+      "dof": "2014-08-11",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LANSI_110814.doc",
+      "archived": "https://web.archive.org/web/20181105065213/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LANSI_110814.doc",
+      "sha256": "df1a282226079b72c971afb5c992cee9541c9683a4681f6ec26708b571ecc367",
+      "articles": 38
+    },
+    {
+      "dof": "2021-05-20",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LANSI_200521.doc",
+      "archived": "https://web.archive.org/web/20210824083942/http://www.diputados.gob.mx/LeyesBiblio/doc/LANSI_200521.doc",
+      "sha256": "0925af58f85df192a83e39357f766d66bd901a04a3ae8626d4f927b75c8bf127",
+      "articles": 38
+    },
+    {
+      "dof": "2022-05-11",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LANSI.doc",
+      "archived": null,
+      "sha256": "c99d7d06ad68ad781718a1fb78849f3ae129c34b6df11a1ee0e5777aebaf14e1",
+      "articles": 38
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20181105065213",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LANSI_110814.doc",
+      "dof": "2014-08-11",
+      "kept": true
+    },
+    {
+      "capture": "20210824083942",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LANSI_200521.doc",
+      "dof": "2021-05-20",
+      "kept": true
+    },
+    {
+      "capture": "20221104222742",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LANSI.doc",
+      "dof": "2022-05-11",
+      "kept": true
+    }
+  ]
+}

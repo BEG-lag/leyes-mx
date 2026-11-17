@@ -1,0 +1,103 @@
+{
+  "slug": "lgsm",
+  "title": "Ley General de Sociedades Mercantiles",
+  "abbreviation": "LGSM",
+  "published_dof": "1934-08-04",
+  "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm.htm",
+  "original": {
+    "dof_date": "1934-08-04",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm/LGSM_orig_04ago34_ima.zip"
+  },
+  "errata": [
+    {
+      "dof_date": "1934-08-28",
+      "url": null
+    }
+  ],
+  "decrees": [
+    {
+      "number": 1,
+      "title": "LEY que reforma la General de Sociedades Mercantiles vigente.",
+      "dof_date": "1943-02-02",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm/LGSM_ref01_02feb43_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 2,
+      "title": "DECRETO que reforma el artículo 70 de la Ley General de Sociedades Mercantiles.",
+      "dof_date": "1949-02-12",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm/LGSM_ref02_12feb49_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 3,
+      "title": "DECRETO que reforma los artículos 125 y 140 de la Ley General de Sociedades Mercantiles.",
+      "dof_date": "1956-12-31",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm/LGSM_ref03_31dic56_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 4,
+      "title": "DECRETO por el que se modifica, adiciona y deroga diversas disposiciones del Código de Comercio y de la Ley General de Sociedades Mercantiles.",
+      "dof_date": "1981-01-23",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm/LGSM_ref04_23ene81_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 5,
+      "title": "Decreto que establece, reforma y adiciona diversas disposiciones de carácter mercantil.",
+      "dof_date": "1982-12-30",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm/LGSM_ref05_30dic82_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 6,
+      "title": "Ley que reforma, adiciona y deroga diversas disposiciones fiscales y que modifica Decreto de carácter mercantil.",
+      "dof_date": "1983-12-30",
+      "pdf_url": null,
+      "doc_url": null
+    },
+    {
+      "number": 7,
+      "title": "Decreto por el que se reforma, adiciona y deroga diversas disposiciones de la Ley del Mercado de Valores y de otras leyes de carácter mercantil.",
+      "dof_date": "1985-02-08",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm/LGSM_fe02_03abr85_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 8,
+      "title": "LEY que establece, reforma, adiciona y deroga diversas disposiciones fiscales y que adiciona la Ley General de Sociedades Mercantiles.",
+      "dof_date": "1989-12-28",
+      "pdf_url": null,
+      "doc_url": null
+    },
+    {
+      "number": 9,
+      "title": "DECRETO que reforma, adiciona y deroga diversas disposiciones de la Ley de Sociedades Mercantiles.",
+      "dof_date": "1992-06-11",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm/LGSM_fe03_12jun92_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 10,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de Sociedades Mercantiles y del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal.",
+      "dof_date": "1996-12-24",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm/LGSM_ref10_24dic96.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 11,
+      "title": "DECRETO por el que se reforman diversas disposiciones de la Ley Federal sobre Metrología y Normalización, y de la Ley General de Sociedades Mercantiles.",
+      "dof_date": "2006-07-28",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm/LGSM_ref11_28jul06.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm/LGSM_ref11_28jul06.doc"
+    },
+    {
+      "number": 12,
+      "title": "DECRETO por el que se reforman diversas disposiciones del Código de Comercio y de la Ley General de Sociedades Mercantiles.",
+      "dof_date": "2009-06-02",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm/LGSM_ref12_02jun09.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm/LGSM_ref12_02jun09.doc"
+    }
+  ]
+}

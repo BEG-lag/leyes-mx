@@ -1,0 +1,56 @@
+{
+  "slug": "lfda",
+  "title": "Ley Federal del Derecho de Autor",
+  "abbreviation": "LFDA",
+  "published_dof": "1996-12-24",
+  "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda.htm",
+  "original": {
+    "dof_date": "1996-12-24",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_orig_24dic96_ima.zip"
+  },
+  "errata": [],
+  "decrees": [
+    {
+      "number": 1,
+      "title": "DECRETO por el que se reforman la fracción III del artículo 231 de la Ley Federal del Derecho de Autor, así como la fracción III del artículo 424 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.",
+      "dof_date": "1997-05-19",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_ref01_19may97.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 2,
+      "title": "DECRETO por el que se reforma la Ley Federal del Derecho de Autor.",
+      "dof_date": "2003-07-23",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_ref02_23jul03.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_ref02_23jul03.doc"
+    },
+    {
+      "number": 3,
+      "title": "DECRETO por el que se reforman diversas disposiciones de la Ley de la Propiedad Industrial y el artículo 232 de la Ley Federal del Derecho de Autor.",
+      "dof_date": "2012-01-27",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_ref03_27ene12.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_ref03_27ene12.doc"
+    },
+    {
+      "number": 4,
+      "title": "DECRETO por el que se reforman los artículos 210, fracción I; 218, fracción III; 235; y se adiciona un último párrafo al artículo 213 de la Ley Federal del Derecho de Autor.",
+      "dof_date": "2013-06-10",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_ref04_10jun13.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_ref04_10jun13.doc"
+    },
+    {
+      "number": 15,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.",
+      "dof_date": "2026-01-15",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_ref15_15ene26.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_ref15_15ene26.doc"
+    },
+    {
+      "number": 16,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes.",
+      "dof_date": "2026-05-14",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_ref16_14may26.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda/LFDA_ref16_14may26.doc"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "lfce",
+  "title": "Ley Federal de Competencia Económica",
+  "abbreviation": "LFCE",
+  "published_dof": "2014-05-23",
+  "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce.htm",
+  "original": {
+    "dof_date": "2014-05-23",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_orig_23may14.pdf"
+  },
+  "errata": [],
+  "decrees": [
+    {
+      "number": 3,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica y de la Ley Federal de las Entidades Paraestatales.",
+      "dof_date": "2025-07-16",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_ref03_16jul25.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_ref03_16jul25.doc"
+    }
+  ]
+}

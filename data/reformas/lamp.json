@@ -1,0 +1,28 @@
+{
+  "slug": "lamp",
+  "title": "Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos",
+  "abbreviation": "LAmp",
+  "published_dof": "2013-04-02",
+  "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamp.htm",
+  "original": {
+    "dof_date": "2013-04-02",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamp/LAmp_orig_02abr13.pdf"
+  },
+  "errata": [],
+  "decrees": [
+    {
+      "number": 9,
+      "title": "DECRETO por el que se reforman y derogan diversas disposiciones de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.",
+      "dof_date": "2025-03-13",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamp/LAmp_ref09_13mar25.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamp/LAmp_ref09_13mar25.doc"
+    },
+    {
+      "number": 10,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+      "dof_date": "2025-10-16",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamp/LAmp_ref10_16oct25.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamp/LAmp_ref10_16oct25.doc"
+    }
+  ]
+}

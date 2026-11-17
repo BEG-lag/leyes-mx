@@ -1,0 +1,42 @@
+{
+  "slug": "lgra",
+  "title": "Ley General de Responsabilidades Administrativas",
+  "abbreviation": "LGRA",
+  "published_dof": "2016-07-18",
+  "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra.htm",
+  "original": {
+    "dof_date": "2016-07-18",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra/LGRA_orig_18jul16.pdf"
+  },
+  "errata": [],
+  "decrees": [
+    {
+      "number": 1,
+      "title": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Remuneraciones de los Servidores Públicos, reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, del Código Penal Federal y de la Ley General de Responsabilidades Administrativas.",
+      "dof_date": "2019-04-12",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra/LGRA_ref01_12abr19.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra/LGRA_ref01_12abr19.doc"
+    },
+    {
+      "number": 2,
+      "title": "DECRETO por el que se expide la Ley Federal de Austeridad Republicana; y se reforman y adicionan diversas disposiciones de la Ley General de Responsabilidades Administrativas y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
+      "dof_date": "2019-11-19",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra/LGRA_ref02_19nov19.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra/LGRA_ref02_19nov19.doc"
+    },
+    {
+      "number": 7,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Responsabilidades Administrativas.",
+      "dof_date": "2025-01-02",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra/LGRA_ref07_02ene25.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra/LGRA_ref07_02ene25.doc"
+    },
+    {
+      "number": 8,
+      "title": "DECRETO por el que se adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.",
+      "dof_date": "2025-12-15",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra/LGRA_ref08_15dic25.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra/LGRA_ref08_15dic25.doc"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "lpte",
+  "abbreviation": "LPTE",
+  "versions": [
+    {
+      "dof": "2025-03-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LPTE.doc",
+      "archived": null,
+      "sha256": "3c4855731c185b71471db8f7f63a36f380ddbf82cb9c1a70c256fdba3577a3a2",
+      "articles": 100
+    }
+  ],
+  "captures_examined": []
+}

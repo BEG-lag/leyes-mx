@@ -1,0 +1,14 @@
+{
+  "slug": "lse",
+  "abbreviation": "LSE",
+  "versions": [
+    {
+      "dof": "2025-03-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LSE.doc",
+      "archived": null,
+      "sha256": "a807e45b7695fee2f7f2ed634428fe03c5bd0d81b14e0fefb606f57f06f640af",
+      "articles": 188
+    }
+  ],
+  "captures_examined": []
+}

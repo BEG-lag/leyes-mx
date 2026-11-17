@@ -1,0 +1,28 @@
+{
+  "slug": "lfpa",
+  "title": "Ley Federal de Procedimiento Administrativo",
+  "abbreviation": "LFPA",
+  "published_dof": "1994-08-04",
+  "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpa.htm",
+  "original": {
+    "dof_date": "1994-08-04",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpa/LFPA_orig_04ago94_ima.zip"
+  },
+  "errata": [],
+  "decrees": [
+    {
+      "number": 1,
+      "title": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de Sociedades Mercantiles y del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal.",
+      "dof_date": "1996-12-24",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpa/LFPA_ref01_24dic96.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 2,
+      "title": "DECRETO por el que se reforma la Ley Federal de Procedimiento Administrativo.",
+      "dof_date": "2000-04-19",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpa/LFPA_ref02_19abr00.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpa/LFPA_ref02_19abr00.doc"
+    }
+  ]
+}

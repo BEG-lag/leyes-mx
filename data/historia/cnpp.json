@@ -1,0 +1,183 @@
+{
+  "slug": "cnpp",
+  "abbreviation": "CNPP",
+  "versions": [
+    {
+      "dof": "2014-03-05",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "archived": "https://web.archive.org/web/20140701184206/http://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "sha256": "9f3e4cd62913415c5a075a6eca4a16237a6b1c305ccad329d0d13a3a4c0fbcc7",
+      "articles": 490
+    },
+    {
+      "dof": "2014-12-29",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_291214.doc",
+      "archived": "https://web.archive.org/web/20150315094139/http://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_291214.doc",
+      "sha256": "c9335e01f18bfae3ca83f5fb9075acc94d19fa76b27183f19580c4c1bd52a0cd",
+      "articles": 490
+    },
+    {
+      "dof": "2016-01-12",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_120116.doc",
+      "archived": "https://web.archive.org/web/20160221053739/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_120116.doc",
+      "sha256": "f8ddd4681a0ebc9a3e4949017d2338fb570008600994cd04e2e1c531ca9adac6",
+      "articles": 490
+    },
+    {
+      "dof": "2016-06-17",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_170616.doc",
+      "archived": "https://web.archive.org/web/20160717110345/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_170616.doc",
+      "sha256": "ced005ef30e08aac1a00f6fa0b9e9430de53445b45c2c1ed9a66c015ec084f5e",
+      "articles": 490
+    },
+    {
+      "dof": "2018-06-25",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_250618.doc",
+      "archived": "https://web.archive.org/web/20181126040815/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_250618.doc",
+      "sha256": "72a4ce5d36d8508af0b42f61458a211c56e58337baffa1e22188957261aa26e6",
+      "articles": 490
+    },
+    {
+      "dof": "2019-08-09",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_090819.doc",
+      "archived": "https://web.archive.org/web/20191012071410/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_090819.doc",
+      "sha256": "08174ad6ededaad499657cbe1e003f035ce303057bbfa51c645c830c855c9db8",
+      "articles": 490
+    },
+    {
+      "dof": "2019-11-08",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_081119.doc",
+      "archived": "https://web.archive.org/web/20191206114218/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_081119.doc",
+      "sha256": "e819fc88864c357929e1d1c62a4b5ad38ede95b4ca474dde679f01ad5466b1c3",
+      "articles": 490
+    },
+    {
+      "dof": "2020-01-22",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_220120.doc",
+      "archived": "https://web.archive.org/web/20200228071112/http://www.diputados.gob.mx:80/LeyesBiblio/doc/CNPP_220120.doc",
+      "sha256": "e3eec7e993f87f36a47c8744aaa2501bc3a2a17214f11447fd0e22b0846bc4f2",
+      "articles": 490
+    },
+    {
+      "dof": "2021-02-19",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "archived": "https://web.archive.org/web/20230122184210/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "sha256": "2760a6738af543d021819a40b2df18ab8bd749645c53bdf32cce84258683aef7",
+      "articles": 490
+    },
+    {
+      "dof": "2023-04-25",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "archived": "https://web.archive.org/web/20230603071623/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "sha256": "8fda4afcab76cf7f6ea9318aaadda81745c8cc43834ea785f62ef38982cf7ac6",
+      "articles": 490
+    },
+    {
+      "dof": "2024-01-26",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "archived": "https://web.archive.org/web/20240405093730/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "sha256": "5e397bcc83d38dfe1e1202d41a0f13e0cff09d82109378873af497f12bbdf782",
+      "articles": 490
+    },
+    {
+      "dof": "2024-12-16",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "archived": "https://web.archive.org/web/20250130150203/https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "sha256": "ad5100049b887306d9def7fe0c7dd2d6a166975ce842c1fc887c989730853f83",
+      "articles": 490
+    },
+    {
+      "dof": "2025-11-28",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "archived": null,
+      "sha256": "d9748449446d54f8525f98b569d8f88d751e5a70747824d39983e5df0c5a83b0",
+      "articles": 490
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20140701184206",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "dof": "2014-03-05",
+      "kept": true
+    },
+    {
+      "capture": "20150315094139",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_291214.doc",
+      "dof": "2014-12-29",
+      "kept": true
+    },
+    {
+      "capture": "20160221053739",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_120116.doc",
+      "dof": "2016-01-12",
+      "kept": true
+    },
+    {
+      "capture": "20160717110345",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_170616.doc",
+      "dof": "2016-06-17",
+      "kept": true
+    },
+    {
+      "capture": "20181126040815",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_250618.doc",
+      "dof": "2018-06-25",
+      "kept": true
+    },
+    {
+      "capture": "20191012071410",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_090819.doc",
+      "dof": "2019-08-09",
+      "kept": true
+    },
+    {
+      "capture": "20191206114218",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_081119.doc",
+      "dof": "2019-11-08",
+      "kept": true
+    },
+    {
+      "capture": "20200228071112",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_220120.doc",
+      "dof": "2020-01-22",
+      "kept": true
+    },
+    {
+      "capture": "20210422164528",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP_190221.doc",
+      "dof": "2021-02-19",
+      "kept": true
+    },
+    {
+      "capture": "20230122184210",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "dof": "2021-02-19",
+      "kept": true
+    },
+    {
+      "capture": "20230603071623",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "dof": "2023-04-25",
+      "kept": true
+    },
+    {
+      "capture": "20240405093730",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "dof": "2024-01-26",
+      "kept": true
+    },
+    {
+      "capture": "20250130150203",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "dof": "2024-12-16",
+      "kept": true
+    },
+    {
+      "capture": "20260218015313",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+      "dof": "2025-11-28",
+      "kept": true
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "slug": "lan",
+  "abbreviation": "LAN",
+  "versions": [
+    {
+      "dof": "2004-04-29",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "archived": "https://web.archive.org/web/20071122203427/http://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "sha256": "01e399489cc002c197af1e508add711bbde3cd89fb4097b4b80976d7052e4227",
+      "articles": 190
+    },
+    {
+      "dof": "2008-04-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "archived": "https://web.archive.org/web/20080611025823/http://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "sha256": "376508c49826019dd59fda8ebe0e1d6457d9c76c34a2943a1662984fa8bc38ae",
+      "articles": 190
+    },
+    {
+      "dof": "2011-06-20",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "archived": "https://web.archive.org/web/20110911083429/http://www.diputados.gob.mx:80/LeyesBiblio/doc/16.doc",
+      "sha256": "9b49ae9a08f691cfc9495ce942b0b0ed1857077413dcdd2516bbc06a27c6282f",
+      "articles": 190
+    },
+    {
+      "dof": "2012-06-08",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "archived": "https://web.archive.org/web/20121115124603/http://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "sha256": "f998276da355cb7dd5b351042443a2377eb0319215f8db47d9846bcaa2299399",
+      "articles": 193
+    },
+    {
+      "dof": "2013-06-07",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "archived": "https://web.archive.org/web/20130626054157/http://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "sha256": "ffb63f8e7a4dcffd06b5125af54f2894f736ab3f1dfd6d6745a77e1860b79e3c",
+      "articles": 193
+    },
+    {
+      "dof": "2014-08-11",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/16_110814.doc",
+      "archived": "https://web.archive.org/web/20150315091459/http://www.diputados.gob.mx/LeyesBiblio/doc/16_110814.doc",
+      "sha256": "b3c7c2955e1db2281c6ddde2025f30aae386a165f20e1ae0b2a92baa7bb6d499",
+      "articles": 193
+    },
+    {
+      "dof": "2016-03-24",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/16_240316.doc",
+      "archived": "https://web.archive.org/web/20181105063857/http://www.diputados.gob.mx:80/LeyesBiblio/doc/16_240316.doc",
+      "sha256": "92fcb33454e16d6dad51ffa3bee994e4e3224180bf7add19660b5ff7880ea8ca",
+      "articles": 193
+    },
+    {
+      "dof": "2020-01-06",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/16_060120.doc",
+      "archived": "https://web.archive.org/web/20200131180655/http://www.diputados.gob.mx:80/LeyesBiblio/doc/16_060120.doc",
+      "sha256": "51520dbfe23b622eacfa0a1ac653a0ad70c80282fcc7168525cb7e738b5e0e17",
+      "articles": 193
+    },
+    {
+      "dof": "2022-05-11",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc",
+      "archived": "https://web.archive.org/web/20230204224819/https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc",
+      "sha256": "6d9bb71ede982fff258390a7d1e2dfcb6b1050b5bad7b9ae567daca5aea283d4",
+      "articles": 193
+    },
+    {
+      "dof": "2023-05-08",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc",
+      "archived": "https://web.archive.org/web/20230602094020/https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc",
+      "sha256": "75cf7f91f9a1d15160e7816a06e690cbe7d0018f103c318df0232593d2850cc7",
+      "articles": 198
+    },
+    {
+      "dof": "2025-12-11",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc",
+      "archived": null,
+      "sha256": "89cffb9aa5addab411111b2876df5ede12cea7bfb79122688d55e9350b7a9157",
+      "articles": 215
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20061102053430",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "dof": "2004-04-29",
+      "kept": true
+    },
+    {
+      "capture": "20071122203427",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "dof": "2004-04-29",
+      "kept": true
+    },
+    {
+      "capture": "20080611025823",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "dof": "2008-04-18",
+      "kept": true
+    },
+    {
+      "capture": "20110911083429",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "dof": "2011-06-20",
+      "kept": true
+    },
+    {
+      "capture": "20121115124603",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "dof": "2012-06-08",
+      "kept": true
+    },
+    {
+      "capture": "20130626054157",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/16.doc",
+      "dof": "2013-06-07",
+      "kept": true
+    },
+    {
+      "capture": "20150315091459",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/16_110814.doc",
+      "dof": "2014-08-11",
+      "kept": true
+    },
+    {
+      "capture": "20181105063857",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/16_240316.doc",
+      "dof": "2016-03-24",
+      "kept": true
+    },
+    {
+      "capture": "20200131180655",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/16_060120.doc",
+      "dof": "2020-01-06",
+      "kept": true
+    },
+    {
+      "capture": "20230204224819",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc",
+      "dof": "2022-05-11",
+      "kept": true
+    },
+    {
+      "capture": "20230602094020",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc",
+      "dof": "2023-05-08",
+      "kept": true
+    },
+    {
+      "capture": "20261109161910",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc",
+      "dof": "2025-12-11",
+      "kept": true
+    }
+  ]
+}

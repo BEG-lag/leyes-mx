@@ -1,0 +1,99 @@
+{
+  "slug": "lfce",
+  "abbreviation": "LFCE",
+  "versions": [
+    {
+      "dof": "2014-05-23",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFCE.doc",
+      "archived": "https://web.archive.org/web/20150315084519/http://www.diputados.gob.mx/LeyesBiblio/doc/LFCE.doc",
+      "sha256": "bde22abe3f44490ee6ff5c5313c98cf2539e55fb96a148744a568b4d322510bb",
+      "articles": 140,
+      "warnings": [
+        "115 missing article numbers"
+      ]
+    },
+    {
+      "dof": "2017-01-27",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFCE_270117.doc",
+      "archived": "https://web.archive.org/web/20181105065431/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LFCE_270117.doc",
+      "sha256": "af93f3317c81bd4ce83c76440bc926a78073b9af9945a81f7d70c7e60dd40354",
+      "articles": 138
+    },
+    {
+      "dof": "2021-05-20",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFCE_200521.doc",
+      "archived": "https://web.archive.org/web/20210822204231/http://www.diputados.gob.mx/LeyesBiblio/doc/LFCE_200521.doc",
+      "sha256": "8e21df5cb85439a8b70e8fa0355ac3582900464b1ee710788b047df883482ac9",
+      "articles": 138
+    },
+    {
+      "dof": "2025-11-14",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFCE.doc",
+      "archived": null,
+      "sha256": "a767982cc1e6588085ed08d258498430e8ec4a70fa5f144029327ecfacd2cbbb",
+      "articles": 153
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20060817060336",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/104.doc",
+      "dof": "2006-06-28",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20070825204613",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/104.doc",
+      "dof": "2007-07-12",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20110815145324",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/104.doc",
+      "dof": "2011-05-10",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20111017234432",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/104.doc",
+      "dof": "2011-08-30",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20120511141511",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/104.doc",
+      "dof": "2012-04-09",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20130626014313",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/104.doc",
+      "dof": "2012-04-09",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20140701182407",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFCE.doc",
+      "dof": "2014-05-23",
+      "kept": true
+    },
+    {
+      "capture": "20150315084519",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFCE.doc",
+      "dof": "2014-05-23",
+      "kept": true
+    },
+    {
+      "capture": "20181105065431",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFCE_270117.doc",
+      "dof": "2017-01-27",
+      "kept": true
+    },
+    {
+      "capture": "20210822204231",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFCE_200521.doc",
+      "dof": "2021-05-20",
+      "kept": true
+    }
+  ]
+}

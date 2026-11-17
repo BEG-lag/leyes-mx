@@ -1,0 +1,153 @@
+{
+  "slug": "lisr",
+  "abbreviation": "LISR",
+  "versions": [
+    {
+      "dof": "2013-12-11",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR.doc",
+      "archived": "https://web.archive.org/web/20140210003409/http://www.diputados.gob.mx/LeyesBiblio/doc/LISR.doc",
+      "sha256": "b0f3af0436db4763ba4dbf6363cc1827f284cae9d1cf38cc477ba6578207a38f",
+      "articles": 195
+    },
+    {
+      "dof": "2015-11-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR_181115.doc",
+      "archived": "https://web.archive.org/web/20160309095753/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LISR_181115.doc",
+      "sha256": "65b9391a1c7086d9d8c3dbedb28a6c6765cdacef0ef895a37dbfbd3579051e75",
+      "articles": 198
+    },
+    {
+      "dof": "2016-11-30",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR_301116.doc",
+      "archived": "https://web.archive.org/web/20190711024357/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LISR_301116.doc",
+      "sha256": "ad529e0c9f6eb804d5c222055cbf1ee28007c8b9874ef4f745729b5bc210093c",
+      "articles": 209
+    },
+    {
+      "dof": "2019-12-09",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR_091219.doc",
+      "archived": "https://web.archive.org/web/20200131180748/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LISR_091219.doc",
+      "sha256": "8815c9e471077a7b3fd8d09a880032df5bca5e8ae4a3bd0629c288cfb869b7b6",
+      "articles": 218
+    },
+    {
+      "dof": "2020-12-08",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR_081220.doc",
+      "archived": "https://web.archive.org/web/20210422200511/http://www.diputados.gob.mx/LeyesBiblio/doc/LISR_081220.doc",
+      "sha256": "e6891e90416d1c9991b3998c09369493bb0ce27f7f922712dc5d95de8d5535dd",
+      "articles": 220
+    },
+    {
+      "dof": "2021-11-12",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR.doc",
+      "archived": "https://web.archive.org/web/20220404202127/http://www.diputados.gob.mx/LeyesBiblio/doc/LISR.doc",
+      "sha256": "5112ce36c8cdae8bf0469325f5df9240a7a5b9562c5e6aa12c3f1c48c8caeb9e",
+      "articles": 236
+    },
+    {
+      "dof": "2024-04-01",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR.doc",
+      "archived": null,
+      "sha256": "b78d8894a476f8010fba3cf25a09f3056577a07bd48e1afef1686c78443cb90e",
+      "articles": 236
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20060715071302",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/82.doc",
+      "dof": "2005-12-29",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20060818064256",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/82.doc",
+      "dof": "2006-07-18",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20061111184324",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/82.doc",
+      "dof": "2006-07-18",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20070112180251",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/82.doc",
+      "dof": "2006-12-27",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20071122210329",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/82.doc",
+      "dof": "2007-10-01",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20100922204643",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/82.doc",
+      "dof": "2010-04-27",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20110911072101",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/82.doc",
+      "dof": "2010-12-31",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20121115134010",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/82.doc",
+      "dof": "2012-05-25",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20130626052631",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/82.doc",
+      "dof": "2012-05-25",
+      "skipped": "older than this law (abrogated namesake or no date)"
+    },
+    {
+      "capture": "20140210003409",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR.doc",
+      "dof": "2013-12-11",
+      "kept": true
+    },
+    {
+      "capture": "20160309095753",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR_181115.doc",
+      "dof": "2015-11-18",
+      "kept": true
+    },
+    {
+      "capture": "20190711024357",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR_301116.doc",
+      "dof": "2016-11-30",
+      "kept": true
+    },
+    {
+      "capture": "20200131180748",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR_091219.doc",
+      "dof": "2019-12-09",
+      "kept": true
+    },
+    {
+      "capture": "20210422200511",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR_081220.doc",
+      "dof": "2020-12-08",
+      "kept": true
+    },
+    {
+      "capture": "20220404202127",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR.doc",
+      "dof": "2021-11-12",
+      "kept": true
+    },
+    {
+      "capture": "20261114194213",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LISR.doc",
+      "dof": "2024-04-01",
+      "kept": true
+    }
+  ]
+}

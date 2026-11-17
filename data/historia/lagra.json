@@ -1,0 +1,150 @@
+{
+  "slug": "lagra",
+  "abbreviation": "LAgra",
+  "versions": [
+    {
+      "dof": "1993-07-09",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc",
+      "archived": "https://web.archive.org/web/20061102053529/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13.doc",
+      "sha256": "7d7382818bb7026a5d87a7c9fb031079211b44bd3d52b819597a73c3e5981c4c",
+      "articles": 200
+    },
+    {
+      "dof": "2008-04-17",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc",
+      "archived": "https://web.archive.org/web/20110303155216/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13.doc",
+      "sha256": "eb5af33f20b6f27a421ea67d152721009ff9b89e3d0936230744919926ce8f61",
+      "articles": 200
+    },
+    {
+      "dof": "2011-06-22",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc",
+      "archived": "https://web.archive.org/web/20110911082124/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13.doc",
+      "sha256": "eb4f7349dd6789d34f8ba96d651c570b96090a946e8e801caaf90078f7db7872",
+      "articles": 200
+    },
+    {
+      "dof": "2012-04-09",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc",
+      "archived": "https://web.archive.org/web/20130626020227/http://www.diputados.gob.mx/LeyesBiblio/doc/13.doc",
+      "sha256": "0114165771cd0c6ded3da2f1a1e7f42b5b25e8330831e1655af6b813d1d938a9",
+      "articles": 200
+    },
+    {
+      "dof": "2017-03-27",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/13_270317.doc",
+      "archived": "https://web.archive.org/web/20170518230626/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13_270317.doc",
+      "sha256": "838edfbebf6369ecee0670c35343b89a4c140567b21f5a437b2ef26fccd0ee4e",
+      "articles": 200
+    },
+    {
+      "dof": "2018-06-25",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/13_250618.doc",
+      "archived": "https://web.archive.org/web/20181105062943/http://www.diputados.gob.mx:80/LeyesBiblio/doc/13_250618.doc",
+      "sha256": "2c32c4f938ad97201f485007841d9f3bf2211944735d34ffce1667e93aba7afa",
+      "articles": 201
+    },
+    {
+      "dof": "2022-03-08",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc",
+      "archived": "https://web.archive.org/web/20220404202202/http://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc",
+      "sha256": "121ba1616a5ba72e06b778da68bf93ec278098a33e0e4bd0e47a422476e7ccac",
+      "articles": 201
+    },
+    {
+      "dof": "2023-04-25",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc",
+      "archived": "https://web.archive.org/web/20240405093407/https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc",
+      "sha256": "78892dbb0a0cff301e1db58ec508a5b606d6eb27ff1ffa6de55d2c71894af703",
+      "articles": 201
+    },
+    {
+      "dof": "2024-04-01",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc",
+      "archived": "https://web.archive.org/web/20250109002708/https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc",
+      "sha256": "42fad6c39900a8f25ade6109350ab1da43f4819658f26d49343a231c6ccfc04a",
+      "articles": 201
+    },
+    {
+      "dof": "2025-11-14",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc",
+      "archived": null,
+      "sha256": "517367b4be51364662c6cc5f3d6690647c613c7b2321f6255a4255df0ff12649",
+      "articles": 201
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20061102053529",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc",
+      "dof": "1993-07-09",
+      "kept": true
+    },
+    {
+      "capture": "20080611022719",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc",
+      "dof": "2008-04-17",
+      "kept": true
+    },
+    {
+      "capture": "20110303155216",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc",
+      "dof": "2008-04-17",
+      "kept": true
+    },
+    {
+      "capture": "20110911082124",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc",
+      "dof": "2011-06-22",
+      "kept": true
+    },
+    {
+      "capture": "20120511145034",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc",
+      "dof": "2012-04-09",
+      "kept": true
+    },
+    {
+      "capture": "20130626020227",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/13.doc",
+      "dof": "2012-04-09",
+      "kept": true
+    },
+    {
+      "capture": "20170518230626",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/13_270317.doc",
+      "dof": "2017-03-27",
+      "kept": true
+    },
+    {
+      "capture": "20181105062943",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/13_250618.doc",
+      "dof": "2018-06-25",
+      "kept": true
+    },
+    {
+      "capture": "20220404202202",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc",
+      "dof": "2022-03-08",
+      "kept": true
+    },
+    {
+      "capture": "20240405093407",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc",
+      "dof": "2023-04-25",
+      "kept": true
+    },
+    {
+      "capture": "20250109002708",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc",
+      "dof": "2024-04-01",
+      "kept": true
+    },
+    {
+      "capture": "20260109164930",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc",
+      "dof": "2025-11-14",
+      "kept": true
+    }
+  ]
+}

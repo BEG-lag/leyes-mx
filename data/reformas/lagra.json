@@ -1,0 +1,49 @@
+{
+  "slug": "lagra",
+  "title": "Ley Agraria",
+  "abbreviation": "LAgra",
+  "published_dof": "1992-02-26",
+  "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lagra.htm",
+  "original": {
+    "dof_date": null,
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lagra/LAgra_orig_26feb92_ima.pdf"
+  },
+  "errata": [],
+  "decrees": [
+    {
+      "number": 1,
+      "title": "DECRETO que reforma y adiciona diversas disposiciones de las Leyes Orgánica de los Tribunales Agrarios y Agraria.",
+      "dof_date": "1993-07-09",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lagra/LAgra_ref01_09jul93_ima.pdf",
+      "doc_url": null
+    },
+    {
+      "number": 2,
+      "title": "DECRETO por el que se reforma el artículo 80 de la Ley Agraria.",
+      "dof_date": "2008-04-17",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lagra/LAgra_ref02_17abr08.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lagra/LAgra_ref02_17abr08.doc"
+    },
+    {
+      "number": 3,
+      "title": "DECRETO por el que se reforma el artículo 72 de la Ley Agraria.",
+      "dof_date": "2011-06-03",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lagra/LAgra_ref03_03jun11.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lagra/LAgra_ref03_03jun11.doc"
+    },
+    {
+      "number": 4,
+      "title": "DECRETO por el que se reforma el artículo 164 de la Ley Agraria.",
+      "dof_date": "2011-06-22",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lagra/LAgra_ref04_22jun11.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lagra/LAgra_ref04_22jun11.doc"
+    },
+    {
+      "number": 5,
+      "title": "DECRETO por el que se reforma el artículo 30 de la Ley Agraria.",
+      "dof_date": "2012-01-17",
+      "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lagra/LAgra_ref05_17ene12.pdf",
+      "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lagra/LAgra_ref05_17ene12.doc"
+    }
+  ]
+}

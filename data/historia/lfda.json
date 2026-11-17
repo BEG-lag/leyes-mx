@@ -1,0 +1,144 @@
+{
+  "slug": "lfda",
+  "abbreviation": "LFDA",
+  "versions": [
+    {
+      "dof": "2003-07-23",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/122.doc",
+      "archived": "https://web.archive.org/web/20110815150422/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122.doc",
+      "sha256": "e2527bbfdc3590fe2daabd1906177b97dd78c78df2c28c3914bc49b69eda5ab7",
+      "articles": 244
+    },
+    {
+      "dof": "2012-01-27",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/122.doc",
+      "archived": "https://web.archive.org/web/20120511152327/http://www.diputados.gob.mx/LeyesBiblio/doc/122.doc",
+      "sha256": "816792489915a17d58c9cb7d89ab7c707eaeb13785aba3419f88babf2ad98997",
+      "articles": 244
+    },
+    {
+      "dof": "2013-06-10",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/122.doc",
+      "archived": "https://web.archive.org/web/20130626041100/http://www.diputados.gob.mx/LeyesBiblio/doc/122.doc",
+      "sha256": "6e985c9334e4af1f40144576e468bdc73bf7e272e2e70e3b19432ceabcf0e2e4",
+      "articles": 244
+    },
+    {
+      "dof": "2014-07-14",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/122_140714.doc",
+      "archived": "https://web.archive.org/web/20140809062450/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122_140714.doc",
+      "sha256": "e4a553e259579a91516cc7b4f56ce82b950fc3133179a6f0527fd03f56aecd83",
+      "articles": 244
+    },
+    {
+      "dof": "2015-03-17",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/122_170315.doc",
+      "archived": "https://web.archive.org/web/20150514150313/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122_170315.doc",
+      "sha256": "e8970a0ea3fb5947873724b68cc7c13406b8748d87a830939071ca7c277ccfcc",
+      "articles": 244
+    },
+    {
+      "dof": "2016-01-13",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/122_130116.doc",
+      "archived": "https://web.archive.org/web/20160221054744/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122_130116.doc",
+      "sha256": "fcac19d41cfd6f423b484c1d0a66c9e9225a969ff1e419bcf101beb548ad86f9",
+      "articles": 244
+    },
+    {
+      "dof": "2018-06-15",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/122_150618.doc",
+      "archived": "https://web.archive.org/web/20181105062837/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122_150618.doc",
+      "sha256": "c1ef49df8569911c5bd91d759593a00b55b3777877babd499724bdc8de4c19f1",
+      "articles": 245
+    },
+    {
+      "dof": "2020-01-24",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/122_240120.doc",
+      "archived": "https://web.archive.org/web/20200327141732/http://www.diputados.gob.mx:80/LeyesBiblio/doc/122_240120.doc",
+      "sha256": "1dcf1b9dff07479a5fd2709d221e816b7371827cff375e2733a0b5518b072e61",
+      "articles": 245
+    },
+    {
+      "dof": "2020-07-01",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFDA.doc",
+      "archived": "https://web.archive.org/web/20230602003745/https://www.diputados.gob.mx/LeyesBiblio/doc/LFDA.doc",
+      "sha256": "129f851a9e81c2d41fa9eeae89a1a1356fba91e10b631771f6b824351a1d7132",
+      "articles": 257
+    },
+    {
+      "dof": "2026-05-14",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFDA.doc",
+      "archived": null,
+      "sha256": "8c4c11b98889de810cba15a1157b7a4d4f8621a9b034bfc9b06d10f530605b4a",
+      "articles": 259
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20060817055729",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/122.doc",
+      "dof": "2003-07-23",
+      "kept": true
+    },
+    {
+      "capture": "20110815150422",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/122.doc",
+      "dof": "2003-07-23",
+      "kept": true
+    },
+    {
+      "capture": "20120511152327",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/122.doc",
+      "dof": "2012-01-27",
+      "kept": true
+    },
+    {
+      "capture": "20130626041100",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/122.doc",
+      "dof": "2013-06-10",
+      "kept": true
+    },
+    {
+      "capture": "20140809062450",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/122_140714.doc",
+      "dof": "2014-07-14",
+      "kept": true
+    },
+    {
+      "capture": "20150514150313",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/122_170315.doc",
+      "dof": "2015-03-17",
+      "kept": true
+    },
+    {
+      "capture": "20160221054744",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/122_130116.doc",
+      "dof": "2016-01-13",
+      "kept": true
+    },
+    {
+      "capture": "20181105062837",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/122_150618.doc",
+      "dof": "2018-06-15",
+      "kept": true
+    },
+    {
+      "capture": "20200327141732",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/122_240120.doc",
+      "dof": "2020-01-24",
+      "kept": true
+    },
+    {
+      "capture": "20200720020233",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/122_010720.doc",
+      "dof": "2020-07-01",
+      "kept": true
+    },
+    {
+      "capture": "20230602003745",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFDA.doc",
+      "dof": "2020-07-01",
+      "kept": true
+    }
+  ]
+}

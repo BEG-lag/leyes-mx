@@ -1,0 +1,14 @@
+{
+  "slug": "lcne",
+  "abbreviation": "LCNE",
+  "versions": [
+    {
+      "dof": "2025-12-26",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LCNE.doc",
+      "archived": null,
+      "sha256": "401dfa459fdbfb6b6e37ca61fb4872772af7ec0c8afc6c7414d211f10b43cc6b",
+      "articles": 28
+    }
+  ],
+  "captures_examined": []
+}

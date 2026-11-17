@@ -1,0 +1,143 @@
+{
+  "slug": "lgra",
+  "abbreviation": "LGRA",
+  "versions": [
+    {
+      "dof": "2016-07-18",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "archived": "https://web.archive.org/web/20181105070104/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LGRA.doc",
+      "sha256": "8b98abc16465d2c576a46ee44c9fbf4f95657e9c863b2b778060e40039c56b33",
+      "articles": 229
+    },
+    {
+      "dof": "2019-04-12",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA_120419.doc",
+      "archived": "https://web.archive.org/web/20190711032738/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LGRA_120419.doc",
+      "sha256": "2a411da7d688f668dd005b84e28e221d3ea94e5bef84875ca657d06c21247a85",
+      "articles": 230
+    },
+    {
+      "dof": "2019-11-19",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA_191119.doc",
+      "archived": "https://web.archive.org/web/20191221225231/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LGRA_191119.doc",
+      "sha256": "159d3cc00e8b2f9e49833b279130322edcbfa68558260b657aea5cc278a1544f",
+      "articles": 233
+    },
+    {
+      "dof": "2020-04-13",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA_130420.doc",
+      "archived": "https://web.archive.org/web/20200720020456/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LGRA_130420.doc",
+      "sha256": "c6d771fe5d96d4d3bed39c9bb5da8f02630d6153e31c206e70401895868ef803",
+      "articles": 233
+    },
+    {
+      "dof": "2021-05-20",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA_200521.doc",
+      "archived": "https://web.archive.org/web/20210819152910/http://www.diputados.gob.mx/LeyesBiblio/doc/LGRA_200521.doc",
+      "sha256": "e6864c7ec97dd81df24947a771cea49fbeb7d1f3536cc80f1d4cfecf398c4243",
+      "articles": 233
+    },
+    {
+      "dof": "2021-11-22",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "archived": "https://web.archive.org/web/20220404202242/http://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "sha256": "85604dfe362a48611af15d05cc6a603f3a65af7bcd76c1b0b63122340ac1f6fe",
+      "articles": 234
+    },
+    {
+      "dof": "2022-12-27",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "archived": "https://web.archive.org/web/20240405093811/https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "sha256": "ab09ebd9bf482d981ae2ce584eb644886f9bc6d0a37e1d36bf87ab28d57e3b51",
+      "articles": 234
+    },
+    {
+      "dof": "2025-01-02",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "archived": "https://web.archive.org/web/20250409172128/https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "sha256": "f95520ea70d6a394c68f1e1ab886acab7b15f9cf66630df38ee71bd1f5bad245",
+      "articles": 234
+    },
+    {
+      "dof": "2025-12-15",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "archived": null,
+      "sha256": "a6965ca932fceef4906a8a04f4c1346a3027c87e90972174210ff72ac7b72055",
+      "articles": 235
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20160806130527",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "dof": "2016-07-18",
+      "kept": true
+    },
+    {
+      "capture": "20170919014558",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "dof": "2016-07-18",
+      "kept": true
+    },
+    {
+      "capture": "20181105070104",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "dof": "2016-07-18",
+      "kept": true
+    },
+    {
+      "capture": "20190711032738",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA_120419.doc",
+      "dof": "2019-04-12",
+      "kept": true
+    },
+    {
+      "capture": "20191221225231",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA_191119.doc",
+      "dof": "2019-11-19",
+      "kept": true
+    },
+    {
+      "capture": "20200720020456",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA_130420.doc",
+      "dof": "2020-04-13",
+      "kept": true
+    },
+    {
+      "capture": "20210819152910",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA_200521.doc",
+      "dof": "2021-05-20",
+      "kept": true
+    },
+    {
+      "capture": "20220404202242",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "dof": "2021-11-22",
+      "kept": true
+    },
+    {
+      "capture": "20230219224657",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "dof": "2022-12-27",
+      "kept": true
+    },
+    {
+      "capture": "20240405093811",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "dof": "2022-12-27",
+      "kept": true
+    },
+    {
+      "capture": "20250409172128",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "dof": "2025-01-02",
+      "kept": true
+    },
+    {
+      "capture": "20260802214031",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGRA.doc",
+      "dof": "2025-12-15",
+      "kept": true
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "lih",
+  "abbreviation": "LIH",
+  "versions": [
+    {
+      "dof": "2014-08-11",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_110814.doc",
+      "archived": "https://web.archive.org/web/20150315110912/http://www.diputados.gob.mx/LeyesBiblio/doc/LIH_110814.doc",
+      "sha256": "ec9cca53291a453d9c4514cc5f5d87bc05fc58e87fb9804b2cffafa93677df3b",
+      "articles": 64
+    },
+    {
+      "dof": "2016-04-01",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_010416.doc",
+      "archived": "https://web.archive.org/web/20160430033019/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LIH_010416.doc",
+      "sha256": "6e9f17ca75692bb3a8e755d3f1bc5cfabf9c1f27dc6bf5f3c2340af61a722ae4",
+      "articles": 64
+    },
+    {
+      "dof": "2017-01-06",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_060117.doc",
+      "archived": "https://web.archive.org/web/20181105070202/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LIH_060117.doc",
+      "sha256": "e40f8269ffef4303df1d3cda6a41a8020f230b3e232375736bed56247794ede7",
+      "articles": 64
+    },
+    {
+      "dof": "2018-12-24",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_241218.doc",
+      "archived": "https://web.archive.org/web/20190203105650/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LIH_241218.doc",
+      "sha256": "e496e2a4bda3940f27b4d6fc03b17b2a36b108f94c5d1db5cdae4bb5b2176faa",
+      "articles": 64
+    },
+    {
+      "dof": "2020-01-17",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_170120.doc",
+      "archived": "https://web.archive.org/web/20200131180742/http://www.diputados.gob.mx:80/LeyesBiblio/doc/LIH_170120.doc",
+      "sha256": "b627ac123a705a181855b8e0889120c23ffb7b40d8abd87b04b2272e376de2dc",
+      "articles": 64
+    },
+    {
+      "dof": "2021-01-11",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_110121.doc",
+      "archived": "https://web.archive.org/web/20210422200243/http://www.diputados.gob.mx/LeyesBiblio/doc/LIH_110121.doc",
+      "sha256": "3a093f0b58822832071eb244a0dc5b22b064304a1068591ca09f31c55e4f6339",
+      "articles": 64
+    },
+    {
+      "dof": "2022-01-13",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc",
+      "archived": "https://web.archive.org/web/20220404202130/http://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc",
+      "sha256": "090053a9131efab46c535962f9353769f8d15a53ae089df141d7d879a08633da",
+      "articles": 64
+    },
+    {
+      "dof": "2022-12-27",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc",
+      "archived": "https://web.archive.org/web/20230307184535/https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc",
+      "sha256": "c3df6a148f11d529c842615ce50fa1e52e124bec1a41d443f4bd3314efaa99f6",
+      "articles": 64
+    },
+    {
+      "dof": "2023-12-29",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc",
+      "archived": "https://web.archive.org/web/20240405093435/https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc",
+      "sha256": "8dacd4d62d6d3d3a49b02acedef55a19a4b8ebd1d8552f5e3b870aa2b686bea9",
+      "articles": 64
+    },
+    {
+      "dof": "2025-12-28",
+      "source": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc",
+      "archived": null,
+      "sha256": "c4ce45962c6cf2fd10b1784c94ec88cf6a4494c3c4b403e3858bcc00286f8ec4",
+      "articles": 64
+    }
+  ],
+  "captures_examined": [
+    {
+      "capture": "20150315110912",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_110814.doc",
+      "dof": "2014-08-11",
+      "kept": true
+    },
+    {
+      "capture": "20160430033019",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_010416.doc",
+      "dof": "2016-04-01",
+      "kept": true
+    },
+    {
+      "capture": "20181105070202",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_060117.doc",
+      "dof": "2017-01-06",
+      "kept": true
+    },
+    {
+      "capture": "20190203105650",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_241218.doc",
+      "dof": "2018-12-24",
+      "kept": true
+    },
+    {
+      "capture": "20200131180742",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_170120.doc",
+      "dof": "2020-01-17",
+      "kept": true
+    },
+    {
+      "capture": "20210422200243",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH_110121.doc",
+      "dof": "2021-01-11",
+      "kept": true
+    },
+    {
+      "capture": "20220404202130",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc",
+      "dof": "2022-01-13",
+      "kept": true
+    },
+    {
+      "capture": "20230307184535",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc",
+      "dof": "2022-12-27",
+      "kept": true
+    },
+    {
+      "capture": "20240405093435",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIH.doc",
+      "dof": "2023-12-29",
+      "kept": true
+    }
+  ]
+}
