@@ -109,16 +109,21 @@ def _dated_name(original: str) -> bool:
 
 def _select_captures(captures: list[Capture]) -> list[Capture]:
     """One capture per dated file name (its content is fixed); all for undated names."""
-    latest: dict[str, Capture] = {}
-    keep: list[Capture] = []
-    for c in captures:
-        key = _clean_original(c.original).lower()
-        if _dated_name(c.original):
-            if key not in latest or c.timestamp > latest[key].timestamp:
-                latest[key] = c
-        else:
-            keep.append(c)
-    return sorted(keep + list(latest.values()), key=lambda c: c.timestamp)
+    out: list[Capture] = []
+    for group in _group_captures(captures):
+        out.extend(group[:1] if _dated_name(group[0].original) else group)
+    return out
+
+
+def _group_captures(captures: list[Capture]) -> list[list[Capture]]:
+    """Captures grouped by file. Dated files: newest first. Undated: oldest first."""
+    groups: dict[str, list[Capture]] = {}
+    for c in sorted(captures, key=lambda c: c.timestamp):
+        groups.setdefault(_clean_original(c.original).lower(), []).append(c)
+    out = []
+    for group in groups.values():
+        out.append(group[::-1] if _dated_name(group[0].original) else group)
+    return sorted(out, key=lambda g: min(c.timestamp for c in g))
 
 
 def download_capture(client: PoliteClient, ws: Workspace, slug: str, capture: Capture) -> bytes:
@@ -182,7 +187,6 @@ def collect(
         captures = list_captures(archive_client, patterns)
         captures_file.parent.mkdir(parents=True, exist_ok=True)
         captures_file.write_text(json.dumps([c.__dict__ for c in captures], indent=1))
-    selected = _select_captures(captures)
 
     live_data, retrieved = fetch_doc(client, ws, law, offline=True)
     live_parsed, _ = convert(live_data)
@@ -235,14 +239,15 @@ def collect(
         seen[capture.timestamp + capture.digest] = day
         return day
 
-    groups: dict[str, list[Capture]] = {}
-    for capture in selected:
-        if _dated_name(capture.original):
-            examine(capture)
+    for group in _group_captures(captures):
+        if _dated_name(group[0].original):
+            # A dated file holds one version: read its newest capture, falling
+            # back to older ones when the archived copy is truncated.
+            for capture in group:
+                if examine(capture) is not None:
+                    break
         else:
-            groups.setdefault(_clean_original(capture.original).lower(), []).append(capture)
-    for group in groups.values():
-        bisect_versions(group, examine)
+            bisect_versions(group, examine)
 
     by_day[live_day] = Version(
         slug=law.slug,
