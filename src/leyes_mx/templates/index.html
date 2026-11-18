@@ -78,6 +78,58 @@
   }
   @media (max-width: 560px) { .law { grid-template-columns: minmax(0, 1fr); } .meta { grid-column: 1; } }
 </style>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Dataset",
+ "name": "Leyes federales de México en Markdown versionado (leyes-mx)",
+ "alternateName": "leyes-mx",
+ "description": "36 leyes federales de México, entre ellas la Constitución, en Markdown limpio con 13,370 artículos, 816 decretos de reforma catalogados y 375 versiones históricas en git recuperadas de copias archivadas de la Cámara de Diputados, con texto desde 1993. Cada reforma es un commit fechado en su publicación en el Diario Oficial de la Federación, lo que permite consultar y comparar la ley en cualquier fecha. No oficial; solo el DOF tiene validez. No constituye asesoría legal.",
+ "url": "https://beg-lag.github.io/leyes-mx/",
+ "sameAs": "https://github.com/BEG-lag/leyes-mx",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "isAccessibleForFree": true,
+ "creator": {
+  "@type": "Person",
+  "name": "Benjamín Esponda García",
+  "url": "https://pivotek.mx/",
+  "sameAs": [
+   "https://github.com/BEG-lag"
+  ]
+ },
+ "inLanguage": "es",
+ "temporalCoverage": "1993/..",
+ "spatialCoverage": {
+  "@type": "Place",
+  "name": "México"
+ },
+ "keywords": [
+  "México",
+  "leyes federales",
+  "Constitución",
+  "reformas",
+  "Diario Oficial de la Federación",
+  "derecho",
+  "legislación",
+  "git",
+  "datos abiertos"
+ ],
+ "distribution": [
+  {
+   "@type": "DataDownload",
+   "name": "Catálogo de leyes y reformas (JSON)",
+   "encodingFormat": "application/json",
+   "contentUrl": "https://beg-lag.github.io/leyes-mx/data.json"
+  },
+  {
+   "@type": "DataDownload",
+   "name": "Textos de las leyes en Markdown (ZIP)",
+   "encodingFormat": "application/zip",
+   "contentUrl": "https://github.com/BEG-lag/leyes-mx/archive/refs/heads/main.zip"
+  }
+ ]
+}
+</script>
 </head>
 <body>
 <header>
